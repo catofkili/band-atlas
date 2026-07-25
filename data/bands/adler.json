@@ -21,7 +21,7 @@
   "listens": 876,
   "listeners": 32,
   "quality": {
-    "score": 65,
+    "score": 64,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -78,18 +78,6 @@
       "label": "Steven Adler",
       "detail": "Steven Adler 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "road-crew",
-      "toName": "Road Crew",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Steven Adler",
-      "detail": "Steven Adler 在这两支乐队都待过。",
-      "year": null,
       "weight": 0.62,
       "sources": []
     }

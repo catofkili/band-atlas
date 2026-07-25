@@ -23,7 +23,7 @@
   "listens": 8116,
   "listeners": 574,
   "quality": {
-    "score": 70,
+    "score": 69,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -52,18 +52,6 @@
       "toName": "Les Claypool and the Holy Mackerel",
       "toArea": "伯克利",
       "toYears": "1996–1996",
-      "type": "member",
-      "label": "Les Claypool",
-      "detail": "Les Claypool 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "festus-clamrod-and-the-el-sobrante-twangers",
-      "toName": "Festus Clamrod and the El Sobrante Twangers",
-      "toArea": null,
-      "toYears": null,
       "type": "member",
       "label": "Les Claypool",
       "detail": "Les Claypool 在这两支乐队都待过。",

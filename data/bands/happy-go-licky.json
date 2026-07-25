@@ -20,7 +20,7 @@
   "listens": 1157,
   "listeners": 116,
   "quality": {
-    "score": 59,
+    "score": 58,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -76,18 +76,6 @@
       "type": "member",
       "label": "Mike Fellows",
       "detail": "Mike Fellows 在这两支乐队都待过。",
-      "year": 1987,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "skewbald",
-      "toName": "Skewbald",
-      "toArea": "美国",
-      "toYears": "1981–1981",
-      "type": "member",
-      "label": "Eddie Janney",
-      "detail": "Eddie Janney 在这两支乐队都待过。",
       "year": 1987,
       "weight": 0.62,
       "sources": []

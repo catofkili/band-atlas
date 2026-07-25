@@ -141,30 +141,6 @@
       "sources": []
     },
     {
-      "to": "1000-homo-djs",
-      "toName": "1000 Homo DJs",
-      "toArea": "芝加哥",
-      "toYears": "1988–1990",
-      "type": "member",
-      "label": "Paul Barker・Al Jourgensen",
-      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
-      "year": 1986,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
-      "to": "pailhead",
-      "toName": "Pailhead",
-      "toArea": "美国",
-      "toYears": "1988–1988",
-      "type": "member",
-      "label": "Paul Barker・Al Jourgensen",
-      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
-      "year": 1986,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "godflesh",
       "toName": "Godflesh",
       "toArea": "伯明翰",
@@ -233,18 +209,6 @@
       "label": "Tia Sprocket",
       "detail": "Tia Sprocket 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "tapeworm",
-      "toName": "Tapeworm",
-      "toArea": "美国",
-      "toYears": "1996–2004",
-      "type": "member",
-      "label": "Tommy Victor",
-      "detail": "Tommy Victor 在这两支乐队都待过。",
-      "year": 2005,
       "weight": 0.62,
       "sources": []
     },

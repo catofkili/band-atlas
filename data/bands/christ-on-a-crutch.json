@@ -24,12 +24,12 @@
       "year": 1998
     }
   ],
-  "intro": "Christ on a Crutch是一支来自里奇兰的音乐团体，活跃时期为1983–1993，现有资料记录的主要风格包括硬核朋克、朋克。目前资料收录了《Crime Pays When Pigs Die》、《Shit Edge and Other Songs for the Young and Sentimental》等作品；MusicBrainz 还记录了它与Juno、Diddly Squat、Foo Fighters之间的成员往来。",
+  "intro": "Christ on a Crutch是一支来自里奇兰的音乐团体，活跃时期为1983–1993，现有资料记录的主要风格包括硬核朋克、朋克。目前资料收录了《Crime Pays When Pigs Die》、《Shit Edge and Other Songs for the Young and Sentimental》等作品；MusicBrainz 还记录了它与Juno、Foo Fighters、Sunny Day Real Estate之间的成员往来。",
   "introLang": "zh",
   "listens": 952,
   "listeners": 72,
   "quality": {
-    "score": 24,
+    "score": 23,
     "templateIntro": true,
     "hasGenres": true,
     "hasTracks": false,
@@ -46,18 +46,6 @@
       "toName": "Juno",
       "toArea": "西雅图",
       "toYears": "1995–2003",
-      "type": "member",
-      "label": "Nate Mendel・Eric Akre",
-      "detail": "2 位乐手在这两支乐队都待过：Nate Mendel・Eric Akre。",
-      "year": null,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
-      "to": "diddly-squat",
-      "toName": "Diddly Squat",
-      "toArea": "里奇兰",
-      "toYears": null,
       "type": "member",
       "label": "Nate Mendel・Eric Akre",
       "detail": "2 位乐手在这两支乐队都待过：Nate Mendel・Eric Akre。",
@@ -106,18 +94,6 @@
       "toName": "The Fire Theft",
       "toArea": "西雅图",
       "toYears": "2001–2004",
-      "type": "member",
-      "label": "Nate Mendel",
-      "detail": "Nate Mendel 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "sound-city-players",
-      "toName": "Sound City Players",
-      "toArea": "美国",
-      "toYears": "2012–2013",
       "type": "member",
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",

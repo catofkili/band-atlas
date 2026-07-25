@@ -23,7 +23,7 @@
   "listens": 169512,
   "listeners": 4235,
   "quality": {
-    "score": 72,
+    "score": 70,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -44,42 +44,6 @@
       "label": "Brian Baker",
       "detail": "Brian Baker 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "egg-hunt",
-      "toName": "Egg Hunt",
-      "toArea": null,
-      "toYears": "1986–1986",
-      "type": "member",
-      "label": "Jeff Nelson",
-      "detail": "Jeff Nelson 在这两支乐队都待过。",
-      "year": 1986,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "skewbald",
-      "toName": "Skewbald",
-      "toArea": "美国",
-      "toYears": "1981–1981",
-      "type": "member",
-      "label": "Jeff Nelson",
-      "detail": "Jeff Nelson 在这两支乐队都待过。",
-      "year": 1981,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-teen-idles",
-      "toName": "The Teen Idles",
-      "toArea": "美国",
-      "toYears": "1979–1980",
-      "type": "member",
-      "label": "Jeff Nelson",
-      "detail": "Jeff Nelson 在这两支乐队都待过。",
-      "year": 1980,
       "weight": 0.62,
       "sources": []
     },

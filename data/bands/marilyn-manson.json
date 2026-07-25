@@ -81,30 +81,6 @@
   },
   "edges": [
     {
-      "to": "mrs-scabtree",
-      "toName": "Mrs. Scabtree",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Jeordie White・Daisy Berkowitz・Marilyn Manson・Madonna Wayne Gacy",
-      "detail": "4 位乐手在这两支乐队都待过：Jeordie White・Daisy Berkowitz・Marilyn Manson・Madonna Wayne Gacy。",
-      "year": 2008,
-      "weight": 0.95,
-      "sources": []
-    },
-    {
-      "to": "satan-on-fire",
-      "toName": "Satan on Fire",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Jeordie White・Marilyn Manson",
-      "detail": "2 位乐手在这两支乐队都待过：Jeordie White・Marilyn Manson。",
-      "year": 2008,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "filter",
       "toName": "Filter",
       "toArea": "克利夫兰",
@@ -233,18 +209,6 @@
       "label": "Juan Alderete",
       "detail": "Juan Alderete 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-damning-well",
-      "toName": "The Damning Well",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Wes Borland",
-      "detail": "Wes Borland 在这两支乐队都待过。",
-      "year": 2008,
       "weight": 0.62,
       "sources": []
     }

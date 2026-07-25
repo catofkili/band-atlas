@@ -34,7 +34,7 @@
   "listens": 8250,
   "listeners": 789,
   "quality": {
-    "score": 77,
+    "score": 76,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -87,18 +87,6 @@
       "toName": "The Panic Channel",
       "toArea": "洛杉矶",
       "toYears": "2004–2007",
-      "type": "member",
-      "label": "Stephen Perkins",
-      "detail": "Stephen Perkins 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "halloween-jack",
-      "toName": "Halloween Jack",
-      "toArea": null,
-      "toYears": null,
       "type": "member",
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",

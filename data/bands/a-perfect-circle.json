@@ -237,66 +237,6 @@
       "year": 1999,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "mrs-scabtree",
-      "toName": "Mrs. Scabtree",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Jeordie White",
-      "detail": "Jeordie White 在这两支乐队都待过。",
-      "year": 2003,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "satan-on-fire",
-      "toName": "Satan on Fire",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Jeordie White",
-      "detail": "Jeordie White 在这两支乐队都待过。",
-      "year": 2003,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "tapeworm",
-      "toName": "Tapeworm",
-      "toArea": "美国",
-      "toYears": "1996–2004",
-      "type": "member",
-      "label": "Maynard James Keenan",
-      "detail": "Maynard James Keenan 在这两支乐队都待过。",
-      "year": 1999,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-human-experimente",
-      "toName": "The Human Experimente",
-      "toArea": "圣莫尼卡",
-      "toYears": null,
-      "type": "member",
-      "label": "Maynard James Keenan",
-      "detail": "Maynard James Keenan 在这两支乐队都待过。",
-      "year": 1999,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "sessanta",
-      "toName": "Sessanta",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "副项目",
-      "detail": "MusicBrainz 记录的副项目关系。",
-      "year": null,
-      "weight": 0.55,
-      "sources": []
     }
   ]
 }

@@ -21,12 +21,12 @@
       "year": 2006
     }
   ],
-  "intro": "The John Doe Thing是一支来自洛杉矶的音乐团体。目前资料收录了《Kissingsohard》、《Freedom Is..》等作品；MusicBrainz 还记录了它与Izzy Stradlin and the Ju Ju Hounds、Loser、The Million Dollar Bashers之间的成员往来。",
+  "intro": "The John Doe Thing是一支来自洛杉矶的音乐团体。目前资料收录了《Kissingsohard》、《Freedom Is..》等作品；MusicBrainz 还记录了它与Izzy Stradlin and the Ju Ju Hounds、Loser之间的成员往来。",
   "introLang": "zh",
   "listens": 424,
   "listeners": 39,
   "quality": {
-    "score": 10,
+    "score": 9,
     "templateIntro": true,
     "hasGenres": false,
     "hasTracks": false,
@@ -55,18 +55,6 @@
       "toName": "Loser",
       "toArea": null,
       "toYears": null,
-      "type": "member",
-      "label": "Smokey Hormel",
-      "detail": "Smokey Hormel 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-million-dollar-bashers",
-      "toName": "The Million Dollar Bashers",
-      "toArea": "美国",
-      "toYears": "2007–2007",
       "type": "member",
       "label": "Smokey Hormel",
       "detail": "Smokey Hormel 在这两支乐队都待过。",

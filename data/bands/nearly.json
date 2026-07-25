@@ -18,7 +18,7 @@
   "listens": 649,
   "listeners": 69,
   "quality": {
-    "score": 11,
+    "score": 10,
     "templateIntro": true,
     "hasGenres": false,
     "hasTracks": false,
@@ -62,30 +62,6 @@
       "type": "member",
       "label": "Jerome Dillon",
       "detail": "Jerome Dillon 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-backbeat-band",
-      "toName": "The Backbeat Band",
-      "toArea": "美国",
-      "toYears": "1994–1994",
-      "type": "member",
-      "label": "Greg Dulli",
-      "detail": "Greg Dulli 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-buddha-boys-choir",
-      "toName": "The Buddha Boys Choir",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Keith Hillebrandt",
-      "detail": "Keith Hillebrandt 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []

@@ -45,27 +45,15 @@
   },
   "edges": [
     {
-      "to": "levee-walkers",
-      "toName": "Levee Walkers",
+      "to": "pearl-jam",
+      "toName": "Pearl Jam",
       "toArea": "西雅图",
-      "toYears": "2015–",
-      "type": "member",
-      "label": "Barrett Martin",
-      "detail": "Barrett Martin 在这两支乐队都待过。",
-      "year": 2012,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "raw-power",
-      "toName": "Raw Power",
-      "toArea": "西雅图",
-      "toYears": "2015–",
-      "type": "member",
-      "label": "Barrett Martin",
-      "detail": "Barrett Martin 在这两支乐队都待过。",
-      "year": 2012,
-      "weight": 0.62,
+      "toYears": "1990–",
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
+      "year": null,
+      "weight": 0.28,
       "sources": []
     }
   ]

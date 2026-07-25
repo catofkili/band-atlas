@@ -55,7 +55,7 @@
   "listens": 108186,
   "listeners": 2862,
   "quality": {
-    "score": 89,
+    "score": 87,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -77,66 +77,6 @@
       "detail": "2 位乐手在这两支乐队都待过：Daron Malakian・John Dolmayan。",
       "year": 2006,
       "weight": 0.84,
-      "sources": []
-    },
-    {
-      "to": "american-flag",
-      "toName": "American Flag",
-      "toArea": "美国",
-      "toYears": "1991–1991",
-      "type": "member",
-      "label": "John Dolmayan",
-      "detail": "John Dolmayan 在这两支乐队都待过。",
-      "year": 2007,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "deadland-ritual",
-      "toName": "Deadland Ritual",
-      "toArea": "伦敦",
-      "toYears": "2018–",
-      "type": "member",
-      "label": "Franky Perez",
-      "detail": "Franky Perez 在这两支乐队都待过。",
-      "year": 2007,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "indicator",
-      "toName": "Indicator",
-      "toArea": "洛杉矶",
-      "toYears": null,
-      "type": "member",
-      "label": "John Dolmayan",
-      "detail": "John Dolmayan 在这两支乐队都待过。",
-      "year": 2007,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "pera",
-      "toName": "PERA",
-      "toArea": "美国",
-      "toYears": "1991–1992",
-      "type": "member",
-      "label": "John Dolmayan",
-      "detail": "John Dolmayan 在这两支乐队都待过。",
-      "year": 2007,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "snowblind",
-      "toName": "Snowblind",
-      "toArea": "洛杉矶",
-      "toYears": "1991–1992",
-      "type": "member",
-      "label": "Daron Malakian",
-      "detail": "Daron Malakian 在这两支乐队都待过。",
-      "year": 2006,
-      "weight": 0.62,
       "sources": []
     }
   ]

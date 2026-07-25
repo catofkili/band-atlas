@@ -107,18 +107,6 @@
       "sources": []
     },
     {
-      "to": "mc50",
-      "toName": "MC50",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Matt Cameron・Kim Thayil",
-      "detail": "2 位乐手在这两支乐队都待过：Matt Cameron・Kim Thayil。",
-      "year": 1986,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "pearl-jam",
       "toName": "Pearl Jam",
       "toArea": "西雅图",
@@ -179,30 +167,6 @@
       "sources": []
     },
     {
-      "to": "nighttime-boogie-association",
-      "toName": "Nighttime Boogie Association",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Matt Cameron",
-      "detail": "Matt Cameron 在这两支乐队都待过。",
-      "year": 1986,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-no-w-t-o-combo",
-      "toName": "The No W.T.O. Combo",
-      "toArea": "美国",
-      "toYears": "1999–1999",
-      "type": "member",
-      "label": "Kim Thayil",
-      "detail": "Kim Thayil 在这两支乐队都待过。",
-      "year": 1984,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
       "toArea": "伯明翰",
@@ -248,6 +212,30 @@
       "detail": "Soundgarden 影响了 Lostprophets（Wikidata）。",
       "year": null,
       "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "sweet-75",
+      "toName": "Sweet 75",
+      "toArea": "西雅图",
+      "toYears": "1995–2000",
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
+      "year": null,
+      "weight": 0.28,
+      "sources": []
+    },
+    {
+      "to": "the-birds-of-satan",
+      "toName": "The Birds of Satan",
+      "toArea": "洛杉矶",
+      "toYears": "2014–2022",
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
+      "year": null,
+      "weight": 0.28,
       "sources": []
     }
   ]

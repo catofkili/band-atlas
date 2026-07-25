@@ -94,30 +94,6 @@
       "sources": []
     },
     {
-      "to": "discipline",
-      "toName": "Discipline",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Robert Fripp・Bill Bruford・Tony Levin",
-      "detail": "3 位乐手在这两支乐队都待过：Robert Fripp・Bill Bruford・Tony Levin。",
-      "year": 1968,
-      "weight": 0.95,
-      "sources": []
-    },
-    {
-      "to": "the-crimson-projekct",
-      "toName": "The Crimson ProjeKCt",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Tony Levin・Pat Mastelotto・副项目",
-      "detail": "3 位乐手在这两支乐队都待过：Tony Levin・Pat Mastelotto・副项目。",
-      "year": 2004,
-      "weight": 0.95,
-      "sources": []
-    },
-    {
       "to": "asia",
       "toName": "Asia",
       "toArea": "伦敦",
@@ -130,18 +106,6 @@
       "sources": []
     },
     {
-      "to": "beat",
-      "toName": "BEAT",
-      "toArea": "美国",
-      "toYears": "2023–",
-      "type": "member",
-      "label": "Tony Levin・副项目",
-      "detail": "2 位乐手在这两支乐队都待过：Tony Levin・副项目。",
-      "year": 2004,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "projekct-six",
       "toName": "ProjeKct Six",
       "toArea": null,
@@ -150,18 +114,6 @@
       "label": "Robert Fripp・副项目",
       "detail": "2 位乐手在这两支乐队都待过：Robert Fripp・副项目。",
       "year": 1968,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
-      "to": "the-human-experimente",
-      "toName": "The Human Experimente",
-      "toArea": "圣莫尼卡",
-      "toYears": null,
-      "type": "member",
-      "label": "John Wetton・Robert Fripp",
-      "detail": "2 位乐手在这两支乐队都待过：John Wetton・Robert Fripp。",
-      "year": 1972,
       "weight": 0.84,
       "sources": []
     },

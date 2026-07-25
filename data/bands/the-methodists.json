@@ -13,12 +13,12 @@
       "year": 1998
     }
   ],
-  "intro": "The Methodists是一支来自西雅图的音乐团体，活跃时期为1995–1998。目前资料收录了《Cookie》等作品；MusicBrainz 还记录了它与Nirvana、The Fire Ants、Before Cars之间的成员往来。",
+  "intro": "The Methodists是一支来自西雅图的音乐团体，活跃时期为1995–1998。目前资料收录了《Cookie》等作品；MusicBrainz 还记录了它与Nirvana、Before Cars之间的成员往来。",
   "introLang": "zh",
   "listens": 6,
   "listeners": 3,
   "quality": {
-    "score": 10,
+    "score": 9,
     "templateIntro": true,
     "hasGenres": false,
     "hasTracks": false,
@@ -40,18 +40,6 @@
       "detail": "Chad Channing 在这两支乐队都待过。",
       "year": 1988,
       "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-fire-ants",
-      "toName": "The Fire Ants",
-      "toArea": "西雅图",
-      "toYears": "1991–1993",
-      "type": "member",
-      "label": "Chad Channing・Dan McDonald",
-      "detail": "2 位乐手在这两支乐队都待过：Chad Channing・Dan McDonald。",
-      "year": 1991,
-      "weight": 0.84,
       "sources": []
     },
     {

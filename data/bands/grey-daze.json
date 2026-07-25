@@ -58,7 +58,7 @@
   "listens": 28530,
   "listeners": 1419,
   "quality": {
-    "score": 89,
+    "score": 88,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -70,18 +70,6 @@
     "musicbrainz": "https://musicbrainz.org/artist/cba83330-32d6-4804-8058-fcf2794afb79"
   },
   "edges": [
-    {
-      "to": "sean-dowdell-and-his-friends",
-      "toName": "Sean Dowdell And His Friends?",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Chester Bennington・Sean Dowdell",
-      "detail": "2 位乐手在这两支乐队都待过：Chester Bennington・Sean Dowdell。",
-      "year": 1993,
-      "weight": 0.84,
-      "sources": []
-    },
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
@@ -111,30 +99,6 @@
       "toName": "Dead by Sunrise",
       "toArea": "美国",
       "toYears": "2005–2018",
-      "type": "member",
-      "label": "Chester Bennington",
-      "detail": "Chester Bennington 在这两支乐队都待过。",
-      "year": 1993,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "camp-freddy",
-      "toName": "Camp Freddy",
-      "toArea": "美国",
-      "toYears": "2003–",
-      "type": "member",
-      "label": "Chester Bennington",
-      "detail": "Chester Bennington 在这两支乐队都待过。",
-      "year": 1993,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "kings-of-chaos",
-      "toName": "Kings of Chaos",
-      "toArea": "美国",
-      "toYears": "2012–",
       "type": "member",
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",

@@ -158,30 +158,6 @@
       "sources": []
     },
     {
-      "to": "slash-s-blues-ball",
-      "toName": "Slash’s Blues Ball",
-      "toArea": "美国",
-      "toYears": "1996–1998",
-      "type": "member",
-      "label": "Bobby Schneck",
-      "detail": "Bobby Schneck 在这两支乐队都待过。",
-      "year": 1996,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "goat-punishment",
-      "toName": "Goat Punishment",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "副项目",
-      "detail": "MusicBrainz 记录的副项目关系。",
-      "year": null,
-      "weight": 0.55,
-      "sources": []
-    },
-    {
       "to": "fall-out-boy",
       "toName": "Fall Out Boy",
       "toArea": "威尔梅特",

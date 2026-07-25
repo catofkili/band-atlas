@@ -72,7 +72,7 @@
   "listens": 756590,
   "listeners": 6530,
   "quality": {
-    "score": 90,
+    "score": 89,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -105,18 +105,6 @@
       "label": "Bill Bronson・Christopher Pravdica",
       "detail": "2 位乐手在这两支乐队都待过：Bill Bronson・Christopher Pravdica。",
       "year": 1997,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
-      "to": "glenn-branca-ensemble",
-      "toName": "Glenn Branca Ensemble",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Algis Kizys・Virgil Moorefield",
-      "detail": "2 位乐手在这两支乐队都待过：Algis Kizys・Virgil Moorefield。",
-      "year": 1991,
       "weight": 0.84,
       "sources": []
     },

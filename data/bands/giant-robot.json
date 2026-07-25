@@ -13,7 +13,7 @@
       "year": 1996
     }
   ],
-  "intro": "Giant Robot是一支音乐团体。目前资料收录了《Giant Robot》等作品；MusicBrainz 还记录了它与Limbomaniacs、Bluescreen之间的成员往来。",
+  "intro": "Giant Robot是一支音乐团体。目前资料收录了《Giant Robot》等作品；MusicBrainz 还记录了它与Limbomaniacs之间的成员往来。",
   "introLang": "zh",
   "listens": 1845,
   "listeners": 60,
@@ -34,18 +34,6 @@
       "to": "limbomaniacs",
       "toName": "Limbomaniacs",
       "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Pete Scaturro",
-      "detail": "Pete Scaturro 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "bluescreen",
-      "toName": "Bluescreen",
-      "toArea": null,
       "toYears": null,
       "type": "member",
       "label": "Pete Scaturro",

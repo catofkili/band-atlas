@@ -190,18 +190,6 @@
       "sources": []
     },
     {
-      "to": "bloody-mannequin-orchestra",
-      "toName": "Bloody Mannequin Orchestra",
-      "toArea": "美国",
-      "toYears": "1982–1984",
-      "type": "member",
-      "label": "Colin Sears",
-      "detail": "Colin Sears 在这两支乐队都待过。",
-      "year": 1982,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "foo-fighters",
       "toName": "Foo Fighters",
       "toArea": "西雅图",

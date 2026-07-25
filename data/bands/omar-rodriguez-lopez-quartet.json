@@ -90,18 +90,6 @@
       "year": null,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "speed-dealer-moms",
-      "toName": "Speed Dealer Moms",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "John Frusciante",
-      "detail": "John Frusciante 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
     }
   ]
 }

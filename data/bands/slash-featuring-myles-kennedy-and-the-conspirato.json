@@ -45,12 +45,12 @@
       "title": "Bad Rain"
     }
   ],
-  "intro": "Slash featuring Myles Kennedy and the Conspirators是一支来自美国的音乐团体，活跃时期为2010–，现有资料记录的主要风格包括硬摇滚、摇滚、硬式搖滾。目前资料收录了《You're a Lie》、《World on Fire》、《Bad Rain》、《Apocalyptic Love》等作品；MusicBrainz 还记录了它与BulletBoys、Blackbird Angels、Kings of Chaos之间的成员往来。",
+  "intro": "Slash featuring Myles Kennedy and the Conspirators是一支来自美国的音乐团体，活跃时期为2010–，现有资料记录的主要风格包括硬摇滚、摇滚、硬式搖滾。目前资料收录了《You're a Lie》、《World on Fire》、《Bad Rain》、《Apocalyptic Love》等作品；MusicBrainz 还记录了它与BulletBoys、Blackbird Angels之间的成员往来。",
   "introLang": "zh",
   "listens": 103171,
   "listeners": 2947,
   "quality": {
-    "score": 46,
+    "score": 45,
     "templateIntro": true,
     "hasGenres": true,
     "hasTracks": true,
@@ -82,18 +82,6 @@
       "type": "member",
       "label": "Todd Kerns",
       "detail": "Todd Kerns 在这两支乐队都待过。",
-      "year": 2010,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "kings-of-chaos",
-      "toName": "Kings of Chaos",
-      "toArea": "美国",
-      "toYears": "2012–",
-      "type": "member",
-      "label": "Myles Kennedy",
-      "detail": "Myles Kennedy 在这两支乐队都待过。",
       "year": 2010,
       "weight": 0.62,
       "sources": []

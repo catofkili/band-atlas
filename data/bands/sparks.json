@@ -71,7 +71,7 @@
   "listens": 249644,
   "listeners": 7502,
   "quality": {
-    "score": 90,
+    "score": 89,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -122,54 +122,6 @@
     {
       "to": "loser",
       "toName": "Loser",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Steve McDonald",
-      "detail": "Steve McDonald 在这两支乐队都待过。",
-      "year": 2005,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "broken-bat",
-      "toName": "Broken Bat",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Steve McDonald",
-      "detail": "Steve McDonald 在这两支乐队都待过。",
-      "year": 2005,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "dale-crover-band",
-      "toName": "Dale Crover Band",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Steve McDonald",
-      "detail": "Steve McDonald 在这两支乐队都待过。",
-      "year": 2005,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "nighttime-boogie-association",
-      "toName": "Nighttime Boogie Association",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Steve McDonald",
-      "detail": "Steve McDonald 在这两支乐队都待过。",
-      "year": 2005,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "north-american-hallowe-en-prevention-initiative",
-      "toName": "North American Hallowe’en Prevention Initiative",
       "toArea": null,
       "toYears": null,
       "type": "member",

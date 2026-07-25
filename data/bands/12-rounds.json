@@ -25,7 +25,7 @@
   "listens": 5890,
   "listeners": 192,
   "quality": {
-    "score": 65,
+    "score": 64,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -37,18 +37,6 @@
     "musicbrainz": "https://musicbrainz.org/artist/e3bcef9d-c2cd-44cb-a4ef-6c58914b886d"
   },
   "edges": [
-    {
-      "to": "error",
-      "toName": "Error",
-      "toArea": "美国",
-      "toYears": "2003–",
-      "type": "member",
-      "label": "Atticus Ross・Leopold Ross",
-      "detail": "2 位乐手在这两支乐队都待过：Atticus Ross・Leopold Ross。",
-      "year": 2003,
-      "weight": 0.84,
-      "sources": []
-    },
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
@@ -81,30 +69,6 @@
       "type": "member",
       "label": "Claudia Sarne",
       "detail": "Claudia Sarne 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "tapeworm",
-      "toName": "Tapeworm",
-      "toArea": "美国",
-      "toYears": "1996–2004",
-      "type": "member",
-      "label": "Atticus Ross",
-      "detail": "Atticus Ross 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "witchgang",
-      "toName": "WitchGang",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Atticus Ross",
-      "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []

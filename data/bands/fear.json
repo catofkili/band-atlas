@@ -141,54 +141,6 @@
       "sources": []
     },
     {
-      "to": "aleka-s-attic",
-      "toName": "Aleka's Attic",
-      "toArea": "美国",
-      "toYears": "1988–1993",
-      "type": "member",
-      "label": "Flea",
-      "detail": "Flea 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "flea-and-the-honora-band",
-      "toName": "Flea and the Honora Band",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Flea",
-      "detail": "Flea 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "sound-city-players",
-      "toName": "Sound City Players",
-      "toArea": "美国",
-      "toYears": "2012–2013",
-      "type": "member",
-      "label": "Lee Ving",
-      "detail": "Lee Ving 在这两支乐队都待过。",
-      "year": 1977,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-lost-trees",
-      "toName": "The Lost Trees",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Flea",
-      "detail": "Flea 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "the-offspring",
       "toName": "The Offspring",
       "toArea": "亨廷顿海滩",

@@ -36,7 +36,7 @@
   "listens": 46671,
   "listeners": 1743,
   "quality": {
-    "score": 78,
+    "score": 77,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -105,30 +105,6 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "buckethead-and-his-bucket-bots",
-      "toName": "Buckethead And His Bucket-Bots",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "DJ Disk",
-      "detail": "DJ Disk 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-fantômas-melvins-big-band",
-      "toName": "The Fantômas Melvins Big Band",
-      "toArea": "美国",
-      "toYears": "2000–",
-      "type": "member",
-      "label": "Mike Patton",
-      "detail": "Mike Patton 在这两支乐队都待过。",
-      "year": 2000,
       "weight": 0.62,
       "sources": []
     }

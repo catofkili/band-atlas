@@ -57,18 +57,6 @@
       "sources": []
     },
     {
-      "to": "lucky-sperms",
-      "toName": "Lucky Sperms",
-      "toArea": "纽约",
-      "toYears": null,
-      "type": "member",
-      "label": "Kim Gordon・Mike Watt",
-      "detail": "2 位乐手在这两支乐队都待过：Kim Gordon・Mike Watt。",
-      "year": null,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "free-kitten",
       "toName": "Free Kitten",
       "toArea": "美国",
@@ -136,30 +124,6 @@
       "type": "member",
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "mirror-dash",
-      "toName": "Mirror/Dash",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Kim Gordon",
-      "detail": "Kim Gordon 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "society-s-ills",
-      "toName": "Society's Ills",
-      "toArea": "纽约",
-      "toYears": null,
-      "type": "member",
-      "label": "Mike Watt",
-      "detail": "Mike Watt 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []

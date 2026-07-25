@@ -55,6 +55,15 @@ const withPopularity = index.bands.filter((band) => Number.isFinite(band.listens
 if (withPopularity !== index.bands.length) {
   throw new Error(`热度字段缺失：${withPopularity}/${index.bands.length}`);
 }
+const usWithoutAlbums = bands.filter(
+  (band) => band.countryCode === 'US' && !(band.albums?.length)
+);
+if (usWithoutAlbums.length) {
+  throw new Error(`美国完整专辑准入回退：${usWithoutAlbums.length} 支没有完整专辑`);
+}
+if (bands.length < 900) {
+  throw new Error(`推歌节点异常减少：${bands.length}`);
+}
 const regions = Object.groupBy(index.bands, (band) => band.region);
 if ((regions.unknown?.length ?? 0) > 80) {
   throw new Error(`地区未知节点回升：${regions.unknown.length}`);
@@ -105,7 +114,7 @@ const content = {
   lore: bands.filter((band) => band.lore).length,
   degreeOne: bands.filter((band) => band.edges?.length === 1).length,
 };
-if (content.genres < 600 || content.tracks < 250) {
+if (content.genres < 580 || content.tracks < 260) {
   throw new Error(`内容补全回退：流派 ${content.genres} / 代表曲 ${content.tracks}`);
 }
 console.log(

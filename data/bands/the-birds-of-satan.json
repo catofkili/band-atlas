@@ -36,15 +36,15 @@
   },
   "edges": [
     {
-      "to": "chevy-metal",
-      "toName": "Chevy Metal",
-      "toArea": "洛杉矶",
-      "toYears": "2012–",
-      "type": "member",
-      "label": "Wiley Hodgden・Mick Murphy",
-      "detail": "2 位乐手在这两支乐队都待过：Wiley Hodgden・Mick Murphy。",
-      "year": 2012,
-      "weight": 0.84,
+      "to": "soundgarden",
+      "toName": "Soundgarden",
+      "toArea": "西雅图",
+      "toYears": "1984–2017",
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
+      "year": null,
+      "weight": 0.28,
       "sources": []
     }
   ]

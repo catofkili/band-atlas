@@ -84,30 +84,6 @@
   },
   "edges": [
     {
-      "to": "xero",
-      "toName": "Xero",
-      "toArea": "阿古拉希尔斯",
-      "toYears": "1996–1999",
-      "type": "member",
-      "label": "Mark Wakefield・Rob Bourdon・Brad Delson・David Michael Farrell・Joseph “Joe” Hahn・Mike Shinoda",
-      "detail": "6 位乐手在这两支乐队都待过：Mark Wakefield・Rob Bourdon・Brad Delson・David Michael Farrell・Joseph “Joe” Hahn・Mike Shinoda。",
-      "year": 1996,
-      "weight": 0.95,
-      "sources": []
-    },
-    {
-      "to": "relative-degree",
-      "toName": "Relative Degree",
-      "toArea": null,
-      "toYears": "1995–1996",
-      "type": "member",
-      "label": "Rob Bourdon・Brad Delson",
-      "detail": "2 位乐手在这两支乐队都待过：Rob Bourdon・Brad Delson。",
-      "year": 1996,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "stone-temple-pilots",
       "toName": "Stone Temple Pilots",
       "toArea": "圣地亚哥",
@@ -204,42 +180,6 @@
       "label": "Colin Brittain",
       "detail": "Colin Brittain 在这两支乐队都待过。",
       "year": 2024,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "camp-freddy",
-      "toName": "Camp Freddy",
-      "toArea": "美国",
-      "toYears": "2003–",
-      "type": "member",
-      "label": "Chester Bennington",
-      "detail": "Chester Bennington 在这两支乐队都待过。",
-      "year": 1999,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "kings-of-chaos",
-      "toName": "Kings of Chaos",
-      "toArea": "美国",
-      "toYears": "2012–",
-      "type": "member",
-      "label": "Chester Bennington",
-      "detail": "Chester Bennington 在这两支乐队都待过。",
-      "year": 1999,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "sean-dowdell-and-his-friends",
-      "toName": "Sean Dowdell And His Friends?",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Chester Bennington",
-      "detail": "Chester Bennington 在这两支乐队都待过。",
-      "year": 1999,
       "weight": 0.62,
       "sources": []
     },

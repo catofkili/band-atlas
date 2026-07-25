@@ -182,30 +182,6 @@
       "sources": []
     },
     {
-      "to": "aleka-s-attic",
-      "toName": "Aleka's Attic",
-      "toArea": "美国",
-      "toYears": "1988–1993",
-      "type": "member",
-      "label": "Flea",
-      "detail": "Flea 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "flea-and-the-honora-band",
-      "toName": "Flea and the Honora Band",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Flea",
-      "detail": "Flea 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "headless-chickens",
       "toName": "Headless Chickens",
       "toArea": "英国",
@@ -214,18 +190,6 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-lost-trees",
-      "toName": "The Lost Trees",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Flea",
-      "detail": "Flea 在这两支乐队都待过。",
-      "year": null,
       "weight": 0.62,
       "sources": []
     },

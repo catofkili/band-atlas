@@ -35,7 +35,7 @@
   "listens": 618,
   "listeners": 122,
   "quality": {
-    "score": 72,
+    "score": 69,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -56,78 +56,6 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "agents-of-misfortune",
-      "toName": "Agents Of Misfortune",
-      "toArea": "海沃德",
-      "toYears": null,
-      "type": "member",
-      "label": "Cliff Burton",
-      "detail": "Cliff Burton 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "ez-street",
-      "toName": "EZ-Street",
-      "toArea": "奥克兰",
-      "toYears": null,
-      "type": "member",
-      "label": "Cliff Burton",
-      "detail": "Cliff Burton 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "maxwell-house-ranch-band",
-      "toName": "Maxwell House Ranch Band",
-      "toArea": "加利福尼亚州",
-      "toYears": null,
-      "type": "member",
-      "label": "Cliff Burton",
-      "detail": "Cliff Burton 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "spastik-children",
-      "toName": "Spastik Children",
-      "toArea": "加利福尼亚州",
-      "toYears": null,
-      "type": "member",
-      "label": "Cliff Burton",
-      "detail": "Cliff Burton 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-chickenfuckers",
-      "toName": "The Chickenfuckers",
-      "toArea": "旧金山",
-      "toYears": "1984–1984",
-      "type": "member",
-      "label": "Cliff Burton",
-      "detail": "Cliff Burton 在这两支乐队都待过。",
-      "year": 1984,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "vicious-hatred",
-      "toName": "Vicious Hatred",
-      "toArea": "海沃德",
-      "toYears": "1981–1982",
-      "type": "member",
-      "label": "Cliff Burton",
-      "detail": "Cliff Burton 在这两支乐队都待过。",
-      "year": 1981,
       "weight": 0.62,
       "sources": []
     }

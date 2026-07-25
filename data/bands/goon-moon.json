@@ -24,7 +24,7 @@
   "listens": 4964,
   "listeners": 236,
   "quality": {
-    "score": 60,
+    "score": 59,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -93,42 +93,6 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "mrs-scabtree",
-      "toName": "Mrs. Scabtree",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Jeordie White",
-      "detail": "Jeordie White 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "satan-on-fire",
-      "toName": "Satan on Fire",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Jeordie White",
-      "detail": "Jeordie White 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "sound-city-players",
-      "toName": "Sound City Players",
-      "toArea": "美国",
-      "toYears": "2012–2013",
-      "type": "member",
-      "label": "Chris Goss",
-      "detail": "Chris Goss 在这两支乐队都待过。",
-      "year": null,
       "weight": 0.62,
       "sources": []
     }

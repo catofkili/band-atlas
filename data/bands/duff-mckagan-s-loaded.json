@@ -42,15 +42,15 @@
   },
   "edges": [
     {
-      "to": "the-gentlemen",
-      "toName": "The Gentlemen",
-      "toArea": "西雅图",
-      "toYears": "2000–",
-      "type": "member",
-      "label": "Dave Dederer",
-      "detail": "Dave Dederer 在这两支乐队都待过。",
+      "to": "queens-of-the-stone-age",
+      "toName": "Queens of the Stone Age",
+      "toArea": "棕榈沙漠",
+      "toYears": "1996–",
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
       "year": null,
-      "weight": 0.62,
+      "weight": 0.28,
       "sources": []
     }
   ]

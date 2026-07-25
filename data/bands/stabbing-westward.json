@@ -65,18 +65,6 @@
       "year": 1995,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "sic",
-      "toName": "( sic )",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Andy Kubiszewski",
-      "detail": "Andy Kubiszewski 在这两支乐队都待过。",
-      "year": 1995,
-      "weight": 0.62,
-      "sources": []
     }
   ]
 }

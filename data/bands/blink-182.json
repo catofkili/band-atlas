@@ -132,30 +132,6 @@
       "sources": []
     },
     {
-      "to": "cretin-family",
-      "toName": "Cretin Family",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Travis Barker",
-      "detail": "Travis Barker 在这两支乐队都待过。",
-      "year": 1998,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "supergroup-b",
-      "toName": "Supergroup B",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Travis Barker",
-      "detail": "Travis Barker 在这两支乐队都待过。",
-      "year": 1998,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "replicants",
       "toName": "Replicants",
       "toArea": "美国",
@@ -239,6 +215,18 @@
       "detail": "blink‐182 受 The Vandals 影响（Wikidata）。",
       "year": null,
       "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "me-first-and-the-gimme-gimmes",
+      "toName": "Me First and the Gimme Gimmes",
+      "toArea": "旧金山",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
+      "year": null,
+      "weight": 0.28,
       "sources": []
     }
   ]

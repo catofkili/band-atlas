@@ -84,15 +84,15 @@
       "sources": []
     },
     {
-      "to": "artists-against-aids-worldwide",
-      "toName": "Artists Against AIDS Worldwide",
-      "toArea": "纽约",
-      "toYears": "2001–2001",
-      "type": "member",
-      "label": "Diddy",
-      "detail": "Diddy 在这两支乐队都待过。",
+      "to": "destiny-s-child",
+      "toName": "Destiny’s Child",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
       "year": null,
-      "weight": 0.62,
+      "weight": 0.28,
       "sources": []
     }
   ]

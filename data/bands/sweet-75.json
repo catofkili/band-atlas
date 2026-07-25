@@ -33,15 +33,15 @@
   },
   "edges": [
     {
-      "to": "the-no-w-t-o-combo",
-      "toName": "The No W.T.O. Combo",
-      "toArea": "美国",
-      "toYears": "1999–1999",
-      "type": "member",
-      "label": "Gina Mainwal",
-      "detail": "Gina Mainwal 在这两支乐队都待过。",
+      "to": "soundgarden",
+      "toName": "Soundgarden",
+      "toArea": "西雅图",
+      "toYears": "1984–2017",
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
       "year": null,
-      "weight": 0.62,
+      "weight": 0.28,
       "sources": []
     }
   ]

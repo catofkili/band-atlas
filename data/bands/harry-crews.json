@@ -140,30 +140,6 @@
       "year": 1977,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "lucky-sperms",
-      "toName": "Lucky Sperms",
-      "toArea": "纽约",
-      "toYears": null,
-      "type": "member",
-      "label": "Kim Gordon",
-      "detail": "Kim Gordon 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "mirror-dash",
-      "toName": "Mirror/Dash",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Kim Gordon",
-      "detail": "Kim Gordon 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
     }
   ]
 }

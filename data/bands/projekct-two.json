@@ -18,12 +18,12 @@
       "year": 1998
     }
   ],
-  "intro": "ProjeKct Two是一支音乐团体，活跃时期为1997–1998，现有资料记录的主要风格包括前卫摇滚、兼收并蓄的前卫摇滚、实验摇滚。目前资料收录了《Space Groove》等作品；MusicBrainz 还记录了它与King Crimson、Discipline、ProjeKct Six之间的成员往来。",
+  "intro": "ProjeKct Two是一支音乐团体，活跃时期为1997–1998，现有资料记录的主要风格包括前卫摇滚、兼收并蓄的前卫摇滚、实验摇滚。目前资料收录了《Space Groove》等作品；MusicBrainz 还记录了它与King Crimson、ProjeKct Six之间的成员往来。",
   "introLang": "zh",
   "listens": 2383,
   "listeners": 119,
   "quality": {
-    "score": 28,
+    "score": 27,
     "templateIntro": true,
     "hasGenres": true,
     "hasTracks": false,
@@ -48,33 +48,9 @@
       "sources": []
     },
     {
-      "to": "discipline",
-      "toName": "Discipline",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Robert Fripp",
-      "detail": "Robert Fripp 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "projekct-six",
       "toName": "ProjeKct Six",
       "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Robert Fripp",
-      "detail": "Robert Fripp 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-human-experimente",
-      "toName": "The Human Experimente",
-      "toArea": "圣莫尼卡",
       "toYears": null,
       "type": "member",
       "label": "Robert Fripp",

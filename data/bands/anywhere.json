@@ -25,7 +25,7 @@
   "listens": 2236,
   "listeners": 133,
   "quality": {
-    "score": 66,
+    "score": 65,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -86,30 +86,6 @@
       "sources": []
     },
     {
-      "to": "dale-crover-band",
-      "toName": "Dale Crover Band",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Toshi Kasai",
-      "detail": "Toshi Kasai 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "lucky-sperms",
-      "toName": "Lucky Sperms",
-      "toArea": "纽约",
-      "toYears": null,
-      "type": "member",
-      "label": "Mike Watt",
-      "detail": "Mike Watt 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "orcutt-shelley-miller",
       "toName": "Orcutt Shelley Miller",
       "toArea": null,
@@ -117,18 +93,6 @@
       "type": "member",
       "label": "Ethan Miller",
       "detail": "Ethan Miller 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "society-s-ills",
-      "toName": "Society's Ills",
-      "toArea": "纽约",
-      "toYears": null,
-      "type": "member",
-      "label": "Mike Watt",
-      "detail": "Mike Watt 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []

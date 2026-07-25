@@ -22,7 +22,7 @@
   "listens": 3579,
   "listeners": 290,
   "quality": {
-    "score": 11,
+    "score": 10,
     "templateIntro": true,
     "hasGenres": false,
     "hasTracks": false,
@@ -66,30 +66,6 @@
       "type": "member",
       "label": "Charlie Quintana",
       "detail": "Charlie Quintana 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "hollywood-rose",
-      "toName": "Hollywood Rose",
-      "toArea": "洛杉矶",
-      "toYears": "1983–1984",
-      "type": "member",
-      "label": "Izzy Stradlin",
-      "detail": "Izzy Stradlin 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-atoms",
-      "toName": "The Atoms",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Izzy Stradlin",
-      "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []

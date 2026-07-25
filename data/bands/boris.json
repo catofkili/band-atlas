@@ -157,18 +157,16 @@
       ]
     },
     {
-      "to": "harlingtox-a-d",
-      "toName": "Harlingtox A.D.",
-      "toArea": "华盛顿特区",
-      "toYears": null,
-      "type": "guest",
-      "label": "客串：Tos Nieuwenhuizen",
-      "detail": "MusicBrainz 录音资料显示，Tos Nieuwenhuizen参与了《Her Lips Were Wet With Venom (satanoscillatemymetallicsonatas)》等录音。",
+      "to": "churn",
+      "toName": "Churn",
+      "toArea": "阿灵顿县",
+      "toYears": "1989–",
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
       "year": null,
-      "weight": 0.66,
-      "sources": [
-        "https://musicbrainz.org/recording/3b591bfe-b1c9-4bb3-841e-93f1efb47906"
-      ]
+      "weight": 0.28,
+      "sources": []
     }
   ]
 }

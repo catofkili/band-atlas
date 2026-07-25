@@ -108,18 +108,6 @@
       "sources": []
     },
     {
-      "to": "tapeworm",
-      "toName": "Tapeworm",
-      "toArea": "美国",
-      "toYears": "1996–2004",
-      "type": "member",
-      "label": "Charlie Clouser・Atticus Ross",
-      "detail": "2 位乐手在这两支乐队都待过：Charlie Clouser・Atticus Ross。",
-      "year": 1994,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "angels-airwaves",
       "toName": "Angels & Airwaves",
       "toArea": "圣地亚哥",
@@ -588,18 +576,6 @@
       "sources": []
     },
     {
-      "to": "error",
-      "toName": "Error",
-      "toArea": "美国",
-      "toYears": "2003–",
-      "type": "member",
-      "label": "Atticus Ross",
-      "detail": "Atticus Ross 在这两支乐队都待过。",
-      "year": 2003,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "mick-jagger-the-brothers-of-sodom",
       "toName": "Mick Jagger & The Brothers of Sodom",
       "toArea": "伦敦",
@@ -612,30 +588,6 @@
       "sources": []
     },
     {
-      "to": "modwheelmood",
-      "toName": "Modwheelmood",
-      "toArea": "洛杉矶",
-      "toYears": "2008–",
-      "type": "member",
-      "label": "Alessandro Cortini",
-      "detail": "Alessandro Cortini 在这两支乐队都待过。",
-      "year": 2013,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "mrs-scabtree",
-      "toName": "Mrs. Scabtree",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Jeordie White",
-      "detail": "Jeordie White 在这两支乐队都待过。",
-      "year": 2005,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "raw-dog",
       "toName": "Raw Dog",
       "toArea": null,
@@ -644,78 +596,6 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "satan-on-fire",
-      "toName": "Satan on Fire",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Jeordie White",
-      "detail": "Jeordie White 在这两支乐队都待过。",
-      "year": 2005,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "sic",
-      "toName": "( sic )",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Kevin McMahon",
-      "detail": "Kevin McMahon 在这两支乐队都待过。",
-      "year": 1996,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-act",
-      "toName": "The Act",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Richard Patrick",
-      "detail": "Richard Patrick 在这两支乐队都待过。",
-      "year": 1989,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-buddha-boys-choir",
-      "toName": "The Buddha Boys Choir",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Keith Hillebrandt",
-      "detail": "Keith Hillebrandt 在这两支乐队都待过。",
-      "year": 1997,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-damning-well",
-      "toName": "The Damning Well",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Richard Patrick",
-      "detail": "Richard Patrick 在这两支乐队都待过。",
-      "year": 1989,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "witchgang",
-      "toName": "WitchGang",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Atticus Ross",
-      "detail": "Atticus Ross 在这两支乐队都待过。",
-      "year": 2004,
       "weight": 0.62,
       "sources": []
     },

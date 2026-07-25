@@ -20,7 +20,7 @@
   "listens": 249,
   "listeners": 33,
   "quality": {
-    "score": 59,
+    "score": 57,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -52,42 +52,6 @@
       "type": "member",
       "label": "Billy Duffy",
       "detail": "Billy Duffy 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "camp-freddy",
-      "toName": "Camp Freddy",
-      "toArea": "美国",
-      "toYears": "2003–",
-      "type": "member",
-      "label": "Billy Morrison",
-      "detail": "Billy Morrison 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "kings-of-chaos",
-      "toName": "Kings of Chaos",
-      "toArea": "美国",
-      "toYears": "2012–",
-      "type": "member",
-      "label": "Billy Duffy",
-      "detail": "Billy Duffy 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "royal-machines",
-      "toName": "Royal Machines",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Billy Morrison",
-      "detail": "Billy Morrison 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []

@@ -135,30 +135,6 @@
       "sources": []
     },
     {
-      "to": "sound-city-players",
-      "toName": "Sound City Players",
-      "toArea": "美国",
-      "toYears": "2012–2013",
-      "type": "member",
-      "label": "Pat Smear",
-      "detail": "Pat Smear 在这两支乐队都待过。",
-      "year": 1981,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-holez",
-      "toName": "The Holez",
-      "toArea": "美国",
-      "toYears": "1992–1992",
-      "type": "member",
-      "label": "Pat Smear",
-      "detail": "Pat Smear 在这两支乐队都待过。",
-      "year": 1981,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "blink-182",
       "toName": "blink‐182",
       "toArea": "美国",

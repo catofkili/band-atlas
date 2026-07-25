@@ -110,18 +110,6 @@
       "sources": []
     },
     {
-      "to": "supergroup-b",
-      "toName": "Supergroup B",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Ronnie Wood・Tom Morello",
-      "detail": "2 位乐手在这两支乐队都待过：Ronnie Wood・Tom Morello。",
-      "year": null,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "the-honeydrippers",
       "toName": "The Honeydrippers",
       "toArea": "伍斯特郡",
@@ -295,30 +283,6 @@
       "sources": []
     },
     {
-      "to": "axis-of-justice",
-      "toName": "Axis of Justice",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Tom Morello",
-      "detail": "Tom Morello 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "beat",
-      "toName": "BEAT",
-      "toArea": "美国",
-      "toYears": "2023–",
-      "type": "member",
-      "label": "Steve Vai",
-      "detail": "Steve Vai 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "holly-and-the-ivy-s",
       "toName": "Holly and The Ivy’s",
       "toArea": "英国",
@@ -386,18 +350,6 @@
       "type": "member",
       "label": "Pete Townshend",
       "detail": "Pete Townshend 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "sound-city-players",
-      "toName": "Sound City Players",
-      "toArea": "美国",
-      "toYears": "2012–2013",
-      "type": "member",
-      "label": "Rick Nielsen",
-      "detail": "Rick Nielsen 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []

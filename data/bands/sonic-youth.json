@@ -220,42 +220,6 @@
       "sources": []
     },
     {
-      "to": "kurt-hoffman-s-band-of-weeds",
-      "toName": "Kurt Hoffman's Band of Weeds",
-      "toArea": "美国",
-      "toYears": "1991–1993",
-      "type": "member",
-      "label": "Anne DeMarinis",
-      "detail": "Anne DeMarinis 在这两支乐队都待过。",
-      "year": 1981,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "lucky-sperms",
-      "toName": "Lucky Sperms",
-      "toArea": "纽约",
-      "toYears": null,
-      "type": "member",
-      "label": "Kim Gordon",
-      "detail": "Kim Gordon 在这两支乐队都待过。",
-      "year": 1981,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "mirror-dash",
-      "toName": "Mirror/Dash",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Kim Gordon",
-      "detail": "Kim Gordon 在这两支乐队都待过。",
-      "year": 1981,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "foo-fighters",
       "toName": "Foo Fighters",
       "toArea": "西雅图",

@@ -140,66 +140,6 @@
       "year": null,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "broken-bat",
-      "toName": "Broken Bat",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Steve McDonald",
-      "detail": "Steve McDonald 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "dale-crover-band",
-      "toName": "Dale Crover Band",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Steve McDonald",
-      "detail": "Steve McDonald 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "nighttime-boogie-association",
-      "toName": "Nighttime Boogie Association",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Steve McDonald",
-      "detail": "Steve McDonald 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "north-american-hallowe-en-prevention-initiative",
-      "toName": "North American Hallowe’en Prevention Initiative",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Steve McDonald",
-      "detail": "Steve McDonald 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-million-dollar-bashers",
-      "toName": "The Million Dollar Bashers",
-      "toArea": "美国",
-      "toYears": "2007–2007",
-      "type": "member",
-      "label": "Smokey Hormel",
-      "detail": "Smokey Hormel 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
     }
   ]
 }

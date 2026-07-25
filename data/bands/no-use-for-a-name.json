@@ -65,18 +65,6 @@
       "year": 1999,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "rat-pack",
-      "toName": "Rat Pack",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Chris Rest",
-      "detail": "Chris Rest 在这两支乐队都待过。",
-      "year": 2009,
-      "weight": 0.62,
-      "sources": []
     }
   ]
 }

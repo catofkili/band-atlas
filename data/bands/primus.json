@@ -94,18 +94,6 @@
       "sources": []
     },
     {
-      "to": "festus-clamrod-and-the-el-sobrante-twangers",
-      "toName": "Festus Clamrod and the El Sobrante Twangers",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Les Claypool・Larry LaLonde",
-      "detail": "2 位乐手在这两支乐队都待过：Les Claypool・Larry LaLonde。",
-      "year": null,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "a-perfect-circle",
       "toName": "A Perfect Circle",
       "toArea": "洛杉矶",
@@ -175,30 +163,6 @@
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "buckethead-and-his-bucket-bots",
-      "toName": "Buckethead And His Bucket-Bots",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "DJ Disk",
-      "detail": "DJ Disk 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "sessanta",
-      "toName": "Sessanta",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "副项目",
-      "detail": "MusicBrainz 记录的副项目关系。",
-      "year": null,
-      "weight": 0.55,
       "sources": []
     },
     {

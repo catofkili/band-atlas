@@ -109,18 +109,6 @@
       "year": null,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "spirits-in-the-sky",
-      "toName": "Spirits in the Sky",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Billy Corgan",
-      "detail": "Billy Corgan 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
     }
   ]
 }

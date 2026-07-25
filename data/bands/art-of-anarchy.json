@@ -31,7 +31,7 @@
   "listens": 5202,
   "listeners": 379,
   "quality": {
-    "score": 72,
+    "score": 71,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -111,42 +111,6 @@
       "type": "member",
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
-      "year": 2014,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "artists-against-aids-worldwide",
-      "toName": "Artists Against AIDS Worldwide",
-      "toArea": "纽约",
-      "toYears": "2001–2001",
-      "type": "member",
-      "label": "Scott Weiland",
-      "detail": "Scott Weiland 在这两支乐队都待过。",
-      "year": 2014,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "beatrazr",
-      "toName": "Beatrazr",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Ron “Bumblefoot” Thal",
-      "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
-      "year": 2014,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "camp-freddy",
-      "toName": "Camp Freddy",
-      "toArea": "美国",
-      "toYears": "2003–",
-      "type": "member",
-      "label": "Scott Weiland",
-      "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 2014,
       "weight": 0.62,
       "sources": []

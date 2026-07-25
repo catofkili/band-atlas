@@ -371,7 +371,7 @@
       "years": "1981–2011",
       "countryCode": "US",
       "region": "western",
-      "degree": 19,
+      "degree": 16,
       "listens": 992275,
       "listeners": 11252,
       "quality": {
@@ -390,7 +390,7 @@
       "years": "1987–2003",
       "countryCode": "US",
       "region": "western",
-      "degree": 14,
+      "degree": 13,
       "listens": 568804,
       "listeners": 8730,
       "quality": {
@@ -409,7 +409,7 @@
       "years": "1987–1994",
       "countryCode": "US",
       "region": "western",
-      "degree": 31,
+      "degree": 23,
       "listens": 3004469,
       "listeners": 26943,
       "quality": {
@@ -485,7 +485,7 @@
       "years": "1985–",
       "countryCode": "US",
       "region": "western",
-      "degree": 57,
+      "degree": 45,
       "listens": 1345558,
       "listeners": 20051,
       "quality": {
@@ -1872,7 +1872,7 @@
       "years": "1996–",
       "countryCode": "US",
       "region": "western",
-      "degree": 20,
+      "degree": 15,
       "listens": 5102501,
       "listeners": 28744,
       "quality": {
@@ -1929,7 +1929,7 @@
       "years": "1996–",
       "countryCode": "GB",
       "region": "western",
-      "degree": 4,
+      "degree": 3,
       "listens": 3502635,
       "listeners": 28461,
       "quality": {
@@ -1967,7 +1967,7 @@
       "years": "1983–",
       "countryCode": "US",
       "region": "western",
-      "degree": 40,
+      "degree": 36,
       "listens": 3107942,
       "listeners": 25230,
       "quality": {
@@ -2005,7 +2005,7 @@
       "years": "1981–",
       "countryCode": "US",
       "region": "western",
-      "degree": 19,
+      "degree": 10,
       "listens": 3685079,
       "listeners": 23290,
       "quality": {
@@ -2043,7 +2043,7 @@
       "years": "1995–",
       "countryCode": "US",
       "region": "western",
-      "degree": 23,
+      "degree": 12,
       "listens": 3004656,
       "listeners": 22099,
       "quality": {
@@ -2062,7 +2062,7 @@
       "years": "1989–",
       "countryCode": "US",
       "region": "western",
-      "degree": 22,
+      "degree": 21,
       "listens": 2813208,
       "listeners": 25059,
       "quality": {
@@ -2100,7 +2100,7 @@
       "years": "1994–",
       "countryCode": "US",
       "region": "western",
-      "degree": 28,
+      "degree": 25,
       "listens": 2382325,
       "listeners": 21904,
       "quality": {
@@ -2119,7 +2119,7 @@
       "years": "1988–",
       "countryCode": "US",
       "region": "western",
-      "degree": 57,
+      "degree": 47,
       "listens": 3361636,
       "listeners": 17900,
       "quality": {
@@ -2157,7 +2157,7 @@
       "years": "1962–",
       "countryCode": "GB",
       "region": "western",
-      "degree": 12,
+      "degree": 11,
       "listens": 2049053,
       "listeners": 22372,
       "quality": {
@@ -2176,11 +2176,11 @@
       "years": "1998–",
       "countryCode": "US",
       "region": "western",
-      "degree": 8,
+      "degree": 6,
       "listens": 1963132,
       "listeners": 19294,
       "quality": {
-        "score": 90,
+        "score": 89,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -2195,7 +2195,7 @@
       "years": "1992–",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 7,
       "listens": 2024961,
       "listeners": 20619,
       "quality": {
@@ -2233,7 +2233,7 @@
       "years": "1988–",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 5,
       "listens": 2022191,
       "listeners": 18557,
       "quality": {
@@ -2252,7 +2252,7 @@
       "years": "2001–",
       "countryCode": "US",
       "region": "western",
-      "degree": 4,
+      "degree": 3,
       "listens": 1791716,
       "listeners": 21676,
       "quality": {
@@ -2290,11 +2290,11 @@
       "years": "1967–2022",
       "countryCode": "GB",
       "region": "western",
-      "degree": 7,
+      "degree": 6,
       "listens": 1569955,
       "listeners": 22503,
       "quality": {
-        "score": 100,
+        "score": 99,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -2328,7 +2328,7 @@
       "years": "1996–",
       "countryCode": "US",
       "region": "western",
-      "degree": 21,
+      "degree": 17,
       "listens": 2128568,
       "listeners": 17228,
       "quality": {
@@ -2347,7 +2347,7 @@
       "years": "1990–",
       "countryCode": "US",
       "region": "western",
-      "degree": 17,
+      "degree": 8,
       "listens": 2231632,
       "listeners": 14368,
       "quality": {
@@ -2366,7 +2366,7 @@
       "years": "1968–2025",
       "countryCode": "GB",
       "region": "western",
-      "degree": 32,
+      "degree": 27,
       "listens": 1838193,
       "listeners": 19434,
       "quality": {
@@ -2461,7 +2461,7 @@
       "years": "1992–",
       "countryCode": "US",
       "region": "western",
-      "degree": 13,
+      "degree": 12,
       "listens": 2055256,
       "listeners": 18464,
       "quality": {
@@ -2499,7 +2499,7 @@
       "years": "1995–",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 7,
       "listens": 1816229,
       "listeners": 15550,
       "quality": {
@@ -2518,7 +2518,7 @@
       "years": "1991–2024",
       "countryCode": "US",
       "region": "western",
-      "degree": 18,
+      "degree": 15,
       "listens": 1375790,
       "listeners": 18404,
       "quality": {
@@ -2537,7 +2537,7 @@
       "years": "1976–",
       "countryCode": "IE",
       "region": "western",
-      "degree": 10,
+      "degree": 9,
       "listens": 1650903,
       "listeners": 20289,
       "quality": {
@@ -2556,7 +2556,7 @@
       "years": "1990–",
       "countryCode": "US",
       "region": "western",
-      "degree": 25,
+      "degree": 20,
       "listens": 1865190,
       "listeners": 17241,
       "quality": {
@@ -2854,25 +2854,6 @@
       }
     },
     {
-      "id": "goat-punishment",
-      "name": "Goat Punishment",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "glassmaps",
       "name": "GLASSMAPS",
       "area": null,
@@ -2882,25 +2863,6 @@
       "degree": 1,
       "listens": 0,
       "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "gown",
-      "name": "Gown",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 19,
-      "listeners": 10,
       "quality": {
         "score": 1,
         "templateIntro": true,
@@ -3829,7 +3791,7 @@
       "years": "1990–",
       "countryCode": "US",
       "region": "western",
-      "degree": 47,
+      "degree": 37,
       "listens": 39671,
       "listeners": 1040,
       "quality": {
@@ -4000,11 +3962,11 @@
       "years": "1982–",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 6,
       "listens": 1155,
       "listeners": 188,
       "quality": {
-        "score": 66,
+        "score": 65,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -4019,7 +3981,7 @@
       "years": "1999–",
       "countryCode": "US",
       "region": "western",
-      "degree": 19,
+      "degree": 14,
       "listens": 938898,
       "listeners": 10148,
       "quality": {
@@ -4057,7 +4019,7 @@
       "years": "2001–2004",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 5,
       "listens": 30167,
       "listeners": 997,
       "quality": {
@@ -4105,25 +4067,6 @@
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "kurt-hoffman-s-band-of-weeds",
-      "name": "Kurt Hoffman's Band of Weeds",
-      "area": "美国",
-      "years": "1991–1993",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 22,
-      "listeners": 5,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -4190,7 +4133,7 @@
       "years": "1986–1988",
       "countryCode": "US",
       "region": "western",
-      "degree": 10,
+      "degree": 7,
       "listens": 11869,
       "listeners": 887,
       "quality": {
@@ -4209,7 +4152,7 @@
       "years": "1992–",
       "countryCode": "US",
       "region": "western",
-      "degree": 11,
+      "degree": 9,
       "listens": 7939,
       "listeners": 803,
       "quality": {
@@ -4228,54 +4171,16 @@
       "years": "2012–",
       "countryCode": "US",
       "region": "western",
-      "degree": 8,
+      "degree": 6,
       "listens": 2363,
       "listeners": 303,
       "quality": {
-        "score": 60,
+        "score": 59,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "mirror-dash",
-      "name": "Mirror/Dash",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 42,
-      "listeners": 21,
-      "quality": {
-        "score": 10,
-        "templateIntro": true,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "lucky-sperms",
-      "name": "Lucky Sperms",
-      "area": "纽约",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 10,
-      "listens": 56,
-      "listeners": 5,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -4285,11 +4190,11 @@
       "years": "2015–",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 5,
       "listens": 183,
       "listeners": 44,
       "quality": {
-        "score": 60,
+        "score": 59,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -4304,7 +4209,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 11,
+      "degree": 9,
       "listens": 261,
       "listeners": 20,
       "quality": {
@@ -4323,11 +4228,11 @@
       "years": "1982–",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 6,
       "listens": 756590,
       "listeners": 6530,
       "quality": {
-        "score": 90,
+        "score": 89,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -4412,36 +4317,17 @@
       }
     },
     {
-      "id": "the-backbeat-band",
-      "name": "The Backbeat Band",
-      "area": "美国",
-      "years": "1994–1994",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 1466,
-      "listeners": 62,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "wylde-ratttz",
       "name": "Wylde Ratttz",
       "area": "伦敦",
       "years": "1998–1998",
       "countryCode": "GB",
       "region": "western",
-      "degree": 8,
+      "degree": 4,
       "listens": 857,
       "listeners": 197,
       "quality": {
-        "score": 54,
+        "score": 52,
         "templateIntro": false,
         "hasGenres": false,
         "hasTracks": false,
@@ -4488,25 +4374,6 @@
       }
     },
     {
-      "id": "rodney-the-tube-tops",
-      "name": "Rodney & The Tube Tops",
-      "area": "美国",
-      "years": "1996–1997",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 4,
-      "listeners": 4,
-      "quality": {
-        "score": 56,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": true,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "male-slut",
       "name": "Male Slut",
       "area": null,
@@ -4545,25 +4412,6 @@
       }
     },
     {
-      "id": "society-s-ills",
-      "name": "Society's Ills",
-      "area": "纽约",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "the-peeper",
       "name": "The Peeper",
       "area": "美国",
@@ -4583,25 +4431,6 @@
       }
     },
     {
-      "id": "puzzled-panthers",
-      "name": "Puzzled Panthers",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 8,
-      "listeners": 5,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "thurston-moore-group",
       "name": "Thurston Moore Group",
       "area": "伦敦",
@@ -4611,63 +4440,6 @@
       "degree": 2,
       "listens": 0,
       "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "glenn-branca-ensemble",
-      "name": "Glenn Branca Ensemble",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "text-of-light",
-      "name": "Text of Light",
-      "area": "美国",
-      "years": "2001–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 42,
-      "listeners": 27,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "the-million-dollar-bashers",
-      "name": "The Million Dollar Bashers",
-      "area": "美国",
-      "years": "2007–2007",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 4629,
-      "listeners": 588,
       "quality": {
         "score": 1,
         "templateIntro": true,
@@ -4703,7 +4475,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 0,
       "listeners": 0,
       "quality": {
@@ -5191,32 +4963,13 @@
       }
     },
     {
-      "id": "bloody-mannequin-orchestra",
-      "name": "Bloody Mannequin Orchestra",
-      "area": "美国",
-      "years": "1982–1984",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 50,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "dag-nasty",
       "name": "Dag Nasty",
       "area": "华盛顿特区",
       "years": "1985–1991",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 5,
       "listens": 30381,
       "listeners": 1204,
       "quality": {
@@ -5235,11 +4988,11 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 10,
+        "score": 9,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
@@ -5254,7 +5007,7 @@
       "years": "2004–2004",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 8,
       "listens": 11700,
       "listeners": 963,
       "quality": {
@@ -5324,79 +5077,22 @@
       }
     },
     {
-      "id": "the-teen-idles",
-      "name": "The Teen Idles",
-      "area": "美国",
-      "years": "1979–1980",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 6829,
-      "listeners": 593,
-      "quality": {
-        "score": 50,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "minor-threat",
       "name": "Minor Threat",
       "area": "华盛顿特区",
       "years": "1980–1983",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 4,
       "listens": 169512,
       "listeners": 4235,
       "quality": {
-        "score": 72,
+        "score": 70,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "skewbald",
-      "name": "Skewbald",
-      "area": "美国",
-      "years": "1981–1981",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 6,
-      "listens": 148,
-      "listeners": 41,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "egg-hunt",
-      "name": "Egg Hunt",
-      "area": "美国",
-      "years": "1986–1986",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 2968,
-      "listeners": 549,
-      "quality": {
-        "score": 14,
-        "templateIntro": true,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -5438,36 +5134,17 @@
       }
     },
     {
-      "id": "pailhead",
-      "name": "Pailhead",
-      "area": "美国",
-      "years": "1988–1988",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 5,
-      "listens": 6895,
-      "listeners": 567,
-      "quality": {
-        "score": 63,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "one-last-wish",
       "name": "One Last Wish",
       "area": "美国",
       "years": "1986–1987",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 4,
       "listens": 10483,
       "listeners": 511,
       "quality": {
-        "score": 71,
+        "score": 70,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -5482,11 +5159,11 @@
       "years": "1987–1988",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 4,
       "listens": 1157,
       "listeners": 116,
       "quality": {
-        "score": 59,
+        "score": 58,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -5533,32 +5210,13 @@
       }
     },
     {
-      "id": "mc50",
-      "name": "MC50",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 10,
-      "listens": 38,
-      "listeners": 13,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "rites-of-spring",
       "name": "Rites of Spring",
       "area": "华盛顿特区",
       "years": "1983–1986",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 5,
       "listens": 43297,
       "listeners": 1621,
       "quality": {
@@ -5568,82 +5226,6 @@
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "skid-row",
-      "name": "Skid Row",
-      "area": "美国",
-      "years": "1987–1987",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 51,
-      "listeners": 4,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "throat-oyster",
-      "name": "Throat Oyster",
-      "area": "美国",
-      "years": "1987–1987",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "fecal-matter",
-      "name": "Fecal Matter",
-      "area": "阿伯丁",
-      "years": "1985–1986",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 6,
-      "listens": 1145,
-      "listeners": 119,
-      "quality": {
-        "score": 57,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": true,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "stiff-woodies",
-      "name": "Stiff Woodies",
-      "area": null,
-      "years": "1986–1987",
-      "countryCode": null,
-      "region": "unknown",
-      "degree": 1,
-      "listens": 6,
-      "listeners": 2,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -5685,36 +5267,17 @@
       }
     },
     {
-      "id": "brown-towel",
-      "name": "Brown Towel",
-      "area": "美国",
-      "years": "1985–1986",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 5,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "melvins",
       "name": "Melvins",
       "area": "蒙特萨诺",
       "years": "1983–",
       "countryCode": "US",
       "region": "western",
-      "degree": 11,
+      "degree": 5,
       "listens": 431182,
       "listeners": 5716,
       "quality": {
-        "score": 90,
+        "score": 89,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -5739,25 +5302,6 @@
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "dale-crover-band",
-      "name": "Dale Crover Band",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 9,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -5786,35 +5330,16 @@
       "years": "2010–",
       "countryCode": "US",
       "region": "western",
-      "degree": 8,
+      "degree": 5,
       "listens": 2236,
       "listeners": 133,
       "quality": {
-        "score": 66,
+        "score": 65,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "broken-bat",
-      "name": "Broken Bat",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -5824,54 +5349,16 @@
       "years": "2000–",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 5,
       "listens": 46671,
       "listeners": 1743,
       "quality": {
-        "score": 78,
+        "score": 77,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "the-fantômas-melvins-big-band",
-      "name": "The Fantômas Melvins Big Band",
-      "area": "美国",
-      "years": "2000–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 8,
-      "listens": 10663,
-      "listeners": 433,
-      "quality": {
-        "score": 22,
-        "templateIntro": true,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "bliss",
-      "name": "Bliss",
-      "area": "美国",
-      "years": "1988–1988",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -5913,44 +5400,6 @@
       }
     },
     {
-      "id": "melvana",
-      "name": "Melvana",
-      "area": "美国",
-      "years": "1992–1992",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 5,
-      "listens": 9,
-      "listeners": 3,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "the-no-w-t-o-combo",
-      "name": "The No W.T.O. Combo",
-      "area": "美国",
-      "years": "1999–1999",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 150,
-      "listeners": 40,
-      "quality": {
-        "score": 64,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "sweet-75",
       "name": "Sweet 75",
       "area": "西雅图",
@@ -5976,11 +5425,11 @@
       "years": "2021–",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 5,
       "listens": 4597,
       "listeners": 452,
       "quality": {
-        "score": 66,
+        "score": 65,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -5995,35 +5444,16 @@
       "years": "2017–",
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 810,
       "listeners": 242,
       "quality": {
-        "score": 58,
+        "score": 57,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "sound-city-players",
-      "name": "Sound City Players",
-      "area": "美国",
-      "years": "2012–2013",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 30,
-      "listens": 84,
-      "listeners": 18,
-      "quality": {
-        "score": 52,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -6033,7 +5463,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 2121,
       "listeners": 230,
       "quality": {
@@ -6065,55 +5495,17 @@
       }
     },
     {
-      "id": "the-bona-fide-band",
-      "name": "The Bona Fide Band",
-      "area": "西雅图",
-      "years": "2024–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "the-fire-ants",
-      "name": "The Fire Ants",
-      "area": "西雅图",
-      "years": "1991–1993",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 19,
-      "listeners": 9,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "before-cars",
       "name": "Before Cars",
       "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 86,
       "listeners": 9,
       "quality": {
-        "score": 10,
+        "score": 9,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
@@ -6128,35 +5520,16 @@
       "years": "1995–1998",
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 6,
       "listeners": 3,
       "quality": {
-        "score": 10,
+        "score": 9,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "helltrout",
-      "name": "Helltrout",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 31,
-      "listeners": 15,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -6166,11 +5539,11 @@
       "years": "2001–",
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 1,
       "listens": 92,
       "listeners": 17,
       "quality": {
-        "score": 58,
+        "score": 57,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -6185,7 +5558,7 @@
       "years": "1984–2017",
       "countryCode": "US",
       "region": "western",
-      "degree": 14,
+      "degree": 13,
       "listens": 971748,
       "listeners": 15648,
       "quality": {
@@ -6242,11 +5615,11 @@
       "years": "1989–",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 4,
       "listens": 8130,
       "listeners": 843,
       "quality": {
-        "score": 72,
+        "score": 70,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -6261,11 +5634,11 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 3,
       "listens": 1177,
       "listeners": 110,
       "quality": {
-        "score": 17,
+        "score": 16,
         "templateIntro": true,
         "hasGenres": true,
         "hasTracks": false,
@@ -6280,7 +5653,7 @@
       "years": "1988–",
       "countryCode": "US",
       "region": "western",
-      "degree": 11,
+      "degree": 7,
       "listens": 104535,
       "listeners": 4174,
       "quality": {
@@ -6290,63 +5663,6 @@
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "bundle-of-hiss",
-      "name": "Bundle of Hiss",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 6,
-      "listens": 664,
-      "listeners": 65,
-      "quality": {
-        "score": 57,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "dan-peters-combo",
-      "name": "Dan Peters Combo",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 5,
-      "listeners": 3,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "the-new-original-sonic-sound",
-      "name": "The New Original Sonic Sound",
-      "area": "西雅图",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 9,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -6375,11 +5691,11 @@
       "years": "2009–2010",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 6,
       "listens": 187785,
       "listeners": 5622,
       "quality": {
-        "score": 78,
+        "score": 77,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -6407,32 +5723,13 @@
       }
     },
     {
-      "id": "harlingtox-a-d",
-      "name": "Harlingtox A.D.",
-      "area": "华盛顿特区",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "dee-gees",
       "name": "Dee Gees",
       "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 14,
+      "degree": 11,
       "listens": 5461,
       "listeners": 850,
       "quality": {
@@ -6454,25 +5751,6 @@
       "degree": 1,
       "listens": 859,
       "listeners": 214,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "chevy-metal",
-      "name": "Chevy Metal",
-      "area": "洛杉矶",
-      "years": "2012–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 0,
-      "listeners": 0,
       "quality": {
         "score": 1,
         "templateIntro": true,
@@ -6793,7 +6071,7 @@
       "years": "2020–2020",
       "countryCode": null,
       "region": "unknown",
-      "degree": 18,
+      "degree": 13,
       "listens": 516,
       "listeners": 112,
       "quality": {
@@ -6983,7 +6261,7 @@
       "years": "2009–",
       "countryCode": "US",
       "region": "western",
-      "degree": 16,
+      "degree": 13,
       "listens": 103656,
       "listeners": 3672,
       "quality": {
@@ -7015,25 +6293,6 @@
       }
     },
     {
-      "id": "north-american-hallowe-en-prevention-initiative",
-      "name": "North American Hallowe’en Prevention Initiative",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 269,
-      "listeners": 38,
-      "quality": {
-        "score": 10,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": true,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "ultraísta",
       "name": "Ultraísta",
       "area": "英国",
@@ -7059,11 +6318,11 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 424,
       "listeners": 39,
       "quality": {
-        "score": 10,
+        "score": 9,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
@@ -7078,7 +6337,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 14,
+      "degree": 9,
       "listens": 31,
       "listeners": 9,
       "quality": {
@@ -7097,7 +6356,7 @@
       "years": "2008–",
       "countryCode": "GB",
       "region": "western",
-      "degree": 14,
+      "degree": 11,
       "listens": 8315,
       "listeners": 900,
       "quality": {
@@ -7344,11 +6603,11 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 8,
+      "degree": 6,
       "listens": 113,
       "listeners": 6,
       "quality": {
-        "score": 12,
+        "score": 11,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
@@ -7363,7 +6622,7 @@
       "years": "1983–",
       "countryCode": "US",
       "region": "western",
-      "degree": 20,
+      "degree": 15,
       "listens": 36446,
       "listeners": 1919,
       "quality": {
@@ -7382,7 +6641,7 @@
       "years": "1973–",
       "countryCode": "US",
       "region": "western",
-      "degree": 15,
+      "degree": 12,
       "listens": 74344,
       "listeners": 5368,
       "quality": {
@@ -7395,36 +6654,17 @@
       }
     },
     {
-      "id": "gunzo",
-      "name": "Gunzo",
-      "area": "洛杉矶",
-      "years": "2015–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 8,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "contraband",
       "name": "Contraband",
       "area": "美国",
       "years": "1991–",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 5,
       "listens": 349,
       "listeners": 61,
       "quality": {
-        "score": 60,
+        "score": 59,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -7439,35 +6679,16 @@
       "years": "2002–2006",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 5,
       "listens": 2142,
       "listeners": 233,
       "quality": {
-        "score": 66,
+        "score": 65,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "pyrrhus",
-      "name": "Pyrrhus",
-      "area": "洛杉矶",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 8,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -7477,35 +6698,16 @@
       "years": "1978–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 3,
       "listens": 920,
       "listeners": 74,
       "quality": {
-        "score": 71,
+        "score": 70,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "hollywood-rose",
-      "name": "Hollywood Rose",
-      "area": "洛杉矶",
-      "years": "1983–1984",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 8,
-      "listens": 2234,
-      "listeners": 337,
-      "quality": {
-        "score": 64,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -7515,73 +6717,16 @@
       "years": "1992–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 3,
       "listens": 3579,
       "listeners": 290,
       "quality": {
-        "score": 11,
+        "score": 10,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "the-atoms",
-      "name": "The Atoms",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "gak",
-      "name": "GAK",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 12,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "rapidfire",
-      "name": "Rapidfire",
-      "area": "洛杉矶",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 63,
-      "listeners": 15,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -7591,7 +6736,7 @@
       "years": "1986–",
       "countryCode": "US",
       "region": "western",
-      "degree": 10,
+      "degree": 9,
       "listens": 7109,
       "listeners": 684,
       "quality": {
@@ -7610,7 +6755,7 @@
       "years": "2003–2011",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 7,
       "listens": 613,
       "listeners": 32,
       "quality": {
@@ -7629,35 +6774,16 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 4,
       "listens": 876,
       "listeners": 32,
       "quality": {
-        "score": 65,
+        "score": 64,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "road-crew",
-      "name": "Road Crew",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 5,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -7667,11 +6793,11 @@
       "years": "2002–2008",
       "countryCode": "US",
       "region": "western",
-      "degree": 4,
+      "degree": 2,
       "listens": 126045,
       "listeners": 5147,
       "quality": {
-        "score": 88,
+        "score": 87,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -7686,11 +6812,11 @@
       "years": null,
       "countryCode": null,
       "region": "unknown",
-      "degree": 4,
+      "degree": 1,
       "listens": 135,
       "listeners": 4,
       "quality": {
-        "score": 22,
+        "score": 21,
         "templateIntro": true,
         "hasGenres": true,
         "hasTracks": false,
@@ -7724,7 +6850,7 @@
       "years": "1995–1997",
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 3670,
       "listeners": 214,
       "quality": {
@@ -7734,25 +6860,6 @@
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "the-gentlemen",
-      "name": "The Gentlemen",
-      "area": "西雅图",
-      "years": "2000–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 49,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -7781,7 +6888,7 @@
       "years": "2012–",
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 2332,
       "listeners": 217,
       "quality": {
@@ -7813,98 +6920,22 @@
       }
     },
     {
-      "id": "kings-of-chaos",
-      "name": "Kings of Chaos",
-      "area": "美国",
-      "years": "2012–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 15,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 52,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "levee-walkers",
-      "name": "Levee Walkers",
-      "area": "西雅图",
-      "years": "2015–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 380,
-      "listeners": 68,
-      "quality": {
-        "score": 14,
-        "templateIntro": true,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "raw-power",
-      "name": "Raw Power",
-      "area": "西雅图",
-      "years": "2015–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 6,
-      "listens": 78,
-      "listeners": 5,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "crisis-party",
       "name": "Crisis Party",
       "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 1,
       "listeners": 1,
       "quality": {
-        "score": 10,
+        "score": 9,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "smith-watt-steakhouse",
-      "name": "Smith & Watt Steakhouse",
-      "area": "美国",
-      "years": "1977–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -7933,7 +6964,7 @@
       "years": "1994–2002",
       "countryCode": "US",
       "region": "western",
-      "degree": 10,
+      "degree": 8,
       "listens": 20981,
       "listeners": 917,
       "quality": {
@@ -7946,36 +6977,17 @@
       }
     },
     {
-      "id": "slash-s-blues-ball",
-      "name": "Slash’s Blues Ball",
-      "area": "美国",
-      "years": "1996–1998",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 62,
-      "listeners": 8,
-      "quality": {
-        "score": 50,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "slash-featuring-myles-kennedy-and-the-conspirato",
       "name": "Slash featuring Myles Kennedy and the Conspirators",
       "area": "美国",
       "years": "2010–",
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 103171,
       "listeners": 2947,
       "quality": {
-        "score": 46,
+        "score": 45,
         "templateIntro": true,
         "hasGenres": true,
         "hasTracks": true,
@@ -7990,11 +7002,11 @@
       "years": "2001–2002",
       "countryCode": "GB",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 50,
+        "score": 49,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -8009,70 +7021,13 @@
       "years": null,
       "countryCode": null,
       "region": "unknown",
-      "degree": 36,
+      "degree": 32,
       "listens": 326,
       "listeners": 63,
       "quality": {
         "score": 4,
         "templateIntro": true,
         "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "tidus-sloan",
-      "name": "Tidus Sloan",
-      "area": null,
-      "years": null,
-      "countryCode": null,
-      "region": "unknown",
-      "degree": 1,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "deadland-ritual",
-      "name": "Deadland Ritual",
-      "area": "伦敦",
-      "years": "2018–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 522,
-      "listeners": 185,
-      "quality": {
-        "score": 56,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "camp-freddy",
-      "name": "Camp Freddy",
-      "area": "美国",
-      "years": "2003–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 11,
-      "listens": 103,
-      "listeners": 45,
-      "quality": {
-        "score": 52,
-        "templateIntro": false,
-        "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": false
@@ -8104,11 +7059,11 @@
       "years": "1983–",
       "countryCode": "GB",
       "region": "western",
-      "degree": 5,
+      "degree": 4,
       "listens": 207892,
       "listeners": 6861,
       "quality": {
-        "score": 89,
+        "score": 88,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -8123,11 +7078,11 @@
       "years": "2006–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 2,
       "listens": 249,
       "listeners": 33,
       "quality": {
-        "score": 59,
+        "score": 57,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -8174,32 +7129,13 @@
       }
     },
     {
-      "id": "the-power-rangers-orchestra",
-      "name": "The Power Rangers Orchestra",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 331,
-      "listeners": 34,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "the-dead-daisies",
       "name": "The Dead Daisies",
       "area": "悉尼",
       "years": "2012–",
       "countryCode": "AU",
       "region": "western",
-      "degree": 9,
+      "degree": 8,
       "listens": 18654,
       "listeners": 1377,
       "quality": {
@@ -8237,7 +7173,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 78,
       "listeners": 7,
       "quality": {
@@ -8269,25 +7205,6 @@
       }
     },
     {
-      "id": "the-wild-bunch",
-      "name": "The Wild Bunch",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "rock-star-supernova",
       "name": "Rock Star Supernova",
       "area": null,
@@ -8304,25 +7221,6 @@
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "halloween-jack",
-      "name": "Halloween Jack",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 5,
-      "listens": 35,
-      "listeners": 12,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -8351,7 +7249,7 @@
       "years": "1982–",
       "countryCode": "US",
       "region": "western",
-      "degree": 13,
+      "degree": 12,
       "listens": 209342,
       "listeners": 5430,
       "quality": {
@@ -8361,25 +7259,6 @@
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "daredevils",
-      "name": "Daredevils",
-      "area": "洛杉矶",
-      "years": "1994–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 236,
-      "listeners": 36,
-      "quality": {
-        "score": 55,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -8446,7 +7325,7 @@
       "years": "1997–",
       "countryCode": "US",
       "region": "western",
-      "degree": 18,
+      "degree": 14,
       "listens": 93393,
       "listeners": 3240,
       "quality": {
@@ -8459,32 +7338,13 @@
       }
     },
     {
-      "id": "the-damning-well",
-      "name": "The Damning Well",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 121,
-      "listeners": 36,
-      "quality": {
-        "score": 58,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "black-light-burns",
       "name": "Black Light Burns",
       "area": "美国",
       "years": "2005–",
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 70379,
       "listeners": 1992,
       "quality": {
@@ -8522,11 +7382,11 @@
       "years": "1979–1991",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 6,
       "listens": 229705,
       "listeners": 5942,
       "quality": {
-        "score": 84,
+        "score": 83,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -8541,7 +7401,7 @@
       "years": "1993–",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 7,
       "listens": 209072,
       "listeners": 7135,
       "quality": {
@@ -8573,63 +7433,6 @@
       }
     },
     {
-      "id": "tapeworm",
-      "name": "Tapeworm",
-      "area": "美国",
-      "years": "1996–2004",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 11,
-      "listens": 9,
-      "listeners": 4,
-      "quality": {
-        "score": 52,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "stripsearch",
-      "name": "Stripsearch",
-      "area": "底特律",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "royal-machines",
-      "name": "Royal Machines",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "jihad-jerry-the-evildoers",
       "name": "Jihad Jerry & The Evildoers",
       "area": null,
@@ -8655,7 +7458,7 @@
       "years": "1999–2003",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 5,
       "listens": 894,
       "listeners": 55,
       "quality": {
@@ -8684,25 +7487,6 @@
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "the-silencers",
-      "name": "The Silencers",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 349,
-      "listeners": 90,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -8750,11 +7534,11 @@
       "years": "1992–",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 4,
       "listens": 3248,
       "listeners": 297,
       "quality": {
-        "score": 66,
+        "score": 64,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -8769,35 +7553,16 @@
       "years": "1995–1998",
       "countryCode": "US",
       "region": "western",
-      "degree": 8,
+      "degree": 5,
       "listens": 402,
       "listeners": 51,
       "quality": {
-        "score": 60,
+        "score": 59,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "l-a-m-f",
-      "name": "L.A.M.F.",
-      "area": "纽约",
-      "years": "2016–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 10,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -8807,54 +7572,16 @@
       "years": "2017–",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 4,
       "listens": 94,
       "listeners": 13,
       "quality": {
-        "score": 12,
+        "score": 10,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "the-jacks",
-      "name": "The Jacks",
-      "area": "塔尔萨",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 72,
-      "listeners": 11,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "latter-revelation-company-singers",
-      "name": "Latter Revelation Company Singers",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -8864,11 +7591,11 @@
       "years": "1995–1998",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 4,
       "listens": 406,
       "listeners": 33,
       "quality": {
-        "score": 59,
+        "score": 58,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -8883,11 +7610,11 @@
       "years": "1995–1996",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 5,
       "listens": 1274,
       "listeners": 81,
       "quality": {
-        "score": 60,
+        "score": 59,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -8902,54 +7629,16 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 3,
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 11,
+        "score": 10,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "beatrazr",
-      "name": "Beatrazr",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 12,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "zaum",
-      "name": "Zaum",
-      "area": "洛杉矶",
-      "years": "1995–1996",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 9,
-      "listens": 182,
-      "listeners": 16,
-      "quality": {
-        "score": 52,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -8959,11 +7648,11 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 4,
       "listens": 1164,
       "listeners": 43,
       "quality": {
-        "score": 59,
+        "score": 58,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -8978,7 +7667,7 @@
       "years": null,
       "countryCode": null,
       "region": "unknown",
-      "degree": 2,
+      "degree": 1,
       "listens": 1845,
       "listeners": 60,
       "quality": {
@@ -8997,7 +7686,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 8,
+      "degree": 7,
       "listens": 1760,
       "listeners": 64,
       "quality": {
@@ -9035,11 +7724,11 @@
       "years": "1995–2007",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 4,
       "listens": 2249,
       "listeners": 119,
       "quality": {
-        "score": 71,
+        "score": 70,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -9054,11 +7743,11 @@
       "years": null,
       "countryCode": "FR",
       "region": "western",
-      "degree": 6,
+      "degree": 4,
       "listens": 141,
       "listeners": 25,
       "quality": {
-        "score": 11,
+        "score": 10,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
@@ -9073,11 +7762,11 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 6,
       "listens": 1248,
       "listeners": 112,
       "quality": {
-        "score": 12,
+        "score": 11,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
@@ -9111,7 +7800,7 @@
       "years": "1978–1999",
       "countryCode": "US",
       "region": "western",
-      "degree": 15,
+      "degree": 14,
       "listens": 11520,
       "listeners": 1041,
       "quality": {
@@ -9130,7 +7819,7 @@
       "years": "1992–2011",
       "countryCode": "US",
       "region": "western",
-      "degree": 12,
+      "degree": 10,
       "listens": 12964,
       "listeners": 628,
       "quality": {
@@ -9149,54 +7838,16 @@
       "years": "2002–2004",
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 8116,
       "listeners": 574,
       "quality": {
-        "score": 70,
+        "score": 69,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "buckethead-and-his-bucket-bots",
-      "name": "Buckethead And His Bucket-Bots",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 9,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "world-wide-funkdrive",
-      "name": "World-Wide-Funkdrive",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 6,
-      "listens": 496,
-      "listeners": 108,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -9206,11 +7857,11 @@
       "years": "2001–",
       "countryCode": "US",
       "region": "western",
-      "degree": 4,
+      "degree": 2,
       "listens": 3688,
       "listeners": 261,
       "quality": {
-        "score": 70,
+        "score": 69,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -9254,25 +7905,6 @@
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "the-dragons-of-eden",
-      "name": "The Dragons of Eden",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 20,
-        "templateIntro": true,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -9339,7 +7971,7 @@
       "years": "1984–",
       "countryCode": "US",
       "region": "western",
-      "degree": 12,
+      "degree": 9,
       "listens": 443064,
       "listeners": 8044,
       "quality": {
@@ -9358,11 +7990,11 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 4,
+      "degree": 2,
       "listens": 185,
       "listeners": 21,
       "quality": {
-        "score": 10,
+        "score": 9,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
@@ -9377,11 +8009,11 @@
       "years": "1996–1996",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 3,
       "listens": 6217,
       "listeners": 489,
       "quality": {
-        "score": 29,
+        "score": 28,
         "templateIntro": true,
         "hasGenres": true,
         "hasTracks": false,
@@ -9396,54 +8028,16 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 4,
       "listens": 99,
       "listeners": 9,
       "quality": {
-        "score": 11,
+        "score": 10,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "festus-clamrod-and-the-el-sobrante-twangers",
-      "name": "Festus Clamrod and the El Sobrante Twangers",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 5,
-      "listens": 5,
-      "listeners": 1,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "bluescreen",
-      "name": "Bluescreen",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 11,
-      "listeners": 5,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -9453,11 +8047,11 @@
       "years": null,
       "countryCode": null,
       "region": "unknown",
-      "degree": 3,
+      "degree": 1,
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 2,
+        "score": 1,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
@@ -9472,7 +8066,7 @@
       "years": "1992–2000",
       "countryCode": "US",
       "region": "western",
-      "degree": 4,
+      "degree": 3,
       "listens": 5291,
       "listeners": 508,
       "quality": {
@@ -9491,11 +8085,11 @@
       "years": "2023–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 4,
       "listens": 1164,
       "listeners": 128,
       "quality": {
-        "score": 71,
+        "score": 70,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -9510,11 +8104,11 @@
       "years": "2011–",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 6,
       "listens": 5202,
       "listeners": 379,
       "quality": {
-        "score": 72,
+        "score": 71,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -9529,11 +8123,11 @@
       "years": "2017–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 4,
       "listens": 20570,
       "listeners": 872,
       "quality": {
-        "score": 89,
+        "score": 88,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -9548,7 +8142,7 @@
       "years": "1981–",
       "countryCode": "GB",
       "region": "western",
-      "degree": 12,
+      "degree": 10,
       "listens": 110296,
       "listeners": 5841,
       "quality": {
@@ -9567,7 +8161,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 4,
+      "degree": 3,
       "listens": 161,
       "listeners": 22,
       "quality": {
@@ -10137,7 +8731,7 @@
       "years": "1998–2002",
       "countryCode": "US",
       "region": "western",
-      "degree": 13,
+      "degree": 12,
       "listens": 2145,
       "listeners": 134,
       "quality": {
@@ -14203,7 +12797,7 @@
       "years": "1988–1990",
       "countryCode": "US",
       "region": "western",
-      "degree": 8,
+      "degree": 7,
       "listens": 85323,
       "listeners": 4342,
       "quality": {
@@ -14336,7 +12930,7 @@
       "years": null,
       "countryCode": "GB",
       "region": "western",
-      "degree": 20,
+      "degree": 19,
       "listens": 0,
       "listeners": 0,
       "quality": {
@@ -14406,51 +13000,13 @@
       }
     },
     {
-      "id": "xero",
-      "name": "Xero",
-      "area": "阿古拉希尔斯",
-      "years": "1996–1999",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 675,
-      "listeners": 103,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "relative-degree",
-      "name": "Relative Degree",
-      "area": "美国",
-      "years": "1995–1996",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "fort-minor",
       "name": "Fort Minor",
       "area": "洛杉矶",
       "years": "2004–2017",
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 182881,
       "listeners": 6431,
       "quality": {
@@ -14469,11 +13025,11 @@
       "years": "2005–2018",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 3,
       "listens": 41948,
       "listeners": 2096,
       "quality": {
-        "score": 89,
+        "score": 88,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -14488,11 +13044,11 @@
       "years": "1993–",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 3,
       "listens": 28530,
       "listeners": 1419,
       "quality": {
-        "score": 89,
+        "score": 88,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -14507,7 +13063,7 @@
       "years": "1990–",
       "countryCode": "US",
       "region": "western",
-      "degree": 10,
+      "degree": 7,
       "listens": 578256,
       "listeners": 11616,
       "quality": {
@@ -14517,25 +13073,6 @@
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "sean-dowdell-and-his-friends",
-      "name": "Sean Dowdell And His Friends?",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 6,
-      "listens": 37,
-      "listeners": 10,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -14792,31 +13329,12 @@
       "years": null,
       "countryCode": "GB",
       "region": "western",
-      "degree": 11,
+      "degree": 10,
       "listens": 2222,
       "listeners": 644,
       "quality": {
         "score": 52,
         "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "artists-against-aids-worldwide",
-      "name": "Artists Against AIDS Worldwide",
-      "area": "纽约",
-      "years": "2001–2001",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 16,
-      "listens": 346,
-      "listeners": 70,
-      "quality": {
-        "score": 10,
-        "templateIntro": true,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
@@ -15077,7 +13595,7 @@
       "years": "1980–",
       "countryCode": "US",
       "region": "western",
-      "degree": 18,
+      "degree": 13,
       "listens": 22935,
       "listeners": 1117,
       "quality": {
@@ -15096,7 +13614,7 @@
       "years": "1989–",
       "countryCode": "US",
       "region": "western",
-      "degree": 12,
+      "degree": 10,
       "listens": 109804,
       "listeners": 5618,
       "quality": {
@@ -15134,7 +13652,7 @@
       "years": "1980–1986",
       "countryCode": "US",
       "region": "western",
-      "degree": 10,
+      "degree": 9,
       "listens": 174,
       "listeners": 23,
       "quality": {
@@ -15153,7 +13671,7 @@
       "years": "1990–2007",
       "countryCode": "US",
       "region": "western",
-      "degree": 10,
+      "degree": 9,
       "listens": 5029,
       "listeners": 427,
       "quality": {
@@ -15172,7 +13690,7 @@
       "years": "2007–",
       "countryCode": "US",
       "region": "western",
-      "degree": 12,
+      "degree": 11,
       "listens": 22672,
       "listeners": 845,
       "quality": {
@@ -15267,7 +13785,7 @@
       "years": "1977–",
       "countryCode": "US",
       "region": "western",
-      "degree": 11,
+      "degree": 7,
       "listens": 29241,
       "listeners": 1732,
       "quality": {
@@ -15277,63 +13795,6 @@
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "aleka-s-attic",
-      "name": "Aleka's Attic",
-      "area": "美国",
-      "years": "1988–1993",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 646,
-      "listeners": 118,
-      "quality": {
-        "score": 52,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "the-lost-trees",
-      "name": "The Lost Trees",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 180,
-      "listeners": 44,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "flea-and-the-honora-band",
-      "name": "Flea and the Honora Band",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 8,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -15362,7 +13823,7 @@
       "years": "1968–1981",
       "countryCode": "US",
       "region": "western",
-      "degree": 11,
+      "degree": 8,
       "listens": 208091,
       "listeners": 7293,
       "quality": {
@@ -15381,7 +13842,7 @@
       "years": "1968–",
       "countryCode": "US",
       "region": "western",
-      "degree": 10,
+      "degree": 8,
       "listens": 7087,
       "listeners": 1661,
       "quality": {
@@ -15400,7 +13861,7 @@
       "years": "1968–1980",
       "countryCode": "US",
       "region": "western",
-      "degree": 11,
+      "degree": 8,
       "listens": 102808,
       "listeners": 6050,
       "quality": {
@@ -15410,25 +13871,6 @@
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "the-p-funk-mob",
-      "name": "The P-Funk Mob",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 8,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -15476,11 +13918,11 @@
       "years": "1978–1986",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 6,
       "listens": 415421,
       "listeners": 7824,
       "quality": {
-        "score": 90,
+        "score": 89,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -15514,7 +13956,7 @@
       "years": "2001–",
       "countryCode": "US",
       "region": "western",
-      "degree": 12,
+      "degree": 9,
       "listens": 649950,
       "listeners": 7136,
       "quality": {
@@ -15533,7 +13975,7 @@
       "years": "1983–",
       "countryCode": "US",
       "region": "western",
-      "degree": 10,
+      "degree": 9,
       "listens": 1302,
       "listeners": 142,
       "quality": {
@@ -15552,7 +13994,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 5,
       "listens": 2840,
       "listeners": 87,
       "quality": {
@@ -15562,25 +14004,6 @@
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "speed-dealer-moms",
-      "name": "Speed Dealer Moms",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 5,
-      "listens": 672,
-      "listeners": 134,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -15600,63 +14023,6 @@
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "pharaoh",
-      "name": "Pharaoh",
-      "area": "底特律",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "eddie-vedder-and-the-earthlings",
-      "name": "Eddie Vedder and the Earthlings",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "supergroup-b",
-      "name": "Supergroup B",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 17,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -15685,7 +14051,7 @@
       "years": "1986–2025",
       "countryCode": "US",
       "region": "western",
-      "degree": 12,
+      "degree": 9,
       "listens": 215154,
       "listeners": 7996,
       "quality": {
@@ -15704,7 +14070,7 @@
       "years": "2004–2007",
       "countryCode": "US",
       "region": "western",
-      "degree": 4,
+      "degree": 3,
       "listens": 1906,
       "listeners": 168,
       "quality": {
@@ -15736,25 +14102,6 @@
       }
     },
     {
-      "id": "spirits-in-the-sky",
-      "name": "Spirits in the Sky",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "splendid",
       "name": "Splendid",
       "area": "美国",
@@ -15780,11 +14127,11 @@
       "years": "1970–",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 5,
       "listens": 249644,
       "listeners": 7502,
       "quality": {
-        "score": 90,
+        "score": 89,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -15894,7 +14241,7 @@
       "years": "1983–",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 8,
       "listens": 1449104,
       "listeners": 11400,
       "quality": {
@@ -15913,111 +14260,16 @@
       "years": "1996–1996",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 4,
       "listens": 7049,
       "listeners": 451,
       "quality": {
-        "score": 29,
+        "score": 28,
         "templateIntro": true,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "panic",
-      "name": "Panic",
-      "area": "加利福尼亚州",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "maxwell-house-ranch-band",
-      "name": "Maxwell House Ranch Band",
-      "area": "加利福尼亚州",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 13,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "spastik-children",
-      "name": "Spastik Children",
-      "area": "加利福尼亚州",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 12,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "vicious-hatred",
-      "name": "Vicious Hatred",
-      "area": "海沃德",
-      "years": "1981–1982",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "the-chickenfuckers",
-      "name": "The Chickenfuckers",
-      "area": "旧金山",
-      "years": "1984–1984",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 10,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -16027,92 +14279,16 @@
       "years": "1981–",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 1,
       "listens": 618,
       "listeners": 122,
       "quality": {
-        "score": 72,
+        "score": 69,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "ez-street",
-      "name": "EZ-Street",
-      "area": "奥克兰",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 9,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 16,
-        "templateIntro": true,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "agents-of-misfortune",
-      "name": "Agents Of Misfortune",
-      "area": "海沃德",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "phantasm",
-      "name": "Phantasm",
-      "area": "洛杉矶",
-      "years": "1986–1988",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 145,
-      "listeners": 7,
-      "quality": {
-        "score": 49,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "the-wedding-band",
-      "name": "The Wedding Band",
-      "area": "夏威夷",
-      "years": "2018–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 12,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -16122,35 +14298,16 @@
       "years": "1979–",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 3,
       "listens": 206484,
       "listeners": 3209,
       "quality": {
-        "score": 72,
+        "score": 70,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "sexoturica",
-      "name": "Sexoturica",
-      "area": "美国",
-      "years": "1994–1995",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 41,
-      "listeners": 13,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -16170,63 +14327,6 @@
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "ir8",
-      "name": "IR8",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 91,
-      "listeners": 24,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "fatso",
-      "name": "Fatso",
-      "area": "旧金山",
-      "years": "1994–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "judas",
-      "name": "Judas",
-      "area": "旧金山",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -16255,7 +14355,7 @@
       "years": "1998–2002",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 5,
       "listens": 36,
       "listeners": 9,
       "quality": {
@@ -16293,7 +14393,7 @@
       "years": "1990–",
       "countryCode": "US",
       "region": "western",
-      "degree": 11,
+      "degree": 10,
       "listens": 30890,
       "listeners": 1387,
       "quality": {
@@ -16521,7 +14621,7 @@
       "years": "1999–",
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 4430,
       "listeners": 482,
       "quality": {
@@ -16540,54 +14640,16 @@
       "years": "2006–",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 1,
       "listens": 108186,
       "listeners": 2862,
       "quality": {
-        "score": 89,
+        "score": 87,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "snowblind",
-      "name": "Snowblind",
-      "area": "洛杉矶",
-      "years": "1991–1992",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "polaris",
-      "name": "Polaris",
-      "area": "美国",
-      "years": "1992–1993",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -16597,47 +14659,9 @@
       "years": "2005–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 3,
       "listens": 133,
       "listeners": 30,
-      "quality": {
-        "score": 65,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": true
-      }
-    },
-    {
-      "id": "north-kingsley",
-      "name": "North Kingsley",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 653,
-      "listeners": 88,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "seven-hours-after-violet",
-      "name": "Seven Hours After Violet",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 1995,
-      "listeners": 327,
       "quality": {
         "score": 64,
         "templateIntro": false,
@@ -16648,22 +14672,22 @@
       }
     },
     {
-      "id": "forever-young",
-      "name": "Forever Young",
-      "area": "洛杉矶",
-      "years": "1991–1993",
+      "id": "seven-hours-after-violet",
+      "name": "Seven Hours After Violet",
+      "area": "美国",
+      "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
-      "listens": 0,
-      "listeners": 0,
+      "degree": 2,
+      "listens": 1995,
+      "listeners": 327,
       "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
+        "score": 63,
+        "templateIntro": false,
+        "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
-        "hasAlbums": false
+        "hasAlbums": true
       }
     },
     {
@@ -16673,11 +14697,11 @@
       "years": "2012–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 3,
       "listens": 787,
       "listeners": 97,
       "quality": {
-        "score": 17,
+        "score": 16,
         "templateIntro": true,
         "hasGenres": true,
         "hasTracks": false,
@@ -16692,35 +14716,16 @@
       "years": "2000–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 3,
       "listens": 6033,
       "listeners": 347,
       "quality": {
-        "score": 23,
+        "score": 22,
         "templateIntro": true,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "axis-of-justice",
-      "name": "Axis of Justice",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 8,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 58,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -16730,73 +14735,16 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 3,
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 11,
+        "score": 10,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "american-flag",
-      "name": "American Flag",
-      "area": "美国",
-      "years": "1991–1991",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "pera",
-      "name": "PERA",
-      "area": "美国",
-      "years": "1991–1992",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "indicator",
-      "name": "Indicator",
-      "area": "洛杉矶",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -16844,7 +14792,7 @@
       "years": "2003–",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 5,
       "listens": 14863,
       "listeners": 843,
       "quality": {
@@ -16901,11 +14849,11 @@
       "years": "1990–",
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 13615,
       "listeners": 475,
       "quality": {
-        "score": 58,
+        "score": 57,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -16920,92 +14868,16 @@
       "years": "2007–",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 6,
       "listens": 15773,
       "listeners": 1202,
       "quality": {
-        "score": 78,
+        "score": 77,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "the-coverups",
-      "name": "The Coverups",
-      "area": "美国",
-      "years": "2018–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 64,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "armstrongs",
-      "name": "Armstrongs",
-      "area": "美国",
-      "years": "2017–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 3,
-      "listens": 375,
-      "listeners": 134,
-      "quality": {
-        "score": 2,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "the-boo",
-      "name": "The Boo",
-      "area": "奥克兰",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 27,
-      "listeners": 7,
-      "quality": {
-        "score": 7,
-        "templateIntro": true,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "cretin-family",
-      "name": "Cretin Family",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 5,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -17015,7 +14887,7 @@
       "years": "1999–",
       "countryCode": "US",
       "region": "western",
-      "degree": 4,
+      "degree": 3,
       "listens": 358,
       "listeners": 27,
       "quality": {
@@ -17053,11 +14925,11 @@
       "years": "1999–2003",
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 105,
       "listeners": 12,
       "quality": {
-        "score": 58,
+        "score": 57,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -17091,11 +14963,11 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 15,
       "listeners": 4,
       "quality": {
-        "score": 64,
+        "score": 63,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -17110,7 +14982,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 4,
+      "degree": 3,
       "listens": 1537,
       "listeners": 44,
       "quality": {
@@ -17120,25 +14992,6 @@
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "chino-horde",
-      "name": "Chino Horde",
-      "area": "小石城",
-      "years": "1992–1993",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 505,
-      "listeners": 67,
-      "quality": {
-        "score": 7,
-        "templateIntro": true,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -17471,11 +15324,11 @@
       "years": "1992–",
       "countryCode": "US",
       "region": "western",
-      "degree": 8,
+      "degree": 6,
       "listens": 166009,
       "listeners": 4382,
       "quality": {
-        "score": 90,
+        "score": 89,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -17490,11 +15343,11 @@
       "years": "2001–2004",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 5,
       "listens": 8702,
       "listeners": 359,
       "quality": {
-        "score": 66,
+        "score": 65,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -17509,7 +15362,7 @@
       "years": "1976–2013",
       "countryCode": "US",
       "region": "western",
-      "degree": 13,
+      "degree": 11,
       "listens": 40176,
       "listeners": 1915,
       "quality": {
@@ -17528,7 +15381,7 @@
       "years": "1979–",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 7,
       "listens": 57486,
       "listeners": 2713,
       "quality": {
@@ -17547,7 +15400,7 @@
       "years": "1987–",
       "countryCode": "US",
       "region": "western",
-      "degree": 19,
+      "degree": 13,
       "listens": 72,
       "listeners": 14,
       "quality": {
@@ -17566,35 +15419,16 @@
       "years": "1979–",
       "countryCode": "US",
       "region": "western",
-      "degree": 8,
+      "degree": 6,
       "listens": 18676,
       "listeners": 1259,
       "quality": {
-        "score": 78,
+        "score": 77,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "the-holez",
-      "name": "The Holez",
-      "area": "美国",
-      "years": "1992–1992",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 8,
-      "listens": 7,
-      "listeners": 5,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -17604,35 +15438,16 @@
       "years": "1983–1993",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 5,
       "listens": 952,
       "listeners": 72,
       "quality": {
-        "score": 24,
+        "score": 23,
         "templateIntro": true,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "diddly-squat",
-      "name": "Diddly Squat",
-      "area": "里奇兰",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 234,
-      "listeners": 1,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -17642,11 +15457,11 @@
       "years": "1995–2003",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 5,
       "listens": 6360,
       "listeners": 145,
       "quality": {
-        "score": 72,
+        "score": 71,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -17690,44 +15505,6 @@
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "kind-heaven-orchestra",
-      "name": "Kind Heaven Orchestra",
-      "area": "美国",
-      "years": "2018–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 5,
-      "listens": 2,
-      "listeners": 1,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "nighttime-boogie-association",
-      "name": "Nighttime Boogie Association",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 12,
-      "listens": 46,
-      "listeners": 24,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -17794,7 +15571,7 @@
       "years": "1987–2012",
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 107052,
       "listeners": 2226,
       "quality": {
@@ -17845,32 +15622,13 @@
       }
     },
     {
-      "id": "rat-pack",
-      "name": "Rat Pack",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 49,
-      "listeners": 22,
-      "quality": {
-        "score": 13,
-        "templateIntro": true,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "gunash",
       "name": "Gunash",
       "area": "意大利",
       "years": "2003–",
       "countryCode": "IT",
       "region": "western",
-      "degree": 4,
+      "degree": 3,
       "listens": 14,
       "listeners": 5,
       "quality": {
@@ -17889,7 +15647,7 @@
       "years": "1983–1990",
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 279,
       "listeners": 53,
       "quality": {
@@ -17908,7 +15666,7 @@
       "years": "1985–",
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 101501,
       "listeners": 3099,
       "quality": {
@@ -17927,7 +15685,7 @@
       "years": "1989–",
       "countryCode": "US",
       "region": "western",
-      "degree": 14,
+      "degree": 11,
       "listens": 1340480,
       "listeners": 13819,
       "quality": {
@@ -17946,11 +15704,11 @@
       "years": "1992–2000",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 4,
       "listens": 83315,
       "listeners": 1860,
       "quality": {
-        "score": 71,
+        "score": 70,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -18022,11 +15780,11 @@
       "years": "1974–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 4,
       "listens": 343,
       "listeners": 18,
       "quality": {
-        "score": 71,
+        "score": 70,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -18041,54 +15799,16 @@
       "years": "2010–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 2,
       "listens": 125178,
       "listeners": 3918,
       "quality": {
-        "score": 71,
+        "score": 69,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "1000-homo-djs",
-      "name": "1000 Homo DJs",
-      "area": "芝加哥",
-      "years": "1988–1990",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 5,
-      "listens": 10265,
-      "listeners": 1077,
-      "quality": {
-        "score": 63,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "witchgang",
-      "name": "WitchGang",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 5,
-      "listens": 323,
-      "listeners": 67,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -18098,11 +15818,11 @@
       "years": "2005–2007",
       "countryCode": "US",
       "region": "western",
-      "degree": 6,
+      "degree": 4,
       "listens": 8620,
       "listeners": 597,
       "quality": {
-        "score": 65,
+        "score": 64,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -18117,35 +15837,16 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 3,
       "listens": 3,
       "listeners": 3,
       "quality": {
-        "score": 11,
+        "score": 10,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "the-act",
-      "name": "The Act",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 5,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -18155,11 +15856,11 @@
       "years": "1988–2000",
       "countryCode": "US",
       "region": "western",
-      "degree": 9,
+      "degree": 6,
       "listens": 26791,
       "listeners": 1320,
       "quality": {
-        "score": 60,
+        "score": 59,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -18174,11 +15875,11 @@
       "years": "1985–",
       "countryCode": "US",
       "region": "western",
-      "degree": 8,
+      "degree": 6,
       "listens": 44309,
       "listeners": 1378,
       "quality": {
-        "score": 72,
+        "score": 71,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -18193,7 +15894,7 @@
       "years": "1981–",
       "countryCode": "US",
       "region": "western",
-      "degree": 15,
+      "degree": 12,
       "listens": 476871,
       "listeners": 6922,
       "quality": {
@@ -18364,11 +16065,11 @@
       "years": "1999–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 4,
       "listens": 8250,
       "listeners": 789,
       "quality": {
-        "score": 77,
+        "score": 76,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -18383,7 +16084,7 @@
       "years": "1992–2003",
       "countryCode": "US",
       "region": "western",
-      "degree": 4,
+      "degree": 3,
       "listens": 5600,
       "listeners": 401,
       "quality": {
@@ -18402,7 +16103,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 4,
+      "degree": 3,
       "listens": 6,
       "listeners": 3,
       "quality": {
@@ -18415,60 +16116,22 @@
       }
     },
     {
-      "id": "sic",
-      "name": "( sic )",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 6,
-      "listens": 6,
-      "listeners": 1,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "nearly",
       "name": "nearLY",
       "area": "洛杉矶",
       "years": "1999–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 3,
       "listens": 649,
       "listeners": 69,
       "quality": {
-        "score": 11,
+        "score": 10,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "the-buddha-boys-choir",
-      "name": "The Buddha Boys Choir",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -18586,36 +16249,17 @@
       }
     },
     {
-      "id": "error",
-      "name": "Error",
-      "area": "美国",
-      "years": "2003–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 2104,
-      "listeners": 186,
-      "quality": {
-        "score": 52,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "12-rounds",
       "name": "12 Rounds",
       "area": "伦敦",
       "years": null,
       "countryCode": "GB",
       "region": "western",
-      "degree": 6,
+      "degree": 3,
       "listens": 5890,
       "listeners": 192,
       "quality": {
-        "score": 65,
+        "score": 64,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -18649,11 +16293,11 @@
       "years": "1987–1997",
       "countryCode": "US",
       "region": "western",
-      "degree": 7,
+      "degree": 5,
       "listens": 530,
       "listeners": 18,
       "quality": {
-        "score": 30,
+        "score": 29,
         "templateIntro": true,
         "hasGenres": true,
         "hasTracks": false,
@@ -18668,73 +16312,16 @@
       "years": "2004–",
       "countryCode": "US",
       "region": "western",
-      "degree": 8,
+      "degree": 5,
       "listens": 4964,
       "listeners": 236,
       "quality": {
-        "score": 60,
+        "score": 59,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "satan-on-fire",
-      "name": "Satan on Fire",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 7,
-      "listens": 77,
-      "listeners": 20,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "mrs-scabtree",
-      "name": "Mrs. Scabtree",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 8,
-      "listens": 12,
-      "listeners": 8,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "modwheelmood",
-      "name": "Modwheelmood",
-      "area": "洛杉矶",
-      "years": "2008–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 16815,
-      "listeners": 455,
-      "quality": {
-        "score": 55,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {
@@ -18858,7 +16445,7 @@
       "years": "1968–2021",
       "countryCode": "GB",
       "region": "western",
-      "degree": 15,
+      "degree": 11,
       "listens": 792295,
       "listeners": 9476,
       "quality": {
@@ -18871,36 +16458,17 @@
       }
     },
     {
-      "id": "adrian-belew-power-trio",
-      "name": "Adrian Belew Power Trio",
-      "area": "美国",
-      "years": "2006–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 519,
-      "listeners": 22,
-      "quality": {
-        "score": 49,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "projekct-two",
       "name": "ProjeKct Two",
       "area": null,
       "years": "1997–1998",
       "countryCode": null,
       "region": "unknown",
-      "degree": 4,
+      "degree": 2,
       "listens": 2383,
       "listeners": 119,
       "quality": {
-        "score": 28,
+        "score": 27,
         "templateIntro": true,
         "hasGenres": true,
         "hasTracks": false,
@@ -18915,11 +16483,11 @@
       "years": null,
       "countryCode": null,
       "region": "unknown",
-      "degree": 4,
+      "degree": 2,
       "listens": 235,
       "listeners": 14,
       "quality": {
-        "score": 2,
+        "score": 1,
         "templateIntro": true,
         "hasGenres": false,
         "hasTracks": false,
@@ -18947,93 +16515,17 @@
       }
     },
     {
-      "id": "discipline",
-      "name": "Discipline",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 6,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 3,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "the-human-experimente",
-      "name": "The Human Experimente",
-      "area": "圣莫尼卡",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 8,
-      "listens": 164,
-      "listeners": 51,
-      "quality": {
-        "score": 4,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "the-crimson-projekct",
-      "name": "The Crimson ProjeKCt",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 4,
-      "listens": 1267,
-      "listeners": 73,
-      "quality": {
-        "score": 14,
-        "templateIntro": true,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
-      "id": "beat",
-      "name": "BEAT",
-      "area": "美国",
-      "years": "2023–",
-      "countryCode": "US",
-      "region": "western",
-      "degree": 8,
-      "listens": 1279,
-      "listeners": 80,
-      "quality": {
-        "score": 58,
-        "templateIntro": false,
-        "hasGenres": true,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "the-black-queen",
       "name": "The Black Queen",
       "area": "美国",
       "years": "2015–",
       "countryCode": "US",
       "region": "western",
-      "degree": 3,
+      "degree": 2,
       "listens": 27168,
       "listeners": 1486,
       "quality": {
-        "score": 70,
+        "score": 69,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -19327,25 +16819,6 @@
       }
     },
     {
-      "id": "sessanta",
-      "name": "Sessanta",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 2,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
-      }
-    },
-    {
       "id": "the-bad-seeds",
       "name": "The Bad Seeds",
       "area": "澳大利亚",
@@ -19371,7 +16844,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 123692,
       "listeners": 2026,
       "quality": {
@@ -19504,7 +16977,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 1,
+      "degree": 2,
       "listens": 187601,
       "listeners": 10052,
       "quality": {
@@ -19542,7 +17015,7 @@
       "years": null,
       "countryCode": "US",
       "region": "western",
-      "degree": 2,
+      "degree": 1,
       "listens": 216702,
       "listeners": 9752,
       "quality": {
@@ -19552,25 +17025,6 @@
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
-      }
-    },
-    {
-      "id": "t-boz-and-chilli",
-      "name": "T Boz and Chilli",
-      "area": "美国",
-      "years": null,
-      "countryCode": "US",
-      "region": "western",
-      "degree": 1,
-      "listens": 0,
-      "listeners": 0,
-      "quality": {
-        "score": 1,
-        "templateIntro": true,
-        "hasGenres": false,
-        "hasTracks": false,
-        "hasLore": false,
-        "hasAlbums": false
       }
     },
     {

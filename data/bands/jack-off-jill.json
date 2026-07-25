@@ -28,7 +28,7 @@
   "listens": 83315,
   "listeners": 1860,
   "quality": {
-    "score": 71,
+    "score": 70,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -40,18 +40,6 @@
     "musicbrainz": "https://musicbrainz.org/artist/7e870dd5-2667-454b-9fcf-a132dd8071f1"
   },
   "edges": [
-    {
-      "to": "mrs-scabtree",
-      "toName": "Mrs. Scabtree",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Daisy Berkowitz・Jessicka",
-      "detail": "2 位乐手在这两支乐队都待过：Daisy Berkowitz・Jessicka。",
-      "year": null,
-      "weight": 0.84,
-      "sources": []
-    },
     {
       "to": "marilyn-manson",
       "toName": "Marilyn Manson",

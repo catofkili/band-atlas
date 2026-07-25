@@ -65,18 +65,6 @@
       "year": null,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "sic",
-      "toName": "( sic )",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Kevin McMahon",
-      "detail": "Kevin McMahon 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
     }
   ]
 }

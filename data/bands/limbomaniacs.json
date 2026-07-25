@@ -17,12 +17,12 @@
       "year": 1990
     }
   ],
-  "intro": "Limbomaniacs是一支来自美国的音乐团体。目前资料收录了《Limbo Party》、《Stinky Grooves》等作品；MusicBrainz 还记录了它与Giant Robot、Les Claypool and the Holy Mackerel、Bluescreen之间的成员往来。",
+  "intro": "Limbomaniacs是一支来自美国的音乐团体。目前资料收录了《Limbo Party》、《Stinky Grooves》等作品；MusicBrainz 还记录了它与Giant Robot、Les Claypool and the Holy Mackerel之间的成员往来。",
   "introLang": "zh",
   "listens": 185,
   "listeners": 21,
   "quality": {
-    "score": 10,
+    "score": 9,
     "templateIntro": true,
     "hasGenres": false,
     "hasTracks": false,
@@ -51,30 +51,6 @@
       "toName": "Les Claypool and the Holy Mackerel",
       "toArea": "伯克利",
       "toYears": "1996–1996",
-      "type": "member",
-      "label": "Mark \"Mirv\" Haggard",
-      "detail": "Mark \"Mirv\" Haggard 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "bluescreen",
-      "toName": "Bluescreen",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Pete Scaturro",
-      "detail": "Pete Scaturro 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "festus-clamrod-and-the-el-sobrante-twangers",
-      "toName": "Festus Clamrod and the El Sobrante Twangers",
-      "toArea": null,
-      "toYears": null,
       "type": "member",
       "label": "Mark \"Mirv\" Haggard",
       "detail": "Mark \"Mirv\" Haggard 在这两支乐队都待过。",

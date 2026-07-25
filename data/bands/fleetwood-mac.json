@@ -79,7 +79,7 @@
   "listens": 1569955,
   "listeners": 22503,
   "quality": {
-    "score": 100,
+    "score": 99,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -161,18 +161,6 @@
       "type": "member",
       "label": "Mick Fleetwood",
       "detail": "Mick Fleetwood 在这两支乐队都待过。",
-      "year": 1997,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "sound-city-players",
-      "toName": "Sound City Players",
-      "toArea": "美国",
-      "toYears": "2012–2013",
-      "type": "member",
-      "label": "Stevie Nicks",
-      "detail": "Stevie Nicks 在这两支乐队都待过。",
       "year": 1997,
       "weight": 0.62,
       "sources": []

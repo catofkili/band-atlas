@@ -74,15 +74,27 @@
   },
   "edges": [
     {
-      "to": "artists-against-aids-worldwide",
-      "toName": "Artists Against AIDS Worldwide",
-      "toArea": "纽约",
-      "toYears": "2001–2001",
-      "type": "guest",
-      "label": "合作",
-      "detail": "MusicBrainz 记录的合作关系。",
+      "to": "jagged-edge",
+      "toName": "Jagged Edge",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
       "year": null,
-      "weight": 0.55,
+      "weight": 0.28,
+      "sources": []
+    },
+    {
+      "to": "diddy-dirty-money",
+      "toName": "Diddy – Dirty Money",
+      "toArea": "美国",
+      "toYears": "2009–2012",
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
+      "year": null,
+      "weight": 0.28,
       "sources": []
     }
   ]

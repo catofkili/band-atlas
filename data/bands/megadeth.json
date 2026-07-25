@@ -167,18 +167,6 @@
       "sources": []
     },
     {
-      "to": "panic",
-      "toName": "Panic",
-      "toArea": "加利福尼亚州",
-      "toYears": null,
-      "type": "member",
-      "label": "Dave Mustaine",
-      "detail": "Dave Mustaine 在这两支乐队都待过。",
-      "year": 1983,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "lostprophets",
       "toName": "Lostprophets",
       "toArea": "庞蒂普里德",

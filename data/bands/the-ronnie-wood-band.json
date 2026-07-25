@@ -15,7 +15,7 @@
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 50,
+    "score": 49,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -42,18 +42,6 @@
     {
       "to": "mark-knopfler-s-guitar-heroes",
       "toName": "Mark Knopfler’s Guitar Heroes",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Ronnie Wood",
-      "detail": "Ronnie Wood 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "supergroup-b",
-      "toName": "Supergroup B",
       "toArea": null,
       "toYears": null,
       "type": "member",

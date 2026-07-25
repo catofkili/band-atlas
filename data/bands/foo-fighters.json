@@ -93,18 +93,6 @@
       "sources": []
     },
     {
-      "to": "sound-city-players",
-      "toName": "Sound City Players",
-      "toArea": "美国",
-      "toYears": "2012–2013",
-      "type": "member",
-      "label": "Pat Smear・Nate Mendel・Rami Jaffee",
-      "detail": "3 位乐手在这两支乐队都待过：Pat Smear・Nate Mendel・Rami Jaffee。",
-      "year": 2010,
-      "weight": 0.95,
-      "sources": []
-    },
-    {
       "to": "sunny-day-real-estate",
       "toName": "Sunny Day Real Estate",
       "toArea": "西雅图",
@@ -305,30 +293,6 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "diddly-squat",
-      "toName": "Diddly Squat",
-      "toArea": "里奇兰",
-      "toYears": null,
-      "type": "member",
-      "label": "Nate Mendel",
-      "detail": "Nate Mendel 在这两支乐队都待过。",
-      "year": 1995,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-holez",
-      "toName": "The Holez",
-      "toArea": "美国",
-      "toYears": "1992–1992",
-      "type": "member",
-      "label": "Pat Smear",
-      "detail": "Pat Smear 在这两支乐队都待过。",
-      "year": 2010,
       "weight": 0.62,
       "sources": []
     },

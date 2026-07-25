@@ -28,7 +28,7 @@
   "listens": 92,
   "listeners": 17,
   "quality": {
-    "score": 58,
+    "score": 57,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -41,34 +41,10 @@
   },
   "edges": [
     {
-      "to": "helltrout",
-      "toName": "Helltrout",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Dave Foster・Mike Clam・Donovan Stewart",
-      "detail": "3 位乐手在这两支乐队都待过：Dave Foster・Mike Clam・Donovan Stewart。",
-      "year": null,
-      "weight": 0.95,
-      "sources": []
-    },
-    {
       "to": "nirvana",
       "toName": "Nirvana",
       "toArea": "西雅图",
       "toYears": "1987–1994",
-      "type": "member",
-      "label": "Dave Foster",
-      "detail": "Dave Foster 在这两支乐队都待过。",
-      "year": 1988,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "bliss",
-      "toName": "Bliss",
-      "toArea": "美国",
-      "toYears": "1988–1988",
       "type": "member",
       "label": "Dave Foster",
       "detail": "Dave Foster 在这两支乐队都待过。",

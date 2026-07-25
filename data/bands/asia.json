@@ -175,18 +175,6 @@
       "sources": []
     },
     {
-      "to": "beatrazr",
-      "toName": "Beatrazr",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Ron “Bumblefoot” Thal",
-      "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
-      "year": 2019,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "ringo-starr-his-all-starr-band",
       "toName": "Ringo Starr & His All Starr Band",
       "toArea": "伦敦",
@@ -195,18 +183,6 @@
       "label": "Greg Lake",
       "detail": "Greg Lake 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-human-experimente",
-      "toName": "The Human Experimente",
-      "toArea": "圣莫尼卡",
-      "toYears": null,
-      "type": "member",
-      "label": "John Wetton",
-      "detail": "John Wetton 在这两支乐队都待过。",
-      "year": 2006,
       "weight": 0.62,
       "sources": []
     },

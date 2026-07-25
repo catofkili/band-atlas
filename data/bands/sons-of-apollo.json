@@ -51,7 +51,7 @@
   "listens": 20570,
   "listeners": 872,
   "quality": {
-    "score": 89,
+    "score": 88,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -108,18 +108,6 @@
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "beatrazr",
-      "toName": "Beatrazr",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Ron “Bumblefoot” Thal",
-      "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
-      "year": 2017,
       "weight": 0.62,
       "sources": []
     }

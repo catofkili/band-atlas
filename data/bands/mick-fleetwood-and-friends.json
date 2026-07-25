@@ -150,18 +150,6 @@
       "sources": []
     },
     {
-      "to": "gak",
-      "toName": "GAK",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Kirk Hammett",
-      "detail": "Kirk Hammett 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "george-s-band",
       "toName": "George's Band",
       "toArea": null,
@@ -169,18 +157,6 @@
       "type": "member",
       "label": "Dave Bronze",
       "detail": "Dave Bronze 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "kings-of-chaos",
-      "toName": "Kings of Chaos",
-      "toArea": "美国",
-      "toYears": "2012–",
-      "type": "member",
-      "label": "Billy Gibbons",
-      "detail": "Billy Gibbons 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []
@@ -198,18 +174,6 @@
       "sources": []
     },
     {
-      "to": "maxwell-house-ranch-band",
-      "toName": "Maxwell House Ranch Band",
-      "toArea": "加利福尼亚州",
-      "toYears": null,
-      "type": "member",
-      "label": "Kirk Hammett",
-      "detail": "Kirk Hammett 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "rockestra",
       "toName": "Rockestra",
       "toArea": null,
@@ -217,30 +181,6 @@
       "type": "member",
       "label": "Pete Townshend",
       "detail": "Pete Townshend 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "spastik-children",
-      "toName": "Spastik Children",
-      "toArea": "加利福尼亚州",
-      "toYears": null,
-      "type": "member",
-      "label": "Kirk Hammett",
-      "detail": "Kirk Hammett 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-wedding-band",
-      "toName": "The Wedding Band",
-      "toArea": "夏威夷",
-      "toYears": "2018–",
-      "type": "member",
-      "label": "Kirk Hammett",
-      "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []

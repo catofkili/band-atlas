@@ -55,15 +55,15 @@
   },
   "edges": [
     {
-      "to": "maxwell-house-ranch-band",
-      "toName": "Maxwell House Ranch Band",
-      "toArea": "加利福尼亚州",
-      "toYears": null,
-      "type": "member",
-      "label": "Eric Braverman",
-      "detail": "Eric Braverman 在这两支乐队都待过。",
+      "to": "metallica",
+      "toName": "Metallica",
+      "toArea": "洛杉矶",
+      "toYears": "1981–",
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
       "year": null,
-      "weight": 0.62,
+      "weight": 0.28,
       "sources": []
     }
   ]

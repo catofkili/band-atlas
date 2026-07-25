@@ -65,18 +65,6 @@
       "year": 2013,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "beatrazr",
-      "toName": "Beatrazr",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Frank Ferrer",
-      "detail": "Frank Ferrer 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
     }
   ]
 }

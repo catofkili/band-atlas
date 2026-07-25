@@ -62,18 +62,6 @@
       "year": 2008,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "the-damning-well",
-      "toName": "The Damning Well",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Wes Borland",
-      "detail": "Wes Borland 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
     }
   ]
 }

@@ -177,40 +177,6 @@
       "sources": []
     },
     {
-      "to": "sound-city-players",
-      "toName": "Sound City Players",
-      "toArea": "美国",
-      "toYears": "2012–2013",
-      "type": "guest",
-      "label": "客串：Brad Wilk",
-      "detail": "MusicBrainz 录音资料显示，Brad Wilk参与了《Age of Reason》、《Loner》、《Live Forever》、《Methademic》等录音。",
-      "year": null,
-      "weight": 0.78,
-      "sources": [
-        "https://musicbrainz.org/recording/bbfa68c3-f300-40a9-ae10-e9af21d4d615",
-        "https://musicbrainz.org/recording/3346ade3-15c6-4bcc-9d34-8da0275448c6",
-        "https://musicbrainz.org/recording/4c4b2797-a333-468a-9a6e-39c481559803",
-        "https://musicbrainz.org/recording/9e4c7c46-f0e8-4688-a846-cb407eb29288"
-      ]
-    },
-    {
-      "to": "supergroup-b",
-      "toName": "Supergroup B",
-      "toArea": null,
-      "toYears": null,
-      "type": "guest",
-      "label": "客串：Adam Wakeman",
-      "detail": "MusicBrainz 录音资料显示，Adam Wakeman参与了《Bassically / N.I.B.》、《Behind the Wall of Sleep》、《After Forever》、《After Forever》等录音。",
-      "year": null,
-      "weight": 0.78,
-      "sources": [
-        "https://musicbrainz.org/recording/80948f8d-9302-476c-afb9-97b9b8e0772c",
-        "https://musicbrainz.org/recording/83071b91-489f-4a0a-a630-bbe185117a85",
-        "https://musicbrainz.org/recording/89cc107a-f069-4830-aa88-38bcb2e46270",
-        "https://musicbrainz.org/recording/d565c773-450b-4205-9383-710dc4da421b"
-      ]
-    },
-    {
       "to": "led-zeppelin",
       "toName": "Led Zeppelin",
       "toArea": "伦敦",
@@ -251,30 +217,6 @@
       "sources": []
     },
     {
-      "to": "deadland-ritual",
-      "toName": "Deadland Ritual",
-      "toArea": "伦敦",
-      "toYears": "2018–",
-      "type": "member",
-      "label": "Geezer Butler",
-      "detail": "Geezer Butler 在这两支乐队都待过。",
-      "year": 2018,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "ez-street",
-      "toName": "EZ-Street",
-      "toArea": "奥克兰",
-      "toYears": null,
-      "type": "member",
-      "label": "Mike Bordin",
-      "detail": "Mike Bordin 在这两支乐队都待过。",
-      "year": 1979,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "fart-sandwich-posse",
       "toName": "Fart Sandwich Posse",
       "toArea": null,
@@ -295,18 +237,6 @@
       "label": "Tony Iommi",
       "detail": "Tony Iommi 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-chickenfuckers",
-      "toName": "The Chickenfuckers",
-      "toArea": "旧金山",
-      "toYears": "1984–1984",
-      "type": "member",
-      "label": "Mike Bordin",
-      "detail": "Mike Bordin 在这两支乐队都待过。",
-      "year": 1984,
       "weight": 0.62,
       "sources": []
     },

@@ -22,7 +22,7 @@
   "listens": 343,
   "listeners": 18,
   "quality": {
-    "score": 71,
+    "score": 70,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -39,18 +39,6 @@
       "toName": "Prick",
       "toArea": "洛杉矶",
       "toYears": "1992–2003",
-      "type": "member",
-      "label": "Kevin McMahon・Greg Zydyk",
-      "detail": "2 位乐手在这两支乐队都待过：Kevin McMahon・Greg Zydyk。",
-      "year": null,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
-      "to": "sic",
-      "toName": "( sic )",
-      "toArea": "美国",
-      "toYears": null,
       "type": "member",
       "label": "Kevin McMahon・Greg Zydyk",
       "detail": "2 位乐手在这两支乐队都待过：Kevin McMahon・Greg Zydyk。",

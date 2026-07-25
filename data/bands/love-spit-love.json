@@ -72,18 +72,6 @@
       "year": 1992,
       "weight": 0.84,
       "sources": []
-    },
-    {
-      "to": "beatrazr",
-      "toName": "Beatrazr",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Frank Ferrer",
-      "detail": "Frank Ferrer 在这两支乐队都待过。",
-      "year": 1992,
-      "weight": 0.62,
-      "sources": []
     }
   ]
 }

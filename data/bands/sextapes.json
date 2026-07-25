@@ -13,13 +13,13 @@
       "year": 2008
     }
   ],
-  "intro": "SexTapes是一支来自美国的音乐团体。目前资料收录了《SexTapes》等作品；MusicBrainz 还记录了它与Guns N' Roses、Zaum、Lusk之间的成员往来。",
+  "intro": "SexTapes是一支来自美国的音乐团体。目前资料收录了《SexTapes》等作品；MusicBrainz 还记录了它与Guns N' Roses、Lusk、Replicants之间的成员往来。",
   "introLang": "zh",
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 11,
+    "score": 10,
     "templateIntro": true,
     "hasGenres": false,
     "hasTracks": false,
@@ -44,18 +44,6 @@
       "sources": []
     },
     {
-      "to": "zaum",
-      "toName": "Zaum",
-      "toArea": "洛杉矶",
-      "toYears": "1995–1996",
-      "type": "member",
-      "label": "Chris Pitman・Marko Fox",
-      "detail": "2 位乐手在这两支乐队都待过：Chris Pitman・Marko Fox。",
-      "year": null,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "lusk",
       "toName": "Lusk",
       "toArea": "加利福尼亚州",
@@ -72,18 +60,6 @@
       "toName": "Replicants",
       "toArea": "美国",
       "toYears": "1995–1996",
-      "type": "member",
-      "label": "Chris Pitman",
-      "detail": "Chris Pitman 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "beatrazr",
-      "toName": "Beatrazr",
-      "toArea": null,
-      "toYears": null,
       "type": "member",
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",

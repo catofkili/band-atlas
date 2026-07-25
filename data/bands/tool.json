@@ -84,18 +84,6 @@
   },
   "edges": [
     {
-      "to": "supergroup-b",
-      "toName": "Supergroup B",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Danny Carey・Adam Jones",
-      "detail": "2 位乐手在这两支乐队都待过：Danny Carey・Adam Jones。",
-      "year": 1990,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "melvins",
       "toName": "Melvins",
       "toArea": "蒙特萨诺",
@@ -182,110 +170,6 @@
       "year": 1990,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "beat",
-      "toName": "BEAT",
-      "toArea": "美国",
-      "toYears": "2023–",
-      "type": "member",
-      "label": "Danny Carey",
-      "detail": "Danny Carey 在这两支乐队都待过。",
-      "year": 1990,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "tapeworm",
-      "toName": "Tapeworm",
-      "toArea": "美国",
-      "toYears": "1996–2004",
-      "type": "member",
-      "label": "Maynard James Keenan",
-      "detail": "Maynard James Keenan 在这两支乐队都待过。",
-      "year": 1990,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-human-experimente",
-      "toName": "The Human Experimente",
-      "toArea": "圣莫尼卡",
-      "toYears": null,
-      "type": "member",
-      "label": "Maynard James Keenan",
-      "detail": "Maynard James Keenan 在这两支乐队都待过。",
-      "year": 1990,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "zaum",
-      "toName": "Zaum",
-      "toArea": "洛杉矶",
-      "toYears": "1995–1996",
-      "type": "member",
-      "label": "Danny Carey",
-      "detail": "Danny Carey 在这两支乐队都待过。",
-      "year": 1990,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "brown-towel",
-      "toName": "Brown Towel",
-      "toArea": null,
-      "toYears": "1985–1986",
-      "type": "guest",
-      "label": "客串：Buzz Osborne",
-      "detail": "MusicBrainz 录音资料显示，Buzz Osborne参与了《You Lied》等录音。",
-      "year": null,
-      "weight": 0.66,
-      "sources": [
-        "https://musicbrainz.org/recording/eae6c16a-5516-4133-95c6-5c8997f96802"
-      ]
-    },
-    {
-      "to": "fecal-matter",
-      "toName": "Fecal Matter",
-      "toArea": "阿伯丁",
-      "toYears": "1985–1986",
-      "type": "guest",
-      "label": "客串：Buzz Osborne",
-      "detail": "MusicBrainz 录音资料显示，Buzz Osborne参与了《You Lied》等录音。",
-      "year": null,
-      "weight": 0.66,
-      "sources": [
-        "https://musicbrainz.org/recording/eae6c16a-5516-4133-95c6-5c8997f96802"
-      ]
-    },
-    {
-      "to": "melvana",
-      "toName": "Melvana",
-      "toArea": null,
-      "toYears": "1992–1992",
-      "type": "guest",
-      "label": "客串：Buzz Osborne",
-      "detail": "MusicBrainz 录音资料显示，Buzz Osborne参与了《You Lied》等录音。",
-      "year": null,
-      "weight": 0.66,
-      "sources": [
-        "https://musicbrainz.org/recording/eae6c16a-5516-4133-95c6-5c8997f96802"
-      ]
-    },
-    {
-      "to": "the-fantômas-melvins-big-band",
-      "toName": "The Fantômas Melvins Big Band",
-      "toArea": "美国",
-      "toYears": "2000–",
-      "type": "guest",
-      "label": "客串：Buzz Osborne",
-      "detail": "MusicBrainz 录音资料显示，Buzz Osborne参与了《You Lied》等录音。",
-      "year": null,
-      "weight": 0.66,
-      "sources": [
-        "https://musicbrainz.org/recording/eae6c16a-5516-4133-95c6-5c8997f96802"
-      ]
     },
     {
       "to": "deftones",

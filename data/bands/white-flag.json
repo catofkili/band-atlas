@@ -41,7 +41,7 @@
   "listens": 1155,
   "listeners": 188,
   "quality": {
-    "score": 66,
+    "score": 65,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -122,18 +122,6 @@
       "label": "Kim Shattuck",
       "detail": "Kim Shattuck 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "rodney-the-tube-tops",
-      "toName": "Rodney & The Tube Tops",
-      "toArea": null,
-      "toYears": "1996–1997",
-      "type": "member",
-      "label": "Pat Fear",
-      "detail": "Pat Fear 在这两支乐队都待过。",
-      "year": null,
       "weight": 0.62,
       "sources": []
     }

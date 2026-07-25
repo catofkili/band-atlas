@@ -22,7 +22,7 @@
   "listens": 141,
   "listeners": 25,
   "quality": {
-    "score": 11,
+    "score": 10,
     "templateIntro": true,
     "hasGenres": false,
     "hasTracks": false,
@@ -78,30 +78,6 @@
       "type": "member",
       "label": "Pinchface",
       "detail": "Pinchface 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "buckethead-and-his-bucket-bots",
-      "toName": "Buckethead And His Bucket-Bots",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Travis Dickerson",
-      "detail": "Travis Dickerson 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-dragons-of-eden",
-      "toName": "The Dragons of Eden",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Travis Dickerson",
-      "detail": "Travis Dickerson 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []

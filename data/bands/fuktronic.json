@@ -19,7 +19,7 @@
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 11,
+    "score": 10,
     "templateIntro": true,
     "hasGenres": false,
     "hasTracks": false,
@@ -64,30 +64,6 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "axis-of-justice",
-      "toName": "Axis of Justice",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Serj Tankian",
-      "detail": "Serj Tankian 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "forever-young",
-      "toName": "Forever Young",
-      "toArea": "洛杉矶",
-      "toYears": "1991–1993",
-      "type": "member",
-      "label": "Serj Tankian",
-      "detail": "Serj Tankian 在这两支乐队都待过。",
-      "year": 1991,
       "weight": 0.62,
       "sources": []
     }

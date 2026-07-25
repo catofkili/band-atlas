@@ -145,18 +145,6 @@
       "sources": []
     },
     {
-      "to": "supergroup-b",
-      "toName": "Supergroup B",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Ronnie Wood",
-      "detail": "Ronnie Wood 在这两支乐队都待过。",
-      "year": 1975,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "the-ronnie-wood-band",
       "toName": "The Ronnie Wood Band",
       "toArea": "英国",

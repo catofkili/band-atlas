@@ -24,7 +24,7 @@
   "listeners": 511,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 71,
+    "score": 70,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -80,18 +80,6 @@
       "type": "member",
       "label": "Michael Hampton",
       "detail": "Michael Hampton 在这两支乐队都待过。",
-      "year": 1986,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "skewbald",
-      "toName": "Skewbald",
-      "toArea": "美国",
-      "toYears": "1981–1981",
-      "type": "member",
-      "label": "Eddie Janney",
-      "detail": "Eddie Janney 在这两支乐队都待过。",
       "year": 1986,
       "weight": 0.62,
       "sources": []

@@ -174,18 +174,6 @@
       "year": 1992,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "halloween-jack",
-      "toName": "Halloween Jack",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Stephen Perkins",
-      "detail": "Stephen Perkins 在这两支乐队都待过。",
-      "year": 1992,
-      "weight": 0.62,
-      "sources": []
     }
   ]
 }

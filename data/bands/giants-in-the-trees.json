@@ -24,7 +24,7 @@
   "listens": 810,
   "listeners": 242,
   "quality": {
-    "score": 58,
+    "score": 57,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -56,18 +56,6 @@
       "type": "member",
       "label": "Ray Prestegard",
       "detail": "Ray Prestegard 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-bona-fide-band",
-      "toName": "The Bona Fide Band",
-      "toArea": "西雅图",
-      "toYears": "2024–",
-      "type": "member",
-      "label": "Jillian Raye",
-      "detail": "Jillian Raye 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []

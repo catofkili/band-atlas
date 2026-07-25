@@ -42,7 +42,7 @@
   "listens": 44309,
   "listeners": 1378,
   "quality": {
-    "score": 72,
+    "score": 71,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -88,30 +88,6 @@
       "detail": "3 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Al Jourgensen。",
       "year": 1988,
       "weight": 0.95,
-      "sources": []
-    },
-    {
-      "to": "1000-homo-djs",
-      "toName": "1000 Homo DJs",
-      "toArea": "芝加哥",
-      "toYears": "1988–1990",
-      "type": "member",
-      "label": "Paul Barker・Al Jourgensen",
-      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
-      "year": null,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
-      "to": "pailhead",
-      "toName": "Pailhead",
-      "toArea": "美国",
-      "toYears": "1988–1988",
-      "type": "member",
-      "label": "Paul Barker・Al Jourgensen",
-      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
-      "year": null,
-      "weight": 0.84,
       "sources": []
     },
     {

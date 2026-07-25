@@ -70,7 +70,7 @@
   "listens": 431182,
   "listeners": 5716,
   "quality": {
-    "score": 90,
+    "score": 89,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -82,18 +82,6 @@
     "musicbrainz": "https://musicbrainz.org/artist/9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb"
   },
   "edges": [
-    {
-      "to": "the-fantômas-melvins-big-band",
-      "toName": "The Fantômas Melvins Big Band",
-      "toArea": "美国",
-      "toYears": "2000–",
-      "type": "member",
-      "label": "Buzz Osborne・副项目",
-      "detail": "2 位乐手在这两支乐队都待过：Buzz Osborne・副项目。",
-      "year": null,
-      "weight": 0.84,
-      "sources": []
-    },
     {
       "to": "mudhoney",
       "toName": "Mudhoney",
@@ -154,66 +142,6 @@
       "detail": "Melvins 影响了 Nirvana（Wikidata）。",
       "year": null,
       "weight": 0.46,
-      "sources": []
-    },
-    {
-      "to": "brown-towel",
-      "toName": "Brown Towel",
-      "toArea": null,
-      "toYears": "1985–1986",
-      "type": "member",
-      "label": "Buzz Osborne",
-      "detail": "Buzz Osborne 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "fecal-matter",
-      "toName": "Fecal Matter",
-      "toArea": "阿伯丁",
-      "toYears": "1985–1986",
-      "type": "member",
-      "label": "Buzz Osborne",
-      "detail": "Buzz Osborne 在这两支乐队都待过。",
-      "year": 1986,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "melvana",
-      "toName": "Melvana",
-      "toArea": null,
-      "toYears": "1992–1992",
-      "type": "member",
-      "label": "Buzz Osborne",
-      "detail": "Buzz Osborne 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "supergroup-b",
-      "toName": "Supergroup B",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Adam Jones",
-      "detail": "Adam Jones 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "dale-crover-band",
-      "toName": "Dale Crover Band",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "副项目",
-      "detail": "MusicBrainz 记录的副项目关系。",
-      "year": null,
-      "weight": 0.55,
       "sources": []
     }
   ]

@@ -13,7 +13,7 @@ export const REL = {
   guest: { name: '客串・合作', short: '合作' },
   influence: { name: '影响', short: '影响' },
   feud: { name: '恩怨', short: '恩怨' },
-  scene: { name: '同乡・同世代', short: '同世代' },
+  scene: { name: '场景・推荐', short: '推荐' },
 };
 
 export async function loadIndex() {

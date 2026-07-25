@@ -55,7 +55,7 @@
   "listens": 126045,
   "listeners": 5147,
   "quality": {
-    "score": 88,
+    "score": 87,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -88,30 +88,6 @@
       "label": "Scott Weiland",
       "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "artists-against-aids-worldwide",
-      "toName": "Artists Against AIDS Worldwide",
-      "toArea": "纽约",
-      "toYears": "2001–2001",
-      "type": "member",
-      "label": "Scott Weiland",
-      "detail": "Scott Weiland 在这两支乐队都待过。",
-      "year": 2012,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "camp-freddy",
-      "toName": "Camp Freddy",
-      "toArea": "美国",
-      "toYears": "2003–",
-      "type": "member",
-      "label": "Scott Weiland",
-      "detail": "Scott Weiland 在这两支乐队都待过。",
-      "year": 2006,
       "weight": 0.62,
       "sources": []
     }

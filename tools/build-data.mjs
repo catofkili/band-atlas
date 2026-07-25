@@ -367,6 +367,90 @@ for (const [id, band] of merged) {
   }
 }
 
+/* -------------------------------------------- 推歌站准入：美国项目须有完整专辑 */
+
+// 产品目标是推歌，不再保留只承担成员履历或前身说明作用的美国临时项目。
+// crawl.mjs 的 albums 只包含 MusicBrainz primary-type=Album、无 secondary type、
+// 且有首发年份的发行组，因此这里的“至少一张”对应可确认已经发行的完整录音室专辑。
+const prunedNoAlbumUs = new Set(
+  [...merged]
+    .filter(([, band]) => band.countryCode === 'US' && !(band.albums?.length))
+    .map(([id]) => id)
+);
+const adjacencyBeforeAlbumPrune = new Map(
+  [...adjacency].map(([id, edges]) => [id, edges.map((edge) => ({ ...edge }))])
+);
+const connectedBeforeAlbumPrune = new Set(
+  [...adjacency].filter(([, edges]) => edges.length).map(([id]) => id)
+);
+for (const id of prunedNoAlbumUs) {
+  merged.delete(id);
+  adjacency.delete(id);
+}
+for (const [id, edges] of adjacency) {
+  adjacency.set(id, edges.filter((edge) => !prunedNoAlbumUs.has(edge.to)));
+}
+for (const [key, edge] of graphEdgeDetails) {
+  if (prunedNoAlbumUs.has(edge.from) || prunedNoAlbumUs.has(edge.to)) {
+    graphEdgeDetails.delete(key);
+    seen.delete(key);
+  }
+}
+
+// 若一支有完整专辑的乐队唯一连线恰好经过被删的临时项目，不让它跟着成为孤岛。
+// 优先连接到原项目的另一位两跳邻居；没有可用两跳对象时，才按同国、流派和热度推荐。
+// 这条虚线明确标成“推荐”，不冒充成员、合作或影响事实。
+const strandedAlbumBands = [...merged]
+  .filter(
+    ([id, band]) =>
+      connectedBeforeAlbumPrune.has(id) &&
+      !adjacency.get(id).length &&
+      (band.albums?.length ?? 0) > 0
+  )
+  .sort(([a], [b]) => a.localeCompare(b));
+for (const [id, band] of strandedAlbumBands) {
+  const removedNeighbors = (adjacencyBeforeAlbumPrune.get(id) ?? [])
+    .filter((edge) => prunedNoAlbumUs.has(edge.to))
+    .map((edge) => edge.to);
+  const contractedCandidates = new Set(
+    removedNeighbors.flatMap((removedId) =>
+      (adjacencyBeforeAlbumPrune.get(removedId) ?? []).map((edge) => edge.to)
+    )
+  );
+  contractedCandidates.delete(id);
+  const ownGenres = new Set(band.genres ?? []);
+  const eligible = [...merged]
+    .filter(
+      ([candidateId, candidate]) =>
+        candidateId !== id &&
+        adjacency.get(candidateId)?.length &&
+        (candidate.albums?.length ?? 0) > 0
+    )
+    .map(([candidateId, candidate]) => {
+      const sharedGenres = (candidate.genres ?? []).filter((genre) => ownGenres.has(genre)).length;
+      const score =
+        (contractedCandidates.has(candidateId) ? 12 : 0) +
+        (candidate.countryCode === band.countryCode ? 3 : 0) +
+        sharedGenres * 4 +
+        Math.log10((candidate.listens ?? 0) + 1) * 0.25;
+      return { candidateId, score };
+    })
+    .sort((a, b) => b.score - a.score || a.candidateId.localeCompare(b.candidateId));
+  const target = eligible[0]?.candidateId;
+  if (!target) continue;
+  addEdge(
+    {
+      from: id,
+      to: target,
+      type: 'scene',
+      weight: 0.28,
+      label: '完整专辑推荐',
+      detail: '按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。',
+    },
+    `album-recommendation.${id}`
+  );
+}
+
 /**
  * 一支乐队可能有几十条关系，屏幕边缘只摆得下八个，得挑。
  * 权重之外再给「更值得点进去」的对象加点分：人工整理过的（有中文简介和轶事）、
@@ -537,6 +621,8 @@ const edgeCount = seen.size;
 console.log(
   `✓ ${merged.size} 支乐队 / ${edgeCount} 条关系` +
     (isolated.length ? `（丢掉 ${isolated.length} 个孤岛）` : '') +
+    `\n  推歌准入：移除 ${prunedNoAlbumUs.size} 支没有完整专辑的美国项目` +
+    `，保留并重连 ${strandedAlbumBands.length} 支完整专辑乐队` +
     `\n  每队关系数：最少 ${Math.min(...degrees)}，最多 ${Math.max(...degrees)}，` +
     `平均 ${(degrees.reduce((a, b) => a + b, 0) / degrees.length).toFixed(1)}` +
     `\n  离线布局：${layoutMetadata.algorithm}，${layoutMetadata.components} 个分量，` +

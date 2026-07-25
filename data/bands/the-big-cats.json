@@ -21,7 +21,7 @@
   "listens": 15,
   "listeners": 4,
   "quality": {
-    "score": 64,
+    "score": 63,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -33,18 +33,6 @@
     "musicbrainz": "https://musicbrainz.org/artist/661c8840-8a2f-4626-9edf-68be40656c4a"
   },
   "edges": [
-    {
-      "to": "chino-horde",
-      "toName": "Chino Horde",
-      "toArea": "小石城",
-      "toYears": "1992–1993",
-      "type": "member",
-      "label": "Burt Taggart",
-      "detail": "Burt Taggart 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
     {
       "to": "numbskulz",
       "toName": "Numbskulz",

@@ -79,18 +79,6 @@
   },
   "edges": [
     {
-      "to": "sound-city-players",
-      "toName": "Sound City Players",
-      "toArea": "美国",
-      "toYears": "2012–2013",
-      "type": "member",
-      "label": "Tim Commerford・Brad Wilk",
-      "detail": "2 位乐手在这两支乐队都待过：Tim Commerford・Brad Wilk。",
-      "year": null,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
       "toArea": "伯明翰",
@@ -132,32 +120,8 @@
       "sources": []
     },
     {
-      "to": "axis-of-justice",
-      "toName": "Axis of Justice",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Tom Morello",
-      "detail": "Tom Morello 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
       "to": "mark-knopfler-s-guitar-heroes",
       "toName": "Mark Knopfler’s Guitar Heroes",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Tom Morello",
-      "detail": "Tom Morello 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "supergroup-b",
-      "toName": "Supergroup B",
       "toArea": null,
       "toYears": null,
       "type": "member",

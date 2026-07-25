@@ -71,18 +71,6 @@
   },
   "edges": [
     {
-      "to": "artists-against-aids-worldwide",
-      "toName": "Artists Against AIDS Worldwide",
-      "toArea": "纽约",
-      "toYears": "2001–2001",
-      "type": "guest",
-      "label": "合作",
-      "detail": "MusicBrainz 记录的合作关系。",
-      "year": null,
-      "weight": 0.55,
-      "sources": []
-    },
-    {
       "to": "backstreet-boys",
       "toName": "Backstreet Boys",
       "toArea": "美国",

@@ -13,7 +13,7 @@
       "year": 2009
     }
   ],
-  "intro": "Afternoon Saints是一支来自美国的音乐团体。目前资料收录了《The Shirley Jangle》等作品；MusicBrainz 还记录了它与Glacial、Text of Light之间的成员往来。",
+  "intro": "Afternoon Saints是一支来自美国的音乐团体。目前资料收录了《The Shirley Jangle》等作品；MusicBrainz 还记录了它与Glacial之间的成员往来。",
   "introLang": "zh",
   "listens": 0,
   "listeners": 0,
@@ -39,18 +39,6 @@
       "type": "member",
       "label": "David Watson",
       "detail": "David Watson 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "text-of-light",
-      "toName": "Text of Light",
-      "toArea": "美国",
-      "toYears": "2001–",
-      "type": "member",
-      "label": "Christian Marclay",
-      "detail": "Christian Marclay 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []

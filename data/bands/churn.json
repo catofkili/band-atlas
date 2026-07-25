@@ -13,7 +13,7 @@
       "year": 1996
     }
   ],
-  "intro": "Churn是一支来自阿灵顿县的音乐团体，活跃时期为1989–。目前资料收录了《This Way to the Other Side》等作品；MusicBrainz 还记录了它与Harlingtox A.D.之间的成员往来。",
+  "intro": "Churn是一支来自阿灵顿县的音乐团体，活跃时期为1989–。目前资料收录了《This Way to the Other Side》等作品。",
   "introLang": "zh",
   "listens": 3,
   "listeners": 2,
@@ -31,15 +31,15 @@
   },
   "edges": [
     {
-      "to": "harlingtox-a-d",
-      "toName": "Harlingtox A.D.",
-      "toArea": "华盛顿特区",
-      "toYears": null,
-      "type": "member",
-      "label": "Barrett Jones",
-      "detail": "Barrett Jones 在这两支乐队都待过。",
+      "to": "boris",
+      "toName": "Boris",
+      "toArea": "东京",
+      "toYears": "1992–",
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
       "year": null,
-      "weight": 0.62,
+      "weight": 0.28,
       "sources": []
     }
   ]

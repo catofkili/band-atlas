@@ -94,18 +94,6 @@
       "sources": []
     },
     {
-      "to": "the-p-funk-mob",
-      "toName": "The P-Funk Mob",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Bootsy Collins・Michael Hampton・Larry Fratangelo・Greg Boyer・George Clinton・Ray Davis・Glen Goins・Fuzzy Haskins・Eddie Hazel・Garry Shider・Calvin Simon・Grady Thomas・Ramon \"Tiki\" Fulwood",
-      "detail": "13 位乐手在这两支乐队都待过：Bootsy Collins・Michael Hampton・Larry Fratangelo・Greg Boyer・George Clinton・Ray Davis・Glen Goins・Fuzzy Haskins・Eddie Hazel・Garry Shider・Calvin Simon・Grady Thomas・Ramon \"Tiki\" Fulwood。",
-      "year": null,
-      "weight": 0.95,
-      "sources": []
-    },
-    {
       "to": "material",
       "toName": "Material",
       "toArea": "纽约",
@@ -132,30 +120,6 @@
     {
       "to": "science-faxtion",
       "toName": "Science Faxtion",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Bootsy Collins",
-      "detail": "Bootsy Collins 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "pharaoh",
-      "toName": "Pharaoh",
-      "toArea": "底特律",
-      "toYears": null,
-      "type": "member",
-      "label": "Larry Fratangelo",
-      "detail": "Larry Fratangelo 在这两支乐队都待过。",
-      "year": 1978,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "world-wide-funkdrive",
-      "toName": "World-Wide-Funkdrive",
       "toArea": null,
       "toYears": null,
       "type": "member",

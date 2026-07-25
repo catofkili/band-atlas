@@ -69,7 +69,7 @@
   "listens": 207892,
   "listeners": 6861,
   "quality": {
-    "score": 89,
+    "score": 88,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -124,18 +124,6 @@
       "toName": "Circus Diablo",
       "toArea": "洛杉矶",
       "toYears": "2006–",
-      "type": "member",
-      "label": "Billy Duffy",
-      "detail": "Billy Duffy 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "kings-of-chaos",
-      "toName": "Kings of Chaos",
-      "toArea": "美国",
-      "toYears": "2012–",
       "type": "member",
       "label": "Billy Duffy",
       "detail": "Billy Duffy 在这两支乐队都待过。",

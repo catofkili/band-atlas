@@ -50,18 +50,6 @@
       "sources": []
     },
     {
-      "to": "sic",
-      "toName": "( sic )",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Kevin McMahon・Greg Zydyk",
-      "detail": "2 位乐手在这两支乐队都待过：Kevin McMahon・Greg Zydyk。",
-      "year": null,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
       "toArea": "克利夫兰",

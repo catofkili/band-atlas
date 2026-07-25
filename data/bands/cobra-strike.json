@@ -118,18 +118,6 @@
       "year": null,
       "weight": 0.62,
       "sources": []
-    },
-    {
-      "to": "buckethead-and-his-bucket-bots",
-      "toName": "Buckethead And His Bucket-Bots",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "DJ Disk",
-      "detail": "DJ Disk 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
     }
   ]
 }

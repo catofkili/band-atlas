@@ -56,18 +56,6 @@
       "sources": []
     },
     {
-      "to": "sound-city-players",
-      "toName": "Sound City Players",
-      "toArea": "美国",
-      "toYears": "2012–2013",
-      "type": "member",
-      "label": "Josh Homme・Alain Johannes・Chris Goss",
-      "detail": "3 位乐手在这两支乐队都待过：Josh Homme・Alain Johannes・Chris Goss。",
-      "year": 1997,
-      "weight": 0.95,
-      "sources": []
-    },
-    {
       "to": "a-perfect-circle",
       "toName": "A Perfect Circle",
       "toArea": "洛杉矶",
@@ -221,42 +209,6 @@
       "type": "member",
       "label": "Alain Johannes",
       "detail": "Alain Johannes 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "mrs-scabtree",
-      "toName": "Mrs. Scabtree",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Jeordie White",
-      "detail": "Jeordie White 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "satan-on-fire",
-      "toName": "Satan on Fire",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Jeordie White",
-      "detail": "Jeordie White 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-wedding-band",
-      "toName": "The Wedding Band",
-      "toArea": "夏威夷",
-      "toYears": "2018–",
-      "type": "member",
-      "label": "Joey Castillo",
-      "detail": "Joey Castillo 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62,
       "sources": []

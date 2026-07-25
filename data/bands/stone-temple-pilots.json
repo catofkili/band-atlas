@@ -91,18 +91,6 @@
       "sources": []
     },
     {
-      "to": "camp-freddy",
-      "toName": "Camp Freddy",
-      "toArea": "美国",
-      "toYears": "2003–",
-      "type": "member",
-      "label": "Chester Bennington・Scott Weiland",
-      "detail": "2 位乐手在这两支乐队都待过：Chester Bennington・Scott Weiland。",
-      "year": 2013,
-      "weight": 0.84,
-      "sources": []
-    },
-    {
       "to": "linkin-park",
       "toName": "Linkin Park",
       "toArea": "阿古拉希尔斯",
@@ -163,39 +151,15 @@
       "sources": []
     },
     {
-      "to": "artists-against-aids-worldwide",
-      "toName": "Artists Against AIDS Worldwide",
-      "toArea": "纽约",
-      "toYears": "2001–2001",
-      "type": "member",
-      "label": "Scott Weiland",
-      "detail": "Scott Weiland 在这两支乐队都待过。",
-      "year": 1989,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "kings-of-chaos",
-      "toName": "Kings of Chaos",
-      "toArea": "美国",
-      "toYears": "2012–",
-      "type": "member",
-      "label": "Chester Bennington",
-      "detail": "Chester Bennington 在这两支乐队都待过。",
-      "year": 2013,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "sean-dowdell-and-his-friends",
-      "toName": "Sean Dowdell And His Friends?",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Chester Bennington",
-      "detail": "Chester Bennington 在这两支乐队都待过。",
-      "year": 2013,
-      "weight": 0.62,
+      "to": "neurotic-outsiders",
+      "toName": "Neurotic Outsiders",
+      "toArea": "洛杉矶",
+      "toYears": "1995–1997",
+      "type": "scene",
+      "label": "完整专辑推荐",
+      "detail": "按原关系链、流派与收听热度生成的推荐，不表示成员或合作事实。",
+      "year": null,
+      "weight": 0.28,
       "sources": []
     }
   ]

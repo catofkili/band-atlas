@@ -21,7 +21,7 @@
   "listens": 133,
   "listeners": 30,
   "quality": {
-    "score": 65,
+    "score": 64,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -54,30 +54,6 @@
       "label": "Shavo Odadjian",
       "detail": "Shavo Odadjian 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "north-kingsley",
-      "toName": "North Kingsley",
-      "toArea": null,
-      "toYears": null,
-      "type": "member",
-      "label": "Shavo Odadjian",
-      "detail": "Shavo Odadjian 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "polaris",
-      "toName": "Polaris",
-      "toArea": "美国",
-      "toYears": "1992–1993",
-      "type": "member",
-      "label": "Shavo Odadjian",
-      "detail": "Shavo Odadjian 在这两支乐队都待过。",
-      "year": 1992,
       "weight": 0.62,
       "sources": []
     },

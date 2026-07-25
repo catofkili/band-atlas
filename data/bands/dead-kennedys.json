@@ -63,7 +63,7 @@
   "listens": 415421,
   "listeners": 7824,
   "quality": {
-    "score": 90,
+    "score": 89,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -120,18 +120,6 @@
       "label": "D.H. Peligro",
       "detail": "D.H. Peligro 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62,
-      "sources": []
-    },
-    {
-      "to": "the-no-w-t-o-combo",
-      "toName": "The No W.T.O. Combo",
-      "toArea": "美国",
-      "toYears": "1999–1999",
-      "type": "member",
-      "label": "Jello Biafra",
-      "detail": "Jello Biafra 在这两支乐队都待过。",
-      "year": 1978,
       "weight": 0.62,
       "sources": []
     },
