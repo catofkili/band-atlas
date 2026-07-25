@@ -1,6 +1,6 @@
 import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js';
 import { layoutNeighbors } from './layout.js';
-import { createNetworkMap } from './map.js';
+import { createNetworkMap } from './map.js?v=20260725-10';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -26,6 +26,8 @@ const mapEl = document.getElementById('network-map');
 const networkMap = createNetworkMap({ canvas: document.getElementById('network-canvas'), onChoose: (id) => { mapEl.hidden = true; jumpTo(id); } });
 document.getElementById('map-close').addEventListener('click', () => {
   stageTouches.clear();
+  mapGestureActive = false;
+  networkMap.cancelPointers();
   mapEl.hidden = true;
 });
 window.addEventListener('resize', () => { if (!mapEl.hidden) networkMap.resize(); });
@@ -341,15 +343,17 @@ const DRAG_DAMP = 0.42; // 画布跟手但带阻尼，暗示这不是自由拖�
 
 let drag = null;
 let swallowClick = false;
-const stageTouches = new Set();
+const stageTouches = new Map();
+let mapGestureActive = false;
 
 function openMapFromGesture() {
   if (mapEl.hidden) {
     drag = null;
-    // 地图盖上来后，先前落在卡片上的手指事件不会再回到 stage。
-    // 清掉它们，避免返回卡片时把下一次单指错判成第二根手指。
-    stageTouches.clear();
+    mapGestureActive = true;
     mapEl.hidden = false;
+    networkMap.adoptPointers(
+      [...stageTouches.entries()].map(([id, point]) => ({ id, ...point }))
+    );
     networkMap.open(current?.id);
   }
 }
@@ -372,9 +376,12 @@ stage.addEventListener(
   (ev) => {
     if (ev.pointerType === 'mouse' || busy || !world) return;
     if (ev.pointerType === 'touch') {
-      stageTouches.add(ev.pointerId);
+      stageTouches.set(ev.pointerId, { clientX: ev.clientX, clientY: ev.clientY });
       // 第二根手指落下就从卡片自然退到关系网，不需要额外的「全网」入口。
-      if (stageTouches.size >= 2) return openMapFromGesture();
+      if (stageTouches.size >= 2) {
+        stage.setPointerCapture?.(ev.pointerId);
+        return openMapFromGesture();
+      }
     }
     // 焦点卡片正文自己要滚动，别把它的竖划抢走
     if (ev.target.closest('.card__body, .search')) return;
@@ -389,6 +396,11 @@ stage.addEventListener(
 stage.addEventListener(
   'pointermove',
   (ev) => {
+    if (mapGestureActive && stageTouches.has(ev.pointerId)) {
+      stageTouches.set(ev.pointerId, { clientX: ev.clientX, clientY: ev.clientY });
+      networkMap.moveAdoptedPointer(ev);
+      return;
+    }
     if (!drag || ev.pointerId !== drag.id) return;
     drag.dx = ev.clientX - drag.x0;
     drag.dy = ev.clientY - drag.y0;
@@ -401,6 +413,7 @@ stage.addEventListener(
 );
 
 function endDrag(ev) {
+  if (mapGestureActive) return;
   if (!drag || ev.pointerId !== drag.id) return;
   const { dx, dy, active } = drag;
   drag = null;
@@ -427,8 +440,16 @@ function endDrag(ev) {
 
 stage.addEventListener('pointerup', endDrag, { passive: true });
 stage.addEventListener('pointercancel', endDrag, { passive: true });
-stage.addEventListener('pointerup', (ev) => stageTouches.delete(ev.pointerId), { passive: true });
-stage.addEventListener('pointercancel', (ev) => stageTouches.delete(ev.pointerId), { passive: true });
+function endStageTouch(ev) {
+  if (mapGestureActive && stageTouches.has(ev.pointerId)) {
+    networkMap.endAdoptedPointer(ev);
+  }
+  stageTouches.delete(ev.pointerId);
+  if (!stageTouches.size) mapGestureActive = false;
+  if (stage.hasPointerCapture?.(ev.pointerId)) stage.releasePointerCapture(ev.pointerId);
+}
+stage.addEventListener('pointerup', endStageTouch, { passive: true });
+stage.addEventListener('pointercancel', endStageTouch, { passive: true });
 
 function setHighlight(id, on) {
   const slot = slots.find((s) => s.edge.to === id);

@@ -5,7 +5,7 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>乐队关系网</title>
 <meta name="description" content="从一支乐队出发，顺着成员、客串、影响与恩怨，走进整张关系网。">
-<link rel="stylesheet" href="style.css">
+<link rel="stylesheet" href="style.css?v=20260725-2">
 </head>
 <body>
 
@@ -22,7 +22,7 @@
 
 <section id="network-map" class="network-map" hidden aria-label="乐队关系全网地图">
   <canvas id="network-canvas"></canvas>
-  <div class="network-map__hud"><button id="map-close" class="btn" type="button">返回卡片</button><span>双指缩放 · 拖动地图 · 点节点进入</span></div>
+  <div class="network-map__hud"><button id="map-close" class="btn" type="button">返回卡片</button><span>双指缩放 · 拖动地图 · 点节点进入 · <b id="map-stats"></b></span></div>
 </section>
 
 <div id="search" class="search" hidden>
@@ -38,6 +38,6 @@
   <p class="status" id="status" role="status">载入中…</p>
 </footer>
 
-<script type="module" src="js/main.js"></script>
+<script type="module" src="js/main.js?v=20260725-10"></script>
 </body>
 </html>

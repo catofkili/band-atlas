@@ -66,7 +66,7 @@ button { font: inherit; color: inherit; }
   /* 拖画布换乐队要自己接管触摸，否则浏览器先把手势当成滚动页面 */
   touch-action: none;
 }
-.network-map { position:fixed; inset:0; z-index:10; background:var(--ground); touch-action:none; }
+.network-map { position:fixed; inset:0; z-index:30; background:var(--ground); touch-action:none; }
 .network-map[hidden] { display:none; }
 #network-canvas { width:100%; height:100%; display:block; }
 .network-map__hud { position:absolute; inset:16px 16px auto; display:flex; gap:12px; align-items:center; color:var(--ink-2); font-size:.72rem; pointer-events:none; }
