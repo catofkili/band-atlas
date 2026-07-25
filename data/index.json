@@ -8,35 +8,35 @@
       "name": "NUMBER GIRL",
       "area": "福冈",
       "years": "1995–2002 / 2019–2022",
-      "degree": 13
+      "degree": 19
     },
     {
       "id": "zazen-boys",
       "name": "ZAZEN BOYS",
       "area": "东京",
       "years": "2003–",
-      "degree": 4
+      "degree": 6
     },
     {
       "id": "toddle",
       "name": "toddle",
       "area": "东京",
       "years": "2004–",
-      "degree": 3
+      "degree": 7
     },
     {
       "id": "vola-and-the-oriental-machine",
       "name": "VOLA & THE ORIENTAL MACHINE",
       "area": "东京",
       "years": "2004–",
-      "degree": 2
+      "degree": 6
     },
     {
       "id": "bloodthirsty-butchers",
       "name": "bloodthirsty butchers",
       "area": "北海道",
       "years": "1987–2013",
-      "degree": 6
+      "degree": 11
     },
     {
       "id": "eastern-youth",
@@ -57,7 +57,7 @@
       "name": "ART-SCHOOL",
       "area": "东京",
       "years": "2000–",
-      "degree": 3
+      "degree": 4
     },
     {
       "id": "mo-some-tonebender",
@@ -71,7 +71,7 @@
       "name": "ストレイテナー",
       "area": "东京",
       "years": "1998–",
-      "degree": 4
+      "degree": 6
     },
     {
       "id": "nothings-carved-in-stone",
@@ -85,21 +85,21 @@
       "name": "ELLEGARDEN",
       "area": "千叶",
       "years": "1998–2008 / 2018–",
-      "degree": 3
+      "degree": 9
     },
     {
       "id": "the-hiatus",
       "name": "the HIATUS",
       "area": "东京",
       "years": "2009–",
-      "degree": 2
+      "degree": 14
     },
     {
       "id": "thee-michelle-gun-elephant",
       "name": "thee michelle gun elephant",
       "area": "东京",
       "years": "1991–2003",
-      "degree": 3
+      "degree": 10
     },
     {
       "id": "asian-kung-fu-generation",
@@ -113,7 +113,7 @@
       "name": "凛として時雨",
       "area": "埼玉",
       "years": "2002–",
-      "degree": 2
+      "degree": 9
     },
     {
       "id": "kinoko-teikoku",
@@ -127,62 +127,2337 @@
       "name": "SUPERCAR",
       "area": "青森",
       "years": "1995–2005",
-      "degree": 2
+      "degree": 4
     },
     {
       "id": "pixies",
       "name": "Pixies",
       "area": "波士顿",
       "years": "1986–1993 / 2004–",
-      "degree": 2
+      "degree": 19
     },
     {
       "id": "sonic-youth",
       "name": "Sonic Youth",
       "area": "纽约",
       "years": "1981–2011",
-      "degree": 3
+      "degree": 16
     },
     {
       "id": "fugazi",
       "name": "Fugazi",
       "area": "华盛顿特区",
       "years": "1987–2003",
-      "degree": 2
+      "degree": 12
     },
     {
       "id": "nirvana",
       "name": "Nirvana",
       "area": "西雅图",
       "years": "1987–1994",
-      "degree": 4
+      "degree": 21
     },
     {
       "id": "my-bloody-valentine",
       "name": "My Bloody Valentine",
       "area": "都柏林 / 伦敦",
       "years": "1983–1997 / 2007–",
-      "degree": 2
+      "degree": 9
     },
     {
       "id": "oasis",
       "name": "Oasis",
       "area": "曼彻斯特",
       "years": "1991–2009 / 2024–",
-      "degree": 2
+      "degree": 19
     },
     {
       "id": "blur",
       "name": "Blur",
       "area": "伦敦",
       "years": "1988–",
-      "degree": 1
+      "degree": 14
     },
     {
       "id": "guns-n-roses",
       "name": "Guns N' Roses",
       "area": "洛杉矶",
       "years": "1985–",
+      "degree": 36
+    },
+    {
+      "id": "kimonos",
+      "name": "KIMONOS",
+      "area": null,
+      "years": "2010–",
+      "degree": 3
+    },
+    {
+      "id": "ねらわれた学園",
+      "name": "ねらわれた学園",
+      "area": "日本",
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "浅井健一-the-interchange-kills",
+      "name": "浅井健一 & THE INTERCHANGE KILLS",
+      "area": "日本",
+      "years": "2016–",
+      "degree": 2
+    },
+    {
+      "id": "sloth-love-chunks",
+      "name": "SLOTH LOVE CHUNKS",
+      "area": "日本",
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "lama",
+      "name": "LAMA",
+      "area": "日本",
+      "years": "2010–",
+      "degree": 6
+    },
+    {
+      "id": "odani-misako-ta-ta",
+      "name": "odani misako・ta-ta",
+      "area": "日本",
+      "years": "2003–",
+      "degree": 4
+    },
+    {
+      "id": "swarm-s-arm",
+      "name": "Swarm's Arm",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "moools",
+      "name": "moools",
+      "area": null,
+      "years": "1998–",
+      "degree": 1
+    },
+    {
+      "id": "downy",
+      "name": "downy",
+      "area": "日本",
+      "years": "2000–",
+      "degree": 2
+    },
+    {
+      "id": "unkie",
+      "name": "unkie",
+      "area": "日本",
+      "years": "2006–",
+      "degree": 2
+    },
+    {
+      "id": "the-pillows",
+      "name": "the pillows",
+      "area": "札幌",
+      "years": "1989–2025",
+      "degree": 2
+    },
+    {
+      "id": "syrup16g",
+      "name": "syrup16g",
+      "area": "Shimokitazawa",
+      "years": "1996–",
+      "degree": 1
+    },
+    {
+      "id": "l-s-d",
+      "name": "L.S.D.",
+      "area": "日本",
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "copass-grinderz",
+      "name": "Copass Grinderz",
+      "area": "日本",
+      "years": "1989–",
+      "degree": 2
+    },
+    {
+      "id": "crypt-city",
+      "name": "CRYPT CITY",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "quadrangle",
+      "name": "QUADRANGLE",
+      "area": "日本",
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "radio-bootsy",
+      "name": "Radio Bootsy",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "the-predators",
+      "name": "THE PREDATORS",
+      "area": "日本",
+      "years": "2005–",
+      "degree": 4
+    },
+    {
+      "id": "the-low-atus",
+      "name": "the LOW-ATUS",
+      "area": null,
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "monoeyes",
+      "name": "MONOEYES",
+      "area": "日本",
+      "years": "2015–",
+      "degree": 3
+    },
+    {
+      "id": "the-end",
+      "name": "the End",
+      "area": "日本",
+      "years": "2015–",
+      "degree": 2
+    },
+    {
+      "id": "池田高田",
+      "name": "池田高田",
+      "area": "日本",
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "scars-borough",
+      "name": "Scars Borough",
+      "area": "日本",
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "東京事変",
+      "name": "東京事変",
+      "area": "日本",
+      "years": "2003–",
+      "degree": 2
+    },
+    {
+      "id": "viva-la-j-rock-anthems",
+      "name": "VIVA LA J-ROCK ANTHEMS",
+      "area": "日本",
+      "years": null,
+      "degree": 6
+    },
+    {
+      "id": "neil-iraiza",
+      "name": "neil & iraiza",
+      "area": "日本",
+      "years": "1996–",
+      "degree": 4
+    },
+    {
+      "id": "singer-songer",
+      "name": "SINGER SONGER",
+      "area": null,
+      "years": null,
+      "degree": 4
+    },
+    {
+      "id": "pupa",
+      "name": "pupa",
+      "area": "日本",
+      "years": "2007–",
+      "degree": 4
+    },
+    {
+      "id": "beefeater",
+      "name": "BEEFEATER",
+      "area": "日本",
+      "years": "2002–2002",
+      "degree": 4
+    },
+    {
+      "id": "toe",
+      "name": "toe",
+      "area": "东京",
+      "years": "2000–",
+      "degree": 1
+    },
+    {
+      "id": "radio-caroline",
+      "name": "Radio Caroline",
+      "area": "日本",
+      "years": "2003–",
+      "degree": 4
+    },
+    {
+      "id": "the-king-all-stars",
+      "name": "THE King ALL STARS",
+      "area": "日本",
+      "years": "2014–",
+      "degree": 5
+    },
+    {
+      "id": "ka-f-ka",
+      "name": "KA.F.KA",
+      "area": "日本",
+      "years": "2013–2016",
+      "degree": 4
+    },
+    {
+      "id": "rosso",
+      "name": "ROSSO",
+      "area": "日本",
+      "years": "2001–",
+      "degree": 4
+    },
+    {
+      "id": "raven",
+      "name": "RAVEN",
+      "area": "日本",
+      "years": "2004–",
+      "degree": 4
+    },
+    {
+      "id": "the-midwest-vikings",
+      "name": "The Midwest Vikings",
+      "area": null,
+      "years": null,
+      "degree": 4
+    },
+    {
+      "id": "the-birthday",
+      "name": "The Birthday",
+      "area": "日本",
+      "years": "2005–2023",
+      "degree": 4
+    },
+    {
+      "id": "geek-sleep-sheep",
+      "name": "geek sleep sheep",
+      "area": "日本",
+      "years": "2012–",
+      "degree": 2
+    },
+    {
+      "id": "ti-ti-uu",
+      "name": "ti-ti.uu",
+      "area": "日本",
+      "years": "2016–",
+      "degree": 2
+    },
+    {
+      "id": "pandas",
+      "name": "PANDAS",
+      "area": "日本",
+      "years": "2017–",
+      "degree": 1
+    },
+    {
+      "id": "fzmz",
+      "name": "FZMZ",
+      "area": "日本",
+      "years": "2023–",
+      "degree": 4
+    },
+    {
+      "id": "カオティック-スピードキング",
+      "name": "カオティック・スピードキング",
+      "area": "日本",
+      "years": "2013–",
+      "degree": 4
+    },
+    {
+      "id": "zing",
+      "name": "ZiNG",
+      "area": "日本",
+      "years": "2017–",
+      "degree": 5
+    },
+    {
+      "id": "3rensa",
+      "name": "3RENSA",
+      "area": "日本",
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "the-breeders",
+      "name": "The Breeders",
+      "area": "波士顿",
+      "years": "1989–",
+      "degree": 2
+    },
+    {
+      "id": "the-amps",
+      "name": "The Amps",
+      "area": "Dayton",
+      "years": "1995–1996",
+      "degree": 2
+    },
+    {
+      "id": "pigface",
+      "name": "Pigface",
+      "area": "芝加哥",
+      "years": "1990–",
+      "degree": 22
+    },
+    {
+      "id": "grand-duchy",
+      "name": "Grand Duchy",
+      "area": "美国",
+      "years": "2008–",
+      "degree": 2
+    },
+    {
+      "id": "the-everybody",
+      "name": "The Everybody",
+      "area": "美国",
+      "years": "2012–",
+      "degree": 3
+    },
+    {
+      "id": "frank-black-and-the-catholics",
+      "name": "Frank Black and the Catholics",
+      "area": "美国",
+      "years": "1997–2003",
+      "degree": 4
+    },
+    {
+      "id": "the-martinis",
+      "name": "The Martinis",
+      "area": "洛杉矶",
+      "years": "1993–",
+      "degree": 3
+    },
+    {
+      "id": "the-pandoras",
+      "name": "The Pandoras",
+      "area": "洛杉矶",
+      "years": "1981–1991",
+      "degree": 5
+    },
+    {
+      "id": "the-coolies",
+      "name": "The Coolies",
+      "area": "美国",
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "the-muffs",
+      "name": "The Muffs",
+      "area": "洛杉矶",
+      "years": "1991–2019",
+      "degree": 5
+    },
+    {
+      "id": "the-beards",
+      "name": "The Beards",
+      "area": "美国",
+      "years": "2001–",
+      "degree": 5
+    },
+    {
+      "id": "white-flag",
+      "name": "White Flag",
+      "area": "Moreno Valley",
+      "years": "1982–",
+      "degree": 6
+    },
+    {
+      "id": "a-perfect-circle",
+      "name": "A Perfect Circle",
+      "area": "洛杉矶",
+      "years": "1999–",
+      "degree": 12
+    },
+    {
+      "id": "silver-jews",
+      "name": "Silver Jews",
+      "area": "Charlottesville",
+      "years": "1989–2009",
+      "degree": 8
+    },
+    {
+      "id": "zwan",
+      "name": "Zwan",
+      "area": "美国",
+      "years": "2001–2004",
+      "degree": 4
+    },
+    {
+      "id": "the-entrance-band",
+      "name": "The Entrance Band",
+      "area": "芝加哥",
+      "years": "2006–",
+      "degree": 4
+    },
+    {
+      "id": "band-of-skulls",
+      "name": "Band of Skulls",
+      "area": "Southampton",
+      "years": "2004–",
+      "degree": 1
+    },
+    {
+      "id": "kurt-hoffman-s-band-of-weeds",
+      "name": "Kurt Hoffman's Band of Weeds",
+      "area": "美国",
+      "years": "1991–1993",
+      "degree": 1
+    },
+    {
+      "id": "tito-tarantula",
+      "name": "Tito & Tarantula",
+      "area": "洛杉矶",
+      "years": "1992–",
+      "degree": 3
+    },
+    {
+      "id": "konk",
+      "name": "Konk",
+      "area": "纽约",
+      "years": "1980–1988",
+      "degree": 3
+    },
+    {
+      "id": "the-offs",
+      "name": "The Offs",
+      "area": "美国",
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "ciccone-youth",
+      "name": "Ciccone Youth",
+      "area": "纽约",
+      "years": "1986–1988",
+      "degree": 10
+    },
+    {
+      "id": "free-kitten",
+      "name": "Free Kitten",
+      "area": "美国",
+      "years": "1992–",
+      "degree": 11
+    },
+    {
+      "id": "body-head",
+      "name": "Body/Head",
+      "area": "Northampton",
+      "years": "2012–",
+      "degree": 8
+    },
+    {
+      "id": "mirror-dash",
+      "name": "Mirror/Dash",
+      "area": "美国",
+      "years": null,
+      "degree": 7
+    },
+    {
+      "id": "lucky-sperms",
+      "name": "Lucky Sperms",
+      "area": "纽约",
+      "years": null,
+      "degree": 10
+    },
+    {
+      "id": "glitterbust",
+      "name": "Glitterbust",
+      "area": "美国",
+      "years": "2015–",
+      "degree": 7
+    },
+    {
+      "id": "harry-crews",
+      "name": "Harry Crews",
+      "area": null,
+      "years": null,
+      "degree": 10
+    },
+    {
+      "id": "swans",
+      "name": "Swans",
+      "area": "纽约",
+      "years": "1982–",
+      "degree": 8
+    },
+    {
+      "id": "chelsea-light-moving",
+      "name": "Chelsea Light Moving",
+      "area": "纽约",
+      "years": "2012–",
+      "degree": 2
+    },
+    {
+      "id": "to-live-and-shave-in-l-a",
+      "name": "To Live and Shave in L.A.",
+      "area": "美国",
+      "years": "1991–",
+      "degree": 1
+    },
+    {
+      "id": "original-silence",
+      "name": "Original Silence",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "dim-stars",
+      "name": "Dim Stars",
+      "area": "美国",
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "wylde-ratttz",
+      "name": "Wylde Ratttz",
+      "area": "伦敦",
+      "years": "1998–1998",
+      "degree": 8
+    },
+    {
+      "id": "diskaholics-anonymous-trio",
+      "name": "Diskaholics Anonymous Trio",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "record-club",
+      "name": "Record Club",
+      "area": "美国",
+      "years": "2009–",
+      "degree": 3
+    },
+    {
+      "id": "rodney-the-tube-tops",
+      "name": "Rodney & The Tube Tops",
+      "area": null,
+      "years": "1996–1997",
+      "degree": 3
+    },
+    {
+      "id": "male-slut",
+      "name": "Male Slut",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "caught-on-tape",
+      "name": "Caught on Tape",
+      "area": null,
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "society-s-ills",
+      "name": "Society's Ills",
+      "area": "纽约",
+      "years": null,
+      "degree": 6
+    },
+    {
+      "id": "the-peeper",
+      "name": "The Peeper",
+      "area": null,
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "puzzled-panthers",
+      "name": "Puzzled Panthers",
+      "area": null,
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "thurston-moore-group",
+      "name": "Thurston Moore Group",
+      "area": "伦敦",
+      "years": "2017–",
+      "degree": 2
+    },
+    {
+      "id": "glenn-branca-ensemble",
+      "name": "Glenn Branca Ensemble",
+      "area": "美国",
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "text-of-light",
+      "name": "Text of Light",
+      "area": "美国",
+      "years": "2001–",
+      "degree": 1
+    },
+    {
+      "id": "the-million-dollar-bashers",
+      "name": "The Million Dollar Bashers",
+      "area": "美国",
+      "years": "2007–2007",
+      "degree": 2
+    },
+    {
+      "id": "glacial",
+      "name": "Glacial",
+      "area": "纽约",
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "afternoon-saints",
+      "name": "Afternoon Saints",
+      "area": null,
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "pussy-galore",
+      "name": "Pussy Galore",
+      "area": "美国",
+      "years": "1985–1990",
+      "degree": 4
+    },
+    {
+      "id": "knoxville-girls",
+      "name": "Knoxville Girls",
+      "area": "纽约",
+      "years": "1999–2001",
+      "degree": 3
+    },
+    {
+      "id": "wolfmanhattan-project",
+      "name": "Wolfmanhattan Project",
+      "area": "纽约",
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "jon-spencer-the-hitmakers",
+      "name": "Jon Spencer & the HITmakers",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "action-swingers",
+      "name": "Action Swingers",
+      "area": "纽约",
+      "years": "1988–1998",
+      "degree": 2
+    },
+    {
+      "id": "nick-cave-the-bad-seeds",
+      "name": "Nick Cave & the Bad Seeds",
+      "area": "墨尔本",
+      "years": "1983–",
+      "degree": 5
+    },
+    {
+      "id": "grinderman",
+      "name": "Grinderman",
+      "area": "英国",
+      "years": "2006–2011",
+      "degree": 1
+    },
+    {
+      "id": "teenage-jesus-and-the-jerks",
+      "name": "Teenage Jesus and the Jerks",
+      "area": "纽约",
+      "years": "1977–1979",
+      "degree": 3
+    },
+    {
+      "id": "the-cramps",
+      "name": "The Cramps",
+      "area": "纽约",
+      "years": "1976–2009",
+      "degree": 4
+    },
+    {
+      "id": "8-eyed-spy",
+      "name": "8 Eyed Spy",
+      "area": "纽约",
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "the-gunga-din",
+      "name": "The Gunga Din",
+      "area": "纽约",
+      "years": "1998–",
+      "degree": 1
+    },
+    {
+      "id": "mosquito",
+      "name": "Mosquito",
+      "area": "美国",
+      "years": "1992–",
+      "degree": 1
+    },
+    {
+      "id": "orcutt-shelley-miller",
+      "name": "Orcutt Shelley Miller",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "gastr-del-sol",
+      "name": "Gastr del Sol",
+      "area": "Louisville",
+      "years": "1991–1998",
+      "degree": 1
+    },
+    {
+      "id": "yona-kit",
+      "name": "Yona-Kit",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "mimir",
+      "name": "Mimir",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "brise-glace",
+      "name": "Brise-Glace",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "kafka-s-ibiki",
+      "name": "Kafka’s Ibiki",
+      "area": "日本",
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "delivery-health",
+      "name": "Delivery Health",
+      "area": null,
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "bonjintan",
+      "name": "Bonjintan",
+      "area": "日本",
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "plastic-palace-people",
+      "name": "Plastic Palace People",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "the-bells",
+      "name": "The Bells",
+      "area": "美国",
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "the-red-krayola",
+      "name": "The Red Krayola",
+      "area": "Houston",
+      "years": "1966–",
+      "degree": 1
+    },
+    {
+      "id": "pavement",
+      "name": "Pavement",
+      "area": "Stockton",
+      "years": "1989–2000",
+      "degree": 4
+    },
+    {
+      "id": "dustdevils",
+      "name": "Dustdevils",
+      "area": "利兹",
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "bloody-mannequin-orchestra",
+      "name": "Bloody Mannequin Orchestra",
+      "area": "美国",
+      "years": "1982–1984",
+      "degree": 3
+    },
+    {
+      "id": "dag-nasty",
+      "name": "Dag Nasty",
+      "area": "华盛顿特区",
+      "years": "1985–1991",
+      "degree": 5
+    },
+    {
+      "id": "rumblepuppy",
+      "name": "Rumblepuppy",
+      "area": "Massachusetts",
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "ataxia",
+      "name": "Ataxia",
+      "area": "洛杉矶",
+      "years": "2004–2004",
+      "degree": 4
+    },
+    {
+      "id": "decahedron",
+      "name": "Decahedron",
+      "area": "美国",
+      "years": "2002–",
+      "degree": 4
+    },
+    {
+      "id": "the-messthetics",
+      "name": "The Messthetics",
+      "area": "华盛顿特区",
+      "years": "2016–",
+      "degree": 4
+    },
+    {
+      "id": "coriky",
+      "name": "Coriky",
+      "area": "华盛顿特区",
+      "years": "2015–",
+      "degree": 6
+    },
+    {
+      "id": "the-teen-idles",
+      "name": "The Teen Idles",
+      "area": "美国",
+      "years": "1979–1980",
+      "degree": 3
+    },
+    {
+      "id": "minor-threat",
+      "name": "Minor Threat",
+      "area": "华盛顿特区",
+      "years": "1980–1983",
+      "degree": 4
+    },
+    {
+      "id": "skewbald",
+      "name": "Skewbald",
+      "area": "美国",
+      "years": "1981–1981",
+      "degree": 6
+    },
+    {
+      "id": "egg-hunt",
+      "name": "Egg Hunt",
+      "area": null,
+      "years": "1986–1986",
+      "degree": 3
+    },
+    {
+      "id": "the-evens",
+      "name": "The Evens",
+      "area": "美国",
+      "years": "2001–",
+      "degree": 2
+    },
+    {
+      "id": "embrace",
+      "name": "Embrace",
+      "area": "美国",
+      "years": "1985–1986",
+      "degree": 1
+    },
+    {
+      "id": "pailhead",
+      "name": "Pailhead",
+      "area": "美国",
+      "years": "1988–1988",
+      "degree": 5
+    },
+    {
+      "id": "one-last-wish",
+      "name": "One Last Wish",
+      "area": null,
+      "years": "1986–1987",
+      "degree": 5
+    },
+    {
+      "id": "happy-go-licky",
+      "name": "Happy Go Licky",
+      "area": "华盛顿特区",
+      "years": "1987–1988",
+      "degree": 5
+    },
+    {
+      "id": "all-scars",
+      "name": "All Scars",
+      "area": "华盛顿特区",
+      "years": "1997–2003",
+      "degree": 3
+    },
+    {
+      "id": "deathfix",
+      "name": "Deathfix",
+      "area": "华盛顿特区",
+      "years": "2009–",
+      "degree": 1
+    },
+    {
+      "id": "mc50",
+      "name": "MC50",
+      "area": "美国",
+      "years": null,
+      "degree": 7
+    },
+    {
+      "id": "rites-of-spring",
+      "name": "Rites of Spring",
+      "area": "华盛顿特区",
+      "years": "1983–1986",
+      "degree": 5
+    },
+    {
+      "id": "skid-row",
+      "name": "Skid Row",
+      "area": "美国",
+      "years": "1987–1987",
+      "degree": 2
+    },
+    {
+      "id": "throat-oyster",
+      "name": "Throat Oyster",
+      "area": null,
+      "years": "1987–1987",
+      "degree": 2
+    },
+    {
+      "id": "fecal-matter",
+      "name": "Fecal Matter",
+      "area": "Aberdeen",
+      "years": "1985–1986",
+      "degree": 5
+    },
+    {
+      "id": "stiff-woodies",
+      "name": "Stiff Woodies",
+      "area": null,
+      "years": "1986–1987",
+      "degree": 1
+    },
+    {
+      "id": "sleep",
+      "name": "Sleep",
+      "area": "San Jose",
+      "years": "1990–",
+      "degree": 2
+    },
+    {
+      "id": "shrinebuilder",
+      "name": "Shrinebuilder",
+      "area": "旧金山",
+      "years": "2008–",
+      "degree": 1
+    },
+    {
+      "id": "brown-towel",
+      "name": "Brown Towel",
+      "area": null,
+      "years": "1985–1986",
+      "degree": 4
+    },
+    {
+      "id": "melvins",
+      "name": "Melvins",
+      "area": "Montesano",
+      "years": "1983–",
+      "degree": 7
+    },
+    {
+      "id": "porn",
+      "name": "Porn",
+      "area": "旧金山",
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "dale-crover-band",
+      "name": "Dale Crover Band",
+      "area": "美国",
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "kidbug",
+      "name": "Kidbug",
+      "area": "Indianapolis",
+      "years": "2019–",
+      "degree": 1
+    },
+    {
+      "id": "anywhere",
+      "name": "Anywhere",
+      "area": "洛杉矶",
+      "years": "2010–",
+      "degree": 6
+    },
+    {
+      "id": "broken-bat",
+      "name": "Broken Bat",
+      "area": null,
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "peeping-tom",
+      "name": "Peeping Tom",
+      "area": "美国",
+      "years": "2000–",
+      "degree": 2
+    },
+    {
+      "id": "the-fantômas-melvins-big-band",
+      "name": "The Fantômas Melvins Big Band",
+      "area": "美国",
+      "years": "2000–",
+      "degree": 7
+    },
+    {
+      "id": "bliss",
+      "name": "Bliss",
+      "area": "美国",
+      "years": "1988–1988",
+      "degree": 3
+    },
+    {
+      "id": "eyes-adrift",
+      "name": "Eyes Adrift",
+      "area": "美国",
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "flipper",
+      "name": "Flipper",
+      "area": "旧金山",
+      "years": "1979–",
+      "degree": 1
+    },
+    {
+      "id": "melvana",
+      "name": "Melvana",
+      "area": null,
+      "years": "1992–1992",
+      "degree": 4
+    },
+    {
+      "id": "the-no-w-t-o-combo",
+      "name": "The No W.T.O. Combo",
+      "area": "美国",
+      "years": "1999–1999",
+      "degree": 5
+    },
+    {
+      "id": "sweet-75",
+      "name": "Sweet 75",
+      "area": "西雅图",
+      "years": "1995–2000",
+      "degree": 6
+    },
+    {
+      "id": "3rd-secret",
+      "name": "3rd Secret",
+      "area": "西雅图",
+      "years": "2021–",
+      "degree": 7
+    },
+    {
+      "id": "giants-in-the-trees",
+      "name": "Giants in the Trees",
+      "area": "Wahkiakum County",
+      "years": "2017–",
+      "degree": 3
+    },
+    {
+      "id": "sound-city-players",
+      "name": "Sound City Players",
+      "area": "美国",
+      "years": "2012–2013",
+      "degree": 13
+    },
+    {
+      "id": "filthy-friends",
+      "name": "Filthy Friends",
+      "area": "波特兰",
+      "years": null,
+      "degree": 7
+    },
+    {
+      "id": "butterfly-launches-from-spar-pole",
+      "name": "Butterfly Launches From Spar Pole",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "the-bona-fide-band",
+      "name": "The Bona Fide Band",
+      "area": "西雅图",
+      "years": "2024–",
+      "degree": 2
+    },
+    {
+      "id": "the-fire-ants",
+      "name": "The Fire Ants",
+      "area": "西雅图",
+      "years": "1991–1993",
+      "degree": 3
+    },
+    {
+      "id": "before-cars",
+      "name": "Before Cars",
+      "area": null,
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "the-methodists",
+      "name": "The Methodists",
+      "area": "西雅图",
+      "years": "1995–1998",
+      "degree": 3
+    },
+    {
+      "id": "helltrout",
+      "name": "Helltrout",
+      "area": null,
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "mico-de-noche",
+      "name": "Mico de Noche",
+      "area": "西雅图",
+      "years": "2001–",
+      "degree": 3
+    },
+    {
+      "id": "soundgarden",
+      "name": "Soundgarden",
+      "area": "西雅图",
+      "years": "1984–2017",
+      "degree": 8
+    },
+    {
+      "id": "mind-funk",
+      "name": "Mind Funk",
+      "area": "Orange County",
+      "years": "1989–",
+      "degree": 4
+    },
+    {
+      "id": "old",
+      "name": "Old",
+      "area": "New Jersey",
+      "years": "1986–2002",
+      "degree": 3
+    },
+    {
+      "id": "love-battery",
+      "name": "Love Battery",
+      "area": "西雅图",
+      "years": "1989–",
+      "degree": 7
+    },
+    {
+      "id": "valis",
+      "name": "Valis",
+      "area": "美国",
+      "years": null,
+      "degree": 6
+    },
+    {
+      "id": "mudhoney",
+      "name": "Mudhoney",
+      "area": "西雅图",
+      "years": "1988–",
+      "degree": 9
+    },
+    {
+      "id": "bundle-of-hiss",
+      "name": "Bundle of Hiss",
+      "area": "美国",
+      "years": null,
+      "degree": 6
+    },
+    {
+      "id": "dan-peters-combo",
+      "name": "Dan Peters Combo",
+      "area": null,
+      "years": null,
+      "degree": 7
+    },
+    {
+      "id": "the-new-original-sonic-sound",
+      "name": "The New Original Sonic Sound",
+      "area": "西雅图",
+      "years": null,
+      "degree": 9
+    },
+    {
+      "id": "scream",
+      "name": "Scream",
+      "area": "Virginia",
+      "years": "1981–",
+      "degree": 1
+    },
+    {
+      "id": "foo-fighters",
+      "name": "Foo Fighters",
+      "area": "西雅图",
+      "years": "1994–",
+      "degree": 6
+    },
+    {
+      "id": "queens-of-the-stone-age",
+      "name": "Queens of the Stone Age",
+      "area": "Palm Desert",
+      "years": "1996–",
+      "degree": 8
+    },
+    {
+      "id": "them-crooked-vultures",
+      "name": "Them Crooked Vultures",
+      "area": "洛杉矶",
+      "years": "2009–2010",
+      "degree": 3
+    },
+    {
+      "id": "tenacious-d",
+      "name": "Tenacious D",
+      "area": "洛杉矶",
+      "years": "1994–",
+      "degree": 4
+    },
+    {
+      "id": "harlingtox-a-d",
+      "name": "Harlingtox A.D.",
+      "area": "华盛顿特区",
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "dee-gees",
+      "name": "Dee Gees",
+      "area": "美国",
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "live-lounge-allstars",
+      "name": "Live Lounge Allstars",
+      "area": null,
+      "years": null,
+      "degree": 4
+    },
+    {
+      "id": "chevy-metal",
+      "name": "Chevy Metal",
+      "area": "洛杉矶",
+      "years": "2012–",
+      "degree": 4
+    },
+    {
+      "id": "churn",
+      "name": "Churn",
+      "area": "Arlington County",
+      "years": "1989–",
+      "degree": 1
+    },
+    {
+      "id": "da-googie",
+      "name": "da Googie",
+      "area": "伦敦",
+      "years": "2023–",
+      "degree": 2
+    },
+    {
+      "id": "mazzy-star",
+      "name": "Mazzy Star",
+      "area": "Santa Monica",
+      "years": "1988–",
+      "degree": 3
+    },
+    {
+      "id": "hope-sandoval-the-warm-inventions",
+      "name": "Hope Sandoval & the Warm Inventions",
+      "area": "美国",
+      "years": "2000–",
+      "degree": 3
+    },
+    {
+      "id": "the-complex",
+      "name": "The Complex",
+      "area": null,
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "primal-scream",
+      "name": "Primal Scream",
+      "area": "格拉斯哥",
+      "years": "1982–",
+      "degree": 3
+    },
+    {
+      "id": "experimental-audio-research",
+      "name": "Experimental Audio Research",
+      "area": "Rugby",
+      "years": "1990–",
+      "degree": 3
+    },
+    {
+      "id": "the-rain",
+      "name": "The Rain",
+      "area": "曼彻斯特",
+      "years": "1990–1991",
+      "degree": 6
+    },
+    {
+      "id": "the-vortex",
+      "name": "The Vortex",
+      "area": "曼彻斯特",
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "parlour-flames",
+      "name": "Parlour Flames",
+      "area": "曼彻斯特",
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "phoneys-the-freaks",
+      "name": "Phoneys & the Freaks",
+      "area": null,
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "moondog-one",
+      "name": "Moondog One",
+      "area": null,
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "cornershop",
+      "name": "Cornershop",
+      "area": "Leicester",
+      "years": "1991–",
+      "degree": 3
+    },
+    {
+      "id": "beady-eye",
+      "name": "Beady Eye",
+      "area": "曼彻斯特",
+      "years": "2009–2014",
+      "degree": 7
+    },
+    {
+      "id": "noel-gallagher-s-high-flying-birds",
+      "name": "Noel Gallagher’s High Flying Birds",
+      "area": "曼彻斯特",
+      "years": "2011–",
+      "degree": 3
+    },
+    {
+      "id": "tailgunner",
+      "name": "Tailgunner",
+      "area": "英国",
+      "years": "2000–",
+      "degree": 3
+    },
+    {
+      "id": "mick-fleetwood-and-friends",
+      "name": "Mick Fleetwood and Friends",
+      "area": null,
+      "years": "2020–2020",
+      "degree": 6
+    },
+    {
+      "id": "starclub",
+      "name": "Starclub",
+      "area": "Maidstone",
+      "years": "1991–1994",
+      "degree": 1
+    },
+    {
+      "id": "hurricane-1",
+      "name": "Hurricane #1",
+      "area": "牛津",
+      "years": "1996–1999",
+      "degree": 5
+    },
+    {
+      "id": "ride",
+      "name": "Ride",
+      "area": "牛津",
+      "years": "1988–",
+      "degree": 5
+    },
+    {
+      "id": "mantra-of-the-cosmos",
+      "name": "Mantra of the Cosmos",
+      "area": "英国",
+      "years": "2023–",
+      "degree": 6
+    },
+    {
+      "id": "harvey-s-rabbit",
+      "name": "Harvey's Rabbit",
+      "area": "曼彻斯特",
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "heavy-stereo",
+      "name": "Heavy Stereo",
+      "area": "Durham",
+      "years": "1995–1996",
+      "degree": 3
+    },
+    {
+      "id": "southern-fly",
+      "name": "Southern Fly",
+      "area": null,
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "walt-mink",
+      "name": "Walt Mink",
+      "area": "Saint Paul",
+      "years": "1989–1997",
+      "degree": 1
+    },
+    {
+      "id": "jomoro",
+      "name": "Jomoro",
+      "area": "美国",
+      "years": "2021–",
+      "degree": 1
+    },
+    {
+      "id": "atoms-for-peace",
+      "name": "Atoms for Peace",
+      "area": "洛杉矶",
+      "years": "2009–",
+      "degree": 5
+    },
+    {
+      "id": "ima-robot",
+      "name": "Ima Robot",
+      "area": "洛杉矶",
+      "years": "1998–",
+      "degree": 2
+    },
+    {
+      "id": "north-american-hallowe-en-prevention-initiative",
+      "name": "North American Hallowe’en Prevention Initiative",
+      "area": null,
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "ultraísta",
+      "name": "Ultraísta",
+      "area": "英国",
+      "years": "2008–",
+      "degree": 2
+    },
+    {
+      "id": "the-john-doe-thing",
+      "name": "The John Doe Thing",
+      "area": "洛杉矶",
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "loser",
+      "name": "Loser",
+      "area": null,
+      "years": null,
+      "degree": 8
+    },
+    {
+      "id": "rocket-juice-the-moon",
+      "name": "Rocket Juice & the Moon",
+      "area": "英国",
+      "years": "2008–",
+      "degree": 8
+    },
+    {
+      "id": "the-good-the-bad-the-queen",
+      "name": "The Good, the Bad & the Queen",
+      "area": "伦敦",
+      "years": "2006–2019",
+      "degree": 6
+    },
+    {
+      "id": "seymour",
+      "name": "Seymour",
+      "area": "Colchester",
+      "years": "1989–1990",
+      "degree": 13
+    },
+    {
+      "id": "electric-wave-bureau",
+      "name": "Electric Wave Bureau",
+      "area": null,
+      "years": null,
+      "degree": 6
+    },
+    {
+      "id": "monkey",
+      "name": "Monkey",
+      "area": null,
+      "years": null,
+      "degree": 6
+    },
+    {
+      "id": "the-heavy-seas",
+      "name": "The Heavy Seas",
+      "area": null,
+      "years": null,
+      "degree": 6
+    },
+    {
+      "id": "the-special-assembly",
+      "name": "The Special Assembly",
+      "area": "英国",
+      "years": null,
+      "degree": 4
+    },
+    {
+      "id": "the-jaded-hearts-club",
+      "name": "The Jaded Hearts Club",
+      "area": "California",
+      "years": "2018–",
+      "degree": 5
+    },
+    {
+      "id": "the-waeve",
+      "name": "The WAEVE",
+      "area": "英国",
+      "years": null,
+      "degree": 4
+    },
+    {
+      "id": "wigwam",
+      "name": "WigWam",
+      "area": "英国",
+      "years": "2005–",
+      "degree": 4
+    },
+    {
+      "id": "fat-les",
+      "name": "Fat Les",
+      "area": "英国",
+      "years": null,
+      "degree": 4
+    },
+    {
+      "id": "me-me-me",
+      "name": "Me Me Me",
+      "area": "英格兰",
+      "years": "1996–1996",
+      "degree": 4
+    },
+    {
+      "id": "the-ailerons",
+      "name": "The Ailerons",
+      "area": "英国",
+      "years": "2006–",
+      "degree": 2
+    },
+    {
+      "id": "blackbird-angels",
+      "name": "Blackbird Angels",
+      "area": null,
+      "years": null,
+      "degree": 8
+    },
+    {
+      "id": "l-a-guns",
+      "name": "L.A. Guns",
+      "area": "洛杉矶",
+      "years": "1983–",
+      "degree": 17
+    },
+    {
+      "id": "quiet-riot",
+      "name": "Quiet Riot",
+      "area": "洛杉矶",
+      "years": "1973–",
+      "degree": 8
+    },
+    {
+      "id": "gunzo",
+      "name": "Gunzo",
+      "area": "洛杉矶",
+      "years": "2015–",
+      "degree": 7
+    },
+    {
+      "id": "contraband",
+      "name": "Contraband",
+      "area": null,
+      "years": "1991–",
+      "degree": 7
+    },
+    {
+      "id": "brides-of-destruction",
+      "name": "Brides of Destruction",
+      "area": "美国",
+      "years": "2002–2006",
+      "degree": 7
+    },
+    {
+      "id": "pyrrhus",
+      "name": "Pyrrhus",
+      "area": "洛杉矶",
+      "years": null,
+      "degree": 8
+    },
+    {
+      "id": "london",
+      "name": "London",
+      "area": "洛杉矶",
+      "years": "1978–",
+      "degree": 4
+    },
+    {
+      "id": "hollywood-rose",
+      "name": "Hollywood Rose",
+      "area": "洛杉矶",
+      "years": "1983–1984",
+      "degree": 8
+    },
+    {
+      "id": "izzy-stradlin-and-the-ju-ju-hounds",
+      "name": "Izzy Stradlin and the Ju Ju Hounds",
+      "area": "California",
+      "years": "1992–",
+      "degree": 5
+    },
+    {
+      "id": "the-atoms",
+      "name": "The Atoms",
+      "area": null,
+      "years": null,
+      "degree": 4
+    },
+    {
+      "id": "gak",
+      "name": "GAK",
+      "area": null,
+      "years": null,
+      "degree": 6
+    },
+    {
+      "id": "rapidfire",
+      "name": "Rapidfire",
+      "area": "洛杉矶",
+      "years": null,
+      "degree": 4
+    },
+    {
+      "id": "bulletboys",
+      "name": "BulletBoys",
+      "area": "洛杉矶",
+      "years": "1986–",
+      "degree": 8
+    },
+    {
+      "id": "adler-s-appetite",
+      "name": "Adler’s Appetite",
+      "area": "洛杉矶",
+      "years": "2003–2011",
+      "degree": 8
+    },
+    {
+      "id": "adler",
+      "name": "Adler",
+      "area": "美国",
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "road-crew",
+      "name": "Road Crew",
+      "area": null,
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "velvet-revolver",
+      "name": "Velvet Revolver",
+      "area": "Rancho Santa Margarita",
+      "years": "2002–2008",
+      "degree": 1
+    },
+    {
+      "id": "mad-for-the-racket",
+      "name": "Mad for the Racket",
+      "area": null,
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "the-fartz",
+      "name": "The Fartz",
+      "area": "西雅图",
+      "years": "1981–2003",
+      "degree": 1
+    },
+    {
+      "id": "neurotic-outsiders",
+      "name": "Neurotic Outsiders",
+      "area": "洛杉矶",
+      "years": "1995–1997",
+      "degree": 2
+    },
+    {
+      "id": "the-gentlemen",
+      "name": "The Gentlemen",
+      "area": "西雅图",
+      "years": "2000–",
+      "degree": 1
+    },
+    {
+      "id": "fastbacks",
+      "name": "Fastbacks",
+      "area": "西雅图",
+      "years": "1979–2002",
+      "degree": 1
+    },
+    {
+      "id": "walking-papers",
+      "name": "Walking Papers",
+      "area": "西雅图",
+      "years": "2012–",
+      "degree": 2
+    },
+    {
+      "id": "duff-mckagan-s-loaded",
+      "name": "Duff McKagan’s Loaded",
+      "area": "西雅图",
+      "years": "1999–",
+      "degree": 1
+    },
+    {
+      "id": "kings-of-chaos",
+      "name": "Kings of Chaos",
+      "area": "美国",
+      "years": "2012–",
+      "degree": 9
+    },
+    {
+      "id": "levee-walkers",
+      "name": "Levee Walkers",
+      "area": "西雅图",
+      "years": "2015–",
+      "degree": 2
+    },
+    {
+      "id": "raw-power",
+      "name": "Raw Power",
+      "area": "西雅图",
+      "years": "2015–",
+      "degree": 5
+    },
+    {
+      "id": "crisis-party",
+      "name": "Crisis Party",
+      "area": null,
+      "years": null,
+      "degree": 3
+    },
+    {
+      "id": "mercyful-fate",
+      "name": "Mercyful Fate",
+      "area": "Copenhagen",
+      "years": "1981–",
+      "degree": 2
+    },
+    {
+      "id": "slash-s-snakepit",
+      "name": "Slash’s Snakepit",
+      "area": "洛杉矶",
+      "years": "1994–2002",
+      "degree": 8
+    },
+    {
+      "id": "slash-s-blues-ball",
+      "name": "Slash’s Blues Ball",
+      "area": "美国",
+      "years": "1996–1998",
+      "degree": 3
+    },
+    {
+      "id": "slash-featuring-myles-kennedy-and-the-conspirato",
+      "name": "Slash featuring Myles Kennedy and the Conspirators",
+      "area": "美国",
+      "years": "2010–",
+      "degree": 3
+    },
+    {
+      "id": "the-ronnie-wood-band",
+      "name": "The Ronnie Wood Band",
+      "area": "英国",
+      "years": "2001–2002",
+      "degree": 1
+    },
+    {
+      "id": "mark-knopfler-s-guitar-heroes",
+      "name": "Mark Knopfler’s Guitar Heroes",
+      "area": null,
+      "years": null,
+      "degree": 4
+    },
+    {
+      "id": "tidus-sloan",
+      "name": "Tidus Sloan",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "deadland-ritual",
+      "name": "Deadland Ritual",
+      "area": "伦敦",
+      "years": "2018–",
+      "degree": 2
+    },
+    {
+      "id": "camp-freddy",
+      "name": "Camp Freddy",
+      "area": "美国",
+      "years": "2003–",
+      "degree": 4
+    },
+    {
+      "id": "y-kant-tori-read",
+      "name": "Y Kant Tori Read",
+      "area": "洛杉矶",
+      "years": "1984–1989",
+      "degree": 1
+    },
+    {
+      "id": "the-cult",
+      "name": "The Cult",
+      "area": "伦敦",
+      "years": "1983–",
+      "degree": 3
+    },
+    {
+      "id": "circus-diablo",
+      "name": "Circus Diablo",
+      "area": "洛杉矶",
+      "years": "2006–",
+      "degree": 5
+    },
+    {
+      "id": "hawk",
+      "name": "Hawk",
+      "area": "洛杉矶",
+      "years": "1984–",
+      "degree": 1
+    },
+    {
+      "id": "johnny-crash",
+      "name": "Johnny Crash",
+      "area": "洛杉矶",
+      "years": "1985–1992",
+      "degree": 2
+    },
+    {
+      "id": "the-power-rangers-orchestra",
+      "name": "The Power Rangers Orchestra",
+      "area": "美国",
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "the-dead-daisies",
+      "name": "The Dead Daisies",
+      "area": "悉尼",
+      "years": "2012–",
+      "degree": 5
+    },
+    {
+      "id": "heart",
+      "name": "Heart",
+      "area": "西雅图",
+      "years": "1973–",
+      "degree": 1
+    },
+    {
+      "id": "col-parker",
+      "name": "Col. Parker",
+      "area": null,
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "candy",
+      "name": "Candy",
+      "area": "California",
+      "years": "1985–1987",
+      "degree": 1
+    },
+    {
+      "id": "the-wild-bunch",
+      "name": "The Wild Bunch",
+      "area": null,
+      "years": null,
+      "degree": 4
+    },
+    {
+      "id": "halloween-jack",
+      "name": "Halloween Jack",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "the-vandals",
+      "name": "The Vandals",
+      "area": "Huntington Beach",
+      "years": "1980–",
+      "degree": 4
+    },
+    {
+      "id": "suicidal-tendencies",
+      "name": "Suicidal Tendencies",
+      "area": "洛杉矶",
+      "years": "1982–",
+      "degree": 4
+    },
+    {
+      "id": "devo",
+      "name": "DEVO",
+      "area": "Akron",
+      "years": "1972–",
+      "degree": 1
+    },
+    {
+      "id": "ween",
+      "name": "Ween",
+      "area": "New Hope",
+      "years": "1984–2024",
+      "degree": 2
+    },
+    {
+      "id": "viva-death",
+      "name": "Viva Death",
+      "area": "美国",
+      "years": "2002–",
+      "degree": 3
+    },
+    {
+      "id": "desert-sessions",
+      "name": "Desert Sessions",
+      "area": "Palm Desert",
+      "years": "1997–",
+      "degree": 7
+    },
+    {
+      "id": "the-damning-well",
+      "name": "The Damning Well",
+      "area": "美国",
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "black-light-burns",
+      "name": "Black Light Burns",
+      "area": "美国",
+      "years": "2005–",
+      "degree": 4
+    },
+    {
+      "id": "nine-inch-nails",
+      "name": "Nine Inch Nails",
+      "area": "Cleveland",
+      "years": "1988–",
+      "degree": 15
+    },
+    {
+      "id": "ashes-divide",
+      "name": "Ashes Divide",
+      "area": "美国",
+      "years": "2007–",
+      "degree": 2
+    },
+    {
+      "id": "the-replacements",
+      "name": "The Replacements",
+      "area": "明尼阿波利斯",
+      "years": "1979–1991",
+      "degree": 8
+    },
+    {
+      "id": "filter",
+      "name": "Filter",
+      "area": "Cleveland",
+      "years": "1993–",
+      "degree": 5
+    },
+    {
+      "id": "weezer",
+      "name": "Weezer",
+      "area": "洛杉矶",
+      "years": "1992–",
+      "degree": 2
+    },
+    {
+      "id": "sublime-with-rome",
+      "name": "Sublime with Rome",
+      "area": "Long Beach",
+      "years": "2009–2024",
+      "degree": 2
+    },
+    {
+      "id": "tapeworm",
+      "name": "Tapeworm",
+      "area": "美国",
+      "years": "1996–2004",
+      "degree": 7
+    },
+    {
+      "id": "royal-machines",
+      "name": "Royal Machines",
+      "area": null,
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "jihad-jerry-the-evildoers",
+      "name": "Jihad Jerry & The Evildoers",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "medication",
+      "name": "Medication",
+      "area": "洛杉矶",
+      "years": "1999–2003",
+      "degree": 3
+    },
+    {
+      "id": "the-i-don-t-cares",
+      "name": "The I Don't Cares",
+      "area": null,
+      "years": "2015–",
+      "degree": 1
+    },
+    {
+      "id": "xtra-large",
+      "name": "Xtra Large",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "bash-pop",
+      "name": "Bash & Pop",
+      "area": "明尼阿波利斯",
+      "years": "1992–",
+      "degree": 7
+    },
+    {
+      "id": "perfect",
+      "name": "Perfect",
+      "area": "明尼阿波利斯",
+      "years": "1995–1998",
+      "degree": 8
+    },
+    {
+      "id": "l-a-m-f",
+      "name": "L.A.M.F.",
+      "area": "纽约",
+      "years": "2016–",
+      "degree": 10
+    },
+    {
+      "id": "cowboys-in-the-campfire",
+      "name": "Cowboys in the Campfire",
+      "area": "美国",
+      "years": "2017–",
+      "degree": 7
+    },
+    {
+      "id": "the-jacks",
+      "name": "The Jacks",
+      "area": "Tulsa",
+      "years": null,
+      "degree": 7
+    },
+    {
+      "id": "latter-revelation-company-singers",
+      "name": "Latter Revelation Company Singers",
+      "area": null,
+      "years": null,
+      "degree": 7
+    },
+    {
+      "id": "lusk",
+      "name": "Lusk",
+      "area": "California",
+      "years": "1995–1998",
+      "degree": 5
+    },
+    {
+      "id": "replicants",
+      "name": "Replicants",
+      "area": "美国",
+      "years": "1995–1996",
+      "degree": 5
+    },
+    {
+      "id": "sextapes",
+      "name": "SexTapes",
+      "area": null,
+      "years": null,
+      "degree": 5
+    },
+    {
+      "id": "beatrazr",
+      "name": "Beatrazr",
+      "area": null,
+      "years": null,
+      "degree": 6
+    },
+    {
+      "id": "zaum",
+      "name": "Zaum",
+      "area": "洛杉矶",
+      "years": "1995–1996",
+      "degree": 6
+    },
+    {
+      "id": "science-faxtion",
+      "name": "Science Faxtion",
+      "area": null,
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "giant-robot",
+      "name": "Giant Robot",
+      "area": null,
+      "years": null,
+      "degree": 2
+    },
+    {
+      "id": "地縛少年バンド",
+      "name": "地縛少年バンド",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "sessanta",
+      "name": "Sessanta",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "the-bad-seeds",
+      "name": "The Bad Seeds",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "fantômas",
+      "name": "Fantômas",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "gown",
+      "name": "Gown",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "clinton",
+      "name": "Clinton",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "dumb-angel",
+      "name": "Dumb Angel",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "nine-inch-noize",
+      "name": "Nine Inch Noize",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "goat-punishment",
+      "name": "Goat Punishment",
+      "area": null,
+      "years": null,
+      "degree": 1
+    },
+    {
+      "id": "sublime",
+      "name": "Sublime",
+      "area": null,
+      "years": null,
       "degree": 1
     }
   ]

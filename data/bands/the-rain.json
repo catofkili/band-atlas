@@ -1,0 +1,82 @@
+{
+  "id": "the-rain",
+  "mbid": "68fb8c2a-477a-4bd7-a65e-2fba470a7bcc",
+  "name": "The Rain",
+  "area": "曼彻斯特",
+  "years": "1990–1991",
+  "genres": [],
+  "albums": [],
+  "intro": "ザ・レイン (The Rain) は、イギリス・マンチェスターで結成されたロックバンド。オアシスの前身バンドとして知られる。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/68fb8c2a-477a-4bd7-a65e-2fba470a7bcc"
+  },
+  "edges": [
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "member",
+      "label": "Tony McCarroll・Paul Arthurs・Paul McGuigan",
+      "detail": "3 位乐手在这两支乐队都待过：Tony McCarroll・Paul Arthurs・Paul McGuigan。",
+      "year": 1991,
+      "weight": 0.95
+    },
+    {
+      "to": "cornershop",
+      "toName": "Cornershop",
+      "toArea": "Leicester",
+      "toYears": "1991–",
+      "type": "member",
+      "label": "Paul McGuigan",
+      "detail": "Paul McGuigan 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "parlour-flames",
+      "toName": "Parlour Flames",
+      "toArea": "曼彻斯特",
+      "toYears": null,
+      "type": "member",
+      "label": "Paul Arthurs",
+      "detail": "Paul Arthurs 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "moondog-one",
+      "toName": "Moondog One",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Paul Arthurs",
+      "detail": "Paul Arthurs 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "phoneys-the-freaks",
+      "toName": "Phoneys & the Freaks",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Paul Arthurs",
+      "detail": "Paul Arthurs 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-vortex",
+      "toName": "The Vortex",
+      "toArea": "曼彻斯特",
+      "toYears": null,
+      "type": "member",
+      "label": "Paul Arthurs",
+      "detail": "Paul Arthurs 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

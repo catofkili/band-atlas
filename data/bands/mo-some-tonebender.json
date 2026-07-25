@@ -1,5 +1,6 @@
 {
   "id": "mo-some-tonebender",
+  "mbid": "73156e13-f308-4fda-b2c3-87bb76b7990c",
   "name": "MO'SOME TONEBENDER",
   "area": "福冈",
   "years": "1997–",
@@ -7,18 +8,19 @@
     "Garage Rock",
     "Alternative Rock"
   ],
-  "intro": "百々和宏领衔的福冈三人组，和 NUMBER GIRL 出自同一片场景，但走的是更噪、更放浪的车库路线。",
   "albums": [
     {
       "title": "Rockin' Luuula",
       "year": 2002
     }
   ],
+  "intro": "百々和宏领衔的福冈三人组，和 NUMBER GIRL 出自同一片场景，但走的是更噪、更放浪的车库路线。",
+  "introLang": "ja",
   "tracks": [
     "ロッキンルーラ"
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=MO'SOME%20TONEBENDER&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/73156e13-f308-4fda-b2c3-87bb76b7990c"
   },
   "edges": [
     {

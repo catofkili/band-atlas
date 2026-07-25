@@ -1,0 +1,57 @@
+{
+  "id": "heavy-stereo",
+  "mbid": "201b9c59-fcd8-4ffd-8efe-2bc41a74c494",
+  "name": "Heavy Stereo",
+  "area": "Durham",
+  "years": "1995–1996",
+  "genres": [
+    "Britpop",
+    "Glam Rock"
+  ],
+  "albums": [
+    {
+      "title": "Déjà Voodoo",
+      "year": 1996
+    }
+  ],
+  "intro": "ヘヴィー・ステレオは、イギリスのロック・バンド。 オアシスのギタリストであるゲム・アーチャーが在籍したことで知られる。1970年代のグラムロックからの影響が色濃いサウンドを展開した。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/201b9c59-fcd8-4ffd-8efe-2bc41a74c494"
+  },
+  "edges": [
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "member",
+      "label": "Gem Archer",
+      "detail": "Gem Archer 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "beady-eye",
+      "toName": "Beady Eye",
+      "toArea": "曼彻斯特",
+      "toYears": "2009–2014",
+      "type": "member",
+      "label": "Gem Archer",
+      "detail": "Gem Archer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "southern-fly",
+      "toName": "Southern Fly",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Gem Archer",
+      "detail": "Gem Archer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

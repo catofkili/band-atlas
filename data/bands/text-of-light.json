@@ -1,0 +1,25 @@
+{
+  "id": "text-of-light",
+  "mbid": "ff5fb485-789c-4e1b-a240-5df690edef14",
+  "name": "Text of Light",
+  "area": "美国",
+  "years": "2001–",
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ff5fb485-789c-4e1b-a240-5df690edef14"
+  },
+  "edges": [
+    {
+      "to": "afternoon-saints",
+      "toName": "Afternoon Saints",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Christian Marclay",
+      "detail": "Christian Marclay 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

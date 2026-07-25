@@ -1,0 +1,113 @@
+{
+  "id": "wylde-ratttz",
+  "mbid": "e6d8c1dd-e7bc-4e44-87ad-66aa2d3e6580",
+  "name": "Wylde Ratttz",
+  "area": "伦敦",
+  "years": "1998–1998",
+  "genres": [],
+  "albums": [
+    {
+      "title": "L.S.D.",
+      "year": 1998
+    },
+    {
+      "title": "Wylde Ratttz",
+      "year": 2018
+    }
+  ],
+  "intro": "Wylde Ratttz were an American punk rock supergroup.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e6d8c1dd-e7bc-4e44-87ad-66aa2d3e6580"
+  },
+  "edges": [
+    {
+      "to": "mudhoney",
+      "toName": "Mudhoney",
+      "toArea": "西雅图",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Mark Arm",
+      "detail": "Mark Arm 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "anywhere",
+      "toName": "Anywhere",
+      "toArea": "洛杉矶",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Mike Watt",
+      "detail": "Mike Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ciccone-youth",
+      "toName": "Ciccone Youth",
+      "toArea": "纽约",
+      "toYears": "1986–1988",
+      "type": "member",
+      "label": "Mike Watt",
+      "detail": "Mike Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "dim-stars",
+      "toName": "Dim Stars",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Don Fleming",
+      "detail": "Don Fleming 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "lucky-sperms",
+      "toName": "Lucky Sperms",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Mike Watt",
+      "detail": "Mike Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "raw-power",
+      "toName": "Raw Power",
+      "toArea": "西雅图",
+      "toYears": "2015–",
+      "type": "member",
+      "label": "Mark Arm",
+      "detail": "Mark Arm 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "society-s-ills",
+      "toName": "Society's Ills",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Mike Watt",
+      "detail": "Mike Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-new-original-sonic-sound",
+      "toName": "The New Original Sonic Sound",
+      "toArea": "西雅图",
+      "toYears": null,
+      "type": "member",
+      "label": "Mark Arm",
+      "detail": "Mark Arm 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

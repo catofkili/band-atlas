@@ -1,0 +1,67 @@
+{
+  "id": "東京事変",
+  "mbid": "b3d0f168-cb34-47c6-8529-fc05d1fce3ee",
+  "name": "東京事変",
+  "area": "日本",
+  "years": "2003–",
+  "genres": [
+    "Alternative Rock",
+    "J-Rock",
+    "Acid Jazz"
+  ],
+  "albums": [
+    {
+      "title": "教育",
+      "year": 2004
+    },
+    {
+      "title": "大人",
+      "year": 2006
+    },
+    {
+      "title": "娯楽",
+      "year": 2007
+    },
+    {
+      "title": "スポーツ",
+      "year": 2010
+    },
+    {
+      "title": "大発見",
+      "year": 2011
+    },
+    {
+      "title": "音楽",
+      "year": 2021
+    }
+  ],
+  "intro": "东京事变，日本乐团，成立于2003年，2012年解散、2020年复出。成员共有5人，分别为椎名林檎、龟田诚治、浮云、刃田缀色、伊泽一叶。",
+  "introLang": "zh",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee"
+  },
+  "edges": [
+    {
+      "to": "the-hiatus",
+      "toName": "the HIATUS",
+      "toArea": "东京",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "伊澤一葉",
+      "detail": "伊澤一葉 在这两支乐队都待过。",
+      "year": 2020,
+      "weight": 0.62
+    },
+    {
+      "to": "viva-la-j-rock-anthems",
+      "toName": "VIVA LA J-ROCK ANTHEMS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "伊澤一葉・亀田誠治",
+      "detail": "2 位乐手在这两支乐队都待过：伊澤一葉・亀田誠治。",
+      "year": 2020,
+      "weight": 0.84
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "knoxville-girls",
+  "mbid": "5014f8f7-40b6-4fc7-9985-b414844d8f96",
+  "name": "Knoxville Girls",
+  "area": "纽约",
+  "years": "1999–2001",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Knoxville Girls",
+      "year": 1999
+    },
+    {
+      "title": "In the Woodshed",
+      "year": 2000
+    },
+    {
+      "title": "In a Paper Suit",
+      "year": 2001
+    },
+    {
+      "title": "In a Ripped Dress",
+      "year": 2021
+    }
+  ],
+  "intro": "Knoxville Girls was a short-lived American, New York City based, alternative rock supergroup that contained: Bob Bert (of Sonic Youth and Pussy Galore), on drums, Jerry Teel (of Boss Hog and Little Porkchop) on vocals, guitars; Kid Congo Powers (of The Gun Club and The Cramps) on guitar and vocals; Jack Martin (of Little Porkchop and Blackstrap Molasses Family) on guitar; and Barry London (of Stab City) on organ.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5014f8f7-40b6-4fc7-9985-b414844d8f96"
+  },
+  "edges": [
+    {
+      "to": "nick-cave-the-bad-seeds",
+      "toName": "Nick Cave & the Bad Seeds",
+      "toArea": "墨尔本",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Kid Congo Powers",
+      "detail": "Kid Congo Powers 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "the-cramps",
+      "toName": "The Cramps",
+      "toArea": "纽约",
+      "toYears": "1976–2009",
+      "type": "member",
+      "label": "Kid Congo Powers",
+      "detail": "Kid Congo Powers 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "wolfmanhattan-project",
+      "toName": "Wolfmanhattan Project",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Kid Congo Powers",
+      "detail": "Kid Congo Powers 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "id": "fecal-matter",
+  "mbid": "552f7965-a23a-4e2f-9ef2-ac2989dea9f0",
+  "name": "Fecal Matter",
+  "area": "Aberdeen",
+  "years": "1985–1986",
+  "genres": [],
+  "albums": [],
+  "intro": "フィーカル・マター (Fecal Matter) は、アメリカのバンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/552f7965-a23a-4e2f-9ef2-ac2989dea9f0"
+  },
+  "edges": [
+    {
+      "to": "melvins",
+      "toName": "Melvins",
+      "toArea": "Montesano",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Buzz Osborne",
+      "detail": "Buzz Osborne 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "brown-towel",
+      "toName": "Brown Towel",
+      "toArea": null,
+      "toYears": "1985–1986",
+      "type": "member",
+      "label": "Buzz Osborne",
+      "detail": "Buzz Osborne 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "melvana",
+      "toName": "Melvana",
+      "toArea": null,
+      "toYears": "1992–1992",
+      "type": "member",
+      "label": "Buzz Osborne",
+      "detail": "Buzz Osborne 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "stiff-woodies",
+      "toName": "Stiff Woodies",
+      "toArea": null,
+      "toYears": "1986–1987",
+      "type": "member",
+      "label": "Mike Dillard",
+      "detail": "Mike Dillard 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "the-fantômas-melvins-big-band",
+      "toName": "The Fantômas Melvins Big Band",
+      "toArea": "美国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Buzz Osborne",
+      "detail": "Buzz Osborne 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    }
+  ]
+}

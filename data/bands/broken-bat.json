@@ -1,0 +1,47 @@
+{
+  "id": "broken-bat",
+  "mbid": "7e2b4350-4c9a-446a-8630-e51a5a10b324",
+  "name": "Broken Bat",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7e2b4350-4c9a-446a-8630-e51a5a10b324"
+  },
+  "edges": [
+    {
+      "to": "loser",
+      "toName": "Loser",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "dale-crover-band",
+      "toName": "Dale Crover Band",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "north-american-hallowe-en-prevention-initiative",
+      "toName": "North American Hallowe’en Prevention Initiative",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

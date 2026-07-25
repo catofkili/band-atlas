@@ -1,0 +1,42 @@
+{
+  "id": "duff-mckagan-s-loaded",
+  "mbid": "85382364-e2bc-4803-90b4-29bb3da200ce",
+  "name": "Duff McKagan’s Loaded",
+  "area": "西雅图",
+  "years": "1999–",
+  "genres": [
+    "Hard Rock"
+  ],
+  "albums": [
+    {
+      "title": "Dark Days",
+      "year": 2001
+    },
+    {
+      "title": "Sick",
+      "year": 2009
+    },
+    {
+      "title": "The Taking",
+      "year": 2011
+    }
+  ],
+  "intro": "Loaded (also known as Duff McKagan's Loaded) was an American rock band from Seattle, Washington, formed in 1999.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/85382364-e2bc-4803-90b4-29bb3da200ce"
+  },
+  "edges": [
+    {
+      "to": "the-gentlemen",
+      "toName": "The Gentlemen",
+      "toArea": "西雅图",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Dave Dederer",
+      "detail": "Dave Dederer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "tidus-sloan",
+  "mbid": "8be0cd53-7718-444f-b457-118acd01bda9",
+  "name": "Tidus Sloan",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8be0cd53-7718-444f-b457-118acd01bda9"
+  },
+  "edges": [
+    {
+      "to": "road-crew",
+      "toName": "Road Crew",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Adam Greenberg・Ron Schneider",
+      "detail": "2 位乐手在这两支乐队都待过：Adam Greenberg・Ron Schneider。",
+      "year": null,
+      "weight": 0.84
+    }
+  ]
+}

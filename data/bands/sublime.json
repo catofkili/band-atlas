@@ -1,0 +1,44 @@
+{
+  "id": "sublime",
+  "mbid": "95f5b748-d370-47fe-85bd-0af2dc450bc0",
+  "name": "Sublime",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "40 oz. to Freedom",
+      "year": 1992
+    },
+    {
+      "title": "Robbin’ the Hood",
+      "year": 1994
+    },
+    {
+      "title": "Sublime",
+      "year": 1996
+    },
+    {
+      "title": "Until the Sun Explodes",
+      "year": 2026
+    }
+  ],
+  "intro": "サブライムは、アメリカ合衆国のロックバンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0"
+  },
+  "edges": [
+    {
+      "to": "sublime-with-rome",
+      "toName": "Sublime with Rome",
+      "toArea": "Long Beach",
+      "toYears": "2009–2024",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

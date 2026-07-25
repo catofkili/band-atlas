@@ -1,0 +1,58 @@
+{
+  "id": "カオティック-スピードキング",
+  "mbid": "83a5ab00-9539-4257-a21c-44853773ccdc",
+  "name": "カオティック・スピードキング",
+  "area": "日本",
+  "years": "2013–",
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/83a5ab00-9539-4257-a21c-44853773ccdc"
+  },
+  "edges": [
+    {
+      "to": "ling-tosite-sigure",
+      "toName": "凛として時雨",
+      "toArea": "埼玉",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "ピエール中野",
+      "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
+    },
+    {
+      "to": "fzmz",
+      "toName": "FZMZ",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "ピエール中野",
+      "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    },
+    {
+      "to": "viva-la-j-rock-anthems",
+      "toName": "VIVA LA J-ROCK ANTHEMS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "ピエール中野",
+      "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "zing",
+      "toName": "ZiNG",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "ピエール中野",
+      "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

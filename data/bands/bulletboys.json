@@ -1,0 +1,133 @@
+{
+  "id": "bulletboys",
+  "mbid": "210c57b3-91dc-48db-9487-97f30719ea81",
+  "name": "BulletBoys",
+  "area": "洛杉矶",
+  "years": "1986–",
+  "genres": [
+    "Glam Metal",
+    "Hard Rock",
+    "Heavy Metal"
+  ],
+  "albums": [
+    {
+      "title": "BulletBoys",
+      "year": 1988
+    },
+    {
+      "title": "Freakshow",
+      "year": 1991
+    },
+    {
+      "title": "Za‐Za",
+      "year": 1993
+    },
+    {
+      "title": "Acid Monkey",
+      "year": 1995
+    },
+    {
+      "title": "Sophie",
+      "year": 2003
+    },
+    {
+      "title": "10¢ Billionaire",
+      "year": 2009
+    }
+  ],
+  "intro": "BulletBoys is an American hard rock/glam metal band formed in Los Angeles in 1987.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/210c57b3-91dc-48db-9487-97f30719ea81"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Steven Adler・DJ Ashba",
+      "detail": "2 位乐手在这两支乐队都待过：Steven Adler・DJ Ashba。",
+      "year": 1998,
+      "weight": 0.84
+    },
+    {
+      "to": "l-a-guns",
+      "toName": "L.A. Guns",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Chris Holmes・Keri Kelli・Scott Griffin",
+      "detail": "3 位乐手在这两支乐队都待过：Chris Holmes・Keri Kelli・Scott Griffin。",
+      "year": 2011,
+      "weight": 0.95
+    },
+    {
+      "to": "hawk",
+      "toName": "Hawk",
+      "toArea": "洛杉矶",
+      "toYears": "1984–",
+      "type": "member",
+      "label": "Lonnie Vencent・Marq Torien・Charlie Wayne Morrill",
+      "detail": "3 位乐手在这两支乐队都待过：Lonnie Vencent・Marq Torien・Charlie Wayne Morrill。",
+      "year": 2009,
+      "weight": 0.95
+    },
+    {
+      "to": "adler-s-appetite",
+      "toName": "Adler’s Appetite",
+      "toArea": "洛杉矶",
+      "toYears": "2003–2011",
+      "type": "member",
+      "label": "Steven Adler・Keri Kelli・Michael Thomas",
+      "detail": "3 位乐手在这两支乐队都待过：Steven Adler・Keri Kelli・Michael Thomas。",
+      "year": 2007,
+      "weight": 0.95
+    },
+    {
+      "to": "slash-featuring-myles-kennedy-and-the-conspirato",
+      "toName": "Slash featuring Myles Kennedy and the Conspirators",
+      "toArea": "美国",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Brent Fitz",
+      "detail": "Brent Fitz 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "slash-s-snakepit",
+      "toName": "Slash’s Snakepit",
+      "toArea": "洛杉矶",
+      "toYears": "1994–2002",
+      "type": "member",
+      "label": "Keri Kelli",
+      "detail": "Keri Kelli 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    },
+    {
+      "to": "adler",
+      "toName": "Adler",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Steven Adler",
+      "detail": "Steven Adler 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "road-crew",
+      "toName": "Road Crew",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steven Adler",
+      "detail": "Steven Adler 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    }
+  ]
+}

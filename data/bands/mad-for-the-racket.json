@@ -1,0 +1,52 @@
+{
+  "id": "mad-for-the-racket",
+  "mbid": "477490d6-3e98-41b2-9c24-b465e8ee74dc",
+  "name": "Mad for the Racket",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "The Racketeers",
+      "year": 2000
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/477490d6-3e98-41b2-9c24-b465e8ee74dc"
+  },
+  "edges": [
+    {
+      "to": "l-a-m-f",
+      "toName": "L.A.M.F.",
+      "toArea": "纽约",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "Wayne Kramer・Clem Burke",
+      "detail": "2 位乐手在这两支乐队都待过：Wayne Kramer・Clem Burke。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "the-wild-bunch",
+      "toName": "The Wild Bunch",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Wayne Kramer・Clem Burke",
+      "detail": "2 位乐手在这两支乐队都待过：Wayne Kramer・Clem Burke。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "mc50",
+      "toName": "MC50",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Wayne Kramer",
+      "detail": "Wayne Kramer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

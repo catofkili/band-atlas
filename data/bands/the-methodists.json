@@ -1,0 +1,52 @@
+{
+  "id": "the-methodists",
+  "mbid": "2bfe8ede-40fa-4f45-8b4e-2f540783efbe",
+  "name": "The Methodists",
+  "area": "西雅图",
+  "years": "1995–1998",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Cookie",
+      "year": 1998
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2bfe8ede-40fa-4f45-8b4e-2f540783efbe"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "member",
+      "label": "Chad Channing",
+      "detail": "Chad Channing 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "the-fire-ants",
+      "toName": "The Fire Ants",
+      "toArea": "西雅图",
+      "toYears": "1991–1993",
+      "type": "member",
+      "label": "Chad Channing・Dan McDonald",
+      "detail": "2 位乐手在这两支乐队都待过：Chad Channing・Dan McDonald。",
+      "year": 1991,
+      "weight": 0.84
+    },
+    {
+      "to": "before-cars",
+      "toName": "Before Cars",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Chad Channing",
+      "detail": "Chad Channing 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

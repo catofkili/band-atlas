@@ -1,0 +1,52 @@
+{
+  "id": "to-live-and-shave-in-l-a",
+  "mbid": "083941cf-8183-4cba-b49f-16681f04eb63",
+  "name": "To Live and Shave in L.A.",
+  "area": "美国",
+  "years": "1991–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "30-Minuten Männercreme",
+      "year": 1994
+    },
+    {
+      "title": "Vedder Vedder Bedwetter",
+      "year": 1995
+    },
+    {
+      "title": "An Interview With The Mitchell Brothers",
+      "year": 1995
+    },
+    {
+      "title": "\"Helen Butte\" vs. Madonna Pussy Badsmell",
+      "year": 1996
+    },
+    {
+      "title": "Peter Criss vs. Peter Christopherson",
+      "year": 2000
+    },
+    {
+      "title": "Amour Fou on the Edge of Misogyny",
+      "year": 2001
+    }
+  ],
+  "intro": "To Live and Shave in L.A.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/083941cf-8183-4cba-b49f-16681f04eb63"
+  },
+  "edges": [
+    {
+      "to": "pussy-galore",
+      "toName": "Pussy Galore",
+      "toArea": "美国",
+      "toYears": "1985–1990",
+      "type": "member",
+      "label": "Tom Smith",
+      "detail": "Tom Smith 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

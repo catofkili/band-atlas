@@ -1,0 +1,72 @@
+{
+  "id": "record-club",
+  "mbid": "8dd30e73-c5e9-43bf-bcce-8fc44d54a84d",
+  "name": "Record Club",
+  "area": "美国",
+  "years": "2009–",
+  "genres": [
+    "Lo-Fi"
+  ],
+  "albums": [
+    {
+      "title": "Songs of Leonard Cohen",
+      "year": 2009
+    },
+    {
+      "title": "The Velvet Underground & Nico",
+      "year": 2009
+    },
+    {
+      "title": "Oar",
+      "year": 2010
+    },
+    {
+      "title": "Kick",
+      "year": 2010
+    },
+    {
+      "title": "Yanni Live at the Acropolis",
+      "year": 2010
+    }
+  ],
+  "intro": "Record Club was a musical project initiated by Beck in June 2009.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8dd30e73-c5e9-43bf-bcce-8fc44d54a84d"
+  },
+  "edges": [
+    {
+      "to": "loser",
+      "toName": "Loser",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Beck・Brian LeBarton",
+      "detail": "2 位乐手在这两支乐队都待过：Beck・Brian LeBarton。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "ultraísta",
+      "toName": "Ultraísta",
+      "toArea": "英国",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Nigel Godrich",
+      "detail": "Nigel Godrich 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "atoms-for-peace",
+      "toName": "Atoms for Peace",
+      "toArea": "洛杉矶",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "Nigel Godrich",
+      "detail": "Nigel Godrich 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

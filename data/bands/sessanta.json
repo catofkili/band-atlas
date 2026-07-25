@@ -1,0 +1,25 @@
+{
+  "id": "sessanta",
+  "mbid": "3a366de9-5f4b-4828-b3f2-e29485c0e932",
+  "name": "Sessanta",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3a366de9-5f4b-4828-b3f2-e29485c0e932"
+  },
+  "edges": [
+    {
+      "to": "a-perfect-circle",
+      "toName": "A Perfect Circle",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

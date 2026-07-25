@@ -1,0 +1,41 @@
+{
+  "id": "col-parker",
+  "mbid": "cf53fd12-9abf-4115-a099-65a9d7160c00",
+  "name": "Col. Parker",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Rock'n'Roll Music",
+      "year": 2001
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cf53fd12-9abf-4115-a099-65a9d7160c00"
+  },
+  "edges": [
+    {
+      "to": "l-a-guns",
+      "toName": "L.A. Guns",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Mark \"Muddy\" Dutton",
+      "detail": "Mark \"Muddy\" Dutton 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    },
+    {
+      "to": "slash-s-blues-ball",
+      "toName": "Slash’s Blues Ball",
+      "toArea": "美国",
+      "toYears": "1996–1998",
+      "type": "member",
+      "label": "Teddy Andreadis",
+      "detail": "Teddy Andreadis 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,109 @@
+{
+  "id": "adler-s-appetite",
+  "mbid": "388fe5dc-db1a-4ada-86f3-d3b850ae3535",
+  "name": "Adler’s Appetite",
+  "area": "洛杉矶",
+  "years": "2003–2011",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Alive",
+      "year": 2012
+    }
+  ],
+  "intro": "Adler's Appetite was an American rock band from Los Angeles, formed in 2003.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/388fe5dc-db1a-4ada-86f3-d3b850ae3535"
+  },
+  "edges": [
+    {
+      "to": "bulletboys",
+      "toName": "BulletBoys",
+      "toArea": "洛杉矶",
+      "toYears": "1986–",
+      "type": "member",
+      "label": "Steven Adler・Keri Kelli・Michael Thomas",
+      "detail": "3 位乐手在这两支乐队都待过：Steven Adler・Keri Kelli・Michael Thomas。",
+      "year": 2007,
+      "weight": 0.95
+    },
+    {
+      "to": "l-a-guns",
+      "toName": "L.A. Guns",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Jizzy Pearl・Brent Muscat・Keri Kelli",
+      "detail": "3 位乐手在这两支乐队都待过：Jizzy Pearl・Brent Muscat・Keri Kelli。",
+      "year": 2003,
+      "weight": 0.95
+    },
+    {
+      "to": "quiet-riot",
+      "toName": "Quiet Riot",
+      "toArea": "洛杉矶",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "Jizzy Pearl・Alex Grossi・Sheldon Tarsha",
+      "detail": "3 位乐手在这两支乐队都待过：Jizzy Pearl・Alex Grossi・Sheldon Tarsha。",
+      "year": 2003,
+      "weight": 0.95
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Steven Adler",
+      "detail": "Steven Adler 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "slash-s-snakepit",
+      "toName": "Slash’s Snakepit",
+      "toArea": "洛杉矶",
+      "toYears": "1994–2002",
+      "type": "member",
+      "label": "Keri Kelli",
+      "detail": "Keri Kelli 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    },
+    {
+      "to": "adler",
+      "toName": "Adler",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Steven Adler",
+      "detail": "Steven Adler 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "road-crew",
+      "toName": "Road Crew",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steven Adler",
+      "detail": "Steven Adler 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "the-wild-bunch",
+      "toName": "The Wild Bunch",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Chip Z’Nuff",
+      "detail": "Chip Z’Nuff 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    }
+  ]
+}

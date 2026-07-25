@@ -1,0 +1,41 @@
+{
+  "id": "da-googie",
+  "mbid": "56eedfe0-4801-4b81-9638-c137a4eafe11",
+  "name": "da Googie",
+  "area": "伦敦",
+  "years": "2023–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "The Golden Thread",
+      "year": 2025
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/56eedfe0-4801-4b81-9638-c137a4eafe11"
+  },
+  "edges": [
+    {
+      "to": "my-bloody-valentine",
+      "toName": "My Bloody Valentine",
+      "toArea": "都柏林 / 伦敦",
+      "toYears": "1983–1997 / 2007–",
+      "type": "member",
+      "label": "Debbie Googe",
+      "detail": "Debbie Googe 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "thurston-moore-group",
+      "toName": "Thurston Moore Group",
+      "toArea": "伦敦",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "Debbie Googe",
+      "detail": "Debbie Googe 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

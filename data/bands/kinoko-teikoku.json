@@ -1,5 +1,6 @@
 {
   "id": "kinoko-teikoku",
+  "mbid": "18a15d8d-b7bf-4921-9976-aa6388b99a9a",
   "name": "きのこ帝国",
   "area": "东京",
   "years": "2007–2019",
@@ -7,7 +8,6 @@
     "Shoegaze",
     "Alternative Rock"
   ],
-  "intro": "佐藤千亚妃的乐队。从 shoegaze 的噪音墙起步，逐渐转向清亮的流行写作，两个阶段的落差是它最被讨论的地方。",
   "albums": [
     {
       "title": "渦になる",
@@ -26,6 +26,8 @@
       "year": 2015
     }
   ],
+  "intro": "佐藤千亚妃的乐队。从 shoegaze 的噪音墙起步，逐渐转向清亮的流行写作，两个阶段的落差是它最被讨论的地方。",
+  "introLang": "zh",
   "tracks": [
     "クロノスタシス",
     "東京",
@@ -33,7 +35,7 @@
     "海と花束"
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=%E3%81%8D%E3%81%AE%E3%81%93%E5%B8%9D%E5%9B%BD&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/18a15d8d-b7bf-4921-9976-aa6388b99a9a"
   },
   "edges": [
     {

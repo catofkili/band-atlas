@@ -1,0 +1,27 @@
+{
+  "id": "the-ronnie-wood-band",
+  "mbid": "f80bf66a-c771-48ef-b1d3-ed76c433675a",
+  "name": "The Ronnie Wood Band",
+  "area": "英国",
+  "years": "2001–2002",
+  "genres": [],
+  "albums": [],
+  "intro": "Ronald David Wood (born 1 June 1947) is an English rock musician, best known as a member of the Rolling Stones since 1975, and a member of Faces and the Jeff Beck Group.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f80bf66a-c771-48ef-b1d3-ed76c433675a"
+  },
+  "edges": [
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ronnie Wood",
+      "detail": "Ronnie Wood 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

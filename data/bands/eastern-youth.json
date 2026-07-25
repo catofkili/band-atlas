@@ -1,5 +1,6 @@
 {
   "id": "eastern-youth",
+  "mbid": "d87faf16-56c5-4f31-8d92-2f0e64956de9",
   "name": "eastern youth",
   "area": "北海道",
   "years": "1988–",
@@ -8,7 +9,6 @@
     "Post-hardcore",
     "Punk"
   ],
-  "intro": "吉野寿的嘶吼与文语式的歌词。和 bloodthirsty butchers 一样出自札幌，是日本 emo 谱系最上游的一支。",
   "albums": [
     {
       "title": "口笛、夜更けに使う",
@@ -23,13 +23,15 @@
       "year": 2001
     }
   ],
+  "intro": "吉野寿的嘶吼与文语式的歌词。和 bloodthirsty butchers 一样出自札幌，是日本 emo 谱系最上游的一支。",
+  "introLang": "ja",
   "tracks": [
     "夏の日の午後",
     "男子畢生危機一髪",
     "青い空、白い雲、しゅーっという風"
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=eastern%20youth&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/d87faf16-56c5-4f31-8d92-2f0e64956de9"
   },
   "edges": [
     {

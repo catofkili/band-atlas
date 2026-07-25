@@ -1,0 +1,25 @@
+{
+  "id": "male-slut",
+  "mbid": "03b30313-e7b7-4c2f-b440-5e0f3a4b6751",
+  "name": "Male Slut",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/03b30313-e7b7-4c2f-b440-5e0f3a4b6751"
+  },
+  "edges": [
+    {
+      "to": "mosquito",
+      "toName": "Mosquito",
+      "toArea": "美国",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Tim Foljahn",
+      "detail": "Tim Foljahn 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

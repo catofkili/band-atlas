@@ -1,0 +1,52 @@
+{
+  "id": "the-everybody",
+  "mbid": "4d640098-bd30-40d6-9ca3-703ebef3681e",
+  "name": "The Everybody",
+  "area": "美国",
+  "years": "2012–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Avatar",
+      "year": 2010
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4d640098-bd30-40d6-9ca3-703ebef3681e"
+  },
+  "edges": [
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "member",
+      "label": "Dave Lovering・Joey Santiago",
+      "detail": "2 位乐手在这两支乐队都待过：Dave Lovering・Joey Santiago。",
+      "year": 1986,
+      "weight": 0.84
+    },
+    {
+      "to": "frank-black-and-the-catholics",
+      "toName": "Frank Black and the Catholics",
+      "toArea": "美国",
+      "toYears": "1997–2003",
+      "type": "member",
+      "label": "Joey Santiago",
+      "detail": "Joey Santiago 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-martinis",
+      "toName": "The Martinis",
+      "toArea": "洛杉矶",
+      "toYears": "1993–",
+      "type": "member",
+      "label": "Joey Santiago",
+      "detail": "Joey Santiago 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

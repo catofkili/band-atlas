@@ -1,0 +1,60 @@
+{
+  "id": "camp-freddy",
+  "mbid": "0177a4b0-75b0-4c2a-9501-734b942cdcd4",
+  "name": "Camp Freddy",
+  "area": "美国",
+  "years": "2003–",
+  "genres": [],
+  "albums": [],
+  "intro": "Camp Freddy was an American hard rock supergroup consisting of established musicians who played rock covers at various shows around the United States from 2002 through 2014.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0177a4b0-75b0-4c2a-9501-734b942cdcd4"
+  },
+  "edges": [
+    {
+      "to": "royal-machines",
+      "toName": "Royal Machines",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Chris Chaney・Donovan Leitch・Mark McGrath・Billy Morrison・Dave Navarro",
+      "detail": "5 位乐手在这两支乐队都待过：Chris Chaney・Donovan Leitch・Mark McGrath・Billy Morrison・Dave Navarro。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "velvet-revolver",
+      "toName": "Velvet Revolver",
+      "toArea": "Rancho Santa Margarita",
+      "toYears": "2002–2008",
+      "type": "member",
+      "label": "Scott Weiland",
+      "detail": "Scott Weiland 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "circus-diablo",
+      "toName": "Circus Diablo",
+      "toArea": "洛杉矶",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "Billy Morrison",
+      "detail": "Billy Morrison 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "kings-of-chaos",
+      "toName": "Kings of Chaos",
+      "toArea": "美国",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Chester Bennington",
+      "detail": "Chester Bennington 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

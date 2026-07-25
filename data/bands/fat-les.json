@@ -1,0 +1,60 @@
+{
+  "id": "fat-les",
+  "mbid": "4488bb49-dc2a-4297-b486-e3405a010bd5",
+  "name": "Fat Les",
+  "area": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "intro": "Fat Les were a British band consisting of Blur bassist Alex James, actor Keith Allen, and artist Damien Hirst.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4488bb49-dc2a-4297-b486-e3405a010bd5"
+  },
+  "edges": [
+    {
+      "to": "blur",
+      "toName": "Blur",
+      "toArea": "伦敦",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Alex James",
+      "detail": "Alex James 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "me-me-me",
+      "toName": "Me Me Me",
+      "toArea": "英格兰",
+      "toYears": "1996–1996",
+      "type": "member",
+      "label": "Alex James",
+      "detail": "Alex James 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "seymour",
+      "toName": "Seymour",
+      "toArea": "Colchester",
+      "toYears": "1989–1990",
+      "type": "member",
+      "label": "Alex James",
+      "detail": "Alex James 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "wigwam",
+      "toName": "WigWam",
+      "toArea": "英国",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Alex James",
+      "detail": "Alex James 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

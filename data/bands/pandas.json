@@ -1,0 +1,25 @@
+{
+  "id": "pandas",
+  "mbid": "adc32825-123a-4e1b-adb1-ffd093a26917",
+  "name": "PANDAS",
+  "area": "日本",
+  "years": "2017–",
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/adc32825-123a-4e1b-adb1-ffd093a26917"
+  },
+  "edges": [
+    {
+      "to": "ling-tosite-sigure",
+      "toName": "凛として時雨",
+      "toArea": "埼玉",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "TK",
+      "detail": "TK 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    }
+  ]
+}

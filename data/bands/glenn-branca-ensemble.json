@@ -1,0 +1,47 @@
+{
+  "id": "glenn-branca-ensemble",
+  "mbid": "978a0d05-1dab-4515-be85-05b7b28c1f32",
+  "name": "Glenn Branca Ensemble",
+  "area": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/978a0d05-1dab-4515-be85-05b7b28c1f32"
+  },
+  "edges": [
+    {
+      "to": "swans",
+      "toName": "Swans",
+      "toArea": "纽约",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Algis Kizys・Virgil Moorefield",
+      "detail": "2 位乐手在这两支乐队都待过：Algis Kizys・Virgil Moorefield。",
+      "year": 1991,
+      "weight": 0.84
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Algis Kizys",
+      "detail": "Algis Kizys 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "tapeworm",
+      "toName": "Tapeworm",
+      "toArea": "美国",
+      "toYears": "1996–2004",
+      "type": "member",
+      "label": "Page Hamilton",
+      "detail": "Page Hamilton 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

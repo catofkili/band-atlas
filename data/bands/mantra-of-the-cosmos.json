@@ -1,0 +1,80 @@
+{
+  "id": "mantra-of-the-cosmos",
+  "mbid": "69594e66-8ac1-4150-b22a-5b5f6d6f8c40",
+  "name": "Mantra of the Cosmos",
+  "area": "英国",
+  "years": "2023–",
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/69594e66-8ac1-4150-b22a-5b5f6d6f8c40"
+  },
+  "edges": [
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "hurricane-1",
+      "toName": "Hurricane #1",
+      "toArea": "牛津",
+      "toYears": "1996–1999",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ride",
+      "toName": "Ride",
+      "toArea": "牛津",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "beady-eye",
+      "toName": "Beady Eye",
+      "toArea": "曼彻斯特",
+      "toYears": "2009–2014",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "harvey-s-rabbit",
+      "toName": "Harvey's Rabbit",
+      "toArea": "曼彻斯特",
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Zak Starkey",
+      "detail": "Zak Starkey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

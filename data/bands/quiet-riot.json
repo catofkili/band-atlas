@@ -1,0 +1,133 @@
+{
+  "id": "quiet-riot",
+  "mbid": "5c6acb91-4b9b-4245-b92f-e817295c4ed0",
+  "name": "Quiet Riot",
+  "area": "洛杉矶",
+  "years": "1973–",
+  "genres": [
+    "Hard Rock",
+    "Glam Metal",
+    "Heavy Metal"
+  ],
+  "albums": [
+    {
+      "title": "Quiet Riot II",
+      "year": 1978
+    },
+    {
+      "title": "Quiet Riot",
+      "year": 1978
+    },
+    {
+      "title": "Metal Health",
+      "year": 1983
+    },
+    {
+      "title": "Live At The Agora 1983",
+      "year": 1983
+    },
+    {
+      "title": "Condition Critical",
+      "year": 1984
+    },
+    {
+      "title": "QR III",
+      "year": 1986
+    }
+  ],
+  "intro": "クワイエット・ライオットは、アメリカ合衆国出身のハードロック・バンド。 1980年代に確立するヘヴィメタル・シーンにおいて、最初期に全米チャート1位を獲得した草分け的グループ。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5c6acb91-4b9b-4245-b92f-e817295c4ed0"
+  },
+  "edges": [
+    {
+      "to": "adler-s-appetite",
+      "toName": "Adler’s Appetite",
+      "toArea": "洛杉矶",
+      "toYears": "2003–2011",
+      "type": "member",
+      "label": "Jizzy Pearl・Alex Grossi・Sheldon Tarsha",
+      "detail": "3 位乐手在这两支乐队都待过：Jizzy Pearl・Alex Grossi・Sheldon Tarsha。",
+      "year": 2003,
+      "weight": 0.95
+    },
+    {
+      "to": "l-a-guns",
+      "toName": "L.A. Guns",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Tracii Guns・Jizzy Pearl",
+      "detail": "2 位乐手在这两支乐队都待过：Tracii Guns・Jizzy Pearl。",
+      "year": 2005,
+      "weight": 0.84
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Tracii Guns",
+      "detail": "Tracii Guns 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "gunzo",
+      "toName": "Gunzo",
+      "toArea": "洛杉矶",
+      "toYears": "2015–",
+      "type": "member",
+      "label": "Tracii Guns・Rudy Sarzo",
+      "detail": "2 位乐手在这两支乐队都待过：Tracii Guns・Rudy Sarzo。",
+      "year": 2015,
+      "weight": 0.84
+    },
+    {
+      "to": "brides-of-destruction",
+      "toName": "Brides of Destruction",
+      "toArea": "美国",
+      "toYears": "2002–2006",
+      "type": "member",
+      "label": "Tracii Guns",
+      "detail": "Tracii Guns 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "blackbird-angels",
+      "toName": "Blackbird Angels",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Tracii Guns",
+      "detail": "Tracii Guns 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "contraband",
+      "toName": "Contraband",
+      "toArea": null,
+      "toYears": "1991–",
+      "type": "member",
+      "label": "Tracii Guns",
+      "detail": "Tracii Guns 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "pyrrhus",
+      "toName": "Pyrrhus",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "Tracii Guns",
+      "detail": "Tracii Guns 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    }
+  ]
+}

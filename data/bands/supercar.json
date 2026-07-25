@@ -1,5 +1,6 @@
 {
   "id": "supercar",
+  "mbid": "371d6599-6292-4f3f-94d2-5b2fd19b089c",
   "name": "SUPERCAR",
   "area": "青森",
   "years": "1995–2005",
@@ -8,7 +9,6 @@
     "Electronica",
     "Indie Rock"
   ],
-  "intro": "从青森出道的四人组。前期是吉他噪音，后期整体转向电子，两种面貌都被后来者反复引用。",
   "albums": [
     {
       "title": "スリーアウトチェンジ",
@@ -31,6 +31,8 @@
       "year": 2004
     }
   ],
+  "intro": "从青森出道的四人组。前期是吉他噪音，后期整体转向电子，两种面貌都被后来者反复引用。",
+  "introLang": "ja",
   "tracks": [
     "cream soda",
     "Lucky",
@@ -39,7 +41,7 @@
     "White Surf style 5."
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=SUPERCAR&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/371d6599-6292-4f3f-94d2-5b2fd19b089c"
   },
   "edges": [
     {
@@ -63,6 +65,28 @@
       "detail": "几乎同时出道的同世代乐队。",
       "year": null,
       "weight": 0.6
+    },
+    {
+      "to": "lama",
+      "toName": "LAMA",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "フルカワミキ・中村弘二",
+      "detail": "2 位乐手在这两支乐队都待过：フルカワミキ・中村弘二。",
+      "year": 2010,
+      "weight": 0.84
+    },
+    {
+      "to": "3rensa",
+      "toName": "3RENSA",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "中村弘二",
+      "detail": "中村弘二 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
     }
   ]
 }

@@ -1,0 +1,80 @@
+{
+  "id": "society-s-ills",
+  "mbid": "1d5e1b8c-9682-46c2-8efb-25cd94595f51",
+  "name": "Society's Ills",
+  "area": "纽约",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1d5e1b8c-9682-46c2-8efb-25cd94595f51"
+  },
+  "edges": [
+    {
+      "to": "anywhere",
+      "toName": "Anywhere",
+      "toArea": "洛杉矶",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Mike Watt",
+      "detail": "Mike Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "wylde-ratttz",
+      "toName": "Wylde Ratttz",
+      "toArea": "伦敦",
+      "toYears": "1998–1998",
+      "type": "member",
+      "label": "Mike Watt",
+      "detail": "Mike Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ciccone-youth",
+      "toName": "Ciccone Youth",
+      "toArea": "纽约",
+      "toYears": "1986–1988",
+      "type": "member",
+      "label": "Mike Watt",
+      "detail": "Mike Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "lucky-sperms",
+      "toName": "Lucky Sperms",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Mike Watt",
+      "detail": "Mike Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "puzzled-panthers",
+      "toName": "Puzzled Panthers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dave Markey",
+      "detail": "Dave Markey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "rodney-the-tube-tops",
+      "toName": "Rodney & The Tube Tops",
+      "toArea": null,
+      "toYears": "1996–1997",
+      "type": "member",
+      "label": "Dave Markey",
+      "detail": "Dave Markey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

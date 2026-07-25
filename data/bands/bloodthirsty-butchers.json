@@ -1,5 +1,6 @@
 {
   "id": "bloodthirsty-butchers",
+  "mbid": "8293299e-5411-4502-aed3-7ed09d37bf38",
   "name": "bloodthirsty butchers",
   "area": "北海道",
   "years": "1987–2013",
@@ -8,7 +9,6 @@
     "Post-hardcore",
     "Noise Rock"
   ],
-  "intro": "吉村秀树领衔的札幌乐队。旋律粗粝、演奏近乎失控，是日本另类摇滚里被后辈最频繁提起的一支。",
   "albums": [
     {
       "title": "kocorono",
@@ -31,6 +31,8 @@
       "year": 2011
     }
   ],
+  "intro": "吉村秀树领衔的札幌乐队。旋律粗粝、演奏近乎失控，是日本另类摇滚里被后辈最频繁提起的一支。",
+  "introLang": "ja",
   "tracks": [
     "7月",
     "December",
@@ -38,7 +40,7 @@
   ],
   "lore": "2013 年 5 月，吉村秀树突然离世，乐队随之终止。此后多年，日本另类摇滚圈的纪念演出没有断过。",
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=bloodthirsty%20butchers&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/8293299e-5411-4502-aed3-7ed09d37bf38"
   },
   "edges": [
     {
@@ -106,6 +108,61 @@
       "detail": "吉村秀树与 LOSTAGE 的五味岳久交情深厚，两队多次同台。",
       "year": null,
       "weight": 0.6
+    },
+    {
+      "to": "l-s-d",
+      "toName": "L.S.D.",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "佐野紀代己・射守矢雄",
+      "detail": "2 位乐手在这两支乐队都待过：佐野紀代己・射守矢雄。",
+      "year": 1986,
+      "weight": 0.84
+    },
+    {
+      "to": "crypt-city",
+      "toName": "CRYPT CITY",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "小松正宏",
+      "detail": "小松正宏 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "lama",
+      "toName": "LAMA",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "odani-misako-ta-ta",
+      "toName": "odani misako・ta-ta",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "copass-grinderz",
+      "toName": "Copass Grinderz",
+      "toArea": "日本",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "吉村秀樹",
+      "detail": "吉村秀樹 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
     }
   ]
 }

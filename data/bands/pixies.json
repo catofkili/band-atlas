@@ -1,5 +1,6 @@
 {
   "id": "pixies",
+  "mbid": "b6b2bb8d-54a9-491f-9607-7b546023b433",
   "name": "Pixies",
   "area": "波士顿",
   "years": "1986–1993 / 2004–",
@@ -7,7 +8,6 @@
     "Alternative Rock",
     "Noise Pop"
   ],
-  "intro": "轻—重—轻的段落结构、无来由的尖叫、超现实的歌词。九十年代之后几乎所有另类摇滚都欠它一笔。",
   "albums": [
     {
       "title": "Surfer Rosa",
@@ -26,6 +26,8 @@
       "year": 1991
     }
   ],
+  "intro": "轻—重—轻的段落结构、无来由的尖叫、超现实的歌词。九十年代之后几乎所有另类摇滚都欠它一笔。",
+  "introLang": "zh",
   "tracks": [
     "Where Is My Mind?",
     "Debaser",
@@ -35,9 +37,20 @@
   ],
   "lore": "1993 年，Black Francis 没有开会，也没有挨个打电话——他用一份传真通知了乐队解散。",
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=Pixies&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/b6b2bb8d-54a9-491f-9607-7b546023b433"
   },
   "edges": [
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "强弱段落的落差与噪音吉他，被向井秀徳反复提及为 NUMBER GIRL 的骨架。",
+      "year": null,
+      "weight": 0.9
+    },
     {
       "to": "nirvana",
       "toName": "Nirvana",
@@ -50,15 +63,191 @@
       "weight": 0.9
     },
     {
-      "to": "number-girl",
-      "toName": "NUMBER GIRL",
-      "toArea": "福冈",
-      "toYears": "1995–2002 / 2019–2022",
-      "type": "influence",
-      "label": "影响来源",
-      "detail": "强弱段落的落差与噪音吉他，被向井秀徳反复提及为 NUMBER GIRL 的骨架。",
-      "year": null,
-      "weight": 0.9
+      "to": "the-everybody",
+      "toName": "The Everybody",
+      "toArea": "美国",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Dave Lovering・Joey Santiago",
+      "detail": "2 位乐手在这两支乐队都待过：Dave Lovering・Joey Santiago。",
+      "year": 1986,
+      "weight": 0.84
+    },
+    {
+      "to": "band-of-skulls",
+      "toName": "Band of Skulls",
+      "toArea": "Southampton",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "Emma Richardson",
+      "detail": "Emma Richardson 在这两支乐队都待过。",
+      "year": 2024,
+      "weight": 0.62
+    },
+    {
+      "to": "frank-black-and-the-catholics",
+      "toName": "Frank Black and the Catholics",
+      "toArea": "美国",
+      "toYears": "1997–2003",
+      "type": "member",
+      "label": "Joey Santiago",
+      "detail": "Joey Santiago 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Black Francis",
+      "detail": "Black Francis 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "silver-jews",
+      "toName": "Silver Jews",
+      "toArea": "Charlottesville",
+      "toYears": "1989–2009",
+      "type": "member",
+      "label": "Paz Lenchantin",
+      "detail": "Paz Lenchantin 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-breeders",
+      "toName": "The Breeders",
+      "toArea": "波士顿",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Kim Deal",
+      "detail": "Kim Deal 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-muffs",
+      "toName": "The Muffs",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2019",
+      "type": "member",
+      "label": "Kim Shattuck",
+      "detail": "Kim Shattuck 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "white-flag",
+      "toName": "White Flag",
+      "toArea": "Moreno Valley",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Kim Shattuck",
+      "detail": "Kim Shattuck 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "a-perfect-circle",
+      "toName": "A Perfect Circle",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Paz Lenchantin",
+      "detail": "Paz Lenchantin 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pandoras",
+      "toName": "The Pandoras",
+      "toArea": "洛杉矶",
+      "toYears": "1981–1991",
+      "type": "member",
+      "label": "Kim Shattuck",
+      "detail": "Kim Shattuck 在这两支乐队都待过。",
+      "year": 1985,
+      "weight": 0.62
+    },
+    {
+      "to": "grand-duchy",
+      "toName": "Grand Duchy",
+      "toArea": "美国",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Black Francis",
+      "detail": "Black Francis 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "the-entrance-band",
+      "toName": "The Entrance Band",
+      "toArea": "芝加哥",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "Paz Lenchantin",
+      "detail": "Paz Lenchantin 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-martinis",
+      "toName": "The Martinis",
+      "toArea": "洛杉矶",
+      "toYears": "1993–",
+      "type": "member",
+      "label": "Joey Santiago",
+      "detail": "Joey Santiago 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "zwan",
+      "toName": "Zwan",
+      "toArea": "美国",
+      "toYears": "2001–2004",
+      "type": "member",
+      "label": "Paz Lenchantin",
+      "detail": "Paz Lenchantin 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-amps",
+      "toName": "The Amps",
+      "toArea": "Dayton",
+      "toYears": "1995–1996",
+      "type": "member",
+      "label": "Kim Deal",
+      "detail": "Kim Deal 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "the-beards",
+      "toName": "The Beards",
+      "toArea": "美国",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "Kim Shattuck",
+      "detail": "Kim Shattuck 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-coolies",
+      "toName": "The Coolies",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Kim Shattuck",
+      "detail": "Kim Shattuck 在这两支乐队都待过。",
+      "year": 2019,
+      "weight": 0.62
     }
   ]
 }

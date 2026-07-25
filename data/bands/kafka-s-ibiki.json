@@ -1,0 +1,45 @@
+{
+  "id": "kafka-s-ibiki",
+  "mbid": "da85b991-7a08-410d-8e5e-86504b175feb",
+  "name": "Kafka’s Ibiki",
+  "area": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Kafka’s Ibiki/カフカ鼾",
+      "year": 2013
+    },
+    {
+      "title": "Okite",
+      "year": 2014
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/da85b991-7a08-410d-8e5e-86504b175feb"
+  },
+  "edges": [
+    {
+      "to": "bonjintan",
+      "toName": "Bonjintan",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "山本達久",
+      "detail": "山本達久 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "delivery-health",
+      "toName": "Delivery Health",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "山本達久",
+      "detail": "山本達久 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

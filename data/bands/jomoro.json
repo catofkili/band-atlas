@@ -1,0 +1,30 @@
+{
+  "id": "jomoro",
+  "mbid": "d5d0a571-5b0f-4476-aff1-66404bf71bef",
+  "name": "Jomoro",
+  "area": "美国",
+  "years": "2021–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Blue Marble Sky",
+      "year": 2021
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d5d0a571-5b0f-4476-aff1-66404bf71bef"
+  },
+  "edges": [
+    {
+      "to": "atoms-for-peace",
+      "toName": "Atoms for Peace",
+      "toArea": "洛杉矶",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "Mauro Refosco",
+      "detail": "Mauro Refosco 在这两支乐队都待过。",
+      "year": 2021,
+      "weight": 0.62
+    }
+  ]
+}

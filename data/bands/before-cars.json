@@ -1,0 +1,56 @@
+{
+  "id": "before-cars",
+  "mbid": "0cd44b95-7fa3-4fb3-9c87-646cf83a9a6b",
+  "name": "Before Cars",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Walk Back",
+      "year": 2009
+    },
+    {
+      "title": "How We Run",
+      "year": 2013
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0cd44b95-7fa3-4fb3-9c87-646cf83a9a6b"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "member",
+      "label": "Chad Channing",
+      "detail": "Chad Channing 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "the-methodists",
+      "toName": "The Methodists",
+      "toArea": "西雅图",
+      "toYears": "1995–1998",
+      "type": "member",
+      "label": "Chad Channing",
+      "detail": "Chad Channing 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-fire-ants",
+      "toName": "The Fire Ants",
+      "toArea": "西雅图",
+      "toYears": "1991–1993",
+      "type": "member",
+      "label": "Chad Channing",
+      "detail": "Chad Channing 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    }
+  ]
+}

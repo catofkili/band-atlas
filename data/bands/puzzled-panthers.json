@@ -1,0 +1,36 @@
+{
+  "id": "puzzled-panthers",
+  "mbid": "d57a2466-c489-44ff-872f-ad01f8e41056",
+  "name": "Puzzled Panthers",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d57a2466-c489-44ff-872f-ad01f8e41056"
+  },
+  "edges": [
+    {
+      "to": "rodney-the-tube-tops",
+      "toName": "Rodney & The Tube Tops",
+      "toArea": null,
+      "toYears": "1996–1997",
+      "type": "member",
+      "label": "Dave Markey",
+      "detail": "Dave Markey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "society-s-ills",
+      "toName": "Society's Ills",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Dave Markey",
+      "detail": "Dave Markey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

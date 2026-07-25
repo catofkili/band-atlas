@@ -1,0 +1,55 @@
+{
+  "id": "walking-papers",
+  "mbid": "cf7e57f4-d310-4a00-8bbb-6c30e2046ae8",
+  "name": "Walking Papers",
+  "area": "西雅图",
+  "years": "2012–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Walking Papers",
+      "year": 2012
+    },
+    {
+      "title": "Antiquiet Sessions #7",
+      "year": 2013
+    },
+    {
+      "title": "WP2",
+      "year": 2018
+    },
+    {
+      "title": "The Light Below",
+      "year": 2021
+    }
+  ],
+  "intro": "Walking Papers is an American rock band from Seattle, Washington, formed in 2012.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cf7e57f4-d310-4a00-8bbb-6c30e2046ae8"
+  },
+  "edges": [
+    {
+      "to": "levee-walkers",
+      "toName": "Levee Walkers",
+      "toArea": "西雅图",
+      "toYears": "2015–",
+      "type": "member",
+      "label": "Barrett Martin",
+      "detail": "Barrett Martin 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "raw-power",
+      "toName": "Raw Power",
+      "toArea": "西雅图",
+      "toYears": "2015–",
+      "type": "member",
+      "label": "Barrett Martin",
+      "detail": "Barrett Martin 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    }
+  ]
+}

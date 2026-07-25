@@ -1,0 +1,25 @@
+{
+  "id": "radio-bootsy",
+  "mbid": "6a943574-bf52-48a3-a439-b1d318015f3e",
+  "name": "Radio Bootsy",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6a943574-bf52-48a3-a439-b1d318015f3e"
+  },
+  "edges": [
+    {
+      "to": "straightener",
+      "toName": "ストレイテナー",
+      "toArea": "东京",
+      "toYears": "1998–",
+      "type": "member",
+      "label": "ホリエアツシ",
+      "detail": "ホリエアツシ 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    }
+  ]
+}

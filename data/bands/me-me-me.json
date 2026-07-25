@@ -1,0 +1,60 @@
+{
+  "id": "me-me-me",
+  "mbid": "5656fd4b-d35d-4741-966b-32dee833c0a5",
+  "name": "Me Me Me",
+  "area": "英格兰",
+  "years": "1996–1996",
+  "genres": [],
+  "albums": [],
+  "intro": "Me Me Me were a one-off English Britpop supergroup formed in 1996, consisting of Alex James of Blur (vocals, bass), Stephen Duffy (vocals, guitar) previously of Duran Duran/The Lilac Time, Justin Welch of Elastica (drums), and James' friend Charlie Bloor (credited as \"musician\").",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5656fd4b-d35d-4741-966b-32dee833c0a5"
+  },
+  "edges": [
+    {
+      "to": "blur",
+      "toName": "Blur",
+      "toArea": "伦敦",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Alex James",
+      "detail": "Alex James 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "fat-les",
+      "toName": "Fat Les",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Alex James",
+      "detail": "Alex James 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "seymour",
+      "toName": "Seymour",
+      "toArea": "Colchester",
+      "toYears": "1989–1990",
+      "type": "member",
+      "label": "Alex James",
+      "detail": "Alex James 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "wigwam",
+      "toName": "WigWam",
+      "toArea": "英国",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Alex James",
+      "detail": "Alex James 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

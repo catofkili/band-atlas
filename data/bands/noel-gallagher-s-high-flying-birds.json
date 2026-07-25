@@ -1,0 +1,70 @@
+{
+  "id": "noel-gallagher-s-high-flying-birds",
+  "mbid": "d5f54887-117b-42a1-9aee-8780b84ebaba",
+  "name": "Noel Gallagher’s High Flying Birds",
+  "area": "曼彻斯特",
+  "years": "2011–",
+  "genres": [
+    "Alternative Rock",
+    "Britpop",
+    "Alternative Dance"
+  ],
+  "albums": [
+    {
+      "title": "Noel Gallagher’s High Flying Birds",
+      "year": 2011
+    },
+    {
+      "title": "Chasing Yesterday",
+      "year": 2014
+    },
+    {
+      "title": "Who Built the Moon?",
+      "year": 2017
+    },
+    {
+      "title": "Council Skies",
+      "year": 2023
+    }
+  ],
+  "intro": "诺尔加拉格的高飞小鸟是前英国绿洲乐队 (Oasis) 的作曲家兼吉他手诺尔·加拉格 (Noel Gallagher) 在离开绿洲后另组的摇滚乐队。",
+  "introLang": "zh",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d5f54887-117b-42a1-9aee-8780b84ebaba"
+  },
+  "edges": [
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "member",
+      "label": "Noel Gallagher",
+      "detail": "Noel Gallagher 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "tailgunner",
+      "toName": "Tailgunner",
+      "toArea": "英国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Noel Gallagher",
+      "detail": "Noel Gallagher 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "mick-fleetwood-and-friends",
+      "toName": "Mick Fleetwood and Friends",
+      "toArea": null,
+      "toYears": "2020–2020",
+      "type": "member",
+      "label": "Noel Gallagher",
+      "detail": "Noel Gallagher 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    }
+  ]
+}

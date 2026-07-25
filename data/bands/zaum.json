@@ -1,0 +1,82 @@
+{
+  "id": "zaum",
+  "mbid": "6ffcf46f-861b-47e5-aba2-c1a930fef7ee",
+  "name": "Zaum",
+  "area": "洛杉矶",
+  "years": "1995–1996",
+  "genres": [],
+  "albums": [],
+  "intro": "Daniel Edwin Carey (born May 10, 1961) is an American drummer who is a member of the rock band Tool.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6ffcf46f-861b-47e5-aba2-c1a930fef7ee"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Chris Pitman",
+      "detail": "Chris Pitman 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "sextapes",
+      "toName": "SexTapes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Chris Pitman・Marko Fox",
+      "detail": "2 位乐手在这两支乐队都待过：Chris Pitman・Marko Fox。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Danny Carey",
+      "detail": "Danny Carey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "lusk",
+      "toName": "Lusk",
+      "toArea": "California",
+      "toYears": "1995–1998",
+      "type": "member",
+      "label": "Chris Pitman",
+      "detail": "Chris Pitman 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "replicants",
+      "toName": "Replicants",
+      "toArea": "美国",
+      "toYears": "1995–1996",
+      "type": "member",
+      "label": "Chris Pitman",
+      "detail": "Chris Pitman 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "beatrazr",
+      "toName": "Beatrazr",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Chris Pitman",
+      "detail": "Chris Pitman 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

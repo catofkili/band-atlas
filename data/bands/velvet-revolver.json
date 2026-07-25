@@ -1,0 +1,44 @@
+{
+  "id": "velvet-revolver",
+  "mbid": "3a528006-1429-47f4-ae9b-2ea95343e16a",
+  "name": "Velvet Revolver",
+  "area": "Rancho Santa Margarita",
+  "years": "2002–2008",
+  "genres": [
+    "Hard Rock",
+    "Alternative Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Contraband",
+      "year": 2004
+    },
+    {
+      "title": "Lethal Injection",
+      "year": 2004
+    },
+    {
+      "title": "Libertad",
+      "year": 2007
+    }
+  ],
+  "intro": "ヴェルヴェット・リヴォルヴァーは、アメリカのロックバンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3a528006-1429-47f4-ae9b-2ea95343e16a"
+  },
+  "edges": [
+    {
+      "to": "camp-freddy",
+      "toName": "Camp Freddy",
+      "toArea": "美国",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Scott Weiland",
+      "detail": "Scott Weiland 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    }
+  ]
+}

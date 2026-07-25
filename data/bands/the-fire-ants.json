@@ -1,0 +1,47 @@
+{
+  "id": "the-fire-ants",
+  "mbid": "a1ce7e78-9991-4ae9-b955-40210fbf545b",
+  "name": "The Fire Ants",
+  "area": "西雅图",
+  "years": "1991–1993",
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a1ce7e78-9991-4ae9-b955-40210fbf545b"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "member",
+      "label": "Chad Channing",
+      "detail": "Chad Channing 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "the-methodists",
+      "toName": "The Methodists",
+      "toArea": "西雅图",
+      "toYears": "1995–1998",
+      "type": "member",
+      "label": "Chad Channing・Dan McDonald",
+      "detail": "2 位乐手在这两支乐队都待过：Chad Channing・Dan McDonald。",
+      "year": 1991,
+      "weight": 0.84
+    },
+    {
+      "to": "before-cars",
+      "toName": "Before Cars",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Chad Channing",
+      "detail": "Chad Channing 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    }
+  ]
+}

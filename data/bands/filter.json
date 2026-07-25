@@ -1,0 +1,100 @@
+{
+  "id": "filter",
+  "mbid": "6ae51665-8261-4ae5-883f-1899651ad31b",
+  "name": "Filter",
+  "area": "Cleveland",
+  "years": "1993–",
+  "genres": [
+    "Alternative Rock",
+    "Industrial Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Short Bus",
+      "year": 1995
+    },
+    {
+      "title": "Title of Record",
+      "year": 1999
+    },
+    {
+      "title": "Title of Record",
+      "year": 1999
+    },
+    {
+      "title": "The Amalgamut",
+      "year": 2002
+    },
+    {
+      "title": "Anthems for the Damned",
+      "year": 2008
+    },
+    {
+      "title": "The Trouble With Angels",
+      "year": 2010
+    }
+  ],
+  "intro": "フィルター (Filter) は、アメリカ合衆国のインダストリアル・ロックグループ。 元ナイン・インチ・ネイルズのギタリストであるリチャード・パトリックが、ブライアン・リーゼガングと1993年に結成。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6ae51665-8261-4ae5-883f-1899651ad31b"
+  },
+  "edges": [
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "tenacious-d",
+      "toName": "Tenacious D",
+      "toArea": "洛杉矶",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "John Spiker",
+      "detail": "John Spiker 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "ashes-divide",
+      "toName": "Ashes Divide",
+      "toArea": "美国",
+      "toYears": "2007–",
+      "type": "member",
+      "label": "Jonathan Radtke",
+      "detail": "Jonathan Radtke 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "circus-diablo",
+      "toName": "Circus Diablo",
+      "toArea": "洛杉矶",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "Rob Patterson",
+      "detail": "Rob Patterson 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "the-damning-well",
+      "toName": "The Damning Well",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    }
+  ]
+}

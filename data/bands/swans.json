@@ -1,0 +1,133 @@
+{
+  "id": "swans",
+  "mbid": "3285dc48-9505-469d-ad8a-bdf2d3dba632",
+  "name": "Swans",
+  "area": "纽约",
+  "years": "1982–",
+  "genres": [
+    "Noise Rock",
+    "Post-Punk",
+    "Experimental"
+  ],
+  "albums": [
+    {
+      "title": "Filth",
+      "year": 1983
+    },
+    {
+      "title": "Cop",
+      "year": 1984
+    },
+    {
+      "title": "Greed",
+      "year": 1986
+    },
+    {
+      "title": "Holy Money",
+      "year": 1986
+    },
+    {
+      "title": "Živi v Ljubljani",
+      "year": 1987
+    },
+    {
+      "title": "Children of God",
+      "year": 1987
+    }
+  ],
+  "intro": "スワンズ (Swans) は、アメリカ合衆国のポストパンク・バンド。1982年にシンガー・ソングライターで楽器演奏もこなすマイケル・ジラが結成。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3285dc48-9505-469d-ad8a-bdf2d3dba632"
+  },
+  "edges": [
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Michael Gira・Algis Kizys・Bill Rieflin",
+      "detail": "3 位乐手在这两支乐队都待过：Michael Gira・Algis Kizys・Bill Rieflin。",
+      "year": 2010,
+      "weight": 0.95
+    },
+    {
+      "to": "the-gunga-din",
+      "toName": "The Gunga Din",
+      "toArea": "纽约",
+      "toYears": "1998–",
+      "type": "member",
+      "label": "Bill Bronson・Christopher Pravdica",
+      "detail": "2 位乐手在这两支乐队都待过：Bill Bronson・Christopher Pravdica。",
+      "year": 1997,
+      "weight": 0.84
+    },
+    {
+      "to": "glenn-branca-ensemble",
+      "toName": "Glenn Branca Ensemble",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Algis Kizys・Virgil Moorefield",
+      "detail": "2 位乐手在这两支乐队都待过：Algis Kizys・Virgil Moorefield。",
+      "year": 1991,
+      "weight": 0.84
+    },
+    {
+      "to": "the-bells",
+      "toName": "The Bells",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Bill Rieflin",
+      "detail": "Bill Rieflin 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "filthy-friends",
+      "toName": "Filthy Friends",
+      "toArea": "波特兰",
+      "toYears": null,
+      "type": "member",
+      "label": "Bill Rieflin",
+      "detail": "Bill Rieflin 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "kidbug",
+      "toName": "Kidbug",
+      "toArea": "Indianapolis",
+      "toYears": "2019–",
+      "type": "member",
+      "label": "Thor Harris",
+      "detail": "Thor Harris 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "sweet-75",
+      "toName": "Sweet 75",
+      "toArea": "西雅图",
+      "toYears": "1995–2000",
+      "type": "member",
+      "label": "Bill Rieflin",
+      "detail": "Bill Rieflin 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "pailhead",
+      "toName": "Pailhead",
+      "toArea": "美国",
+      "toYears": "1988–1988",
+      "type": "member",
+      "label": "Bill Rieflin",
+      "detail": "Bill Rieflin 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    }
+  ]
+}

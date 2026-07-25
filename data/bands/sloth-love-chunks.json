@@ -1,0 +1,41 @@
+{
+  "id": "sloth-love-chunks",
+  "mbid": "3bb1282c-68a9-497c-8cf3-5b49ba473402",
+  "name": "SLOTH LOVE CHUNKS",
+  "area": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "四角いVISION",
+      "year": 2006
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3bb1282c-68a9-497c-8cf3-5b49ba473402"
+  },
+  "edges": [
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "member",
+      "label": "中尾憲太郎",
+      "detail": "中尾憲太郎 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "浅井健一-the-interchange-kills",
+      "toName": "浅井健一 & THE INTERCHANGE KILLS",
+      "toArea": "日本",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "中尾憲太郎",
+      "detail": "中尾憲太郎 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    }
+  ]
+}

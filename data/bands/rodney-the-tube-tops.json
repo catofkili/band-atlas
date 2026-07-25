@@ -1,0 +1,49 @@
+{
+  "id": "rodney-the-tube-tops",
+  "mbid": "55c24ef0-82ad-4bd4-8b97-739690d43612",
+  "name": "Rodney & The Tube Tops",
+  "area": null,
+  "years": "1996–1997",
+  "genres": [],
+  "albums": [],
+  "intro": "Rodney & the Tube Tops was an American alternative rock supergroup from Seattle, Washington.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/55c24ef0-82ad-4bd4-8b97-739690d43612"
+  },
+  "edges": [
+    {
+      "to": "white-flag",
+      "toName": "White Flag",
+      "toArea": "Moreno Valley",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Pat Fear",
+      "detail": "Pat Fear 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "puzzled-panthers",
+      "toName": "Puzzled Panthers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dave Markey",
+      "detail": "Dave Markey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "society-s-ills",
+      "toName": "Society's Ills",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Dave Markey",
+      "detail": "Dave Markey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

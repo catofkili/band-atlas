@@ -1,0 +1,58 @@
+{
+  "id": "mark-knopfler-s-guitar-heroes",
+  "mbid": "6d1c3698-6ef2-4f67-b626-fa16e2c69c8e",
+  "name": "Mark Knopfler’s Guitar Heroes",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6d1c3698-6ef2-4f67-b626-fa16e2c69c8e"
+  },
+  "edges": [
+    {
+      "to": "mantra-of-the-cosmos",
+      "toName": "Mantra of the Cosmos",
+      "toArea": "英国",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "Zak Starkey",
+      "detail": "Zak Starkey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mick-fleetwood-and-friends",
+      "toName": "Mick Fleetwood and Friends",
+      "toArea": null,
+      "toYears": "2020–2020",
+      "type": "member",
+      "label": "Pete Townshend",
+      "detail": "Pete Townshend 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sound-city-players",
+      "toName": "Sound City Players",
+      "toArea": "美国",
+      "toYears": "2012–2013",
+      "type": "member",
+      "label": "Rick Nielsen",
+      "detail": "Rick Nielsen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-ronnie-wood-band",
+      "toName": "The Ronnie Wood Band",
+      "toArea": "英国",
+      "toYears": "2001–2002",
+      "type": "member",
+      "label": "Ronnie Wood",
+      "detail": "Ronnie Wood 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "id": "copass-grinderz",
+  "mbid": "4fdd4034-2a35-4784-bae0-7a154461b616",
+  "name": "Copass Grinderz",
+  "area": "日本",
+  "years": "1989–",
+  "genres": [
+    "Noise Rock"
+  ],
+  "albums": [],
+  "intro": "コーパス・グラインダーズは、日本のジャンクバンド。1989年に結成され、1996年にキングレコードからメジャーデビュー。1999年に活動休止に陥るが、2014年に活動を再開。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4fdd4034-2a35-4784-bae0-7a154461b616"
+  },
+  "edges": [
+    {
+      "to": "bloodthirsty-butchers",
+      "toName": "bloodthirsty butchers",
+      "toArea": "北海道",
+      "toYears": "1987–2013",
+      "type": "member",
+      "label": "吉村秀樹",
+      "detail": "吉村秀樹 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "the-king-all-stars",
+      "toName": "THE King ALL STARS",
+      "toArea": "日本",
+      "toYears": "2014–",
+      "type": "member",
+      "label": "名越由貴夫",
+      "detail": "名越由貴夫 在这两支乐队都待过。",
+      "year": 2014,
+      "weight": 0.62
+    }
+  ]
+}

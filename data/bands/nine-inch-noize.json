@@ -1,0 +1,32 @@
+{
+  "id": "nine-inch-noize",
+  "mbid": "f108a041-0581-4387-b741-3867c38c1e35",
+  "name": "Nine Inch Noize",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Nine Inch Noize",
+      "year": 2026
+    }
+  ],
+  "intro": "Nine Inch Noize is a collaborative musical project between American industrial rock band Nine Inch Nails and German-Iraqi electronic music producer Boys Noize (Alexander Ridha).",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f108a041-0581-4387-b741-3867c38c1e35"
+  },
+  "edges": [
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

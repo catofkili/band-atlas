@@ -1,0 +1,54 @@
+{
+  "id": "fastbacks",
+  "mbid": "3fe64039-d8e0-4ac2-838f-9a3bf97c4931",
+  "name": "Fastbacks",
+  "area": "西雅图",
+  "years": "1979–2002",
+  "genres": [
+    "Pop Punk"
+  ],
+  "albums": [
+    {
+      "title": "... and His Orchestra",
+      "year": 1987
+    },
+    {
+      "title": "Very, Very Powerful Motor",
+      "year": 1990
+    },
+    {
+      "title": "The Question Is No",
+      "year": 1992
+    },
+    {
+      "title": "Zücker",
+      "year": 1993
+    },
+    {
+      "title": "Answer the Phone, Dummy",
+      "year": 1994
+    },
+    {
+      "title": "New Mansions in Sound",
+      "year": 1996
+    }
+  ],
+  "intro": "Fastbacks are a Seattle, Washington, punk rock band.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3fe64039-d8e0-4ac2-838f-9a3bf97c4931"
+  },
+  "edges": [
+    {
+      "to": "filthy-friends",
+      "toName": "Filthy Friends",
+      "toArea": "波特兰",
+      "toYears": null,
+      "type": "member",
+      "label": "Kurt Bloch",
+      "detail": "Kurt Bloch 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

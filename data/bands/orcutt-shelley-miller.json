@@ -1,0 +1,28 @@
+{
+  "id": "orcutt-shelley-miller",
+  "mbid": "7994fd50-cd4d-4366-9848-53afd8827b8d",
+  "name": "Orcutt Shelley Miller",
+  "area": null,
+  "years": null,
+  "genres": [
+    "Psychedelic Rock",
+    "Space Rock"
+  ],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7994fd50-cd4d-4366-9848-53afd8827b8d"
+  },
+  "edges": [
+    {
+      "to": "anywhere",
+      "toName": "Anywhere",
+      "toArea": "洛杉矶",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Ethan Miller",
+      "detail": "Ethan Miller 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "id": "gastr-del-sol",
+  "mbid": "8f54d90b-f322-4e5d-a0fd-bdc960f2d20f",
+  "name": "Gastr del Sol",
+  "area": "Louisville",
+  "years": "1991–1998",
+  "genres": [
+    "Post-Rock",
+    "Chicago School",
+    "Experimental"
+  ],
+  "albums": [
+    {
+      "title": "The Serpentine Similar",
+      "year": 1993
+    },
+    {
+      "title": "Crookt, Crackt, or Fly",
+      "year": 1994
+    },
+    {
+      "title": "Upgrade & Afterlife",
+      "year": 1996
+    },
+    {
+      "title": "Camoufleur",
+      "year": 1998
+    }
+  ],
+  "intro": "ガスター・デル・ソル (Gastr del Sol) は、アメリカ合衆国のポストロックバンド。バストロのデヴィッド・グラブスを中心として、1991年に結成された。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8f54d90b-f322-4e5d-a0fd-bdc960f2d20f"
+  },
+  "edges": [
+    {
+      "to": "the-red-krayola",
+      "toName": "The Red Krayola",
+      "toArea": "Houston",
+      "toYears": "1966–",
+      "type": "member",
+      "label": "David Grubbs・John McEntire",
+      "detail": "2 位乐手在这两支乐队都待过：David Grubbs・John McEntire。",
+      "year": null,
+      "weight": 0.84
+    }
+  ]
+}

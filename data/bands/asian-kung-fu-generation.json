@@ -1,5 +1,6 @@
 {
   "id": "asian-kung-fu-generation",
+  "mbid": "14e410f5-97f2-48ba-b1f7-a3a44cbea05c",
   "name": "ASIAN KUNG-FU GENERATION",
   "area": "横滨",
   "years": "1996–",
@@ -7,7 +8,6 @@
     "Alternative Rock",
     "Power Pop"
   ],
-  "intro": "后藤正文的四人组。把 NUMBER GIRL 那一代的另类摇滚语法推向了主流规模，也是很多人认识日本摇滚的入口。",
   "albums": [
     {
       "title": "君繋ファイブエム",
@@ -26,6 +26,8 @@
       "year": 2008
     }
   ],
+  "intro": "后藤正文的四人组。把 NUMBER GIRL 那一代的另类摇滚语法推向了主流规模，也是很多人认识日本摇滚的入口。",
+  "introLang": "zh",
   "tracks": [
     "リライト",
     "遙か彼方",
@@ -34,7 +36,7 @@
     "アフターダーク"
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=ASIAN%20KUNG-FU%20GENERATION&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/14e410f5-97f2-48ba-b1f7-a3a44cbea05c"
   },
   "edges": [
     {

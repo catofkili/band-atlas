@@ -1,0 +1,76 @@
+{
+  "id": "happy-go-licky",
+  "mbid": "4c18be5e-2e53-41a4-a4a1-d9080ff88f8c",
+  "name": "Happy Go Licky",
+  "area": "华盛顿特区",
+  "years": "1987–1988",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Will Play",
+      "year": 1997
+    }
+  ],
+  "intro": "Happy Go Licky was an American post-hardcore band formed in the spring of 1987, and which broke up after their final show at Washington, D.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4c18be5e-2e53-41a4-a4a1-d9080ff88f8c"
+  },
+  "edges": [
+    {
+      "to": "rites-of-spring",
+      "toName": "Rites of Spring",
+      "toArea": "华盛顿特区",
+      "toYears": "1983–1986",
+      "type": "member",
+      "label": "Guy Picciotto・Mike Fellows・Eddie Janney",
+      "detail": "3 位乐手在这两支乐队都待过：Guy Picciotto・Mike Fellows・Eddie Janney。",
+      "year": 1987,
+      "weight": 0.95
+    },
+    {
+      "to": "fugazi",
+      "toName": "Fugazi",
+      "toArea": "华盛顿特区",
+      "toYears": "1987–2003",
+      "type": "member",
+      "label": "Guy Picciotto",
+      "detail": "Guy Picciotto 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    },
+    {
+      "to": "one-last-wish",
+      "toName": "One Last Wish",
+      "toArea": null,
+      "toYears": "1986–1987",
+      "type": "member",
+      "label": "Guy Picciotto・Eddie Janney",
+      "detail": "2 位乐手在这两支乐队都待过：Guy Picciotto・Eddie Janney。",
+      "year": 1987,
+      "weight": 0.84
+    },
+    {
+      "to": "silver-jews",
+      "toName": "Silver Jews",
+      "toArea": "Charlottesville",
+      "toYears": "1989–2009",
+      "type": "member",
+      "label": "Mike Fellows",
+      "detail": "Mike Fellows 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    },
+    {
+      "to": "skewbald",
+      "toName": "Skewbald",
+      "toArea": "美国",
+      "toYears": "1981–1981",
+      "type": "member",
+      "label": "Eddie Janney",
+      "detail": "Eddie Janney 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    }
+  ]
+}

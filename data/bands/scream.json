@@ -1,0 +1,52 @@
+{
+  "id": "scream",
+  "mbid": "b9f52132-28af-4cea-9558-165cd125f9b7",
+  "name": "Scream",
+  "area": "Virginia",
+  "years": "1981–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Still Screaming",
+      "year": 1982
+    },
+    {
+      "title": "This Side Up",
+      "year": 1985
+    },
+    {
+      "title": "Banging the Drum",
+      "year": 1986
+    },
+    {
+      "title": "No More Censorship",
+      "year": 1988
+    },
+    {
+      "title": "Fumble",
+      "year": 1993
+    },
+    {
+      "title": "Still Screaming / This Side Up",
+      "year": 1993
+    }
+  ],
+  "intro": "Scream is an American hardcore punk band from Washington, D.C.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b9f52132-28af-4cea-9558-165cd125f9b7"
+  },
+  "edges": [
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Franz Stahl",
+      "detail": "Franz Stahl 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    }
+  ]
+}

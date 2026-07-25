@@ -1,0 +1,41 @@
+{
+  "id": "delivery-health",
+  "mbid": "2379fc01-5de4-40c4-b647-a25dccdb03fe",
+  "name": "Delivery Health",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Hard Off",
+      "year": 2017
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2379fc01-5de4-40c4-b647-a25dccdb03fe"
+  },
+  "edges": [
+    {
+      "to": "bonjintan",
+      "toName": "Bonjintan",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "山本達久・Giovanni di Domenico",
+      "detail": "2 位乐手在这两支乐队都待过：山本達久・Giovanni di Domenico。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "kafka-s-ibiki",
+      "toName": "Kafka’s Ibiki",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "山本達久",
+      "detail": "山本達久 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "l-a-m-f",
+  "mbid": "f641e0f4-3fa3-469d-a088-46dbd299b23d",
+  "name": "L.A.M.F.",
+  "area": "纽约",
+  "years": "2016–",
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f641e0f4-3fa3-469d-a088-46dbd299b23d"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "mad-for-the-racket",
+      "toName": "Mad for the Racket",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Wayne Kramer・Clem Burke",
+      "detail": "2 位乐手在这两支乐队都待过：Wayne Kramer・Clem Burke。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "the-wild-bunch",
+      "toName": "The Wild Bunch",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Wayne Kramer・Clem Burke",
+      "detail": "2 位乐手在这两支乐队都待过：Wayne Kramer・Clem Burke。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "the-replacements",
+      "toName": "The Replacements",
+      "toArea": "明尼阿波利斯",
+      "toYears": "1979–1991",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "bash-pop",
+      "toName": "Bash & Pop",
+      "toArea": "明尼阿波利斯",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "cowboys-in-the-campfire",
+      "toName": "Cowboys in the Campfire",
+      "toArea": "美国",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "perfect",
+      "toName": "Perfect",
+      "toArea": "明尼阿波利斯",
+      "toYears": "1995–1998",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "latter-revelation-company-singers",
+      "toName": "Latter Revelation Company Singers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mc50",
+      "toName": "MC50",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Wayne Kramer",
+      "detail": "Wayne Kramer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-jacks",
+      "toName": "The Jacks",
+      "toArea": "Tulsa",
+      "toYears": null,
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

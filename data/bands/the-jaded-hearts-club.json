@@ -1,0 +1,80 @@
+{
+  "id": "the-jaded-hearts-club",
+  "mbid": "16e4f976-dda8-4468-bbbe-a3a52d779cb5",
+  "name": "The Jaded Hearts Club",
+  "area": "California",
+  "years": "2018–",
+  "genres": [
+    "Classic Rock",
+    "Indie Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "You've Always Been Here",
+      "year": 2020
+    }
+  ],
+  "intro": "The Jaded Hearts Club is a rock supergroup and covers band consisting of Miles Kane (of the Rascals and Last Shadow Puppets), Nic Cester (of Jet), Matt Bellamy (of Muse), Jamie Davis (of former member Graham Coxon's former label Transcopic) and Sean Payne (of the Zutons).",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/16e4f976-dda8-4468-bbbe-a3a52d779cb5"
+  },
+  "edges": [
+    {
+      "to": "blur",
+      "toName": "Blur",
+      "toArea": "伦敦",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Graham Coxon",
+      "detail": "Graham Coxon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-waeve",
+      "toName": "The WAEVE",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Graham Coxon",
+      "detail": "Graham Coxon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "seymour",
+      "toName": "Seymour",
+      "toArea": "Colchester",
+      "toYears": "1989–1990",
+      "type": "member",
+      "label": "Graham Coxon",
+      "detail": "Graham Coxon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-special-assembly",
+      "toName": "The Special Assembly",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Graham Coxon",
+      "detail": "Graham Coxon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "id": "thee-michelle-gun-elephant",
+  "mbid": "3d693ab2-7c33-4b69-87bc-c105b5bbf547",
   "name": "thee michelle gun elephant",
   "area": "东京",
   "years": "1991–2003",
@@ -7,7 +8,6 @@
     "Garage Rock",
     "Punk Rock"
   ],
-  "intro": "千叶利市的嘶吼与阿部义晴式的西装造型。九十年代日本车库摇滚的最高点，解散至今没有重组。",
   "albums": [
     {
       "title": "cult grass stars",
@@ -26,6 +26,8 @@
       "year": 2000
     }
   ],
+  "intro": "千叶利市的嘶吼与阿部义晴式的西装造型。九十年代日本车库摇滚的最高点，解散至今没有重组。",
+  "introLang": "ja",
   "tracks": [
     "世界の終わり",
     "バードメン",
@@ -34,7 +36,7 @@
   ],
   "lore": "2003 年宣布解散，翌年在幕张展览馆办完最后一场，此后再无重组。",
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=thee%20michelle%20gun%20elephant&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/3d693ab2-7c33-4b69-87bc-c105b5bbf547"
   },
   "edges": [
     {
@@ -47,6 +49,17 @@
       "detail": "解散多年之后，贝斯手ウエノコウジ成为 the HIATUS 的一员。",
       "year": 2009,
       "weight": 0.7
+    },
+    {
+      "to": "the-birthday",
+      "toName": "The Birthday",
+      "toArea": "日本",
+      "toYears": "2005–2023",
+      "type": "member",
+      "label": "チバユウスケ・クハラカズユキ",
+      "detail": "2 位乐手在这两支乐队都待过：チバユウスケ・クハラカズユキ。",
+      "year": 2006,
+      "weight": 0.84
     },
     {
       "to": "number-girl",
@@ -69,6 +82,72 @@
       "detail": "九十年代末日本车库摇滚的同一批人。",
       "year": null,
       "weight": 0.5
+    },
+    {
+      "to": "rosso",
+      "toName": "ROSSO",
+      "toArea": "日本",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "チバユウスケ",
+      "detail": "チバユウスケ 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "radio-caroline",
+      "toName": "Radio Caroline",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "ウエノコウジ",
+      "detail": "ウエノコウジ 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "the-king-all-stars",
+      "toName": "THE King ALL STARS",
+      "toArea": "日本",
+      "toYears": "2014–",
+      "type": "member",
+      "label": "ウエノコウジ",
+      "detail": "ウエノコウジ 在这两支乐队都待过。",
+      "year": 2014,
+      "weight": 0.62
+    },
+    {
+      "to": "ka-f-ka",
+      "toName": "KA.F.KA",
+      "toArea": "日本",
+      "toYears": "2013–2016",
+      "type": "member",
+      "label": "ウエノコウジ",
+      "detail": "ウエノコウジ 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "raven",
+      "toName": "RAVEN",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "チバユウスケ",
+      "detail": "チバユウスケ 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "the-midwest-vikings",
+      "toName": "The Midwest Vikings",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "チバユウスケ",
+      "detail": "チバユウスケ 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
     }
   ]
 }

@@ -245,6 +245,7 @@ button { font: inherit; color: inherit; }
   text-align: right;
 }
 .rel-row__detail { font-size: 0.76rem; color: var(--ink-3); line-height: 1.55; padding-left: 15px; }
+.rels__more { margin: 6px 0 0 12px; font-size: 0.72rem; color: var(--ink-3); }
 
 .card__foot {
   flex: none;
@@ -430,7 +431,7 @@ button { font: inherit; color: inherit; }
 .hud--top::before { top: 0; background: linear-gradient(to bottom, rgba(9, 11, 14, 0.85), transparent); }
 .hud--bottom::before { bottom: 0; background: linear-gradient(to top, rgba(9, 11, 14, 0.85), transparent); }
 
-.wordmark { display: flex; flex-direction: column; line-height: 1.35; }
+.wordmark { display: flex; flex-direction: column; line-height: 1.35; margin-right: auto; }
 .wordmark__name {
   font-family: var(--display);
   font-weight: 700;
@@ -440,7 +441,6 @@ button { font: inherit; color: inherit; }
 .wordmark__scene { font-family: var(--mono); font-size: 0.63rem; color: var(--ink-3); }
 
 .btn {
-  margin-left: auto;
   background: color-mix(in srgb, var(--panel) 80%, transparent);
   backdrop-filter: blur(8px);
   border: 1px solid var(--line);
@@ -454,6 +454,79 @@ button { font: inherit; color: inherit; }
 
 /* 图例竖排缩在角落里。横着铺开会占满整条底边，
    而那正是下方那几张乐队卡片露头的地方。 */
+/* ------------------------------------------------------------- 搜索 */
+
+/* 做成盖住全屏的浮层，而不是塞进顶栏的输入框：
+   顶栏两侧本来就贴着露头的乐队卡片，再挤一个会打架，窄屏尤其。 */
+.search {
+  position: fixed;
+  inset: 0;
+  z-index: 20;
+  display: flex;
+  justify-content: center;
+  padding: max(12vh, 60px) 20px 20px;
+  background: color-mix(in srgb, var(--ground) 82%, transparent);
+  backdrop-filter: blur(10px);
+}
+.search[hidden] { display: none; }
+
+.search__panel {
+  width: min(520px, 100%);
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  max-height: 100%;
+}
+
+.search__input {
+  width: 100%;
+  font: inherit;
+  font-size: 1.05rem;
+  color: var(--ink);
+  background: var(--panel);
+  border: 1px solid var(--line);
+  border-radius: 12px;
+  padding: 13px 16px;
+  outline: none;
+}
+.search__input:focus { border-color: var(--ink-3); }
+.search__input::placeholder { color: var(--ink-3); }
+
+.search__results {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+}
+
+.search__hit {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: 0;
+  border-radius: 9px;
+  padding: 9px 12px;
+  cursor: pointer;
+}
+.search__hit:hover,
+.search__hit[aria-selected='true'] { background: rgba(255, 255, 255, 0.07); }
+.search__hit-name { font-weight: 600; font-size: 0.92rem; }
+.search__hit-meta {
+  margin-left: auto;
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  color: var(--ink-3);
+  white-space: nowrap;
+}
+.search__empty { padding: 10px 12px; font-size: 0.84rem; color: var(--ink-3); }
+
 .legend {
   display: flex;
   flex-direction: column;

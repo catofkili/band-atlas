@@ -1,0 +1,57 @@
+{
+  "id": "teenage-jesus-and-the-jerks",
+  "mbid": "ecb6ad66-0b12-405c-803c-e5bcc83e77df",
+  "name": "Teenage Jesus and the Jerks",
+  "area": "纽约",
+  "years": "1977–1979",
+  "genres": [
+    "No Wave",
+    "Punk"
+  ],
+  "albums": [
+    {
+      "title": "Everything",
+      "year": 1995
+    }
+  ],
+  "intro": "ティーンエイジ・ジーザス・アンド・ザ・ジャークスは、ニューヨークを拠点とし、その地でノー・ウェイヴ運動の一翼を担ったアメリカのノー・ウェイヴ・バンドです。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ecb6ad66-0b12-405c-803c-e5bcc83e77df"
+  },
+  "edges": [
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Lydia Lunch",
+      "detail": "Lydia Lunch 在这两支乐队都待过。",
+      "year": 1977,
+      "weight": 0.62
+    },
+    {
+      "to": "8-eyed-spy",
+      "toName": "8 Eyed Spy",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Lydia Lunch",
+      "detail": "Lydia Lunch 在这两支乐队都待过。",
+      "year": 1977,
+      "weight": 0.62
+    },
+    {
+      "to": "harry-crews",
+      "toName": "Harry Crews",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Lydia Lunch",
+      "detail": "Lydia Lunch 在这两支乐队都待过。",
+      "year": 1977,
+      "weight": 0.62
+    }
+  ]
+}

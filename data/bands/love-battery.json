@@ -1,0 +1,118 @@
+{
+  "id": "love-battery",
+  "mbid": "20fa3e73-7ac4-4550-b9f5-6ac8c523bda5",
+  "name": "Love Battery",
+  "area": "西雅图",
+  "years": "1989–",
+  "genres": [
+    "Alternative Rock",
+    "Grunge",
+    "Psychedelic Rock"
+  ],
+  "albums": [
+    {
+      "title": "Between the Eyes",
+      "year": 1990
+    },
+    {
+      "title": "Dayglo",
+      "year": 1992
+    },
+    {
+      "title": "Far Gone",
+      "year": 1993
+    },
+    {
+      "title": "Straight Freak Ticket",
+      "year": 1995
+    },
+    {
+      "title": "Confusion Au Go Go",
+      "year": 1998
+    }
+  ],
+  "intro": "Love Battery is an American rock band from Seattle, Washington.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/20fa3e73-7ac4-4550-b9f5-6ac8c523bda5"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "member",
+      "label": "Dan Peters",
+      "detail": "Dan Peters 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "dan-peters-combo",
+      "toName": "Dan Peters Combo",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dan Peters・Kevin Whitworth",
+      "detail": "2 位乐手在这两支乐队都待过：Dan Peters・Kevin Whitworth。",
+      "year": 1989,
+      "weight": 0.84
+    },
+    {
+      "to": "mudhoney",
+      "toName": "Mudhoney",
+      "toArea": "西雅图",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Dan Peters",
+      "detail": "Dan Peters 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "valis",
+      "toName": "Valis",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Dan Peters",
+      "detail": "Dan Peters 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "crisis-party",
+      "toName": "Crisis Party",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Kevin Whitworth",
+      "detail": "Kevin Whitworth 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "bundle-of-hiss",
+      "toName": "Bundle of Hiss",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Dan Peters",
+      "detail": "Dan Peters 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-new-original-sonic-sound",
+      "toName": "The New Original Sonic Sound",
+      "toArea": "西雅图",
+      "toYears": null,
+      "type": "member",
+      "label": "Dan Peters",
+      "detail": "Dan Peters 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    }
+  ]
+}

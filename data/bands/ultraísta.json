@@ -1,0 +1,51 @@
+{
+  "id": "ultraísta",
+  "mbid": "fe4a653a-dc81-4422-b3f0-60ecb9107eeb",
+  "name": "Ultraísta",
+  "area": "英国",
+  "years": "2008–",
+  "genres": [
+    "Electronic",
+    "Afrobeat",
+    "Electronica"
+  ],
+  "albums": [
+    {
+      "title": "Ultraísta",
+      "year": 2012
+    },
+    {
+      "title": "Sister",
+      "year": 2020
+    }
+  ],
+  "intro": "ウルトライスタ (Ultraísta) は、2008年に結成されたイギリス系アメリカ人によるエクスペリメンタル・ロック・トリオ。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fe4a653a-dc81-4422-b3f0-60ecb9107eeb"
+  },
+  "edges": [
+    {
+      "to": "record-club",
+      "toName": "Record Club",
+      "toArea": "美国",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "Nigel Godrich",
+      "detail": "Nigel Godrich 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "atoms-for-peace",
+      "toName": "Atoms for Peace",
+      "toArea": "洛杉矶",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "Nigel Godrich",
+      "detail": "Nigel Godrich 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

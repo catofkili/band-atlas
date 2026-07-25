@@ -1,0 +1,58 @@
+{
+  "id": "the-martinis",
+  "mbid": "097524cf-ae0f-4ff8-9970-f406ac03b1e4",
+  "name": "The Martinis",
+  "area": "洛杉矶",
+  "years": "1993–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "The Martinis",
+      "year": 1998
+    },
+    {
+      "title": "Smitten",
+      "year": 2004
+    }
+  ],
+  "intro": "ザ・マルティニス(The Martinis)は、アメリカのロックバンド。1993年、解散したピクシーズのギタリストであったジョーイ・サンティアゴと、その妻であるリンダ・マラーリの2人で結成された。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/097524cf-ae0f-4ff8-9970-f406ac03b1e4"
+  },
+  "edges": [
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "member",
+      "label": "Joey Santiago",
+      "detail": "Joey Santiago 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "frank-black-and-the-catholics",
+      "toName": "Frank Black and the Catholics",
+      "toArea": "美国",
+      "toYears": "1997–2003",
+      "type": "member",
+      "label": "Joey Santiago",
+      "detail": "Joey Santiago 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-everybody",
+      "toName": "The Everybody",
+      "toArea": "美国",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Joey Santiago",
+      "detail": "Joey Santiago 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

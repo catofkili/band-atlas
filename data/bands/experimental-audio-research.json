@@ -1,0 +1,74 @@
+{
+  "id": "experimental-audio-research",
+  "mbid": "5ba39b83-d12d-4b31-b449-992300a73df8",
+  "name": "Experimental Audio Research",
+  "area": "Rugby",
+  "years": "1990–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Mesmerised",
+      "year": 1994
+    },
+    {
+      "title": "Beyond the Pale",
+      "year": 1996
+    },
+    {
+      "title": "Phenomena 256",
+      "year": 1996
+    },
+    {
+      "title": "The Köner Experiment",
+      "year": 1997
+    },
+    {
+      "title": "Data Rape",
+      "year": 1998
+    },
+    {
+      "title": "Pestrepeller",
+      "year": 1999
+    }
+  ],
+  "intro": "Peter Kember (born 19 November 1965), also known by his stage name Sonic Boom, is an English singer-songwriter, composer and record producer.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5ba39b83-d12d-4b31-b449-992300a73df8"
+  },
+  "edges": [
+    {
+      "to": "my-bloody-valentine",
+      "toName": "My Bloody Valentine",
+      "toArea": "都柏林 / 伦敦",
+      "toYears": "1983–1997 / 2007–",
+      "type": "member",
+      "label": "Kevin Shields",
+      "detail": "Kevin Shields 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "primal-scream",
+      "toName": "Primal Scream",
+      "toArea": "格拉斯哥",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Kevin Shields",
+      "detail": "Kevin Shields 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "the-complex",
+      "toName": "The Complex",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Kevin Shields",
+      "detail": "Kevin Shields 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

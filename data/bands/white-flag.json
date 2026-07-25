@@ -1,0 +1,109 @@
+{
+  "id": "white-flag",
+  "mbid": "ad82f8fd-206f-4b62-9a0d-f46557edb725",
+  "name": "White Flag",
+  "area": "Moreno Valley",
+  "years": "1982–",
+  "genres": [
+    "Punk"
+  ],
+  "albums": [
+    {
+      "title": "S Is for Space",
+      "year": 1982
+    },
+    {
+      "title": "Third Strike +",
+      "year": 1984
+    },
+    {
+      "title": "WFO",
+      "year": 1985
+    },
+    {
+      "title": "Feeding Frenzy",
+      "year": 1986
+    },
+    {
+      "title": "Peace",
+      "year": 1986
+    },
+    {
+      "title": "Zero Hour",
+      "year": 1986
+    }
+  ],
+  "intro": "White Flag is an American punk rock band currently based in Los Angeles.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ad82f8fd-206f-4b62-9a0d-f46557edb725"
+  },
+  "edges": [
+    {
+      "to": "the-muffs",
+      "toName": "The Muffs",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2019",
+      "type": "member",
+      "label": "Kim Shattuck・Melanie Vammen・Ronnie Barnett",
+      "detail": "3 位乐手在这两支乐队都待过：Kim Shattuck・Melanie Vammen・Ronnie Barnett。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "member",
+      "label": "Kim Shattuck",
+      "detail": "Kim Shattuck 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pandoras",
+      "toName": "The Pandoras",
+      "toArea": "洛杉矶",
+      "toYears": "1981–1991",
+      "type": "member",
+      "label": "Kim Shattuck・Melanie Vammen",
+      "detail": "2 位乐手在这两支乐队都待过：Kim Shattuck・Melanie Vammen。",
+      "year": 1985,
+      "weight": 0.84
+    },
+    {
+      "to": "the-beards",
+      "toName": "The Beards",
+      "toArea": "美国",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "Kim Shattuck",
+      "detail": "Kim Shattuck 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-coolies",
+      "toName": "The Coolies",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Kim Shattuck",
+      "detail": "Kim Shattuck 在这两支乐队都待过。",
+      "year": 2019,
+      "weight": 0.62
+    },
+    {
+      "to": "rodney-the-tube-tops",
+      "toName": "Rodney & The Tube Tops",
+      "toArea": null,
+      "toYears": "1996–1997",
+      "type": "member",
+      "label": "Pat Fear",
+      "detail": "Pat Fear 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

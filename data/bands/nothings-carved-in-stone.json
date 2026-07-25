@@ -1,5 +1,6 @@
 {
   "id": "nothings-carved-in-stone",
+  "mbid": "16abde93-51df-4f13-9f28-2789093c1a3d",
   "name": "Nothing's Carved In Stone",
   "area": "东京",
   "years": "2009–",
@@ -7,7 +8,6 @@
     "Alternative Rock",
     "Post-hardcore"
   ],
-  "intro": "由四支不同乐队的成员凑成的编制，几乎是这张关系网上人脉密度最高的一个节点。",
   "albums": [
     {
       "title": "PARALLEL LIVES",
@@ -22,6 +22,8 @@
       "year": 2013
     }
   ],
+  "intro": "由四支不同乐队的成员凑成的编制，几乎是这张关系网上人脉密度最高的一个节点。",
+  "introLang": "ja",
   "tracks": [
     "November 15th",
     "Isolation",
@@ -29,7 +31,7 @@
     "Spirit Inspiration"
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=Nothing's%20Carved%20In%20Stone&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/16abde93-51df-4f13-9f28-2789093c1a3d"
   },
   "edges": [
     {

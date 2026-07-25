@@ -1,0 +1,63 @@
+{
+  "id": "sublime-with-rome",
+  "mbid": "079f2e2b-b3f9-4574-ac5c-add977b40762",
+  "name": "Sublime with Rome",
+  "area": "Long Beach",
+  "years": "2009–2024",
+  "genres": [
+    "Reggae",
+    "Alternative Rock",
+    "Dub"
+  ],
+  "albums": [
+    {
+      "title": "Live Smokeout",
+      "year": 2009
+    },
+    {
+      "title": "Yours Truly",
+      "year": 2011
+    },
+    {
+      "title": "Sirens",
+      "year": 2015
+    },
+    {
+      "title": "Blessings",
+      "year": 2019
+    },
+    {
+      "title": "Sublime with Rome",
+      "year": 2024
+    }
+  ],
+  "intro": "Sublime with Rome was a band that began as a musical collaboration between former Sublime members Eric Wilson and Bud Gaugh, and singer and guitarist Rome Ramirez.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/079f2e2b-b3f9-4574-ac5c-add977b40762"
+  },
+  "edges": [
+    {
+      "to": "eyes-adrift",
+      "toName": "Eyes Adrift",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Bud Gaugh",
+      "detail": "Bud Gaugh 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "sublime",
+      "toName": "Sublime",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

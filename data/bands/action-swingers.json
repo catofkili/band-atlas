@@ -1,0 +1,51 @@
+{
+  "id": "action-swingers",
+  "mbid": "bb0df069-702b-4518-b17e-0bd64045b1be",
+  "name": "Action Swingers",
+  "area": "纽约",
+  "years": "1988–1998",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Action Swingers",
+      "year": 1991
+    },
+    {
+      "title": "Decimation Blvd.",
+      "year": 1993
+    },
+    {
+      "title": "Complete London Toe Rag Sessions",
+      "year": 1998
+    }
+  ],
+  "intro": "Action Swingers was an American indie rock/garage punk band formed in the late 1980s in New York City, fronted by singer/guitarist Ned Hayden, who was the only constant member.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bb0df069-702b-4518-b17e-0bd64045b1be"
+  },
+  "edges": [
+    {
+      "to": "pussy-galore",
+      "toName": "Pussy Galore",
+      "toArea": "美国",
+      "toYears": "1985–1990",
+      "type": "member",
+      "label": "Julia Cafritz",
+      "detail": "Julia Cafritz 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "free-kitten",
+      "toName": "Free Kitten",
+      "toArea": "美国",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Julia Cafritz",
+      "detail": "Julia Cafritz 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

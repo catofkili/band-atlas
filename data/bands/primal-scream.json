@@ -1,0 +1,78 @@
+{
+  "id": "primal-scream",
+  "mbid": "55704c38-224f-4b75-b29f-d43653f8bc9a",
+  "name": "Primal Scream",
+  "area": "格拉斯哥",
+  "years": "1982–",
+  "genres": [
+    "Alternative Rock",
+    "Alternative Dance",
+    "Electronic"
+  ],
+  "albums": [
+    {
+      "title": "Sonic Flower Groove",
+      "year": 1987
+    },
+    {
+      "title": "Primal Scream",
+      "year": 1989
+    },
+    {
+      "title": "Screamadelica",
+      "year": 1991
+    },
+    {
+      "title": "Give Out but Don’t Give Up",
+      "year": 1994
+    },
+    {
+      "title": "Vanishing Point",
+      "year": 1997
+    },
+    {
+      "title": "XTRMNTR",
+      "year": 1999
+    }
+  ],
+  "intro": "原始呐喊是提名全英音乐奖的非主流乐队，1982年成立于苏格兰格拉斯哥。",
+  "introLang": "zh",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/55704c38-224f-4b75-b29f-d43653f8bc9a"
+  },
+  "edges": [
+    {
+      "to": "my-bloody-valentine",
+      "toName": "My Bloody Valentine",
+      "toArea": "都柏林 / 伦敦",
+      "toYears": "1983–1997 / 2007–",
+      "type": "member",
+      "label": "Kevin Shields",
+      "detail": "Kevin Shields 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "experimental-audio-research",
+      "toName": "Experimental Audio Research",
+      "toArea": "Rugby",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Kevin Shields",
+      "detail": "Kevin Shields 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "the-complex",
+      "toName": "The Complex",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Kevin Shields",
+      "detail": "Kevin Shields 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    }
+  ]
+}

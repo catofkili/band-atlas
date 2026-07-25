@@ -1,0 +1,58 @@
+{
+  "id": "the-special-assembly",
+  "mbid": "d9bb7ca8-3411-4732-8237-a40cc0cd8cbe",
+  "name": "The Special Assembly",
+  "area": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d9bb7ca8-3411-4732-8237-a40cc0cd8cbe"
+  },
+  "edges": [
+    {
+      "to": "blur",
+      "toName": "Blur",
+      "toArea": "伦敦",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Graham Coxon",
+      "detail": "Graham Coxon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-waeve",
+      "toName": "The WAEVE",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Graham Coxon",
+      "detail": "Graham Coxon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-jaded-hearts-club",
+      "toName": "The Jaded Hearts Club",
+      "toArea": "California",
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Graham Coxon",
+      "detail": "Graham Coxon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "seymour",
+      "toName": "Seymour",
+      "toArea": "Colchester",
+      "toYears": "1989–1990",
+      "type": "member",
+      "label": "Graham Coxon",
+      "detail": "Graham Coxon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

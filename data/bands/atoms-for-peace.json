@@ -1,0 +1,80 @@
+{
+  "id": "atoms-for-peace",
+  "mbid": "9e299bee-d7e2-49f3-8cd7-d6b28ab204d1",
+  "name": "Atoms for Peace",
+  "area": "洛杉矶",
+  "years": "2009–",
+  "genres": [
+    "Electronic",
+    "Electronic Rock",
+    "Electronica"
+  ],
+  "albums": [
+    {
+      "title": "Amok",
+      "year": 2013
+    }
+  ],
+  "intro": "原子和平是一个英美超级乐团，成员包括电台司令词曲作家与主唱汤姆·约克、呛辣红椒吉他手Flea、电台司令制作人尼杰尔·歌德里希、贝克、R.",
+  "introLang": "zh",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9e299bee-d7e2-49f3-8cd7-d6b28ab204d1"
+  },
+  "edges": [
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "record-club",
+      "toName": "Record Club",
+      "toArea": "美国",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "Nigel Godrich",
+      "detail": "Nigel Godrich 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ultraísta",
+      "toName": "Ultraísta",
+      "toArea": "英国",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Nigel Godrich",
+      "detail": "Nigel Godrich 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "jomoro",
+      "toName": "Jomoro",
+      "toArea": "美国",
+      "toYears": "2021–",
+      "type": "member",
+      "label": "Mauro Refosco",
+      "detail": "Mauro Refosco 在这两支乐队都待过。",
+      "year": 2021,
+      "weight": 0.62
+    },
+    {
+      "to": "rocket-juice-the-moon",
+      "toName": "Rocket Juice & the Moon",
+      "toArea": "英国",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    }
+  ]
+}

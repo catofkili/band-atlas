@@ -1,0 +1,47 @@
+{
+  "id": "bliss",
+  "mbid": "b6d94c23-7046-477d-bbea-07bcd247e99d",
+  "name": "Bliss",
+  "area": "美国",
+  "years": "1988–1988",
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b6d94c23-7046-477d-bbea-07bcd247e99d"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "member",
+      "label": "Dave Foster",
+      "detail": "Dave Foster 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "mico-de-noche",
+      "toName": "Mico de Noche",
+      "toArea": "西雅图",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "Dave Foster",
+      "detail": "Dave Foster 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "helltrout",
+      "toName": "Helltrout",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dave Foster",
+      "detail": "Dave Foster 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    }
+  ]
+}

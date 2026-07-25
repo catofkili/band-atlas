@@ -1,0 +1,117 @@
+{
+  "id": "slash-s-snakepit",
+  "mbid": "40ec273c-85dd-487c-8935-ccbc7d866119",
+  "name": "Slash’s Snakepit",
+  "area": "洛杉矶",
+  "years": "1994–2002",
+  "genres": [
+    "Hard Rock",
+    "Blues Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "It’s Five O’Clock Somewhere",
+      "year": 1995
+    },
+    {
+      "title": "Ain’t Life Grand",
+      "year": 2000
+    }
+  ],
+  "intro": "スラッシュズ・スネイクピット (Slash's Snakepit) は1994年当時、ガンズ・アンド・ローゼズに在籍していたギタリストのスラッシュが結成したバンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/40ec273c-85dd-487c-8935-ccbc7d866119"
+  },
+  "edges": [
+    {
+      "to": "bulletboys",
+      "toName": "BulletBoys",
+      "toArea": "洛杉矶",
+      "toYears": "1986–",
+      "type": "member",
+      "label": "Keri Kelli",
+      "detail": "Keri Kelli 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    },
+    {
+      "to": "heart",
+      "toName": "Heart",
+      "toArea": "西雅图",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "Mike Inez",
+      "detail": "Mike Inez 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "l-a-guns",
+      "toName": "L.A. Guns",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Keri Kelli",
+      "detail": "Keri Kelli 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    },
+    {
+      "to": "the-dead-daisies",
+      "toName": "The Dead Daisies",
+      "toArea": "悉尼",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Brian Tichy",
+      "detail": "Brian Tichy 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "adler-s-appetite",
+      "toName": "Adler’s Appetite",
+      "toArea": "洛杉矶",
+      "toYears": "2003–2011",
+      "type": "member",
+      "label": "Keri Kelli",
+      "detail": "Keri Kelli 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    },
+    {
+      "to": "candy",
+      "toName": "Candy",
+      "toArea": "California",
+      "toYears": "1985–1987",
+      "type": "member",
+      "label": "Ryan Roxie",
+      "detail": "Ryan Roxie 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "halloween-jack",
+      "toName": "Halloween Jack",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Eric Dover",
+      "detail": "Eric Dover 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "slash-s-blues-ball",
+      "toName": "Slash’s Blues Ball",
+      "toArea": "美国",
+      "toYears": "1996–1998",
+      "type": "member",
+      "label": "Johnny Griparic",
+      "detail": "Johnny Griparic 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "the-gentlemen",
+  "mbid": "946202eb-2207-4d63-9ef3-69bb1ea4a199",
+  "name": "The Gentlemen",
+  "area": "西雅图",
+  "years": "2000–",
+  "genres": [],
+  "albums": [],
+  "intro": "The Gentlemen was an American rock band from Seattle, Washington, formed in 1998.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/946202eb-2207-4d63-9ef3-69bb1ea4a199"
+  },
+  "edges": [
+    {
+      "to": "duff-mckagan-s-loaded",
+      "toName": "Duff McKagan’s Loaded",
+      "toArea": "西雅图",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Dave Dederer",
+      "detail": "Dave Dederer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

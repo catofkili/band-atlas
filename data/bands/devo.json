@@ -1,0 +1,56 @@
+{
+  "id": "devo",
+  "mbid": "d2db1078-c170-4e22-b261-14f3ad60a690",
+  "name": "DEVO",
+  "area": "Akron",
+  "years": "1972–",
+  "genres": [
+    "New Wave",
+    "Post-Punk",
+    "Art Punk"
+  ],
+  "albums": [
+    {
+      "title": "Q: Are We Not Men? A: We Are Devo!",
+      "year": 1978
+    },
+    {
+      "title": "Duty Now for the Future",
+      "year": 1979
+    },
+    {
+      "title": "Freedom of Choice",
+      "year": 1980
+    },
+    {
+      "title": "New Traditionalists",
+      "year": 1981
+    },
+    {
+      "title": "E-Z Listening Muzak",
+      "year": 1981
+    },
+    {
+      "title": "Oh, No! It’s DEVO",
+      "year": 1982
+    }
+  ],
+  "intro": "ディーヴォは、アメリカ合衆国オハイオ州アクロンで1973年に結成されたロックバンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d2db1078-c170-4e22-b261-14f3ad60a690"
+  },
+  "edges": [
+    {
+      "to": "jihad-jerry-the-evildoers",
+      "toName": "Jihad Jerry & The Evildoers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Gerald Casale",
+      "detail": "Gerald Casale 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    }
+  ]
+}

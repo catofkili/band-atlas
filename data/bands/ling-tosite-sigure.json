@@ -1,5 +1,6 @@
 {
   "id": "ling-tosite-sigure",
+  "mbid": "a0ecfe6b-1035-4d0a-b8c8-c75872139151",
   "name": "凛として時雨",
   "area": "埼玉",
   "years": "2002–",
@@ -7,7 +8,6 @@
     "Math Rock",
     "Post-hardcore"
   ],
-  "intro": "TK 领衔的三人组。极高音域的男女双主唱、密到几乎没有空隙的编曲，是 2000 年代后期日本摇滚最辨识度的声音之一。",
   "albums": [
     {
       "title": "#4",
@@ -22,6 +22,8 @@
       "year": 2013
     }
   ],
+  "intro": "TK 领衔的三人组。极高音域的男女双主唱、密到几乎没有空隙的编曲，是 2000 年代后期日本摇滚最辨识度的声音之一。",
+  "introLang": "zh",
   "tracks": [
     "telecastic fake show",
     "abnormalize",
@@ -29,7 +31,7 @@
     "DISCO FLIGHT"
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/a0ecfe6b-1035-4d0a-b8c8-c75872139151"
   },
   "edges": [
     {
@@ -53,6 +55,83 @@
       "detail": "同属 2010 年前后从 live house 起步的日本另类摇滚新一批。",
       "year": null,
       "weight": 0.5
+    },
+    {
+      "to": "geek-sleep-sheep",
+      "toName": "geek sleep sheep",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "345",
+      "detail": "345 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "fzmz",
+      "toName": "FZMZ",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "ピエール中野",
+      "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    },
+    {
+      "to": "pandas",
+      "toName": "PANDAS",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "TK",
+      "detail": "TK 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "ti-ti-uu",
+      "toName": "ti-ti.uu",
+      "toArea": "日本",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "345",
+      "detail": "345 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "viva-la-j-rock-anthems",
+      "toName": "VIVA LA J-ROCK ANTHEMS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "ピエール中野",
+      "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
+    },
+    {
+      "to": "zing",
+      "toName": "ZiNG",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "ピエール中野",
+      "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
+    },
+    {
+      "to": "カオティック-スピードキング",
+      "toName": "カオティック・スピードキング",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "ピエール中野",
+      "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
     }
   ]
 }

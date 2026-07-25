@@ -1,0 +1,58 @@
+{
+  "id": "the-atoms",
+  "mbid": "dc5caa1a-2be6-4104-a34e-fab24dcd4abe",
+  "name": "The Atoms",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/dc5caa1a-2be6-4104-a34e-fab24dcd4abe"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Izzy Stradlin",
+      "detail": "Izzy Stradlin 在这两支乐队都待过。",
+      "year": 1985,
+      "weight": 0.62
+    },
+    {
+      "to": "london",
+      "toName": "London",
+      "toArea": "洛杉矶",
+      "toYears": "1978–",
+      "type": "member",
+      "label": "Izzy Stradlin",
+      "detail": "Izzy Stradlin 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "izzy-stradlin-and-the-ju-ju-hounds",
+      "toName": "Izzy Stradlin and the Ju Ju Hounds",
+      "toArea": "California",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Izzy Stradlin",
+      "detail": "Izzy Stradlin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "hollywood-rose",
+      "toName": "Hollywood Rose",
+      "toArea": "洛杉矶",
+      "toYears": "1983–1984",
+      "type": "member",
+      "label": "Izzy Stradlin",
+      "detail": "Izzy Stradlin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

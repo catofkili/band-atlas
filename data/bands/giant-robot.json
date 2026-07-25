@@ -1,0 +1,41 @@
+{
+  "id": "giant-robot",
+  "mbid": "d320f0cd-cc12-4bf4-b51f-c8e94fe0ca24",
+  "name": "Giant Robot",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Giant Robot",
+      "year": 1996
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d320f0cd-cc12-4bf4-b51f-c8e94fe0ca24"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Bryan “Brain” Mantia",
+      "detail": "Bryan “Brain” Mantia 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "science-faxtion",
+      "toName": "Science Faxtion",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bryan “Brain” Mantia",
+      "detail": "Bryan “Brain” Mantia 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

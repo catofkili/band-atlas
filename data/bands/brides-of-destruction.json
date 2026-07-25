@@ -1,0 +1,102 @@
+{
+  "id": "brides-of-destruction",
+  "mbid": "387ae7c0-187a-45b8-9eca-72c389f003e4",
+  "name": "Brides of Destruction",
+  "area": "美国",
+  "years": "2002–2006",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Here Come the Brides",
+      "year": 2003
+    },
+    {
+      "title": "Runaway Brides",
+      "year": 2005
+    }
+  ],
+  "intro": "Brides of Destruction was an American hard rock supergroup from Los Angeles, California, formed in 2002.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/387ae7c0-187a-45b8-9eca-72c389f003e4"
+  },
+  "edges": [
+    {
+      "to": "l-a-guns",
+      "toName": "L.A. Guns",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Tracii Guns・Scot Coogan",
+      "detail": "2 位乐手在这两支乐队都待过：Tracii Guns・Scot Coogan。",
+      "year": 2016,
+      "weight": 0.84
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Tracii Guns",
+      "detail": "Tracii Guns 在这两支乐队都待过。",
+      "year": 1985,
+      "weight": 0.62
+    },
+    {
+      "to": "quiet-riot",
+      "toName": "Quiet Riot",
+      "toArea": "洛杉矶",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "Tracii Guns",
+      "detail": "Tracii Guns 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "blackbird-angels",
+      "toName": "Blackbird Angels",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Tracii Guns",
+      "detail": "Tracii Guns 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "contraband",
+      "toName": "Contraband",
+      "toArea": null,
+      "toYears": "1991–",
+      "type": "member",
+      "label": "Tracii Guns",
+      "detail": "Tracii Guns 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "gunzo",
+      "toName": "Gunzo",
+      "toArea": "洛杉矶",
+      "toYears": "2015–",
+      "type": "member",
+      "label": "Tracii Guns",
+      "detail": "Tracii Guns 在这两支乐队都待过。",
+      "year": 2015,
+      "weight": 0.62
+    },
+    {
+      "to": "pyrrhus",
+      "toName": "Pyrrhus",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "Tracii Guns",
+      "detail": "Tracii Guns 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "id": "the-red-krayola",
+  "mbid": "dd5c73d5-53df-4be1-8290-a5d2082159b1",
+  "name": "The Red Krayola",
+  "area": "Houston",
+  "years": "1966–",
+  "genres": [
+    "Experimental Rock",
+    "Psychedelic Rock",
+    "Art Punk"
+  ],
+  "albums": [
+    {
+      "title": "The Parable of Arable Land",
+      "year": 1967
+    },
+    {
+      "title": "God Bless the Red Krayola and All Who Sail With It",
+      "year": 1968
+    },
+    {
+      "title": "Corrected Slogans",
+      "year": 1976
+    },
+    {
+      "title": "Soldier‐Talk",
+      "year": 1979
+    },
+    {
+      "title": "Kangaroo?",
+      "year": 1981
+    },
+    {
+      "title": "Black Snakes",
+      "year": 1983
+    }
+  ],
+  "intro": "レッド・クレイオラは、テキサス州ヒューストンで1966年に結成されたアメリカのアヴァンギャルド・ロック・バンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/dd5c73d5-53df-4be1-8290-a5d2082159b1"
+  },
+  "edges": [
+    {
+      "to": "gastr-del-sol",
+      "toName": "Gastr del Sol",
+      "toArea": "Louisville",
+      "toYears": "1991–1998",
+      "type": "member",
+      "label": "David Grubbs・John McEntire",
+      "detail": "2 位乐手在这两支乐队都待过：David Grubbs・John McEntire。",
+      "year": null,
+      "weight": 0.84
+    }
+  ]
+}

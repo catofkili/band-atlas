@@ -1,0 +1,56 @@
+{
+  "id": "syrup16g",
+  "mbid": "e4d403dd-2f83-4642-a929-02676a2a944c",
+  "name": "syrup16g",
+  "area": "Shimokitazawa",
+  "years": "1996–",
+  "genres": [
+    "Alternative Rock",
+    "Emo",
+    "Indie Rock"
+  ],
+  "albums": [
+    {
+      "title": "Free Throw",
+      "year": 1999
+    },
+    {
+      "title": "COPY",
+      "year": 2001
+    },
+    {
+      "title": "delayed",
+      "year": 2002
+    },
+    {
+      "title": "coup d’Etat",
+      "year": 2002
+    },
+    {
+      "title": "HELL‐SEE",
+      "year": 2003
+    },
+    {
+      "title": "Mouth to Mouse",
+      "year": 2004
+    }
+  ],
+  "intro": "syrup16gは、日本のスリーピースロックバンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e4d403dd-2f83-4642-a929-02676a2a944c"
+  },
+  "edges": [
+    {
+      "to": "vola-and-the-oriental-machine",
+      "toName": "VOLA & THE ORIENTAL MACHINE",
+      "toArea": "东京",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "中畑大樹",
+      "detail": "中畑大樹 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,111 @@
+{
+  "id": "foo-fighters",
+  "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+  "name": "Foo Fighters",
+  "area": "西雅图",
+  "years": "1994–",
+  "genres": [
+    "Rock",
+    "Alternative Rock",
+    "Post-Grunge"
+  ],
+  "albums": [
+    {
+      "title": "Foo Fighters",
+      "year": 1995
+    },
+    {
+      "title": "The Colour and the Shape",
+      "year": 1997
+    },
+    {
+      "title": "There Is Nothing Left to Lose",
+      "year": 1999
+    },
+    {
+      "title": "One by One",
+      "year": 2002
+    },
+    {
+      "title": "In Your Honor",
+      "year": 2005
+    },
+    {
+      "title": "Echoes, Silence, Patience & Grace",
+      "year": 2007
+    }
+  ],
+  "intro": "喷火战机乐队是一支来自美国华盛顿州西雅图的摇滚乐队，由涅槃乐队前鼓手戴夫·格罗尔于1994年创建，目前阵容包括格罗尔、奈特·孟德尔、克里斯·沙弗利特和帕特·斯密尔、拉米·杰菲和乔什·弗里兹。",
+  "introLang": "zh",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/67f66c07-6e61-4026-ade5-7e782fad3a5d"
+  },
+  "edges": [
+    {
+      "to": "dee-gees",
+      "toName": "Dee Gees",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Taylor Hawkins・Rami Jaffee・Nate Mendel・Chris Shiflett・Pat Smear",
+      "detail": "5 位乐手在这两支乐队都待过：Taylor Hawkins・Rami Jaffee・Nate Mendel・Chris Shiflett・Pat Smear。",
+      "year": 1997,
+      "weight": 0.95
+    },
+    {
+      "to": "sound-city-players",
+      "toName": "Sound City Players",
+      "toArea": "美国",
+      "toYears": "2012–2013",
+      "type": "member",
+      "label": "Taylor Hawkins・Rami Jaffee・Nate Mendel・Chris Shiflett・Pat Smear",
+      "detail": "5 位乐手在这两支乐队都待过：Taylor Hawkins・Rami Jaffee・Nate Mendel・Chris Shiflett・Pat Smear。",
+      "year": 1997,
+      "weight": 0.95
+    },
+    {
+      "to": "scream",
+      "toName": "Scream",
+      "toArea": "Virginia",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Franz Stahl",
+      "detail": "Franz Stahl 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "viva-death",
+      "toName": "Viva Death",
+      "toArea": "美国",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "Chris Shiflett",
+      "detail": "Chris Shiflett 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "chevy-metal",
+      "toName": "Chevy Metal",
+      "toArea": "洛杉矶",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Taylor Hawkins",
+      "detail": "Taylor Hawkins 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "live-lounge-allstars",
+      "toName": "Live Lounge Allstars",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Taylor Hawkins",
+      "detail": "Taylor Hawkins 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    }
+  ]
+}

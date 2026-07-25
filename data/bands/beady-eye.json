@@ -1,0 +1,106 @@
+{
+  "id": "beady-eye",
+  "mbid": "a0e10984-0eca-4920-a171-5fd7a62ee069",
+  "name": "Beady Eye",
+  "area": "曼彻斯特",
+  "years": "2009–2014",
+  "genres": [
+    "Alternative Rock",
+    "Britpop",
+    "Mod Revival"
+  ],
+  "albums": [
+    {
+      "title": "Different Gear, Still Speeding",
+      "year": 2011
+    },
+    {
+      "title": "BE",
+      "year": 2013
+    }
+  ],
+  "intro": "ビーディ・アイ (Beady Eye) は、イギリスのロックバンド。2009年にロンドンにてオアシスの元メンバーによって結成された。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a0e10984-0eca-4920-a171-5fd7a62ee069"
+  },
+  "edges": [
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "member",
+      "label": "Liam Gallagher・Andy Bell・Gem Archer",
+      "detail": "3 位乐手在这两支乐队都待过：Liam Gallagher・Andy Bell・Gem Archer。",
+      "year": 2025,
+      "weight": 0.95
+    },
+    {
+      "to": "hurricane-1",
+      "toName": "Hurricane #1",
+      "toArea": "牛津",
+      "toYears": "1996–1999",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ride",
+      "toName": "Ride",
+      "toArea": "牛津",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "harvey-s-rabbit",
+      "toName": "Harvey's Rabbit",
+      "toArea": "曼彻斯特",
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "heavy-stereo",
+      "toName": "Heavy Stereo",
+      "toArea": "Durham",
+      "toYears": "1995–1996",
+      "type": "member",
+      "label": "Gem Archer",
+      "detail": "Gem Archer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "southern-fly",
+      "toName": "Southern Fly",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Gem Archer",
+      "detail": "Gem Archer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mantra-of-the-cosmos",
+      "toName": "Mantra of the Cosmos",
+      "toArea": "英国",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,85 @@
+{
+  "id": "monkey",
+  "mbid": "46160439-9999-42b7-b6aa-a8fbdb468282",
+  "name": "Monkey",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Journey to the West",
+      "year": 2008
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/46160439-9999-42b7-b6aa-a8fbdb468282"
+  },
+  "edges": [
+    {
+      "to": "blur",
+      "toName": "Blur",
+      "toArea": "伦敦",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Damon Albarn",
+      "detail": "Damon Albarn 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-good-the-bad-the-queen",
+      "toName": "The Good, the Bad & the Queen",
+      "toArea": "伦敦",
+      "toYears": "2006–2019",
+      "type": "member",
+      "label": "Damon Albarn",
+      "detail": "Damon Albarn 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "rocket-juice-the-moon",
+      "toName": "Rocket Juice & the Moon",
+      "toArea": "英国",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Damon Albarn",
+      "detail": "Damon Albarn 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "electric-wave-bureau",
+      "toName": "Electric Wave Bureau",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Damon Albarn",
+      "detail": "Damon Albarn 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "seymour",
+      "toName": "Seymour",
+      "toArea": "Colchester",
+      "toYears": "1989–1990",
+      "type": "member",
+      "label": "Damon Albarn",
+      "detail": "Damon Albarn 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-heavy-seas",
+      "toName": "The Heavy Seas",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Damon Albarn",
+      "detail": "Damon Albarn 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

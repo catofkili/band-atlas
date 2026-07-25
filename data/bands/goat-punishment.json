@@ -1,0 +1,25 @@
+{
+  "id": "goat-punishment",
+  "mbid": "50c213ed-a109-4677-9b7b-d57ef580dd2d",
+  "name": "Goat Punishment",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/50c213ed-a109-4677-9b7b-d57ef580dd2d"
+  },
+  "edges": [
+    {
+      "to": "weezer",
+      "toName": "Weezer",
+      "toArea": "洛杉矶",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

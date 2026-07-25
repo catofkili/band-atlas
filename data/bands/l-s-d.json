@@ -1,0 +1,25 @@
+{
+  "id": "l-s-d",
+  "mbid": "22326d4f-f68a-487a-9467-aca645c60154",
+  "name": "L.S.D.",
+  "area": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/22326d4f-f68a-487a-9467-aca645c60154"
+  },
+  "edges": [
+    {
+      "to": "bloodthirsty-butchers",
+      "toName": "bloodthirsty butchers",
+      "toArea": "北海道",
+      "toYears": "1987–2013",
+      "type": "member",
+      "label": "佐野紀代己・射守矢雄",
+      "detail": "2 位乐手在这两支乐队都待过：佐野紀代己・射守矢雄。",
+      "year": 1986,
+      "weight": 0.84
+    }
+  ]
+}

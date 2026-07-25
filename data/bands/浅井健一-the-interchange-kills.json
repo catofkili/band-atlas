@@ -1,0 +1,45 @@
+{
+  "id": "浅井健一-the-interchange-kills",
+  "mbid": "ed7af7a0-88ba-4779-b20a-6a53129711e6",
+  "name": "浅井健一 & THE INTERCHANGE KILLS",
+  "area": "日本",
+  "years": "2016–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "METEO",
+      "year": 2017
+    },
+    {
+      "title": "Sugar",
+      "year": 2018
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ed7af7a0-88ba-4779-b20a-6a53129711e6"
+  },
+  "edges": [
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "member",
+      "label": "中尾憲太郎",
+      "detail": "中尾憲太郎 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    },
+    {
+      "to": "sloth-love-chunks",
+      "toName": "SLOTH LOVE CHUNKS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "中尾憲太郎",
+      "detail": "中尾憲太郎 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "id": "dee-gees",
+  "mbid": "d4bac396-867c-431d-8cec-ef508eee0204",
+  "name": "Dee Gees",
+  "area": "美国",
+  "years": null,
+  "genres": [
+    "Disco",
+    "Pop",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Hail Satin",
+      "year": 2021
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d4bac396-867c-431d-8cec-ef508eee0204"
+  },
+  "edges": [
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Taylor Hawkins・Rami Jaffee・Nate Mendel・Chris Shiflett・Pat Smear",
+      "detail": "5 位乐手在这两支乐队都待过：Taylor Hawkins・Rami Jaffee・Nate Mendel・Chris Shiflett・Pat Smear。",
+      "year": 1997,
+      "weight": 0.95
+    },
+    {
+      "to": "sound-city-players",
+      "toName": "Sound City Players",
+      "toArea": "美国",
+      "toYears": "2012–2013",
+      "type": "member",
+      "label": "Taylor Hawkins・Rami Jaffee・Nate Mendel・Chris Shiflett・Pat Smear",
+      "detail": "5 位乐手在这两支乐队都待过：Taylor Hawkins・Rami Jaffee・Nate Mendel・Chris Shiflett・Pat Smear。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "viva-death",
+      "toName": "Viva Death",
+      "toArea": "美国",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "Chris Shiflett",
+      "detail": "Chris Shiflett 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "chevy-metal",
+      "toName": "Chevy Metal",
+      "toArea": "洛杉矶",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Taylor Hawkins",
+      "detail": "Taylor Hawkins 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "live-lounge-allstars",
+      "toName": "Live Lounge Allstars",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Taylor Hawkins",
+      "detail": "Taylor Hawkins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

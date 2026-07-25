@@ -1,0 +1,100 @@
+{
+  "id": "glitterbust",
+  "mbid": "ba6bba0c-c9c8-47e9-ac09-f58c03fc56ff",
+  "name": "Glitterbust",
+  "area": "美国",
+  "years": "2015–",
+  "genres": [
+    "Experimental Rock"
+  ],
+  "albums": [
+    {
+      "title": "Glitterbust",
+      "year": 2016
+    }
+  ],
+  "intro": "Glitterbust are an American experimental electric guitar duo composed of Kim Gordon and Alex Knost.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ba6bba0c-c9c8-47e9-ac09-f58c03fc56ff"
+  },
+  "edges": [
+    {
+      "to": "sonic-youth",
+      "toName": "Sonic Youth",
+      "toArea": "纽约",
+      "toYears": "1981–2011",
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "free-kitten",
+      "toName": "Free Kitten",
+      "toArea": "美国",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "body-head",
+      "toName": "Body/Head",
+      "toArea": "Northampton",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ciccone-youth",
+      "toName": "Ciccone Youth",
+      "toArea": "纽约",
+      "toYears": "1986–1988",
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "harry-crews",
+      "toName": "Harry Crews",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "lucky-sperms",
+      "toName": "Lucky Sperms",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mirror-dash",
+      "toName": "Mirror/Dash",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

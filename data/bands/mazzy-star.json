@@ -1,0 +1,70 @@
+{
+  "id": "mazzy-star",
+  "mbid": "c48d4327-8122-4286-af66-05e1ee6ac4d8",
+  "name": "Mazzy Star",
+  "area": "Santa Monica",
+  "years": "1988–",
+  "genres": [
+    "Dream Pop",
+    "Slowcore",
+    "Psychedelic Folk"
+  ],
+  "albums": [
+    {
+      "title": "She Hangs Brightly",
+      "year": 1990
+    },
+    {
+      "title": "So Tonight That I Might See",
+      "year": 1993
+    },
+    {
+      "title": "Among My Swan",
+      "year": 1996
+    },
+    {
+      "title": "Seasons of Your Day",
+      "year": 2013
+    }
+  ],
+  "intro": "マジー・スターは、1989年、ボーカルのホープ・サンドヴァル (Hope Sandoval) とギターのデヴィッド・ロバック (David Roback) により結成されたバンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c48d4327-8122-4286-af66-05e1ee6ac4d8"
+  },
+  "edges": [
+    {
+      "to": "my-bloody-valentine",
+      "toName": "My Bloody Valentine",
+      "toArea": "都柏林 / 伦敦",
+      "toYears": "1983–1997 / 2007–",
+      "type": "member",
+      "label": "Colm Ó Cíosóig",
+      "detail": "Colm Ó Cíosóig 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "hope-sandoval-the-warm-inventions",
+      "toName": "Hope Sandoval & the Warm Inventions",
+      "toArea": "美国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Colm Ó Cíosóig・Hope Sandoval",
+      "detail": "2 位乐手在这两支乐队都待过：Colm Ó Cíosóig・Hope Sandoval。",
+      "year": 2012,
+      "weight": 0.84
+    },
+    {
+      "to": "the-complex",
+      "toName": "The Complex",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Colm Ó Cíosóig",
+      "detail": "Colm Ó Cíosóig 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    }
+  ]
+}

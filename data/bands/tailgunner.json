@@ -1,0 +1,52 @@
+{
+  "id": "tailgunner",
+  "mbid": "2c3cbf70-da1f-4abe-a905-011e717f96bb",
+  "name": "Tailgunner",
+  "area": "英国",
+  "years": "2000–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Tailgunner",
+      "year": 2000
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2c3cbf70-da1f-4abe-a905-011e717f96bb"
+  },
+  "edges": [
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "member",
+      "label": "Noel Gallagher",
+      "detail": "Noel Gallagher 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "noel-gallagher-s-high-flying-birds",
+      "toName": "Noel Gallagher’s High Flying Birds",
+      "toArea": "曼彻斯特",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "Noel Gallagher",
+      "detail": "Noel Gallagher 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "mick-fleetwood-and-friends",
+      "toName": "Mick Fleetwood and Friends",
+      "toArea": null,
+      "toYears": "2020–2020",
+      "type": "member",
+      "label": "Noel Gallagher",
+      "detail": "Noel Gallagher 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,5 +1,6 @@
 {
   "id": "toddle",
+  "mbid": "d2f303ba-0c62-4892-8fce-572f0a381d57",
   "name": "toddle",
   "area": "东京",
   "years": "2004–",
@@ -7,7 +8,6 @@
     "Indie Rock",
     "Alternative Rock"
   ],
-  "intro": "田渕ひさ子第一次站到主唱位置的乐队。吉他仍然锋利，但情绪比 NUMBER GIRL 时期柔软得多。",
   "albums": [
     {
       "title": "I dedicate D chord",
@@ -18,12 +18,14 @@
       "year": 2008
     }
   ],
+  "intro": "田渕ひさ子第一次站到主唱位置的乐队。吉他仍然锋利，但情绪比 NUMBER GIRL 时期柔软得多。",
+  "introLang": "ja",
   "tracks": [
     "Rebuilt",
     "Rise"
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=toddle&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/d2f303ba-0c62-4892-8fce-572f0a381d57"
   },
   "edges": [
     {
@@ -58,6 +60,50 @@
       "detail": "田渕ひさ子在组建 toddle 的同一时期也参加了 ART-SCHOOL。",
       "year": 2005,
       "weight": 0.6
+    },
+    {
+      "to": "lama",
+      "toName": "LAMA",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "swarm-s-arm",
+      "toName": "Swarm's Arm",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "小林愛",
+      "detail": "小林愛 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "moools",
+      "toName": "moools",
+      "toArea": null,
+      "toYears": "1998–",
+      "type": "member",
+      "label": "内野正登",
+      "detail": "内野正登 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "odani-misako-ta-ta",
+      "toName": "odani misako・ta-ta",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
     }
   ]
 }

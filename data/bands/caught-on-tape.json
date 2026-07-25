@@ -1,0 +1,45 @@
+{
+  "id": "caught-on-tape",
+  "mbid": "8b60089a-ee47-4f44-9789-999d4a753fe1",
+  "name": "Caught on Tape",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Parallelogram",
+      "year": 2015
+    },
+    {
+      "title": "Full Bleed",
+      "year": 2015
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8b60089a-ee47-4f44-9789-999d4a753fe1"
+  },
+  "edges": [
+    {
+      "to": "chelsea-light-moving",
+      "toName": "Chelsea Light Moving",
+      "toArea": "纽约",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "John Moloney",
+      "detail": "John Moloney 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-peeper",
+      "toName": "The Peeper",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Moloney",
+      "detail": "John Moloney 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

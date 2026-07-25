@@ -1,0 +1,45 @@
+{
+  "id": "chelsea-light-moving",
+  "mbid": "e8b2f9f2-f5fd-4a24-aaa4-d9bebf8675e7",
+  "name": "Chelsea Light Moving",
+  "area": "纽约",
+  "years": "2012–",
+  "genres": [
+    "Alternative Rock"
+  ],
+  "albums": [
+    {
+      "title": "Chelsea Light Moving",
+      "year": 2013
+    }
+  ],
+  "intro": "Chelsea Light Moving was an American alternative rock band formed in 2012 in New York City.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e8b2f9f2-f5fd-4a24-aaa4-d9bebf8675e7"
+  },
+  "edges": [
+    {
+      "to": "caught-on-tape",
+      "toName": "Caught on Tape",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Moloney",
+      "detail": "John Moloney 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-peeper",
+      "toName": "The Peeper",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Moloney",
+      "detail": "John Moloney 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

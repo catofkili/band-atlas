@@ -8,8 +8,9 @@
 每张只露出一半，用带颜色的线牵着。点边缘的卡片，镜头滑过去，它展开成新的焦点，
 它自己的邻居再从新的屏幕边缘探出头来。
 
-**M0 交互原型**。数据是人工整理的 26 支乐队 / 40 条关系，用来把手感做对；
-M1 起由 MusicBrainz + Wikidata 的管线替换。
+**351 支乐队 / 761 条关系**，平均每支 4.3 条，没有孤岛。
+骨架由 MusicBrainz 爬来，简介取自维基百科，其中 26 支经过人工整理——
+中文简介、代表曲、轶事，以及数据库里根本没有的恩怨。
 
 ## 跑起来
 
@@ -43,16 +44,51 @@ node tools/build-data.mjs && node tools/build-standalone.mjs
 index.html              外壳
 style.css               全部样式（深色单主题）
 js/
-  main.js               舞台、相机、导航、路由
+  main.js               舞台、相机、导航、搜索、路由
   layout.js             以焦点为中心的局部布局
   render.js             卡片与连线的 DOM
   data.js               按需加载 + 邻居预取
 data/
-  source/scene-jrock.json   唯一的数据来源，单向边
-  bands/<id>.json           构建产物，每支乐队一份
-  index.json                构建产物，随机进站与统计用
-tools/build-data.mjs    把单向边展开成双向，顺带校验
+  source/
+    generated.json      爬来的，量大只有硬事实（勿手改）
+    intros.json         维基百科首段（勿手改）
+    scene-jrock.json    人工整理，覆盖层：中文简介、轶事、恩怨
+  bands/<id>.json       构建产物，每支乐队一份
+  index.json            构建产物，随机进站与搜索用
+tools/
+  crawl.mjs             爬 MusicBrainz，穿过乐手把乐队连起来
+  fetch-intros.mjs      Wikidata 找条目 → 维基百科取首段
+  build-data.mjs        三层合并、展开成双向边、校验
+  build-standalone.mjs  压成一个自包含 HTML
+  lib/mb.mjs            限速、落盘缓存、重试
 ```
+
+## 数据管线
+
+```bash
+node tools/crawl.mjs --max-bands 400 --depth 2   # 约 20 分钟，限速一秒一次
+node tools/fetch-intros.mjs                      # 约 1 分钟
+node tools/build-data.mjs                        # 秒级
+node tools/build-standalone.mjs
+```
+
+所有响应都缓存在 `.cache/`（已 gitignore），中断了重跑、或者改爬取策略再来一遍，
+都不会重复打接口。前两步只在要扩充数据时跑，平时改人工数据只需要后两步。
+
+**穿过人来连乐队**是整条管线的关键一步。MusicBrainz 存的是「乐队 ↔ 乐手」，
+而我们要的是「乐队 ↔ 乐队」：先取一支乐队的成员名单，再取每个成员待过的所有乐队，
+凡是共享过同一个乐手的两支乐队之间就落一条边，标签写那个人的名字。
+共享的乐手越多，这条关系越靠前。这正好就是「某支乐队的鼓手后来去了哪儿」。
+
+**三层合并**，下层只填上层没写的字段：
+
+| 层 | 来源 | 内容 |
+|---|---|---|
+| 底 | `generated.json` | MusicBrainz：名字、地区、年代、流派、专辑、成员流动 |
+| 中 | `intros.json` | 维基百科首段（中文优先，退到日文、英文） |
+| 顶 | `scene-jrock.json` | 人工：中文简介、代表曲、轶事，以及数据库里没有的恩怨 |
+
+乐队 id 以人工那层为准——已经分享出去的链接（`#/band/straightener`）不能因为重跑数据就失效。
 
 ## 关系类型
 
@@ -95,14 +131,20 @@ tools/build-data.mjs    把单向边展开成双向，顺带校验
 
 ## 接下来
 
-- **M1 数据管线**：MusicBrainz 抽成员流动与客串，Wikidata `P737` 抽影响，
-  Cover Art Archive 取封面。产出和 `data/source/*.json` 同形状即可直接接上。
-- **M2 体验**：搜索、移动端手势、分享卡片。
-- **M3 恩怨**：没有结构化来源，只能 LLM 读 Wikipedia 抽事件 + 人工逐条审核。
-  这是本项目区别于普通相似推荐的独家内容。
+- **要更多乐队**：`--max-bands` 调大、`--depth` 调到 3。缓存还在，增量只花新增那部分的时间。
+- **影响关系**：Wikidata `P737`（influenced by）还没接，目前的影响边全是人工写的。
+- **专辑封面**：Cover Art Archive，构建期生成缩略图存同源。
+- **恩怨**：没有结构化来源，只能 LLM 读 Wikipedia 抽事件 + 人工逐条审核。
+  这是本项目区别于普通相似推荐的独家内容，目前只有两条。
 
 ## 数据准确性
 
-`data/source/scene-jrock.json` 是人工整理的，未经 MusicBrainz 校验，
-细节（尤其冷门乐队的专辑年份与曲目）可能有出入。M1 管线接上之后以数据库为准。
+爬来的部分（名字、年代、专辑、成员流动）以 MusicBrainz 为准，硬事实可靠，
+但覆盖不均：约六成有简介、七成有专辑、四成有流派，冷门乐队的条目本来就薄。
+
+`scene-jrock.json` 里人工写的简介、代表曲、轶事未经数据库校验，细节可能有出入。
 恩怨类条目只收录有公开报道的事件，措辞保持中性。
+
+爬取沿着「共享乐手」往外走，走到哪儿由数据密度决定而不是曲风——
+所以除了日本另类摇滚，还会连出九十年代美国另类摇滚、工业、硬摇滚的一大片。
+这些连接都是真的，只是场景不再单一。

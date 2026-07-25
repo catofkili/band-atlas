@@ -1,0 +1,34 @@
+{
+  "id": "hawk",
+  "mbid": "3eccd071-157b-4776-afd3-4c6f82cc8036",
+  "name": "Hawk",
+  "area": "洛杉矶",
+  "years": "1984–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Hawk",
+      "year": 1986
+    },
+    {
+      "title": "Let the Metal Live",
+      "year": 2009
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3eccd071-157b-4776-afd3-4c6f82cc8036"
+  },
+  "edges": [
+    {
+      "to": "bulletboys",
+      "toName": "BulletBoys",
+      "toArea": "洛杉矶",
+      "toYears": "1986–",
+      "type": "member",
+      "label": "Lonnie Vencent・Marq Torien・Charlie Wayne Morrill",
+      "detail": "3 位乐手在这两支乐队都待过：Lonnie Vencent・Marq Torien・Charlie Wayne Morrill。",
+      "year": 2009,
+      "weight": 0.95
+    }
+  ]
+}

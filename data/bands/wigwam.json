@@ -1,0 +1,60 @@
+{
+  "id": "wigwam",
+  "mbid": "a47f322c-dde7-4ece-b6f2-b0468aff8861",
+  "name": "WigWam",
+  "area": "英国",
+  "years": "2005–",
+  "genres": [],
+  "albums": [],
+  "intro": "WigWam were an English pop duo, comprising Alex James, the bassist from Blur, and vocalist Betty Boo (Alison Clarkson).",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a47f322c-dde7-4ece-b6f2-b0468aff8861"
+  },
+  "edges": [
+    {
+      "to": "blur",
+      "toName": "Blur",
+      "toArea": "伦敦",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Alex James",
+      "detail": "Alex James 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "fat-les",
+      "toName": "Fat Les",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Alex James",
+      "detail": "Alex James 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "me-me-me",
+      "toName": "Me Me Me",
+      "toArea": "英格兰",
+      "toYears": "1996–1996",
+      "type": "member",
+      "label": "Alex James",
+      "detail": "Alex James 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "seymour",
+      "toName": "Seymour",
+      "toArea": "Colchester",
+      "toYears": "1989–1990",
+      "type": "member",
+      "label": "Alex James",
+      "detail": "Alex James 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

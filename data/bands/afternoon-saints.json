@@ -1,0 +1,41 @@
+{
+  "id": "afternoon-saints",
+  "mbid": "9509e36d-610f-4fe4-8009-2fbee3f55793",
+  "name": "Afternoon Saints",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "The Shirley Jangle",
+      "year": 2009
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9509e36d-610f-4fe4-8009-2fbee3f55793"
+  },
+  "edges": [
+    {
+      "to": "glacial",
+      "toName": "Glacial",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "David Watson",
+      "detail": "David Watson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "text-of-light",
+      "toName": "Text of Light",
+      "toArea": "美国",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "Christian Marclay",
+      "detail": "Christian Marclay 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

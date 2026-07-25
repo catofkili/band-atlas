@@ -1,5 +1,6 @@
 {
   "id": "oasis",
+  "mbid": "39ab1aed-75e0-4140-bd47-540276886b60",
   "name": "Oasis",
   "area": "曼彻斯特",
   "years": "1991–2009 / 2024–",
@@ -7,7 +8,6 @@
     "Britpop",
     "Rock"
   ],
-  "intro": "Gallagher 兄弟的乐队。工人阶级的狂妄、大合唱式的副歌，以及贯穿始终的兄弟内斗。",
   "albums": [
     {
       "title": "Definitely Maybe",
@@ -22,6 +22,8 @@
       "year": 1997
     }
   ],
+  "intro": "Gallagher 兄弟的乐队。工人阶级的狂妄、大合唱式的副歌，以及贯穿始终的兄弟内斗。",
+  "introLang": "zh",
   "tracks": [
     "Live Forever",
     "Wonderwall",
@@ -29,7 +31,7 @@
     "Champagne Supernova"
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=Oasis&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/39ab1aed-75e0-4140-bd47-540276886b60"
   },
   "edges": [
     {
@@ -44,6 +46,28 @@
       "weight": 0.95
     },
     {
+      "to": "beady-eye",
+      "toName": "Beady Eye",
+      "toArea": "曼彻斯特",
+      "toYears": "2009–2014",
+      "type": "member",
+      "label": "Liam Gallagher・Andy Bell・Gem Archer",
+      "detail": "3 位乐手在这两支乐队都待过：Liam Gallagher・Andy Bell・Gem Archer。",
+      "year": 2025,
+      "weight": 0.95
+    },
+    {
+      "to": "the-rain",
+      "toName": "The Rain",
+      "toArea": "曼彻斯特",
+      "toYears": "1990–1991",
+      "type": "member",
+      "label": "Tony McCarroll・Paul Arthurs・Paul McGuigan",
+      "detail": "3 位乐手在这两支乐队都待过：Tony McCarroll・Paul Arthurs・Paul McGuigan。",
+      "year": 1991,
+      "weight": 0.95
+    },
+    {
       "to": "asian-kung-fu-generation",
       "toName": "ASIAN KUNG-FU GENERATION",
       "toArea": "横滨",
@@ -53,6 +77,171 @@
       "detail": "英伦摇滚的合唱式副歌，是 AKG 早期写作的参照之一。",
       "year": null,
       "weight": 0.6
+    },
+    {
+      "to": "cornershop",
+      "toName": "Cornershop",
+      "toArea": "Leicester",
+      "toYears": "1991–",
+      "type": "member",
+      "label": "Paul McGuigan",
+      "detail": "Paul McGuigan 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "hurricane-1",
+      "toName": "Hurricane #1",
+      "toArea": "牛津",
+      "toYears": "1996–1999",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "ride",
+      "toName": "Ride",
+      "toArea": "牛津",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "noel-gallagher-s-high-flying-birds",
+      "toName": "Noel Gallagher’s High Flying Birds",
+      "toArea": "曼彻斯特",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "Noel Gallagher",
+      "detail": "Noel Gallagher 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "harvey-s-rabbit",
+      "toName": "Harvey's Rabbit",
+      "toArea": "曼彻斯特",
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "heavy-stereo",
+      "toName": "Heavy Stereo",
+      "toArea": "Durham",
+      "toYears": "1995–1996",
+      "type": "member",
+      "label": "Gem Archer",
+      "detail": "Gem Archer 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "parlour-flames",
+      "toName": "Parlour Flames",
+      "toArea": "曼彻斯特",
+      "toYears": null,
+      "type": "member",
+      "label": "Paul Arthurs",
+      "detail": "Paul Arthurs 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "southern-fly",
+      "toName": "Southern Fly",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Gem Archer",
+      "detail": "Gem Archer 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "starclub",
+      "toName": "Starclub",
+      "toArea": "Maidstone",
+      "toYears": "1991–1994",
+      "type": "member",
+      "label": "Alan White",
+      "detail": "Alan White 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "tailgunner",
+      "toName": "Tailgunner",
+      "toArea": "英国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Noel Gallagher",
+      "detail": "Noel Gallagher 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "mantra-of-the-cosmos",
+      "toName": "Mantra of the Cosmos",
+      "toArea": "英国",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "mick-fleetwood-and-friends",
+      "toName": "Mick Fleetwood and Friends",
+      "toArea": null,
+      "toYears": "2020–2020",
+      "type": "member",
+      "label": "Noel Gallagher",
+      "detail": "Noel Gallagher 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "moondog-one",
+      "toName": "Moondog One",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Paul Arthurs",
+      "detail": "Paul Arthurs 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "phoneys-the-freaks",
+      "toName": "Phoneys & the Freaks",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Paul Arthurs",
+      "detail": "Paul Arthurs 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "the-vortex",
+      "toName": "The Vortex",
+      "toArea": "曼彻斯特",
+      "toYears": null,
+      "type": "member",
+      "label": "Paul Arthurs",
+      "detail": "Paul Arthurs 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
     }
   ]
 }

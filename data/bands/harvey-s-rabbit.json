@@ -1,0 +1,74 @@
+{
+  "id": "harvey-s-rabbit",
+  "mbid": "6fc16f58-4562-47e6-a364-b03011e5f1ea",
+  "name": "Harvey's Rabbit",
+  "area": "曼彻斯特",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "The New Spiritual Vacuum",
+      "year": 1998
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6fc16f58-4562-47e6-a364-b03011e5f1ea"
+  },
+  "edges": [
+    {
+      "to": "ride",
+      "toName": "Ride",
+      "toArea": "牛津",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Andy Bell・Loz Colbert・Steve Queralt",
+      "detail": "3 位乐手在这两支乐队都待过：Andy Bell・Loz Colbert・Steve Queralt。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "hurricane-1",
+      "toName": "Hurricane #1",
+      "toArea": "牛津",
+      "toYears": "1996–1999",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "beady-eye",
+      "toName": "Beady Eye",
+      "toArea": "曼彻斯特",
+      "toYears": "2009–2014",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mantra-of-the-cosmos",
+      "toName": "Mantra of the Cosmos",
+      "toArea": "英国",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "Andy Bell",
+      "detail": "Andy Bell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

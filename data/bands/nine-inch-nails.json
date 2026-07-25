@@ -1,0 +1,210 @@
+{
+  "id": "nine-inch-nails",
+  "mbid": "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+  "name": "Nine Inch Nails",
+  "area": "Cleveland",
+  "years": "1988–",
+  "genres": [
+    "Industrial Rock",
+    "Industrial",
+    "Alternative Rock"
+  ],
+  "albums": [
+    {
+      "title": "Pretty Hate Machine",
+      "year": 1989
+    },
+    {
+      "title": "The Downward Spiral",
+      "year": 1994
+    },
+    {
+      "title": "The Fragile",
+      "year": 1999
+    },
+    {
+      "title": "With Teeth",
+      "year": 2005
+    },
+    {
+      "title": "Year Zero",
+      "year": 2007
+    },
+    {
+      "title": "Ghosts I–IV",
+      "year": 2008
+    }
+  ],
+  "intro": "九吋钉是美国的工业金属乐团，由特伦特·雷泽诺在1988年成立于美国俄亥俄州克里夫兰市。作为它的主要制作人、歌手、作曲家和演奏家， 雷泽诺是九吋钉唯一且保持全权负责乐团方向的正式成员。",
+  "introLang": "zh",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b7ffd2af-418f-4be2-bdd1-22f8b48613da"
+  },
+  "edges": [
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Martin Atkins・Trent Reznor・Chris Vrenna・Jeff Ward",
+      "detail": "4 位乐手在这两支乐队都待过：Martin Atkins・Trent Reznor・Chris Vrenna・Jeff Ward。",
+      "year": 1991,
+      "weight": 0.95
+    },
+    {
+      "to": "tapeworm",
+      "toName": "Tapeworm",
+      "toArea": "美国",
+      "toYears": "1996–2004",
+      "type": "member",
+      "label": "Trent Reznor・Danny Lohner・Charlie Clouser・Atticus Ross",
+      "detail": "4 位乐手在这两支乐队都待过：Trent Reznor・Danny Lohner・Charlie Clouser・Atticus Ross。",
+      "year": 1996,
+      "weight": 0.95
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Robin Finck",
+      "detail": "Robin Finck 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "a-perfect-circle",
+      "toName": "A Perfect Circle",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Danny Lohner・Jeordie White",
+      "detail": "2 位乐手在这两支乐队都待过：Danny Lohner・Jeordie White。",
+      "year": 1993,
+      "weight": 0.84
+    },
+    {
+      "to": "the-damning-well",
+      "toName": "The Damning Well",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Danny Lohner・Richard Patrick",
+      "detail": "2 位乐手在这两支乐队都待过：Danny Lohner・Richard Patrick。",
+      "year": 1993,
+      "weight": 0.84
+    },
+    {
+      "to": "filter",
+      "toName": "Filter",
+      "toArea": "Cleveland",
+      "toYears": "1993–",
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "the-dead-daisies",
+      "toName": "The Dead Daisies",
+      "toArea": "悉尼",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Alex Carapetis",
+      "detail": "Alex Carapetis 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "black-light-burns",
+      "toName": "Black Light Burns",
+      "toArea": "美国",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Danny Lohner",
+      "detail": "Danny Lohner 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "desert-sessions",
+      "toName": "Desert Sessions",
+      "toArea": "Palm Desert",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "ima-robot",
+      "toName": "Ima Robot",
+      "toArea": "洛杉矶",
+      "toYears": "1998–",
+      "type": "member",
+      "label": "Justin Meldal‐Johnsen",
+      "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "loser",
+      "toName": "Loser",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Justin Meldal‐Johnsen",
+      "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "peeping-tom",
+      "toName": "Peeping Tom",
+      "toArea": "美国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Stu Brooks",
+      "detail": "Stu Brooks 在这两支乐队都待过。",
+      "year": 2026,
+      "weight": 0.62
+    },
+    {
+      "to": "the-jaded-hearts-club",
+      "toName": "The Jaded Hearts Club",
+      "toArea": "California",
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "sound-city-players",
+      "toName": "Sound City Players",
+      "toArea": "美国",
+      "toYears": "2012–2013",
+      "type": "member",
+      "label": "Trent Reznor",
+      "detail": "Trent Reznor 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "nine-inch-noize",
+      "toName": "Nine Inch Noize",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

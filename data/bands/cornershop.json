@@ -1,0 +1,78 @@
+{
+  "id": "cornershop",
+  "mbid": "92046be7-0927-4835-a4ed-a90416747d53",
+  "name": "Cornershop",
+  "area": "Leicester",
+  "years": "1991–",
+  "genres": [
+    "Asian",
+    "Brit Pop",
+    "British Asian"
+  ],
+  "albums": [
+    {
+      "title": "Hold On It Hurts",
+      "year": 1993
+    },
+    {
+      "title": "Woman’s Gotta Have It",
+      "year": 1995
+    },
+    {
+      "title": "When I Was Born for the 7th Time",
+      "year": 1997
+    },
+    {
+      "title": "Handcream for a Generation",
+      "year": 2002
+    },
+    {
+      "title": "Judy Sucks a Lemon for Breakfast",
+      "year": 2009
+    },
+    {
+      "title": "Cornershop and the Double-O Groove Of",
+      "year": 2011
+    }
+  ],
+  "intro": "コーナーショップは、イングランドのレスターで結成されたロックバンド。インド系英国人であるティジンダー・シンを中心として1991年に結成。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"
+  },
+  "edges": [
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "member",
+      "label": "Paul McGuigan",
+      "detail": "Paul McGuigan 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "the-rain",
+      "toName": "The Rain",
+      "toArea": "曼彻斯特",
+      "toYears": "1990–1991",
+      "type": "member",
+      "label": "Paul McGuigan",
+      "detail": "Paul McGuigan 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "clinton",
+      "toName": "Clinton",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

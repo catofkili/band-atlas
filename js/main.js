@@ -321,6 +321,125 @@ document.getElementById('shuffle').addEventListener('click', () => {
   jumpTo(randomId(current?.id));
 });
 
+/* -------------------------------------------------------------- 搜索 */
+
+const searchEl = document.getElementById('search');
+const searchInput = document.getElementById('search-input');
+const searchResults = document.getElementById('search-results');
+let hits = [];
+let cursor = 0;
+
+function openSearch() {
+  searchEl.hidden = false;
+  searchInput.value = '';
+  runSearch('');
+  searchInput.focus();
+}
+
+function closeSearch() {
+  searchEl.hidden = true;
+}
+
+/**
+ * 名字前缀最优先，其次名字里包含，最后才是地区命中。
+ * 输入为空时给几支关系最密的当入口，而不是空着一片。
+ */
+function runSearch(raw) {
+  const q = raw.trim().toLowerCase();
+  const pool = index?.bands ?? [];
+
+  if (!q) {
+    hits = [...pool].sort((a, b) => b.degree - a.degree).slice(0, 8);
+  } else {
+    hits = pool
+      .map((b) => {
+        const name = b.name.toLowerCase();
+        if (name.startsWith(q)) return { b, rank: 0 };
+        if (name.includes(q)) return { b, rank: 1 };
+        if ((b.area ?? '').toLowerCase().includes(q)) return { b, rank: 2 };
+        return null;
+      })
+      .filter(Boolean)
+      .sort((x, y) => x.rank - y.rank || y.b.degree - x.b.degree)
+      .slice(0, 12)
+      .map((x) => x.b);
+  }
+
+  cursor = 0;
+  searchResults.replaceChildren();
+  if (!hits.length) {
+    const li = document.createElement('li');
+    li.className = 'search__empty';
+    li.textContent = '没有找到这支乐队';
+    searchResults.append(li);
+    return;
+  }
+  hits.forEach((b, i) => {
+    const li = document.createElement('li');
+    const btn = document.createElement('button');
+    btn.type = 'button';
+    btn.className = 'search__hit';
+    btn.setAttribute('role', 'option');
+    btn.setAttribute('aria-selected', String(i === cursor));
+    btn.dataset.id = b.id;
+
+    const name = document.createElement('span');
+    name.className = 'search__hit-name';
+    name.textContent = b.name;
+    const meta = document.createElement('span');
+    meta.className = 'search__hit-meta';
+    meta.textContent = [b.area, `${b.degree} 条关系`].filter(Boolean).join(' · ');
+
+    btn.append(name, meta);
+    li.append(btn);
+    searchResults.append(li);
+  });
+}
+
+function moveCursor(delta) {
+  if (!hits.length) return;
+  cursor = (cursor + delta + hits.length) % hits.length;
+  const options = searchResults.querySelectorAll('.search__hit');
+  options.forEach((o, i) => o.setAttribute('aria-selected', String(i === cursor)));
+  options[cursor]?.scrollIntoView({ block: 'nearest' });
+}
+
+document.getElementById('search-open').addEventListener('click', openSearch);
+searchInput.addEventListener('input', () => runSearch(searchInput.value));
+
+searchEl.addEventListener('click', (ev) => {
+  // 点浮层的空白处关掉；点到结果就跳过去
+  const hit = ev.target.closest('.search__hit');
+  if (hit) {
+    closeSearch();
+    jumpTo(hit.dataset.id);
+  } else if (!ev.target.closest('.search__panel')) {
+    closeSearch();
+  }
+});
+
+searchInput.addEventListener('keydown', (ev) => {
+  if (ev.key === 'ArrowDown') {
+    ev.preventDefault();
+    moveCursor(1);
+  } else if (ev.key === 'ArrowUp') {
+    ev.preventDefault();
+    moveCursor(-1);
+  } else if (ev.key === 'Enter' && hits[cursor]) {
+    closeSearch();
+    jumpTo(hits[cursor].id);
+  }
+});
+
+document.addEventListener('keydown', (ev) => {
+  if (ev.key === 'Escape' && !searchEl.hidden) return closeSearch();
+  // 「/」是常见的搜索快捷键；正在输入的时候不抢
+  if (ev.key === '/' && searchEl.hidden && !/^(INPUT|TEXTAREA)$/.test(ev.target.tagName)) {
+    ev.preventDefault();
+    openSearch();
+  }
+});
+
 window.addEventListener('hashchange', () => {
   const id = idFromHash();
   if (id && id !== current?.id) jumpTo(id, { push: false });

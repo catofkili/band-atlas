@@ -1,0 +1,65 @@
+{
+  "id": "singer-songer",
+  "mbid": "a4880dcc-cdaf-4d58-8c1f-144f4492c627",
+  "name": "SINGER SONGER",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "ばらいろポップ",
+      "year": 2005
+    }
+  ],
+  "intro": "SINGER SONGERは、シンガーソングライターのCoccoとロックバンド「くるり」のメンバーを中心に結成された日本の音楽バンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a4880dcc-cdaf-4d58-8c1f-144f4492c627"
+  },
+  "edges": [
+    {
+      "to": "the-hiatus",
+      "toName": "the HIATUS",
+      "toArea": "东京",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "堀江博久",
+      "detail": "堀江博久 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "neil-iraiza",
+      "toName": "neil & iraiza",
+      "toArea": "日本",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "堀江博久",
+      "detail": "堀江博久 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "pupa",
+      "toName": "pupa",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "member",
+      "label": "堀江博久",
+      "detail": "堀江博久 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "beefeater",
+      "toName": "BEEFEATER",
+      "toArea": "日本",
+      "toYears": "2002–2002",
+      "type": "member",
+      "label": "堀江博久",
+      "detail": "堀江博久 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "royal-machines",
+  "mbid": "cc1e1fbe-4a41-4fa5-b4fb-80b6e57857dd",
+  "name": "Royal Machines",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cc1e1fbe-4a41-4fa5-b4fb-80b6e57857dd"
+  },
+  "edges": [
+    {
+      "to": "camp-freddy",
+      "toName": "Camp Freddy",
+      "toArea": "美国",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Chris Chaney・Donovan Leitch・Mark McGrath・Billy Morrison・Dave Navarro",
+      "detail": "5 位乐手在这两支乐队都待过：Chris Chaney・Donovan Leitch・Mark McGrath・Billy Morrison・Dave Navarro。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "circus-diablo",
+      "toName": "Circus Diablo",
+      "toArea": "洛杉矶",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "Billy Morrison",
+      "detail": "Billy Morrison 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "the-predators",
+  "mbid": "97e8ad87-3962-4527-bdac-d477d17e4423",
+  "name": "THE PREDATORS",
+  "area": "日本",
+  "years": "2005–",
+  "genres": [
+    "Hirotaka Takahashi",
+    "J-Rock",
+    "Jiro"
+  ],
+  "albums": [
+    {
+      "title": "ROCK'N'ROLL PANDEMIC",
+      "year": 2015
+    },
+    {
+      "title": "Go back to yesterday!",
+      "year": 2021
+    }
+  ],
+  "intro": "THE PREDATORSは、2005年に結成された、日本のスリーピース・ロックバンドである。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/97e8ad87-3962-4527-bdac-d477d17e4423"
+  },
+  "edges": [
+    {
+      "to": "ellegarden",
+      "toName": "ELLEGARDEN",
+      "toArea": "千叶",
+      "toYears": "1998–2008 / 2018–",
+      "type": "member",
+      "label": "高橋宏貴",
+      "detail": "高橋宏貴 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "straightener",
+      "toName": "ストレイテナー",
+      "toArea": "东京",
+      "toYears": "1998–",
+      "type": "member",
+      "label": "ナカヤマシンペイ",
+      "detail": "ナカヤマシンペイ 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pillows",
+      "toName": "the pillows",
+      "toArea": "札幌",
+      "toYears": "1989–2025",
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "scars-borough",
+      "toName": "Scars Borough",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "高橋宏貴",
+      "detail": "高橋宏貴 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    }
+  ]
+}

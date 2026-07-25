@@ -1,5 +1,6 @@
 {
   "id": "zazen-boys",
+  "mbid": "3d2cd44b-9e77-4249-9d37-d8028e756693",
   "name": "ZAZEN BOYS",
   "area": "东京",
   "years": "2003–",
@@ -8,7 +9,6 @@
     "Funk",
     "Alternative Rock"
   ],
-  "intro": "向井秀徳在 NUMBER GIRL 之后的乐队。把日语念白推到极端，用拍子的错位与突然的静止作为主要武器。",
   "albums": [
     {
       "title": "ZAZEN BOYS",
@@ -31,6 +31,8 @@
       "year": 2024
     }
   ],
+  "intro": "向井秀徳在 NUMBER GIRL 之后的乐队。把日语念白推到极端，用拍子的错位与突然的静止作为主要武器。",
+  "introLang": "ja",
   "tracks": [
     "USODARAKE",
     "HIMITSU GIRL'S TOP SECRET",
@@ -40,7 +42,7 @@
   ],
   "lore": "向井秀徳把自己的录音室命名为 MATSURI STUDIO，多年来一手包办乐队的录音与混音。",
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=ZAZEN%20BOYS&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/3d2cd44b-9e77-4249-9d37-d8028e756693"
   },
   "edges": [
     {
@@ -86,6 +88,28 @@
       "detail": "日向秀和离开 ZAZEN BOYS 之后成为 Nothing's Carved In Stone 的固定成员。",
       "year": 2009,
       "weight": 0.6
+    },
+    {
+      "to": "kimonos",
+      "toName": "KIMONOS",
+      "toArea": null,
+      "toYears": "2010–",
+      "type": "member",
+      "label": "向井秀徳",
+      "detail": "向井秀徳 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ねらわれた学園",
+      "toName": "ねらわれた学園",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "向井秀徳",
+      "detail": "向井秀徳 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
     }
   ]
 }

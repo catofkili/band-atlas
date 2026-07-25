@@ -1,0 +1,63 @@
+{
+  "id": "sleep",
+  "mbid": "6fc69ec6-3e59-4ff7-849d-b5da932abe4d",
+  "name": "Sleep",
+  "area": "San Jose",
+  "years": "1990–",
+  "genres": [
+    "Doom Metal",
+    "Stoner Metal",
+    "Stoner Rock"
+  ],
+  "albums": [
+    {
+      "title": "Volume One",
+      "year": 1991
+    },
+    {
+      "title": "Sleep’s Holy Mountain",
+      "year": 1992
+    },
+    {
+      "title": "Jerusalem",
+      "year": 1996
+    },
+    {
+      "title": "Dopesmoker",
+      "year": 2003
+    },
+    {
+      "title": "The Sciences",
+      "year": 2018
+    }
+  ],
+  "intro": "スリープ (Sleep) は、アメリカ合衆国カリフォルニア州のストーナー・ドゥームバンド。オリジナルメンバーはOMのアル・シスネロス、クリス・ハキアスおよびハイ・オン・ファイアのマット・パイク。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6fc69ec6-3e59-4ff7-849d-b5da932abe4d"
+  },
+  "edges": [
+    {
+      "to": "shrinebuilder",
+      "toName": "Shrinebuilder",
+      "toArea": "旧金山",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Al Cisneros・Chris Hakius",
+      "detail": "2 位乐手在这两支乐队都待过：Al Cisneros・Chris Hakius。",
+      "year": 2021,
+      "weight": 0.84
+    },
+    {
+      "to": "3rd-secret",
+      "toName": "3rd Secret",
+      "toArea": "西雅图",
+      "toYears": "2021–",
+      "type": "member",
+      "label": "Bubba Dupree",
+      "detail": "Bubba Dupree 在这两支乐队都待过。",
+      "year": 2026,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,106 @@
+{
+  "id": "hollywood-rose",
+  "mbid": "f7f66942-6841-4506-bdae-3acc866d6b41",
+  "name": "Hollywood Rose",
+  "area": "洛杉矶",
+  "years": "1983–1984",
+  "genres": [
+    "Hard Rock"
+  ],
+  "albums": [],
+  "intro": "ハリウッド・ローズ (Hollywood Rose)は、アメリカのグラムメタル・バンド。1983年にクリス・ウェバーを中心に結成され、アクセル・ローズ、トレイシー・ガンズらが在籍した。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f7f66942-6841-4506-bdae-3acc866d6b41"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Izzy Stradlin・Axl Rose・Rob Gardner",
+      "detail": "3 位乐手在这两支乐队都待过：Izzy Stradlin・Axl Rose・Rob Gardner。",
+      "year": 1985,
+      "weight": 0.95
+    },
+    {
+      "to": "l-a-guns",
+      "toName": "L.A. Guns",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Axl Rose・Rob Gardner",
+      "detail": "2 位乐手在这两支乐队都待过：Axl Rose・Rob Gardner。",
+      "year": 1984,
+      "weight": 0.84
+    },
+    {
+      "to": "london",
+      "toName": "London",
+      "toArea": "洛杉矶",
+      "toYears": "1978–",
+      "type": "member",
+      "label": "Izzy Stradlin",
+      "detail": "Izzy Stradlin 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "izzy-stradlin-and-the-ju-ju-hounds",
+      "toName": "Izzy Stradlin and the Ju Ju Hounds",
+      "toArea": "California",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Izzy Stradlin",
+      "detail": "Izzy Stradlin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "gak",
+      "toName": "GAK",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Axl Rose",
+      "detail": "Axl Rose 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "pyrrhus",
+      "toName": "Pyrrhus",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "Rob Gardner",
+      "detail": "Rob Gardner 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "rapidfire",
+      "toName": "Rapidfire",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "Axl Rose",
+      "detail": "Axl Rose 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-atoms",
+      "toName": "The Atoms",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Izzy Stradlin",
+      "detail": "Izzy Stradlin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

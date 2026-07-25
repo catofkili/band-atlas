@@ -1,0 +1,115 @@
+{
+  "id": "kings-of-chaos",
+  "mbid": "56396fbe-e455-4526-a5e4-2a8f9b01c435",
+  "name": "Kings of Chaos",
+  "area": "美国",
+  "years": "2012–",
+  "genres": [],
+  "albums": [],
+  "intro": "Kings of Chaos is a hard rock supergroup with international membership featuring a core lineup of drummer Matt Sorum, bassist Duff McKagan, and guitarist Gilby Clarke (all then formerly of Guns N' Roses), as well as revolving appearances from members of Def Leppard, Deep Purple, Aerosmith and more.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/56396fbe-e455-4526-a5e4-2a8f9b01c435"
+  },
+  "edges": [
+    {
+      "to": "the-cult",
+      "toName": "The Cult",
+      "toArea": "伦敦",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Billy Duffy",
+      "detail": "Billy Duffy 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "slash-featuring-myles-kennedy-and-the-conspirato",
+      "toName": "Slash featuring Myles Kennedy and the Conspirators",
+      "toArea": "美国",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Myles Kennedy",
+      "detail": "Myles Kennedy 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "circus-diablo",
+      "toName": "Circus Diablo",
+      "toArea": "洛杉矶",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "Billy Duffy",
+      "detail": "Billy Duffy 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "neurotic-outsiders",
+      "toName": "Neurotic Outsiders",
+      "toArea": "洛杉矶",
+      "toYears": "1995–1997",
+      "type": "member",
+      "label": "Steve Stevens",
+      "detail": "Steve Stevens 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "camp-freddy",
+      "toName": "Camp Freddy",
+      "toArea": "美国",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Chester Bennington",
+      "detail": "Chester Bennington 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "deadland-ritual",
+      "toName": "Deadland Ritual",
+      "toArea": "伦敦",
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Steve Stevens",
+      "detail": "Steve Stevens 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "gak",
+      "toName": "GAK",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Sebastian Bach",
+      "detail": "Sebastian Bach 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mick-fleetwood-and-friends",
+      "toName": "Mick Fleetwood and Friends",
+      "toArea": null,
+      "toYears": "2020–2020",
+      "type": "member",
+      "label": "Billy Gibbons",
+      "detail": "Billy Gibbons 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sound-city-players",
+      "toName": "Sound City Players",
+      "toArea": "美国",
+      "toYears": "2012–2013",
+      "type": "member",
+      "label": "Corey Taylor",
+      "detail": "Corey Taylor 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

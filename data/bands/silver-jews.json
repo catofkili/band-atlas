@@ -1,0 +1,132 @@
+{
+  "id": "silver-jews",
+  "mbid": "1bc2d696-c0e2-480d-87ed-17b2a82d7983",
+  "name": "Silver Jews",
+  "area": "Charlottesville",
+  "years": "1989–2009",
+  "genres": [
+    "Indie Rock",
+    "Folk Rock"
+  ],
+  "albums": [
+    {
+      "title": "Starlite Walker",
+      "year": 1994
+    },
+    {
+      "title": "The Natural Bridge",
+      "year": 1996
+    },
+    {
+      "title": "American Water",
+      "year": 1998
+    },
+    {
+      "title": "Bright Flight",
+      "year": 2001
+    },
+    {
+      "title": "Tanglewood Numbers",
+      "year": 2005
+    },
+    {
+      "title": "Lookout Mountain, Lookout Sea",
+      "year": 2008
+    }
+  ],
+  "intro": "Silver Jews were an American indie rock band from Hoboken, New Jersey, formed in 1989 by David Berman alongside Pavement members Stephen Malkmus and Bob Nastanovich.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1bc2d696-c0e2-480d-87ed-17b2a82d7983"
+  },
+  "edges": [
+    {
+      "to": "pavement",
+      "toName": "Pavement",
+      "toArea": "Stockton",
+      "toYears": "1989–2000",
+      "type": "member",
+      "label": "Stephen Malkmus・Bob Nastanovich・Steve West",
+      "detail": "3 位乐手在这两支乐队都待过：Stephen Malkmus・Bob Nastanovich・Steve West。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "member",
+      "label": "Paz Lenchantin",
+      "detail": "Paz Lenchantin 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Duane Denison",
+      "detail": "Duane Denison 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "a-perfect-circle",
+      "toName": "A Perfect Circle",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Paz Lenchantin",
+      "detail": "Paz Lenchantin 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "the-entrance-band",
+      "toName": "The Entrance Band",
+      "toArea": "芝加哥",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "Paz Lenchantin",
+      "detail": "Paz Lenchantin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "zwan",
+      "toName": "Zwan",
+      "toArea": "美国",
+      "toYears": "2001–2004",
+      "type": "member",
+      "label": "Paz Lenchantin",
+      "detail": "Paz Lenchantin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "happy-go-licky",
+      "toName": "Happy Go Licky",
+      "toArea": "华盛顿特区",
+      "toYears": "1987–1988",
+      "type": "member",
+      "label": "Mike Fellows",
+      "detail": "Mike Fellows 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    },
+    {
+      "to": "rites-of-spring",
+      "toName": "Rites of Spring",
+      "toArea": "华盛顿特区",
+      "toYears": "1983–1986",
+      "type": "member",
+      "label": "Mike Fellows",
+      "detail": "Mike Fellows 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

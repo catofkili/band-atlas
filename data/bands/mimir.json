@@ -1,0 +1,40 @@
+{
+  "id": "mimir",
+  "mbid": "df5281ca-c479-4b16-acc3-1b1a15f34501",
+  "name": "Mimir",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Mimir",
+      "year": 1990
+    },
+    {
+      "title": "Mimyriad",
+      "year": 1993
+    },
+    {
+      "title": "Mimir 3",
+      "year": 2000
+    }
+  ],
+  "intro": "Mimir is an experimental band comprising Edward Ka-Spel, Jim O'Rourke, Christoph Heeman, Seeman, and Andreas Martin.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/df5281ca-c479-4b16-acc3-1b1a15f34501"
+  },
+  "edges": [
+    {
+      "to": "plastic-palace-people",
+      "toName": "Plastic Palace People",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Christoph Heemann",
+      "detail": "Christoph Heemann 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

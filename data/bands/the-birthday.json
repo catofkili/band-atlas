@@ -1,0 +1,87 @@
+{
+  "id": "the-birthday",
+  "mbid": "ec4ed3f8-f36b-4042-bc74-04e31f6e150e",
+  "name": "The Birthday",
+  "area": "日本",
+  "years": "2005–2023",
+  "genres": [
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Rollers Romantics",
+      "year": 2006
+    },
+    {
+      "title": "TEARDROP",
+      "year": 2007
+    },
+    {
+      "title": "NIGHT ON FOOL",
+      "year": 2008
+    },
+    {
+      "title": "STAR BLOWS",
+      "year": 2010
+    },
+    {
+      "title": "I'M JUST A DOG",
+      "year": 2011
+    },
+    {
+      "title": "VISION",
+      "year": 2012
+    }
+  ],
+  "intro": "The Birthday是日本摇滚乐队，2006年结成。为日本环球音乐旗下艺人。",
+  "introLang": "zh",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ec4ed3f8-f36b-4042-bc74-04e31f6e150e"
+  },
+  "edges": [
+    {
+      "to": "thee-michelle-gun-elephant",
+      "toName": "thee michelle gun elephant",
+      "toArea": "东京",
+      "toYears": "1991–2003",
+      "type": "member",
+      "label": "チバユウスケ・クハラカズユキ",
+      "detail": "2 位乐手在这两支乐队都待过：チバユウスケ・クハラカズユキ。",
+      "year": 2006,
+      "weight": 0.84
+    },
+    {
+      "to": "rosso",
+      "toName": "ROSSO",
+      "toArea": "日本",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "チバユウスケ・イマイアキノブ",
+      "detail": "2 位乐手在这两支乐队都待过：チバユウスケ・イマイアキノブ。",
+      "year": 2006,
+      "weight": 0.84
+    },
+    {
+      "to": "raven",
+      "toName": "RAVEN",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "チバユウスケ",
+      "detail": "チバユウスケ 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "the-midwest-vikings",
+      "toName": "The Midwest Vikings",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "チバユウスケ",
+      "detail": "チバユウスケ 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    }
+  ]
+}

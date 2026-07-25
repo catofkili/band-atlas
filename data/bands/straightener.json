@@ -1,5 +1,6 @@
 {
   "id": "straightener",
+  "mbid": "ee94b47c-db73-4135-b3d6-deced74b94ba",
   "name": "ストレイテナー",
   "area": "东京",
   "years": "1998–",
@@ -8,7 +9,6 @@
     "Emo",
     "Post-punk"
   ],
-  "intro": "ホリエアツシ的乐队，从双人编制起步。2004 年日向秀和加入之后成为四人阵容，也由此接上了整个日本摇滚的人脉网。",
   "albums": [
     {
       "title": "LOST WORLD'S ANTHOLOGY",
@@ -27,6 +27,8 @@
       "year": 2008
     }
   ],
+  "intro": "ホリエアツシ的乐队，从双人编制起步。2004 年日向秀和加入之后成为四人阵容，也由此接上了整个日本摇滚的人脉网。",
+  "introLang": "ja",
   "tracks": [
     "TRAVELING GARGOYLE",
     "シーグラス",
@@ -34,7 +36,7 @@
     "KILLER TUNE"
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%86%E3%83%8A%E3%83%BC&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/ee94b47c-db73-4135-b3d6-deced74b94ba"
   },
   "edges": [
     {
@@ -80,6 +82,28 @@
       "detail": "同属 2000 年代把 live house 场景推向大场馆的一批乐队。",
       "year": null,
       "weight": 0.55
+    },
+    {
+      "to": "the-predators",
+      "toName": "THE PREDATORS",
+      "toArea": "日本",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "ナカヤマシンペイ",
+      "detail": "ナカヤマシンペイ 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "radio-bootsy",
+      "toName": "Radio Bootsy",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "ホリエアツシ",
+      "detail": "ホリエアツシ 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
     }
   ]
 }

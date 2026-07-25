@@ -1,0 +1,69 @@
+{
+  "id": "dale-crover-band",
+  "mbid": "e146114e-325a-4d79-923a-ff899c7e3feb",
+  "name": "Dale Crover Band",
+  "area": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e146114e-325a-4d79-923a-ff899c7e3feb"
+  },
+  "edges": [
+    {
+      "to": "anywhere",
+      "toName": "Anywhere",
+      "toArea": "洛杉矶",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Toshi Kasai",
+      "detail": "Toshi Kasai 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "melvins",
+      "toName": "Melvins",
+      "toArea": "Montesano",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "loser",
+      "toName": "Loser",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "broken-bat",
+      "toName": "Broken Bat",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "north-american-hallowe-en-prevention-initiative",
+      "toName": "North American Hallowe’en Prevention Initiative",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

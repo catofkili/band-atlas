@@ -1,0 +1,36 @@
+{
+  "id": "the-million-dollar-bashers",
+  "mbid": "cd836447-ce1b-48de-a512-a86d6df96676",
+  "name": "The Million Dollar Bashers",
+  "area": "美国",
+  "years": "2007–2007",
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cd836447-ce1b-48de-a512-a86d6df96676"
+  },
+  "edges": [
+    {
+      "to": "the-john-doe-thing",
+      "toName": "The John Doe Thing",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "Smokey Hormel",
+      "detail": "Smokey Hormel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "loser",
+      "toName": "Loser",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Smokey Hormel",
+      "detail": "Smokey Hormel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

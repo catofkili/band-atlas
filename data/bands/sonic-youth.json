@@ -1,5 +1,6 @@
 {
   "id": "sonic-youth",
+  "mbid": "5cbef01b-cc35-4f52-af7b-d0df0c4f61b9",
   "name": "Sonic Youth",
   "area": "纽约",
   "years": "1981–2011",
@@ -8,7 +9,6 @@
     "Alternative Rock",
     "No Wave"
   ],
-  "intro": "变则调弦、螺丝刀插进琴颈、把噪音当作旋律来写。三十年里始终站在另类摇滚与实验音乐的接缝上。",
   "albums": [
     {
       "title": "Daydream Nation",
@@ -23,6 +23,8 @@
       "year": 1992
     }
   ],
+  "intro": "变则调弦、螺丝刀插进琴颈、把噪音当作旋律来写。三十年里始终站在另类摇滚与实验音乐的接缝上。",
+  "introLang": "zh",
   "tracks": [
     "Teen Age Riot",
     "Kool Thing",
@@ -30,7 +32,7 @@
     "100%"
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=Sonic%20Youth&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/5cbef01b-cc35-4f52-af7b-d0df0c4f61b9"
   },
   "edges": [
     {
@@ -65,6 +67,149 @@
       "detail": "噪音与不谐和音程的用法上有清晰的继承关系。",
       "year": null,
       "weight": 0.65
+    },
+    {
+      "to": "free-kitten",
+      "toName": "Free Kitten",
+      "toArea": "美国",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Kim Gordon・Mark Ibold",
+      "detail": "2 位乐手在这两支乐队都待过：Kim Gordon・Mark Ibold。",
+      "year": 1981,
+      "weight": 0.84
+    },
+    {
+      "to": "pavement",
+      "toName": "Pavement",
+      "toArea": "Stockton",
+      "toYears": "1989–2000",
+      "type": "member",
+      "label": "Mark Ibold",
+      "detail": "Mark Ibold 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "tito-tarantula",
+      "toName": "Tito & Tarantula",
+      "toArea": "洛杉矶",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Richard Edson",
+      "detail": "Richard Edson 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "dustdevils",
+      "toName": "Dustdevils",
+      "toArea": "利兹",
+      "toYears": null,
+      "type": "member",
+      "label": "Mark Ibold",
+      "detail": "Mark Ibold 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "konk",
+      "toName": "Konk",
+      "toArea": "纽约",
+      "toYears": "1980–1988",
+      "type": "member",
+      "label": "Richard Edson",
+      "detail": "Richard Edson 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "body-head",
+      "toName": "Body/Head",
+      "toArea": "Northampton",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "ciccone-youth",
+      "toName": "Ciccone Youth",
+      "toArea": "纽约",
+      "toYears": "1986–1988",
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "glitterbust",
+      "toName": "Glitterbust",
+      "toArea": "美国",
+      "toYears": "2015–",
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "harry-crews",
+      "toName": "Harry Crews",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "the-offs",
+      "toName": "The Offs",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Richard Edson",
+      "detail": "Richard Edson 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "kurt-hoffman-s-band-of-weeds",
+      "toName": "Kurt Hoffman's Band of Weeds",
+      "toArea": "美国",
+      "toYears": "1991–1993",
+      "type": "member",
+      "label": "Anne DeMarinis",
+      "detail": "Anne DeMarinis 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "lucky-sperms",
+      "toName": "Lucky Sperms",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "mirror-dash",
+      "toName": "Mirror/Dash",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Kim Gordon",
+      "detail": "Kim Gordon 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
     }
   ]
 }

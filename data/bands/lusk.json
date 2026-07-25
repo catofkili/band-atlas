@@ -1,0 +1,76 @@
+{
+  "id": "lusk",
+  "mbid": "05fdd3fb-6fe9-4b81-926e-f6d52dd1e737",
+  "name": "Lusk",
+  "area": "California",
+  "years": "1995–1998",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Free Mars",
+      "year": 1997
+    }
+  ],
+  "intro": "ラスクは、アメリカのサイケデリック・ロック・バンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/05fdd3fb-6fe9-4b81-926e-f6d52dd1e737"
+  },
+  "edges": [
+    {
+      "to": "replicants",
+      "toName": "Replicants",
+      "toArea": "美国",
+      "toYears": "1995–1996",
+      "type": "member",
+      "label": "Chris Pitman・Paul D’Amour・Greg Edwards",
+      "detail": "3 位乐手在这两支乐队都待过：Chris Pitman・Paul D’Amour・Greg Edwards。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Chris Pitman",
+      "detail": "Chris Pitman 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "sextapes",
+      "toName": "SexTapes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Chris Pitman",
+      "detail": "Chris Pitman 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "beatrazr",
+      "toName": "Beatrazr",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Chris Pitman",
+      "detail": "Chris Pitman 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "zaum",
+      "toName": "Zaum",
+      "toArea": "洛杉矶",
+      "toYears": "1995–1996",
+      "type": "member",
+      "label": "Chris Pitman",
+      "detail": "Chris Pitman 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

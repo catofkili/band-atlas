@@ -62,9 +62,12 @@ export function buildFocusCard(band) {
   }
 
   // 全部关系都列在这里：屏幕边缘放不下的、以及触屏上没有悬停可用的，都从这里走。
+  // 枢纽乐队能有几十条，一次全塞进 DOM 既重又读不完，截断到最相关的一批。
+  const REL_LIMIT = 30;
+  const listed = band.edges.slice(0, REL_LIMIT);
   const relSec = section(`全部关系 ${band.edges.length}`);
   const rels = el('ul', 'rels');
-  for (const e of band.edges) {
+  for (const e of listed) {
     const li = el('li');
     const btn = el('button', `rel-row rel-${e.type}`);
     btn.type = 'button';
@@ -79,6 +82,11 @@ export function buildFocusCard(band) {
     rels.append(li);
   }
   relSec.append(rels);
+  if (band.edges.length > listed.length) {
+    relSec.append(
+      el('p', 'rels__more', `另有 ${band.edges.length - listed.length} 条关系未列出`)
+    );
+  }
   body.append(relSec);
 
   card.append(body);

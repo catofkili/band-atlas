@@ -1,0 +1,46 @@
+{
+  "id": "walt-mink",
+  "mbid": "76d721ac-3eff-4b6d-8a2e-f2dacd2209a3",
+  "name": "Walt Mink",
+  "area": "Saint Paul",
+  "years": "1989–1997",
+  "genres": [
+    "Alternative Rock"
+  ],
+  "albums": [
+    {
+      "title": "Miss Happiness",
+      "year": 1992
+    },
+    {
+      "title": "Bareback Ride",
+      "year": 1993
+    },
+    {
+      "title": "El Producto",
+      "year": 1996
+    },
+    {
+      "title": "Colossus",
+      "year": 1997
+    }
+  ],
+  "intro": "Walt Mink were an American alternative rock power trio from St. Paul, Minnesota.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/76d721ac-3eff-4b6d-8a2e-f2dacd2209a3"
+  },
+  "edges": [
+    {
+      "to": "dumb-angel",
+      "toName": "Dumb Angel",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

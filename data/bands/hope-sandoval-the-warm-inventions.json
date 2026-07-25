@@ -1,0 +1,66 @@
+{
+  "id": "hope-sandoval-the-warm-inventions",
+  "mbid": "23f527e1-74ae-4f7c-94f3-4a5d5f379c51",
+  "name": "Hope Sandoval & the Warm Inventions",
+  "area": "美国",
+  "years": "2000–",
+  "genres": [
+    "Dream Pop",
+    "Alternative Country",
+    "Contemporary Folk"
+  ],
+  "albums": [
+    {
+      "title": "Bavarian Fruit Bread",
+      "year": 2001
+    },
+    {
+      "title": "Through the Devil Softly",
+      "year": 2009
+    },
+    {
+      "title": "Until the Hunter",
+      "year": 2016
+    }
+  ],
+  "intro": "Hope Sandoval & The Warm Inventions are an American-Irish dream pop band comprising Hope Sandoval of Mazzy Star and Colm Ó Cíosóig of My Bloody Valentine.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/23f527e1-74ae-4f7c-94f3-4a5d5f379c51"
+  },
+  "edges": [
+    {
+      "to": "my-bloody-valentine",
+      "toName": "My Bloody Valentine",
+      "toArea": "都柏林 / 伦敦",
+      "toYears": "1983–1997 / 2007–",
+      "type": "member",
+      "label": "Colm Ó Cíosóig",
+      "detail": "Colm Ó Cíosóig 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "mazzy-star",
+      "toName": "Mazzy Star",
+      "toArea": "Santa Monica",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Colm Ó Cíosóig・Hope Sandoval",
+      "detail": "2 位乐手在这两支乐队都待过：Colm Ó Cíosóig・Hope Sandoval。",
+      "year": 2012,
+      "weight": 0.84
+    },
+    {
+      "to": "the-complex",
+      "toName": "The Complex",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Colm Ó Cíosóig",
+      "detail": "Colm Ó Cíosóig 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

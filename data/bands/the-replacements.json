@@ -1,0 +1,133 @@
+{
+  "id": "the-replacements",
+  "mbid": "dc0d05ce-2f47-4962-b4fa-8631a0a51987",
+  "name": "The Replacements",
+  "area": "明尼阿波利斯",
+  "years": "1979–1991",
+  "genres": [
+    "Alternative Rock",
+    "Punk Rock",
+    "Power Pop"
+  ],
+  "albums": [
+    {
+      "title": "Sorry Ma, Forgot to Take Out the Trash",
+      "year": 1981
+    },
+    {
+      "title": "Hootenanny",
+      "year": 1983
+    },
+    {
+      "title": "Let It Be",
+      "year": 1984
+    },
+    {
+      "title": "Tim",
+      "year": 1985
+    },
+    {
+      "title": "Pleased to Meet Me",
+      "year": 1987
+    },
+    {
+      "title": "Don’t Tell a Soul",
+      "year": 1989
+    }
+  ],
+  "intro": "ザ・リプレイスメンツは、ミネソタ州ミネアポリスのロックバンドである。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/dc0d05ce-2f47-4962-b4fa-8631a0a51987"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "bash-pop",
+      "toName": "Bash & Pop",
+      "toArea": "明尼阿波利斯",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "cowboys-in-the-campfire",
+      "toName": "Cowboys in the Campfire",
+      "toArea": "美国",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "perfect",
+      "toName": "Perfect",
+      "toArea": "明尼阿波利斯",
+      "toYears": "1995–1998",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-i-don-t-cares",
+      "toName": "The I Don't Cares",
+      "toArea": null,
+      "toYears": "2015–",
+      "type": "member",
+      "label": "Paul Westerberg",
+      "detail": "Paul Westerberg 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "l-a-m-f",
+      "toName": "L.A.M.F.",
+      "toArea": "纽约",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "latter-revelation-company-singers",
+      "toName": "Latter Revelation Company Singers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-jacks",
+      "toName": "The Jacks",
+      "toArea": "Tulsa",
+      "toYears": null,
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

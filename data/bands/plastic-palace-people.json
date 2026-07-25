@@ -1,0 +1,30 @@
+{
+  "id": "plastic-palace-people",
+  "mbid": "464e2a4d-a7b2-4768-91fd-7db54dab4bbe",
+  "name": "Plastic Palace People",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "From the Host of Latecomers",
+      "year": 2020
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/464e2a4d-a7b2-4768-91fd-7db54dab4bbe"
+  },
+  "edges": [
+    {
+      "to": "mimir",
+      "toName": "Mimir",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Christoph Heemann",
+      "detail": "Christoph Heemann 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

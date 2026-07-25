@@ -1,0 +1,100 @@
+{
+  "id": "nick-cave-the-bad-seeds",
+  "mbid": "172e1f1a-504d-4488-b053-6344ba63e6d0",
+  "name": "Nick Cave & the Bad Seeds",
+  "area": "墨尔本",
+  "years": "1983–",
+  "genres": [
+    "Alternative Rock",
+    "Post-Punk",
+    "Punk Blues"
+  ],
+  "albums": [
+    {
+      "title": "From Her to Eternity",
+      "year": 1984
+    },
+    {
+      "title": "The Firstborn Is Dead",
+      "year": 1985
+    },
+    {
+      "title": "Kicking Against the Pricks",
+      "year": 1986
+    },
+    {
+      "title": "Your Funeral… My Trial",
+      "year": 1986
+    },
+    {
+      "title": "Tender Prey",
+      "year": 1988
+    },
+    {
+      "title": "The Good Son",
+      "year": 1990
+    }
+  ],
+  "intro": "Nick Cave and the Bad Seeds are an Australian rock band formed in Melbourne in 1983 by lead vocalist Nick Cave, multi-instrumentalist Mick Harvey and German guitarist-vocalist Blixa Bargeld.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/172e1f1a-504d-4488-b053-6344ba63e6d0"
+  },
+  "edges": [
+    {
+      "to": "grinderman",
+      "toName": "Grinderman",
+      "toArea": "英国",
+      "toYears": "2006–2011",
+      "type": "member",
+      "label": "Nick Cave・Martyn P. Casey・Warren Ellis",
+      "detail": "3 位乐手在这两支乐队都待过：Nick Cave・Martyn P. Casey・Warren Ellis。",
+      "year": 2006,
+      "weight": 0.95
+    },
+    {
+      "to": "the-cramps",
+      "toName": "The Cramps",
+      "toArea": "纽约",
+      "toYears": "1976–2009",
+      "type": "member",
+      "label": "Kid Congo Powers",
+      "detail": "Kid Congo Powers 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "knoxville-girls",
+      "toName": "Knoxville Girls",
+      "toArea": "纽约",
+      "toYears": "1999–2001",
+      "type": "member",
+      "label": "Kid Congo Powers",
+      "detail": "Kid Congo Powers 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "wolfmanhattan-project",
+      "toName": "Wolfmanhattan Project",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Kid Congo Powers",
+      "detail": "Kid Congo Powers 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "the-bad-seeds",
+      "toName": "The Bad Seeds",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

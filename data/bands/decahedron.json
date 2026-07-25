@@ -1,0 +1,67 @@
+{
+  "id": "decahedron",
+  "mbid": "c23d24ea-3a57-4902-84bc-78f6f9440b31",
+  "name": "Decahedron",
+  "area": "美国",
+  "years": "2002–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Disconnection Imminent",
+      "year": 2004
+    },
+    {
+      "title": "Origins & Deconstruction (2003-2005) + Live @ WPRK (02/09/2004)",
+      "year": 2015
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c23d24ea-3a57-4902-84bc-78f6f9440b31"
+  },
+  "edges": [
+    {
+      "to": "fugazi",
+      "toName": "Fugazi",
+      "toArea": "华盛顿特区",
+      "toYears": "1987–2003",
+      "type": "member",
+      "label": "Joe Lally",
+      "detail": "Joe Lally 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "the-messthetics",
+      "toName": "The Messthetics",
+      "toArea": "华盛顿特区",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "Joe Lally",
+      "detail": "Joe Lally 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ataxia",
+      "toName": "Ataxia",
+      "toArea": "洛杉矶",
+      "toYears": "2004–2004",
+      "type": "member",
+      "label": "Joe Lally",
+      "detail": "Joe Lally 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "coriky",
+      "toName": "Coriky",
+      "toArea": "华盛顿特区",
+      "toYears": "2015–",
+      "type": "member",
+      "label": "Joe Lally",
+      "detail": "Joe Lally 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

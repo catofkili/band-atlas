@@ -1,0 +1,104 @@
+{
+  "id": "filthy-friends",
+  "mbid": "f319b299-2d27-4b47-af56-a5747d7ac0f3",
+  "name": "Filthy Friends",
+  "area": "波特兰",
+  "years": null,
+  "genres": [
+    "Indie Rock"
+  ],
+  "albums": [
+    {
+      "title": "Invitation",
+      "year": 2017
+    },
+    {
+      "title": "Emerald Valley",
+      "year": 2019
+    }
+  ],
+  "intro": "Filthy Friends is an alt-rock supergroup based in Portland, Oregon.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f319b299-2d27-4b47-af56-a5747d7ac0f3"
+  },
+  "edges": [
+    {
+      "to": "fastbacks",
+      "toName": "Fastbacks",
+      "toArea": "西雅图",
+      "toYears": "1979–2002",
+      "type": "member",
+      "label": "Kurt Bloch",
+      "detail": "Kurt Bloch 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Bill Rieflin",
+      "detail": "Bill Rieflin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "swans",
+      "toName": "Swans",
+      "toArea": "纽约",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Bill Rieflin",
+      "detail": "Bill Rieflin 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "the-bells",
+      "toName": "The Bells",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Bill Rieflin",
+      "detail": "Bill Rieflin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sweet-75",
+      "toName": "Sweet 75",
+      "toArea": "西雅图",
+      "toYears": "1995–2000",
+      "type": "member",
+      "label": "Bill Rieflin",
+      "detail": "Bill Rieflin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "pailhead",
+      "toName": "Pailhead",
+      "toArea": "美国",
+      "toYears": "1988–1988",
+      "type": "member",
+      "label": "Bill Rieflin",
+      "detail": "Bill Rieflin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-new-original-sonic-sound",
+      "toName": "The New Original Sonic Sound",
+      "toArea": "西雅图",
+      "toYears": null,
+      "type": "member",
+      "label": "Scott McCaughey",
+      "detail": "Scott McCaughey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

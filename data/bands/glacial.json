@@ -1,0 +1,30 @@
+{
+  "id": "glacial",
+  "mbid": "ac0f79b4-3ac9-4146-ba1c-cd9ee21dd3f8",
+  "name": "Glacial",
+  "area": "纽约",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "On Jones Beach",
+      "year": 2012
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ac0f79b4-3ac9-4146-ba1c-cd9ee21dd3f8"
+  },
+  "edges": [
+    {
+      "to": "afternoon-saints",
+      "toName": "Afternoon Saints",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "David Watson",
+      "detail": "David Watson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

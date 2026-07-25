@@ -1,0 +1,133 @@
+{
+  "id": "soundgarden",
+  "mbid": "153c9281-268f-4cf3-8938-f5a4593e5df4",
+  "name": "Soundgarden",
+  "area": "西雅图",
+  "years": "1984–2017",
+  "genres": [
+    "Grunge",
+    "Alternative Rock",
+    "Alternative Metal"
+  ],
+  "albums": [
+    {
+      "title": "Ultramega OK",
+      "year": 1988
+    },
+    {
+      "title": "Louder Than Love",
+      "year": 1989
+    },
+    {
+      "title": "Badmotorfinger",
+      "year": 1991
+    },
+    {
+      "title": "Superunknown",
+      "year": 1994
+    },
+    {
+      "title": "Gardenheads",
+      "year": 1994
+    },
+    {
+      "title": "Down on the Upside",
+      "year": 1996
+    }
+  ],
+  "intro": "声音花园 是一支美国的摇滚乐队，于1984年在华盛顿州的西雅图组建，最初的阵容是主音兼鼓手克里斯·康奈尔、吉他手金·泰伊尔、贝斯手山本宏。",
+  "introLang": "zh",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/153c9281-268f-4cf3-8938-f5a4593e5df4"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "member",
+      "label": "Jason Everman",
+      "detail": "Jason Everman 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "3rd-secret",
+      "toName": "3rd Secret",
+      "toArea": "西雅图",
+      "toYears": "2021–",
+      "type": "member",
+      "label": "Matt Cameron・Kim Thayil",
+      "detail": "2 位乐手在这两支乐队都待过：Matt Cameron・Kim Thayil。",
+      "year": 1986,
+      "weight": 0.84
+    },
+    {
+      "to": "mc50",
+      "toName": "MC50",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Matt Cameron・Kim Thayil",
+      "detail": "2 位乐手在这两支乐队都待过：Matt Cameron・Kim Thayil。",
+      "year": 1986,
+      "weight": 0.84
+    },
+    {
+      "to": "queens-of-the-stone-age",
+      "toName": "Queens of the Stone Age",
+      "toArea": "Palm Desert",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Matt Cameron",
+      "detail": "Matt Cameron 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "old",
+      "toName": "Old",
+      "toArea": "New Jersey",
+      "toYears": "1986–2002",
+      "type": "member",
+      "label": "Jason Everman",
+      "detail": "Jason Everman 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "desert-sessions",
+      "toName": "Desert Sessions",
+      "toArea": "Palm Desert",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Ben Shepherd",
+      "detail": "Ben Shepherd 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "mind-funk",
+      "toName": "Mind Funk",
+      "toArea": "Orange County",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Jason Everman",
+      "detail": "Jason Everman 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-no-w-t-o-combo",
+      "toName": "The No W.T.O. Combo",
+      "toArea": "美国",
+      "toYears": "1999–1999",
+      "type": "member",
+      "label": "Kim Thayil",
+      "detail": "Kim Thayil 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    }
+  ]
+}

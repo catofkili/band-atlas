@@ -1,0 +1,30 @@
+{
+  "id": "clinton",
+  "mbid": "89ac338b-98a4-4e8c-815c-f3c987c9ee96",
+  "name": "Clinton",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Disco and the Halfway to Discontent",
+      "year": 1999
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96"
+  },
+  "edges": [
+    {
+      "to": "cornershop",
+      "toName": "Cornershop",
+      "toArea": "Leicester",
+      "toYears": "1991–",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

@@ -1,0 +1,52 @@
+{
+  "id": "southern-fly",
+  "mbid": "8515f3fc-d9d1-4c97-8513-849a1ee31369",
+  "name": "Southern Fly",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "High",
+      "year": 2000
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8515f3fc-d9d1-4c97-8513-849a1ee31369"
+  },
+  "edges": [
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "member",
+      "label": "Gem Archer",
+      "detail": "Gem Archer 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "beady-eye",
+      "toName": "Beady Eye",
+      "toArea": "曼彻斯特",
+      "toYears": "2009–2014",
+      "type": "member",
+      "label": "Gem Archer",
+      "detail": "Gem Archer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "heavy-stereo",
+      "toName": "Heavy Stereo",
+      "toArea": "Durham",
+      "toYears": "1995–1996",
+      "type": "member",
+      "label": "Gem Archer",
+      "detail": "Gem Archer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

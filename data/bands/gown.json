@@ -1,0 +1,25 @@
+{
+  "id": "gown",
+  "mbid": "4f83b34e-7eaa-4691-bdc8-afa90806cbca",
+  "name": "Gown",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4f83b34e-7eaa-4691-bdc8-afa90806cbca"
+  },
+  "edges": [
+    {
+      "to": "queens-of-the-stone-age",
+      "toName": "Queens of the Stone Age",
+      "toArea": "Palm Desert",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

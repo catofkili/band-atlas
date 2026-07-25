@@ -1,0 +1,80 @@
+{
+  "id": "rites-of-spring",
+  "mbid": "b2ff1a6d-9198-4646-b068-8965242d245b",
+  "name": "Rites of Spring",
+  "area": "华盛顿特区",
+  "years": "1983–1986",
+  "genres": [
+    "Emo",
+    "Emocore",
+    "Post-Hardcore"
+  ],
+  "albums": [
+    {
+      "title": "Rites of Spring",
+      "year": 1985
+    }
+  ],
+  "intro": "Rites of Spring是一个美国华盛顿特区的后硬蕊乐团，以他们富有活力的表演闻名，活跃与1980年中期。",
+  "introLang": "zh",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b2ff1a6d-9198-4646-b068-8965242d245b"
+  },
+  "edges": [
+    {
+      "to": "happy-go-licky",
+      "toName": "Happy Go Licky",
+      "toArea": "华盛顿特区",
+      "toYears": "1987–1988",
+      "type": "member",
+      "label": "Guy Picciotto・Mike Fellows・Eddie Janney",
+      "detail": "3 位乐手在这两支乐队都待过：Guy Picciotto・Mike Fellows・Eddie Janney。",
+      "year": 1987,
+      "weight": 0.95
+    },
+    {
+      "to": "fugazi",
+      "toName": "Fugazi",
+      "toArea": "华盛顿特区",
+      "toYears": "1987–2003",
+      "type": "member",
+      "label": "Guy Picciotto",
+      "detail": "Guy Picciotto 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "one-last-wish",
+      "toName": "One Last Wish",
+      "toArea": null,
+      "toYears": "1986–1987",
+      "type": "member",
+      "label": "Guy Picciotto・Eddie Janney",
+      "detail": "2 位乐手在这两支乐队都待过：Guy Picciotto・Eddie Janney。",
+      "year": 1986,
+      "weight": 0.84
+    },
+    {
+      "to": "silver-jews",
+      "toName": "Silver Jews",
+      "toArea": "Charlottesville",
+      "toYears": "1989–2009",
+      "type": "member",
+      "label": "Mike Fellows",
+      "detail": "Mike Fellows 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "skewbald",
+      "toName": "Skewbald",
+      "toArea": "美国",
+      "toYears": "1981–1981",
+      "type": "member",
+      "label": "Eddie Janney",
+      "detail": "Eddie Janney 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    }
+  ]
+}

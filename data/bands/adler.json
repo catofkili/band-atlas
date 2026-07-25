@@ -1,0 +1,78 @@
+{
+  "id": "adler",
+  "mbid": "d2b89c0c-89fa-42a1-b36b-59c99653fefd",
+  "name": "Adler",
+  "area": "美国",
+  "years": null,
+  "genres": [
+    "Hard Rock"
+  ],
+  "albums": [
+    {
+      "title": "Back From the Dead",
+      "year": 2012
+    }
+  ],
+  "intro": "Adler was an American hard rock supergroup from Los Angeles, California, formed in 2012 by former Guns N' Roses drummer Steven Adler.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d2b89c0c-89fa-42a1-b36b-59c99653fefd"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Steven Adler",
+      "detail": "Steven Adler 在这两支乐队都待过。",
+      "year": 1985,
+      "weight": 0.62
+    },
+    {
+      "to": "bulletboys",
+      "toName": "BulletBoys",
+      "toArea": "洛杉矶",
+      "toYears": "1986–",
+      "type": "member",
+      "label": "Steven Adler",
+      "detail": "Steven Adler 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "l-a-guns",
+      "toName": "L.A. Guns",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Jacob Bunton",
+      "detail": "Jacob Bunton 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "adler-s-appetite",
+      "toName": "Adler’s Appetite",
+      "toArea": "洛杉矶",
+      "toYears": "2003–2011",
+      "type": "member",
+      "label": "Steven Adler",
+      "detail": "Steven Adler 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "road-crew",
+      "toName": "Road Crew",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steven Adler",
+      "detail": "Steven Adler 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

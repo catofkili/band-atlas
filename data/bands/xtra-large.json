@@ -1,0 +1,30 @@
+{
+  "id": "xtra-large",
+  "mbid": "8ebcdee1-67ed-432d-948b-0f428c6e6f35",
+  "name": "Xtra Large",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "NOWiEATthem",
+      "year": 1992
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8ebcdee1-67ed-432d-948b-0f428c6e6f35"
+  },
+  "edges": [
+    {
+      "to": "the-vandals",
+      "toName": "The Vandals",
+      "toArea": "Huntington Beach",
+      "toYears": "1980–",
+      "type": "member",
+      "label": "Warren Fitzgerald",
+      "detail": "Warren Fitzgerald 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    }
+  ]
+}

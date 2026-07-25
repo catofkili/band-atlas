@@ -1,0 +1,36 @@
+{
+  "id": "the-bona-fide-band",
+  "mbid": "843db60f-56ec-44a6-8805-27a1ec077bbb",
+  "name": "The Bona Fide Band",
+  "area": "西雅图",
+  "years": "2024–",
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/843db60f-56ec-44a6-8805-27a1ec077bbb"
+  },
+  "edges": [
+    {
+      "to": "3rd-secret",
+      "toName": "3rd Secret",
+      "toArea": "西雅图",
+      "toYears": "2021–",
+      "type": "member",
+      "label": "Jennifer Johnson・Jillian Raye",
+      "detail": "2 位乐手在这两支乐队都待过：Jennifer Johnson・Jillian Raye。",
+      "year": 2024,
+      "weight": 0.84
+    },
+    {
+      "to": "giants-in-the-trees",
+      "toName": "Giants in the Trees",
+      "toArea": "Wahkiakum County",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "Jillian Raye",
+      "detail": "Jillian Raye 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

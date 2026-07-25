@@ -1,0 +1,49 @@
+{
+  "id": "slash-s-blues-ball",
+  "mbid": "c5902edd-de59-43cc-a93f-07ada835fe86",
+  "name": "Slash’s Blues Ball",
+  "area": "美国",
+  "years": "1996–1998",
+  "genres": [],
+  "albums": [],
+  "intro": "Slash's Blues Ball was an American blues rock band that formed in Los Angeles, California in 1996.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c5902edd-de59-43cc-a93f-07ada835fe86"
+  },
+  "edges": [
+    {
+      "to": "weezer",
+      "toName": "Weezer",
+      "toArea": "洛杉矶",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Bobby Schneck",
+      "detail": "Bobby Schneck 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    },
+    {
+      "to": "slash-s-snakepit",
+      "toName": "Slash’s Snakepit",
+      "toArea": "洛杉矶",
+      "toYears": "1994–2002",
+      "type": "member",
+      "label": "Johnny Griparic",
+      "detail": "Johnny Griparic 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    },
+    {
+      "to": "col-parker",
+      "toName": "Col. Parker",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Teddy Andreadis",
+      "detail": "Teddy Andreadis 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    }
+  ]
+}

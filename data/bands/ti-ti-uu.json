@@ -1,0 +1,36 @@
+{
+  "id": "ti-ti-uu",
+  "mbid": "534ecdc4-9063-4aa1-8b28-1526f1920776",
+  "name": "ti-ti.uu",
+  "area": "日本",
+  "years": "2016–",
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/534ecdc4-9063-4aa1-8b28-1526f1920776"
+  },
+  "edges": [
+    {
+      "to": "ling-tosite-sigure",
+      "toName": "凛として時雨",
+      "toArea": "埼玉",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "345",
+      "detail": "345 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "geek-sleep-sheep",
+      "toName": "geek sleep sheep",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "345",
+      "detail": "345 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

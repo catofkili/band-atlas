@@ -1,0 +1,62 @@
+{
+  "id": "dustdevils",
+  "mbid": "4a9d8c32-a22c-4712-8fa2-286d78f9458f",
+  "name": "Dustdevils",
+  "area": "利兹",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Rhenyards Grin",
+      "year": 1987
+    },
+    {
+      "title": "Gutter Light",
+      "year": 1988
+    },
+    {
+      "title": "Struggling Electric and Chemical",
+      "year": 1990
+    }
+  ],
+  "intro": "The Dustdevils (sometimes styled as DustDevils, Dust Devils, or DUSTdevils) were a noise rock band based out of New York City for most of its existence.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4a9d8c32-a22c-4712-8fa2-286d78f9458f"
+  },
+  "edges": [
+    {
+      "to": "sonic-youth",
+      "toName": "Sonic Youth",
+      "toArea": "纽约",
+      "toYears": "1981–2011",
+      "type": "member",
+      "label": "Mark Ibold",
+      "detail": "Mark Ibold 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "pavement",
+      "toName": "Pavement",
+      "toArea": "Stockton",
+      "toYears": "1989–2000",
+      "type": "member",
+      "label": "Mark Ibold",
+      "detail": "Mark Ibold 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "free-kitten",
+      "toName": "Free Kitten",
+      "toArea": "美国",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Mark Ibold",
+      "detail": "Mark Ibold 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    }
+  ]
+}

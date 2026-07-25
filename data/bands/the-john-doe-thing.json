@@ -1,0 +1,60 @@
+{
+  "id": "the-john-doe-thing",
+  "mbid": "9b6521b9-d689-4ffc-ba3e-9f61ad557d41",
+  "name": "The John Doe Thing",
+  "area": "洛杉矶",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Kissingsohard",
+      "year": 1995
+    },
+    {
+      "title": "Freedom Is..",
+      "year": 2000
+    },
+    {
+      "title": "For The Best Of Us",
+      "year": 2006
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9b6521b9-d689-4ffc-ba3e-9f61ad557d41"
+  },
+  "edges": [
+    {
+      "to": "izzy-stradlin-and-the-ju-ju-hounds",
+      "toName": "Izzy Stradlin and the Ju Ju Hounds",
+      "toArea": "California",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Charlie Quintana",
+      "detail": "Charlie Quintana 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "loser",
+      "toName": "Loser",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Smokey Hormel",
+      "detail": "Smokey Hormel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-million-dollar-bashers",
+      "toName": "The Million Dollar Bashers",
+      "toArea": "美国",
+      "toYears": "2007–2007",
+      "type": "member",
+      "label": "Smokey Hormel",
+      "detail": "Smokey Hormel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

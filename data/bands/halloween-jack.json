@@ -1,0 +1,25 @@
+{
+  "id": "halloween-jack",
+  "mbid": "a857f296-bef8-4809-ba28-707076a2bb38",
+  "name": "Halloween Jack",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a857f296-bef8-4809-ba28-707076a2bb38"
+  },
+  "edges": [
+    {
+      "to": "slash-s-snakepit",
+      "toName": "Slash’s Snakepit",
+      "toArea": "洛杉矶",
+      "toYears": "1994–2002",
+      "type": "member",
+      "label": "Eric Dover",
+      "detail": "Eric Dover 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,122 @@
+{
+  "id": "melvins",
+  "mbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
+  "name": "Melvins",
+  "area": "Montesano",
+  "years": "1983–",
+  "genres": [
+    "Sludge Metal",
+    "Stoner Metal",
+    "Grunge"
+  ],
+  "albums": [
+    {
+      "title": "Gluey Porch Treatments",
+      "year": 1987
+    },
+    {
+      "title": "Ozma",
+      "year": 1989
+    },
+    {
+      "title": "Bullhead",
+      "year": 1991
+    },
+    {
+      "title": "Lysol",
+      "year": 1992
+    },
+    {
+      "title": "Houdini",
+      "year": 1993
+    },
+    {
+      "title": "Stoner Witch",
+      "year": 1994
+    }
+  ],
+  "intro": "メルヴィンズ (Melvins)は、アメリカ合衆国出身のロックバンド。基本的にトリオ編成で活動しているが、2006年から2016年までは2人のドラマーを擁する4ピース・バンドとして活動。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb"
+  },
+  "edges": [
+    {
+      "to": "the-fantômas-melvins-big-band",
+      "toName": "The Fantômas Melvins Big Band",
+      "toArea": "美国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Buzz Osborne・副项目",
+      "detail": "2 位乐手在这两支乐队都待过：Buzz Osborne・副项目。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "mudhoney",
+      "toName": "Mudhoney",
+      "toArea": "西雅图",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Matt Lukin",
+      "detail": "Matt Lukin 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "porn",
+      "toName": "Porn",
+      "toArea": "旧金山",
+      "toYears": null,
+      "type": "member",
+      "label": "Billy Anderson",
+      "detail": "Billy Anderson 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "brown-towel",
+      "toName": "Brown Towel",
+      "toArea": null,
+      "toYears": "1985–1986",
+      "type": "member",
+      "label": "Buzz Osborne",
+      "detail": "Buzz Osborne 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "fecal-matter",
+      "toName": "Fecal Matter",
+      "toArea": "Aberdeen",
+      "toYears": "1985–1986",
+      "type": "member",
+      "label": "Buzz Osborne",
+      "detail": "Buzz Osborne 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "melvana",
+      "toName": "Melvana",
+      "toArea": null,
+      "toYears": "1992–1992",
+      "type": "member",
+      "label": "Buzz Osborne",
+      "detail": "Buzz Osborne 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "dale-crover-band",
+      "toName": "Dale Crover Band",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

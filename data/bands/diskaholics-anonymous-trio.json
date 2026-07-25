@@ -1,0 +1,34 @@
+{
+  "id": "diskaholics-anonymous-trio",
+  "mbid": "f37c738e-a2dc-45ce-8a7c-385fd1535d03",
+  "name": "Diskaholics Anonymous Trio",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Diskaholics Anonymous Trio",
+      "year": 2001
+    },
+    {
+      "title": "Weapons of Ass Destruction",
+      "year": 2006
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f37c738e-a2dc-45ce-8a7c-385fd1535d03"
+  },
+  "edges": [
+    {
+      "to": "original-silence",
+      "toName": "Original Silence",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Mats Gustafsson",
+      "detail": "Mats Gustafsson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

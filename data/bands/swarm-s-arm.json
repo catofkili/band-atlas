@@ -1,0 +1,34 @@
+{
+  "id": "swarm-s-arm",
+  "mbid": "a46f7006-3ad0-43fe-b51c-872560488061",
+  "name": "Swarm's Arm",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Swarm's Arm",
+      "year": 1998
+    },
+    {
+      "title": "3285D",
+      "year": 2007
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a46f7006-3ad0-43fe-b51c-872560488061"
+  },
+  "edges": [
+    {
+      "to": "toddle",
+      "toName": "toddle",
+      "toArea": "东京",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "小林愛",
+      "detail": "小林愛 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    }
+  ]
+}

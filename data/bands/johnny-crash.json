@@ -1,0 +1,47 @@
+{
+  "id": "johnny-crash",
+  "mbid": "196670b6-ccbf-4a20-9d1d-a55161d1c322",
+  "name": "Johnny Crash",
+  "area": "洛杉矶",
+  "years": "1985–1992",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Neighbourhood Threat",
+      "year": 1990
+    },
+    {
+      "title": "Unfinished Business",
+      "year": 2008
+    }
+  ],
+  "intro": "Johnny Crash was an American hard rock band formed in 1985.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/196670b6-ccbf-4a20-9d1d-a55161d1c322"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Dizzy Reed",
+      "detail": "Dizzy Reed 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "the-dead-daisies",
+      "toName": "The Dead Daisies",
+      "toArea": "悉尼",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Dizzy Reed",
+      "detail": "Dizzy Reed 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    }
+  ]
+}

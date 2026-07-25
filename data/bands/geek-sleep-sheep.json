@@ -1,0 +1,50 @@
+{
+  "id": "geek-sleep-sheep",
+  "mbid": "7276e4b7-b687-4c7f-9984-541bc760ed8d",
+  "name": "geek sleep sheep",
+  "area": "日本",
+  "years": "2012–",
+  "genres": [
+    "Alternative Rock",
+    "J-Rock"
+  ],
+  "albums": [
+    {
+      "title": "nightporter",
+      "year": 2013
+    },
+    {
+      "title": "candy",
+      "year": 2015
+    }
+  ],
+  "intro": "geek sleep sheepは、日本の3人組ロックバンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7276e4b7-b687-4c7f-9984-541bc760ed8d"
+  },
+  "edges": [
+    {
+      "to": "ling-tosite-sigure",
+      "toName": "凛として時雨",
+      "toArea": "埼玉",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "345",
+      "detail": "345 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "ti-ti-uu",
+      "toName": "ti-ti.uu",
+      "toArea": "日本",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "345",
+      "detail": "345 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "id": "the-fartz",
+  "mbid": "2e95c700-0e9c-4fc9-9828-ddaebba37632",
+  "name": "The Fartz",
+  "area": "西雅图",
+  "years": "1981–2003",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Whats in a Name…?",
+      "year": 2001
+    },
+    {
+      "title": "Injustice: 15 Working Class Songs",
+      "year": 2002
+    }
+  ],
+  "intro": "The Fartz were a hardcore punk band that was founded in 1981 and were one of the first well-known bands in their genre from Seattle, Washington.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2e95c700-0e9c-4fc9-9828-ddaebba37632"
+  },
+  "edges": [
+    {
+      "to": "crisis-party",
+      "toName": "Crisis Party",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Tom Hansen",
+      "detail": "Tom Hansen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

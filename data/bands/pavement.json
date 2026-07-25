@@ -1,0 +1,89 @@
+{
+  "id": "pavement",
+  "mbid": "36bfa85f-737b-41db-a8fc-b8825850ffc3",
+  "name": "Pavement",
+  "area": "Stockton",
+  "years": "1989–2000",
+  "genres": [
+    "Indie Rock",
+    "Alternative Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Slanted and Enchanted",
+      "year": 1992
+    },
+    {
+      "title": "Summer Babe",
+      "year": 1993
+    },
+    {
+      "title": "Crooked Rain, Crooked Rain",
+      "year": 1994
+    },
+    {
+      "title": "Wowee Zowee",
+      "year": 1995
+    },
+    {
+      "title": "Brighten the Corners",
+      "year": 1997
+    },
+    {
+      "title": "Terror Twilight",
+      "year": 1999
+    }
+  ],
+  "intro": "人行道乐队是 20 世纪 90 年代美国最具影响力的独立摇滚乐队之一。尽管他们在主流商业市场上仅获得适度的成功，却凭借独特的音乐风格赢得了极高的邪典追捧，被公认为 Lo-fi 运动的先驱。",
+  "introLang": "zh",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/36bfa85f-737b-41db-a8fc-b8825850ffc3"
+  },
+  "edges": [
+    {
+      "to": "silver-jews",
+      "toName": "Silver Jews",
+      "toArea": "Charlottesville",
+      "toYears": "1989–2009",
+      "type": "member",
+      "label": "Stephen Malkmus・Bob Nastanovich・Steve West",
+      "detail": "3 位乐手在这两支乐队都待过：Stephen Malkmus・Bob Nastanovich・Steve West。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "sonic-youth",
+      "toName": "Sonic Youth",
+      "toArea": "纽约",
+      "toYears": "1981–2011",
+      "type": "member",
+      "label": "Mark Ibold",
+      "detail": "Mark Ibold 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "dustdevils",
+      "toName": "Dustdevils",
+      "toArea": "利兹",
+      "toYears": null,
+      "type": "member",
+      "label": "Mark Ibold",
+      "detail": "Mark Ibold 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "free-kitten",
+      "toName": "Free Kitten",
+      "toArea": "美国",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Mark Ibold",
+      "detail": "Mark Ibold 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    }
+  ]
+}

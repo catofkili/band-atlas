@@ -1,0 +1,73 @@
+{
+  "id": "mind-funk",
+  "mbid": "653f2e2e-ed6b-4844-9d27-2009559d9822",
+  "name": "Mind Funk",
+  "area": "Orange County",
+  "years": "1989–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Mind Funk",
+      "year": 1991
+    },
+    {
+      "title": "Dropped",
+      "year": 1993
+    },
+    {
+      "title": "People Who Fell From the Sky",
+      "year": 1995
+    }
+  ],
+  "intro": "Mind Funk (spelled Mindfunk on later releases) was an American rock band, containing members of Chemical Waste and several other bands.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/653f2e2e-ed6b-4844-9d27-2009559d9822"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "member",
+      "label": "Jason Everman",
+      "detail": "Jason Everman 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Louis Svitek",
+      "detail": "Louis Svitek 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "soundgarden",
+      "toName": "Soundgarden",
+      "toArea": "西雅图",
+      "toYears": "1984–2017",
+      "type": "member",
+      "label": "Jason Everman",
+      "detail": "Jason Everman 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "old",
+      "toName": "Old",
+      "toArea": "New Jersey",
+      "toYears": "1986–2002",
+      "type": "member",
+      "label": "Jason Everman",
+      "detail": "Jason Everman 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

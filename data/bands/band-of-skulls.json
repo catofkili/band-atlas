@@ -1,0 +1,52 @@
+{
+  "id": "band-of-skulls",
+  "mbid": "1641141b-3c9c-4772-a5cc-7e23fdf17382",
+  "name": "Band of Skulls",
+  "area": "Southampton",
+  "years": "2004–",
+  "genres": [
+    "Alternative Rock",
+    "Blues Rock",
+    "Garage Rock"
+  ],
+  "albums": [
+    {
+      "title": "Baby Darling Doll Face Honey",
+      "year": 2009
+    },
+    {
+      "title": "Sweet Sour",
+      "year": 2012
+    },
+    {
+      "title": "Himalayan",
+      "year": 2013
+    },
+    {
+      "title": "By Default",
+      "year": 2016
+    },
+    {
+      "title": "Love Is All You Love",
+      "year": 2019
+    }
+  ],
+  "intro": "バンド・オブ・スカルズ (Band of Skulls) は2004年に結成されたイギリスのサウサンプトン出身のロックバンドである。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1641141b-3c9c-4772-a5cc-7e23fdf17382"
+  },
+  "edges": [
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "member",
+      "label": "Emma Richardson",
+      "detail": "Emma Richardson 在这两支乐队都待过。",
+      "year": 2024,
+      "weight": 0.62
+    }
+  ]
+}

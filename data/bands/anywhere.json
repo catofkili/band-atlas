@@ -1,0 +1,93 @@
+{
+  "id": "anywhere",
+  "mbid": "54bfa733-5012-4aae-b24f-fc9e36cf4ddf",
+  "name": "Anywhere",
+  "area": "洛杉矶",
+  "years": "2010–",
+  "genres": [
+    "Crossover Prog"
+  ],
+  "albums": [
+    {
+      "title": "Anywhere",
+      "year": 2012
+    },
+    {
+      "title": "Anywhere II",
+      "year": 2018
+    }
+  ],
+  "intro": "Anywhere is a psychedelic rock/folk music project from Los Angeles, California, founded by Christian Eric Beaulieu (formerly of Triclops!",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/54bfa733-5012-4aae-b24f-fc9e36cf4ddf"
+  },
+  "edges": [
+    {
+      "to": "wylde-ratttz",
+      "toName": "Wylde Ratttz",
+      "toArea": "伦敦",
+      "toYears": "1998–1998",
+      "type": "member",
+      "label": "Mike Watt",
+      "detail": "Mike Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ciccone-youth",
+      "toName": "Ciccone Youth",
+      "toArea": "纽约",
+      "toYears": "1986–1988",
+      "type": "member",
+      "label": "Mike Watt",
+      "detail": "Mike Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "dale-crover-band",
+      "toName": "Dale Crover Band",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Toshi Kasai",
+      "detail": "Toshi Kasai 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "lucky-sperms",
+      "toName": "Lucky Sperms",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Mike Watt",
+      "detail": "Mike Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "orcutt-shelley-miller",
+      "toName": "Orcutt Shelley Miller",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ethan Miller",
+      "detail": "Ethan Miller 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "society-s-ills",
+      "toName": "Society's Ills",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Mike Watt",
+      "detail": "Mike Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

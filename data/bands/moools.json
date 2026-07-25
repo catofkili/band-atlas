@@ -1,0 +1,30 @@
+{
+  "id": "moools",
+  "mbid": "c19bd467-25ec-4687-963b-a0931a41a04d",
+  "name": "moools",
+  "area": null,
+  "years": "1998–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "moools",
+      "year": 2003
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c19bd467-25ec-4687-963b-a0931a41a04d"
+  },
+  "edges": [
+    {
+      "to": "toddle",
+      "toName": "toddle",
+      "toArea": "东京",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "内野正登",
+      "detail": "内野正登 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,67 @@
+{
+  "id": "downy",
+  "mbid": "f2bec217-8b84-42d4-9395-1421f1fa8a51",
+  "name": "downy",
+  "area": "日本",
+  "years": "2000–",
+  "genres": [
+    "J-Rock",
+    "_private Tag 1",
+    "Alternative Rock"
+  ],
+  "albums": [
+    {
+      "title": "無題",
+      "year": 2001
+    },
+    {
+      "title": "無題",
+      "year": 2002
+    },
+    {
+      "title": "無題",
+      "year": 2003
+    },
+    {
+      "title": "無題",
+      "year": 2004
+    },
+    {
+      "title": "無題",
+      "year": 2013
+    },
+    {
+      "title": "無題",
+      "year": 2016
+    }
+  ],
+  "intro": "downyは、日本のインディー・ロックバンド。ボーカル、ギター担当の青木ロビンを中心に2000年4月に結成され、シングル「月宿る善良」でメジャーデビュー。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f2bec217-8b84-42d4-9395-1421f1fa8a51"
+  },
+  "edges": [
+    {
+      "to": "vola-and-the-oriental-machine",
+      "toName": "VOLA & THE ORIENTAL MACHINE",
+      "toArea": "东京",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "青木裕",
+      "detail": "青木裕 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    },
+    {
+      "to": "unkie",
+      "toName": "unkie",
+      "toArea": "日本",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "青木裕",
+      "detail": "青木裕 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    }
+  ]
+}

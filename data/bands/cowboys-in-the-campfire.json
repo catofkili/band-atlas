@@ -1,0 +1,96 @@
+{
+  "id": "cowboys-in-the-campfire",
+  "mbid": "2d7af8b7-eddd-4cd3-939e-de6aa28ace82",
+  "name": "Cowboys in the Campfire",
+  "area": "美国",
+  "years": "2017–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Wronger",
+      "year": 2023
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2d7af8b7-eddd-4cd3-939e-de6aa28ace82"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "the-replacements",
+      "toName": "The Replacements",
+      "toArea": "明尼阿波利斯",
+      "toYears": "1979–1991",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "bash-pop",
+      "toName": "Bash & Pop",
+      "toArea": "明尼阿波利斯",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "perfect",
+      "toName": "Perfect",
+      "toArea": "明尼阿波利斯",
+      "toYears": "1995–1998",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "l-a-m-f",
+      "toName": "L.A.M.F.",
+      "toArea": "纽约",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "latter-revelation-company-singers",
+      "toName": "Latter Revelation Company Singers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-jacks",
+      "toName": "The Jacks",
+      "toArea": "Tulsa",
+      "toYears": null,
+      "type": "member",
+      "label": "Tommy Stinson",
+      "detail": "Tommy Stinson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

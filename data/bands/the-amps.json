@@ -1,0 +1,47 @@
+{
+  "id": "the-amps",
+  "mbid": "5e4ad809-a048-427d-b0e4-a6761de9c220",
+  "name": "The Amps",
+  "area": "Dayton",
+  "years": "1995–1996",
+  "genres": [
+    "4ad",
+    "Alternative Rock",
+    "Indie Rock"
+  ],
+  "albums": [
+    {
+      "title": "Pacer",
+      "year": 1995
+    }
+  ],
+  "intro": "アンプス (The Amps)は、アメリカのロックバンド。1995年、活動休止期間に入ったブリーダーズのキム・ディールを中心に結成。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5e4ad809-a048-427d-b0e4-a6761de9c220"
+  },
+  "edges": [
+    {
+      "to": "the-breeders",
+      "toName": "The Breeders",
+      "toArea": "波士顿",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Kim Deal・Jim MacPherson・Nate Farley",
+      "detail": "3 位乐手在这两支乐队都待过：Kim Deal・Jim MacPherson・Nate Farley。",
+      "year": 1989,
+      "weight": 0.95
+    },
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "member",
+      "label": "Kim Deal",
+      "detail": "Kim Deal 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    }
+  ]
+}

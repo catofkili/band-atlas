@@ -1,0 +1,52 @@
+{
+  "id": "crisis-party",
+  "mbid": "72d2d3a9-c370-4329-9191-bfbb1da64fb4",
+  "name": "Crisis Party",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Rude Awakening",
+      "year": 1989
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/72d2d3a9-c370-4329-9191-bfbb1da64fb4"
+  },
+  "edges": [
+    {
+      "to": "love-battery",
+      "toName": "Love Battery",
+      "toArea": "西雅图",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Kevin Whitworth",
+      "detail": "Kevin Whitworth 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-fartz",
+      "toName": "The Fartz",
+      "toArea": "西雅图",
+      "toYears": "1981–2003",
+      "type": "member",
+      "label": "Tom Hansen",
+      "detail": "Tom Hansen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "dan-peters-combo",
+      "toName": "Dan Peters Combo",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Kevin Whitworth",
+      "detail": "Kevin Whitworth 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

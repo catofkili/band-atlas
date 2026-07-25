@@ -1,0 +1,54 @@
+{
+  "id": "8-eyed-spy",
+  "mbid": "706ed8c5-6472-44e1-a230-e15bab6d3a0e",
+  "name": "8 Eyed Spy",
+  "area": "纽约",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "8 Eyed Spy",
+      "year": 1981
+    }
+  ],
+  "intro": "8 Eyed Spy was an American no wave band from New York City, consisting of Lydia Lunch (ex-Teenage Jesus and the Jerks and Beirut Slump) and Jim Sclavunos (also ex-Teenage Jesus and Beirut Slump), Michael Paumgardhen, Pat Irwin and George Scott III.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/706ed8c5-6472-44e1-a230-e15bab6d3a0e"
+  },
+  "edges": [
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Lydia Lunch",
+      "detail": "Lydia Lunch 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "harry-crews",
+      "toName": "Harry Crews",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Lydia Lunch",
+      "detail": "Lydia Lunch 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "teenage-jesus-and-the-jerks",
+      "toName": "Teenage Jesus and the Jerks",
+      "toArea": "纽约",
+      "toYears": "1977–1979",
+      "type": "member",
+      "label": "Lydia Lunch",
+      "detail": "Lydia Lunch 在这两支乐队都待过。",
+      "year": 1977,
+      "weight": 0.62
+    }
+  ]
+}

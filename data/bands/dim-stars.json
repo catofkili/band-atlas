@@ -1,0 +1,32 @@
+{
+  "id": "dim-stars",
+  "mbid": "5f984344-da28-4d68-ae1c-8bce9637180a",
+  "name": "Dim Stars",
+  "area": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Dim Stars",
+      "year": 1992
+    }
+  ],
+  "intro": "Dim Stars was an alternative rock supergroup active briefly in the early 1990s.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5f984344-da28-4d68-ae1c-8bce9637180a"
+  },
+  "edges": [
+    {
+      "to": "wylde-ratttz",
+      "toName": "Wylde Ratttz",
+      "toArea": "伦敦",
+      "toYears": "1998–1998",
+      "type": "member",
+      "label": "Don Fleming",
+      "detail": "Don Fleming 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

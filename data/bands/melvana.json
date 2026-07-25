@@ -1,0 +1,58 @@
+{
+  "id": "melvana",
+  "mbid": "4c21807a-a8a1-4e71-a7ad-633120487ad8",
+  "name": "Melvana",
+  "area": null,
+  "years": "1992–1992",
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4c21807a-a8a1-4e71-a7ad-633120487ad8"
+  },
+  "edges": [
+    {
+      "to": "melvins",
+      "toName": "Melvins",
+      "toArea": "Montesano",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Buzz Osborne",
+      "detail": "Buzz Osborne 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "brown-towel",
+      "toName": "Brown Towel",
+      "toArea": null,
+      "toYears": "1985–1986",
+      "type": "member",
+      "label": "Buzz Osborne",
+      "detail": "Buzz Osborne 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "fecal-matter",
+      "toName": "Fecal Matter",
+      "toArea": "Aberdeen",
+      "toYears": "1985–1986",
+      "type": "member",
+      "label": "Buzz Osborne",
+      "detail": "Buzz Osborne 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "the-fantômas-melvins-big-band",
+      "toName": "The Fantômas Melvins Big Band",
+      "toArea": "美国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Buzz Osborne",
+      "detail": "Buzz Osborne 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

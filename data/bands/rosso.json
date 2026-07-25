@@ -1,0 +1,73 @@
+{
+  "id": "rosso",
+  "mbid": "3cfda90e-4d46-4eeb-8a40-f55545f9bc1f",
+  "name": "ROSSO",
+  "area": "日本",
+  "years": "2001–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "BIRD",
+      "year": 2002
+    },
+    {
+      "title": "DIRTY KARAT",
+      "year": 2004
+    },
+    {
+      "title": "Emissions",
+      "year": 2006
+    }
+  ],
+  "intro": "ROSSOは、日本のロックバンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3cfda90e-4d46-4eeb-8a40-f55545f9bc1f"
+  },
+  "edges": [
+    {
+      "to": "thee-michelle-gun-elephant",
+      "toName": "thee michelle gun elephant",
+      "toArea": "东京",
+      "toYears": "1991–2003",
+      "type": "member",
+      "label": "チバユウスケ",
+      "detail": "チバユウスケ 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "the-birthday",
+      "toName": "The Birthday",
+      "toArea": "日本",
+      "toYears": "2005–2023",
+      "type": "member",
+      "label": "チバユウスケ・イマイアキノブ",
+      "detail": "2 位乐手在这两支乐队都待过：チバユウスケ・イマイアキノブ。",
+      "year": 2006,
+      "weight": 0.84
+    },
+    {
+      "to": "raven",
+      "toName": "RAVEN",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "チバユウスケ・照井利幸",
+      "detail": "2 位乐手在这两支乐队都待过：チバユウスケ・照井利幸。",
+      "year": 2003,
+      "weight": 0.84
+    },
+    {
+      "to": "the-midwest-vikings",
+      "toName": "The Midwest Vikings",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "チバユウスケ",
+      "detail": "チバユウスケ 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    }
+  ]
+}

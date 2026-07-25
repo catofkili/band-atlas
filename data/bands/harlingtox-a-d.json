@@ -1,0 +1,25 @@
+{
+  "id": "harlingtox-a-d",
+  "mbid": "b6aebd2e-6a59-43a6-8252-514ba90cebf3",
+  "name": "Harlingtox A.D.",
+  "area": "华盛顿特区",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b6aebd2e-6a59-43a6-8252-514ba90cebf3"
+  },
+  "edges": [
+    {
+      "to": "churn",
+      "toName": "Churn",
+      "toArea": "Arlington County",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Barrett Jones",
+      "detail": "Barrett Jones 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "the-wild-bunch",
+  "mbid": "af112aa8-4376-440d-8d8a-a4d2160b8742",
+  "name": "The Wild Bunch",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/af112aa8-4376-440d-8d8a-a4d2160b8742"
+  },
+  "edges": [
+    {
+      "to": "mad-for-the-racket",
+      "toName": "Mad for the Racket",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Wayne Kramer・Clem Burke",
+      "detail": "2 位乐手在这两支乐队都待过：Wayne Kramer・Clem Burke。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "l-a-m-f",
+      "toName": "L.A.M.F.",
+      "toArea": "纽约",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "Wayne Kramer・Clem Burke",
+      "detail": "2 位乐手在这两支乐队都待过：Wayne Kramer・Clem Burke。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "adler-s-appetite",
+      "toName": "Adler’s Appetite",
+      "toArea": "洛杉矶",
+      "toYears": "2003–2011",
+      "type": "member",
+      "label": "Chip Z’Nuff",
+      "detail": "Chip Z’Nuff 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "mc50",
+      "toName": "MC50",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Wayne Kramer",
+      "detail": "Wayne Kramer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

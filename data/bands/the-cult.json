@@ -1,0 +1,78 @@
+{
+  "id": "the-cult",
+  "mbid": "8846e4ff-0c19-4af2-872b-7a8dc7497f68",
+  "name": "The Cult",
+  "area": "伦敦",
+  "years": "1983–",
+  "genres": [
+    "Hard Rock",
+    "Post-Punk",
+    "Alternative Rock"
+  ],
+  "albums": [
+    {
+      "title": "Dreamtime",
+      "year": 1984
+    },
+    {
+      "title": "Love",
+      "year": 1985
+    },
+    {
+      "title": "Electric",
+      "year": 1987
+    },
+    {
+      "title": "Sonic Temple",
+      "year": 1989
+    },
+    {
+      "title": "Ceremony",
+      "year": 1991
+    },
+    {
+      "title": "Nirvana",
+      "year": 1992
+    }
+  ],
+  "intro": "ザ・カルト(The Cult)は、イギリスのハードロックバンド。1983年にウェスト・ヨークシャーのブラッドフォードにて結成された。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8846e4ff-0c19-4af2-872b-7a8dc7497f68"
+  },
+  "edges": [
+    {
+      "to": "dag-nasty",
+      "toName": "Dag Nasty",
+      "toArea": "华盛顿特区",
+      "toYears": "1985–1991",
+      "type": "member",
+      "label": "Scott Garrett",
+      "detail": "Scott Garrett 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "circus-diablo",
+      "toName": "Circus Diablo",
+      "toArea": "洛杉矶",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "Billy Duffy",
+      "detail": "Billy Duffy 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "kings-of-chaos",
+      "toName": "Kings of Chaos",
+      "toArea": "美国",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Billy Duffy",
+      "detail": "Billy Duffy 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

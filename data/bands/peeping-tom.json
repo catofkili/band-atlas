@@ -1,0 +1,47 @@
+{
+  "id": "peeping-tom",
+  "mbid": "4caec583-cdcb-437c-af84-8797b11b6807",
+  "name": "Peeping Tom",
+  "area": "美国",
+  "years": "2000–",
+  "genres": [
+    "Electronic",
+    "Rock",
+    "Experimental"
+  ],
+  "albums": [
+    {
+      "title": "Peeping Tom",
+      "year": 2006
+    }
+  ],
+  "intro": "Peeping Tom were an American rock project led by Mike Patton, active between 2000 and 2007.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4caec583-cdcb-437c-af84-8797b11b6807"
+  },
+  "edges": [
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Stu Brooks",
+      "detail": "Stu Brooks 在这两支乐队都待过。",
+      "year": 2026,
+      "weight": 0.62
+    },
+    {
+      "to": "the-fantômas-melvins-big-band",
+      "toName": "The Fantômas Melvins Big Band",
+      "toArea": "美国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Mike Patton",
+      "detail": "Mike Patton 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    }
+  ]
+}

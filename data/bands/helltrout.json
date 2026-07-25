@@ -1,0 +1,47 @@
+{
+  "id": "helltrout",
+  "mbid": "8819509e-aaff-47c8-902b-ea0ab3de9607",
+  "name": "Helltrout",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8819509e-aaff-47c8-902b-ea0ab3de9607"
+  },
+  "edges": [
+    {
+      "to": "mico-de-noche",
+      "toName": "Mico de Noche",
+      "toArea": "西雅图",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "Dave Foster・Mike Clam・Donovan Stewart",
+      "detail": "3 位乐手在这两支乐队都待过：Dave Foster・Mike Clam・Donovan Stewart。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "member",
+      "label": "Dave Foster",
+      "detail": "Dave Foster 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "bliss",
+      "toName": "Bliss",
+      "toArea": "美国",
+      "toYears": "1988–1988",
+      "type": "member",
+      "label": "Dave Foster",
+      "detail": "Dave Foster 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    }
+  ]
+}

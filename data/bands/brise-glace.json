@@ -1,0 +1,35 @@
+{
+  "id": "brise-glace",
+  "mbid": "d1ff333d-4636-44e5-9bec-3641b8ae38fe",
+  "name": "Brise-Glace",
+  "area": null,
+  "years": null,
+  "genres": [
+    "Experimental Rock",
+    "Noise Rock"
+  ],
+  "albums": [
+    {
+      "title": "When in Vanitas...",
+      "year": 1994
+    }
+  ],
+  "intro": "Brise-Glace (French for \"ice-breaker\") was a 1990s instrumental avant-rock \"supergroup\" composed of Jim O'Rourke (guitar, organ, tape and \"razor blade\"), Darin Gray (bass guitar), Dylan Posa (guitar), and Thymme Jones (drums).",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d1ff333d-4636-44e5-9bec-3641b8ae38fe"
+  },
+  "edges": [
+    {
+      "to": "yona-kit",
+      "toName": "Yona-Kit",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Darin Gray・Thymme Jones",
+      "detail": "2 位乐手在这两支乐队都待过：Darin Gray・Thymme Jones。",
+      "year": null,
+      "weight": 0.84
+    }
+  ]
+}

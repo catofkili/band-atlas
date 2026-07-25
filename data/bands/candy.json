@@ -1,0 +1,32 @@
+{
+  "id": "candy",
+  "mbid": "55905821-f019-4f07-9e8b-30017dcd50c0",
+  "name": "Candy",
+  "area": "California",
+  "years": "1985–1987",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Whatever Happened to Fun",
+      "year": 1985
+    }
+  ],
+  "intro": "Candy was a Los Angeles-based pop rock band, featuring future Guns N' Roses guitarist Gilby Clarke and singer-songwriter Kyle Vincent.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/55905821-f019-4f07-9e8b-30017dcd50c0"
+  },
+  "edges": [
+    {
+      "to": "slash-s-snakepit",
+      "toName": "Slash’s Snakepit",
+      "toArea": "洛杉矶",
+      "toYears": "1994–2002",
+      "type": "member",
+      "label": "Ryan Roxie",
+      "detail": "Ryan Roxie 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    }
+  ]
+}

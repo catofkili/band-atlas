@@ -1,0 +1,80 @@
+{
+  "id": "viva-la-j-rock-anthems",
+  "mbid": "53350289-5b36-4df0-8015-f27a07a95fac",
+  "name": "VIVA LA J-ROCK ANTHEMS",
+  "area": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/53350289-5b36-4df0-8015-f27a07a95fac"
+  },
+  "edges": [
+    {
+      "to": "東京事変",
+      "toName": "東京事変",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "伊澤一葉・亀田誠治",
+      "detail": "2 位乐手在这两支乐队都待过：伊澤一葉・亀田誠治。",
+      "year": 2020,
+      "weight": 0.84
+    },
+    {
+      "to": "ling-tosite-sigure",
+      "toName": "凛として時雨",
+      "toArea": "埼玉",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "ピエール中野",
+      "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
+    },
+    {
+      "to": "the-hiatus",
+      "toName": "the HIATUS",
+      "toArea": "东京",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "伊澤一葉",
+      "detail": "伊澤一葉 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "fzmz",
+      "toName": "FZMZ",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "ピエール中野",
+      "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    },
+    {
+      "to": "zing",
+      "toName": "ZiNG",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "ピエール中野",
+      "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "カオティック-スピードキング",
+      "toName": "カオティック・スピードキング",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "ピエール中野",
+      "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

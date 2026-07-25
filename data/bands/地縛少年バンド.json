@@ -1,0 +1,25 @@
+{
+  "id": "地縛少年バンド",
+  "mbid": "9f3b8a34-e506-4ca7-a383-fd51ba581b64",
+  "name": "地縛少年バンド",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9f3b8a34-e506-4ca7-a383-fd51ba581b64"
+  },
+  "edges": [
+    {
+      "to": "zing",
+      "toName": "ZiNG",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

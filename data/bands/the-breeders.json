@@ -1,0 +1,63 @@
+{
+  "id": "the-breeders",
+  "mbid": "667e856e-f3a7-42e9-8244-95422ef31321",
+  "name": "The Breeders",
+  "area": "波士顿",
+  "years": "1989–",
+  "genres": [
+    "Alternative Rock",
+    "Indie Rock",
+    "4ad"
+  ],
+  "albums": [
+    {
+      "title": "Pod",
+      "year": 1990
+    },
+    {
+      "title": "Last Splash",
+      "year": 1993
+    },
+    {
+      "title": "Title TK",
+      "year": 2002
+    },
+    {
+      "title": "Mountain Battles",
+      "year": 2008
+    },
+    {
+      "title": "All Nerve",
+      "year": 2018
+    }
+  ],
+  "intro": "ザ・ブリーダーズ (The Breeders)は、1988年に結成されたアメリカのロックバンドである。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/667e856e-f3a7-42e9-8244-95422ef31321"
+  },
+  "edges": [
+    {
+      "to": "the-amps",
+      "toName": "The Amps",
+      "toArea": "Dayton",
+      "toYears": "1995–1996",
+      "type": "member",
+      "label": "Kim Deal・Jim MacPherson・Nate Farley",
+      "detail": "3 位乐手在这两支乐队都待过：Kim Deal・Jim MacPherson・Nate Farley。",
+      "year": 1989,
+      "weight": 0.95
+    },
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "member",
+      "label": "Kim Deal",
+      "detail": "Kim Deal 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    }
+  ]
+}

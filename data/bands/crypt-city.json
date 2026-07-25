@@ -1,0 +1,38 @@
+{
+  "id": "crypt-city",
+  "mbid": "c20b7d7c-3d7b-4613-9165-3cdf824d78c6",
+  "name": "CRYPT CITY",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Crypt City",
+      "year": 2011
+    },
+    {
+      "title": "Defect",
+      "year": 2013
+    },
+    {
+      "title": "Chant",
+      "year": 2016
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c20b7d7c-3d7b-4613-9165-3cdf824d78c6"
+  },
+  "edges": [
+    {
+      "to": "bloodthirsty-butchers",
+      "toName": "bloodthirsty butchers",
+      "toArea": "北海道",
+      "toYears": "1987–2013",
+      "type": "member",
+      "label": "小松正宏",
+      "detail": "小松正宏 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    }
+  ]
+}

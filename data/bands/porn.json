@@ -1,0 +1,48 @@
+{
+  "id": "porn",
+  "mbid": "78e497ff-b3d2-45e6-a179-f39253df4ea4",
+  "name": "Porn",
+  "area": "旧金山",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "American Style",
+      "year": 1999
+    },
+    {
+      "title": "Experiments in Feedback",
+      "year": 2001
+    },
+    {
+      "title": "Wine, Women and Song",
+      "year": 2004
+    },
+    {
+      "title": "…And the Devil Makes Three",
+      "year": 2008
+    },
+    {
+      "title": "Love Like War",
+      "year": 2012
+    }
+  ],
+  "intro": "Men of Porn, sometimes typeset as Porn (The Men Of) and now simply known as Porn, is an American, San Francisco-based stoner rock band.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/78e497ff-b3d2-45e6-a179-f39253df4ea4"
+  },
+  "edges": [
+    {
+      "to": "melvins",
+      "toName": "Melvins",
+      "toArea": "Montesano",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Billy Anderson",
+      "detail": "Billy Anderson 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    }
+  ]
+}

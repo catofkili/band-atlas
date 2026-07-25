@@ -1,0 +1,63 @@
+{
+  "id": "ka-f-ka",
+  "mbid": "d74acfab-2aea-48ae-9cc2-c0b11e83aacf",
+  "name": "KA.F.KA",
+  "area": "日本",
+  "years": "2013–2016",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Fantome † Noir",
+      "year": 2015
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d74acfab-2aea-48ae-9cc2-c0b11e83aacf"
+  },
+  "edges": [
+    {
+      "to": "thee-michelle-gun-elephant",
+      "toName": "thee michelle gun elephant",
+      "toArea": "东京",
+      "toYears": "1991–2003",
+      "type": "member",
+      "label": "ウエノコウジ",
+      "detail": "ウエノコウジ 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "the-hiatus",
+      "toName": "the HIATUS",
+      "toArea": "东京",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "ウエノコウジ",
+      "detail": "ウエノコウジ 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "radio-caroline",
+      "toName": "Radio Caroline",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "ウエノコウジ",
+      "detail": "ウエノコウジ 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "the-king-all-stars",
+      "toName": "THE King ALL STARS",
+      "toArea": "日本",
+      "toYears": "2014–",
+      "type": "member",
+      "label": "ウエノコウジ",
+      "detail": "ウエノコウジ 在这两支乐队都待过。",
+      "year": 2014,
+      "weight": 0.62
+    }
+  ]
+}

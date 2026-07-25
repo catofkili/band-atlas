@@ -1,0 +1,89 @@
+{
+  "id": "the-cramps",
+  "mbid": "96c1edac-1011-4cb8-882c-27248de35071",
+  "name": "The Cramps",
+  "area": "纽约",
+  "years": "1976–2009",
+  "genres": [
+    "Psychobilly",
+    "Garage Punk",
+    "Garage Rock"
+  ],
+  "albums": [
+    {
+      "title": "Songs the Lord Taught Us",
+      "year": 1980
+    },
+    {
+      "title": "Psychedelic Jungle",
+      "year": 1981
+    },
+    {
+      "title": "A Date With Elvis",
+      "year": 1986
+    },
+    {
+      "title": "Stay Sick!",
+      "year": 1989
+    },
+    {
+      "title": "Look Mom No Head!",
+      "year": 1991
+    },
+    {
+      "title": "Flamejob",
+      "year": 1994
+    }
+  ],
+  "intro": "The Cramps were an American rock band formed in 1976 and active until 2009.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071"
+  },
+  "edges": [
+    {
+      "to": "l-a-guns",
+      "toName": "L.A. Guns",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Nickey “Beat” Alexander",
+      "detail": "Nickey “Beat” Alexander 在这两支乐队都待过。",
+      "year": 1985,
+      "weight": 0.62
+    },
+    {
+      "to": "nick-cave-the-bad-seeds",
+      "toName": "Nick Cave & the Bad Seeds",
+      "toArea": "墨尔本",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Kid Congo Powers",
+      "detail": "Kid Congo Powers 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "knoxville-girls",
+      "toName": "Knoxville Girls",
+      "toArea": "纽约",
+      "toYears": "1999–2001",
+      "type": "member",
+      "label": "Kid Congo Powers",
+      "detail": "Kid Congo Powers 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "wolfmanhattan-project",
+      "toName": "Wolfmanhattan Project",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Kid Congo Powers",
+      "detail": "Kid Congo Powers 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    }
+  ]
+}

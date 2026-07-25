@@ -1,0 +1,30 @@
+{
+  "id": "churn",
+  "mbid": "63d26065-2133-4385-b87e-167c9bd593d4",
+  "name": "Churn",
+  "area": "Arlington County",
+  "years": "1989–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "This Way to the Other Side",
+      "year": 1996
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/63d26065-2133-4385-b87e-167c9bd593d4"
+  },
+  "edges": [
+    {
+      "to": "harlingtox-a-d",
+      "toName": "Harlingtox A.D.",
+      "toArea": "华盛顿特区",
+      "toYears": null,
+      "type": "member",
+      "label": "Barrett Jones",
+      "detail": "Barrett Jones 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

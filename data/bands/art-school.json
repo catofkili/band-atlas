@@ -1,5 +1,6 @@
 {
   "id": "art-school",
+  "mbid": "2ee8a896-8ce2-4d94-9bc7-0db3b3396e74",
   "name": "ART-SCHOOL",
   "area": "东京",
   "years": "2000–",
@@ -8,7 +9,6 @@
     "Shoegaze",
     "Grunge"
   ],
-  "intro": "木下理树的乐队。把九十年代美国另类摇滚的阴郁质感翻译成日语，成员更替极其频繁。",
   "albums": [
     {
       "title": "LOVE/HATE",
@@ -23,6 +23,8 @@
       "year": 2005
     }
   ],
+  "intro": "木下理树的乐队。把九十年代美国另类摇滚的阴郁质感翻译成日语，成员更替极其频繁。",
+  "introLang": "ja",
   "tracks": [
     "クロエ",
     "UNDER MY SKIN",
@@ -30,7 +32,7 @@
     "乾いた花"
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=ART-SCHOOL&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/2ee8a896-8ce2-4d94-9bc7-0db3b3396e74"
   },
   "edges": [
     {
@@ -65,6 +67,17 @@
       "detail": "吉他手田渕ひさ子同期的另一支乐队。",
       "year": 2005,
       "weight": 0.6
+    },
+    {
+      "to": "quadrangle",
+      "toName": "QUADRANGLE",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "鈴木浩之",
+      "detail": "鈴木浩之 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
     }
   ]
 }

@@ -1,0 +1,70 @@
+{
+  "id": "the-entrance-band",
+  "mbid": "a287546f-46b7-4f59-9ea3-1b34de4e951c",
+  "name": "The Entrance Band",
+  "area": "芝加哥",
+  "years": "2006–",
+  "genres": [
+    "Jam Band",
+    "Psychedelic Rock"
+  ],
+  "albums": [
+    {
+      "title": "The Entrance Band",
+      "year": 2009
+    },
+    {
+      "title": "Face the Sun",
+      "year": 2013
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a287546f-46b7-4f59-9ea3-1b34de4e951c"
+  },
+  "edges": [
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "member",
+      "label": "Paz Lenchantin",
+      "detail": "Paz Lenchantin 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "silver-jews",
+      "toName": "Silver Jews",
+      "toArea": "Charlottesville",
+      "toYears": "1989–2009",
+      "type": "member",
+      "label": "Paz Lenchantin",
+      "detail": "Paz Lenchantin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "a-perfect-circle",
+      "toName": "A Perfect Circle",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Paz Lenchantin",
+      "detail": "Paz Lenchantin 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "zwan",
+      "toName": "Zwan",
+      "toArea": "美国",
+      "toYears": "2001–2004",
+      "type": "member",
+      "label": "Paz Lenchantin",
+      "detail": "Paz Lenchantin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

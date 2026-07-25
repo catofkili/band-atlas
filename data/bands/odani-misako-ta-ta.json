@@ -1,0 +1,63 @@
+{
+  "id": "odani-misako-ta-ta",
+  "mbid": "92eea162-c19a-4437-bdcd-6d9016cd9574",
+  "name": "odani misako・ta-ta",
+  "area": "日本",
+  "years": "2003–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "feather",
+      "year": 2003
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/92eea162-c19a-4437-bdcd-6d9016cd9574"
+  },
+  "edges": [
+    {
+      "to": "bloodthirsty-butchers",
+      "toName": "bloodthirsty butchers",
+      "toArea": "北海道",
+      "toYears": "1987–2013",
+      "type": "member",
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "member",
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "toddle",
+      "toName": "toddle",
+      "toArea": "东京",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "lama",
+      "toName": "LAMA",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    }
+  ]
+}

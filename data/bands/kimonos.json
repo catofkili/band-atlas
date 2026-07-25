@@ -1,0 +1,52 @@
+{
+  "id": "kimonos",
+  "mbid": "861ed82a-7a6a-4d72-89b8-764b4f53e17c",
+  "name": "KIMONOS",
+  "area": null,
+  "years": "2010–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Kimonos",
+      "year": 2010
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/861ed82a-7a6a-4d72-89b8-764b4f53e17c"
+  },
+  "edges": [
+    {
+      "to": "zazen-boys",
+      "toName": "ZAZEN BOYS",
+      "toArea": "东京",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "向井秀徳",
+      "detail": "向井秀徳 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "member",
+      "label": "向井秀徳",
+      "detail": "向井秀徳 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "ねらわれた学園",
+      "toName": "ねらわれた学園",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "向井秀徳",
+      "detail": "向井秀徳 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

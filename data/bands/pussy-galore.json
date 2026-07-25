@@ -1,0 +1,77 @@
+{
+  "id": "pussy-galore",
+  "mbid": "cf97d78e-7c86-4931-92c0-b8e22bae1e33",
+  "name": "Pussy Galore",
+  "area": "美国",
+  "years": "1985–1990",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Exile on Main St.",
+      "year": 1986
+    },
+    {
+      "title": "Right Now!",
+      "year": 1987
+    },
+    {
+      "title": "Dial ’M’ For Motherfucker",
+      "year": 1989
+    },
+    {
+      "title": "Historia de la musica rock",
+      "year": 1990
+    }
+  ],
+  "intro": "プッシー・ガロア (Pussy Galore) は、1985年に結成されたワシントンD.C.出身のロックバンド。バンド名は映画『007 ゴールドフィンガー』に登場する女性パイロットの名から。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cf97d78e-7c86-4931-92c0-b8e22bae1e33"
+  },
+  "edges": [
+    {
+      "to": "to-live-and-shave-in-l-a",
+      "toName": "To Live and Shave in L.A.",
+      "toArea": "美国",
+      "toYears": "1991–",
+      "type": "member",
+      "label": "Tom Smith",
+      "detail": "Tom Smith 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "action-swingers",
+      "toName": "Action Swingers",
+      "toArea": "纽约",
+      "toYears": "1988–1998",
+      "type": "member",
+      "label": "Julia Cafritz",
+      "detail": "Julia Cafritz 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "free-kitten",
+      "toName": "Free Kitten",
+      "toArea": "美国",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Julia Cafritz",
+      "detail": "Julia Cafritz 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "jon-spencer-the-hitmakers",
+      "toName": "Jon Spencer & the HITmakers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Jon Spencer",
+      "detail": "Jon Spencer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "the-bad-seeds",
+  "mbid": "eb2a8edc-5670-4896-82be-87db38de9583",
+  "name": "The Bad Seeds",
+  "area": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/eb2a8edc-5670-4896-82be-87db38de9583"
+  },
+  "edges": [
+    {
+      "to": "nick-cave-the-bad-seeds",
+      "toName": "Nick Cave & the Bad Seeds",
+      "toArea": "墨尔本",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

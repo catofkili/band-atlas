@@ -1,0 +1,47 @@
+{
+  "id": "ねらわれた学園",
+  "mbid": "4370e72d-6bec-45c8-932e-8629a38cceb9",
+  "name": "ねらわれた学園",
+  "area": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4370e72d-6bec-45c8-932e-8629a38cceb9"
+  },
+  "edges": [
+    {
+      "to": "zazen-boys",
+      "toName": "ZAZEN BOYS",
+      "toArea": "东京",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "向井秀徳",
+      "detail": "向井秀徳 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "member",
+      "label": "向井秀徳",
+      "detail": "向井秀徳 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "kimonos",
+      "toName": "KIMONOS",
+      "toArea": null,
+      "toYears": "2010–",
+      "type": "member",
+      "label": "向井秀徳",
+      "detail": "向井秀徳 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

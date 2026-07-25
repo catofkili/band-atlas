@@ -1,5 +1,6 @@
 {
   "id": "number-girl",
+  "mbid": "808fe413-ff00-4a68-99fe-0ab265a7e2be",
   "name": "NUMBER GIRL",
   "area": "福冈",
   "years": "1995–2002 / 2019–2022",
@@ -8,7 +9,6 @@
     "Post-hardcore",
     "Noise Rock"
   ],
-  "intro": "向井秀徳领衔的四人组。轰鸣的双吉他、念白式的日语主唱、突然掐断的编曲，几乎重写了此后二十年日本另类摇滚的语法。",
   "albums": [
     {
       "title": "SCHOOL GIRL BYE BYE",
@@ -27,6 +27,8 @@
       "year": 2002
     }
   ],
+  "intro": "向井秀徳领衔的四人组。轰鸣的双吉他、念白式的日语主唱、突然掐断的编曲，几乎重写了此后二十年日本另类摇滚的语法。",
+  "introLang": "zh",
   "tracks": [
     "透明少女",
     "OMOIDE IN MY HEAD",
@@ -36,7 +38,7 @@
   ],
   "lore": "2002 年 11 月 30 日，札幌 PENNY LANE 24。演出中途宣布解散，此后十七年没有再合体。",
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=NUMBER%20GIRL&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/808fe413-ff00-4a68-99fe-0ab265a7e2be"
   },
   "edges": [
     {
@@ -73,17 +75,6 @@
       "weight": 0.9
     },
     {
-      "to": "toddle",
-      "toName": "toddle",
-      "toArea": "东京",
-      "toYears": "2004–",
-      "type": "member",
-      "label": "田渕ひさ子",
-      "detail": "吉他手田渕ひさ子在乐队解散后组建 toddle，并第一次亲自担任主唱。",
-      "year": 2004,
-      "weight": 0.9
-    },
-    {
       "to": "bloodthirsty-butchers",
       "toName": "bloodthirsty butchers",
       "toArea": "北海道",
@@ -93,6 +84,17 @@
       "detail": "两队在九十年代即频繁同台；NUMBER GIRL 解散数年后，田渕ひさ子正式成为 butchers 的吉他手。",
       "year": 2007,
       "weight": 0.85
+    },
+    {
+      "to": "toddle",
+      "toName": "toddle",
+      "toArea": "东京",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "田渕ひさ子",
+      "detail": "吉他手田渕ひさ子在乐队解散后组建 toddle，并第一次亲自担任主唱。",
+      "year": 2004,
+      "weight": 0.9
     },
     {
       "to": "vola-and-the-oriental-machine",
@@ -150,17 +152,6 @@
       "weight": 0.7
     },
     {
-      "to": "mo-some-tonebender",
-      "toName": "MO'SOME TONEBENDER",
-      "toArea": "福冈",
-      "toYears": "1997–",
-      "type": "scene",
-      "label": "福冈・同世代",
-      "detail": "同样出自九十年代末的福冈场景，只是走了更噪、更放浪的车库路线。",
-      "year": null,
-      "weight": 0.6
-    },
-    {
       "to": "supercar",
       "toName": "SUPERCAR",
       "toArea": "青森",
@@ -181,6 +172,83 @@
       "detail": "同属九十年代后期日本摇滚最受注目的一批乐队。",
       "year": null,
       "weight": 0.55
+    },
+    {
+      "to": "mo-some-tonebender",
+      "toName": "MO'SOME TONEBENDER",
+      "toArea": "福冈",
+      "toYears": "1997–",
+      "type": "scene",
+      "label": "福冈・同世代",
+      "detail": "同样出自九十年代末的福冈场景，只是走了更噪、更放浪的车库路线。",
+      "year": null,
+      "weight": 0.6
+    },
+    {
+      "to": "lama",
+      "toName": "LAMA",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "浅井健一-the-interchange-kills",
+      "toName": "浅井健一 & THE INTERCHANGE KILLS",
+      "toArea": "日本",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "中尾憲太郎",
+      "detail": "中尾憲太郎 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    },
+    {
+      "to": "kimonos",
+      "toName": "KIMONOS",
+      "toArea": null,
+      "toYears": "2010–",
+      "type": "member",
+      "label": "向井秀徳",
+      "detail": "向井秀徳 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "odani-misako-ta-ta",
+      "toName": "odani misako・ta-ta",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "sloth-love-chunks",
+      "toName": "SLOTH LOVE CHUNKS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "中尾憲太郎",
+      "detail": "中尾憲太郎 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "ねらわれた学園",
+      "toName": "ねらわれた学園",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "向井秀徳",
+      "detail": "向井秀徳 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
     }
   ]
 }

@@ -1,0 +1,40 @@
+{
+  "id": "grinderman",
+  "mbid": "611f1230-7c2b-4610-b9e6-5a4fcb6e3cc7",
+  "name": "Grinderman",
+  "area": "英国",
+  "years": "2006–2011",
+  "genres": [
+    "Garage Rock",
+    "Rock",
+    "Alternative Rock"
+  ],
+  "albums": [
+    {
+      "title": "Grinderman",
+      "year": 2007
+    },
+    {
+      "title": "Grinderman 2",
+      "year": 2010
+    }
+  ],
+  "intro": "Grinderman was an Australian-American rock band that formed in London, England, in 2006.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/611f1230-7c2b-4610-b9e6-5a4fcb6e3cc7"
+  },
+  "edges": [
+    {
+      "to": "nick-cave-the-bad-seeds",
+      "toName": "Nick Cave & the Bad Seeds",
+      "toArea": "墨尔本",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Nick Cave・Martyn P. Casey・Warren Ellis",
+      "detail": "3 位乐手在这两支乐队都待过：Nick Cave・Martyn P. Casey・Warren Ellis。",
+      "year": 2006,
+      "weight": 0.95
+    }
+  ]
+}

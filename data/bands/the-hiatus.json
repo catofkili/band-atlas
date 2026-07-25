@@ -1,5 +1,6 @@
 {
   "id": "the-hiatus",
+  "mbid": "03a457ae-2307-4e7f-bc99-ae48316a214f",
   "name": "the HIATUS",
   "area": "东京",
   "years": "2009–",
@@ -7,7 +8,6 @@
     "Alternative Rock",
     "Post-rock"
   ],
-  "intro": "细美武士在 ELLEGARDEN 休止后召集的乐队，成员分别来自四支不同的知名乐队，编曲比本行复杂得多。",
   "albums": [
     {
       "title": "Trash We'd Love",
@@ -22,6 +22,8 @@
       "year": 2014
     }
   ],
+  "intro": "细美武士在 ELLEGARDEN 休止后召集的乐队，成员分别来自四支不同的知名乐队，编曲比本行复杂得多。",
+  "introLang": "ja",
   "tracks": [
     "Twisted Maple Trees",
     "Insomnia",
@@ -29,7 +31,7 @@
     "Bittersweet / Hatsukoi"
   ],
   "links": {
-    "musicbrainz": "https://musicbrainz.org/search?query=the%20HIATUS&type=artist"
+    "musicbrainz": "https://musicbrainz.org/artist/03a457ae-2307-4e7f-bc99-ae48316a214f"
   },
   "edges": [
     {
@@ -53,6 +55,138 @@
       "detail": "贝斯手ウエノコウジ来自九十年代的 thee michelle gun elephant。",
       "year": 2009,
       "weight": 0.7
+    },
+    {
+      "to": "東京事変",
+      "toName": "東京事変",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "伊澤一葉",
+      "detail": "伊澤一葉 在这两支乐队都待过。",
+      "year": 2020,
+      "weight": 0.62
+    },
+    {
+      "to": "monoeyes",
+      "toName": "MONOEYES",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "member",
+      "label": "細美武士",
+      "detail": "細美武士 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "toe",
+      "toName": "toe",
+      "toArea": "东京",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "柏倉隆史",
+      "detail": "柏倉隆史 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "neil-iraiza",
+      "toName": "neil & iraiza",
+      "toArea": "日本",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "堀江博久",
+      "detail": "堀江博久 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "pupa",
+      "toName": "pupa",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "member",
+      "label": "堀江博久",
+      "detail": "堀江博久 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "radio-caroline",
+      "toName": "Radio Caroline",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "ウエノコウジ",
+      "detail": "ウエノコウジ 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "the-king-all-stars",
+      "toName": "THE King ALL STARS",
+      "toArea": "日本",
+      "toYears": "2014–",
+      "type": "member",
+      "label": "ウエノコウジ",
+      "detail": "ウエノコウジ 在这两支乐队都待过。",
+      "year": 2014,
+      "weight": 0.62
+    },
+    {
+      "to": "ka-f-ka",
+      "toName": "KA.F.KA",
+      "toArea": "日本",
+      "toYears": "2013–2016",
+      "type": "member",
+      "label": "ウエノコウジ",
+      "detail": "ウエノコウジ 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "singer-songer",
+      "toName": "SINGER SONGER",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "堀江博久",
+      "detail": "堀江博久 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "beefeater",
+      "toName": "BEEFEATER",
+      "toArea": "日本",
+      "toYears": "2002–2002",
+      "type": "member",
+      "label": "堀江博久",
+      "detail": "堀江博久 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "the-low-atus",
+      "toName": "the LOW-ATUS",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "細美武士",
+      "detail": "細美武士 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "viva-la-j-rock-anthems",
+      "toName": "VIVA LA J-ROCK ANTHEMS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "伊澤一葉",
+      "detail": "伊澤一葉 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
     }
   ]
 }

@@ -1,0 +1,89 @@
+{
+  "id": "suicidal-tendencies",
+  "mbid": "e9e2a634-984f-4c10-bf7b-7970179e1ef1",
+  "name": "Suicidal Tendencies",
+  "area": "洛杉矶",
+  "years": "1982–",
+  "genres": [
+    "Crossover Thrash",
+    "Thrash Metal",
+    "Hardcore Punk"
+  ],
+  "albums": [
+    {
+      "title": "Suicidal Tendencies",
+      "year": 1983
+    },
+    {
+      "title": "Join the Army",
+      "year": 1987
+    },
+    {
+      "title": "How Will I Laugh Tomorrow When I Can't Even Smile Today",
+      "year": 1988
+    },
+    {
+      "title": "Controlled by Hatred / Feel Like Shit… Deja‐Vu",
+      "year": 1989
+    },
+    {
+      "title": "Lights… Camera… Revolution!",
+      "year": 1990
+    },
+    {
+      "title": "The Art of Rebellion",
+      "year": 1992
+    }
+  ],
+  "intro": "スイサイダル・テンデンシーズは、アメリカ合衆国出身のスラッシュ/ハードコア・バンド。",
+  "introLang": "ja",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e9e2a634-984f-4c10-bf7b-7970179e1ef1"
+  },
+  "edges": [
+    {
+      "to": "medication",
+      "toName": "Medication",
+      "toArea": "洛杉矶",
+      "toYears": "1999–2003",
+      "type": "member",
+      "label": "Brooks Wackerman・Robert Trujillo",
+      "detail": "2 位乐手在这两支乐队都待过：Brooks Wackerman・Robert Trujillo。",
+      "year": 1997,
+      "weight": 0.84
+    },
+    {
+      "to": "the-vandals",
+      "toName": "The Vandals",
+      "toArea": "Huntington Beach",
+      "toYears": "1980–",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "tenacious-d",
+      "toName": "Tenacious D",
+      "toArea": "洛杉矶",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "the-fantômas-melvins-big-band",
+      "toName": "The Fantômas Melvins Big Band",
+      "toArea": "美国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Dave Lombardo",
+      "detail": "Dave Lombardo 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    }
+  ]
+}

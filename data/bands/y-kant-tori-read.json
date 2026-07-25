@@ -1,0 +1,32 @@
+{
+  "id": "y-kant-tori-read",
+  "mbid": "ee361394-914f-4074-891a-3b17b0f89a37",
+  "name": "Y Kant Tori Read",
+  "area": "洛杉矶",
+  "years": "1984–1989",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Y Kant Tori Read",
+      "year": 1988
+    }
+  ],
+  "intro": "Y Kant Tori Read was an American synth-pop band fronted by singer-songwriter Tori Amos and active between 1984 and 1989.",
+  "introLang": "en",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ee361394-914f-4074-891a-3b17b0f89a37"
+  },
+  "edges": [
+    {
+      "to": "the-power-rangers-orchestra",
+      "toName": "The Power Rangers Orchestra",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Kim Bullard",
+      "detail": "Kim Bullard 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

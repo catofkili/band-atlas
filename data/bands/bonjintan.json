@@ -1,0 +1,45 @@
+{
+  "id": "bonjintan",
+  "mbid": "823f8b5a-a1eb-4dad-b417-8d5696d97243",
+  "name": "Bonjintan",
+  "area": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Bonjin Tan",
+      "year": 2017
+    },
+    {
+      "title": "Dental Kafka",
+      "year": 2020
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/823f8b5a-a1eb-4dad-b417-8d5696d97243"
+  },
+  "edges": [
+    {
+      "to": "delivery-health",
+      "toName": "Delivery Health",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "山本達久・Giovanni di Domenico",
+      "detail": "2 位乐手在这两支乐队都待过：山本達久・Giovanni di Domenico。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "kafka-s-ibiki",
+      "toName": "Kafka’s Ibiki",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "山本達久",
+      "detail": "山本達久 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}
