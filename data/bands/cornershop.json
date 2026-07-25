@@ -9,7 +9,8 @@
   "genres": [
     "亚洲",
     "英国流行乐",
-    "英国亚裔"
+    "英国亚裔",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -39,6 +40,24 @@
   ],
   "intro": "Corner Shop是一支成立于英格兰莱斯特的摇滚乐队。该乐队以印度裔英国人蒂金德·辛为核心，于1991年成立。",
   "introLang": "zh",
+  "tracks": [
+    "Brimful of Asha"
+  ],
+  "trackSources": [
+    {
+      "title": "Brimful of Asha"
+    }
+  ],
+  "listens": 67350,
+  "listeners": 4891,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"
@@ -53,7 +72,8 @@
       "label": "Paul McGuigan",
       "detail": "Paul McGuigan 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-rain",
@@ -64,7 +84,8 @@
       "label": "Paul McGuigan",
       "detail": "Paul McGuigan 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "clinton",
@@ -75,7 +96,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

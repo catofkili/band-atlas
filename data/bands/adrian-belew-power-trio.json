@@ -12,6 +12,16 @@
   "albums": [],
   "intro": "罗伯特·史蒂文·“阿德里安”·贝勒（Robert Steven \"Adrian\" Belew，1949年12月23日出生）是一位美国音乐家、歌手、词曲作者和唱片制作人。",
   "introLang": "zh",
+  "listens": 519,
+  "listeners": 22,
+  "quality": {
+    "score": 49,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/30fda151-9520-44b5-82ba-a9ed7bce85c4"
@@ -26,7 +36,8 @@
       "label": "Julie Slick",
       "detail": "Julie Slick 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -6,7 +6,10 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2007–",
-  "genres": [],
+  "genres": [
+    "電子音樂",
+    "日本流行音樂"
+  ],
   "albums": [
     {
       "title": "floating pupa",
@@ -19,6 +22,16 @@
   ],
   "intro": "pupa是一支成立于2007年的日本流行电子乐队。",
   "introLang": "zh",
+  "listens": 949,
+  "listeners": 130,
+  "quality": {
+    "score": 65,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e4eab1d9-2af5-43bf-9b3e-2db132c964b7"
@@ -33,7 +46,23 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "くるり",
+      "toName": "くるり",
+      "toArea": "京都",
+      "toYears": "1996–",
+      "type": "guest",
+      "label": "客串：権藤知彦",
+      "detail": "MusicBrainz 录音资料显示，権藤知彦参与了《There is (always light)》、《遥かなるリスボン》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/daa3cf6b-2290-4e45-9cd6-ed32039d7f6d",
+        "https://musicbrainz.org/recording/11f1def4-540e-4eb5-8fc8-5a45234ca40f"
+      ]
     },
     {
       "to": "neil-iraiza",
@@ -44,7 +73,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "metafive",
@@ -55,7 +85,8 @@
       "label": "権藤知彦",
       "detail": "権藤知彦 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "singer-songer",
@@ -66,7 +97,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beefeater",
@@ -77,7 +109,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

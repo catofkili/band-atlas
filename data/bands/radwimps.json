@@ -8,7 +8,10 @@
   "years": "2001–",
   "genres": [
     "流行摇滚",
-    "摇滚"
+    "摇滚",
+    "朋克搖滾",
+    "情绪摇滚",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -38,6 +41,40 @@
   ],
   "intro": "RADWIMPS，简称RAD，日本摇滚乐队，现乃日本环球音乐旗下厂牌Muzinto Records的艺人，所属经纪公司为voque ting。",
   "introLang": "zh",
+  "tracks": [
+    "前前前世",
+    "オーダーメイド",
+    "DADA",
+    "ふたりごと",
+    "有心論"
+  ],
+  "trackSources": [
+    {
+      "title": "前前前世"
+    },
+    {
+      "title": "オーダーメイド"
+    },
+    {
+      "title": "DADA"
+    },
+    {
+      "title": "ふたりごと"
+    },
+    {
+      "title": "有心論"
+    }
+  ],
+  "listens": 269047,
+  "listeners": 5215,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6f500293-7396-4903-b4fd-118127d06f9e"
@@ -52,7 +89,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

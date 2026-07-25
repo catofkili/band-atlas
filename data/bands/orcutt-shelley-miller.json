@@ -11,8 +11,18 @@
     "太空摇滚"
   ],
   "albums": [],
-  "intro": "Orcutt Shelley Miller是一支以迷幻摇滚、太空摇滚为主要风格的音乐团体。",
+  "intro": "Orcutt Shelley Miller是一支音乐团体，现有资料记录的主要风格包括迷幻摇滚、太空摇滚。MusicBrainz 还记录了它与Anywhere之间的成员往来。",
   "introLang": "zh",
+  "listens": 586,
+  "listeners": 112,
+  "quality": {
+    "score": 13,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7994fd50-cd4d-4366-9848-53afd8827b8d"
@@ -27,7 +37,8 @@
       "label": "Ethan Miller",
       "detail": "Ethan Miller 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

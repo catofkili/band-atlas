@@ -8,7 +8,12 @@
   "years": "1992–",
   "genres": [
     "放克",
-    "迪斯科"
+    "迪斯科",
+    "另类摇滚",
+    "流行音乐",
+    "放克爵士樂",
+    "酸爵士",
+    "放克搖滾"
   ],
   "albums": [
     {
@@ -38,6 +43,40 @@
   ],
   "intro": "杰米罗奎是一支来自伦敦的英国放克和酸爵士乐队。该乐队成立于1992年，由主唱杰·凯领军，并在1990年代的伦敦放克和酸爵士运动中占据重要地位。",
   "introLang": "zh",
+  "tracks": [
+    "虛幻的瘋狂",
+    "オールライト (ジャミロクワイの曲)",
+    "コズミック・ガール",
+    "リトル・エル",
+    "罐頭熱"
+  ],
+  "trackSources": [
+    {
+      "title": "虛幻的瘋狂"
+    },
+    {
+      "title": "オールライト (ジャミロクワイの曲)"
+    },
+    {
+      "title": "コズミック・ガール"
+    },
+    {
+      "title": "リトル・エル"
+    },
+    {
+      "title": "罐頭熱"
+    }
+  ],
+  "listens": 729770,
+  "listeners": 14610,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f4857fb9-e255-4dc6-bd01-e4ca7cc68544"
@@ -52,7 +91,8 @@
       "label": "DJ D-Zire・Gavin Dodds",
       "detail": "2 位乐手在这两支乐队都待过：DJ D-Zire・Gavin Dodds。",
       "year": 1993,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "gorillaz",
@@ -63,7 +103,8 @@
       "label": "DJ D-Zire",
       "detail": "DJ D-Zire 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "vicky-cryer",
@@ -74,7 +115,8 @@
       "label": "Nick Fyffe",
       "detail": "Nick Fyffe 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jc-001-dj-d-zire",
@@ -85,7 +127,8 @@
       "label": "DJ D-Zire",
       "detail": "DJ D-Zire 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

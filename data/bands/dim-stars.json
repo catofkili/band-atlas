@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "Dim Stars",
@@ -15,6 +17,16 @@
   ],
   "intro": "Dim Stars 是一支另类摇滚超级乐队，于 1990 年代初期短暂活跃过。",
   "introLang": "zh",
+  "listens": 972,
+  "listeners": 119,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5f984344-da28-4d68-ae1c-8bce9637180a"
@@ -29,7 +41,8 @@
       "label": "Robert Quine",
       "detail": "Robert Quine 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "wylde-ratttz",
@@ -40,7 +53,8 @@
       "label": "Don Fleming",
       "detail": "Don Fleming 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

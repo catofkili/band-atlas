@@ -7,7 +7,9 @@
   "country": "日本",
   "years": "1986–",
   "genres": [
-    "涩谷系"
+    "涩谷系",
+    "靈魂樂",
+    "日本流行音樂"
   ],
   "albums": [
     {
@@ -37,6 +39,40 @@
   ],
   "intro": "Original Love是日本的一支音乐组合。成立于1985年，1991年正式出道。组合成立之初有4名成员，出道时为5人组合，但自1995年起，作为田岛贵男的个人组合继续活动。",
   "introLang": "zh",
+  "tracks": [
+    "DEEP FRENCH KISS",
+    "Let's Go!",
+    "MILLION SECRETS OF JAZZ",
+    "STARS (ORIGINAL LOVEの曲)",
+    "THE ROVER・IT'S A WONDERFUL WORLD"
+  ],
+  "trackSources": [
+    {
+      "title": "DEEP FRENCH KISS"
+    },
+    {
+      "title": "Let's Go!"
+    },
+    {
+      "title": "MILLION SECRETS OF JAZZ"
+    },
+    {
+      "title": "STARS (ORIGINAL LOVEの曲)"
+    },
+    {
+      "title": "THE ROVER・IT'S A WONDERFUL WORLD"
+    }
+  ],
+  "listens": 4578,
+  "listeners": 472,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/da1b555e-946c-4e5f-bfe3-dedd6102cdd2"
@@ -51,7 +87,8 @@
       "label": "田島貴男",
       "detail": "田島貴男 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "portable-rock",
@@ -62,7 +99,8 @@
       "label": "宮田繁男",
       "detail": "宮田繁男 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -13,8 +13,18 @@
       "year": 2015
     }
   ],
-  "intro": "KA.F.KA是一支来自日本的音乐团体，活跃时期为2013–2016。",
+  "intro": "KA.F.KA是一支来自日本的音乐团体，活跃时期为2013–2016。目前资料收录了《Fantome † Noir》等作品；MusicBrainz 还记录了它与thee michelle gun elephant、the HIATUS、Radio Caroline之间的成员往来。",
   "introLang": "zh",
+  "listens": 30,
+  "listeners": 3,
+  "quality": {
+    "score": 11,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d74acfab-2aea-48ae-9cc2-c0b11e83aacf"
@@ -29,7 +39,8 @@
       "label": "ウエノコウジ",
       "detail": "ウエノコウジ 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-hiatus",
@@ -40,7 +51,8 @@
       "label": "ウエノコウジ",
       "detail": "ウエノコウジ 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "radio-caroline",
@@ -51,7 +63,8 @@
       "label": "ウエノコウジ",
       "detail": "ウエノコウジ 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-king-all-stars",
@@ -62,7 +75,8 @@
       "label": "ウエノコウジ",
       "detail": "ウエノコウジ 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ace-of-spades",
@@ -73,7 +87,8 @@
       "label": "宮上元克",
       "detail": "宮上元克 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "boøwy杉並",
@@ -84,7 +99,8 @@
       "label": "宮上元克",
       "detail": "宮上元克 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

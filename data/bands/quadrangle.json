@@ -6,10 +6,22 @@
   "countryCode": "JP",
   "country": "日本",
   "years": null,
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [],
   "intro": "QUADRANGLE是一支日本摇滚乐队。约于2010年以乐队形式成立。暂停活动后，虽然该名称作为猫田秀雄的个人项目名称得以保留，但长期处于沉寂状态。",
   "introLang": "zh",
+  "listens": 209,
+  "listeners": 38,
+  "quality": {
+    "score": 49,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1101ca79-cc8d-4add-a7d4-1cbcdc363516"
@@ -24,7 +36,8 @@
       "label": "鈴木浩之",
       "detail": "鈴木浩之 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

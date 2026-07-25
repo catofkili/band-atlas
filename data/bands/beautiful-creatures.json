@@ -6,7 +6,10 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1999–",
-  "genres": [],
+  "genres": [
+    "硬式搖滾",
+    "華麗金屬"
+  ],
   "albums": [
     {
       "title": "Beautiful Creatures",
@@ -19,6 +22,16 @@
   ],
   "intro": "Beautiful Creatures（有时简称为BC）是一支美国硬摇滚乐队，由吉他手DJ Ashba和Bang Tango乐队的主唱Joe Lesté于1999年组建。",
   "introLang": "zh",
+  "listens": 3173,
+  "listeners": 157,
+  "quality": {
+    "score": 65,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/260b0a6c-b464-4acd-bbd1-9dbb00703207"
@@ -33,7 +46,8 @@
       "label": "DJ Ashba・Michael Thomas",
       "detail": "2 位乐手在这两支乐队都待过：DJ Ashba・Michael Thomas。",
       "year": 1999,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "l-a-guns",
@@ -44,7 +58,8 @@
       "label": "Joe Lesté・Kenny Kweens",
       "detail": "2 位乐手在这两支乐队都待过：Joe Lesté・Kenny Kweens。",
       "year": 1999,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "guns-n-roses",
@@ -55,7 +70,8 @@
       "label": "DJ Ashba",
       "detail": "DJ Ashba 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sixx-a-m",
@@ -66,7 +82,8 @@
       "label": "DJ Ashba",
       "detail": "DJ Ashba 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "adler-s-appetite",
@@ -77,7 +94,8 @@
       "label": "Michael Thomas",
       "detail": "Michael Thomas 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

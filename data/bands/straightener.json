@@ -8,6 +8,7 @@
   "years": "1998–",
   "genres": [
     "另类摇滚",
+    "情绪摇滚",
     "后朋克"
   ],
   "albums": [
@@ -29,13 +30,23 @@
     }
   ],
   "intro": "ホリエアツシ的乐队，从双人编制起步。2004 年日向秀和加入之后成为四人阵容，也由此接上了整个日本摇滚的人脉网。",
-  "introLang": "ja",
+  "introLang": "zh",
   "tracks": [
     "TRAVELING GARGOYLE",
     "シーグラス",
     "ROCKSTEADY",
     "KILLER TUNE"
   ],
+  "listens": 15946,
+  "listeners": 676,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ee94b47c-db73-4135-b3d6-deced74b94ba"
@@ -50,7 +61,8 @@
       "label": "日向秀和",
       "detail": "日向秀和同时是 Nothing's Carved In Stone 的贝斯手，两队长年并行。",
       "year": 2009,
-      "weight": 0.85
+      "weight": 0.85,
+      "sources": []
     },
     {
       "to": "zazen-boys",
@@ -61,7 +73,8 @@
       "label": "日向秀和",
       "detail": "贝斯手日向秀和曾长期兼任 ZAZEN BOYS 的贝斯。",
       "year": 2004,
-      "weight": 0.8
+      "weight": 0.8,
+      "sources": []
     },
     {
       "to": "ellegarden",
@@ -72,7 +85,8 @@
       "label": "2000 年代同世代",
       "detail": "同属 2000 年代 live house 场景的核心，成员之间往来密切。",
       "year": null,
-      "weight": 0.6
+      "weight": 0.6,
+      "sources": []
     },
     {
       "to": "asian-kung-fu-generation",
@@ -83,7 +97,8 @@
       "label": "2000 年代同世代",
       "detail": "同属 2000 年代把 live house 场景推向大场馆的一批乐队。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "the-predators",
@@ -94,7 +109,8 @@
       "label": "ナカヤマシンペイ",
       "detail": "ナカヤマシンペイ 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "radio-bootsy",
@@ -105,7 +121,8 @@
       "label": "ホリエアツシ",
       "detail": "ホリエアツシ 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -39,6 +39,24 @@
   ],
   "intro": "The Adolescents 是一支美国朋克摇滚乐队，于 1979 年在加利福尼亚州富勒顿市成立。",
   "introLang": "zh",
+  "tracks": [
+    "Amoeba"
+  ],
+  "trackSources": [
+    {
+      "title": "Amoeba"
+    }
+  ],
+  "listens": 57486,
+  "listeners": 2713,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c43c7134-5d6f-4bfa-8275-b4012ae97c46"
@@ -53,7 +71,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "45-grave",
@@ -64,7 +83,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-tater-totz",
@@ -75,7 +95,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-weirdos",
@@ -86,7 +107,8 @@
       "label": "Danny Benair",
       "detail": "Danny Benair 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dee-gees",
@@ -97,7 +119,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "germs",
@@ -108,7 +131,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -119,7 +143,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-holez",
@@ -130,7 +155,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "blink-182",
@@ -141,7 +167,8 @@
       "label": "影响关系",
       "detail": "Adolescents 影响了 blink‐182（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1981–2003",
-  "genres": [],
+  "genres": [
+    "硬核朋克"
+  ],
   "albums": [
     {
       "title": "Whats in a Name…?",
@@ -19,6 +21,16 @@
   ],
   "intro": "The Fartz 是一支成立于 1981 年的硬核朋克乐队，也是华盛顿州西雅图地区该流派中最早崭露头角的知名乐队之一。",
   "introLang": "zh",
+  "listens": 1343,
+  "listeners": 118,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2e95c700-0e9c-4fc9-9828-ddaebba37632"
@@ -33,7 +45,8 @@
       "label": "Tom Hansen",
       "detail": "Tom Hansen 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

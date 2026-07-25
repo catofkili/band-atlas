@@ -6,7 +6,9 @@
   "countryCode": null,
   "country": null,
   "years": "1987–2010",
-  "genres": [],
+  "genres": [
+    "流行音乐"
+  ],
   "albums": [
     {
       "title": "Outrageous",
@@ -15,11 +17,35 @@
   ],
   "intro": "Boogie Box High 是 1980 年代末由安德罗斯·乔治欧（Andros Georgiou）领衔的英国流行音乐项目，参与合作的音乐人包括乔治·迈克尔（George Michael）、吉他手尼克·海沃德（Nick Heyward，来自 Haircut One Hundred 乐队）、键盘手米克·塔尔博特（Mick Talbot，来自 The Style Council 乐队）， 吉他手兼词曲作者大卫·奥斯汀、贝斯手迪昂·埃斯图斯等人。",
   "introLang": "zh",
+  "listens": 210,
+  "listeners": 75,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/82d6c629-d9cf-46c7-aa1e-a511eb344ab1"
   },
   "edges": [
+    {
+      "to": "queen",
+      "toName": "Queen",
+      "toArea": "伦敦",
+      "toYears": "1970–",
+      "type": "guest",
+      "label": "客串：George Michael",
+      "detail": "MusicBrainz 录音资料显示，George Michael参与了《’39》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/3b9b0a89-ecf7-4c90-b977-691e586298fc"
+      ]
+    },
     {
       "to": "mark-knopfler-s-guitar-heroes",
       "toName": "Mark Knopfler’s Guitar Heroes",
@@ -29,7 +55,8 @@
       "label": "Andy Taylor",
       "detail": "Andy Taylor 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

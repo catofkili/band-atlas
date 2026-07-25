@@ -6,7 +6,10 @@
   "countryCode": "GB",
   "country": "英国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "電子音樂",
+    "艺术摇滚"
+  ],
   "albums": [
     {
       "title": "Identity",
@@ -15,6 +18,16 @@
   ],
   "intro": "ZEE是一支由理查德·莱特和戴夫·哈里斯于1983年组建的英国乐队。1984年，该乐队录制了他们的首张也是唯一一张专辑《Identity》。",
   "introLang": "zh",
+  "listens": 3048,
+  "listeners": 701,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0aa04a77-c86a-4d0e-b882-9876a58c01a3"
@@ -29,7 +42,8 @@
       "label": "Richard Wright",
       "detail": "Richard Wright 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "architectural-abdabs",
@@ -40,7 +54,8 @@
       "label": "Richard Wright",
       "detail": "Richard Wright 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

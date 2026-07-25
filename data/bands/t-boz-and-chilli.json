@@ -10,6 +10,16 @@
   "albums": [],
   "intro": "T Boz and Chilli是一支来自美国的音乐团体。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0ad8a644-6114-4155-b616-bf7a5420d770"
@@ -24,7 +34,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

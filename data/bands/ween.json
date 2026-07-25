@@ -9,7 +9,9 @@
   "genres": [
     "实验摇滚",
     "另类摇滚",
-    "艺术摇滚"
+    "艺术摇滚",
+    "迷幻搖滾",
+    "低傳真音樂"
   ],
   "albums": [
     {
@@ -39,6 +41,40 @@
   ],
   "intro": "Ween是一支来自宾夕法尼亚州新希望镇的美国摇滚乐队，由亚伦·弗里曼（Aaron Freeman）和米基·梅尔基翁多（Mickey Melchiondo）于1984年组建，两人更广为人知的艺名分别是吉恩·威恩（Gene Ween）和迪恩·威恩（Dean Ween）。",
   "introLang": "zh",
+  "tracks": [
+    "Ocean Man",
+    "Even If You Don't",
+    "Piss Up a Rope",
+    "Push th' Little Daisies",
+    "You Were the Fool / Piss Up a Rope"
+  ],
+  "trackSources": [
+    {
+      "title": "Ocean Man"
+    },
+    {
+      "title": "Even If You Don't"
+    },
+    {
+      "title": "Piss Up a Rope"
+    },
+    {
+      "title": "Push th' Little Daisies"
+    },
+    {
+      "title": "You Were the Fool / Piss Up a Rope"
+    }
+  ],
+  "listens": 700922,
+  "listeners": 8862,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c0eee88b-47f2-4cd2-ac48-a045e902a432"
@@ -53,7 +89,8 @@
       "label": "Andrew Weiss",
       "detail": "Andrew Weiss 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "desert-sessions",
@@ -64,7 +101,8 @@
       "label": "Dean Ween",
       "detail": "Dean Ween 在这两支乐队都待过。",
       "year": 2016,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

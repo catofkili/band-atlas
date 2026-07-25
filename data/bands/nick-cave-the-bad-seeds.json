@@ -9,7 +9,10 @@
   "genres": [
     "另类摇滚",
     "后朋克",
-    "朋克布鲁斯"
+    "朋克布鲁斯",
+    "哥德搖滾",
+    "後龐克",
+    "實驗搖滾"
   ],
   "albums": [
     {
@@ -39,6 +42,40 @@
   ],
   "intro": "尼克·凯夫与坏种子乐队（Nick Cave and the Bad Seeds）是一支澳大利亚摇滚乐队，由主唱尼克·凯夫、多乐器演奏家米克·哈维以及德国吉他手兼主唱布利克萨·巴格尔德于1983年在墨尔本组建。",
   "introLang": "zh",
+  "tracks": [
+    "野薔薇",
+    "Red Right Hand",
+    "(Are You) The One That I've Been Waiting For",
+    "Loverman",
+    "租庇利街"
+  ],
+  "trackSources": [
+    {
+      "title": "野薔薇"
+    },
+    {
+      "title": "Red Right Hand"
+    },
+    {
+      "title": "(Are You) The One That I've Been Waiting For"
+    },
+    {
+      "title": "Loverman"
+    },
+    {
+      "title": "租庇利街"
+    }
+  ],
+  "listens": 1007090,
+  "listeners": 10907,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/172e1f1a-504d-4488-b053-6344ba63e6d0"
@@ -53,7 +90,8 @@
       "label": "Nick Cave・Martyn P. Casey・Warren Ellis",
       "detail": "3 位乐手在这两支乐队都待过：Nick Cave・Martyn P. Casey・Warren Ellis。",
       "year": 2006,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-cramps",
@@ -64,7 +102,8 @@
       "label": "Kid Congo Powers",
       "detail": "Kid Congo Powers 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "knoxville-girls",
@@ -75,7 +114,8 @@
       "label": "Kid Congo Powers",
       "detail": "Kid Congo Powers 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "wolfmanhattan-project",
@@ -86,7 +126,8 @@
       "label": "Kid Congo Powers",
       "detail": "Kid Congo Powers 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-bad-seeds",
@@ -97,7 +138,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

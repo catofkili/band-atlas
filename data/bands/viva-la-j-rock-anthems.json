@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "VIVA LA J-ROCK ANTHEMS是一支来自日本的音乐团体。",
+  "intro": "VIVA LA J-ROCK ANTHEMS是一支来自日本的音乐团体。MusicBrainz 还记录了它与東京事変、凛として時雨、the HIATUS之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/53350289-5b36-4df0-8015-f27a07a95fac"
@@ -24,7 +34,8 @@
       "label": "伊澤一葉・亀田誠治",
       "detail": "2 位乐手在这两支乐队都待过：伊澤一葉・亀田誠治。",
       "year": 2020,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "ling-tosite-sigure",
@@ -35,7 +46,8 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-hiatus",
@@ -46,7 +58,8 @@
       "label": "伊澤一葉",
       "detail": "伊澤一葉 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "東京スカパラダイスオーケストラ",
@@ -57,7 +70,8 @@
       "label": "加藤隆志",
       "detail": "加藤隆志 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fzmz",
@@ -68,7 +82,8 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": 2023,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "high-cheez",
@@ -79,7 +94,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-three",
@@ -90,7 +106,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zing",
@@ -101,7 +118,8 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "カオティック-スピードキング",
@@ -112,7 +130,8 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "メガネツインズ",
@@ -123,7 +142,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

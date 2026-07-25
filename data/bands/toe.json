@@ -8,7 +8,9 @@
   "years": "2000–",
   "genres": [
     "后摇滚",
-    "数学摇滚"
+    "数学摇滚",
+    "另类摇滚",
+    "數學搖滾"
   ],
   "albums": [
     {
@@ -30,6 +32,16 @@
   ],
   "intro": "toe是一支2000年在日本东京成立的数学摇滚，后摇滚乐队。",
   "introLang": "zh",
+  "listens": 271319,
+  "listeners": 5143,
+  "quality": {
+    "score": 71,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7ea8a523-b33d-4944-ad31-fad25a81d603"
@@ -44,7 +56,64 @@
       "label": "柏倉隆史",
       "detail": "柏倉隆史 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "shag",
+      "toName": "SHAG",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "guest",
+      "label": "客串：類家心平",
+      "detail": "MusicBrainz 录音资料显示，類家心平参与了《Our Next Movement》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/e870a7c4-0e37-4938-bb85-8fe06430b615"
+      ]
+    },
+    {
+      "to": "fishmans",
+      "toName": "Fishmans+",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "guest",
+      "label": "客串：原田郁子",
+      "detail": "MusicBrainz 录音资料显示，原田郁子参与了《After Image》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/0d9c0b58-f3a7-4588-b317-f8a147ee0de1"
+      ]
+    },
+    {
+      "to": "ザ-プールサイド",
+      "toName": "ザ・プールサイド",
+      "toArea": null,
+      "toYears": "2016–",
+      "type": "guest",
+      "label": "客串：木村カエラ",
+      "detail": "MusicBrainz 录音资料显示，木村カエラ参与了《オトトタイミングキミト》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/f5d70ef3-ed66-4f8d-ba57-a8f4e73d772a"
+      ]
+    },
+    {
+      "to": "妖精たち",
+      "toName": "妖精たち",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：U‐ZHAAN",
+      "detail": "MusicBrainz 录音资料显示，U‐ZHAAN参与了《G.O.O.D L.U.C.K》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/121ffca2-ff91-4573-926c-4dd681a80c3a"
+      ]
     }
   ]
 }

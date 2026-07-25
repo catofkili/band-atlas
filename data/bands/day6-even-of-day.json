@@ -6,10 +6,22 @@
   "countryCode": "KR",
   "country": "韩国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "韓國流行音樂"
+  ],
   "albums": [],
   "intro": "DAY6 (Even of Day)是由韩国四人乐队DAY6的成员Young K、元弼和道恩三人组成的组合。",
   "introLang": "zh",
+  "listens": 9438,
+  "listeners": 352,
+  "quality": {
+    "score": 49,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/af2320d6-948e-499a-8bcf-83c93e0a80fb"
@@ -24,7 +36,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

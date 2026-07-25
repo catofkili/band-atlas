@@ -7,7 +7,9 @@
   "country": "意大利",
   "years": "1979–1986",
   "genres": [
-    "经典流行与摇滚"
+    "经典流行与摇滚",
+    "後迪斯可",
+    "放克"
   ],
   "albums": [
     {
@@ -37,6 +39,40 @@
   ],
   "intro": "Change是由意大利制作人杰克·弗雷德·佩特拉斯于1979年在博洛尼亚创立的乐队。",
   "introLang": "zh",
+  "tracks": [
+    "A Lover's Holiday",
+    "Hold Tight",
+    "Paradise",
+    "Change of Heart",
+    "Heaven of My Life"
+  ],
+  "trackSources": [
+    {
+      "title": "A Lover's Holiday"
+    },
+    {
+      "title": "Hold Tight"
+    },
+    {
+      "title": "Paradise"
+    },
+    {
+      "title": "Change of Heart"
+    },
+    {
+      "title": "Heaven of My Life"
+    }
+  ],
+  "listens": 13348,
+  "listeners": 1751,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9974d324-3d58-4f93-812b-41eb3ca75eed"
@@ -51,7 +87,8 @@
       "label": "Jeff Bova",
       "detail": "Jeff Bova 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -62,7 +99,8 @@
       "label": "Lisa Fischer",
       "detail": "Lisa Fischer 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "divination",
@@ -73,7 +111,8 @@
       "label": "Jeff Bova",
       "detail": "Jeff Bova 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "elements-of-life",
@@ -84,7 +123,8 @@
       "label": "Lisa Fischer",
       "detail": "Lisa Fischer 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-jagger-the-brothers-of-sodom",
@@ -95,7 +135,8 @@
       "label": "Lisa Fischer",
       "detail": "Lisa Fischer 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

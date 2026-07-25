@@ -2,8 +2,8 @@
   "id": "lord-sutch-heavy-friends",
   "mbid": "05b1427d-e344-4932-ae42-8a3f096c2119",
   "name": "Lord Sutch & Heavy Friends",
-  "area": null,
-  "countryCode": null,
+  "area": "英国",
+  "countryCode": "GB",
   "country": null,
   "years": null,
   "genres": [
@@ -15,9 +15,20 @@
       "year": 1970
     }
   ],
-  "intro": "Lord Sutch & Heavy Friends是一支以迷幻摇滚为主要风格的音乐团体。",
+  "intro": "Lord Sutch & Heavy Friends是一支来自英国的音乐团体，现有资料记录的主要风格包括迷幻摇滚。目前资料收录了《Lord Sutch and Heavy Friends》等作品；MusicBrainz 还记录了它与Cyril Davies & His Rhythm & Blues All Stars、Led Zeppelin、Plastic Ono Band之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 297,
+  "listeners": 38,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 18,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/05b1427d-e344-4932-ae42-8a3f096c2119"
   },
@@ -31,7 +42,8 @@
       "label": "Richard Brown・Nicky Hopkins",
       "detail": "2 位乐手在这两支乐队都待过：Richard Brown・Nicky Hopkins。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "led-zeppelin",
@@ -42,7 +54,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "plastic-ono-band",
@@ -53,7 +66,8 @@
       "label": "Keith Moon",
       "detail": "Keith Moon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-who",
@@ -64,7 +78,8 @@
       "label": "Keith Moon",
       "detail": "Keith Moon 在这两支乐队都待过。",
       "year": 1964,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-yardbirds",
@@ -75,7 +90,8 @@
       "label": "Jeff Beck",
       "detail": "Jeff Beck 在这两支乐队都待过。",
       "year": 1965,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "band-of-joy",
@@ -86,7 +102,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gerry-levene-the-avengers",
@@ -97,7 +114,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -108,7 +126,8 @@
       "label": "Jeff Beck",
       "detail": "Jeff Beck 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rockestra",
@@ -119,7 +138,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-honeydrippers",
@@ -130,7 +150,8 @@
       "label": "Jeff Beck",
       "detail": "Jeff Beck 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-nicky-james-movement",
@@ -141,7 +162,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-senators",
@@ -152,7 +174,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

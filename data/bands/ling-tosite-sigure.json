@@ -8,7 +8,11 @@
   "years": "2002–",
   "genres": [
     "数学摇滚",
-    "后硬核"
+    "后硬核",
+    "前衛搖滾",
+    "独立摇滚",
+    "後硬核",
+    "數學搖滾"
   ],
   "albums": [
     {
@@ -32,6 +36,16 @@
     "傍観",
     "DISCO FLIGHT"
   ],
+  "listens": 73507,
+  "listeners": 643,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a0ecfe6b-1035-4d0a-b8c8-c75872139151"
@@ -46,7 +60,22 @@
       "label": "影响来源",
       "detail": "日语咬字与节奏切分上的上游参照。",
       "year": null,
-      "weight": 0.7
+      "weight": 0.7,
+      "sources": []
+    },
+    {
+      "to": "acid-android",
+      "toName": "acid android",
+      "toArea": "日本",
+      "toYears": "2001–",
+      "type": "guest",
+      "label": "客串：TK",
+      "detail": "MusicBrainz 录音资料显示，TK参与了《mode inversion》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/70b963b2-f904-4650-8f3a-6f6a6c0891fe"
+      ]
     },
     {
       "to": "kinoko-teikoku",
@@ -57,7 +86,8 @@
       "label": "2010 年前后",
       "detail": "同属 2010 年前后从 live house 起步的日本另类摇滚新一批。",
       "year": null,
-      "weight": 0.5
+      "weight": 0.5,
+      "sources": []
     },
     {
       "to": "geek-sleep-sheep",
@@ -68,7 +98,8 @@
       "label": "345",
       "detail": "345 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fzmz",
@@ -79,7 +110,8 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": 2023,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pandas",
@@ -90,7 +122,8 @@
       "label": "TK",
       "detail": "TK 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ti-ti-uu",
@@ -101,7 +134,8 @@
       "label": "345",
       "detail": "345 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "viva-la-j-rock-anthems",
@@ -112,7 +146,8 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zing",
@@ -123,7 +158,8 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "カオティック-スピードキング",
@@ -134,7 +170,8 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

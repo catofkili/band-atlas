@@ -9,7 +9,8 @@
   "genres": [
     "硬摇滚",
     "朋克",
-    "朋克摇滚"
+    "朋克摇滚",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -19,6 +20,16 @@
   ],
   "intro": "Neurotic Outsiders是一支于1995年在美国加利福尼亚州好莱坞组建的超级乐队。",
   "introLang": "zh",
+  "listens": 3670,
+  "listeners": 214,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/897dc9d4-f6ca-4646-8a74-e8ef08aa0fb5"
@@ -33,7 +44,8 @@
       "label": "Steve Stevens",
       "detail": "Steve Stevens 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kings-of-chaos",
@@ -44,7 +56,8 @@
       "label": "Steve Stevens",
       "detail": "Steve Stevens 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

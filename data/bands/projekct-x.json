@@ -6,7 +6,9 @@
   "countryCode": "GB",
   "country": "英国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "前衛搖滾"
+  ],
   "albums": [
     {
       "title": "Heaven and Earth",
@@ -15,6 +17,16 @@
   ],
   "intro": "2000年，当King Crimson乐队正在录制专辑《The ConstruKction of Light》时，四位成员同时以ProjeKct X的名义录制了即兴创作的素材。",
   "introLang": "zh",
+  "listens": 1127,
+  "listeners": 132,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c1fb4936-e47a-4a52-b1eb-f3f1606a1d4b"
@@ -29,7 +41,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

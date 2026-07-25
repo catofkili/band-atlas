@@ -6,7 +6,9 @@
   "countryCode": "KR",
   "country": "韩国",
   "years": "2000–",
-  "genres": [],
+  "genres": [
+    "現代搖滾"
+  ],
   "albums": [
     {
       "title": "가벼운 숨결",
@@ -21,8 +23,18 @@
       "year": 2007
     }
   ],
-  "intro": "Julia Hart是一支来自韩国的音乐团体，活跃时期为2000–。",
+  "intro": "Julia Hart是一支来自韩国的音乐团体，活跃时期为2000–，现有资料记录的主要风格包括現代搖滾。目前资料收录了《가벼운 숨결》、《당신은 울기 위해 태어난 사람》等作品；MusicBrainz 还记录了它与언니네 이발관之间的成员往来。",
   "introLang": "zh",
+  "listens": 382,
+  "listeners": 7,
+  "quality": {
+    "score": 15,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a3f30765-6739-49ea-8f5a-cb3d04d79cdd"
@@ -37,7 +49,8 @@
       "label": "정대욱",
       "detail": "정대욱 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

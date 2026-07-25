@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "2001–",
-  "genres": [],
+  "genres": [
+    "独立摇滚"
+  ],
   "albums": [
     {
       "title": "So Pretty",
@@ -35,6 +37,16 @@
   ],
   "intro": "Kid Dakota 是达伦·杰克逊（Darren Jackson）的艺名，有时会在现场演出或录音室录制时由不同的乐队成员伴奏。",
   "introLang": "zh",
+  "listens": 6533,
+  "listeners": 324,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e8bff2b6-25e0-4e58-a8bf-9c48ce993cd0"
@@ -49,7 +61,8 @@
       "label": "Christopher McGuire",
       "detail": "Christopher McGuire 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "くるり",
@@ -60,7 +73,8 @@
       "label": "Christopher McGuire",
       "detail": "Christopher McGuire 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "puppies",
@@ -71,7 +85,8 @@
       "label": "Christopher McGuire",
       "detail": "Christopher McGuire 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

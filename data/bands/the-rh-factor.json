@@ -25,8 +25,18 @@
       "year": 2006
     }
   ],
-  "intro": "The RH Factor是一支来自美国的以当代爵士乐、爵士乐为主要风格的音乐团体。",
+  "intro": "The RH Factor是一支来自美国的音乐团体，现有资料记录的主要风格包括当代爵士乐、爵士乐、爵士融合。目前资料收录了《Hard Groove》、《Strength》等作品；MusicBrainz 还记录了它与The Soultronics之间的成员往来。",
   "introLang": "zh",
+  "listens": 17957,
+  "listeners": 1534,
+  "quality": {
+    "score": 27,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/27decac7-06de-4a04-ab45-d214dfae5d19"
@@ -41,7 +51,8 @@
       "label": "Roy Hargrove・James Poyser・Spanky",
       "detail": "3 位乐手在这两支乐队都待过：Roy Hargrove・James Poyser・Spanky。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     }
   ]
 }

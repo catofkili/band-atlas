@@ -10,6 +10,16 @@
   "albums": [],
   "intro": "3P是香港正东唱片旗下的一队乐队，初期只有商业电台DJ少爷占及茜利妹，加上林一峰三位成员，其后加入独立乐队Vitamin-M及林一峰的妹妹林二汶。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 43,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0cbbc4a7-68b9-4cc6-a5ed-2d726e369ec1"
@@ -24,7 +34,8 @@
       "label": "林二汶・林一峰",
       "detail": "2 位乐手在这两支乐队都待过：林二汶・林一峰。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "at17",
@@ -35,7 +46,8 @@
       "label": "林二汶",
       "detail": "林二汶 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

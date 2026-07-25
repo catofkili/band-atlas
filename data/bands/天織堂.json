@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "天織堂是一支来自香港的音乐团体。",
+  "intro": "天織堂是一支来自香港的音乐团体。MusicBrainz 还记录了它与小島、小島樂隊之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f71e4aaf-b1dd-4f58-a8e8-3be0ba9fd1fb"
@@ -24,7 +34,8 @@
       "label": "黎允文",
       "detail": "黎允文 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "小島樂隊",
@@ -35,7 +46,8 @@
       "label": "黎允文",
       "detail": "黎允文 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,7 +8,12 @@
   "years": "1984–2017",
   "genres": [
     "另类摇滚",
-    "另类金属"
+    "另类金属",
+    "油漬搖滾",
+    "另類金屬",
+    "重金属音乐",
+    "硬式搖滾",
+    "迷幻金属"
   ],
   "albums": [
     {
@@ -38,6 +43,40 @@
   ],
   "intro": "声音花园 是一支美国的摇滚乐队，于1984年在华盛顿州的西雅图组建，最初的阵容是主音兼鼓手克里斯·康奈尔、吉他手金·泰伊尔、贝斯手山本宏。",
   "introLang": "zh",
+  "tracks": [
+    "Spoonman",
+    "Fell on Black Days",
+    "Jesus Christ Pose",
+    "Outshined",
+    "Rusty Cage"
+  ],
+  "trackSources": [
+    {
+      "title": "Spoonman"
+    },
+    {
+      "title": "Fell on Black Days"
+    },
+    {
+      "title": "Jesus Christ Pose"
+    },
+    {
+      "title": "Outshined"
+    },
+    {
+      "title": "Rusty Cage"
+    }
+  ],
+  "listens": 971748,
+  "listeners": 15648,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/153c9281-268f-4cf3-8938-f5a4593e5df4"
@@ -52,7 +91,8 @@
       "label": "Jason Everman",
       "detail": "Jason Everman 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "3rd-secret",
@@ -63,7 +103,8 @@
       "label": "Matt Cameron・Kim Thayil",
       "detail": "2 位乐手在这两支乐队都待过：Matt Cameron・Kim Thayil。",
       "year": 1986,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "mc50",
@@ -74,7 +115,8 @@
       "label": "Matt Cameron・Kim Thayil",
       "detail": "2 位乐手在这两支乐队都待过：Matt Cameron・Kim Thayil。",
       "year": 1986,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -85,7 +127,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queens-of-the-stone-age",
@@ -96,7 +139,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "old",
@@ -107,7 +151,8 @@
       "label": "Jason Everman",
       "detail": "Jason Everman 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "desert-sessions",
@@ -118,7 +163,8 @@
       "label": "Ben Shepherd",
       "detail": "Ben Shepherd 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mind-funk",
@@ -129,7 +175,8 @@
       "label": "Jason Everman",
       "detail": "Jason Everman 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nighttime-boogie-association",
@@ -140,7 +187,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-no-w-t-o-combo",
@@ -151,7 +199,8 @@
       "label": "Kim Thayil",
       "detail": "Kim Thayil 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "black-sabbath",
@@ -162,7 +211,8 @@
       "label": "影响关系",
       "detail": "Soundgarden 受 Black Sabbath 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "deftones",
@@ -173,7 +223,8 @@
       "label": "影响关系",
       "detail": "Soundgarden 影响了 Deftones（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "led-zeppelin",
@@ -184,7 +235,8 @@
       "label": "影响关系",
       "detail": "Soundgarden 受 Led Zeppelin 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "lostprophets",
@@ -195,7 +247,8 @@
       "label": "影响关系",
       "detail": "Soundgarden 影响了 Lostprophets（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

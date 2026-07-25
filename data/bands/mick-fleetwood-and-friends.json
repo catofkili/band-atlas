@@ -8,8 +8,18 @@
   "years": "2020–2020",
   "genres": [],
   "albums": [],
-  "intro": "Mick Fleetwood and Friends是一支音乐团体，活跃时期为2020–2020。",
+  "intro": "Mick Fleetwood and Friends是一支音乐团体，活跃时期为2020–2020。MusicBrainz 还记录了它与Oasis、Exodus、Fleetwood Mac之间的成员往来。",
   "introLang": "zh",
+  "listens": 516,
+  "listeners": 112,
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7b4a9621-17d8-4eb3-b2b3-48a1ab0b2fb2"
@@ -24,7 +34,8 @@
       "label": "Noel Gallagher",
       "detail": "Noel Gallagher 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "exodus",
@@ -35,7 +46,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": 1979,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fleetwood-mac",
@@ -46,7 +58,8 @@
       "label": "Mick Fleetwood",
       "detail": "Mick Fleetwood 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "metallica",
@@ -57,7 +70,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-who",
@@ -68,7 +82,8 @@
       "label": "Pete Townshend",
       "detail": "Pete Townshend 在这两支乐队都待过。",
       "year": 1964,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "noel-gallagher-s-high-flying-birds",
@@ -79,7 +94,36 @@
       "label": "Noel Gallagher",
       "detail": "Noel Gallagher 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "gorillaz",
+      "toName": "Gorillaz",
+      "toArea": "埃塞克斯",
+      "toYears": "1999–",
+      "type": "guest",
+      "label": "客串：Noel Gallagher",
+      "detail": "MusicBrainz 录音资料显示，Noel Gallagher参与了《We Got the Power》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/10709c0b-9352-4d03-8c90-2b6f825c7072"
+      ]
+    },
+    {
+      "to": "system-of-a-down",
+      "toName": "System of a Down",
+      "toArea": "格伦代尔",
+      "toYears": "1995–",
+      "type": "guest",
+      "label": "客串：Kirk Hammett",
+      "detail": "MusicBrainz 录音资料显示，Kirk Hammett参与了《Aerials / Arto》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/7d7e7931-5509-4884-ab83-d7beee976bca"
+      ]
     },
     {
       "to": "tailgunner",
@@ -90,7 +134,8 @@
       "label": "Noel Gallagher",
       "detail": "Noel Gallagher 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deep-end",
@@ -101,7 +146,8 @@
       "label": "Pete Townshend",
       "detail": "Pete Townshend 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gak",
@@ -112,7 +158,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "george-s-band",
@@ -123,7 +170,8 @@
       "label": "Dave Bronze",
       "detail": "Dave Bronze 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kings-of-chaos",
@@ -134,7 +182,8 @@
       "label": "Billy Gibbons",
       "detail": "Billy Gibbons 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -145,7 +194,8 @@
       "label": "Pete Townshend",
       "detail": "Pete Townshend 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "maxwell-house-ranch-band",
@@ -156,7 +206,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rockestra",
@@ -167,7 +218,8 @@
       "label": "Pete Townshend",
       "detail": "Pete Townshend 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spastik-children",
@@ -178,7 +230,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-wedding-band",
@@ -189,7 +242,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

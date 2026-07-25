@@ -10,6 +10,16 @@
   "albums": [],
   "intro": "“ACCESS活动”是FM802自2006年起开展的一项活动。",
   "introLang": "zh",
+  "listens": 217,
+  "listeners": 22,
+  "quality": {
+    "score": 43,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6a943574-bf52-48a3-a439-b1d318015f3e"
@@ -24,7 +34,8 @@
       "label": "ホリエアツシ",
       "detail": "ホリエアツシ 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

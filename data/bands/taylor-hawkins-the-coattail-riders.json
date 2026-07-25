@@ -25,8 +25,18 @@
       "year": 2019
     }
   ],
-  "intro": "Taylor Hawkins & The Coattail Riders是一支来自加利福尼亚州的以另类摇滚、流行音乐为主要风格的音乐团体，活跃时期为2004–2022。",
+  "intro": "Taylor Hawkins & The Coattail Riders是一支来自加利福尼亚州的音乐团体，活跃时期为2004–2022，现有资料记录的主要风格包括另类摇滚、流行音乐、摇滚。目前资料收录了《Taylor Hawkins & The Coattail Riders》、《Red Light Fever》等作品；MusicBrainz 还记录了它与Gannin Arnold Project、The Coattail Riders之间的成员往来。",
   "introLang": "zh",
+  "listens": 6644,
+  "listeners": 709,
+  "quality": {
+    "score": 27,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/397cd952-ae9c-40cb-a504-fd0ef47ec120"
@@ -41,7 +51,8 @@
       "label": "Gannin Arnold",
       "detail": "Gannin Arnold 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-coattail-riders",
@@ -52,7 +63,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

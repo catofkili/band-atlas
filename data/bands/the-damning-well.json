@@ -7,11 +7,22 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "摇滚"
+    "摇滚",
+    "工業金屬"
   ],
   "albums": [],
   "intro": "The Damning Well 是一支摇滚超级乐队，由 Limp Bizkit 乐队的吉他手韦斯·博兰德（Wes Borland）、前 Nine Inch Nails 乐队贝斯手丹尼·洛纳（Danny Lohner）、Filter 乐队主唱理查德·帕特里克（Richard Patrick）以及 A Perfect Circle 乐队鼓手乔什·弗里斯（Josh Freese）组成。",
   "introLang": "zh",
+  "listens": 121,
+  "listeners": 36,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2a3dc878-34f8-48a6-8591-caa8f7b1f70f"
@@ -26,7 +37,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "marilyn-manson",
@@ -37,7 +49,8 @@
       "label": "Wes Borland",
       "detail": "Wes Borland 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -48,7 +61,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "black-light-burns",
@@ -59,7 +73,8 @@
       "label": "Wes Borland",
       "detail": "Wes Borland 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "a-place-to-kill",
@@ -70,7 +85,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 2023,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "army-of-anyone",
@@ -81,7 +97,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-act",
@@ -92,7 +109,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "A.C.E.是一支来自日本的音乐团体。",
+  "intro": "A.C.E.是一支来自日本的音乐团体。MusicBrainz 还记录了它与the pillows、Hi5之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6d50894b-5bdd-42c3-ab33-5c9a956dd01e"
@@ -24,7 +34,8 @@
       "label": "鹿島達也",
       "detail": "鹿島達也 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hi5",
@@ -35,7 +46,8 @@
       "label": "鹿島達也",
       "detail": "鹿島達也 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

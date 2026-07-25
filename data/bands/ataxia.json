@@ -7,7 +7,8 @@
   "country": "美国",
   "years": "2004–2004",
   "genres": [
-    "摇滚"
+    "摇滚",
+    "后摇滚"
   ],
   "albums": [
     {
@@ -21,6 +22,16 @@
   ],
   "intro": "Ataxia是由红辣椒乐队的约翰·弗鲁西安特和乔什·克林霍夫，以及Fugazi乐队的乔·拉里组成的三人乐队。",
   "introLang": "zh",
+  "listens": 11700,
+  "listeners": 963,
+  "quality": {
+    "score": 66,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c2b5da4f-31c2-4a02-80a1-e00008378157"
@@ -35,7 +46,8 @@
       "label": "Joe Lally",
       "detail": "Joe Lally 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -46,7 +58,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-mars-volta",
@@ -57,7 +70,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "thelonious-monster",
@@ -68,7 +82,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-messthetics",
@@ -79,7 +94,8 @@
       "label": "Joe Lally",
       "detail": "Joe Lally 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "decahedron",
@@ -90,7 +106,8 @@
       "label": "Joe Lally",
       "detail": "Joe Lally 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "coriky",
@@ -101,7 +118,8 @@
       "label": "Joe Lally",
       "detail": "Joe Lally 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "omar-rodriguez-lopez-quartet",
@@ -112,7 +130,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "speed-dealer-moms",
@@ -123,7 +142,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

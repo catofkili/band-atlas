@@ -18,6 +18,16 @@
   ],
   "intro": "Seven Hours After Violet 是一支美国金属核乐队，由 System of a Down 的贝斯手 Shavo Odadjian 于 2024 年组建。",
   "introLang": "zh",
+  "listens": 1995,
+  "listeners": 327,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f3bf94d3-8cff-4d43-a5c4-e34da969148d"
@@ -32,7 +42,8 @@
       "label": "Shavo Odadjian",
       "detail": "Shavo Odadjian 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "achozen",
@@ -43,7 +54,8 @@
       "label": "Shavo Odadjian",
       "detail": "Shavo Odadjian 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "north-kingsley",
@@ -54,7 +66,8 @@
       "label": "Shavo Odadjian",
       "detail": "Shavo Odadjian 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "polaris",
@@ -65,7 +78,8 @@
       "label": "Shavo Odadjian",
       "detail": "Shavo Odadjian 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

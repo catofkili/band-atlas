@@ -10,6 +10,16 @@
   "albums": [],
   "intro": "小岛乐队，是香港1980年代一队流行音乐乐队。",
   "introLang": "zh",
+  "listens": 1,
+  "listeners": 1,
+  "quality": {
+    "score": 44,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c812ac46-a44a-4c19-8ef5-d6951056b055"
@@ -24,7 +34,8 @@
       "label": "黎允文・區新明",
       "detail": "2 位乐手在这两支乐队都待过：黎允文・區新明。",
       "year": 1985,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "凡風",
@@ -35,7 +46,8 @@
       "label": "區新明",
       "detail": "區新明 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "天織堂",
@@ -46,7 +58,8 @@
       "label": "黎允文",
       "detail": "黎允文 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

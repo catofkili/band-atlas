@@ -8,13 +8,51 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "妖精たち是一支来自日本的音乐团体。",
+  "intro": "妖精たち是一支来自日本的音乐团体。MusicBrainz 还记录了它与Fishmans+之间的成员往来。",
   "introLang": "zh",
+  "listens": 992,
+  "listeners": 21,
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d48c3c04-3bd9-41af-82c7-ccc223b790f2"
   },
   "edges": [
+    {
+      "to": "くるり",
+      "toName": "くるり",
+      "toArea": "京都",
+      "toYears": "1996–",
+      "type": "guest",
+      "label": "客串：U‐ZHAAN",
+      "detail": "MusicBrainz 录音资料显示，U‐ZHAAN参与了《Liberty & Gravity》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/8370cdc8-52dc-4b6c-8210-aff9fcbf24bb"
+      ]
+    },
+    {
+      "to": "toe",
+      "toName": "toe",
+      "toArea": "东京",
+      "toYears": "2000–",
+      "type": "guest",
+      "label": "客串：U‐ZHAAN",
+      "detail": "MusicBrainz 录音资料显示，U‐ZHAAN参与了《G.O.O.D L.U.C.K》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/121ffca2-ff91-4573-926c-4dd681a80c3a"
+      ]
+    },
     {
       "to": "fishmans",
       "toName": "Fishmans+",
@@ -24,7 +62,8 @@
       "label": "Cornelius",
       "detail": "Cornelius 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

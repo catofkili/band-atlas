@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "节奏布鲁斯"
+  ],
   "albums": [
     {
       "title": "A Jagged Era",
@@ -35,6 +37,40 @@
   ],
   "intro": "锯齿边缘是美国节奏布鲁斯组合，发迹于1995年。 两名主唱布赖恩·凯西、布兰登·凯西是双胞胎兄弟，另外两名成员为凯尔·诺曼、理查德·温戈。",
   "introLang": "zh",
+  "tracks": [
+    "Where the Party At",
+    "Nasty Girl",
+    "Ghetto Girls",
+    "Put a Little Umph in It",
+    "Thank You"
+  ],
+  "trackSources": [
+    {
+      "title": "Where the Party At"
+    },
+    {
+      "title": "Nasty Girl"
+    },
+    {
+      "title": "Ghetto Girls"
+    },
+    {
+      "title": "Put a Little Umph in It"
+    },
+    {
+      "title": "Thank You"
+    }
+  ],
+  "listens": 31174,
+  "listeners": 3062,
+  "quality": {
+    "score": 75,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8b4d99eb-7a54-4648-b299-8e1564d11385"
@@ -49,7 +85,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

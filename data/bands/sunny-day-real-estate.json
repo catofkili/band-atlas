@@ -7,8 +7,11 @@
   "country": "美国",
   "years": "1992–",
   "genres": [
+    "情绪摇滚",
     "另类摇滚",
-    "独立摇滚"
+    "独立摇滚",
+    "油漬搖滾",
+    "後硬核"
   ],
   "albums": [
     {
@@ -30,6 +33,36 @@
   ],
   "intro": "Sunny Day Real Estate是一支来自美国西雅图的情绪摇滚乐队。该乐队成立于1992年，此后曾多次暂停活动，又重新开始活动。",
   "introLang": "zh",
+  "tracks": [
+    "Flatland Spider",
+    "In Circles",
+    "Pillars",
+    "Thief, Steal Me a Peach"
+  ],
+  "trackSources": [
+    {
+      "title": "Flatland Spider"
+    },
+    {
+      "title": "In Circles"
+    },
+    {
+      "title": "Pillars"
+    },
+    {
+      "title": "Thief, Steal Me a Peach"
+    }
+  ],
+  "listens": 166009,
+  "listeners": 4382,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/86b24e8f-a4d9-4c84-83ee-fde0d14ad9fa"
@@ -44,7 +77,8 @@
       "label": "William Goldsmith・Nate Mendel・Jeremy Enigk",
       "detail": "3 位乐手在这两支乐队都待过：William Goldsmith・Nate Mendel・Jeremy Enigk。",
       "year": 1992,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "foo-fighters",
@@ -55,7 +89,8 @@
       "label": "William Goldsmith・Nate Mendel",
       "detail": "2 位乐手在这两支乐队都待过：William Goldsmith・Nate Mendel。",
       "year": 1992,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "christ-on-a-crutch",
@@ -66,7 +101,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "juno",
@@ -77,7 +113,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dee-gees",
@@ -88,7 +125,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "diddly-squat",
@@ -99,7 +137,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -110,7 +149,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fall-out-boy",
@@ -121,7 +161,8 @@
       "label": "影响关系",
       "detail": "Sunny Day Real Estate 影响了 Fall Out Boy（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

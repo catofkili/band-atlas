@@ -13,8 +13,18 @@
       "year": 1992
     }
   ],
-  "intro": "Rumblepuppy是一支来自马萨诸塞州的音乐团体。",
+  "intro": "Rumblepuppy是一支来自马萨诸塞州的音乐团体。目前资料收录了《Jeez-Ooze》等作品；MusicBrainz 还记录了它与Fugazi、Dag Nasty、Bloody Mannequin Orchestra之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/130e5f0d-8e5a-4719-a081-49af9aeb1af6"
@@ -29,7 +39,8 @@
       "label": "Colin Sears",
       "detail": "Colin Sears 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dag-nasty",
@@ -40,7 +51,8 @@
       "label": "Colin Sears",
       "detail": "Colin Sears 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bloody-mannequin-orchestra",
@@ -51,7 +63,8 @@
       "label": "Colin Sears",
       "detail": "Colin Sears 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

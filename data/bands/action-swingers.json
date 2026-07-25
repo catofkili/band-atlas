@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1988–1998",
-  "genres": [],
+  "genres": [
+    "车库朋克"
+  ],
   "albums": [
     {
       "title": "Action Swingers",
@@ -23,6 +25,16 @@
   ],
   "intro": "Action Swingers 是一支美国独立摇滚/车库朋克乐队，成立于 20 世纪 80 年代末的纽约市，由主唱兼吉他手内德·海登（Ned Hayden）领军，他是乐队中唯一一位始终在队的成员。",
   "introLang": "zh",
+  "listens": 440,
+  "listeners": 27,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bb0df069-702b-4518-b17e-0bd64045b1be"
@@ -37,7 +49,8 @@
       "label": "Julia Cafritz",
       "detail": "Julia Cafritz 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "free-kitten",
@@ -48,7 +61,8 @@
       "label": "Julia Cafritz",
       "detail": "Julia Cafritz 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

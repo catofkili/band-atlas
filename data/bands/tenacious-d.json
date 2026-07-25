@@ -9,7 +9,9 @@
   "genres": [
     "喜剧摇滚",
     "摇滚",
-    "原声摇滚"
+    "原声摇滚",
+    "硬式搖滾",
+    "流行搖滾"
   ],
   "albums": [
     {
@@ -23,6 +25,32 @@
   ],
   "intro": "顽强的D是一支由杰克·布莱克和凯尔·盖斯于1994年在加利福尼亚州洛杉矶组成的二人喜剧摇滚乐队，共发行了三张专辑，即《顽强的D》、《摇滚之神》和《浴火重生》。",
   "introLang": "zh",
+  "tracks": [
+    "Tribute",
+    "Kickapoo",
+    "POD"
+  ],
+  "trackSources": [
+    {
+      "title": "Tribute"
+    },
+    {
+      "title": "Kickapoo"
+    },
+    {
+      "title": "POD"
+    }
+  ],
+  "listens": 522575,
+  "listeners": 9623,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/148ddea2-6839-4354-8e2c-5dfadf136b7f"
@@ -37,7 +65,8 @@
       "label": "John Spiker",
       "detail": "John Spiker 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "suicidal-tendencies",
@@ -48,7 +77,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-vandals",
@@ -59,7 +89,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "infectious-grooves",
@@ -70,7 +101,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mass-mental",
@@ -81,7 +113,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "medication",
@@ -92,7 +125,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

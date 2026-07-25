@@ -2,8 +2,8 @@
   "id": "egg-hunt",
   "mbid": "2d8d08d8-c1b1-4494-b299-32dd4a7f8dfe",
   "name": "Egg Hunt",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": "1986–1986",
   "genres": [
@@ -11,9 +11,20 @@
     "后硬核"
   ],
   "albums": [],
-  "intro": "Egg Hunt是一支以实验摇滚、后硬核为主要风格的音乐团体，活跃时期为1986–1986。",
+  "intro": "Egg Hunt是一支来自美国的音乐团体，活跃时期为1986–1986，现有资料记录的主要风格包括实验摇滚、后硬核。MusicBrainz 还记录了它与Minor Threat、Skewbald、The Teen Idles之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 2968,
+  "listeners": 549,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 14,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2d8d08d8-c1b1-4494-b299-32dd4a7f8dfe"
   },
@@ -27,7 +38,8 @@
       "label": "Jeff Nelson",
       "detail": "Jeff Nelson 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "skewbald",
@@ -38,7 +50,8 @@
       "label": "Jeff Nelson",
       "detail": "Jeff Nelson 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-teen-idles",
@@ -49,7 +62,8 @@
       "label": "Jeff Nelson",
       "detail": "Jeff Nelson 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

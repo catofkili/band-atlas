@@ -9,7 +9,12 @@
   "genres": [
     "摇滚",
     "硬摇滚",
-    "经典摇滚"
+    "经典摇滚",
+    "摇滚乐",
+    "节奏布鲁斯",
+    "硬式搖滾",
+    "前衛搖滾",
+    "艺术摇滚"
   ],
   "albums": [
     {
@@ -39,6 +44,40 @@
   ],
   "intro": "谁人乐队是一支英国摇滚乐队，他们在1964年成军。乐队后来成为一直以来最受高评和最受欢迎的摇滚艺术家之一，其现场演出尤其被推崇备至，被形容为“可能是史上最佳的现场演出乐团”。",
   "introLang": "zh",
+  "tracks": [
+    "ユー・ベター・ユー・ベット",
+    "愛，統治我",
+    "蜘蛛戰士",
+    "The Acid Queen",
+    "クイック・ワン"
+  ],
+  "trackSources": [
+    {
+      "title": "ユー・ベター・ユー・ベット"
+    },
+    {
+      "title": "愛，統治我"
+    },
+    {
+      "title": "蜘蛛戰士"
+    },
+    {
+      "title": "The Acid Queen"
+    },
+    {
+      "title": "クイック・ワン"
+    }
+  ],
+  "listens": 964860,
+  "listeners": 15807,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa"
@@ -53,7 +92,8 @@
       "label": "Pete Townshend・Zak Starkey・Roger Daltrey",
       "detail": "3 位乐手在这两支乐队都待过：Pete Townshend・Zak Starkey・Roger Daltrey。",
       "year": 1964,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "deep-end",
@@ -64,7 +104,8 @@
       "label": "Pete Townshend・John “Rabbit” Bundrick",
       "detail": "2 位乐手在这两支乐队都待过：Pete Townshend・John “Rabbit” Bundrick。",
       "year": 1964,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "ringo-starr-his-all-starr-band",
@@ -75,7 +116,8 @@
       "label": "Zak Starkey・John Entwistle",
       "detail": "2 位乐手在这两支乐队都待过：Zak Starkey・John Entwistle。",
       "year": 2025,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "rockestra",
@@ -86,7 +128,8 @@
       "label": "Pete Townshend・Kenney Jones",
       "detail": "2 位乐手在这两支乐队都待过：Pete Townshend・Kenney Jones。",
       "year": 1964,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-rd-crusaders",
@@ -97,29 +140,8 @@
       "label": "Roger Daltrey・Simon Townshend",
       "detail": "2 位乐手在这两支乐队都待过：Roger Daltrey・Simon Townshend。",
       "year": 1964,
-      "weight": 0.84
-    },
-    {
-      "to": "pixies",
-      "toName": "Pixies",
-      "toArea": "波士顿",
-      "toYears": "1986–1993 / 2004–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "The Who 影响了 Pixies（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "oasis",
-      "toName": "Oasis",
-      "toArea": "曼彻斯特",
-      "toYears": "1991–2009 / 2024–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "The Who 影响了 Oasis（Wikidata）。",
-      "year": null,
-      "weight": 0.46
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "plastic-ono-band",
@@ -130,7 +152,32 @@
       "label": "Keith Moon",
       "detail": "Keith Moon 在这两支乐队都待过。",
       "year": 1964,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Who 影响了 Pixies（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Who 影响了 Oasis（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "lord-sutch-heavy-friends",
@@ -141,7 +188,8 @@
       "label": "Keith Moon",
       "detail": "Keith Moon 在这两支乐队都待过。",
       "year": 1964,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "george-s-band",
@@ -152,7 +200,8 @@
       "label": "Chris Stainton",
       "detail": "Chris Stainton 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mantra-of-the-cosmos",
@@ -163,7 +212,8 @@
       "label": "Zak Starkey",
       "detail": "Zak Starkey 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-fleetwood-and-friends",
@@ -174,7 +224,8 @@
       "label": "Pete Townshend",
       "detail": "Pete Townshend 在这两支乐队都待过。",
       "year": 1964,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-singing-rebels-band",
@@ -185,7 +236,8 @@
       "label": "Chris Stainton",
       "detail": "Chris Stainton 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "green-day",
@@ -196,7 +248,8 @@
       "label": "影响关系",
       "detail": "The Who 影响了 Green Day（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -207,7 +260,8 @@
       "label": "影响关系",
       "detail": "The Who 影响了 Pearl Jam（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "queen",
@@ -218,7 +272,8 @@
       "label": "影响关系",
       "detail": "The Who 影响了 Queen（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "sex-pistols",
@@ -229,7 +284,8 @@
       "label": "影响关系",
       "detail": "The Who 影响了 Sex Pistols（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "u2",
@@ -240,7 +296,8 @@
       "label": "影响关系",
       "detail": "The Who 影响了 U2（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

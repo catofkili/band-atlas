@@ -27,6 +27,16 @@
   ],
   "intro": "血肉果汁机是一个创于台湾台中的台语重金属乐团，成立于2006年。现任成员为主唱GIGO、吉他手阿霖、吉他手Matt、贝斯手金毛。",
   "introLang": "zh",
+  "listens": 1455,
+  "listeners": 91,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b1d39433-6353-4e3b-8125-8716d984fb2c"
@@ -41,7 +51,8 @@
       "label": "金毛",
       "detail": "金毛 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

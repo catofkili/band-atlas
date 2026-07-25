@@ -9,7 +9,8 @@
   "genres": [
     "另类摇滚",
     "流行摇滚",
-    "太空摇滚"
+    "太空摇滚",
+    "新前衛搖滾"
   ],
   "albums": [
     {
@@ -39,6 +40,40 @@
   ],
   "intro": "Angels & Airwaves (英文:Angels & Airwaves 通常简称为 \"A∀A\") 是一支另类摇滚的乐团。",
   "introLang": "zh",
+  "tracks": [
+    "It Hurts",
+    "The Adventure",
+    "Everything's Magic",
+    "The War",
+    "Do It for Me Now"
+  ],
+  "trackSources": [
+    {
+      "title": "It Hurts"
+    },
+    {
+      "title": "The Adventure"
+    },
+    {
+      "title": "Everything's Magic"
+    },
+    {
+      "title": "The War"
+    },
+    {
+      "title": "Do It for Me Now"
+    }
+  ],
+  "listens": 299206,
+  "listeners": 4631,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/05071a7e-e71c-4306-a509-591cd3686893"
@@ -53,7 +88,8 @@
       "label": "Tom DeLonge",
       "detail": "Tom DeLonge 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lostprophets",
@@ -64,7 +100,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -75,7 +112,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-offspring",
@@ -86,7 +124,8 @@
       "label": "Atom",
       "detail": "Atom 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fenix-tx",
@@ -97,7 +136,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "denver-harbor",
@@ -108,7 +148,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jaded-hearts-club",
@@ -119,7 +160,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

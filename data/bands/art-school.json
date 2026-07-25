@@ -24,13 +24,23 @@
     }
   ],
   "intro": "木下理树的乐队。把九十年代美国另类摇滚的阴郁质感翻译成日语，成员更替极其频繁。",
-  "introLang": "ja",
+  "introLang": "zh",
   "tracks": [
     "クロエ",
     "UNDER MY SKIN",
     "FADE TO BLACK",
     "乾いた花"
   ],
+  "listens": 24078,
+  "listeners": 417,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2ee8a896-8ce2-4d94-9bc7-0db3b3396e74"
@@ -45,7 +55,8 @@
       "label": "田渕ひさ子",
       "detail": "NUMBER GIRL 的田渕ひさ子曾在这支乐队担任吉他手。",
       "year": 2005,
-      "weight": 0.75
+      "weight": 0.75,
+      "sources": []
     },
     {
       "to": "nirvana",
@@ -56,7 +67,8 @@
       "label": "影响来源",
       "detail": "木下理树最常提及的影响来源之一。",
       "year": null,
-      "weight": 0.7
+      "weight": 0.7,
+      "sources": []
     },
     {
       "to": "toddle",
@@ -67,7 +79,8 @@
       "label": "田渕ひさ子",
       "detail": "吉他手田渕ひさ子同期的另一支乐队。",
       "year": 2005,
-      "weight": 0.6
+      "weight": 0.6,
+      "sources": []
     },
     {
       "to": "quadrangle",
@@ -78,7 +91,8 @@
       "label": "鈴木浩之",
       "detail": "鈴木浩之 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

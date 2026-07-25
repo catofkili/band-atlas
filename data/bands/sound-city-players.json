@@ -6,10 +6,22 @@
   "countryCode": "US",
   "country": "美国",
   "years": "2012–2013",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [],
   "intro": "The Sound City Players 是一支由前涅槃乐队（Nirvana）鼓手、Foo Fighters 乐队吉他手兼主唱戴夫·格罗尔（Dave Grohl）组建的超级乐队。",
   "introLang": "zh",
+  "listens": 84,
+  "listeners": 18,
+  "quality": {
+    "score": 52,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b9a9487b-abf6-4a95-a8fd-238cc093e99b"
@@ -24,7 +36,8 @@
       "label": "Pat Smear・Nate Mendel・Rami Jaffee",
       "detail": "3 位乐手在这两支乐队都待过：Pat Smear・Nate Mendel・Rami Jaffee。",
       "year": 2010,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "desert-sessions",
@@ -35,7 +48,8 @@
       "label": "Josh Homme・Alain Johannes・Chris Goss",
       "detail": "3 位乐手在这两支乐队都待过：Josh Homme・Alain Johannes・Chris Goss。",
       "year": 1997,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "dee-gees",
@@ -46,7 +60,8 @@
       "label": "Pat Smear・Nate Mendel・Rami Jaffee",
       "detail": "3 位乐手在这两支乐队都待过：Pat Smear・Nate Mendel・Rami Jaffee。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "queens-of-the-stone-age",
@@ -57,7 +72,8 @@
       "label": "Josh Homme・Alain Johannes",
       "detail": "2 位乐手在这两支乐队都待过：Josh Homme・Alain Johannes。",
       "year": 1996,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "rage-against-the-machine",
@@ -68,7 +84,25 @@
       "label": "Tim Commerford・Brad Wilk",
       "detail": "2 位乐手在这两支乐队都待过：Tim Commerford・Brad Wilk。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "伯明翰",
+      "toYears": "1968–2025",
+      "type": "guest",
+      "label": "客串：Brad Wilk",
+      "detail": "MusicBrainz 录音资料显示，Brad Wilk参与了《Age of Reason》、《Loner》、《Live Forever》、《Methademic》等录音。",
+      "year": null,
+      "weight": 0.78,
+      "sources": [
+        "https://musicbrainz.org/recording/bbfa68c3-f300-40a9-ae10-e9af21d4d615",
+        "https://musicbrainz.org/recording/3346ade3-15c6-4bcc-9d34-8da0275448c6",
+        "https://musicbrainz.org/recording/4c4b2797-a333-468a-9a6e-39c481559803",
+        "https://musicbrainz.org/recording/9e4c7c46-f0e8-4688-a846-cb407eb29288"
+      ]
     },
     {
       "to": "adolescents",
@@ -79,7 +113,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "eleven",
@@ -90,7 +125,8 @@
       "label": "Alain Johannes",
       "detail": "Alain Johannes 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fear",
@@ -101,7 +137,8 @@
       "label": "Lee Ving",
       "detail": "Lee Ving 在这两支乐队都待过。",
       "year": 1977,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fleetwood-mac",
@@ -112,7 +149,8 @@
       "label": "Stevie Nicks",
       "detail": "Stevie Nicks 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "slipknot",
@@ -123,7 +161,8 @@
       "label": "Corey Taylor",
       "detail": "Corey Taylor 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-wallflowers",
@@ -134,7 +173,8 @@
       "label": "Rami Jaffee",
       "detail": "Rami Jaffee 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sunny-day-real-estate",
@@ -145,7 +185,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "christ-on-a-crutch",
@@ -156,7 +197,22 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "the-strokes",
+      "toName": "The Strokes",
+      "toArea": "纽约",
+      "toYears": "1998–",
+      "type": "guest",
+      "label": "客串：Josh Homme",
+      "detail": "MusicBrainz 录音资料显示，Josh Homme参与了《Mercy Mercy Me (The Ecology)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/5b49bc0c-539d-4e3f-8afc-907c8fc6217d"
+      ]
     },
     {
       "to": "45-grave",
@@ -167,7 +223,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "goon-moon",
@@ -178,7 +235,8 @@
       "label": "Chris Goss",
       "detail": "Chris Goss 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gunash",
@@ -189,7 +247,8 @@
       "label": "Rami Jaffee",
       "detail": "Rami Jaffee 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "juno",
@@ -200,7 +259,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-tater-totz",
@@ -211,7 +271,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "germs",
@@ -222,7 +283,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "md-45",
@@ -233,7 +295,8 @@
       "label": "Lee Ving",
       "detail": "Lee Ving 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spinnerette",
@@ -244,7 +307,8 @@
       "label": "Alain Johannes",
       "detail": "Alain Johannes 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-fire-theft",
@@ -255,7 +319,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "them-crooked-vultures",
@@ -266,7 +331,8 @@
       "label": "Josh Homme",
       "detail": "Josh Homme 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "what-is-this",
@@ -277,7 +343,8 @@
       "label": "Alain Johannes",
       "detail": "Alain Johannes 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "diddly-squat",
@@ -288,7 +355,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kings-of-chaos",
@@ -299,7 +367,8 @@
       "label": "Corey Taylor",
       "detail": "Corey Taylor 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -310,7 +379,8 @@
       "label": "Rick Nielsen",
       "detail": "Rick Nielsen 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-holez",
@@ -321,7 +391,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

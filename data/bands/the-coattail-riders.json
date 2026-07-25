@@ -6,10 +6,22 @@
   "countryCode": null,
   "country": null,
   "years": null,
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [],
   "intro": "Taylor Hawkins & The Coattail Riders 是一支由 Foo Fighters 乐队鼓手泰勒·霍金斯（Taylor Hawkins）创立的美国摇滚乐队。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 49,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d063c9b2-155a-4545-9285-a99e4866e735"
@@ -24,7 +36,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

@@ -7,7 +7,8 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "独立摇滚"
+    "独立摇滚",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -21,6 +22,16 @@
   ],
   "intro": "Filthy Friends 是一支来自俄勒冈州波特兰市的另类摇滚超级乐队。",
   "introLang": "zh",
+  "listens": 2121,
+  "listeners": 230,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f319b299-2d27-4b47-af56-a5747d7ac0f3"
@@ -35,7 +46,8 @@
       "label": "Kurt Bloch",
       "detail": "Kurt Bloch 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-new-original-sonic-sound",
@@ -46,7 +58,8 @@
       "label": "Scott McCaughey",
       "detail": "Scott McCaughey 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

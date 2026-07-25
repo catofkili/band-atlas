@@ -2,15 +2,26 @@
   "id": "radio-happy-willows",
   "mbid": "cdcfa52e-97ad-4daf-a0d0-9097ec7b05b0",
   "name": "Radio Happy Willows",
-  "area": null,
-  "countryCode": null,
+  "area": "日本",
+  "countryCode": "JP",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Radio Happy Willows是一支音乐团体。",
+  "intro": "Radio Happy Willows是一支来自日本的音乐团体。MusicBrainz 还记录了它与GLAY、POSSESSION=80.2 POR CENTO、ザ・プールサイド之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 1,
+  "listeners": 1,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cdcfa52e-97ad-4daf-a0d0-9097ec7b05b0"
   },
@@ -24,7 +35,8 @@
       "label": "TERU",
       "detail": "TERU 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "possession-80-2-por-cento",
@@ -35,7 +47,8 @@
       "label": "岡野昭仁",
       "detail": "岡野昭仁 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ザ-プールサイド",
@@ -46,7 +59,8 @@
       "label": "大橋卓弥",
       "detail": "大橋卓弥 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -33,8 +33,18 @@
       "year": 2007
     }
   ],
-  "intro": "모임 별是一支来自首尔的音乐团体，活跃时期为2000–。",
+  "intro": "모임 별是一支来自首尔的音乐团体，活跃时期为2000–。目前资料收录了《2》、《너와나의20세기》等作品；MusicBrainz 还记录了它与3호선 버터플라이之间的成员往来。",
   "introLang": "zh",
+  "listens": 2027,
+  "listeners": 26,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bb091494-8742-4ea8-b6ae-1e014510e745"
@@ -49,7 +59,8 @@
       "label": "서현정",
       "detail": "서현정 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

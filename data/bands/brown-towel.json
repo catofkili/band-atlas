@@ -2,15 +2,26 @@
   "id": "brown-towel",
   "mbid": "0f8e6822-3672-400c-a87c-792c7a293544",
   "name": "Brown Towel",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": "1985–1986",
   "genres": [],
   "albums": [],
-  "intro": "Brown Towel是一支音乐团体，活跃时期为1985–1986。",
+  "intro": "Brown Towel是一支来自美国的音乐团体，活跃时期为1985–1986。MusicBrainz 还记录了它与Melvins、Fecal Matter、Melvana之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 0,
+  "listeners": 0,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0f8e6822-3672-400c-a87c-792c7a293544"
   },
@@ -24,7 +35,22 @@
       "label": "Buzz Osborne",
       "detail": "Buzz Osborne 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "tool",
+      "toName": "Tool",
+      "toArea": "洛杉矶",
+      "toYears": "1990–",
+      "type": "guest",
+      "label": "客串：Buzz Osborne",
+      "detail": "MusicBrainz 录音资料显示，Buzz Osborne参与了《You Lied》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/eae6c16a-5516-4133-95c6-5c8997f96802"
+      ]
     },
     {
       "to": "fecal-matter",
@@ -35,7 +61,8 @@
       "label": "Buzz Osborne",
       "detail": "Buzz Osborne 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "melvana",
@@ -46,7 +73,8 @@
       "label": "Buzz Osborne",
       "detail": "Buzz Osborne 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-fantômas-melvins-big-band",
@@ -57,7 +85,8 @@
       "label": "Buzz Osborne",
       "detail": "Buzz Osborne 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Vortex是一支来自曼彻斯特的音乐团体。",
+  "intro": "The Vortex是一支来自曼彻斯特的音乐团体。MusicBrainz 还记录了它与Oasis、Parlour Flames、Moondog One之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/38a1d9e8-461c-4037-90dd-ab87745096ba"
@@ -24,7 +34,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "parlour-flames",
@@ -35,7 +46,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "moondog-one",
@@ -46,7 +58,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "phoneys-the-freaks",
@@ -57,7 +70,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-rain",
@@ -68,7 +82,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

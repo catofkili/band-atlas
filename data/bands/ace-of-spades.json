@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2012–",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "4REAL",
@@ -15,6 +17,28 @@
   ],
   "intro": "ACE OF SPADES是一支日本摇滚乐队。该乐队最初作为2012年的一项限定合作企划而组建，此后仍不定期开展活动。",
   "introLang": "zh",
+  "tracks": [
+    "TIME FLIES",
+    "WILD TRIBE"
+  ],
+  "trackSources": [
+    {
+      "title": "TIME FLIES"
+    },
+    {
+      "title": "WILD TRIBE"
+    }
+  ],
+  "listens": 238,
+  "listeners": 26,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/689ec927-0889-4830-9092-0a3d9bb840a4"
@@ -29,7 +53,8 @@
       "label": "HISASHI",
       "detail": "HISASHI 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "unkie",
@@ -40,7 +65,8 @@
       "label": "TOKIE",
       "detail": "TOKIE 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ka-f-ka",
@@ -51,7 +77,8 @@
       "label": "宮上元克",
       "detail": "宮上元克 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "boøwy杉並",
@@ -62,7 +89,8 @@
       "label": "宮上元克",
       "detail": "宮上元克 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

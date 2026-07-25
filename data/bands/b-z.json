@@ -8,7 +8,10 @@
   "years": "1988–",
   "genres": [
     "摇滚",
-    "硬摇滚"
+    "硬摇滚",
+    "摇滚乐",
+    "硬式搖滾",
+    "流行搖滾"
   ],
   "albums": [
     {
@@ -38,6 +41,40 @@
   ],
   "intro": "B'z是日本双人摇滚组合，由吉他手松本孝弘与主唱稻叶浩志在1988年结成。所属经纪公司为VERMILLION。所属唱片公司是VERMILLION RECORDS。",
   "introLang": "zh",
+  "tracks": [
+    "Don't Wanna Lie",
+    "極限chop",
+    "衝動 (B'z單曲)",
+    "MY LONELY TOWN",
+    "愛的爆彈"
+  ],
+  "trackSources": [
+    {
+      "title": "Don't Wanna Lie"
+    },
+    {
+      "title": "極限chop"
+    },
+    {
+      "title": "衝動 (B'z單曲)"
+    },
+    {
+      "title": "MY LONELY TOWN"
+    },
+    {
+      "title": "愛的爆彈"
+    }
+  ],
+  "listens": 43762,
+  "listeners": 1050,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/20172e89-b8a5-4675-bd79-792d50d846a9"
@@ -52,7 +89,8 @@
       "label": "稲葉浩志",
       "detail": "稲葉浩志 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tak-matsumoto-group",
@@ -63,7 +101,8 @@
       "label": "松本孝弘",
       "detail": "松本孝弘 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "press-rider",
@@ -74,7 +113,8 @@
       "label": "松本孝弘",
       "detail": "松本孝弘 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rock-n-roll-standard-club-band",
@@ -85,7 +125,8 @@
       "label": "松本孝弘",
       "detail": "松本孝弘 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

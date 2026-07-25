@@ -7,7 +7,8 @@
   "country": "日本",
   "years": "1995–",
   "genres": [
-    "金属"
+    "金属",
+    "末日金屬"
   ],
   "albums": [
     {
@@ -37,6 +38,16 @@
   ],
   "intro": "Church of Misery是一支来自日本的厄运金属乐队。",
   "introLang": "zh",
+  "listens": 27663,
+  "listeners": 984,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a0ac9492-36ec-44c9-8583-5d7ff988f6c6"
@@ -51,7 +62,8 @@
       "label": "Yasunori Takada",
       "detail": "Yasunori Takada 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

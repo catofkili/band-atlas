@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The House Band是一支来自英国的音乐团体。",
+  "intro": "The House Band是一支来自英国的音乐团体。MusicBrainz 还记录了它与George's Band、R.A.D.D. (Recording Artists Against Drunk Driving)、The Crawling King Snakes之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/95500c2d-930e-49ba-be89-3b3d875c1450"
@@ -24,7 +34,8 @@
       "label": "Ray Cooper",
       "detail": "Ray Cooper 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "r-a-d-d-recording-artists-against-drunk-driving",
@@ -35,7 +46,8 @@
       "label": "Phil Collins",
       "detail": "Phil Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-crawling-king-snakes",
@@ -46,7 +58,8 @@
       "label": "Phil Collins",
       "detail": "Phil Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-singing-rebels-band",
@@ -57,7 +70,8 @@
       "label": "Ray Cooper",
       "detail": "Ray Cooper 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

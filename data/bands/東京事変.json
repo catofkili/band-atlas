@@ -7,7 +7,10 @@
   "country": "日本",
   "years": "2003–",
   "genres": [
-    "另类摇滚"
+    "另类摇滚",
+    "摇滚乐",
+    "流行音乐",
+    "時尚爵士"
   ],
   "albums": [
     {
@@ -37,6 +40,40 @@
   ],
   "intro": "东京事变，日本乐团，成立于2003年，2012年解散、2020年复出。成员共有5人，分别为椎名林檎、龟田诚治、浮云、刃田缀色、伊泽一叶。",
   "introLang": "zh",
+  "tracks": [
+    "能動的三分間",
+    "迴響天空／每個女孩子啊",
+    "Onna no Ko wa Dare Demo",
+    "緑酒",
+    "赤之同盟"
+  ],
+  "trackSources": [
+    {
+      "title": "能動的三分間"
+    },
+    {
+      "title": "迴響天空／每個女孩子啊"
+    },
+    {
+      "title": "Onna no Ko wa Dare Demo"
+    },
+    {
+      "title": "緑酒"
+    },
+    {
+      "title": "赤之同盟"
+    }
+  ],
+  "listens": 89938,
+  "listeners": 849,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b3d0f168-cb34-47c6-8529-fc05d1fce3ee"
@@ -51,7 +88,22 @@
       "label": "伊澤一葉",
       "detail": "伊澤一葉 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "zazen-boys",
+      "toName": "ZAZEN BOYS",
+      "toArea": "东京",
+      "toYears": "2003–",
+      "type": "guest",
+      "label": "客串：椎名林檎",
+      "detail": "MusicBrainz 录音资料显示，椎名林檎参与了《CRAZY DAYS CRAZY FEELING》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/74b558e8-0c37-40c0-9cbf-dc201f9611b7"
+      ]
     },
     {
       "to": "viva-la-j-rock-anthems",
@@ -62,7 +114,8 @@
       "label": "伊澤一葉・亀田誠治",
       "detail": "2 位乐手在这两支乐队都待过：伊澤一葉・亀田誠治。",
       "year": 2020,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "high-cheez",
@@ -73,7 +126,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-three",
@@ -84,7 +138,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "メガネツインズ",
@@ -95,7 +150,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "須藤寿-gatali-acoustic-set",
@@ -106,7 +162,8 @@
       "label": "浮雲",
       "detail": "浮雲 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

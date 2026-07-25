@@ -8,8 +8,18 @@
   "years": "2011–",
   "genres": [],
   "albums": [],
-  "intro": "Fishmans+是一支来自日本的音乐团体，活跃时期为2011–。",
+  "intro": "Fishmans+是一支来自日本的音乐团体，活跃时期为2011–。MusicBrainz 还记录了它与フィッシュマンズ、相対性理論、MariMari Rythmkiller Machinegun之间的成员往来。",
   "introLang": "zh",
+  "listens": 12850,
+  "listeners": 1275,
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dc436953-1dc3-437d-9656-da401a0e9134"
@@ -24,7 +34,8 @@
       "label": "茂木欣一・柏原譲・HAKASE-SUN",
       "detail": "3 位乐手在这两支乐队都待过：茂木欣一・柏原譲・HAKASE-SUN。",
       "year": 1987,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "相対性理論",
@@ -35,7 +46,8 @@
       "label": "永井聖一・やくしまるえつこ・ZAK",
       "detail": "3 位乐手在这两支乐队都待过：永井聖一・やくしまるえつこ・ZAK。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "marimari-rythmkiller-machinegun",
@@ -46,7 +58,8 @@
       "label": "茂木欣一・木暮晋也",
       "detail": "2 位乐手在这两支乐队都待过：茂木欣一・木暮晋也。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "xavier",
@@ -57,7 +70,24 @@
       "label": "ZAK・大野由美子",
       "detail": "2 位乐手在这两支乐队都待过：ZAK・大野由美子。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "フィッシュマンズ",
+      "toName": "フィッシュマンズ",
+      "toArea": "日本",
+      "toYears": "1987–",
+      "type": "guest",
+      "label": "客串：原田郁子、ハナレグミ、UA",
+      "detail": "MusicBrainz 录音资料显示，原田郁子、ハナレグミ、UA参与了《いかれたBaby》、《Weather Report》、《頼りない天使》等录音。",
+      "year": null,
+      "weight": 0.74,
+      "sources": [
+        "https://musicbrainz.org/recording/004ede6d-ade9-4fb4-830c-6206718091ee",
+        "https://musicbrainz.org/recording/ed2779f2-1efd-4874-9940-69d5952c3711",
+        "https://musicbrainz.org/recording/af780236-1d43-4fd8-b989-2b9c08856a82"
+      ]
     },
     {
       "to": "東京スカパラダイスオーケストラ",
@@ -68,7 +98,22 @@
       "label": "茂木欣一",
       "detail": "茂木欣一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "東京スカパラダイスオーケストラ",
+      "toName": "東京スカパラダイスオーケストラ",
+      "toArea": "东京",
+      "toYears": "1985–",
+      "type": "guest",
+      "label": "客串：ハナレグミ",
+      "detail": "MusicBrainz 录音资料显示，ハナレグミ参与了《追憶のライラック 〜Reminiscent Lilac〜》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/74686254-ffe3-461d-9cc5-0994d0a0fb35"
+      ]
     },
     {
       "to": "testset",
@@ -79,7 +124,22 @@
       "label": "永井聖一",
       "detail": "永井聖一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "toe",
+      "toName": "toe",
+      "toArea": "东京",
+      "toYears": "2000–",
+      "type": "guest",
+      "label": "客串：原田郁子",
+      "detail": "MusicBrainz 录音资料显示，原田郁子参与了《After Image》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/0d9c0b58-f3a7-4588-b317-f8a147ee0de1"
+      ]
     },
     {
       "to": "qubit",
@@ -90,7 +150,8 @@
       "label": "永井聖一",
       "detail": "永井聖一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "やくしまるえつこメトロオーケストラ",
@@ -101,7 +162,8 @@
       "label": "やくしまるえつこ",
       "detail": "やくしまるえつこ 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "妖精たち",
@@ -112,7 +174,8 @@
       "label": "Cornelius",
       "detail": "Cornelius 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

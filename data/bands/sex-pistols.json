@@ -6,7 +6,9 @@
   "countryCode": "GB",
   "country": "英国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "朋克搖滾"
+  ],
   "albums": [
     {
       "title": "Never Mind the Bollocks Here’s the Sex Pistols",
@@ -31,6 +33,40 @@
   ],
   "intro": "性手枪是一支英国朋克摇滚乐队，于1975年在伦敦组建。",
   "introLang": "zh",
+  "tracks": [
+    "英國無政府狀態",
+    "プリティ・ヴェイカント",
+    "陽光下的假日",
+    "No One Is Innocent",
+    "Silly Thing"
+  ],
+  "trackSources": [
+    {
+      "title": "英國無政府狀態"
+    },
+    {
+      "title": "プリティ・ヴェイカント"
+    },
+    {
+      "title": "陽光下的假日"
+    },
+    {
+      "title": "No One Is Innocent"
+    },
+    {
+      "title": "Silly Thing"
+    }
+  ],
+  "listens": 218312,
+  "listeners": 8275,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e5db18cb-4b1f-496d-a308-548b611090d3"
@@ -45,7 +81,8 @@
       "label": "影响关系",
       "detail": "Sex Pistols 影响了 Pixies（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "guns-n-roses",
@@ -56,7 +93,8 @@
       "label": "影响关系",
       "detail": "Sex Pistols 影响了 Guns N’ Roses（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "public-image-ltd",
@@ -67,7 +105,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "green-day",
@@ -78,7 +117,8 @@
       "label": "影响关系",
       "detail": "Sex Pistols 影响了 Green Day（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-offspring",
@@ -89,7 +129,8 @@
       "label": "影响关系",
       "detail": "Sex Pistols 影响了 The Offspring（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-rolling-stones",
@@ -100,7 +141,8 @@
       "label": "影响关系",
       "detail": "Sex Pistols 受 The Rolling Stones 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-who",
@@ -111,7 +153,8 @@
       "label": "影响关系",
       "detail": "Sex Pistols 受 The Who 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "u2",
@@ -122,7 +165,8 @@
       "label": "影响关系",
       "detail": "Sex Pistols 影响了 U2（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

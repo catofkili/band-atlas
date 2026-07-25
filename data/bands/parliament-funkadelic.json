@@ -25,6 +25,24 @@
   ],
   "intro": "百乐门-放克疯是由乔治·克林顿领导音乐家们组成的美国放克音乐集合体，其成员主要来自百乐门和放克疯，这两个乐团皆始自1960年代。",
   "introLang": "zh",
+  "tracks": [
+    "If Anybody Gets Funked Up (It's Gonna Be You)"
+  ],
+  "trackSources": [
+    {
+      "title": "If Anybody Gets Funked Up (It's Gonna Be You)"
+    }
+  ],
+  "listens": 7087,
+  "listeners": 1661,
+  "quality": {
+    "score": 66,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
@@ -39,7 +57,8 @@
       "label": "Bootsy Collins・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Michael Payne・Garry Shider・Undi$co Kidd",
       "detail": "8 位乐手在这两支乐队都待过：Bootsy Collins・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Michael Payne・Garry Shider・Undi$co Kidd。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "parliament",
@@ -50,7 +69,8 @@
       "label": "Bootsy Collins・Gary “Mudbone” Cooper・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Garry Shider・Undi$co Kidd・Maceo Parker・David Spradley・Fred Wesley",
       "detail": "11 位乐手在这两支乐队都待过：Bootsy Collins・Gary “Mudbone” Cooper・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Garry Shider・Undi$co Kidd・Maceo Parker・David Spradley・Fred Wesley。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-p-funk-mob",
@@ -61,7 +81,8 @@
       "label": "Bootsy Collins・Gary “Mudbone” Cooper・Michael Hampton・George Clinton・Eddie Hazel・Garry Shider・Maceo Parker・Fred Wesley",
       "detail": "8 位乐手在这两支乐队都待过：Bootsy Collins・Gary “Mudbone” Cooper・Michael Hampton・George Clinton・Eddie Hazel・Garry Shider・Maceo Parker・Fred Wesley。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "material",
@@ -72,7 +93,8 @@
       "label": "Gary “Mudbone” Cooper・Michael Hampton",
       "detail": "2 位乐手在这两支乐队都待过：Gary “Mudbone” Cooper・Michael Hampton。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "danny-bedrosian-secret-army",
@@ -83,7 +105,8 @@
       "label": "Danny Bedrosian・Lige Curry",
       "detail": "2 位乐手在这两支乐队都待过：Danny Bedrosian・Lige Curry。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "praxis",
@@ -94,29 +117,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
-    },
-    {
-      "to": "funkadelic",
-      "toName": "Funkadelic",
-      "toArea": "普莱恩菲尔德",
-      "toYears": "1968–1981",
-      "type": "guest",
-      "label": "合作",
-      "detail": "MusicBrainz 记录的合作关系。",
-      "year": null,
-      "weight": 0.55
-    },
-    {
-      "to": "parliament",
-      "toName": "Parliament",
-      "toArea": "普莱恩菲尔德",
-      "toYears": "1968–1980",
-      "type": "guest",
-      "label": "合作",
-      "detail": "MusicBrainz 记录的合作关系。",
-      "year": null,
-      "weight": 0.55
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "science-faxtion",
@@ -127,7 +129,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "world-wide-funkdrive",
@@ -138,7 +141,32 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "funkadelic",
+      "toName": "Funkadelic",
+      "toArea": "普莱恩菲尔德",
+      "toYears": "1968–1981",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55,
+      "sources": []
+    },
+    {
+      "to": "parliament",
+      "toName": "Parliament",
+      "toArea": "普莱恩菲尔德",
+      "toYears": "1968–1980",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

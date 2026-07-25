@@ -17,8 +17,18 @@
       "year": 1997
     }
   ],
-  "intro": "Droop是一支来自日本的音乐团体。",
+  "intro": "Droop是一支来自日本的音乐团体。目前资料收录了《Loye Loye》、《PUNISH PUNGENT WORLD》等作品；MusicBrainz 还记录了它与DMBQ、少年ナイフ、羅針盤之间的成员往来。",
   "introLang": "zh",
+  "listens": 89,
+  "listeners": 13,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c874b8c7-268b-491a-943b-d0e6d6907593"
@@ -33,7 +43,8 @@
       "label": "西浦真奈",
       "detail": "西浦真奈 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "少年ナイフ",
@@ -44,7 +55,8 @@
       "label": "西浦真奈",
       "detail": "西浦真奈 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "羅針盤",
@@ -55,7 +67,8 @@
       "label": "西浦真奈",
       "detail": "西浦真奈 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jesus-fever",
@@ -66,7 +79,8 @@
       "label": "西浦真奈",
       "detail": "西浦真奈 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

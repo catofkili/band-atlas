@@ -31,6 +31,16 @@
   ],
   "intro": "Record Club 是贝克（Beck）于2009年6月发起的音乐项目。",
   "introLang": "zh",
+  "listens": 1658,
+  "listeners": 84,
+  "quality": {
+    "score": 52,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8dd30e73-c5e9-43bf-bcce-8fc44d54a84d"
@@ -45,7 +55,22 @@
       "label": "Beck・Brian LeBarton",
       "detail": "2 位乐手在这两支乐队都待过：Beck・Brian LeBarton。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "guest",
+      "label": "客串：Nigel Godrich",
+      "detail": "MusicBrainz 录音资料显示，Nigel Godrich参与了《We Turn Red》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/fdebad88-464a-4ed8-bd10-8f59e2a00b59"
+      ]
     },
     {
       "to": "ultraísta",
@@ -56,7 +81,8 @@
       "label": "Nigel Godrich",
       "detail": "Nigel Godrich 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "atoms-for-peace",
@@ -67,7 +93,8 @@
       "label": "Nigel Godrich",
       "detail": "Nigel Godrich 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

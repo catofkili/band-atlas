@@ -7,7 +7,8 @@
   "country": "美国",
   "years": "2010–",
   "genres": [
-    "跨界前卫摇滚"
+    "跨界前卫摇滚",
+    "前衛搖滾"
   ],
   "albums": [
     {
@@ -21,6 +22,16 @@
   ],
   "intro": "Anywhere 是一个来自加利福尼亚州洛杉矶的迷幻摇滚/民谣音乐项目，由克里斯蒂安·埃里克·博利厄（曾任 Triclops! 乐队成员）创立。",
   "introLang": "zh",
+  "listens": 2236,
+  "listeners": 133,
+  "quality": {
+    "score": 66,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/54bfa733-5012-4aae-b24f-fc9e36cf4ddf"
@@ -35,7 +46,8 @@
       "label": "Cedric Bixler‐Zavala",
       "detail": "Cedric Bixler‐Zavala 在这两支乐队都待过。",
       "year": 2022,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dot-hacker",
@@ -46,7 +58,8 @@
       "label": "Jonathan Hischke",
       "detail": "Jonathan Hischke 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "wylde-ratttz",
@@ -57,7 +70,8 @@
       "label": "Mike Watt",
       "detail": "Mike Watt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ciccone-youth",
@@ -68,7 +82,8 @@
       "label": "Mike Watt",
       "detail": "Mike Watt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dale-crover-band",
@@ -79,7 +94,8 @@
       "label": "Toshi Kasai",
       "detail": "Toshi Kasai 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lucky-sperms",
@@ -90,7 +106,8 @@
       "label": "Mike Watt",
       "detail": "Mike Watt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "orcutt-shelley-miller",
@@ -101,7 +118,8 @@
       "label": "Ethan Miller",
       "detail": "Ethan Miller 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "society-s-ills",
@@ -112,7 +130,8 @@
       "label": "Mike Watt",
       "detail": "Mike Watt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -2,11 +2,13 @@
   "id": "harry-crews",
   "mbid": "18d4d274-5c06-4261-a18a-8dbaaea03d34",
   "name": "Harry Crews",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
-  "genres": [],
+  "genres": [
+    "朋克搖滾"
+  ],
   "albums": [
     {
       "title": "Naked in Garden Hills",
@@ -15,7 +17,18 @@
   ],
   "intro": "Harry Crews 是一支美国短命乐队，其音乐深受“无浪潮”（no wave）风格影响，融合了硬核朋克与跨界鞭击金属元素，由莉迪亚·兰奇（Lydia Lunch，吉他）、金·戈登（Kim Gordon，贝斯）和萨迪·梅（Sadie Mae，鼓）组成。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 261,
+  "listeners": 20,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 60,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/18d4d274-5c06-4261-a18a-8dbaaea03d34"
   },
@@ -29,7 +42,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -40,7 +54,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "free-kitten",
@@ -51,7 +66,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "body-head",
@@ -62,7 +78,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "13-13",
@@ -73,7 +90,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "8-eyed-spy",
@@ -84,7 +102,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ciccone-youth",
@@ -95,7 +114,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "glitterbust",
@@ -106,7 +126,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "teenage-jesus-and-the-jerks",
@@ -117,7 +138,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": 1977,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lucky-sperms",
@@ -128,7 +150,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mirror-dash",
@@ -139,7 +162,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

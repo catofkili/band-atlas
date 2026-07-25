@@ -6,7 +6,13 @@
     "build:data": "node tools/build-data.mjs",
     "build:standalone": "node tools/build-standalone.mjs",
     "check:layout": "node tools/check-layout.mjs",
-    "build": "npm run build:data && npm run check:layout && npm run build:standalone"
+    "check:site": "node tools/check-site.mjs",
+    "fetch:popularity": "node tools/fetch-popularity.mjs",
+    "fetch:guests": "node tools/fetch-guest-recordings.mjs",
+    "scan:wikipedia-history": "node tools/scan-wikipedia-history.mjs",
+    "fetch:wikidata-enrichment": "node tools/fetch-wikidata-enrichment.mjs",
+    "stamp:assets": "node tools/stamp-assets.mjs",
+    "build": "npm run build:data && npm run check:layout && npm run stamp:assets && npm run build:standalone && npm run check:site"
   },
   "devDependencies": {
     "graphology": "^0.26.0",

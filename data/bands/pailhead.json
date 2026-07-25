@@ -14,6 +14,16 @@
   "albums": [],
   "intro": "Pailhead是一支成立于1987年的美国工业摇滚乐队。",
   "introLang": "zh",
+  "listens": 6895,
+  "listeners": 567,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9714bcae-da69-4189-84a3-6e226802eddb"
@@ -28,7 +38,8 @@
       "label": "Paul Barker・Al Jourgensen",
       "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
       "year": 1986,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "revolting-cocks",
@@ -39,7 +50,8 @@
       "label": "Paul Barker・Al Jourgensen",
       "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "lard",
@@ -50,7 +62,8 @@
       "label": "Paul Barker・Al Jourgensen",
       "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
       "year": 1988,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "1000-homo-djs",
@@ -61,7 +74,8 @@
       "label": "Paul Barker・Al Jourgensen",
       "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -72,7 +86,8 @@
       "label": "Paul Barker",
       "detail": "Paul Barker 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

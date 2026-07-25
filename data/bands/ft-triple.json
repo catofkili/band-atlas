@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "FT.triple是一支来自韩国的音乐团体。",
+  "intro": "FT.triple是一支来自韩国的音乐团体。MusicBrainz 还记录了它与FTISLAND之间的成员往来。",
   "introLang": "zh",
+  "listens": 3,
+  "listeners": 2,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5161da96-f881-4852-9ecd-ac5c0e7ba3cb"
@@ -24,7 +34,8 @@
       "label": "최종훈・최민환・이재진・副项目",
       "detail": "4 位乐手在这两支乐队都待过：최종훈・최민환・이재진・副项目。",
       "year": 2007,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     }
   ]
 }

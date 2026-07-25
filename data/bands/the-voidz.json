@@ -8,7 +8,8 @@
   "years": "2013–",
   "genres": [
     "实验摇滚",
-    "独立摇滚"
+    "独立摇滚",
+    "實驗搖滾"
   ],
   "albums": [
     {
@@ -26,6 +27,24 @@
   ],
   "intro": "The Voidz（前身为 Julian Casablancas + The Voidz）是一支实验摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Human Sadness"
+  ],
+  "trackSources": [
+    {
+      "title": "Human Sadness"
+    }
+  ],
+  "listens": 104707,
+  "listeners": 4621,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6a93cb2b-d33a-42fc-a41a-542e3a887ba6"
@@ -40,7 +59,8 @@
       "label": "Alex Carapetis",
       "detail": "Alex Carapetis 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-dead-daisies",
@@ -51,7 +71,8 @@
       "label": "Alex Carapetis",
       "detail": "Alex Carapetis 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-strokes",
@@ -62,7 +83,8 @@
       "label": "Julian Casablancas",
       "detail": "Julian Casablancas 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

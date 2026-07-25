@@ -9,7 +9,12 @@
   "genres": [
     "前卫金属",
     "另类金属",
-    "前卫摇滚"
+    "前卫摇滚",
+    "另類金屬",
+    "前衛搖滾",
+    "迷幻搖滾",
+    "艺术摇滚",
+    "前衛金屬"
   ],
   "albums": [
     {
@@ -39,6 +44,40 @@
   ],
   "intro": "工具乐队，美国摇滚乐队，1990年成立于 加利福尼亚州洛杉矶。 主要成员有：丹尼·凯里、贾斯汀·钱斯勒、梅纳德·詹姆斯·基南、亚当·琼斯。",
   "introLang": "zh",
+  "tracks": [
+    "Schism",
+    "The Pot",
+    "Ænema",
+    "Stinkfist",
+    "Parabola"
+  ],
+  "trackSources": [
+    {
+      "title": "Schism"
+    },
+    {
+      "title": "The Pot"
+    },
+    {
+      "title": "Ænema"
+    },
+    {
+      "title": "Stinkfist"
+    },
+    {
+      "title": "Parabola"
+    }
+  ],
+  "listens": 2231632,
+  "listeners": 14368,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/66fc5bf8-daa4-4241-b378-9bc9077939d2"
@@ -53,7 +92,8 @@
       "label": "Danny Carey・Adam Jones",
       "detail": "2 位乐手在这两支乐队都待过：Danny Carey・Adam Jones。",
       "year": 1990,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "melvins",
@@ -64,7 +104,8 @@
       "label": "Adam Jones",
       "detail": "Adam Jones 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -75,7 +116,8 @@
       "label": "Danny Carey",
       "detail": "Danny Carey 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "a-perfect-circle",
@@ -86,7 +128,36 @@
       "label": "Maynard James Keenan",
       "detail": "Maynard James Keenan 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "melvins",
+      "toName": "Melvins",
+      "toArea": "蒙特萨诺",
+      "toYears": "1983–",
+      "type": "guest",
+      "label": "客串：Buzz Osborne",
+      "detail": "MusicBrainz 录音资料显示，Buzz Osborne参与了《You Lied》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/eae6c16a-5516-4133-95c6-5c8997f96802"
+      ]
+    },
+    {
+      "to": "fantômas",
+      "toName": "Fantômas",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Buzz Osborne",
+      "detail": "MusicBrainz 录音资料显示，Buzz Osborne参与了《You Lied》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/eae6c16a-5516-4133-95c6-5c8997f96802"
+      ]
     },
     {
       "to": "lusk",
@@ -97,7 +168,8 @@
       "label": "Paul D’Amour",
       "detail": "Paul D’Amour 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "replicants",
@@ -108,7 +180,8 @@
       "label": "Paul D’Amour",
       "detail": "Paul D’Amour 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beat",
@@ -119,7 +192,8 @@
       "label": "Danny Carey",
       "detail": "Danny Carey 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tapeworm",
@@ -130,7 +204,8 @@
       "label": "Maynard James Keenan",
       "detail": "Maynard James Keenan 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-human-experimente",
@@ -141,7 +216,8 @@
       "label": "Maynard James Keenan",
       "detail": "Maynard James Keenan 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zaum",
@@ -152,7 +228,64 @@
       "label": "Danny Carey",
       "detail": "Danny Carey 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "brown-towel",
+      "toName": "Brown Towel",
+      "toArea": null,
+      "toYears": "1985–1986",
+      "type": "guest",
+      "label": "客串：Buzz Osborne",
+      "detail": "MusicBrainz 录音资料显示，Buzz Osborne参与了《You Lied》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/eae6c16a-5516-4133-95c6-5c8997f96802"
+      ]
+    },
+    {
+      "to": "fecal-matter",
+      "toName": "Fecal Matter",
+      "toArea": "阿伯丁",
+      "toYears": "1985–1986",
+      "type": "guest",
+      "label": "客串：Buzz Osborne",
+      "detail": "MusicBrainz 录音资料显示，Buzz Osborne参与了《You Lied》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/eae6c16a-5516-4133-95c6-5c8997f96802"
+      ]
+    },
+    {
+      "to": "melvana",
+      "toName": "Melvana",
+      "toArea": null,
+      "toYears": "1992–1992",
+      "type": "guest",
+      "label": "客串：Buzz Osborne",
+      "detail": "MusicBrainz 录音资料显示，Buzz Osborne参与了《You Lied》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/eae6c16a-5516-4133-95c6-5c8997f96802"
+      ]
+    },
+    {
+      "to": "the-fantômas-melvins-big-band",
+      "toName": "The Fantômas Melvins Big Band",
+      "toArea": "美国",
+      "toYears": "2000–",
+      "type": "guest",
+      "label": "客串：Buzz Osborne",
+      "detail": "MusicBrainz 录音资料显示，Buzz Osborne参与了《You Lied》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/eae6c16a-5516-4133-95c6-5c8997f96802"
+      ]
     },
     {
       "to": "deftones",
@@ -163,7 +296,8 @@
       "label": "影响关系",
       "detail": "Tool 影响了 Deftones（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

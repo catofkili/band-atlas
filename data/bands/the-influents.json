@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1999–2003",
-  "genres": [],
+  "genres": [
+    "朋克搖滾"
+  ],
   "albums": [
     {
       "title": "Check Please",
@@ -19,6 +21,16 @@
   ],
   "intro": "The Influents 是一支美国朋克摇滚乐队，由杰森·怀特（Jason White）和比尔·施耐德（Bill Schneider）于1999年组建。",
   "introLang": "zh",
+  "listens": 105,
+  "listeners": 12,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c97a50b1-e2c7-4810-99b9-061e6da522b2"
@@ -33,7 +45,8 @@
       "label": "Bill Schneider",
       "detail": "Bill Schneider 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "monsula",
@@ -44,7 +57,8 @@
       "label": "Bill Schneider",
       "detail": "Bill Schneider 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-coverups",
@@ -55,7 +69,8 @@
       "label": "Bill Schneider",
       "detail": "Bill Schneider 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

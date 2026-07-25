@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2004–2008",
-  "genres": [],
+  "genres": [
+    "摇滚乐"
+  ],
   "albums": [
     {
       "title": "電気ショック",
@@ -15,6 +17,16 @@
   ],
   "intro": "“电气糖果”是由两名女性组成的日本摇滚组合。曾是京阪GIRL成员的玛丽莲与表妹米尔基共同组建了该组合。",
   "introLang": "zh",
+  "listens": 14,
+  "listeners": 2,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/174298f2-2751-4843-a007-2850b9e3b13b"
@@ -29,7 +41,8 @@
       "label": "種田律子",
       "detail": "種田律子 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "京阪girl",
@@ -40,7 +53,8 @@
       "label": "種田律子",
       "detail": "種田律子 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

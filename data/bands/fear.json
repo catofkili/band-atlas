@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1977–",
-  "genres": [],
+  "genres": [
+    "硬核朋克"
+  ],
   "albums": [
     {
       "title": "The Record",
@@ -35,6 +37,32 @@
   ],
   "intro": "Fear（艺术名称为FEAR）是一支来自洛杉矶的美国朋克摇滚乐队，成立于1977年。",
   "introLang": "zh",
+  "tracks": [
+    "Fuck Christmas",
+    "I Love Livin' in the City",
+    "Budweiser"
+  ],
+  "trackSources": [
+    {
+      "title": "Fuck Christmas"
+    },
+    {
+      "title": "I Love Livin' in the City"
+    },
+    {
+      "title": "Budweiser"
+    }
+  ],
+  "listens": 29241,
+  "listeners": 1732,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5e6512dd-160b-4512-a4b4-2c30fa894a08"
@@ -49,7 +77,8 @@
       "label": "Eric Drew Feldman",
       "detail": "Eric Drew Feldman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -60,7 +89,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -71,7 +101,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "atoms-for-peace",
@@ -82,7 +113,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "md-45",
@@ -93,7 +125,8 @@
       "label": "Lee Ving",
       "detail": "Lee Ving 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rocket-juice-the-moon",
@@ -104,7 +137,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "aleka-s-attic",
@@ -115,7 +149,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "flea-and-the-honora-band",
@@ -126,7 +161,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -137,7 +173,8 @@
       "label": "Lee Ving",
       "detail": "Lee Ving 在这两支乐队都待过。",
       "year": 1977,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-lost-trees",
@@ -148,7 +185,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-offspring",
@@ -159,7 +197,8 @@
       "label": "影响关系",
       "detail": "Fear 影响了 The Offspring（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

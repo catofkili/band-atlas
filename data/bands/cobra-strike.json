@@ -2,8 +2,8 @@
   "id": "cobra-strike",
   "mbid": "10ce1c49-1fc6-469a-b1c4-bc80cc91f6d6",
   "name": "Cobra Strike",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
@@ -17,9 +17,20 @@
       "year": 2000
     }
   ],
-  "intro": "Cobra Strike是一支音乐团体。",
+  "intro": "Cobra Strike是一支来自美国的音乐团体。目前资料收录了《The 13th Scroll》、《Cobra Strike II: Y,Y+B,X+Y<hold>←》等作品；MusicBrainz 还记录了它与Cornbugs、Primus、El Stew之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 1760,
+  "listeners": 64,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 12,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/10ce1c49-1fc6-469a-b1c4-bc80cc91f6d6"
   },
@@ -33,7 +44,8 @@
       "label": "Pinchface",
       "detail": "Pinchface 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "primus",
@@ -44,7 +56,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "el-stew",
@@ -55,7 +68,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gorgone",
@@ -66,7 +80,8 @@
       "label": "Pinchface",
       "detail": "Pinchface 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "no-forcefield",
@@ -77,7 +92,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deli-creeps",
@@ -88,7 +104,8 @@
       "label": "Pinchface",
       "detail": "Pinchface 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "peeping-tom",
@@ -99,7 +116,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "buckethead-and-his-bucket-bots",
@@ -110,7 +128,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

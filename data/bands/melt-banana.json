@@ -8,7 +8,10 @@
   "years": "1992–",
   "genres": [
     "噪音摇滚",
-    "实验摇滚"
+    "实验摇滚",
+    "爵士乐",
+    "硬核朋克",
+    "巴西風流行音樂"
   ],
   "albums": [
     {
@@ -38,6 +41,16 @@
   ],
   "intro": "Melt-Banana 是一支日本摇滚乐队。他们在美国和欧洲的朋克摇滚乐迷中获得的支持，甚至超过了在祖国日本。",
   "introLang": "zh",
+  "listens": 149330,
+  "listeners": 3097,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6d3f44c3-132d-42a6-a45b-16560b30a1fc"
@@ -52,7 +65,8 @@
       "label": "大島昌樹",
       "detail": "大島昌樹 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "eiko-ishibashi-trio",
@@ -63,7 +77,8 @@
       "label": "須藤俊明",
       "detail": "須藤俊明 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

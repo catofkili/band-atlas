@@ -6,10 +6,22 @@
   "countryCode": "FR",
   "country": "法国",
   "years": "1992–1993",
-  "genres": [],
+  "genres": [
+    "独立摇滚"
+  ],
   "albums": [],
   "intro": "Darlin'是一支法国摇滚乐队，由洛朗·布兰科维茨、托马斯·本高特和盖-马努尔·德霍曼-克里斯托于1992年创立。该乐队在英国前卫流行乐队立体声实验室的Duophonic唱片公司发行了他们的歌曲。",
   "introLang": "zh",
+  "listens": 377,
+  "listeners": 86,
+  "quality": {
+    "score": 51,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/213b7d3b-db5b-45f1-9cf6-27c2c894ca8a"
@@ -24,7 +36,8 @@
       "label": "Thomas Bangalter・Guy‐Manuel de Homem‐Christo",
       "detail": "2 位乐手在这两支乐队都待过：Thomas Bangalter・Guy‐Manuel de Homem‐Christo。",
       "year": 1993,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "crydajam",
@@ -35,7 +48,8 @@
       "label": "Guy‐Manuel de Homem‐Christo",
       "detail": "Guy‐Manuel de Homem‐Christo 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "da-mongoloids",
@@ -46,7 +60,8 @@
       "label": "Thomas Bangalter",
       "detail": "Thomas Bangalter 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "le-knight-club",
@@ -57,7 +72,8 @@
       "label": "Guy‐Manuel de Homem‐Christo",
       "detail": "Guy‐Manuel de Homem‐Christo 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "together",
@@ -68,7 +84,8 @@
       "label": "Thomas Bangalter",
       "detail": "Thomas Bangalter 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

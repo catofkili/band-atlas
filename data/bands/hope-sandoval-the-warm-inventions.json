@@ -9,7 +9,8 @@
   "genres": [
     "梦幻流行乐",
     "另类乡村音乐",
-    "当代民谣"
+    "当代民谣",
+    "獨立流行"
   ],
   "albums": [
     {
@@ -27,6 +28,28 @@
   ],
   "intro": "Hope Sandoval & The Warm Inventions 是一支美爱混血梦幻流行乐队，由 Mazzy Star 乐队的 Hope Sandoval 和 My Bloody Valentine 乐队的 Colm Ó Cíosóig 组成。",
   "introLang": "zh",
+  "tracks": [
+    "Isn't It True",
+    "Let Me Get There"
+  ],
+  "trackSources": [
+    {
+      "title": "Isn't It True"
+    },
+    {
+      "title": "Let Me Get There"
+    }
+  ],
+  "listens": 59022,
+  "listeners": 2992,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/23f527e1-74ae-4f7c-94f3-4a5d5f379c51"
@@ -41,7 +64,8 @@
       "label": "Colm Ó Cíosóig",
       "detail": "Colm Ó Cíosóig 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mazzy-star",
@@ -52,7 +76,8 @@
       "label": "Colm Ó Cíosóig・Hope Sandoval",
       "detail": "2 位乐手在这两支乐队都待过：Colm Ó Cíosóig・Hope Sandoval。",
       "year": 2012,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-complex",
@@ -63,7 +88,8 @@
       "label": "Colm Ó Cíosóig",
       "detail": "Colm Ó Cíosóig 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

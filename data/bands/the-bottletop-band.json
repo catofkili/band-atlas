@@ -6,7 +6,9 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "2008–",
-  "genres": [],
+  "genres": [
+    "独立摇滚"
+  ],
   "albums": [
     {
       "title": "Dream Service",
@@ -15,6 +17,16 @@
   ],
   "intro": "The Bottletop Band 是一支由巴西和英国乐坛顶尖音乐人组成的超级乐队。",
   "introLang": "zh",
+  "listens": 114,
+  "listeners": 37,
+  "quality": {
+    "score": 59,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9b52f235-714b-4b76-b85b-ebc07363db7f"
@@ -29,7 +41,8 @@
       "label": "Andy Nicholson",
       "detail": "Andy Nicholson 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "reverend-and-the-makers",
@@ -40,7 +53,8 @@
       "label": "Andy Nicholson",
       "detail": "Andy Nicholson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mongrel",
@@ -51,7 +65,8 @@
       "label": "Andy Nicholson",
       "detail": "Andy Nicholson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lords-of-flatbush",
@@ -62,7 +77,8 @@
       "label": "Andy Nicholson",
       "detail": "Andy Nicholson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sticky-blood",
@@ -73,7 +89,8 @@
       "label": "Andy Nicholson",
       "detail": "Andy Nicholson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -6,10 +6,38 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2005–",
-  "genres": [],
+  "genres": [
+    "哥德搖滾"
+  ],
   "albums": [],
   "intro": "Violet UK是由音乐人YOSHIKI领衔的音乐项目。",
   "introLang": "zh",
+  "tracks": [
+    "Blue Butterfly (Violet UKの曲)",
+    "Rosa (Violet UKの曲)",
+    "Sex and Religion"
+  ],
+  "trackSources": [
+    {
+      "title": "Blue Butterfly (Violet UKの曲)"
+    },
+    {
+      "title": "Rosa (Violet UKの曲)"
+    },
+    {
+      "title": "Sex and Religion"
+    }
+  ],
+  "listens": 193,
+  "listeners": 45,
+  "quality": {
+    "score": 68,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/81f25673-b01a-4fd7-a5be-eb93c85d11bb"
@@ -24,7 +52,22 @@
       "label": "YOSHIKI",
       "detail": "YOSHIKI 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "立山",
+      "toYears": "1982–",
+      "type": "guest",
+      "label": "客串：Violet UK、X JAPAN",
+      "detail": "MusicBrainz 录音资料显示，Violet UK、X JAPAN参与了《CITY OF ANGELS》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/57e8831c-9ce9-4298-8414-8fb8d458ad3b"
+      ]
     },
     {
       "to": "s-k-i-n",
@@ -35,7 +78,8 @@
       "label": "YOSHIKI",
       "detail": "YOSHIKI 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-last-rockstars",
@@ -46,7 +90,8 @@
       "label": "YOSHIKI",
       "detail": "YOSHIKI 在这两支乐队都待过。",
       "year": 2022,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

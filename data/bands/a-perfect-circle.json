@@ -31,6 +31,40 @@
   ],
   "intro": "完美集团是一支于1999年在美国加州洛杉矶成立的摇滚超级乐团，由吉他手比利·霍尔德尔与工具乐团主唱梅纳德·詹姆斯·基南共同创立。",
   "introLang": "zh",
+  "tracks": [
+    "Judith",
+    "Passive",
+    "3 Libras",
+    "Weak and Powerless",
+    "Counting Bodies Like Sheep to the Rhythm of the War Drums"
+  ],
+  "trackSources": [
+    {
+      "title": "Judith"
+    },
+    {
+      "title": "Passive"
+    },
+    {
+      "title": "3 Libras"
+    },
+    {
+      "title": "Weak and Powerless"
+    },
+    {
+      "title": "Counting Bodies Like Sheep to the Rhythm of the War Drums"
+    }
+  ],
+  "listens": 938898,
+  "listeners": 10148,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/078a9376-3c04-4280-b7d7-b20e158f345d"
@@ -45,7 +79,8 @@
       "label": "Paz Lenchantin",
       "detail": "Paz Lenchantin 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "desert-sessions",
@@ -56,7 +91,8 @@
       "label": "Jeordie White・Troy Van Leeuwen",
       "detail": "2 位乐手在这两支乐队都待过：Jeordie White・Troy Van Leeuwen。",
       "year": 2003,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "marilyn-manson",
@@ -67,7 +103,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -78,7 +115,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "primus",
@@ -89,7 +127,8 @@
       "label": "Tim Alexander",
       "detail": "Tim Alexander 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queens-of-the-stone-age",
@@ -100,7 +139,8 @@
       "label": "Troy Van Leeuwen",
       "detail": "Troy Van Leeuwen 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "silver-jews",
@@ -111,7 +151,8 @@
       "label": "Paz Lenchantin",
       "detail": "Paz Lenchantin 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-smashing-pumpkins",
@@ -122,7 +163,8 @@
       "label": "James Iha",
       "detail": "James Iha 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tool",
@@ -133,7 +175,8 @@
       "label": "Maynard James Keenan",
       "detail": "Maynard James Keenan 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "amboog-a-lard",
@@ -144,7 +187,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "goon-moon",
@@ -155,7 +199,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-entrance-band",
@@ -166,7 +211,8 @@
       "label": "Paz Lenchantin",
       "detail": "Paz Lenchantin 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zwan",
@@ -177,7 +223,8 @@
       "label": "Paz Lenchantin",
       "detail": "Paz Lenchantin 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ashes-divide",
@@ -188,7 +235,8 @@
       "label": "Billy Howerdel",
       "detail": "Billy Howerdel 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mrs-scabtree",
@@ -199,7 +247,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "satan-on-fire",
@@ -210,7 +259,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tapeworm",
@@ -221,7 +271,8 @@
       "label": "Maynard James Keenan",
       "detail": "Maynard James Keenan 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-human-experimente",
@@ -232,7 +283,8 @@
       "label": "Maynard James Keenan",
       "detail": "Maynard James Keenan 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sessanta",
@@ -243,7 +295,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

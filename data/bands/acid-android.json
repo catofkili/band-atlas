@@ -8,7 +8,8 @@
   "years": "2001–",
   "genres": [
     "工业摇滚",
-    "摇滚"
+    "摇滚",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -38,11 +39,43 @@
   ],
   "intro": "ACID ANDROID是L'Arc〜en〜Ciel鼓手yukihiro的个人项目。自2001年起开始活动。",
   "introLang": "zh",
+  "tracks": [
+    "let's dance"
+  ],
+  "trackSources": [
+    {
+      "title": "let's dance"
+    }
+  ],
+  "listens": 5320,
+  "listeners": 54,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4092a0ab-f189-4d0a-bdd7-a90fb7ef9330"
   },
   "edges": [
+    {
+      "to": "ling-tosite-sigure",
+      "toName": "凛として時雨",
+      "toArea": "埼玉",
+      "toYears": "2002–",
+      "type": "guest",
+      "label": "客串：TK",
+      "detail": "MusicBrainz 录音资料显示，TK参与了《mode inversion》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/70b963b2-f904-4650-8f3a-6f6a6c0891fe"
+      ]
+    },
     {
       "to": "die-in-cries",
       "toName": "DIE IN CRIES",
@@ -52,7 +85,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-arc-en-ciel",
@@ -63,7 +97,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zi-kill",
@@ -74,7 +109,22 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "buck-tick",
+      "toName": "BUCK‐TICK",
+      "toArea": "日本",
+      "toYears": "1984–",
+      "type": "guest",
+      "label": "客串：今井寿",
+      "detail": "MusicBrainz 录音资料显示，今井寿参与了《balancing doll:1.02》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/ad4e4149-ee71-4b86-a204-cc7a44e46410"
+      ]
     },
     {
       "to": "geek-sleep-sheep",
@@ -85,7 +135,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "petit-brabancon",
@@ -96,7 +147,37 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2021,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "schaft",
+      "toName": "SCHAFT",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "guest",
+      "label": "客串：藤井麻輝、今井寿",
+      "detail": "MusicBrainz 录音资料显示，藤井麻輝、今井寿参与了《a moon tonight:1.22》、《balancing doll:1.02》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/0a5a5eb6-9067-49cb-89f5-1455b89902e1",
+        "https://musicbrainz.org/recording/ad4e4149-ee71-4b86-a204-cc7a44e46410"
+      ]
+    },
+    {
+      "to": "lucy",
+      "toName": "Lucy",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "guest",
+      "label": "客串：今井寿",
+      "detail": "MusicBrainz 录音资料显示，今井寿参与了《balancing doll:1.02》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/ad4e4149-ee71-4b86-a204-cc7a44e46410"
+      ]
     },
     {
       "to": "guerrilla",
@@ -107,7 +188,36 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "schwein",
+      "toName": "Schwein",
+      "toArea": null,
+      "toYears": "2000–",
+      "type": "guest",
+      "label": "客串：今井寿",
+      "detail": "MusicBrainz 录音资料显示，今井寿参与了《balancing doll:1.02》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/ad4e4149-ee71-4b86-a204-cc7a44e46410"
+      ]
+    },
+    {
+      "to": "pandas",
+      "toName": "PANDAS",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "guest",
+      "label": "客串：TK",
+      "detail": "MusicBrainz 录音资料显示，TK参与了《mode inversion》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/70b963b2-f904-4650-8f3a-6f6a6c0891fe"
+      ]
     }
   ]
 }

@@ -2,15 +2,26 @@
   "id": "the-atoms",
   "mbid": "dc5caa1a-2be6-4104-a34e-fab24dcd4abe",
   "name": "The Atoms",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Atoms是一支音乐团体。",
+  "intro": "The Atoms是一支来自美国的音乐团体。MusicBrainz 还记录了它与Guns N' Roses、London、Izzy Stradlin and the Ju Ju Hounds之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 0,
+  "listeners": 0,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dc5caa1a-2be6-4104-a34e-fab24dcd4abe"
   },
@@ -24,7 +35,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "london",
@@ -35,7 +47,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "izzy-stradlin-and-the-ju-ju-hounds",
@@ -46,7 +59,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hollywood-rose",
@@ -57,7 +71,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

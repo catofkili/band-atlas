@@ -9,7 +9,9 @@
   "genres": [
     "工业摇滚",
     "电子音乐",
-    "实验音乐"
+    "实验音乐",
+    "工業金屬",
+    "工業搖滾"
   ],
   "albums": [
     {
@@ -39,6 +41,16 @@
   ],
   "intro": "Pigface 是一支美国工业摇滚超级乐队，由马丁·阿特金斯（Martin Atkins）和威廉·里夫林（William Rieflin）于 1990 年组建。",
   "introLang": "zh",
+  "listens": 39671,
+  "listeners": 1040,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/11137c88-a9a2-4ffa-a97d-fb058c6d6ce2"
@@ -53,7 +65,8 @@
       "label": "Paul Ferguson・Paul Raven・Geordie Walker・Youth",
       "detail": "4 位乐手在这两支乐队都待过：Paul Ferguson・Paul Raven・Geordie Walker・Youth。",
       "year": 1979,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "ministry",
@@ -64,7 +77,8 @@
       "label": "Jeff Ward・Michael Balch・Paul Barker・Paul Raven・Louis Svitek・William Tucker",
       "detail": "6 位乐手在这两支乐队都待过：Jeff Ward・Michael Balch・Paul Barker・Paul Raven・Louis Svitek・William Tucker。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "revolting-cocks",
@@ -75,7 +89,8 @@
       "label": "Jeff Ward・Paul Barker・Duane Denison・Sean Joyce・William Tucker",
       "detail": "5 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Duane Denison・Sean Joyce・William Tucker。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "lard",
@@ -86,7 +101,8 @@
       "label": "Jeff Ward・Paul Barker・Jello Biafra",
       "detail": "3 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Jello Biafra。",
       "year": 1988,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "spasm",
@@ -97,7 +113,8 @@
       "label": "Curse Mackey・Eric Pounder・Mark Spybey",
       "detail": "3 位乐手在这两支乐队都待过：Curse Mackey・Eric Pounder・Mark Spybey。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "murder-inc",
@@ -108,7 +125,8 @@
       "label": "Paul Ferguson・Paul Raven・Geordie Walker",
       "detail": "3 位乐手在这两支乐队都待过：Paul Ferguson・Paul Raven・Geordie Walker。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "pixies",
@@ -119,7 +137,8 @@
       "label": "Black Francis",
       "detail": "Black Francis 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "swans",
@@ -130,7 +149,8 @@
       "label": "Michael Gira・Algis Kizys",
       "detail": "2 位乐手在这两支乐队都待过：Michael Gira・Algis Kizys。",
       "year": 2010,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-tear-garden",
@@ -141,7 +161,8 @@
       "label": "Dwayne Rudolph Goettel・cEvin Key",
       "detail": "2 位乐手在这两支乐队都待过：Dwayne Rudolph Goettel・cEvin Key。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "少年ナイフ",
@@ -152,7 +173,8 @@
       "label": "山野敦子・山野直子",
       "detail": "2 位乐手在这两支乐队都待过：山野敦子・山野直子。",
       "year": 1981,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "die-warzau",
@@ -163,7 +185,8 @@
       "label": "Jim Marcus・Jason McNinch",
       "detail": "2 位乐手在这两支乐队都待过：Jim Marcus・Jason McNinch。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "hilt",
@@ -174,7 +197,8 @@
       "label": "Dwayne Rudolph Goettel・cEvin Key",
       "detail": "2 位乐手在这两支乐队都待过：Dwayne Rudolph Goettel・cEvin Key。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-damage-manual",
@@ -185,7 +209,8 @@
       "label": "Steven Seibold・Geordie Walker",
       "detail": "2 位乐手在这两支乐队都待过：Steven Seibold・Geordie Walker。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "dead-kennedys",
@@ -196,7 +221,8 @@
       "label": "Jello Biafra",
       "detail": "Jello Biafra 在这两支乐队都待过。",
       "year": 1978,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fear",
@@ -207,7 +233,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "godflesh",
@@ -218,7 +245,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -229,7 +257,8 @@
       "label": "Jeff Ward",
       "detail": "Jeff Ward 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "praxis",
@@ -240,7 +269,8 @@
       "label": "Mick Harris",
       "detail": "Mick Harris 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "public-image-ltd",
@@ -251,7 +281,8 @@
       "label": "John Lydon",
       "detail": "John Lydon 在这两支乐队都待过。",
       "year": 1978,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -262,7 +293,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "silver-jews",
@@ -273,7 +305,8 @@
       "label": "Duane Denison",
       "detail": "Duane Denison 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tool",
@@ -284,7 +317,8 @@
       "label": "Danny Carey",
       "detail": "Danny Carey 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ween",
@@ -295,7 +329,8 @@
       "label": "Andrew Weiss",
       "detail": "Andrew Weiss 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "flipper",
@@ -306,7 +341,8 @@
       "label": "David Yow",
       "detail": "David Yow 在这两支乐队都待过。",
       "year": 2015,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mind-funk",
@@ -317,7 +353,8 @@
       "label": "Louis Svitek",
       "detail": "Louis Svitek 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "grand-duchy",
@@ -328,7 +365,8 @@
       "label": "Black Francis",
       "detail": "Black Francis 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "low-pop-suicide",
@@ -339,7 +377,8 @@
       "label": "Jeff Ward",
       "detail": "Jeff Ward 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zilch",
@@ -350,7 +389,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "13-13",
@@ -361,7 +401,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "8-eyed-spy",
@@ -372,7 +413,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "atoms-for-peace",
@@ -383,7 +425,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "harry-crews",
@@ -394,7 +437,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lucky-pierre",
@@ -405,7 +449,8 @@
       "label": "Tom Lash",
       "detail": "Tom Lash 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rocket-juice-the-moon",
@@ -416,7 +461,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rx",
@@ -427,7 +473,8 @@
       "label": "Ogre",
       "detail": "Ogre 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "teenage-jesus-and-the-jerks",
@@ -438,7 +485,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": 1977,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "1000-homo-djs",
@@ -449,7 +497,8 @@
       "label": "Paul Barker",
       "detail": "Paul Barker 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "aleka-s-attic",
@@ -460,7 +509,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beat",
@@ -471,7 +521,8 @@
       "label": "Danny Carey",
       "detail": "Danny Carey 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "flea-and-the-honora-band",
@@ -482,7 +533,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "glenn-branca-ensemble",
@@ -493,7 +545,8 @@
       "label": "Algis Kizys",
       "detail": "Algis Kizys 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pailhead",
@@ -504,7 +557,8 @@
       "label": "Paul Barker",
       "detail": "Paul Barker 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "raw-dog",
@@ -515,7 +569,8 @@
       "label": "Ogre",
       "detail": "Ogre 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "supergroup-b",
@@ -526,7 +581,8 @@
       "label": "Danny Carey",
       "detail": "Danny Carey 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-lost-trees",
@@ -537,7 +593,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-no-w-t-o-combo",
@@ -548,7 +605,8 @@
       "label": "Jello Biafra",
       "detail": "Jello Biafra 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zaum",
@@ -559,7 +617,8 @@
       "label": "Danny Carey",
       "detail": "Danny Carey 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

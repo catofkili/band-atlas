@@ -9,7 +9,13 @@
   "genres": [
     "前卫摇滚",
     "迷幻摇滚",
-    "摇滚"
+    "摇滚",
+    "前衛搖滾",
+    "藍調搖滾",
+    "迷幻搖滾",
+    "艺术摇滚",
+    "太空摇滚",
+    "酸性搖滾"
   ],
   "albums": [
     {
@@ -39,6 +45,40 @@
   ],
   "intro": "平克·弗洛伊德是一支于伦敦成立的英国摇滚乐队，他们最初以迷幻摇滚与太空摇滚音乐赢得知名度，而后逐渐发展为前卫摇滚乐队，并获得国际声誉。",
   "introLang": "zh",
+  "tracks": [
+    "アーノルド・レーン",
+    "Have a Cigar",
+    "吹けよ風、呼べよ嵐",
+    "Free Four",
+    "シーマスのブルース"
+  ],
+  "trackSources": [
+    {
+      "title": "アーノルド・レーン"
+    },
+    {
+      "title": "Have a Cigar"
+    },
+    {
+      "title": "吹けよ風、呼べよ嵐"
+    },
+    {
+      "title": "Free Four"
+    },
+    {
+      "title": "シーマスのブルース"
+    }
+  ],
+  "listens": 4680682,
+  "listeners": 25003,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/83d91898-7763-47d7-b03b-b92132375c47"
@@ -53,7 +93,8 @@
       "label": "Richard Wright・Roger Waters・Nick Mason",
       "detail": "3 位乐手在这两支乐队都待过：Richard Wright・Roger Waters・Nick Mason。",
       "year": 1987,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "zee",
@@ -64,7 +105,8 @@
       "label": "Richard Wright",
       "detail": "Richard Wright 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deep-end",
@@ -75,7 +117,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hale-pace-and-the-stonkers",
@@ -86,7 +129,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "holly-and-the-ivy-s",
@@ -97,7 +141,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jokers-wild",
@@ -108,7 +153,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -119,7 +165,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nick-mason-s-saucerful-of-secrets",
@@ -130,7 +177,8 @@
       "label": "Nick Mason",
       "detail": "Nick Mason 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-ramblers",
@@ -141,7 +189,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1962,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queen",
@@ -152,7 +201,8 @@
       "label": "影响关系",
       "detail": "Pink Floyd 影响了 Queen（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "radiohead",
@@ -163,7 +213,8 @@
       "label": "影响关系",
       "detail": "Pink Floyd 影响了 Radiohead（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-smashing-pumpkins",
@@ -174,7 +225,8 @@
       "label": "影响关系",
       "detail": "Pink Floyd 影响了 The Smashing Pumpkins（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "u2",
@@ -185,7 +237,8 @@
       "label": "影响关系",
       "detail": "Pink Floyd 影响了 U2（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

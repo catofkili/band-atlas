@@ -12,6 +12,16 @@
   "albums": [],
   "intro": "Teen Idles（The Teen Idles）是一支成立于1979年、以华盛顿特区为中心开展活动的硬核朋克乐队。",
   "introLang": "zh",
+  "listens": 6829,
+  "listeners": 593,
+  "quality": {
+    "score": 50,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/84e8d8bf-da21-4488-89e5-50a4c12ff4fa"
@@ -26,7 +36,8 @@
       "label": "Jeff Nelson",
       "detail": "Jeff Nelson 在这两支乐队都待过。",
       "year": 1980,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "egg-hunt",
@@ -37,7 +48,8 @@
       "label": "Jeff Nelson",
       "detail": "Jeff Nelson 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "skewbald",
@@ -48,7 +60,8 @@
       "label": "Jeff Nelson",
       "detail": "Jeff Nelson 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

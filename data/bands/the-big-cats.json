@@ -7,7 +7,8 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "独立摇滚"
+    "独立摇滚",
+    "搖滾"
   ],
   "albums": [
     {
@@ -17,6 +18,16 @@
   ],
   "intro": "The Big Cats 是一支来自阿肯色州小石城的美国摇滚乐队。",
   "introLang": "zh",
+  "listens": 15,
+  "listeners": 4,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/661c8840-8a2f-4626-9edf-68be40656c4a"
@@ -31,7 +42,8 @@
       "label": "Burt Taggart",
       "detail": "Burt Taggart 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "numbskulz",
@@ -42,7 +54,8 @@
       "label": "Colin Brooks",
       "detail": "Colin Brooks 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "quisp",
@@ -53,7 +66,8 @@
       "label": "Colin Brooks",
       "detail": "Colin Brooks 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

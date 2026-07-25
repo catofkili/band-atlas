@@ -6,10 +6,22 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "1989–1989",
-  "genres": [],
+  "genres": [
+    "朋克搖滾"
+  ],
   "albums": [],
   "intro": "托马斯·爱德华·约克（Thomas Edward Yorke，1968年10月7日出生）是一位英国音乐人，也是摇滚乐队Radiohead的主唱和主要词曲作者。",
   "introLang": "zh",
+  "listens": 15,
+  "listeners": 8,
+  "quality": {
+    "score": 51,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2371ce0b-7990-4b88-af6f-6a8b01ef369a"
@@ -24,7 +36,8 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-smile",
@@ -35,7 +48,8 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "atoms-for-peace",
@@ -46,7 +60,8 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "on-a-friday",
@@ -57,7 +72,8 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-venus-in-furs",
@@ -68,7 +84,8 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

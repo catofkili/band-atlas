@@ -9,7 +9,12 @@
   "genres": [
     "硬摇滚",
     "摇滚",
-    "蓝调摇滚"
+    "蓝调摇滚",
+    "摇滚乐",
+    "硬式搖滾",
+    "民谣摇滚",
+    "藍調搖滾",
+    "经典摇滚"
   ],
   "albums": [
     {
@@ -39,6 +44,40 @@
   ],
   "intro": "齐柏林飞艇是英国的硬式摇滚／重金属乐队，1968年成立于英国伦敦。它的主要成员有吉米·佩奇，罗伯特·普兰特，约翰·保罗·琼斯和约翰·博纳姆。",
   "introLang": "zh",
+  "tracks": [
+    "Immigrant Song",
+    "デジャ・メイク・ハー",
+    "搖滾樂",
+    "丘のむこうに",
+    "無情踐踏"
+  ],
+  "trackSources": [
+    {
+      "title": "Immigrant Song"
+    },
+    {
+      "title": "デジャ・メイク・ハー"
+    },
+    {
+      "title": "搖滾樂"
+    },
+    {
+      "title": "丘のむこうに"
+    },
+    {
+      "title": "無情踐踏"
+    }
+  ],
+  "listens": 2476452,
+  "listeners": 21660,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/678d88b2-87b0-403b-b63d-5da7465aecc3"
@@ -53,29 +92,8 @@
       "label": "John Bonham・John Paul Jones",
       "detail": "2 位乐手在这两支乐队都待过：John Bonham・John Paul Jones。",
       "year": 1968,
-      "weight": 0.84
-    },
-    {
-      "to": "guns-n-roses",
-      "toName": "Guns N' Roses",
-      "toArea": "洛杉矶",
-      "toYears": "1985–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Led Zeppelin 影响了 Guns N’ Roses（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "nirvana",
-      "toName": "Nirvana",
-      "toArea": "西雅图",
-      "toYears": "1987–1994",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Led Zeppelin 影响了 Nirvana（Wikidata）。",
-      "year": null,
-      "weight": 0.46
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "band-of-joy",
@@ -86,7 +104,60 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "伯明翰",
+      "toYears": "1968–2025",
+      "type": "guest",
+      "label": "客串：Led Zeppelin",
+      "detail": "MusicBrainz 录音资料显示，Led Zeppelin参与了《Whole Lotta Sabbath (Wax Audio mashup)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/b42ac4c5-f07a-4601-a28d-48cc488c9be6"
+      ]
+    },
+    {
+      "to": "the-strokes",
+      "toName": "The Strokes",
+      "toArea": "纽约",
+      "toYears": "1998–",
+      "type": "guest",
+      "label": "客串：Led Zeppelin",
+      "detail": "MusicBrainz 录音资料显示，Led Zeppelin参与了《Living Loving Maid (She’s Just a Woman) / Hard to Explain》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/5690bc0b-bc59-4898-a178-dd5dbfff1842"
+      ]
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Led Zeppelin 影响了 Guns N’ Roses（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Led Zeppelin 影响了 Nirvana（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "lord-sutch-heavy-friends",
@@ -97,7 +168,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "minibus-pimps",
@@ -108,7 +180,8 @@
       "label": "John Paul Jones",
       "detail": "John Paul Jones 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "them-crooked-vultures",
@@ -119,7 +192,8 @@
       "label": "John Paul Jones",
       "detail": "John Paul Jones 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gerry-levene-the-avengers",
@@ -130,7 +204,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-nicky-james-movement",
@@ -141,7 +216,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-senators",
@@ -152,7 +228,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jimmy-page-robert-plant",
@@ -163,7 +240,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "deftones",
@@ -174,7 +252,8 @@
       "label": "影响关系",
       "detail": "Led Zeppelin 影响了 Deftones（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -185,7 +264,8 @@
       "label": "影响关系",
       "detail": "Led Zeppelin 影响了 Pearl Jam（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "quiet-riot",
@@ -196,7 +276,8 @@
       "label": "影响关系",
       "detail": "Led Zeppelin 影响了 Quiet Riot（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "soundgarden",
@@ -207,7 +288,8 @@
       "label": "影响关系",
       "detail": "Led Zeppelin 影响了 Soundgarden（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-rolling-stones",
@@ -218,7 +300,8 @@
       "label": "影响关系",
       "detail": "Led Zeppelin 受 The Rolling Stones 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

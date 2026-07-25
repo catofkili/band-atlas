@@ -9,7 +9,8 @@
   "genres": [
     "蓝眼灵魂乐",
     "蓝调摇滚",
-    "乡村摇滚"
+    "乡村摇滚",
+    "藍調搖滾"
   ],
   "albums": [
     {
@@ -35,6 +36,24 @@
   ],
   "intro": "德拉尼与邦妮是美国的一对双人演唱组合。由德拉尼·布拉姆莱特和邦妮·布拉姆莱特夫妇组建。因曾与埃里克·克莱普顿同台演出等而闻名。",
   "introLang": "zh",
+  "tracks": [
+    "Never Ending Song of Love"
+  ],
+  "trackSources": [
+    {
+      "title": "Never Ending Song of Love"
+    }
+  ],
+  "listens": 7905,
+  "listeners": 871,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1d0e964a-2b91-4dd9-8100-a5a184870382"
@@ -49,7 +68,8 @@
       "label": "Dave Mason・Eric Clapton・Steve Cropper",
       "detail": "3 位乐手在这两支乐队都待过：Dave Mason・Eric Clapton・Steve Cropper。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "traveling-wilburys",
@@ -60,7 +80,8 @@
       "label": "George Harrison・Jim Keltner",
       "detail": "2 位乐手在这两支乐队都待过：George Harrison・Jim Keltner。",
       "year": 1988,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "george-s-band",
@@ -71,7 +92,8 @@
       "label": "Eric Clapton・Jim Keltner",
       "detail": "2 位乐手在这两支乐队都待过：Eric Clapton・Jim Keltner。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-singing-rebels-band",
@@ -82,7 +104,8 @@
       "label": "George Harrison・Eric Clapton",
       "detail": "2 位乐手在这两支乐队都待过：George Harrison・Eric Clapton。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "fleetwood-mac",
@@ -93,7 +116,8 @@
       "label": "Dave Mason",
       "detail": "Dave Mason 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "plastic-ono-band",
@@ -104,7 +128,8 @@
       "label": "Eric Clapton",
       "detail": "Eric Clapton 在这两支乐队都待过。",
       "year": 1969,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-beatles",
@@ -115,7 +140,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1960,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-quarrymen",
@@ -126,7 +152,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1958,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-yardbirds",
@@ -137,7 +164,8 @@
       "label": "Eric Clapton",
       "detail": "Eric Clapton 在这两支乐队都待过。",
       "year": 1963,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-beat-brothers",
@@ -148,7 +176,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-silver-beatles",
@@ -159,7 +188,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1960,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

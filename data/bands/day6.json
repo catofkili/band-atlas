@@ -8,7 +8,10 @@
   "years": "2015–",
   "genres": [
     "流行摇滚",
-    "摇滚"
+    "摇滚",
+    "韓國流行音樂",
+    "流行搖滾",
+    "韩国摇滚"
   ],
   "albums": [
     {
@@ -34,6 +37,32 @@
   ],
   "intro": "DAY6是韩国JYP娱乐旗下部门Studio J于2015年推出乐团，经成员变动后由晟镇、Young K、元弼及度云等4位成员组成并由晟镇担任队长。",
   "introLang": "zh",
+  "tracks": [
+    "If～倘若再次相逢～",
+    "Dream Bus",
+    "Lovin' the Christmas"
+  ],
+  "trackSources": [
+    {
+      "title": "If～倘若再次相逢～"
+    },
+    {
+      "title": "Dream Bus"
+    },
+    {
+      "title": "Lovin' the Christmas"
+    }
+  ],
+  "listens": 149645,
+  "listeners": 1702,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/77191d5f-1045-4b3b-ad7f-12ea398db929"
@@ -48,7 +77,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

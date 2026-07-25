@@ -30,6 +30,16 @@
   ],
   "intro": "Carsick Cars是中国北京的一支乐队，成立于2005年3月，现由吉他手张守望、鼓手李青，以及贝斯手李维思组成。乐队风格受Sonic Youth等乐队影响。",
   "introLang": "zh",
+  "listens": 7045,
+  "listeners": 457,
+  "quality": {
+    "score": 65,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/38c38eec-c6d9-4da0-b2da-2fba8458a3cb"
@@ -44,7 +54,8 @@
       "label": "李青・李维思",
       "detail": "2 位乐手在这两支乐队都待过：李青・李维思。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "大鬼众",
@@ -55,7 +66,8 @@
       "label": "李青・李维思",
       "detail": "2 位乐手在这两支乐队都待过：李青・李维思。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "white",
@@ -66,7 +78,8 @@
       "label": "张守望",
       "detail": "张守望 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ourself-beside-me",
@@ -77,7 +90,8 @@
       "label": "张守望",
       "detail": "张守望 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "speak-chinese-or-die",
@@ -88,7 +102,8 @@
       "label": "张守望",
       "detail": "张守望 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

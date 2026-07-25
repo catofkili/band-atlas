@@ -8,7 +8,10 @@
   "years": "1995–",
   "genres": [
     "另类金属",
-    "金属"
+    "金属",
+    "另類金屬",
+    "蠱戮金屬",
+    "新金屬"
   ],
   "albums": [
     {
@@ -38,6 +41,40 @@
   ],
   "intro": "活结乐队是来自美国爱荷华州狄蒙的重金属乐队。乐队成立于1995年。经过早期的几次成员变化，目前乐团的固定阵容为八名成员。创团贝斯手保罗·格雷于2010年逝世。",
   "introLang": "zh",
+  "tracks": [
+    "Before I Forget",
+    "Psychosocial",
+    "Duality (노래)",
+    "My Plague",
+    "ウェイト・アンド・ブリード"
+  ],
+  "trackSources": [
+    {
+      "title": "Before I Forget"
+    },
+    {
+      "title": "Psychosocial"
+    },
+    {
+      "title": "Duality (노래)"
+    },
+    {
+      "title": "My Plague"
+    },
+    {
+      "title": "ウェイト・アンド・ブリード"
+    }
+  ],
+  "listens": 1816229,
+  "listeners": 15550,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a466c2a2-6517-42fb-a160-1087c3bafd9f"
@@ -52,7 +89,8 @@
       "label": "Jay Weinberg",
       "detail": "Jay Weinberg 在这两支乐队都待过。",
       "year": 2024,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "scar-the-martyr",
@@ -63,7 +101,8 @@
       "label": "Joey Jordison",
       "detail": "Joey Jordison 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kings-of-chaos",
@@ -74,7 +113,8 @@
       "label": "Corey Taylor",
       "detail": "Corey Taylor 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -85,7 +125,8 @@
       "label": "Corey Taylor",
       "detail": "Corey Taylor 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "look-outside-your-window",
@@ -96,7 +137,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "black-sabbath",
@@ -107,7 +149,8 @@
       "label": "影响关系",
       "detail": "Slipknot 受 Black Sabbath 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "jane-s-addiction",
@@ -118,7 +161,8 @@
       "label": "影响关系",
       "detail": "Slipknot 受 Jane’s Addiction 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "primus",
@@ -129,7 +173,8 @@
       "label": "影响关系",
       "detail": "Slipknot 受 Primus 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "rage-against-the-machine",
@@ -140,7 +185,8 @@
       "label": "影响关系",
       "detail": "Slipknot 受 Rage Against the Machine 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

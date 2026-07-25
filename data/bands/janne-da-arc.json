@@ -7,7 +7,10 @@
   "country": "日本",
   "years": "1996–2019",
   "genres": [
-    "视觉系"
+    "视觉系",
+    "另类摇滚",
+    "前衛搖滾",
+    "視覺系"
   ],
   "albums": [
     {
@@ -37,6 +40,40 @@
   ],
   "intro": "圣女贞德(Janne Da Arc)是日本的视觉系摇滚乐团，所属唱片公司为爱贝克思。主要成员除shuji、you出身为神户市以外，皆出身于大阪府枚方市。",
   "introLang": "zh",
+  "tracks": [
+    "月光花",
+    "ダイヤモンドヴァージン",
+    "振り向けば…/Destination",
+    "BLACK JACK",
+    "DOLLS"
+  ],
+  "trackSources": [
+    {
+      "title": "月光花"
+    },
+    {
+      "title": "ダイヤモンドヴァージン"
+    },
+    {
+      "title": "振り向けば…/Destination"
+    },
+    {
+      "title": "BLACK JACK"
+    },
+    {
+      "title": "DOLLS"
+    }
+  ],
+  "listens": 29770,
+  "listeners": 311,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e6a1e19c-1a24-476f-af69-6308cd33cddf"
@@ -51,7 +88,8 @@
       "label": "yasu",
       "detail": "yasu 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

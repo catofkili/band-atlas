@@ -8,8 +8,18 @@
   "years": "2001–",
   "genres": [],
   "albums": [],
-  "intro": "Text of Light是一支来自美国的音乐团体，活跃时期为2001–。",
+  "intro": "Text of Light是一支来自美国的音乐团体，活跃时期为2001–。MusicBrainz 还记录了它与Afternoon Saints之间的成员往来。",
   "introLang": "zh",
+  "listens": 42,
+  "listeners": 27,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ff5fb485-789c-4e1b-a240-5df690edef14"
@@ -24,7 +34,8 @@
       "label": "Christian Marclay",
       "detail": "Christian Marclay 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

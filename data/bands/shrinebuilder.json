@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "2008–",
-  "genres": [],
+  "genres": [
+    "末日金屬"
+  ],
   "albums": [
     {
       "title": "Shrinebuilder",
@@ -15,6 +17,16 @@
   ],
   "intro": "Shrinebuilder 是一支由多位知名音乐人组成的美国迷幻/厄运金属超级乐队，其成员主要来自厄运金属子流派。",
   "introLang": "zh",
+  "listens": 6256,
+  "listeners": 420,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2cffac8e-9bb3-47f2-b59e-0781398b0c7e"
@@ -29,7 +41,8 @@
       "label": "Al Cisneros・Chris Hakius",
       "detail": "2 位乐手在这两支乐队都待过：Al Cisneros・Chris Hakius。",
       "year": 2021,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

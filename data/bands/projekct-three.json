@@ -6,7 +6,9 @@
   "countryCode": null,
   "country": null,
   "years": null,
-  "genres": [],
+  "genres": [
+    "前衛搖滾"
+  ],
   "albums": [
     {
       "title": "Masque",
@@ -15,6 +17,16 @@
   ],
   "intro": "The ProjeKcts 是一系列与英国前卫摇滚乐队 King Crimson 相关的实验性衍生乐队。",
   "introLang": "zh",
+  "listens": 2436,
+  "listeners": 79,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/43da6916-ba67-48cb-b875-4936adde20dd"
@@ -29,7 +41,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

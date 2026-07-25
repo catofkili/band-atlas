@@ -9,7 +9,8 @@
   "genres": [
     "实验摇滚",
     "迷幻摇滚",
-    "艺术朋克"
+    "艺术朋克",
+    "迷幻搖滾"
   ],
   "albums": [
     {
@@ -39,6 +40,16 @@
   ],
   "intro": "Red Crayola是一支于1966年在得克萨斯州休斯顿成立的美国前卫摇滚乐队。",
   "introLang": "zh",
+  "listens": 13824,
+  "listeners": 737,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dd5c73d5-53df-4be1-8290-a5d2082159b1"
@@ -53,7 +64,8 @@
       "label": "David Grubbs・John McEntire",
       "detail": "2 位乐手在这两支乐队都待过：David Grubbs・John McEntire。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

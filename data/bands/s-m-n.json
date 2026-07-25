@@ -33,8 +33,18 @@
       "year": 2010
     }
   ],
-  "intro": "S.M.N.是一支来自日本的音乐团体，活跃时期为2001–。",
+  "intro": "S.M.N.是一支来自日本的音乐团体，活跃时期为2001–。目前资料收录了《How about it?》、《Knocking My Soul》等作品；MusicBrainz 还记录了它与サニーデイ・サービス、agehasprings之间的成员往来。",
   "introLang": "zh",
+  "listens": 182,
+  "listeners": 36,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cc28ca6b-353f-4b79-805d-275f4eec7ea9"
@@ -49,7 +59,8 @@
       "label": "横山裕章",
       "detail": "横山裕章 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "agehasprings",
@@ -60,7 +71,8 @@
       "label": "横山裕章",
       "detail": "横山裕章 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

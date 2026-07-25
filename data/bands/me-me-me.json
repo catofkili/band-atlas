@@ -6,10 +6,22 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "1996–1996",
-  "genres": [],
+  "genres": [
+    "英伦摇滚"
+  ],
   "albums": [],
   "intro": "Me Me Me 是一支于 1996 年组建的英国布里特波普（Britpop）超级乐队，仅此一次，成员包括来自 Blur 乐队的 Alex James（主唱、贝斯）、 曾效力于Duran Duran和The Lilac Time乐队的斯蒂芬·达菲（主唱、吉他）、Elastica乐队的贾斯汀·韦尔奇（鼓手），以及詹姆斯的朋友查理·布卢尔（在专辑中被列为“乐手”）。",
   "introLang": "zh",
+  "listens": 139,
+  "listeners": 32,
+  "quality": {
+    "score": 50,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5656fd4b-d35d-4741-966b-32dee833c0a5"
@@ -24,7 +36,8 @@
       "label": "Alex James",
       "detail": "Alex James 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fat-les",
@@ -35,7 +48,8 @@
       "label": "Alex James",
       "detail": "Alex James 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "seymour",
@@ -46,7 +60,8 @@
       "label": "Alex James",
       "detail": "Alex James 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "wigwam",
@@ -57,7 +72,8 @@
       "label": "Alex James",
       "detail": "Alex James 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

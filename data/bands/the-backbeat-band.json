@@ -8,8 +8,18 @@
   "years": "1994–1994",
   "genres": [],
   "albums": [],
-  "intro": "The Backbeat Band是一支来自美国的音乐团体，活跃时期为1994–1994。",
+  "intro": "The Backbeat Band是一支来自美国的音乐团体，活跃时期为1994–1994。MusicBrainz 还记录了它与nearLY之间的成员往来。",
   "introLang": "zh",
+  "listens": 1466,
+  "listeners": 62,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9fc6c5d5-295d-433b-a960-ef7a4469d4de"
@@ -24,7 +34,8 @@
       "label": "Greg Dulli",
       "detail": "Greg Dulli 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

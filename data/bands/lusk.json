@@ -3,10 +3,12 @@
   "mbid": "05fdd3fb-6fe9-4b81-926e-f6d52dd1e737",
   "name": "Lusk",
   "area": "加利福尼亚州",
-  "countryCode": null,
+  "countryCode": "US",
   "country": null,
   "years": "1995–1998",
-  "genres": [],
+  "genres": [
+    "迷幻搖滾"
+  ],
   "albums": [
     {
       "title": "Free Mars",
@@ -15,7 +17,18 @@
   ],
   "intro": "Lusk是一支活跃于1995至1998年的美国迷幻摇滚乐队。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 406,
+  "listeners": 33,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 59,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/05fdd3fb-6fe9-4b81-926e-f6d52dd1e737"
   },
@@ -29,7 +42,8 @@
       "label": "Chris Pitman・Paul D’Amour・Greg Edwards",
       "detail": "3 位乐手在这两支乐队都待过：Chris Pitman・Paul D’Amour・Greg Edwards。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "guns-n-roses",
@@ -40,7 +54,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tool",
@@ -51,7 +66,8 @@
       "label": "Paul D’Amour",
       "detail": "Paul D’Amour 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sextapes",
@@ -62,7 +78,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beatrazr",
@@ -73,7 +90,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zaum",
@@ -84,7 +102,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

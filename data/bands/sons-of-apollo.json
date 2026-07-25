@@ -9,7 +9,8 @@
   "genres": [
     "前卫金属",
     "另类金属",
-    "硬摇滚"
+    "硬摇滚",
+    "前衛金屬"
   ],
   "albums": [
     {
@@ -23,6 +24,40 @@
   ],
   "intro": "Sons of Apollo是一支来自美国的 progresive metal 超级乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Alive/Tengo vida",
+    "Asphyxiation",
+    "Coming Home",
+    "Desolate July",
+    "Fall to Ascend"
+  ],
+  "trackSources": [
+    {
+      "title": "Alive/Tengo vida"
+    },
+    {
+      "title": "Asphyxiation"
+    },
+    {
+      "title": "Coming Home"
+    },
+    {
+      "title": "Desolate July"
+    },
+    {
+      "title": "Fall to Ascend"
+    }
+  ],
+  "listens": 20570,
+  "listeners": 872,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b858e183-b29c-493a-92bd-9474f1e6590d"
@@ -37,7 +72,8 @@
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "art-of-anarchy",
@@ -48,7 +84,8 @@
       "label": "Ron “Bumblefoot” Thal・Jeff Scott Soto",
       "detail": "2 位乐手在这两支乐队都待过：Ron “Bumblefoot” Thal・Jeff Scott Soto。",
       "year": 2017,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "whom-gods-destroy",
@@ -59,7 +96,8 @@
       "label": "Ron “Bumblefoot” Thal・Derek Sherinian",
       "detail": "2 位乐手在这两支乐队都待过：Ron “Bumblefoot” Thal・Derek Sherinian。",
       "year": 2017,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "asia",
@@ -70,7 +108,8 @@
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beatrazr",
@@ -81,7 +120,8 @@
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

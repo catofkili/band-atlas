@@ -9,7 +9,10 @@
   "genres": [
     "放克金属",
     "另类摇滚",
-    "放克摇滚"
+    "放克摇滚",
+    "另類金屬",
+    "前衛搖滾",
+    "前衛金屬"
   ],
   "albums": [
     {
@@ -39,6 +42,40 @@
   ],
   "intro": "普莱马斯（Primus）是一支来自美国的另类摇滚乐队。其特色在于主唱莱斯·克雷普尔（Les Claypool）高超的贝斯演奏技巧，以及融合了多种音乐流派的独特音色。",
   "introLang": "zh",
+  "tracks": [
+    "Jerry Was a Race Car Driver",
+    "John the Fisherman",
+    "My Name Is Mud",
+    "Tommy the Cat",
+    "Too Many Puppies"
+  ],
+  "trackSources": [
+    {
+      "title": "Jerry Was a Race Car Driver"
+    },
+    {
+      "title": "John the Fisherman"
+    },
+    {
+      "title": "My Name Is Mud"
+    },
+    {
+      "title": "Tommy the Cat"
+    },
+    {
+      "title": "Too Many Puppies"
+    }
+  ],
+  "listens": 443064,
+  "listeners": 8044,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2"
@@ -53,7 +90,8 @@
       "label": "DJ Disk・Larry LaLonde",
       "detail": "2 位乐手在这两支乐队都待过：DJ Disk・Larry LaLonde。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "festus-clamrod-and-the-el-sobrante-twangers",
@@ -64,7 +102,8 @@
       "label": "Les Claypool・Larry LaLonde",
       "detail": "2 位乐手在这两支乐队都待过：Les Claypool・Larry LaLonde。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "a-perfect-circle",
@@ -75,7 +114,8 @@
       "label": "Tim Alexander",
       "detail": "Tim Alexander 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "el-stew",
@@ -86,7 +126,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "cobra-strike",
@@ -97,7 +138,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "colonel-claypool-s-bucket-of-bernie-brains",
@@ -108,7 +150,8 @@
       "label": "Les Claypool",
       "detail": "Les Claypool 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "les-claypool-and-the-holy-mackerel",
@@ -119,7 +162,8 @@
       "label": "Les Claypool",
       "detail": "Les Claypool 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "peeping-tom",
@@ -130,7 +174,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "buckethead-and-his-bucket-bots",
@@ -141,29 +186,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
-    },
-    {
-      "to": "rage-against-the-machine",
-      "toName": "Rage Against the Machine",
-      "toArea": "洛杉矶",
-      "toYears": "1991–2024",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Primus 影响了 Rage Against the Machine（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "slipknot",
-      "toName": "Slipknot",
-      "toArea": "得梅因",
-      "toYears": "1995–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Primus 影响了 Slipknot（Wikidata）。",
-      "year": null,
-      "weight": 0.46
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sessanta",
@@ -174,7 +198,32 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
+    },
+    {
+      "to": "rage-against-the-machine",
+      "toName": "Rage Against the Machine",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2024",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Primus 影响了 Rage Against the Machine（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "slipknot",
+      "toName": "Slipknot",
+      "toArea": "得梅因",
+      "toYears": "1995–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Primus 影响了 Slipknot（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

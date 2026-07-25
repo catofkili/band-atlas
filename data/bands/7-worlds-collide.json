@@ -18,6 +18,16 @@
   ],
   "intro": "7 Worlds Collide 是新西兰唱作人尼尔·芬恩（Neil Finn）发起的一个音乐项目。",
   "introLang": "zh",
+  "listens": 2260,
+  "listeners": 100,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cd1cfb42-4b49-4f86-9518-37b1dfd1a2a8"
@@ -32,7 +42,8 @@
       "label": "Ed O’Brien・Philip Selway",
       "detail": "2 位乐手在这两支乐队都待过：Ed O’Brien・Philip Selway。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "on-a-friday",
@@ -43,7 +54,8 @@
       "label": "Ed O’Brien・Philip Selway",
       "detail": "2 位乐手在这两支乐队都待过：Ed O’Brien・Philip Selway。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "fleetwood-mac",
@@ -54,7 +66,8 @@
       "label": "Neil Finn",
       "detail": "Neil Finn 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-smiths",
@@ -65,7 +78,8 @@
       "label": "Johnny Marr",
       "detail": "Johnny Marr 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,9 @@
   "genres": [
     "鞭击金属",
     "重金属",
-    "金属"
+    "金属",
+    "重金属音乐",
+    "敲击金属"
   ],
   "albums": [
     {
@@ -39,6 +41,40 @@
   ],
   "intro": "金属乐队是美国殿堂级重金属乐队，也是世界上第一支敲击金属乐队，1981年10月28日成立于美国加州洛杉矶。起源是鼓手拉尔斯·乌尔里希在当地报纸刊登招募成员的广告，前去应征的是主唱兼吉他手詹姆斯·海特菲尔德。",
   "introLang": "zh",
+  "tracks": [
+    "無關緊要",
+    "睡魔入侵",
+    "孤寂",
+    "喪鐘為誰而鳴注 (金屬製品的歌曲)",
+    "直到入眠"
+  ],
+  "trackSources": [
+    {
+      "title": "無關緊要"
+    },
+    {
+      "title": "睡魔入侵"
+    },
+    {
+      "title": "孤寂"
+    },
+    {
+      "title": "喪鐘為誰而鳴注 (金屬製品的歌曲)"
+    },
+    {
+      "title": "直到入眠"
+    }
+  ],
+  "listens": 3685079,
+  "listeners": 23290,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
@@ -53,7 +89,8 @@
       "label": "James Hetfield・Lars Ulrich・Kirk Hammett",
       "detail": "3 位乐手在这两支乐队都待过：James Hetfield・Lars Ulrich・Kirk Hammett。",
       "year": 1981,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "maxwell-house-ranch-band",
@@ -64,7 +101,8 @@
       "label": "James Hetfield・Lars Ulrich・Cliff Burton・Kirk Hammett",
       "detail": "4 位乐手在这两支乐队都待过：James Hetfield・Lars Ulrich・Cliff Burton・Kirk Hammett。",
       "year": 1981,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "spastik-children",
@@ -75,7 +113,8 @@
       "label": "James Hetfield・Cliff Burton・Kirk Hammett",
       "detail": "3 位乐手在这两支乐队都待过：James Hetfield・Cliff Burton・Kirk Hammett。",
       "year": 1981,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "exodus",
@@ -86,7 +125,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": 1979,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "megadeth",
@@ -97,7 +137,8 @@
       "label": "Dave Mustaine",
       "detail": "Dave Mustaine 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "trauma",
@@ -108,7 +149,22 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "system-of-a-down",
+      "toName": "System of a Down",
+      "toArea": "格伦代尔",
+      "toYears": "1995–",
+      "type": "guest",
+      "label": "客串：Kirk Hammett",
+      "detail": "MusicBrainz 录音资料显示，Kirk Hammett参与了《Aerials / Arto》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/7d7e7931-5509-4884-ab83-d7beee976bca"
+      ]
     },
     {
       "to": "md-45",
@@ -119,7 +175,8 @@
       "label": "Dave Mustaine",
       "detail": "Dave Mustaine 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "agents-of-misfortune",
@@ -130,7 +187,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ez-street",
@@ -141,7 +199,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-fleetwood-and-friends",
@@ -152,7 +211,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "panic",
@@ -163,7 +223,8 @@
       "label": "Dave Mustaine",
       "detail": "Dave Mustaine 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "phantasm",
@@ -174,7 +235,8 @@
       "label": "Ron McGovney",
       "detail": "Ron McGovney 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-chickenfuckers",
@@ -185,7 +247,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-wedding-band",
@@ -196,7 +259,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "vicious-hatred",
@@ -207,7 +271,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deftones",
@@ -218,7 +283,8 @@
       "label": "影响关系",
       "detail": "Metallica 影响了 Deftones（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "lostprophets",
@@ -229,7 +295,8 @@
       "label": "影响关系",
       "detail": "Metallica 影响了 Lostprophets（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

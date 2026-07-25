@@ -8,7 +8,9 @@
   "years": "1991–1995",
   "genres": [
     "摇滚",
-    "哥特"
+    "哥特",
+    "另类摇滚",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -34,6 +36,16 @@
   ],
   "intro": "DIE IN CRIES是日本的一支新浪潮风格摇滚乐队。该乐队活跃于1991年至1995年。对2000年代的后朋克、电子音乐，以及后来被称为“视觉系”的乐队都产生了深远的影响。",
   "introLang": "zh",
+  "listens": 2788,
+  "listeners": 19,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/67d1d2b1-3a53-41f4-b012-3b66e616e14d"
@@ -48,7 +60,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-arc-en-ciel",
@@ -59,7 +72,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zi-kill",
@@ -70,7 +84,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "横須賀サーベルタイガー",
@@ -81,7 +96,8 @@
       "label": "kyo",
       "detail": "kyo 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "geek-sleep-sheep",
@@ -92,7 +108,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "petit-brabancon",
@@ -103,7 +120,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2021,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "halloween-junky-orchestra",
@@ -114,7 +132,8 @@
       "label": "kyo",
       "detail": "kyo 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dead-wire",
@@ -125,7 +144,8 @@
       "label": "kyo",
       "detail": "kyo 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "guerrilla",
@@ -136,7 +156,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -7,7 +7,8 @@
   "country": "韩国",
   "years": "1997–",
   "genres": [
-    "独立摇滚"
+    "独立摇滚",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -37,6 +38,28 @@
   ],
   "intro": "Huckleberry Finn 是韩国的一支独立乐队。自1997年起，以李基永为队长开始活动。",
   "introLang": "zh",
+  "tracks": [
+    "뜨거운 불로 만들어진 새는 그녀의 팔에서 태어났다",
+    "허클베리핀 싱글"
+  ],
+  "trackSources": [
+    {
+      "title": "뜨거운 불로 만들어진 새는 그녀의 팔에서 태어났다"
+    },
+    {
+      "title": "허클베리핀 싱글"
+    }
+  ],
+  "listens": 2766,
+  "listeners": 39,
+  "quality": {
+    "score": 75,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/62295e15-08c3-4deb-8558-59a677c9391b"
@@ -51,7 +74,23 @@
       "label": "김상우・남상아",
       "detail": "2 位乐手在这两支乐队都待过：김상우・남상아。",
       "year": 1997,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "the-devils",
+      "toName": "The Devils",
+      "toArea": "韩国",
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：차승우",
+      "detail": "MusicBrainz 录音资料显示，차승우参与了《A ('09 봄의 피로)》、《내달리는 사람들 ('09 봄의 피로)》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/ae33a5fa-850b-4586-9148-5b80715c554a",
+        "https://musicbrainz.org/recording/bc4adebf-686c-4e76-be1d-22390abce361"
+      ]
     }
   ]
 }

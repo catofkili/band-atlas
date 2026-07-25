@@ -6,7 +6,11 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2013–",
-  "genres": [],
+  "genres": [
+    "摇滚乐",
+    "酸爵士",
+    "日本搖滾樂"
+  ],
   "albums": [
     {
       "title": "THE BAY",
@@ -27,6 +31,40 @@
   ],
   "intro": "Suchmos是一支日本摇滚乐队，成立于2013年。乐队名称的由来是路易·阿姆斯特朗的昵称“萨奇莫”。其音乐风格受到摇滚、灵魂乐、流行乐、爵士乐、酸爵士和嘻哈等多种音乐流派的影响。",
   "introLang": "zh",
+  "tracks": [
+    "808",
+    "A.G.I.T.",
+    "Essence",
+    "FIRST CHOICE LAST STANCE",
+    "LOVE&VICE"
+  ],
+  "trackSources": [
+    {
+      "title": "808"
+    },
+    {
+      "title": "A.G.I.T."
+    },
+    {
+      "title": "Essence"
+    },
+    {
+      "title": "FIRST CHOICE LAST STANCE"
+    },
+    {
+      "title": "LOVE&VICE"
+    }
+  ],
+  "listens": 17005,
+  "listeners": 1000,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5561990a-0601-4a71-b766-3268ea687ab3"
@@ -41,7 +79,8 @@
       "label": "TAIHEI",
       "detail": "TAIHEI 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hedigan-s",
@@ -52,7 +91,8 @@
       "label": "YONCE",
       "detail": "YONCE 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ザ-プールサイド",
@@ -63,7 +103,8 @@
       "label": "YONCE",
       "detail": "YONCE 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

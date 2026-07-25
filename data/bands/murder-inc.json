@@ -6,15 +6,27 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "1991–1992",
-  "genres": [],
+  "genres": [
+    "工業金屬"
+  ],
   "albums": [
     {
       "title": "Murder Inc.",
       "year": 1992
     }
   ],
-  "intro": "Murder Inc.是一支来自英国的音乐团体，活跃时期为1991–1992。",
+  "intro": "Murder Inc.是一支来自英国的音乐团体，活跃时期为1991–1992，现有资料记录的主要风格包括工業金屬。目前资料收录了《Murder Inc.》等作品；MusicBrainz 还记录了它与Killing Joke、Pigface、Ministry之间的成员往来。",
   "introLang": "zh",
+  "listens": 1238,
+  "listeners": 93,
+  "quality": {
+    "score": 17,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6b50ae97-4011-474d-a848-708977d3a6ce"
@@ -29,7 +41,8 @@
       "label": "Paul Ferguson・Paul Raven・Geordie Walker",
       "detail": "3 位乐手在这两支乐队都待过：Paul Ferguson・Paul Raven・Geordie Walker。",
       "year": 1979,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -40,7 +53,8 @@
       "label": "Paul Ferguson・Paul Raven・Geordie Walker",
       "detail": "3 位乐手在这两支乐队都待过：Paul Ferguson・Paul Raven・Geordie Walker。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "ministry",
@@ -51,7 +65,8 @@
       "label": "Paul Raven・John Bechdel",
       "detail": "2 位乐手在这两支乐队都待过：Paul Raven・John Bechdel。",
       "year": 2006,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "godflesh",
@@ -62,7 +77,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-damage-manual",
@@ -73,7 +89,8 @@
       "label": "Geordie Walker",
       "detail": "Geordie Walker 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zilch",
@@ -84,7 +101,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

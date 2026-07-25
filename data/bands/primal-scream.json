@@ -39,6 +39,40 @@
   ],
   "intro": "原始呐喊是提名全英音乐奖的非主流乐队，1982年成立于苏格兰格拉斯哥。",
   "introLang": "zh",
+  "tracks": [
+    "ローデッド",
+    "カム・トゥゲザー",
+    "Rocks",
+    "2013",
+    "Country Girl"
+  ],
+  "trackSources": [
+    {
+      "title": "ローデッド"
+    },
+    {
+      "title": "カム・トゥゲザー"
+    },
+    {
+      "title": "Rocks"
+    },
+    {
+      "title": "2013"
+    },
+    {
+      "title": "Country Girl"
+    }
+  ],
+  "listens": 262113,
+  "listeners": 7929,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/55704c38-224f-4b75-b29f-d43653f8bc9a"
@@ -53,7 +87,8 @@
       "label": "Kevin Shields",
       "detail": "Kevin Shields 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "experimental-audio-research",
@@ -64,7 +99,8 @@
       "label": "Kevin Shields",
       "detail": "Kevin Shields 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-complex",
@@ -75,7 +111,8 @@
       "label": "Kevin Shields",
       "detail": "Kevin Shields 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

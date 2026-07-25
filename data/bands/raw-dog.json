@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Raw Dog是一支音乐团体。",
+  "intro": "Raw Dog是一支音乐团体。MusicBrainz 还记录了它与Nine Inch Nails、Pigface、The Tear Garden之间的成员往来。",
   "introLang": "zh",
+  "listens": 22,
+  "listeners": 11,
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/87b35fa8-a602-4a8c-abc1-5a46fb85d8f8"
@@ -24,7 +34,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -35,7 +46,8 @@
       "label": "Ogre",
       "detail": "Ogre 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-tear-garden",
@@ -46,7 +58,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hilt",
@@ -57,7 +70,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jakalope",
@@ -68,7 +82,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "primitive-race",
@@ -79,7 +94,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rx",
@@ -90,7 +106,8 @@
       "label": "Ogre",
       "detail": "Ogre 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

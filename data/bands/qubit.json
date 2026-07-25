@@ -13,8 +13,18 @@
       "year": 2023
     }
   ],
-  "intro": "QUBIT是一支来自日本的音乐团体，活跃时期为2023–。",
+  "intro": "QUBIT是一支来自日本的音乐团体，活跃时期为2023–。目前资料收录了《9BIT》等作品；MusicBrainz 还记录了它与相対性理論、TESTSET、Fishmans+之间的成员往来。",
   "introLang": "zh",
+  "listens": 436,
+  "listeners": 58,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8496b5fa-8f1b-4d34-9933-47a0c98f4e8c"
@@ -29,7 +39,22 @@
       "label": "永井聖一",
       "detail": "永井聖一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "くるり",
+      "toName": "くるり",
+      "toArea": "京都",
+      "toYears": "1996–",
+      "type": "guest",
+      "label": "客串：鈴木正人",
+      "detail": "MusicBrainz 录音资料显示，鈴木正人参与了《loveless (album edit)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/25b6e7d4-9366-4905-8cb4-e7d2eb5803b1"
+      ]
     },
     {
       "to": "testset",
@@ -40,7 +65,8 @@
       "label": "永井聖一",
       "detail": "永井聖一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fishmans",
@@ -51,7 +77,8 @@
       "label": "永井聖一",
       "detail": "永井聖一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

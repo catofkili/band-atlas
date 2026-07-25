@@ -18,6 +18,16 @@
   ],
   "intro": "Army of Anyone 是一支由 Filter 乐队主唱理查德·帕特里克（Richard Patrick）与摇滚乐队 Stone Temple Pilots 的两名成员共同组建的美国摇滚超级乐队。",
   "introLang": "zh",
+  "listens": 8620,
+  "listeners": 597,
+  "quality": {
+    "score": 65,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0d501a8e-e923-4885-8a50-4c6cb11265d6"
@@ -32,7 +42,8 @@
       "label": "Dean DeLeo・Robert DeLeo",
       "detail": "2 位乐手在这两支乐队都待过：Dean DeLeo・Robert DeLeo。",
       "year": 2005,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "filter",
@@ -43,7 +54,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -54,7 +66,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "a-place-to-kill",
@@ -65,7 +78,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 2023,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-act",
@@ -76,7 +90,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-damning-well",
@@ -87,7 +102,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

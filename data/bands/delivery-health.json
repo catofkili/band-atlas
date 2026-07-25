@@ -2,8 +2,8 @@
   "id": "delivery-health",
   "mbid": "2379fc01-5de4-40c4-b647-a25dccdb03fe",
   "name": "Delivery Health",
-  "area": null,
-  "countryCode": null,
+  "area": "日本",
+  "countryCode": "JP",
   "country": null,
   "years": null,
   "genres": [],
@@ -13,9 +13,20 @@
       "year": 2017
     }
   ],
-  "intro": "Delivery Health是一支音乐团体。",
+  "intro": "Delivery Health是一支来自日本的音乐团体。目前资料收录了《Hard Off》等作品；MusicBrainz 还记录了它与Bonjintan、Kafka’s Ibiki、Eiko Ishibashi Trio之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 8,
+  "listeners": 2,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2379fc01-5de4-40c4-b647-a25dccdb03fe"
   },
@@ -29,7 +40,8 @@
       "label": "山本達久・Giovanni di Domenico",
       "detail": "2 位乐手在这两支乐队都待过：山本達久・Giovanni di Domenico。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "kafka-s-ibiki",
@@ -40,7 +52,8 @@
       "label": "山本達久",
       "detail": "山本達久 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "eiko-ishibashi-trio",
@@ -51,7 +64,8 @@
       "label": "山本達久",
       "detail": "山本達久 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

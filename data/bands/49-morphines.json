@@ -6,15 +6,27 @@
   "countryCode": "KR",
   "country": "韩国",
   "years": "2001–",
-  "genres": [],
+  "genres": [
+    "硬核朋克"
+  ],
   "albums": [
     {
       "title": "Partial Eclipse",
       "year": 2008
     }
   ],
-  "intro": "49 Morphines是一支来自韩国的音乐团体，活跃时期为2001–。",
+  "intro": "49 Morphines是一支来自韩国的音乐团体，活跃时期为2001–，现有资料记录的主要风格包括硬核朋克。目前资料收录了《Partial Eclipse》等作品；MusicBrainz 还记录了它与13Steps、잠비나이、Combative Post之间的成员往来。",
   "introLang": "zh",
+  "listens": 1351,
+  "listeners": 62,
+  "quality": {
+    "score": 16,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/855c04c5-2e03-4c3e-ab18-bfb4ee34ca84"
@@ -29,7 +41,8 @@
       "label": "이일우",
       "detail": "이일우 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "잠비나이",
@@ -40,7 +53,8 @@
       "label": "이일우",
       "detail": "이일우 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "combative-post",
@@ -51,7 +65,8 @@
       "label": "이일우",
       "detail": "이일우 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

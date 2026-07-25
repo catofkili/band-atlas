@@ -8,7 +8,8 @@
   "years": "1981–",
   "genres": [
     "重金属",
-    "金属"
+    "金属",
+    "重金属音乐"
   ],
   "albums": [
     {
@@ -38,6 +39,32 @@
   ],
   "intro": "Mercyful Fate是一支丹麦重金属乐队，在1981年成立于哥本哈根。乐队起初在1981年至1985年期间活跃，随后因为乐队成员的理念分歧而解散，主唱King Diamond成立了以自己名字命名的乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Evil",
+    "Black Masses",
+    "Egypt"
+  ],
+  "trackSources": [
+    {
+      "title": "Evil"
+    },
+    {
+      "title": "Black Masses"
+    },
+    {
+      "title": "Egypt"
+    }
+  ],
+  "listens": 147735,
+  "listeners": 2524,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9b137ab6-5987-4606-989b-183cdb2d3e50"
@@ -52,7 +79,8 @@
       "label": "Ole Beich",
       "detail": "Ole Beich 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-a-guns",
@@ -63,7 +91,8 @@
       "label": "Ole Beich",
       "detail": "Ole Beich 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

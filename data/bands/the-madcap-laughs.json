@@ -15,8 +15,18 @@
       "year": 2014
     }
   ],
-  "intro": "THE MADCAP LAUGHS是一支来自日本的以摇滚为主要风格的音乐团体，活跃时期为2012–。",
+  "intro": "THE MADCAP LAUGHS是一支来自日本的音乐团体，活跃时期为2012–，现有资料记录的主要风格包括摇滚。目前资料收录了《THE MIDNIGHT LOVE》等作品；MusicBrainz 还记录了它与gibkiy gibkiy gibkiy、L’Arc〜en〜Ciel、ZIGZO之间的成员往来。",
   "introLang": "zh",
+  "listens": 42,
+  "listeners": 5,
+  "quality": {
+    "score": 17,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/117debe3-74c1-4bdf-aad4-6ca5099f4706"
@@ -31,7 +41,8 @@
       "label": "Sakura・aie",
       "detail": "2 位乐手在这两支乐队都待过：Sakura・aie。",
       "year": 2016,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "l-arc-en-ciel",
@@ -42,7 +53,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zigzo",
@@ -53,7 +65,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rayflower",
@@ -64,7 +77,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lion-heads",
@@ -75,7 +89,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sons-of-all-pussys",
@@ -86,7 +101,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

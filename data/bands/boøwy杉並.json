@@ -8,8 +8,18 @@
   "years": "2018–",
   "genres": [],
   "albums": [],
-  "intro": "BOØWY杉並是一支来自日本的音乐团体，活跃时期为2018–。",
+  "intro": "BOØWY杉並是一支来自日本的音乐团体，活跃时期为2018–。MusicBrainz 还记录了它与MUCC、Petit Brabancon、ACE OF SPADES之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d9dbcb5e-d167-470f-a0f2-657c79bb364f"
@@ -24,7 +34,8 @@
       "label": "ミヤ",
       "detail": "ミヤ 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "petit-brabancon",
@@ -35,7 +46,8 @@
       "label": "ミヤ",
       "detail": "ミヤ 在这两支乐队都待过。",
       "year": 2021,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ace-of-spades",
@@ -46,7 +58,8 @@
       "label": "宮上元克",
       "detail": "宮上元克 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ka-f-ka",
@@ -57,7 +70,8 @@
       "label": "宮上元克",
       "detail": "宮上元克 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "178r",
@@ -68,7 +82,8 @@
       "label": "ミヤ",
       "detail": "ミヤ 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "slipknot杉並",
@@ -79,7 +94,8 @@
       "label": "ミヤ",
       "detail": "ミヤ 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-mad-capsule-market-s-杉並",
@@ -90,7 +106,8 @@
       "label": "ミヤ",
       "detail": "ミヤ 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "x-suginami",
@@ -101,7 +118,8 @@
       "label": "ミヤ",
       "detail": "ミヤ 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "コーンsuginami",
@@ -112,7 +130,8 @@
       "label": "ミヤ",
       "detail": "ミヤ 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

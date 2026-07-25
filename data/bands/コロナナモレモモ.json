@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": null,
-  "genres": [],
+  "genres": [
+    "日本流行音樂"
+  ],
   "albums": [
     {
       "title": "LUST (Selected Edition)",
@@ -15,6 +17,24 @@
   ],
   "intro": "Corona Namoremomo是由日本摇滚乐队Maximum the Hormone发起的摇滚乐队特许经营企划中组建的乐队。所属经纪公司为Mimikajiru。",
   "introLang": "zh",
+  "tracks": [
+    "恋のメガラバ/包丁・ハサミ・カッター・ナイフ・ドス・キリ"
+  ],
+  "trackSources": [
+    {
+      "title": "恋のメガラバ/包丁・ハサミ・カッター・ナイフ・ドス・キリ"
+    }
+  ],
+  "listens": 159,
+  "listeners": 48,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/124d3d7c-23c2-4bfd-8bbe-52978177b536"
@@ -29,7 +49,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

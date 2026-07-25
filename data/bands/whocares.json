@@ -7,11 +7,31 @@
   "country": "英国",
   "years": "2011–",
   "genres": [
-    "摇滚"
+    "摇滚",
+    "摇滚乐",
+    "硬式搖滾"
   ],
   "albums": [],
   "intro": "WhoCares是由深紫乐队的伊恩·吉兰和黑色安息日乐队的托尼·艾奥米于2011年组建的一支超级乐队，众多摇滚音乐人参与其中，该项目作为一项慈善计划，旨在为重建位于久姆里的音乐学校筹集资金， 亚美尼亚1988年地震导致该市遭到破坏后，重建当地一所音乐学校。",
   "introLang": "zh",
+  "tracks": [
+    "我心深處／聖水"
+  ],
+  "trackSources": [
+    {
+      "title": "我心深處／聖水"
+    }
+  ],
+  "listens": 490,
+  "listeners": 80,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/54c982d5-f078-46f3-a7ce-f9d63433ffbe"
@@ -26,7 +46,8 @@
       "label": "Tony Iommi・Ian Gillan",
       "detail": "2 位乐手在这两支乐队都待过：Tony Iommi・Ian Gillan。",
       "year": 2011,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "iron-maiden",
@@ -37,7 +58,8 @@
       "label": "Nicko McBrain",
       "detail": "Nicko McBrain 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hale-pace-and-the-stonkers",
@@ -48,7 +70,8 @@
       "label": "Tony Iommi",
       "detail": "Tony Iommi 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -59,7 +82,8 @@
       "label": "Tony Iommi",
       "detail": "Tony Iommi 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-singing-rebels-band",
@@ -70,7 +94,8 @@
       "label": "Jon Lord",
       "detail": "Jon Lord 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

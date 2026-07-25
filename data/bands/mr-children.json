@@ -7,7 +7,10 @@
   "country": "日本",
   "years": "1989–",
   "genres": [
-    "流行摇滚"
+    "流行摇滚",
+    "前衛搖滾",
+    "流行搖滾",
+    "強力流行樂"
   ],
   "albums": [
     {
@@ -37,6 +40,40 @@
   ],
   "intro": "Mr.Children是日本当代最著名的摇滚乐团之一，成员有四人，包括主唱樱井和寿、吉他手田原健一 、贝斯手中川敬辅，和鼓手铃木英哉。",
   "introLang": "zh",
+  "tracks": [
+    "CROSS ROAD (Mr.Children單曲)",
+    "innocent world",
+    "Tomorrow never knows",
+    "【es】 ～Theme of es～",
+    "Everybody goes -向沒有秩序的現代Drop Kick-"
+  ],
+  "trackSources": [
+    {
+      "title": "CROSS ROAD (Mr.Children單曲)"
+    },
+    {
+      "title": "innocent world"
+    },
+    {
+      "title": "Tomorrow never knows"
+    },
+    {
+      "title": "【es】 ～Theme of es～"
+    },
+    {
+      "title": "Everybody goes -向沒有秩序的現代Drop Kick-"
+    }
+  ],
+  "listens": 34849,
+  "listeners": 733,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/27f0af0e-4d1f-4808-a58b-090e400dcc43"
@@ -51,7 +88,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "possession-80-2-por-cento",
@@ -62,7 +100,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "reborn-art-session",
@@ -73,7 +112,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ウカスカジー",
@@ -84,7 +124,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

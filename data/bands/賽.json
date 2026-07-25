@@ -21,8 +21,18 @@
       "year": 2023
     }
   ],
-  "intro": "賽是一支来自日本的音乐团体。",
+  "intro": "賽是一支来自日本的音乐团体。目前资料收录了《Family》、《The Bottle》等作品；MusicBrainz 还记录了它与Suchmos、SHAG之间的成员往来。",
   "introLang": "zh",
+  "listens": 512,
+  "listeners": 153,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/32cab2ff-104e-45b6-a792-b0333593661f"
@@ -37,7 +47,8 @@
       "label": "TAIHEI",
       "detail": "TAIHEI 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "shag",
@@ -48,7 +59,8 @@
       "label": "松浦千昇",
       "detail": "松浦千昇 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,13 @@
   "genres": [
     "摇滚",
     "柔和摇滚",
-    "蓝调摇滚"
+    "蓝调摇滚",
+    "藍調",
+    "摇滚乐",
+    "流行音乐",
+    "硬式搖滾",
+    "藍調搖滾",
+    "流行搖滾"
   ],
   "albums": [
     {
@@ -39,6 +45,40 @@
   ],
   "intro": "佛利伍麦克是一个英美摇滚乐团，1967年成立于伦敦。乐团成军至今经历多次团员变动，多次更换主唱与吉他手，但也因此不断融入新的创作元素，在不同阶段呈现出各有特色的音乐风格。",
   "introLang": "zh",
+  "tracks": [
+    "来安农",
+    "オー・ウェル",
+    "リトル・ライズ",
+    "愛のジプシー",
+    "アルバトロス (あほうどり)"
+  ],
+  "trackSources": [
+    {
+      "title": "来安农"
+    },
+    {
+      "title": "オー・ウェル"
+    },
+    {
+      "title": "リトル・ライズ"
+    },
+    {
+      "title": "愛のジプシー"
+    },
+    {
+      "title": "アルバトロス (あほうどり)"
+    }
+  ],
+  "listens": 1569955,
+  "listeners": 22503,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bd13909f-1c29-4c27-a874-d4aaf27c5b1a"
@@ -53,7 +93,8 @@
       "label": "Dave Walker",
       "detail": "Dave Walker 在这两支乐队都待过。",
       "year": 1977,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "delaney-bonnie",
@@ -64,7 +105,22 @@
       "label": "Dave Mason",
       "detail": "Dave Mason 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "daft-punk",
+      "toName": "Daft Punk",
+      "toArea": "巴黎",
+      "toYears": "1993–2021",
+      "type": "guest",
+      "label": "客串：Daft Punk",
+      "detail": "MusicBrainz 录音资料显示，Daft Punk参与了《At Least the Sky Is Blue / Where I Go / Here I Go / Fantasy / Where There Is Rain / Dreams (Psychemagik remix) / Keep Falling in Love / Beyond / Apples & Pears / Keep on Rolling / Suddenly / Right Down the Line / Africa (Heard From Outside the Club) / VII Babies / Maddy / Night Drive / Down in Flames / Can’t Hear My Eyes》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/8f561ad6-9ddb-4f50-8168-ebdeb913573b"
+      ]
     },
     {
       "to": "7-worlds-collide",
@@ -75,7 +131,8 @@
       "label": "Neil Finn",
       "detail": "Neil Finn 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -86,7 +143,8 @@
       "label": "Dave Mason",
       "detail": "Dave Mason 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-fleetwood-and-friends",
@@ -97,7 +155,8 @@
       "label": "Mick Fleetwood",
       "detail": "Mick Fleetwood 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -108,7 +167,8 @@
       "label": "Stevie Nicks",
       "detail": "Stevie Nicks 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

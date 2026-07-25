@@ -9,7 +9,12 @@
   "genres": [
     "摇滚",
     "流行音乐",
-    "流行摇滚"
+    "流行摇滚",
+    "搖滾",
+    "摇滚乐",
+    "硬式搖滾",
+    "藍調搖滾",
+    "迷幻搖滾"
   ],
   "albums": [
     {
@@ -39,6 +44,40 @@
   ],
   "intro": "披头士乐队是1960年在利物浦组建的一支英国摇滚乐队，华文亦称“披头四乐队”、“甲壳虫乐队”等，成员包括约翰·列侬、保罗·麦卡特尼、乔治·哈里森和林戈·斯塔尔。",
   "introLang": "zh",
+  "tracks": [
+    "如果我倒下",
+    "披頭四電影混合曲",
+    "來吧給我你的手／她愛你",
+    "寶貝，如果你愛我",
+    "Love Me Do / P.S. I Love You"
+  ],
+  "trackSources": [
+    {
+      "title": "如果我倒下"
+    },
+    {
+      "title": "披頭四電影混合曲"
+    },
+    {
+      "title": "來吧給我你的手／她愛你"
+    },
+    {
+      "title": "寶貝，如果你愛我"
+    },
+    {
+      "title": "Love Me Do / P.S. I Love You"
+    }
+  ],
+  "listens": 5795854,
+  "listeners": 24891,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
@@ -53,7 +92,8 @@
       "label": "Stuart Sutcliffe・Chas Newby・John Lennon・George Harrison",
       "detail": "4 位乐手在这两支乐队都待过：Stuart Sutcliffe・Chas Newby・John Lennon・George Harrison。",
       "year": 1960,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-beat-brothers",
@@ -64,7 +104,8 @@
       "label": "Stuart Sutcliffe・Pete Best・John Lennon・George Harrison",
       "detail": "4 位乐手在这两支乐队都待过：Stuart Sutcliffe・Pete Best・John Lennon・George Harrison。",
       "year": 1960,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-silver-beatles",
@@ -75,7 +116,8 @@
       "label": "Stuart Sutcliffe・Tommy Moore・Norman Chapman・John Lennon・George Harrison",
       "detail": "5 位乐手在这两支乐队都待过：Stuart Sutcliffe・Tommy Moore・Norman Chapman・John Lennon・George Harrison。",
       "year": 1960,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "plastic-ono-band",
@@ -86,7 +128,8 @@
       "label": "John Lennon・Ringo Starr",
       "detail": "2 位乐手在这两支乐队都待过：John Lennon・Ringo Starr。",
       "year": 1969,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-singing-rebels-band",
@@ -97,40 +140,8 @@
       "label": "George Harrison・Ringo Starr",
       "detail": "2 位乐手在这两支乐队都待过：George Harrison・Ringo Starr。",
       "year": 1960,
-      "weight": 0.84
-    },
-    {
-      "to": "pixies",
-      "toName": "Pixies",
-      "toArea": "波士顿",
-      "toYears": "1986–1993 / 2004–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "The Beatles 影响了 Pixies（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "guns-n-roses",
-      "toName": "Guns N' Roses",
-      "toArea": "洛杉矶",
-      "toYears": "1985–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "The Beatles 影响了 Guns N’ Roses（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "oasis",
-      "toName": "Oasis",
-      "toArea": "曼彻斯特",
-      "toYears": "1991–2009 / 2024–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "The Beatles 影响了 Oasis（Wikidata）。",
-      "year": null,
-      "weight": 0.46
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "delaney-bonnie",
@@ -141,7 +152,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1960,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "traveling-wilburys",
@@ -152,7 +164,20 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Beatles 影响了 Pixies（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-pete-best-band",
@@ -163,7 +188,32 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Beatles 影响了 Guns N’ Roses（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Beatles 影响了 Oasis（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "lee-curtis-the-all-stars",
@@ -174,7 +224,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": 1960,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "apple",
@@ -185,7 +236,8 @@
       "label": "John Lennon",
       "detail": "John Lennon 在这两支乐队都待过。",
       "year": 1960,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "george-s-band",
@@ -196,7 +248,8 @@
       "label": "Ringo Starr",
       "detail": "Ringo Starr 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "r-a-d-d-recording-artists-against-drunk-driving",
@@ -207,7 +260,8 @@
       "label": "Ringo Starr",
       "detail": "Ringo Starr 在这两支乐队都待过。",
       "year": 1962,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ringo-starr-his-all-starr-band",
@@ -218,7 +272,8 @@
       "label": "Ringo Starr",
       "detail": "Ringo Starr 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rory-storm-and-the-hurricanes",
@@ -229,7 +284,8 @@
       "label": "Ringo Starr",
       "detail": "Ringo Starr 在这两支乐队都待过。",
       "year": 1959,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pete-best-combo",
@@ -240,7 +296,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": 1960,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pete-best-four",
@@ -251,7 +308,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": 1960,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-roundheads",
@@ -262,7 +320,8 @@
       "label": "Ringo Starr",
       "detail": "Ringo Starr 在这两支乐队都待过。",
       "year": 1962,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "foo-fighters",
@@ -273,7 +332,8 @@
       "label": "影响关系",
       "detail": "The Beatles 影响了 Foo Fighters（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -284,7 +344,8 @@
       "label": "影响关系",
       "detail": "The Beatles 影响了 Pearl Jam（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "queen",
@@ -295,7 +356,8 @@
       "label": "影响关系",
       "detail": "The Beatles 影响了 Queen（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-rolling-stones",
@@ -306,7 +368,8 @@
       "label": "影响关系",
       "detail": "The Beatles 影响了 The Rolling Stones（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "u2",
@@ -317,7 +380,8 @@
       "label": "影响关系",
       "detail": "The Beatles 影响了 U2（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

@@ -21,8 +21,18 @@
       "year": 2024
     }
   ],
-  "intro": "The WAEVE是一支来自英国的以另类摇滚、独立摇滚为主要风格的音乐团体。",
+  "intro": "The WAEVE是一支来自英国的音乐团体，现有资料记录的主要风格包括另类摇滚、独立摇滚、唱作人。目前资料收录了《The WAEVE》、《City Lights》等作品；MusicBrainz 还记录了它与Blur、The Jaded Hearts Club、Seymour之间的成员往来。",
   "introLang": "zh",
+  "listens": 7245,
+  "listeners": 621,
+  "quality": {
+    "score": 28,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e6e16ae8-4867-49f4-a877-30ade1ba58cd"
@@ -37,7 +47,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jaded-hearts-club",
@@ -48,7 +59,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "seymour",
@@ -59,7 +71,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-special-assembly",
@@ -70,7 +83,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

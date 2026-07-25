@@ -9,7 +9,8 @@
   "genres": [
     "工业音乐",
     "另类摇滚",
-    "工业摇滚"
+    "工业摇滚",
+    "工業搖滾"
   ],
   "albums": [
     {
@@ -27,6 +28,24 @@
   ],
   "intro": "Black Light Burns 是一支由韦斯·博兰德（Wes Borland）担任主唱的美国工业摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Lie"
+  ],
+  "trackSources": [
+    {
+      "title": "Lie"
+    }
+  ],
+  "listens": 70379,
+  "listeners": 1992,
+  "quality": {
+    "score": 75,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a33ecf1b-a4ed-43e4-b6ab-26623b40cfad"
@@ -41,7 +60,8 @@
       "label": "Wes Borland",
       "detail": "Wes Borland 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-damning-well",
@@ -52,7 +72,8 @@
       "label": "Wes Borland",
       "detail": "Wes Borland 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Xavier是一支来自日本的音乐团体。",
+  "intro": "Xavier是一支来自日本的音乐团体。MusicBrainz 还记录了它与Fishmans+、相対性理論之间的成员往来。",
   "introLang": "zh",
+  "listens": 816,
+  "listeners": 90,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4f015985-cc45-4cc8-abce-bcc1764d56d2"
@@ -24,7 +34,8 @@
       "label": "ZAK・大野由美子",
       "detail": "2 位乐手在这两支乐队都待过：ZAK・大野由美子。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "相対性理論",
@@ -35,7 +46,8 @@
       "label": "ZAK",
       "detail": "ZAK 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,7 +8,8 @@
   "years": "2008–",
   "genres": [
     "另类摇滚",
-    "硬摇滚"
+    "硬摇滚",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -30,6 +31,40 @@
   ],
   "intro": "VAMPS，为一个日本摇滚乐团。2008年由L'Arc~en~Ciel的主唱HYDE和Oblivion Dust的吉他手K.A.Z所组成，团名取自“吸血鬼”之意。",
   "introLang": "zh",
+  "tracks": [
+    "CALLING",
+    "AHEAD/REPLAY",
+    "ANGEL TRIP",
+    "DEVIL SIDE",
+    "EVANESCENT"
+  ],
+  "trackSources": [
+    {
+      "title": "CALLING"
+    },
+    {
+      "title": "AHEAD/REPLAY"
+    },
+    {
+      "title": "ANGEL TRIP"
+    },
+    {
+      "title": "DEVIL SIDE"
+    },
+    {
+      "title": "EVANESCENT"
+    }
+  ],
+  "listens": 18362,
+  "listeners": 741,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3a6888b1-d520-406e-afc0-bd2e8b289ce7"
@@ -44,7 +79,8 @@
       "label": "HYDE・K.A.Z",
       "detail": "2 位乐手在这两支乐队都待过：HYDE・K.A.Z。",
       "year": 2008,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "l-arc-en-ciel",
@@ -55,7 +91,8 @@
       "label": "HYDE",
       "detail": "HYDE 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hide-with-spread-beaver",
@@ -66,7 +103,8 @@
       "label": "K.A.Z",
       "detail": "K.A.Z 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-last-rockstars",
@@ -77,7 +115,8 @@
       "label": "HYDE",
       "detail": "HYDE 在这两支乐队都待过。",
       "year": 2022,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -7,7 +7,11 @@
   "country": "英国",
   "years": "1956–",
   "genres": [
-    "摇滚乐"
+    "摇滚乐",
+    "搖滾",
+    "藍調",
+    "噪音爵士乐",
+    "根源搖滾"
   ],
   "albums": [
     {
@@ -33,6 +37,16 @@
   ],
   "intro": "The Quarry Men 是约翰·列侬于1956年在利物浦组建的一支英国斯基夫尔摇滚乐队。",
   "introLang": "zh",
+  "listens": 2692,
+  "listeners": 589,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9fcc463b-7cfc-4ea4-a65e-bab77fc78e9a"
@@ -47,7 +61,8 @@
       "label": "Stuart Sutcliffe・Chas Newby・John Lennon・George Harrison",
       "detail": "4 位乐手在这两支乐队都待过：Stuart Sutcliffe・Chas Newby・John Lennon・George Harrison。",
       "year": 1960,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-beat-brothers",
@@ -58,7 +73,8 @@
       "label": "Stuart Sutcliffe・John Lennon・George Harrison",
       "detail": "3 位乐手在这两支乐队都待过：Stuart Sutcliffe・John Lennon・George Harrison。",
       "year": 1960,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-silver-beatles",
@@ -69,7 +85,8 @@
       "label": "Stuart Sutcliffe・John Lennon・George Harrison",
       "detail": "3 位乐手在这两支乐队都待过：Stuart Sutcliffe・John Lennon・George Harrison。",
       "year": 1960,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "delaney-bonnie",
@@ -80,7 +97,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1958,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "plastic-ono-band",
@@ -91,7 +109,8 @@
       "label": "John Lennon",
       "detail": "John Lennon 在这两支乐队都待过。",
       "year": 1969,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "traveling-wilburys",
@@ -102,7 +121,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "apple",
@@ -113,7 +133,8 @@
       "label": "John Lennon",
       "detail": "John Lennon 在这两支乐队都待过。",
       "year": 1956,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-singing-rebels-band",
@@ -124,7 +145,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1958,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

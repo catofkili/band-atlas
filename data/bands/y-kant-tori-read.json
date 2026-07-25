@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1984–1989",
-  "genres": [],
+  "genres": [
+    "合成器流行"
+  ],
   "albums": [
     {
       "title": "Y Kant Tori Read",
@@ -15,6 +17,28 @@
   ],
   "intro": "Y Kant Tori Read 是一支由唱作人托莉·阿莫斯（Tori Amos）领衔的美国合成器流行乐队，活跃于1984年至1989年。",
   "introLang": "zh",
+  "tracks": [
+    "Cool on Your Island",
+    "The Big Picture"
+  ],
+  "trackSources": [
+    {
+      "title": "Cool on Your Island"
+    },
+    {
+      "title": "The Big Picture"
+    }
+  ],
+  "listens": 2540,
+  "listeners": 177,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ee361394-914f-4074-891a-3b17b0f89a37"
@@ -29,7 +53,8 @@
       "label": "Kim Bullard",
       "detail": "Kim Bullard 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -7,7 +7,8 @@
   "country": null,
   "years": null,
   "genres": [
-    "新浪潮"
+    "新浪潮",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -17,6 +18,16 @@
   ],
   "intro": "Jihad Jerry & the Evildoers 是美国音乐人杰拉尔德·卡萨莱（Gerald Casale）的个人音乐项目，他最广为人知的身份是新浪潮乐队 Devo 的创始成员之一。",
   "introLang": "zh",
+  "listens": 144,
+  "listeners": 18,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0612a024-6265-4179-a1a6-12d4141aeccc"
@@ -31,7 +42,8 @@
       "label": "Gerald Casale",
       "detail": "Gerald Casale 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

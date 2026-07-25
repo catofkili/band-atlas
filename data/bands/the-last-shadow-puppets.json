@@ -22,6 +22,40 @@
   ],
   "intro": "Last Shadow Puppets是一支英国摇滚乐队。由Arctic Monkeys乐队的亚历克斯·特纳和The Rascals乐队的迈尔斯·凯恩共同组建。",
   "introLang": "zh",
+  "tracks": [
+    "Standing Next to Me",
+    "Bad Habits",
+    "My Mistakes Were Made for You",
+    "The Age of the Understatement",
+    "Aviation"
+  ],
+  "trackSources": [
+    {
+      "title": "Standing Next to Me"
+    },
+    {
+      "title": "Bad Habits"
+    },
+    {
+      "title": "My Mistakes Were Made for You"
+    },
+    {
+      "title": "The Age of the Understatement"
+    },
+    {
+      "title": "Aviation"
+    }
+  ],
+  "listens": 257998,
+  "listeners": 6297,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8a3e1c4f-59a8-457a-826c-fe961419a8ae"
@@ -36,7 +70,23 @@
       "label": "Alex Turner",
       "detail": "Alex Turner 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "arctic-monkeys",
+      "toName": "Arctic Monkeys",
+      "toArea": "英国",
+      "toYears": "2002–",
+      "type": "guest",
+      "label": "客串：Miles Kane",
+      "detail": "MusicBrainz 录音资料显示，Miles Kane参与了《505》、《505》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/419f0373-d393-4a53-a8d0-39ab7bee6585",
+        "https://musicbrainz.org/recording/8dee0224-bcf9-4023-a805-9562bafd3450"
+      ]
     },
     {
       "to": "the-jaded-hearts-club",
@@ -47,7 +97,8 @@
       "label": "Miles Kane",
       "detail": "Miles Kane 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

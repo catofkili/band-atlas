@@ -7,7 +7,13 @@
   "country": "法国",
   "years": "1993–2021",
   "genres": [
-    "电子音乐"
+    "电子音乐",
+    "電子音樂",
+    "浩室音樂",
+    "舞曲",
+    "電子搖滾",
+    "电子乐",
+    "合成器流行"
   ],
   "albums": [
     {
@@ -29,6 +35,40 @@
   ],
   "intro": "蠢朋克是创立于法国巴黎的电子音乐团队，由托马斯·本高特和盖-马努尔·德奥梅姆-克里斯托两位DJ于1992年组成。",
   "introLang": "zh",
+  "tracks": [
+    "幸运儿 (蠢朋克歌曲)",
+    "星闻人物",
+    "One More Time",
+    "感觉对了",
+    "Around the World"
+  ],
+  "trackSources": [
+    {
+      "title": "幸运儿 (蠢朋克歌曲)"
+    },
+    {
+      "title": "星闻人物"
+    },
+    {
+      "title": "One More Time"
+    },
+    {
+      "title": "感觉对了"
+    },
+    {
+      "title": "Around the World"
+    }
+  ],
+  "listens": 4078659,
+  "listeners": 30218,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/056e4f3e-d505-4dad-8ec1-d04f521cbb56"
@@ -43,7 +83,50 @@
       "label": "Thomas Bangalter・Guy‐Manuel de Homem‐Christo",
       "detail": "2 位乐手在这两支乐队都待过：Thomas Bangalter・Guy‐Manuel de Homem‐Christo。",
       "year": 1993,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "fleetwood-mac",
+      "toName": "Fleetwood Mac",
+      "toArea": "伦敦",
+      "toYears": "1967–2022",
+      "type": "guest",
+      "label": "客串：Daft Punk",
+      "detail": "MusicBrainz 录音资料显示，Daft Punk参与了《At Least the Sky Is Blue / Where I Go / Here I Go / Fantasy / Where There Is Rain / Dreams (Psychemagik remix) / Keep Falling in Love / Beyond / Apples & Pears / Keep on Rolling / Suddenly / Right Down the Line / Africa (Heard From Outside the Club) / VII Babies / Maddy / Night Drive / Down in Flames / Can’t Hear My Eyes》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/8f561ad6-9ddb-4f50-8168-ebdeb913573b"
+      ]
+    },
+    {
+      "to": "gorillaz",
+      "toName": "Gorillaz",
+      "toArea": "埃塞克斯",
+      "toYears": "1999–",
+      "type": "guest",
+      "label": "客串：Gorillaz",
+      "detail": "MusicBrainz 录音资料显示，Gorillaz参与了《19-2000 Funk》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/370df5fd-1bb3-449c-b82c-ebae9092eefd"
+      ]
+    },
+    {
+      "to": "queen",
+      "toName": "Queen",
+      "toArea": "伦敦",
+      "toYears": "1970–",
+      "type": "guest",
+      "label": "客串：Queen",
+      "detail": "MusicBrainz 录音资料显示，Queen参与了《We Will Rock You vs Robot Rock》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/833509de-8067-4d80-ad07-cc2e832689fa"
+      ]
     },
     {
       "to": "crydajam",
@@ -54,7 +137,8 @@
       "label": "Guy‐Manuel de Homem‐Christo",
       "detail": "Guy‐Manuel de Homem‐Christo 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "da-mongoloids",
@@ -65,7 +149,8 @@
       "label": "Thomas Bangalter",
       "detail": "Thomas Bangalter 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "le-knight-club",
@@ -76,7 +161,8 @@
       "label": "Guy‐Manuel de Homem‐Christo",
       "detail": "Guy‐Manuel de Homem‐Christo 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "together",
@@ -87,7 +173,8 @@
       "label": "Thomas Bangalter",
       "detail": "Thomas Bangalter 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

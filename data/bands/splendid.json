@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "獨立流行"
+  ],
   "albums": [
     {
       "title": "Have You Got a Name for It",
@@ -15,6 +17,16 @@
   ],
   "intro": "Splendid 是一支由安吉·哈特（Angie Hart）和杰西·托比亚斯（Jesse Tobias）组成的双人乐队，当时两人也是夫妻。",
   "introLang": "zh",
+  "listens": 1757,
+  "listeners": 113,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/578fcf30-a232-4260-8f72-769daac8c908"
@@ -29,7 +41,8 @@
       "label": "Jesse Tobias",
       "detail": "Jesse Tobias 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,8 +8,18 @@
   "years": "1973–",
   "genres": [],
   "albums": [],
-  "intro": "キャラメル・ママ是一支来自日本的音乐团体，活跃时期为1973–。",
+  "intro": "キャラメル・ママ是一支来自日本的音乐团体，活跃时期为1973–。MusicBrainz 还记录了它与Tin Pan、ティン・パン・アレー、はっぴいえんど之间的成员往来。",
   "introLang": "zh",
+  "listens": 26,
+  "listeners": 2,
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7513da43-3b98-4da9-812d-2388ad5efaa7"
@@ -24,7 +34,8 @@
       "label": "鈴木茂・林立夫",
       "detail": "2 位乐手在这两支乐队都待过：鈴木茂・林立夫。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "ティン-パン-アレー",
@@ -35,7 +46,8 @@
       "label": "鈴木茂・林立夫",
       "detail": "2 位乐手在这两支乐队都待过：鈴木茂・林立夫。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "はっぴいえんど",
@@ -46,7 +58,8 @@
       "label": "鈴木茂",
       "detail": "鈴木茂 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

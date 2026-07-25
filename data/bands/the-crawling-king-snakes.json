@@ -2,15 +2,26 @@
   "id": "the-crawling-king-snakes",
   "mbid": "7a60ad9e-e5be-47c5-be59-82ff68e2bf1b",
   "name": "The Crawling King Snakes",
-  "area": null,
-  "countryCode": null,
+  "area": "英国",
+  "countryCode": "GB",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Crawling King Snakes是一支音乐团体。",
+  "intro": "The Crawling King Snakes是一支来自英国的音乐团体。MusicBrainz 还记录了它与R.A.D.D. (Recording Artists Against Drunk Driving)、Ringo Starr & His All Starr Band、Rockestra之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 21,
+  "listeners": 16,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7a60ad9e-e5be-47c5-be59-82ff68e2bf1b"
   },
@@ -24,7 +35,8 @@
       "label": "Phil Collins",
       "detail": "Phil Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ringo-starr-his-all-starr-band",
@@ -35,7 +47,8 @@
       "label": "Dave Edmunds",
       "detail": "Dave Edmunds 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rockestra",
@@ -46,7 +59,8 @@
       "label": "Dave Edmunds",
       "detail": "Dave Edmunds 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-house-band",
@@ -57,7 +71,8 @@
       "label": "Phil Collins",
       "detail": "Phil Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

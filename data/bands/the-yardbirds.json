@@ -8,7 +8,10 @@
   "years": "1963–",
   "genres": [
     "蓝调摇滚",
-    "迷幻摇滚"
+    "迷幻摇滚",
+    "节奏布鲁斯",
+    "藍調搖滾",
+    "迷幻搖滾"
   ],
   "albums": [
     {
@@ -34,6 +37,40 @@
   ],
   "intro": "雏鸟乐团是一支英国摇滚乐队，在1960年代中期作有一系列热门歌曲，包括《为了你的爱》、《Over Under Sideways Down》和《Heart Full of Soul》。",
   "introLang": "zh",
+  "tracks": [
+    "為了你的愛",
+    "ハートせつなく (ヤードバーズの曲)",
+    "いたずらっ娘",
+    "幻の10年",
+    "サイドウェイズ・ダウン"
+  ],
+  "trackSources": [
+    {
+      "title": "為了你的愛"
+    },
+    {
+      "title": "ハートせつなく (ヤードバーズの曲)"
+    },
+    {
+      "title": "いたずらっ娘"
+    },
+    {
+      "title": "幻の10年"
+    },
+    {
+      "title": "サイドウェイズ・ダウン"
+    }
+  ],
+  "listens": 101136,
+  "listeners": 5556,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/191de76f-a224-445d-b041-54df16d65bf7"
@@ -48,7 +85,8 @@
       "label": "Jeff Beck・Eric Clapton",
       "detail": "2 位乐手在这两支乐队都待过：Jeff Beck・Eric Clapton。",
       "year": 1965,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "delaney-bonnie",
@@ -59,7 +97,8 @@
       "label": "Eric Clapton",
       "detail": "Eric Clapton 在这两支乐队都待过。",
       "year": 1963,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "plastic-ono-band",
@@ -70,7 +109,8 @@
       "label": "Eric Clapton",
       "detail": "Eric Clapton 在这两支乐队都待过。",
       "year": 1963,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lord-sutch-heavy-friends",
@@ -81,7 +121,8 @@
       "label": "Jeff Beck",
       "detail": "Jeff Beck 在这两支乐队都待过。",
       "year": 1965,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "george-s-band",
@@ -92,7 +133,8 @@
       "label": "Eric Clapton",
       "detail": "Eric Clapton 在这两支乐队都待过。",
       "year": 1963,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-honeydrippers",
@@ -103,7 +145,8 @@
       "label": "Jeff Beck",
       "detail": "Jeff Beck 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-singing-rebels-band",
@@ -114,7 +157,8 @@
       "label": "Eric Clapton",
       "detail": "Eric Clapton 在这两支乐队都待过。",
       "year": 1963,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,11 @@
   "genres": [
     "重金属",
     "硬摇滚",
-    "传统厄运金属"
+    "传统厄运金属",
+    "重金属音乐",
+    "硬式搖滾",
+    "末日金屬",
+    "傳統重金屬"
   ],
   "albums": [
     {
@@ -39,6 +43,40 @@
   ],
   "intro": "黑色安息日是英国的硬式摇滚／重金属乐团，1968年成立于英国伯明翰，截至2017年共发行十九张录音室专辑。它的主要成员有奥茲·奥斯本，托尼·艾欧密，吉泽·巴特勒和比尔·沃德。",
   "introLang": "zh",
+  "tracks": [
+    "墳墓之子",
+    "上帝已死？ (黑色安息日的歌曲)",
+    "血腥安息日 (歌曲)",
+    "N.I.B.",
+    "Neon Knights"
+  ],
+  "trackSources": [
+    {
+      "title": "墳墓之子"
+    },
+    {
+      "title": "上帝已死？ (黑色安息日的歌曲)"
+    },
+    {
+      "title": "血腥安息日 (歌曲)"
+    },
+    {
+      "title": "N.I.B."
+    },
+    {
+      "title": "Neon Knights"
+    }
+  ],
+  "listens": 1838193,
+  "listeners": 19434,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5182c1d9-c7d2-4dad-afa0-ccfeada921a8"
@@ -53,7 +91,8 @@
       "label": "Tony Iommi・Cozy Powell・Neil Murray",
       "detail": "3 位乐手在这两支乐队都待过：Tony Iommi・Cozy Powell・Neil Murray。",
       "year": 1991,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-brian-may-band",
@@ -64,7 +103,8 @@
       "label": "Cozy Powell・Neil Murray",
       "detail": "2 位乐手在这两支乐队都待过：Cozy Powell・Neil Murray。",
       "year": 1998,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "whocares",
@@ -75,18 +115,42 @@
       "label": "Tony Iommi・Ian Gillan",
       "detail": "2 位乐手在这两支乐队都待过：Tony Iommi・Ian Gillan。",
       "year": 2011,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
-      "to": "nirvana",
-      "toName": "Nirvana",
-      "toArea": "西雅图",
-      "toYears": "1987–1994",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Black Sabbath 影响了 Nirvana（Wikidata）。",
+      "to": "audioslave",
+      "toName": "Audioslave",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Brad Wilk",
+      "detail": "MusicBrainz 录音资料显示，Brad Wilk参与了《Age of Reason》、《Loner》、《Live Forever》、《Methademic》等录音。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.78,
+      "sources": [
+        "https://musicbrainz.org/recording/bbfa68c3-f300-40a9-ae10-e9af21d4d615",
+        "https://musicbrainz.org/recording/3346ade3-15c6-4bcc-9d34-8da0275448c6",
+        "https://musicbrainz.org/recording/4c4b2797-a333-468a-9a6e-39c481559803",
+        "https://musicbrainz.org/recording/9e4c7c46-f0e8-4688-a846-cb407eb29288"
+      ]
+    },
+    {
+      "to": "rage-against-the-machine",
+      "toName": "Rage Against the Machine",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2024",
+      "type": "guest",
+      "label": "客串：Brad Wilk",
+      "detail": "MusicBrainz 录音资料显示，Brad Wilk参与了《Age of Reason》、《Loner》、《Live Forever》、《Methademic》等录音。",
+      "year": null,
+      "weight": 0.78,
+      "sources": [
+        "https://musicbrainz.org/recording/bbfa68c3-f300-40a9-ae10-e9af21d4d615",
+        "https://musicbrainz.org/recording/3346ade3-15c6-4bcc-9d34-8da0275448c6",
+        "https://musicbrainz.org/recording/4c4b2797-a333-468a-9a6e-39c481559803",
+        "https://musicbrainz.org/recording/9e4c7c46-f0e8-4688-a846-cb407eb29288"
+      ]
     },
     {
       "to": "fleetwood-mac",
@@ -97,7 +161,8 @@
       "label": "Dave Walker",
       "detail": "Dave Walker 在这两支乐队都待过。",
       "year": 1977,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "quiet-riot",
@@ -108,7 +173,82 @@
       "label": "Bob Rondinelli",
       "detail": "Bob Rondinelli 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "sound-city-players",
+      "toName": "Sound City Players",
+      "toArea": "美国",
+      "toYears": "2012–2013",
+      "type": "guest",
+      "label": "客串：Brad Wilk",
+      "detail": "MusicBrainz 录音资料显示，Brad Wilk参与了《Age of Reason》、《Loner》、《Live Forever》、《Methademic》等录音。",
+      "year": null,
+      "weight": 0.78,
+      "sources": [
+        "https://musicbrainz.org/recording/bbfa68c3-f300-40a9-ae10-e9af21d4d615",
+        "https://musicbrainz.org/recording/3346ade3-15c6-4bcc-9d34-8da0275448c6",
+        "https://musicbrainz.org/recording/4c4b2797-a333-468a-9a6e-39c481559803",
+        "https://musicbrainz.org/recording/9e4c7c46-f0e8-4688-a846-cb407eb29288"
+      ]
+    },
+    {
+      "to": "supergroup-b",
+      "toName": "Supergroup B",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Adam Wakeman",
+      "detail": "MusicBrainz 录音资料显示，Adam Wakeman参与了《Bassically / N.I.B.》、《Behind the Wall of Sleep》、《After Forever》、《After Forever》等录音。",
+      "year": null,
+      "weight": 0.78,
+      "sources": [
+        "https://musicbrainz.org/recording/80948f8d-9302-476c-afb9-97b9b8e0772c",
+        "https://musicbrainz.org/recording/83071b91-489f-4a0a-a630-bbe185117a85",
+        "https://musicbrainz.org/recording/89cc107a-f069-4830-aa88-38bcb2e46270",
+        "https://musicbrainz.org/recording/d565c773-450b-4205-9383-710dc4da421b"
+      ]
+    },
+    {
+      "to": "led-zeppelin",
+      "toName": "Led Zeppelin",
+      "toArea": "伦敦",
+      "toYears": "1968–1980",
+      "type": "guest",
+      "label": "客串：Led Zeppelin",
+      "detail": "MusicBrainz 录音资料显示，Led Zeppelin参与了《Whole Lotta Sabbath (Wax Audio mashup)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/b42ac4c5-f07a-4601-a28d-48cc488c9be6"
+      ]
+    },
+    {
+      "to": "queen",
+      "toName": "Queen",
+      "toArea": "伦敦",
+      "toYears": "1970–",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
+    },
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Black Sabbath 影响了 Nirvana（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "deadland-ritual",
@@ -119,7 +259,8 @@
       "label": "Geezer Butler",
       "detail": "Geezer Butler 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ez-street",
@@ -130,7 +271,8 @@
       "label": "Mike Bordin",
       "detail": "Mike Bordin 在这两支乐队都待过。",
       "year": 1979,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fart-sandwich-posse",
@@ -141,7 +283,8 @@
       "label": "Mike Bordin",
       "detail": "Mike Bordin 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -152,7 +295,8 @@
       "label": "Tony Iommi",
       "detail": "Tony Iommi 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-chickenfuckers",
@@ -163,7 +307,134 @@
       "label": "Mike Bordin",
       "detail": "Mike Bordin 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "queen-paul-rodgers",
+      "toName": "Queen + Paul Rodgers",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
+    },
+    {
+      "to": "1984",
+      "toName": "1984",
+      "toArea": "英国",
+      "toYears": "1964–1968",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
+    },
+    {
+      "to": "artists-united-for-nature",
+      "toName": "Artists United for Nature",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
+    },
+    {
+      "to": "hale-pace-and-the-stonkers",
+      "toName": "Hale & Pace and the Stonkers",
+      "toArea": "英国",
+      "toYears": "1991–1991",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
+    },
+    {
+      "to": "queen-adam-lambert",
+      "toName": "Queen + Adam Lambert",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
+    },
+    {
+      "to": "rock-therapy",
+      "toName": "Rock Therapy",
+      "toArea": "英国",
+      "toYears": "1996–1996",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
+    },
+    {
+      "to": "smile",
+      "toName": "Smile",
+      "toArea": "英国",
+      "toYears": "1968–1970",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
+    },
+    {
+      "to": "the-brian-may-band",
+      "toName": "The Brian May Band",
+      "toArea": null,
+      "toYears": "1991–1998",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
     },
     {
       "to": "deftones",
@@ -174,7 +445,8 @@
       "label": "影响关系",
       "detail": "Black Sabbath 影响了 Deftones（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "foo-fighters",
@@ -185,7 +457,8 @@
       "label": "影响关系",
       "detail": "Black Sabbath 影响了 Foo Fighters（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "quiet-riot",
@@ -196,7 +469,8 @@
       "label": "影响关系",
       "detail": "Black Sabbath 影响了 Quiet Riot（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "slipknot",
@@ -207,7 +481,8 @@
       "label": "影响关系",
       "detail": "Black Sabbath 影响了 Slipknot（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "soundgarden",
@@ -218,7 +493,8 @@
       "label": "影响关系",
       "detail": "Black Sabbath 影响了 Soundgarden（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "die-spitz",
@@ -229,7 +505,8 @@
       "label": "影响关系",
       "detail": "Black Sabbath 影响了 Die Spitz（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

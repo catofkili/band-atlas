@@ -8,7 +8,12 @@
   "years": "2005–",
   "genres": [
     "另类摇滚",
-    "摇滚"
+    "摇滚",
+    "情绪摇滚",
+    "後硬核",
+    "後油漬搖滾",
+    "流行朋克",
+    "情緒流行"
   ],
   "albums": [
     {
@@ -38,6 +43,40 @@
   ],
   "intro": "ONE OK ROCK，是一个日本摇滚乐团，成立于2005年。由Taka、Toru、Ryota、Tomoya、Alex五人组成的摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "The Beginning (ONE OK ROCK單曲)",
+    "Deeper Deeper/Nothing Helps",
+    "Re:make/NO SCARED",
+    "Mighty Long Fall/Decision",
+    "Answer is near"
+  ],
+  "trackSources": [
+    {
+      "title": "The Beginning (ONE OK ROCK單曲)"
+    },
+    {
+      "title": "Deeper Deeper/Nothing Helps"
+    },
+    {
+      "title": "Re:make/NO SCARED"
+    },
+    {
+      "title": "Mighty Long Fall/Decision"
+    },
+    {
+      "title": "Answer is near"
+    }
+  ],
+  "listens": 310552,
+  "listeners": 4715,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6ef00829-fa94-4fee-a5a6-b28e1208e96a"
@@ -52,7 +91,36 @@
       "label": "Taka",
       "detail": "Taka 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "linkin-park",
+      "toName": "Linkin Park",
+      "toArea": "阿古拉希尔斯",
+      "toYears": "1996–",
+      "type": "guest",
+      "label": "客串：Colin Brittain",
+      "detail": "MusicBrainz 录音资料显示，Colin Brittain参与了《Mighty Long Fall》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/9d7a2a6f-ad73-44bd-81c5-c32cef6d6fb4"
+      ]
+    },
+    {
+      "to": "oh-no-fiasco",
+      "toName": "Oh No Fiasco",
+      "toArea": "美国",
+      "toYears": "2010–",
+      "type": "guest",
+      "label": "客串：Colin Brittain",
+      "detail": "MusicBrainz 录音资料显示，Colin Brittain参与了《Mighty Long Fall》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/9d7a2a6f-ad73-44bd-81c5-c32cef6d6fb4"
+      ]
     }
   ]
 }

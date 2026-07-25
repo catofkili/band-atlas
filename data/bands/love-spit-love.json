@@ -22,6 +22,16 @@
   ],
   "intro": "Love Spit Love 是一支英美混血另类摇滚乐队，由英国歌手理查德·巴特勒（Richard Butler）于 1992 年在 Psychedelic Furs 乐队 1990 年代暂停活动期间创立。",
   "introLang": "zh",
+  "listens": 5291,
+  "listeners": 508,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d703af9a-d993-4f00-92aa-14ea284e39bd"
@@ -36,7 +46,8 @@
       "label": "Richard Fortus・Frank Ferrer",
       "detail": "2 位乐手在这两支乐队都待过：Richard Fortus・Frank Ferrer。",
       "year": 2002,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-dead-daisies",
@@ -47,7 +58,8 @@
       "label": "Richard Fortus・Frank Ferrer",
       "detail": "2 位乐手在这两支乐队都待过：Richard Fortus・Frank Ferrer。",
       "year": 2013,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "gordon-gano-the-ryans",
@@ -58,7 +70,8 @@
       "label": "Frank Ferrer・Lonnie D. Hillyer",
       "detail": "2 位乐手在这两支乐队都待过：Frank Ferrer・Lonnie D. Hillyer。",
       "year": 1992,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "beatrazr",
@@ -69,7 +82,8 @@
       "label": "Frank Ferrer",
       "detail": "Frank Ferrer 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

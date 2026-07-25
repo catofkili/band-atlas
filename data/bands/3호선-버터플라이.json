@@ -6,7 +6,9 @@
   "countryCode": "KR",
   "country": "韩国",
   "years": "1999–",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "Self-Titled Obsession",
@@ -31,6 +33,16 @@
   ],
   "intro": "3号线蝴蝶是1999年成立的韩国摇滚乐队。",
   "introLang": "zh",
+  "listens": 2114,
+  "listeners": 72,
+  "quality": {
+    "score": 59,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5fd292c1-c010-4bb5-afb4-a91f8045b853"
@@ -45,7 +57,8 @@
       "label": "김상우・남상아",
       "detail": "2 位乐手在这两支乐队都待过：김상우・남상아。",
       "year": 1997,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "모임-별",
@@ -56,7 +69,24 @@
       "label": "서현정",
       "detail": "서현정 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "pipiband",
+      "toName": "pipiband",
+      "toArea": "韩国",
+      "toYears": "1995–1997",
+      "type": "guest",
+      "label": "客串：박현준",
+      "detail": "MusicBrainz 录音资料显示，박현준参与了《43호러》、《맥주》、《여행은 어땟니》等录音。",
+      "year": null,
+      "weight": 0.74,
+      "sources": [
+        "https://musicbrainz.org/recording/7928fdcd-60b6-4c4e-a4a6-57076cb4e3d1",
+        "https://musicbrainz.org/recording/c51f6556-8d7c-4c70-92e0-23328b3fa3f5",
+        "https://musicbrainz.org/recording/99a8d63e-10b4-458b-98a1-5ff3972f561d"
+      ]
     },
     {
       "to": "pipiband",
@@ -67,7 +97,8 @@
       "label": "박현준",
       "detail": "박현준 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-devils",
@@ -78,7 +109,8 @@
       "label": "손경호",
       "detail": "손경호 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

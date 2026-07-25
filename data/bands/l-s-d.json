@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "L.S.D.是一支来自日本的音乐团体。",
+  "intro": "L.S.D.是一支来自日本的音乐团体。MusicBrainz 还记录了它与bloodthirsty butchers之间的成员往来。",
   "introLang": "zh",
+  "listens": 94,
+  "listeners": 30,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/22326d4f-f68a-487a-9467-aca645c60154"
@@ -24,7 +34,8 @@
       "label": "佐野紀代己・射守矢雄",
       "detail": "2 位乐手在这两支乐队都待过：佐野紀代己・射守矢雄。",
       "year": 1986,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

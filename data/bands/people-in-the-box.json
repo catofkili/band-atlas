@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2003–",
-  "genres": [],
+  "genres": [
+    "后摇滚"
+  ],
   "albums": [
     {
       "title": "Frog Queen",
@@ -35,6 +37,28 @@
   ],
   "intro": "People In The Box是一支来自日本的三人男子后摇滚乐队。2003年成立于福冈县北九州市。所属厂牌为BAUXITE MUSIC WY。",
   "introLang": "zh",
+  "tracks": [
+    "A SIDE SPLIT Vol.2 〜water field〜",
+    "A SIDE SPLIT Vol.3 〜snow field〜"
+  ],
+  "trackSources": [
+    {
+      "title": "A SIDE SPLIT Vol.2 〜water field〜"
+    },
+    {
+      "title": "A SIDE SPLIT Vol.3 〜snow field〜"
+    }
+  ],
+  "listens": 12175,
+  "listeners": 666,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ef0413e8-9a3b-4cba-8496-774781cf03bd"
@@ -49,7 +73,8 @@
       "label": "波多野裕文",
       "detail": "波多野裕文 在这两支乐队都待过。",
       "year": 2016,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -7,7 +7,9 @@
   "country": "美国",
   "years": "1994–",
   "genres": [
-    "鞭击金属"
+    "鞭击金属",
+    "硬核朋克",
+    "跨界音樂"
   ],
   "albums": [
     {
@@ -23,8 +25,18 @@
       "year": 2011
     }
   ],
-  "intro": "Cyco Miko是一支来自威尼斯的以鞭击金属为主要风格的音乐团体，活跃时期为1994–。",
+  "intro": "Cyco Miko是一支来自威尼斯的音乐团体，活跃时期为1994–，现有资料记录的主要风格包括鞭击金属、硬核朋克、跨界音樂。目前资料收录了《Lost My Brain! (Once Again)》、《Schizophrenic Born Again Problem Child》等作品；MusicBrainz 还记录了它与Infectious Grooves、Suicidal Tendencies之间的成员往来。",
   "introLang": "zh",
+  "listens": 1783,
+  "listeners": 150,
+  "quality": {
+    "score": 27,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d4fe1194-6dd2-4a5d-bdaf-b2c481e79434"
@@ -39,7 +51,8 @@
       "label": "Mike Muir・Adam Siegel",
       "detail": "2 位乐手在这两支乐队都待过：Mike Muir・Adam Siegel。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "suicidal-tendencies",
@@ -50,7 +63,8 @@
       "label": "Mike Muir",
       "detail": "Mike Muir 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

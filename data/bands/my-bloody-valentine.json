@@ -7,7 +7,12 @@
   "country": "爱尔兰",
   "years": "1983–1997 / 2007–",
   "genres": [
-    "噪音流行乐"
+    "噪音流行乐",
+    "瞪鞋搖滾",
+    "哥德搖滾",
+    "夢幻流行",
+    "實驗搖滾",
+    "噪音流行"
   ],
   "albums": [
     {
@@ -31,6 +36,16 @@
     "When You Sleep",
     "Soon"
   ],
+  "listens": 837318,
+  "listeners": 9537,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8ca01f46-53ac-4af2-8516-55a909c0905e"
@@ -45,7 +60,8 @@
       "label": "影响来源",
       "detail": "早期的噪音墙写法几乎是《Loveless》的直系。",
       "year": null,
-      "weight": 0.8
+      "weight": 0.8,
+      "sources": []
     },
     {
       "to": "supercar",
@@ -56,7 +72,8 @@
       "label": "影响来源",
       "detail": "SUPERCAR 早期的吉他质感被普遍认为来自 shoegaze 一系。",
       "year": null,
-      "weight": 0.7
+      "weight": 0.7,
+      "sources": []
     },
     {
       "to": "the-complex",
@@ -67,7 +84,8 @@
       "label": "Colm Ó Cíosóig・Kevin Shields",
       "detail": "2 位乐手在这两支乐队都待过：Colm Ó Cíosóig・Kevin Shields。",
       "year": 2007,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "experimental-audio-research",
@@ -78,7 +96,8 @@
       "label": "Kevin Shields",
       "detail": "Kevin Shields 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "primal-scream",
@@ -89,7 +108,8 @@
       "label": "Kevin Shields",
       "detail": "Kevin Shields 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mazzy-star",
@@ -100,7 +120,8 @@
       "label": "Colm Ó Cíosóig",
       "detail": "Colm Ó Cíosóig 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hope-sandoval-the-warm-inventions",
@@ -111,7 +132,8 @@
       "label": "Colm Ó Cíosóig",
       "detail": "Colm Ó Cíosóig 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "da-googie",
@@ -122,7 +144,8 @@
       "label": "Debbie Googe",
       "detail": "Debbie Googe 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "thurston-moore-group",
@@ -133,7 +156,8 @@
       "label": "Debbie Googe",
       "detail": "Debbie Googe 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deftones",
@@ -144,7 +168,8 @@
       "label": "影响关系",
       "detail": "My Bloody Valentine 影响了 Deftones（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,13 @@
   "genres": [
     "噪音摇滚",
     "后朋克",
-    "实验音乐"
+    "实验音乐",
+    "摇滚乐",
+    "另类摇滚",
+    "前衛搖滾",
+    "噪音搖滾",
+    "后摇滚",
+    "艺术摇滚"
   ],
   "albums": [
     {
@@ -39,6 +45,40 @@
   ],
   "intro": "Swans 是一支来自美国的后朋克乐队。1982年由身兼创作歌手和乐器演奏者的迈克尔·吉拉组建。",
   "introLang": "zh",
+  "tracks": [
+    "Saved",
+    "Failure/Animus",
+    "I Am the Sun / My Buried Child",
+    "Love Will Tear Us Apart",
+    "Celebrity Lifestyle / Mother/Father"
+  ],
+  "trackSources": [
+    {
+      "title": "Saved"
+    },
+    {
+      "title": "Failure/Animus"
+    },
+    {
+      "title": "I Am the Sun / My Buried Child"
+    },
+    {
+      "title": "Love Will Tear Us Apart"
+    },
+    {
+      "title": "Celebrity Lifestyle / Mother/Father"
+    }
+  ],
+  "listens": 756590,
+  "listeners": 6530,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3285dc48-9505-469d-ad8a-bdf2d3dba632"
@@ -53,7 +93,8 @@
       "label": "Michael Gira・Algis Kizys",
       "detail": "2 位乐手在这两支乐队都待过：Michael Gira・Algis Kizys。",
       "year": 2010,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-gunga-din",
@@ -64,7 +105,8 @@
       "label": "Bill Bronson・Christopher Pravdica",
       "detail": "2 位乐手在这两支乐队都待过：Bill Bronson・Christopher Pravdica。",
       "year": 1997,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "glenn-branca-ensemble",
@@ -75,7 +117,8 @@
       "label": "Algis Kizys・Virgil Moorefield",
       "detail": "2 位乐手在这两支乐队都待过：Algis Kizys・Virgil Moorefield。",
       "year": 1991,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "godflesh",
@@ -86,7 +129,8 @@
       "label": "Ted Parsons",
       "detail": "Ted Parsons 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "divination",
@@ -97,7 +141,8 @@
       "label": "Anton Fier",
       "detail": "Anton Fier 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "f-o-e",
@@ -108,7 +153,8 @@
       "label": "Anton Fier",
       "detail": "Anton Fier 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kidbug",
@@ -119,7 +165,8 @@
       "label": "Thor Harris",
       "detail": "Thor Harris 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

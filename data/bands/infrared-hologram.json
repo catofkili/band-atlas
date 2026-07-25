@@ -2,8 +2,8 @@
   "id": "infrared-hologram",
   "mbid": "90e6ab93-96d8-44ad-bcb3-53c9c781c93d",
   "name": "Infrared Hologram",
-  "area": null,
-  "countryCode": null,
+  "area": "德国",
+  "countryCode": "DE",
   "country": null,
   "years": null,
   "genres": [],
@@ -13,9 +13,20 @@
       "year": 2024
     }
   ],
-  "intro": "Infrared Hologram是一支音乐团体。",
+  "intro": "Infrared Hologram是一支来自德国的音乐团体。目前资料收录了《Exploding Flowers》等作品；MusicBrainz 还记录了它与Zone Six、Krautzone、The Pancakes之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 0,
+  "listeners": 0,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/90e6ab93-96d8-44ad-bcb3-53c9c781c93d"
   },
@@ -29,7 +40,8 @@
       "label": "Rainer Neeff",
       "detail": "Rainer Neeff 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "krautzone",
@@ -40,7 +52,8 @@
       "label": "Rainer Neeff",
       "detail": "Rainer Neeff 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pancakes",
@@ -51,7 +64,8 @@
       "label": "Rainer Neeff",
       "detail": "Rainer Neeff 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

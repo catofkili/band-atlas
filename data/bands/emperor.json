@@ -8,8 +8,18 @@
   "years": "1987–1990",
   "genres": [],
   "albums": [],
-  "intro": "Emperor是一支来自日本的音乐团体，活跃时期为1987–1990。",
+  "intro": "Emperor是一支来自日本的音乐团体，活跃时期为1987–1990。MusicBrainz 还记录了它与X JAPAN、Dementia、UNITED之间的成员往来。",
   "introLang": "zh",
+  "listens": 51,
+  "listeners": 10,
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9789915d-d16a-4ce8-80d3-63eda0b44e67"
@@ -24,7 +34,8 @@
       "label": "高井寿・宇高光",
       "detail": "2 位乐手在这两支乐队都待过：高井寿・宇高光。",
       "year": 1987,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "dementia",
@@ -35,7 +46,8 @@
       "label": "宇田川隆・TOKIHIKO",
       "detail": "2 位乐手在这两支乐队都待过：宇田川隆・TOKIHIKO。",
       "year": 1987,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "united",
@@ -46,7 +58,8 @@
       "label": "大谷慎吾",
       "detail": "大谷慎吾 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "横須賀サーベルタイガー",
@@ -57,7 +70,8 @@
       "label": "TOKIHIKO",
       "detail": "TOKIHIKO 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fractured-mirror",
@@ -68,7 +82,8 @@
       "label": "宇高光",
       "detail": "宇高光 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "power-germanys",
@@ -79,7 +94,8 @@
       "label": "大谷慎吾",
       "detail": "大谷慎吾 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

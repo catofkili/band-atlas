@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Power Rangers Orchestra是一支来自美国的音乐团体。",
+  "intro": "The Power Rangers Orchestra是一支来自美国的音乐团体。MusicBrainz 还记录了它与Tak Matsumoto Group、Y Kant Tori Read之间的成员往来。",
   "introLang": "zh",
+  "listens": 331,
+  "listeners": 34,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/853a15ed-51cb-4da0-a02e-5dc33be1cf1d"
@@ -24,7 +34,8 @@
       "label": "Eric Martin",
       "detail": "Eric Martin 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "y-kant-tori-read",
@@ -35,7 +46,8 @@
       "label": "Kim Bullard",
       "detail": "Kim Bullard 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

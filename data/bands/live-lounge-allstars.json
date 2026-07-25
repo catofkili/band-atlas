@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Live Lounge Allstars是一支音乐团体。",
+  "intro": "Live Lounge Allstars是一支音乐团体。MusicBrainz 还记录了它与Band Aid 30之间的成员往来。",
   "introLang": "zh",
+  "listens": 859,
+  "listeners": 214,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b2da3820-3d19-4817-b370-0c89042ce870"
@@ -24,7 +34,8 @@
       "label": "Ellie Goulding・Rita Ora",
       "detail": "2 位乐手在这两支乐队都待过：Ellie Goulding・Rita Ora。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

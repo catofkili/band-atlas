@@ -13,8 +13,18 @@
       "year": 2022
     }
   ],
-  "intro": "Jon Spencer & the HITmakers是一支音乐团体。",
+  "intro": "Jon Spencer & the HITmakers是一支音乐团体。目前资料收录了《Spencer Gets It Lit》等作品；MusicBrainz 还记录了它与Pussy Galore之间的成员往来。",
   "introLang": "zh",
+  "listens": 1038,
+  "listeners": 124,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a9bc1e6d-3a17-4838-b608-61a9d2bfcf07"
@@ -29,7 +39,8 @@
       "label": "Jon Spencer",
       "detail": "Jon Spencer 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

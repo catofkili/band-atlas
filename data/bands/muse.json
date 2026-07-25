@@ -9,7 +9,12 @@
   "genres": [
     "另类摇滚",
     "摇滚",
-    "前卫摇滚"
+    "前卫摇滚",
+    "摇滚乐",
+    "另類金屬",
+    "硬式搖滾",
+    "前衛搖滾",
+    "迷幻搖滾"
   ],
   "albums": [
     {
@@ -39,6 +44,40 @@
   ],
   "intro": "缪斯是一支英国摇滚乐队，于1994年在英国德文郡的泰格茅斯镇创立。乐风融合了独立摇滚、前卫摇滚、重金属音乐、古典音乐与电音。乐团以主唱马修·贝拉米对各种阴谋论、外星生物、神学以及末世预言等的怪异兴趣著称。",
   "introLang": "zh",
+  "tracks": [
+    "プラグ・イン・ベイビー",
+    "Uprising (노래)",
+    "ウノ",
+    "Cave (노래)",
+    "Neutron Star Collision"
+  ],
+  "trackSources": [
+    {
+      "title": "プラグ・イン・ベイビー"
+    },
+    {
+      "title": "Uprising (노래)"
+    },
+    {
+      "title": "ウノ"
+    },
+    {
+      "title": "Cave (노래)"
+    },
+    {
+      "title": "Neutron Star Collision"
+    }
+  ],
+  "listens": 3372542,
+  "listeners": 22923,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090"
@@ -53,7 +92,8 @@
       "label": "影响关系",
       "detail": "Muse 受 Nirvana 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-jaded-hearts-club",
@@ -64,7 +104,8 @@
       "label": "Matt Bellamy",
       "detail": "Matt Bellamy 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "vicky-cryer",
@@ -75,7 +116,8 @@
       "label": "Dominic Howard",
       "detail": "Dominic Howard 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gothic-plague",
@@ -86,7 +128,8 @@
       "label": "Dominic Howard",
       "detail": "Dominic Howard 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-old-day",
@@ -97,7 +140,8 @@
       "label": "Christopher Wolstenholme",
       "detail": "Christopher Wolstenholme 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queen",
@@ -108,7 +152,8 @@
       "label": "影响关系",
       "detail": "Muse 受 Queen 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "radiohead",
@@ -119,7 +164,8 @@
       "label": "影响关系",
       "detail": "Muse 受 Radiohead 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "rage-against-the-machine",
@@ -130,7 +176,8 @@
       "label": "影响关系",
       "detail": "Muse 受 Rage Against the Machine 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

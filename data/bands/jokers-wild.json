@@ -6,10 +6,22 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "1964–1966",
-  "genres": [],
+  "genres": [
+    "藍調搖滾"
+  ],
   "albums": [],
   "intro": "Jokers Wild是一支于1964年在英国剑桥成立的英国摇滚乐队。",
   "introLang": "zh",
+  "listens": 101,
+  "listeners": 24,
+  "quality": {
+    "score": 51,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b9e9779f-f3c8-4b78-a22f-a2d2b17a1aeb"
@@ -24,7 +36,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deep-end",
@@ -35,7 +48,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hale-pace-and-the-stonkers",
@@ -46,7 +60,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "holly-and-the-ivy-s",
@@ -57,7 +72,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -68,7 +84,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-ramblers",
@@ -79,7 +96,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1962,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

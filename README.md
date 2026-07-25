@@ -8,7 +8,7 @@
 每张只露出一半，用带颜色的线牵着。点边缘的卡片，镜头滑过去，它展开成新的焦点，
 它自己的邻居再从新的屏幕边缘探出头来。
 
-**1042 支乐队 / 2610 条关系**，平均每支 5.0 条。
+**1042 支乐队 / 2715 条关系**，平均每支 5.2 条；其中东亚 347 支，地区未知降到 56 支。
 骨架由 MusicBrainz 爬来，简介取自维基百科，其中 26 支经过人工整理——
 中文简介、代表曲、轶事，以及数据库里根本没有的恩怨。
 
@@ -57,19 +57,32 @@ data/
     translations-zh.json DeepL 中文翻译缓存（不含密钥）
     zh-overrides.json   机器翻译明显失真时的人工中文校对
     influences.json     Wikidata P737 影响关系（勿手改）
+    popularity.json     现有乐队的 ListenBrainz 历史收听与听众数
+    wikidata-enrichment.json 现有乐队的流派与代表作品候选
+    guest-edges.json    MusicBrainz 录音层客串 / 合作（勿手改）
     scene-jrock.json    人工整理，覆盖层：中文简介、轶事、恩怨
+  review/
+    FEUD_REVIEW.md      恩怨情仇人工审核清单
+    history-candidates.json 带中文稿、来源和状态的审核候选
+    wikipedia-history-raw.json 三语 Wikipedia 关键词扫描原料
   bands/<id>.json       构建产物，每支乐队一份
   index.json            构建产物，随机进站与搜索用
   graph.json            构建产物，全网关系与固定 (x, y) 坐标
 tools/
   crawl.mjs             爬 MusicBrainz，穿过乐手把乐队连起来
   fetch-popular-seeds.mjs ListenBrainz 全站收听量榜（热门度顺序）
+  fetch-popularity.mjs  只给现有乐队补 ListenBrainz 热度
   fetch-intros.mjs      Wikidata 找条目 → 维基百科取首段
   translate-zh.mjs      外文简介、地区、流派 → 简体中文翻译缓存
   fetch-influences.mjs  Wikidata P737「受谁影响」→ 只留网内关系
+  fetch-wikidata-enrichment.mjs 补流派与代表作品候选
+  fetch-guest-recordings.mjs 穿过录音与客串者补合作关系
+  scan-wikipedia-history.mjs 生成恩怨情仇审核原料
   build-data.mjs        数据合并、展开双向边、生成离线地图
   lib/layout-graph.mjs  Graphology ForceAtlas2 + Noverlap
   check-layout.mjs      坐标、标签碰撞与关系线长度验收
+  check-site.mjs        内容、地区、热度、单文件与缓存版本回归
+  stamp-assets.mjs      用内容哈希统一静态资源缓存版本
   build-standalone.mjs  压成一个自包含 HTML
   lib/mb.mjs            限速、落盘缓存、重试
 ```
@@ -77,16 +90,16 @@ tools/
 ## 数据管线
 
 ```bash
-node tools/fetch-popular-seeds.mjs                             # ListenBrainz 全站热度榜（1000 位）
-node tools/crawl.mjs --max-bands 400 --depth 2 --seed-limit 24 # 按热门榜顺序扩展，约 20 分钟
-node tools/fetch-intros.mjs                      # 约 1 分钟
-DEEPL_AUTH_KEY=... node tools/translate-zh.mjs   # 只翻新增或源文变化的条目
-node tools/fetch-influences.mjs                  # Wikidata 影响关系，秒级
-npm run build                                    # 离线布局、校验、单文件版
+npm run fetch:popularity                                      # 现有 1042 支的真实收听记录
+npm run fetch:wikidata-enrichment                             # 流派、作品候选
+npm run fetch:guests -- --east=1000 --western=40 --pages=3   # 东亚全覆盖、欧美热门组
+npm run scan:wikipedia-history -- --east=100 --western=60    # 只生成审核原料
+DEEPL_AUTH_KEY=... node tools/translate-zh.mjs                  # 只翻新增或源文变化
+npm run build                                                   # 合并、离线布局、全套校验、单文件版
 ```
 
 所有响应都缓存在 `.cache/`（已 gitignore），中断了重跑、或者改爬取策略再来一遍，
-都不会重复打接口。前两步只在要扩充数据时跑，平时改人工数据只需要后两步。
+都不会重复打接口。目前自动扩张名单已停用；以上命令只丰富现有乐队，不会偷偷增加节点。
 
 **穿过人来连乐队**是整条管线的关键一步。MusicBrainz 存的是「乐队 ↔ 乐手」，
 而我们要的是「乐队 ↔ 乐队」：先取一支乐队的成员名单，再取每个成员待过的所有乐队，
@@ -98,10 +111,14 @@ npm run build                                    # 离线布局、校验、单�
 | 层 | 来源 | 内容 |
 |---|---|---|
 | 底 | `generated.json` | MusicBrainz：名字、地区、年代、流派、专辑、成员流动 |
-| 中 | `intros.json` | 维基百科首段（中文优先，退到日文、英文） |
+| 中 | `intros.json` | 维基百科首段（中文优先，外文随后统一翻译） |
 | 中 | `translations-zh.json` | DeepL：把英日简介、地区和流派统一为简体中文 |
+| 中 | `wikidata-enrichment.json` | Wikidata：补空白流派与代表作品候选 |
+| 中 | `popularity.json` | ListenBrainz：历史收听量、独立听众数 |
+| 中 | `guest-edges.json` | MusicBrainz 录音署名：客串、合作 |
 | 高 | `zh-overrides.json` | 人工校正截断、错译和维基条目串线 |
 | 顶 | `scene-jrock.json` | 人工：中文简介、代表曲、轶事，以及数据库里没有的恩怨 |
+| 审核后 | `review/history-candidates.json` | 只有状态为 `approved` 的中文稿与红线才会并入 |
 
 乐队 id 以人工那层为准——已经分享出去的链接（`#/band/straightener`）不能因为重跑数据就失效。
 
@@ -127,10 +144,18 @@ npm run build                                    # 离线布局、校验、单�
 动画结束的那一帧把世界原点偷换成新焦点、重新布点。画面内容一致，看不出破绽。
 
 **全网地图使用固定的离线坐标。** 构建脚本把关系数据交给 Graphology：
-先按关系强度运行 ForceAtlas2（LinLog + Barnes–Hut），再用 Noverlap 做标签碰撞收尾，
+先按关系强度运行 ForceAtlas2（Barnes–Hut），再用 Noverlap 做标签碰撞收尾，
 最后把不同连通分量确定性地装箱，并把 `(x, y)` 写进 `data/graph.json`。
 浏览器不运行力导向，也不因焦点变化挪动节点；它只按四个固定层级画图、缩放和平移。
 同一份数据重复构建会得到完全相同的坐标，便于分享与截图。
+
+**八个邻居是一半固定、一半轮换。** 桌面端关系多于八条时，前四个由关系权重、
+关系类型与对端内容量决定，固定展示；另外四个从其余关系中抽取。手机端对应为二加二。
+尺寸变化不会让抽取结果乱跳，重新进入同一乐队才会换一批；来路乐队永远强制保留。
+
+**热度筛选不删数据。** 地图上的“隐藏超冷门”以 ListenBrainz 历史总收听 1000 次为界，
+一键把 1042 个节点收紧到约 483 个，当前焦点例外保留。ListenBrainz 只代表其开放数据
+用户提交的播放历史，并不是 Spotify、Apple Music 等平台的全球总播放量。
 
 **槽位沿边框走，不按角度均分。** 按角度分会出问题：宽屏上「离垂直方向 26°」
 在水平方向只有几十像素，上下两张卡片会挤在焦点卡片正后方。按边长分则贴着边均匀铺开。
@@ -154,14 +179,17 @@ npm run build                                    # 离线布局、校验、单�
 
 - **新增乐队**：目前不自动扩张；需要时先按东亚与实际热度筛选，再人工启动增量管线。
 - **影响关系**：Wikidata `P737` 已接入；它覆盖不均，且只收两端都在本网内的关系，人工补充仍然很重要。
+- **客串关系**：录音层已补 105 对带 MusicBrainz 录音 URL 的候选，合并后全图有 133 条客串边。
 - **专辑封面**：Cover Art Archive，构建期生成缩略图存同源。
-- **恩怨**：没有结构化来源，只能 LLM 读 Wikipedia 抽事件 + 人工逐条审核。
-  这是本项目区别于普通相似推荐的独家内容，目前只有两条。
+- **恩怨**：160 支热门乐队的三语 Wikipedia 已跑出 63 个原始条目，并整理成 15 条中文审核稿；
+  其中 10 条东亚、2 条可形成站内双端红线。未批准的内容绝不进入线上数据。
 
 ## 数据准确性
 
 爬来的部分（名字、年代、专辑、成员流动）以 MusicBrainz 为准，硬事实可靠，
-但覆盖不均：约六成有简介、七成有专辑、四成有流派，冷门乐队的条目本来就薄。
+但覆盖不均。当前 631 支有流派、274 支有代表曲；456 支简介仍标记为机器事实摘要，
+它们不会进入高质量随机首屏池。随机入口在 408 支非模板、关系不少于三条的候选中，
+按 ListenBrainz 热度、内容完整度、关系数加权，并给东亚乐队适度加权。
 
 `scene-jrock.json` 里人工写的简介、代表曲、轶事未经数据库校验，细节可能有出入。
 恩怨类条目只收录有公开报道的事件，措辞保持中性。

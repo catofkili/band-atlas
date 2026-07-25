@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "新浪潮"
+  ],
   "albums": [
     {
       "title": "Disco rigido",
@@ -27,6 +29,24 @@
   ],
   "intro": "Die Warzau（原名 Die Warsaw Synfony）是一支美国工业音乐乐队，由吉姆·马库斯（Jim Marcus）和范·克里斯蒂（Van Christie）于1987年组建。",
   "introLang": "zh",
+  "tracks": [
+    "Funkopolis"
+  ],
+  "trackSources": [
+    {
+      "title": "Funkopolis"
+    }
+  ],
+  "listens": 9615,
+  "listeners": 337,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/45dc44ab-ebd5-48ed-9fc9-6f8de561656d"
@@ -41,7 +61,8 @@
       "label": "Jim Marcus・Jason McNinch",
       "detail": "2 位乐手在这两支乐队都待过：Jim Marcus・Jason McNinch。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

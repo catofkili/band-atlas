@@ -9,7 +9,10 @@
   "genres": [
     "哥特摇滚",
     "新浪潮",
-    "后朋克"
+    "后朋克",
+    "另类摇滚",
+    "哥德搖滾",
+    "後龐克"
   ],
   "albums": [
     {
@@ -39,11 +42,73 @@
   ],
   "intro": "治疗乐队，是一支于 1976 年在西萨塞克斯郡克劳利成立的摇滚乐队。该乐队经历了多次人员调整，只有其核心、吉他手兼主要曲作者罗伯特·史密斯是固定成员。",
   "introLang": "zh",
+  "tracks": [
+    "Friday I'm in Love",
+    "Boys Don't Cry",
+    "Lullaby",
+    "Charlotte Sometimes",
+    "Fascination Street"
+  ],
+  "trackSources": [
+    {
+      "title": "Friday I'm in Love"
+    },
+    {
+      "title": "Boys Don't Cry"
+    },
+    {
+      "title": "Lullaby"
+    },
+    {
+      "title": "Charlotte Sometimes"
+    },
+    {
+      "title": "Fascination Street"
+    }
+  ],
+  "listens": 2297310,
+  "listeners": 20547,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/69ee3720-a7cb-4402-b48d-a02c366f2bcf"
   },
   "edges": [
+    {
+      "to": "blink-182",
+      "toName": "blink‐182",
+      "toArea": "美国",
+      "toYears": "1992–",
+      "type": "guest",
+      "label": "客串：Robert Smith",
+      "detail": "MusicBrainz 录音资料显示，Robert Smith参与了《All of This》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/ffa673ae-ec03-4029-a6ab-c752c26b0f43"
+      ]
+    },
+    {
+      "to": "depeche-mode",
+      "toName": "Depeche Mode",
+      "toArea": "巴兹尔登",
+      "toYears": "1980–",
+      "type": "guest",
+      "label": "客串：The Cure、Depeche Mode",
+      "detail": "MusicBrainz 录音资料显示，The Cure、Depeche Mode参与了《World in My Eyes (Mode 2 Cure)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/b3256492-8bc5-420e-a957-bb81950f055e"
+      ]
+    },
     {
       "to": "sour-milk-sea",
       "toName": "Sour Milk Sea",
@@ -53,7 +118,8 @@
       "label": "Boris Williams",
       "detail": "Boris Williams 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deftones",
@@ -64,7 +130,8 @@
       "label": "影响关系",
       "detail": "The Cure 影响了 Deftones（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "lostprophets",
@@ -75,7 +142,8 @@
       "label": "影响关系",
       "detail": "The Cure 影响了 Lostprophets（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

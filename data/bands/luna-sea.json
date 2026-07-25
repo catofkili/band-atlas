@@ -9,7 +9,9 @@
   "genres": [
     "摇滚",
     "另类摇滚",
-    "哥特"
+    "哥特",
+    "前衛搖滾",
+    "視覺系"
   ],
   "albums": [
     {
@@ -39,6 +41,40 @@
   ],
   "intro": "月之海是1986年在日本神奈川县组成的视觉系摇滚乐团，由于在职业生涯早期使用化妆和华丽服饰，广受大众欢迎，是视觉系运动中是最成功和最有影响力的乐团之一。",
   "introLang": "zh",
+  "tracks": [
+    "Gravity",
+    "I for You",
+    "BELIEVE (LUNA SEAの曲)",
+    "DESIRE (LUNA SEAの曲)",
+    "END OF SORROW"
+  ],
+  "trackSources": [
+    {
+      "title": "Gravity"
+    },
+    {
+      "title": "I for You"
+    },
+    {
+      "title": "BELIEVE (LUNA SEAの曲)"
+    },
+    {
+      "title": "DESIRE (LUNA SEAの曲)"
+    },
+    {
+      "title": "END OF SORROW"
+    }
+  ],
+  "listens": 95921,
+  "listeners": 752,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e7ab70fc-ae7b-4321-a9d1-4c2e9440e0f5"
@@ -53,7 +89,8 @@
       "label": "INORAN・J・河村隆一・真矢",
       "detail": "4 位乐手在这两支乐队都待过：INORAN・J・河村隆一・真矢。",
       "year": 1986,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "tourbillon",
@@ -64,7 +101,8 @@
       "label": "INORAN・河村隆一",
       "detail": "2 位乐手在这两支乐队都待过：INORAN・河村隆一。",
       "year": 2005,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "m-a-s-s",
@@ -75,7 +113,8 @@
       "label": "INORAN・J",
       "detail": "2 位乐手在这两支乐队都待过：INORAN・J。",
       "year": 1990,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "fake",
@@ -86,7 +125,8 @@
       "label": "INORAN",
       "detail": "INORAN 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "muddy-apes",
@@ -97,7 +137,8 @@
       "label": "INORAN",
       "detail": "INORAN 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "toshi-with-t-earth",
@@ -108,7 +149,8 @@
       "label": "真矢",
       "detail": "真矢 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "yellow-fried-chickenz",
@@ -119,7 +161,8 @@
       "label": "真矢",
       "detail": "真矢 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "3minutes",
@@ -130,7 +173,8 @@
       "label": "河村隆一",
       "detail": "河村隆一 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

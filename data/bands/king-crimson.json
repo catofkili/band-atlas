@@ -9,7 +9,10 @@
   "genres": [
     "前卫摇滚",
     "艺术摇滚",
-    "实验摇滚"
+    "实验摇滚",
+    "前衛搖滾",
+    "迷幻搖滾",
+    "爵士搖滾"
   ],
   "albums": [
     {
@@ -39,6 +42,40 @@
   ],
   "intro": "绯红之王共同组建了新的乐队———King Crimson (绯红之王)。",
   "introLang": "zh",
+  "tracks": [
+    "請稍等一下",
+    "Heartbeat",
+    "Thela Hun Ginjeet",
+    "Sex Sleep Eat Drink Dream",
+    "Sleepless"
+  ],
+  "trackSources": [
+    {
+      "title": "請稍等一下"
+    },
+    {
+      "title": "Heartbeat"
+    },
+    {
+      "title": "Thela Hun Ginjeet"
+    },
+    {
+      "title": "Sex Sleep Eat Drink Dream"
+    },
+    {
+      "title": "Sleepless"
+    }
+  ],
+  "listens": 792295,
+  "listeners": 9476,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3"
@@ -53,7 +90,8 @@
       "label": "Robert Fripp・Trey Gunn・副项目",
       "detail": "3 位乐手在这两支乐队都待过：Robert Fripp・Trey Gunn・副项目。",
       "year": 1968,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "discipline",
@@ -64,7 +102,8 @@
       "label": "Robert Fripp・Bill Bruford・Tony Levin",
       "detail": "3 位乐手在这两支乐队都待过：Robert Fripp・Bill Bruford・Tony Levin。",
       "year": 1968,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-crimson-projekct",
@@ -75,7 +114,8 @@
       "label": "Tony Levin・Pat Mastelotto・副项目",
       "detail": "3 位乐手在这两支乐队都待过：Tony Levin・Pat Mastelotto・副项目。",
       "year": 2004,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "asia",
@@ -86,7 +126,8 @@
       "label": "John Wetton・Greg Lake",
       "detail": "2 位乐手在这两支乐队都待过：John Wetton・Greg Lake。",
       "year": 1972,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "beat",
@@ -97,7 +138,8 @@
       "label": "Tony Levin・副项目",
       "detail": "2 位乐手在这两支乐队都待过：Tony Levin・副项目。",
       "year": 2004,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "projekct-six",
@@ -108,7 +150,8 @@
       "label": "Robert Fripp・副项目",
       "detail": "2 位乐手在这两支乐队都待过：Robert Fripp・副项目。",
       "year": 1968,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-human-experimente",
@@ -119,7 +162,8 @@
       "label": "John Wetton・Robert Fripp",
       "detail": "2 位乐手在这两支乐队都待过：John Wetton・Robert Fripp。",
       "year": 1972,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "exovex",
@@ -130,7 +174,8 @@
       "label": "Gavin Harrison",
       "detail": "Gavin Harrison 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ringo-starr-his-all-starr-band",
@@ -141,7 +186,8 @@
       "label": "Greg Lake",
       "detail": "Greg Lake 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-rd-crusaders",
@@ -152,7 +198,8 @@
       "label": "Greg Lake",
       "detail": "Greg Lake 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "21st-century-schizoid-band",
@@ -163,7 +210,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "projekct-three",
@@ -174,7 +222,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "projekct-x",
@@ -185,7 +234,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "projekct-four",
@@ -196,7 +246,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "projekct-one",
@@ -207,7 +258,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

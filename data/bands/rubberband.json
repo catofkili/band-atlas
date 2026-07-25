@@ -39,6 +39,16 @@
   ],
   "intro": "RubberBand，于2005年成立的香港流行乐队，成员包括主音6号、吉他手兼队长阿正、低音吉他手阿伟以及鼓手泥鯭。",
   "introLang": "zh",
+  "listens": 5271,
+  "listeners": 100,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/74fb2a36-7f55-4f12-a474-36ad65350f86"
@@ -53,7 +63,8 @@
       "label": "6號",
       "detail": "6號 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

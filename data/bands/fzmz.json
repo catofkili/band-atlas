@@ -8,11 +8,24 @@
   "years": "2023–",
   "genres": [
     "阿凡达",
-    "合作"
+    "合作",
+    "另類金屬",
+    "日本搖滾樂",
+    "日本重金属"
   ],
   "albums": [],
-  "intro": "FZMZ是一支来自日本的以阿凡达、合作为主要风格的音乐团体，活跃时期为2023–。",
+  "intro": "FZMZ是一支来自日本的音乐团体，活跃时期为2023–，现有资料记录的主要风格包括阿凡达、合作、另類金屬。MusicBrainz 还记录了它与凛として時雨、VIVA LA J-ROCK ANTHEMS、ZiNG之间的成员往来。",
   "introLang": "zh",
+  "listens": 6456,
+  "listeners": 621,
+  "quality": {
+    "score": 20,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e10a7d73-546b-4961-8390-2a9171beaa7a"
@@ -27,7 +40,8 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": 2023,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "viva-la-j-rock-anthems",
@@ -38,7 +52,8 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": 2023,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zing",
@@ -49,7 +64,8 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": 2023,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "カオティック-スピードキング",
@@ -60,7 +76,8 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": 2023,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,9 @@
   "genres": [
     "另类摇滚",
     "车库摇滚",
-    "硬摇滚"
+    "硬摇滚",
+    "朋克搖滾",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -27,6 +29,16 @@
   ],
   "intro": "Dead Sara是一支来自洛杉矶的美国摇滚乐队，由艾米丽·阿姆斯特朗（主唱、节奏吉他）、苏西·梅德利（主吉他、和声）和肖恩·弗莱迪（鼓手、和声）组成，他们最广为人知的作品是首张专辑《Dead Sara》中的单曲《Weatherman》 （2012年）中的单曲《Weatherman》。",
   "introLang": "zh",
+  "listens": 46338,
+  "listeners": 2424,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0f4fa442-3e9c-4355-8e17-a39386a52077"
@@ -41,7 +53,8 @@
       "label": "Emily Armstrong",
       "detail": "Emily Armstrong 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

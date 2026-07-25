@@ -17,8 +17,18 @@
       "year": 2018
     }
   ],
-  "intro": "Elements of Life是一支来自美国的音乐团体。",
+  "intro": "Elements of Life是一支来自美国的音乐团体。目前资料收录了《Eclipse》、《Into My Life (You Brought The Sunshine)》等作品；MusicBrainz 还记录了它与Change、Nine Inch Nails、Mick Jagger & The Brothers of Sodom之间的成员往来。",
   "introLang": "zh",
+  "listens": 176,
+  "listeners": 51,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2a4929b0-3056-48ed-90f7-a0b58ab42329"
@@ -33,7 +43,8 @@
       "label": "Lisa Fischer",
       "detail": "Lisa Fischer 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -44,7 +55,8 @@
       "label": "Lisa Fischer",
       "detail": "Lisa Fischer 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-jagger-the-brothers-of-sodom",
@@ -55,7 +67,8 @@
       "label": "Lisa Fischer",
       "detail": "Lisa Fischer 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

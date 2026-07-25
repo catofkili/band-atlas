@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "IR8是一支来自美国的音乐团体。",
+  "intro": "IR8是一支来自美国的音乐团体。MusicBrainz 还记录了它与Exodus、Sexoturica之间的成员往来。",
   "introLang": "zh",
+  "listens": 91,
+  "listeners": 24,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/55dc4368-4572-4a75-885f-a8739ce6a55c"
@@ -24,7 +34,8 @@
       "label": "Tom Hunting",
       "detail": "Tom Hunting 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sexoturica",
@@ -35,7 +46,8 @@
       "label": "Tom Hunting",
       "detail": "Tom Hunting 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

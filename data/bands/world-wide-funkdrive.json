@@ -2,15 +2,26 @@
   "id": "world-wide-funkdrive",
   "mbid": "f7624f1a-597c-4659-a691-5607e85a9dfd",
   "name": "World-Wide-Funkdrive",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "World-Wide-Funkdrive是一支音乐团体。",
+  "intro": "World-Wide-Funkdrive是一支来自美国的音乐团体。MusicBrainz 还记录了它与Funkadelic、Parliament、Praxis之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 496,
+  "listeners": 108,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f7624f1a-597c-4659-a691-5607e85a9dfd"
   },
@@ -24,7 +35,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "parliament",
@@ -35,7 +47,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "praxis",
@@ -46,7 +59,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "parliament-funkadelic",
@@ -57,7 +71,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "science-faxtion",
@@ -68,7 +83,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-p-funk-mob",
@@ -79,7 +95,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -13,8 +13,18 @@
       "year": 2016
     }
   ],
-  "intro": "Eiko Ishibashi Trio是一支来自日本的音乐团体。",
+  "intro": "Eiko Ishibashi Trio是一支来自日本的音乐团体。目前资料收录了《6 Feet Under》等作品；MusicBrainz 还记录了它与Kafka’s Ibiki、Melt‐Banana、Bonjintan之间的成员往来。",
   "introLang": "zh",
+  "listens": 236,
+  "listeners": 21,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c8b2f191-0bb4-4ee5-a38f-7d3ce8564504"
@@ -29,7 +39,8 @@
       "label": "石橋英子・山本達久",
       "detail": "2 位乐手在这两支乐队都待过：石橋英子・山本達久。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "melt-banana",
@@ -40,7 +51,8 @@
       "label": "須藤俊明",
       "detail": "須藤俊明 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bonjintan",
@@ -51,7 +63,8 @@
       "label": "山本達久",
       "detail": "山本達久 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "delivery-health",
@@ -62,7 +75,8 @@
       "label": "山本達久",
       "detail": "山本達久 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

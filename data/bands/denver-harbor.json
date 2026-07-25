@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "2002–",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "Scenic",
@@ -15,6 +17,16 @@
   ],
   "intro": "Denver Harbor 是一支来自美国加利福尼亚州圣地亚哥的另类摇滚乐队。",
   "introLang": "zh",
+  "listens": 1459,
+  "listeners": 131,
+  "quality": {
+    "score": 59,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9e47e029-e63d-48d8-a8b8-fd46cc9db1ce"
@@ -29,7 +41,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lostprophets",
@@ -40,7 +53,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -51,7 +65,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fenix-tx",
@@ -62,7 +77,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jaded-hearts-club",
@@ -73,7 +89,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,8 @@
   "genres": [
     "硬摇滚",
     "蓝调摇滚",
-    "摇滚"
+    "摇滚",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -23,6 +24,16 @@
   ],
   "intro": "Slash's Snakepit 是1994年由当时效力于枪与玫瑰乐队的吉他手斯莱什组建的乐队。",
   "introLang": "zh",
+  "listens": 20981,
+  "listeners": 917,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/40ec273c-85dd-487c-8935-ccbc7d866119"
@@ -37,7 +48,8 @@
       "label": "Keri Kelli",
       "detail": "Keri Kelli 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "heart",
@@ -48,7 +60,8 @@
       "label": "Mike Inez",
       "detail": "Mike Inez 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-a-guns",
@@ -59,7 +72,8 @@
       "label": "Keri Kelli",
       "detail": "Keri Kelli 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "megadeth",
@@ -70,7 +84,8 @@
       "label": "James LoMenzo",
       "detail": "James LoMenzo 在这两支乐队都待过。",
       "year": 2022,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-dead-daisies",
@@ -81,7 +96,8 @@
       "label": "Brian Tichy",
       "detail": "Brian Tichy 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tak-matsumoto-group",
@@ -92,7 +108,8 @@
       "label": "Brian Tichy",
       "detail": "Brian Tichy 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "adler-s-appetite",
@@ -103,7 +120,8 @@
       "label": "Keri Kelli",
       "detail": "Keri Kelli 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "candy",
@@ -114,7 +132,8 @@
       "label": "Ryan Roxie",
       "detail": "Ryan Roxie 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "halloween-jack",
@@ -125,7 +144,8 @@
       "label": "Eric Dover",
       "detail": "Eric Dover 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "slash-s-blues-ball",
@@ -136,7 +156,8 @@
       "label": "Johnny Griparic",
       "detail": "Johnny Griparic 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -6,7 +6,10 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "嘻哈音樂",
+    "节奏布鲁斯"
+  ],
   "albums": [
     {
       "title": "Destiny’s Child",
@@ -31,6 +34,40 @@
   ],
   "intro": "天命真女是美国女子音乐组合，最终成员包括碧昂丝·诺尔斯、凯莉·罗兰和米歇尔·威廉姆斯。她们的音乐生涯始于1990年在得克萨斯州休斯敦成立的Girl's Tyme。",
   "introLang": "zh",
+  "tracks": [
+    "Say My Name",
+    "サヴァイヴァー",
+    "独立女人",
+    "ビルズ、ビルズ、ビルズ",
+    "ブーティリシャス"
+  ],
+  "trackSources": [
+    {
+      "title": "Say My Name"
+    },
+    {
+      "title": "サヴァイヴァー"
+    },
+    {
+      "title": "独立女人"
+    },
+    {
+      "title": "ビルズ、ビルズ、ビルズ"
+    },
+    {
+      "title": "ブーティリシャス"
+    }
+  ],
+  "listens": 187601,
+  "listeners": 10052,
+  "quality": {
+    "score": 81,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a796b92e-c137-4895-9c89-10f900617a4f"
@@ -45,7 +82,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

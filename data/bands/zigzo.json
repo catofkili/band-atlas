@@ -6,7 +6,10 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "1999–2002",
-  "genres": [],
+  "genres": [
+    "另类摇滚",
+    "摇滚乐"
+  ],
   "albums": [
     {
       "title": "Monster Music",
@@ -35,6 +38,16 @@
   ],
   "intro": "ZIGZO是一支日本摇滚乐队。该乐队由前MALICE MIZER、BY-SEXUAL和L'Arc〜en〜Ciel的成员组成。",
   "introLang": "zh",
+  "listens": 910,
+  "listeners": 119,
+  "quality": {
+    "score": 65,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4a12be29-98cf-440d-a686-a8a8831bee1b"
@@ -49,7 +62,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gibkiy-gibkiy-gibkiy",
@@ -60,7 +74,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2016,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rayflower",
@@ -71,7 +86,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lion-heads",
@@ -82,7 +98,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-madcap-laughs",
@@ -93,7 +110,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sons-of-all-pussys",
@@ -104,7 +122,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

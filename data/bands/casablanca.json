@@ -21,8 +21,18 @@
       "year": 2020
     }
   ],
-  "intro": "Casablanca是一支来自日本的音乐团体。",
+  "intro": "Casablanca是一支来自日本的音乐团体。目前资料收录了《Another Story》、《BREAK AN IMAGE》等作品；MusicBrainz 还记录了它与the pillows、THE PREDATORS、さわおとしおり之间的成员往来。",
   "introLang": "zh",
+  "listens": 171,
+  "listeners": 6,
+  "quality": {
+    "score": 12,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a4bb1de2-1ff0-454d-a42c-e846a8538343"
@@ -37,7 +47,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-predators",
@@ -48,7 +59,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "さわおとしおり",
@@ -59,7 +71,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "山中さわお-elpis",
@@ -70,7 +83,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spiky-brothers",
@@ -81,7 +95,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "さわおとケンジ",
@@ -92,7 +107,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ヨーコとさわお",
@@ -103,7 +119,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

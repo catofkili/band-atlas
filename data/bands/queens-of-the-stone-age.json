@@ -9,7 +9,9 @@
   "genres": [
     "迷幻摇滚",
     "硬摇滚",
-    "另类摇滚"
+    "另类摇滚",
+    "硬式搖滾",
+    "迷幻金屬"
   ],
   "albums": [
     {
@@ -39,6 +41,40 @@
   ],
   "intro": "石器时代女王是一个美国的摇滚乐队，成立于1996年的西雅图，由主唱和吉他手Josh Homme领衔，他是乐队唯一的常驻成员。",
   "introLang": "zh",
+  "tracks": [
+    "ノー・ワン・ノウズ",
+    "Make It wit Chu",
+    "3's & 7's",
+    "Little Sister",
+    "Sick, Sick, Sick"
+  ],
+  "trackSources": [
+    {
+      "title": "ノー・ワン・ノウズ"
+    },
+    {
+      "title": "Make It wit Chu"
+    },
+    {
+      "title": "3's & 7's"
+    },
+    {
+      "title": "Little Sister"
+    },
+    {
+      "title": "Sick, Sick, Sick"
+    }
+  ],
+  "listens": 2128568,
+  "listeners": 17228,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7dc8f5bd-9d0b-4087-9f73-dc164950bbd8"
@@ -53,7 +89,8 @@
       "label": "Josh Homme・Dave Catching・Mark Lanegan・Joey Castillo・Troy Van Leeuwen・Alain Johannes",
       "detail": "6 位乐手在这两支乐队都待过：Josh Homme・Dave Catching・Mark Lanegan・Joey Castillo・Troy Van Leeuwen・Alain Johannes。",
       "year": 1997,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "eleven",
@@ -64,7 +101,8 @@
       "label": "Natasha Shneider・Alain Johannes",
       "detail": "2 位乐手在这两支乐队都待过：Natasha Shneider・Alain Johannes。",
       "year": 2005,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -75,7 +113,8 @@
       "label": "Josh Homme・Alain Johannes",
       "detail": "2 位乐手在这两支乐队都待过：Josh Homme・Alain Johannes。",
       "year": 1996,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-wedding-band",
@@ -86,7 +125,8 @@
       "label": "Joey Castillo・Jon Theodore",
       "detail": "2 位乐手在这两支乐队都待过：Joey Castillo・Jon Theodore。",
       "year": 2002,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -97,7 +137,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "redd-kross",
@@ -108,7 +149,8 @@
       "label": "Victor Indrizzo",
       "detail": "Victor Indrizzo 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "samiam",
@@ -119,7 +161,8 @@
       "label": "Victor Indrizzo",
       "detail": "Victor Indrizzo 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "soundgarden",
@@ -130,7 +173,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-mars-volta",
@@ -141,7 +185,8 @@
       "label": "Jon Theodore",
       "detail": "Jon Theodore 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "a-perfect-circle",
@@ -152,7 +197,8 @@
       "label": "Troy Van Leeuwen",
       "detail": "Troy Van Leeuwen 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "3rd-secret",
@@ -163,7 +209,22 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "the-strokes",
+      "toName": "The Strokes",
+      "toArea": "纽约",
+      "toYears": "1998–",
+      "type": "guest",
+      "label": "客串：Josh Homme",
+      "detail": "MusicBrainz 录音资料显示，Josh Homme参与了《Mercy Mercy Me (The Ecology)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/5b49bc0c-539d-4e3f-8afc-907c8fc6217d"
+      ]
     },
     {
       "to": "the-tater-totz",
@@ -174,7 +235,8 @@
       "label": "Victor Indrizzo",
       "detail": "Victor Indrizzo 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zilch",
@@ -185,7 +247,8 @@
       "label": "Joey Castillo",
       "detail": "Joey Castillo 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spinnerette",
@@ -196,7 +259,8 @@
       "label": "Alain Johannes",
       "detail": "Alain Johannes 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "them-crooked-vultures",
@@ -207,7 +271,8 @@
       "label": "Josh Homme",
       "detail": "Josh Homme 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "what-is-this",
@@ -218,7 +283,8 @@
       "label": "Alain Johannes",
       "detail": "Alain Johannes 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mc50",
@@ -229,7 +295,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nighttime-boogie-association",
@@ -240,7 +307,22 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "spinnerette",
+      "toName": "Spinnerette",
+      "toArea": "洛杉矶",
+      "toYears": "2007–",
+      "type": "guest",
+      "label": "客串：Brody Dalle",
+      "detail": "MusicBrainz 录音资料显示，Brody Dalle参与了《“You Got a Killer Scene There, Man…”》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/33e39752-94a1-42c9-975e-843e65712ef2"
+      ]
     },
     {
       "to": "gown",
@@ -251,7 +333,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

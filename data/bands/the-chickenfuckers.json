@@ -8,8 +8,18 @@
   "years": "1984–1984",
   "genres": [],
   "albums": [],
-  "intro": "The Chickenfuckers是一支来自旧金山的音乐团体，活跃时期为1984–1984。",
+  "intro": "The Chickenfuckers是一支来自旧金山的音乐团体，活跃时期为1984–1984。MusicBrainz 还记录了它与EZ-Street、Black Sabbath、Metallica之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8322b08d-24a4-4716-8951-b5cd8b14b338"
@@ -24,7 +34,8 @@
       "label": "Cliff Burton・Mike Bordin",
       "detail": "2 位乐手在这两支乐队都待过：Cliff Burton・Mike Bordin。",
       "year": 1984,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "black-sabbath",
@@ -35,7 +46,8 @@
       "label": "Mike Bordin",
       "detail": "Mike Bordin 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "metallica",
@@ -46,7 +58,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "trauma",
@@ -57,7 +70,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "agents-of-misfortune",
@@ -68,7 +82,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fart-sandwich-posse",
@@ -79,7 +94,8 @@
       "label": "Mike Bordin",
       "detail": "Mike Bordin 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "maxwell-house-ranch-band",
@@ -90,7 +106,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mc50",
@@ -101,7 +118,8 @@
       "label": "Billy Gould",
       "detail": "Billy Gould 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spastik-children",
@@ -112,7 +130,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "vicious-hatred",
@@ -123,7 +142,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,11 +9,33 @@
   "genres": [
     "经典摇滚",
     "硬摇滚",
-    "摇滚"
+    "摇滚",
+    "摇滚乐",
+    "前衛搖滾",
+    "藍調搖滾",
+    "迷幻搖滾"
   ],
   "albums": [],
   "intro": "Smile是英国伦敦的一支蓝调摇滚乐队，著名的皇后乐队前身。该乐队于1968年由后来的皇后乐队吉他手布莱恩·梅所组建。其他成员包括主唱和贝斯手蒂姆·史塔菲，和之后加入的鼓手罗杰·泰勒。",
   "introLang": "zh",
+  "tracks": [
+    "Earth"
+  ],
+  "trackSources": [
+    {
+      "title": "Earth"
+    }
+  ],
+  "listens": 3595,
+  "listeners": 1028,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/41337bb4-2ca9-42a9-8409-daf0081f004e"
@@ -28,7 +50,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-cross",
@@ -39,7 +62,22 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "伯明翰",
+      "toYears": "1968–2025",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
     },
     {
       "to": "queen-paul-rodgers",
@@ -50,7 +88,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "1984",
@@ -61,7 +100,8 @@
       "label": "Tim Staffell",
       "detail": "Tim Staffell 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "band-aid-30",
@@ -72,7 +112,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hale-pace-and-the-stonkers",
@@ -83,7 +124,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queen-adam-lambert",
@@ -94,7 +136,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

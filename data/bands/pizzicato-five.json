@@ -9,7 +9,13 @@
   "genres": [
     "独立流行乐",
     "涩谷系",
-    "舞曲"
+    "舞曲",
+    "浩室音樂",
+    "日本流行音樂",
+    "酸爵士",
+    "獨立流行",
+    "當代節奏藍調",
+    "澀谷系"
   ],
   "albums": [
     {
@@ -39,6 +45,40 @@
   ],
   "intro": "Pizzicato Five是一支活跃于1984年至2001年的日本音乐组合。1984年至1987年期间，其名称写作PIZZICATO V。",
   "introLang": "zh",
+  "tracks": [
+    "PORNO 3003",
+    "SWEET SOUL REVUE",
+    "カップルズep",
+    "スーパースター",
+    "ハッピー・サッド"
+  ],
+  "trackSources": [
+    {
+      "title": "PORNO 3003"
+    },
+    {
+      "title": "SWEET SOUL REVUE"
+    },
+    {
+      "title": "カップルズep"
+    },
+    {
+      "title": "スーパースター"
+    },
+    {
+      "title": "ハッピー・サッド"
+    }
+  ],
+  "listens": 65286,
+  "listeners": 1793,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1bbb60c9-6b1b-4bb1-a442-2b669436b50e"
@@ -53,7 +93,8 @@
       "label": "田島貴男",
       "detail": "田島貴男 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ロケットマン",
@@ -64,7 +105,8 @@
       "label": "小西康陽",
       "detail": "小西康陽 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "portable-rock",
@@ -75,7 +117,8 @@
       "label": "野宮真貴",
       "detail": "野宮真貴 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "高浪慶太郎となんがさきふぁいぶ",
@@ -86,7 +129,8 @@
       "label": "高浪慶太郎",
       "detail": "高浪慶太郎 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "wink-music-service",
@@ -97,7 +141,8 @@
       "label": "高浪慶太郎",
       "detail": "高浪慶太郎 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "young-odeon",
@@ -108,7 +153,8 @@
       "label": "小西康陽",
       "detail": "小西康陽 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

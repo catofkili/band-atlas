@@ -6,7 +6,9 @@
   "countryCode": "GB",
   "country": "英国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "独立摇滚"
+  ],
   "albums": [
     {
       "title": "Better Than Heavy",
@@ -15,6 +17,16 @@
   ],
   "intro": "Mongrel是一支成立于2008年的英国超级乐队，由前Arctic Monkeys贝斯手安迪·尼科尔森（Andy Nicholson）创立。",
   "introLang": "zh",
+  "listens": 1011,
+  "listeners": 133,
+  "quality": {
+    "score": 60,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/496f3f84-b42f-470e-9358-9e2c047b0335"
@@ -29,7 +41,8 @@
       "label": "Andy Nicholson・Jon McClure・Joe Moskow",
       "detail": "3 位乐手在这两支乐队都待过：Andy Nicholson・Jon McClure・Joe Moskow。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "arctic-monkeys",
@@ -40,7 +53,8 @@
       "label": "Andy Nicholson・Matt Helders",
       "detail": "2 位乐手在这两支乐队都待过：Andy Nicholson・Matt Helders。",
       "year": 2002,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "diddy-dirty-money",
@@ -51,7 +65,8 @@
       "label": "Matt Helders",
       "detail": "Matt Helders 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-bottletop-band",
@@ -62,7 +77,8 @@
       "label": "Andy Nicholson",
       "detail": "Andy Nicholson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lords-of-flatbush",
@@ -73,7 +89,8 @@
       "label": "Andy Nicholson",
       "detail": "Andy Nicholson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sticky-blood",
@@ -84,7 +101,8 @@
       "label": "Andy Nicholson",
       "detail": "Andy Nicholson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-justice-collective",
@@ -95,7 +113,8 @@
       "label": "Jon McClure",
       "detail": "Jon McClure 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

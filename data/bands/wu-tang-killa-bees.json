@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "嘻哈"
+  ],
   "albums": [
     {
       "title": "The Sting",
@@ -21,8 +23,18 @@
       "year": 2022
     }
   ],
-  "intro": "Wu‐Tang Killa Bees是一支来自美国的音乐团体。",
+  "intro": "Wu‐Tang Killa Bees是一支来自美国的音乐团体，现有资料记录的主要风格包括嘻哈。目前资料收录了《The Sting》、《Tha Wu-Tape Special Edition》等作品；MusicBrainz 还记录了它与AcHoZeN之间的成员往来。",
   "introLang": "zh",
+  "listens": 2222,
+  "listeners": 246,
+  "quality": {
+    "score": 15,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/244f660e-5e68-47d7-8184-46dc204ee326"
@@ -37,7 +49,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

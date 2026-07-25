@@ -8,7 +8,12 @@
   "years": "1999–",
   "genres": [
     "另类摇滚",
-    "电子音乐"
+    "电子音乐",
+    "電子音樂",
+    "嘻哈音樂",
+    "独立摇滚",
+    "電子流行音樂",
+    "神游舞曲"
   ],
   "albums": [
     {
@@ -38,11 +43,92 @@
   ],
   "intro": "街头霸王是一支虚拟乐团，由四个虚拟动画角色组成，分别是：阿D、小面、洛胖、魔头。 乐团是由英国模糊主唱—戴蒙·亚邦和漫画家吉米·何力特共同创造。",
   "introLang": "zh",
+  "tracks": [
+    "快樂企業",
+    "Clint Eastwood (歌曲)",
+    "19-2000",
+    "On Melancholy Hill",
+    "Rock the House"
+  ],
+  "trackSources": [
+    {
+      "title": "快樂企業"
+    },
+    {
+      "title": "Clint Eastwood (歌曲)"
+    },
+    {
+      "title": "19-2000"
+    },
+    {
+      "title": "On Melancholy Hill"
+    },
+    {
+      "title": "Rock the House"
+    }
+  ],
+  "listens": 3445526,
+  "listeners": 27666,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"
   },
   "edges": [
+    {
+      "to": "blur",
+      "toName": "Blur",
+      "toArea": "伦敦",
+      "toYears": "1988–",
+      "type": "guest",
+      "label": "客串：Damon Albarn",
+      "detail": "MusicBrainz 录音资料显示，Damon Albarn参与了《5/4》、《19-2000》、《Tomorrow Comes Today》等录音。",
+      "year": null,
+      "weight": 0.74,
+      "sources": [
+        "https://musicbrainz.org/recording/0bce478e-ff71-41ba-bb7b-310910d11cde",
+        "https://musicbrainz.org/recording/b766a7b6-5b8f-4805-ae83-420231c0ec76",
+        "https://musicbrainz.org/recording/8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0"
+      ]
+    },
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "guest",
+      "label": "客串：Noel Gallagher",
+      "detail": "MusicBrainz 录音资料显示，Noel Gallagher参与了《We Got the Power》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/10709c0b-9352-4d03-8c90-2b6f825c7072"
+      ]
+    },
+    {
+      "to": "the-good-the-bad-the-queen",
+      "toName": "The Good, the Bad & the Queen",
+      "toArea": "伦敦",
+      "toYears": "2006–2019",
+      "type": "guest",
+      "label": "客串：Damon Albarn、Simon Tong",
+      "detail": "MusicBrainz 录音资料显示，Damon Albarn、Simon Tong参与了《5/4》、《19-2000》、《Tomorrow Comes Today》、《Glitter Freeze》等录音。",
+      "year": null,
+      "weight": 0.78,
+      "sources": [
+        "https://musicbrainz.org/recording/0bce478e-ff71-41ba-bb7b-310910d11cde",
+        "https://musicbrainz.org/recording/b766a7b6-5b8f-4805-ae83-420231c0ec76",
+        "https://musicbrainz.org/recording/8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0",
+        "https://musicbrainz.org/recording/00eb9af1-4290-401f-bfd8-cbee5bd6f519"
+      ]
+    },
     {
       "to": "jamiroquai",
       "toName": "Jamiroquai",
@@ -52,7 +138,116 @@
       "label": "DJ D-Zire",
       "detail": "DJ D-Zire 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "monkey",
+      "toName": "Monkey",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Damon Albarn",
+      "detail": "MusicBrainz 录音资料显示，Damon Albarn参与了《5/4》、《19-2000》、《Tomorrow Comes Today》等录音。",
+      "year": null,
+      "weight": 0.74,
+      "sources": [
+        "https://musicbrainz.org/recording/0bce478e-ff71-41ba-bb7b-310910d11cde",
+        "https://musicbrainz.org/recording/b766a7b6-5b8f-4805-ae83-420231c0ec76",
+        "https://musicbrainz.org/recording/8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0"
+      ]
+    },
+    {
+      "to": "rocket-juice-the-moon",
+      "toName": "Rocket Juice & the Moon",
+      "toArea": "英国",
+      "toYears": "2008–",
+      "type": "guest",
+      "label": "客串：Damon Albarn",
+      "detail": "MusicBrainz 录音资料显示，Damon Albarn参与了《5/4》、《19-2000》、《Tomorrow Comes Today》等录音。",
+      "year": null,
+      "weight": 0.74,
+      "sources": [
+        "https://musicbrainz.org/recording/0bce478e-ff71-41ba-bb7b-310910d11cde",
+        "https://musicbrainz.org/recording/b766a7b6-5b8f-4805-ae83-420231c0ec76",
+        "https://musicbrainz.org/recording/8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0"
+      ]
+    },
+    {
+      "to": "daft-punk",
+      "toName": "Daft Punk",
+      "toArea": "巴黎",
+      "toYears": "1993–2021",
+      "type": "guest",
+      "label": "客串：Gorillaz",
+      "detail": "MusicBrainz 录音资料显示，Gorillaz参与了《19-2000 Funk》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/370df5fd-1bb3-449c-b82c-ebae9092eefd"
+      ]
+    },
+    {
+      "to": "electric-wave-bureau",
+      "toName": "Electric Wave Bureau",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Damon Albarn",
+      "detail": "MusicBrainz 录音资料显示，Damon Albarn参与了《5/4》、《19-2000》、《Tomorrow Comes Today》等录音。",
+      "year": null,
+      "weight": 0.74,
+      "sources": [
+        "https://musicbrainz.org/recording/0bce478e-ff71-41ba-bb7b-310910d11cde",
+        "https://musicbrainz.org/recording/b766a7b6-5b8f-4805-ae83-420231c0ec76",
+        "https://musicbrainz.org/recording/8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0"
+      ]
+    },
+    {
+      "to": "noel-gallagher-s-high-flying-birds",
+      "toName": "Noel Gallagher’s High Flying Birds",
+      "toArea": "曼彻斯特",
+      "toYears": "2011–",
+      "type": "guest",
+      "label": "客串：Noel Gallagher",
+      "detail": "MusicBrainz 录音资料显示，Noel Gallagher参与了《We Got the Power》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/10709c0b-9352-4d03-8c90-2b6f825c7072"
+      ]
+    },
+    {
+      "to": "seymour",
+      "toName": "Seymour",
+      "toArea": "科尔切斯特",
+      "toYears": "1989–1990",
+      "type": "guest",
+      "label": "客串：Damon Albarn",
+      "detail": "MusicBrainz 录音资料显示，Damon Albarn参与了《5/4》、《19-2000》、《Tomorrow Comes Today》等录音。",
+      "year": null,
+      "weight": 0.74,
+      "sources": [
+        "https://musicbrainz.org/recording/0bce478e-ff71-41ba-bb7b-310910d11cde",
+        "https://musicbrainz.org/recording/b766a7b6-5b8f-4805-ae83-420231c0ec76",
+        "https://musicbrainz.org/recording/8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0"
+      ]
+    },
+    {
+      "to": "the-heavy-seas",
+      "toName": "The Heavy Seas",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Damon Albarn",
+      "detail": "MusicBrainz 录音资料显示，Damon Albarn参与了《5/4》、《19-2000》、《Tomorrow Comes Today》等录音。",
+      "year": null,
+      "weight": 0.74,
+      "sources": [
+        "https://musicbrainz.org/recording/0bce478e-ff71-41ba-bb7b-310910d11cde",
+        "https://musicbrainz.org/recording/b766a7b6-5b8f-4805-ae83-420231c0ec76",
+        "https://musicbrainz.org/recording/8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0"
+      ]
     },
     {
       "to": "jc-001-dj-d-zire",
@@ -63,7 +258,8 @@
       "label": "DJ D-Zire",
       "detail": "DJ D-Zire 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spacemonkeyz",
@@ -74,7 +270,65 @@
       "label": "DJ D-Zire",
       "detail": "DJ D-Zire 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "spacemonkeyz",
+      "toName": "Spacemonkeyz",
+      "toArea": "英国",
+      "toYears": "2002–",
+      "type": "guest",
+      "label": "客串：Spacemonkeyz",
+      "detail": "MusicBrainz 录音资料显示，Spacemonkeyz参与了《5/4 (P.45)》、《Tomorrow Comes Today (Bañana Baby)》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/4484f02e-683c-4330-997d-77400870f5c7",
+        "https://musicbrainz.org/recording/124c4436-5836-47b7-aa17-3eb8616fac4e"
+      ]
+    },
+    {
+      "to": "tailgunner",
+      "toName": "Tailgunner",
+      "toArea": "英国",
+      "toYears": "2000–",
+      "type": "guest",
+      "label": "客串：Noel Gallagher",
+      "detail": "MusicBrainz 录音资料显示，Noel Gallagher参与了《We Got the Power》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/10709c0b-9352-4d03-8c90-2b6f825c7072"
+      ]
+    },
+    {
+      "to": "mick-fleetwood-and-friends",
+      "toName": "Mick Fleetwood and Friends",
+      "toArea": null,
+      "toYears": "2020–2020",
+      "type": "guest",
+      "label": "客串：Noel Gallagher",
+      "detail": "MusicBrainz 录音资料显示，Noel Gallagher参与了《We Got the Power》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/10709c0b-9352-4d03-8c90-2b6f825c7072"
+      ]
+    },
+    {
+      "to": "the-justice-collective",
+      "toName": "The Justice Collective",
+      "toArea": "英国",
+      "toYears": "2012–",
+      "type": "guest",
+      "label": "客串：Mick Jones",
+      "detail": "MusicBrainz 录音资料显示，Mick Jones参与了《Hillbilly Man》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/c6f91ebe-f9ff-4afc-88db-1144f0207ae1"
+      ]
     }
   ]
 }

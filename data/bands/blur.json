@@ -8,7 +8,11 @@
   "years": "1988–",
   "genres": [
     "英伦摇滚",
-    "另类摇滚"
+    "另类摇滚",
+    "独立摇滚",
+    "艺术摇滚",
+    "流行搖滾",
+    "低傳真音樂"
   ],
   "albums": [
     {
@@ -36,6 +40,16 @@
     "Coffee & TV",
     "Parklife"
   ],
+  "listens": 1188306,
+  "listeners": 18811,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ba853904-ae25-4ebb-89d6-c44cfbd71bd2"
@@ -50,7 +64,8 @@
       "label": "英伦摇滚之战",
       "detail": "1995 年 8 月的同日发行单曲对决，是英国流行乐史上被讨论最多的一次乐队对立。",
       "year": 1995,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "seymour",
@@ -61,7 +76,24 @@
       "label": "Damon Albarn・Graham Coxon・Alex James・Dave Rowntree",
       "detail": "4 位乐手在这两支乐队都待过：Damon Albarn・Graham Coxon・Alex James・Dave Rowntree。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
+    },
+    {
+      "to": "gorillaz",
+      "toName": "Gorillaz",
+      "toArea": "埃塞克斯",
+      "toYears": "1999–",
+      "type": "guest",
+      "label": "客串：Damon Albarn",
+      "detail": "MusicBrainz 录音资料显示，Damon Albarn参与了《5/4》、《19-2000》、《Tomorrow Comes Today》等录音。",
+      "year": null,
+      "weight": 0.74,
+      "sources": [
+        "https://musicbrainz.org/recording/0bce478e-ff71-41ba-bb7b-310910d11cde",
+        "https://musicbrainz.org/recording/b766a7b6-5b8f-4805-ae83-420231c0ec76",
+        "https://musicbrainz.org/recording/8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0"
+      ]
     },
     {
       "to": "the-good-the-bad-the-queen",
@@ -72,7 +104,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-waeve",
@@ -83,7 +116,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "monkey",
@@ -94,7 +128,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rocket-juice-the-moon",
@@ -105,7 +140,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jaded-hearts-club",
@@ -116,7 +152,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "electric-wave-bureau",
@@ -127,7 +164,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fat-les",
@@ -138,7 +176,8 @@
       "label": "Alex James",
       "detail": "Alex James 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "me-me-me",
@@ -149,7 +188,8 @@
       "label": "Alex James",
       "detail": "Alex James 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-ailerons",
@@ -160,7 +200,8 @@
       "label": "Dave Rowntree",
       "detail": "Dave Rowntree 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-heavy-seas",
@@ -171,7 +212,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-special-assembly",
@@ -182,7 +224,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "wigwam",
@@ -193,7 +236,8 @@
       "label": "Alex James",
       "detail": "Alex James 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

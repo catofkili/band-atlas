@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Butterfly Launches From Spar Pole是一支音乐团体。",
+  "intro": "Butterfly Launches From Spar Pole是一支音乐团体。MusicBrainz 还记录了它与Giants in the Trees之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1e33e92d-956e-4623-8b19-96f2cfdbd559"
@@ -24,7 +34,8 @@
       "label": "Ray Prestegard",
       "detail": "Ray Prestegard 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

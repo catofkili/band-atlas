@@ -13,8 +13,18 @@
       "year": 2005
     }
   ],
-  "intro": "nearLY是一支来自洛杉矶的音乐团体，活跃时期为1999–。",
+  "intro": "nearLY是一支来自洛杉矶的音乐团体，活跃时期为1999–。目前资料收录了《Reminder》等作品；MusicBrainz 还记录了它与Nine Inch Nails、12 Rounds、Howlin’ Maggie之间的成员往来。",
   "introLang": "zh",
+  "listens": 649,
+  "listeners": 69,
+  "quality": {
+    "score": 11,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ef6acfcb-2c12-419d-bfcf-4ffaac9f3e8d"
@@ -29,7 +39,8 @@
       "label": "Keith Hillebrandt・Jerome Dillon",
       "detail": "2 位乐手在这两支乐队都待过：Keith Hillebrandt・Jerome Dillon。",
       "year": 1997,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "12-rounds",
@@ -40,7 +51,8 @@
       "label": "Claudia Sarne",
       "detail": "Claudia Sarne 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "howlin-maggie",
@@ -51,7 +63,8 @@
       "label": "Jerome Dillon",
       "detail": "Jerome Dillon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-backbeat-band",
@@ -62,7 +75,8 @@
       "label": "Greg Dulli",
       "detail": "Greg Dulli 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-buddha-boys-choir",
@@ -73,7 +87,8 @@
       "label": "Keith Hillebrandt",
       "detail": "Keith Hillebrandt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

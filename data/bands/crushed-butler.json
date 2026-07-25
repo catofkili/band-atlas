@@ -12,6 +12,16 @@
   "albums": [],
   "intro": "Crushed Butler 是一支活跃于 1969 年至 1971 年的英国摇滚乐队。",
   "introLang": "zh",
+  "listens": 268,
+  "listeners": 86,
+  "quality": {
+    "score": 49,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/715c3816-4ae5-46d3-8c25-62438e289d25"
@@ -26,7 +36,8 @@
       "label": "Barry Mitchell",
       "detail": "Barry Mitchell 在这两支乐队都待过。",
       "year": 1970,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-earth",
@@ -37,7 +48,8 @@
       "label": "Barry Mitchell",
       "detail": "Barry Mitchell 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

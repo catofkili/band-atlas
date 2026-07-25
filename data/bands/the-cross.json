@@ -9,7 +9,8 @@
   "genres": [
     "舞曲摇滚",
     "硬摇滚",
-    "流行摇滚"
+    "流行摇滚",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -27,6 +28,24 @@
   ],
   "intro": "The Cross是皇后乐队鼓手罗杰·泰勒的个人项目。该乐队活跃于1987年至1993年间，期间发行了3张专辑。",
   "introLang": "zh",
+  "tracks": [
+    "每個人的天堂"
+  ],
+  "trackSources": [
+    {
+      "title": "每個人的天堂"
+    }
+  ],
+  "listens": 4932,
+  "listeners": 208,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5b9aa76f-bf0f-41ff-8986-fd0401c18bb4"
@@ -41,7 +60,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1970,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queen-paul-rodgers",
@@ -52,7 +72,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "band-aid-30",
@@ -63,7 +84,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hale-pace-and-the-stonkers",
@@ -74,7 +96,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queen-adam-lambert",
@@ -85,7 +108,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "smile",
@@ -96,7 +120,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-brian-may-band",
@@ -107,7 +132,8 @@
       "label": "Spike Edney",
       "detail": "Spike Edney 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,9 @@
   "genres": [
     "流行朋克",
     "另类摇滚",
-    "流行摇滚"
+    "流行摇滚",
+    "流行搖滾",
+    "情緒流行"
   ],
   "albums": [
     {
@@ -39,6 +41,40 @@
   ],
   "intro": "打倒男孩是一支流行朋克、另类摇滚曲风的乐团，他们来自美国伊利诺伊州的芝加哥，在2001年组成。乐团成员包括派崔克·史坦普、彼特·温兹乔·特洛曼、安迪·赫里。",
   "introLang": "zh",
+  "tracks": [
+    "Thnks fr th Mmrs",
+    "シュガー、ウィアー・ゴーイン・ダウン",
+    "ダンス、ダンス",
+    "My Songs Know What You Did in the Dark",
+    "This Ain't a Scene, It's an Arms Race"
+  ],
+  "trackSources": [
+    {
+      "title": "Thnks fr th Mmrs"
+    },
+    {
+      "title": "シュガー、ウィアー・ゴーイン・ダウン"
+    },
+    {
+      "title": "ダンス、ダンス"
+    },
+    {
+      "title": "My Songs Know What You Did in the Dark"
+    },
+    {
+      "title": "This Ain't a Scene, It's an Arms Race"
+    }
+  ],
+  "listens": 2057940,
+  "listeners": 20174,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/516cef4d-0718-4007-9939-f9b38af3f784"
@@ -53,7 +89,8 @@
       "label": "影响关系",
       "detail": "Fall Out Boy 受 blink‐182 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "green-day",
@@ -64,7 +101,8 @@
       "label": "影响关系",
       "detail": "Fall Out Boy 受 Green Day 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-smiths",
@@ -75,7 +113,8 @@
       "label": "影响关系",
       "detail": "Fall Out Boy 受 The Smiths 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "weezer",
@@ -86,7 +125,8 @@
       "label": "影响关系",
       "detail": "Fall Out Boy 受 Weezer 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "sunny-day-real-estate",
@@ -97,7 +137,8 @@
       "label": "影响关系",
       "detail": "Fall Out Boy 受 Sunny Day Real Estate 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "rites-of-spring",
@@ -108,7 +149,8 @@
       "label": "影响关系",
       "detail": "Fall Out Boy 受 Rites of Spring 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

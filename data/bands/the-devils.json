@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Devils是一支来自韩国的音乐团体。",
+  "intro": "The Devils是一支来自韩国的音乐团体。MusicBrainz 还记录了它与3호선 버터플라이之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d45cb0dc-b795-4fb1-aec0-a469ae2f317b"
@@ -24,7 +34,23 @@
       "label": "손경호",
       "detail": "손경호 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "huckleberry-finn",
+      "toName": "Huckleberry Finn",
+      "toArea": "韩国",
+      "toYears": "1997–",
+      "type": "guest",
+      "label": "客串：차승우",
+      "detail": "MusicBrainz 录音资料显示，차승우参与了《A ('09 봄의 피로)》、《내달리는 사람들 ('09 봄의 피로)》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/ae33a5fa-850b-4586-9148-5b80715c554a",
+        "https://musicbrainz.org/recording/bc4adebf-686c-4e76-be1d-22390abce361"
+      ]
     }
   ]
 }

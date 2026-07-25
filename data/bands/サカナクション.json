@@ -8,7 +8,12 @@
   "years": "2005–",
   "genres": [
     "另类摇滚",
-    "摇滚"
+    "摇滚",
+    "摇滚乐",
+    "日本流行音樂",
+    "独立摇滚",
+    "新浪潮",
+    "電聲音樂"
   ],
   "albums": [
     {
@@ -38,6 +43,40 @@
   ],
   "intro": "鱼韵是日本摇滚乐团，2005年于北海道札幌市结合而成。其乐风综合了另类摇滚、电子音乐、新浪潮、Pop等等，很难将其归类为其中之一。",
   "introLang": "zh",
+  "tracks": [
+    "怪兽",
+    "Identity (魚韻單曲)",
+    "四处游走",
+    "我与花",
+    "『バッハの旋律を夜に聴いたせいです。』"
+  ],
+  "trackSources": [
+    {
+      "title": "怪兽"
+    },
+    {
+      "title": "Identity (魚韻單曲)"
+    },
+    {
+      "title": "四处游走"
+    },
+    {
+      "title": "我与花"
+    },
+    {
+      "title": "『バッハの旋律を夜に聴いたせいです。』"
+    }
+  ],
+  "listens": 84389,
+  "listeners": 1714,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/01830cc1-8a04-4dfb-9e4a-d557dfda6a93"
@@ -52,7 +91,8 @@
       "label": "岩寺基晴・山口一郎",
       "detail": "2 位乐手在这两支乐队都待过：岩寺基晴・山口一郎。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

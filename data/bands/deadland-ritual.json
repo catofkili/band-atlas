@@ -3,16 +3,28 @@
   "mbid": "8da60c20-2608-4113-921d-72ffd22ef953",
   "name": "Deadland Ritual",
   "area": "伦敦",
-  "countryCode": null,
+  "countryCode": "US",
   "country": null,
   "years": "2018–",
   "genres": [
-    "硬摇滚"
+    "硬摇滚",
+    "硬式搖滾"
   ],
   "albums": [],
   "intro": "Deadland Ritual是一支英美硬摇滚超级乐队，最初于2018年在洛杉矶成立，该乐队由主唱弗兰基·佩雷斯（Franky Perez，曾效力于Apocalyptica）、吉他手史蒂夫·史蒂文斯 （曾效力于比利·艾多尔、迈克尔·杰克逊乐队）、贝斯手吉泽·巴特勒（曾效力于黑色安息日、天堂与地狱）以及鼓手马特·索鲁姆（曾效力于邪教乐队、枪与玫瑰、天鹅绒革命等众多乐队）组成的超级乐队。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 522,
+  "listeners": 185,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 56,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8da60c20-2608-4113-921d-72ffd22ef953"
   },
@@ -26,7 +38,8 @@
       "label": "Geezer Butler",
       "detail": "Geezer Butler 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "daron-malakian-and-scars-on-broadway",
@@ -37,7 +50,8 @@
       "label": "Franky Perez",
       "detail": "Franky Perez 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "neurotic-outsiders",
@@ -48,7 +62,8 @@
       "label": "Steve Stevens",
       "detail": "Steve Stevens 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kings-of-chaos",
@@ -59,7 +74,8 @@
       "label": "Steve Stevens",
       "detail": "Steve Stevens 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

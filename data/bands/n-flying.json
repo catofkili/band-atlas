@@ -8,7 +8,8 @@
   "years": "2011–",
   "genres": [
     "流行摇滚",
-    "说唱摇滚"
+    "说唱摇滚",
+    "韓國流行音樂"
   ],
   "albums": [
     {
@@ -30,6 +31,24 @@
   ],
   "intro": "N.Flying是韩国FNC娱乐旗下的男子流行摇滚乐团，于2015年5月20日出道，最初由权光珍、李承协、车勋、金宰铉所组成，并由李承协担任队长。",
   "introLang": "zh",
+  "tracks": [
+    "Lonely"
+  ],
+  "trackSources": [
+    {
+      "title": "Lonely"
+    }
+  ],
+  "listens": 15253,
+  "listeners": 463,
+  "quality": {
+    "score": 75,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fb4eebc8-dc88-4770-84b2-462544cb33b9"
@@ -44,7 +63,8 @@
       "label": "권광진",
       "detail": "권광진 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -7,7 +7,8 @@
   "country": "日本",
   "years": "2010–2012",
   "genres": [
-    "视觉系"
+    "视觉系",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -17,6 +18,28 @@
   ],
   "intro": "YELLOW FRIED CHICKENz（黄炸鸡乐队）是日本的一支视觉系摇滚乐队。2010年3月由GACKT牵头组建。",
   "introLang": "zh",
+  "tracks": [
+    "ALL MY LOVE/YOU ARE THE REASON",
+    "THE END OF THE DAY"
+  ],
+  "trackSources": [
+    {
+      "title": "ALL MY LOVE/YOU ARE THE REASON"
+    },
+    {
+      "title": "THE END OF THE DAY"
+    }
+  ],
+  "listens": 369,
+  "listeners": 23,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2556d653-1faf-4b20-8691-185918bee70e"
@@ -31,7 +54,8 @@
       "label": "真矢",
       "detail": "真矢 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "toshi-with-t-earth",
@@ -42,7 +66,8 @@
       "label": "真矢",
       "detail": "真矢 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lunacy",
@@ -53,7 +78,8 @@
       "label": "真矢",
       "detail": "真矢 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "s-k-i-n",
@@ -64,7 +90,8 @@
       "label": "GACKT",
       "detail": "GACKT 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

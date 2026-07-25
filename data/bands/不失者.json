@@ -9,7 +9,8 @@
   "genres": [
     "实验摇滚",
     "噪音摇滚",
-    "迷幻摇滚"
+    "迷幻摇滚",
+    "太空摇滚"
   ],
   "albums": [
     {
@@ -39,6 +40,16 @@
   ],
   "intro": "Fushitsusha（不失者）是一支专注于实验摇滚和迷幻摇滚风格的日本摇滚乐队。",
   "introLang": "zh",
+  "listens": 3036,
+  "listeners": 234,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/19184fd0-fdff-4d80-aaf6-c196d7f21946"
@@ -53,7 +64,8 @@
       "label": "亀川千代",
       "detail": "亀川千代 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-stars",
@@ -64,7 +76,8 @@
       "label": "亀川千代",
       "detail": "亀川千代 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "galactic-abyss",
@@ -75,7 +88,8 @@
       "label": "亀川千代",
       "detail": "亀川千代 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -86,7 +100,8 @@
       "label": "灰野敬二",
       "detail": "灰野敬二 在这两支乐队都待过。",
       "year": 1978,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -6,7 +6,10 @@
   "countryCode": "GB",
   "country": "英国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "摇滚乐",
+    "前衛搖滾"
+  ],
   "albums": [
     {
       "title": "Official Bootleg, Volume One",
@@ -15,6 +18,16 @@
   ],
   "intro": "21st Century Schizoid Band 是一支来自英格兰的摇滚乐队。",
   "introLang": "zh",
+  "listens": 1032,
+  "listeners": 45,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ac200a8a-fbb0-4b0d-a592-5077feb4efb5"
@@ -29,7 +42,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

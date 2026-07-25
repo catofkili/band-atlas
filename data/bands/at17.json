@@ -8,7 +8,8 @@
   "years": "2002–2018",
   "genres": [
     "2000年代粤语流行乐团",
-    "2000年代 香港出道"
+    "2000年代 香港出道",
+    "電子音樂"
   ],
   "albums": [
     {
@@ -30,6 +31,16 @@
   ],
   "intro": "at17，香港创作女子音乐组合，成员为卢凯彤及林二汶。 二人各自组队参加“原音2000”歌唱比赛，私底下认识了并经常一起表演。",
   "introLang": "zh",
+  "listens": 2161,
+  "listeners": 94,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f5cbdc58-8664-4c42-85d1-fdf672346236"
@@ -44,7 +55,8 @@
       "label": "盧凱彤",
       "detail": "盧凱彤 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "3p",
@@ -55,7 +67,8 @@
       "label": "林二汶",
       "detail": "林二汶 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lam-family",
@@ -66,7 +79,8 @@
       "label": "林二汶",
       "detail": "林二汶 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

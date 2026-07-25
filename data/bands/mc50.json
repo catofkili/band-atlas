@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "MC50是一支来自美国的音乐团体。",
+  "intro": "MC50是一支来自美国的音乐团体。MusicBrainz 还记录了它与Soundgarden、3rd Secret、Pearl Jam之间的成员往来。",
   "introLang": "zh",
+  "listens": 38,
+  "listeners": 13,
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3255235c-ede0-40d7-b671-cdd7751e6d58"
@@ -24,7 +34,8 @@
       "label": "Matt Cameron・Kim Thayil",
       "detail": "2 位乐手在这两支乐队都待过：Matt Cameron・Kim Thayil。",
       "year": 1986,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "3rd-secret",
@@ -35,7 +46,8 @@
       "label": "Matt Cameron・Kim Thayil",
       "detail": "2 位乐手在这两支乐队都待过：Matt Cameron・Kim Thayil。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -46,7 +58,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queens-of-the-stone-age",
@@ -57,7 +70,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mad-for-the-racket",
@@ -68,7 +82,8 @@
       "label": "Wayne Kramer",
       "detail": "Wayne Kramer 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-a-m-f",
@@ -79,7 +94,8 @@
       "label": "Wayne Kramer",
       "detail": "Wayne Kramer 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nighttime-boogie-association",
@@ -90,7 +106,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-chickenfuckers",
@@ -101,7 +118,8 @@
       "label": "Billy Gould",
       "detail": "Billy Gould 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-no-w-t-o-combo",
@@ -112,7 +130,8 @@
       "label": "Kim Thayil",
       "detail": "Kim Thayil 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-wild-bunch",
@@ -123,7 +142,8 @@
       "label": "Wayne Kramer",
       "detail": "Wayne Kramer 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

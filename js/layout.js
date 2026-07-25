@@ -20,8 +20,7 @@ const TAU = Math.PI * 2;
 /** 邻居上限：窄屏边缘位置少，露出的卡片也要少。 */
 export function maxNeighbors(vw) {
   if (vw < 560) return 4;
-  if (vw < 900) return 5;
-  if (vw < 1400) return 7;
+  if (vw < 900) return 6;
   return 8;
 }
 
@@ -104,14 +103,33 @@ function angleDelta(a, b) {
  * @param {number} opts.vh
  * @returns {Array} 每项 { edge, angle, x, y, radius, side }
  */
-export function layoutNeighbors(focusId, edges, { cameFrom, backAngle, vw, vh }) {
+export function layoutNeighbors(focusId, edges, { cameFrom, backAngle, vw, vh, selectionSalt = 0 }) {
   const limit = maxNeighbors(vw);
 
-  // 取舍：权重降序截断，但来路乐队无论权重多低都必须留下（否则回不去）。
-  let picked = edges.slice(0, limit);
+  // 关系超出上限时，一半固定为构建期排好的最紧密关系，另一半从其余关系中
+  // 随机抽取，让枢纽乐队每次回来仍有新出口。来路乐队无论多冷门都必须留下。
+  let picked;
+  if (edges.length <= limit) {
+    picked = [...edges];
+  } else {
+    const fixedCount = Math.ceil(limit / 2);
+    const fixed = edges.slice(0, fixedCount);
+    const randomPool = edges.slice(fixedCount);
+    let randomState = hash32(`${focusId}::${selectionSalt}`) || 1;
+    const random = () => {
+      randomState = Math.imul(randomState ^ (randomState >>> 15), 1 | randomState);
+      randomState ^= randomState + Math.imul(randomState ^ (randomState >>> 7), 61 | randomState);
+      return ((randomState ^ (randomState >>> 14)) >>> 0) / 4294967296;
+    };
+    for (let index = randomPool.length - 1; index > 0; index -= 1) {
+      const swap = Math.floor(random() * (index + 1));
+      [randomPool[index], randomPool[swap]] = [randomPool[swap], randomPool[index]];
+    }
+    picked = [...fixed, ...randomPool.slice(0, limit - fixedCount)];
+  }
   if (cameFrom && !picked.some((e) => e.to === cameFrom)) {
     const back = edges.find((e) => e.to === cameFrom);
-    if (back) picked = [back, ...picked.slice(0, limit - 1)];
+    if (back) picked = [...picked.slice(0, limit - 1), back];
   }
 
   const points = slotPoints(focusId, picked.length, vw, vh);

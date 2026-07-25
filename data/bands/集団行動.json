@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2017–",
-  "genres": [],
+  "genres": [
+    "日本流行音樂"
+  ],
   "albums": [
     {
       "title": "集団行動",
@@ -23,6 +25,16 @@
   ],
   "intro": "“集体行动”是一支成立于2017年的日本乐队。所属厂牌是维克多娱乐旗下的CONNECTONE。",
   "introLang": "zh",
+  "listens": 1199,
+  "listeners": 38,
+  "quality": {
+    "score": 59,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/06a78b72-d4c2-4d15-9084-3d3fcf3c3d21"
@@ -37,7 +49,8 @@
       "label": "真部脩一・西浦謙助",
       "detail": "2 位乐手在这两支乐队都待过：真部脩一・西浦謙助。",
       "year": 2017,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "フォークデュオ",
@@ -48,7 +61,8 @@
       "label": "真部脩一・西浦謙助",
       "detail": "2 位乐手在这两支乐队都待过：真部脩一・西浦謙助。",
       "year": 2017,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "luminous-orange",
@@ -59,7 +73,8 @@
       "label": "西浦謙助",
       "detail": "西浦謙助 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "vampillia",
@@ -70,7 +85,8 @@
       "label": "真部脩一",
       "detail": "真部脩一 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "古都の夕べ",
@@ -81,7 +97,8 @@
       "label": "真部脩一",
       "detail": "真部脩一 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "violent-magic-orchestra",
@@ -92,7 +109,8 @@
       "label": "真部脩一",
       "detail": "真部脩一 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

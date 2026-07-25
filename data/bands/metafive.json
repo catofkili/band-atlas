@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2014–",
-  "genres": [],
+  "genres": [
+    "科技舞曲"
+  ],
   "albums": [
     {
       "title": "META",
@@ -19,6 +21,16 @@
   ],
   "intro": "METAFIVE是日本的一支超级乐队。2014年，作为仅限一夜的组合“高桥幸宏&METAFIVE”成立，2015年更名为METAFIVE。",
   "introLang": "zh",
+  "listens": 4572,
+  "listeners": 374,
+  "quality": {
+    "score": 59,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f6c979f4-bbad-43d3-95f6-9255a189f688"
@@ -33,7 +45,37 @@
       "label": "LEO今井・砂原良徳",
       "detail": "2 位乐手在这两支乐队都待过：LEO今井・砂原良徳。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "くるり",
+      "toName": "くるり",
+      "toArea": "京都",
+      "toYears": "1996–",
+      "type": "guest",
+      "label": "客串：権藤知彦",
+      "detail": "MusicBrainz 录音资料显示，権藤知彦参与了《There is (always light)》、《遥かなるリスボン》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/daa3cf6b-2290-4e45-9cd6-ed32039d7f6d",
+        "https://musicbrainz.org/recording/11f1def4-540e-4eb5-8fc8-5a45234ca40f"
+      ]
+    },
+    {
+      "to": "相対性理論",
+      "toName": "相対性理論",
+      "toArea": "东京",
+      "toYears": "2006–",
+      "type": "guest",
+      "label": "客串：小山田圭吾",
+      "detail": "MusicBrainz 录音资料显示，小山田圭吾参与了《QKMAC》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/0eeb6ba7-e844-43a3-8b63-466bfdb4471e"
+      ]
     },
     {
       "to": "pupa",
@@ -44,7 +86,8 @@
       "label": "権藤知彦",
       "detail": "権藤知彦 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "geisha-girls",
@@ -55,7 +98,8 @@
       "label": "TOWA TEI",
       "detail": "TOWA TEI 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kimonos",
@@ -66,7 +110,8 @@
       "label": "LEO今井",
       "detail": "LEO今井 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

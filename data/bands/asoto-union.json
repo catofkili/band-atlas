@@ -13,8 +13,18 @@
       "year": 2003
     }
   ],
-  "intro": "Asoto Union是一支来自韩国的音乐团体，活跃时期为2001–2005。",
+  "intro": "Asoto Union是一支来自韩国的音乐团体，活跃时期为2001–2005。目前资料收录了《Sound Renovates a Structure》等作品；MusicBrainz 还记录了它与Windy City、언니네 이발관、I and I Djangdan之间的成员往来。",
   "introLang": "zh",
+  "listens": 265,
+  "listeners": 48,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b71a2d29-d52f-4bd3-8311-1144837509ec"
@@ -29,7 +39,8 @@
       "label": "김반장・윤갑열",
       "detail": "2 位乐手在这两支乐队都待过：김반장・윤갑열。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "언니네-이발관",
@@ -40,7 +51,8 @@
       "label": "김반장",
       "detail": "김반장 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "i-and-i-djangdan",
@@ -51,7 +63,8 @@
       "label": "김반장",
       "detail": "김반장 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

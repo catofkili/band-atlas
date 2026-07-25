@@ -2,15 +2,36 @@
   "id": "the-brian-may-band",
   "mbid": "dfcf7b21-6f1d-417d-ac23-91e62aeea14a",
   "name": "The Brian May Band",
-  "area": null,
-  "countryCode": null,
+  "area": "英国",
+  "countryCode": "GB",
   "country": null,
   "years": "1991–1998",
-  "genres": [],
+  "genres": [
+    "摇滚乐"
+  ],
   "albums": [],
   "intro": "布莱恩·梅乐队（The Brian May Band）是一支以皇后乐队吉他手布莱恩·梅为核心的英国摇滚乐队。",
   "introLang": "zh",
-  "region": "unknown",
+  "tracks": [
+    "Resurrection"
+  ],
+  "trackSources": [
+    {
+      "title": "Resurrection"
+    }
+  ],
+  "listens": 249,
+  "listeners": 32,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 56,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dfcf7b21-6f1d-417d-ac23-91e62aeea14a"
   },
@@ -24,7 +45,8 @@
       "label": "Cozy Powell・Neil Murray",
       "detail": "2 位乐手在这两支乐队都待过：Cozy Powell・Neil Murray。",
       "year": 1998,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "hale-pace-and-the-stonkers",
@@ -35,7 +57,8 @@
       "label": "Cozy Powell・Neil Murray",
       "detail": "2 位乐手在这两支乐队都待过：Cozy Powell・Neil Murray。",
       "year": 1998,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-cross",
@@ -46,7 +69,22 @@
       "label": "Spike Edney",
       "detail": "Spike Edney 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "伯明翰",
+      "toYears": "1968–2025",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
     }
   ]
 }

@@ -8,7 +8,9 @@
   "years": "1985–1991",
   "genres": [
     "旋律硬核",
-    "朋克"
+    "朋克",
+    "硬核朋克",
+    "旋律哈扣"
   ],
   "albums": [
     {
@@ -38,6 +40,16 @@
   ],
   "intro": "Dag Nasty 是一支来自华盛顿特区的美国硬核朋克乐队。",
   "introLang": "zh",
+  "listens": 30381,
+  "listeners": 1204,
+  "quality": {
+    "score": 71,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4709dd69-1034-4634-9e88-d1099453b192"
@@ -52,7 +64,8 @@
       "label": "Colin Sears",
       "detail": "Colin Sears 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bloody-mannequin-orchestra",
@@ -63,7 +76,8 @@
       "label": "Colin Sears・Roger Marbury",
       "detail": "2 位乐手在这两支乐队都待过：Colin Sears・Roger Marbury。",
       "year": 1992,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-cult",
@@ -74,7 +88,8 @@
       "label": "Scott Garrett",
       "detail": "Scott Garrett 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dys",
@@ -85,7 +100,8 @@
       "label": "Dave Smalley",
       "detail": "Dave Smalley 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "minor-threat",
@@ -96,7 +112,8 @@
       "label": "Brian Baker",
       "detail": "Brian Baker 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rumblepuppy",
@@ -107,7 +124,8 @@
       "label": "Colin Sears",
       "detail": "Colin Sears 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

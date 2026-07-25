@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2005–",
-  "genres": [],
+  "genres": [
+    "后摇滚"
+  ],
   "albums": [
     {
       "title": "Sppears",
@@ -35,6 +37,16 @@
   ],
   "intro": "Vampillia是一支日本摇滚乐队。自称由10人＋α组成的“残暴管弦乐团”。约于2005年在关西地区成立。",
   "introLang": "zh",
+  "listens": 13615,
+  "listeners": 746,
+  "quality": {
+    "score": 59,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/51c8d6ba-a7b0-4bca-b836-600c003856d2"
@@ -49,7 +61,8 @@
       "label": "真部脩一・コイデシュンペイ",
       "detail": "2 位乐手在这两支乐队都待过：真部脩一・コイデシュンペイ。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "古都の夕べ",
@@ -60,7 +73,8 @@
       "label": "真部脩一",
       "detail": "真部脩一 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "相対性理論",
@@ -71,7 +85,8 @@
       "label": "真部脩一",
       "detail": "真部脩一 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "集団行動",
@@ -82,7 +97,8 @@
       "label": "真部脩一",
       "detail": "真部脩一 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "フォークデュオ",
@@ -93,7 +109,8 @@
       "label": "真部脩一",
       "detail": "真部脩一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

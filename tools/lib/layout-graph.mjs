@@ -16,9 +16,9 @@ const COMPONENT_GAP = 90;
 const GOLDEN_ANGLE = 2.399963229728653;
 const DEFAULT_OPTIONS = {
   adjustSizes: false,
-  collisionRatio: 0.42,
-  fa2Scaling: 4,
-  linLogMode: true,
+  collisionRatio: 0.455,
+  fa2Scaling: 4.6,
+  linLogMode: false,
   noverlap: true,
 };
 
@@ -99,16 +99,30 @@ function runComponentLayout(graph, options) {
   });
   if (options.noverlap) {
     // Gephi 也建议把防重叠放在主布局之后单独收尾，避免它破坏社群形成过程。
-    noverlap.assign(graph, {
-      maxIterations: graph.order > 500 ? 1200 : 700,
-      settings: {
-        expansion: 1.08,
-        gridSize: 24,
-        margin: LABEL_MARGIN * options.collisionRatio,
-        ratio: 1,
-        speed: 2,
-      },
-    });
+    // graphology-noverlap 在两个点完全重合时会调用 Math.random 抖开它们；
+    // 暂时换成由节点 id 派生的 PRNG，保证同一份数据重复构建坐标逐字节一致。
+    let randomState = hash([...graph.nodes()].sort().join('|')) || 1;
+    const seededRandom = () => {
+      randomState = Math.imul(randomState ^ (randomState >>> 15), 1 | randomState);
+      randomState ^= randomState + Math.imul(randomState ^ (randomState >>> 7), 61 | randomState);
+      return ((randomState ^ (randomState >>> 14)) >>> 0) / 4294967296;
+    };
+    const nativeRandom = Math.random;
+    Math.random = seededRandom;
+    try {
+      noverlap.assign(graph, {
+        maxIterations: graph.order > 500 ? 1200 : 700,
+        settings: {
+          expansion: 1.08,
+          gridSize: 24,
+          margin: LABEL_MARGIN * options.collisionRatio,
+          ratio: 1,
+          speed: 2,
+        },
+      });
+    } finally {
+      Math.random = nativeRandom;
+    }
   }
 }
 

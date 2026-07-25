@@ -9,7 +9,8 @@
   "genres": [
     "翻唱",
     "朋克翻唱",
-    "朋克摇滚"
+    "朋克摇滚",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -39,6 +40,40 @@
   ],
   "intro": "Me First and the Gimme Gimmes（米·弗斯特与吉米·吉米斯）是一支美国朋克摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Barry",
+    "Billy",
+    "Bob",
+    "Cash",
+    "Denver"
+  ],
+  "trackSources": [
+    {
+      "title": "Barry"
+    },
+    {
+      "title": "Billy"
+    },
+    {
+      "title": "Bob"
+    },
+    {
+      "title": "Cash"
+    },
+    {
+      "title": "Denver"
+    }
+  ],
+  "listens": 182642,
+  "listeners": 3446,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9478e346-7c52-4780-9555-3d1577f0b905"
@@ -53,7 +88,8 @@
       "label": "C.J. Ramone",
       "detail": "C.J. Ramone 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,8 +8,18 @@
   "years": "2012–",
   "genres": [],
   "albums": [],
-  "intro": "Sensational Space Shifters是一支来自英国的音乐团体，活跃时期为2012–。",
+  "intro": "Sensational Space Shifters是一支来自英国的音乐团体，活跃时期为2012–。MusicBrainz 还记录了它与Robert Plant and the Strange Sensation之间的成员往来。",
   "introLang": "zh",
+  "listens": 947,
+  "listeners": 87,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/43a22c65-a104-4dc0-a501-419d11ebcf63"
@@ -24,7 +34,8 @@
       "label": "Justin Adams・John Baggott・Billy Fuller・Liam Tyson",
       "detail": "4 位乐手在这两支乐队都待过：Justin Adams・John Baggott・Billy Fuller・Liam Tyson。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     }
   ]
 }

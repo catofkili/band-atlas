@@ -9,7 +9,10 @@
   "genres": [
     "氛围音乐",
     "氛围科技舞曲",
-    "慢拍"
+    "慢拍",
+    "緩拍電子",
+    "智能舞曲",
+    "合成器流行"
   ],
   "albums": [
     {
@@ -31,6 +34,16 @@
   ],
   "intro": "Telefon Tel Aviv 是一支以伊利诺伊州芝加哥为据点的美国电子音乐人组合。",
   "introLang": "zh",
+  "listens": 106251,
+  "listeners": 3497,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/453f1594-112e-4d3c-921a-8d14e9c97b2e"
@@ -45,7 +58,8 @@
       "label": "Joshua Eustis",
       "detail": "Joshua Eustis 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-black-queen",
@@ -56,7 +70,8 @@
       "label": "Joshua Eustis",
       "detail": "Joshua Eustis 在这两支乐队都待过。",
       "year": 2015,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

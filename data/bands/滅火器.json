@@ -8,7 +8,10 @@
   "years": "2001–",
   "genres": [
     "独立摇滚",
-    "朋克摇滚"
+    "朋克摇滚",
+    "朋克搖滾",
+    "台語流行音樂",
+    "民謠龐克"
   ],
   "albums": [
     {
@@ -38,6 +41,16 @@
   ],
   "intro": "灭火器，是一个来自台湾高雄以台语创作为主的朋克乐团，成立于2000年。",
   "introLang": "zh",
+  "listens": 2968,
+  "listeners": 55,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/655ba39c-f754-4ed1-adac-4b2258598ade"
@@ -52,7 +65,8 @@
       "label": "鄭宇辰・柯光",
       "detail": "2 位乐手在这两支乐队都待过：鄭宇辰・柯光。",
       "year": 2004,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

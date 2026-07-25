@@ -17,8 +17,18 @@
       "year": 1993
     }
   ],
-  "intro": "CRYSTAL WARS是一支来自日本的音乐团体。",
+  "intro": "CRYSTAL WARS是一支来自日本的音乐团体。目前资料收录了《CRYSTAL WARS》、《BLUE》等作品；MusicBrainz 还记录了它与MONO之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f34d9248-3e5d-4d45-afef-65bdad8b6548"
@@ -33,7 +43,8 @@
       "label": "Tamaki Kunishi",
       "detail": "Tamaki Kunishi 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

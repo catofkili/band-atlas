@@ -2,15 +2,26 @@
   "id": "the-midwest-vikings",
   "mbid": "d8160c1a-bca5-41b4-8e33-30a71abd017c",
   "name": "The Midwest Vikings",
-  "area": null,
-  "countryCode": null,
+  "area": "日本",
+  "countryCode": "JP",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Midwest Vikings是一支音乐团体。",
+  "intro": "The Midwest Vikings是一支来自日本的音乐团体。MusicBrainz 还记录了它与thee michelle gun elephant、The Birthday、ROSSO之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 38,
+  "listeners": 2,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d8160c1a-bca5-41b4-8e33-30a71abd017c"
   },
@@ -24,7 +35,8 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-birthday",
@@ -35,7 +47,8 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rosso",
@@ -46,7 +59,8 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "raven",
@@ -57,7 +71,8 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

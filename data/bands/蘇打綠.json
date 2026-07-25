@@ -9,7 +9,8 @@
   "genres": [
     "独立流行乐",
     "华语流行乐",
-    "流行摇滚"
+    "流行摇滚",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -39,6 +40,40 @@
   ],
   "intro": "苏打绿，分身鱼丁糸，是于2001年成立的台湾独立乐团。在2003年后确定了现在的6人阵容：吴青峰、谢馨仪、史俊威、何景扬、刘家凯、龚钰祺。",
   "introLang": "zh",
+  "tracks": [
+    "Tomorrow Will Be Fine",
+    "一起喔喔",
+    "我賴你",
+    "遲到千年",
+    "飛魚"
+  ],
+  "trackSources": [
+    {
+      "title": "Tomorrow Will Be Fine"
+    },
+    {
+      "title": "一起喔喔"
+    },
+    {
+      "title": "我賴你"
+    },
+    {
+      "title": "遲到千年"
+    },
+    {
+      "title": "飛魚"
+    }
+  ],
+  "listens": 21481,
+  "listeners": 472,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a8fd2a44-2f72-47ea-a6ce-96e8bd7059ec"
@@ -53,7 +88,8 @@
       "label": "史俊威・馨儀・吳青峰・阿龔・何景揚・家凱",
       "detail": "6 位乐手在这两支乐队都待过：史俊威・馨儀・吳青峰・阿龔・何景揚・家凱。",
       "year": 2001,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     }
   ]
 }

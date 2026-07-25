@@ -7,8 +7,10 @@
   "country": "日本",
   "years": "1992–",
   "genres": [
+    "尖叫情绪摇滚",
     "后硬核",
-    "后摇滚"
+    "后摇滚",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -38,6 +40,16 @@
   ],
   "intro": "envy是一支日本后硬核乐队。该乐队由前身乐队“BLIND JUSTICE”演变而来，成立于1995年。",
   "introLang": "zh",
+  "listens": 79297,
+  "listeners": 1725,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8c4519da-59e7-44b5-868d-350dffb30b51"
@@ -52,7 +64,8 @@
       "label": "Dairoku Seki",
       "detail": "Dairoku Seki 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

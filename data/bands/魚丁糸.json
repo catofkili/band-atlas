@@ -32,8 +32,18 @@
       "year": 2023
     }
   ],
-  "intro": "魚丁糸是一支来自台湾的以独立流行乐、华语流行乐为主要风格的音乐团体，活跃时期为2020–。",
+  "intro": "魚丁糸是一支来自台湾的音乐团体，活跃时期为2020–，现有资料记录的主要风格包括独立流行乐、华语流行乐。目前资料收录了《池堂怪談》、《小宇宙 (魚版)》等作品；MusicBrainz 还记录了它与蘇打綠之间的成员往来。",
   "introLang": "zh",
+  "listens": 2707,
+  "listeners": 58,
+  "quality": {
+    "score": 21,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c70c1c59-66a7-430a-b10d-02a85595a9ae"
@@ -48,7 +58,8 @@
       "label": "史俊威・馨儀・吳青峰・阿龔・何景揚・家凱",
       "detail": "6 位乐手在这两支乐队都待过：史俊威・馨儀・吳青峰・阿龔・何景揚・家凱。",
       "year": 2001,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     }
   ]
 }

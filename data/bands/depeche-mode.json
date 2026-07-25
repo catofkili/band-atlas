@@ -9,7 +9,12 @@
   "genres": [
     "电子音乐",
     "合成器流行乐",
-    "新浪潮"
+    "新浪潮",
+    "另类摇滚",
+    "電子搖滾",
+    "工業音樂",
+    "电子乐",
+    "合成器流行"
   ],
   "albums": [
     {
@@ -39,11 +44,59 @@
   ],
   "intro": "赶时髦是一支在1980年成立于英格兰艾赛克斯郡巴西尔登的电子音乐乐团。本团最初的团员有：戴夫·加恩、马丁·戈尔、安迪·弗莱彻和文斯·克拉克。",
   "introLang": "zh",
+  "tracks": [
+    "エンジョイ・ザ・サイレンス",
+    "Stripped",
+    "Never Let Me Down Again",
+    "Everything Counts",
+    "Little 15"
+  ],
+  "trackSources": [
+    {
+      "title": "エンジョイ・ザ・サイレンス"
+    },
+    {
+      "title": "Stripped"
+    },
+    {
+      "title": "Never Let Me Down Again"
+    },
+    {
+      "title": "Everything Counts"
+    },
+    {
+      "title": "Little 15"
+    }
+  ],
+  "listens": 2379785,
+  "listeners": 19524,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8538e728-ca0b-4321-b7e5-cff6565dd4c0"
   },
   "edges": [
+    {
+      "to": "the-cure",
+      "toName": "The Cure",
+      "toArea": "克劳利",
+      "toYears": "1977–",
+      "type": "guest",
+      "label": "客串：The Cure、Depeche Mode",
+      "detail": "MusicBrainz 录音资料显示，The Cure、Depeche Mode参与了《World in My Eyes (Mode 2 Cure)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/b3256492-8bc5-420e-a957-bb81950f055e"
+      ]
+    },
     {
       "to": "deftones",
       "toName": "Deftones",
@@ -53,7 +106,8 @@
       "label": "影响关系",
       "detail": "Depeche Mode 影响了 Deftones（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

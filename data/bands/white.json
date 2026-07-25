@@ -21,8 +21,18 @@
       "year": 2024
     }
   ],
-  "intro": "WHITE是一支来自北京的音乐团体，活跃时期为2006–。",
+  "intro": "WHITE是一支来自北京的音乐团体，活跃时期为2006–。目前资料收录了《WHITE》、《White+》等作品；MusicBrainz 还记录了它与Carsick Cars、Ourself Beside Me、Speak Chinese or Die之间的成员往来。",
   "introLang": "zh",
+  "listens": 341,
+  "listeners": 65,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/00c64c61-0536-4507-9332-8eb24c1aaa1b"
@@ -37,7 +47,8 @@
       "label": "张守望",
       "detail": "张守望 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ourself-beside-me",
@@ -48,7 +59,8 @@
       "label": "张守望",
       "detail": "张守望 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "speak-chinese-or-die",
@@ -59,7 +71,8 @@
       "label": "张守望",
       "detail": "张守望 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

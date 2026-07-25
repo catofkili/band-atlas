@@ -2,15 +2,26 @@
   "id": "the-wild-bunch",
   "mbid": "af112aa8-4376-440d-8d8a-a4d2160b8742",
   "name": "The Wild Bunch",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Wild Bunch是一支音乐团体。",
+  "intro": "The Wild Bunch是一支来自美国的音乐团体。MusicBrainz 还记录了它与Mad for the Racket、L.A.M.F.、Adler’s Appetite之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 0,
+  "listeners": 0,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/af112aa8-4376-440d-8d8a-a4d2160b8742"
   },
@@ -24,7 +35,8 @@
       "label": "Wayne Kramer・Clem Burke",
       "detail": "2 位乐手在这两支乐队都待过：Wayne Kramer・Clem Burke。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "l-a-m-f",
@@ -35,7 +47,8 @@
       "label": "Wayne Kramer・Clem Burke",
       "detail": "2 位乐手在这两支乐队都待过：Wayne Kramer・Clem Burke。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "adler-s-appetite",
@@ -46,7 +59,8 @@
       "label": "Chip Z’Nuff",
       "detail": "Chip Z’Nuff 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mc50",
@@ -57,7 +71,8 @@
       "label": "Wayne Kramer",
       "detail": "Wayne Kramer 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

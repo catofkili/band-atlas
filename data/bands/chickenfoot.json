@@ -9,7 +9,8 @@
   "genres": [
     "硬摇滚",
     "摇滚",
-    "超级乐队"
+    "超级乐队",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -23,6 +24,40 @@
   ],
   "intro": "Chickenfoot是美国的一支硬摇滚超级乐队。截至2018年，该乐队已发行2张录音室专辑、1张现场专辑和1张精选集。",
   "introLang": "zh",
+  "tracks": [
+    "Oh Yeah",
+    "Big Foot",
+    "Different Devil",
+    "Sexy Little Thing",
+    "Soap on a Rope"
+  ],
+  "trackSources": [
+    {
+      "title": "Oh Yeah"
+    },
+    {
+      "title": "Big Foot"
+    },
+    {
+      "title": "Different Devil"
+    },
+    {
+      "title": "Sexy Little Thing"
+    },
+    {
+      "title": "Soap on a Rope"
+    }
+  ],
+  "listens": 31789,
+  "listeners": 1266,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/28830d2c-95d7-492c-82d3-7d1240bb1c6b"
@@ -37,7 +72,8 @@
       "label": "Joe Satriani",
       "detail": "Joe Satriani 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-jagger-the-brothers-of-sodom",
@@ -48,7 +84,8 @@
       "label": "Joe Satriani",
       "detail": "Joe Satriani 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -7,7 +7,9 @@
   "country": "美国",
   "years": "2013–",
   "genres": [
-    "工业音乐"
+    "工业音乐",
+    "另类摇滚",
+    "工業搖滾"
   ],
   "albums": [
     {
@@ -25,6 +27,16 @@
   ],
   "intro": "Primitive Race 是一支由克里斯·尼克尔（Chris Kniker）组建的国际工业摇滚超级乐队，成员包括雷蒙德·瓦茨（Raymond Watts，曾效力于 PIG、KMFDM）、戴夫·奥吉尔维（Dave Ogilvie，曾效力于 SLogan J）， 马克·吉米·拉西特（Mark Gimli Rasit，曾与彼得·墨菲、Spear of Destiny、Tricky、Mob Research、The Mission、加里·纽曼合作）、伊里·洛克（Erie Loch，曾效力于LUXT、Blownload、Exageist）、 查克·莫斯利（Chuck Mosley，前Faith No More成员）、格雷厄姆·克拉布（Graham Crabb，Pop Will Eat Itself成员）以及科特妮·克莱因（Kourtney Klein，Combichrist、Nitzer Ebb成员）。",
   "introLang": "zh",
+  "listens": 2216,
+  "listeners": 103,
+  "quality": {
+    "score": 71,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d4bca920-3e2a-4990-9953-5032a1be78c0"
@@ -39,7 +51,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-tear-garden",
@@ -50,7 +63,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hilt",
@@ -61,7 +75,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jakalope",
@@ -72,7 +87,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "schwein",
@@ -83,7 +99,8 @@
       "label": "Raymond Watts",
       "detail": "Raymond Watts 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "raw-dog",
@@ -94,7 +111,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

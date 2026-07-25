@@ -9,7 +9,8 @@
   "genres": [
     "另类摇滚",
     "梦幻流行乐",
-    "独立摇滚"
+    "独立摇滚",
+    "實驗搖滾"
   ],
   "albums": [
     {
@@ -23,6 +24,16 @@
   ],
   "intro": "Apparatjik（发音：ap-ə-RAT-chik）是一支成立于2008年的跨国乐队。",
   "introLang": "zh",
+  "listens": 8130,
+  "listeners": 306,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/08f3baa2-9962-4fa7-a8c7-95d64d75d348"
@@ -37,7 +48,8 @@
       "label": "Guy Berryman",
       "detail": "Guy Berryman 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

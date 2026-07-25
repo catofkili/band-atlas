@@ -6,7 +6,13 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "流行音乐",
+    "流行舞曲",
+    "成人当代音乐",
+    "少年流行曲",
+    "當代節奏藍調"
+  ],
   "albums": [
     {
       "title": "Backstreet Boys",
@@ -35,6 +41,40 @@
   ],
   "intro": "后街男孩是一支美国流行音乐团体，1993年于美国佛罗里达州奥兰多市成立，其成员分别为：尼克·卡特、豪儿·多罗夫、布莱恩·莱特尔、A·J·迈克林和凯文·理查德森，成立之初五位成员都不过十几岁。",
   "introLang": "zh",
+  "tracks": [
+    "Quit Playin' Games",
+    "Show Me the Meaning of Being Lonely",
+    "We've Got It Goin' On",
+    "Get Down",
+    "Incomplete"
+  ],
+  "trackSources": [
+    {
+      "title": "Quit Playin' Games"
+    },
+    {
+      "title": "Show Me the Meaning of Being Lonely"
+    },
+    {
+      "title": "We've Got It Goin' On"
+    },
+    {
+      "title": "Get Down"
+    },
+    {
+      "title": "Incomplete"
+    }
+  ],
+  "listens": 379064,
+  "listeners": 13155,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2f569e60-0a1b-4fb9-95a4-3dc1525d1aad"
@@ -49,7 +89,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "nsync",
@@ -60,7 +101,8 @@
       "label": "影响关系",
       "detail": "Backstreet Boys 影响了 *NSYNC（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

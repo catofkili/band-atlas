@@ -15,6 +15,16 @@
   ],
   "intro": "Nine Inch Noize 是美国工业摇滚乐队 Nine Inch Nails 与德伊混血电子音乐制作人 Boys Noize（亚历山大·里达）共同开展的音乐合作项目。",
   "introLang": "zh",
+  "listens": 2382,
+  "listeners": 100,
+  "quality": {
+    "score": 51,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f108a041-0581-4387-b741-3867c38c1e35"
@@ -29,7 +39,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

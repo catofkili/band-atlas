@@ -11,8 +11,18 @@
     "视觉系"
   ],
   "albums": [],
-  "intro": "SERAPH是一支来自日本的以独奏、视觉系为主要风格的音乐团体，活跃时期为2017–。",
+  "intro": "SERAPH是一支来自日本的音乐团体，活跃时期为2017–，现有资料记录的主要风格包括独奏、视觉系。MusicBrainz 还记录了它与DIR EN GREY、La:Sadie's、廃人黒薔薇族之间的成员往来。",
   "introLang": "zh",
+  "listens": 25,
+  "listeners": 6,
+  "quality": {
+    "score": 14,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d1624165-fab1-45c9-98f0-b1e956adc1c9"
@@ -27,7 +37,8 @@
       "label": "Shinya",
       "detail": "Shinya 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "la-sadie-s",
@@ -38,7 +49,8 @@
       "label": "Shinya",
       "detail": "Shinya 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "廃人黒薔薇族",
@@ -49,7 +61,8 @@
       "label": "Shinya",
       "detail": "Shinya 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

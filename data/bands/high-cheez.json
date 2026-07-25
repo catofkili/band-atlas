@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "High Cheez是一支来自日本的音乐团体。",
+  "intro": "High Cheez是一支来自日本的音乐团体。MusicBrainz 还记录了它与東京事変、The THREE、VIVA LA J-ROCK ANTHEMS之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/16d79e0b-1f09-470e-8569-47c5bd9ad3a5"
@@ -24,7 +34,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-three",
@@ -35,7 +46,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "viva-la-j-rock-anthems",
@@ -46,7 +58,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "メガネツインズ",
@@ -57,7 +70,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

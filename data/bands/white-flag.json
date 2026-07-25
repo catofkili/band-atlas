@@ -7,7 +7,8 @@
   "country": "美国",
   "years": "1982–",
   "genres": [
-    "朋克"
+    "朋克",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -37,6 +38,16 @@
   ],
   "intro": "White Flag 是一支美国朋克摇滚乐队，目前驻扎在洛杉矶。",
   "introLang": "zh",
+  "listens": 1155,
+  "listeners": 188,
+  "quality": {
+    "score": 66,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ad82f8fd-206f-4b62-9a0d-f46557edb725"
@@ -51,7 +62,8 @@
       "label": "Kim Shattuck・Melanie Vammen・Ronnie Barnett",
       "detail": "3 位乐手在这两支乐队都待过：Kim Shattuck・Melanie Vammen・Ronnie Barnett。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "pixies",
@@ -62,7 +74,8 @@
       "label": "Kim Shattuck",
       "detail": "Kim Shattuck 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pandoras",
@@ -73,7 +86,8 @@
       "label": "Kim Shattuck・Melanie Vammen",
       "detail": "2 位乐手在这两支乐队都待过：Kim Shattuck・Melanie Vammen。",
       "year": 1985,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-tater-totz",
@@ -84,7 +98,8 @@
       "label": "Melanie Vammen・Pick Z. Stix",
       "detail": "2 位乐手在这两支乐队都待过：Melanie Vammen・Pick Z. Stix。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-beards",
@@ -95,7 +110,8 @@
       "label": "Kim Shattuck",
       "detail": "Kim Shattuck 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-coolies",
@@ -106,7 +122,8 @@
       "label": "Kim Shattuck",
       "detail": "Kim Shattuck 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rodney-the-tube-tops",
@@ -117,7 +134,8 @@
       "label": "Pat Fear",
       "detail": "Pat Fear 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

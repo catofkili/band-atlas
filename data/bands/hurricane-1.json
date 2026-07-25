@@ -6,7 +6,9 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "1996–1999",
-  "genres": [],
+  "genres": [
+    "摇滚乐"
+  ],
   "albums": [
     {
       "title": "Hurricane #1",
@@ -31,6 +33,28 @@
   ],
   "intro": "Hurricane #1是一支英国摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Just Another Illusion",
+    "Step into My World"
+  ],
+  "trackSources": [
+    {
+      "title": "Just Another Illusion"
+    },
+    {
+      "title": "Step into My World"
+    }
+  ],
+  "listens": 4869,
+  "listeners": 459,
+  "quality": {
+    "score": 71,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/87788c91-a97e-40a8-860b-3d9a3956af5e"
@@ -45,7 +69,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ride",
@@ -56,7 +81,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beady-eye",
@@ -67,7 +93,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "harvey-s-rabbit",
@@ -78,7 +105,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mantra-of-the-cosmos",
@@ -89,7 +117,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

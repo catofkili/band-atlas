@@ -6,10 +6,22 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2006–",
-  "genres": [],
+  "genres": [
+    "摇滚乐"
+  ],
   "albums": [],
   "intro": "S.K.I.N.是由四位知名日本摇滚乐手所组成的超级乐团。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 50,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/21117dcc-a0e8-4206-80d3-425f023bfb1b"
@@ -24,7 +36,8 @@
       "label": "YOSHIKI・MIYAVI",
       "detail": "2 位乐手在这两支乐队都待过：YOSHIKI・MIYAVI。",
       "year": 2022,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "x-japan",
@@ -35,7 +48,8 @@
       "label": "YOSHIKI",
       "detail": "YOSHIKI 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "yellow-fried-chickenz",
@@ -46,7 +60,8 @@
       "label": "GACKT",
       "detail": "GACKT 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "violet-uk",
@@ -57,7 +72,8 @@
       "label": "YOSHIKI",
       "detail": "YOSHIKI 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Agents Of Misfortune是一支来自海沃德的音乐团体。",
+  "intro": "Agents Of Misfortune是一支来自海沃德的音乐团体。MusicBrainz 还记录了它与Metallica、Trauma、EZ-Street之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0b45a22a-08ee-4d86-be60-db1d702031dd"
@@ -24,7 +34,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "trauma",
@@ -35,7 +46,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ez-street",
@@ -46,7 +58,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "maxwell-house-ranch-band",
@@ -57,7 +70,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spastik-children",
@@ -68,7 +82,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-chickenfuckers",
@@ -79,7 +94,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "vicious-hatred",
@@ -90,7 +106,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -15,8 +15,18 @@
       "year": 2002
     }
   ],
-  "intro": "铁风筝是一支来自北京的以独立摇滚为主要风格的音乐团体，活跃时期为1993–。",
+  "intro": "铁风筝是一支来自北京的音乐团体，活跃时期为1993–，现有资料记录的主要风格包括独立摇滚。目前资料收录了《这是我们的秘密》等作品；MusicBrainz 还记录了它与唐朝之间的成员往来。",
   "introLang": "zh",
+  "listens": 39,
+  "listeners": 7,
+  "quality": {
+    "score": 15,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e7973631-58b2-44ee-be0b-9fe1a8fd7ffa"
@@ -31,7 +41,8 @@
       "label": "虞洋",
       "detail": "虞洋 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

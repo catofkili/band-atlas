@@ -13,8 +13,8 @@ import path from 'node:path';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const read = (p) => readFile(path.join(root, p), 'utf8');
 
-// 依赖顺序：layout 无依赖，render 用 data，main 用全部三个
-const MODULES = ['js/layout.js', 'js/data.js', 'js/render.js', 'js/main.js'];
+// 依赖顺序：map 和 main 放在最后；全部模块会进入同一个函数作用域。
+const MODULES = ['js/layout.js', 'js/data.js', 'js/render.js', 'js/map.js', 'js/main.js'];
 
 /** 把 ES 模块拼成一段普通脚本：模块之间的 import/export 在同一作用域里是多余的。 */
 function stripModuleSyntax(src) {
@@ -34,6 +34,7 @@ const body = html
   .trim();
 
 const index = JSON.parse(await read('data/index.json'));
+const graph = JSON.parse(await read('data/graph.json'));
 const bands = {};
 for (const file of (await readdir(path.join(root, 'data/bands'))).sort()) {
   if (!file.endsWith('.json')) continue;
@@ -45,7 +46,7 @@ const sources = await Promise.all(MODULES.map(read));
 const script = sources.map(stripModuleSyntax).join('\n');
 
 // </script> 出现在 JSON 字符串里会提前结束脚本块；这里没有，但按规矩转义掉
-const data = JSON.stringify({ index, bands }).replace(/<\//g, '<\\/');
+const data = JSON.stringify({ index, graph, bands }).replace(/<\//g, '<\\/');
 
 // charset 必须落在文件的前 1024 字节里，所以放在最前面：
 // 单文件版没有 <head> 了，少了它中文会按 latin-1 解成乱码

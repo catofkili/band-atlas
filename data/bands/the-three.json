@@ -2,15 +2,28 @@
   "id": "the-three",
   "mbid": "8a4071fd-932f-461e-87a8-e491a7544f04",
   "name": "The THREE",
-  "area": null,
-  "countryCode": null,
+  "area": "日本",
+  "countryCode": "JP",
   "country": null,
   "years": "2008–",
-  "genres": [],
+  "genres": [
+    "摇滚乐"
+  ],
   "albums": [],
   "intro": "The THREE是由布袋寅泰、KREVA和龟田诚治组成的限时组合。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 2,
+  "listeners": 2,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 51,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8a4071fd-932f-461e-87a8-e491a7544f04"
   },
@@ -24,7 +37,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "high-cheez",
@@ -35,7 +49,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "possession-80-2-por-cento",
@@ -46,7 +61,8 @@
       "label": "KREVA",
       "detail": "KREVA 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "viva-la-j-rock-anthems",
@@ -57,7 +73,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ザ-プールサイド",
@@ -68,7 +85,8 @@
       "label": "KREVA",
       "detail": "KREVA 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "メガネツインズ",
@@ -79,7 +97,8 @@
       "label": "亀田誠治",
       "detail": "亀田誠治 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

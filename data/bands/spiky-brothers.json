@@ -10,8 +10,18 @@
     "副业项目"
   ],
   "albums": [],
-  "intro": "SPIKY BROTHERS是一支来自东京的以副业项目为主要风格的音乐团体，活跃时期为2000–2001。",
+  "intro": "SPIKY BROTHERS是一支来自东京的音乐团体，活跃时期为2000–2001，现有资料记录的主要风格包括副业项目。MusicBrainz 还记录了它与the pillows、Casablanca、THE PREDATORS之间的成员往来。",
   "introLang": "zh",
+  "listens": 116,
+  "listeners": 23,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5820ce84-0a76-4c69-a649-1574b7132c9c"
@@ -26,7 +36,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "casablanca",
@@ -37,7 +48,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-predators",
@@ -48,7 +60,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "さわおとしおり",
@@ -59,7 +72,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "山中さわお-elpis",
@@ -70,7 +84,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "さわおとケンジ",
@@ -81,7 +96,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ヨーコとさわお",
@@ -92,7 +108,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

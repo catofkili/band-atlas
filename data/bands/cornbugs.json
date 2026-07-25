@@ -9,7 +9,8 @@
   "genres": [
     "前卫",
     "实验音乐",
-    "实验摇滚"
+    "实验摇滚",
+    "先鋒金屬"
   ],
   "albums": [
     {
@@ -35,6 +36,16 @@
   ],
   "intro": "Cornbugs 是一支成立于 1995 年的美国前卫金属乐队。",
   "introLang": "zh",
+  "listens": 2249,
+  "listeners": 119,
+  "quality": {
+    "score": 71,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6e926752-885a-4239-87fc-62ae76f47d98"
@@ -49,7 +60,8 @@
       "label": "Pinchface・Travis Dickerson",
       "detail": "2 位乐手在这两支乐队都待过：Pinchface・Travis Dickerson。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "thanatopsis",
@@ -60,7 +72,8 @@
       "label": "Travis Dickerson",
       "detail": "Travis Dickerson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "cobra-strike",
@@ -71,7 +84,8 @@
       "label": "Pinchface",
       "detail": "Pinchface 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deli-creeps",
@@ -82,7 +96,8 @@
       "label": "Pinchface",
       "detail": "Pinchface 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "buckethead-and-his-bucket-bots",
@@ -93,7 +108,8 @@
       "label": "Travis Dickerson",
       "detail": "Travis Dickerson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-dragons-of-eden",
@@ -104,7 +120,8 @@
       "label": "Travis Dickerson",
       "detail": "Travis Dickerson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

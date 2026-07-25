@@ -10,6 +10,16 @@
   "albums": [],
   "intro": "寺子屋是一支来自日本的音乐团体。",
   "introLang": "zh",
+  "listens": 1,
+  "listeners": 1,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5d74d104-d513-448d-8bab-86070a897121"
@@ -24,7 +34,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "radwimps",
@@ -35,7 +46,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

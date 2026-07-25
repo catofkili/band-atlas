@@ -2,15 +2,26 @@
   "id": "crydajam",
   "mbid": "ed13185d-a540-4ab4-ab04-0033c1e0d1b0",
   "name": "Crydajam",
-  "area": null,
-  "countryCode": null,
+  "area": "法国",
+  "countryCode": "FR",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Crydajam是一支音乐团体。",
+  "intro": "Crydajam是一支来自法国的音乐团体。MusicBrainz 还记录了它与Le Knight Club、Daft Punk、Darlin’之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 821,
+  "listeners": 107,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ed13185d-a540-4ab4-ab04-0033c1e0d1b0"
   },
@@ -24,7 +35,8 @@
       "label": "Guy‐Manuel de Homem‐Christo・Éric Chédeville",
       "detail": "2 位乐手在这两支乐队都待过：Guy‐Manuel de Homem‐Christo・Éric Chédeville。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "daft-punk",
@@ -35,7 +47,8 @@
       "label": "Guy‐Manuel de Homem‐Christo",
       "detail": "Guy‐Manuel de Homem‐Christo 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "darlin",
@@ -46,7 +59,8 @@
       "label": "Guy‐Manuel de Homem‐Christo",
       "detail": "Guy‐Manuel de Homem‐Christo 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

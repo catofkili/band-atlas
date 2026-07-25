@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Los Unidades是一支来自英国的音乐团体。",
+  "intro": "Los Unidades是一支来自英国的音乐团体。MusicBrainz 还记录了它与Coldplay之间的成员往来。",
   "introLang": "zh",
+  "listens": 764,
+  "listeners": 129,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e5c9b9b3-9629-43c4-9f05-19e02b8deba1"
@@ -24,7 +34,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

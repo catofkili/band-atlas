@@ -7,11 +7,30 @@
   "country": "英国",
   "years": "2012–",
   "genres": [
-    "流行音乐"
+    "流行音乐",
+    "流行搖滾"
   ],
   "albums": [],
   "intro": "“正义联盟”（The Justice Collective）是由音乐人和名人组成的团体。",
   "introLang": "zh",
+  "tracks": [
+    "He Ain't Heavy, He's My Brother"
+  ],
+  "trackSources": [
+    {
+      "title": "He Ain't Heavy, He's My Brother"
+    }
+  ],
+  "listens": 143,
+  "listeners": 61,
+  "quality": {
+    "score": 62,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dce02d78-ec77-416a-ac25-50dfc045fc7c"
@@ -26,7 +45,22 @@
       "label": "Jon McClure",
       "detail": "Jon McClure 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "gorillaz",
+      "toName": "Gorillaz",
+      "toArea": "埃塞克斯",
+      "toYears": "1999–",
+      "type": "guest",
+      "label": "客串：Mick Jones",
+      "detail": "MusicBrainz 录音资料显示，Mick Jones参与了《Hillbilly Man》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/c6f91ebe-f9ff-4afc-88db-1144f0207ae1"
+      ]
     },
     {
       "to": "mongrel",
@@ -37,7 +71,8 @@
       "label": "Jon McClure",
       "detail": "Jon McClure 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "band-aid-30",
@@ -48,7 +83,8 @@
       "label": "Paloma Faith",
       "detail": "Paloma Faith 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

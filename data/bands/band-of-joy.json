@@ -6,7 +6,11 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "1967–1968",
-  "genres": [],
+  "genres": [
+    "藍調搖滾",
+    "前衛搖滾",
+    "民谣摇滚"
+  ],
   "albums": [
     {
       "title": "Band of Joy",
@@ -23,6 +27,16 @@
   ],
   "intro": "Band of Joy（有时也被称为 Robert Plant and the Band of Joy）是一支成立于1966年的英国摇滚乐队。",
   "introLang": "zh",
+  "listens": 291,
+  "listeners": 56,
+  "quality": {
+    "score": 71,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a8588753-5e1b-4ac0-8030-896b70c78cf4"
@@ -37,7 +51,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lord-sutch-heavy-friends",
@@ -48,7 +63,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gerry-levene-the-avengers",
@@ -59,7 +75,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rockestra",
@@ -70,7 +87,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-nicky-james-movement",
@@ -81,7 +99,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-senators",
@@ -92,7 +111,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

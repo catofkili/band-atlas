@@ -38,6 +38,32 @@
   ],
   "intro": "Funkadelic是乔治·克林顿在20世纪60年代末与Parliament并行组建的一支放克乐队。它是P-Funk的主要项目之一。",
   "introLang": "zh",
+  "tracks": [
+    "One Nation Under a Groove",
+    "The Electric Spanking of War Babies",
+    "(Not Just) Knee Deep"
+  ],
+  "trackSources": [
+    {
+      "title": "One Nation Under a Groove"
+    },
+    {
+      "title": "The Electric Spanking of War Babies"
+    },
+    {
+      "title": "(Not Just) Knee Deep"
+    }
+  ],
+  "listens": 208091,
+  "listeners": 7293,
+  "quality": {
+    "score": 84,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cf042013-3edd-46c4-9b0e-a62faac98d0b"
@@ -52,7 +78,8 @@
       "label": "Bootsy Collins・Jerome Brailey・Michael Hampton・Larry Fratangelo・Lonnie Motley・Greg Boyer・George Clinton・Bennie Cowan・Ray Davis・Glen Goins・Fuzzy Haskins・Eddie Hazel・Larry Heckstall・Cordell Mosson・Garry Shider・Calvin Simon・Grady Thomas・Undi$co Kidd・Ramon \"Tiki\" Fulwood",
       "detail": "19 位乐手在这两支乐队都待过：Bootsy Collins・Jerome Brailey・Michael Hampton・Larry Fratangelo・Lonnie Motley・Greg Boyer・George Clinton・Bennie Cowan・Ray Davis・Glen Goins・Fuzzy Haskins・Eddie Hazel・Larry Heckstall・Cordell Mosson・Garry Shider・Calvin Simon・Grady Thomas・Undi$co Kidd・Ramon \"Tiki\" Fulwood。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "parliament-funkadelic",
@@ -63,7 +90,8 @@
       "label": "Bootsy Collins・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Michael Payne・Garry Shider・Undi$co Kidd",
       "detail": "8 位乐手在这两支乐队都待过：Bootsy Collins・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Michael Payne・Garry Shider・Undi$co Kidd。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-p-funk-mob",
@@ -74,7 +102,8 @@
       "label": "Bootsy Collins・Michael Hampton・Larry Fratangelo・Greg Boyer・George Clinton・Ray Davis・Glen Goins・Fuzzy Haskins・Eddie Hazel・Garry Shider・Calvin Simon・Grady Thomas・Ramon \"Tiki\" Fulwood",
       "detail": "13 位乐手在这两支乐队都待过：Bootsy Collins・Michael Hampton・Larry Fratangelo・Greg Boyer・George Clinton・Ray Davis・Glen Goins・Fuzzy Haskins・Eddie Hazel・Garry Shider・Calvin Simon・Grady Thomas・Ramon \"Tiki\" Fulwood。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "material",
@@ -85,7 +114,8 @@
       "label": "Jerome Brailey・Michael Hampton",
       "detail": "2 位乐手在这两支乐队都待过：Jerome Brailey・Michael Hampton。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "praxis",
@@ -96,7 +126,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "science-faxtion",
@@ -107,7 +138,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pharaoh",
@@ -118,7 +150,8 @@
       "label": "Larry Fratangelo",
       "detail": "Larry Fratangelo 在这两支乐队都待过。",
       "year": 1978,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "world-wide-funkdrive",
@@ -129,18 +162,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
-    },
-    {
-      "to": "parliament-funkadelic",
-      "toName": "Parliament-Funkadelic",
-      "toArea": "普莱恩菲尔德",
-      "toYears": "1968–",
-      "type": "guest",
-      "label": "合作",
-      "detail": "MusicBrainz 记录的合作关系。",
-      "year": null,
-      "weight": 0.55
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-horny-horns",
@@ -151,7 +174,20 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
+    },
+    {
+      "to": "parliament-funkadelic",
+      "toName": "Parliament-Funkadelic",
+      "toArea": "普莱恩菲尔德",
+      "toYears": "1968–",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -162,7 +198,8 @@
       "label": "影响关系",
       "detail": "Funkadelic 影响了 Red Hot Chili Peppers（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

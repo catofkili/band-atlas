@@ -17,8 +17,26 @@
       "year": 1964
     }
   ],
-  "intro": "The Beat Brothers是一支来自汉堡的音乐团体，活跃时期为1961–。",
+  "tracks": [
+    "My Bonnie / The Saints"
+  ],
+  "trackSources": [
+    {
+      "title": "My Bonnie / The Saints"
+    }
+  ],
+  "intro": "The Beat Brothers是一支来自汉堡的音乐团体，活跃时期为1961–。目前资料收录了《My Bonnie / The Saints》、《My Bonnie》、《Just a Little Bit of Tony Sheridan》等作品；MusicBrainz 还记录了它与The Beatles、The Quarrymen、The Silver Beatles之间的成员往来。",
   "introLang": "zh",
+  "listens": 959,
+  "listeners": 191,
+  "quality": {
+    "score": 18,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bb85b2d0-7c62-4389-8564-5eeadacd09bb"
@@ -33,7 +51,8 @@
       "label": "Stuart Sutcliffe・Pete Best・John Lennon・George Harrison",
       "detail": "4 位乐手在这两支乐队都待过：Stuart Sutcliffe・Pete Best・John Lennon・George Harrison。",
       "year": 1960,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-quarrymen",
@@ -44,7 +63,8 @@
       "label": "Stuart Sutcliffe・John Lennon・George Harrison",
       "detail": "3 位乐手在这两支乐队都待过：Stuart Sutcliffe・John Lennon・George Harrison。",
       "year": 1960,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-silver-beatles",
@@ -55,7 +75,8 @@
       "label": "Stuart Sutcliffe・John Lennon・George Harrison",
       "detail": "3 位乐手在这两支乐队都待过：Stuart Sutcliffe・John Lennon・George Harrison。",
       "year": 1960,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "delaney-bonnie",
@@ -66,7 +87,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "plastic-ono-band",
@@ -77,7 +99,8 @@
       "label": "John Lennon",
       "detail": "John Lennon 在这两支乐队都待过。",
       "year": 1969,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "traveling-wilburys",
@@ -88,7 +111,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pete-best-band",
@@ -99,7 +123,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lee-curtis-the-all-stars",
@@ -110,7 +135,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "apple",
@@ -121,7 +147,8 @@
       "label": "John Lennon",
       "detail": "John Lennon 在这两支乐队都待过。",
       "year": 1961,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rockestra",
@@ -132,7 +159,8 @@
       "label": "Howie Casey",
       "detail": "Howie Casey 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pete-best-combo",
@@ -143,7 +171,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pete-best-four",
@@ -154,7 +183,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-singing-rebels-band",
@@ -165,7 +195,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

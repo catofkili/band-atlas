@@ -2,8 +2,8 @@
   "id": "crisis-party",
   "mbid": "72d2d3a9-c370-4329-9191-bfbb1da64fb4",
   "name": "Crisis Party",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
@@ -13,9 +13,20 @@
       "year": 1989
     }
   ],
-  "intro": "Crisis Party是一支音乐团体。",
+  "intro": "Crisis Party是一支来自美国的音乐团体。目前资料收录了《Rude Awakening》等作品；MusicBrainz 还记录了它与Love Battery、The Fartz、Dan Peters Combo之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 1,
+  "listeners": 1,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/72d2d3a9-c370-4329-9191-bfbb1da64fb4"
   },
@@ -29,7 +40,8 @@
       "label": "Kevin Whitworth",
       "detail": "Kevin Whitworth 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-fartz",
@@ -40,7 +52,8 @@
       "label": "Tom Hansen",
       "detail": "Tom Hansen 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dan-peters-combo",
@@ -51,7 +64,8 @@
       "label": "Kevin Whitworth",
       "detail": "Kevin Whitworth 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

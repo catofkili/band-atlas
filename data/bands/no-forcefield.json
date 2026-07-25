@@ -2,8 +2,8 @@
   "id": "no-forcefield",
   "mbid": "4a4df54a-5878-455f-abdb-2919a0cf650a",
   "name": "No Forcefield",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
@@ -17,9 +17,20 @@
       "year": 2000
     }
   ],
-  "intro": "No Forcefield是一支音乐团体。",
+  "intro": "No Forcefield是一支来自美国的音乐团体。目前资料收录了《God Is an Excuse》、《Lee's Oriental Massage 415-626-1837》等作品；MusicBrainz 还记录了它与Primus、El Stew、Cobra Strike之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 99,
+  "listeners": 9,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 11,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4a4df54a-5878-455f-abdb-2919a0cf650a"
   },
@@ -33,7 +44,8 @@
       "label": "DJ Disk・Larry LaLonde",
       "detail": "2 位乐手在这两支乐队都待过：DJ Disk・Larry LaLonde。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "el-stew",
@@ -44,7 +56,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "cobra-strike",
@@ -55,7 +68,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "peeping-tom",
@@ -66,7 +80,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "buckethead-and-his-bucket-bots",
@@ -77,7 +92,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "festus-clamrod-and-the-el-sobrante-twangers",
@@ -88,7 +104,8 @@
       "label": "Larry LaLonde",
       "detail": "Larry LaLonde 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

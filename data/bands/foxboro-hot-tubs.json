@@ -7,7 +7,13 @@
   "country": "美国",
   "years": "2007–",
   "genres": [
-    "摇滚"
+    "摇滚",
+    "朋克搖滾",
+    "搖滾",
+    "另类摇滚",
+    "摇滚乐",
+    "独立摇滚",
+    "車庫搖滾"
   ],
   "albums": [
     {
@@ -17,6 +23,24 @@
   ],
   "intro": "Foxboro Hot Tubs 是绿日乐队（Green Day）于2007年组建的车库摇滚副项目。",
   "introLang": "zh",
+  "tracks": [
+    "Mother Mary"
+  ],
+  "trackSources": [
+    {
+      "title": "Mother Mary"
+    }
+  ],
+  "listens": 15773,
+  "listeners": 1202,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/55affee6-ecb0-42b3-9f36-40b6da415871"
@@ -31,7 +55,8 @@
       "label": "Mike Dirnt・Tré Cool",
       "detail": "2 位乐手在这两支乐队都待过：Mike Dirnt・Tré Cool。",
       "year": 1989,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-network",
@@ -42,7 +67,8 @@
       "label": "Mike Dirnt・Tré Cool",
       "detail": "2 位乐手在这两支乐队都待过：Mike Dirnt・Tré Cool。",
       "year": 2003,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "samiam",
@@ -53,7 +79,8 @@
       "label": "Tré Cool",
       "detail": "Tré Cool 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-frustrators",
@@ -64,7 +91,8 @@
       "label": "Mike Dirnt",
       "detail": "Mike Dirnt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-lookouts",
@@ -75,7 +103,8 @@
       "label": "Tré Cool",
       "detail": "Tré Cool 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-longshot",
@@ -86,7 +115,8 @@
       "label": "Kevin Preston",
       "detail": "Kevin Preston 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-coverups",
@@ -97,7 +127,8 @@
       "label": "Mike Dirnt",
       "detail": "Mike Dirnt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -7,7 +7,8 @@
   "country": "美国",
   "years": "1983–",
   "genres": [
-    "朋克摇滚"
+    "朋克摇滚",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -37,6 +38,24 @@
   ],
   "intro": "Thelonious Monster 是一支来自加利福尼亚州洛杉矶的美国朋克摇滚乐队，由唱作人鲍勃·福雷斯特（Bob Forrest）领军，其乐队名称取自爵士音乐家塞隆尼斯·蒙克（Thelonious Monk）。",
   "introLang": "zh",
+  "tracks": [
+    "Body and Soul?"
+  ],
+  "trackSources": [
+    {
+      "title": "Body and Soul?"
+    }
+  ],
+  "listens": 1302,
+  "listeners": 142,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0b04d160-0def-4171-9fa0-0d9f4addc4a7"
@@ -51,7 +70,8 @@
       "label": "Dix Denney・Zander Schloss",
       "detail": "2 位乐手在这两支乐队都待过：Dix Denney・Zander Schloss。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -62,7 +82,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-cult",
@@ -73,7 +94,8 @@
       "label": "Martyn LeNoble",
       "detail": "Martyn LeNoble 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-mars-volta",
@@ -84,7 +106,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "45-grave",
@@ -95,7 +118,8 @@
       "label": "Rob Graves",
       "detail": "Rob Graves 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ataxia",
@@ -106,7 +130,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "13-13",
@@ -117,7 +142,8 @@
       "label": "Dix Denney",
       "detail": "Dix Denney 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "omar-rodriguez-lopez-quartet",
@@ -128,7 +154,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-bicycle-thief",
@@ -139,7 +166,8 @@
       "label": "Bob Forrest",
       "detail": "Bob Forrest 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "speed-dealer-moms",
@@ -150,7 +178,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

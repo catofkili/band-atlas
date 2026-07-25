@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Sean Dowdell And His Friends?是一支来自美国的音乐团体。",
+  "intro": "Sean Dowdell And His Friends?是一支来自美国的音乐团体。MusicBrainz 还记录了它与Grey Daze、Linkin Park、Stone Temple Pilots之间的成员往来。",
   "introLang": "zh",
+  "listens": 37,
+  "listeners": 10,
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ddd38b5d-b85b-4e3b-9fbc-093c4ced9cbf"
@@ -24,7 +34,8 @@
       "label": "Chester Bennington・Sean Dowdell",
       "detail": "2 位乐手在这两支乐队都待过：Chester Bennington・Sean Dowdell。",
       "year": 1993,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "linkin-park",
@@ -35,7 +46,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "stone-temple-pilots",
@@ -46,7 +58,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dead-by-sunrise",
@@ -57,7 +70,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "camp-freddy",
@@ -68,7 +82,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kings-of-chaos",
@@ -79,7 +94,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,7 +8,8 @@
   "years": "1973–",
   "genres": [
     "摇滚",
-    "硬摇滚"
+    "硬摇滚",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -38,6 +39,40 @@
   ],
   "intro": "红心乐团是于1970年在美国西雅图组成的摇滚乐团，有着硬摇滚和重金属乐及民间音乐影响。此乐团虽历经不少组员改变， 但两姐妹安·威尔森和南希·威尔森始终是此乐团的重要成员。",
   "introLang": "zh",
+  "tracks": [
+    "梭子魚（曲名）",
+    "These Dreams",
+    "クレイジー・オン・ユー",
+    "What About Love",
+    "マジック・マン"
+  ],
+  "trackSources": [
+    {
+      "title": "梭子魚（曲名）"
+    },
+    {
+      "title": "These Dreams"
+    },
+    {
+      "title": "クレイジー・オン・ユー"
+    },
+    {
+      "title": "What About Love"
+    },
+    {
+      "title": "マジック・マン"
+    }
+  ],
+  "listens": 282353,
+  "listeners": 11875,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9"
@@ -52,7 +87,8 @@
       "label": "Mike Inez",
       "detail": "Mike Inez 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

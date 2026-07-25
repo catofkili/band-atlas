@@ -19,6 +19,24 @@
   ],
   "intro": "Friends of Earth是一支曾经存在的日本音乐组合。",
   "introLang": "zh",
+  "tracks": [
+    "COME★BACK"
+  ],
+  "trackSources": [
+    {
+      "title": "COME★BACK"
+    }
+  ],
+  "listens": 1105,
+  "listeners": 248,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5eebd833-d596-449a-8d5c-77ae5e0ddbc2"
@@ -33,7 +51,8 @@
       "label": "Aïyb Dieng",
       "detail": "Aïyb Dieng 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "swans",
@@ -44,7 +63,8 @@
       "label": "Anton Fier",
       "detail": "Anton Fier 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "divination",
@@ -55,7 +75,8 @@
       "label": "Anton Fier",
       "detail": "Anton Fier 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "press-rider",
@@ -66,7 +87,8 @@
       "label": "西村麻聡",
       "detail": "西村麻聡 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

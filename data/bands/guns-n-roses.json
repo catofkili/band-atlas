@@ -8,7 +8,8 @@
   "years": "1985–",
   "genres": [
     "硬摇滚",
-    "华丽金属"
+    "华丽金属",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -32,6 +33,16 @@
     "November Rain",
     "Paradise City"
   ],
+  "listens": 1345558,
+  "listeners": 20051,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/eeb1195b-f213-4ce1-b28c-8565211f8e43"
@@ -46,7 +57,8 @@
       "label": "1992 VMA 后台冲突",
       "detail": "1992 年 VMA 后台的当众对峙，把新旧两代摇滚的对立摆到了台面上。",
       "year": 1992,
-      "weight": 0.9
+      "weight": 0.9,
+      "sources": []
     },
     {
       "to": "l-a-guns",
@@ -57,7 +69,8 @@
       "label": "Tracii Guns・Axl Rose・Ole Beich・Rob Gardner",
       "detail": "4 位乐手在这两支乐队都待过：Tracii Guns・Axl Rose・Ole Beich・Rob Gardner。",
       "year": 2016,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-dead-daisies",
@@ -68,7 +81,8 @@
       "label": "Dizzy Reed・Richard Fortus・Frank Ferrer",
       "detail": "3 位乐手在这两支乐队都待过：Dizzy Reed・Richard Fortus・Frank Ferrer。",
       "year": 2013,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "beatrazr",
@@ -79,7 +93,8 @@
       "label": "Chris Pitman・Ron “Bumblefoot” Thal・Frank Ferrer",
       "detail": "3 位乐手在这两支乐队都待过：Chris Pitman・Ron “Bumblefoot” Thal・Frank Ferrer。",
       "year": 1998,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "hollywood-rose",
@@ -90,7 +105,8 @@
       "label": "Izzy Stradlin・Axl Rose・Rob Gardner",
       "detail": "3 位乐手在这两支乐队都待过：Izzy Stradlin・Axl Rose・Rob Gardner。",
       "year": 1985,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "bulletboys",
@@ -101,7 +117,8 @@
       "label": "Steven Adler・DJ Ashba",
       "detail": "2 位乐手在这两支乐队都待过：Steven Adler・DJ Ashba。",
       "year": 1998,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "love-spit-love",
@@ -112,7 +129,8 @@
       "label": "Richard Fortus・Frank Ferrer",
       "detail": "2 位乐手在这两支乐队都待过：Richard Fortus・Frank Ferrer。",
       "year": 2002,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pyrrhus",
@@ -123,7 +141,8 @@
       "label": "Tracii Guns・Rob Gardner",
       "detail": "2 位乐手在这两支乐队都待过：Tracii Guns・Rob Gardner。",
       "year": 1985,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "asia",
@@ -134,7 +153,8 @@
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "awolnation",
@@ -145,7 +165,8 @@
       "label": "Isaac Carpenter",
       "detail": "Isaac Carpenter 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mercyful-fate",
@@ -156,7 +177,8 @@
       "label": "Ole Beich",
       "detail": "Ole Beich 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -167,7 +189,8 @@
       "label": "Robin Finck",
       "detail": "Robin Finck 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "quiet-riot",
@@ -178,7 +201,8 @@
       "label": "Tracii Guns",
       "detail": "Tracii Guns 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sixx-a-m",
@@ -189,7 +213,8 @@
       "label": "DJ Ashba",
       "detail": "DJ Ashba 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-replacements",
@@ -200,7 +225,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "london",
@@ -211,7 +237,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-exies",
@@ -222,7 +249,8 @@
       "label": "Isaac Carpenter",
       "detail": "Isaac Carpenter 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "art-of-anarchy",
@@ -233,7 +261,8 @@
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bash-pop",
@@ -244,7 +273,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beautiful-creatures",
@@ -255,7 +285,8 @@
       "label": "DJ Ashba",
       "detail": "DJ Ashba 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "brides-of-destruction",
@@ -266,7 +297,8 @@
       "label": "Tracii Guns",
       "detail": "Tracii Guns 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "izzy-stradlin-and-the-ju-ju-hounds",
@@ -277,7 +309,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "johnny-crash",
@@ -288,7 +321,8 @@
       "label": "Dizzy Reed",
       "detail": "Dizzy Reed 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sons-of-apollo",
@@ -299,7 +333,8 @@
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "adler",
@@ -310,7 +345,8 @@
       "label": "Steven Adler",
       "detail": "Steven Adler 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "adler-s-appetite",
@@ -321,7 +357,8 @@
       "label": "Steven Adler",
       "detail": "Steven Adler 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "blackbird-angels",
@@ -332,7 +369,8 @@
       "label": "Tracii Guns",
       "detail": "Tracii Guns 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "contraband",
@@ -343,7 +381,8 @@
       "label": "Tracii Guns",
       "detail": "Tracii Guns 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "cowboys-in-the-campfire",
@@ -354,7 +393,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gordon-gano-the-ryans",
@@ -365,7 +405,8 @@
       "label": "Frank Ferrer",
       "detail": "Frank Ferrer 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lusk",
@@ -376,7 +417,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "perfect",
@@ -387,7 +429,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "replicants",
@@ -398,7 +441,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sextapes",
@@ -409,7 +453,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "whom-gods-destroy",
@@ -420,7 +465,8 @@
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gak",
@@ -431,7 +477,8 @@
       "label": "Axl Rose",
       "detail": "Axl Rose 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gunzo",
@@ -442,7 +489,8 @@
       "label": "Tracii Guns",
       "detail": "Tracii Guns 在这两支乐队都待过。",
       "year": 2015,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-a-m-f",
@@ -453,7 +501,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "latter-revelation-company-singers",
@@ -464,7 +513,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rapidfire",
@@ -475,7 +525,8 @@
       "label": "Axl Rose",
       "detail": "Axl Rose 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "road-crew",
@@ -486,7 +537,8 @@
       "label": "Steven Adler",
       "detail": "Steven Adler 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-atoms",
@@ -497,7 +549,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jacks",
@@ -508,7 +561,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zaum",
@@ -519,7 +573,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ac-dc",
@@ -530,7 +585,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 受 AC/DC 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "deftones",
@@ -541,7 +597,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 影响了 Deftones（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "foo-fighters",
@@ -552,7 +609,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 影响了 Foo Fighters（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "green-day",
@@ -563,7 +621,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 影响了 Green Day（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "led-zeppelin",
@@ -574,7 +633,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 受 Led Zeppelin 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -585,7 +645,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 影响了 Pearl Jam（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "queen",
@@ -596,7 +657,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 受 Queen 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "quiet-riot",
@@ -607,7 +669,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 受 Quiet Riot 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -618,7 +681,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 影响了 Red Hot Chili Peppers（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "sex-pistols",
@@ -629,7 +693,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 受 Sex Pistols 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-beatles",
@@ -640,7 +705,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 受 The Beatles 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-rolling-stones",
@@ -651,7 +717,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 受 The Rolling Stones 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "u2",
@@ -662,7 +729,8 @@
       "label": "影响关系",
       "detail": "Guns N’ Roses 影响了 U2（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

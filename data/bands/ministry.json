@@ -9,7 +9,9 @@
   "genres": [
     "工业金属",
     "工业摇滚",
-    "工业音乐"
+    "工业音乐",
+    "工業金屬",
+    "敲击金属"
   ],
   "albums": [
     {
@@ -39,6 +41,40 @@
   ],
   "intro": "Ministry 是一支来自美国的工业金属乐队。该乐队由在芝加哥成立的 Special Affect 演变而来。",
   "introLang": "zh",
+  "tracks": [
+    "N.W.O.",
+    "(Every Day Is) Halloween",
+    "Jesus Built My Hotrod",
+    "Keys to the City",
+    "Over the Shoulder"
+  ],
+  "trackSources": [
+    {
+      "title": "N.W.O."
+    },
+    {
+      "title": "(Every Day Is) Halloween"
+    },
+    {
+      "title": "Jesus Built My Hotrod"
+    },
+    {
+      "title": "Keys to the City"
+    },
+    {
+      "title": "Over the Shoulder"
+    }
+  ],
+  "listens": 476871,
+  "listeners": 6922,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/13df2a46-f72f-40e7-aa63-26fcf62c7048"
@@ -53,7 +89,8 @@
       "label": "Jeff Ward・Michael Balch・Paul Barker・Paul Raven・Louis Svitek・William Tucker",
       "detail": "6 位乐手在这两支乐队都待过：Jeff Ward・Michael Balch・Paul Barker・Paul Raven・Louis Svitek・William Tucker。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "revolting-cocks",
@@ -64,7 +101,8 @@
       "label": "Jeff Ward・Paul Barker・William Tucker・Al Jourgensen・Sin Quirin・Mike Scaccia",
       "detail": "6 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・William Tucker・Al Jourgensen・Sin Quirin・Mike Scaccia。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "lard",
@@ -75,7 +113,8 @@
       "label": "Jeff Ward・Paul Barker・Al Jourgensen・Rey Washam",
       "detail": "4 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Al Jourgensen・Rey Washam。",
       "year": 1988,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "mind-funk",
@@ -86,7 +125,8 @@
       "label": "Louis Svitek・John Monte",
       "detail": "2 位乐手在这两支乐队都待过：Louis Svitek・John Monte。",
       "year": 1992,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "murder-inc",
@@ -97,7 +137,8 @@
       "label": "Paul Raven・John Bechdel",
       "detail": "2 位乐手在这两支乐队都待过：Paul Raven・John Bechdel。",
       "year": 2006,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "1000-homo-djs",
@@ -108,7 +149,8 @@
       "label": "Paul Barker・Al Jourgensen",
       "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
       "year": 1986,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pailhead",
@@ -119,7 +161,8 @@
       "label": "Paul Barker・Al Jourgensen",
       "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
       "year": 1986,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "godflesh",
@@ -130,7 +173,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "killing-joke",
@@ -141,7 +185,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -152,7 +197,8 @@
       "label": "Jeff Ward",
       "detail": "Jeff Ward 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "low-pop-suicide",
@@ -163,7 +209,8 @@
       "label": "Jeff Ward",
       "detail": "Jeff Ward 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zilch",
@@ -174,7 +221,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gut-bank",
@@ -185,7 +233,8 @@
       "label": "Tia Sprocket",
       "detail": "Tia Sprocket 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tapeworm",
@@ -196,7 +245,8 @@
       "label": "Tommy Victor",
       "detail": "Tommy Victor 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -207,7 +257,8 @@
       "label": "影响关系",
       "detail": "Ministry 影响了 Nine Inch Nails（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

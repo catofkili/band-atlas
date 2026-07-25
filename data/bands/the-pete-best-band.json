@@ -19,6 +19,16 @@
   ],
   "intro": "兰道夫·彼得·贝斯特是英国鼓手。由于在正式出道前曾是披头士乐队成员，因此被称为“第五位披头士”。",
   "introLang": "zh",
+  "listens": 151,
+  "listeners": 32,
+  "quality": {
+    "score": 53,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f7f024fc-1b17-4a1c-b70c-7c783ec09500"
@@ -33,7 +43,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-beat-brothers",
@@ -44,7 +55,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lee-curtis-the-all-stars",
@@ -55,7 +67,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pete-best-combo",
@@ -66,7 +79,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pete-best-four",
@@ -77,7 +91,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

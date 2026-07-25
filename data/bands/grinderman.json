@@ -9,7 +9,8 @@
   "genres": [
     "车库摇滚",
     "摇滚",
-    "另类摇滚"
+    "另类摇滚",
+    "車庫搖滾"
   ],
   "albums": [
     {
@@ -23,6 +24,36 @@
   ],
   "intro": "Grinderman是一支澳美摇滚乐队，于2006年在英国伦敦成立。",
   "introLang": "zh",
+  "tracks": [
+    "Evil",
+    "Heathen Child",
+    "Palaces of Montezuma",
+    "Worm Tamer"
+  ],
+  "trackSources": [
+    {
+      "title": "Evil"
+    },
+    {
+      "title": "Heathen Child"
+    },
+    {
+      "title": "Palaces of Montezuma"
+    },
+    {
+      "title": "Worm Tamer"
+    }
+  ],
+  "listens": 75738,
+  "listeners": 2751,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/611f1230-7c2b-4610-b9e6-5a4fcb6e3cc7"
@@ -37,7 +68,8 @@
       "label": "Nick Cave・Martyn P. Casey・Warren Ellis",
       "detail": "3 位乐手在这两支乐队都待过：Nick Cave・Martyn P. Casey・Warren Ellis。",
       "year": 2006,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     }
   ]
 }

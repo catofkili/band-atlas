@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "GUERRILLA是一支来自日本的音乐团体。",
+  "intro": "GUERRILLA是一支来自日本的音乐团体。MusicBrainz 还记录了它与acid android、DIE IN CRIES、L’Arc〜en〜Ciel之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8710c59b-8249-4cbd-873c-2839dc7ec31f"
@@ -24,7 +34,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "die-in-cries",
@@ -35,7 +46,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-arc-en-ciel",
@@ -46,7 +58,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zi-kill",
@@ -57,7 +70,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "geek-sleep-sheep",
@@ -68,7 +82,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "petit-brabancon",
@@ -79,7 +94,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2021,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -3,7 +3,7 @@
   "mbid": "5dcd7e90-11ad-488c-880d-5c3a6325840d",
   "name": "山中さわお&ELPIS",
   "area": null,
-  "countryCode": null,
+  "countryCode": "JP",
   "country": null,
   "years": null,
   "genres": [],
@@ -13,9 +13,20 @@
       "year": 2026
     }
   ],
-  "intro": "山中さわお&ELPIS是一支音乐团体。",
+  "countryInferred": "name-script",
+  "intro": "山中さわお&ELPIS是一支音乐团体。目前资料收录了《Daydream again》等作品；MusicBrainz 还记录了它与the pillows、Casablanca、THE PREDATORS之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 1,
+  "listeners": 1,
+  "quality": {
+    "score": 12,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5dcd7e90-11ad-488c-880d-5c3a6325840d"
   },
@@ -29,7 +40,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "casablanca",
@@ -40,7 +52,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-predators",
@@ -51,7 +64,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "さわおとしおり",
@@ -62,7 +76,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spiky-brothers",
@@ -73,7 +88,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "さわおとケンジ",
@@ -84,7 +100,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ヨーコとさわお",
@@ -95,7 +112,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

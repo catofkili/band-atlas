@@ -6,15 +6,28 @@
   "countryCode": null,
   "country": null,
   "years": null,
-  "genres": [],
+  "genres": [
+    "朋克搖滾",
+    "摇滚乐"
+  ],
   "albums": [
     {
       "title": "The Racketeers",
       "year": 2000
     }
   ],
-  "intro": "Mad for the Racket是一支音乐团体。",
+  "intro": "Mad for the Racket是一支音乐团体，现有资料记录的主要风格包括朋克搖滾、摇滚乐。目前资料收录了《The Racketeers》等作品；MusicBrainz 还记录了它与L.A.M.F.、The Wild Bunch、Gizmodrome之间的成员往来。",
   "introLang": "zh",
+  "listens": 135,
+  "listeners": 4,
+  "quality": {
+    "score": 22,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/477490d6-3e98-41b2-9c24-b465e8ee74dc"
@@ -29,7 +42,8 @@
       "label": "Wayne Kramer・Clem Burke",
       "detail": "2 位乐手在这两支乐队都待过：Wayne Kramer・Clem Burke。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-wild-bunch",
@@ -40,7 +54,8 @@
       "label": "Wayne Kramer・Clem Burke",
       "detail": "2 位乐手在这两支乐队都待过：Wayne Kramer・Clem Burke。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "gizmodrome",
@@ -51,7 +66,8 @@
       "label": "Stewart Copeland",
       "detail": "Stewart Copeland 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mc50",
@@ -62,7 +78,8 @@
       "label": "Wayne Kramer",
       "detail": "Wayne Kramer 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

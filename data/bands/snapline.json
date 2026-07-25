@@ -6,7 +6,9 @@
   "countryCode": "CN",
   "country": "中国",
   "years": "2005–",
-  "genres": [],
+  "genres": [
+    "後龐克"
+  ],
   "albums": [
     {
       "title": "Party Is Over, Pornostar",
@@ -27,6 +29,16 @@
   ],
   "intro": "Snapline是一支驻扎在北京的乐队，由吉他手兼键盘手李青和贝斯手李伟思组成，两人是在北京理工大学求学期间相识的。",
   "introLang": "zh",
+  "listens": 1497,
+  "listeners": 87,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6084f926-d798-4468-9e2c-ba64a4b7bfbc"
@@ -41,7 +53,8 @@
       "label": "李青・李维思",
       "detail": "2 位乐手在这两支乐队都待过：李青・李维思。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "大鬼众",
@@ -52,7 +65,8 @@
       "label": "李青・李维思",
       "detail": "2 位乐手在这两支乐队都待过：李青・李维思。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

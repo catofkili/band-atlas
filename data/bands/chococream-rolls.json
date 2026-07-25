@@ -15,8 +15,18 @@
       "year": 2003
     }
   ],
-  "intro": "ChocoCream Rolls是一支来自韩国的以摇滚为主要风格的音乐团体。",
+  "intro": "ChocoCream Rolls是一支来自韩国的音乐团体，现有资料记录的主要风格包括摇滚。目前资料收录了《ChocoCream Rolls》等作品；MusicBrainz 还记录了它与자우림、Lonely H's Band、Space Soldier Membership Club之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 16,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/db24e1fc-110a-4f7f-af04-1c6349fa68b9"
@@ -31,7 +41,8 @@
       "label": "김진만・이선규",
       "detail": "2 位乐手在这两支乐队都待过：김진만・이선규。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "lonely-h-s-band",
@@ -42,7 +53,8 @@
       "label": "이선규",
       "detail": "이선규 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "space-soldier-membership-club",
@@ -53,7 +65,8 @@
       "label": "이선규",
       "detail": "이선규 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

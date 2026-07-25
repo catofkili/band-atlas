@@ -2,15 +2,26 @@
   "id": "witchgang",
   "mbid": "747c4064-cf47-459a-985d-3021e52dcf89",
   "name": "WitchGang",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "WitchGang是一支音乐团体。",
+  "intro": "WitchGang是一支来自美国的音乐团体。MusicBrainz 还记录了它与Nine Inch Nails、12 Rounds、How to Destroy Angels之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 323,
+  "listeners": 67,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/747c4064-cf47-459a-985d-3021e52dcf89"
   },
@@ -24,7 +35,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "12-rounds",
@@ -35,7 +47,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "how-to-destroy-angels",
@@ -46,7 +59,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "error",
@@ -57,7 +71,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tapeworm",
@@ -68,7 +83,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

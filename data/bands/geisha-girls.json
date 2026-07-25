@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": null,
-  "genres": [],
+  "genres": [
+    "饒舌"
+  ],
   "albums": [
     {
       "title": "THE GEISHA GIRLS SHOW 炎のおっさんアワー",
@@ -15,6 +17,32 @@
   ],
   "intro": "GEISHA GIRLS是日本的一支说唱组合。1994年成立，1996年起停止活动。",
   "introLang": "zh",
+  "tracks": [
+    "Grandma Is Still Alive",
+    "THE GEISHA \"Remix\" GIRLS SHOW - 続・炎のおっさん",
+    "少年 (GEISHA GIRLSの曲)"
+  ],
+  "trackSources": [
+    {
+      "title": "Grandma Is Still Alive"
+    },
+    {
+      "title": "THE GEISHA \"Remix\" GIRLS SHOW - 続・炎のおっさん"
+    },
+    {
+      "title": "少年 (GEISHA GIRLSの曲)"
+    }
+  ],
+  "listens": 199,
+  "listeners": 47,
+  "quality": {
+    "score": 75,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/16f76c04-3638-4988-8460-209e38bb2cbd"
@@ -29,7 +57,8 @@
       "label": "TOWA TEI",
       "detail": "TOWA TEI 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

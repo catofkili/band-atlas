@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "2002–",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "Viva Death",
@@ -23,6 +25,16 @@
   ],
   "intro": "Viva Death 是一支由 Face to Face、Foo Fighters 和 The Vandals 等乐队成员组成的美国摇滚乐队。",
   "introLang": "zh",
+  "listens": 126,
+  "listeners": 23,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0cdf71c3-1265-4e48-b211-61800be4d5ab"
@@ -37,7 +49,8 @@
       "label": "Scott Shiflett",
       "detail": "Scott Shiflett 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

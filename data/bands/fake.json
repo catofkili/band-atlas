@@ -8,7 +8,8 @@
   "years": "2002–",
   "genres": [
     "另类摇滚",
-    "电子摇滚"
+    "电子摇滚",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -38,6 +39,16 @@
   ],
   "intro": "FAKE?是一支日本摇滚组合。由KEN LLOYD和INORAN两人于2001年组建。",
   "introLang": "zh",
+  "listens": 6810,
+  "listeners": 66,
+  "quality": {
+    "score": 71,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6b1084c6-6782-4f2e-b9b1-0dec99232215"
@@ -52,7 +63,8 @@
       "label": "INORAN",
       "detail": "INORAN 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tourbillon",
@@ -63,7 +75,8 @@
       "label": "INORAN",
       "detail": "INORAN 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "muddy-apes",
@@ -74,7 +87,8 @@
       "label": "INORAN",
       "detail": "INORAN 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lunacy",
@@ -85,7 +99,8 @@
       "label": "INORAN",
       "detail": "INORAN 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "m-a-s-s",
@@ -96,7 +111,8 @@
       "label": "INORAN",
       "detail": "INORAN 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

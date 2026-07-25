@@ -10,8 +10,18 @@
     "另类摇滚"
   ],
   "albums": [],
-  "intro": "The Boo是一支来自奥克兰的以另类摇滚为主要风格的音乐团体。",
+  "intro": "The Boo是一支来自奥克兰的音乐团体，现有资料记录的主要风格包括另类摇滚。MusicBrainz 还记录了它与Armstrongs之间的成员往来。",
   "introLang": "zh",
+  "listens": 27,
+  "listeners": 7,
+  "quality": {
+    "score": 7,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ec7cec28-f54f-45d2-9f98-4392de434a15"
@@ -26,7 +36,8 @@
       "label": "Joey Armstrong",
       "detail": "Joey Armstrong 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

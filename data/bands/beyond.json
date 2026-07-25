@@ -9,7 +9,9 @@
   "genres": [
     "粤语流行乐",
     "摇滚",
-    "1980年代香港新人"
+    "1980年代香港新人",
+    "硬式搖滾",
+    "中国摇滚乐"
   ],
   "albums": [
     {
@@ -39,6 +41,40 @@
   ],
   "intro": "Beyond是一支香港摇滚乐团，1983年成立，原为地下乐队，于1987年开始迈入香港主流乐坛，其后凭着多首脍炙人口的经典歌曲如《大地》、《真的爱你》、《光辉岁月》、《海阔天空》等成为华语乐坛其中一队最具影响力的香港乐队。",
   "introLang": "zh",
+  "tracks": [
+    "遙かなる夢に～Far away～",
+    "Paradise (Beyond單曲)",
+    "The Wall～長城～",
+    "孤單一吻",
+    "我想奪取妳的唇"
+  ],
+  "trackSources": [
+    {
+      "title": "遙かなる夢に～Far away～"
+    },
+    {
+      "title": "Paradise (Beyond單曲)"
+    },
+    {
+      "title": "The Wall～長城～"
+    },
+    {
+      "title": "孤單一吻"
+    },
+    {
+      "title": "我想奪取妳的唇"
+    }
+  ],
+  "listens": 43915,
+  "listeners": 1140,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d84d02ad-d74c-4227-8073-6f13a039cfac"
@@ -53,7 +89,8 @@
       "label": "劉志遠",
       "detail": "劉志遠 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

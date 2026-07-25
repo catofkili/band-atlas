@@ -13,8 +13,18 @@
       "year": 2022
     }
   ],
-  "intro": "絕命青年是一支来自台湾的音乐团体，活跃时期为2021–。",
+  "intro": "絕命青年是一支来自台湾的音乐团体，活跃时期为2021–。目前资料收录了《來一場冒險》等作品；MusicBrainz 还记录了它与GDJYB之间的成员往来。",
   "introLang": "zh",
+  "listens": 18,
+  "listeners": 7,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/15242e2f-01a6-41e6-8466-1a5eee571ffa"
@@ -29,7 +39,8 @@
       "label": "Soni Cheng・Soft Liu",
       "detail": "2 位乐手在这两支乐队都待过：Soni Cheng・Soft Liu。",
       "year": 2012,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

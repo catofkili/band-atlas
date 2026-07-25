@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1995–2000",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "Sweet 75",
@@ -15,6 +17,16 @@
   ],
   "intro": "Sweet 75是由克里斯·诺沃塞里克和伊娃·拉斯·维加斯在涅槃乐队解散后于1995年组建的乐队。在2000年解散前，他们发行了一张同名专辑。",
   "introLang": "zh",
+  "listens": 480,
+  "listeners": 47,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0882763d-d200-4422-b962-6023a5c0fc54"
@@ -29,7 +41,8 @@
       "label": "Gina Mainwal",
       "detail": "Gina Mainwal 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

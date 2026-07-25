@@ -7,7 +7,9 @@
   "country": "日本",
   "years": "2019–",
   "genres": [
-    "另类R&B"
+    "另类R&B",
+    "流行音乐",
+    "電子音樂"
   ],
   "albums": [
     {
@@ -17,6 +19,40 @@
   ],
   "intro": "MILLENNIUM PARADE是由常田大希主导的日本音乐项目。",
   "introLang": "zh",
+  "tracks": [
+    "U",
+    "W●RK/2◯45",
+    "Secret Ceremony/No Time to Cast Anchor",
+    "2992",
+    "Philip"
+  ],
+  "trackSources": [
+    {
+      "title": "U"
+    },
+    {
+      "title": "W●RK/2◯45"
+    },
+    {
+      "title": "Secret Ceremony/No Time to Cast Anchor"
+    },
+    {
+      "title": "2992"
+    },
+    {
+      "title": "Philip"
+    }
+  ],
+  "listens": 21745,
+  "listeners": 1320,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ae120209-21b3-42a9-ac08-4c7de22607eb"
@@ -31,7 +67,8 @@
       "label": "新井和輝・勢喜遊・常田大希",
       "detail": "3 位乐手在这两支乐队都待过：新井和輝・勢喜遊・常田大希。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     }
   ]
 }

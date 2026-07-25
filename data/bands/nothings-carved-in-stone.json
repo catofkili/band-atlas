@@ -25,13 +25,23 @@
     }
   ],
   "intro": "由四支不同乐队的成员凑成的编制，几乎是这张关系网上人脉密度最高的一个节点。",
-  "introLang": "ja",
+  "introLang": "zh",
   "tracks": [
     "November 15th",
     "Isolation",
     "Out of Control",
     "Spirit Inspiration"
   ],
+  "listens": 18743,
+  "listeners": 736,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/16abde93-51df-4f13-9f28-2789093c1a3d"
@@ -46,7 +56,8 @@
       "label": "生形真一・大喜多崇規",
       "detail": "由 ELLEGARDEN 的生形真一与大喜多崇規在母队休止后发起。",
       "year": 2009,
-      "weight": 0.9
+      "weight": 0.9,
+      "sources": []
     },
     {
       "to": "straightener",
@@ -57,7 +68,8 @@
       "label": "日向秀和",
       "detail": "贝斯手日向秀和的另一支乐队，两边同时在跑。",
       "year": 2009,
-      "weight": 0.85
+      "weight": 0.85,
+      "sources": []
     },
     {
       "to": "zazen-boys",
@@ -68,7 +80,8 @@
       "label": "日向秀和",
       "detail": "贝斯手日向秀和曾是 ZAZEN BOYS 的成员。",
       "year": 2009,
-      "weight": 0.6
+      "weight": 0.6,
+      "sources": []
     }
   ]
 }

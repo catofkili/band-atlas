@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Freak Brothers是一支音乐团体。",
+  "intro": "The Freak Brothers是一支音乐团体。MusicBrainz 还记录了它与El Stew、Gonervill之间的成员往来。",
   "introLang": "zh",
+  "listens": 10,
+  "listeners": 1,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5c93ecb4-9976-4b18-bb57-92f834e2d726"
@@ -24,7 +34,8 @@
       "label": "Extrakd",
       "detail": "Extrakd 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gonervill",
@@ -35,7 +46,8 @@
       "label": "Extrakd",
       "detail": "Extrakd 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

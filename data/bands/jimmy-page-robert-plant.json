@@ -6,7 +6,9 @@
   "countryCode": "GB",
   "country": "英国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "硬式搖滾"
+  ],
   "albums": [
     {
       "title": "Walking Into Clarksdale",
@@ -15,6 +17,16 @@
   ],
   "intro": "Page and Plant（又名Jimmy Page & Robert Plant）是一支活跃于1994年至1998年间的英国摇滚乐队。",
   "introLang": "zh",
+  "listens": 16561,
+  "listeners": 1438,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4a536dbf-8632-4cfd-b9ea-cdb35cb47c44"
@@ -29,7 +41,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

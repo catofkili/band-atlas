@@ -9,7 +9,8 @@
   "genres": [
     "前卫摇滚",
     "艺术摇滚",
-    "摇滚"
+    "摇滚",
+    "前衛搖滾"
   ],
   "albums": [
     {
@@ -39,6 +40,40 @@
   ],
   "intro": "火星之音是支美国的前卫摇滚乐队，2001年成立于德克萨斯州艾尔帕索。乐队阵容有奥马尔·罗德里格斯-罗培兹、塞德里克·比克斯勒-萨瓦拉、璜·艾尔德瑞特、马歇尔·罗德里奎-罗培兹和丹恩东尼·帕克斯。",
   "introLang": "zh",
+  "tracks": [
+    "Wax Simulacra",
+    "L'Via L'Viaquez",
+    "The Widow",
+    "Televators",
+    "The Malkin Jewel"
+  ],
+  "trackSources": [
+    {
+      "title": "Wax Simulacra"
+    },
+    {
+      "title": "L'Via L'Viaquez"
+    },
+    {
+      "title": "The Widow"
+    },
+    {
+      "title": "Televators"
+    },
+    {
+      "title": "The Malkin Jewel"
+    }
+  ],
+  "listens": 649950,
+  "listeners": 7136,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/20883363-1ea4-4d72-ad72-c0e767038f3e"
@@ -53,7 +88,8 @@
       "label": "John Frusciante・Omar Rodríguez‐López・Juan Alderete・Marcel Rodriguez‐Lopez",
       "detail": "4 位乐手在这两支乐队都待过：John Frusciante・Omar Rodríguez‐López・Juan Alderete・Marcel Rodriguez‐Lopez。",
       "year": 2002,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "marilyn-manson",
@@ -64,7 +100,8 @@
       "label": "Juan Alderete",
       "detail": "Juan Alderete 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queens-of-the-stone-age",
@@ -75,7 +112,8 @@
       "label": "Jon Theodore",
       "detail": "Jon Theodore 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -86,7 +124,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "suicidal-tendencies",
@@ -97,7 +136,8 @@
       "label": "Thomas Pridgen",
       "detail": "Thomas Pridgen 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "thelonious-monster",
@@ -108,7 +148,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "weezer",
@@ -119,7 +160,8 @@
       "label": "David Elitch",
       "detail": "David Elitch 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "anywhere",
@@ -130,7 +172,8 @@
       "label": "Cedric Bixler‐Zavala",
       "detail": "Cedric Bixler‐Zavala 在这两支乐队都待过。",
       "year": 2022,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ataxia",
@@ -141,7 +184,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "flea-and-the-honora-band",
@@ -152,7 +196,8 @@
       "label": "Deantoni Parks",
       "detail": "Deantoni Parks 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "speed-dealer-moms",
@@ -163,7 +208,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-wedding-band",
@@ -174,7 +220,8 @@
       "label": "Jon Theodore",
       "detail": "Jon Theodore 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

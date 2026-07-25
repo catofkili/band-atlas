@@ -8,7 +8,9 @@
   "years": "1996–",
   "genres": [
     "另类摇滚",
-    "Power Pop简体中文（大陆）"
+    "Power Pop简体中文（大陆）",
+    "朋克搖滾",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -37,6 +39,16 @@
     "君という花",
     "アフターダーク"
   ],
+  "listens": 212265,
+  "listeners": 4273,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/14e410f5-97f2-48ba-b1f7-a3a44cbea05c"
@@ -51,7 +63,8 @@
       "label": "影响来源",
       "detail": "后藤正文口中「让我开始做乐队的那支乐队」。",
       "year": null,
-      "weight": 0.9
+      "weight": 0.9,
+      "sources": []
     },
     {
       "to": "oasis",
@@ -62,7 +75,8 @@
       "label": "影响来源",
       "detail": "早期写作里合唱式副歌的参照之一。",
       "year": null,
-      "weight": 0.6
+      "weight": 0.6,
+      "sources": []
     },
     {
       "to": "straightener",
@@ -73,7 +87,8 @@
       "label": "2000 年代同世代",
       "detail": "同属 2000 年代把 live house 场景推向大场馆的一批乐队。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,8 @@
   "genres": [
     "前卫",
     "前卫金属",
-    "实验音乐"
+    "实验音乐",
+    "先鋒音樂"
   ],
   "albums": [
     {
@@ -19,6 +20,16 @@
   ],
   "intro": "The Deli Creeps 是一支前卫金属乐队，由主唱 Maximum Bob、吉他手 Buckethead、鼓手 Pinchface 以及多位贝斯手组成，最近的贝斯手是 Daniel Monti。",
   "introLang": "zh",
+  "listens": 1503,
+  "listeners": 84,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9ee41ce7-b865-46f1-8f02-895c950b0a8a"
@@ -33,7 +44,8 @@
       "label": "Pinchface",
       "detail": "Pinchface 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "cobra-strike",
@@ -44,7 +56,8 @@
       "label": "Pinchface",
       "detail": "Pinchface 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gorgone",
@@ -55,7 +68,8 @@
       "label": "Pinchface",
       "detail": "Pinchface 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

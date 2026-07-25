@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Quisp是一支音乐团体。",
+  "intro": "Quisp是一支音乐团体。MusicBrainz 还记录了它与Numbskulz、The Big Cats之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e7bdf685-143c-43c2-adc8-8b9583395528"
@@ -24,7 +34,8 @@
       "label": "Colin Brooks・Andy Conrad",
       "detail": "2 位乐手在这两支乐队都待过：Colin Brooks・Andy Conrad。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-big-cats",
@@ -35,7 +46,8 @@
       "label": "Colin Brooks",
       "detail": "Colin Brooks 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

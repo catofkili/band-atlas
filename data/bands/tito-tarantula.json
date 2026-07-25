@@ -9,7 +9,9 @@
   "genres": [
     "摇滚",
     "蓝调摇滚",
-    "另类摇滚"
+    "另类摇滚",
+    "硬式搖滾",
+    "拉丁摇滚"
   ],
   "albums": [
     {
@@ -39,6 +41,16 @@
   ],
   "intro": "Tito & Tarantula 是一支美国奇卡诺摇滚/蓝调摇滚乐队，由歌手、词曲作者兼吉他手蒂托·拉里瓦（Tito Larriva）于 1992 年在加利福尼亚州好莱坞组建。",
   "introLang": "zh",
+  "listens": 31885,
+  "listeners": 1769,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/18662acd-0f22-4608-b3eb-60f12b0766c4"
@@ -53,7 +65,8 @@
       "label": "Richard Edson",
       "detail": "Richard Edson 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "konk",
@@ -64,7 +77,8 @@
       "label": "Richard Edson",
       "detail": "Richard Edson 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-offs",
@@ -75,7 +89,8 @@
       "label": "Richard Edson",
       "detail": "Richard Edson 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,8 @@
   "genres": [
     "硬摇滚",
     "另类摇滚",
-    "摇滚"
+    "摇滚",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -27,6 +28,40 @@
   ],
   "intro": "Velvet Revolver是一支美国摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Fall to Pieces",
+    "Slither",
+    "Come On, Come In",
+    "She Builds Quick Machines",
+    "The Last Fight"
+  ],
+  "trackSources": [
+    {
+      "title": "Fall to Pieces"
+    },
+    {
+      "title": "Slither"
+    },
+    {
+      "title": "Come On, Come In"
+    },
+    {
+      "title": "She Builds Quick Machines"
+    },
+    {
+      "title": "The Last Fight"
+    }
+  ],
+  "listens": 126045,
+  "listeners": 5147,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3a528006-1429-47f4-ae9b-2ea95343e16a"
@@ -41,7 +76,8 @@
       "label": "Scott Weiland",
       "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "art-of-anarchy",
@@ -52,7 +88,8 @@
       "label": "Scott Weiland",
       "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "artists-against-aids-worldwide",
@@ -63,7 +100,8 @@
       "label": "Scott Weiland",
       "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "camp-freddy",
@@ -74,7 +112,8 @@
       "label": "Scott Weiland",
       "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

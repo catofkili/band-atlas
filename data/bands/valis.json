@@ -35,8 +35,18 @@
       "year": 2012
     }
   ],
-  "intro": "Valis是一支来自美国的以迷幻摇滚为主要风格的音乐团体。",
+  "intro": "Valis是一支来自美国的音乐团体，现有资料记录的主要风格包括迷幻摇滚。目前资料收录了《Valis / Kitty Kitty》、《Vast Active Living Intelligence System》等作品；MusicBrainz 还记录了它与Nirvana、Love Battery、Mudhoney之间的成员往来。",
   "introLang": "zh",
+  "listens": 1177,
+  "listeners": 110,
+  "quality": {
+    "score": 17,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d51ef000-95f4-49d0-8e38-e4fe5ccf32af"
@@ -51,7 +61,8 @@
       "label": "Dan Peters",
       "detail": "Dan Peters 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "love-battery",
@@ -62,7 +73,8 @@
       "label": "Dan Peters",
       "detail": "Dan Peters 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mudhoney",
@@ -73,7 +85,8 @@
       "label": "Dan Peters",
       "detail": "Dan Peters 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bundle-of-hiss",
@@ -84,7 +97,8 @@
       "label": "Dan Peters",
       "detail": "Dan Peters 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dan-peters-combo",
@@ -95,7 +109,8 @@
       "label": "Dan Peters",
       "detail": "Dan Peters 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-new-original-sonic-sound",
@@ -106,7 +121,8 @@
       "label": "Dan Peters",
       "detail": "Dan Peters 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

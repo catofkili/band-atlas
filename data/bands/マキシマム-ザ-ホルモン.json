@@ -6,7 +6,10 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "1998–",
-  "genres": [],
+  "genres": [
+    "硬核朋克",
+    "新金屬"
+  ],
   "albums": [
     {
       "title": "A.S.A. Crew",
@@ -35,6 +38,40 @@
   ],
   "intro": "Maximum The Hormone是一个来自日本东京八王子市的新金属，金属核乐队。",
   "introLang": "zh",
+  "tracks": [
+    "吵吵…吵吵…吵‥吵吵……吵吵",
+    "恋のメガラバ",
+    "爪爪爪/「F」",
+    "GREATEST THE HITS 2011～2011",
+    "菜刀·剪刀·美工刀·刀·匕·錐/靈靈靈靈靈靈靈靈魔魔魔魔魔魔魔魔"
+  ],
+  "trackSources": [
+    {
+      "title": "吵吵…吵吵…吵‥吵吵……吵吵"
+    },
+    {
+      "title": "恋のメガラバ"
+    },
+    {
+      "title": "爪爪爪/「F」"
+    },
+    {
+      "title": "GREATEST THE HITS 2011～2011"
+    },
+    {
+      "title": "菜刀·剪刀·美工刀·刀·匕·錐/靈靈靈靈靈靈靈靈魔魔魔魔魔魔魔魔"
+    }
+  ],
+  "listens": 71752,
+  "listeners": 2344,
+  "quality": {
+    "score": 81,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fb01635c-51fc-4cad-b71f-62e18bb3433b"
@@ -49,7 +86,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

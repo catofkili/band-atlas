@@ -6,7 +6,9 @@
   "countryCode": "TW",
   "country": "台湾",
   "years": "2007–",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "我們的靈魂樂",
@@ -15,6 +17,16 @@
   ],
   "intro": "透明杂志是来自台湾台北的独立乐团。成立于2006年一月。",
   "introLang": "zh",
+  "listens": 470,
+  "listeners": 24,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7fac92e8-92a5-4d99-bdf0-6e6c8e3aadcb"
@@ -29,7 +41,22 @@
       "label": "張盛文・洪申豪",
       "detail": "2 位乐手在这两支乐队都待过：張盛文・洪申豪。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "大象體操",
+      "toName": "大象體操",
+      "toArea": "高雄",
+      "toYears": "2012–",
+      "type": "guest",
+      "label": "客串：洪申豪",
+      "detail": "MusicBrainz 录音资料显示，洪申豪参与了《夜洋風景》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/0881dd43-e269-4922-8180-167b7cba095a"
+      ]
     }
   ]
 }

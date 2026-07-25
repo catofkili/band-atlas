@@ -2,15 +2,26 @@
   "id": "da-mongoloids",
   "mbid": "2037a768-5561-488b-9420-4d19237554c3",
   "name": "Da Mongoloids",
-  "area": null,
-  "countryCode": null,
+  "area": "法国",
+  "countryCode": "FR",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Da Mongoloids是一支音乐团体。",
+  "intro": "Da Mongoloids是一支来自法国的音乐团体。MusicBrainz 还记录了它与Daft Punk、Darlin’、Together之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 226,
+  "listeners": 104,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2037a768-5561-488b-9420-4d19237554c3"
   },
@@ -24,7 +35,8 @@
       "label": "Thomas Bangalter",
       "detail": "Thomas Bangalter 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "darlin",
@@ -35,7 +47,8 @@
       "label": "Thomas Bangalter",
       "detail": "Thomas Bangalter 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "together",
@@ -46,7 +59,8 @@
       "label": "Thomas Bangalter",
       "detail": "Thomas Bangalter 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

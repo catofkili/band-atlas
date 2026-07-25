@@ -3,12 +3,13 @@
   "mbid": "73156e13-f308-4fda-b2c3-87bb76b7990c",
   "name": "MO'SOME TONEBENDER",
   "area": "福冈",
-  "countryCode": null,
+  "countryCode": "JP",
   "country": null,
   "years": "1997–",
   "genres": [
     "车库摇滚",
-    "另类摇滚"
+    "另类摇滚",
+    "迷幻搖滾"
   ],
   "albums": [
     {
@@ -17,11 +18,22 @@
     }
   ],
   "intro": "百々和宏领衔的福冈三人组，和 NUMBER GIRL 出自同一片场景，但走的是更噪、更放浪的车库路线。",
-  "introLang": "ja",
+  "introLang": "zh",
   "tracks": [
     "ロッキンルーラ"
   ],
-  "region": "unknown",
+  "countryInferred": "area",
+  "listens": 2801,
+  "listeners": 291,
+  "quality": {
+    "score": 75,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/73156e13-f308-4fda-b2c3-87bb76b7990c"
   },
@@ -35,7 +47,8 @@
       "label": "福冈・同世代",
       "detail": "同为福冈出身的同世代乐队。",
       "year": null,
-      "weight": 0.6
+      "weight": 0.6,
+      "sources": []
     },
     {
       "to": "thee-michelle-gun-elephant",
@@ -46,7 +59,8 @@
       "label": "车库摇滚同世代",
       "detail": "九十年代末日本车库摇滚的同一批人。",
       "year": null,
-      "weight": 0.5
+      "weight": 0.5,
+      "sources": []
     }
   ]
 }

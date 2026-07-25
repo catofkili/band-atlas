@@ -8,7 +8,9 @@
   "years": "1989–",
   "genres": [
     "民谣摇滚",
-    "根源摇滚"
+    "根源摇滚",
+    "另类摇滚",
+    "根源搖滾"
   ],
   "albums": [
     {
@@ -38,6 +40,40 @@
   ],
   "intro": "The Wallflowers 是美国唱作人兼多乐器演奏家雅各布·迪伦（Jakob Dylan）的个人摇滚项目。",
   "introLang": "zh",
+  "tracks": [
+    "6th Avenue Heartache",
+    "The Difference",
+    "Heroes",
+    "Letters From The Wasteland",
+    "One Headlight"
+  ],
+  "trackSources": [
+    {
+      "title": "6th Avenue Heartache"
+    },
+    {
+      "title": "The Difference"
+    },
+    {
+      "title": "Heroes"
+    },
+    {
+      "title": "Letters From The Wasteland"
+    },
+    {
+      "title": "One Headlight"
+    }
+  ],
+  "listens": 109804,
+  "listeners": 5618,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d9c90718-d54d-4ccf-a92e-37a5415ce299"
@@ -52,7 +88,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "foo-fighters",
@@ -63,7 +100,8 @@
       "label": "Rami Jaffee",
       "detail": "Rami Jaffee 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -74,7 +112,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -85,7 +124,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "redd-kross",
@@ -96,7 +136,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gunash",
@@ -107,7 +148,8 @@
       "label": "Rami Jaffee",
       "detail": "Rami Jaffee 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "anthym",
@@ -118,7 +160,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dee-gees",
@@ -129,7 +172,8 @@
       "label": "Rami Jaffee",
       "detail": "Rami Jaffee 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spinnerette",
@@ -140,7 +184,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "what-is-this",
@@ -151,7 +196,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -162,7 +208,8 @@
       "label": "Rami Jaffee",
       "detail": "Rami Jaffee 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "stripsearch",
@@ -173,7 +220,8 @@
       "label": "Michael Ward",
       "detail": "Michael Ward 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

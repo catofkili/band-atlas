@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1987–1988",
-  "genres": [],
+  "genres": [
+    "朋克搖滾"
+  ],
   "albums": [
     {
       "title": "Will Play",
@@ -15,6 +17,16 @@
   ],
   "intro": "Happy Go Licky 是一支成立于 1987 年春季的美国后硬核乐队，在华盛顿特区举行的最后一场演出后解散。",
   "introLang": "zh",
+  "listens": 1157,
+  "listeners": 116,
+  "quality": {
+    "score": 59,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4c18be5e-2e53-41a4-a4a1-d9080ff88f8c"
@@ -29,7 +41,8 @@
       "label": "Guy Picciotto・Mike Fellows・Eddie Janney",
       "detail": "3 位乐手在这两支乐队都待过：Guy Picciotto・Mike Fellows・Eddie Janney。",
       "year": 1987,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "fugazi",
@@ -40,7 +53,8 @@
       "label": "Guy Picciotto",
       "detail": "Guy Picciotto 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "one-last-wish",
@@ -51,7 +65,8 @@
       "label": "Guy Picciotto・Eddie Janney",
       "detail": "2 位乐手在这两支乐队都待过：Guy Picciotto・Eddie Janney。",
       "year": 1987,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "silver-jews",
@@ -62,7 +77,8 @@
       "label": "Mike Fellows",
       "detail": "Mike Fellows 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "skewbald",
@@ -73,7 +89,8 @@
       "label": "Eddie Janney",
       "detail": "Eddie Janney 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

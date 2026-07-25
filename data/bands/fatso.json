@@ -8,8 +8,18 @@
   "years": "1994–",
   "genres": [],
   "albums": [],
-  "intro": "Fatso是一支来自旧金山的音乐团体，活跃时期为1994–。",
+  "intro": "Fatso是一支来自旧金山的音乐团体，活跃时期为1994–。MusicBrainz 还记录了它与Judas之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/008a85d4-7cdc-4087-806d-09356a6c2e96"
@@ -24,7 +34,8 @@
       "label": "Kelly Smith",
       "detail": "Kelly Smith 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

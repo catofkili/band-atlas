@@ -15,6 +15,16 @@
   ],
   "intro": "Lion Heads是日本的一支音乐组合。这是由SONS OF ALL PUSSYS的鼓手Sakura（本名樱泽泰德）发起的个人项目。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 53,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cbc7ec18-cdd7-40be-8d47-9ca9047b820b"
@@ -29,7 +39,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zigzo",
@@ -40,7 +51,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gibkiy-gibkiy-gibkiy",
@@ -51,7 +63,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2016,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rayflower",
@@ -62,7 +75,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-madcap-laughs",
@@ -73,7 +87,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sons-of-all-pussys",
@@ -84,7 +99,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

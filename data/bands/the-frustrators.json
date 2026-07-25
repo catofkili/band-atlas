@@ -7,7 +7,8 @@
   "country": "美国",
   "years": "1999–",
   "genres": [
-    "流行朋克"
+    "流行朋克",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -21,6 +22,16 @@
   ],
   "intro": "The Frustrators 是一支美国朋克摇滚乐队，成员包括杰森·钱德勒（主唱）、特里·莱纳汉（吉他、和声）、阿特·泰代斯基（鼓手）和迈克·迪恩特（贝斯、和声）。",
   "introLang": "zh",
+  "listens": 358,
+  "listeners": 27,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/75be5447-9d9b-41c7-965c-fd4a0985576f"
@@ -35,7 +46,8 @@
       "label": "Mike Dirnt",
       "detail": "Mike Dirnt 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-network",
@@ -46,7 +58,8 @@
       "label": "Mike Dirnt",
       "detail": "Mike Dirnt 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "foxboro-hot-tubs",
@@ -57,7 +70,8 @@
       "label": "Mike Dirnt",
       "detail": "Mike Dirnt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-coverups",
@@ -68,7 +82,8 @@
       "label": "Mike Dirnt",
       "detail": "Mike Dirnt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -2,8 +2,8 @@
   "id": "朝简",
   "mbid": "844ea9ee-5aaf-4507-961e-eba6e2ed49aa",
   "name": "朝简",
-  "area": null,
-  "countryCode": null,
+  "area": "中国",
+  "countryCode": "CN",
   "country": null,
   "years": null,
   "genres": [],
@@ -13,9 +13,20 @@
       "year": 2020
     }
   ],
-  "intro": "朝简是一支音乐团体。",
+  "intro": "朝简是一支来自中国的音乐团体。目前资料收录了《百家姓・三字经》等作品；MusicBrainz 还记录了它与黑豹、暮良文王、做梦之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 10,
+  "listeners": 2,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/844ea9ee-5aaf-4507-961e-eba6e2ed49aa"
   },
@@ -29,7 +40,8 @@
       "label": "窦唯",
       "detail": "窦唯 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "暮良文王",
@@ -40,7 +52,8 @@
       "label": "窦唯",
       "detail": "窦唯 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "做梦",
@@ -51,7 +64,8 @@
       "label": "窦唯",
       "detail": "窦唯 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

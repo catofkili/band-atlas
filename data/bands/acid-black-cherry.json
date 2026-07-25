@@ -9,7 +9,8 @@
   "genres": [
     "另类摇滚",
     "硬摇滚",
-    "爵士融合"
+    "爵士融合",
+    "前衛搖滾"
   ],
   "albums": [
     {
@@ -39,6 +40,40 @@
   ],
   "intro": "Acid Black Cherry是前Janne Da Arc成员yasu的个人项目。于2007年启动。所属经纪公司为Uprise Product有限公司，所属厂牌为avex trax旗下的LtOVES。",
   "introLang": "zh",
+  "tracks": [
+    "20+∞Century Boys",
+    "Black Cherry (Acid Black Cherryの曲)",
+    "CRISIS (Acid Black Cherryの曲)",
+    "Greed Greed Greed",
+    "INCUBUS"
+  ],
+  "trackSources": [
+    {
+      "title": "20+∞Century Boys"
+    },
+    {
+      "title": "Black Cherry (Acid Black Cherryの曲)"
+    },
+    {
+      "title": "CRISIS (Acid Black Cherryの曲)"
+    },
+    {
+      "title": "Greed Greed Greed"
+    },
+    {
+      "title": "INCUBUS"
+    }
+  ],
+  "listens": 20509,
+  "listeners": 278,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a3842d12-306c-498a-ae1d-03ee40e3f2ac"
@@ -53,7 +88,22 @@
       "label": "yasu",
       "detail": "yasu 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "halloween-junky-orchestra",
+      "toName": "HALLOWEEN JUNKY ORCHESTRA",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "guest",
+      "label": "客串：DAIGO",
+      "detail": "MusicBrainz 录音资料显示，DAIGO参与了《大都会 (Guest Vocals : DAIGO from BREAKERZ)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/360af327-ed9f-4345-aaef-9424b6d47565"
+      ]
     }
   ]
 }

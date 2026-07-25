@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Senators是一支来自英国的音乐团体。",
+  "intro": "The Senators是一支来自英国的音乐团体。MusicBrainz 还记录了它与Led Zeppelin、Band of Joy、Lord Sutch & Heavy Friends之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ddb71592-108d-4e21-9077-d96e11d86572"
@@ -24,7 +34,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "band-of-joy",
@@ -35,7 +46,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lord-sutch-heavy-friends",
@@ -46,7 +58,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gerry-levene-the-avengers",
@@ -57,7 +70,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rockestra",
@@ -68,7 +82,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-nicky-james-movement",
@@ -79,7 +94,8 @@
       "label": "John Bonham",
       "detail": "John Bonham 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

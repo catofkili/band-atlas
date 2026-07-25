@@ -46,6 +46,25 @@ const translationsZh = await readJSON('data/source/translations-zh.json', {
 });
 const zhOverrides = await readJSON('data/source/zh-overrides.json', { intros: {} });
 const { edges: influenceEdges } = await readJSON('data/source/influences.json', { edges: [] });
+const { edges: guestEdges } = await readJSON('data/source/guest-edges.json', { edges: [] });
+const popularityData = await readJSON('data/source/popularity.json', { artists: {} });
+const wikidataEnrichment = await readJSON('data/source/wikidata-enrichment.json', {
+  genres: {},
+  tracks: {},
+});
+const historyReview = await readJSON('data/review/history-candidates.json', { candidates: [] });
+const approvedHistory = (historyReview.candidates ?? []).filter(
+  (candidate) => candidate.status === 'approved'
+);
+const popularSeeds = await readJSON('data/source/popular-seeds.json', { seeds: [] });
+const popularityByMbid = new Map(
+  Object.entries(popularityData.artists ?? {}).map(([mbid, value]) => [mbid, value])
+);
+for (const seed of popularSeeds.seeds ?? []) {
+  if (!popularityByMbid.has(seed.mbid)) {
+    popularityByMbid.set(seed.mbid, { listens: seed.listens ?? 0, listeners: null });
+  }
+}
 
 // 维基百科的简介垫在爬来的数据上、人工数据下：有中文简介就用中文的，
 // 人工写过的照旧以人工为准。
@@ -89,6 +108,7 @@ for (const band of curated.bands) {
   }
   const out = { ...(gen ?? {}) };
   for (const [k, v] of Object.entries(band)) if (filled(v)) out[k] = v;
+  if (filled(band.intro)) out.introLang = 'zh';
   out.id = band.id; // 人工 id 说了算
   out.curated = true;
   merged.set(band.id, out);
@@ -107,6 +127,16 @@ for (const band of generated.bands) {
   merged.set(band.id, band);
 }
 
+// 审核单是唯一入口：只有明确改成 approved 的中文稿和关系边才会进入站点。
+// pending / needs-more-sources / rejected 在构建时全部忽略。
+for (const candidate of approvedHistory) {
+  const band = merged.get(candidate.bandId);
+  if (!band || !candidate.proposedLore) continue;
+  band.lore = band.lore
+    ? `${band.lore} ${candidate.proposedLore}`
+    : candidate.proposedLore;
+}
+
 /* ---------------------------------------------------------- 全站中文化 */
 
 const hasHan = (text) => /[\u3400-\u9fff]/.test(text ?? '');
@@ -116,12 +146,41 @@ const countryFallback = {
   DE: '德国', FR: '法国', SE: '瑞典', NO: '挪威', DK: '丹麦', FI: '芬兰', IS: '冰岛',
   NL: '荷兰', BE: '比利时', ES: '西班牙', IT: '意大利', PT: '葡萄牙', AT: '奥地利', CH: '瑞士',
 };
+const areaCountryRules = [
+  {
+    code: 'JP',
+    pattern: /日本|东京|東京都|大阪|京都|北海道|札幌|福冈|福岡|奈良|横滨|横浜|千叶|千葉|埼玉|神奈川|青森|函馆|函館|群马|群馬|兵库|兵庫|名古屋|爱知|愛知|广岛|広島|仙台|宫城|宮城|冲绳|沖縄|静冈|静岡|长野|長野|新潟|石川|富山|山梨|岐阜|三重|滋贺|滋賀|和歌山|鸟取|鳥取|岛根|島根|冈山|岡山|山口|德岛|徳島|香川|爱媛|愛媛|高知|佐贺|佐賀|长崎|長崎|熊本|大分|宫崎|宮崎|鹿儿岛|鹿児島|立山|涩谷|渋谷|品川|白金台/,
+  },
+  { code: 'KR', pattern: /韩国|韓國|首尔|首爾|釜山|仁川|大邱|光州|大田|蔚山|济州|濟州|清州/ },
+  { code: 'CN', pattern: /中国|中國|北京|上海|广州|廣州|深圳|成都|武汉|武漢|西安|南京|杭州|重庆|重慶|天津/ },
+  { code: 'TW', pattern: /台湾|臺灣|台北|臺北|高雄|台中|臺中|台南|臺南|新北/ },
+  { code: 'HK', pattern: /香港|九龙|九龍/ },
+  { code: 'MO', pattern: /澳门|澳門/ },
+  { code: 'MN', pattern: /蒙古|乌兰巴托|烏蘭巴托/ },
+];
+const inferCountryFromArea = (area) =>
+  areaCountryRules.find((rule) => rule.pattern.test(area ?? ''))?.code ?? null;
 const junkGenres = new Set([
   '2000s', '1990s', '1980s', '1970s', 'likedis auto', 'alliteration', 'seen live',
   'favorites', 'favourites', 'awesome', 'band', 'group', 'male vocalists', 'female vocalists',
 ]);
+const genreLabelZh = {
+  'stoner metal': '迷幻金属',
+  'ラテン・ロック': '拉丁摇滚',
+  'Trip hop': '神游舞曲',
+  'クラシック・ロック': '经典摇滚',
+  Emo: '情绪摇滚',
+  'sleaze rock': '华丽硬摇滚',
+  'ガレージ・パンク': '车库朋克',
+  funky: '放克',
+  'エキゾチカ': '异域音乐',
+  NDH: '新德意志硬派',
+  '日本のスカ': '日本斯卡',
+  Screamo: '尖叫情绪摇滚',
+};
 
 for (const band of merged.values()) {
+  band.introTemplate = false;
   const introTranslation = band.mbid && translationsZh.intros?.[band.mbid];
   if (
     introTranslation?.text &&
@@ -142,14 +201,40 @@ for (const band of merged.values()) {
   } else if (countryFallback[band.countryCode]) {
     band.area = countryFallback[band.countryCode];
   }
+  if (!band.countryCode) {
+    const areaCountry = inferCountryFromArea(band.area);
+    const scriptCountry = /[\u3040-\u30ff]/u.test(band.name ?? '')
+      ? 'JP'
+      : /[\uac00-\ud7af]/u.test(band.name ?? '')
+        ? 'KR'
+        : null;
+    if (areaCountry || scriptCountry) {
+      band.countryCode = areaCountry ?? scriptCountry;
+      band.countryInferred = areaCountry ? 'area' : 'name-script';
+    }
+  }
 
-  band.genres = [...new Set((band.genres ?? [])
+  const enrichedGenres = band.mbid ? wikidataEnrichment.genres?.[band.mbid] ?? [] : [];
+  band.genres = [...new Set([...(band.genres ?? []), ...enrichedGenres]
     .filter((genre) => !junkGenres.has(genre.toLowerCase()))
     .map((genre) => {
       const translated = translationsZh.genres?.[genre];
-      return hasHan(translated) ? translated : hasHan(genre) ? genre : null;
+      return hasHan(translated)
+        ? translated
+        : genreLabelZh[genre] ?? (hasHan(genre) && !/[A-Za-z\u3040-\u30ff\uac00-\ud7af]/u.test(genre) ? genre : null);
     })
     .filter((genre) => genre && genre !== band.area && genre !== countryFallback[band.countryCode]))];
+
+  if (!(band.tracks?.length > 0) && band.mbid) {
+    const trackCandidates = wikidataEnrichment.tracks?.[band.mbid] ?? [];
+    if (trackCandidates.length) {
+      band.tracks = trackCandidates.slice(0, 5).map((track) => track.title);
+      band.trackSources = trackCandidates.slice(0, 5).map((track) => ({
+        title: track.title,
+        wikidata: track.wikidata,
+      }));
+    }
+  }
 
   // 没有可翻译原文时只组合已有事实，不虚构经历或评价。
   if (!band.intro || !hasHan(band.intro)) {
@@ -158,11 +243,16 @@ for (const band of merged.values()) {
     const years = band.years ? `，活跃时期为${band.years}` : '';
     band.intro = `${band.name}是一支${place}${genre}音乐团体${years}。`;
     band.introLang = 'zh';
+    band.introTemplate = true;
   }
   if (zhOverrides.intros?.[band.id]) {
     band.intro = zhOverrides.intros[band.id];
     band.introLang = 'zh';
+    band.introTemplate = false;
   }
+  const popularity = band.mbid ? popularityByMbid.get(band.mbid) : null;
+  band.listens = popularity?.listens ?? 0;
+  band.listeners = popularity?.listeners ?? null;
 }
 
 /* ---------------------------------------------------------------- 边 */
@@ -170,6 +260,7 @@ for (const band of merged.values()) {
 const problems = [];
 const adjacency = new Map([...merged.keys()].map((id) => [id, []]));
 const seen = new Set();
+const graphEdgeDetails = new Map();
 const pairKey = (a, b, t) => [a, b].sort().join('|') + '|' + t;
 
 function addEdge(e, where) {
@@ -188,6 +279,12 @@ function addEdge(e, where) {
   const key = pairKey(from, to, e.type);
   if (seen.has(key)) return; // 人工的先进来，所以重复的以人工为准
   seen.add(key);
+  graphEdgeDetails.set(key, {
+    from,
+    to,
+    type: e.type,
+    weight: e.weight ?? 0.5,
+  });
 
   adjacency.get(from).push(makeEdge(e, to, e.detail));
   adjacency.get(to).push(makeEdge(e, from, e.detailRev ?? e.detail));
@@ -205,11 +302,25 @@ function makeEdge(e, otherId, detail) {
     detail: detail ?? null,
     year: e.year ?? null,
     weight: e.weight ?? 0.5,
+    sources: Array.isArray(e.sources) ? e.sources : [],
   };
 }
 
 // 人工的边先进，占住位置
 curated.edges.forEach((e, i) => addEdge(e, `scene-jrock.edges[${i}]`));
+approvedHistory
+  .filter((candidate) => candidate.proposedEdge)
+  .forEach((candidate, i) =>
+    addEdge(
+      {
+        ...candidate.proposedEdge,
+        detail: candidate.proposedLore,
+        detailRev: candidate.proposedLore,
+        sources: [candidate.source],
+      },
+      `history-candidates.approved[${i}]`
+    )
+  );
 generated.edges.forEach((e, i) =>
   addEdge({ ...e, from: remap.get(e.from) ?? e.from, to: remap.get(e.to) ?? e.to }, `generated.edges[${i}]`)
 );
@@ -219,6 +330,31 @@ influenceEdges.forEach((e, i) =>
     `influences.edges[${i}]`
   )
 );
+guestEdges.forEach((e, i) =>
+  addEdge(
+    { ...e, from: remap.get(e.from) ?? e.from, to: remap.get(e.to) ?? e.to },
+    `guest-edges.edges[${i}]`
+  )
+);
+
+// MusicBrainz 的合作项目、临时团常缺地区。若一支未知团体至少有两条成员关系，
+// 且已知邻居中有不低于 75% 来自同一国家，继承这个国家并保留推断标记。
+// 一条边或势均力敌的跨国项目都不猜。
+for (const [id, band] of merged) {
+  if (band.countryCode) continue;
+  const counts = new Map();
+  for (const edge of adjacency.get(id).filter((item) => item.type === 'member')) {
+    const code = merged.get(edge.to)?.countryCode;
+    if (code) counts.set(code, (counts.get(code) ?? 0) + 1);
+  }
+  const ranked = [...counts].sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0]));
+  const known = ranked.reduce((sum, [, count]) => sum + count, 0);
+  if (ranked[0]?.[1] >= 2 && ranked[0][1] / known >= 0.75) {
+    band.countryCode = ranked[0][0];
+    band.countryInferred = 'member-neighbors';
+    if (!band.area || band.area === '地区未录入') band.area = countryFallback[band.countryCode];
+  }
+}
 
 /**
  * 一支乐队可能有几十条关系，屏幕边缘只摆得下八个，得挑。
@@ -229,10 +365,19 @@ const notability = (id) => {
   const b = merged.get(id);
   return (b.curated ? 0.25 : 0) + Math.min((b.albums?.length ?? 0) * 0.02, 0.1);
 };
+const relationPriority = {
+  member: 0.16,
+  feud: 0.12,
+  guest: 0.08,
+  influence: 0.04,
+  scene: 0,
+};
 for (const [, edges] of adjacency) {
   edges.sort(
     (a, b) =>
-      b.weight + notability(b.to) - (a.weight + notability(a.to)) || a.to.localeCompare(b.to)
+      b.weight + relationPriority[b.type] + notability(b.to) -
+        (a.weight + relationPriority[a.type] + notability(a.to)) ||
+      a.to.localeCompare(b.to)
   );
 }
 
@@ -252,6 +397,53 @@ if (problems.length) {
   console.error('数据校验未通过：');
   for (const p of problems) console.error('  - ' + p);
   process.exit(1);
+}
+
+// 对仍是模板的卡片补充可核验的硬事实。它们仍保留 templateIntro 标记，
+// 不会混进“人工内容完整”的随机首屏池，也不虚构评价、地位或故事。
+for (const [id, band] of merged) {
+  if (!band.introTemplate) continue;
+  const place = band.area && band.area !== '地区未录入' ? `来自${band.area}` : '';
+  const years = band.years ? `，活跃时期为${band.years}` : '';
+  const genres = band.genres?.length ? `，现有资料记录的主要风格包括${band.genres.slice(0, 3).join('、')}` : '';
+  const opening = `${band.name}是一支${place ? `${place}的` : ''}音乐团体${years}${genres}。`;
+  const works = [
+    ...(band.tracks ?? []).slice(0, 3).map((title) => `《${title}》`),
+    ...(band.albums ?? []).slice(0, 2).map((album) => `《${album.title}》`),
+  ];
+  const memberLinks = adjacency.get(id)
+    .filter((edge) => edge.type === 'member')
+    .slice(0, 3)
+    .map((edge) => edge.toName);
+  const facts = [];
+  if (works.length) facts.push(`目前资料收录了${[...new Set(works)].join('、')}等作品`);
+  if (memberLinks.length) facts.push(`MusicBrainz 还记录了它与${[...new Set(memberLinks)].join('、')}之间的成员往来`);
+  band.intro = `${opening}${facts.length ? `${facts.join('；')}。` : ''}`;
+}
+
+for (const [id, band] of merged) {
+  const degree = adjacency.get(id).length;
+  const hasGenres = (band.genres?.length ?? 0) > 0;
+  const hasTracks = (band.tracks?.length ?? 0) > 0;
+  const hasLore = Boolean(band.lore);
+  const hasAlbums = (band.albums?.length ?? 0) > 0;
+  const score = Math.round(
+    (band.introTemplate ? 0 : 42) +
+    Math.min(band.genres?.length ?? 0, 3) * 6 +
+    Math.min(band.tracks?.length ?? 0, 3) * 6 +
+    (hasLore ? 10 : 0) +
+    (hasAlbums ? 8 : 0) +
+    Math.min(degree, 8) / 2
+  );
+  band.quality = {
+    score: Math.min(100, score),
+    templateIntro: band.introTemplate,
+    hasGenres,
+    hasTracks,
+    hasLore,
+    hasAlbums,
+  };
+  delete band.introTemplate;
 }
 
 /* ------------------------------------------------------------ 产出 */
@@ -286,6 +478,9 @@ const index = {
     countryCode: b.countryCode ?? null,
     region: regionOf(b.countryCode),
     degree: adjacency.get(b.id).length,
+    listens: b.listens ?? 0,
+    listeners: b.listeners ?? null,
+    quality: b.quality,
   })),
 };
 await writeFile(path.join(root, 'data/index.json'), JSON.stringify(index, null, 2) + '\n');
@@ -296,17 +491,15 @@ const layoutTextUnits = (text) =>
 const layoutLabelWidth = (name) => Math.max(42, Math.min(188, layoutTextUnits(name) * 11 + 18));
 
 // 缩略地图不再逐支请求 JSON：一次拿到轻量节点和全量连线，Canvas 才能画出真正的网状图。
-const graphEdges = [...seen].map((key) => {
-  const [from, to, type] = key.split('|');
-  return { from, to, type };
-});
+const graphEdges = [...graphEdgeDetails.values()]
+  .filter((edge) => merged.has(edge.from) && merged.has(edge.to));
 const graphNodes = [...merged.values()].map((b) => ({
   id: b.id,
   name: b.name,
   countryCode: b.countryCode ?? null,
   region: regionOf(b.countryCode),
   degree: adjacency.get(b.id).length,
-  listens: b.listens ?? null,
+  listens: b.listens ?? 0,
   listeners: b.listeners ?? null,
   labelWidth: layoutLabelWidth(b.name),
 }));

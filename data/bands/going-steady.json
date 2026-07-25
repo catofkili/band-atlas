@@ -9,7 +9,8 @@
   "genres": [
     "朋克",
     "朋克摇滚",
-    "青春朋克"
+    "青春朋克",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -23,6 +24,40 @@
   ],
   "intro": "GOING STEADY是一支曾活跃于独立音乐圈的日本四人朋克摇滚乐队。简称“Goyste”。该乐队已于2003年解散。",
   "introLang": "zh",
+  "tracks": [
+    "HOLiDAYS & GOING STEADY",
+    "星に願いを",
+    "東京少年",
+    "童貞ソー・ヤング",
+    "若者たち/夜王子と月の姫"
+  ],
+  "trackSources": [
+    {
+      "title": "HOLiDAYS & GOING STEADY"
+    },
+    {
+      "title": "星に願いを"
+    },
+    {
+      "title": "東京少年"
+    },
+    {
+      "title": "童貞ソー・ヤング"
+    },
+    {
+      "title": "若者たち/夜王子と月の姫"
+    }
+  ],
+  "listens": 3258,
+  "listeners": 123,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d8f99482-1a3b-45aa-b920-1c7317138f1b"
@@ -37,7 +72,8 @@
       "label": "峯田和伸",
       "detail": "峯田和伸 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ねらわれた学園",
@@ -48,7 +84,8 @@
       "label": "峯田和伸",
       "detail": "峯田和伸 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

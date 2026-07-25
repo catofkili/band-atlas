@@ -9,7 +9,13 @@
   "genres": [
     "电子音乐",
     "摇滚",
-    "实验音乐"
+    "实验音乐",
+    "另类摇滚",
+    "流行音乐",
+    "神游舞曲",
+    "電子搖滾",
+    "流行搖滾",
+    "搖滾嘻哈"
   ],
   "albums": [
     {
@@ -19,6 +25,24 @@
   ],
   "intro": "Peeping Tom 是由迈克·帕顿（Mike Patton）领军的美国摇滚乐队，活跃于2000年至2007年。",
   "introLang": "zh",
+  "tracks": [
+    "Pre-School Love Affair"
+  ],
+  "trackSources": [
+    {
+      "title": "Pre-School Love Affair"
+    }
+  ],
+  "listens": 46671,
+  "listeners": 1743,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4caec583-cdcb-437c-af84-8797b11b6807"
@@ -33,7 +57,8 @@
       "label": "Stu Brooks",
       "detail": "Stu Brooks 在这两支乐队都待过。",
       "year": 2026,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "primus",
@@ -44,7 +69,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "el-stew",
@@ -55,7 +81,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "cobra-strike",
@@ -66,7 +93,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "no-forcefield",
@@ -77,7 +105,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "buckethead-and-his-bucket-bots",
@@ -88,7 +117,8 @@
       "label": "DJ Disk",
       "detail": "DJ Disk 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-fantômas-melvins-big-band",
@@ -99,7 +129,8 @@
       "label": "Mike Patton",
       "detail": "Mike Patton 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

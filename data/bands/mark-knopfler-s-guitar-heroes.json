@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Mark Knopfler’s Guitar Heroes是一支音乐团体。",
+  "intro": "Mark Knopfler’s Guitar Heroes是一支音乐团体。MusicBrainz 还记录了它与Delaney & Bonnie、The Who、George's Band之间的成员往来。",
   "introLang": "zh",
+  "listens": 326,
+  "listeners": 63,
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6d1c3698-6ef2-4f67-b626-fa16e2c69c8e"
@@ -24,7 +34,8 @@
       "label": "Dave Mason・Eric Clapton・Steve Cropper",
       "detail": "3 位乐手在这两支乐队都待过：Dave Mason・Eric Clapton・Steve Cropper。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-who",
@@ -35,7 +46,8 @@
       "label": "Pete Townshend・Zak Starkey・Roger Daltrey",
       "detail": "3 位乐手在这两支乐队都待过：Pete Townshend・Zak Starkey・Roger Daltrey。",
       "year": 1964,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "george-s-band",
@@ -46,7 +58,8 @@
       "label": "Joe Brown・Eric Clapton・Albert Lee",
       "detail": "3 位乐手在这两支乐队都待过：Joe Brown・Eric Clapton・Albert Lee。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "ringo-starr-his-all-starr-band",
@@ -57,7 +70,8 @@
       "label": "Zak Starkey・Paul Carrack・Peter Frampton・Steve Lukather・Joe Walsh",
       "detail": "5 位乐手在这两支乐队都待过：Zak Starkey・Paul Carrack・Peter Frampton・Steve Lukather・Joe Walsh。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-yardbirds",
@@ -68,7 +82,8 @@
       "label": "Jeff Beck・Eric Clapton",
       "detail": "2 位乐手在这两支乐队都待过：Jeff Beck・Eric Clapton。",
       "year": 1965,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "deep-end",
@@ -79,7 +94,8 @@
       "label": "David Gilmour・Pete Townshend",
       "detail": "2 位乐手在这两支乐队都待过：David Gilmour・Pete Townshend。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "hale-pace-and-the-stonkers",
@@ -90,7 +106,8 @@
       "label": "David Gilmour・Tony Iommi",
       "detail": "2 位乐手在这两支乐队都待过：David Gilmour・Tony Iommi。",
       "year": 1991,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "supergroup-b",
@@ -101,7 +118,8 @@
       "label": "Ronnie Wood・Tom Morello",
       "detail": "2 位乐手在这两支乐队都待过：Ronnie Wood・Tom Morello。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-honeydrippers",
@@ -112,7 +130,8 @@
       "label": "Jeff Beck・Nile Rodgers",
       "detail": "2 位乐手在这两支乐队都待过：Jeff Beck・Nile Rodgers。",
       "year": 1984,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "black-sabbath",
@@ -123,7 +142,8 @@
       "label": "Tony Iommi",
       "detail": "Tony Iommi 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fleetwood-mac",
@@ -134,7 +154,8 @@
       "label": "Dave Mason",
       "detail": "Dave Mason 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "material",
@@ -145,7 +166,8 @@
       "label": "Nile Rodgers",
       "detail": "Nile Rodgers 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pink-floyd",
@@ -156,7 +178,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "plastic-ono-band",
@@ -167,7 +190,8 @@
       "label": "Eric Clapton",
       "detail": "Eric Clapton 在这两支乐队都待过。",
       "year": 1969,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rage-against-the-machine",
@@ -178,7 +202,8 @@
       "label": "Tom Morello",
       "detail": "Tom Morello 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-rolling-stones",
@@ -189,7 +214,8 @@
       "label": "Ronnie Wood",
       "detail": "Ronnie Wood 在这两支乐队都待过。",
       "year": 1975,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "不失者",
@@ -200,7 +226,37 @@
       "label": "灰野敬二",
       "detail": "灰野敬二 在这两支乐队都待过。",
       "year": 1978,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "the-killers",
+      "toName": "The Killers",
+      "toArea": "拉斯维加斯",
+      "toYears": "2001–",
+      "type": "guest",
+      "label": "客串：Bruce Springsteen",
+      "detail": "MusicBrainz 录音资料显示，Bruce Springsteen参与了《2022-10-01: Madison Square Garden, New York City, NY, USA》、《2022-10-01: Madison Square Garden, New York City, NY, USA》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/3d20cee6-6519-49c2-af62-f3198d1ad4f6",
+        "https://musicbrainz.org/recording/d8bfc1e3-fb37-4d39-83e6-18b27310d266"
+      ]
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "伯明翰",
+      "toYears": "1968–2025",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
     },
     {
       "to": "chickenfoot",
@@ -211,7 +267,8 @@
       "label": "Joe Satriani",
       "detail": "Joe Satriani 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "boogie-box-high",
@@ -222,7 +279,8 @@
       "label": "Andy Taylor",
       "detail": "Andy Taylor 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lord-sutch-heavy-friends",
@@ -233,7 +291,8 @@
       "label": "Jeff Beck",
       "detail": "Jeff Beck 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "axis-of-justice",
@@ -244,7 +303,8 @@
       "label": "Tom Morello",
       "detail": "Tom Morello 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beat",
@@ -255,7 +315,8 @@
       "label": "Steve Vai",
       "detail": "Steve Vai 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "holly-and-the-ivy-s",
@@ -266,7 +327,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jokers-wild",
@@ -277,7 +339,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mantra-of-the-cosmos",
@@ -288,7 +351,8 @@
       "label": "Zak Starkey",
       "detail": "Zak Starkey 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-fleetwood-and-friends",
@@ -299,7 +363,8 @@
       "label": "Pete Townshend",
       "detail": "Pete Townshend 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-jagger-the-brothers-of-sodom",
@@ -310,7 +375,8 @@
       "label": "Joe Satriani",
       "detail": "Joe Satriani 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rockestra",
@@ -321,7 +387,8 @@
       "label": "Pete Townshend",
       "detail": "Pete Townshend 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -332,7 +399,8 @@
       "label": "Rick Nielsen",
       "detail": "Rick Nielsen 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-ramblers",
@@ -343,7 +411,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1962,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-rd-crusaders",
@@ -354,7 +423,8 @@
       "label": "Roger Daltrey",
       "detail": "Roger Daltrey 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-ronnie-wood-band",
@@ -365,7 +435,8 @@
       "label": "Ronnie Wood",
       "detail": "Ronnie Wood 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-singing-rebels-band",
@@ -376,7 +447,8 @@
       "label": "Eric Clapton",
       "detail": "Eric Clapton 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "whocares",
@@ -387,7 +459,8 @@
       "label": "Tony Iommi",
       "detail": "Tony Iommi 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,11 @@
   "genres": [
     "另类金属",
     "说唱金属",
-    "放克金属"
+    "放克金属",
+    "另類金屬",
+    "放克金屬",
+    "饒舌金屬",
+    "搖滾嘻哈"
   ],
   "albums": [
     {
@@ -35,6 +39,40 @@
   ],
   "intro": "讨伐体制乐团是美国的一个重金属乐团，创办于1991年的加州。成立以来，该乐团阵容有些许改变，现今乐团主要成员有：主唱扎克·德·拉·罗查、吉他手汤姆·莫雷洛、贝斯手蒂姆·科姆佛德及鼓手的布拉德添·威尔克。",
   "introLang": "zh",
+  "tracks": [
+    "キリング・イン・ザ・ネーム",
+    "Bulls on Parade",
+    "ボムトラック",
+    "Bullet in the Head",
+    "Freedom"
+  ],
+  "trackSources": [
+    {
+      "title": "キリング・イン・ザ・ネーム"
+    },
+    {
+      "title": "Bulls on Parade"
+    },
+    {
+      "title": "ボムトラック"
+    },
+    {
+      "title": "Bullet in the Head"
+    },
+    {
+      "title": "Freedom"
+    }
+  ],
+  "listens": 1375790,
+  "listeners": 18404,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3798b104-01cb-484c-a3b0-56adc6399b80"
@@ -49,7 +87,25 @@
       "label": "Tim Commerford・Brad Wilk",
       "detail": "2 位乐手在这两支乐队都待过：Tim Commerford・Brad Wilk。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "伯明翰",
+      "toYears": "1968–2025",
+      "type": "guest",
+      "label": "客串：Brad Wilk",
+      "detail": "MusicBrainz 录音资料显示，Brad Wilk参与了《Age of Reason》、《Loner》、《Live Forever》、《Methademic》等录音。",
+      "year": null,
+      "weight": 0.78,
+      "sources": [
+        "https://musicbrainz.org/recording/bbfa68c3-f300-40a9-ae10-e9af21d4d615",
+        "https://musicbrainz.org/recording/3346ade3-15c6-4bcc-9d34-8da0275448c6",
+        "https://musicbrainz.org/recording/4c4b2797-a333-468a-9a6e-39c481559803",
+        "https://musicbrainz.org/recording/9e4c7c46-f0e8-4688-a846-cb407eb29288"
+      ]
     },
     {
       "to": "fugazi",
@@ -60,7 +116,8 @@
       "label": "影响关系",
       "detail": "Rage Against the Machine 受 Fugazi 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "audioslave",
@@ -71,7 +128,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "axis-of-justice",
@@ -82,7 +140,8 @@
       "label": "Tom Morello",
       "detail": "Tom Morello 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -93,7 +152,8 @@
       "label": "Tom Morello",
       "detail": "Tom Morello 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "supergroup-b",
@@ -104,7 +164,8 @@
       "label": "Tom Morello",
       "detail": "Tom Morello 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dead-kennedys",
@@ -115,7 +176,8 @@
       "label": "影响关系",
       "detail": "Rage Against the Machine 受 Dead Kennedys 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "deftones",
@@ -126,7 +188,8 @@
       "label": "影响关系",
       "detail": "Rage Against the Machine 影响了 Deftones（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "jane-s-addiction",
@@ -137,7 +200,8 @@
       "label": "影响关系",
       "detail": "Rage Against the Machine 受 Jane’s Addiction 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "killing-joke",
@@ -148,7 +212,8 @@
       "label": "影响关系",
       "detail": "Rage Against the Machine 受 Killing Joke 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "linkin-park",
@@ -159,7 +224,8 @@
       "label": "影响关系",
       "detail": "Rage Against the Machine 影响了 Linkin Park（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "muse",
@@ -170,7 +236,8 @@
       "label": "影响关系",
       "detail": "Rage Against the Machine 影响了 Muse（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "primus",
@@ -181,7 +248,8 @@
       "label": "影响关系",
       "detail": "Rage Against the Machine 受 Primus 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -192,7 +260,8 @@
       "label": "影响关系",
       "detail": "Rage Against the Machine 受 Red Hot Chili Peppers 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "slipknot",
@@ -203,7 +272,8 @@
       "label": "影响关系",
       "detail": "Rage Against the Machine 影响了 Slipknot（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "suicidal-tendencies",
@@ -214,7 +284,8 @@
       "label": "影响关系",
       "detail": "Rage Against the Machine 受 Suicidal Tendencies 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "minor-threat",
@@ -225,7 +296,8 @@
       "label": "影响关系",
       "detail": "Rage Against the Machine 受 Minor Threat 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

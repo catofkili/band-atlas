@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Human Experimente是一支来自圣莫尼卡的音乐团体。",
+  "intro": "The Human Experimente是一支来自圣莫尼卡的音乐团体。MusicBrainz 还记录了它与King Crimson、Asia、Tool之间的成员往来。",
   "introLang": "zh",
+  "listens": 164,
+  "listeners": 51,
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c3c5f47b-0117-4bfa-ad28-ff7c8093faa2"
@@ -24,7 +34,8 @@
       "label": "John Wetton・Robert Fripp",
       "detail": "2 位乐手在这两支乐队都待过：John Wetton・Robert Fripp。",
       "year": 1972,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "asia",
@@ -35,7 +46,8 @@
       "label": "John Wetton",
       "detail": "John Wetton 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tool",
@@ -46,7 +58,8 @@
       "label": "Maynard James Keenan",
       "detail": "Maynard James Keenan 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "a-perfect-circle",
@@ -57,7 +70,8 @@
       "label": "Maynard James Keenan",
       "detail": "Maynard James Keenan 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "projekct-two",
@@ -68,7 +82,8 @@
       "label": "Robert Fripp",
       "detail": "Robert Fripp 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "discipline",
@@ -79,7 +94,8 @@
       "label": "Robert Fripp",
       "detail": "Robert Fripp 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "projekct-six",
@@ -90,7 +106,8 @@
       "label": "Robert Fripp",
       "detail": "Robert Fripp 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tapeworm",
@@ -101,7 +118,8 @@
       "label": "Maynard James Keenan",
       "detail": "Maynard James Keenan 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

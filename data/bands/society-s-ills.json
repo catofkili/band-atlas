@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Society's Ills是一支来自纽约的音乐团体。",
+  "intro": "Society's Ills是一支来自纽约的音乐团体。MusicBrainz 还记录了它与Redd Kross、Anywhere、Wylde Ratttz之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1d5e1b8c-9682-46c2-8efb-25cd94595f51"
@@ -24,7 +34,8 @@
       "label": "Dez Cadena",
       "detail": "Dez Cadena 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "anywhere",
@@ -35,7 +46,8 @@
       "label": "Mike Watt",
       "detail": "Mike Watt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "wylde-ratttz",
@@ -46,7 +58,8 @@
       "label": "Mike Watt",
       "detail": "Mike Watt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ciccone-youth",
@@ -57,7 +70,8 @@
       "label": "Mike Watt",
       "detail": "Mike Watt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lucky-sperms",
@@ -68,7 +82,8 @@
       "label": "Mike Watt",
       "detail": "Mike Watt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "puzzled-panthers",
@@ -79,7 +94,8 @@
       "label": "Dave Markey",
       "detail": "Dave Markey 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rodney-the-tube-tops",
@@ -90,7 +106,8 @@
       "label": "Dave Markey",
       "detail": "Dave Markey 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Beatbox 金牌一條順是一支来自香港的音乐团体。",
+  "intro": "Beatbox 金牌一條順是一支来自香港的音乐团体。MusicBrainz 还记录了它与RubberBand之间的成员往来。",
   "introLang": "zh",
+  "listens": 4,
+  "listeners": 3,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bacf9116-2f48-4af4-a056-c2b49dedda03"
@@ -24,7 +34,8 @@
       "label": "6號",
       "detail": "6號 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

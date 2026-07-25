@@ -35,6 +35,24 @@
   ],
   "intro": "Band of Skulls 是一支成立于2004年的英国南安普敦摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Sweet Sour"
+  ],
+  "trackSources": [
+    {
+      "title": "Sweet Sour"
+    }
+  ],
+  "listens": 117246,
+  "listeners": 4868,
+  "quality": {
+    "score": 75,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1641141b-3c9c-4772-a5cc-7e23fdf17382"
@@ -49,7 +67,8 @@
       "label": "Emma Richardson",
       "detail": "Emma Richardson 在这两支乐队都待过。",
       "year": 2024,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

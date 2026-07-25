@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1995–1996",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "Replicants",
@@ -15,6 +17,16 @@
   ],
   "intro": "Replicants是一支美国摇滚乐队。1995年，由离开Tourelle乐队的保罗·达穆尔、键盘手克里斯·皮特曼，以及Failure乐队的成员肯·安德鲁斯和格雷格·爱德华兹四人共同组建。",
   "introLang": "zh",
+  "listens": 1274,
+  "listeners": 81,
+  "quality": {
+    "score": 60,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/eed019ae-c8b6-4b4f-9675-1e7d1e6cc2d3"
@@ -29,7 +41,8 @@
       "label": "Chris Pitman・Paul D’Amour・Greg Edwards",
       "detail": "3 位乐手在这两支乐队都待过：Chris Pitman・Paul D’Amour・Greg Edwards。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "guns-n-roses",
@@ -40,7 +53,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tool",
@@ -51,7 +65,22 @@
       "label": "Paul D’Amour",
       "detail": "Paul D’Amour 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "blink-182",
+      "toName": "blink‐182",
+      "toArea": "美国",
+      "toYears": "1992–",
+      "type": "guest",
+      "label": "客串：Ken Andrews",
+      "detail": "MusicBrainz 录音资料显示，Ken Andrews参与了《Violence》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/16d5a741-1b6f-46cd-8612-cc66a45ec9f3"
+      ]
     },
     {
       "to": "sextapes",
@@ -62,7 +91,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beatrazr",
@@ -73,7 +103,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zaum",
@@ -84,7 +115,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -25,11 +25,21 @@
     }
   ],
   "intro": "五味岳久的三人组。从奈良起步，中途离开大厂牌自办唱片行与厂牌，是日本独立摇滚自给自足的一个样板。",
-  "introLang": "ja",
+  "introLang": "zh",
   "tracks": [
     "HELLO",
     "生活"
   ],
+  "listens": 1233,
+  "listeners": 96,
+  "quality": {
+    "score": 75,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/080d552a-7f29-490c-86c1-34108c547a98"
@@ -44,7 +54,8 @@
       "label": "共演・后辈",
       "detail": "五味岳久最敬重的前辈之一，两队多次同台。",
       "year": null,
-      "weight": 0.6
+      "weight": 0.6,
+      "sources": []
     },
     {
       "to": "eastern-youth",
@@ -55,7 +66,8 @@
       "label": "共演",
       "detail": "同属日本独立摇滚的自办体系，长期互相邀约。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

@@ -8,7 +8,9 @@
   "years": "1988–",
   "genres": [
     "另类摇滚",
-    "朋克"
+    "情绪摇滚",
+    "朋克",
+    "硬核朋克"
   ],
   "albums": [
     {
@@ -38,6 +40,16 @@
   ],
   "intro": "Samiam（发音为“sam-I-am”）是一支来自加利福尼亚州伯克利的美国朋克摇滚乐队，自1988年起活跃至今。",
   "introLang": "zh",
+  "listens": 41291,
+  "listeners": 1187,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/787aa69f-f419-4e24-8c13-33511a20428d"
@@ -52,7 +64,8 @@
       "label": "Tré Cool",
       "detail": "Tré Cool 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queens-of-the-stone-age",
@@ -63,7 +76,8 @@
       "label": "Victor Indrizzo",
       "detail": "Victor Indrizzo 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "redd-kross",
@@ -74,7 +88,8 @@
       "label": "Victor Indrizzo",
       "detail": "Victor Indrizzo 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-lookouts",
@@ -85,7 +100,8 @@
       "label": "Tré Cool",
       "detail": "Tré Cool 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-network",
@@ -96,7 +112,8 @@
       "label": "Tré Cool",
       "detail": "Tré Cool 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-tater-totz",
@@ -107,7 +124,8 @@
       "label": "Victor Indrizzo",
       "detail": "Victor Indrizzo 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "foxboro-hot-tubs",
@@ -118,7 +136,8 @@
       "label": "Tré Cool",
       "detail": "Tré Cool 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -19,6 +19,16 @@
   ],
   "intro": "Monsula 是一支来自美国加利福尼亚州旧金山湾区的美国朋克摇滚乐队。",
   "introLang": "zh",
+  "listens": 1537,
+  "listeners": 44,
+  "quality": {
+    "score": 52,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0bb07307-3785-4668-9e9e-1a36f9f36937"
@@ -33,7 +43,8 @@
       "label": "Bill Schneider",
       "detail": "Bill Schneider 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-influents",
@@ -44,7 +55,8 @@
       "label": "Bill Schneider",
       "detail": "Bill Schneider 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-ne-er-do-wells",
@@ -55,7 +67,8 @@
       "label": "Paul Curran",
       "detail": "Paul Curran 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-coverups",
@@ -66,7 +79,8 @@
       "label": "Bill Schneider",
       "detail": "Bill Schneider 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

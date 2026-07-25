@@ -10,6 +10,24 @@
   "albums": [],
   "intro": "《SCREAM》是摇滚乐队GLAY与舞蹈及演唱组合EXILE的合作歌曲。于2005年7月20日以“GLAY×EXILE”的名义作为单曲发行。",
   "introLang": "zh",
+  "tracks": [
+    "SCREAM (GLAY×EXILE)"
+  ],
+  "trackSources": [
+    {
+      "title": "SCREAM (GLAY×EXILE)"
+    }
+  ],
+  "listens": 126,
+  "listeners": 20,
+  "quality": {
+    "score": 49,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/70dc28e6-c597-49d4-90c7-e6b75509849e"
@@ -24,7 +42,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

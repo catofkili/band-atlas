@@ -8,7 +8,8 @@
   "years": "2002–",
   "genres": [
     "重金属",
-    "纯器乐"
+    "纯器乐",
+    "前衛搖滾"
   ],
   "albums": [
     {
@@ -26,6 +27,16 @@
   ],
   "intro": "Ra:IN是日本的硬式摇滚乐团，成军于2002年夏天。 自2004年开始，除了在日本国内持续进行音乐活动，也积极地向国际发展、受邀前往世界各地演出，目前已累积多次成功的海外表演经验。",
   "introLang": "zh",
+  "listens": 109,
+  "listeners": 21,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ca83a41c-10f4-424f-9c3b-d718c85b04f2"
@@ -40,7 +51,8 @@
       "label": "PATA",
       "detail": "PATA 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dope-headz",
@@ -51,7 +63,8 @@
       "label": "PATA",
       "detail": "PATA 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pink-spiders",
@@ -62,7 +75,8 @@
       "label": "PATA",
       "detail": "PATA 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

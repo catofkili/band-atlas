@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2007–2009",
-  "genres": [],
+  "genres": [
+    "民俗音樂"
+  ],
   "albums": [
     {
       "title": "ゴールデン・ヒッツ",
@@ -19,6 +21,16 @@
   ],
   "intro": "“和幸”是由加藤和彦与坂崎幸之助两人组成的组合。由于与加藤当时所在的“Sadistic Mika Band”有关，该组合签约的唱片公司是哥伦比亚音乐娱乐。",
   "introLang": "zh",
+  "listens": 65,
+  "listeners": 2,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/23d3f040-984d-4af3-ba40-49fbff73c415"
@@ -33,7 +45,8 @@
       "label": "坂崎幸之助・加藤和彦",
       "detail": "2 位乐手在这两支乐队都待过：坂崎幸之助・加藤和彦。",
       "year": 2007,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-alfee",
@@ -44,7 +57,8 @@
       "label": "坂崎幸之助",
       "detail": "坂崎幸之助 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "コンフィデンス",
@@ -55,7 +69,8 @@
       "label": "坂崎幸之助",
       "detail": "坂崎幸之助 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -6,10 +6,22 @@
   "countryCode": "FR",
   "country": "法国",
   "years": "1997–",
-  "genres": [],
+  "genres": [
+    "法国浩室"
+  ],
   "albums": [],
   "intro": "Le Knight Club 是一支法国电子乐队，由前法国电子乐二人组 Daft Punk 的成员 Guy-Manuel de Homem-Christo，以及来自 Pumpking Records 且艺名为 Rico the Wizard 的 Éric Chédeville 于 1997 年共同组建。",
   "introLang": "zh",
+  "listens": 7651,
+  "listeners": 494,
+  "quality": {
+    "score": 50,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/81739b1e-609d-4a63-beaa-4422ca5e278a"
@@ -24,7 +36,8 @@
       "label": "Guy‐Manuel de Homem‐Christo・Éric Chédeville",
       "detail": "2 位乐手在这两支乐队都待过：Guy‐Manuel de Homem‐Christo・Éric Chédeville。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "daft-punk",
@@ -35,7 +48,8 @@
       "label": "Guy‐Manuel de Homem‐Christo",
       "detail": "Guy‐Manuel de Homem‐Christo 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "darlin",
@@ -46,7 +60,8 @@
       "label": "Guy‐Manuel de Homem‐Christo",
       "detail": "Guy‐Manuel de Homem‐Christo 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

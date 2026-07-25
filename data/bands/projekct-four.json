@@ -6,10 +6,22 @@
   "countryCode": "GB",
   "country": "英国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "前衛搖滾"
+  ],
   "albums": [],
-  "intro": "ProjeKct Four是一支来自英国的音乐团体。",
+  "intro": "ProjeKct Four是一支来自英国的音乐团体，现有资料记录的主要风格包括前衛搖滾。MusicBrainz 还记录了它与King Crimson之间的成员往来。",
   "introLang": "zh",
+  "listens": 1437,
+  "listeners": 73,
+  "quality": {
+    "score": 7,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/75e06a90-dcaf-4bc2-9bc5-abe6a300dfdc"
@@ -24,7 +36,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

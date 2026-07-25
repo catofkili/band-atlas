@@ -9,7 +9,8 @@
   "genres": [
     "另类金属",
     "另类摇滚",
-    "前卫摇滚"
+    "前卫摇滚",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -19,6 +20,16 @@
   ],
   "intro": "The Birds of Satan 是一支美国前卫硬摇滚超级乐队，由 Foo Fighters 乐队的泰勒·霍金斯（Taylor Hawkins）于 2014 年组建，作为其个人副业项目。",
   "introLang": "zh",
+  "listens": 938,
+  "listeners": 119,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/93557aa9-1ced-421a-b026-5a0aee62fa75"
@@ -33,7 +44,8 @@
       "label": "Wiley Hodgden・Mick Murphy",
       "detail": "2 位乐手在这两支乐队都待过：Wiley Hodgden・Mick Murphy。",
       "year": 2012,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

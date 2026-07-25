@@ -2,15 +2,26 @@
   "id": "radio-darlings",
   "mbid": "23c50eb0-d6c6-41c9-8ada-b869744d4c0b",
   "name": "Radio Darlings",
-  "area": null,
-  "countryCode": null,
+  "area": "日本",
+  "countryCode": "JP",
   "country": null,
   "years": "2019–",
   "genres": [],
   "albums": [],
-  "intro": "Radio Darlings是一支音乐团体，活跃时期为2019–。",
+  "intro": "Radio Darlings是一支来自日本的音乐团体，活跃时期为2019–。MusicBrainz 还记录了它与KANA-BOON、Official髭男dism、橋本絵莉子波多野裕文之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 0,
+  "listeners": 0,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/23c50eb0-d6c6-41c9-8ada-b869744d4c0b"
   },
@@ -24,7 +35,8 @@
       "label": "谷口鮪",
       "detail": "谷口鮪 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "official髭男dism",
@@ -35,7 +47,8 @@
       "label": "藤原聡",
       "detail": "藤原聡 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "橋本絵莉子波多野裕文",
@@ -46,7 +59,8 @@
       "label": "橋本絵莉子",
       "detail": "橋本絵莉子 在这两支乐队都待过。",
       "year": 2016,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "possession-80-2-por-cento",
@@ -57,7 +71,8 @@
       "label": "谷口鮪",
       "detail": "谷口鮪 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sugar-the-radio-fire",
@@ -68,7 +83,8 @@
       "label": "谷口鮪",
       "detail": "谷口鮪 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

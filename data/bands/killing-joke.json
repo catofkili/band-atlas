@@ -9,7 +9,11 @@
   "genres": [
     "后朋克",
     "工业金属",
-    "新浪潮"
+    "新浪潮",
+    "工業金屬",
+    "哥德搖滾",
+    "後龐克",
+    "工業搖滾"
   ],
   "albums": [
     {
@@ -39,6 +43,32 @@
   ],
   "intro": "Killing Joke是一支来自英格兰的摇滚乐队。作为工业摇滚的代表性乐队而闻名。",
   "introLang": "zh",
+  "tracks": [
+    "ラヴ・ライク・ブラッド",
+    "Pandemonium",
+    "Wardance / Pssyche"
+  ],
+  "trackSources": [
+    {
+      "title": "ラヴ・ライク・ブラッド"
+    },
+    {
+      "title": "Pandemonium"
+    },
+    {
+      "title": "Wardance / Pssyche"
+    }
+  ],
+  "listens": 325312,
+  "listeners": 6268,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a"
@@ -53,7 +83,8 @@
       "label": "Paul Ferguson・Paul Raven・Geordie Walker・Youth",
       "detail": "4 位乐手在这两支乐队都待过：Paul Ferguson・Paul Raven・Geordie Walker・Youth。",
       "year": 1979,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "murder-inc",
@@ -64,7 +95,8 @@
       "label": "Paul Ferguson・Paul Raven・Geordie Walker",
       "detail": "3 位乐手在这两支乐队都待过：Paul Ferguson・Paul Raven・Geordie Walker。",
       "year": 1979,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "godflesh",
@@ -75,7 +107,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ministry",
@@ -86,7 +119,22 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "the-smiths",
+      "toName": "The Smiths",
+      "toArea": "曼彻斯特",
+      "toYears": "1982–1987",
+      "type": "guest",
+      "label": "客串：Killing Joke",
+      "detail": "MusicBrainz 录音资料显示，Killing Joke参与了《Alternative Classics》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/925325e4-8b9f-4ab1-be86-ee7139f915e6"
+      ]
     },
     {
       "to": "the-damage-manual",
@@ -97,7 +145,8 @@
       "label": "Geordie Walker",
       "detail": "Geordie Walker 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zilch",
@@ -108,7 +157,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "foo-fighters",
@@ -119,7 +169,8 @@
       "label": "影响关系",
       "detail": "Killing Joke 影响了 Foo Fighters（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "rage-against-the-machine",
@@ -130,7 +181,8 @@
       "label": "影响关系",
       "detail": "Killing Joke 影响了 Rage Against the Machine（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

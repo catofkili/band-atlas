@@ -9,7 +9,12 @@
   "genres": [
     "另类摇滚",
     "摇滚",
-    "后朋克"
+    "后朋克",
+    "朋克搖滾",
+    "軟式搖滾",
+    "後龐克",
+    "流行搖滾",
+    "搖滾舞曲"
   ],
   "albums": [
     {
@@ -39,6 +44,40 @@
   ],
   "intro": "U2是一支在1976年成立于都柏林的爱尔兰四人制摇滚乐乐团，自1980年代窜起走红之后，一直到了21世纪的今天，仍活跃于全球流行乐坛。",
   "introLang": "zh",
+  "tracks": [
+    "ワン",
+    "ウィズ・オア・ウィズアウト・ユー",
+    "ビューティフル・デイ",
+    "終わりなき旅",
+    "ニュー・イヤーズ・デイ"
+  ],
+  "trackSources": [
+    {
+      "title": "ワン"
+    },
+    {
+      "title": "ウィズ・オア・ウィズアウト・ユー"
+    },
+    {
+      "title": "ビューティフル・デイ"
+    },
+    {
+      "title": "終わりなき旅"
+    },
+    {
+      "title": "ニュー・イヤーズ・デイ"
+    }
+  ],
+  "listens": 1650903,
+  "listeners": 20289,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432"
@@ -53,7 +92,8 @@
       "label": "影响关系",
       "detail": "U2 受 Guns N’ Roses 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "artists-against-aids-worldwide",
@@ -64,7 +104,8 @@
       "label": "Bono",
       "detail": "Bono 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "band-aid-30",
@@ -75,73 +116,8 @@
       "label": "Bono",
       "detail": "Bono 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
-    },
-    {
-      "to": "lostprophets",
-      "toName": "Lostprophets",
-      "toArea": "庞蒂普里德",
-      "toYears": "1997–2013",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "U2 影响了 Lostprophets（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "pink-floyd",
-      "toName": "Pink Floyd",
-      "toArea": "伦敦",
-      "toYears": "1965–2014",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "U2 受 Pink Floyd 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "sex-pistols",
-      "toName": "Sex Pistols",
-      "toArea": "英国",
-      "toYears": null,
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "U2 受 Sex Pistols 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "the-beatles",
-      "toName": "The Beatles",
-      "toArea": "利物浦",
-      "toYears": "1960–1970",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "U2 受 The Beatles 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "the-rolling-stones",
-      "toName": "The Rolling Stones",
-      "toArea": "伦敦",
-      "toYears": "1962–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "U2 受 The Rolling Stones 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "the-who",
-      "toName": "The Who",
-      "toArea": "伦敦",
-      "toYears": "1964–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "U2 受 The Who 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "band-aid",
@@ -152,7 +128,80 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
+    },
+    {
+      "to": "lostprophets",
+      "toName": "Lostprophets",
+      "toArea": "庞蒂普里德",
+      "toYears": "1997–2013",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 影响了 Lostprophets（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "pink-floyd",
+      "toName": "Pink Floyd",
+      "toArea": "伦敦",
+      "toYears": "1965–2014",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 Pink Floyd 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "sex-pistols",
+      "toName": "Sex Pistols",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 Sex Pistols 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 The Beatles 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "the-rolling-stones",
+      "toName": "The Rolling Stones",
+      "toArea": "伦敦",
+      "toYears": "1962–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 The Rolling Stones 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "the-who",
+      "toName": "The Who",
+      "toArea": "伦敦",
+      "toYears": "1964–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 The Who 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

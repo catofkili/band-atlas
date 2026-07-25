@@ -8,7 +8,9 @@
   "years": "2022–",
   "genres": [
     "朋克",
-    "朋克摇滚"
+    "朋克摇滚",
+    "独立摇滚",
+    "後龐克"
   ],
   "albums": [
     {
@@ -18,6 +20,16 @@
   ],
   "intro": "Die Spitz 是一支来自德克萨斯州奥斯汀的美国摇滚乐队，成员包括吉他手/主唱/鼓手 Ava Schrobilgen、吉他手/主唱 Eleanor Livingston、贝斯手 Kate Halter 以及鼓手/主唱/吉他手 Chloe de St.",
   "introLang": "zh",
+  "listens": 25800,
+  "listeners": 1349,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/81cefa59-d9cd-410f-ac11-7b66519a9514"
@@ -32,7 +44,8 @@
       "label": "影响关系",
       "detail": "Die Spitz 受 Pixies 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "nirvana",
@@ -43,7 +56,8 @@
       "label": "影响关系",
       "detail": "Die Spitz 受 Nirvana 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "black-sabbath",
@@ -54,7 +68,8 @@
       "label": "影响关系",
       "detail": "Die Spitz 受 Black Sabbath 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "mudhoney",
@@ -65,7 +80,8 @@
       "label": "影响关系",
       "detail": "Die Spitz 受 Mudhoney 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

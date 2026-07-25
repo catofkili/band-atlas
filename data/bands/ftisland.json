@@ -7,7 +7,10 @@
   "country": "韩国",
   "years": "2007–",
   "genres": [
-    "流行摇滚"
+    "流行摇滚",
+    "硬式搖滾",
+    "韓國流行音樂",
+    "放克搖滾"
   ],
   "albums": [
     {
@@ -37,6 +40,40 @@
   ],
   "intro": "FTISLAND，韩国流行摇滚乐团。是FNC娱乐公司旗下首支乐团，也是韩国流行音乐中第一个偶像乐团。现任成员有主唱李洪基、贝斯手李在真和鼓手崔敏焕。",
   "introLang": "zh",
+  "tracks": [
+    "SATISFACTION (FTISLAND單曲)",
+    "Distance (FTIsland單曲)",
+    "Let it go! (FTIsland單曲)",
+    "NEVERLAND (單曲)",
+    "So today…"
+  ],
+  "trackSources": [
+    {
+      "title": "SATISFACTION (FTISLAND單曲)"
+    },
+    {
+      "title": "Distance (FTIsland單曲)"
+    },
+    {
+      "title": "Let it go! (FTIsland單曲)"
+    },
+    {
+      "title": "NEVERLAND (單曲)"
+    },
+    {
+      "title": "So today…"
+    }
+  ],
+  "listens": 72854,
+  "listeners": 476,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dea836e0-66dd-4285-9cab-2272bcda93b8"
@@ -51,7 +88,8 @@
       "label": "최종훈・최민환・이재진・副项目",
       "detail": "4 位乐手在这两支乐队都待过：최종훈・최민환・이재진・副项目。",
       "year": 2007,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "a-n-jell",
@@ -62,7 +100,8 @@
       "label": "이홍기",
       "detail": "이홍기 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

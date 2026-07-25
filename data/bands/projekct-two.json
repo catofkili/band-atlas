@@ -9,7 +9,8 @@
   "genres": [
     "前卫摇滚",
     "兼收并蓄的前卫摇滚",
-    "实验摇滚"
+    "实验摇滚",
+    "前衛搖滾"
   ],
   "albums": [
     {
@@ -17,8 +18,18 @@
       "year": 1998
     }
   ],
-  "intro": "ProjeKct Two是一支以前卫摇滚、兼收并蓄的前卫摇滚为主要风格的音乐团体，活跃时期为1997–1998。",
+  "intro": "ProjeKct Two是一支音乐团体，活跃时期为1997–1998，现有资料记录的主要风格包括前卫摇滚、兼收并蓄的前卫摇滚、实验摇滚。目前资料收录了《Space Groove》等作品；MusicBrainz 还记录了它与King Crimson、Discipline、ProjeKct Six之间的成员往来。",
   "introLang": "zh",
+  "listens": 2383,
+  "listeners": 119,
+  "quality": {
+    "score": 28,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/74a2ff82-992b-4696-b603-c6f747bec2b7"
@@ -33,7 +44,8 @@
       "label": "Robert Fripp・Trey Gunn・副项目",
       "detail": "3 位乐手在这两支乐队都待过：Robert Fripp・Trey Gunn・副项目。",
       "year": 1968,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "discipline",
@@ -44,7 +56,8 @@
       "label": "Robert Fripp",
       "detail": "Robert Fripp 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "projekct-six",
@@ -55,7 +68,8 @@
       "label": "Robert Fripp",
       "detail": "Robert Fripp 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-human-experimente",
@@ -66,7 +80,8 @@
       "label": "Robert Fripp",
       "detail": "Robert Fripp 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

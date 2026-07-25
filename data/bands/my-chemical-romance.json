@@ -8,7 +8,12 @@
   "years": "2001–",
   "genres": [
     "流行朋克",
-    "另类摇滚"
+    "另类摇滚",
+    "情绪摇滚",
+    "朋克搖滾",
+    "另類金屬",
+    "硬式搖滾",
+    "後硬核"
   ],
   "albums": [
     {
@@ -34,11 +39,59 @@
   ],
   "intro": "我的化学浪漫是一组来自美国新泽西的摇滚乐团，成立于2001年，解散于2013年，后于2019年10月31日宣布回归。在乐队的大部分时间，乐队由杰洛德·威、麦基·威、弗兰克·伊罗、雷·托罗和鲍伯·布莱亚五人组成。",
   "introLang": "zh",
+  "tracks": [
+    "ウェルカム・トゥ・ザ・ブラック・パレード",
+    "青年",
+    "Helena (마이 케미컬 로맨스의 노래)",
+    "アイ・ドント・ラヴ・ユー",
+    "The Ghost of You"
+  ],
+  "trackSources": [
+    {
+      "title": "ウェルカム・トゥ・ザ・ブラック・パレード"
+    },
+    {
+      "title": "青年"
+    },
+    {
+      "title": "Helena (마이 케미컬 로맨스의 노래)"
+    },
+    {
+      "title": "アイ・ドント・ラヴ・ユー"
+    },
+    {
+      "title": "The Ghost of You"
+    }
+  ],
+  "listens": 2123707,
+  "listeners": 18162,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"
   },
   "edges": [
+    {
+      "to": "weezer",
+      "toName": "Weezer",
+      "toArea": "洛杉矶",
+      "toYears": "1992–",
+      "type": "guest",
+      "label": "客串：Weezer",
+      "detail": "MusicBrainz 录音资料显示，Weezer参与了《Beverly Hills Na》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/bcb05a9b-2742-41f4-b172-97b376ce005d"
+      ]
+    },
     {
       "to": "the-smiths",
       "toName": "The Smiths",
@@ -48,7 +101,8 @@
       "label": "影响关系",
       "detail": "My Chemical Romance 受 The Smiths 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

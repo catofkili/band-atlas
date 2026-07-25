@@ -9,7 +9,9 @@
   "genres": [
     "华丽金属",
     "重金属",
-    "嘻哈、R&B 和舞厅音乐"
+    "嘻哈、R&B 和舞厅音乐",
+    "硬式搖滾",
+    "華麗金屬"
   ],
   "albums": [
     {
@@ -31,6 +33,16 @@
   ],
   "intro": "London是一支美国华丽金属乐队，于1978年在加利福尼亚州好莱坞成立。",
   "introLang": "zh",
+  "listens": 920,
+  "listeners": 74,
+  "quality": {
+    "score": 71,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2df26979-0928-49fc-98e8-063d42bfbba1"
@@ -45,7 +57,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sixx-a-m",
@@ -56,7 +69,8 @@
       "label": "Nikki Sixx",
       "detail": "Nikki Sixx 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "izzy-stradlin-and-the-ju-ju-hounds",
@@ -67,7 +81,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hollywood-rose",
@@ -78,7 +93,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-atoms",
@@ -89,7 +105,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

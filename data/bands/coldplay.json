@@ -39,6 +39,40 @@
   ],
   "intro": "酷玩乐队是成立于1997年，来自英国英格兰伦敦的另类摇滚乐团。团员包括克里斯·马丁、强尼·巴克兰、盖伊·贝里曼及威尔·钱皮恩。乐团最早成形于马丁与巴克兰就读于伦敦大学学院时期。",
   "introLang": "zh",
+  "tracks": [
+    "Yellow",
+    "時鐘（歌曲）",
+    "科學家",
+    "如此而已",
+    "填滿你的心"
+  ],
+  "trackSources": [
+    {
+      "title": "Yellow"
+    },
+    {
+      "title": "時鐘（歌曲）"
+    },
+    {
+      "title": "科學家"
+    },
+    {
+      "title": "如此而已"
+    },
+    {
+      "title": "填滿你的心"
+    }
+  ],
+  "listens": 3502635,
+  "listeners": 28461,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cc197bad-dc9c-440d-a5b5-d52ba2e14234"
@@ -53,7 +87,8 @@
       "label": "Guy Berryman",
       "detail": "Guy Berryman 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "artists-against-aids-worldwide",
@@ -64,7 +99,8 @@
       "label": "Chris Martin",
       "detail": "Chris Martin 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "band-aid-30",
@@ -75,7 +111,8 @@
       "label": "Chris Martin",
       "detail": "Chris Martin 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "los-unidades",
@@ -86,7 +123,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

@@ -8,7 +8,8 @@
   "years": "2009–",
   "genres": [
     "另类摇滚",
-    "后摇滚"
+    "后摇滚",
+    "前衛搖滾"
   ],
   "albums": [
     {
@@ -25,13 +26,23 @@
     }
   ],
   "intro": "细美武士在 ELLEGARDEN 休止后召集的乐队，成员分别来自四支不同的知名乐队，编曲比本行复杂得多。",
-  "introLang": "ja",
+  "introLang": "zh",
   "tracks": [
     "Twisted Maple Trees",
     "Insomnia",
     "Silver Birch",
     "Bittersweet / Hatsukoi"
   ],
+  "listens": 6313,
+  "listeners": 233,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/03a457ae-2307-4e7f-bc99-ae48316a214f"
@@ -46,7 +57,8 @@
       "label": "細美武士",
       "detail": "ELLEGARDEN 主唱細美武士在母队休止期间组建的乐队。",
       "year": 2009,
-      "weight": 0.9
+      "weight": 0.9,
+      "sources": []
     },
     {
       "to": "thee-michelle-gun-elephant",
@@ -57,7 +69,8 @@
       "label": "ウエノコウジ",
       "detail": "贝斯手ウエノコウジ来自九十年代的 thee michelle gun elephant。",
       "year": 2009,
-      "weight": 0.7
+      "weight": 0.7,
+      "sources": []
     },
     {
       "to": "東京事変",
@@ -68,7 +81,8 @@
       "label": "伊澤一葉",
       "detail": "伊澤一葉 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "monoeyes",
@@ -79,7 +93,8 @@
       "label": "細美武士",
       "detail": "細美武士 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "toe",
@@ -90,7 +105,8 @@
       "label": "柏倉隆史",
       "detail": "柏倉隆史 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "neil-iraiza",
@@ -101,7 +117,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pupa",
@@ -112,7 +129,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "radio-caroline",
@@ -123,7 +141,8 @@
       "label": "ウエノコウジ",
       "detail": "ウエノコウジ 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-king-all-stars",
@@ -134,7 +153,8 @@
       "label": "ウエノコウジ",
       "detail": "ウエノコウジ 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ka-f-ka",
@@ -145,7 +165,8 @@
       "label": "ウエノコウジ",
       "detail": "ウエノコウジ 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "singer-songer",
@@ -156,7 +177,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beefeater",
@@ -167,7 +189,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-low-atus",
@@ -178,7 +201,8 @@
       "label": "細美武士",
       "detail": "細美武士 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "viva-la-j-rock-anthems",
@@ -189,7 +213,8 @@
       "label": "伊澤一葉",
       "detail": "伊澤一葉 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

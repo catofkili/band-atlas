@@ -8,7 +8,8 @@
   "years": "1990–",
   "genres": [
     "另类摇滚",
-    "硬摇滚"
+    "硬摇滚",
+    "油漬搖滾"
   ],
   "albums": [
     {
@@ -38,6 +39,40 @@
   ],
   "intro": "Stone Temple Pilots是一支来自美国圣地亚哥的摇滚乐队。简称STP。",
   "introLang": "zh",
+  "tracks": [
+    "絲絨 (石廟嚮導歌曲)",
+    "Creep",
+    "Sex Type Thing",
+    "Down",
+    "Trippin' on a Hole in a Paper Heart"
+  ],
+  "trackSources": [
+    {
+      "title": "絲絨 (石廟嚮導歌曲)"
+    },
+    {
+      "title": "Creep"
+    },
+    {
+      "title": "Sex Type Thing"
+    },
+    {
+      "title": "Down"
+    },
+    {
+      "title": "Trippin' on a Hole in a Paper Heart"
+    }
+  ],
+  "listens": 578256,
+  "listeners": 11616,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8c32bb01-58a3-453b-8050-8c0620edb0e5"
@@ -52,7 +87,8 @@
       "label": "Dean DeLeo・Robert DeLeo",
       "detail": "2 位乐手在这两支乐队都待过：Dean DeLeo・Robert DeLeo。",
       "year": 2005,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "camp-freddy",
@@ -63,7 +99,8 @@
       "label": "Chester Bennington・Scott Weiland",
       "detail": "2 位乐手在这两支乐队都待过：Chester Bennington・Scott Weiland。",
       "year": 2013,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "linkin-park",
@@ -74,7 +111,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "grey-daze",
@@ -85,7 +123,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "art-of-anarchy",
@@ -96,7 +135,8 @@
       "label": "Scott Weiland",
       "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "velvet-revolver",
@@ -107,7 +147,8 @@
       "label": "Scott Weiland",
       "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dead-by-sunrise",
@@ -118,7 +159,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "artists-against-aids-worldwide",
@@ -129,7 +171,8 @@
       "label": "Scott Weiland",
       "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kings-of-chaos",
@@ -140,7 +183,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sean-dowdell-and-his-friends",
@@ -151,7 +195,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

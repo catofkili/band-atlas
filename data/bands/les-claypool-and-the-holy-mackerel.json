@@ -17,8 +17,18 @@
       "year": 1996
     }
   ],
-  "intro": "Les Claypool and the Holy Mackerel是一支来自伯克利的以实验音乐、放克为主要风格的音乐团体，活跃时期为1996–1996。",
+  "intro": "Les Claypool and the Holy Mackerel是一支来自伯克利的音乐团体，活跃时期为1996–1996，现有资料记录的主要风格包括实验音乐、放克、摇滚。目前资料收录了《Highball With the Devil》等作品；MusicBrainz 还记录了它与Festus Clamrod and the El Sobrante Twangers、Primus、Limbomaniacs之间的成员往来。",
   "introLang": "zh",
+  "listens": 6217,
+  "listeners": 489,
+  "quality": {
+    "score": 29,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3dd83e1a-7de2-45fe-ae02-e152a077ccfc"
@@ -33,7 +43,8 @@
       "label": "Les Claypool・Mark \"Mirv\" Haggard",
       "detail": "2 位乐手在这两支乐队都待过：Les Claypool・Mark \"Mirv\" Haggard。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "primus",
@@ -44,7 +55,8 @@
       "label": "Les Claypool",
       "detail": "Les Claypool 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "limbomaniacs",
@@ -55,7 +67,8 @@
       "label": "Mark \"Mirv\" Haggard",
       "detail": "Mark \"Mirv\" Haggard 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "colonel-claypool-s-bucket-of-bernie-brains",
@@ -66,7 +79,8 @@
       "label": "Les Claypool",
       "detail": "Les Claypool 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bluescreen",
@@ -77,7 +91,8 @@
       "label": "Joe Gore",
       "detail": "Joe Gore 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

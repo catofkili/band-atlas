@@ -18,6 +18,16 @@
   ],
   "intro": "The Amps 是一支美国摇滚乐队。1995年，以当时正处于休团期的 The Breeders 乐队成员金·迪尔为核心组建而成。",
   "introLang": "zh",
+  "listens": 12122,
+  "listeners": 1036,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5e4ad809-a048-427d-b0e4-a6761de9c220"
@@ -32,7 +42,8 @@
       "label": "Kim Deal・Jim MacPherson・Nate Farley",
       "detail": "3 位乐手在这两支乐队都待过：Kim Deal・Jim MacPherson・Nate Farley。",
       "year": 1989,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "pixies",
@@ -43,7 +54,8 @@
       "label": "Kim Deal",
       "detail": "Kim Deal 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

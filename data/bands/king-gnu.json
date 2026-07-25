@@ -7,7 +7,10 @@
   "country": "日本",
   "years": "2013–",
   "genres": [
-    "流行摇滚"
+    "流行摇滚",
+    "摇滚乐",
+    "另类摇滚",
+    "日本流行音樂"
   ],
   "albums": [
     {
@@ -33,6 +36,40 @@
   ],
   "intro": "King Gnu是一个日本4人摇滚乐队，于2017年以常田大希为核心结成。现为日本索尼音乐旗下艺人。",
   "introLang": "zh",
+  "tracks": [
+    "白日",
+    "SPECIALZ",
+    "一途 / 逆夢",
+    "變色龍",
+    "TWILIGHT!!!"
+  ],
+  "trackSources": [
+    {
+      "title": "白日"
+    },
+    {
+      "title": "SPECIALZ"
+    },
+    {
+      "title": "一途 / 逆夢"
+    },
+    {
+      "title": "變色龍"
+    },
+    {
+      "title": "TWILIGHT!!!"
+    }
+  ],
+  "listens": 120160,
+  "listeners": 3870,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/338f5d97-3133-4bf8-a58e-068ff9b5405d"
@@ -47,7 +84,8 @@
       "label": "新井和輝・勢喜遊・常田大希",
       "detail": "3 位乐手在这两支乐队都待过：新井和輝・勢喜遊・常田大希。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     }
   ]
 }

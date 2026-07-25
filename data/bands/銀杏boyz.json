@@ -34,6 +34,40 @@
   ],
   "intro": "银杏BOYZ 是日本的一支摇滚乐队。有时也被写作“银杏男孩”。",
   "introLang": "zh",
+  "tracks": [
+    "あいどんわなだい",
+    "ピンクローター",
+    "ボーイズ・オン・ザ・ラン (銀杏BOYZの曲)",
+    "光 (銀杏BOYZの曲)",
+    "17才 (銀杏BOYZの曲)"
+  ],
+  "trackSources": [
+    {
+      "title": "あいどんわなだい"
+    },
+    {
+      "title": "ピンクローター"
+    },
+    {
+      "title": "ボーイズ・オン・ザ・ラン (銀杏BOYZの曲)"
+    },
+    {
+      "title": "光 (銀杏BOYZの曲)"
+    },
+    {
+      "title": "17才 (銀杏BOYZの曲)"
+    }
+  ],
+  "listens": 15039,
+  "listeners": 625,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5fb91901-b627-4b03-b7f4-b17cc4649c19"
@@ -48,7 +82,8 @@
       "label": "峯田和伸",
       "detail": "峯田和伸 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ねらわれた学園",
@@ -59,7 +94,8 @@
       "label": "峯田和伸",
       "detail": "峯田和伸 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "銀杏boyzと壊れたバイブレーターズ",
@@ -70,7 +106,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

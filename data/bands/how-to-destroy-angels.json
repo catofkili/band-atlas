@@ -9,7 +9,8 @@
   "genres": [
     "电子音乐",
     "黑暗氛围音乐",
-    "实验电子音乐"
+    "实验电子音乐",
+    "工業音樂"
   ],
   "albums": [
     {
@@ -19,6 +20,16 @@
   ],
   "intro": "How to Destroy Angels 是一支在美国组建的乐队。由九寸钉乐队的主唱特伦特·雷兹诺与其妻子玛丽奎恩·曼迪格、阿提库斯·罗斯共同组建。",
   "introLang": "zh",
+  "listens": 125178,
+  "listeners": 3918,
+  "quality": {
+    "score": 71,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/143b396d-a678-43aa-8c74-628fea8e381f"
@@ -33,7 +44,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "12-rounds",
@@ -44,7 +56,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "error",
@@ -55,7 +68,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tapeworm",
@@ -66,7 +80,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "witchgang",
@@ -77,7 +92,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

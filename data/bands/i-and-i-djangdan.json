@@ -13,8 +13,18 @@
       "year": 2010
     }
   ],
-  "intro": "I and I Djangdan是一支来自韩国的音乐团体，活跃时期为2008–。",
+  "intro": "I and I Djangdan是一支来自韩国的音乐团体，活跃时期为2008–。目前资料收录了《Guidance》等作品；MusicBrainz 还记录了它与Windy City、언니네 이발관、Asoto Union之间的成员往来。",
   "introLang": "zh",
+  "listens": 72,
+  "listeners": 11,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/75a66f67-4d2a-448e-acdf-3000268af6d1"
@@ -29,7 +39,8 @@
       "label": "김반장・François Rialland",
       "detail": "2 位乐手在这两支乐队都待过：김반장・François Rialland。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "언니네-이발관",
@@ -40,7 +51,8 @@
       "label": "김반장",
       "detail": "김반장 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "asoto-union",
@@ -51,7 +63,22 @@
       "label": "김반장",
       "detail": "김반장 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "windy-city",
+      "toName": "Windy City",
+      "toArea": "韩国",
+      "toYears": "2005–",
+      "type": "guest",
+      "label": "客串：송영우",
+      "detail": "MusicBrainz 录音资料显示，송영우参与了《Carnival (I'll Tek Kyu Deh!)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/6bcd8a10-63f5-4dfb-9322-bb027cfdd006"
+      ]
     }
   ]
 }

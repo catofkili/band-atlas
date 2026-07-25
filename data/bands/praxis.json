@@ -9,7 +9,8 @@
   "genres": [
     "前卫",
     "实验音乐",
-    "放克"
+    "放克",
+    "實驗搖滾"
   ],
   "albums": [
     {
@@ -35,6 +36,16 @@
   ],
   "intro": "Praxis 是一个实验摇滚项目，由制作人兼贝斯手比尔·拉斯韦尔（Bill Laswell）领衔，吉他手巴克特海德（Buckethead）和鼓手布莱恩（Brain）几乎参与了该乐队的所有阵容。",
   "introLang": "zh",
+  "listens": 12964,
+  "listeners": 628,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a92a55c3-5780-40ad-89c2-e62e58b2bc32"
@@ -49,7 +60,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "material",
@@ -60,7 +72,8 @@
       "label": "Bill Laswell",
       "detail": "Bill Laswell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "parliament",
@@ -71,7 +84,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -82,7 +96,8 @@
       "label": "Mick Harris",
       "detail": "Mick Harris 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "public-image-ltd",
@@ -93,7 +108,8 @@
       "label": "Bill Laswell",
       "detail": "Bill Laswell 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "divination",
@@ -104,7 +120,8 @@
       "label": "Bill Laswell",
       "detail": "Bill Laswell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "parliament-funkadelic",
@@ -115,7 +132,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "shin-e",
@@ -126,7 +144,8 @@
       "label": "Bill Laswell",
       "detail": "Bill Laswell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "axiom-funk",
@@ -137,7 +156,8 @@
       "label": "Bill Laswell",
       "detail": "Bill Laswell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "science-faxtion",
@@ -148,7 +168,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-p-funk-mob",
@@ -159,7 +180,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "world-wide-funkdrive",
@@ -170,7 +192,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

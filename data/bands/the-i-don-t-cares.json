@@ -6,7 +6,9 @@
   "countryCode": null,
   "country": null,
   "years": "2015–",
-  "genres": [],
+  "genres": [
+    "摇滚乐"
+  ],
   "albums": [
     {
       "title": "Wild Stab",
@@ -15,6 +17,16 @@
   ],
   "intro": "The I Don't Cares 是保罗·韦斯特伯格（Paul Westerberg）与朱莉安娜·哈特菲尔德（Juliana Hatfield）合作组建的乐队，于2016年1月发行了首张专辑《Wild Stab》。",
   "introLang": "zh",
+  "listens": 2211,
+  "listeners": 147,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0efa265c-e11a-4a37-a0de-5b40417587de"
@@ -29,7 +41,8 @@
       "label": "Paul Westerberg",
       "detail": "Paul Westerberg 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

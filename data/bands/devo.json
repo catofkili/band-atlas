@@ -9,7 +9,8 @@
   "genres": [
     "新浪潮",
     "后朋克",
-    "艺术朋克"
+    "艺术朋克",
+    "艺术摇滚"
   ],
   "albums": [
     {
@@ -39,6 +40,40 @@
   ],
   "intro": "Divo是一支于1973年在美国俄亥俄州阿克伦市成立的摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Whip It",
+    "Freedom of Choice",
+    "Girl U Want",
+    "Here to Go",
+    "Be Stiff"
+  ],
+  "trackSources": [
+    {
+      "title": "Whip It"
+    },
+    {
+      "title": "Freedom of Choice"
+    },
+    {
+      "title": "Girl U Want"
+    },
+    {
+      "title": "Here to Go"
+    },
+    {
+      "title": "Be Stiff"
+    }
+  ],
+  "listens": 339585,
+  "listeners": 8668,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d2db1078-c170-4e22-b261-14f3ad60a690"
@@ -53,7 +88,22 @@
       "label": "David Kendrick",
       "detail": "David Kendrick 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "the-smiths",
+      "toName": "The Smiths",
+      "toArea": "曼彻斯特",
+      "toYears": "1982–1987",
+      "type": "guest",
+      "label": "客串：DEVO",
+      "detail": "MusicBrainz 录音资料显示，DEVO参与了《Alternative Classics》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/925325e4-8b9f-4ab1-be86-ee7139f915e6"
+      ]
     },
     {
       "to": "jihad-jerry-the-evildoers",
@@ -64,7 +114,8 @@
       "label": "Gerald Casale",
       "detail": "Gerald Casale 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

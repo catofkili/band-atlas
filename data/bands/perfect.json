@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1995–1998",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "Once, Twice, Three Times a Maybe",
@@ -15,6 +17,16 @@
   ],
   "intro": "Perfect是一支美国另类摇滚乐队，由前The Replacements乐队成员汤米·斯廷森（Tommy Stinson）于1995年在明尼苏达州明尼阿波利斯市组建，此前他所在的乐队Bash & Pop刚刚解散。",
   "introLang": "zh",
+  "listens": 402,
+  "listeners": 51,
+  "quality": {
+    "score": 60,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/de69798a-4d18-40e5-889e-f26580a2d62a"
@@ -29,7 +41,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "frank-black-and-the-catholics",
@@ -40,7 +53,8 @@
       "label": "Dave Philips",
       "detail": "Dave Philips 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-replacements",
@@ -51,7 +65,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bash-pop",
@@ -62,7 +77,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "cowboys-in-the-campfire",
@@ -73,7 +89,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-a-m-f",
@@ -84,7 +101,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "latter-revelation-company-singers",
@@ -95,7 +113,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jacks",
@@ -106,7 +125,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

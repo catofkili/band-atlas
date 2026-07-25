@@ -2,8 +2,8 @@
   "id": "col-parker",
   "mbid": "cf53fd12-9abf-4115-a099-65a9d7160c00",
   "name": "Col. Parker",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
@@ -13,9 +13,20 @@
       "year": 2001
     }
   ],
-  "intro": "Col. Parker是一支音乐团体。",
+  "intro": "Col. Parker是一支来自美国的音乐团体。目前资料收录了《Rock'n'Roll Music》等作品；MusicBrainz 还记录了它与L.A. Guns、Slash’s Blues Ball之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 78,
+  "listeners": 7,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cf53fd12-9abf-4115-a099-65a9d7160c00"
   },
@@ -29,7 +40,8 @@
       "label": "Mark \"Muddy\" Dutton",
       "detail": "Mark \"Muddy\" Dutton 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "slash-s-blues-ball",
@@ -40,7 +52,8 @@
       "label": "Teddy Andreadis",
       "detail": "Teddy Andreadis 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

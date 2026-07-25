@@ -8,7 +8,12 @@
   "years": "1985–",
   "genres": [
     "工业摇滚",
-    "另类摇滚"
+    "另类摇滚",
+    "另類金屬",
+    "硬式搖滾",
+    "工業金屬",
+    "新金屬",
+    "工業搖滾"
   ],
   "albums": [
     {
@@ -34,6 +39,16 @@
   ],
   "intro": "Stabbing Westward 是一支美国工业摇滚乐队。",
   "introLang": "zh",
+  "listens": 101501,
+  "listeners": 3099,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6f29020d-49c1-4e26-869a-0603d14b7ca7"
@@ -48,7 +63,8 @@
       "label": "Andy Kubiszewski",
       "detail": "Andy Kubiszewski 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sic",
@@ -59,7 +75,8 @@
       "label": "Andy Kubiszewski",
       "detail": "Andy Kubiszewski 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

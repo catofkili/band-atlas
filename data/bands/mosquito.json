@@ -7,7 +7,8 @@
   "country": "美国",
   "years": "1992–",
   "genres": [
-    "摇滚"
+    "摇滚",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -31,8 +32,18 @@
       "year": 2024
     }
   ],
-  "intro": "Mosquito是一支来自美国的以摇滚为主要风格的音乐团体，活跃时期为1992–。",
+  "intro": "Mosquito是一支来自美国的音乐团体，活跃时期为1992–，现有资料记录的主要风格包括摇滚、摇滚乐。目前资料收录了《U.F.O. Catcher》、《Time Was》等作品；MusicBrainz 还记录了它与Male Slut之间的成员往来。",
   "introLang": "zh",
+  "listens": 751,
+  "listeners": 110,
+  "quality": {
+    "score": 21,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2d30afab-d504-4a9c-9679-3a28bb1f9405"
@@ -47,7 +58,8 @@
       "label": "Tim Foljahn",
       "detail": "Tim Foljahn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

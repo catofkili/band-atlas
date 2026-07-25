@@ -8,7 +8,11 @@
   "years": "2006–",
   "genres": [
     "摇滚",
-    "_private 标签 1"
+    "_private 标签 1",
+    "摇滚乐",
+    "流行音乐",
+    "日本流行音樂",
+    "流行搖滾"
   ],
   "albums": [
     {
@@ -34,6 +38,28 @@
   ],
   "intro": "相对性理论，是来自日本东京的乐队，成立于2006年九月。自称“Youtube影像时代的流行艺术家”，积极进行LIVE活动与音乐合作。",
   "introLang": "zh",
+  "tracks": [
+    "暴亂與待機",
+    "アワーミュージック"
+  ],
+  "trackSources": [
+    {
+      "title": "暴亂與待機"
+    },
+    {
+      "title": "アワーミュージック"
+    }
+  ],
+  "listens": 71269,
+  "listeners": 763,
+  "quality": {
+    "score": 84,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ead227f6-7689-46b6-9fd2-3f6a37acbdc1"
@@ -48,7 +74,8 @@
       "label": "永井聖一・やくしまるえつこ・ZAK",
       "detail": "3 位乐手在这两支乐队都待过：永井聖一・やくしまるえつこ・ZAK。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "集団行動",
@@ -59,7 +86,8 @@
       "label": "真部脩一・西浦謙助",
       "detail": "2 位乐手在这两支乐队都待过：真部脩一・西浦謙助。",
       "year": 2017,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "フォークデュオ",
@@ -70,7 +98,8 @@
       "label": "真部脩一・西浦謙助",
       "detail": "2 位乐手在这两支乐队都待过：真部脩一・西浦謙助。",
       "year": 2006,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "luminous-orange",
@@ -81,7 +110,8 @@
       "label": "西浦謙助",
       "detail": "西浦謙助 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "vampillia",
@@ -92,7 +122,8 @@
       "label": "真部脩一",
       "detail": "真部脩一 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "古都の夕べ",
@@ -103,7 +134,8 @@
       "label": "真部脩一",
       "detail": "真部脩一 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "violent-magic-orchestra",
@@ -114,7 +146,8 @@
       "label": "真部脩一",
       "detail": "真部脩一 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "testset",
@@ -125,7 +158,8 @@
       "label": "永井聖一",
       "detail": "永井聖一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "qubit",
@@ -136,7 +170,22 @@
       "label": "永井聖一",
       "detail": "永井聖一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "metafive",
+      "toName": "METAFIVE",
+      "toArea": "日本",
+      "toYears": "2014–",
+      "type": "guest",
+      "label": "客串：小山田圭吾",
+      "detail": "MusicBrainz 录音资料显示，小山田圭吾参与了《QKMAC》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/0eeb6ba7-e844-43a3-8b63-466bfdb4471e"
+      ]
     },
     {
       "to": "xavier",
@@ -147,7 +196,8 @@
       "label": "ZAK",
       "detail": "ZAK 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "やくしまるえつこメトロオーケストラ",
@@ -158,7 +208,22 @@
       "label": "やくしまるえつこ",
       "detail": "やくしまるえつこ 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "press-rider",
+      "toName": "PRESS RIDER",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：土方隆行",
+      "detail": "MusicBrainz 录音资料显示，土方隆行参与了《QHPMAS》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/1fa28970-197d-42a4-9b71-90826c890585"
+      ]
     }
   ]
 }

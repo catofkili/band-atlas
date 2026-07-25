@@ -9,7 +9,9 @@
   "genres": [
     "摇滚",
     "柔和摇滚",
-    "经典摇滚"
+    "经典摇滚",
+    "軟式搖滾",
+    "流行搖滾"
   ],
   "albums": [
     {
@@ -39,6 +41,40 @@
   ],
   "intro": "羽翼乐队又称为保罗·麦卡特尼与羽翼乐队，是一队英国摇滚乐团。1971年乐队由前披头士成员保罗·麦卡特尼与其妻琳达·麦卡特尼、鼓手丹尼·斯威尔及前忧郁布鲁斯乐队吉他手丹尼·莱恩组成。",
   "introLang": "zh",
+  "tracks": [
+    "心のラヴ・ソング",
+    "金泰爾角",
+    "アイルランドに平和を",
+    "あの娘におせっかい",
+    "ミセス・ヴァンデビルト"
+  ],
+  "trackSources": [
+    {
+      "title": "心のラヴ・ソング"
+    },
+    {
+      "title": "金泰爾角"
+    },
+    {
+      "title": "アイルランドに平和を"
+    },
+    {
+      "title": "あの娘におせっかい"
+    },
+    {
+      "title": "ミセス・ヴァンデビルト"
+    }
+  ],
+  "listens": 293975,
+  "listeners": 10043,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d922d727-240a-4432-9a88-05a7cf9bc403"
@@ -53,7 +89,8 @@
       "label": "Denny Laine・Linda McCartney・Thaddeus Richard・Steve Holley・Laurence Juber",
       "detail": "5 位乐手在这两支乐队都待过：Denny Laine・Linda McCartney・Thaddeus Richard・Steve Holley・Laurence Juber。",
       "year": 1971,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     }
   ]
 }

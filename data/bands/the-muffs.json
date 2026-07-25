@@ -8,7 +8,8 @@
   "years": "1991–2019",
   "genres": [
     "流行朋克",
-    "朋克摇滚"
+    "朋克摇滚",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -38,6 +39,16 @@
   ],
   "intro": "The Muffs 是一支美国摇滚乐队。该乐队成立于1991年，以洛杉矶为据点，虽然期间曾数次暂停活动，但一直持续活跃至今。",
   "introLang": "zh",
+  "listens": 25217,
+  "listeners": 1577,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/72186b6a-fe30-4e2a-9c31-852e23ff93af"
@@ -52,7 +63,8 @@
       "label": "Kim Shattuck・Melanie Vammen・Ronnie Barnett",
       "detail": "3 位乐手在这两支乐队都待过：Kim Shattuck・Melanie Vammen・Ronnie Barnett。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "pixies",
@@ -63,7 +75,8 @@
       "label": "Kim Shattuck",
       "detail": "Kim Shattuck 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pandoras",
@@ -74,7 +87,8 @@
       "label": "Kim Shattuck・Melanie Vammen",
       "detail": "2 位乐手在这两支乐队都待过：Kim Shattuck・Melanie Vammen。",
       "year": 1985,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "redd-kross",
@@ -85,7 +99,8 @@
       "label": "Roy McDonald",
       "detail": "Roy McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-tater-totz",
@@ -96,7 +111,8 @@
       "label": "Melanie Vammen",
       "detail": "Melanie Vammen 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-beards",
@@ -107,7 +123,8 @@
       "label": "Kim Shattuck",
       "detail": "Kim Shattuck 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-coolies",
@@ -118,7 +135,8 @@
       "label": "Kim Shattuck",
       "detail": "Kim Shattuck 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

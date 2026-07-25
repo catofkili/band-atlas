@@ -9,7 +9,11 @@
   "genres": [
     "另类摇滚",
     "摇滚",
-    "另类金属"
+    "另类金属",
+    "朋克搖滾",
+    "另類金屬",
+    "新金屬",
+    "流行朋克"
   ],
   "albums": [
     {
@@ -35,6 +39,40 @@
   ],
   "intro": "洛斯帕飞是来自英国威尔士庞迪布里德的一组摇滚乐队，乐队1997年成立至2013年，发行了五张专辑，是唯一完完全全道地的英国乐队，却流着相当美式的新金属乐风，没有浓厚英国腔调或雌雄莫辨的嗓音，就是洛斯帕飞音乐中最大的特色。",
   "introLang": "zh",
+  "tracks": [
+    "Rooftops",
+    "The Fake Sound of Progress",
+    "4:AM Forever",
+    "A Town Called Hypocrisy",
+    "Can't Catch Tomorrow (Good Shoes Won't Save You This Time)"
+  ],
+  "trackSources": [
+    {
+      "title": "Rooftops"
+    },
+    {
+      "title": "The Fake Sound of Progress"
+    },
+    {
+      "title": "4:AM Forever"
+    },
+    {
+      "title": "A Town Called Hypocrisy"
+    },
+    {
+      "title": "Can't Catch Tomorrow (Good Shoes Won't Save You This Time)"
+    }
+  ],
+  "listens": 174036,
+  "listeners": 3408,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ef6e2e49-aa93-41bd-89b0-8c7d2f260a83"
@@ -49,7 +87,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -60,7 +99,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fenix-tx",
@@ -71,7 +111,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "denver-harbor",
@@ -82,7 +123,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jaded-hearts-club",
@@ -93,7 +135,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deftones",
@@ -104,7 +147,8 @@
       "label": "影响关系",
       "detail": "Lostprophets 受 Deftones 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "green-day",
@@ -115,7 +159,8 @@
       "label": "影响关系",
       "detail": "Lostprophets 受 Green Day 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "jane-s-addiction",
@@ -126,7 +171,8 @@
       "label": "影响关系",
       "detail": "Lostprophets 受 Jane’s Addiction 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "megadeth",
@@ -137,7 +183,8 @@
       "label": "影响关系",
       "detail": "Lostprophets 受 Megadeth 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "metallica",
@@ -148,7 +195,8 @@
       "label": "影响关系",
       "detail": "Lostprophets 受 Metallica 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -159,7 +207,8 @@
       "label": "影响关系",
       "detail": "Lostprophets 受 Nine Inch Nails 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "soundgarden",
@@ -170,7 +219,8 @@
       "label": "影响关系",
       "detail": "Lostprophets 受 Soundgarden 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-cure",
@@ -181,7 +231,8 @@
       "label": "影响关系",
       "detail": "Lostprophets 受 The Cure 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "u2",
@@ -192,7 +243,8 @@
       "label": "影响关系",
       "detail": "Lostprophets 受 U2 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

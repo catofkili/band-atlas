@@ -13,8 +13,18 @@
       "year": 2000
     }
   ],
-  "intro": "Tailgunner是一支来自英国的音乐团体，活跃时期为2000–。",
+  "intro": "Tailgunner是一支来自英国的音乐团体，活跃时期为2000–。目前资料收录了《Tailgunner》等作品；MusicBrainz 还记录了它与Oasis、Noel Gallagher’s High Flying Birds、Mick Fleetwood and Friends之间的成员往来。",
   "introLang": "zh",
+  "listens": 61,
+  "listeners": 12,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2c3cbf70-da1f-4abe-a905-011e717f96bb"
@@ -29,7 +39,8 @@
       "label": "Noel Gallagher",
       "detail": "Noel Gallagher 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "noel-gallagher-s-high-flying-birds",
@@ -40,7 +51,22 @@
       "label": "Noel Gallagher",
       "detail": "Noel Gallagher 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "gorillaz",
+      "toName": "Gorillaz",
+      "toArea": "埃塞克斯",
+      "toYears": "1999–",
+      "type": "guest",
+      "label": "客串：Noel Gallagher",
+      "detail": "MusicBrainz 录音资料显示，Noel Gallagher参与了《We Got the Power》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/10709c0b-9352-4d03-8c90-2b6f825c7072"
+      ]
     },
     {
       "to": "mick-fleetwood-and-friends",
@@ -51,7 +77,8 @@
       "label": "Noel Gallagher",
       "detail": "Noel Gallagher 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

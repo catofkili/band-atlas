@@ -8,7 +8,9 @@
   "years": "1988–",
   "genres": [
     "梦幻流行乐",
-    "英伦摇滚"
+    "英伦摇滚",
+    "另类摇滚",
+    "瞪鞋搖滾"
   ],
   "albums": [
     {
@@ -38,6 +40,40 @@
   ],
   "intro": "Ride是一支于1988年在英国牛津成立的摇滚乐队。1988年成立。虽然乐队于1996年解散，但2014年宣布了时隔约18年的重组。",
   "introLang": "zh",
+  "tracks": [
+    "Black Nite Crash",
+    "Twisterella",
+    "Birdman",
+    "Leave Them All Behind",
+    "Vapour Trail"
+  ],
+  "trackSources": [
+    {
+      "title": "Black Nite Crash"
+    },
+    {
+      "title": "Twisterella"
+    },
+    {
+      "title": "Birdman"
+    },
+    {
+      "title": "Leave Them All Behind"
+    },
+    {
+      "title": "Vapour Trail"
+    }
+  ],
+  "listens": 184512,
+  "listeners": 5623,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3f575ecd-627d-4f08-a89f-abd46d469c7e"
@@ -52,7 +88,8 @@
       "label": "Andy Bell・Loz Colbert・Steve Queralt",
       "detail": "3 位乐手在这两支乐队都待过：Andy Bell・Loz Colbert・Steve Queralt。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "oasis",
@@ -63,7 +100,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hurricane-1",
@@ -74,7 +112,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beady-eye",
@@ -85,7 +124,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mantra-of-the-cosmos",
@@ -96,7 +136,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

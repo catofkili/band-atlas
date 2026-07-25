@@ -8,7 +8,10 @@
   "years": "1995–2005",
   "genres": [
     "电子音乐",
-    "独立摇滚"
+    "独立摇滚",
+    "另类摇滚",
+    "瞪鞋搖滾",
+    "电子乐"
   ],
   "albums": [
     {
@@ -33,7 +36,7 @@
     }
   ],
   "intro": "从青森出道的四人组。前期是吉他噪音，后期整体转向电子，两种面貌都被后来者反复引用。",
-  "introLang": "ja",
+  "introLang": "zh",
   "tracks": [
     "cream soda",
     "Lucky",
@@ -41,6 +44,16 @@
     "Storywriter",
     "White Surf style 5."
   ],
+  "listens": 170349,
+  "listeners": 1067,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/371d6599-6292-4f3f-94d2-5b2fd19b089c"
@@ -55,18 +68,8 @@
       "label": "影响来源",
       "detail": "早期吉他质感的主要来源。",
       "year": null,
-      "weight": 0.7
-    },
-    {
-      "to": "number-girl",
-      "toName": "NUMBER GIRL",
-      "toArea": "福冈",
-      "toYears": "1995–2002 / 2019–2022",
-      "type": "scene",
-      "label": "1997 世代",
-      "detail": "几乎同时出道的同世代乐队。",
-      "year": null,
-      "weight": 0.6
+      "weight": 0.7,
+      "sources": []
     },
     {
       "to": "lama",
@@ -77,7 +80,20 @@
       "label": "フルカワミキ・中村弘二",
       "detail": "2 位乐手在这两支乐队都待过：フルカワミキ・中村弘二。",
       "year": 2010,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "scene",
+      "label": "1997 世代",
+      "detail": "几乎同时出道的同世代乐队。",
+      "year": null,
+      "weight": 0.6,
+      "sources": []
     },
     {
       "to": "3rensa",
@@ -88,7 +104,8 @@
       "label": "中村弘二",
       "detail": "中村弘二 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

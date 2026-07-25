@@ -19,6 +19,16 @@
   ],
   "intro": "The Gunga Din 是一支于 1998 年在纽约市成立的美国摇滚乐队。",
   "introLang": "zh",
+  "listens": 19,
+  "listeners": 7,
+  "quality": {
+    "score": 51,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/74e940a6-b64a-4e75-891a-3d976d533208"
@@ -33,7 +43,8 @@
       "label": "Bill Bronson・Christopher Pravdica",
       "detail": "2 位乐手在这两支乐队都待过：Bill Bronson・Christopher Pravdica。",
       "year": 1997,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

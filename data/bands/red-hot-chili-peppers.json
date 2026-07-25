@@ -9,7 +9,12 @@
   "genres": [
     "放克摇滚",
     "另类摇滚",
-    "摇滚"
+    "摇滚",
+    "另類金屬",
+    "重金属音乐",
+    "摇滚乐",
+    "硬式搖滾",
+    "融合爵士樂"
   ],
   "albums": [
     {
@@ -39,6 +44,40 @@
   ],
   "intro": "红辣椒乐队是1982年成立于加州洛杉矶的美国另类摇滚乐队，现由主唱安东尼·基德斯、吉他手约翰·伏许安、贝斯手“跳蚤”麦可·巴札里及鼓手查德·史密斯组成。",
   "introLang": "zh",
+  "tracks": [
+    "ギヴ・イット・アウェイ",
+    "アンダー・ザ・ブリッジ",
+    "Scar Tissue",
+    "ダニー・カリフォルニア",
+    "加利福尼亞化"
+  ],
+  "trackSources": [
+    {
+      "title": "ギヴ・イット・アウェイ"
+    },
+    {
+      "title": "アンダー・ザ・ブリッジ"
+    },
+    {
+      "title": "Scar Tissue"
+    },
+    {
+      "title": "ダニー・カリフォルニア"
+    },
+    {
+      "title": "加利福尼亞化"
+    }
+  ],
+  "listens": 3107942,
+  "listeners": 25230,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8bfac288-ccc5-448d-9573-c33ea2aa5c30"
@@ -53,18 +92,8 @@
       "label": "Jack Irons・Hillel Slovak",
       "detail": "2 位乐手在这两支乐队都待过：Jack Irons・Hillel Slovak。",
       "year": 1986,
-      "weight": 0.84
-    },
-    {
-      "to": "guns-n-roses",
-      "toName": "Guns N' Roses",
-      "toArea": "洛杉矶",
-      "toYears": "1985–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Red Hot Chili Peppers 受 Guns N’ Roses 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "dead-kennedys",
@@ -75,7 +104,8 @@
       "label": "D.H. Peligro",
       "detail": "D.H. Peligro 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "eleven",
@@ -86,7 +116,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fear",
@@ -97,7 +128,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -108,7 +140,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -119,7 +152,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "redd-kross",
@@ -130,7 +164,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-mars-volta",
@@ -141,7 +176,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-wallflowers",
@@ -152,7 +188,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "thelonious-monster",
@@ -163,7 +200,22 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "record-club",
+      "toName": "Record Club",
+      "toArea": "美国",
+      "toYears": "2009–",
+      "type": "guest",
+      "label": "客串：Nigel Godrich",
+      "detail": "MusicBrainz 录音资料显示，Nigel Godrich参与了《We Turn Red》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/fdebad88-464a-4ed8-bd10-8f59e2a00b59"
+      ]
     },
     {
       "to": "ataxia",
@@ -174,7 +226,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "steady-earnest",
@@ -185,7 +238,8 @@
       "label": "Jack Sherman",
       "detail": "Jack Sherman 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-weirdos",
@@ -196,7 +250,20 @@
       "label": "Cliff Martinez",
       "detail": "Cliff Martinez 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 Guns N’ Roses 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "13-13",
@@ -207,7 +274,8 @@
       "label": "Cliff Martinez",
       "detail": "Cliff Martinez 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "anthym",
@@ -218,7 +286,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "atoms-for-peace",
@@ -229,7 +298,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "omar-rodriguez-lopez-quartet",
@@ -240,7 +310,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "peligro",
@@ -251,7 +322,8 @@
       "label": "D.H. Peligro",
       "detail": "D.H. Peligro 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rocket-juice-the-moon",
@@ -262,7 +334,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spinnerette",
@@ -273,7 +346,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "splendid",
@@ -284,7 +358,8 @@
       "label": "Jesse Tobias",
       "detail": "Jesse Tobias 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "thunderbox",
@@ -295,7 +370,8 @@
       "label": "Jack Sherman",
       "detail": "Jack Sherman 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "aleka-s-attic",
@@ -306,7 +382,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "flea-and-the-honora-band",
@@ -317,7 +394,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "marshall-law",
@@ -328,7 +406,8 @@
       "label": "Arik Marshall",
       "detail": "Arik Marshall 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "speed-dealer-moms",
@@ -339,7 +418,8 @@
       "label": "John Frusciante",
       "detail": "John Frusciante 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-lost-trees",
@@ -350,7 +430,36 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "ultraísta",
+      "toName": "Ultraísta",
+      "toArea": "英国",
+      "toYears": "2008–",
+      "type": "guest",
+      "label": "客串：Nigel Godrich",
+      "detail": "MusicBrainz 录音资料显示，Nigel Godrich参与了《We Turn Red》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/fdebad88-464a-4ed8-bd10-8f59e2a00b59"
+      ]
+    },
+    {
+      "to": "atoms-for-peace",
+      "toName": "Atoms for Peace",
+      "toArea": "洛杉矶",
+      "toYears": "2009–",
+      "type": "guest",
+      "label": "客串：Nigel Godrich",
+      "detail": "MusicBrainz 录音资料显示，Nigel Godrich参与了《We Turn Red》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/fdebad88-464a-4ed8-bd10-8f59e2a00b59"
+      ]
     },
     {
       "to": "funkadelic",
@@ -361,7 +470,8 @@
       "label": "影响关系",
       "detail": "Red Hot Chili Peppers 受 Funkadelic 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "green-day",
@@ -372,7 +482,8 @@
       "label": "影响关系",
       "detail": "Red Hot Chili Peppers 影响了 Green Day（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "linkin-park",
@@ -383,7 +494,8 @@
       "label": "影响关系",
       "detail": "Red Hot Chili Peppers 影响了 Linkin Park（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "parliament",
@@ -394,7 +506,8 @@
       "label": "影响关系",
       "detail": "Red Hot Chili Peppers 受 Parliament 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -405,7 +518,8 @@
       "label": "影响关系",
       "detail": "Red Hot Chili Peppers 影响了 Pearl Jam（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "public-image-ltd",
@@ -416,7 +530,8 @@
       "label": "影响关系",
       "detail": "Red Hot Chili Peppers 受 Public Image Ltd 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "rage-against-the-machine",
@@ -427,7 +542,8 @@
       "label": "影响关系",
       "detail": "Red Hot Chili Peppers 影响了 Rage Against the Machine（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-weirdos",
@@ -438,7 +554,8 @@
       "label": "影响关系",
       "detail": "Red Hot Chili Peppers 受 The Weirdos 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "germs",
@@ -449,7 +566,8 @@
       "label": "影响关系",
       "detail": "Red Hot Chili Peppers 受 Germs 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

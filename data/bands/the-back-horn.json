@@ -38,6 +38,40 @@
   ],
   "intro": "爆轰乐团是日本摇滚乐团，1998年成立于日本东京。",
   "introLang": "zh",
+  "tracks": [
+    "你在等待著",
+    "With You",
+    "カオスダイバー",
+    "キズナソング",
+    "コバルトブルー (曲)"
+  ],
+  "trackSources": [
+    {
+      "title": "你在等待著"
+    },
+    {
+      "title": "With You"
+    },
+    {
+      "title": "カオスダイバー"
+    },
+    {
+      "title": "キズナソング"
+    },
+    {
+      "title": "コバルトブルー (曲)"
+    }
+  ],
+  "listens": 23035,
+  "listeners": 491,
+  "quality": {
+    "score": 81,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044"
@@ -52,7 +86,8 @@
       "label": "山田将司",
       "detail": "山田将司 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "猪苗代湖ズ",
@@ -63,7 +98,8 @@
       "label": "松田晋二",
       "detail": "松田晋二 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

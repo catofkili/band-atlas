@@ -9,7 +9,8 @@
   "genres": [
     "硬摇滚",
     "经典摇滚",
-    "重金属"
+    "重金属",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -39,6 +40,16 @@
   ],
   "intro": "The Dead Daisies 是一支澳美硬摇滚乐队，于 2012 年在悉尼成立。",
   "introLang": "zh",
+  "listens": 18654,
+  "listeners": 1377,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e935d070-004d-405a-8b9d-1d9e51590b55"
@@ -53,7 +64,8 @@
       "label": "Dizzy Reed・Richard Fortus・Frank Ferrer",
       "detail": "3 位乐手在这两支乐队都待过：Dizzy Reed・Richard Fortus・Frank Ferrer。",
       "year": 2013,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "love-spit-love",
@@ -64,7 +76,8 @@
       "label": "Richard Fortus・Frank Ferrer",
       "detail": "2 位乐手在这两支乐队都待过：Richard Fortus・Frank Ferrer。",
       "year": 2013,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -75,7 +88,8 @@
       "label": "Alex Carapetis",
       "detail": "Alex Carapetis 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-voidz",
@@ -86,7 +100,8 @@
       "label": "Alex Carapetis",
       "detail": "Alex Carapetis 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "johnny-crash",
@@ -97,7 +112,8 @@
       "label": "Dizzy Reed",
       "detail": "Dizzy Reed 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "slash-s-snakepit",
@@ -108,7 +124,8 @@
       "label": "Brian Tichy",
       "detail": "Brian Tichy 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tak-matsumoto-group",
@@ -119,7 +136,8 @@
       "label": "Brian Tichy",
       "detail": "Brian Tichy 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gordon-gano-the-ryans",
@@ -130,7 +148,8 @@
       "label": "Frank Ferrer",
       "detail": "Frank Ferrer 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beatrazr",
@@ -141,7 +160,8 @@
       "label": "Frank Ferrer",
       "detail": "Frank Ferrer 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,8 @@
   "genres": [
     "硬摇滚",
     "重金属",
-    "摇滚"
+    "摇滚",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -35,6 +36,36 @@
   ],
   "intro": "Sixx:A.M.是一支2007年由Nikki Sixx、DJ Ashba与James Michael成立于美国洛杉矶的硬式摇滚乐团，乐团名称来自三位创团成员的姓氏组合。",
   "introLang": "zh",
+  "tracks": [
+    "Tomorrow",
+    "Lies of the Beautiful People",
+    "Life Is Beautiful",
+    "Pray for Me"
+  ],
+  "trackSources": [
+    {
+      "title": "Tomorrow"
+    },
+    {
+      "title": "Lies of the Beautiful People"
+    },
+    {
+      "title": "Life Is Beautiful"
+    },
+    {
+      "title": "Pray for Me"
+    }
+  ],
+  "listens": 87780,
+  "listeners": 2872,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b6cca708-1083-4bbb-8ba1-237d832088e4"
@@ -49,7 +80,8 @@
       "label": "DJ Ashba",
       "detail": "DJ Ashba 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bulletboys",
@@ -60,7 +92,8 @@
       "label": "DJ Ashba",
       "detail": "DJ Ashba 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "london",
@@ -71,7 +104,8 @@
       "label": "Nikki Sixx",
       "detail": "Nikki Sixx 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beautiful-creatures",
@@ -82,7 +116,8 @@
       "label": "DJ Ashba",
       "detail": "DJ Ashba 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

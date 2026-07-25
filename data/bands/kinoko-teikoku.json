@@ -35,6 +35,16 @@
     "WHIRLPOOL",
     "海と花束"
   ],
+  "listens": 64430,
+  "listeners": 679,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/18a15d8d-b7bf-4921-9976-aa6388b99a9a"
@@ -49,7 +59,8 @@
       "label": "影响来源",
       "detail": "早期噪音墙写法的直系源头。",
       "year": null,
-      "weight": 0.8
+      "weight": 0.8,
+      "sources": []
     },
     {
       "to": "number-girl",
@@ -60,7 +71,8 @@
       "label": "影响来源",
       "detail": "噪音与日语叙事结合的先例。",
       "year": null,
-      "weight": 0.7
+      "weight": 0.7,
+      "sources": []
     },
     {
       "to": "ling-tosite-sigure",
@@ -71,7 +83,8 @@
       "label": "2010 年前后",
       "detail": "同属 2010 年前后从 live house 起步的一批。",
       "year": null,
-      "weight": 0.5
+      "weight": 0.5,
+      "sources": []
     }
   ]
 }

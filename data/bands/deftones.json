@@ -8,7 +8,9 @@
   "years": "1988–",
   "genres": [
     "另类金属",
-    "另类摇滚"
+    "另类摇滚",
+    "另類金屬",
+    "新金屬"
   ],
   "albums": [
     {
@@ -38,6 +40,40 @@
   ],
   "intro": "盲音合唱团是一支美国的另类金属乐队，1988年成立于加利福尼亚州沙加缅度。该乐队被认为是另类金属乐队中最深入实验金属的一支乐队，有时评论界会称其为“金属音乐界的电台司令”。",
   "introLang": "zh",
+  "tracks": [
+    "Change",
+    "Be Quiet and Drive",
+    "My Own Summer (Shove It)",
+    "Back to School (Mini Maggit)",
+    "Diamond Eyes"
+  ],
+  "trackSources": [
+    {
+      "title": "Change"
+    },
+    {
+      "title": "Be Quiet and Drive"
+    },
+    {
+      "title": "My Own Summer (Shove It)"
+    },
+    {
+      "title": "Back to School (Mini Maggit)"
+    },
+    {
+      "title": "Diamond Eyes"
+    }
+  ],
+  "listens": 2221803,
+  "listeners": 17127,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7527f6c2-d762-4b88-b5e2-9244f1e34c46"
@@ -52,7 +88,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 Guns N’ Roses 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "my-bloody-valentine",
@@ -63,7 +100,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 My Bloody Valentine 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "black-sabbath",
@@ -74,7 +112,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 Black Sabbath 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "depeche-mode",
@@ -85,7 +124,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 Depeche Mode 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "jane-s-addiction",
@@ -96,7 +136,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 Jane’s Addiction 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "led-zeppelin",
@@ -107,7 +148,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 Led Zeppelin 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "linkin-park",
@@ -118,7 +160,8 @@
       "label": "影响关系",
       "detail": "Deftones 影响了 Linkin Park（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "lostprophets",
@@ -129,7 +172,8 @@
       "label": "影响关系",
       "detail": "Deftones 影响了 Lostprophets（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "metallica",
@@ -140,7 +184,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 Metallica 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "radiohead",
@@ -151,7 +196,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 Radiohead 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "rage-against-the-machine",
@@ -162,7 +208,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 Rage Against the Machine 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "soundgarden",
@@ -173,7 +220,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 Soundgarden 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-cure",
@@ -184,7 +232,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 The Cure 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-smiths",
@@ -195,7 +244,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 The Smiths 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "tool",
@@ -206,7 +256,8 @@
       "label": "影响关系",
       "detail": "Deftones 受 Tool 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

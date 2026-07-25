@@ -17,8 +17,18 @@
       "year": 2020
     }
   ],
-  "intro": "3RENSA是一支来自日本的音乐团体。",
+  "intro": "3RENSA是一支来自日本的音乐团体。目前资料收录了《REDRUM》、《Another World》等作品；MusicBrainz 还记录了它与SUPERCAR、LAMA之间的成员往来。",
   "introLang": "zh",
+  "listens": 20,
+  "listeners": 7,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0ccbe20b-d465-458f-83b3-28e4e7efcd4c"
@@ -33,7 +43,8 @@
       "label": "中村弘二",
       "detail": "中村弘二 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lama",
@@ -44,7 +55,8 @@
       "label": "中村弘二",
       "detail": "中村弘二 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

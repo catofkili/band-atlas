@@ -10,6 +10,16 @@
   "albums": [],
   "intro": "Hale and Pace 是一对英国喜剧搭档，于 20 世纪 80 年代和 90 年代在英国的俱乐部、广播电台和电视台进行演出。",
   "introLang": "zh",
+  "listens": 94,
+  "listeners": 31,
+  "quality": {
+    "score": 46,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bc57af6d-769b-490e-822d-94fab4afc135"
@@ -24,7 +34,8 @@
       "label": "Tony Iommi・Cozy Powell・Neil Murray",
       "detail": "3 位乐手在这两支乐队都待过：Tony Iommi・Cozy Powell・Neil Murray。",
       "year": 1991,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -35,7 +46,8 @@
       "label": "David Gilmour・Tony Iommi",
       "detail": "2 位乐手在这两支乐队都待过：David Gilmour・Tony Iommi。",
       "year": 1991,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-brian-may-band",
@@ -46,7 +58,8 @@
       "label": "Cozy Powell・Neil Murray",
       "detail": "2 位乐手在这两支乐队都待过：Cozy Powell・Neil Murray。",
       "year": 1998,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pink-floyd",
@@ -57,7 +70,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queen",
@@ -68,7 +82,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-cross",
@@ -79,7 +94,22 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "伯明翰",
+      "toYears": "1968–2025",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
     },
     {
       "to": "queen-paul-rodgers",
@@ -90,7 +120,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "artists-united-for-nature",
@@ -101,7 +132,8 @@
       "label": "Chris Thompson",
       "detail": "Chris Thompson 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "band-aid-30",
@@ -112,7 +144,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deep-end",
@@ -123,7 +156,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "holly-and-the-ivy-s",
@@ -134,7 +168,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jokers-wild",
@@ -145,7 +180,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queen-adam-lambert",
@@ -156,7 +192,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "smile",
@@ -167,7 +204,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-ramblers",
@@ -178,7 +216,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-singing-rebels-band",
@@ -189,7 +228,8 @@
       "label": "Mike Moran",
       "detail": "Mike Moran 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "whocares",
@@ -200,7 +240,8 @@
       "label": "Tony Iommi",
       "detail": "Tony Iommi 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

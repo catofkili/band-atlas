@@ -8,8 +8,18 @@
   "years": "1963–1964",
   "genres": [],
   "albums": [],
-  "intro": "The Pete Best Four是一支来自英国的音乐团体，活跃时期为1963–1964。",
+  "intro": "The Pete Best Four是一支来自英国的音乐团体，活跃时期为1963–1964。MusicBrainz 还记录了它与Lee Curtis & The All Stars、The Pete Best Combo、The Beatles之间的成员往来。",
   "introLang": "zh",
+  "listens": 29,
+  "listeners": 21,
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fe89039d-2167-453e-8e03-b2ab5656b84b"
@@ -24,7 +34,8 @@
       "label": "Pete Best・Wayne Bickerton・Tony Waddington",
       "detail": "3 位乐手在这两支乐队都待过：Pete Best・Wayne Bickerton・Tony Waddington。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-pete-best-combo",
@@ -35,7 +46,8 @@
       "label": "Pete Best・Wayne Bickerton・Tony Waddington",
       "detail": "3 位乐手在这两支乐队都待过：Pete Best・Wayne Bickerton・Tony Waddington。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-beatles",
@@ -46,7 +58,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": 1960,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-beat-brothers",
@@ -57,7 +70,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pete-best-band",
@@ -68,7 +82,8 @@
       "label": "Pete Best",
       "detail": "Pete Best 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

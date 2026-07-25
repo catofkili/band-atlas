@@ -9,7 +9,12 @@
   "genres": [
     "工业摇滚",
     "工业音乐",
-    "另类摇滚"
+    "另类摇滚",
+    "氛围音乐",
+    "工業金屬",
+    "電子搖滾",
+    "工業音樂",
+    "黑氛"
   ],
   "albums": [
     {
@@ -39,6 +44,40 @@
   ],
   "intro": "九吋钉是美国的工业金属乐团，由特伦特·雷泽诺在1988年成立于美国俄亥俄州克里夫兰市。作为它的主要制作人、歌手、作曲家和演奏家， 雷泽诺是九吋钉唯一且保持全权负责乐团方向的正式成员。",
   "introLang": "zh",
+  "tracks": [
+    "Down in It",
+    "The Perfect Drug",
+    "クローサー",
+    "March of the Pigs",
+    "Survivalism"
+  ],
+  "trackSources": [
+    {
+      "title": "Down in It"
+    },
+    {
+      "title": "The Perfect Drug"
+    },
+    {
+      "title": "クローサー"
+    },
+    {
+      "title": "March of the Pigs"
+    },
+    {
+      "title": "Survivalism"
+    }
+  ],
+  "listens": 3361636,
+  "listeners": 17900,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b7ffd2af-418f-4be2-bdd1-22f8b48613da"
@@ -53,7 +92,8 @@
       "label": "Robin Finck",
       "detail": "Robin Finck 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nearly",
@@ -64,7 +104,8 @@
       "label": "Keith Hillebrandt・Jerome Dillon",
       "detail": "2 位乐手在这两支乐队都待过：Keith Hillebrandt・Jerome Dillon。",
       "year": 1997,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "tapeworm",
@@ -75,7 +116,8 @@
       "label": "Charlie Clouser・Atticus Ross",
       "detail": "2 位乐手在这两支乐队都待过：Charlie Clouser・Atticus Ross。",
       "year": 1994,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "angels-airwaves",
@@ -86,7 +128,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "change",
@@ -97,7 +140,8 @@
       "label": "Lisa Fischer",
       "detail": "Lisa Fischer 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "filter",
@@ -108,7 +152,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lostprophets",
@@ -119,7 +164,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "marilyn-manson",
@@ -130,7 +176,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ministry",
@@ -141,7 +188,8 @@
       "label": "Jeff Ward",
       "detail": "Jeff Ward 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -152,7 +200,8 @@
       "label": "Jeff Ward",
       "detail": "Jeff Ward 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "revolting-cocks",
@@ -163,7 +212,8 @@
       "label": "Jeff Ward",
       "detail": "Jeff Ward 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-dead-daisies",
@@ -174,7 +224,8 @@
       "label": "Alex Carapetis",
       "detail": "Alex Carapetis 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-tear-garden",
@@ -185,7 +236,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "a-perfect-circle",
@@ -196,7 +248,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hilt",
@@ -207,7 +260,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "telefon-tel-aviv",
@@ -218,7 +272,8 @@
       "label": "Joshua Eustis",
       "detail": "Joshua Eustis 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "desert-sessions",
@@ -229,7 +284,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fenix-tx",
@@ -240,7 +296,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ima-robot",
@@ -251,7 +308,8 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jakalope",
@@ -262,7 +320,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "primitive-race",
@@ -273,7 +332,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-black-queen",
@@ -284,7 +344,8 @@
       "label": "Joshua Eustis",
       "detail": "Joshua Eustis 在这两支乐队都待过。",
       "year": 2015,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-voidz",
@@ -295,7 +356,8 @@
       "label": "Alex Carapetis",
       "detail": "Alex Carapetis 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "12-rounds",
@@ -306,7 +368,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "amboog-a-lard",
@@ -317,7 +380,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "elements-of-life",
@@ -328,7 +392,8 @@
       "label": "Lisa Fischer",
       "detail": "Lisa Fischer 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "goon-moon",
@@ -339,7 +404,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "howlin-maggie",
@@ -350,7 +416,8 @@
       "label": "Jerome Dillon",
       "detail": "Jerome Dillon 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lard",
@@ -361,7 +428,8 @@
       "label": "Jeff Ward",
       "detail": "Jeff Ward 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "low-pop-suicide",
@@ -372,7 +440,8 @@
       "label": "Jeff Ward",
       "detail": "Jeff Ward 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "prick",
@@ -383,7 +452,8 @@
       "label": "Kevin McMahon",
       "detail": "Kevin McMahon 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "a-place-to-kill",
@@ -394,7 +464,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 2023,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "army-of-anyone",
@@ -405,7 +476,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "denver-harbor",
@@ -416,7 +488,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "digital-noise-academy",
@@ -427,7 +500,8 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fear-of-blue",
@@ -438,7 +512,8 @@
       "label": "Kevin McMahon",
       "detail": "Kevin McMahon 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hankshaw",
@@ -449,7 +524,8 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "how-to-destroy-angels",
@@ -460,7 +536,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "loser",
@@ -471,7 +548,8 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lucky-pierre",
@@ -482,7 +560,8 @@
       "label": "Kevin McMahon",
       "detail": "Kevin McMahon 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "peeping-tom",
@@ -493,7 +572,8 @@
       "label": "Stu Brooks",
       "detail": "Stu Brooks 在这两支乐队都待过。",
       "year": 2026,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jaded-hearts-club",
@@ -504,7 +584,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "error",
@@ -515,7 +596,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-jagger-the-brothers-of-sodom",
@@ -526,7 +608,8 @@
       "label": "Lisa Fischer",
       "detail": "Lisa Fischer 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "modwheelmood",
@@ -537,7 +620,8 @@
       "label": "Alessandro Cortini",
       "detail": "Alessandro Cortini 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mrs-scabtree",
@@ -548,7 +632,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "raw-dog",
@@ -559,7 +644,8 @@
       "label": "Dave Ogilvie",
       "detail": "Dave Ogilvie 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "satan-on-fire",
@@ -570,7 +656,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sic",
@@ -581,7 +668,8 @@
       "label": "Kevin McMahon",
       "detail": "Kevin McMahon 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-act",
@@ -592,7 +680,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-buddha-boys-choir",
@@ -603,7 +692,8 @@
       "label": "Keith Hillebrandt",
       "detail": "Keith Hillebrandt 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-damning-well",
@@ -614,7 +704,8 @@
       "label": "Richard Patrick",
       "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "witchgang",
@@ -625,7 +716,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-noize",
@@ -636,7 +728,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "linkin-park",
@@ -647,7 +740,8 @@
       "label": "影响关系",
       "detail": "Nine Inch Nails 影响了 Linkin Park（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "lostprophets",
@@ -658,7 +752,8 @@
       "label": "影响关系",
       "detail": "Nine Inch Nails 影响了 Lostprophets（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "ministry",
@@ -669,7 +764,8 @@
       "label": "影响关系",
       "detail": "Nine Inch Nails 受 Ministry 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

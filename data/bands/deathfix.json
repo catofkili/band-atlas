@@ -13,8 +13,18 @@
       "year": 2013
     }
   ],
-  "intro": "Deathfix是一支来自华盛顿特区的音乐团体，活跃时期为2009–。",
+  "intro": "Deathfix是一支来自华盛顿特区的音乐团体，活跃时期为2009–。目前资料收录了《Deathfix》等作品；MusicBrainz 还记录了它与All Scars之间的成员往来。",
   "introLang": "zh",
+  "listens": 369,
+  "listeners": 56,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/db0e5c06-c091-46d4-bd42-5ba2ee299123"
@@ -29,7 +39,8 @@
       "label": "Jerry Busher",
       "detail": "Jerry Busher 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

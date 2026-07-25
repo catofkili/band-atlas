@@ -17,6 +17,16 @@
   ],
   "intro": "Chelsea Light Moving 是一支美国另类摇滚乐队，于 2012 年在纽约市成立。",
   "introLang": "zh",
+  "listens": 3255,
+  "listeners": 304,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e8b2f9f2-f5fd-4a24-aaa4-d9bebf8675e7"
@@ -31,7 +41,8 @@
       "label": "John Moloney",
       "detail": "John Moloney 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-peeper",
@@ -42,7 +53,8 @@
       "label": "John Moloney",
       "detail": "John Moloney 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

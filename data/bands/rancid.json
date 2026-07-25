@@ -6,7 +6,10 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "朋克搖滾",
+    "斯卡朋克"
+  ],
   "albums": [
     {
       "title": "Rancid",
@@ -35,6 +38,40 @@
   ],
   "intro": "腐臭乐队，于1991年成立，美国著名朋克乐队。它是由提姆·阿姆斯壮与麦特·费曼于加州阿拉米达县阿尔巴尼创立。目前的成员有提姆·阿姆斯壮、拉斯·弗瑞德里克森、麦特·费曼与布兰登·斯坦科特。",
   "introLang": "zh",
+  "tracks": [
+    "Ruby Soho",
+    "Fall Back Down",
+    "Salvation",
+    "Time Bomb",
+    "Bloodclot"
+  ],
+  "trackSources": [
+    {
+      "title": "Ruby Soho"
+    },
+    {
+      "title": "Fall Back Down"
+    },
+    {
+      "title": "Salvation"
+    },
+    {
+      "title": "Time Bomb"
+    },
+    {
+      "title": "Bloodclot"
+    }
+  ],
+  "listens": 450778,
+  "listeners": 6762,
+  "quality": {
+    "score": 81,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/24f8d8a5-269b-475c-a1cb-792990b0b2ee"
@@ -49,7 +86,8 @@
       "label": "伴奏・助演",
       "detail": "MusicBrainz 记录的伴奏・助演关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "blink-182",
@@ -60,7 +98,8 @@
       "label": "影响关系",
       "detail": "Rancid 影响了 blink‐182（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

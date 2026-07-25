@@ -6,7 +6,11 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1974–",
-  "genres": [],
+  "genres": [
+    "朋克搖滾",
+    "另类摇滚",
+    "新浪潮"
+  ],
   "albums": [
     {
       "title": "ThinKing",
@@ -15,6 +19,16 @@
   ],
   "intro": "Lucky Pierre 是一支新浪潮乐队，由唱作人、吉他手兼乐队唯一元老成员凯文·麦克马洪（Kevin McMahon）于 1974 年在克利夫兰创立。",
   "introLang": "zh",
+  "listens": 343,
+  "listeners": 18,
+  "quality": {
+    "score": 71,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/447411ac-af07-423a-9be1-12ae0cafc640"
@@ -29,7 +43,8 @@
       "label": "Kevin McMahon・Greg Zydyk",
       "detail": "2 位乐手在这两支乐队都待过：Kevin McMahon・Greg Zydyk。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "sic",
@@ -40,7 +55,8 @@
       "label": "Kevin McMahon・Greg Zydyk",
       "detail": "2 位乐手在这两支乐队都待过：Kevin McMahon・Greg Zydyk。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -51,7 +67,8 @@
       "label": "Kevin McMahon",
       "detail": "Kevin McMahon 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -62,7 +79,8 @@
       "label": "Tom Lash",
       "detail": "Tom Lash 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fear-of-blue",
@@ -73,7 +91,8 @@
       "label": "Kevin McMahon",
       "detail": "Kevin McMahon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

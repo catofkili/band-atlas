@@ -8,7 +8,8 @@
   "years": "1995–2003",
   "genres": [
     "后硬核",
-    "后摇滚"
+    "后摇滚",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -22,6 +23,16 @@
   ],
   "intro": "Juno是一支美国独立摇滚乐队，于1995年在华盛顿州西雅图成立。",
   "introLang": "zh",
+  "listens": 6360,
+  "listeners": 145,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6c0994fb-382e-4510-8e26-56709afaf190"
@@ -36,7 +47,8 @@
       "label": "Nate Mendel・Eric Akre",
       "detail": "2 位乐手在这两支乐队都待过：Nate Mendel・Eric Akre。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "diddly-squat",
@@ -47,7 +59,8 @@
       "label": "Nate Mendel・Eric Akre",
       "detail": "2 位乐手在这两支乐队都待过：Nate Mendel・Eric Akre。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "foo-fighters",
@@ -58,7 +71,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sunny-day-real-estate",
@@ -69,7 +83,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dee-gees",
@@ -80,7 +95,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-fire-theft",
@@ -91,7 +107,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -102,7 +119,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

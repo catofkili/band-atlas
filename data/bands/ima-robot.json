@@ -6,7 +6,10 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1998–",
-  "genres": [],
+  "genres": [
+    "独立摇滚",
+    "搖滾舞曲"
+  ],
   "albums": [
     {
       "title": "Ima Robot",
@@ -23,6 +26,16 @@
   ],
   "intro": "Ima Robot 是一支来自美国加利福尼亚州洛杉矶的乐队，成立于 20 世纪 90 年代末。",
   "introLang": "zh",
+  "listens": 18027,
+  "listeners": 1272,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/aff5ddd6-f315-4187-8522-25bf11a0f91e"
@@ -37,7 +50,8 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "digital-noise-academy",
@@ -48,7 +62,8 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hankshaw",
@@ -59,7 +74,8 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "loser",
@@ -70,7 +86,8 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

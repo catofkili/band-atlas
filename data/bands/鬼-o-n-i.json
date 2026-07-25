@@ -13,8 +13,18 @@
       "year": 2019
     }
   ],
-  "intro": "鬼 -O.N.I-是一支来自日本的音乐团体。",
+  "intro": "鬼 -O.N.I-是一支来自日本的音乐团体。目前资料收录了《Parsley, Sage, Rosemary, and Thyme》等作品；MusicBrainz 还记录了它与A/N【eɪ-ɛn】、Boris、Hakaiders之间的成员往来。",
   "introLang": "zh",
+  "listens": 17,
+  "listeners": 3,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/107adced-ab32-404f-828d-50470f4ac723"
@@ -29,7 +39,8 @@
       "label": "Atsuo・Takeshi・森川誠一郎",
       "detail": "3 位乐手在这两支乐队都待过：Atsuo・Takeshi・森川誠一郎。",
       "year": 2018,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "boris",
@@ -40,7 +51,23 @@
       "label": "Atsuo・Takeshi",
       "detail": "2 位乐手在这两支乐队都待过：Atsuo・Takeshi。",
       "year": 1996,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "boris",
+      "toName": "Boris",
+      "toArea": "东京",
+      "toYears": "1992–",
+      "type": "guest",
+      "label": "客串：森川誠一郎",
+      "detail": "MusicBrainz 录音资料显示，森川誠一郎参与了《howl part 1》、《howl part 2》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/7ac82cea-db12-48aa-a4c6-7b920bc37bc4",
+        "https://musicbrainz.org/recording/e3f7196f-a050-422c-aba3-33b5e6feab52"
+      ]
     },
     {
       "to": "hakaiders",
@@ -51,7 +78,8 @@
       "label": "Atsuo",
       "detail": "Atsuo 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -7,7 +7,9 @@
   "country": "日本",
   "years": "1996–",
   "genres": [
-    "渋谷系"
+    "渋谷系",
+    "日本流行音樂",
+    "澀谷系"
   ],
   "albums": [
     {
@@ -25,6 +27,16 @@
   ],
   "intro": "NEIL & IRAIZA是一支日本乐队。自1996年开始活动。直到2008年，他们一直隶属于Elevator Records。",
   "introLang": "zh",
+  "listens": 732,
+  "listeners": 145,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fb77e34b-7d42-4d98-b4ab-2ae844fd28ad"
@@ -39,7 +51,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pupa",
@@ -50,7 +63,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "singer-songer",
@@ -61,7 +75,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beefeater",
@@ -72,7 +87,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

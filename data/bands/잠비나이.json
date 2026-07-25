@@ -27,6 +27,16 @@
   ],
   "intro": "Jambinai（韩语：잠비나이）是一支于2009年在首尔成立的韩国后摇滚乐队。",
   "introLang": "zh",
+  "listens": 16331,
+  "listeners": 895,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/74c9db5a-cece-4381-afa8-a5f381901487"
@@ -41,7 +51,8 @@
       "label": "이일우",
       "detail": "이일우 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "49-morphines",
@@ -52,7 +63,8 @@
       "label": "이일우",
       "detail": "이일우 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "combative-post",
@@ -63,7 +75,8 @@
       "label": "이일우",
       "detail": "이일우 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

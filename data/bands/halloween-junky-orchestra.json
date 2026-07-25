@@ -8,7 +8,8 @@
   "years": "2012–",
   "genres": [
     "女成员",
-    "摇滚"
+    "摇滚",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -18,6 +19,24 @@
   ],
   "intro": "HALLOWEEN JUNKY ORCHESTRA是一支以HYDE为核心、为万圣节期间临时组建的日本乐队。",
   "introLang": "zh",
+  "tracks": [
+    "HALLOWEEN PARTY"
+  ],
+  "trackSources": [
+    {
+      "title": "HALLOWEEN PARTY"
+    }
+  ],
+  "listens": 164,
+  "listeners": 35,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/16f7da31-5798-4b0a-abac-ee22ae1b963a"
@@ -32,7 +51,8 @@
       "label": "HYDE・K.A.Z",
       "detail": "2 位乐手在这两支乐队都待过：HYDE・K.A.Z。",
       "year": 2008,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "die-in-cries",
@@ -43,7 +63,8 @@
       "label": "kyo",
       "detail": "kyo 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-arc-en-ciel",
@@ -54,7 +75,8 @@
       "label": "HYDE",
       "detail": "HYDE 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mucc",
@@ -65,7 +87,8 @@
       "label": "逹瑯",
       "detail": "逹瑯 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "横須賀サーベルタイガー",
@@ -76,7 +99,22 @@
       "label": "kyo",
       "detail": "kyo 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "acid-black-cherry",
+      "toName": "Acid Black Cherry",
+      "toArea": "枚方",
+      "toYears": "2007–2017",
+      "type": "guest",
+      "label": "客串：DAIGO",
+      "detail": "MusicBrainz 录音资料显示，DAIGO参与了《大都会 (Guest Vocals : DAIGO from BREAKERZ)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/360af327-ed9f-4345-aaef-9424b6d47565"
+      ]
     },
     {
       "to": "hide-with-spread-beaver",
@@ -87,7 +125,8 @@
       "label": "K.A.Z",
       "detail": "K.A.Z 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dead-wire",
@@ -98,7 +137,8 @@
       "label": "kyo",
       "detail": "kyo 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-last-rockstars",
@@ -109,7 +149,8 @@
       "label": "HYDE",
       "detail": "HYDE 在这两支乐队都待过。",
       "year": 2022,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

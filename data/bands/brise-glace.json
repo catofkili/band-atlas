@@ -8,7 +8,8 @@
   "years": null,
   "genres": [
     "实验摇滚",
-    "噪音摇滚"
+    "噪音摇滚",
+    "實驗搖滾"
   ],
   "albums": [
     {
@@ -18,6 +19,16 @@
   ],
   "intro": "Brise-Glace（法语意为“破冰船”）是一支成立于20世纪90年代的器乐前卫摇滚“超级乐队”，由吉姆·奥罗克（吉他、风琴、磁带和“剃须刀片”）、 达林·格雷（贝斯）、迪伦·波萨（吉他）和蒂姆·琼斯（鼓）组成。",
   "introLang": "zh",
+  "listens": 459,
+  "listeners": 92,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d1ff333d-4636-44e5-9bec-3641b8ae38fe"
@@ -32,7 +43,8 @@
       "label": "Darin Gray・Thymme Jones",
       "detail": "2 位乐手在这两支乐队都待过：Darin Gray・Thymme Jones。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

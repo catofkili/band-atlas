@@ -8,8 +8,18 @@
   "years": "1981–1981",
   "genres": [],
   "albums": [],
-  "intro": "Skewbald是一支来自美国的音乐团体，活跃时期为1981–1981。",
+  "intro": "Skewbald是一支来自美国的音乐团体，活跃时期为1981–1981。MusicBrainz 还记录了它与Happy Go Licky、Minor Threat、One Last Wish之间的成员往来。",
   "introLang": "zh",
+  "listens": 148,
+  "listeners": 41,
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/84c597b8-2855-423d-bcff-6a8a97eca89c"
@@ -24,7 +34,8 @@
       "label": "Eddie Janney",
       "detail": "Eddie Janney 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "minor-threat",
@@ -35,7 +46,8 @@
       "label": "Jeff Nelson",
       "detail": "Jeff Nelson 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "one-last-wish",
@@ -46,7 +58,8 @@
       "label": "Eddie Janney",
       "detail": "Eddie Janney 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rites-of-spring",
@@ -57,7 +70,8 @@
       "label": "Eddie Janney",
       "detail": "Eddie Janney 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "egg-hunt",
@@ -68,7 +82,8 @@
       "label": "Jeff Nelson",
       "detail": "Jeff Nelson 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-teen-idles",
@@ -79,7 +94,8 @@
       "label": "Jeff Nelson",
       "detail": "Jeff Nelson 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

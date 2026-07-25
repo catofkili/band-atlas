@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2004–",
-  "genres": [],
+  "genres": [
+    "硬式搖滾"
+  ],
   "albums": [
     {
       "title": "TMG I",
@@ -19,6 +21,24 @@
   ],
   "intro": "TMG是一个以日本摇滚组合B'z吉他手松本孝弘为中心的HR/HM乐团。乐团名称由来为“Tak Matsumoto Group”的首字母。",
   "introLang": "zh",
+  "tracks": [
+    "OH JAPAN 〜OUR TIME IS NOW〜"
+  ],
+  "trackSources": [
+    {
+      "title": "OH JAPAN 〜OUR TIME IS NOW〜"
+    }
+  ],
+  "listens": 461,
+  "listeners": 24,
+  "quality": {
+    "score": 65,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f9e6a7f7-7aee-45e1-a005-83c7ddf4db81"
@@ -33,7 +53,8 @@
       "label": "松本孝弘",
       "detail": "松本孝弘 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-dead-daisies",
@@ -44,7 +65,8 @@
       "label": "Brian Tichy",
       "detail": "Brian Tichy 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "slash-s-snakepit",
@@ -55,7 +77,8 @@
       "label": "Brian Tichy",
       "detail": "Brian Tichy 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "press-rider",
@@ -66,7 +89,8 @@
       "label": "松本孝弘",
       "detail": "松本孝弘 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rock-n-roll-standard-club-band",
@@ -77,7 +101,8 @@
       "label": "松本孝弘",
       "detail": "松本孝弘 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-power-rangers-orchestra",
@@ -88,7 +113,8 @@
       "label": "Eric Martin",
       "detail": "Eric Martin 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

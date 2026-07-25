@@ -2,8 +2,8 @@
   "id": "press-rider",
   "mbid": "bab6ba42-16d4-4d14-9e61-eaf6b211de55",
   "name": "PRESS RIDER",
-  "area": null,
-  "countryCode": null,
+  "area": "日本",
+  "countryCode": "JP",
   "country": null,
   "years": null,
   "genres": [],
@@ -13,9 +13,20 @@
       "year": 1986
     }
   ],
-  "intro": "PRESS RIDER是一支音乐团体。",
+  "intro": "PRESS RIDER是一支来自日本的音乐团体。目前资料收录了《ペリカンロード～クラブ・カルーチャ～ 音楽集》等作品；MusicBrainz 还记录了它与B’z、F.O.E、Tak Matsumoto Group之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 1,
+  "listeners": 1,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 11,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bab6ba42-16d4-4d14-9e61-eaf6b211de55"
   },
@@ -29,7 +40,22 @@
       "label": "松本孝弘",
       "detail": "松本孝弘 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "相対性理論",
+      "toName": "相対性理論",
+      "toArea": "东京",
+      "toYears": "2006–",
+      "type": "guest",
+      "label": "客串：土方隆行",
+      "detail": "MusicBrainz 录音资料显示，土方隆行参与了《QHPMAS》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/1fa28970-197d-42a4-9b71-90826c890585"
+      ]
     },
     {
       "to": "f-o-e",
@@ -40,7 +66,8 @@
       "label": "西村麻聡",
       "detail": "西村麻聡 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tak-matsumoto-group",
@@ -51,7 +78,8 @@
       "label": "松本孝弘",
       "detail": "松本孝弘 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rock-n-roll-standard-club-band",
@@ -62,7 +90,8 @@
       "label": "松本孝弘",
       "detail": "松本孝弘 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

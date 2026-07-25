@@ -17,8 +17,18 @@
       "year": 2025
     }
   ],
-  "intro": "Inaba/Salas是一支音乐团体，活跃时期为2017–。",
+  "intro": "Inaba/Salas是一支音乐团体，活跃时期为2017–。目前资料收录了《Chubby Groove》、《ATOMIC CHIHUAHUA》等作品；MusicBrainz 还记录了它与B’z之间的成员往来。",
   "introLang": "zh",
+  "listens": 3,
+  "listeners": 2,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/09019044-116c-4099-b123-69149b5f045f"
@@ -33,7 +43,8 @@
       "label": "稲葉浩志",
       "detail": "稲葉浩志 在这两支乐队都待过。",
       "year": 2017,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

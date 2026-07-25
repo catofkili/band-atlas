@@ -9,7 +9,10 @@
   "genres": [
     "硬摇滚",
     "后朋克",
-    "另类摇滚"
+    "另类摇滚",
+    "硬式搖滾",
+    "哥德搖滾",
+    "後龐克"
   ],
   "albums": [
     {
@@ -39,6 +42,40 @@
   ],
   "intro": "The Cult 是一支英国硬摇滚乐队。1983年成立于西约克郡的布拉德福德。",
   "introLang": "zh",
+  "tracks": [
+    "She Sells Sanctuary",
+    "Rain",
+    "Edie (Ciao Baby)",
+    "Fire Woman",
+    "Love Removal Machine"
+  ],
+  "trackSources": [
+    {
+      "title": "She Sells Sanctuary"
+    },
+    {
+      "title": "Rain"
+    },
+    {
+      "title": "Edie (Ciao Baby)"
+    },
+    {
+      "title": "Fire Woman"
+    },
+    {
+      "title": "Love Removal Machine"
+    }
+  ],
+  "listens": 207892,
+  "listeners": 6861,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8846e4ff-0c19-4af2-872b-7a8dc7497f68"
@@ -53,7 +90,8 @@
       "label": "Scott Garrett",
       "detail": "Scott Garrett 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "thelonious-monster",
@@ -64,7 +102,22 @@
       "label": "Martyn LeNoble",
       "detail": "Martyn LeNoble 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "the-smiths",
+      "toName": "The Smiths",
+      "toArea": "曼彻斯特",
+      "toYears": "1982–1987",
+      "type": "guest",
+      "label": "客串：The Cult",
+      "detail": "MusicBrainz 录音资料显示，The Cult参与了《Alternative Classics》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/925325e4-8b9f-4ab1-be86-ee7139f915e6"
+      ]
     },
     {
       "to": "circus-diablo",
@@ -75,7 +128,8 @@
       "label": "Billy Duffy",
       "detail": "Billy Duffy 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kings-of-chaos",
@@ -86,7 +140,8 @@
       "label": "Billy Duffy",
       "detail": "Billy Duffy 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

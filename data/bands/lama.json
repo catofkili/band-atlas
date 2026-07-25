@@ -6,7 +6,12 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2010–",
-  "genres": [],
+  "genres": [
+    "摇滚乐",
+    "流行音乐",
+    "后摇滚",
+    "电子乐"
+  ],
   "albums": [
     {
       "title": "New!",
@@ -19,6 +24,16 @@
   ],
   "intro": "LAMA是一支以富川美纪为核心成员组成的日本摇滚乐队。该乐队于2011年出道。所属唱片公司为Qun Records。",
   "introLang": "zh",
+  "listens": 11553,
+  "listeners": 370,
+  "quality": {
+    "score": 71,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c966eaa7-5081-4a88-91bb-42651fad0232"
@@ -33,7 +48,8 @@
       "label": "フルカワミキ・中村弘二",
       "detail": "2 位乐手在这两支乐队都待过：フルカワミキ・中村弘二。",
       "year": 2010,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "bloodthirsty-butchers",
@@ -44,7 +60,8 @@
       "label": "田渕ひさ子",
       "detail": "田渕ひさ子 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "number-girl",
@@ -55,7 +72,8 @@
       "label": "田渕ひさ子",
       "detail": "田渕ひさ子 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "toddle",
@@ -66,7 +84,8 @@
       "label": "田渕ひさ子",
       "detail": "田渕ひさ子 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "3rensa",
@@ -77,7 +96,8 @@
       "label": "中村弘二",
       "detail": "中村弘二 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "odani-misako-ta-ta",
@@ -88,7 +108,8 @@
       "label": "田渕ひさ子",
       "detail": "田渕ひさ子 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

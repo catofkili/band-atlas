@@ -21,13 +21,40 @@
       "year": 2005
     }
   ],
-  "intro": "The Stars是一支来自日本的音乐团体，活跃时期为1999–2009。",
+  "intro": "The Stars是一支来自日本的音乐团体，活跃时期为1999–2009。目前资料收录了《Will》、《Perfect Place to Hideaway》等作品；MusicBrainz 还记录了它与ゆらゆら帝国、不失者、Galactic Abyss之间的成员往来。",
   "introLang": "zh",
+  "listens": 436,
+  "listeners": 60,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ecc5c994-d417-4e94-8a80-8079d9a2c3b9"
   },
   "edges": [
+    {
+      "to": "boris",
+      "toName": "Boris",
+      "toArea": "东京",
+      "toYears": "1992–",
+      "type": "guest",
+      "label": "客串：栗原ミチオ、石原洋",
+      "detail": "MusicBrainz 录音资料显示，栗原ミチオ、石原洋参与了《.......》、《Ka Re Ha Te Ta Sa Ki -No Ones Grieve-》、《howl part 1》、《howl part 2》等录音。",
+      "year": null,
+      "weight": 0.78,
+      "sources": [
+        "https://musicbrainz.org/recording/b8a96fa9-0426-4c11-ab00-9b59258ebffb",
+        "https://musicbrainz.org/recording/322f1a2c-5b9f-4b7c-824a-80e08cf76e13",
+        "https://musicbrainz.org/recording/7ac82cea-db12-48aa-a4c6-7b920bc37bc4",
+        "https://musicbrainz.org/recording/e3f7196f-a050-422c-aba3-33b5e6feab52"
+      ]
+    },
     {
       "to": "ゆらゆら帝国",
       "toName": "ゆらゆら帝国",
@@ -37,7 +64,8 @@
       "label": "亀川千代",
       "detail": "亀川千代 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "不失者",
@@ -48,7 +76,8 @@
       "label": "亀川千代",
       "detail": "亀川千代 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "galactic-abyss",
@@ -59,7 +88,8 @@
       "label": "亀川千代",
       "detail": "亀川千代 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

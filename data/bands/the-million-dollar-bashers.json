@@ -8,8 +8,18 @@
   "years": "2007–2007",
   "genres": [],
   "albums": [],
-  "intro": "The Million Dollar Bashers是一支来自美国的音乐团体，活跃时期为2007–2007。",
+  "intro": "The Million Dollar Bashers是一支来自美国的音乐团体，活跃时期为2007–2007。MusicBrainz 还记录了它与The John Doe Thing、Loser之间的成员往来。",
   "introLang": "zh",
+  "listens": 4629,
+  "listeners": 588,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cd836447-ce1b-48de-a512-a86d6df96676"
@@ -24,7 +34,8 @@
       "label": "Smokey Hormel",
       "detail": "Smokey Hormel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "loser",
@@ -35,7 +46,8 @@
       "label": "Smokey Hormel",
       "detail": "Smokey Hormel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

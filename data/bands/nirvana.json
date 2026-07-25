@@ -7,7 +7,8 @@
   "country": "美国",
   "years": "1987–1994",
   "genres": [
-    "另类摇滚"
+    "另类摇滚",
+    "油漬搖滾"
   ],
   "albums": [
     {
@@ -31,22 +32,21 @@
     "Heart-Shaped Box",
     "About a Girl"
   ],
+  "listens": 3004469,
+  "listeners": 26943,
+  "quality": {
+    "score": 84,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5b11f4ce-a62d-471e-81fc-a69a8278c7da"
   },
   "edges": [
-    {
-      "to": "pixies",
-      "toName": "Pixies",
-      "toArea": "波士顿",
-      "toYears": "1986–1993 / 2004–",
-      "type": "influence",
-      "label": "影响来源",
-      "detail": "Kurt Cobain 亲口承认的模仿对象。",
-      "year": null,
-      "weight": 0.9
-    },
     {
       "to": "guns-n-roses",
       "toName": "Guns N' Roses",
@@ -56,7 +56,20 @@
       "label": "1992 VMA 后台冲突",
       "detail": "1992 年 MTV 音乐录影带大奖后台，Axl Rose 与 Kurt Cobain、Courtney Love 当众对峙。两队自此成了九十年代摇滚新旧两极的象征。",
       "year": 1992,
-      "weight": 0.9
+      "weight": 0.9,
+      "sources": []
+    },
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "Kurt Cobain 亲口承认的模仿对象。",
+      "year": null,
+      "weight": 0.9,
+      "sources": []
     },
     {
       "to": "sonic-youth",
@@ -67,7 +80,8 @@
       "label": "引荐签约",
       "detail": "Nirvana 能签进大厂牌，很大程度上得益于 Sonic Youth 的引荐与带队巡演。",
       "year": 1991,
-      "weight": 0.8
+      "weight": 0.8,
+      "sources": []
     },
     {
       "to": "art-school",
@@ -78,18 +92,8 @@
       "label": "影响来源",
       "detail": "木下理树多次提到九十年代美国另类摇滚，尤其是 Nirvana 的影响。",
       "year": null,
-      "weight": 0.7
-    },
-    {
-      "to": "sonic-youth",
-      "toName": "Sonic Youth",
-      "toArea": "纽约",
-      "toYears": "1981–2011",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Nirvana 受 Sonic Youth 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
+      "weight": 0.7,
+      "sources": []
     },
     {
       "to": "love-battery",
@@ -100,7 +104,8 @@
       "label": "Dan Peters",
       "detail": "Dan Peters 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mudhoney",
@@ -111,7 +116,8 @@
       "label": "Dan Peters",
       "detail": "Dan Peters 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "soundgarden",
@@ -122,7 +128,8 @@
       "label": "Jason Everman",
       "detail": "Jason Everman 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "valis",
@@ -133,7 +140,8 @@
       "label": "Dan Peters",
       "detail": "Dan Peters 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "old",
@@ -144,7 +152,8 @@
       "label": "Jason Everman",
       "detail": "Jason Everman 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mico-de-noche",
@@ -155,7 +164,8 @@
       "label": "Dave Foster",
       "detail": "Dave Foster 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mind-funk",
@@ -166,7 +176,8 @@
       "label": "Jason Everman",
       "detail": "Jason Everman 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "before-cars",
@@ -177,7 +188,20 @@
       "label": "Chad Channing",
       "detail": "Chad Channing 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "sonic-youth",
+      "toName": "Sonic Youth",
+      "toArea": "纽约",
+      "toYears": "1981–2011",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Nirvana 受 Sonic Youth 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-methodists",
@@ -188,7 +212,8 @@
       "label": "Chad Channing",
       "detail": "Chad Channing 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bliss",
@@ -199,7 +224,8 @@
       "label": "Dave Foster",
       "detail": "Dave Foster 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bundle-of-hiss",
@@ -210,7 +236,8 @@
       "label": "Dan Peters",
       "detail": "Dan Peters 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dan-peters-combo",
@@ -221,7 +248,8 @@
       "label": "Dan Peters",
       "detail": "Dan Peters 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "helltrout",
@@ -232,7 +260,8 @@
       "label": "Dave Foster",
       "detail": "Dave Foster 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "skid-row",
@@ -243,7 +272,8 @@
       "label": "Aaron Burckhard",
       "detail": "Aaron Burckhard 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-fire-ants",
@@ -254,7 +284,8 @@
       "label": "Chad Channing",
       "detail": "Chad Channing 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-new-original-sonic-sound",
@@ -265,7 +296,8 @@
       "label": "Dan Peters",
       "detail": "Dan Peters 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "throat-oyster",
@@ -276,7 +308,8 @@
       "label": "Aaron Burckhard",
       "detail": "Aaron Burckhard 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "black-sabbath",
@@ -287,7 +320,8 @@
       "label": "影响关系",
       "detail": "Nirvana 受 Black Sabbath 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "blink-182",
@@ -298,7 +332,8 @@
       "label": "影响关系",
       "detail": "Nirvana 影响了 blink‐182（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "green-day",
@@ -309,7 +344,8 @@
       "label": "影响关系",
       "detail": "Nirvana 影响了 Green Day（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "led-zeppelin",
@@ -320,7 +356,8 @@
       "label": "影响关系",
       "detail": "Nirvana 受 Led Zeppelin 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "melvins",
@@ -331,7 +368,8 @@
       "label": "影响关系",
       "detail": "Nirvana 受 Melvins 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "muse",
@@ -342,7 +380,8 @@
       "label": "影响关系",
       "detail": "Nirvana 影响了 Muse（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-offspring",
@@ -353,7 +392,8 @@
       "label": "影响关系",
       "detail": "Nirvana 影响了 The Offspring（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "weezer",
@@ -364,7 +404,8 @@
       "label": "影响关系",
       "detail": "Nirvana 影响了 Weezer（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "die-spitz",
@@ -375,7 +416,8 @@
       "label": "影响关系",
       "detail": "Nirvana 影响了 Die Spitz（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

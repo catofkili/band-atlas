@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2015–",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "A Mirage In The Sun",
@@ -27,6 +29,24 @@
   ],
   "intro": "MONOEYES是一支日本摇滚乐队。所属厂牌是环球音乐旗下的EMI Records。",
   "introLang": "zh",
+  "tracks": [
+    "My Instant Song E.P."
+  ],
+  "trackSources": [
+    {
+      "title": "My Instant Song E.P."
+    }
+  ],
+  "listens": 2980,
+  "listeners": 190,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3afff27f-0341-425c-b70c-2a6f4d697b58"
@@ -41,7 +61,8 @@
       "label": "細美武士",
       "detail": "細美武士 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-hiatus",
@@ -52,7 +73,8 @@
       "label": "細美武士",
       "detail": "細美武士 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-low-atus",
@@ -63,7 +85,8 @@
       "label": "細美武士",
       "detail": "細美武士 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

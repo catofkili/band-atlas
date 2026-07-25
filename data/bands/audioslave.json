@@ -6,7 +6,10 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "另類金屬",
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "Audioslave",
@@ -35,11 +38,62 @@
   ],
   "intro": "音魔乐队是一支美国的摇滚超级乐团，于2001年在加州的洛杉矶组建，后于2007年解散。成员包括前声音花园主音克里斯·康奈尔及三名前讨伐体制乐团成员，包括吉他手汤姆·莫雷洛、贝斯手蒂姆·康默福德及鼓手布拉德·威尔克。",
   "introLang": "zh",
+  "tracks": [
+    "Be Yourself",
+    "Like a Stone",
+    "Cochise",
+    "Show Me How to Live",
+    "I Am the Highway"
+  ],
+  "trackSources": [
+    {
+      "title": "Be Yourself"
+    },
+    {
+      "title": "Like a Stone"
+    },
+    {
+      "title": "Cochise"
+    },
+    {
+      "title": "Show Me How to Live"
+    },
+    {
+      "title": "I Am the Highway"
+    }
+  ],
+  "listens": 622121,
+  "listeners": 12622,
+  "quality": {
+    "score": 81,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/020bfbb4-05c3-4c86-b372-17825c262094"
   },
   "edges": [
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "伯明翰",
+      "toYears": "1968–2025",
+      "type": "guest",
+      "label": "客串：Brad Wilk",
+      "detail": "MusicBrainz 录音资料显示，Brad Wilk参与了《Age of Reason》、《Loner》、《Live Forever》、《Methademic》等录音。",
+      "year": null,
+      "weight": 0.78,
+      "sources": [
+        "https://musicbrainz.org/recording/bbfa68c3-f300-40a9-ae10-e9af21d4d615",
+        "https://musicbrainz.org/recording/3346ade3-15c6-4bcc-9d34-8da0275448c6",
+        "https://musicbrainz.org/recording/4c4b2797-a333-468a-9a6e-39c481559803",
+        "https://musicbrainz.org/recording/9e4c7c46-f0e8-4688-a846-cb407eb29288"
+      ]
+    },
     {
       "to": "rage-against-the-machine",
       "toName": "Rage Against the Machine",
@@ -49,7 +103,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

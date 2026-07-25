@@ -25,8 +25,18 @@
       "year": 2017
     }
   ],
-  "intro": "ANATAKIKOU是一支来自大阪的音乐团体，活跃时期为2001–。",
+  "intro": "ANATAKIKOU是一支来自大阪的音乐团体，活跃时期为2001–。目前资料收录了《sweet montage A》、《Message Pie》等作品；MusicBrainz 还记录了它与Official髭男dism之间的成员往来。",
   "introLang": "zh",
+  "listens": 574,
+  "listeners": 29,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ce54d048-b971-4132-a8da-2a3305a53402"
@@ -41,7 +51,8 @@
       "label": "松浦匡希",
       "detail": "松浦匡希 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

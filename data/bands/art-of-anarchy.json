@@ -7,7 +7,10 @@
   "country": "美国",
   "years": "2011–",
   "genres": [
-    "硬摇滚"
+    "硬摇滚",
+    "另類金屬",
+    "硬式搖滾",
+    "後油漬搖滾"
   ],
   "albums": [
     {
@@ -25,6 +28,16 @@
   ],
   "intro": "Art of Anarchy 是一支成立于 2011 年的美国摇滚超级乐队，目前由担任吉他手和鼓手的乔恩·沃塔（Jon Votta）与文斯·沃塔（Vince Votta）兄弟、贝斯手托尼·迪金森（Tony Dickinson）、负责吉他演奏和制作的罗恩·“邦布尔福特” Thal（前“枪与玫瑰”乐队成员、前“亚洲”乐队成员、“阿波罗之子”乐队成员）担任吉他手兼制作人，以及杰夫·斯科特·索托（“阿波罗之子”乐队成员、前“塔利斯曼”乐队成员、前“旅程”乐队成员）担任主唱。",
   "introLang": "zh",
+  "listens": 5202,
+  "listeners": 379,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7294f7d2-743d-483c-84fd-d0c0ffd9a234"
@@ -39,7 +52,8 @@
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sons-of-apollo",
@@ -50,7 +64,8 @@
       "label": "Ron “Bumblefoot” Thal・Jeff Scott Soto",
       "detail": "2 位乐手在这两支乐队都待过：Ron “Bumblefoot” Thal・Jeff Scott Soto。",
       "year": 2017,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "asia",
@@ -61,7 +76,8 @@
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "stone-temple-pilots",
@@ -72,7 +88,8 @@
       "label": "Scott Weiland",
       "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "velvet-revolver",
@@ -83,7 +100,8 @@
       "label": "Scott Weiland",
       "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "whom-gods-destroy",
@@ -94,7 +112,8 @@
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "artists-against-aids-worldwide",
@@ -105,7 +124,8 @@
       "label": "Scott Weiland",
       "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beatrazr",
@@ -116,7 +136,8 @@
       "label": "Ron “Bumblefoot” Thal",
       "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "camp-freddy",
@@ -127,7 +148,8 @@
       "label": "Scott Weiland",
       "detail": "Scott Weiland 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

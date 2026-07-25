@@ -9,7 +9,13 @@
   "genres": [
     "摇滚",
     "蓝调摇滚",
-    "经典摇滚"
+    "经典摇滚",
+    "搖滾",
+    "藍調",
+    "摇滚乐",
+    "藍調搖滾",
+    "节奏布鲁斯",
+    "迷幻搖滾"
   ],
   "albums": [
     {
@@ -39,6 +45,40 @@
   ],
   "intro": "滚石乐队是一支英国摇滚乐乐队，于1962年4月在伦敦成立。布莱恩·琼斯、伊恩·斯图尔特、米克·贾格尔以及基思·理查兹，加上贝斯手比尔·怀曼和鼓手查理·沃茨组成了早期的滚石乐队。",
   "introLang": "zh",
+  "tracks": [
+    "黒くぬれ!",
+    "エニバディ・シーン・マイ・ベイビー?",
+    "ブラウン・シュガー",
+    "想念你",
+    "一人ぼっちの世界"
+  ],
+  "trackSources": [
+    {
+      "title": "黒くぬれ!"
+    },
+    {
+      "title": "エニバディ・シーン・マイ・ベイビー?"
+    },
+    {
+      "title": "ブラウン・シュガー"
+    },
+    {
+      "title": "想念你"
+    },
+    {
+      "title": "一人ぼっちの世界"
+    }
+  ],
+  "listens": 2049053,
+  "listeners": 22372,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b071f9fa-14b0-4217-8e97-eb41da73f598"
@@ -53,7 +93,8 @@
       "label": "影响关系",
       "detail": "The Rolling Stones 影响了 Guns N’ Roses（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "oasis",
@@ -64,7 +105,8 @@
       "label": "影响关系",
       "detail": "The Rolling Stones 影响了 Oasis（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -75,7 +117,8 @@
       "label": "Ronnie Wood",
       "detail": "Ronnie Wood 在这两支乐队都待过。",
       "year": 1975,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-jagger-the-brothers-of-sodom",
@@ -86,7 +129,8 @@
       "label": "Mick Jagger",
       "detail": "Mick Jagger 在这两支乐队都待过。",
       "year": 1962,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rock-therapy",
@@ -97,7 +141,8 @@
       "label": "Charlie Watts",
       "detail": "Charlie Watts 在这两支乐队都待过。",
       "year": 1963,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "supergroup-b",
@@ -108,7 +153,8 @@
       "label": "Ronnie Wood",
       "detail": "Ronnie Wood 在这两支乐队都待过。",
       "year": 1975,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-ronnie-wood-band",
@@ -119,7 +165,8 @@
       "label": "Ronnie Wood",
       "detail": "Ronnie Wood 在这两支乐队都待过。",
       "year": 1975,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "led-zeppelin",
@@ -130,7 +177,8 @@
       "label": "影响关系",
       "detail": "The Rolling Stones 影响了 Led Zeppelin（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -141,7 +189,8 @@
       "label": "影响关系",
       "detail": "The Rolling Stones 影响了 Pearl Jam（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "sex-pistols",
@@ -152,7 +201,8 @@
       "label": "影响关系",
       "detail": "The Rolling Stones 影响了 Sex Pistols（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-beatles",
@@ -163,7 +213,8 @@
       "label": "影响关系",
       "detail": "The Rolling Stones 受 The Beatles 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "u2",
@@ -174,7 +225,8 @@
       "label": "影响关系",
       "detail": "The Rolling Stones 影响了 U2（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

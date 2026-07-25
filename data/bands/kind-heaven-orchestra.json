@@ -2,15 +2,26 @@
   "id": "kind-heaven-orchestra",
   "mbid": "18fa73af-3b36-408b-a0eb-68e0375d48d3",
   "name": "Kind Heaven Orchestra",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": "2018–",
   "genres": [],
   "albums": [],
-  "intro": "Kind Heaven Orchestra是一支音乐团体，活跃时期为2018–。",
+  "intro": "Kind Heaven Orchestra是一支来自美国的音乐团体，活跃时期为2018–。MusicBrainz 还记录了它与Jane’s Addiction、Pearl Jam、Traveling Wilburys之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 2,
+  "listeners": 1,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/18fa73af-3b36-408b-a0eb-68e0375d48d3"
   },
@@ -24,7 +35,8 @@
       "label": "Perry Farrell",
       "detail": "Perry Farrell 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -35,7 +47,8 @@
       "label": "Matt Chamberlain",
       "detail": "Matt Chamberlain 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "traveling-wilburys",
@@ -46,7 +59,8 @@
       "label": "Dhani Harrison",
       "detail": "Dhani Harrison 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "artists-against-aids-worldwide",
@@ -57,7 +71,8 @@
       "label": "Perry Farrell",
       "detail": "Perry Farrell 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "george-s-band",
@@ -68,7 +83,8 @@
       "label": "Dhani Harrison",
       "detail": "Dhani Harrison 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

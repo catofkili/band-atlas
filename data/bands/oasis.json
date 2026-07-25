@@ -8,7 +8,12 @@
   "years": "1991–2009 / 2024–",
   "genres": [
     "英伦摇滚",
-    "摇滚"
+    "摇滚",
+    "摇滚乐",
+    "另类摇滚",
+    "独立摇滚",
+    "新迷幻音樂",
+    "獨立流行"
   ],
   "albums": [
     {
@@ -32,6 +37,16 @@
     "Don't Look Back in Anger",
     "Champagne Supernova"
   ],
+  "listens": 1423717,
+  "listeners": 19580,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/39ab1aed-75e0-4140-bd47-540276886b60"
@@ -46,7 +61,8 @@
       "label": "英伦摇滚之战",
       "detail": "1995 年 8 月，两队把新单曲放在同一天发行，媒体把它炒成全国性对决。Noel Gallagher 随后关于 Blur 成员的失言让关系跌到冰点，多年后他才公开道歉。",
       "year": 1995,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "beady-eye",
@@ -57,7 +73,8 @@
       "label": "Liam Gallagher・Andy Bell・Gem Archer",
       "detail": "3 位乐手在这两支乐队都待过：Liam Gallagher・Andy Bell・Gem Archer。",
       "year": 2025,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-rain",
@@ -68,7 +85,8 @@
       "label": "Tony McCarroll・Paul Arthurs・Paul McGuigan",
       "detail": "3 位乐手在这两支乐队都待过：Tony McCarroll・Paul Arthurs・Paul McGuigan。",
       "year": 1991,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "asian-kung-fu-generation",
@@ -79,7 +97,8 @@
       "label": "影响来源",
       "detail": "英伦摇滚的合唱式副歌，是 AKG 早期写作的参照之一。",
       "year": null,
-      "weight": 0.6
+      "weight": 0.6,
+      "sources": []
     },
     {
       "to": "cornershop",
@@ -90,7 +109,8 @@
       "label": "Paul McGuigan",
       "detail": "Paul McGuigan 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hurricane-1",
@@ -101,7 +121,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ride",
@@ -112,7 +133,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "noel-gallagher-s-high-flying-birds",
@@ -123,7 +145,22 @@
       "label": "Noel Gallagher",
       "detail": "Noel Gallagher 在这两支乐队都待过。",
       "year": 2011,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "gorillaz",
+      "toName": "Gorillaz",
+      "toArea": "埃塞克斯",
+      "toYears": "1999–",
+      "type": "guest",
+      "label": "客串：Noel Gallagher",
+      "detail": "MusicBrainz 录音资料显示，Noel Gallagher参与了《We Got the Power》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/10709c0b-9352-4d03-8c90-2b6f825c7072"
+      ]
     },
     {
       "to": "harvey-s-rabbit",
@@ -134,7 +171,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "heavy-stereo",
@@ -145,7 +183,8 @@
       "label": "Gem Archer",
       "detail": "Gem Archer 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "parlour-flames",
@@ -156,7 +195,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "southern-fly",
@@ -167,7 +207,8 @@
       "label": "Gem Archer",
       "detail": "Gem Archer 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "starclub",
@@ -178,7 +219,8 @@
       "label": "Alan White",
       "detail": "Alan White 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tailgunner",
@@ -189,7 +231,8 @@
       "label": "Noel Gallagher",
       "detail": "Noel Gallagher 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mantra-of-the-cosmos",
@@ -200,7 +243,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-fleetwood-and-friends",
@@ -211,7 +255,8 @@
       "label": "Noel Gallagher",
       "detail": "Noel Gallagher 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "moondog-one",
@@ -222,7 +267,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "phoneys-the-freaks",
@@ -233,7 +279,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-vortex",
@@ -244,7 +291,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-beatles",
@@ -255,7 +303,8 @@
       "label": "影响关系",
       "detail": "Oasis 受 The Beatles 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-rolling-stones",
@@ -266,7 +315,8 @@
       "label": "影响关系",
       "detail": "Oasis 受 The Rolling Stones 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-who",
@@ -277,7 +327,8 @@
       "label": "影响关系",
       "detail": "Oasis 受 The Who 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "weezer",
@@ -288,7 +339,8 @@
       "label": "影响关系",
       "detail": "Oasis 影响了 Weezer（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

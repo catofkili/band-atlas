@@ -9,7 +9,9 @@
   "genres": [
     "工业金属",
     "泥浆金属",
-    "工业 Dub"
+    "工业 Dub",
+    "工業金屬",
+    "泥沼金屬"
   ],
   "albums": [
     {
@@ -39,6 +41,32 @@
   ],
   "intro": "Godflesh 是一支来自英格兰伯明翰的工业金属乐队。1988年，贾斯汀·布罗德里克和G.",
   "introLang": "zh",
+  "tracks": [
+    "F.O.D.",
+    "Slateman",
+    "Crush My Soul"
+  ],
+  "trackSources": [
+    {
+      "title": "F.O.D."
+    },
+    {
+      "title": "Slateman"
+    },
+    {
+      "title": "Crush My Soul"
+    }
+  ],
+  "listens": 215761,
+  "listeners": 2643,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/864aa861-e22a-4187-8baa-2ef0c215bc0a"
@@ -53,7 +81,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ministry",
@@ -64,7 +93,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -75,7 +105,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "swans",
@@ -86,7 +117,8 @@
       "label": "Ted Parsons",
       "detail": "Ted Parsons 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zilch",
@@ -97,7 +129,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "murder-inc",
@@ -108,7 +141,8 @@
       "label": "Paul Raven",
       "detail": "Paul Raven 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

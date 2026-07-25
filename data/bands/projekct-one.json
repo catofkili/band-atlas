@@ -6,10 +6,22 @@
   "countryCode": "GB",
   "country": "英国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "前衛搖滾"
+  ],
   "albums": [],
   "intro": "该项目是源自英格兰前卫摇滚乐队“King Crimson”的实验音乐组合的总称。",
   "introLang": "zh",
+  "listens": 1197,
+  "listeners": 77,
+  "quality": {
+    "score": 49,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/164765fe-22bb-4a3c-8643-67c8af245d46"
@@ -24,7 +36,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

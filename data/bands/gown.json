@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Gown是一支来自美国的音乐团体。",
+  "intro": "Gown是一支来自美国的音乐团体。MusicBrainz 还记录了它与Queens of the Stone Age之间的成员往来。",
   "introLang": "zh",
+  "listens": 19,
+  "listeners": 10,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4f83b34e-7eaa-4691-bdc8-afa90806cbca"
@@ -24,7 +34,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

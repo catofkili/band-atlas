@@ -9,7 +9,8 @@
   "genres": [
     "另类摇滚",
     "放克金属",
-    "金属"
+    "金属",
+    "實驗搖滾"
   ],
   "albums": [
     {
@@ -19,6 +20,16 @@
   ],
   "intro": "“克莱普尔上校的伯尼大脑桶”（Colonel Claypool's Bucket of Bernie Brains，简称 C2B3）是一支实验摇滚超级乐队，成员包括贝斯手莱斯·克莱普尔（Les Claypool）、吉他手巴克特海德（Buckethead）、键盘手伯尼·沃雷尔（Bernie Worrell）和鼓手布莱恩（Brain）。",
   "introLang": "zh",
+  "listens": 8116,
+  "listeners": 574,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4297d19f-4483-494c-a993-0e29a5afac33"
@@ -33,7 +44,8 @@
       "label": "Les Claypool",
       "detail": "Les Claypool 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "les-claypool-and-the-holy-mackerel",
@@ -44,7 +56,8 @@
       "label": "Les Claypool",
       "detail": "Les Claypool 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "festus-clamrod-and-the-el-sobrante-twangers",
@@ -55,7 +68,8 @@
       "label": "Les Claypool",
       "detail": "Les Claypool 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

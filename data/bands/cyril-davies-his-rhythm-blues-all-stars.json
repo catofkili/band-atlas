@@ -2,15 +2,26 @@
   "id": "cyril-davies-his-rhythm-blues-all-stars",
   "mbid": "bdb71ec1-1b6c-4333-89f1-5d9d1f7a9560",
   "name": "Cyril Davies & His Rhythm & Blues All Stars",
-  "area": null,
-  "countryCode": null,
+  "area": "英国",
+  "countryCode": "GB",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Cyril Davies & His Rhythm & Blues All Stars是一支音乐团体。",
+  "intro": "Cyril Davies & His Rhythm & Blues All Stars是一支来自英国的音乐团体。MusicBrainz 还记录了它与Alexis Korner’s Blues Incorporated、Lord Sutch & Heavy Friends之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 44,
+  "listeners": 26,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bdb71ec1-1b6c-4333-89f1-5d9d1f7a9560"
   },
@@ -24,7 +35,8 @@
       "label": "Cyril Davies・Dick Heckstall‐Smith・Long John Baldry",
       "detail": "3 位乐手在这两支乐队都待过：Cyril Davies・Dick Heckstall‐Smith・Long John Baldry。",
       "year": 1961,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "lord-sutch-heavy-friends",
@@ -35,7 +47,8 @@
       "label": "Richard Brown・Nicky Hopkins",
       "detail": "2 位乐手在这两支乐队都待过：Richard Brown・Nicky Hopkins。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

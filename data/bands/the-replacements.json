@@ -9,7 +9,12 @@
   "genres": [
     "另类摇滚",
     "朋克摇滚",
-    "Power Pop简体中文（大陆）"
+    "Power Pop简体中文（大陆）",
+    "朋克搖滾",
+    "摇滚乐",
+    "硬核朋克",
+    "流行朋克",
+    "後龐克"
   ],
   "albums": [
     {
@@ -39,6 +44,28 @@
   ],
   "intro": "The Replacements是一支来自明尼苏达州明尼阿波利斯的摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Alex Chilton",
+    "I Will Dare"
+  ],
+  "trackSources": [
+    {
+      "title": "Alex Chilton"
+    },
+    {
+      "title": "I Will Dare"
+    }
+  ],
+  "listens": 229705,
+  "listeners": 5942,
+  "quality": {
+    "score": 84,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dc0d05ce-2f47-4962-b4fa-8631a0a51987"
@@ -53,7 +80,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bash-pop",
@@ -64,7 +92,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "cowboys-in-the-campfire",
@@ -75,7 +104,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "perfect",
@@ -86,7 +116,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-i-don-t-cares",
@@ -97,7 +128,8 @@
       "label": "Paul Westerberg",
       "detail": "Paul Westerberg 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-a-m-f",
@@ -108,7 +140,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "latter-revelation-company-singers",
@@ -119,7 +152,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jacks",
@@ -130,7 +164,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "green-day",
@@ -141,7 +176,8 @@
       "label": "影响关系",
       "detail": "The Replacements 影响了 Green Day（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

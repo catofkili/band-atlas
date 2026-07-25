@@ -23,6 +23,28 @@
   ],
   "intro": "The Good, the Bad & the Queen 是由布勒乐队成员、Gorillaz乐队的戴蒙·阿尔本，曾与阿弗罗比特音乐创始人费拉·库蒂合作的托尼·艾伦，前The Clash乐队成员保罗·西蒙诺，前The Verve乐队成员西蒙·汤姆，这支乐队于2007年发行的专辑。",
   "introLang": "zh",
+  "tracks": [
+    "Herculean",
+    "Green Fields"
+  ],
+  "trackSources": [
+    {
+      "title": "Herculean"
+    },
+    {
+      "title": "Green Fields"
+    }
+  ],
+  "listens": 82076,
+  "listeners": 3174,
+  "quality": {
+    "score": 84,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0f211bfc-8c69-4cb7-9165-acbe4353cb0a"
@@ -37,7 +59,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rocket-juice-the-moon",
@@ -48,7 +71,25 @@
       "label": "Damon Albarn・Tony Allen",
       "detail": "2 位乐手在这两支乐队都待过：Damon Albarn・Tony Allen。",
       "year": 2008,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "gorillaz",
+      "toName": "Gorillaz",
+      "toArea": "埃塞克斯",
+      "toYears": "1999–",
+      "type": "guest",
+      "label": "客串：Damon Albarn、Simon Tong",
+      "detail": "MusicBrainz 录音资料显示，Damon Albarn、Simon Tong参与了《5/4》、《19-2000》、《Tomorrow Comes Today》、《Glitter Freeze》等录音。",
+      "year": null,
+      "weight": 0.78,
+      "sources": [
+        "https://musicbrainz.org/recording/0bce478e-ff71-41ba-bb7b-310910d11cde",
+        "https://musicbrainz.org/recording/b766a7b6-5b8f-4805-ae83-420231c0ec76",
+        "https://musicbrainz.org/recording/8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0",
+        "https://musicbrainz.org/recording/00eb9af1-4290-401f-bfd8-cbee5bd6f519"
+      ]
     },
     {
       "to": "monkey",
@@ -59,7 +100,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "electric-wave-bureau",
@@ -70,7 +112,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "seymour",
@@ -81,7 +124,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-heavy-seas",
@@ -92,7 +136,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

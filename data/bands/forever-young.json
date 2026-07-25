@@ -8,8 +8,18 @@
   "years": "1991–1993",
   "genres": [],
   "albums": [],
-  "intro": "Forever Young是一支来自洛杉矶的音乐团体，活跃时期为1991–1993。",
+  "intro": "Forever Young是一支来自洛杉矶的音乐团体，活跃时期为1991–1993。MusicBrainz 还记录了它与System of a Down、The Apex Theory、Fuktronic之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9a45fd78-4ffc-4cc7-88dc-7d4264bff79f"
@@ -24,7 +34,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-apex-theory",
@@ -35,7 +46,8 @@
       "label": "David Hakopyan",
       "detail": "David Hakopyan 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fuktronic",
@@ -46,7 +58,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jazz-iz-christ",
@@ -57,7 +70,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "serart",
@@ -68,7 +82,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "axis-of-justice",
@@ -79,7 +94,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

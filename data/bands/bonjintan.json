@@ -17,8 +17,18 @@
       "year": 2020
     }
   ],
-  "intro": "Bonjintan是一支来自日本的音乐团体。",
+  "intro": "Bonjintan是一支来自日本的音乐团体。目前资料收录了《Bonjin Tan》、《Dental Kafka》等作品；MusicBrainz 还记录了它与Delivery Health、Kafka’s Ibiki、Eiko Ishibashi Trio之间的成员往来。",
   "introLang": "zh",
+  "listens": 43,
+  "listeners": 11,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/823f8b5a-a1eb-4dad-b417-8d5696d97243"
@@ -33,7 +43,8 @@
       "label": "山本達久・Giovanni di Domenico",
       "detail": "2 位乐手在这两支乐队都待过：山本達久・Giovanni di Domenico。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "kafka-s-ibiki",
@@ -44,7 +55,8 @@
       "label": "山本達久",
       "detail": "山本達久 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "eiko-ishibashi-trio",
@@ -55,7 +67,8 @@
       "label": "山本達久",
       "detail": "山本達久 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

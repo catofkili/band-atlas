@@ -13,8 +13,18 @@
       "year": 2013
     }
   ],
-  "intro": "Parlour Flames是一支来自曼彻斯特的音乐团体。",
+  "intro": "Parlour Flames是一支来自曼彻斯特的音乐团体。目前资料收录了《Parlour Flames》等作品；MusicBrainz 还记录了它与Oasis、Moondog One、Phoneys & the Freaks之间的成员往来。",
   "introLang": "zh",
+  "listens": 114,
+  "listeners": 17,
+  "quality": {
+    "score": 11,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ecc014f3-cee3-44e8-9c16-f7d23139754b"
@@ -29,7 +39,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "moondog-one",
@@ -40,7 +51,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "phoneys-the-freaks",
@@ -51,7 +63,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-rain",
@@ -62,7 +75,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-vortex",
@@ -73,7 +87,8 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

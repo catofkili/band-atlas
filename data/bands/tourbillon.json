@@ -7,7 +7,8 @@
   "country": "日本",
   "years": "2005–",
   "genres": [
-    "视觉系"
+    "视觉系",
+    "日本流行音樂"
   ],
   "albums": [
     {
@@ -29,6 +30,40 @@
   ],
   "intro": "Tourbillon是由RYUICHI、INORAN和H.Hayama三人组成的日本音乐组合。",
   "introLang": "zh",
+  "tracks": [
+    "Break the Chain",
+    "HEAVEN (Tourbillonの曲)",
+    "your place",
+    "アゲハ/selfish",
+    "もう一度君に"
+  ],
+  "trackSources": [
+    {
+      "title": "Break the Chain"
+    },
+    {
+      "title": "HEAVEN (Tourbillonの曲)"
+    },
+    {
+      "title": "your place"
+    },
+    {
+      "title": "アゲハ/selfish"
+    },
+    {
+      "title": "もう一度君に"
+    }
+  ],
+  "listens": 9626,
+  "listeners": 79,
+  "quality": {
+    "score": 83,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fa2a83c8-9ab1-4c53-a260-81207c4dd863"
@@ -43,7 +78,8 @@
       "label": "INORAN・河村隆一",
       "detail": "2 位乐手在这两支乐队都待过：INORAN・河村隆一。",
       "year": 2005,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "lunacy",
@@ -54,7 +90,8 @@
       "label": "INORAN・河村隆一",
       "detail": "2 位乐手在这两支乐队都待过：INORAN・河村隆一。",
       "year": 2005,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "fake",
@@ -65,7 +102,8 @@
       "label": "INORAN",
       "detail": "INORAN 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "muddy-apes",
@@ -76,7 +114,8 @@
       "label": "INORAN",
       "detail": "INORAN 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "3minutes",
@@ -87,7 +126,8 @@
       "label": "河村隆一",
       "detail": "河村隆一 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "m-a-s-s",
@@ -98,7 +138,8 @@
       "label": "INORAN",
       "detail": "INORAN 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

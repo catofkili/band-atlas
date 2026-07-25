@@ -29,15 +29,35 @@ for (let i = 0; i < points.length; i += 1) {
 const edgeRatios = graph.edges.map((edge) => {
   const a = nodes.get(edge.from);
   const b = nodes.get(edge.to);
-  return Math.hypot(a.x - b.x, a.y - b.y) / ((a.labelWidth + b.labelWidth) / 2);
+  const dx = b.x - a.x;
+  const dy = b.y - a.y;
+  const distance = Math.hypot(dx, dy);
+  if (!distance) return 0;
+  const ux = dx / distance;
+  const uy = dy / distance;
+  const boundaryDistance = (node) => {
+    const horizontal = Math.abs(ux) < 0.00001
+      ? Infinity
+      : node.labelWidth / 2 / Math.abs(ux);
+    const vertical = Math.abs(uy) < 0.00001
+      ? Infinity
+      : 11 / Math.abs(uy);
+    return Math.min(horizontal, vertical);
+  };
+  const visibleLine = Math.max(0, distance - boundaryDistance(a) - boundaryDistance(b));
+  return visibleLine / ((a.labelWidth + b.labelWidth) / 2);
 }).sort((a, b) => a - b);
 const percentile = (value) => edgeRatios[Math.floor((edgeRatios.length - 1) * value)];
 const medianEdgeRatio = percentile(0.5);
+const p90EdgeRatio = percentile(0.9);
 
-if (overlaps > 3000) throw new Error(`标签重叠过多：${overlaps}`);
-if (medianEdgeRatio > 1.8) throw new Error(`关系线中位长度过长：${medianEdgeRatio.toFixed(2)}`);
+// 这些上限贴近当前经过人工查看的基线；以后布局参数一旦明显退化就立即失败，
+// 不再用“允许三千处重叠”这种几乎拦不住回归的宽阈值。
+if (overlaps > 2360) throw new Error(`标签重叠过多：${overlaps}`);
+if (medianEdgeRatio > 1.02) throw new Error(`可见关系线中位长度过长：${medianEdgeRatio.toFixed(2)}`);
+if (p90EdgeRatio > 2.9) throw new Error(`可见关系线 P90 长度过长：${p90EdgeRatio.toFixed(2)}`);
 
 console.log(
   `✓ 离线坐标 ${nodes.size} 个，标签重叠 ${overlaps}，` +
-  `关系线/气泡宽度 P50 ${medianEdgeRatio.toFixed(2)}，P90 ${percentile(0.9).toFixed(2)}`
+  `可见线段/气泡宽度 P50 ${medianEdgeRatio.toFixed(2)}，P90 ${p90EdgeRatio.toFixed(2)}`
 );

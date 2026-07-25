@@ -9,7 +9,9 @@
   "genres": [
     "朋克摇滚",
     "流行朋克",
-    "另类摇滚"
+    "另类摇滚",
+    "朋克搖滾",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -39,6 +41,40 @@
   ],
   "intro": "绿日乐队是美国著名摇滚乐队。1986年创立，是90年代美国朋克音乐的重要乐队之一，也是90年代以后最受欢迎的乐队之一。成员包括主唱/吉他手比利·乔·阿姆斯特朗，贝斯手麦克·德恩特以及鼓手崔·库尔。",
   "introLang": "zh",
+  "tracks": [
+    "九月結束時叫醒我",
+    "夢碎大道",
+    "アメリカン・イディオット",
+    "神经衰弱",
+    "21 Guns"
+  ],
+  "trackSources": [
+    {
+      "title": "九月結束時叫醒我"
+    },
+    {
+      "title": "夢碎大道"
+    },
+    {
+      "title": "アメリカン・イディオット"
+    },
+    {
+      "title": "神经衰弱"
+    },
+    {
+      "title": "21 Guns"
+    }
+  ],
+  "listens": 2813208,
+  "listeners": 25059,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/084308bd-1654-436f-ba03-df6697104e19"
@@ -53,7 +89,8 @@
       "label": "Mike Dirnt・Tré Cool",
       "detail": "2 位乐手在这两支乐队都待过：Mike Dirnt・Tré Cool。",
       "year": 2003,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "foxboro-hot-tubs",
@@ -64,29 +101,8 @@
       "label": "Mike Dirnt・Tré Cool",
       "detail": "2 位乐手在这两支乐队都待过：Mike Dirnt・Tré Cool。",
       "year": 1989,
-      "weight": 0.84
-    },
-    {
-      "to": "guns-n-roses",
-      "toName": "Guns N' Roses",
-      "toArea": "洛杉矶",
-      "toYears": "1985–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Green Day 受 Guns N’ Roses 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "nirvana",
-      "toName": "Nirvana",
-      "toArea": "西雅图",
-      "toYears": "1987–1994",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Green Day 受 Nirvana 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "samiam",
@@ -97,7 +113,22 @@
       "label": "Tré Cool",
       "detail": "Tré Cool 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "pearl-jam",
+      "toName": "Pearl Jam",
+      "toArea": "西雅图",
+      "toYears": "1990–",
+      "type": "guest",
+      "label": "客串：Green Day",
+      "detail": "MusicBrainz 录音资料显示，Green Day参与了《I Shall Be Released》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/09290f85-3ccb-42b7-b21c-d5dea23986e5"
+      ]
     },
     {
       "to": "the-frustrators",
@@ -108,7 +139,8 @@
       "label": "Mike Dirnt",
       "detail": "Mike Dirnt 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-lookouts",
@@ -119,7 +151,32 @@
       "label": "Tré Cool",
       "detail": "Tré Cool 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Green Day 受 Guns N’ Roses 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Green Day 受 Nirvana 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-ne-er-do-wells",
@@ -130,7 +187,8 @@
       "label": "John Kiffmeyer",
       "detail": "John Kiffmeyer 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "thee-shatners",
@@ -141,7 +199,8 @@
       "label": "John Kiffmeyer",
       "detail": "John Kiffmeyer 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-coverups",
@@ -152,7 +211,8 @@
       "label": "Mike Dirnt",
       "detail": "Mike Dirnt 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "blink-182",
@@ -163,7 +223,8 @@
       "label": "影响关系",
       "detail": "Green Day 影响了 blink‐182（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "dead-kennedys",
@@ -174,7 +235,8 @@
       "label": "影响关系",
       "detail": "Green Day 受 Dead Kennedys 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "fall-out-boy",
@@ -185,7 +247,8 @@
       "label": "影响关系",
       "detail": "Green Day 影响了 Fall Out Boy（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "fastbacks",
@@ -196,7 +259,8 @@
       "label": "影响关系",
       "detail": "Green Day 受 Fastbacks 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "lostprophets",
@@ -207,7 +271,8 @@
       "label": "影响关系",
       "detail": "Green Day 影响了 Lostprophets（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -218,7 +283,8 @@
       "label": "影响关系",
       "detail": "Green Day 受 Red Hot Chili Peppers 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "sex-pistols",
@@ -229,7 +295,8 @@
       "label": "影响关系",
       "detail": "Green Day 受 Sex Pistols 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "suicidal-tendencies",
@@ -240,7 +307,8 @@
       "label": "影响关系",
       "detail": "Green Day 受 Suicidal Tendencies 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-replacements",
@@ -251,7 +319,8 @@
       "label": "影响关系",
       "detail": "Green Day 受 The Replacements 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-who",
@@ -262,7 +331,8 @@
       "label": "影响关系",
       "detail": "Green Day 受 The Who 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "minor-threat",
@@ -273,7 +343,8 @@
       "label": "影响关系",
       "detail": "Green Day 受 Minor Threat 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

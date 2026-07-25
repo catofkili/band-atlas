@@ -6,10 +6,30 @@
   "countryCode": "GB",
   "country": "英国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "圣诞音乐"
+  ],
   "albums": [],
   "intro": "“Band Aid”是由英国和爱尔兰摇滚及流行乐界的超级巨星们联合组建的慈善项目。",
   "introLang": "zh",
+  "tracks": [
+    "Do They Know It's Christmas? / Feed the World"
+  ],
+  "trackSources": [
+    {
+      "title": "Do They Know It's Christmas? / Feed the World"
+    }
+  ],
+  "listens": 25701,
+  "listeners": 4620,
+  "quality": {
+    "score": 55,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0ecaa896-58fa-4dca-b53d-8da7bc5f59c5"
@@ -24,7 +44,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

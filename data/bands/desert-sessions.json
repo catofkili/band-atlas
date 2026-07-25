@@ -9,7 +9,8 @@
   "genres": [
     "迷幻摇滚",
     "另类摇滚",
-    "沙漠摇滚"
+    "沙漠摇滚",
+    "棕櫚沙漠地帶"
   ],
   "albums": [
     {
@@ -27,6 +28,16 @@
   ],
   "intro": "“沙漠音乐会”（The Desert Sessions）是一系列音乐合作项目，由乔什·霍姆（Josh Homme）于1997年创立。",
   "introLang": "zh",
+  "listens": 93393,
+  "listeners": 3240,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7a2e6b55-f149-4e74-be6a-30a1b1a387bb"
@@ -41,7 +52,8 @@
       "label": "Josh Homme・Dave Catching・Mark Lanegan・Joey Castillo・Troy Van Leeuwen・Alain Johannes",
       "detail": "6 位乐手在这两支乐队都待过：Josh Homme・Dave Catching・Mark Lanegan・Joey Castillo・Troy Van Leeuwen・Alain Johannes。",
       "year": 1997,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -52,7 +64,8 @@
       "label": "Josh Homme・Alain Johannes・Chris Goss",
       "detail": "3 位乐手在这两支乐队都待过：Josh Homme・Alain Johannes・Chris Goss。",
       "year": 1997,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "a-perfect-circle",
@@ -63,7 +76,8 @@
       "label": "Jeordie White・Troy Van Leeuwen",
       "detail": "2 位乐手在这两支乐队都待过：Jeordie White・Troy Van Leeuwen。",
       "year": 2003,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "goon-moon",
@@ -74,7 +88,8 @@
       "label": "Jeordie White・Chris Goss",
       "detail": "2 位乐手在这两支乐队都待过：Jeordie White・Chris Goss。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "eleven",
@@ -85,7 +100,8 @@
       "label": "Alain Johannes",
       "detail": "Alain Johannes 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "marilyn-manson",
@@ -96,7 +112,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -107,7 +124,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "soundgarden",
@@ -118,7 +136,8 @@
       "label": "Ben Shepherd",
       "detail": "Ben Shepherd 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ween",
@@ -129,7 +148,22 @@
       "label": "Dean Ween",
       "detail": "Dean Ween 在这两支乐队都待过。",
       "year": 2016,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "the-strokes",
+      "toName": "The Strokes",
+      "toArea": "纽约",
+      "toYears": "1998–",
+      "type": "guest",
+      "label": "客串：Josh Homme",
+      "detail": "MusicBrainz 录音资料显示，Josh Homme参与了《Mercy Mercy Me (The Ecology)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/5b49bc0c-539d-4e3f-8afc-907c8fc6217d"
+      ]
     },
     {
       "to": "amboog-a-lard",
@@ -140,7 +174,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zilch",
@@ -151,7 +186,8 @@
       "label": "Joey Castillo",
       "detail": "Joey Castillo 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spinnerette",
@@ -162,7 +198,8 @@
       "label": "Alain Johannes",
       "detail": "Alain Johannes 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "them-crooked-vultures",
@@ -173,7 +210,8 @@
       "label": "Josh Homme",
       "detail": "Josh Homme 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "what-is-this",
@@ -184,7 +222,8 @@
       "label": "Alain Johannes",
       "detail": "Alain Johannes 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mrs-scabtree",
@@ -195,7 +234,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "satan-on-fire",
@@ -206,7 +246,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-wedding-band",
@@ -217,7 +258,8 @@
       "label": "Joey Castillo",
       "detail": "Joey Castillo 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -6,10 +6,22 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "1996–1996",
-  "genres": [],
+  "genres": [
+    "摇滚乐"
+  ],
   "albums": [],
   "intro": "Rock Therapy 是 1996 年的一次性合作项目，成员包括皇后乐队（Queen）的吉他手布莱恩·梅（Brian May）、滚石乐队（Rolling Stones）的鼓手查理·瓦茨（Charlie Watts），以及萨姆·布朗（Sam Brown）、安迪·费尔韦瑟·洛（Andy Fairweather Low）、保罗·罗杰斯（Paul Rodgers）和露露（Lulu）等多位客座主唱。",
   "introLang": "zh",
+  "listens": 1,
+  "listeners": 1,
+  "quality": {
+    "score": 51,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/85aefc0a-a3ba-4524-8664-ec89bf42146e"
@@ -24,7 +36,8 @@
       "label": "Sam Brown・Andy Fairweather‐Low",
       "detail": "2 位乐手在这两支乐队都待过：Sam Brown・Andy Fairweather‐Low。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-rolling-stones",
@@ -35,7 +48,22 @@
       "label": "Charlie Watts",
       "detail": "Charlie Watts 在这两支乐队都待过。",
       "year": 1963,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "伯明翰",
+      "toYears": "1968–2025",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
     },
     {
       "to": "the-firm",
@@ -46,7 +74,8 @@
       "label": "Paul Rodgers",
       "detail": "Paul Rodgers 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-gaddabouts",
@@ -57,7 +86,8 @@
       "label": "Andy Fairweather‐Low",
       "detail": "Andy Fairweather‐Low 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

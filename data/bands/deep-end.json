@@ -6,10 +6,22 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "1985–1986",
-  "genres": [],
+  "genres": [
+    "摇滚乐"
+  ],
   "albums": [],
   "intro": "Deep End 是一支短命的超级乐队，由“谁人乐队”（The Who）的吉他手皮特·汤森（Pete Townshend）创立，成员中包括“平克·弗洛伊德”（Pink Floyd）的大卫·吉尔摩（David Gilmour）。",
   "introLang": "zh",
+  "listens": 82,
+  "listeners": 5,
+  "quality": {
+    "score": 52,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/76fc9a1d-4499-4c92-91cf-85f87ee50787"
@@ -24,7 +36,8 @@
       "label": "Pete Townshend・John “Rabbit” Bundrick",
       "detail": "2 位乐手在这两支乐队都待过：Pete Townshend・John “Rabbit” Bundrick。",
       "year": 1964,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -35,7 +48,8 @@
       "label": "David Gilmour・Pete Townshend",
       "detail": "2 位乐手在这两支乐队都待过：David Gilmour・Pete Townshend。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pink-floyd",
@@ -46,7 +60,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gannin-arnold-project",
@@ -57,7 +72,8 @@
       "label": "Simon Phillips",
       "detail": "Simon Phillips 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hale-pace-and-the-stonkers",
@@ -68,7 +84,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "holly-and-the-ivy-s",
@@ -79,7 +96,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jokers-wild",
@@ -90,7 +108,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-fleetwood-and-friends",
@@ -101,7 +120,8 @@
       "label": "Pete Townshend",
       "detail": "Pete Townshend 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "p-s-p",
@@ -112,7 +132,8 @@
       "label": "Simon Phillips",
       "detail": "Simon Phillips 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rockestra",
@@ -123,7 +144,8 @@
       "label": "Pete Townshend",
       "detail": "Pete Townshend 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-ramblers",
@@ -134,7 +156,8 @@
       "label": "David Gilmour",
       "detail": "David Gilmour 在这两支乐队都待过。",
       "year": 1962,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

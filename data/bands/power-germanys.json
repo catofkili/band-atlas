@@ -11,8 +11,18 @@
     "说唱金属"
   ],
   "albums": [],
-  "intro": "POWER GERMANYS是一支来自日本的以另类金属、说唱金属为主要风格的音乐团体，活跃时期为2002–2002。",
+  "intro": "POWER GERMANYS是一支来自日本的音乐团体，活跃时期为2002–2002，现有资料记录的主要风格包括另类金属、说唱金属。MusicBrainz 还记录了它与UNITED、X JAPAN、Dementia之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 14,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fdd015b7-8d2f-4835-bcf5-7e3f3b66a178"
@@ -27,7 +37,8 @@
       "label": "吉田良文・大谷慎吾・横山明裕・中村雄介・湯浅正俊",
       "detail": "5 位乐手在这两支乐队都待过：吉田良文・大谷慎吾・横山明裕・中村雄介・湯浅正俊。",
       "year": 2002,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "x-japan",
@@ -38,7 +49,8 @@
       "label": "吉田良文",
       "detail": "吉田良文 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dementia",
@@ -49,7 +61,8 @@
       "label": "吉田良文",
       "detail": "吉田良文 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "emperor",
@@ -60,7 +73,8 @@
       "label": "大谷慎吾",
       "detail": "大谷慎吾 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

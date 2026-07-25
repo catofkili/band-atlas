@@ -7,7 +7,8 @@
   "country": "韩国",
   "years": "1994–",
   "genres": [
-    "独立摇滚"
+    "独立摇滚",
+    "現代搖滾"
   ],
   "albums": [
     {
@@ -37,6 +38,16 @@
   ],
   "intro": "Onnine Ibalgwan（韩语：언니네이발관），又名“Sister's Barbershop”，是一支韩国现代摇滚乐队。",
   "introLang": "zh",
+  "listens": 5081,
+  "listeners": 149,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d63ff8fa-6a05-475e-b758-e23783195efd"
@@ -51,7 +62,8 @@
       "label": "정대욱",
       "detail": "정대욱 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "windy-city",
@@ -62,7 +74,8 @@
       "label": "김반장",
       "detail": "김반장 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "asoto-union",
@@ -73,7 +86,8 @@
       "label": "김반장",
       "detail": "김반장 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "i-and-i-djangdan",
@@ -84,7 +98,8 @@
       "label": "김반장",
       "detail": "김반장 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

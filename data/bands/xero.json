@@ -8,8 +8,18 @@
   "years": "1996–1999",
   "genres": [],
   "albums": [],
-  "intro": "Xero是一支来自阿古拉希尔斯的音乐团体，活跃时期为1996–1999。",
+  "intro": "Xero是一支来自阿古拉希尔斯的音乐团体，活跃时期为1996–1999。MusicBrainz 还记录了它与Linkin Park、Relative Degree、Fort Minor之间的成员往来。",
   "introLang": "zh",
+  "listens": 675,
+  "listeners": 103,
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f4fccee7-b634-45ea-8cc9-85386aab69b6"
@@ -24,7 +34,8 @@
       "label": "Mark Wakefield・Rob Bourdon・Brad Delson・David Michael Farrell・Joseph “Joe” Hahn・Mike Shinoda",
       "detail": "6 位乐手在这两支乐队都待过：Mark Wakefield・Rob Bourdon・Brad Delson・David Michael Farrell・Joseph “Joe” Hahn・Mike Shinoda。",
       "year": 1996,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "relative-degree",
@@ -35,7 +46,8 @@
       "label": "Rob Bourdon・Brad Delson",
       "detail": "2 位乐手在这两支乐队都待过：Rob Bourdon・Brad Delson。",
       "year": 1996,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "fort-minor",
@@ -46,7 +58,8 @@
       "label": "Mike Shinoda",
       "detail": "Mike Shinoda 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

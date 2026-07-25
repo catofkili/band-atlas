@@ -8,7 +8,9 @@
   "years": "1988–",
   "genres": [
     "重金属",
-    "摇滚"
+    "摇滚",
+    "摇滚乐",
+    "民俗音樂"
   ],
   "albums": [
     {
@@ -30,6 +32,16 @@
   ],
   "intro": "唐朝乐队 (Tang Dynasty)，成立于1988年，中国第一支重金属摇滚乐队，以历史上一个最强盛朝代唐朝命名。",
   "introLang": "zh",
+  "listens": 2005,
+  "listeners": 153,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ea1b05cd-3d66-4760-89ea-d339227f67fd"
@@ -44,7 +56,8 @@
       "label": "丁武",
       "detail": "丁武 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "铁风筝",
@@ -55,7 +68,8 @@
       "label": "虞洋",
       "detail": "虞洋 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

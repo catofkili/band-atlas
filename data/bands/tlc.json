@@ -6,7 +6,13 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "嘻哈音樂",
+    "流行音乐",
+    "靈魂樂",
+    "當代節奏藍調",
+    "新杰克摇摆"
+  ],
   "albums": [
     {
       "title": "Ooooooohhh…On the TLC Tip",
@@ -31,6 +37,40 @@
   ],
   "intro": "TLC是美国著名女子音乐组合，1991年创立于亚特兰大，三名成员为缇盎·瓦特金斯，艺名\"T-Boz\"、丽莎·洛佩兹，艺名\"Left Eye\"、罗藏达·托马斯，艺名\"Chilli\"。",
   "introLang": "zh",
+  "tracks": [
+    "ウォーターフォールズ",
+    "クリープ (TLCの曲)",
+    "Ain't 2 Proud 2 Beg",
+    "Baby-Baby-Baby",
+    "アンプリティ"
+  ],
+  "trackSources": [
+    {
+      "title": "ウォーターフォールズ"
+    },
+    {
+      "title": "クリープ (TLCの曲)"
+    },
+    {
+      "title": "Ain't 2 Proud 2 Beg"
+    },
+    {
+      "title": "Baby-Baby-Baby"
+    },
+    {
+      "title": "アンプリティ"
+    }
+  ],
+  "listens": 179948,
+  "listeners": 10434,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/99790314-885a-4975-8614-9c5bc890364d"
@@ -45,7 +85,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

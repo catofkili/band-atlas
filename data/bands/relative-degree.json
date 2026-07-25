@@ -2,15 +2,26 @@
   "id": "relative-degree",
   "mbid": "99ffd73b-652d-4a11-a59d-0f33227312d5",
   "name": "Relative Degree",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": "1995–1996",
   "genres": [],
   "albums": [],
-  "intro": "Relative Degree是一支音乐团体，活跃时期为1995–1996。",
+  "intro": "Relative Degree是一支来自美国的音乐团体，活跃时期为1995–1996。MusicBrainz 还记录了它与Linkin Park、Xero之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 0,
+  "listeners": 0,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/99ffd73b-652d-4a11-a59d-0f33227312d5"
   },
@@ -24,7 +35,8 @@
       "label": "Rob Bourdon・Brad Delson",
       "detail": "2 位乐手在这两支乐队都待过：Rob Bourdon・Brad Delson。",
       "year": 1996,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "xero",
@@ -35,7 +47,8 @@
       "label": "Rob Bourdon・Brad Delson",
       "detail": "2 位乐手在这两支乐队都待过：Rob Bourdon・Brad Delson。",
       "year": 1996,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

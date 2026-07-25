@@ -7,7 +7,9 @@
   "country": "日本",
   "years": "2005–",
   "genres": [
-    "高桥弘孝"
+    "高桥弘孝",
+    "另类摇滚",
+    "後油漬搖滾"
   ],
   "albums": [
     {
@@ -21,6 +23,24 @@
   ],
   "intro": "THE PREDATORS是一支成立于2005年的日本三人摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Arabian dance"
+  ],
+  "trackSources": [
+    {
+      "title": "Arabian dance"
+    }
+  ],
+  "listens": 700,
+  "listeners": 26,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/97e8ad87-3962-4527-bdac-d477d17e4423"
@@ -35,7 +55,8 @@
       "label": "高橋宏貴",
       "detail": "高橋宏貴 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "straightener",
@@ -46,7 +67,8 @@
       "label": "ナカヤマシンペイ",
       "detail": "ナカヤマシンペイ 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "glay",
@@ -57,7 +79,8 @@
       "label": "JIRO",
       "detail": "JIRO 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pillows",
@@ -68,7 +91,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "casablanca",
@@ -79,7 +103,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "scars-borough",
@@ -90,7 +115,8 @@
       "label": "高橋宏貴",
       "detail": "高橋宏貴 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "さわおとしおり",
@@ -101,7 +127,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "山中さわお-elpis",
@@ -112,7 +139,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spiky-brothers",
@@ -123,7 +151,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "さわおとケンジ",
@@ -134,7 +163,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ヨーコとさわお",
@@ -145,7 +175,8 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

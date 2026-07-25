@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Old Day是一支来自英国的音乐团体。",
+  "intro": "The Old Day是一支来自英国的音乐团体。MusicBrainz 还记录了它与Muse之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/92e33d87-52dc-4fde-adaa-61722fda620f"
@@ -24,7 +34,8 @@
       "label": "Christopher Wolstenholme",
       "detail": "Christopher Wolstenholme 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

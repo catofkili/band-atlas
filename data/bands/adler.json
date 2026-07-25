@@ -7,7 +7,8 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "硬摇滚"
+    "硬摇滚",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -17,6 +18,16 @@
   ],
   "intro": "Adler是一支来自加利福尼亚州洛杉矶的美国硬摇滚超级乐队，由前“枪与玫瑰”乐队鼓手史蒂文·阿德勒于2012年组建。",
   "introLang": "zh",
+  "listens": 876,
+  "listeners": 32,
+  "quality": {
+    "score": 65,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d2b89c0c-89fa-42a1-b36b-59c99653fefd"
@@ -31,7 +42,8 @@
       "label": "Steven Adler",
       "detail": "Steven Adler 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bulletboys",
@@ -42,7 +54,8 @@
       "label": "Steven Adler",
       "detail": "Steven Adler 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-a-guns",
@@ -53,7 +66,8 @@
       "label": "Jacob Bunton",
       "detail": "Jacob Bunton 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "adler-s-appetite",
@@ -64,7 +78,8 @@
       "label": "Steven Adler",
       "detail": "Steven Adler 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "road-crew",
@@ -75,7 +90,8 @@
       "label": "Steven Adler",
       "detail": "Steven Adler 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

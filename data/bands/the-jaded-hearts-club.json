@@ -19,6 +19,16 @@
   ],
   "intro": "The Jaded Hearts Club 是一支摇滚超级乐队兼翻唱乐队，成员包括迈尔斯·凯恩（曾效力于 The Rascals 和 The Last Shadow Puppets）、 尼克·塞斯特（Nic Cester，来自乐队 Jet）、马特·贝拉米（Matt Bellamy，来自乐队 Muse）、杰米·戴维斯（Jamie Davis，曾隶属于前成员格雷厄姆·考克森（Graham Coxon）的旧厂牌 Transcopic）以及肖恩·佩恩（Sean Payne，来自乐队 The Zutons）。",
   "introLang": "zh",
+  "listens": 5687,
+  "listeners": 558,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/16e4f976-dda8-4468-bbbe-a3a52d779cb5"
@@ -33,7 +43,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "angels-airwaves",
@@ -44,7 +55,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lostprophets",
@@ -55,7 +67,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "muse",
@@ -66,7 +79,8 @@
       "label": "Matt Bellamy",
       "detail": "Matt Bellamy 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -77,7 +91,23 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "arctic-monkeys",
+      "toName": "Arctic Monkeys",
+      "toArea": "英国",
+      "toYears": "2002–",
+      "type": "guest",
+      "label": "客串：Miles Kane",
+      "detail": "MusicBrainz 录音资料显示，Miles Kane参与了《505》、《505》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/419f0373-d393-4a53-a8d0-39ab7bee6585",
+        "https://musicbrainz.org/recording/8dee0224-bcf9-4023-a805-9562bafd3450"
+      ]
     },
     {
       "to": "fenix-tx",
@@ -88,7 +118,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-last-shadow-puppets",
@@ -99,7 +130,8 @@
       "label": "Miles Kane",
       "detail": "Miles Kane 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-waeve",
@@ -110,7 +142,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "denver-harbor",
@@ -121,7 +154,8 @@
       "label": "Ilan Rubin",
       "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "seymour",
@@ -132,7 +166,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-special-assembly",
@@ -143,7 +178,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

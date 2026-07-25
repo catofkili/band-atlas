@@ -2,8 +2,8 @@
   "id": "the-horny-horns",
   "mbid": "0b08dcc7-9f5c-4a25-a182-f8ceb13f1972",
   "name": "The Horny Horns",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
@@ -23,7 +23,18 @@
   ],
   "intro": "The Horny Horns 是一支与 Parliament-Funkadelic 和 Bootsy's Rubber Band 相关的铜管乐队，由长号手弗雷德·韦斯利（Fred Wesley）领衔。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 2082,
+  "listeners": 443,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 51,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0b08dcc7-9f5c-4a25-a182-f8ceb13f1972"
   },
@@ -37,7 +48,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "parliament",
@@ -48,7 +60,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

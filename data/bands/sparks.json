@@ -8,7 +8,13 @@
   "years": "1970–",
   "genres": [
     "艺术流行乐",
-    "艺术摇滚"
+    "艺术摇滚",
+    "另类摇滚",
+    "前朋克",
+    "迪斯科",
+    "華麗搖滾",
+    "新浪潮",
+    "電子流行音樂"
   ],
   "albums": [
     {
@@ -38,6 +44,40 @@
   ],
   "intro": "Sparks是一支来自美国的摇滚与流行乐队。1970年由罗恩和拉塞尔·梅尔兄弟组建。最初的乐队名称是Half Nelson。",
   "introLang": "zh",
+  "tracks": [
+    "這個城市對我倆而言不夠大",
+    "When I'm with You",
+    "Amateur Hour",
+    "Never Turn Your Back on Mother Earth",
+    "Beat the Clock"
+  ],
+  "trackSources": [
+    {
+      "title": "這個城市對我倆而言不夠大"
+    },
+    {
+      "title": "When I'm with You"
+    },
+    {
+      "title": "Amateur Hour"
+    },
+    {
+      "title": "Never Turn Your Back on Mother Earth"
+    },
+    {
+      "title": "Beat the Clock"
+    }
+  ],
+  "listens": 249644,
+  "listeners": 7502,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f319b57a-a494-40f6-a467-3d196d3484e6"
@@ -52,7 +92,8 @@
       "label": "David Kendrick",
       "detail": "David Kendrick 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "redd-kross",
@@ -63,7 +104,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-tater-totz",
@@ -74,7 +116,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "loser",
@@ -85,7 +128,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "broken-bat",
@@ -96,7 +140,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dale-crover-band",
@@ -107,7 +152,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nighttime-boogie-association",
@@ -118,7 +164,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "north-american-hallowe-en-prevention-initiative",
@@ -129,7 +176,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ffs",
@@ -140,7 +188,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

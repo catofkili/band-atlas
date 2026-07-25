@@ -7,7 +7,8 @@
   "country": "日本",
   "years": "2000–2002",
   "genres": [
-    "视觉系"
+    "视觉系",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -21,6 +22,16 @@
   ],
   "intro": "Dope HEADz是一支日本摇滚乐队。",
   "introLang": "zh",
+  "listens": 104,
+  "listeners": 12,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/495bc417-f251-459b-b55d-5ddab23e3410"
@@ -35,7 +46,8 @@
       "label": "PATA・Shame",
       "detail": "2 位乐手在这两支乐队都待过：PATA・Shame。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "x-japan",
@@ -46,7 +58,8 @@
       "label": "PATA",
       "detail": "PATA 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ra-in",
@@ -57,7 +70,8 @@
       "label": "PATA",
       "detail": "PATA 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

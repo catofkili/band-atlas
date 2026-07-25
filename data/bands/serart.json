@@ -16,8 +16,18 @@
       "year": 2003
     }
   ],
-  "intro": "Serart是一支来自洛杉矶的以实验音乐、民谣为主要风格的音乐团体，活跃时期为2000–。",
+  "intro": "Serart是一支来自洛杉矶的音乐团体，活跃时期为2000–，现有资料记录的主要风格包括实验音乐、民谣。目前资料收录了《Serart》等作品；MusicBrainz 还记录了它与System of a Down、Fuktronic、Jazz-Iz-Christ之间的成员往来。",
   "introLang": "zh",
+  "listens": 6033,
+  "listeners": 347,
+  "quality": {
+    "score": 23,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3c80bbf8-4cc6-41b4-88cf-6eb1c7587345"
@@ -32,7 +42,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fuktronic",
@@ -43,7 +54,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jazz-iz-christ",
@@ -54,7 +66,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "axis-of-justice",
@@ -65,7 +78,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "forever-young",
@@ -76,7 +90,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

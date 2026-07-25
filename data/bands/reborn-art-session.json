@@ -10,6 +10,24 @@
   "albums": [],
   "intro": "Reborn-Art Session是日本的一支音乐组合。所属唱片公司为Toys Factory。",
   "introLang": "zh",
+  "tracks": [
+    "What is Art?"
+  ],
+  "trackSources": [
+    {
+      "title": "What is Art?"
+    }
+  ],
+  "listens": 1,
+  "listeners": 1,
+  "quality": {
+    "score": 50,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b14505cf-040f-4c3b-aa6d-5ac441821311"
@@ -24,7 +42,8 @@
       "label": "桜井和寿・小林武史",
       "detail": "2 位乐手在这两支乐队都待过：桜井和寿・小林武史。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "mr-children",
@@ -35,7 +54,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "possession-80-2-por-cento",
@@ -46,7 +66,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ウカスカジー",
@@ -57,7 +78,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

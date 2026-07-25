@@ -7,7 +7,8 @@
   "country": "日本",
   "years": "2003–",
   "genres": [
-    "男子组合"
+    "男子组合",
+    "流行音乐"
   ],
   "albums": [
     {
@@ -37,6 +38,40 @@
   ],
   "intro": "NEWS是日本男子偶像团体，事务所为星达拓娱乐，唱片公司为ELOV-Label。于2003年9月15日成立。于2004年5月12日正式出道。",
   "introLang": "zh",
+  "tracks": [
+    "Happy Birthday",
+    "WORLD QUEST/拍拍肚子咕嚕叫",
+    "愛的嘉卡芭娜",
+    "Fighting Man",
+    "KAGUYA (NewS 單曲 2015)"
+  ],
+  "trackSources": [
+    {
+      "title": "Happy Birthday"
+    },
+    {
+      "title": "WORLD QUEST/拍拍肚子咕嚕叫"
+    },
+    {
+      "title": "愛的嘉卡芭娜"
+    },
+    {
+      "title": "Fighting Man"
+    },
+    {
+      "title": "KAGUYA (NewS 單曲 2015)"
+    }
+  ],
+  "listens": 12397,
+  "listeners": 193,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/53187856-5b14-4b58-9c81-c5ea843b6c7a"
@@ -51,7 +86,8 @@
       "label": "Taka",
       "detail": "Taka 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "starto-for-you",
@@ -62,7 +98,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "twenty-twenty",
@@ -73,7 +110,8 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

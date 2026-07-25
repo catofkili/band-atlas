@@ -10,6 +10,16 @@
   "albums": [],
   "intro": "agehasprings是一家以音乐制作和制作人经纪为主的日本创意公司。",
   "introLang": "zh",
+  "listens": 6,
+  "listeners": 3,
+  "quality": {
+    "score": 43,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ff183c62-ccb9-4fc1-ac62-f8a81251ffc0"
@@ -24,7 +34,8 @@
       "label": "横山裕章",
       "detail": "横山裕章 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "サニーデイ-サービス",
@@ -35,7 +46,8 @@
       "label": "横山裕章",
       "detail": "横山裕章 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

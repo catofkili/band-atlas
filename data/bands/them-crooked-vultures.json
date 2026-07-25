@@ -9,7 +9,8 @@
   "genres": [
     "另类摇滚",
     "硬摇滚",
-    "摇滚"
+    "摇滚",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -19,6 +20,24 @@
   ],
   "intro": "Them Crooked Vultures 是一支于2009年夏天在美国洛杉矶组建的摇滚超级乐队。",
   "introLang": "zh",
+  "tracks": [
+    "New Fang"
+  ],
+  "trackSources": [
+    {
+      "title": "New Fang"
+    }
+  ],
+  "listens": 187785,
+  "listeners": 5622,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4bc09c51-5d42-4c93-9ba6-8cc21a0edb8d"
@@ -33,7 +52,8 @@
       "label": "John Paul Jones",
       "detail": "John Paul Jones 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queens-of-the-stone-age",
@@ -44,7 +64,8 @@
       "label": "Josh Homme",
       "detail": "Josh Homme 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "desert-sessions",
@@ -55,7 +76,22 @@
       "label": "Josh Homme",
       "detail": "Josh Homme 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "the-strokes",
+      "toName": "The Strokes",
+      "toArea": "纽约",
+      "toYears": "1998–",
+      "type": "guest",
+      "label": "客串：Josh Homme",
+      "detail": "MusicBrainz 录音资料显示，Josh Homme参与了《Mercy Mercy Me (The Ecology)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/5b49bc0c-539d-4e3f-8afc-907c8fc6217d"
+      ]
     },
     {
       "to": "minibus-pimps",
@@ -66,7 +102,8 @@
       "label": "John Paul Jones",
       "detail": "John Paul Jones 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rockestra",
@@ -77,7 +114,8 @@
       "label": "John Paul Jones",
       "detail": "John Paul Jones 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -88,7 +126,8 @@
       "label": "Josh Homme",
       "detail": "Josh Homme 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,9 @@
   "genres": [
     "另类摇滚",
     "英伦摇滚",
-    "Mod复兴"
+    "Mod复兴",
+    "摇滚乐",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -23,6 +25,40 @@
   ],
   "intro": "Beady Eye 是一支英国摇滚乐队。该乐队由绿洲乐队的前成员于2009年在伦敦组建。",
   "introLang": "zh",
+  "tracks": [
+    "The Roller",
+    "Bring the Light",
+    "Four Letter Word",
+    "Flick of the Finger",
+    "Millionaire"
+  ],
+  "trackSources": [
+    {
+      "title": "The Roller"
+    },
+    {
+      "title": "Bring the Light"
+    },
+    {
+      "title": "Four Letter Word"
+    },
+    {
+      "title": "Flick of the Finger"
+    },
+    {
+      "title": "Millionaire"
+    }
+  ],
+  "listens": 46672,
+  "listeners": 1732,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a0e10984-0eca-4920-a171-5fd7a62ee069"
@@ -37,7 +73,8 @@
       "label": "Liam Gallagher・Andy Bell・Gem Archer",
       "detail": "3 位乐手在这两支乐队都待过：Liam Gallagher・Andy Bell・Gem Archer。",
       "year": 2025,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "hurricane-1",
@@ -48,7 +85,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ride",
@@ -59,7 +97,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "harvey-s-rabbit",
@@ -70,7 +109,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "heavy-stereo",
@@ -81,7 +121,8 @@
       "label": "Gem Archer",
       "detail": "Gem Archer 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "southern-fly",
@@ -92,7 +133,8 @@
       "label": "Gem Archer",
       "detail": "Gem Archer 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mantra-of-the-cosmos",
@@ -103,7 +145,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

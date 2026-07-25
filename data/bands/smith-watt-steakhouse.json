@@ -8,8 +8,18 @@
   "years": "1977–",
   "genres": [],
   "albums": [],
-  "intro": "Smith & Watt Steakhouse是一支来自美国的音乐团体，活跃时期为1977–。",
+  "intro": "Smith & Watt Steakhouse是一支来自美国的音乐团体，活跃时期为1977–。MusicBrainz 还记录了它与Eddie Vedder and the Earthlings、Supergroup B之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/72adc07d-7018-4776-8cca-0624f785bbd1"
@@ -24,7 +34,8 @@
       "label": "Andrew Watt",
       "detail": "Andrew Watt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "supergroup-b",
@@ -35,7 +46,8 @@
       "label": "Andrew Watt",
       "detail": "Andrew Watt 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -35,6 +35,16 @@
   ],
   "intro": "查尔斯·迈克尔·基特里奇·汤普森四世（Charles Michael Kittridge Thompson IV，1965年4月6日出生），艺名“黑弗朗西斯”（Black Francis），曾用艺名“弗兰克·布莱克”（Frank Black），是一位美国歌手、词曲作者和吉他手，也是另类摇滚乐队“皮克西斯”（Pixies）的主唱。",
   "introLang": "zh",
+  "listens": 30868,
+  "listeners": 957,
+  "quality": {
+    "score": 53,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b025b720-a68c-4bd1-95fa-0ba95ed7a920"
@@ -49,7 +59,8 @@
       "label": "Joey Santiago",
       "detail": "Joey Santiago 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fear",
@@ -60,7 +71,8 @@
       "label": "Eric Drew Feldman",
       "detail": "Eric Drew Feldman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-martinis",
@@ -71,7 +83,8 @@
       "label": "Joey Santiago",
       "detail": "Joey Santiago 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "perfect",
@@ -82,7 +95,8 @@
       "label": "Dave Philips",
       "detail": "Dave Philips 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-everybody",
@@ -93,7 +107,8 @@
       "label": "Joey Santiago",
       "detail": "Joey Santiago 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

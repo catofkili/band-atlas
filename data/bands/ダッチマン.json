@@ -15,6 +15,16 @@
   ],
   "intro": "Dutchman是一支以北海道札幌市为活动据点的日本乐队。该乐队隶属于维克多唱片公司的培养部门，曾以独立乐队身份开展活动。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 51,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ff976f7c-8e1b-4cde-a047-67c0f07bded5"
@@ -29,7 +39,8 @@
       "label": "岩寺基晴・山口一郎",
       "detail": "2 位乐手在这两支乐队都待过：岩寺基晴・山口一郎。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

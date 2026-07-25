@@ -7,7 +7,8 @@
   "country": "美国",
   "years": "1983–1990",
   "genres": [
-    "合成器流行乐"
+    "合成器流行乐",
+    "合成器流行"
   ],
   "albums": [
     {
@@ -21,6 +22,16 @@
   ],
   "intro": "The Exotic Birds 是一支美国合成器流行乐队，于 1982 年由三位克利夫兰音乐学院的打击乐专业学生（安迪·库比泽夫斯基、汤姆·弗里尔和小蒂莫西·亚当斯）在美国俄亥俄州克利夫兰市组建。",
   "introLang": "zh",
+  "listens": 279,
+  "listeners": 53,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f82ac8f9-5390-4123-87f8-7c8fb10649b2"
@@ -35,7 +46,8 @@
       "label": "Andy Kubiszewski",
       "detail": "Andy Kubiszewski 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sic",
@@ -46,7 +58,8 @@
       "label": "Andy Kubiszewski",
       "detail": "Andy Kubiszewski 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

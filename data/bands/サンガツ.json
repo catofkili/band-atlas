@@ -25,8 +25,18 @@
       "year": 2010
     }
   ],
-  "intro": "サンガツ是一支来自日本的音乐团体。",
+  "intro": "サンガツ是一支来自日本的音乐团体。目前资料收录了《サンガツ》、《波》等作品；MusicBrainz 还记录了它与くるり之间的成员往来。",
   "introLang": "zh",
+  "listens": 30,
+  "listeners": 4,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/51983b80-a95e-4a5d-9c5d-4108d957ce5c"
@@ -41,7 +51,8 @@
       "label": "田中 佑司",
       "detail": "田中 佑司 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -13,8 +13,18 @@
       "year": 2021
     }
   ],
-  "intro": "擬態屋是一支来自东京的音乐团体，活跃时期为2020–。",
+  "intro": "擬態屋是一支来自东京的音乐团体，活跃时期为2020–。目前资料收录了《DORAYAKI》等作品；MusicBrainz 还记录了它与サニーデイ・サービス、曽我部恵一BAND之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e88c64dc-e8f7-4da9-9f53-4854a8b240c9"
@@ -29,7 +39,8 @@
       "label": "曽我部恵一",
       "detail": "曽我部恵一 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "曽我部恵一band",
@@ -40,7 +51,8 @@
       "label": "曽我部恵一",
       "detail": "曽我部恵一 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

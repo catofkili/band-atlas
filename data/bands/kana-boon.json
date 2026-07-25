@@ -7,7 +7,9 @@
   "country": "日本",
   "years": "2006–",
   "genres": [
-    "流行摇滚"
+    "流行摇滚",
+    "摇滚乐",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -37,6 +39,40 @@
   ],
   "intro": "KANA-BOON是日本的摇滚乐队，于2008年结成。唱片公司为Ki/oon Music。",
   "introLang": "zh",
+  "tracks": [
+    "Starmarker",
+    "剪影",
+    "Diver",
+    "Torch of Liberty",
+    "バトンロード"
+  ],
+  "trackSources": [
+    {
+      "title": "Starmarker"
+    },
+    {
+      "title": "剪影"
+    },
+    {
+      "title": "Diver"
+    },
+    {
+      "title": "Torch of Liberty"
+    },
+    {
+      "title": "バトンロード"
+    }
+  ],
+  "listens": 88869,
+  "listeners": 3609,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/33ff8a92-2f3b-4cac-8ea0-5eebfa995626"
@@ -51,7 +87,8 @@
       "label": "谷口鮪",
       "detail": "谷口鮪 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "radio-darlings",
@@ -62,7 +99,8 @@
       "label": "谷口鮪",
       "detail": "谷口鮪 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sugar-the-radio-fire",
@@ -73,7 +111,8 @@
       "label": "谷口鮪",
       "detail": "谷口鮪 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

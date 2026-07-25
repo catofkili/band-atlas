@@ -21,6 +21,16 @@
   ],
   "intro": "Giants in the Trees 是一支美国摇滚乐队，于 2017 年在华盛顿州的瓦基阿库姆县成立。",
   "introLang": "zh",
+  "listens": 810,
+  "listeners": 242,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3b9d785f-8188-4397-9f7b-5ed3828cb32e"
@@ -35,7 +45,8 @@
       "label": "Jillian Raye",
       "detail": "Jillian Raye 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "butterfly-launches-from-spar-pole",
@@ -46,7 +57,8 @@
       "label": "Ray Prestegard",
       "detail": "Ray Prestegard 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-bona-fide-band",
@@ -57,7 +69,8 @@
       "label": "Jillian Raye",
       "detail": "Jillian Raye 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

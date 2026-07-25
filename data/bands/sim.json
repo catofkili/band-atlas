@@ -8,7 +8,9 @@
   "years": "2004–",
   "genres": [
     "金属核",
-    "另类金属"
+    "另类金属",
+    "朋克搖滾",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -38,6 +40,24 @@
   ],
   "intro": "SiM，是2004年形成的神奈川县日本金属乐队，所属唱片公司为波丽佳音，乐队目前由MAH，SHOW-HATE，SIN和GODRi组成。",
   "introLang": "zh",
+  "tracks": [
+    "地鳴 (歌曲)"
+  ],
+  "trackSources": [
+    {
+      "title": "地鳴 (歌曲)"
+    }
+  ],
+  "listens": 86264,
+  "listeners": 3266,
+  "quality": {
+    "score": 75,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/04ea0489-0643-4b49-a7c7-aec63680646d"
@@ -52,7 +72,8 @@
       "label": "MAH",
       "detail": "MAH 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

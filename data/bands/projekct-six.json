@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "ProjeKct Six是一支音乐团体。",
+  "intro": "ProjeKct Six是一支音乐团体。MusicBrainz 还记录了它与King Crimson、ProjeKct Two、Discipline之间的成员往来。",
   "introLang": "zh",
+  "listens": 235,
+  "listeners": 14,
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7e2466e5-b279-452d-ad01-b5875361d4dd"
@@ -24,7 +34,8 @@
       "label": "Robert Fripp・副项目",
       "detail": "2 位乐手在这两支乐队都待过：Robert Fripp・副项目。",
       "year": 1968,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "projekct-two",
@@ -35,7 +46,8 @@
       "label": "Robert Fripp",
       "detail": "Robert Fripp 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "discipline",
@@ -46,7 +58,8 @@
       "label": "Robert Fripp",
       "detail": "Robert Fripp 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-human-experimente",
@@ -57,7 +70,8 @@
       "label": "Robert Fripp",
       "detail": "Robert Fripp 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

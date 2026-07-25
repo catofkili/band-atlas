@@ -9,7 +9,8 @@
   "genres": [
     "硬核朋克",
     "朋克",
-    "朋克摇滚"
+    "朋克摇滚",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -35,6 +36,40 @@
   ],
   "intro": "Dead Kennedys是一支来自美国加利福尼亚州旧金山的硬核朋克乐队。他们凭借杰罗·比阿弗拉极具个性的嗓音、政治化且无政府主义的立场，以及充满讽刺与反讽的反体制歌词而广受欢迎。",
   "introLang": "zh",
+  "tracks": [
+    "ナチ・パンクス・ファック・オフ",
+    "Bleed for Me",
+    "Halloween",
+    "California Über Alles / The Man with the Dogs",
+    "Holiday in Cambodia / Police Truck"
+  ],
+  "trackSources": [
+    {
+      "title": "ナチ・パンクス・ファック・オフ"
+    },
+    {
+      "title": "Bleed for Me"
+    },
+    {
+      "title": "Halloween"
+    },
+    {
+      "title": "California Über Alles / The Man with the Dogs"
+    },
+    {
+      "title": "Holiday in Cambodia / Police Truck"
+    }
+  ],
+  "listens": 415421,
+  "listeners": 7824,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/37c78aeb-d196-42b5-b991-6afb4fc9bc2e"
@@ -49,7 +84,8 @@
       "label": "Jello Biafra",
       "detail": "Jello Biafra 在这两支乐队都待过。",
       "year": 1978,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -60,7 +96,8 @@
       "label": "D.H. Peligro",
       "detail": "D.H. Peligro 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lard",
@@ -71,7 +108,8 @@
       "label": "Jello Biafra",
       "detail": "Jello Biafra 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "peligro",
@@ -82,7 +120,8 @@
       "label": "D.H. Peligro",
       "detail": "D.H. Peligro 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-no-w-t-o-combo",
@@ -93,7 +132,8 @@
       "label": "Jello Biafra",
       "detail": "Jello Biafra 在这两支乐队都待过。",
       "year": 1978,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "green-day",
@@ -104,7 +144,8 @@
       "label": "影响关系",
       "detail": "Dead Kennedys 影响了 Green Day（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "rage-against-the-machine",
@@ -115,7 +156,8 @@
       "label": "影响关系",
       "detail": "Dead Kennedys 影响了 Rage Against the Machine（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

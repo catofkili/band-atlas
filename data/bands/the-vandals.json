@@ -8,7 +8,8 @@
   "years": "1980–",
   "genres": [
     "朋克",
-    "滑板朋克"
+    "滑板朋克",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -38,6 +39,16 @@
   ],
   "intro": "The Vandals是一支于1980年在美国加利福尼亚州亨廷顿海滩成立的朋克摇滚乐队。",
   "introLang": "zh",
+  "listens": 77930,
+  "listeners": 2783,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f54fc7c3-3a40-4f26-83cf-328d9b097e93"
@@ -52,7 +63,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "infectious-grooves",
@@ -63,7 +75,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tenacious-d",
@@ -74,7 +87,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mass-mental",
@@ -85,7 +99,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "medication",
@@ -96,7 +111,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "xtra-large",
@@ -107,7 +123,8 @@
       "label": "Warren Fitzgerald",
       "detail": "Warren Fitzgerald 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "blink-182",
@@ -118,7 +135,8 @@
       "label": "影响关系",
       "detail": "The Vandals 影响了 blink‐182（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

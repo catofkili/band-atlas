@@ -8,7 +8,8 @@
   "years": "2001–2007",
   "genres": [
     "跨界前卫摇滚",
-    "摇滚"
+    "摇滚",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -16,8 +17,26 @@
       "year": 2005
     }
   ],
-  "intro": "Robert Plant and the Strange Sensation是一支来自英国的以跨界前卫摇滚、摇滚为主要风格的音乐团体，活跃时期为2001–2007。",
+  "tracks": [
+    "Shine It All Around"
+  ],
+  "trackSources": [
+    {
+      "title": "Shine It All Around"
+    }
+  ],
+  "intro": "Robert Plant and the Strange Sensation是一支来自英国的音乐团体，活跃时期为2001–2007，现有资料记录的主要风格包括跨界前卫摇滚、摇滚、硬式搖滾。目前资料收录了《Shine It All Around》、《Mighty Rearranger》等作品；MusicBrainz 还记录了它与Sensational Space Shifters之间的成员往来。",
   "introLang": "zh",
+  "listens": 7658,
+  "listeners": 427,
+  "quality": {
+    "score": 33,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a527e4cb-64be-4960-8ef5-edb02ff7d48e"
@@ -32,7 +51,8 @@
       "label": "Justin Adams・John Baggott・Billy Fuller・Liam Tyson",
       "detail": "4 位乐手在这两支乐队都待过：Justin Adams・John Baggott・Billy Fuller・Liam Tyson。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     }
   ]
 }

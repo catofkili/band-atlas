@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Special Assembly是一支来自英国的音乐团体。",
+  "intro": "The Special Assembly是一支来自英国的音乐团体。MusicBrainz 还记录了它与Blur、The WAEVE、The Jaded Hearts Club之间的成员往来。",
   "introLang": "zh",
+  "listens": 50,
+  "listeners": 29,
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d9bb7ca8-3411-4732-8237-a40cc0cd8cbe"
@@ -24,7 +34,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-waeve",
@@ -35,7 +46,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jaded-hearts-club",
@@ -46,7 +58,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "seymour",
@@ -57,7 +70,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,7 +8,10 @@
   "years": "1983–",
   "genres": [
     "鞭击金属",
-    "重金属"
+    "重金属",
+    "重金属音乐",
+    "速度金属",
+    "敲击金属"
   ],
   "albums": [
     {
@@ -38,6 +41,40 @@
   ],
   "intro": "麦加帝斯是美国的敲击金属乐团，1983年其核心人物戴夫·马斯泰恩被金属乐队开除后两个月，与贝斯手大卫·艾利弗森成立于加州洛杉矶。",
   "introLang": "zh",
+  "tracks": [
+    "聖戰…替天行道",
+    "狂乱のシンフォニー",
+    "給全世界",
+    "Sweating Bullets",
+    "十八號機棚"
+  ],
+  "trackSources": [
+    {
+      "title": "聖戰…替天行道"
+    },
+    {
+      "title": "狂乱のシンフォニー"
+    },
+    {
+      "title": "給全世界"
+    },
+    {
+      "title": "Sweating Bullets"
+    },
+    {
+      "title": "十八號機棚"
+    }
+  ],
+  "listens": 1449104,
+  "listeners": 11400,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a9044915-8be3-4c7e-b11f-9e2d2ea0a91e"
@@ -52,7 +89,8 @@
       "label": "Dave Mustaine・Jimmy DeGrasso",
       "detail": "2 位乐手在这两支乐队都待过：Dave Mustaine・Jimmy DeGrasso。",
       "year": 1996,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "asia",
@@ -63,7 +101,8 @@
       "label": "Al Pitrelli",
       "detail": "Al Pitrelli 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "metallica",
@@ -74,7 +113,8 @@
       "label": "Dave Mustaine",
       "detail": "Dave Mustaine 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "suicidal-tendencies",
@@ -85,7 +125,8 @@
       "label": "Jimmy DeGrasso",
       "detail": "Jimmy DeGrasso 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "slash-s-snakepit",
@@ -96,7 +137,8 @@
       "label": "James LoMenzo",
       "detail": "James LoMenzo 在这两支乐队都待过。",
       "year": 2022,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fanta",
@@ -107,7 +149,8 @@
       "label": "Marty Friedman",
       "detail": "Marty Friedman 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "panic",
@@ -118,7 +161,8 @@
       "label": "Dave Mustaine",
       "detail": "Dave Mustaine 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lostprophets",
@@ -129,7 +173,8 @@
       "label": "影响关系",
       "detail": "Megadeth 影响了 Lostprophets（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

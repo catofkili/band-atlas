@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Lonely H's Band是一支来自韩国的音乐团体。",
+  "intro": "Lonely H's Band是一支来自韩国的音乐团体。MusicBrainz 还记录了它与자우림、ChocoCream Rolls、Space Soldier Membership Club之间的成员往来。",
   "introLang": "zh",
+  "listens": 2,
+  "listeners": 1,
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/64c76808-e12c-49e5-aabf-30d5f3e6556e"
@@ -24,7 +34,8 @@
       "label": "이선규",
       "detail": "이선규 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "chococream-rolls",
@@ -35,7 +46,8 @@
       "label": "이선규",
       "detail": "이선규 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "space-soldier-membership-club",
@@ -46,7 +58,8 @@
       "label": "이선규",
       "detail": "이선규 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

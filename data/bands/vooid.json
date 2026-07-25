@@ -17,8 +17,18 @@
       "year": 2025
     }
   ],
-  "intro": "VOOID是一支来自台湾的音乐团体，活跃时期为2016–。",
+  "intro": "VOOID是一支来自台湾的音乐团体，活跃时期为2016–。目前资料收录了《VOOID》、《Vooid 2025》等作品；MusicBrainz 还记录了它与透明雜誌之间的成员往来。",
   "introLang": "zh",
+  "listens": 722,
+  "listeners": 100,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/24e8b412-0d14-4afe-be76-f63ea7d0fc34"
@@ -33,7 +43,22 @@
       "label": "張盛文・洪申豪",
       "detail": "2 位乐手在这两支乐队都待过：張盛文・洪申豪。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "大象體操",
+      "toName": "大象體操",
+      "toArea": "高雄",
+      "toYears": "2012–",
+      "type": "guest",
+      "label": "客串：洪申豪",
+      "detail": "MusicBrainz 录音资料显示，洪申豪参与了《夜洋風景》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/0881dd43-e269-4922-8180-167b7cba095a"
+      ]
     }
   ]
 }

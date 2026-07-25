@@ -8,7 +8,8 @@
   "years": "1991–2003",
   "genres": [
     "车库摇滚",
-    "朋克摇滚"
+    "朋克摇滚",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -29,7 +30,7 @@
     }
   ],
   "intro": "千叶利市的嘶吼与阿部义晴式的西装造型。九十年代日本车库摇滚的最高点，解散至今没有重组。",
-  "introLang": "ja",
+  "introLang": "zh",
   "tracks": [
     "世界の終わり",
     "バードメン",
@@ -37,6 +38,16 @@
     "リボルバー・ジャンキーズ"
   ],
   "lore": "2003 年宣布解散，翌年在幕张展览馆办完最后一场，此后再无重组。",
+  "listens": 17228,
+  "listeners": 484,
+  "quality": {
+    "score": 100,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": true,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3d693ab2-7c33-4b69-87bc-c105b5bbf547"
@@ -51,7 +62,8 @@
       "label": "ウエノコウジ",
       "detail": "解散多年之后，贝斯手ウエノコウジ成为 the HIATUS 的一员。",
       "year": 2009,
-      "weight": 0.7
+      "weight": 0.7,
+      "sources": []
     },
     {
       "to": "the-birthday",
@@ -62,7 +74,8 @@
       "label": "チバユウスケ・クハラカズユキ",
       "detail": "2 位乐手在这两支乐队都待过：チバユウスケ・クハラカズユキ。",
       "year": 2006,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "number-girl",
@@ -73,18 +86,8 @@
       "label": "90 年代日本另类摇滚",
       "detail": "同属九十年代后期日本摇滚的核心阵容。",
       "year": null,
-      "weight": 0.55
-    },
-    {
-      "to": "mo-some-tonebender",
-      "toName": "MO'SOME TONEBENDER",
-      "toArea": "福冈",
-      "toYears": "1997–",
-      "type": "scene",
-      "label": "车库摇滚同世代",
-      "detail": "九十年代末日本车库摇滚的同一批人。",
-      "year": null,
-      "weight": 0.5
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "rosso",
@@ -95,7 +98,8 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "radio-caroline",
@@ -106,7 +110,8 @@
       "label": "ウエノコウジ",
       "detail": "ウエノコウジ 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-king-all-stars",
@@ -117,7 +122,8 @@
       "label": "ウエノコウジ",
       "detail": "ウエノコウジ 在这两支乐队都待过。",
       "year": 2014,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ka-f-ka",
@@ -128,7 +134,8 @@
       "label": "ウエノコウジ",
       "detail": "ウエノコウジ 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "raven",
@@ -139,7 +146,8 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-midwest-vikings",
@@ -150,7 +158,20 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "mo-some-tonebender",
+      "toName": "MO'SOME TONEBENDER",
+      "toArea": "福冈",
+      "toYears": "1997–",
+      "type": "scene",
+      "label": "车库摇滚同世代",
+      "detail": "九十年代末日本车库摇滚的同一批人。",
+      "year": null,
+      "weight": 0.5,
+      "sources": []
     }
   ]
 }

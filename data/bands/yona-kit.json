@@ -15,6 +15,16 @@
   ],
   "intro": "Yona-Kit 是一支由吉姆·奥罗克（Jim O'Rourke）、达林·格雷（Darin Gray）、蒂姆·琼斯（Thymme Jones）和布里斯-格拉斯（Brise-Glace）组成的乐队。",
   "introLang": "zh",
+  "listens": 522,
+  "listeners": 61,
+  "quality": {
+    "score": 51,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/80384a58-0b41-4cfa-89c7-b1fb77d0cf63"
@@ -29,7 +39,8 @@
       "label": "Darin Gray・Thymme Jones",
       "detail": "2 位乐手在这两支乐队都待过：Darin Gray・Thymme Jones。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

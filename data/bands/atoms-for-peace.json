@@ -8,7 +8,9 @@
   "years": "2009–",
   "genres": [
     "电子音乐",
-    "电子摇滚"
+    "电子摇滚",
+    "另类摇滚",
+    "實驗搖滾"
   ],
   "albums": [
     {
@@ -18,6 +20,28 @@
   ],
   "intro": "原子和平是一个英美超级乐团，成员包括电台司令词曲作家与主唱汤姆·约克、呛辣红椒吉他手Flea、电台司令制作人尼杰尔·歌德里希、贝克、R.",
   "introLang": "zh",
+  "tracks": [
+    "Judge, Jury and Executioner",
+    "デフォルト"
+  ],
+  "trackSources": [
+    {
+      "title": "Judge, Jury and Executioner"
+    },
+    {
+      "title": "デフォルト"
+    }
+  ],
+  "listens": 103656,
+  "listeners": 3672,
+  "quality": {
+    "score": 84,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9e299bee-d7e2-49f3-8cd7-d6b28ab204d1"
@@ -32,7 +56,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -43,7 +68,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "radiohead",
@@ -54,7 +80,8 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "record-club",
@@ -65,7 +92,8 @@
       "label": "Nigel Godrich",
       "detail": "Nigel Godrich 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -76,7 +104,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-smile",
@@ -87,7 +116,22 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "guest",
+      "label": "客串：Nigel Godrich",
+      "detail": "MusicBrainz 录音资料显示，Nigel Godrich参与了《We Turn Red》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/fdebad88-464a-4ed8-bd10-8f59e2a00b59"
+      ]
     },
     {
       "to": "ultraísta",
@@ -98,7 +142,8 @@
       "label": "Nigel Godrich",
       "detail": "Nigel Godrich 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jomoro",
@@ -109,7 +154,8 @@
       "label": "Mauro Refosco",
       "detail": "Mauro Refosco 在这两支乐队都待过。",
       "year": 2021,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "on-a-friday",
@@ -120,7 +166,8 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rocket-juice-the-moon",
@@ -131,7 +178,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "aleka-s-attic",
@@ -142,7 +190,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "flea-and-the-honora-band",
@@ -153,7 +202,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "headless-chickens",
@@ -164,7 +214,8 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-lost-trees",
@@ -175,7 +226,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-venus-in-furs",
@@ -186,7 +238,8 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

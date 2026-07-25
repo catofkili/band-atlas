@@ -12,8 +12,18 @@
     "爵士摇滚"
   ],
   "albums": [],
-  "intro": "P.S.P.是一支以融合爵士、爵士融合为主要风格的音乐团体。",
+  "intro": "P.S.P.是一支音乐团体，现有资料记录的主要风格包括融合爵士、爵士融合、爵士摇滚。MusicBrainz 还记录了它与Deep End、Gannin Arnold Project之间的成员往来。",
   "introLang": "zh",
+  "listens": 27,
+  "listeners": 9,
+  "quality": {
+    "score": 19,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6f8212b8-153d-4c20-8394-c2c0d9a8966b"
@@ -28,7 +38,8 @@
       "label": "Simon Phillips",
       "detail": "Simon Phillips 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gannin-arnold-project",
@@ -39,7 +50,8 @@
       "label": "Simon Phillips",
       "detail": "Simon Phillips 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

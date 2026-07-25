@@ -17,6 +17,16 @@
   ],
   "intro": "Glitterbust 是一支由金·戈登（Kim Gordon）和亚历克斯·诺斯特（Alex Knost）组成的美国实验性电吉他二人组。",
   "introLang": "zh",
+  "listens": 183,
+  "listeners": 44,
+  "quality": {
+    "score": 60,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ba6bba0c-c9c8-47e9-ac09-f58c03fc56ff"
@@ -31,7 +41,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "free-kitten",
@@ -42,7 +53,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "body-head",
@@ -53,7 +65,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ciccone-youth",
@@ -64,7 +77,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "harry-crews",
@@ -75,7 +89,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lucky-sperms",
@@ -86,7 +101,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mirror-dash",
@@ -97,7 +113,8 @@
       "label": "Kim Gordon",
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

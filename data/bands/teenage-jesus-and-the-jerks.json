@@ -7,7 +7,8 @@
   "country": "美国",
   "years": "1977–1979",
   "genres": [
-    "朋克"
+    "朋克",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -17,6 +18,16 @@
   ],
   "intro": "Teenage Jesus and the Jerks是一支以纽约为据点、并在当地参与推动“无浪潮”运动的美国“无浪潮”乐队。",
   "introLang": "zh",
+  "listens": 8044,
+  "listeners": 704,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ecb6ad66-0b12-405c-803c-e5bcc83e77df"
@@ -31,7 +42,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": 1977,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "13-13",
@@ -42,7 +54,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": 1977,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "8-eyed-spy",
@@ -53,7 +66,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": 1977,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "harry-crews",
@@ -64,7 +78,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": 1977,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

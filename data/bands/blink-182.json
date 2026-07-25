@@ -9,7 +9,8 @@
   "genres": [
     "流行朋克",
     "朋克摇滚",
-    "滑板朋克"
+    "滑板朋克",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -39,22 +40,45 @@
   ],
   "intro": "眨眼182出身于美国是加利福尼亚州的摇滚三重唱乐队，擅长玩流行朋克及朋克摇滚。该乐队于1992年由主音暨吉他手汤姆·德朗、低音马克·霍普斯成立。",
   "introLang": "zh",
+  "tracks": [
+    "ホワッツ・マイ・エイジ・アゲイン?",
+    "I Miss You (블링크-182의 노래)",
+    "Feeling This",
+    "アダムズ・ソング",
+    "ファースト・デイト"
+  ],
+  "trackSources": [
+    {
+      "title": "ホワッツ・マイ・エイジ・アゲイン?"
+    },
+    {
+      "title": "I Miss You (블링크-182의 노래)"
+    },
+    {
+      "title": "Feeling This"
+    },
+    {
+      "title": "アダムズ・ソング"
+    },
+    {
+      "title": "ファースト・デイト"
+    }
+  ],
+  "listens": 2055256,
+  "listeners": 18464,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0743b15a-3c32-48c8-ad58-cb325350befa"
   },
   "edges": [
-    {
-      "to": "nirvana",
-      "toName": "Nirvana",
-      "toArea": "西雅图",
-      "toYears": "1987–1994",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "blink‐182 受 Nirvana 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
     {
       "to": "angels-airwaves",
       "toName": "Angels & Airwaves",
@@ -64,7 +88,48 @@
       "label": "Tom DeLonge",
       "detail": "Tom DeLonge 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "linkin-park",
+      "toName": "Linkin Park",
+      "toArea": "阿古拉希尔斯",
+      "toYears": "1996–",
+      "type": "guest",
+      "label": "客串：blink‐182、Linkin Park",
+      "detail": "MusicBrainz 录音资料显示，blink‐182、Linkin Park参与了《What I've Done》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/6df01d4c-9576-4b98-bd7a-86f3093e64e2"
+      ]
+    },
+    {
+      "to": "the-cure",
+      "toName": "The Cure",
+      "toArea": "克劳利",
+      "toYears": "1977–",
+      "type": "guest",
+      "label": "客串：Robert Smith",
+      "detail": "MusicBrainz 录音资料显示，Robert Smith参与了《All of This》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/ffa673ae-ec03-4029-a6ab-c752c26b0f43"
+      ]
+    },
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 Nirvana 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "cretin-family",
@@ -75,7 +140,8 @@
       "label": "Travis Barker",
       "detail": "Travis Barker 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "supergroup-b",
@@ -86,7 +152,22 @@
       "label": "Travis Barker",
       "detail": "Travis Barker 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "replicants",
+      "toName": "Replicants",
+      "toArea": "美国",
+      "toYears": "1995–1996",
+      "type": "guest",
+      "label": "客串：Ken Andrews",
+      "detail": "MusicBrainz 录音资料显示，Ken Andrews参与了《Violence》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/16d5a741-1b6f-46cd-8612-cc66a45ec9f3"
+      ]
     },
     {
       "to": "adolescents",
@@ -97,7 +178,8 @@
       "label": "影响关系",
       "detail": "blink‐182 受 Adolescents 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "fall-out-boy",
@@ -108,7 +190,8 @@
       "label": "影响关系",
       "detail": "blink‐182 影响了 Fall Out Boy（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "green-day",
@@ -119,7 +202,8 @@
       "label": "影响关系",
       "detail": "blink‐182 受 Green Day 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "rancid",
@@ -130,7 +214,8 @@
       "label": "影响关系",
       "detail": "blink‐182 受 Rancid 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-offspring",
@@ -141,7 +226,8 @@
       "label": "影响关系",
       "detail": "blink‐182 受 The Offspring 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-vandals",
@@ -152,7 +238,8 @@
       "label": "影响关系",
       "detail": "blink‐182 受 The Vandals 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

@@ -2,15 +2,26 @@
   "id": "bluescreen",
   "mbid": "e6dedb88-8103-450a-a667-a0756d7cb568",
   "name": "Bluescreen",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Bluescreen是一支音乐团体。",
+  "intro": "Bluescreen是一支来自美国的音乐团体。MusicBrainz 还记录了它与Limbomaniacs、Giant Robot、Les Claypool and the Holy Mackerel之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 11,
+  "listeners": 5,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e6dedb88-8103-450a-a667-a0756d7cb568"
   },
@@ -24,7 +35,8 @@
       "label": "Pete Scaturro",
       "detail": "Pete Scaturro 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "giant-robot",
@@ -35,7 +47,8 @@
       "label": "Pete Scaturro",
       "detail": "Pete Scaturro 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "les-claypool-and-the-holy-mackerel",
@@ -46,7 +59,8 @@
       "label": "Joe Gore",
       "detail": "Joe Gore 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -2,8 +2,8 @@
   "id": "13-13",
   "mbid": "dfd81ae0-8a7b-4a15-b837-15de1d6da868",
   "name": "13.13",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
@@ -13,9 +13,20 @@
       "year": 1982
     }
   ],
-  "intro": "13.13是一支音乐团体。",
+  "intro": "13.13是一支来自美国的音乐团体。目前资料收录了《13.13》等作品；MusicBrainz 还记录了它与The Weirdos、Pigface、Red Hot Chili Peppers之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 909,
+  "listeners": 142,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 12,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dfd81ae0-8a7b-4a15-b837-15de1d6da868"
   },
@@ -29,7 +40,8 @@
       "label": "Cliff Martinez・Dix Denney・Greg Williams",
       "detail": "3 位乐手在这两支乐队都待过：Cliff Martinez・Dix Denney・Greg Williams。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -40,7 +52,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -51,7 +64,8 @@
       "label": "Cliff Martinez",
       "detail": "Cliff Martinez 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "thelonious-monster",
@@ -62,7 +76,8 @@
       "label": "Dix Denney",
       "detail": "Dix Denney 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "8-eyed-spy",
@@ -73,7 +88,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "harry-crews",
@@ -84,7 +100,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "teenage-jesus-and-the-jerks",
@@ -95,7 +112,8 @@
       "label": "Lydia Lunch",
       "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": 1977,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

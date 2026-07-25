@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "1987–",
-  "genres": [],
+  "genres": [
+    "搖滾"
+  ],
   "albums": [
     {
       "title": "アンチグライダー",
@@ -15,6 +17,16 @@
   ],
   "intro": "Theピーズ 是一支成立于1987年的日本朋克摇滚乐队。1997年8月以东北巡演为最后一场演出后一度暂停活动，并于2002年7月恢复活动。",
   "introLang": "zh",
+  "listens": 43,
+  "listeners": 10,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5674b399-8ab7-4ca3-9644-e5489c3ff2e7"
@@ -29,7 +41,8 @@
       "label": "佐藤シンイチロウ",
       "detail": "佐藤シンイチロウ 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pogo",
@@ -40,7 +53,8 @@
       "label": "佐藤シンイチロウ",
       "detail": "佐藤シンイチロウ 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

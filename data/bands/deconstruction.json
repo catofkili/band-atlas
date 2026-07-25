@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "Deconstruction",
@@ -15,6 +17,16 @@
   ],
   "intro": "Deconstruction是一支美国另类摇滚乐队，由贝斯手兼主唱埃里克·艾弗里（Eric Avery）和吉他手戴夫·纳瓦罗（Dave Navarro）——两人均曾是Jane's Addiction乐队成员——与鼓手迈克尔·墨菲（Michael Murphy）共同组建。",
   "introLang": "zh",
+  "listens": 1171,
+  "listeners": 68,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9dad4a09-50dd-43a4-b9da-c0dbcc8c8030"
@@ -29,7 +41,8 @@
       "label": "Eric Avery",
       "detail": "Eric Avery 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

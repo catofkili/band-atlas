@@ -8,7 +8,8 @@
   "years": "1980–",
   "genres": [
     "另类摇滚",
-    "流行朋克"
+    "流行朋克",
+    "強力流行樂"
   ],
   "albums": [
     {
@@ -38,6 +39,16 @@
   ],
   "intro": "Redd Kross 是一支来自加利福尼亚州霍桑的美国摇滚乐队，其前身是 1978 年由杰夫和史蒂夫·麦克唐纳兄弟创立的朋克摇滚乐队“The Tourists”，当时史蒂夫还是一名初中生。",
   "introLang": "zh",
+  "listens": 22935,
+  "listeners": 1117,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d3a4e499-19cf-4676-8aff-4a326b47cdb2"
@@ -52,7 +63,8 @@
       "label": "Victor Indrizzo・Steve McDonald・Jeff McDonald",
       "detail": "3 位乐手在这两支乐队都待过：Victor Indrizzo・Steve McDonald・Jeff McDonald。",
       "year": 1987,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "eleven",
@@ -63,7 +75,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -74,7 +87,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queens-of-the-stone-age",
@@ -85,7 +99,8 @@
       "label": "Victor Indrizzo",
       "detail": "Victor Indrizzo 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -96,7 +111,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "samiam",
@@ -107,7 +123,8 @@
       "label": "Victor Indrizzo",
       "detail": "Victor Indrizzo 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sparks",
@@ -118,7 +135,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-muffs",
@@ -129,7 +147,8 @@
       "label": "Roy McDonald",
       "detail": "Roy McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-wallflowers",
@@ -140,7 +159,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "anthym",
@@ -151,7 +171,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "loser",
@@ -162,7 +183,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spinnerette",
@@ -173,7 +195,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "what-is-this",
@@ -184,7 +207,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "broken-bat",
@@ -195,7 +219,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dale-crover-band",
@@ -206,7 +231,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nighttime-boogie-association",
@@ -217,7 +243,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "north-american-hallowe-en-prevention-initiative",
@@ -228,7 +255,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "society-s-ills",
@@ -239,7 +267,8 @@
       "label": "Dez Cadena",
       "detail": "Dez Cadena 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

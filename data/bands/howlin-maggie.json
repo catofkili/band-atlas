@@ -7,7 +7,8 @@
   "country": "美国",
   "years": "1994–2002",
   "genres": [
-    "哥伦布 [俄亥俄州]"
+    "哥伦布 [俄亥俄州]",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -21,6 +22,16 @@
   ],
   "intro": "Howlin' Maggie 是一支四人乐队，由哈罗德·“快乐”·奇切斯特于1994年在俄亥俄州哥伦布市创立并担任主唱。",
   "introLang": "zh",
+  "listens": 216,
+  "listeners": 44,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/85c98899-dd47-435d-9977-8ff45910f111"
@@ -35,7 +46,8 @@
       "label": "Jerome Dillon",
       "detail": "Jerome Dillon 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nearly",
@@ -46,7 +58,8 @@
       "label": "Jerome Dillon",
       "detail": "Jerome Dillon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

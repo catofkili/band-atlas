@@ -9,7 +9,10 @@
   "genres": [
     "独立摇滚",
     "另类摇滚",
-    "车库摇滚复兴"
+    "车库摇滚复兴",
+    "迷幻搖滾",
+    "車庫搖滾",
+    "后朋复兴"
   ],
   "albums": [
     {
@@ -39,6 +42,40 @@
   ],
   "intro": "北极猴子是组来自英国谢菲尔德的另类摇滚乐团。乐团成立于2002年，团员有主唱兼吉他手 Alex Turner、吉他手Jamie Cook、贝斯手Nick O'Malley与鼓手Matt Helders。",
   "introLang": "zh",
+  "tracks": [
+    "アイ・ベット・ユー・ルック・グッド・オン・ザ・ダンスフロア",
+    "Do I Wanna Know?",
+    "Five Minutes with Arctic Monkeys",
+    "Why'd You Only Call Me When You're High?",
+    "Fluorescent Adolescent"
+  ],
+  "trackSources": [
+    {
+      "title": "アイ・ベット・ユー・ルック・グッド・オン・ザ・ダンスフロア"
+    },
+    {
+      "title": "Do I Wanna Know?"
+    },
+    {
+      "title": "Five Minutes with Arctic Monkeys"
+    },
+    {
+      "title": "Why'd You Only Call Me When You're High?"
+    },
+    {
+      "title": "Fluorescent Adolescent"
+    }
+  ],
+  "listens": 3270619,
+  "listeners": 24338,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a"
@@ -53,7 +90,8 @@
       "label": "Andy Nicholson・Matt Helders",
       "detail": "2 位乐手在这两支乐队都待过：Andy Nicholson・Matt Helders。",
       "year": 2002,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "reverend-and-the-makers",
@@ -64,7 +102,8 @@
       "label": "Andy Nicholson",
       "detail": "Andy Nicholson 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-last-shadow-puppets",
@@ -75,7 +114,23 @@
       "label": "Alex Turner",
       "detail": "Alex Turner 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "the-last-shadow-puppets",
+      "toName": "The Last Shadow Puppets",
+      "toArea": "谢菲尔德",
+      "toYears": "2007–",
+      "type": "guest",
+      "label": "客串：Miles Kane",
+      "detail": "MusicBrainz 录音资料显示，Miles Kane参与了《505》、《505》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/419f0373-d393-4a53-a8d0-39ab7bee6585",
+        "https://musicbrainz.org/recording/8dee0224-bcf9-4023-a805-9562bafd3450"
+      ]
     },
     {
       "to": "diddy-dirty-money",
@@ -86,7 +141,8 @@
       "label": "Matt Helders",
       "detail": "Matt Helders 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-bottletop-band",
@@ -97,7 +153,23 @@
       "label": "Andy Nicholson",
       "detail": "Andy Nicholson 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "the-jaded-hearts-club",
+      "toName": "The Jaded Hearts Club",
+      "toArea": "加利福尼亚州",
+      "toYears": "2018–",
+      "type": "guest",
+      "label": "客串：Miles Kane",
+      "detail": "MusicBrainz 录音资料显示，Miles Kane参与了《505》、《505》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/419f0373-d393-4a53-a8d0-39ab7bee6585",
+        "https://musicbrainz.org/recording/8dee0224-bcf9-4023-a805-9562bafd3450"
+      ]
     },
     {
       "to": "lords-of-flatbush",
@@ -108,7 +180,8 @@
       "label": "Andy Nicholson",
       "detail": "Andy Nicholson 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sticky-blood",
@@ -119,7 +192,8 @@
       "label": "Andy Nicholson",
       "detail": "Andy Nicholson 在这两支乐队都待过。",
       "year": 2002,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-dodgems",
@@ -130,7 +204,8 @@
       "label": "Nick O’Malley",
       "detail": "Nick O’Malley 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -7,7 +7,11 @@
   "country": "日本",
   "years": "1973–",
   "genres": [
-    "民谣摇滚"
+    "民谣摇滚",
+    "民俗音樂",
+    "前衛搖滾",
+    "硬式搖滾",
+    "流行搖滾"
   ],
   "albums": [
     {
@@ -37,6 +41,40 @@
   ],
   "intro": "THE ALFEE，台译阿飞合唱团，是日本历史最长久的乐团之一，未曾经历过活动休止，以LIVE活动为中心，每年约60余场。1973年结成，1974年8月25日出道，曲风及支持者年龄层广泛，粉丝自称为“アル中”。",
   "introLang": "zh",
+  "tracks": [
+    "100億のLove Story",
+    "19 (nineteen)",
+    "1月の雨を忘れない",
+    "Believe (THE ALFEEの曲)",
+    "Brave Love 〜Galaxy Express 999"
+  ],
+  "trackSources": [
+    {
+      "title": "100億のLove Story"
+    },
+    {
+      "title": "19 (nineteen)"
+    },
+    {
+      "title": "1月の雨を忘れない"
+    },
+    {
+      "title": "Believe (THE ALFEEの曲)"
+    },
+    {
+      "title": "Brave Love 〜Galaxy Express 999"
+    }
+  ],
+  "listens": 7312,
+  "listeners": 514,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/db855eff-9d28-4bd7-ab2c-7301495b4669"
@@ -51,7 +89,8 @@
       "label": "三宅康夫・坂崎幸之助・桜井賢",
       "detail": "3 位乐手在这两支乐队都待过：三宅康夫・坂崎幸之助・桜井賢。",
       "year": 1972,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "ザ-フォーク-クルセダーズ",
@@ -62,7 +101,8 @@
       "label": "坂崎幸之助",
       "detail": "坂崎幸之助 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "和幸",
@@ -73,7 +113,8 @@
       "label": "坂崎幸之助",
       "detail": "坂崎幸之助 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fanta",
@@ -84,7 +125,8 @@
       "label": "高見沢俊彦",
       "detail": "高見沢俊彦 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

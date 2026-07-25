@@ -8,8 +8,18 @@
   "years": "1989–1990",
   "genres": [],
   "albums": [],
-  "intro": "Seymour是一支来自科尔切斯特的音乐团体，活跃时期为1989–1990。",
+  "intro": "Seymour是一支来自科尔切斯特的音乐团体，活跃时期为1989–1990。MusicBrainz 还记录了它与Blur、The Good, the Bad & the Queen、The WAEVE之间的成员往来。",
   "introLang": "zh",
+  "listens": 314,
+  "listeners": 47,
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/594493b9-50df-4efb-9aed-9b5c867b4753"
@@ -24,7 +34,24 @@
       "label": "Damon Albarn・Graham Coxon・Alex James・Dave Rowntree",
       "detail": "4 位乐手在这两支乐队都待过：Damon Albarn・Graham Coxon・Alex James・Dave Rowntree。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
+    },
+    {
+      "to": "gorillaz",
+      "toName": "Gorillaz",
+      "toArea": "埃塞克斯",
+      "toYears": "1999–",
+      "type": "guest",
+      "label": "客串：Damon Albarn",
+      "detail": "MusicBrainz 录音资料显示，Damon Albarn参与了《5/4》、《19-2000》、《Tomorrow Comes Today》等录音。",
+      "year": null,
+      "weight": 0.74,
+      "sources": [
+        "https://musicbrainz.org/recording/0bce478e-ff71-41ba-bb7b-310910d11cde",
+        "https://musicbrainz.org/recording/b766a7b6-5b8f-4805-ae83-420231c0ec76",
+        "https://musicbrainz.org/recording/8cd9dcd7-dc3e-44de-b4fa-6a7220ea55b0"
+      ]
     },
     {
       "to": "the-good-the-bad-the-queen",
@@ -35,7 +62,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-waeve",
@@ -46,7 +74,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "monkey",
@@ -57,7 +86,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rocket-juice-the-moon",
@@ -68,7 +98,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jaded-hearts-club",
@@ -79,7 +110,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "electric-wave-bureau",
@@ -90,7 +122,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fat-les",
@@ -101,7 +134,8 @@
       "label": "Alex James",
       "detail": "Alex James 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "me-me-me",
@@ -112,7 +146,8 @@
       "label": "Alex James",
       "detail": "Alex James 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-ailerons",
@@ -123,7 +158,8 @@
       "label": "Dave Rowntree",
       "detail": "Dave Rowntree 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-heavy-seas",
@@ -134,7 +170,8 @@
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-special-assembly",
@@ -145,7 +182,8 @@
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "wigwam",
@@ -156,7 +194,8 @@
       "label": "Alex James",
       "detail": "Alex James 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -10,6 +10,16 @@
   "albums": [],
   "intro": "The Capitols是一支来自荷兰的音乐团体。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0cf97acb-7b9e-4587-a760-d4e80381fd35"
@@ -24,7 +34,8 @@
       "label": "伴奏・助演",
       "detail": "MusicBrainz 记录的伴奏・助演关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

@@ -7,7 +7,9 @@
   "country": "日本",
   "years": "1976–1978",
   "genres": [
-    "摇滚"
+    "摇滚",
+    "摇滚乐",
+    "融合爵士樂"
   ],
   "albums": [
     {
@@ -21,6 +23,16 @@
   ],
   "intro": "Sadistics是一支活跃于1976年至1978年的日本乐队。",
   "introLang": "zh",
+  "listens": 2781,
+  "listeners": 501,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e4212f64-f16a-4aa8-b575-757eb9ae0715"
@@ -35,7 +47,8 @@
       "label": "後藤次利",
       "detail": "後藤次利 在这两支乐队都待过。",
       "year": 1976,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

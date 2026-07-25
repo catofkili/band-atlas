@@ -8,7 +8,13 @@
   "years": "1996–",
   "genres": [
     "摇滚",
-    "说唱摇滚"
+    "说唱摇滚",
+    "嘻哈音樂",
+    "另类摇滚",
+    "另類金屬",
+    "流行音乐",
+    "電子流行音樂",
+    "新金屬"
   ],
   "albums": [
     {
@@ -38,6 +44,40 @@
   ],
   "intro": "林肯公园是来自美国加利福尼亚州阿古拉山的摇滚乐团，于1996年成立。",
   "introLang": "zh",
+  "tracks": [
+    "結果到頭來",
+    "One Step Closer",
+    "伺機而動",
+    "渾然不覺",
+    "過去的我"
+  ],
+  "trackSources": [
+    {
+      "title": "結果到頭來"
+    },
+    {
+      "title": "One Step Closer"
+    },
+    {
+      "title": "伺機而動"
+    },
+    {
+      "title": "渾然不覺"
+    },
+    {
+      "title": "過去的我"
+    }
+  ],
+  "listens": 5102501,
+  "listeners": 28744,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f59c5520-5f46-4d2c-b2c4-822eabf53419"
@@ -52,7 +92,8 @@
       "label": "Mark Wakefield・Rob Bourdon・Brad Delson・David Michael Farrell・Joseph “Joe” Hahn・Mike Shinoda",
       "detail": "6 位乐手在这两支乐队都待过：Mark Wakefield・Rob Bourdon・Brad Delson・David Michael Farrell・Joseph “Joe” Hahn・Mike Shinoda。",
       "year": 1996,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "relative-degree",
@@ -63,7 +104,8 @@
       "label": "Rob Bourdon・Brad Delson",
       "detail": "2 位乐手在这两支乐队都待过：Rob Bourdon・Brad Delson。",
       "year": 1996,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "stone-temple-pilots",
@@ -74,7 +116,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "grey-daze",
@@ -85,7 +128,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dead-sara",
@@ -96,7 +140,36 @@
       "label": "Emily Armstrong",
       "detail": "Emily Armstrong 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "blink-182",
+      "toName": "blink‐182",
+      "toArea": "美国",
+      "toYears": "1992–",
+      "type": "guest",
+      "label": "客串：blink‐182、Linkin Park",
+      "detail": "MusicBrainz 录音资料显示，blink‐182、Linkin Park参与了《What I've Done》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/6df01d4c-9576-4b98-bd7a-86f3093e64e2"
+      ]
+    },
+    {
+      "to": "one-ok-rock",
+      "toName": "ONE OK ROCK",
+      "toArea": "东京",
+      "toYears": "2005–",
+      "type": "guest",
+      "label": "客串：Colin Brittain",
+      "detail": "MusicBrainz 录音资料显示，Colin Brittain参与了《Mighty Long Fall》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/9d7a2a6f-ad73-44bd-81c5-c32cef6d6fb4"
+      ]
     },
     {
       "to": "fort-minor",
@@ -107,7 +180,8 @@
       "label": "Mike Shinoda",
       "detail": "Mike Shinoda 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dead-by-sunrise",
@@ -118,7 +192,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "oh-no-fiasco",
@@ -129,7 +204,8 @@
       "label": "Colin Brittain",
       "detail": "Colin Brittain 在这两支乐队都待过。",
       "year": 2024,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "camp-freddy",
@@ -140,7 +216,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kings-of-chaos",
@@ -151,7 +228,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sean-dowdell-and-his-friends",
@@ -162,7 +240,8 @@
       "label": "Chester Bennington",
       "detail": "Chester Bennington 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deftones",
@@ -173,7 +252,8 @@
       "label": "影响关系",
       "detail": "Linkin Park 受 Deftones 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "jane-s-addiction",
@@ -184,7 +264,8 @@
       "label": "影响关系",
       "detail": "Linkin Park 受 Jane’s Addiction 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -195,7 +276,8 @@
       "label": "影响关系",
       "detail": "Linkin Park 受 Nine Inch Nails 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "rage-against-the-machine",
@@ -206,7 +288,8 @@
       "label": "影响关系",
       "detail": "Linkin Park 受 Rage Against the Machine 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -217,7 +300,8 @@
       "label": "影响关系",
       "detail": "Linkin Park 受 Red Hot Chili Peppers 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "system-of-a-down",
@@ -228,7 +312,8 @@
       "label": "影响关系",
       "detail": "Linkin Park 受 System of a Down 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-offspring",
@@ -239,7 +324,8 @@
       "label": "影响关系",
       "detail": "Linkin Park 受 The Offspring 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

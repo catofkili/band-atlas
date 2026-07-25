@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Glenn Branca Ensemble是一支来自美国的音乐团体。",
+  "intro": "Glenn Branca Ensemble是一支来自美国的音乐团体。MusicBrainz 还记录了它与Swans、Pigface、Tapeworm之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/978a0d05-1dab-4515-be85-05b7b28c1f32"
@@ -24,7 +34,8 @@
       "label": "Algis Kizys・Virgil Moorefield",
       "detail": "2 位乐手在这两支乐队都待过：Algis Kizys・Virgil Moorefield。",
       "year": 1991,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -35,7 +46,8 @@
       "label": "Algis Kizys",
       "detail": "Algis Kizys 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tapeworm",
@@ -46,7 +58,8 @@
       "label": "Page Hamilton",
       "detail": "Page Hamilton 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

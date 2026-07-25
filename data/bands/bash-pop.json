@@ -7,7 +7,8 @@
   "country": "美国",
   "years": "1992–",
   "genres": [
-    "Power Pop简体中文（大陆）"
+    "Power Pop简体中文（大陆）",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -21,6 +22,16 @@
   ],
   "intro": "Bash & Pop 是一支美国另类摇滚乐队，由汤米·斯廷森（Tommy Stinson）于 1992 年在明尼苏达州明尼阿波利斯市组建，此前“Replacements”乐队刚刚解散。",
   "introLang": "zh",
+  "listens": 3248,
+  "listeners": 297,
+  "quality": {
+    "score": 66,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c44092a6-d6be-4bfa-9650-edccc69f7a2b"
@@ -35,7 +46,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-replacements",
@@ -46,7 +58,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "cowboys-in-the-campfire",
@@ -57,7 +70,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "perfect",
@@ -68,7 +82,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-a-m-f",
@@ -79,7 +94,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "latter-revelation-company-singers",
@@ -90,7 +106,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jacks",
@@ -101,7 +118,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

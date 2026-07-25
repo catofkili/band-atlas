@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2001–",
-  "genres": [],
+  "genres": [
+    "車庫搖滾"
+  ],
   "albums": [
     {
       "title": "BIRD",
@@ -23,6 +25,28 @@
   ],
   "intro": "ROSSO是一支日本摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "1000のタンバリン/アウトサイダー",
+    "バニラ (ROSSOの曲)"
+  ],
+  "trackSources": [
+    {
+      "title": "1000のタンバリン/アウトサイダー"
+    },
+    {
+      "title": "バニラ (ROSSOの曲)"
+    }
+  ],
+  "listens": 1373,
+  "listeners": 61,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3cfda90e-4d46-4eeb-8a40-f55545f9bc1f"
@@ -37,7 +61,8 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-birthday",
@@ -48,7 +73,8 @@
       "label": "チバユウスケ・イマイアキノブ",
       "detail": "2 位乐手在这两支乐队都待过：チバユウスケ・イマイアキノブ。",
       "year": 2006,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "raven",
@@ -59,7 +85,8 @@
       "label": "チバユウスケ・照井利幸",
       "detail": "2 位乐手在这两支乐队都待过：チバユウスケ・照井利幸。",
       "year": 2003,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-midwest-vikings",
@@ -70,7 +97,8 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

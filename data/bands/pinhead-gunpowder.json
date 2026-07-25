@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1990–",
-  "genres": [],
+  "genres": [
+    "朋克搖滾"
+  ],
   "albums": [
     {
       "title": "Carry the Banner",
@@ -27,6 +29,16 @@
   ],
   "intro": "Pinhead Gunpowder是一支于1990年在加利福尼亚州东湾成立的美国朋克摇滚乐队。",
   "introLang": "zh",
+  "listens": 13615,
+  "listeners": 475,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f7b3c394-3654-4bde-baea-32804f87fe24"
@@ -41,7 +53,8 @@
       "label": "Bill Schneider",
       "detail": "Bill Schneider 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-influents",
@@ -52,7 +65,8 @@
       "label": "Bill Schneider",
       "detail": "Bill Schneider 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-coverups",
@@ -63,7 +77,8 @@
       "label": "Bill Schneider",
       "detail": "Bill Schneider 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

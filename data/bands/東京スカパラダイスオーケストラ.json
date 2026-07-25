@@ -7,7 +7,9 @@
   "country": "日本",
   "years": "1985–",
   "genres": [
-    "爵士乐"
+    "爵士乐",
+    "斯卡曲風",
+    "日本斯卡"
   ],
   "albums": [
     {
@@ -37,6 +39,40 @@
   ],
   "intro": "东京斯卡乐园管弦乐团，日本知名乐团。简称为“Skapara”、“T.S.P.O.”。目前所属于唱片公司为cutting edge，经纪公司是Sony Music Artists。",
   "introLang": "zh",
+  "tracks": [
+    "ハズムリズム",
+    "A Quick Drunkard",
+    "ALMIGHTY〜仮面の約束",
+    "Break into the Light〜約束の帽子〜/The Sharing Song〜トリコのテーマ〜",
+    "Freak It! feat.東京スカパラダイスオーケストラ"
+  ],
+  "trackSources": [
+    {
+      "title": "ハズムリズム"
+    },
+    {
+      "title": "A Quick Drunkard"
+    },
+    {
+      "title": "ALMIGHTY〜仮面の約束"
+    },
+    {
+      "title": "Break into the Light〜約束の帽子〜/The Sharing Song〜トリコのテーマ〜"
+    },
+    {
+      "title": "Freak It! feat.東京スカパラダイスオーケストラ"
+    }
+  ],
+  "listens": 30548,
+  "listeners": 1180,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d77f4539-0661-4741-9307-60ebbd72f5ee"
@@ -51,7 +87,8 @@
       "label": "茂木欣一",
       "detail": "茂木欣一 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "marimari-rythmkiller-machinegun",
@@ -62,7 +99,8 @@
       "label": "茂木欣一",
       "detail": "茂木欣一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fishmans",
@@ -73,7 +111,8 @@
       "label": "茂木欣一",
       "detail": "茂木欣一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "viva-la-j-rock-anthems",
@@ -84,7 +123,22 @@
       "label": "加藤隆志",
       "detail": "加藤隆志 在这两支乐队都待过。",
       "year": 2000,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "fishmans",
+      "toName": "Fishmans+",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "guest",
+      "label": "客串：ハナレグミ",
+      "detail": "MusicBrainz 录音资料显示，ハナレグミ参与了《追憶のライラック 〜Reminiscent Lilac〜》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/74686254-ffe3-461d-9cc5-0994d0a0fb35"
+      ]
     }
   ]
 }

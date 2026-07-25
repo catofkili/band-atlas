@@ -9,7 +9,8 @@
   "genres": [
     "另类摇滚",
     "后硬核",
-    "噪音摇滚"
+    "噪音摇滚",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -34,13 +35,23 @@
     }
   ],
   "intro": "吉村秀树领衔的札幌乐队。旋律粗粝、演奏近乎失控，是日本另类摇滚里被后辈最频繁提起的一支。",
-  "introLang": "ja",
+  "introLang": "zh",
   "tracks": [
     "7月",
     "December",
     "kocorono"
   ],
   "lore": "2013 年 5 月，吉村秀树突然离世，乐队随之终止。此后多年，日本另类摇滚圈的纪念演出没有断过。",
+  "listens": 8648,
+  "listeners": 203,
+  "quality": {
+    "score": 100,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": true,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8293299e-5411-4502-aed3-7ed09d37bf38"
@@ -55,7 +66,8 @@
       "label": "田渕ひさ子 / 长年盟友",
       "detail": "北海道的前辈与盟友，后来吸纳了 NUMBER GIRL 的吉他手田渕ひさ子。",
       "year": 2007,
-      "weight": 0.85
+      "weight": 0.85,
+      "sources": []
     },
     {
       "to": "eastern-youth",
@@ -66,7 +78,8 @@
       "label": "北海道的盟友",
       "detail": "同为札幌出身，两队长年共演、互为对方现场的常客。",
       "year": null,
-      "weight": 0.8
+      "weight": 0.8,
+      "sources": []
     },
     {
       "to": "toddle",
@@ -77,40 +90,8 @@
       "label": "田渕ひさ子",
       "detail": "吉他手田渕ひさ子在这两支乐队之间同时活动。",
       "year": 2007,
-      "weight": 0.7
-    },
-    {
-      "to": "sonic-youth",
-      "toName": "Sonic Youth",
-      "toArea": "纽约",
-      "toYears": "1981–2011",
-      "type": "influence",
-      "label": "影响来源",
-      "detail": "噪音一侧的上游。",
-      "year": null,
-      "weight": 0.65
-    },
-    {
-      "to": "fugazi",
-      "toName": "Fugazi",
-      "toArea": "华盛顿特区",
-      "toYears": "1987–2003",
-      "type": "influence",
-      "label": "影响来源",
-      "detail": "post-hardcore 谱系的上游。",
-      "year": null,
-      "weight": 0.6
-    },
-    {
-      "to": "lostage",
-      "toName": "LOSTAGE",
-      "toArea": "奈良",
-      "toYears": "2001–",
-      "type": "guest",
-      "label": "共演・后辈",
-      "detail": "吉村秀树与 LOSTAGE 的五味岳久交情深厚，两队多次同台。",
-      "year": null,
-      "weight": 0.6
+      "weight": 0.7,
+      "sources": []
     },
     {
       "to": "l-s-d",
@@ -121,7 +102,44 @@
       "label": "佐野紀代己・射守矢雄",
       "detail": "2 位乐手在这两支乐队都待过：佐野紀代己・射守矢雄。",
       "year": 1986,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "sonic-youth",
+      "toName": "Sonic Youth",
+      "toArea": "纽约",
+      "toYears": "1981–2011",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "噪音一侧的上游。",
+      "year": null,
+      "weight": 0.65,
+      "sources": []
+    },
+    {
+      "to": "lostage",
+      "toName": "LOSTAGE",
+      "toArea": "奈良",
+      "toYears": "2001–",
+      "type": "guest",
+      "label": "共演・后辈",
+      "detail": "吉村秀树与 LOSTAGE 的五味岳久交情深厚，两队多次同台。",
+      "year": null,
+      "weight": 0.6,
+      "sources": []
+    },
+    {
+      "to": "fugazi",
+      "toName": "Fugazi",
+      "toArea": "华盛顿特区",
+      "toYears": "1987–2003",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "post-hardcore 谱系的上游。",
+      "year": null,
+      "weight": 0.6,
+      "sources": []
     },
     {
       "to": "crypt-city",
@@ -132,7 +150,8 @@
       "label": "小松正宏",
       "detail": "小松正宏 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lama",
@@ -143,7 +162,8 @@
       "label": "田渕ひさ子",
       "detail": "田渕ひさ子 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "odani-misako-ta-ta",
@@ -154,7 +174,8 @@
       "label": "田渕ひさ子",
       "detail": "田渕ひさ子 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "copass-grinderz",
@@ -165,7 +186,8 @@
       "label": "吉村秀樹",
       "detail": "吉村秀樹 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -17,8 +17,18 @@
       "year": 2009
     }
   ],
-  "intro": "Hawk是一支来自洛杉矶的音乐团体，活跃时期为1984–。",
+  "intro": "Hawk是一支来自洛杉矶的音乐团体，活跃时期为1984–。目前资料收录了《Hawk》、《Let the Metal Live》等作品；MusicBrainz 还记录了它与BulletBoys之间的成员往来。",
   "introLang": "zh",
+  "listens": 281,
+  "listeners": 36,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3eccd071-157b-4776-afd3-4c6f82cc8036"
@@ -33,7 +43,8 @@
       "label": "Lonnie Vencent・Marq Torien・Charlie Wayne Morrill",
       "detail": "3 位乐手在这两支乐队都待过：Lonnie Vencent・Marq Torien・Charlie Wayne Morrill。",
       "year": 2009,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     }
   ]
 }

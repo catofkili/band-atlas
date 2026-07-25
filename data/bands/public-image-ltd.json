@@ -9,7 +9,9 @@
   "genres": [
     "后朋克",
     "新浪潮",
-    "艺术朋克"
+    "艺术朋克",
+    "另类摇滚",
+    "後龐克"
   ],
   "albums": [
     {
@@ -39,6 +41,40 @@
   ],
   "intro": "Public Image Ltd 是由约翰·莱登于1978年组建的英格兰摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Death Disco",
+    "Bad Life",
+    "Rise",
+    "Flowers of Romance",
+    "Memories"
+  ],
+  "trackSources": [
+    {
+      "title": "Death Disco"
+    },
+    {
+      "title": "Bad Life"
+    },
+    {
+      "title": "Rise"
+    },
+    {
+      "title": "Flowers of Romance"
+    },
+    {
+      "title": "Memories"
+    }
+  ],
+  "listens": 141894,
+  "listeners": 4952,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/68950696-ee9a-49b2-a8c2-d1d6c19355cc"
@@ -53,7 +89,8 @@
       "label": "Bill Laswell・Jah Wobble",
       "detail": "2 位乐手在这两支乐队都待过：Bill Laswell・Jah Wobble。",
       "year": 1986,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "material",
@@ -64,7 +101,8 @@
       "label": "Bill Laswell",
       "detail": "Bill Laswell 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -75,7 +113,8 @@
       "label": "John Lydon",
       "detail": "John Lydon 在这两支乐队都待过。",
       "year": 1978,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "praxis",
@@ -86,7 +125,8 @@
       "label": "Bill Laswell",
       "detail": "Bill Laswell 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-smiths",
@@ -97,7 +137,22 @@
       "label": "Mike Joyce",
       "detail": "Mike Joyce 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "the-smiths",
+      "toName": "The Smiths",
+      "toArea": "曼彻斯特",
+      "toYears": "1982–1987",
+      "type": "guest",
+      "label": "客串：Public Image Ltd.",
+      "detail": "MusicBrainz 录音资料显示，Public Image Ltd.参与了《Alternative Classics》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/925325e4-8b9f-4ab1-be86-ee7139f915e6"
+      ]
     },
     {
       "to": "shin-e",
@@ -108,7 +163,8 @@
       "label": "Bill Laswell",
       "detail": "Bill Laswell 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-damage-manual",
@@ -119,7 +175,8 @@
       "label": "Jah Wobble",
       "detail": "Jah Wobble 在这两支乐队都待过。",
       "year": 1978,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sex-pistols",
@@ -130,7 +187,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     },
     {
       "to": "axiom-funk",
@@ -141,7 +199,8 @@
       "label": "Bill Laswell",
       "detail": "Bill Laswell 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "moondog-one",
@@ -152,7 +211,8 @@
       "label": "Mike Joyce",
       "detail": "Mike Joyce 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -163,7 +223,8 @@
       "label": "影响关系",
       "detail": "Public Image Ltd 影响了 Red Hot Chili Peppers（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

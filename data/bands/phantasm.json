@@ -6,10 +6,22 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1986–1988",
-  "genres": [],
+  "genres": [
+    "敲击金属"
+  ],
   "albums": [],
   "intro": "Phantasm是一支来自洛杉矶的美国鞭击金属乐队，活跃于1986年至1988年。",
   "introLang": "zh",
+  "listens": 145,
+  "listeners": 7,
+  "quality": {
+    "score": 49,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bff087c0-11b4-4da3-81a0-2db10ca7cabb"
@@ -24,7 +36,8 @@
       "label": "Ron McGovney",
       "detail": "Ron McGovney 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

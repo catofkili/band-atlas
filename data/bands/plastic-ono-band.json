@@ -7,7 +7,10 @@
   "country": "英国",
   "years": "1969–2015",
   "genres": [
-    "摇滚"
+    "摇滚",
+    "摇滚乐",
+    "艺术摇滚",
+    "實驗音樂"
   ],
   "albums": [
     {
@@ -37,6 +40,40 @@
   ],
   "intro": "塑胶小野乐队是约翰·蓝侬和小野洋子宣告的乐队概念，在1969年披头士乐队解散前成立。",
   "introLang": "zh",
+  "tracks": [
+    "給和平一個機會",
+    "パワー・トゥ・ザ・ピープル",
+    "戒断反应",
+    "Open Your Box",
+    "京子ちゃん心配しないで"
+  ],
+  "trackSources": [
+    {
+      "title": "給和平一個機會"
+    },
+    {
+      "title": "パワー・トゥ・ザ・ピープル"
+    },
+    {
+      "title": "戒断反应"
+    },
+    {
+      "title": "Open Your Box"
+    },
+    {
+      "title": "京子ちゃん心配しないで"
+    }
+  ],
+  "listens": 12611,
+  "listeners": 1744,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/84f81b32-8b3a-4914-9cff-017a52f9d16b"
@@ -51,7 +88,8 @@
       "label": "Ringo Starr・Eric Clapton・Klaus Voormann",
       "detail": "3 位乐手在这两支乐队都待过：Ringo Starr・Eric Clapton・Klaus Voormann。",
       "year": 2002,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "the-beatles",
@@ -62,7 +100,8 @@
       "label": "John Lennon・Ringo Starr",
       "detail": "2 位乐手在这两支乐队都待过：John Lennon・Ringo Starr。",
       "year": 1969,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "apple",
@@ -73,7 +112,8 @@
       "label": "John Lennon・Yoko Ono",
       "detail": "2 位乐手在这两支乐队都待过：John Lennon・Yoko Ono。",
       "year": 1969,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-singing-rebels-band",
@@ -84,7 +124,8 @@
       "label": "Ringo Starr・Eric Clapton",
       "detail": "2 位乐手在这两支乐队都待过：Ringo Starr・Eric Clapton。",
       "year": 1969,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "delaney-bonnie",
@@ -95,7 +136,8 @@
       "label": "Eric Clapton",
       "detail": "Eric Clapton 在这两支乐队都待过。",
       "year": 1969,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-quarrymen",
@@ -106,7 +148,8 @@
       "label": "John Lennon",
       "detail": "John Lennon 在这两支乐队都待过。",
       "year": 1969,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-who",
@@ -117,7 +160,8 @@
       "label": "Keith Moon",
       "detail": "Keith Moon 在这两支乐队都待过。",
       "year": 1964,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-yardbirds",
@@ -128,7 +172,8 @@
       "label": "Eric Clapton",
       "detail": "Eric Clapton 在这两支乐队都待过。",
       "year": 1963,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-beat-brothers",
@@ -139,7 +184,8 @@
       "label": "John Lennon",
       "detail": "John Lennon 在这两支乐队都待过。",
       "year": 1969,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lord-sutch-heavy-friends",
@@ -150,7 +196,8 @@
       "label": "Keith Moon",
       "detail": "Keith Moon 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-silver-beatles",
@@ -161,7 +208,8 @@
       "label": "John Lennon",
       "detail": "John Lennon 在这两支乐队都待过。",
       "year": 1969,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -172,7 +220,8 @@
       "label": "Eric Clapton",
       "detail": "Eric Clapton 在这两支乐队都待过。",
       "year": 1969,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "r-a-d-d-recording-artists-against-drunk-driving",
@@ -183,7 +232,8 @@
       "label": "Ringo Starr",
       "detail": "Ringo Starr 在这两支乐队都待过。",
       "year": 1969,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ringo-starr-his-all-starr-band",
@@ -194,7 +244,8 @@
       "label": "Ringo Starr",
       "detail": "Ringo Starr 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rory-storm-and-the-hurricanes",
@@ -205,7 +256,8 @@
       "label": "Ringo Starr",
       "detail": "Ringo Starr 在这两支乐队都待过。",
       "year": 1969,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-roundheads",
@@ -216,7 +268,8 @@
       "label": "Ringo Starr",
       "detail": "Ringo Starr 在这两支乐队都待过。",
       "year": 1969,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "xyz",
@@ -227,7 +280,8 @@
       "label": "Alan White",
       "detail": "Alan White 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

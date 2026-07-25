@@ -12,8 +12,18 @@
     "器乐摇滚"
   ],
   "albums": [],
-  "intro": "The Dragons of Eden是一支来自美国的以硬摇滚、纯器乐为主要风格的音乐团体。",
+  "intro": "The Dragons of Eden是一支来自美国的音乐团体，现有资料记录的主要风格包括硬摇滚、纯器乐、器乐摇滚。MusicBrainz 还记录了它与Cornbugs、Thanatopsis、Gorgone之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 20,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/23a090b5-e504-454a-9cbd-95dac6d07d97"
@@ -28,7 +38,8 @@
       "label": "Travis Dickerson",
       "detail": "Travis Dickerson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "thanatopsis",
@@ -39,7 +50,8 @@
       "label": "Travis Dickerson",
       "detail": "Travis Dickerson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gorgone",
@@ -50,7 +62,8 @@
       "label": "Travis Dickerson",
       "detail": "Travis Dickerson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "buckethead-and-his-bucket-bots",
@@ -61,7 +74,8 @@
       "label": "Travis Dickerson",
       "detail": "Travis Dickerson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

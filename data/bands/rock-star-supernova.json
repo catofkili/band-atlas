@@ -6,7 +6,9 @@
   "countryCode": null,
   "country": null,
   "years": null,
-  "genres": [],
+  "genres": [
+    "硬式搖滾"
+  ],
   "albums": [
     {
       "title": "Rock Star Supernova",
@@ -15,6 +17,28 @@
   ],
   "intro": "Rock Star Supernova 是一支通过真人秀节目组建的超级乐队，成员包括鼓手汤米·李（Tommy Lee）、贝斯手杰森·纽斯特德（Jason Newsted）、吉他手吉尔比·克拉克（Gilby Clarke）和主唱卢卡斯·罗西（Lukas Rossi）。",
   "introLang": "zh",
+  "tracks": [
+    "Be Yourself and 5 Other Cliches",
+    "It's All Love"
+  ],
+  "trackSources": [
+    {
+      "title": "Be Yourself and 5 Other Cliches"
+    },
+    {
+      "title": "It's All Love"
+    }
+  ],
+  "listens": 916,
+  "listeners": 69,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dda55cb5-21b1-4450-bb21-d5b0ad35b6a2"
@@ -29,7 +53,8 @@
       "label": "Tommy Lee",
       "detail": "Tommy Lee 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -5,7 +5,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
 <title>乐队关系网</title>
 <meta name="description" content="从一支乐队出发，顺着成员、客串、影响与恩怨，走进整张关系网。">
-<link rel="stylesheet" href="style.css?v=20260725-3">
+<meta property="og:type" content="website">
+<meta property="og:title" content="乐队关系网 · Band Atlas">
+<meta property="og:description" content="从一支乐队出发，顺着成员、客串、影响与恩怨，走进整张关系网。">
+<meta property="og:url" content="https://catofkili.github.io/band-atlas/">
+<meta property="og:image" content="https://catofkili.github.io/band-atlas/og.png">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="stylesheet" href="style.css?v=e8410bf7ff">
 </head>
 <body>
 
@@ -16,13 +22,45 @@
     <span class="wordmark__name">乐队关系网</span>
     <span class="wordmark__scene" id="scene-name">载入中</span>
   </div>
+  <button id="map-open" class="btn" type="button">关系地图</button>
   <button id="search-open" class="btn" type="button">搜索</button>
   <button id="shuffle" class="btn" type="button">换一支</button>
 </header>
 
-<section id="network-map" class="network-map" hidden aria-label="乐队关系全网地图">
-  <canvas id="network-canvas"></canvas>
-  <div class="network-map__hud"><button id="map-close" class="btn" type="button">返回卡片</button><span>双指缩放 · 拖动地图 · 点节点进入 · <b id="map-stats"></b></span></div>
+<section id="network-map" class="network-map" hidden role="dialog" aria-modal="true"
+         aria-label="乐队关系地图" aria-describedby="map-help">
+  <canvas id="network-canvas" tabindex="0" aria-label="可缩放的乐队关系地图"></canvas>
+  <div class="network-map__hud">
+    <div class="network-map__toolbar">
+      <button id="map-close" class="btn" type="button">返回卡片</button>
+      <button id="map-popular-toggle" class="btn" type="button" aria-pressed="false"
+              title="按 ListenBrainz 历史收听记录隐藏极冷门节点">隐藏超冷门</button>
+      <span id="map-help">滚轮或双指缩放 · 拖动地图 · 点名称进入 · 方向键移动</span>
+      <b id="map-stats" role="status"></b>
+    </div>
+    <div id="map-error" class="network-map__error" hidden>
+      <span>地图数据加载失败。</span>
+      <button id="map-retry" class="btn" type="button">重试</button>
+    </div>
+    <div class="network-map__legends" aria-label="地图图例">
+      <ul class="map-legend map-legend--regions" aria-label="名称边框颜色">
+        <li><i style="--key:#ef9f5a"></i>东亚</li>
+        <li><i style="--key:#79aefc"></i>欧美</li>
+        <li><i style="--key:#a891d7"></i>其他</li>
+        <li><i style="--key:#737b87"></i>地区未知</li>
+      </ul>
+      <ul class="map-legend map-legend--relations" aria-label="关系线颜色">
+        <li><i style="--key:#58a6ff"></i>成员</li>
+        <li><i style="--key:#45c58c"></i>合作</li>
+        <li><i style="--key:#b98cff"></i>影响</li>
+        <li><i style="--key:#ff6b5e"></i>恩怨</li>
+        <li><i style="--key:#d9ac5a"></i>同世代</li>
+      </ul>
+    </div>
+    <label class="map-picker">键盘选择
+      <select id="map-band-select" aria-label="从地图选择乐队"></select>
+    </label>
+  </div>
 </section>
 
 <div id="search" class="search" hidden>
@@ -38,6 +76,6 @@
   <p class="status" id="status" role="status">载入中…</p>
 </footer>
 
-<script type="module" src="js/main.js?v=20260726-1"></script>
+<script type="module" src="js/main.js?v=e8410bf7ff"></script>
 </body>
 </html>

@@ -21,8 +21,18 @@
       "year": 2009
     }
   ],
-  "intro": "13Steps是一支来自清州的音乐团体，活跃时期为2000–。",
+  "intro": "13Steps是一支来自清州的音乐团体，活跃时期为2000–。目前资料收录了《This Is The Reality That We Confront》、《The Curse Upon Liars》等作品；MusicBrainz 还记录了它与잠비나이、49 Morphines、Combative Post之间的成员往来。",
   "introLang": "zh",
+  "listens": 47,
+  "listeners": 20,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0f3907a4-ac12-49df-a3c3-705a1e95b254"
@@ -37,7 +47,8 @@
       "label": "이일우",
       "detail": "이일우 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "49-morphines",
@@ -48,7 +59,8 @@
       "label": "이일우",
       "detail": "이일우 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "combative-post",
@@ -59,7 +71,8 @@
       "label": "이일우",
       "detail": "이일우 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

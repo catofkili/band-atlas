@@ -6,10 +6,22 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1992–1993",
-  "genres": [],
+  "genres": [
+    "情绪摇滚"
+  ],
   "albums": [],
-  "intro": "Chino Horde是一支来自小石城的音乐团体，活跃时期为1992–1993。",
+  "intro": "Chino Horde是一支来自小石城的音乐团体，活跃时期为1992–1993，现有资料记录的主要风格包括情绪摇滚。MusicBrainz 还记录了它与The Big Cats之间的成员往来。",
   "introLang": "zh",
+  "listens": 505,
+  "listeners": 67,
+  "quality": {
+    "score": 7,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d5a16c6d-49d7-4f48-ac5f-6c312f966947"
@@ -24,7 +36,8 @@
       "label": "Burt Taggart",
       "detail": "Burt Taggart 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

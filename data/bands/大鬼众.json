@@ -21,8 +21,18 @@
       "year": 2024
     }
   ],
-  "intro": "大鬼众是一支来自中国的音乐团体，活跃时期为2021–。",
+  "intro": "大鬼众是一支来自中国的音乐团体，活跃时期为2021–。目前资料收录了《苦痛 Kvvvlt/ooong》、《鬼之冥想 Ghost Meditation》等作品；MusicBrainz 还记录了它与Carsick Cars、Snapline之间的成员往来。",
   "introLang": "zh",
+  "listens": 3,
+  "listeners": 3,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ccf6963f-c23a-4934-84b3-e2e1b89054e9"
@@ -37,7 +47,8 @@
       "label": "李青・李维思",
       "detail": "2 位乐手在这两支乐队都待过：李青・李维思。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "snapline",
@@ -48,7 +59,8 @@
       "label": "李青・李维思",
       "detail": "2 位乐手在这两支乐队都待过：李青・李维思。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

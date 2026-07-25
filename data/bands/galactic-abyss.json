@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Galactic Abyss是一支来自日本的音乐团体。",
+  "intro": "Galactic Abyss是一支来自日本的音乐团体。MusicBrainz 还记录了它与ゆらゆら帝国、不失者、The Stars之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/11e22d21-7861-4c04-bea7-0169e71b41d7"
@@ -24,7 +34,8 @@
       "label": "亀川千代",
       "detail": "亀川千代 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "不失者",
@@ -35,7 +46,8 @@
       "label": "亀川千代",
       "detail": "亀川千代 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-stars",
@@ -46,7 +58,8 @@
       "label": "亀川千代",
       "detail": "亀川千代 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

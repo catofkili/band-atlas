@@ -7,7 +7,8 @@
   "country": "日本",
   "years": "1981–1987",
   "genres": [
-    "视觉系"
+    "视觉系",
+    "重金属音乐"
   ],
   "albums": [
     {
@@ -25,6 +26,16 @@
   ],
   "intro": "横须贺萨贝尔虎是一支曾经存在的日本业余乐队。该乐队因由X JAPAN的HIDE主持而闻名。",
   "introLang": "zh",
+  "listens": 42,
+  "listeners": 10,
+  "quality": {
+    "score": 66,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/eba81e97-2c61-4638-9562-8804c98f560e"
@@ -39,7 +50,8 @@
       "label": "菊地哲・kyo",
       "detail": "2 位乐手在这两支乐队都待过：菊地哲・kyo。",
       "year": 1986,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "die-in-cries",
@@ -50,7 +62,8 @@
       "label": "kyo",
       "detail": "kyo 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "x-japan",
@@ -61,7 +74,8 @@
       "label": "hide",
       "detail": "hide 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zi-kill",
@@ -72,7 +86,8 @@
       "label": "菊地哲",
       "detail": "菊地哲 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zilch",
@@ -83,7 +98,8 @@
       "label": "hide",
       "detail": "hide 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "halloween-junky-orchestra",
@@ -94,7 +110,8 @@
       "label": "kyo",
       "detail": "kyo 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hide-with-spread-beaver",
@@ -105,7 +122,8 @@
       "label": "hide",
       "detail": "hide 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dementia",
@@ -116,7 +134,8 @@
       "label": "TOKIHIKO",
       "detail": "TOKIHIKO 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "emperor",
@@ -127,7 +146,8 @@
       "label": "TOKIHIKO",
       "detail": "TOKIHIKO 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "m-a-s-s",
@@ -138,7 +158,8 @@
       "label": "hide",
       "detail": "hide 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

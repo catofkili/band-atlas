@@ -9,7 +9,8 @@
   "genres": [
     "摇滚",
     "独立摇滚",
-    "流行摇滚"
+    "流行摇滚",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -39,6 +40,16 @@
   ],
   "intro": "紫雨林是韩国的四人摇滚乐团，成员有吉他手兼团长的李善奎、主唱金伦我、鼓手具泰勋(已退出)及贝斯手金真满。",
   "introLang": "zh",
+  "listens": 30348,
+  "listeners": 353,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/36d6bac0-9f2a-48a5-8620-6701942cb95b"
@@ -53,7 +64,8 @@
       "label": "김진만・이선규",
       "detail": "2 位乐手在这两支乐队都待过：김진만・이선규。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "lonely-h-s-band",
@@ -64,7 +76,8 @@
       "label": "이선규",
       "detail": "이선규 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "space-soldier-membership-club",
@@ -75,7 +88,8 @@
       "label": "이선규",
       "detail": "이선규 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

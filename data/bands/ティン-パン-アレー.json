@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "1973–",
-  "genres": [],
+  "genres": [
+    "摇滚乐"
+  ],
   "albums": [
     {
       "title": "キャラメル・ママ",
@@ -35,6 +37,16 @@
   ],
   "intro": "Tin Pan Alley 是一支成立于1973年的日本乐队。所属经纪公司为桑原事务所。",
   "introLang": "zh",
+  "listens": 675,
+  "listeners": 120,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/21914c00-4e74-48e8-9f58-15b4af1b38d8"
@@ -49,7 +61,8 @@
       "label": "鈴木茂・林立夫",
       "detail": "2 位乐手在这两支乐队都待过：鈴木茂・林立夫。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "キャラメル-ママ",
@@ -60,7 +73,8 @@
       "label": "鈴木茂・林立夫",
       "detail": "2 位乐手在这两支乐队都待过：鈴木茂・林立夫。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "はっぴいえんど",
@@ -71,7 +85,8 @@
       "label": "鈴木茂",
       "detail": "鈴木茂 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

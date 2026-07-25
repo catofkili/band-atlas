@@ -9,7 +9,8 @@
   "genres": [
     "梦幻流行乐",
     "慢核",
-    "迷幻民谣"
+    "迷幻民谣",
+    "夢幻流行"
   ],
   "albums": [
     {
@@ -31,6 +32,32 @@
   ],
   "intro": "Maggie Star是由主唱霍普·桑多瓦尔（Hope Sandoval）和吉他手大卫·罗巴克（David Roback）于1989年组建的乐队。",
   "introLang": "zh",
+  "tracks": [
+    "フェード・イントゥ・ユー",
+    "Flowers in December",
+    "Common Burn/Lay Myself Down"
+  ],
+  "trackSources": [
+    {
+      "title": "フェード・イントゥ・ユー"
+    },
+    {
+      "title": "Flowers in December"
+    },
+    {
+      "title": "Common Burn/Lay Myself Down"
+    }
+  ],
+  "listens": 367268,
+  "listeners": 12103,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c48d4327-8122-4286-af66-05e1ee6ac4d8"
@@ -45,7 +72,8 @@
       "label": "Colm Ó Cíosóig",
       "detail": "Colm Ó Cíosóig 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hope-sandoval-the-warm-inventions",
@@ -56,7 +84,8 @@
       "label": "Colm Ó Cíosóig・Hope Sandoval",
       "detail": "2 位乐手在这两支乐队都待过：Colm Ó Cíosóig・Hope Sandoval。",
       "year": 2012,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-complex",
@@ -67,7 +96,8 @@
       "label": "Colm Ó Cíosóig",
       "detail": "Colm Ó Cíosóig 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

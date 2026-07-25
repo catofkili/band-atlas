@@ -6,10 +6,30 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2013–",
-  "genres": [],
+  "genres": [
+    "日本流行音樂"
+  ],
   "albums": [],
   "intro": "UKASUKA-G 是日本的一支音乐组合。2013年由乐队 Mr.Children 的主唱樱井和寿与嘻哈组合 EAST END 的成员 GAKU-MC 两人共同组建。",
   "introLang": "zh",
+  "tracks": [
+    "勝利の笑みを 君と"
+  ],
+  "trackSources": [
+    {
+      "title": "勝利の笑みを 君と"
+    }
+  ],
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 56,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/60b06a12-20ea-469d-aba0-8d509f1d9e76"
@@ -24,7 +44,8 @@
       "label": "桜井和寿・GAKU‐MC",
       "detail": "2 位乐手在这两支乐队都待过：桜井和寿・GAKU‐MC。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "mr-children",
@@ -35,7 +56,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bank-band",
@@ -46,7 +68,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "reborn-art-session",
@@ -57,7 +80,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

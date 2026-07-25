@@ -9,7 +9,8 @@
   "genres": [
     "另类金属",
     "另类摇滚",
-    "金属"
+    "金属",
+    "另類金屬"
   ],
   "albums": [
     {
@@ -27,6 +28,40 @@
   ],
   "intro": "Scars on Broadway（简称SOB或DMSOB）是一支美国摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "They Say",
+    "World Long Gone",
+    "Fucking",
+    "Lives",
+    "Chemicals"
+  ],
+  "trackSources": [
+    {
+      "title": "They Say"
+    },
+    {
+      "title": "World Long Gone"
+    },
+    {
+      "title": "Fucking"
+    },
+    {
+      "title": "Lives"
+    },
+    {
+      "title": "Chemicals"
+    }
+  ],
+  "listens": 108186,
+  "listeners": 2862,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/66f0dcaa-1680-4ef3-9b63-8b2ac24d0b58"
@@ -41,7 +76,8 @@
       "label": "Daron Malakian・John Dolmayan",
       "detail": "2 位乐手在这两支乐队都待过：Daron Malakian・John Dolmayan。",
       "year": 2006,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "american-flag",
@@ -52,7 +88,8 @@
       "label": "John Dolmayan",
       "detail": "John Dolmayan 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deadland-ritual",
@@ -63,7 +100,8 @@
       "label": "Franky Perez",
       "detail": "Franky Perez 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "indicator",
@@ -74,7 +112,8 @@
       "label": "John Dolmayan",
       "detail": "John Dolmayan 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pera",
@@ -85,7 +124,8 @@
       "label": "John Dolmayan",
       "detail": "John Dolmayan 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "snowblind",
@@ -96,7 +136,8 @@
       "label": "Daron Malakian",
       "detail": "Daron Malakian 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,8 @@
   "genres": [
     "数学摇滚",
     "放克",
-    "另类摇滚"
+    "另类摇滚",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -34,7 +35,7 @@
     }
   ],
   "intro": "向井秀徳在 NUMBER GIRL 之后的乐队。把日语念白推到极端，用拍子的错位与突然的静止作为主要武器。",
-  "introLang": "ja",
+  "introLang": "zh",
   "tracks": [
     "USODARAKE",
     "HIMITSU GIRL'S TOP SECRET",
@@ -43,6 +44,16 @@
     "Fender Telecaster"
   ],
   "lore": "向井秀徳把自己的录音室命名为 MATSURI STUDIO，多年来一手包办乐队的录音与混音。",
+  "listens": 19622,
+  "listeners": 665,
+  "quality": {
+    "score": 100,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": true,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3d2cd44b-9e77-4249-9d37-d8028e756693"
@@ -57,7 +68,8 @@
       "label": "向井秀徳",
       "detail": "由 NUMBER GIRL 的主唱向井秀徳在乐队解散后组建，初期鼓手同样来自 NUMBER GIRL。",
       "year": 2003,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "straightener",
@@ -68,7 +80,8 @@
       "label": "日向秀和",
       "detail": "贝斯手日向秀和同期也是ストレイテナー的成员，是这一代日本摇滚最密的连接点之一。",
       "year": 2004,
-      "weight": 0.8
+      "weight": 0.8,
+      "sources": []
     },
     {
       "to": "vola-and-the-oriental-machine",
@@ -79,7 +92,8 @@
       "label": "アヒト・イナザワ",
       "detail": "アヒト・イナザワ在担任 ZAZEN BOYS 鼓手的同时主导了这支乐队。",
       "year": 2004,
-      "weight": 0.7
+      "weight": 0.7,
+      "sources": []
     },
     {
       "to": "nothings-carved-in-stone",
@@ -90,7 +104,22 @@
       "label": "日向秀和",
       "detail": "日向秀和离开 ZAZEN BOYS 之后成为 Nothing's Carved In Stone 的固定成员。",
       "year": 2009,
-      "weight": 0.6
+      "weight": 0.6,
+      "sources": []
+    },
+    {
+      "to": "東京事変",
+      "toName": "東京事変",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "guest",
+      "label": "客串：椎名林檎",
+      "detail": "MusicBrainz 录音资料显示，椎名林檎参与了《CRAZY DAYS CRAZY FEELING》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/74b558e8-0c37-40c0-9cbf-dc201f9611b7"
+      ]
     },
     {
       "to": "kimonos",
@@ -101,7 +130,8 @@
       "label": "向井秀徳",
       "detail": "向井秀徳 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ねらわれた学園",
@@ -112,7 +142,8 @@
       "label": "向井秀徳",
       "detail": "向井秀徳 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

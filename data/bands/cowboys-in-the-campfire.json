@@ -13,8 +13,18 @@
       "year": 2023
     }
   ],
-  "intro": "Cowboys in the Campfire是一支来自美国的音乐团体，活跃时期为2017–。",
+  "intro": "Cowboys in the Campfire是一支来自美国的音乐团体，活跃时期为2017–。目前资料收录了《Wronger》等作品；MusicBrainz 还记录了它与Guns N' Roses、The Replacements、Bash & Pop之间的成员往来。",
   "introLang": "zh",
+  "listens": 94,
+  "listeners": 13,
+  "quality": {
+    "score": 12,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2d7af8b7-eddd-4cd3-939e-de6aa28ace82"
@@ -29,7 +39,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-replacements",
@@ -40,7 +51,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bash-pop",
@@ -51,7 +63,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "perfect",
@@ -62,7 +75,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "l-a-m-f",
@@ -73,7 +87,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "latter-revelation-company-singers",
@@ -84,7 +99,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-jacks",
@@ -95,7 +111,8 @@
       "label": "Tommy Stinson",
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

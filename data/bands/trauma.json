@@ -8,7 +8,9 @@
   "years": "1981–",
   "genres": [
     "重金属",
-    "金属"
+    "金属",
+    "重金属音乐",
+    "速度金属"
   ],
   "albums": [
     {
@@ -30,6 +32,16 @@
   ],
   "intro": "Trauma 是一支成立于 1981 年的美国重金属乐队。",
   "introLang": "zh",
+  "listens": 618,
+  "listeners": 122,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/09dec2be-aeff-4e26-a9d6-a934d2620223"
@@ -44,7 +56,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "agents-of-misfortune",
@@ -55,7 +68,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ez-street",
@@ -66,7 +80,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "maxwell-house-ranch-band",
@@ -77,7 +92,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spastik-children",
@@ -88,7 +104,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-chickenfuckers",
@@ -99,7 +116,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "vicious-hatred",
@@ -110,7 +128,8 @@
       "label": "Cliff Burton",
       "detail": "Cliff Burton 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

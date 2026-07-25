@@ -6,7 +6,10 @@
   "countryCode": "JP",
   "country": "日本",
   "years": null,
-  "genres": [],
+  "genres": [
+    "電子音樂",
+    "日本流行音樂"
+  ],
   "albums": [
     {
       "title": "1STST",
@@ -19,6 +22,16 @@
   ],
   "intro": "TESTSET是一支日本乐队。由METAFIVE的部分成员组建而成。",
   "introLang": "zh",
+  "listens": 498,
+  "listeners": 60,
+  "quality": {
+    "score": 65,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/42fbd12b-a437-494f-8a88-556a598d302c"
@@ -33,7 +46,8 @@
       "label": "LEO今井・砂原良徳",
       "detail": "2 位乐手在这两支乐队都待过：LEO今井・砂原良徳。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "相対性理論",
@@ -44,7 +58,8 @@
       "label": "永井聖一",
       "detail": "永井聖一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kimonos",
@@ -55,7 +70,8 @@
       "label": "LEO今井",
       "detail": "LEO今井 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "qubit",
@@ -66,7 +82,8 @@
       "label": "永井聖一",
       "detail": "永井聖一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fishmans",
@@ -77,7 +94,8 @@
       "label": "永井聖一",
       "detail": "永井聖一 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

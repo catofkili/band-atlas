@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "2004–2007",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "(One)",
@@ -15,6 +17,16 @@
   ],
   "intro": "The Panic Channel 是一支美国后硬核乐队，成立于 2004 年美国加利福尼亚州洛杉矶，当时正值 Jane's Addiction 第三次解散之后。",
   "introLang": "zh",
+  "listens": 1906,
+  "listeners": 168,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1ab5659c-aa39-479e-8920-92eaa98999fe"
@@ -29,7 +41,8 @@
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "infectious-grooves",
@@ -40,7 +53,8 @@
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "methods-of-mayhem",
@@ -51,7 +65,8 @@
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "halloween-jack",
@@ -62,7 +77,8 @@
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

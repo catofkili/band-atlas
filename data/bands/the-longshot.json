@@ -15,6 +15,16 @@
   ],
   "intro": "The Longshot 是一支美国摇滚乐队，由绿日乐队（Green Day）主唱比利·乔·阿姆斯特朗（Billie Joe Armstrong）于 2018 年在加利福尼亚州奥克兰市组建。",
   "introLang": "zh",
+  "listens": 7345,
+  "listeners": 586,
+  "quality": {
+    "score": 51,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dd602e6c-f4d3-4c16-8398-1b137bed8512"
@@ -29,7 +39,8 @@
       "label": "Kevin Preston",
       "detail": "Kevin Preston 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

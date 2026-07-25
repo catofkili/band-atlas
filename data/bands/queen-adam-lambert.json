@@ -6,10 +6,38 @@
   "countryCode": "GB",
   "country": "英国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "摇滚乐"
+  ],
   "albums": [],
   "intro": "“皇后乐队+亚当·兰伯特”是由英格兰摇滚乐队皇后乐队的布莱恩·梅、罗杰·泰勒与美国歌手亚当·兰伯特组成的合作乐队。",
   "introLang": "zh",
+  "tracks": [
+    "You Are the Champions",
+    "I Was Born to Love You (Live at Summer Sonic, Tokyo, Japan, 2014)",
+    "The Show Must Go On (Live at O2 Arena, 4 July 2018)"
+  ],
+  "trackSources": [
+    {
+      "title": "You Are the Champions"
+    },
+    {
+      "title": "I Was Born to Love You (Live at Summer Sonic, Tokyo, Japan, 2014)"
+    },
+    {
+      "title": "The Show Must Go On (Live at O2 Arena, 4 July 2018)"
+    }
+  ],
+  "listens": 1554,
+  "listeners": 221,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7e07a487-5438-4128-b2d0-f0f18ac08384"
@@ -24,7 +52,8 @@
       "label": "Roger Taylor・副项目",
       "detail": "2 位乐手在这两支乐队都待过：Roger Taylor・副项目。",
       "year": 1970,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-cross",
@@ -35,7 +64,22 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "伯明翰",
+      "toYears": "1968–2025",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
     },
     {
       "to": "queen-paul-rodgers",
@@ -46,7 +90,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "band-aid-30",
@@ -57,7 +102,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hale-pace-and-the-stonkers",
@@ -68,7 +114,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "smile",
@@ -79,7 +126,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

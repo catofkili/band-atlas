@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "1996–",
-  "genres": [],
+  "genres": [
+    "硬式搖滾"
+  ],
   "albums": [
     {
       "title": "Rock'n Roll Standard Club",
@@ -15,6 +17,16 @@
   ],
   "intro": "《Rock'n Roll Standard Club》是日本摇滚组合B'z的吉他手松本孝弘，作为个人活动的一部分，以“ROCK'N ROLL STANDARD CLUB BAND”名义发行的作品。",
   "introLang": "zh",
+  "listens": 3,
+  "listeners": 1,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/09da5ee1-a02f-4be0-9711-e27f19ab0c40"
@@ -29,7 +41,8 @@
       "label": "松本孝弘",
       "detail": "松本孝弘 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tak-matsumoto-group",
@@ -40,7 +53,8 @@
       "label": "松本孝弘",
       "detail": "松本孝弘 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "press-rider",
@@ -51,7 +65,8 @@
       "label": "松本孝弘",
       "detail": "松本孝弘 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

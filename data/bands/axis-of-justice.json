@@ -13,6 +13,16 @@
   "albums": [],
   "intro": "“正义轴心”（Axis of Justice）是一家由塞尔吉·坦基安（Serj Tankian）和汤姆·莫雷洛（Tom Morello）于2002年共同创立的非营利组织。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0f8a2f89-29c0-4085-8820-635c181a0de9"
@@ -27,7 +37,8 @@
       "label": "Tom Morello",
       "detail": "Tom Morello 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "system-of-a-down",
@@ -38,7 +49,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fuktronic",
@@ -49,7 +61,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jazz-iz-christ",
@@ -60,7 +73,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "serart",
@@ -71,7 +85,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "forever-young",
@@ -82,7 +97,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -93,7 +109,8 @@
       "label": "Tom Morello",
       "detail": "Tom Morello 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "supergroup-b",
@@ -104,7 +121,8 @@
       "label": "Tom Morello",
       "detail": "Tom Morello 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

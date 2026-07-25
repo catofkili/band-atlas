@@ -6,10 +6,22 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1995–1996",
-  "genres": [],
+  "genres": [
+    "电子乐"
+  ],
   "albums": [],
   "intro": "丹尼尔·埃德温·凯里（Daniel Edwin Carey，1961年5月10日出生）是一位美国鼓手，也是摇滚乐队Tool的成员。",
   "introLang": "zh",
+  "listens": 182,
+  "listeners": 16,
+  "quality": {
+    "score": 52,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6ffcf46f-861b-47e5-aba2-c1a930fef7ee"
@@ -24,7 +36,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sextapes",
@@ -35,7 +48,8 @@
       "label": "Chris Pitman・Marko Fox",
       "detail": "2 位乐手在这两支乐队都待过：Chris Pitman・Marko Fox。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -46,7 +60,8 @@
       "label": "Danny Carey",
       "detail": "Danny Carey 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tool",
@@ -57,7 +72,8 @@
       "label": "Danny Carey",
       "detail": "Danny Carey 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lusk",
@@ -68,7 +84,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "replicants",
@@ -79,7 +96,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beat",
@@ -90,7 +108,8 @@
       "label": "Danny Carey",
       "detail": "Danny Carey 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beatrazr",
@@ -101,7 +120,8 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "supergroup-b",
@@ -112,7 +132,8 @@
       "label": "Danny Carey",
       "detail": "Danny Carey 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

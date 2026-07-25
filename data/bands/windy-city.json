@@ -19,8 +19,18 @@
       "year": 2007
     }
   ],
-  "intro": "Windy City是一支来自韩国的以雷鬼为主要风格的音乐团体，活跃时期为2005–。",
+  "intro": "Windy City是一支来自韩国的音乐团体，活跃时期为2005–，现有资料记录的主要风格包括雷鬼。目前资料收录了《Love Record》、《Countryman's Vibration》等作品；MusicBrainz 还记录了它与Asoto Union、I and I Djangdan、언니네 이발관之间的成员往来。",
   "introLang": "zh",
+  "listens": 176,
+  "listeners": 38,
+  "quality": {
+    "score": 16,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0450bbde-a06e-4355-bc78-5a823ff65d9c"
@@ -35,7 +45,8 @@
       "label": "김반장・윤갑열",
       "detail": "2 位乐手在这两支乐队都待过：김반장・윤갑열。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "i-and-i-djangdan",
@@ -46,7 +57,8 @@
       "label": "김반장・François Rialland",
       "detail": "2 位乐手在这两支乐队都待过：김반장・François Rialland。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "언니네-이발관",
@@ -57,7 +69,22 @@
       "label": "김반장",
       "detail": "김반장 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "i-and-i-djangdan",
+      "toName": "I and I Djangdan",
+      "toArea": "韩国",
+      "toYears": "2008–",
+      "type": "guest",
+      "label": "客串：송영우",
+      "detail": "MusicBrainz 录音资料显示，송영우参与了《Carnival (I'll Tek Kyu Deh!)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/6bcd8a10-63f5-4dfb-9322-bb027cfdd006"
+      ]
     }
   ]
 }

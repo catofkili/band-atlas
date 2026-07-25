@@ -13,8 +13,18 @@
       "year": 2003
     }
   ],
-  "intro": "wirebox是一支音乐团体。",
+  "intro": "wirebox是一支音乐团体。目前资料收录了《Prison Cell》等作品；MusicBrainz 还记录了它与Project Tru之间的成员往来。",
   "introLang": "zh",
+  "listens": 16,
+  "listeners": 9,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6f6f4f2e-c0c5-4bb8-9962-482e65fa35e9"
@@ -29,7 +39,8 @@
       "label": "Russ Simms",
       "detail": "Russ Simms 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

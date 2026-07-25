@@ -9,7 +9,8 @@
   "genres": [
     "摇滚",
     "视觉系",
-    "另类摇滚"
+    "另类摇滚",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -39,6 +40,40 @@
   ],
   "intro": "彩虹乐团为日本著名的摇滚团体，由hyde、tetsuya、ken、yukihiro所组成。1991年2月以tetsuya作为中心在大阪成立。",
   "introLang": "zh",
+  "tracks": [
+    "DIVE TO BLUE",
+    "HONEY",
+    "Winter fall",
+    "Blurry Eyes",
+    "DRINK IT DOWN"
+  ],
+  "trackSources": [
+    {
+      "title": "DIVE TO BLUE"
+    },
+    {
+      "title": "HONEY"
+    },
+    {
+      "title": "Winter fall"
+    },
+    {
+      "title": "Blurry Eyes"
+    },
+    {
+      "title": "DRINK IT DOWN"
+    }
+  ],
+  "listens": 197845,
+  "listeners": 2393,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/62b61409-d13e-4281-9e3f-06941c2c5f5f"
@@ -53,7 +88,8 @@
       "label": "Ken・Sakura",
       "detail": "2 位乐手在这两支乐队都待过：Ken・Sakura。",
       "year": 2002,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "acid-android",
@@ -64,7 +100,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "die-in-cries",
@@ -75,7 +112,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zi-kill",
@@ -86,7 +124,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "zigzo",
@@ -97,7 +136,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "vamps",
@@ -108,7 +148,8 @@
       "label": "HYDE",
       "detail": "HYDE 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "geek-sleep-sheep",
@@ -119,7 +160,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gibkiy-gibkiy-gibkiy",
@@ -130,7 +172,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2016,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "petit-brabancon",
@@ -141,7 +184,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 2021,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rayflower",
@@ -152,7 +196,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "halloween-junky-orchestra",
@@ -163,7 +208,8 @@
       "label": "HYDE",
       "detail": "HYDE 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "lion-heads",
@@ -174,7 +220,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-madcap-laughs",
@@ -185,7 +232,8 @@
       "label": "Sakura",
       "detail": "Sakura 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ange-graie",
@@ -196,7 +244,8 @@
       "label": "hiro",
       "detail": "hiro 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "guerrilla",
@@ -207,7 +256,8 @@
       "label": "yukihiro",
       "detail": "yukihiro 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "like-an-angel",
@@ -218,7 +268,8 @@
       "label": "TETSUYA",
       "detail": "TETSUYA 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-last-rockstars",
@@ -229,7 +280,8 @@
       "label": "HYDE",
       "detail": "HYDE 在这两支乐队都待过。",
       "year": 2022,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

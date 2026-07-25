@@ -13,8 +13,18 @@
       "year": 2009
     }
   ],
-  "intro": "Ourself Beside Me是一支来自中国的音乐团体，活跃时期为2003–。",
+  "intro": "Ourself Beside Me是一支来自中国的音乐团体，活跃时期为2003–。目前资料收录了《Ourself Beside Me》等作品；MusicBrainz 还记录了它与Carsick Cars、WHITE、Speak Chinese or Die之间的成员往来。",
   "introLang": "zh",
+  "listens": 425,
+  "listeners": 48,
+  "quality": {
+    "score": 10,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c738a64b-d643-43e3-a06b-fef2bba087ff"
@@ -29,7 +39,8 @@
       "label": "张守望",
       "detail": "张守望 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "white",
@@ -40,7 +51,8 @@
       "label": "张守望",
       "detail": "张守望 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "speak-chinese-or-die",
@@ -51,7 +63,8 @@
       "label": "张守望",
       "detail": "张守望 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

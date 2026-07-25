@@ -22,6 +22,16 @@
   ],
   "intro": "梁翘柏是香港音乐人、歌手、监制。",
   "introLang": "zh",
+  "listens": 58,
+  "listeners": 12,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/81036bce-6d7c-445e-a8f1-5830d9e3d5f1"
@@ -36,7 +46,8 @@
       "label": "劉志遠",
       "detail": "劉志遠 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -6,10 +6,22 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2012–",
-  "genres": [],
+  "genres": [
+    "流行音樂"
+  ],
   "albums": [],
   "intro": "须藤寿 GATALI ACOUSTIC SET 是一支日本音乐组合。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 49,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/64f3adb4-1a8c-424b-b7bd-0c06baf4b45e"
@@ -24,7 +36,8 @@
       "label": "浮雲",
       "detail": "浮雲 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,7 +8,9 @@
   "years": "1965–",
   "genres": [
     "当代民谣",
-    "民谣流行乐"
+    "民谣流行乐",
+    "流行音乐",
+    "民俗音樂"
   ],
   "albums": [
     {
@@ -30,6 +32,36 @@
   ],
   "intro": "The Folk Crusaders是一支于20世纪60年代后期出道的乐队，也被称为“Folkru”。有时也被写作“The Folk Crusaders”。",
   "introLang": "zh",
+  "tracks": [
+    "临津江",
+    "歸來的醉漢",
+    "悲しくてやりきれない",
+    "水虫の唄"
+  ],
+  "trackSources": [
+    {
+      "title": "临津江"
+    },
+    {
+      "title": "歸來的醉漢"
+    },
+    {
+      "title": "悲しくてやりきれない"
+    },
+    {
+      "title": "水虫の唄"
+    }
+  ],
+  "listens": 84,
+  "listeners": 15,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a9d1c0f3-269f-436f-b163-41d6fd9ebf13"
@@ -44,7 +76,8 @@
       "label": "坂崎幸之助・加藤和彦",
       "detail": "2 位乐手在这两支乐队都待过：坂崎幸之助・加藤和彦。",
       "year": 2007,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-alfee",
@@ -55,7 +88,8 @@
       "label": "坂崎幸之助",
       "detail": "坂崎幸之助 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "コンフィデンス",
@@ -66,7 +100,8 @@
       "label": "坂崎幸之助",
       "detail": "坂崎幸之助 在这两支乐队都待过。",
       "year": 1972,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

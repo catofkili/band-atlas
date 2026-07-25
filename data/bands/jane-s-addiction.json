@@ -9,7 +9,8 @@
   "genres": [
     "另类摇滚",
     "另类金属",
-    "放克金属"
+    "放克金属",
+    "另類金屬"
   ],
   "albums": [
     {
@@ -35,6 +36,40 @@
   ],
   "intro": "Jane's Addiction是一支来自美国加利福尼亚州的摇滚乐队。他们与R.E.M.、Pixies、红辣椒乐队等乐队共同奠定了另类摇滚的基础。",
   "introLang": "zh",
+  "tracks": [
+    "Been Caught Stealing",
+    "Mountain Song",
+    "Stop!",
+    "Classic Girl",
+    "Just Because"
+  ],
+  "trackSources": [
+    {
+      "title": "Been Caught Stealing"
+    },
+    {
+      "title": "Mountain Song"
+    },
+    {
+      "title": "Stop!"
+    },
+    {
+      "title": "Classic Girl"
+    },
+    {
+      "title": "Just Because"
+    }
+  ],
+  "listens": 215154,
+  "listeners": 7996,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e3434cc7-d348-491a-9dc8-325af3d9086d"
@@ -49,7 +84,8 @@
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "methods-of-mayhem",
@@ -60,7 +96,8 @@
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deconstruction",
@@ -71,7 +108,8 @@
       "label": "Eric Avery",
       "detail": "Eric Avery 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-panic-channel",
@@ -82,7 +120,8 @@
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "artists-against-aids-worldwide",
@@ -93,7 +132,8 @@
       "label": "Perry Farrell",
       "detail": "Perry Farrell 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "halloween-jack",
@@ -104,7 +144,8 @@
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kind-heaven-orchestra",
@@ -115,7 +156,8 @@
       "label": "Perry Farrell",
       "detail": "Perry Farrell 在这两支乐队都待过。",
       "year": 2018,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "deftones",
@@ -126,7 +168,8 @@
       "label": "影响关系",
       "detail": "Jane’s Addiction 影响了 Deftones（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "linkin-park",
@@ -137,7 +180,8 @@
       "label": "影响关系",
       "detail": "Jane’s Addiction 影响了 Linkin Park（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "lostprophets",
@@ -148,7 +192,8 @@
       "label": "影响关系",
       "detail": "Jane’s Addiction 影响了 Lostprophets（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "rage-against-the-machine",
@@ -159,7 +204,8 @@
       "label": "影响关系",
       "detail": "Jane’s Addiction 影响了 Rage Against the Machine（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "slipknot",
@@ -170,7 +216,8 @@
       "label": "影响关系",
       "detail": "Jane’s Addiction 影响了 Slipknot（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

@@ -10,8 +10,18 @@
     "摇滚"
   ],
   "albums": [],
-  "intro": "The Illiterate Hands是一支来自牛津的以摇滚为主要风格的音乐团体。",
+  "intro": "The Illiterate Hands是一支来自牛津的音乐团体，现有资料记录的主要风格包括摇滚。MusicBrainz 还记录了它与Radiohead、The Smile、On a Friday之间的成员往来。",
   "introLang": "zh",
+  "listens": 5,
+  "listeners": 1,
+  "quality": {
+    "score": 8,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8d289273-27fc-41d9-8978-7d469b154413"
@@ -26,7 +36,8 @@
       "label": "Jonny Greenwood",
       "detail": "Jonny Greenwood 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-smile",
@@ -37,7 +48,8 @@
       "label": "Jonny Greenwood",
       "detail": "Jonny Greenwood 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "on-a-friday",
@@ -48,7 +60,8 @@
       "label": "Jonny Greenwood",
       "detail": "Jonny Greenwood 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-venus-in-furs",
@@ -59,7 +72,8 @@
       "label": "Jonny Greenwood",
       "detail": "Jonny Greenwood 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

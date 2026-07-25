@@ -29,6 +29,16 @@
   ],
   "intro": "Walt Mink 是一支来自明尼苏达州圣保罗市的美国另类摇滚三人组合。",
   "introLang": "zh",
+  "listens": 3046,
+  "listeners": 138,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/76d721ac-3eff-4b6d-8a2e-f2dacd2209a3"
@@ -43,7 +53,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

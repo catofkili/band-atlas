@@ -8,7 +8,13 @@
   "years": "1970–",
   "genres": [
     "摇滚",
-    "硬摇滚"
+    "硬摇滚",
+    "摇滚乐",
+    "重金属音乐",
+    "前衛搖滾",
+    "華麗搖滾",
+    "硬式搖滾",
+    "艺术摇滚"
   ],
   "albums": [
     {
@@ -38,6 +44,40 @@
   ],
   "intro": "皇后乐队是英国摇滚乐乐队，成立于1970年，成员包括主唱弗雷迪·默丘里、吉他手布赖恩·梅、鼓手罗杰·泰勒、贝斯手约翰·迪肯，乐队最初期的作品受到前卫摇滚、硬摇滚和重金属音乐的影响，后来逐渐尝试往传统和电台广播的作品迈进，将其他风格像歌剧、民谣、艺术摇滚、竞技场摇滚和流行摇滚融入音乐中，对世界乐坛留下深远影响。",
   "introLang": "zh",
+  "tracks": [
+    "表演必须继续",
+    "Somebody to Love (皇后乐队歌曲)",
+    "又掛了一個",
+    "Killer Queen (歌曲)",
+    "I Want It All"
+  ],
+  "trackSources": [
+    {
+      "title": "表演必须继续"
+    },
+    {
+      "title": "Somebody to Love (皇后乐队歌曲)"
+    },
+    {
+      "title": "又掛了一個"
+    },
+    {
+      "title": "Killer Queen (歌曲)"
+    },
+    {
+      "title": "I Want It All"
+    }
+  ],
+  "listens": 3166362,
+  "listeners": 28236,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3"
@@ -52,7 +92,8 @@
       "label": "Roger Taylor・副项目",
       "detail": "2 位乐手在这两支乐队都待过：Roger Taylor・副项目。",
       "year": 1970,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "queen-adam-lambert",
@@ -63,18 +104,8 @@
       "label": "Roger Taylor・副项目",
       "detail": "2 位乐手在这两支乐队都待过：Roger Taylor・副项目。",
       "year": 1970,
-      "weight": 0.84
-    },
-    {
-      "to": "guns-n-roses",
-      "toName": "Guns N' Roses",
-      "toArea": "洛杉矶",
-      "toYears": "1985–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Queen 影响了 Guns N’ Roses（Wikidata）。",
-      "year": null,
-      "weight": 0.46
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-cross",
@@ -85,7 +116,48 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1970,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "伯明翰",
+      "toYears": "1968–2025",
+      "type": "guest",
+      "label": "客串：Brian May",
+      "detail": "MusicBrainz 录音资料显示，Brian May参与了《When Death Calls》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/cc39f26f-d6cb-4d1e-aaa9-0c29dfd3beb8"
+      ]
+    },
+    {
+      "to": "daft-punk",
+      "toName": "Daft Punk",
+      "toArea": "巴黎",
+      "toYears": "1993–2021",
+      "type": "guest",
+      "label": "客串：Queen",
+      "detail": "MusicBrainz 录音资料显示，Queen参与了《We Will Rock You vs Robot Rock》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/833509de-8067-4d80-ad07-cc2e832689fa"
+      ]
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Queen 影响了 Guns N’ Roses（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "band-aid-30",
@@ -96,7 +168,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1970,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "crushed-butler",
@@ -107,7 +180,8 @@
       "label": "Barry Mitchell",
       "detail": "Barry Mitchell 在这两支乐队都待过。",
       "year": 1970,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hale-pace-and-the-stonkers",
@@ -118,7 +192,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ibex",
@@ -129,7 +204,8 @@
       "label": "Freddie Mercury",
       "detail": "Freddie Mercury 在这两支乐队都待过。",
       "year": 1970,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "smile",
@@ -140,7 +216,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sour-milk-sea",
@@ -151,7 +228,8 @@
       "label": "Freddie Mercury",
       "detail": "Freddie Mercury 在这两支乐队都待过。",
       "year": 1970,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-earth",
@@ -162,7 +240,8 @@
       "label": "Barry Mitchell",
       "detail": "Barry Mitchell 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-immortals",
@@ -173,7 +252,8 @@
       "label": "John Deacon",
       "detail": "John Deacon 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "wreckage",
@@ -184,7 +264,22 @@
       "label": "Freddie Mercury",
       "detail": "Freddie Mercury 在这两支乐队都待过。",
       "year": 1970,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "boogie-box-high",
+      "toName": "Boogie Box High",
+      "toArea": null,
+      "toYears": "1987–2010",
+      "type": "guest",
+      "label": "客串：George Michael",
+      "detail": "MusicBrainz 录音资料显示，George Michael参与了《’39》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/3b9b0a89-ecf7-4c90-b977-691e586298fc"
+      ]
     },
     {
       "to": "muse",
@@ -195,7 +290,8 @@
       "label": "影响关系",
       "detail": "Queen 影响了 Muse（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "pink-floyd",
@@ -206,7 +302,8 @@
       "label": "影响关系",
       "detail": "Queen 受 Pink Floyd 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-beatles",
@@ -217,7 +314,8 @@
       "label": "影响关系",
       "detail": "Queen 受 The Beatles 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-who",
@@ -228,7 +326,8 @@
       "label": "影响关系",
       "detail": "Queen 受 The Who 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

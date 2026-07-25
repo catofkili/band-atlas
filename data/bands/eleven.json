@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1990–2007",
-  "genres": [],
+  "genres": [
+    "前衛搖滾"
+  ],
   "albums": [
     {
       "title": "Awake in a Dream",
@@ -31,6 +33,16 @@
   ],
   "intro": "Eleven是一支来自加利福尼亚州洛杉矶的美国另类摇滚超级乐队，由阿兰·约翰内斯（主唱、吉他、西塔琴、铜管乐器）、娜塔莎·施奈德（主唱、键盘、贝斯）和杰克·艾恩斯（鼓手）于1990年组建。",
   "introLang": "zh",
+  "listens": 5029,
+  "listeners": 427,
+  "quality": {
+    "score": 60,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/988b6d74-74a3-4476-8987-8eea6ca11117"
@@ -45,7 +57,8 @@
       "label": "Natasha Shneider・Alain Johannes",
       "detail": "2 位乐手在这两支乐队都待过：Natasha Shneider・Alain Johannes。",
       "year": 2005,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "spinnerette",
@@ -56,7 +69,8 @@
       "label": "Jack Irons・Alain Johannes",
       "detail": "2 位乐手在这两支乐队都待过：Jack Irons・Alain Johannes。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "what-is-this",
@@ -67,7 +81,8 @@
       "label": "Jack Irons・Alain Johannes",
       "detail": "2 位乐手在这两支乐队都待过：Jack Irons・Alain Johannes。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pearl-jam",
@@ -78,7 +93,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -89,7 +105,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "redd-kross",
@@ -100,7 +117,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-wallflowers",
@@ -111,7 +129,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "desert-sessions",
@@ -122,7 +141,8 @@
       "label": "Alain Johannes",
       "detail": "Alain Johannes 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "anthym",
@@ -133,7 +153,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -144,7 +165,8 @@
       "label": "Alain Johannes",
       "detail": "Alain Johannes 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

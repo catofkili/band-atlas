@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "2004–",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "I Got a Brand New Egg Layin’ Machine",
@@ -19,6 +21,16 @@
   ],
   "intro": "Goon Moon 是一支由 Jeordie White（又名 Twiggy Ramirez）和 Chris Goss 组成的美国摇滚乐队。",
   "introLang": "zh",
+  "listens": 4964,
+  "listeners": 236,
+  "quality": {
+    "score": 60,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/29e7a565-5ae6-4bed-9fa5-7f9a74d5f2e3"
@@ -33,7 +45,8 @@
       "label": "Jeordie White・Chris Goss",
       "detail": "2 位乐手在这两支乐队都待过：Jeordie White・Chris Goss。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "marilyn-manson",
@@ -44,7 +57,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -55,7 +69,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "a-perfect-circle",
@@ -66,7 +81,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "amboog-a-lard",
@@ -77,7 +93,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mrs-scabtree",
@@ -88,7 +105,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "satan-on-fire",
@@ -99,7 +117,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -110,7 +129,8 @@
       "label": "Chris Goss",
       "detail": "Chris Goss 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

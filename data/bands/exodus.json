@@ -8,7 +8,8 @@
   "years": "1979–",
   "genres": [
     "鞭击金属",
-    "金属"
+    "金属",
+    "敲击金属"
   ],
   "albums": [
     {
@@ -38,6 +39,16 @@
   ],
   "intro": "Exodus是一支来自美国的鞭击金属乐队。它是代表旧金山鞭击金属风格“湾区鞭击金属”的乐队之一。",
   "introLang": "zh",
+  "listens": 206484,
+  "listeners": 3209,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/18e9bfd5-db23-4bc1-be0f-5710e5d656e4"
@@ -52,7 +63,22 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": 1979,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "system-of-a-down",
+      "toName": "System of a Down",
+      "toArea": "格伦代尔",
+      "toYears": "1995–",
+      "type": "guest",
+      "label": "客串：Kirk Hammett",
+      "detail": "MusicBrainz 录音资料显示，Kirk Hammett参与了《Aerials / Arto》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/7d7e7931-5509-4884-ab83-d7beee976bca"
+      ]
     },
     {
       "to": "gak",
@@ -63,7 +89,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": 1979,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ir8",
@@ -74,7 +101,8 @@
       "label": "Tom Hunting",
       "detail": "Tom Hunting 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "maxwell-house-ranch-band",
@@ -85,7 +113,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": 1979,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mick-fleetwood-and-friends",
@@ -96,7 +125,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": 1979,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sexoturica",
@@ -107,7 +137,8 @@
       "label": "Tom Hunting",
       "detail": "Tom Hunting 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spastik-children",
@@ -118,7 +149,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": 1979,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-wedding-band",
@@ -129,7 +161,8 @@
       "label": "Kirk Hammett",
       "detail": "Kirk Hammett 在这两支乐队都待过。",
       "year": 1979,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

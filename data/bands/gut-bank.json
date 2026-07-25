@@ -13,8 +13,18 @@
       "year": 1986
     }
   ],
-  "intro": "Gut Bank是一支来自霍博肯的音乐团体，活跃时期为1984–。",
+  "intro": "Gut Bank是一支来自霍博肯的音乐团体，活跃时期为1984–。目前资料收录了《The Dark Ages》等作品；MusicBrainz 还记录了它与Ministry之间的成员往来。",
   "introLang": "zh",
+  "listens": 1,
+  "listeners": 1,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a64a9e29-1d2b-4492-827b-285321244547"
@@ -29,7 +39,8 @@
       "label": "Tia Sprocket",
       "detail": "Tia Sprocket 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

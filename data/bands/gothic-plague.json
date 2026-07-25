@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Gothic Plague是一支来自英国的音乐团体。",
+  "intro": "Gothic Plague是一支来自英国的音乐团体。MusicBrainz 还记录了它与Muse、Vicky Cryer之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d7eceba8-e45b-4b3a-b243-2d6cbf8b3b7b"
@@ -24,7 +34,8 @@
       "label": "Dominic Howard",
       "detail": "Dominic Howard 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "vicky-cryer",
@@ -35,7 +46,8 @@
       "label": "Dominic Howard",
       "detail": "Dominic Howard 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

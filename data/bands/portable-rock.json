@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": null,
-  "genres": [],
+  "genres": [
+    "流行音樂"
+  ],
   "albums": [
     {
       "title": "Q.T",
@@ -27,6 +29,16 @@
   ],
   "intro": "Portable Rock是活跃于1980年代的日本音乐组合。该组合由1981年以个人身份出道的野宫真贵，与其在出道演唱会上担任伴奏的中原信雄、铃木智文三人于1982年共同组建。",
   "introLang": "zh",
+  "listens": 729,
+  "listeners": 70,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7d7a9e43-b563-4e8a-ac39-38beaea0fe87"
@@ -41,7 +53,8 @@
       "label": "宮田繁男",
       "detail": "宮田繁男 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pizzicato-five",
@@ -52,7 +65,8 @@
       "label": "野宮真貴",
       "detail": "野宮真貴 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

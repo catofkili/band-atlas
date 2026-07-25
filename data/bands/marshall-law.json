@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Marshall Law是一支音乐团体。",
+  "intro": "Marshall Law是一支音乐团体。MusicBrainz 还记录了它与Red Hot Chili Peppers之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a7931ef7-7c40-4f45-ae4e-af99bc60690e"
@@ -24,7 +34,8 @@
       "label": "Arik Marshall",
       "detail": "Arik Marshall 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

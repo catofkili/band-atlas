@@ -9,7 +9,8 @@
   "genres": [
     "摇滚",
     "另类摇滚",
-    "北京"
+    "北京",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -39,6 +40,16 @@
   ],
   "intro": "二手玫瑰是由乐手梁龙于1999年在中国大陆建立的一只摇滚乐队。该乐队的音乐结合了东北二人转和现代摇滚乐，以独特雌雄难辨的嗓音，夸张的舞台造型和表演、朴实戏谑的唱词为特色。",
   "introLang": "zh",
+  "listens": 3036,
+  "listeners": 108,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e49f6e64-12db-4879-8e66-6bcc614f61d0"
@@ -53,7 +64,8 @@
       "label": "王钰棋",
       "detail": "王钰棋 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

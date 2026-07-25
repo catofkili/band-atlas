@@ -8,7 +8,12 @@
   "years": "2009–2024",
   "genres": [
     "雷鬼",
-    "另类摇滚"
+    "另类摇滚",
+    "朋克搖滾",
+    "雷鬼音樂",
+    "斯卡朋克",
+    "流行朋克",
+    "搖滾嘻哈"
   ],
   "albums": [
     {
@@ -34,6 +39,24 @@
   ],
   "intro": "Sublime with Rome 是一支由前 Sublime 乐队成员埃里克·威尔逊（Eric Wilson）和巴德·高（Bud Gaugh），以及主唱兼吉他手罗姆·拉米雷斯（Rome Ramirez）共同组建的乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Panic"
+  ],
+  "trackSources": [
+    {
+      "title": "Panic"
+    }
+  ],
+  "listens": 19953,
+  "listeners": 1217,
+  "quality": {
+    "score": 75,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/079f2e2b-b3f9-4574-ac5c-add977b40762"
@@ -48,7 +71,8 @@
       "label": "Bud Gaugh",
       "detail": "Bud Gaugh 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sublime",
@@ -59,7 +83,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

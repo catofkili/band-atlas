@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2004–",
-  "genres": [],
+  "genres": [
+    "摇滚乐"
+  ],
   "albums": [
     {
       "title": "限り無く赤に近い黒",
@@ -15,6 +17,16 @@
   ],
   "intro": "RAVEN是日本音乐人照井利幸的个人音乐项目。该项目于2004年ROSSO暂停活动期间以限定形式发行了一张专辑。",
   "introLang": "zh",
+  "listens": 122,
+  "listeners": 23,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c841766c-4611-4e59-ada9-817c30884bc9"
@@ -29,7 +41,8 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rosso",
@@ -40,7 +53,8 @@
       "label": "チバユウスケ・照井利幸",
       "detail": "2 位乐手在这两支乐队都待过：チバユウスケ・照井利幸。",
       "year": 2003,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-birthday",
@@ -51,7 +65,8 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2006,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-midwest-vikings",
@@ -62,7 +77,8 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

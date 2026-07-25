@@ -8,7 +8,13 @@
   "years": "1987–2003",
   "genres": [
     "后硬核",
-    "朋克"
+    "朋克",
+    "朋克搖滾",
+    "另类摇滚",
+    "後硬核",
+    "後龐克",
+    "藝術朋克",
+    "實驗搖滾"
   ],
   "albums": [
     {
@@ -36,6 +42,16 @@
     "Blueprint",
     "Bed for the Scraping"
   ],
+  "listens": 568804,
+  "listeners": 8730,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/233fc3f3-6de2-465c-985e-e721dbabbace"
@@ -50,7 +66,8 @@
       "label": "影响来源",
       "detail": "post-hardcore 的段落写法与独立做法，是 butchers 上游的一条线。",
       "year": null,
-      "weight": 0.6
+      "weight": 0.6,
+      "sources": []
     },
     {
       "to": "eastern-youth",
@@ -61,7 +78,8 @@
       "label": "影响来源",
       "detail": "日本 emo / post-hardcore 谱系普遍绕不开的源头。",
       "year": null,
-      "weight": 0.6
+      "weight": 0.6,
+      "sources": []
     },
     {
       "to": "dag-nasty",
@@ -72,7 +90,8 @@
       "label": "Colin Sears",
       "detail": "Colin Sears 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-messthetics",
@@ -83,7 +102,8 @@
       "label": "Joe Lally",
       "detail": "Joe Lally 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ataxia",
@@ -94,7 +114,8 @@
       "label": "Joe Lally",
       "detail": "Joe Lally 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "decahedron",
@@ -105,7 +126,8 @@
       "label": "Joe Lally",
       "detail": "Joe Lally 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "coriky",
@@ -116,7 +138,8 @@
       "label": "Joe Lally",
       "detail": "Joe Lally 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "happy-go-licky",
@@ -127,7 +150,8 @@
       "label": "Guy Picciotto",
       "detail": "Guy Picciotto 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "one-last-wish",
@@ -138,7 +162,8 @@
       "label": "Guy Picciotto",
       "detail": "Guy Picciotto 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rites-of-spring",
@@ -149,7 +174,8 @@
       "label": "Guy Picciotto",
       "detail": "Guy Picciotto 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rumblepuppy",
@@ -160,7 +186,8 @@
       "label": "Colin Sears",
       "detail": "Colin Sears 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "bloody-mannequin-orchestra",
@@ -171,7 +198,8 @@
       "label": "Colin Sears",
       "detail": "Colin Sears 在这两支乐队都待过。",
       "year": 1982,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "foo-fighters",
@@ -182,7 +210,8 @@
       "label": "影响关系",
       "detail": "Fugazi 影响了 Foo Fighters（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "rage-against-the-machine",
@@ -193,7 +222,8 @@
       "label": "影响关系",
       "detail": "Fugazi 影响了 Rage Against the Machine（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

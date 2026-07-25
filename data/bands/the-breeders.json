@@ -34,6 +34,40 @@
   ],
   "intro": "The Breeders 是一支成立于1988年的美国摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "キャノンボール",
+    "Divine Hammer",
+    "Off You",
+    "Saints",
+    "Son of Three"
+  ],
+  "trackSources": [
+    {
+      "title": "キャノンボール"
+    },
+    {
+      "title": "Divine Hammer"
+    },
+    {
+      "title": "Off You"
+    },
+    {
+      "title": "Saints"
+    },
+    {
+      "title": "Son of Three"
+    }
+  ],
+  "listens": 220037,
+  "listeners": 7523,
+  "quality": {
+    "score": 81,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/667e856e-f3a7-42e9-8244-95422ef31321"
@@ -48,7 +82,8 @@
       "label": "Kim Deal・Jim MacPherson・Nate Farley",
       "detail": "3 位乐手在这两支乐队都待过：Kim Deal・Jim MacPherson・Nate Farley。",
       "year": 1989,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "pixies",
@@ -59,7 +94,8 @@
       "label": "Kim Deal",
       "detail": "Kim Deal 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

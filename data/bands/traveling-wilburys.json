@@ -9,7 +9,11 @@
   "genres": [
     "经典摇滚",
     "乡村摇滚",
-    "民谣摇滚"
+    "民谣摇滚",
+    "摇滚乐",
+    "鄉村搖滾",
+    "中心地帶搖滾",
+    "根源搖滾"
   ],
   "albums": [
     {
@@ -39,6 +43,36 @@
   ],
   "intro": "Traveling Wilburys是一个英、美摇滚乐团，由前披头士成员乔治·哈里森、E.L.O的主唱杰夫·琳恩、 洛依·奥比森、汤姆·佩蒂和鲍勃·迪伦所组成。",
   "introLang": "zh",
+  "tracks": [
+    "End of the Line",
+    "Handle with Care",
+    "She's My Baby",
+    "Wilbury Twist"
+  ],
+  "trackSources": [
+    {
+      "title": "End of the Line"
+    },
+    {
+      "title": "Handle with Care"
+    },
+    {
+      "title": "She's My Baby"
+    },
+    {
+      "title": "Wilbury Twist"
+    }
+  ],
+  "listens": 85323,
+  "listeners": 4342,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4387b544-e4d0-4f18-b74e-d4a5ba1582ab"
@@ -53,7 +87,8 @@
       "label": "Jim Keltner・Jeff Lynne・Tom Petty・Dhani Harrison",
       "detail": "4 位乐手在这两支乐队都待过：Jim Keltner・Jeff Lynne・Tom Petty・Dhani Harrison。",
       "year": 1988,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "delaney-bonnie",
@@ -64,7 +99,8 @@
       "label": "George Harrison・Jim Keltner",
       "detail": "2 位乐手在这两支乐队都待过：George Harrison・Jim Keltner。",
       "year": 1988,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-beatles",
@@ -75,7 +111,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-quarrymen",
@@ -86,7 +123,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-beat-brothers",
@@ -97,7 +135,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-silver-beatles",
@@ -108,7 +147,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kind-heaven-orchestra",
@@ -119,7 +159,8 @@
       "label": "Dhani Harrison",
       "detail": "Dhani Harrison 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-singing-rebels-band",
@@ -130,7 +171,8 @@
       "label": "George Harrison",
       "detail": "George Harrison 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

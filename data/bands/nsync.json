@@ -6,7 +6,11 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "流行舞曲",
+    "少年流行曲",
+    "當代節奏藍調"
+  ],
   "albums": [
     {
       "title": "*NSYNC",
@@ -27,22 +31,45 @@
   ],
   "intro": "超级男孩是美国一组已解散的流行男子演唱组合，来自佛罗里达州奥兰多。由兰斯·贝斯、杰西·契西、乔伊·费敦、克里斯·克帕特里克、贾斯汀·汀布莱克组成。",
   "introLang": "zh",
+  "tracks": [
+    "Tearin' Up My Heart",
+    "這就是我",
+    "I Want You Back",
+    "I'll Never Stop",
+    "ミュージック・オブ・マイ・ハート"
+  ],
+  "trackSources": [
+    {
+      "title": "Tearin' Up My Heart"
+    },
+    {
+      "title": "這就是我"
+    },
+    {
+      "title": "I Want You Back"
+    },
+    {
+      "title": "I'll Never Stop"
+    },
+    {
+      "title": "ミュージック・オブ・マイ・ハート"
+    }
+  ],
+  "listens": 216702,
+  "listeners": 9752,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/603ba565-3967-4be1-931e-9cb945394e86"
   },
   "edges": [
-    {
-      "to": "backstreet-boys",
-      "toName": "Backstreet Boys",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "*NSYNC 受 Backstreet Boys 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
     {
       "to": "artists-against-aids-worldwide",
       "toName": "Artists Against AIDS Worldwide",
@@ -52,7 +79,20 @@
       "label": "合作",
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
+    },
+    {
+      "to": "backstreet-boys",
+      "toName": "Backstreet Boys",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "*NSYNC 受 Backstreet Boys 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

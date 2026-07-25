@@ -8,7 +8,8 @@
   "years": "1996–1996",
   "genres": [
     "重金属",
-    "鞭击金属"
+    "鞭击金属",
+    "敲击金属"
   ],
   "albums": [
     {
@@ -16,8 +17,18 @@
       "year": 1996
     }
   ],
-  "intro": "MD.45是一支来自美国的以重金属、鞭击金属为主要风格的音乐团体，活跃时期为1996–1996。",
+  "intro": "MD.45是一支来自美国的音乐团体，活跃时期为1996–1996，现有资料记录的主要风格包括重金属、鞭击金属、敲击金属。目前资料收录了《The Craving》等作品；MusicBrainz 还记录了它与Megadeth、Fear、Metallica之间的成员往来。",
   "introLang": "zh",
+  "listens": 7049,
+  "listeners": 451,
+  "quality": {
+    "score": 29,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1a7c9a3e-60f5-4f6d-9649-fd960ade4895"
@@ -32,7 +43,8 @@
       "label": "Dave Mustaine・Jimmy DeGrasso",
       "detail": "2 位乐手在这两支乐队都待过：Dave Mustaine・Jimmy DeGrasso。",
       "year": 1996,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "fear",
@@ -43,7 +55,8 @@
       "label": "Lee Ving",
       "detail": "Lee Ving 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "metallica",
@@ -54,7 +67,8 @@
       "label": "Dave Mustaine",
       "detail": "Dave Mustaine 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "suicidal-tendencies",
@@ -65,7 +79,8 @@
       "label": "Jimmy DeGrasso",
       "detail": "Jimmy DeGrasso 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "panic",
@@ -76,7 +91,8 @@
       "label": "Dave Mustaine",
       "detail": "Dave Mustaine 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -87,7 +103,8 @@
       "label": "Lee Ving",
       "detail": "Lee Ving 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

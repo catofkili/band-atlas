@@ -2,15 +2,26 @@
   "id": "festus-clamrod-and-the-el-sobrante-twangers",
   "mbid": "853fc886-896e-4609-ac8c-148f0c78568f",
   "name": "Festus Clamrod and the El Sobrante Twangers",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Festus Clamrod and the El Sobrante Twangers是一支音乐团体。",
+  "intro": "Festus Clamrod and the El Sobrante Twangers是一支来自美国的音乐团体。MusicBrainz 还记录了它与Primus、Les Claypool and the Holy Mackerel、Limbomaniacs之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 5,
+  "listeners": 1,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 3,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/853fc886-896e-4609-ac8c-148f0c78568f"
   },
@@ -24,7 +35,8 @@
       "label": "Les Claypool・Larry LaLonde",
       "detail": "2 位乐手在这两支乐队都待过：Les Claypool・Larry LaLonde。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "les-claypool-and-the-holy-mackerel",
@@ -35,7 +47,8 @@
       "label": "Les Claypool・Mark \"Mirv\" Haggard",
       "detail": "2 位乐手在这两支乐队都待过：Les Claypool・Mark \"Mirv\" Haggard。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "limbomaniacs",
@@ -46,7 +59,8 @@
       "label": "Mark \"Mirv\" Haggard",
       "detail": "Mark \"Mirv\" Haggard 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "no-forcefield",
@@ -57,7 +71,8 @@
       "label": "Larry LaLonde",
       "detail": "Larry LaLonde 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "colonel-claypool-s-bucket-of-bernie-brains",
@@ -68,7 +83,8 @@
       "label": "Les Claypool",
       "detail": "Les Claypool 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

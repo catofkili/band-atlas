@@ -39,6 +39,16 @@
   ],
   "intro": "MONO是一支成立于1999年的日本东京四人后摇滚/器乐摇滚乐队。MONO的音乐风格融合了管弦乐、瞪鞋摇滚和吉他噪音元素。",
   "introLang": "zh",
+  "listens": 292675,
+  "listeners": 4558,
+  "quality": {
+    "score": 69,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ffe02aed-ef7e-4736-a186-c2f1dd55ce8d"
@@ -53,7 +63,8 @@
       "label": "Yasunori Takada",
       "detail": "Yasunori Takada 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "crystal-wars",
@@ -64,7 +75,8 @@
       "label": "Tamaki Kunishi",
       "detail": "Tamaki Kunishi 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

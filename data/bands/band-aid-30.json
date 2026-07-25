@@ -2,15 +2,28 @@
   "id": "band-aid-30",
   "mbid": "a3c1211b-9422-43be-a75c-5b6778e7c0b6",
   "name": "Band Aid 30",
-  "area": null,
-  "countryCode": null,
+  "area": "英国",
+  "countryCode": "GB",
   "country": null,
   "years": null,
-  "genres": [],
+  "genres": [
+    "流行音乐"
+  ],
   "albums": [],
   "intro": "Band Aid 30 是慈善超级乐队 Band Aid 在 2014 年的重组版本。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 2222,
+  "listeners": 644,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 52,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a3c1211b-9422-43be-a75c-5b6778e7c0b6"
   },
@@ -24,7 +37,8 @@
       "label": "Chris Martin・Bono",
       "detail": "2 位乐手在这两支乐队都待过：Chris Martin・Bono。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "live-lounge-allstars",
@@ -35,7 +49,8 @@
       "label": "Ellie Goulding・Rita Ora",
       "detail": "2 位乐手在这两支乐队都待过：Ellie Goulding・Rita Ora。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "coldplay",
@@ -46,7 +61,8 @@
       "label": "Chris Martin",
       "detail": "Chris Martin 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queen",
@@ -57,7 +73,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1970,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "u2",
@@ -68,7 +85,8 @@
       "label": "Bono",
       "detail": "Bono 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-cross",
@@ -79,7 +97,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queen-paul-rodgers",
@@ -90,7 +109,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hale-pace-and-the-stonkers",
@@ -101,7 +121,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queen-adam-lambert",
@@ -112,7 +133,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "smile",
@@ -123,7 +145,8 @@
       "label": "Roger Taylor",
       "detail": "Roger Taylor 在这两支乐队都待过。",
       "year": 1968,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-justice-collective",
@@ -134,7 +157,8 @@
       "label": "Paloma Faith",
       "detail": "Paloma Faith 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

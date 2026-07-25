@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": null,
-  "genres": [],
+  "genres": [
+    "迷幻金屬"
+  ],
   "albums": [
     {
       "title": "American Style",
@@ -31,6 +33,16 @@
   ],
   "intro": "Men of Porn（有时也写作 Porn (The Men Of)，现简称为 Porn）是一支来自美国旧金山的斯通纳摇滚乐队。",
   "introLang": "zh",
+  "listens": 1406,
+  "listeners": 107,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/78e497ff-b3d2-45e6-a179-f39253df4ea4"
@@ -45,7 +57,8 @@
       "label": "Billy Anderson",
       "detail": "Billy Anderson 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

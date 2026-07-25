@@ -3,7 +3,7 @@
   "mbid": "d55947fc-5f1a-40f6-ac24-7b3d0679ccf4",
   "name": "銀杏BOYZと壊れたバイブレーターズ",
   "area": null,
-  "countryCode": null,
+  "countryCode": "JP",
   "country": null,
   "years": null,
   "genres": [],
@@ -13,9 +13,20 @@
       "year": 2010
     }
   ],
-  "intro": "銀杏BOYZと壊れたバイブレーターズ是一支音乐团体。",
+  "countryInferred": "name-script",
+  "intro": "銀杏BOYZと壊れたバイブレーターズ是一支音乐团体。目前资料收录了《SEX CITY 〜セックスしたい〜》等作品；MusicBrainz 还记录了它与銀杏BOYZ之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 20,
+  "listeners": 2,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d55947fc-5f1a-40f6-ac24-7b3d0679ccf4"
   },
@@ -29,7 +40,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

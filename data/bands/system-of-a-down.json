@@ -8,7 +8,9 @@
   "years": "1995–",
   "genres": [
     "另类金属",
-    "另类摇滚"
+    "另类摇滚",
+    "另類金屬",
+    "新金屬"
   ],
   "albums": [
     {
@@ -34,6 +36,40 @@
   ],
   "intro": "堕落体制或者体制颠覆，是一支来自于美国加利福尼亚州洛杉矶的亚美尼亚裔重金属乐队。他们的音乐风格介于另类金属和新金属之间。",
   "introLang": "zh",
+  "tracks": [
+    "Chop Suey!",
+    "Lonely Day",
+    "Toxicity",
+    "Aerials",
+    "B.Y.O.B."
+  ],
+  "trackSources": [
+    {
+      "title": "Chop Suey!"
+    },
+    {
+      "title": "Lonely Day"
+    },
+    {
+      "title": "Toxicity"
+    },
+    {
+      "title": "Aerials"
+    },
+    {
+      "title": "B.Y.O.B."
+    }
+  ],
+  "listens": 3004656,
+  "listeners": 22099,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cc0b7089-c08d-4c10-b6b0-873582c17fd6"
@@ -48,7 +84,36 @@
       "label": "Daron Malakian・John Dolmayan",
       "detail": "2 位乐手在这两支乐队都待过：Daron Malakian・John Dolmayan。",
       "year": 2006,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "exodus",
+      "toName": "Exodus",
+      "toArea": "里士满",
+      "toYears": "1979–",
+      "type": "guest",
+      "label": "客串：Kirk Hammett",
+      "detail": "MusicBrainz 录音资料显示，Kirk Hammett参与了《Aerials / Arto》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/7d7e7931-5509-4884-ab83-d7beee976bca"
+      ]
+    },
+    {
+      "to": "metallica",
+      "toName": "Metallica",
+      "toArea": "洛杉矶",
+      "toYears": "1981–",
+      "type": "guest",
+      "label": "客串：Kirk Hammett",
+      "detail": "MusicBrainz 录音资料显示，Kirk Hammett参与了《Aerials / Arto》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/7d7e7931-5509-4884-ab83-d7beee976bca"
+      ]
     },
     {
       "to": "the-apex-theory",
@@ -59,7 +124,8 @@
       "label": "Andy Khatchaturian",
       "detail": "Andy Khatchaturian 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "achozen",
@@ -70,7 +136,8 @@
       "label": "Shavo Odadjian",
       "detail": "Shavo Odadjian 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fuktronic",
@@ -81,7 +148,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jazz-iz-christ",
@@ -92,7 +160,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "killmatriarch",
@@ -103,7 +172,8 @@
       "label": "Ontronik Khachaturian",
       "detail": "Ontronik Khachaturian 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "serart",
@@ -114,7 +184,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "seven-hours-after-violet",
@@ -125,7 +196,8 @@
       "label": "Shavo Odadjian",
       "detail": "Shavo Odadjian 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "american-flag",
@@ -136,7 +208,8 @@
       "label": "John Dolmayan",
       "detail": "John Dolmayan 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "axis-of-justice",
@@ -147,7 +220,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "forever-young",
@@ -158,7 +232,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "indicator",
@@ -169,7 +244,8 @@
       "label": "John Dolmayan",
       "detail": "John Dolmayan 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "north-kingsley",
@@ -180,7 +256,8 @@
       "label": "Shavo Odadjian",
       "detail": "Shavo Odadjian 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pera",
@@ -191,7 +268,8 @@
       "label": "John Dolmayan",
       "detail": "John Dolmayan 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "polaris",
@@ -202,7 +280,8 @@
       "label": "Shavo Odadjian",
       "detail": "Shavo Odadjian 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "snowblind",
@@ -213,7 +292,64 @@
       "label": "Daron Malakian",
       "detail": "Daron Malakian 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "gak",
+      "toName": "GAK",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Kirk Hammett",
+      "detail": "MusicBrainz 录音资料显示，Kirk Hammett参与了《Aerials / Arto》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/7d7e7931-5509-4884-ab83-d7beee976bca"
+      ]
+    },
+    {
+      "to": "maxwell-house-ranch-band",
+      "toName": "Maxwell House Ranch Band",
+      "toArea": "加利福尼亚州",
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Kirk Hammett",
+      "detail": "MusicBrainz 录音资料显示，Kirk Hammett参与了《Aerials / Arto》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/7d7e7931-5509-4884-ab83-d7beee976bca"
+      ]
+    },
+    {
+      "to": "mick-fleetwood-and-friends",
+      "toName": "Mick Fleetwood and Friends",
+      "toArea": null,
+      "toYears": "2020–2020",
+      "type": "guest",
+      "label": "客串：Kirk Hammett",
+      "detail": "MusicBrainz 录音资料显示，Kirk Hammett参与了《Aerials / Arto》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/7d7e7931-5509-4884-ab83-d7beee976bca"
+      ]
+    },
+    {
+      "to": "spastik-children",
+      "toName": "Spastik Children",
+      "toArea": "加利福尼亚州",
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Kirk Hammett",
+      "detail": "MusicBrainz 录音资料显示，Kirk Hammett参与了《Aerials / Arto》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/7d7e7931-5509-4884-ab83-d7beee976bca"
+      ]
     },
     {
       "to": "linkin-park",
@@ -224,7 +360,8 @@
       "label": "影响关系",
       "detail": "System of a Down 影响了 Linkin Park（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

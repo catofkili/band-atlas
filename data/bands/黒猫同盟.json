@@ -17,8 +17,18 @@
       "year": 2024
     }
   ],
-  "intro": "黒猫同盟是一支来自日本的音乐团体。",
+  "intro": "黒猫同盟是一支来自日本的音乐团体。目前资料收录了《Un chat noir》、《ムーランルージュの黒猫》等作品；MusicBrainz 还记录了它与the pillows、Details之间的成员往来。",
   "introLang": "zh",
+  "listens": 16,
+  "listeners": 4,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/80c3801d-ee57-402b-986a-bf725a884d62"
@@ -33,7 +43,8 @@
       "label": "上田ケンジ",
       "detail": "上田ケンジ 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "details",
@@ -44,7 +55,8 @@
       "label": "上田ケンジ",
       "detail": "上田ケンジ 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

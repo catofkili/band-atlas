@@ -6,10 +6,30 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "2002–",
-  "genres": [],
+  "genres": [
+    "回响音乐"
+  ],
   "albums": [],
   "intro": "Spacemonkeyz 是一支由达伦·加莱亚（Darren Galea，艺名 DJ D-Zire）、里奇·史蒂文斯（Richie Stevens）和加文·多兹（Gavin Dodds）组成的乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Lil' Dub Chefin'"
+  ],
+  "trackSources": [
+    {
+      "title": "Lil' Dub Chefin'"
+    }
+  ],
+  "listens": 9233,
+  "listeners": 615,
+  "quality": {
+    "score": 56,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8df68f6c-40c0-4c9a-9343-ed949cb5ffcd"
@@ -24,7 +44,8 @@
       "label": "DJ D-Zire・Gavin Dodds",
       "detail": "2 位乐手在这两支乐队都待过：DJ D-Zire・Gavin Dodds。",
       "year": 1993,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "gorillaz",
@@ -35,7 +56,23 @@
       "label": "DJ D-Zire",
       "detail": "DJ D-Zire 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "gorillaz",
+      "toName": "Gorillaz",
+      "toArea": "埃塞克斯",
+      "toYears": "1999–",
+      "type": "guest",
+      "label": "客串：Spacemonkeyz",
+      "detail": "MusicBrainz 录音资料显示，Spacemonkeyz参与了《5/4 (P.45)》、《Tomorrow Comes Today (Bañana Baby)》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/4484f02e-683c-4330-997d-77400870f5c7",
+        "https://musicbrainz.org/recording/124c4436-5836-47b7-aa17-3eb8616fac4e"
+      ]
     },
     {
       "to": "jc-001-dj-d-zire",
@@ -46,7 +83,8 @@
       "label": "DJ D-Zire",
       "detail": "DJ D-Zire 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

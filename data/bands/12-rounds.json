@@ -7,7 +7,8 @@
   "country": "英国",
   "years": null,
   "genres": [
-    "工业音乐"
+    "工业音乐",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -21,6 +22,16 @@
   ],
   "intro": "12 Rounds 是一支由阿提库斯·罗斯（Atticus Ross）和歌手克劳迪娅·萨恩（Claudia Sarne）——两人是夫妻——组建的英国摇滚乐队。",
   "introLang": "zh",
+  "listens": 5890,
+  "listeners": 192,
+  "quality": {
+    "score": 65,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e3bcef9d-c2cd-44cb-a4ef-6c58914b886d"
@@ -35,7 +46,8 @@
       "label": "Atticus Ross・Leopold Ross",
       "detail": "2 位乐手在这两支乐队都待过：Atticus Ross・Leopold Ross。",
       "year": 2003,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -46,7 +58,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "how-to-destroy-angels",
@@ -57,7 +70,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nearly",
@@ -68,7 +82,8 @@
       "label": "Claudia Sarne",
       "detail": "Claudia Sarne 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tapeworm",
@@ -79,7 +94,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "witchgang",
@@ -90,7 +106,8 @@
       "label": "Atticus Ross",
       "detail": "Atticus Ross 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

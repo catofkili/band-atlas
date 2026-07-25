@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1997–",
-  "genres": [],
+  "genres": [
+    "另类摇滚"
+  ],
   "albums": [
     {
       "title": "You Come and Go Like a Pop Song",
@@ -15,6 +17,16 @@
   ],
   "intro": "The Bicycle Thief 是一支由鲍勃·福雷斯特（Bob Forrest）担任主唱的美国另类摇滚乐队。",
   "introLang": "zh",
+  "listens": 1523,
+  "listeners": 83,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a45c61bf-3728-4ca6-a142-bfe6075e1976"
@@ -29,7 +41,8 @@
       "label": "Bob Forrest",
       "detail": "Bob Forrest 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -37,6 +37,40 @@
   ],
   "intro": "团团转乐团1996年于日本京都的立命馆大学音乐性社团Rock Commune里成立。创始团员有岸田繁、佐藤征史与森信行。1998年以单曲“东京”主流出道。",
   "introLang": "zh",
+  "tracks": [
+    "ハイウェイ (曲)",
+    "三日月",
+    "再見遺憾",
+    "奇跡",
+    "言葉はさんかく こころは四角"
+  ],
+  "trackSources": [
+    {
+      "title": "ハイウェイ (曲)"
+    },
+    {
+      "title": "三日月"
+    },
+    {
+      "title": "再見遺憾"
+    },
+    {
+      "title": "奇跡"
+    },
+    {
+      "title": "言葉はさんかく こころは四角"
+    }
+  ],
+  "listens": 25660,
+  "listeners": 849,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/252c9f8a-be04-4146-b73e-a24696b2f5ed"
@@ -51,7 +85,8 @@
       "label": "岸田繁・佐藤征史",
       "detail": "2 位乐手在这两支乐队都待过：岸田繁・佐藤征史。",
       "year": 1996,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "12-rods",
@@ -62,7 +97,8 @@
       "label": "Christopher McGuire",
       "detail": "Christopher McGuire 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kid-dakota",
@@ -73,7 +109,8 @@
       "label": "Christopher McGuire",
       "detail": "Christopher McGuire 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "サンガツ",
@@ -84,7 +121,8 @@
       "label": "田中 佑司",
       "detail": "田中 佑司 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "puppies",
@@ -95,7 +133,38 @@
       "label": "Christopher McGuire",
       "detail": "Christopher McGuire 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "metafive",
+      "toName": "METAFIVE",
+      "toArea": "日本",
+      "toYears": "2014–",
+      "type": "guest",
+      "label": "客串：権藤知彦",
+      "detail": "MusicBrainz 录音资料显示，権藤知彦参与了《There is (always light)》、《遥かなるリスボン》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/daa3cf6b-2290-4e45-9cd6-ed32039d7f6d",
+        "https://musicbrainz.org/recording/11f1def4-540e-4eb5-8fc8-5a45234ca40f"
+      ]
+    },
+    {
+      "to": "pupa",
+      "toName": "pupa",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "guest",
+      "label": "客串：権藤知彦",
+      "detail": "MusicBrainz 录音资料显示，権藤知彦参与了《There is (always light)》、《遥かなるリスボン》等录音。",
+      "year": null,
+      "weight": 0.7,
+      "sources": [
+        "https://musicbrainz.org/recording/daa3cf6b-2290-4e45-9cd6-ed32039d7f6d",
+        "https://musicbrainz.org/recording/11f1def4-540e-4eb5-8fc8-5a45234ca40f"
+      ]
     },
     {
       "to": "radio-soul20",
@@ -106,7 +175,8 @@
       "label": "岸田繁",
       "detail": "岸田繁 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ザ-プールサイド",
@@ -117,7 +187,50 @@
       "label": "岸田繁",
       "detail": "岸田繁 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "qubit",
+      "toName": "QUBIT",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "guest",
+      "label": "客串：鈴木正人",
+      "detail": "MusicBrainz 录音资料显示，鈴木正人参与了《loveless (album edit)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/25b6e7d4-9366-4905-8cb4-e7d2eb5803b1"
+      ]
+    },
+    {
+      "to": "southern-fly",
+      "toName": "Southern Fly",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：Carwyn Ellis",
+      "detail": "MusicBrainz 录音资料显示，Carwyn Ellis参与了《Brose & Butter》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/5d522732-7484-444b-be36-1782cfc84353"
+      ]
+    },
+    {
+      "to": "妖精たち",
+      "toName": "妖精たち",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "guest",
+      "label": "客串：U‐ZHAAN",
+      "detail": "MusicBrainz 录音资料显示，U‐ZHAAN参与了《Liberty & Gravity》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/8370cdc8-52dc-4b6c-8210-aff9fcbf24bb"
+      ]
     }
   ]
 }

@@ -10,8 +10,18 @@
     "流行摇滚"
   ],
   "albums": [],
-  "intro": "The Venus in Furs是一支来自英国的以流行摇滚为主要风格的音乐团体，活跃时期为1998–1998。",
+  "intro": "The Venus in Furs是一支来自英国的音乐团体，活跃时期为1998–1998，现有资料记录的主要风格包括流行摇滚。MusicBrainz 还记录了它与Radiohead、The Smile、On a Friday之间的成员往来。",
   "introLang": "zh",
+  "listens": 2458,
+  "listeners": 192,
+  "quality": {
+    "score": 9,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0860ed05-2e3a-4872-a44a-8e6d8a7e9696"
@@ -26,7 +36,8 @@
       "label": "Jonny Greenwood・Thom Yorke",
       "detail": "2 位乐手在这两支乐队都待过：Jonny Greenwood・Thom Yorke。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-smile",
@@ -37,7 +48,8 @@
       "label": "Jonny Greenwood・Thom Yorke",
       "detail": "2 位乐手在这两支乐队都待过：Jonny Greenwood・Thom Yorke。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "on-a-friday",
@@ -48,7 +60,8 @@
       "label": "Jonny Greenwood・Thom Yorke",
       "detail": "2 位乐手在这两支乐队都待过：Jonny Greenwood・Thom Yorke。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "atoms-for-peace",
@@ -59,7 +72,8 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "headless-chickens",
@@ -70,7 +84,8 @@
       "label": "Thom Yorke",
       "detail": "Thom Yorke 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-illiterate-hands",
@@ -81,7 +96,8 @@
       "label": "Jonny Greenwood",
       "detail": "Jonny Greenwood 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

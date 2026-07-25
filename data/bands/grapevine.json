@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "1993–",
-  "genres": [],
+  "genres": [
+    "摇滚乐"
+  ],
   "albums": [
     {
       "title": "Hybrid Soup",
@@ -35,6 +37,40 @@
   ],
   "intro": "GRAPEVINE是一支由主唱兼吉他手田中和将、吉他手西川弘刚、鼓手龟井亨三人组成的日本摇滚乐队。1993年成立于大阪府。",
   "introLang": "zh",
+  "tracks": [
+    "1977",
+    "BLUE BACK",
+    "BREAKTHROUGH",
+    "CORE/wants",
+    "discord (曲)"
+  ],
+  "trackSources": [
+    {
+      "title": "1977"
+    },
+    {
+      "title": "BLUE BACK"
+    },
+    {
+      "title": "BREAKTHROUGH"
+    },
+    {
+      "title": "CORE/wants"
+    },
+    {
+      "title": "discord (曲)"
+    }
+  ],
+  "listens": 87675,
+  "listeners": 203,
+  "quality": {
+    "score": 75,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ed498651-bb21-4bbc-8d56-b743ad7c1a3e"
@@ -49,7 +85,8 @@
       "label": "田中和将・亀井亨",
       "detail": "2 位乐手在这两支乐队都待过：田中和将・亀井亨。",
       "year": 1993,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     }
   ]
 }

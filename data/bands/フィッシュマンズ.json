@@ -8,7 +8,11 @@
   "years": "1987–",
   "genres": [
     "新迷幻摇滚",
-    "梦幻流行乐"
+    "梦幻流行乐",
+    "雷鬼音樂",
+    "回响音乐",
+    "夢幻流行",
+    "新迷幻音樂"
   ],
   "albums": [
     {
@@ -38,6 +42,40 @@
   ],
   "intro": "Fishmans，日本乐团，1987年在港区(东京都)成立。Fishmans以其独特的迷幻音响，主唱佐藤伸治特有的声线，鼓手茂木欣一雷鬼风格的演奏和贝斯手柏原让律动的bassline而闻名。",
   "introLang": "zh",
+  "tracks": [
+    "100ミリちょっとの",
+    "Go Go Round This World!",
+    "MELODY",
+    "SEASON (フィッシュマンズの曲)",
+    "Walkin'"
+  ],
+  "trackSources": [
+    {
+      "title": "100ミリちょっとの"
+    },
+    {
+      "title": "Go Go Round This World!"
+    },
+    {
+      "title": "MELODY"
+    },
+    {
+      "title": "SEASON (フィッシュマンズの曲)"
+    },
+    {
+      "title": "Walkin'"
+    }
+  ],
+  "listens": 116600,
+  "listeners": 3247,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d0f25f16-7782-42e8-8047-c16a1cb2b450"
@@ -52,7 +90,8 @@
       "label": "茂木欣一・柏原譲・HAKASE-SUN",
       "detail": "3 位乐手在这两支乐队都待过：茂木欣一・柏原譲・HAKASE-SUN。",
       "year": 1987,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "東京スカパラダイスオーケストラ",
@@ -63,7 +102,8 @@
       "label": "茂木欣一",
       "detail": "茂木欣一 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "marimari-rythmkiller-machinegun",
@@ -74,7 +114,24 @@
       "label": "茂木欣一",
       "detail": "茂木欣一 在这两支乐队都待过。",
       "year": 1987,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "fishmans",
+      "toName": "Fishmans+",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "guest",
+      "label": "客串：原田郁子、ハナレグミ、UA",
+      "detail": "MusicBrainz 录音资料显示，原田郁子、ハナレグミ、UA参与了《いかれたBaby》、《Weather Report》、《頼りない天使》等录音。",
+      "year": null,
+      "weight": 0.74,
+      "sources": [
+        "https://musicbrainz.org/recording/004ede6d-ade9-4fb4-830c-6206718091ee",
+        "https://musicbrainz.org/recording/ed2779f2-1efd-4874-9940-69d5952c3711",
+        "https://musicbrainz.org/recording/af780236-1d43-4fd8-b989-2b9c08856a82"
+      ]
     }
   ]
 }

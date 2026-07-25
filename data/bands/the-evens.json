@@ -25,6 +25,16 @@
   ],
   "intro": "The Evens 是一支美国独立摇滚二人组，由伊恩·麦凯（Ian MacKaye，次中音吉他、主唱）和艾米·法里纳（Amy Farina，鼓、主唱）组成。",
   "introLang": "zh",
+  "listens": 28872,
+  "listeners": 1184,
+  "quality": {
+    "score": 57,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3a3b3e5d-2d28-4108-875e-30686d2710e8"
@@ -39,7 +49,8 @@
       "label": "Amy Farina",
       "detail": "Amy Farina 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "coriky",
@@ -50,7 +61,8 @@
       "label": "Amy Farina",
       "detail": "Amy Farina 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

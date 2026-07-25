@@ -6,10 +6,34 @@
   "countryCode": "FR",
   "country": "法国",
   "years": "2000–",
-  "genres": [],
+  "genres": [
+    "法国浩室"
+  ],
   "albums": [],
   "intro": "Together是一支法国浩室音乐二人组合，由DJ Falcon和蠢朋克成员托马斯·本高特组成。",
   "introLang": "zh",
+  "tracks": [
+    "So Much Love to Give",
+    "Together"
+  ],
+  "trackSources": [
+    {
+      "title": "So Much Love to Give"
+    },
+    {
+      "title": "Together"
+    }
+  ],
+  "listens": 1093,
+  "listeners": 221,
+  "quality": {
+    "score": 62,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/05527f5e-341d-4f98-a41e-72fc9f6dafcf"
@@ -24,7 +48,8 @@
       "label": "Thomas Bangalter",
       "detail": "Thomas Bangalter 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "da-mongoloids",
@@ -35,7 +60,8 @@
       "label": "Thomas Bangalter",
       "detail": "Thomas Bangalter 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "darlin",
@@ -46,7 +72,8 @@
       "label": "Thomas Bangalter",
       "detail": "Thomas Bangalter 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

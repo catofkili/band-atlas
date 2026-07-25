@@ -7,7 +7,13 @@
   "country": "美国",
   "years": "1983–",
   "genres": [
-    "泥浆金属"
+    "泥浆金属",
+    "油漬搖滾",
+    "另类摇滚",
+    "噪音搖滾",
+    "迷幻金屬",
+    "泥沼金屬",
+    "實驗搖滾"
   ],
   "albums": [
     {
@@ -37,6 +43,40 @@
   ],
   "intro": "Melvins是一支来自美国的摇滚乐队。虽然通常以三人编制活动，但在2006年至2016年期间，曾作为拥有两名鼓手的四人乐队进行活动。",
   "introLang": "zh",
+  "tracks": [
+    "Here She Comes Now / Venus in Furs",
+    "Love Canal / Someday",
+    "Sweet Young Thing Ain't Sweet No More / I Dreamed, I Dream",
+    "With Yo' Heart, Not Yo' Hands",
+    "Hooch"
+  ],
+  "trackSources": [
+    {
+      "title": "Here She Comes Now / Venus in Furs"
+    },
+    {
+      "title": "Love Canal / Someday"
+    },
+    {
+      "title": "Sweet Young Thing Ain't Sweet No More / I Dreamed, I Dream"
+    },
+    {
+      "title": "With Yo' Heart, Not Yo' Hands"
+    },
+    {
+      "title": "Hooch"
+    }
+  ],
+  "listens": 431182,
+  "listeners": 5716,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb"
@@ -51,18 +91,8 @@
       "label": "Buzz Osborne・副项目",
       "detail": "2 位乐手在这两支乐队都待过：Buzz Osborne・副项目。",
       "year": null,
-      "weight": 0.84
-    },
-    {
-      "to": "nirvana",
-      "toName": "Nirvana",
-      "toArea": "西雅图",
-      "toYears": "1987–1994",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Melvins 影响了 Nirvana（Wikidata）。",
-      "year": null,
-      "weight": 0.46
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "mudhoney",
@@ -73,7 +103,8 @@
       "label": "Matt Lukin",
       "detail": "Matt Lukin 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "porn",
@@ -84,7 +115,8 @@
       "label": "Billy Anderson",
       "detail": "Billy Anderson 在这两支乐队都待过。",
       "year": 2001,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tool",
@@ -95,7 +127,34 @@
       "label": "Adam Jones",
       "detail": "Adam Jones 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "tool",
+      "toName": "Tool",
+      "toArea": "洛杉矶",
+      "toYears": "1990–",
+      "type": "guest",
+      "label": "客串：Buzz Osborne",
+      "detail": "MusicBrainz 录音资料显示，Buzz Osborne参与了《You Lied》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/eae6c16a-5516-4133-95c6-5c8997f96802"
+      ]
+    },
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Melvins 影响了 Nirvana（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "brown-towel",
@@ -106,7 +165,8 @@
       "label": "Buzz Osborne",
       "detail": "Buzz Osborne 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fecal-matter",
@@ -117,7 +177,8 @@
       "label": "Buzz Osborne",
       "detail": "Buzz Osborne 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "melvana",
@@ -128,7 +189,8 @@
       "label": "Buzz Osborne",
       "detail": "Buzz Osborne 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "supergroup-b",
@@ -139,7 +201,8 @@
       "label": "Adam Jones",
       "detail": "Adam Jones 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dale-crover-band",
@@ -150,7 +213,8 @@
       "label": "副项目",
       "detail": "MusicBrainz 记录的副项目关系。",
       "year": null,
-      "weight": 0.55
+      "weight": 0.55,
+      "sources": []
     }
   ]
 }

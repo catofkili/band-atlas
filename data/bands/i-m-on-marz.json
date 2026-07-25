@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "I'M ON MARZ是一支来自神奈川的音乐团体。",
+  "intro": "I'M ON MARZ是一支来自神奈川的音乐团体。MusicBrainz 还记录了它与SiM之间的成员往来。",
   "introLang": "zh",
+  "listens": 5,
+  "listeners": 1,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6b5caa6c-6e42-4f84-b800-1ab7b8d7dcfc"
@@ -24,7 +34,8 @@
       "label": "MAH",
       "detail": "MAH 在这两支乐队都待过。",
       "year": 2004,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,7 +8,9 @@
   "years": "1990–",
   "genres": [
     "另类摇滚",
-    "摇滚"
+    "摇滚",
+    "油漬搖滾",
+    "硬式搖滾"
   ],
   "albums": [
     {
@@ -38,22 +40,45 @@
   ],
   "intro": "珍珠果酱乐队是一支美国摇滚乐队，1990年成立于华盛顿州西雅图。乐队成立时成员包括艾迪·维达、杰夫·阿曼特、斯通·歌萨德、迈克·麦克里迪和戴夫·克鲁森。",
   "introLang": "zh",
+  "tracks": [
+    "Jeremy",
+    "アライヴ",
+    "Even Flow",
+    "Oceans",
+    "Go"
+  ],
+  "trackSources": [
+    {
+      "title": "Jeremy"
+    },
+    {
+      "title": "アライヴ"
+    },
+    {
+      "title": "Even Flow"
+    },
+    {
+      "title": "Oceans"
+    },
+    {
+      "title": "Go"
+    }
+  ],
+  "listens": 1865190,
+  "listeners": 17241,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/83b9cbe7-9857-49e2-ab8e-b57b01038103"
   },
   "edges": [
-    {
-      "to": "guns-n-roses",
-      "toName": "Guns N' Roses",
-      "toArea": "洛杉矶",
-      "toYears": "1985–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Pearl Jam 受 Guns N’ Roses 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
     {
       "to": "eleven",
       "toName": "Eleven",
@@ -63,7 +88,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "queens-of-the-stone-age",
@@ -74,7 +100,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -85,7 +112,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "redd-kross",
@@ -96,7 +124,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "soundgarden",
@@ -107,7 +136,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-wallflowers",
@@ -118,7 +148,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "3rd-secret",
@@ -129,7 +160,48 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "green-day",
+      "toName": "Green Day",
+      "toArea": "伯克利",
+      "toYears": "1989–",
+      "type": "guest",
+      "label": "客串：Green Day",
+      "detail": "MusicBrainz 录音资料显示，Green Day参与了《I Shall Be Released》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/09290f85-3ccb-42b7-b21c-d5dea23986e5"
+      ]
+    },
+    {
+      "to": "the-strokes",
+      "toName": "The Strokes",
+      "toArea": "纽约",
+      "toYears": "1998–",
+      "type": "guest",
+      "label": "客串：Eddie Vedder",
+      "detail": "MusicBrainz 录音资料显示，Eddie Vedder参与了《Mercy Mercy Me (The Ecology)》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/5b49bc0c-539d-4e3f-8afc-907c8fc6217d"
+      ]
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Pearl Jam 受 Guns N’ Roses 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "anthym",
@@ -140,7 +212,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "spinnerette",
@@ -151,7 +224,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "what-is-this",
@@ -162,7 +236,8 @@
       "label": "Jack Irons",
       "detail": "Jack Irons 在这两支乐队都待过。",
       "year": 1994,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "eddie-vedder-and-the-earthlings",
@@ -173,7 +248,8 @@
       "label": "Eddie Vedder",
       "detail": "Eddie Vedder 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "kind-heaven-orchestra",
@@ -184,7 +260,8 @@
       "label": "Matt Chamberlain",
       "detail": "Matt Chamberlain 在这两支乐队都待过。",
       "year": 1991,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "levee-walkers",
@@ -195,7 +272,8 @@
       "label": "Mike McCready",
       "detail": "Mike McCready 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mc50",
@@ -206,7 +284,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nighttime-boogie-association",
@@ -217,7 +296,8 @@
       "label": "Matt Cameron",
       "detail": "Matt Cameron 在这两支乐队都待过。",
       "year": 1998,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "raw-power",
@@ -228,7 +308,8 @@
       "label": "Mike McCready",
       "detail": "Mike McCready 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "led-zeppelin",
@@ -239,7 +320,8 @@
       "label": "影响关系",
       "detail": "Pearl Jam 受 Led Zeppelin 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -250,7 +332,8 @@
       "label": "影响关系",
       "detail": "Pearl Jam 受 Red Hot Chili Peppers 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-beatles",
@@ -261,7 +344,8 @@
       "label": "影响关系",
       "detail": "Pearl Jam 受 The Beatles 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-rolling-stones",
@@ -272,7 +356,8 @@
       "label": "影响关系",
       "detail": "Pearl Jam 受 The Rolling Stones 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-who",
@@ -283,7 +368,8 @@
       "label": "影响关系",
       "detail": "Pearl Jam 受 The Who 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "minor-threat",
@@ -294,7 +380,8 @@
       "label": "影响关系",
       "detail": "Pearl Jam 受 Minor Threat 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

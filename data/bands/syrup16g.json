@@ -8,6 +8,7 @@
   "years": "1996–",
   "genres": [
     "另类摇滚",
+    "情绪摇滚",
     "独立摇滚"
   ],
   "albums": [
@@ -38,6 +39,32 @@
   ],
   "intro": "syrup16g是一支来自日本的三人摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "My Song",
+    "パープルムカデ",
+    "リアル (Syrup16gの曲)"
+  ],
+  "trackSources": [
+    {
+      "title": "My Song"
+    },
+    {
+      "title": "パープルムカデ"
+    },
+    {
+      "title": "リアル (Syrup16gの曲)"
+    }
+  ],
+  "listens": 37001,
+  "listeners": 316,
+  "quality": {
+    "score": 87,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e4d403dd-2f83-4642-a929-02676a2a944c"
@@ -52,7 +79,8 @@
       "label": "中畑大樹",
       "detail": "中畑大樹 在这两支乐队都待过。",
       "year": 1996,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

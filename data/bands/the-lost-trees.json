@@ -2,15 +2,26 @@
   "id": "the-lost-trees",
   "mbid": "c5f297b2-b972-4290-9163-864f451951a4",
   "name": "The Lost Trees",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Lost Trees是一支音乐团体。",
+  "intro": "The Lost Trees是一支来自美国的音乐团体。MusicBrainz 还记录了它与Fear、Pigface、Red Hot Chili Peppers之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 180,
+  "listeners": 44,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 4,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c5f297b2-b972-4290-9163-864f451951a4"
   },
@@ -24,7 +35,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -35,7 +47,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "red-hot-chili-peppers",
@@ -46,7 +59,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 1983,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "atoms-for-peace",
@@ -57,7 +71,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rocket-juice-the-moon",
@@ -68,7 +83,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "aleka-s-attic",
@@ -79,7 +95,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "flea-and-the-honora-band",
@@ -90,7 +107,8 @@
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

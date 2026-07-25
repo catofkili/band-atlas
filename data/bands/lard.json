@@ -6,7 +6,9 @@
   "countryCode": "US",
   "country": "美国",
   "years": "1988–2000",
-  "genres": [],
+  "genres": [
+    "工業金屬"
+  ],
   "albums": [
     {
       "title": "The Last Temptation of Reid",
@@ -19,6 +21,16 @@
   ],
   "intro": "Lard是一支美国硬核朋克/工业乐队，由杰罗·比阿弗拉、阿尔·尤尔根森、保罗·巴克和杰夫·沃德于1988年作为副业项目组建而成。",
   "introLang": "zh",
+  "listens": 26791,
+  "listeners": 1320,
+  "quality": {
+    "score": 60,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4430600b-0fdb-43a1-be52-c81aa7ab1682"
@@ -33,7 +45,8 @@
       "label": "Jeff Ward・Paul Barker・Al Jourgensen・Rey Washam",
       "detail": "4 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Al Jourgensen・Rey Washam。",
       "year": 1988,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -44,7 +57,8 @@
       "label": "Jeff Ward・Paul Barker・Jello Biafra",
       "detail": "3 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Jello Biafra。",
       "year": 1988,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "revolting-cocks",
@@ -55,7 +69,8 @@
       "label": "Jeff Ward・Paul Barker・Al Jourgensen",
       "detail": "3 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Al Jourgensen。",
       "year": 1988,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "1000-homo-djs",
@@ -66,7 +81,8 @@
       "label": "Paul Barker・Al Jourgensen",
       "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
       "year": 1988,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pailhead",
@@ -77,7 +93,8 @@
       "label": "Paul Barker・Al Jourgensen",
       "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
       "year": 1988,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "dead-kennedys",
@@ -88,7 +105,8 @@
       "label": "Jello Biafra",
       "detail": "Jello Biafra 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -99,7 +117,8 @@
       "label": "Jeff Ward",
       "detail": "Jeff Ward 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "low-pop-suicide",
@@ -110,7 +129,8 @@
       "label": "Jeff Ward",
       "detail": "Jeff Ward 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-no-w-t-o-combo",
@@ -121,7 +141,8 @@
       "label": "Jello Biafra",
       "detail": "Jello Biafra 在这两支乐队都待过。",
       "year": 1988,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

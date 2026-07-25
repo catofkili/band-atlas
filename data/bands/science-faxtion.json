@@ -2,11 +2,13 @@
   "id": "science-faxtion",
   "mbid": "2b4f3e93-f1e9-46e8-a78a-3edb7b7fe2b1",
   "name": "Science Faxtion",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
-  "genres": [],
+  "genres": [
+    "先鋒金屬"
+  ],
   "albums": [
     {
       "title": "Living on Another Frequency",
@@ -15,7 +17,18 @@
   ],
   "intro": "Science Faxtion 是一支美国实验金属乐队，于 2007 年在加利福尼亚州成立。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 1164,
+  "listeners": 43,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 59,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2b4f3e93-f1e9-46e8-a78a-3edb7b7fe2b1"
   },
@@ -29,7 +42,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "parliament",
@@ -40,7 +54,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "praxis",
@@ -51,7 +66,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "parliament-funkadelic",
@@ -62,7 +78,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-p-funk-mob",
@@ -73,7 +90,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "world-wide-funkdrive",
@@ -84,7 +102,8 @@
       "label": "Bootsy Collins",
       "detail": "Bootsy Collins 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

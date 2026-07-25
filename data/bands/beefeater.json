@@ -8,8 +8,18 @@
   "years": "2002–2002",
   "genres": [],
   "albums": [],
-  "intro": "BEEFEATER是一支来自日本的音乐团体，活跃时期为2002–2002。",
+  "intro": "BEEFEATER是一支来自日本的音乐团体，活跃时期为2002–2002。MusicBrainz 还记录了它与the HIATUS、neil & iraiza、pupa之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 2,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5a94f4a5-b367-4765-8bf1-80c35c56c761"
@@ -24,7 +34,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "neil-iraiza",
@@ -35,7 +46,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pupa",
@@ -46,7 +58,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 2007,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "singer-songer",
@@ -57,7 +70,8 @@
       "label": "堀江博久",
       "detail": "堀江博久 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

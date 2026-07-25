@@ -1,6 +1,6 @@
 import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js';
 import { layoutNeighbors } from './layout.js';
-import { createNetworkMap } from './map.js?v=20260726-1';
+import { createNetworkMap } from './map.js?v=e8410bf7ff';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -22,14 +22,53 @@ let world = null;
 let current = null; // 当前焦点乐队文档
 let slots = []; // 当前邻居槽位
 let busy = false;
+let neighborSelectionSalt = 0;
 const mapEl = document.getElementById('network-map');
-const networkMap = createNetworkMap({ canvas: document.getElementById('network-canvas'), onChoose: (id) => { mapEl.hidden = true; jumpTo(id); } });
-document.getElementById('map-close').addEventListener('click', () => {
+const mapCanvas = document.getElementById('network-canvas');
+const mapStats = document.getElementById('map-stats');
+const mapError = document.getElementById('map-error');
+const mapOpenButton = document.getElementById('map-open');
+let mapReturnFocus = null;
+const networkMap = createNetworkMap({
+  canvas: mapCanvas,
+  onChoose: (id) => {
+    hideNetworkMap();
+    jumpTo(id);
+  },
+});
+
+function hideNetworkMap({ restoreFocus = true } = {}) {
   stageTouches.clear();
   mapGestureActive = false;
   networkMap.cancelPointers();
   mapEl.hidden = true;
+  if (restoreFocus) mapReturnFocus?.focus();
+}
+
+async function showNetworkMap({ trigger = mapOpenButton, preservePointers = false } = {}) {
+  if (!current) return;
+  mapReturnFocus = trigger;
+  mapEl.hidden = false;
+  mapError.hidden = true;
+  mapStats.textContent = '载入地图…';
+  if (!preservePointers) networkMap.cancelPointers();
+  try {
+    await networkMap.open(current.id);
+    if (!preservePointers) mapCanvas.focus();
+  } catch (error) {
+    console.error(error);
+    mapStats.textContent = '地图不可用';
+    mapError.hidden = false;
+  }
+}
+
+document.getElementById('map-close').addEventListener('click', () => {
+  hideNetworkMap();
 });
+mapOpenButton.addEventListener('click', (event) => showNetworkMap({ trigger: event.currentTarget }));
+document.getElementById('map-retry').addEventListener('click', () =>
+  showNetworkMap({ trigger: mapReturnFocus })
+);
 window.addEventListener('resize', () => { if (!mapEl.hidden) networkMap.resize(); });
 
 /* ------------------------------------------------------------------ 相机 */
@@ -94,10 +133,17 @@ function makeNode(className, x, y, angle) {
  * 把世界整个重建一遍：焦点回到原点，相机归零。
  * 这一步永远发生在相机已经停在目标身上的时刻，画面内容一致，所以看不出偷换。
  */
-function render(band, { cameFrom, backAngle, animate = true } = {}) {
+function render(band, { cameFrom, backAngle, animate = true, reuseSelection = false } = {}) {
   const { vw, vh } = viewport();
   laidOutFor = { vw, vh };
-  slots = layoutNeighbors(band.id, band.edges, { cameFrom, backAngle, vw, vh });
+  if (!reuseSelection) neighborSelectionSalt += 1;
+  slots = layoutNeighbors(band.id, band.edges, {
+    cameFrom,
+    backAngle,
+    vw,
+    vh,
+    selectionSalt: neighborSelectionSalt,
+  });
 
   const next = document.createElement('div');
   next.className = 'world';
@@ -263,9 +309,30 @@ const wait = (ms) => new Promise((r) => setTimeout(r, ms));
 
 /** 进站随机：只从关系够多的乐队里挑，避免一开局就是死胡同。 */
 function randomId(exclude) {
-  const pool = index.bands.filter((b) => b.degree >= 3 && b.id !== exclude);
-  const from = pool.length ? pool : index.bands;
-  return from[Math.floor(Math.random() * from.length)].id;
+  const candidates = index.bands.filter((band) => band.id !== exclude);
+  const strong = candidates.filter(
+    (band) =>
+      band.degree >= 3 &&
+      !band.quality?.templateIntro &&
+      (band.quality?.score ?? 0) >= 38
+  );
+  const pool = strong.length >= 40
+    ? strong
+    : candidates.filter((band) => band.degree >= 3);
+  const maxListens = Math.max(1, ...pool.map((band) => band.listens ?? 0));
+  const weights = pool.map((band) => {
+    const popularity = Math.log1p(band.listens ?? 0) / Math.log1p(maxListens);
+    const content = (band.quality?.score ?? 25) / 100;
+    const connected = Math.min(band.degree, 16) / 16;
+    const eastAsia = band.region === 'east-asia' ? 1.28 : 1;
+    return (0.08 + popularity * 3.4 + content * 1.9 + connected * 0.7) * eastAsia;
+  });
+  let ticket = Math.random() * weights.reduce((sum, weight) => sum + weight, 0);
+  for (let index = 0; index < pool.length; index += 1) {
+    ticket -= weights[index];
+    if (ticket <= 0) return pool[index].id;
+  }
+  return pool.at(-1)?.id ?? candidates[0].id;
 }
 
 function idFromHash() {
@@ -351,10 +418,13 @@ function openMapFromGesture() {
     drag = null;
     mapGestureActive = true;
     mapEl.hidden = false;
+    mapReturnFocus = null;
+    mapError.hidden = true;
+    mapStats.textContent = '载入地图…';
     networkMap.adoptPointers(
       [...stageTouches.entries()].map(([id, point]) => ({ id, ...point }))
     );
-    networkMap.open(current?.id);
+    showNetworkMap({ trigger: null, preservePointers: true });
   }
 }
 
@@ -601,7 +671,7 @@ new ResizeObserver(() => {
     const { vw, vh } = viewport();
     if (!current || busy) return;
     if (Math.abs(vw - laidOutFor.vw) < 24 && Math.abs(vh - laidOutFor.vh) < 24) return;
-    render(current, { animate: false });
+    render(current, { animate: false, reuseSelection: true });
   }, 140);
 }).observe(stage);
 

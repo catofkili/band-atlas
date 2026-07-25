@@ -8,7 +8,8 @@
   "years": "2003–",
   "genres": [
     "新浪潮",
-    "流行朋克"
+    "流行朋克",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -22,6 +23,16 @@
   ],
   "intro": "The Network是一支六人制新浪潮乐队。这是朋克摇滚乐队“绿日”的副项目。成立于2003年。",
   "introLang": "zh",
+  "listens": 14863,
+  "listeners": 843,
+  "quality": {
+    "score": 71,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/163e9cef-ea8c-4476-9a05-7e1fb74a7c0a"
@@ -36,7 +47,8 @@
       "label": "Mike Dirnt・Tré Cool",
       "detail": "2 位乐手在这两支乐队都待过：Mike Dirnt・Tré Cool。",
       "year": 2003,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "foxboro-hot-tubs",
@@ -47,7 +59,8 @@
       "label": "Mike Dirnt・Tré Cool",
       "detail": "2 位乐手在这两支乐队都待过：Mike Dirnt・Tré Cool。",
       "year": 2003,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "samiam",
@@ -58,7 +71,8 @@
       "label": "Tré Cool",
       "detail": "Tré Cool 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-frustrators",
@@ -69,7 +83,8 @@
       "label": "Mike Dirnt",
       "detail": "Mike Dirnt 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-lookouts",
@@ -80,7 +95,8 @@
       "label": "Tré Cool",
       "detail": "Tré Cool 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-coverups",
@@ -91,7 +107,8 @@
       "label": "Mike Dirnt",
       "detail": "Mike Dirnt 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

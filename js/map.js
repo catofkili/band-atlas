@@ -4,6 +4,13 @@ const COLORS = {
   other: '#a891d7',
   unknown: '#737b87',
 };
+const EDGE_COLORS = {
+  member: '#58a6ff',
+  guest: '#45c58c',
+  influence: '#b98cff',
+  feud: '#ff6b5e',
+  scene: '#d9ac5a',
+};
 const STAGES = [
   { scale: 1, count: 9 },
   { scale: 0.68, count: 40 },
@@ -12,7 +19,8 @@ const STAGES = [
 ];
 const OVERSCAN = 2;
 const MAX_SNAPSHOT_PIXELS = 4_000_000;
-const GRAPH_VERSION = '20260726-1';
+const POPULAR_LISTEN_FLOOR = 1000;
+const GRAPH_VERSION = 'e8410bf7ff';
 
 const hash = (text) => {
   let value = 2166136261;
@@ -62,15 +70,29 @@ export function createNetworkMap({ canvas, onChoose }) {
   let offsetY = 0;
   let drag = null;
   let pinch = null;
+  let popularOnly = false;
   let transformFrame = 0;
   const pointers = new Map();
   const ctx = canvas.getContext('2d', { alpha: false });
   const surface = canvas.parentElement;
   const stats = document.getElementById('map-stats');
+  const picker = document.getElementById('map-band-select');
+  const popularToggle = document.getElementById('map-popular-toggle');
 
   async function load() {
     if (graph) return;
-    graph = await fetch(`data/graph.json?v=${GRAPH_VERSION}`).then((response) => response.json());
+    const embedded = globalThis.BAND_ATLAS_DATA?.graph;
+    if (embedded) {
+      graph = embedded;
+    } else {
+      const response = await fetch(`data/graph.json?v=${GRAPH_VERSION}`);
+      if (!response.ok) throw new Error(`地图数据加载失败（HTTP ${response.status}）`);
+      graph = await response.json();
+    }
+    if (!Array.isArray(graph?.nodes) || !Array.isArray(graph?.edges)) {
+      graph = null;
+      throw new Error('地图数据格式错误');
+    }
     nodes = new Map(
       graph.nodes.map((node) => [
         node.id,
@@ -94,9 +116,23 @@ export function createNetworkMap({ canvas, onChoose }) {
       adjacency.get(a.node.id).push(b.node.id);
       adjacency.get(b.node.id).push(a.node.id);
     }
+    if (picker) {
+      const fragment = document.createDocumentFragment();
+      for (const node of [...nodes.values()].sort((a, b) => a.name.localeCompare(b.name, 'zh-CN'))) {
+        const option = document.createElement('option');
+        option.value = node.id;
+        option.textContent = `${node.name}${node.region === 'east-asia' ? ' · 东亚' : ''}`;
+        fragment.append(option);
+      }
+      picker.replaceChildren(fragment);
+    }
   }
 
   function prepareFocus(id) {
+    const allowed = (nodeId) =>
+      !popularOnly ||
+      nodeId === id ||
+      (nodes.get(nodeId)?.listens ?? 0) >= POPULAR_LISTEN_FLOOR;
     const hops = new Map([[id, 0]]);
     const queue = [id];
     for (let cursor = 0; cursor < queue.length; cursor += 1) {
@@ -113,7 +149,7 @@ export function createNetworkMap({ canvas, onChoose }) {
       return (nodes.get(b)?.degree || 0) - (nodes.get(a)?.degree || 0) || hash(a) - hash(b);
     });
 
-    primaryIds = [...(adjacency.get(id) || [])].sort((a, b) => {
+    primaryIds = [...(adjacency.get(id) || [])].filter(allowed).sort((a, b) => {
       const degreeDifference = (nodes.get(b)?.degree || 0) - (nodes.get(a)?.degree || 0);
       return degreeDifference || hash(a) - hash(b);
     });
@@ -123,8 +159,8 @@ export function createNetworkMap({ canvas, onChoose }) {
         index === 0
           ? [focusId, ...primaryIds.slice(0, 8)]
           : index === STAGES.length - 1
-            ? [...nodes.keys()]
-            : rankedHops.slice(0, stage.count).map(([nodeId]) => nodeId);
+            ? [...nodes.keys()].filter(allowed)
+            : rankedHops.filter(([nodeId]) => allowed(nodeId)).slice(0, stage.count).map(([nodeId]) => nodeId);
       const visible = new Set(ids);
       return {
         visible,
@@ -177,25 +213,47 @@ export function createNetworkMap({ canvas, onChoose }) {
     bufferCtx.fillRect(0, 0, width, height);
     bufferCtx.translate(width / 2 + baseOffsetX, height / 2 + baseOffsetY);
     bufferCtx.scale(renderScale, renderScale);
-    bufferCtx.strokeStyle = 'rgba(150,164,180,.34)';
-    bufferCtx.lineWidth = 1.1 / renderScale;
-    bufferCtx.beginPath();
-    for (const { a, b } of view.links) {
-      const ap = display.get(a.node.id);
-      const bp = display.get(b.node.id);
-      const dx = bp.x - ap.x;
-      const dy = bp.y - ap.y;
-      const distance = Math.hypot(dx, dy);
-      if (!distance) continue;
-      const ux = dx / distance;
-      const uy = dy / distance;
-      const from = boundaryDistance(labelMetrics(a.node, renderScale), ux, uy, renderScale);
-      const to = boundaryDistance(labelMetrics(b.node, renderScale), ux, uy, renderScale);
-      if (distance <= from + to) continue;
-      bufferCtx.moveTo(ap.x + ux * from, ap.y + uy * from);
-      bufferCtx.lineTo(bp.x - ux * to, bp.y - uy * to);
+    const linkGroups = new Map();
+    for (const link of view.links) {
+      const weightBucket = Math.round(clamp(link.edge.weight ?? 0.5, 0, 1) * 3);
+      const key = `${link.edge.type}:${weightBucket}`;
+      const group = linkGroups.get(key) || [];
+      group.push(link);
+      linkGroups.set(key, group);
     }
-    bufferCtx.stroke();
+    for (const [key, group] of linkGroups) {
+      const [type, bucketText] = key.split(':');
+      const weightBucket = Number(bucketText);
+      bufferCtx.strokeStyle = EDGE_COLORS[type] || '#96a4b4';
+      bufferCtx.globalAlpha = type === 'scene' ? 0.42 : 0.56;
+      bufferCtx.lineWidth = (0.75 + weightBucket * 0.34) / renderScale;
+      bufferCtx.setLineDash(
+        type === 'feud'
+          ? [6 / renderScale, 4 / renderScale]
+          : type === 'scene'
+            ? [1.5 / renderScale, 4 / renderScale]
+            : []
+      );
+      bufferCtx.beginPath();
+      for (const { a, b } of group) {
+        const ap = display.get(a.node.id);
+        const bp = display.get(b.node.id);
+        const dx = bp.x - ap.x;
+        const dy = bp.y - ap.y;
+        const distance = Math.hypot(dx, dy);
+        if (!distance) continue;
+        const ux = dx / distance;
+        const uy = dy / distance;
+        const from = boundaryDistance(labelMetrics(a.node, renderScale), ux, uy, renderScale);
+        const to = boundaryDistance(labelMetrics(b.node, renderScale), ux, uy, renderScale);
+        if (distance <= from + to) continue;
+        bufferCtx.moveTo(ap.x + ux * from, ap.y + uy * from);
+        bufferCtx.lineTo(bp.x - ux * to, bp.y - uy * to);
+      }
+      bufferCtx.stroke();
+    }
+    bufferCtx.globalAlpha = 1;
+    bufferCtx.setLineDash([]);
 
     for (const point of view.points) {
       const at = display.get(point.node.id);
@@ -274,7 +332,9 @@ export function createNetworkMap({ canvas, onChoose }) {
     if (stats) {
       const shown = stageViews[stageIndex].visible.size;
       stats.textContent = `阶段 ${stageIndex + 1}/4 · 显示 ${shown} / ${nodes.size}`;
+      if (popularOnly) stats.textContent += ` · ≥ ${POPULAR_LISTEN_FLOOR} 次收听`;
     }
+    if (picker) picker.value = focusId;
     applyTransform();
     return true;
   }
@@ -335,7 +395,7 @@ export function createNetworkMap({ canvas, onChoose }) {
   function zoomAt(nextScale, screenX, screenY) {
     const worldX = (screenX - viewportWidth / 2 - offsetX) / scale;
     const worldY = (screenY - viewportHeight / 2 - offsetY) / scale;
-    scale = clamp(nextScale, 0.14, 5);
+    scale = clamp(nextScale, 0.14, 1.5);
     offsetX = screenX - viewportWidth / 2 - worldX * scale;
     offsetY = screenY - viewportHeight / 2 - worldY * scale;
   }
@@ -448,6 +508,44 @@ export function createNetworkMap({ canvas, onChoose }) {
     },
     { passive: false }
   );
+  canvas.addEventListener('keydown', (event) => {
+    const move = 64;
+    if (event.key === 'ArrowLeft') offsetX += move;
+    else if (event.key === 'ArrowRight') offsetX -= move;
+    else if (event.key === 'ArrowUp') offsetY += move;
+    else if (event.key === 'ArrowDown') offsetY -= move;
+    else if (event.key === '+' || event.key === '=') {
+      zoomAt(scale * 1.15, viewportWidth / 2, viewportHeight / 2);
+      chooseStage();
+      event.preventDefault();
+      return;
+    } else if (event.key === '-' || event.key === '_') {
+      zoomAt(scale / 1.15, viewportWidth / 2, viewportHeight / 2);
+      chooseStage();
+      event.preventDefault();
+      return;
+    } else if (event.key === 'Escape') {
+      document.getElementById('map-close')?.click();
+      return;
+    } else {
+      return;
+    }
+    requestTransform();
+    event.preventDefault();
+  });
+  picker?.addEventListener('change', () => {
+    if (picker.value) onChoose(picker.value);
+  });
+  popularToggle?.addEventListener('click', async () => {
+    popularOnly = !popularOnly;
+    popularToggle.setAttribute('aria-pressed', String(popularOnly));
+    popularToggle.textContent = popularOnly ? '显示全部' : '隐藏超冷门';
+    if (!focusId) return;
+    prepareFocus(focusId);
+    wantedStage = stageForScale(scale);
+    await preloadStages();
+    canvas.focus();
+  });
 
   return {
     async open(id) {

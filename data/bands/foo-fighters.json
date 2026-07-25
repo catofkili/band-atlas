@@ -9,7 +9,9 @@
   "genres": [
     "摇滚",
     "另类摇滚",
-    "后垃圾摇滚"
+    "后垃圾摇滚",
+    "硬式搖滾",
+    "後油漬搖滾"
   ],
   "albums": [
     {
@@ -39,6 +41,40 @@
   ],
   "intro": "喷火战机乐队是一支来自美国华盛顿州西雅图的摇滚乐队，由涅槃乐队前鼓手戴夫·格罗尔于1994年创建，目前阵容包括格罗尔、奈特·孟德尔、克里斯·沙弗利特和帕特·斯密尔、拉米·杰菲和乔什·弗里兹。",
   "introLang": "zh",
+  "tracks": [
+    "ウォーク",
+    "エヴァーロング",
+    "The Pretender",
+    "學會飛",
+    "Best of You"
+  ],
+  "trackSources": [
+    {
+      "title": "ウォーク"
+    },
+    {
+      "title": "エヴァーロング"
+    },
+    {
+      "title": "The Pretender"
+    },
+    {
+      "title": "學會飛"
+    },
+    {
+      "title": "Best of You"
+    }
+  ],
+  "listens": 2382325,
+  "listeners": 21904,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/67f66c07-6e61-4026-ade5-7e782fad3a5d"
@@ -53,7 +89,8 @@
       "label": "Pat Smear・Nate Mendel・Rami Jaffee",
       "detail": "3 位乐手在这两支乐队都待过：Pat Smear・Nate Mendel・Rami Jaffee。",
       "year": 2010,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "sound-city-players",
@@ -64,7 +101,8 @@
       "label": "Pat Smear・Nate Mendel・Rami Jaffee",
       "detail": "3 位乐手在这两支乐队都待过：Pat Smear・Nate Mendel・Rami Jaffee。",
       "year": 2010,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "sunny-day-real-estate",
@@ -75,7 +113,8 @@
       "label": "William Goldsmith・Nate Mendel",
       "detail": "2 位乐手在这两支乐队都待过：William Goldsmith・Nate Mendel。",
       "year": 1992,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-fire-theft",
@@ -86,51 +125,8 @@
       "label": "William Goldsmith・Nate Mendel",
       "detail": "2 位乐手在这两支乐队都待过：William Goldsmith・Nate Mendel。",
       "year": 1995,
-      "weight": 0.84
-    },
-    {
-      "to": "fugazi",
-      "toName": "Fugazi",
-      "toArea": "华盛顿特区",
-      "toYears": "1987–2003",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Foo Fighters 受 Fugazi 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "pixies",
-      "toName": "Pixies",
-      "toArea": "波士顿",
-      "toYears": "1986–1993 / 2004–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Foo Fighters 受 Pixies 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "guns-n-roses",
-      "toName": "Guns N' Roses",
-      "toArea": "洛杉矶",
-      "toYears": "1985–",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Foo Fighters 受 Guns N’ Roses 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
-    },
-    {
-      "to": "sonic-youth",
-      "toName": "Sonic Youth",
-      "toArea": "纽约",
-      "toYears": "1981–2011",
-      "type": "influence",
-      "label": "影响关系",
-      "detail": "Foo Fighters 受 Sonic Youth 影响（Wikidata）。",
-      "year": null,
-      "weight": 0.46
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "adolescents",
@@ -141,7 +137,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "scream",
@@ -152,7 +149,8 @@
       "label": "Franz Stahl",
       "detail": "Franz Stahl 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-wallflowers",
@@ -163,7 +161,8 @@
       "label": "Rami Jaffee",
       "detail": "Rami Jaffee 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "christ-on-a-crutch",
@@ -174,7 +173,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "wool",
@@ -185,7 +185,32 @@
       "label": "Franz Stahl",
       "detail": "Franz Stahl 在这两支乐队都待过。",
       "year": 1990,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "fugazi",
+      "toName": "Fugazi",
+      "toArea": "华盛顿特区",
+      "toYears": "1987–2003",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Fugazi 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Pixies 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "45-grave",
@@ -196,7 +221,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dys",
@@ -207,7 +233,8 @@
       "label": "Franz Stahl",
       "detail": "Franz Stahl 在这两支乐队都待过。",
       "year": 1997,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gunash",
@@ -218,7 +245,8 @@
       "label": "Rami Jaffee",
       "detail": "Rami Jaffee 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "juno",
@@ -229,7 +257,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-tater-totz",
@@ -240,7 +269,32 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Guns N’ Roses 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
+    },
+    {
+      "to": "sonic-youth",
+      "toName": "Sonic Youth",
+      "toArea": "纽约",
+      "toYears": "1981–2011",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Sonic Youth 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "germs",
@@ -251,7 +305,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "diddly-squat",
@@ -262,7 +317,8 @@
       "label": "Nate Mendel",
       "detail": "Nate Mendel 在这两支乐队都待过。",
       "year": 1995,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-holez",
@@ -273,7 +329,8 @@
       "label": "Pat Smear",
       "detail": "Pat Smear 在这两支乐队都待过。",
       "year": 2010,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ac-dc",
@@ -284,7 +341,8 @@
       "label": "影响关系",
       "detail": "Foo Fighters 受 AC/DC 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "black-sabbath",
@@ -295,7 +353,8 @@
       "label": "影响关系",
       "detail": "Foo Fighters 受 Black Sabbath 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "killing-joke",
@@ -306,7 +365,8 @@
       "label": "影响关系",
       "detail": "Foo Fighters 受 Killing Joke 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "mudhoney",
@@ -317,7 +377,8 @@
       "label": "影响关系",
       "detail": "Foo Fighters 受 Mudhoney 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "the-beatles",
@@ -328,7 +389,8 @@
       "label": "影响关系",
       "detail": "Foo Fighters 受 The Beatles 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "flipper",
@@ -339,7 +401,8 @@
       "label": "影响关系",
       "detail": "Foo Fighters 受 Flipper 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     },
     {
       "to": "germs",
@@ -350,7 +413,8 @@
       "label": "影响关系",
       "detail": "Foo Fighters 受 Germs 影响（Wikidata）。",
       "year": null,
-      "weight": 0.46
+      "weight": 0.46,
+      "sources": []
     }
   ]
 }

@@ -8,8 +8,18 @@
   "years": "2024–",
   "genres": [],
   "albums": [],
-  "intro": "Hedigan's是一支来自日本的音乐团体，活跃时期为2024–。",
+  "intro": "Hedigan's是一支来自日本的音乐团体，活跃时期为2024–。MusicBrainz 还记录了它与Suchmos、ザ・プールサイド之间的成员往来。",
   "introLang": "zh",
+  "listens": 0,
+  "listeners": 0,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/99d74e46-7d40-4cff-8fbf-90db8132e7ba"
@@ -24,7 +34,8 @@
       "label": "YONCE",
       "detail": "YONCE 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ザ-プールサイド",
@@ -35,7 +46,8 @@
       "label": "YONCE",
       "detail": "YONCE 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

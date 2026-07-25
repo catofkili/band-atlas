@@ -15,8 +15,18 @@
       "year": 2013
     }
   ],
-  "intro": "Jazz-Iz-Christ是一支来自美国的以爵士乐为主要风格的音乐团体，活跃时期为2012–。",
+  "intro": "Jazz-Iz-Christ是一支来自美国的音乐团体，活跃时期为2012–，现有资料记录的主要风格包括爵士乐。目前资料收录了《Jazz‐Iz‐Christ》等作品；MusicBrainz 还记录了它与System of a Down、Fuktronic、Serart之间的成员往来。",
   "introLang": "zh",
+  "listens": 787,
+  "listeners": 97,
+  "quality": {
+    "score": 17,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c1babec3-803e-4601-8822-9c8a30bc9d9b"
@@ -31,7 +41,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fuktronic",
@@ -42,7 +53,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "serart",
@@ -53,7 +65,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "axis-of-justice",
@@ -64,7 +77,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "forever-young",
@@ -75,7 +89,8 @@
       "label": "Serj Tankian",
       "detail": "Serj Tankian 在这两支乐队都待过。",
       "year": 2012,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

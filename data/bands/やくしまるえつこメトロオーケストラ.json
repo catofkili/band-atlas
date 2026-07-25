@@ -8,8 +8,18 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "やくしまるえつこメトロオーケストラ是一支来自日本的音乐团体。",
+  "intro": "やくしまるえつこメトロオーケストラ是一支来自日本的音乐团体。MusicBrainz 还记录了它与相対性理論、Fishmans+之间的成员往来。",
   "introLang": "zh",
+  "listens": 1503,
+  "listeners": 126,
+  "quality": {
+    "score": 1,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ff3b0cc2-70e6-4952-b511-5e628a825242"
@@ -24,7 +34,8 @@
       "label": "やくしまるえつこ",
       "detail": "やくしまるえつこ 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "fishmans",
@@ -35,7 +46,8 @@
       "label": "やくしまるえつこ",
       "detail": "やくしまるえつこ 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

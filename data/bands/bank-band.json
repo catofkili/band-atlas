@@ -6,7 +6,9 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2004–",
-  "genres": [],
+  "genres": [
+    "日本流行音樂"
+  ],
   "albums": [
     {
       "title": "沿志奏逢",
@@ -27,6 +29,36 @@
   ],
   "intro": "Bank Band是一支日本乐队。成立于2004年。所属唱片公司为Toys Factory。",
   "introLang": "zh",
+  "tracks": [
+    "forgive",
+    "MESSAGE -メッセージ-",
+    "to U",
+    "こだま、ことだま。"
+  ],
+  "trackSources": [
+    {
+      "title": "forgive"
+    },
+    {
+      "title": "MESSAGE -メッセージ-"
+    },
+    {
+      "title": "to U"
+    },
+    {
+      "title": "こだま、ことだま。"
+    }
+  ],
+  "listens": 1311,
+  "listeners": 85,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9f88c846-7248-4fac-be8a-5d728bb95cd8"
@@ -41,7 +73,8 @@
       "label": "桜井和寿・小林武史",
       "detail": "2 位乐手在这两支乐队都待过：桜井和寿・小林武史。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "mr-children",
@@ -52,7 +85,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "possession-80-2-por-cento",
@@ -63,7 +97,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ウカスカジー",
@@ -74,7 +109,8 @@
       "label": "桜井和寿",
       "detail": "桜井和寿 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

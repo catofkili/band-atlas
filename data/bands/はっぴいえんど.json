@@ -29,6 +29,32 @@
   ],
   "intro": "Happy End是活跃于1970年代前半期的日本摇滚乐队。由细野晴臣、大泷颂一、松本隆和铃木茂组建。是活跃于日本摇滚史草创期的乐队之一。",
   "introLang": "zh",
+  "tracks": [
+    "12月の雨の日/はいからはくち",
+    "あしたてんきになあれ",
+    "さよならアメリカ さよならニッポン/無風状態"
+  ],
+  "trackSources": [
+    {
+      "title": "12月の雨の日/はいからはくち"
+    },
+    {
+      "title": "あしたてんきになあれ"
+    },
+    {
+      "title": "さよならアメリカ さよならニッポン/無風状態"
+    }
+  ],
+  "listens": 14484,
+  "listeners": 994,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4bd19b19-4ef4-42e0-ac5c-a21f709d248b"
@@ -43,7 +69,8 @@
       "label": "鈴木茂",
       "detail": "鈴木茂 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ティン-パン-アレー",
@@ -54,7 +81,8 @@
       "label": "鈴木茂",
       "detail": "鈴木茂 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "キャラメル-ママ",
@@ -65,7 +93,8 @@
       "label": "鈴木茂",
       "detail": "鈴木茂 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,8 @@
   "genres": [
     "放克金属",
     "放克摇滚",
-    "金属"
+    "金属",
+    "朋克搖滾"
   ],
   "albums": [
     {
@@ -31,6 +32,24 @@
   ],
   "intro": "Infectious Grooves 是一支由主唱迈克·穆尔（Mike Muir）领军的美国放克金属超级乐队，最初是其所在乐队 Suicidal Tendencies 的副项目。",
   "introLang": "zh",
+  "tracks": [
+    "Therapy"
+  ],
+  "trackSources": [
+    {
+      "title": "Therapy"
+    }
+  ],
+  "listens": 30890,
+  "listeners": 1387,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7e14cf06-532b-4789-8c03-5aa13da4f6f3"
@@ -45,7 +64,8 @@
       "label": "Brooks Wackerman・Mike Muir・Josh Paul",
       "detail": "3 位乐手在这两支乐队都待过：Brooks Wackerman・Mike Muir・Josh Paul。",
       "year": 1993,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "cyco-miko",
@@ -56,7 +76,8 @@
       "label": "Mike Muir・Adam Siegel",
       "detail": "2 位乐手在这两支乐队都待过：Mike Muir・Adam Siegel。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "jane-s-addiction",
@@ -67,7 +88,8 @@
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "no-use-for-a-name",
@@ -78,7 +100,8 @@
       "label": "Dave Nassie",
       "detail": "Dave Nassie 在这两支乐队都待过。",
       "year": 1999,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-vandals",
@@ -89,7 +112,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "methods-of-mayhem",
@@ -100,7 +124,8 @@
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "tenacious-d",
@@ -111,7 +136,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mass-mental",
@@ -122,7 +148,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "medication",
@@ -133,7 +160,8 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 1993,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-panic-channel",
@@ -144,7 +172,8 @@
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "halloween-jack",
@@ -155,7 +184,8 @@
       "label": "Stephen Perkins",
       "detail": "Stephen Perkins 在这两支乐队都待过。",
       "year": 1992,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

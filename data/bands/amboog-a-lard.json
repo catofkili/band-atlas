@@ -8,7 +8,8 @@
   "years": "1987–1997",
   "genres": [
     "前卫前卫金属",
-    "鞭击金属"
+    "鞭击金属",
+    "敲击金属"
   ],
   "albums": [
     {
@@ -20,8 +21,18 @@
       "year": 1993
     }
   ],
-  "intro": "Amboog-a-Lard是一支来自科拉尔斯普林斯的以前卫前卫金属、鞭击金属为主要风格的音乐团体，活跃时期为1987–1997。",
+  "intro": "Amboog-a-Lard是一支来自科拉尔斯普林斯的音乐团体，活跃时期为1987–1997，现有资料记录的主要风格包括前卫前卫金属、鞭击金属、敲击金属。目前资料收录了《Pro Demo》、《A New Hope》等作品；MusicBrainz 还记录了它与Marilyn Manson、Nine Inch Nails、A Perfect Circle之间的成员往来。",
   "introLang": "zh",
+  "listens": 530,
+  "listeners": 18,
+  "quality": {
+    "score": 30,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f2b32ea0-8983-4b30-b706-5840ad083350"
@@ -36,7 +47,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -47,7 +59,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "a-perfect-circle",
@@ -58,7 +71,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 2003,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "desert-sessions",
@@ -69,7 +83,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "goon-moon",
@@ -80,7 +95,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mrs-scabtree",
@@ -91,7 +107,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "satan-on-fire",
@@ -102,7 +119,8 @@
       "label": "Jeordie White",
       "detail": "Jeordie White 在这两支乐队都待过。",
       "year": 1989,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

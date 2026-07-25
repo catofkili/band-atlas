@@ -7,7 +7,8 @@
   "country": "日本",
   "years": "2004–",
   "genres": [
-    "摇滚"
+    "摇滚",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -37,6 +38,40 @@
   ],
   "intro": "9mm Parabellum Bullet是一支日本摇滚乐队。2004年在横滨市成立。",
   "introLang": "zh",
+  "tracks": [
+    "Answer And Answer",
+    "Black Market Blues e.p.",
+    "Cold Edge e.p.",
+    "Supernova/Wanderland",
+    "インフェルノ"
+  ],
+  "trackSources": [
+    {
+      "title": "Answer And Answer"
+    },
+    {
+      "title": "Black Market Blues e.p."
+    },
+    {
+      "title": "Cold Edge e.p."
+    },
+    {
+      "title": "Supernova/Wanderland"
+    },
+    {
+      "title": "インフェルノ"
+    }
+  ],
+  "listens": 57678,
+  "listeners": 1626,
+  "quality": {
+    "score": 81,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cb9b28ec-799f-44d8-a0b2-2eee3e8eb5b1"
@@ -51,7 +86,8 @@
       "label": "菅原卓郎・滝善充",
       "detail": "2 位乐手在这两支乐队都待过：菅原卓郎・滝善充。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "zing",
@@ -62,7 +98,8 @@
       "label": "滝善充",
       "detail": "滝善充 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

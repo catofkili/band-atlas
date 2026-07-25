@@ -7,7 +7,8 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "工业摇滚"
+    "工业摇滚",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -25,6 +26,16 @@
   ],
   "intro": "Tweaker 是一支由克里斯·弗雷纳（Chris Vrenna）于 20 世纪 90 年代末创立的美国乐队。",
   "introLang": "zh",
+  "listens": 39408,
+  "listeners": 1210,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bbcf65ec-b49a-4612-a767-c1062fba84f8"
@@ -39,7 +50,8 @@
       "label": "Clint Walsh",
       "detail": "Clint Walsh 在这两支乐队都待过。",
       "year": 2009,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dot-hacker",
@@ -50,7 +62,8 @@
       "label": "Clint Walsh",
       "detail": "Clint Walsh 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "jack-off-jill",
@@ -61,7 +74,8 @@
       "label": "Clint Walsh",
       "detail": "Clint Walsh 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

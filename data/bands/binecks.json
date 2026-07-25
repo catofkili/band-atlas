@@ -7,7 +7,8 @@
   "country": "日本",
   "years": "2005–2010",
   "genres": [
-    "摇滚"
+    "摇滚",
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -25,6 +26,16 @@
   ],
   "intro": "BINECKS是一支来自日本的四人摇滚乐队。",
   "introLang": "zh",
+  "listens": 132,
+  "listeners": 12,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/43b76999-b5e8-4431-966d-d6fc5fd501ad"
@@ -39,7 +50,8 @@
       "label": "DAITA",
       "detail": "DAITA 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

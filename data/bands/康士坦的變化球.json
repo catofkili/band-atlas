@@ -26,6 +26,16 @@
   ],
   "intro": "康士坦的变化球是2013年成立的台湾乐团，团名取自“唯一不变的是变化本身”。",
   "introLang": "zh",
+  "listens": 3018,
+  "listeners": 176,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cff696d7-d383-4654-b4a7-078e1a321842"
@@ -40,7 +50,8 @@
       "label": "金毛",
       "detail": "金毛 在这两支乐队都待过。",
       "year": 2020,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

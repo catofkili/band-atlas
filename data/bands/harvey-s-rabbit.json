@@ -13,8 +13,18 @@
       "year": 1998
     }
   ],
-  "intro": "Harvey's Rabbit是一支来自曼彻斯特的音乐团体。",
+  "intro": "Harvey's Rabbit是一支来自曼彻斯特的音乐团体。目前资料收录了《The New Spiritual Vacuum》等作品；MusicBrainz 还记录了它与Ride、Oasis、Hurricane #1之间的成员往来。",
   "introLang": "zh",
+  "listens": 21,
+  "listeners": 11,
+  "quality": {
+    "score": 11,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6fc16f58-4562-47e6-a364-b03011e5f1ea"
@@ -29,7 +39,8 @@
       "label": "Andy Bell・Loz Colbert・Steve Queralt",
       "detail": "3 位乐手在这两支乐队都待过：Andy Bell・Loz Colbert・Steve Queralt。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "oasis",
@@ -40,7 +51,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": 2025,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hurricane-1",
@@ -51,7 +63,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "beady-eye",
@@ -62,7 +75,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mantra-of-the-cosmos",
@@ -73,7 +87,8 @@
       "label": "Andy Bell",
       "detail": "Andy Bell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

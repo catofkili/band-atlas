@@ -8,7 +8,10 @@
   "years": "1976–2009",
   "genres": [
     "车库朋克",
-    "车库摇滚"
+    "车库摇滚",
+    "朋克搖滾",
+    "後龐克",
+    "鄉土"
   ],
   "albums": [
     {
@@ -38,6 +41,24 @@
   ],
   "intro": "The Cramps 是一支成立于 1976 年、活跃至 2009 年的美国摇滚乐队。",
   "introLang": "zh",
+  "tracks": [
+    "Goo Goo Muck"
+  ],
+  "trackSources": [
+    {
+      "title": "Goo Goo Muck"
+    }
+  ],
+  "listens": 169600,
+  "listeners": 5718,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071"
@@ -52,7 +73,8 @@
       "label": "Nickey “Beat” Alexander",
       "detail": "Nickey “Beat” Alexander 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nick-cave-the-bad-seeds",
@@ -63,7 +85,8 @@
       "label": "Kid Congo Powers",
       "detail": "Kid Congo Powers 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "knoxville-girls",
@@ -74,7 +97,22 @@
       "label": "Kid Congo Powers",
       "detail": "Kid Congo Powers 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "the-smiths",
+      "toName": "The Smiths",
+      "toArea": "曼彻斯特",
+      "toYears": "1982–1987",
+      "type": "guest",
+      "label": "客串：The Cramps",
+      "detail": "MusicBrainz 录音资料显示，The Cramps参与了《Alternative Classics》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/925325e4-8b9f-4ab1-be86-ee7139f915e6"
+      ]
     },
     {
       "to": "the-weirdos",
@@ -85,7 +123,8 @@
       "label": "Nickey “Beat” Alexander",
       "detail": "Nickey “Beat” Alexander 在这两支乐队都待过。",
       "year": 1976,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "wolfmanhattan-project",
@@ -96,7 +135,8 @@
       "label": "Kid Congo Powers",
       "detail": "Kid Congo Powers 在这两支乐队都待过。",
       "year": 1981,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "germs",
@@ -107,7 +147,8 @@
       "label": "Nickey “Beat” Alexander",
       "detail": "Nickey “Beat” Alexander 在这两支乐队都待过。",
       "year": 1978,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

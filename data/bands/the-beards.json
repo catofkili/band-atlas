@@ -13,8 +13,18 @@
       "year": 2002
     }
   ],
-  "intro": "The Beards是一支来自美国的音乐团体，活跃时期为2001–。",
+  "intro": "The Beards是一支来自美国的音乐团体，活跃时期为2001–。目前资料收录了《Funtown》等作品；MusicBrainz 还记录了它与Pixies、The Muffs、White Flag之间的成员往来。",
   "introLang": "zh",
+  "listens": 323,
+  "listeners": 30,
+  "quality": {
+    "score": 11,
+    "templateIntro": true,
+    "hasGenres": false,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/111344be-b02e-4f46-803e-1c722857325b"
@@ -29,7 +39,8 @@
       "label": "Kim Shattuck",
       "detail": "Kim Shattuck 在这两支乐队都待过。",
       "year": 2013,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-muffs",
@@ -40,7 +51,8 @@
       "label": "Kim Shattuck",
       "detail": "Kim Shattuck 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "white-flag",
@@ -51,7 +63,8 @@
       "label": "Kim Shattuck",
       "detail": "Kim Shattuck 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-pandoras",
@@ -62,7 +75,8 @@
       "label": "Kim Shattuck",
       "detail": "Kim Shattuck 在这两支乐队都待过。",
       "year": 1985,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-coolies",
@@ -73,7 +87,8 @@
       "label": "Kim Shattuck",
       "detail": "Kim Shattuck 在这两支乐队都待过。",
       "year": 2019,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,7 +8,8 @@
   "years": "1978–1999",
   "genres": [
     "实验摇滚",
-    "放克"
+    "放克",
+    "無浪潮"
   ],
   "albums": [
     {
@@ -38,6 +39,16 @@
   ],
   "intro": "Material是一支由音乐制作人兼贝斯手比尔·拉兹韦尔领军的美国流行乐队，成立于1979年，活动持续至1999年。",
   "introLang": "zh",
+  "listens": 11520,
+  "listeners": 1041,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ceaf841a-60e9-4391-9e26-88b853cd4658"
@@ -52,7 +63,8 @@
       "label": "Jerome Brailey・Gary “Mudbone” Cooper・Michael Hampton",
       "detail": "3 位乐手在这两支乐队都待过：Jerome Brailey・Gary “Mudbone” Cooper・Michael Hampton。",
       "year": null,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "funkadelic",
@@ -63,7 +75,8 @@
       "label": "Jerome Brailey・Michael Hampton",
       "detail": "2 位乐手在这两支乐队都待过：Jerome Brailey・Michael Hampton。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "divination",
@@ -74,7 +87,8 @@
       "label": "Bill Laswell・Jeff Bova",
       "detail": "2 位乐手在这两支乐队都待过：Bill Laswell・Jeff Bova。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "parliament-funkadelic",
@@ -85,7 +99,8 @@
       "label": "Gary “Mudbone” Cooper・Michael Hampton",
       "detail": "2 位乐手在这两支乐队都待过：Gary “Mudbone” Cooper・Michael Hampton。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "shin-e",
@@ -96,7 +111,8 @@
       "label": "Bill Laswell・Nicky Skopelitis",
       "detail": "2 位乐手在这两支乐队都待过：Bill Laswell・Nicky Skopelitis。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "axiom-funk",
@@ -107,7 +123,8 @@
       "label": "Bill Laswell・Nicky Skopelitis",
       "detail": "2 位乐手在这两支乐队都待过：Bill Laswell・Nicky Skopelitis。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "the-p-funk-mob",
@@ -118,7 +135,8 @@
       "label": "Gary “Mudbone” Cooper・Michael Hampton",
       "detail": "2 位乐手在这两支乐队都待过：Gary “Mudbone” Cooper・Michael Hampton。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "change",
@@ -129,7 +147,8 @@
       "label": "Jeff Bova",
       "detail": "Jeff Bova 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "praxis",
@@ -140,7 +159,8 @@
       "label": "Bill Laswell",
       "detail": "Bill Laswell 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "public-image-ltd",
@@ -151,7 +171,8 @@
       "label": "Bill Laswell",
       "detail": "Bill Laswell 在这两支乐队都待过。",
       "year": 1986,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "f-o-e",
@@ -162,7 +183,8 @@
       "label": "Aïyb Dieng",
       "detail": "Aïyb Dieng 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dim-stars",
@@ -173,7 +195,8 @@
       "label": "Robert Quine",
       "detail": "Robert Quine 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "socialybrium",
@@ -184,7 +207,8 @@
       "label": "J.T. Lewis",
       "detail": "J.T. Lewis 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "mark-knopfler-s-guitar-heroes",
@@ -195,7 +219,8 @@
       "label": "Nile Rodgers",
       "detail": "Nile Rodgers 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-honeydrippers",
@@ -206,7 +231,8 @@
       "label": "Nile Rodgers",
       "detail": "Nile Rodgers 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

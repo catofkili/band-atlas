@@ -7,11 +7,23 @@
   "country": "美国",
   "years": "1983–1984",
   "genres": [
-    "硬摇滚"
+    "硬摇滚",
+    "重金属音乐",
+    "硬式搖滾"
   ],
   "albums": [],
   "intro": "好莱坞玫瑰（Hollywood Rose）是一支美国华丽金属乐队。该乐队于1983年由克里斯·韦伯（Chris Weber）主导组建，阿克塞尔·罗斯（Axl Rose）、特雷西·甘兹（Tracy Guns）等人曾是其成员。",
   "introLang": "zh",
+  "listens": 2234,
+  "listeners": 337,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f7f66942-6841-4506-bdae-3acc866d6b41"
@@ -26,7 +38,8 @@
       "label": "Izzy Stradlin・Axl Rose・Rob Gardner",
       "detail": "3 位乐手在这两支乐队都待过：Izzy Stradlin・Axl Rose・Rob Gardner。",
       "year": 1985,
-      "weight": 0.95
+      "weight": 0.95,
+      "sources": []
     },
     {
       "to": "l-a-guns",
@@ -37,7 +50,8 @@
       "label": "Axl Rose・Rob Gardner",
       "detail": "2 位乐手在这两支乐队都待过：Axl Rose・Rob Gardner。",
       "year": 1984,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "london",
@@ -48,7 +62,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": 1984,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "izzy-stradlin-and-the-ju-ju-hounds",
@@ -59,7 +74,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gak",
@@ -70,7 +86,8 @@
       "label": "Axl Rose",
       "detail": "Axl Rose 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "pyrrhus",
@@ -81,7 +98,8 @@
       "label": "Rob Gardner",
       "detail": "Rob Gardner 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "rapidfire",
@@ -92,7 +110,8 @@
       "label": "Axl Rose",
       "detail": "Axl Rose 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-atoms",
@@ -103,7 +122,8 @@
       "label": "Izzy Stradlin",
       "detail": "Izzy Stradlin 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -8,11 +8,22 @@
   "years": "1988–1990",
   "genres": [
     "工业摇滚",
-    "工业音乐"
+    "工业音乐",
+    "工業搖滾"
   ],
   "albums": [],
   "intro": "1000 Homo DJs 是美国工业摇滚乐队 Ministry 的副项目。",
   "introLang": "zh",
+  "listens": 10265,
+  "listeners": 1077,
+  "quality": {
+    "score": 63,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": false
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4c44479c-8fde-4754-b9e2-5129eb6fb28d"
@@ -27,7 +38,8 @@
       "label": "Paul Barker・Al Jourgensen",
       "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
       "year": 1986,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "revolting-cocks",
@@ -38,7 +50,8 @@
       "label": "Paul Barker・Al Jourgensen",
       "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "lard",
@@ -49,7 +62,8 @@
       "label": "Paul Barker・Al Jourgensen",
       "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
       "year": 1988,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pailhead",
@@ -60,7 +74,8 @@
       "label": "Paul Barker・Al Jourgensen",
       "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "pigface",
@@ -71,7 +86,8 @@
       "label": "Paul Barker",
       "detail": "Paul Barker 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

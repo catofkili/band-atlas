@@ -7,7 +7,8 @@
   "country": "英国",
   "years": "2008–",
   "genres": [
-    "电子音乐"
+    "电子音乐",
+    "電子音樂"
   ],
   "albums": [
     {
@@ -21,6 +22,16 @@
   ],
   "intro": "Ultraísta 是一支由英裔美国人组成的实验摇滚三人组，成立于2008年。",
   "introLang": "zh",
+  "listens": 16307,
+  "listeners": 1602,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fe4a653a-dc81-4422-b3f0-60ecb9107eeb"
@@ -35,7 +46,22 @@
       "label": "Nigel Godrich",
       "detail": "Nigel Godrich 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
+    },
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "guest",
+      "label": "客串：Nigel Godrich",
+      "detail": "MusicBrainz 录音资料显示，Nigel Godrich参与了《We Turn Red》等录音。",
+      "year": null,
+      "weight": 0.66,
+      "sources": [
+        "https://musicbrainz.org/recording/fdebad88-464a-4ed8-bd10-8f59e2a00b59"
+      ]
     },
     {
       "to": "atoms-for-peace",
@@ -46,7 +72,8 @@
       "label": "Nigel Godrich",
       "detail": "Nigel Godrich 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

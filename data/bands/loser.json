@@ -2,8 +2,8 @@
   "id": "loser",
   "mbid": "577758f9-73db-44cb-9cb6-8508a842db77",
   "name": "Loser",
-  "area": null,
-  "countryCode": null,
+  "area": "美国",
+  "countryCode": "US",
   "country": null,
   "years": null,
   "genres": [
@@ -15,9 +15,20 @@
       "year": 1991
     }
   ],
-  "intro": "Loser是一支以摇滚为主要风格的音乐团体。",
+  "intro": "Loser是一支来自美国的音乐团体，现有资料记录的主要风格包括摇滚。目前资料收录了《Bek's a Loser》等作品；MusicBrainz 还记录了它与Record Club、Nine Inch Nails、Redd Kross之间的成员往来。",
   "introLang": "zh",
-  "region": "unknown",
+  "listens": 31,
+  "listeners": 9,
+  "countryInferred": "member-neighbors",
+  "quality": {
+    "score": 18,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/577758f9-73db-44cb-9cb6-8508a842db77"
   },
@@ -31,7 +42,8 @@
       "label": "Beck・Brian LeBarton",
       "detail": "2 位乐手在这两支乐队都待过：Beck・Brian LeBarton。",
       "year": null,
-      "weight": 0.84
+      "weight": 0.84,
+      "sources": []
     },
     {
       "to": "nine-inch-nails",
@@ -42,7 +54,8 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": 2008,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "redd-kross",
@@ -53,7 +66,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "sparks",
@@ -64,7 +78,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": 2005,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "ima-robot",
@@ -75,7 +90,8 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-john-doe-thing",
@@ -86,7 +102,8 @@
       "label": "Smokey Hormel",
       "detail": "Smokey Hormel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-tater-totz",
@@ -97,7 +114,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "digital-noise-academy",
@@ -108,7 +126,8 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "hankshaw",
@@ -119,7 +138,8 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "broken-bat",
@@ -130,7 +150,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "dale-crover-band",
@@ -141,7 +162,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "nighttime-boogie-association",
@@ -152,7 +174,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "north-american-hallowe-en-prevention-initiative",
@@ -163,7 +186,8 @@
       "label": "Steve McDonald",
       "detail": "Steve McDonald 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-million-dollar-bashers",
@@ -174,7 +198,8 @@
       "label": "Smokey Hormel",
       "detail": "Smokey Hormel 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }

@@ -9,7 +9,8 @@
   "genres": [
     "前卫",
     "实验音乐",
-    "融合爵士"
+    "融合爵士",
+    "器樂搖滾"
   ],
   "albums": [
     {
@@ -31,6 +32,16 @@
   ],
   "intro": "布莱恩·帕特里克·卡罗尔（Brian Patrick Carroll，1969年5月13日出生），艺名Buckethead，是一位美国吉他手。",
   "introLang": "zh",
+  "listens": 3688,
+  "listeners": 261,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0cddd743-57d8-42d8-bd50-881777462812"
@@ -45,7 +56,8 @@
       "label": "Travis Dickerson",
       "detail": "Travis Dickerson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "gorgone",
@@ -56,7 +68,8 @@
       "label": "Travis Dickerson",
       "detail": "Travis Dickerson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "buckethead-and-his-bucket-bots",
@@ -67,7 +80,8 @@
       "label": "Travis Dickerson",
       "detail": "Travis Dickerson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     },
     {
       "to": "the-dragons-of-eden",
@@ -78,7 +92,8 @@
       "label": "Travis Dickerson",
       "detail": "Travis Dickerson 在这两支乐队都待过。",
       "year": null,
-      "weight": 0.62
+      "weight": 0.62,
+      "sources": []
     }
   ]
 }
