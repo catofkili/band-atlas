@@ -1,0 +1,17 @@
+{
+  "name": "band-atlas",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build:data": "node tools/build-data.mjs",
+    "build:standalone": "node tools/build-standalone.mjs",
+    "check:layout": "node tools/check-layout.mjs",
+    "build": "npm run build:data && npm run check:layout && npm run build:standalone"
+  },
+  "devDependencies": {
+    "graphology": "^0.26.0",
+    "graphology-components": "^1.5.4",
+    "graphology-layout-forceatlas2": "^0.10.1",
+    "graphology-layout-noverlap": "^0.4.2"
+  }
+}

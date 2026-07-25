@@ -8,7 +8,7 @@
 每张只露出一半，用带颜色的线牵着。点边缘的卡片，镜头滑过去，它展开成新的焦点，
 它自己的邻居再从新的屏幕边缘探出头来。
 
-**351 支乐队 / 761 条关系**，平均每支 4.3 条，没有孤岛。
+**1042 支乐队 / 2610 条关系**，平均每支 5.0 条。
 骨架由 MusicBrainz 爬来，简介取自维基百科，其中 26 支经过人工整理——
 中文简介、代表曲、轶事，以及数据库里根本没有的恩怨。
 
@@ -18,24 +18,25 @@
 python3 -m http.server 8790
 ```
 
-然后打开 <http://localhost:8790>。纯静态，没有构建步骤，也没有后端。
+然后打开 <http://localhost:8790>。线上仍是纯静态站，没有后端。
 （用模块化 JS，所以必须走 http，`file://` 打不开。）
 
 改完数据源之后重新生成每支乐队的 JSON：
 
 ```bash
-node tools/build-data.mjs
+npm install
+npm run build
 ```
 
 ## 发布
 
 推到 `main` 就会自动更新线上站点（GitHub Pages，从仓库根目录发布），一两分钟生效。
 
-`dist/band-atlas.html` 是把样式、脚本和全部数据压进去的单文件版，79 KB、零外部请求，
+`dist/band-atlas.html` 是把样式、脚本和全部数据压进去的单文件版，零外部请求，
 双击就能开，也能丢进禁止发请求的沙箱。改完内容重新生成：
 
 ```bash
-node tools/build-data.mjs && node tools/build-standalone.mjs
+npm run build
 ```
 
 ## 目录
@@ -45,6 +46,7 @@ index.html              外壳
 style.css               全部样式（深色单主题）
 js/
   main.js               舞台、相机、导航、搜索、路由
+  map.js                读取离线坐标、四级预渲染、缩放与拖动
   layout.js             以焦点为中心的局部布局
   render.js             卡片与连线的 DOM
   data.js               按需加载 + 邻居预取
@@ -58,13 +60,16 @@ data/
     scene-jrock.json    人工整理，覆盖层：中文简介、轶事、恩怨
   bands/<id>.json       构建产物，每支乐队一份
   index.json            构建产物，随机进站与搜索用
+  graph.json            构建产物，全网关系与固定 (x, y) 坐标
 tools/
   crawl.mjs             爬 MusicBrainz，穿过乐手把乐队连起来
   fetch-popular-seeds.mjs ListenBrainz 全站收听量榜（热门度顺序）
   fetch-intros.mjs      Wikidata 找条目 → 维基百科取首段
   translate-zh.mjs      外文简介、地区、流派 → 简体中文翻译缓存
   fetch-influences.mjs  Wikidata P737「受谁影响」→ 只留网内关系
-  build-data.mjs        三层合并、展开成双向边、校验
+  build-data.mjs        数据合并、展开双向边、生成离线地图
+  lib/layout-graph.mjs  Graphology ForceAtlas2 + Noverlap
+  check-layout.mjs      坐标、标签碰撞与关系线长度验收
   build-standalone.mjs  压成一个自包含 HTML
   lib/mb.mjs            限速、落盘缓存、重试
 ```
@@ -77,8 +82,7 @@ node tools/crawl.mjs --max-bands 400 --depth 2 --seed-limit 24 # 按热门榜顺
 node tools/fetch-intros.mjs                      # 约 1 分钟
 DEEPL_AUTH_KEY=... node tools/translate-zh.mjs   # 只翻新增或源文变化的条目
 node tools/fetch-influences.mjs                  # Wikidata 影响关系，秒级
-node tools/build-data.mjs                        # 秒级
-node tools/build-standalone.mjs
+npm run build                                    # 离线布局、校验、单文件版
 ```
 
 所有响应都缓存在 `.cache/`（已 gitignore），中断了重跑、或者改爬取策略再来一遍，
@@ -122,6 +126,12 @@ node tools/build-standalone.mjs
 任意时刻世界里只有焦点（原点）和它的邻居。点击邻居时相机滑过去，
 动画结束的那一帧把世界原点偷换成新焦点、重新布点。画面内容一致，看不出破绽。
 
+**全网地图使用固定的离线坐标。** 构建脚本把关系数据交给 Graphology：
+先按关系强度运行 ForceAtlas2（LinLog + Barnes–Hut），再用 Noverlap 做标签碰撞收尾，
+最后把不同连通分量确定性地装箱，并把 `(x, y)` 写进 `data/graph.json`。
+浏览器不运行力导向，也不因焦点变化挪动节点；它只按四个固定层级画图、缩放和平移。
+同一份数据重复构建会得到完全相同的坐标，便于分享与截图。
+
 **槽位沿边框走，不按角度均分。** 按角度分会出问题：宽屏上「离垂直方向 26°」
 在水平方向只有几十像素，上下两张卡片会挤在焦点卡片正后方。按边长分则贴着边均匀铺开。
 四个角留空——角上的卡片只露得出四分之一，而且四个角正是 HUD 所在的位置。
@@ -142,7 +152,7 @@ node tools/build-standalone.mjs
 
 ## 接下来
 
-- **要更多乐队**：`--max-bands` 调大、`--depth` 调到 3。缓存还在，增量只花新增那部分的时间。
+- **新增乐队**：目前不自动扩张；需要时先按东亚与实际热度筛选，再人工启动增量管线。
 - **影响关系**：Wikidata `P737` 已接入；它覆盖不均，且只收两端都在本网内的关系，人工补充仍然很重要。
 - **专辑封面**：Cover Art Archive，构建期生成缩略图存同源。
 - **恩怨**：没有结构化来源，只能 LLM 读 Wikipedia 抽事件 + 人工逐条审核。

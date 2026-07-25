@@ -1,6 +1,6 @@
 import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js';
 import { layoutNeighbors } from './layout.js';
-import { createNetworkMap } from './map.js?v=20260725-13';
+import { createNetworkMap } from './map.js?v=20260726-1';
 import {
   buildFocusCard,
   buildPeekCard,

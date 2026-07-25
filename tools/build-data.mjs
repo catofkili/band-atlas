@@ -15,6 +15,7 @@
 import { readFile, writeFile, mkdir, rm } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import { layoutGraphOffline } from './lib/layout-graph.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT_DIR = path.join(root, 'data/bands');
@@ -289,94 +290,10 @@ const index = {
 };
 await writeFile(path.join(root, 'data/index.json'), JSON.stringify(index, null, 2) + '\n');
 
-/**
- * 关系地图的位置在构建时算好。以前这 420 轮力布局在每台手机第一次打开地图时运行，
- * 会和双指缩放抢主线程；现在浏览器只读取最终坐标。
- */
-const layoutHash = (text) => {
-  let value = 2166136261;
-  for (const char of text) value = Math.imul(value ^ char.charCodeAt(0), 16777619);
-  return value >>> 0;
-};
+/** 关系地图的位置在构建期由 ForceAtlas2 与防碰撞布局一次算好。 */
 const layoutTextUnits = (text) =>
   [...text].reduce((sum, char) => sum + (char.codePointAt(0) > 255 ? 1 : 0.62), 0);
 const layoutLabelWidth = (name) => Math.max(42, Math.min(188, layoutTextUnits(name) * 11 + 18));
-
-function graphLayout(nodes, edges) {
-  const points = new Map();
-  [...nodes].sort((a, b) => layoutHash(a.id) - layoutHash(b.id)).forEach((node, index) => {
-    const angle = index * 2.399963229728653;
-    const radius = 18 * Math.sqrt(index);
-    points.set(node.id, {
-      node,
-      labelWidth: layoutLabelWidth(node.name),
-      x: Math.cos(angle) * radius,
-      y: Math.sin(angle) * radius,
-      vx: 0,
-      vy: 0,
-    });
-  });
-  const links = edges
-    .map((edge) => [points.get(edge.from), points.get(edge.to)])
-    .filter(([a, b]) => a && b);
-  const cellSize = 210;
-  for (let step = 0; step < 420; step += 1) {
-    const grid = new Map();
-    for (const point of points.values()) {
-      const key = `${Math.floor(point.x / cellSize)},${Math.floor(point.y / cellSize)}`;
-      const bucket = grid.get(key) || [];
-      bucket.push(point);
-      grid.set(key, bucket);
-    }
-    for (const point of points.values()) {
-      point.vx -= point.x * 0.00075;
-      point.vy -= point.y * 0.00075;
-      const gx = Math.floor(point.x / cellSize);
-      const gy = Math.floor(point.y / cellSize);
-      for (let x = gx - 1; x <= gx + 1; x += 1) for (let y = gy - 1; y <= gy + 1; y += 1) {
-        for (const other of grid.get(`${x},${y}`) || []) {
-          if (point === other || point.node.id > other.node.id) continue;
-          let dx = other.x - point.x;
-          const dy = other.y - point.y;
-          if (dx === 0 && dy === 0) dx = 0.01;
-          const overlapX = (point.labelWidth + other.labelWidth) / 2 + 10 - Math.abs(dx);
-          const overlapY = 34 - Math.abs(dy);
-          if (overlapX <= 0 || overlapY <= 0) continue;
-          if (overlapX < overlapY) {
-            const push = Math.sign(dx) * overlapX * 0.055;
-            point.vx -= push;
-            other.vx += push;
-          } else {
-            const push = Math.sign(dy || 1) * overlapY * 0.075;
-            point.vy -= push;
-            other.vy += push;
-          }
-        }
-      }
-    }
-    for (const [a, b] of links) {
-      const dx = b.x - a.x;
-      const dy = b.y - a.y;
-      const distance = Math.hypot(dx, dy) || 1;
-      const target = (a.labelWidth + b.labelWidth) / 2 +
-        Math.min(46, Math.max(a.labelWidth, b.labelWidth) * 0.48);
-      const force = (distance - target) * 0.042;
-      const fx = dx / distance * force;
-      const fy = dy / distance * force;
-      a.vx += fx;
-      a.vy += fy;
-      b.vx -= fx;
-      b.vy -= fy;
-    }
-    for (const point of points.values()) {
-      point.vx *= 0.58;
-      point.vy *= 0.58;
-      point.x += point.vx;
-      point.y += point.vy;
-    }
-  }
-  return points;
-}
 
 // 缩略地图不再逐支请求 JSON：一次拿到轻量节点和全量连线，Canvas 才能画出真正的网状图。
 const graphEdges = [...seen].map((key) => {
@@ -391,15 +308,18 @@ const graphNodes = [...merged.values()].map((b) => ({
   degree: adjacency.get(b.id).length,
   listens: b.listens ?? null,
   listeners: b.listeners ?? null,
+  labelWidth: layoutLabelWidth(b.name),
 }));
-const layoutPositions = graphLayout(graphNodes, graphEdges);
+const { positions: layoutPositions, metadata: layoutMetadata, milliseconds: layoutMilliseconds } =
+  layoutGraphOffline(graphNodes, graphEdges);
 const graph = {
   generatedAt: index.generatedAt,
+  layout: layoutMetadata,
   nodes: graphNodes.map((node) => {
     const point = layoutPositions.get(node.id);
     return {
       ...node,
-      labelWidth: Math.round(point.labelWidth * 10) / 10,
+      labelWidth: Math.round(node.labelWidth * 10) / 10,
       x: Math.round(point.x * 10) / 10,
       y: Math.round(point.y * 10) / 10,
     };
@@ -414,5 +334,7 @@ console.log(
   `✓ ${merged.size} 支乐队 / ${edgeCount} 条关系` +
     (isolated.length ? `（丢掉 ${isolated.length} 个孤岛）` : '') +
     `\n  每队关系数：最少 ${Math.min(...degrees)}，最多 ${Math.max(...degrees)}，` +
-    `平均 ${(degrees.reduce((a, b) => a + b, 0) / degrees.length).toFixed(1)}`
+    `平均 ${(degrees.reduce((a, b) => a + b, 0) / degrees.length).toFixed(1)}` +
+    `\n  离线布局：${layoutMetadata.algorithm}，${layoutMetadata.components} 个分量，` +
+    `标签重叠 ${layoutMetadata.overlaps}，${layoutMilliseconds}ms`
 );

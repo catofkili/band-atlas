@@ -12,6 +12,7 @@ const STAGES = [
 ];
 const OVERSCAN = 2;
 const MAX_SNAPSHOT_PIXELS = 4_000_000;
+const GRAPH_VERSION = '20260726-1';
 
 const hash = (text) => {
   let value = 2166136261;
@@ -43,7 +44,6 @@ export function createNetworkMap({ canvas, onChoose }) {
   let adjacency;
   let rankedHops = [];
   let primaryIds = [];
-  let localPositions = new Map();
   let stageViews = [];
   let snapshots = [];
   let activeStage = 0;
@@ -70,7 +70,7 @@ export function createNetworkMap({ canvas, onChoose }) {
 
   async function load() {
     if (graph) return;
-    graph = await fetch('data/graph.json').then((response) => response.json());
+    graph = await fetch(`data/graph.json?v=${GRAPH_VERSION}`).then((response) => response.json());
     nodes = new Map(
       graph.nodes.map((node) => [
         node.id,
@@ -96,11 +96,6 @@ export function createNetworkMap({ canvas, onChoose }) {
     }
   }
 
-  function desiredLinkLength(a, b) {
-    return (a.node.labelWidth + b.node.labelWidth) / 2 +
-      Math.min(46, Math.max(a.node.labelWidth, b.node.labelWidth) * 0.48);
-  }
-
   function prepareFocus(id) {
     const hops = new Map([[id, 0]]);
     const queue = [id];
@@ -118,34 +113,9 @@ export function createNetworkMap({ canvas, onChoose }) {
       return (nodes.get(b)?.degree || 0) - (nodes.get(a)?.degree || 0) || hash(a) - hash(b);
     });
 
-    const focus = positions.get(id);
     primaryIds = [...(adjacency.get(id) || [])].sort((a, b) => {
       const degreeDifference = (nodes.get(b)?.degree || 0) - (nodes.get(a)?.degree || 0);
       return degreeDifference || hash(a) - hash(b);
-    });
-    const compactAngles = [
-      -Math.PI / 2,
-      Math.PI / 2,
-      -Math.PI * 3 / 4,
-      -Math.PI / 4,
-      Math.PI * 3 / 4,
-      Math.PI / 4,
-      Math.PI,
-      0,
-    ];
-    const compactOrder = [...primaryIds.slice(0, 8)]
-      .sort((a, b) => nodes.get(b).labelWidth - nodes.get(a).labelWidth);
-    const compactAngle = new Map(
-      compactOrder.map((neighborId, index) => [neighborId, compactAngles[index]])
-    );
-    localPositions = new Map();
-    primaryIds.forEach((neighborId, index) => {
-      const neighbor = positions.get(neighborId);
-      localPositions.set(neighborId, {
-        index,
-        radius: desiredLinkLength(focus, neighbor) * (index % 2 ? 1.24 : 1),
-        compactAngle: compactAngle.get(neighborId),
-      });
     });
 
     stageViews = STAGES.map((stage, index) => {
@@ -190,39 +160,6 @@ export function createNetworkMap({ canvas, onChoose }) {
     return Math.min(tx, ty);
   }
 
-  function displayPosition(point, renderScale) {
-    const local = localPositions.get(point.node.id);
-    if (!local) return point;
-    const focus = positions.get(focusId);
-    const count = renderScale >= 0.82 ? Math.min(8, primaryIds.length) : primaryIds.length;
-    const angle = renderScale >= 0.82
-      ? local.compactAngle
-      : -Math.PI / 2 + (local.index / Math.max(1, count)) * Math.PI * 2;
-    const metrics = labelMetrics(point.node, renderScale);
-    const cos = Math.cos(angle);
-    const sin = Math.sin(angle);
-    let radiusScreen = local.radius * renderScale;
-    if (Math.abs(cos) > 0.001) {
-      radiusScreen = Math.min(
-        radiusScreen,
-        (viewportWidth / 2 - metrics.widthScreen / 2 - 14) / Math.abs(cos)
-      );
-    }
-    if (Math.abs(sin) > 0.001) {
-      radiusScreen = Math.min(
-        radiusScreen,
-        (viewportHeight / 2 - metrics.heightScreen / 2 - 68) / Math.abs(sin)
-      );
-    }
-    const focusMetrics = labelMetrics(focus.node, renderScale);
-    const minimumScreen = (
-      boundaryDistance(focusMetrics, cos, sin, renderScale) +
-      boundaryDistance(metrics, cos, sin, renderScale)
-    ) * renderScale + 12;
-    const radius = Math.max(minimumScreen, radiusScreen) / renderScale;
-    return { x: focus.x + cos * radius, y: focus.y + sin * radius };
-  }
-
   function renderSnapshot(buffer, stageIndex) {
     const stage = STAGES[stageIndex];
     const view = stageViews[stageIndex];
@@ -233,9 +170,7 @@ export function createNetworkMap({ canvas, onChoose }) {
     const focus = positions.get(focusId);
     const baseOffsetX = -focus.x * renderScale;
     const baseOffsetY = -focus.y * renderScale;
-    const display = new Map(
-      view.points.map((point) => [point.node.id, displayPosition(point, renderScale)])
-    );
+    const display = new Map(view.points.map((point) => [point.node.id, point]));
 
     bufferCtx.setTransform(snapshotRatio, 0, 0, snapshotRatio, 0, 0);
     bufferCtx.fillStyle = '#0d1014';
@@ -292,10 +227,27 @@ export function createNetworkMap({ canvas, onChoose }) {
   }
 
   function sizeCanvas() {
-    viewportWidth = Math.max(1, canvas.parentElement.clientWidth);
-    viewportHeight = Math.max(1, canvas.parentElement.clientHeight);
-    canvasCssWidth = Math.ceil(viewportWidth * OVERSCAN);
-    canvasCssHeight = Math.ceil(viewportHeight * OVERSCAN);
+    viewportWidth = Math.max(1, surface.clientWidth);
+    viewportHeight = Math.max(1, surface.clientHeight);
+    const focus = positions.get(focusId);
+    let requiredHalfWidth = viewportWidth;
+    let requiredHalfHeight = viewportHeight;
+    stageViews.forEach((view, index) => {
+      const renderScale = STAGES[index].scale;
+      for (const point of view.points) {
+        const metrics = labelMetrics(point.node, renderScale);
+        requiredHalfWidth = Math.max(
+          requiredHalfWidth,
+          Math.abs(point.x - focus.x) * renderScale + metrics.widthScreen / 2 + 24
+        );
+        requiredHalfHeight = Math.max(
+          requiredHalfHeight,
+          Math.abs(point.y - focus.y) * renderScale + metrics.heightScreen / 2 + 80
+        );
+      }
+    });
+    canvasCssWidth = Math.ceil(Math.max(viewportWidth * OVERSCAN, requiredHalfWidth * 2));
+    canvasCssHeight = Math.ceil(Math.max(viewportHeight * OVERSCAN, requiredHalfHeight * 2));
     canvasLeft = -(canvasCssWidth - viewportWidth) / 2;
     canvasTop = -(canvasCssHeight - viewportHeight) / 2;
     snapshotRatio = Math.min(
@@ -391,10 +343,9 @@ export function createNetworkMap({ canvas, onChoose }) {
   function hit(screenX, screenY) {
     const stageScale = STAGES[activeStage].scale;
     for (const point of [...stageViews[activeStage].points].reverse()) {
-      const at = displayPosition(point, stageScale);
       const metrics = labelMetrics(point.node, stageScale);
-      const x = viewportWidth / 2 + offsetX + at.x * scale;
-      const y = viewportHeight / 2 + offsetY + at.y * scale;
+      const x = viewportWidth / 2 + offsetX + point.x * scale;
+      const y = viewportHeight / 2 + offsetY + point.y * scale;
       const sizeRatio = scale / stageScale;
       if (
         Math.abs(screenX - x) <= metrics.widthScreen * sizeRatio / 2 + 4 &&
