@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "1986–1993 / 2004–",
   "genres": [
-    "Alternative Rock",
-    "Noise Pop"
+    "另类摇滚",
+    "噪音流行乐"
   ],
   "albums": [
     {
@@ -79,7 +79,7 @@
     {
       "to": "band-of-skulls",
       "toName": "Band of Skulls",
-      "toArea": "Southampton",
+      "toArea": "南安普敦",
       "toYears": "2004–",
       "type": "member",
       "label": "Emma Richardson",
@@ -112,7 +112,7 @@
     {
       "to": "silver-jews",
       "toName": "Silver Jews",
-      "toArea": "Charlottesville",
+      "toArea": "夏洛茨维尔",
       "toYears": "1989–2009",
       "type": "member",
       "label": "Paz Lenchantin",
@@ -145,7 +145,7 @@
     {
       "to": "white-flag",
       "toName": "White Flag",
-      "toArea": "Moreno Valley",
+      "toArea": "莫雷诺谷",
       "toYears": "1982–",
       "type": "member",
       "label": "Kim Shattuck",
@@ -222,7 +222,7 @@
     {
       "to": "the-amps",
       "toName": "The Amps",
-      "toArea": "Dayton",
+      "toArea": "代顿",
       "toYears": "1995–1996",
       "type": "member",
       "label": "Kim Deal",
@@ -266,7 +266,7 @@
     {
       "to": "sex-pistols",
       "toName": "Sex Pistols",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "influence",
       "label": "影响关系",

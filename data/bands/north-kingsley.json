@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "North Kingsley是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/12ab2815-048a-49c5-ab07-ca5c19bc49c2"
@@ -16,7 +18,7 @@
     {
       "to": "system-of-a-down",
       "toName": "System of a Down",
-      "toArea": "Glendale",
+      "toArea": "格伦代尔",
       "toYears": "1995–",
       "type": "member",
       "label": "Shavo Odadjian",

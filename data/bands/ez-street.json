@@ -2,14 +2,16 @@
   "id": "ez-street",
   "mbid": "cf9211f1-9e49-4efe-bf96-1138e4da7d3a",
   "name": "EZ-Street",
-  "area": "Oakland",
+  "area": "奥克兰",
   "countryCode": "US",
   "country": "美国",
   "years": null,
   "genres": [
-    "Rock"
+    "摇滚"
   ],
   "albums": [],
+  "intro": "EZ-Street是一支来自奥克兰的以摇滚为主要风格的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cf9211f1-9e49-4efe-bf96-1138e4da7d3a"
@@ -29,7 +31,7 @@
     {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1968–2025",
       "type": "member",
       "label": "Mike Bordin",
@@ -62,7 +64,7 @@
     {
       "to": "agents-of-misfortune",
       "toName": "Agents Of Misfortune",
-      "toArea": "Hayward",
+      "toArea": "海沃德",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -84,7 +86,7 @@
     {
       "to": "maxwell-house-ranch-band",
       "toName": "Maxwell House Ranch Band",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -95,7 +97,7 @@
     {
       "to": "spastik-children",
       "toName": "Spastik Children",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -106,7 +108,7 @@
     {
       "to": "vicious-hatred",
       "toName": "Vicious Hatred",
-      "toArea": "Hayward",
+      "toArea": "海沃德",
       "toYears": "1981–1982",
       "type": "member",
       "label": "Cliff Burton",

@@ -7,7 +7,7 @@
   "country": "英国",
   "years": "1969–2015",
   "genres": [
-    "Rock"
+    "摇滚"
   ],
   "albums": [
     {
@@ -133,7 +133,7 @@
     {
       "to": "the-beat-brothers",
       "toName": "The Beat Brothers",
-      "toArea": "Hamburg",
+      "toArea": "汉堡",
       "toYears": "1961–",
       "type": "member",
       "label": "John Lennon",

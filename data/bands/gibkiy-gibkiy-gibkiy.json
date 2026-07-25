@@ -7,9 +7,8 @@
   "country": "日本",
   "years": "2016–",
   "genres": [
-    "Alternative Metal",
-    "Art Kei",
-    "Experimental Rock"
+    "另类金属",
+    "实验摇滚"
   ],
   "albums": [
     {
@@ -21,6 +20,8 @@
       "year": 2017
     }
   ],
+  "intro": "gibkiy gibkiy gibkiy是一支来自日本的以另类金属、实验摇滚为主要风格的音乐团体，活跃时期为2016–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fe2385a7-5dda-4e67-845b-f09783805b44"

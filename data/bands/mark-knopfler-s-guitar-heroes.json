@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Mark Knopfler’s Guitar Heroes是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6d1c3698-6ef2-4f67-b626-fa16e2c69c8e"
@@ -104,7 +106,7 @@
     {
       "to": "the-honeydrippers",
       "toName": "The Honeydrippers",
-      "toArea": "Worcestershire",
+      "toArea": "伍斯特郡",
       "toYears": "1981–1985",
       "type": "member",
       "label": "Jeff Beck・Nile Rodgers",
@@ -115,7 +117,7 @@
     {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1968–2025",
       "type": "member",
       "label": "Tony Iommi",
@@ -203,7 +205,7 @@
     {
       "to": "chickenfoot",
       "toName": "Chickenfoot",
-      "toArea": "Cabo San Lucas",
+      "toArea": "卡波圣卢卡斯",
       "toYears": "2008–",
       "type": "member",
       "label": "Joe Satriani",
@@ -269,7 +271,7 @@
     {
       "to": "jokers-wild",
       "toName": "Jokers Wild",
-      "toArea": "Cambridge",
+      "toArea": "剑桥",
       "toYears": "1964–1966",
       "type": "member",
       "label": "David Gilmour",

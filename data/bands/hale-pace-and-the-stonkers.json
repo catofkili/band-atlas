@@ -8,8 +8,8 @@
   "years": "1991–1991",
   "genres": [],
   "albums": [],
-  "intro": "Hale and Pace were an English comedy double-act that performed in clubs and on radio and television in the United Kingdom in the 1980s and 1990s.",
-  "introLang": "en",
+  "intro": "Hale and Pace 是一对英国喜剧搭档，于 20 世纪 80 年代和 90 年代在英国的俱乐部、广播电台和电视台进行演出。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bc57af6d-769b-490e-822d-94fab4afc135"
@@ -18,7 +18,7 @@
     {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1968–2025",
       "type": "member",
       "label": "Tony Iommi・Cozy Powell・Neil Murray",
@@ -84,7 +84,7 @@
     {
       "to": "queen-paul-rodgers",
       "toName": "Queen + Paul Rodgers",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Roger Taylor",
@@ -139,7 +139,7 @@
     {
       "to": "jokers-wild",
       "toName": "Jokers Wild",
-      "toArea": "Cambridge",
+      "toArea": "剑桥",
       "toYears": "1964–1966",
       "type": "member",
       "label": "David Gilmour",
@@ -150,7 +150,7 @@
     {
       "to": "queen-adam-lambert",
       "toName": "Queen + Adam Lambert",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Roger Taylor",

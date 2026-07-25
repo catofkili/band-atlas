@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "MC50是一支来自美国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3255235c-ede0-40d7-b671-cdd7751e6d58"
@@ -49,7 +51,7 @@
     {
       "to": "queens-of-the-stone-age",
       "toName": "Queens of the Stone Age",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1996–",
       "type": "member",
       "label": "Matt Cameron",

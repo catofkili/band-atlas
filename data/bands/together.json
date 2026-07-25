@@ -2,7 +2,7 @@
   "id": "together",
   "mbid": "05527f5e-341d-4f98-a41e-72fc9f6dafcf",
   "name": "Together",
-  "area": "Paris",
+  "area": "巴黎",
   "countryCode": "FR",
   "country": "法国",
   "years": "2000–",
@@ -18,7 +18,7 @@
     {
       "to": "daft-punk",
       "toName": "Daft Punk",
-      "toArea": "Paris",
+      "toArea": "巴黎",
       "toYears": "1993–2021",
       "type": "member",
       "label": "Thomas Bangalter",
@@ -40,7 +40,7 @@
     {
       "to": "darlin",
       "toName": "Darlin’",
-      "toArea": "Versailles",
+      "toArea": "凡尔赛",
       "toYears": "1992–1993",
       "type": "member",
       "label": "Thomas Bangalter",

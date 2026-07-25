@@ -7,9 +7,9 @@
   "country": null,
   "years": "2008–",
   "genres": [
-    "Alternative Rock",
-    "Dream Pop",
-    "Indie Rock"
+    "另类摇滚",
+    "梦幻流行乐",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -21,8 +21,8 @@
       "year": 2012
     }
   ],
-  "intro": "Apparatjik ( ap-ə-RAT-chik) are a multi-national band formed in 2008.",
-  "introLang": "en",
+  "intro": "Apparatjik（发音：ap-ə-RAT-chik）是一支成立于2008年的跨国乐队。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/08f3baa2-9962-4fa7-a8c7-95d64d75d348"

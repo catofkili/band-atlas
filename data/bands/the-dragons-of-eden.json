@@ -7,11 +7,13 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "Hard Rock",
-    "Instrumental",
-    "Instrumental Rock"
+    "硬摇滚",
+    "纯器乐",
+    "器乐摇滚"
   ],
   "albums": [],
+  "intro": "The Dragons of Eden是一支来自美国的以硬摇滚、纯器乐为主要风格的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/23a090b5-e504-454a-9cbd-95dac6d07d97"
@@ -42,7 +44,7 @@
     {
       "to": "gorgone",
       "toName": "Gorgone",
-      "toArea": "France",
+      "toArea": "法国",
       "toYears": null,
       "type": "member",
       "label": "Travis Dickerson",

@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1981–2011",
   "genres": [
-    "Noise Rock",
-    "Alternative Rock",
-    "No Wave"
+    "噪音摇滚",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -96,7 +95,7 @@
     {
       "to": "pavement",
       "toName": "Pavement",
-      "toArea": "Stockton",
+      "toArea": "斯托克顿",
       "toYears": "1989–2000",
       "type": "member",
       "label": "Mark Ibold",
@@ -140,7 +139,7 @@
     {
       "to": "body-head",
       "toName": "Body/Head",
-      "toArea": "Northampton",
+      "toArea": "北安普顿",
       "toYears": "2012–",
       "type": "member",
       "label": "Kim Gordon",

@@ -2,13 +2,12 @@
   "id": "parliament-funkadelic",
   "mbid": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d",
   "name": "Parliament-Funkadelic",
-  "area": "Plainfield",
+  "area": "普莱恩菲尔德",
   "countryCode": "US",
   "country": "美国",
   "years": "1968–",
   "genres": [
-    "P-Funk",
-    "Funk"
+    "放克"
   ],
   "albums": [
     {
@@ -34,7 +33,7 @@
     {
       "to": "funkadelic",
       "toName": "Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1981",
       "type": "member",
       "label": "Bootsy Collins・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Michael Payne・Garry Shider・Undi$co Kidd",
@@ -45,7 +44,7 @@
     {
       "to": "parliament",
       "toName": "Parliament",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1980",
       "type": "member",
       "label": "Bootsy Collins・Gary “Mudbone” Cooper・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Garry Shider・Undi$co Kidd・Maceo Parker・David Spradley・Fred Wesley",
@@ -89,7 +88,7 @@
     {
       "to": "praxis",
       "toName": "Praxis",
-      "toArea": "Brooklyn",
+      "toArea": "布鲁克林",
       "toYears": "1992–2011",
       "type": "member",
       "label": "Bootsy Collins",
@@ -100,7 +99,7 @@
     {
       "to": "funkadelic",
       "toName": "Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1981",
       "type": "guest",
       "label": "合作",
@@ -111,7 +110,7 @@
     {
       "to": "parliament",
       "toName": "Parliament",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1980",
       "type": "guest",
       "label": "合作",

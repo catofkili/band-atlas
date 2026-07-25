@@ -2,7 +2,7 @@
   "id": "lucky-pierre",
   "mbid": "447411ac-af07-423a-9be1-12ae0cafc640",
   "name": "Lucky Pierre",
-  "area": "Cleveland",
+  "area": "克利夫兰",
   "countryCode": "US",
   "country": "美国",
   "years": "1974–",
@@ -13,8 +13,8 @@
       "year": 2004
     }
   ],
-  "intro": "Lucky Pierre is a new wave band, founded in Cleveland in 1974 by singer-songwriter, guitarist and the only constant member, Kevin McMahon.",
-  "introLang": "en",
+  "intro": "Lucky Pierre 是一支新浪潮乐队，由唱作人、吉他手兼乐队唯一元老成员凯文·麦克马洪（Kevin McMahon）于 1974 年在克利夫兰创立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/447411ac-af07-423a-9be1-12ae0cafc640"
@@ -45,7 +45,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Kevin McMahon",

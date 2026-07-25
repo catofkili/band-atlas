@@ -17,6 +17,8 @@
       "year": 2020
     }
   ],
+  "intro": "3RENSA是一支来自日本的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0ccbe20b-d465-458f-83b3-28e4e7efcd4c"

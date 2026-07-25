@@ -8,8 +8,8 @@
   "years": "1985–1986",
   "genres": [],
   "albums": [],
-  "intro": "Deep End was a short-lived supergroup founded by guitarist Pete Townshend of the Who and featuring David Gilmour of Pink Floyd.",
-  "introLang": "en",
+  "intro": "Deep End 是一支短命的超级乐队，由“谁人乐队”（The Who）的吉他手皮特·汤森（Pete Townshend）创立，成员中包括“平克·弗洛伊德”（Pink Floyd）的大卫·吉尔摩（David Gilmour）。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/76fc9a1d-4499-4c92-91cf-85f87ee50787"
@@ -84,7 +84,7 @@
     {
       "to": "jokers-wild",
       "toName": "Jokers Wild",
-      "toArea": "Cambridge",
+      "toArea": "剑桥",
       "toYears": "1964–1966",
       "type": "member",
       "label": "David Gilmour",

@@ -13,6 +13,8 @@
       "year": 2023
     }
   ],
+  "intro": "Cowboys in the Campfire是一支来自美国的音乐团体，活跃时期为2017–。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2d7af8b7-eddd-4cd3-939e-de6aa28ace82"
@@ -87,7 +89,7 @@
     {
       "to": "the-jacks",
       "toName": "The Jacks",
-      "toArea": "Tulsa",
+      "toArea": "塔尔萨",
       "toYears": null,
       "type": "member",
       "label": "Tommy Stinson",

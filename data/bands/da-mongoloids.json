@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Da Mongoloids是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2037a768-5561-488b-9420-4d19237554c3"
@@ -16,7 +18,7 @@
     {
       "to": "daft-punk",
       "toName": "Daft Punk",
-      "toArea": "Paris",
+      "toArea": "巴黎",
       "toYears": "1993–2021",
       "type": "member",
       "label": "Thomas Bangalter",
@@ -27,7 +29,7 @@
     {
       "to": "darlin",
       "toName": "Darlin’",
-      "toArea": "Versailles",
+      "toArea": "凡尔赛",
       "toYears": "1992–1993",
       "type": "member",
       "label": "Thomas Bangalter",
@@ -38,7 +40,7 @@
     {
       "to": "together",
       "toName": "Together",
-      "toArea": "Paris",
+      "toArea": "巴黎",
       "toYears": "2000–",
       "type": "member",
       "label": "Thomas Bangalter",

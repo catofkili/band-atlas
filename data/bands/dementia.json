@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Dementia是一支来自日本的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d407f94c-b369-4234-8356-c8eef68e3eb4"
@@ -16,7 +18,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "TAIJI・吉田良文",
@@ -60,7 +62,7 @@
     {
       "to": "横須賀サーベルタイガー",
       "toName": "横須賀サーベルタイガー",
-      "toArea": "Yokosuka",
+      "toArea": "横须贺",
       "toYears": "1981–1987",
       "type": "member",
       "label": "TOKIHIKO",

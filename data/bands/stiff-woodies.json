@@ -8,6 +8,8 @@
   "years": "1986–1987",
   "genres": [],
   "albums": [],
+  "intro": "Stiff Woodies是一支音乐团体，活跃时期为1986–1987。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b12602a1-77c4-4d5f-8c5e-9e4b2fa2e812"
@@ -16,7 +18,7 @@
     {
       "to": "fecal-matter",
       "toName": "Fecal Matter",
-      "toArea": "Aberdeen",
+      "toArea": "阿伯丁",
       "toYears": "1985–1986",
       "type": "member",
       "label": "Mike Dillard",

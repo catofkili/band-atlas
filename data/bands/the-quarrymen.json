@@ -7,8 +7,7 @@
   "country": "英国",
   "years": "1956–",
   "genres": [
-    "Rock And Roll",
-    "Skiffle"
+    "摇滚乐"
   ],
   "albums": [
     {
@@ -32,8 +31,8 @@
       "year": 2012
     }
   ],
-  "intro": "ザ・クオリーメン (The Quarry Men) は、1956年にジョン・レノンがリヴァプールで結成したイギリスのスキッフル・ロックンロールバンドである。",
-  "introLang": "ja",
+  "intro": "The Quarry Men 是约翰·列侬于1956年在利物浦组建的一支英国斯基夫尔摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9fcc463b-7cfc-4ea4-a65e-bab77fc78e9a"
@@ -53,7 +52,7 @@
     {
       "to": "the-beat-brothers",
       "toName": "The Beat Brothers",
-      "toArea": "Hamburg",
+      "toArea": "汉堡",
       "toYears": "1961–",
       "type": "member",
       "label": "Stuart Sutcliffe・John Lennon・George Harrison",
@@ -97,7 +96,7 @@
     {
       "to": "traveling-wilburys",
       "toName": "Traveling Wilburys",
-      "toArea": "Malibu",
+      "toArea": "马里布",
       "toYears": "1988–1990",
       "type": "member",
       "label": "George Harrison",

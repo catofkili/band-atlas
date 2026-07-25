@@ -8,6 +8,8 @@
   "years": "2010–2012",
   "genres": [],
   "albums": [],
+  "intro": "FANTA是一支来自日本的音乐团体，活跃时期为2010–2012。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f5a1fd0c-72ad-4264-b0e1-f366d192051d"
@@ -27,7 +29,7 @@
     {
       "to": "the-alfee",
       "toName": "THE ALFEE",
-      "toArea": "Shirokanedai",
+      "toArea": "白金台",
       "toYears": "1973–",
       "type": "member",
       "label": "高見沢俊彦",

@@ -2,14 +2,14 @@
   "id": "the-jaded-hearts-club",
   "mbid": "16e4f976-dda8-4468-bbbe-a3a52d779cb5",
   "name": "The Jaded Hearts Club",
-  "area": "California",
+  "area": "加利福尼亚州",
   "countryCode": "GB",
   "country": "英国",
   "years": "2018–",
   "genres": [
-    "Classic Rock",
-    "Indie Rock",
-    "Rock"
+    "经典摇滚",
+    "独立摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -17,8 +17,8 @@
       "year": 2020
     }
   ],
-  "intro": "The Jaded Hearts Club is a rock supergroup and covers band consisting of Miles Kane (of the Rascals and Last Shadow Puppets), Nic Cester (of Jet), Matt Bellamy (of Muse), Jamie Davis (of former member Graham Coxon's former label Transcopic) and Sean Payne (of the Zutons).",
-  "introLang": "en",
+  "intro": "The Jaded Hearts Club 是一支摇滚超级乐队兼翻唱乐队，成员包括迈尔斯·凯恩（曾效力于 The Rascals 和 The Last Shadow Puppets）、 尼克·塞斯特（Nic Cester，来自乐队 Jet）、马特·贝拉米（Matt Bellamy，来自乐队 Muse）、杰米·戴维斯（Jamie Davis，曾隶属于前成员格雷厄姆·考克森（Graham Coxon）的旧厂牌 Transcopic）以及肖恩·佩恩（Sean Payne，来自乐队 The Zutons）。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/16e4f976-dda8-4468-bbbe-a3a52d779cb5"
@@ -38,7 +38,7 @@
     {
       "to": "angels-airwaves",
       "toName": "Angels & Airwaves",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "2005–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -49,7 +49,7 @@
     {
       "to": "lostprophets",
       "toName": "Lostprophets",
-      "toArea": "Pontypridd",
+      "toArea": "庞蒂普里德",
       "toYears": "1997–2013",
       "type": "member",
       "label": "Ilan Rubin",
@@ -60,7 +60,7 @@
     {
       "to": "muse",
       "toName": "Muse",
-      "toArea": "Teignmouth",
+      "toArea": "泰恩茅斯",
       "toYears": "1994–",
       "type": "member",
       "label": "Matt Bellamy",
@@ -71,7 +71,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -82,7 +82,7 @@
     {
       "to": "fenix-tx",
       "toName": "Fenix TX",
-      "toArea": "Houston",
+      "toArea": "休斯顿",
       "toYears": "1995–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -115,7 +115,7 @@
     {
       "to": "denver-harbor",
       "toName": "Denver Harbor",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "2002–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -126,7 +126,7 @@
     {
       "to": "seymour",
       "toName": "Seymour",
-      "toArea": "Colchester",
+      "toArea": "科尔切斯特",
       "toYears": "1989–1990",
       "type": "member",
       "label": "Graham Coxon",

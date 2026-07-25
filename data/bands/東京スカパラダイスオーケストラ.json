@@ -7,9 +7,7 @@
   "country": "日本",
   "years": "1985–",
   "genres": [
-    "Big Band",
-    "Ska",
-    "Jazz"
+    "爵士乐"
   ],
   "albums": [
     {
@@ -47,7 +45,7 @@
     {
       "to": "フィッシュマンズ",
       "toName": "フィッシュマンズ",
-      "toArea": "Minato",
+      "toArea": "日本",
       "toYears": "1987–",
       "type": "member",
       "label": "茂木欣一",

@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Apple是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3dba35e6-28f4-4926-aae3-ff82ad934aa8"
@@ -49,7 +51,7 @@
     {
       "to": "the-beat-brothers",
       "toName": "The Beat Brothers",
-      "toArea": "Hamburg",
+      "toArea": "汉堡",
       "toYears": "1961–",
       "type": "member",
       "label": "John Lennon",

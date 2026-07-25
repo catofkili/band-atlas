@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1964–",
   "genres": [
-    "Rock",
-    "Hard Rock",
-    "Classic Rock"
+    "摇滚",
+    "硬摇滚",
+    "经典摇滚"
   ],
   "albums": [
     {
@@ -190,7 +190,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "influence",
       "label": "影响关系",
@@ -223,7 +223,7 @@
     {
       "to": "sex-pistols",
       "toName": "Sex Pistols",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "influence",
       "label": "影响关系",

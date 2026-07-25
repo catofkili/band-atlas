@@ -7,12 +7,12 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "Alternative Rock",
-    "Rock"
+    "另类摇滚",
+    "摇滚"
   ],
   "albums": [],
-  "intro": "Axis of Justice is a non-profit organization co-founded by Serj Tankian and Tom Morello in 2002.",
-  "introLang": "en",
+  "intro": "“正义轴心”（Axis of Justice）是一家由塞尔吉·坦基安（Serj Tankian）和汤姆·莫雷洛（Tom Morello）于2002年共同创立的非营利组织。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0f8a2f89-29c0-4085-8820-635c181a0de9"
@@ -32,7 +32,7 @@
     {
       "to": "system-of-a-down",
       "toName": "System of a Down",
-      "toArea": "Glendale",
+      "toArea": "格伦代尔",
       "toYears": "1995–",
       "type": "member",
       "label": "Serj Tankian",

@@ -8,8 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Taylor Hawkins & The Coattail Riders was an American rock band founded by Taylor Hawkins, drummer for Foo Fighters.",
-  "introLang": "en",
+  "intro": "Taylor Hawkins & The Coattail Riders 是一支由 Foo Fighters 乐队鼓手泰勒·霍金斯（Taylor Hawkins）创立的美国摇滚乐队。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d063c9b2-155a-4545-9285-a99e4866e735"
@@ -18,7 +18,7 @@
     {
       "to": "taylor-hawkins-the-coattail-riders",
       "toName": "Taylor Hawkins & The Coattail Riders",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "2004–2022",
       "type": "member",
       "label": "副项目",

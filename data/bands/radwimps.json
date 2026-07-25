@@ -7,9 +7,8 @@
   "country": "日本",
   "years": "2001–",
   "genres": [
-    "J-Rock",
-    "Pop Rock",
-    "Rock"
+    "流行摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -47,7 +46,7 @@
     {
       "to": "寺子屋",
       "toName": "寺子屋",
-      "toArea": null,
+      "toArea": "日本",
       "toYears": null,
       "type": "guest",
       "label": "合作",

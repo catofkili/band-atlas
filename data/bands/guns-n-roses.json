@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "1985–",
   "genres": [
-    "Hard Rock",
-    "Glam Metal"
+    "硬摇滚",
+    "华丽金属"
   ],
   "albums": [
     {
@@ -150,7 +150,7 @@
     {
       "to": "mercyful-fate",
       "toName": "Mercyful Fate",
-      "toArea": "Copenhagen",
+      "toArea": "哥本哈根",
       "toYears": "1981–",
       "type": "member",
       "label": "Ole Beich",
@@ -161,7 +161,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Robin Finck",
@@ -271,7 +271,7 @@
     {
       "to": "izzy-stradlin-and-the-ju-ju-hounds",
       "toName": "Izzy Stradlin and the Ju Ju Hounds",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "1992–",
       "type": "member",
       "label": "Izzy Stradlin",
@@ -370,7 +370,7 @@
     {
       "to": "lusk",
       "toName": "Lusk",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "1995–1998",
       "type": "member",
       "label": "Chris Pitman",
@@ -502,7 +502,7 @@
     {
       "to": "the-jacks",
       "toName": "The Jacks",
-      "toArea": "Tulsa",
+      "toArea": "塔尔萨",
       "toYears": null,
       "type": "member",
       "label": "Tommy Stinson",
@@ -535,7 +535,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",
@@ -557,7 +557,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "influence",
       "label": "影响关系",
@@ -623,7 +623,7 @@
     {
       "to": "sex-pistols",
       "toName": "Sex Pistols",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "influence",
       "label": "影响关系",

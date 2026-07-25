@@ -2,7 +2,7 @@
   "id": "queen-paul-rodgers",
   "mbid": "9dcffd99-eca6-4a09-8dbd-c6c4ed2f20fd",
   "name": "Queen + Paul Rodgers",
-  "area": null,
+  "area": "英国",
   "countryCode": "GB",
   "country": "英国",
   "years": null,
@@ -13,8 +13,8 @@
       "year": 2008
     }
   ],
-  "intro": "クイーン+ポール・ロジャースは、クイーンのブライアン・メイとロジャー・テイラー、元バッド・カンパニーのポール・ロジャースが結成したイギリスのロックバンド。",
-  "introLang": "ja",
+  "intro": "Queen+保罗·罗杰斯是由皇后乐队的布莱恩·梅和罗杰·泰勒，以及前“坏公司”乐队成员保罗·罗杰斯共同组建的英国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9dcffd99-eca6-4a09-8dbd-c6c4ed2f20fd"
@@ -67,7 +67,7 @@
     {
       "to": "queen-adam-lambert",
       "toName": "Queen + Adam Lambert",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Roger Taylor",

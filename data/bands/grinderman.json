@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "2006–2011",
   "genres": [
-    "Garage Rock",
-    "Rock",
-    "Alternative Rock"
+    "车库摇滚",
+    "摇滚",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -21,8 +21,8 @@
       "year": 2010
     }
   ],
-  "intro": "Grinderman was an Australian-American rock band that formed in London, England, in 2006.",
-  "introLang": "en",
+  "intro": "Grinderman是一支澳美摇滚乐队，于2006年在英国伦敦成立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/611f1230-7c2b-4610-b9e6-5a4fcb6e3cc7"

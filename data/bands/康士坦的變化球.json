@@ -7,8 +7,8 @@
   "country": "台湾",
   "years": "2013–",
   "genres": [
-    "Alternative Rock",
-    "Post-Rock"
+    "另类摇滚",
+    "后摇滚"
   ],
   "albums": [
     {
@@ -24,7 +24,7 @@
       "year": 2023
     }
   ],
-  "intro": "康士坦的变化球， 台湾乐团。成立于2013年，团名来自希腊哲学家赫拉克利特的名言 “Change is the only constant in life.",
+  "intro": "康士坦的变化球是2013年成立的台湾乐团，团名取自“唯一不变的是变化本身”。",
   "introLang": "zh",
   "region": "east-asia",
   "links": {
@@ -34,7 +34,7 @@
     {
       "to": "flesh-juicer",
       "toName": "Flesh Juicer",
-      "toArea": "Taichung",
+      "toArea": "台中",
       "toYears": "2006–",
       "type": "member",
       "label": "金毛",

@@ -7,8 +7,8 @@
   "country": "台湾",
   "years": "2020–",
   "genres": [
-    "Indie Pop",
-    "Mandopop"
+    "独立流行乐",
+    "华语流行乐"
   ],
   "albums": [
     {
@@ -32,6 +32,8 @@
       "year": 2023
     }
   ],
+  "intro": "魚丁糸是一支来自台湾的以独立流行乐、华语流行乐为主要风格的音乐团体，活跃时期为2020–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c70c1c59-66a7-430a-b10d-02a85595a9ae"

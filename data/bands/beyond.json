@@ -2,14 +2,14 @@
   "id": "beyond",
   "mbid": "d84d02ad-d74c-4227-8073-6f13a039cfac",
   "name": "Beyond",
-  "area": "Hong Kong",
+  "area": "香港",
   "countryCode": "HK",
   "country": "香港",
   "years": "1983–2005",
   "genres": [
-    "Cantopop",
-    "Rock",
-    "1980s Hong Kong Debut"
+    "粤语流行乐",
+    "摇滚",
+    "1980年代香港新人"
   ],
   "albums": [
     {
@@ -47,7 +47,7 @@
     {
       "to": "浮世繪",
       "toName": "浮世繪",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": "1984–",
       "type": "member",
       "label": "劉志遠",

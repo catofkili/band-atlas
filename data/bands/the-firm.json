@@ -7,7 +7,7 @@
   "country": "英国",
   "years": "1984–1986",
   "genres": [
-    "Rock"
+    "摇滚"
   ],
   "albums": [
     {
@@ -19,8 +19,8 @@
       "year": 1986
     }
   ],
-  "intro": "ザ・ファームは、イングランド出身のロックバンド。1984年に、ジミー・ペイジ、ポール・ロジャース、トニー・フランクリン、クリス・スレイドで結成したスーパーグループ。",
-  "introLang": "ja",
+  "intro": "The Farm是一支来自英格兰的摇滚乐队。该超级乐队成立于1984年，由吉米·佩奇、保罗·罗杰斯、托尼·富兰克林和克里斯·斯莱德组成。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c08ced1f-d248-4368-90e5-bf579b3bf5de"

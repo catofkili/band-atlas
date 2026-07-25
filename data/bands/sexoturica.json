@@ -8,6 +8,8 @@
   "years": "1994–1995",
   "genres": [],
   "albums": [],
+  "intro": "Sexoturica是一支来自美国的音乐团体，活跃时期为1994–1995。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0483f568-848a-4a39-a4ce-8b94f4be47e8"
@@ -16,7 +18,7 @@
     {
       "to": "exodus",
       "toName": "Exodus",
-      "toArea": "Richmond",
+      "toArea": "里士满",
       "toYears": "1979–",
       "type": "member",
       "label": "Tom Hunting",

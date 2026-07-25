@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Supergroup B是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f1a5d50b-59e2-4e11-8b5a-c190d61af791"
@@ -38,7 +40,7 @@
     {
       "to": "blink-182",
       "toName": "blink‐182",
-      "toArea": "Poway",
+      "toArea": "美国",
       "toYears": "1992–",
       "type": "member",
       "label": "Travis Barker",
@@ -49,7 +51,7 @@
     {
       "to": "melvins",
       "toName": "Melvins",
-      "toArea": "Montesano",
+      "toArea": "蒙特萨诺",
       "toYears": "1983–",
       "type": "member",
       "label": "Adam Jones",

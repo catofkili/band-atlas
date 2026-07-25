@@ -8,8 +8,8 @@
   "years": "2013–",
   "genres": [],
   "albums": [],
-  "intro": "ウカスカジー (UKASUKA-G) は、日本の音楽ユニット。2013年にバンド・Mr.Childrenのボーカルである桜井和寿と、ヒップホップユニット・EAST ENDのメンバーであるGAKU-MCの2人で結成。",
-  "introLang": "ja",
+  "intro": "UKASUKA-G 是日本的一支音乐组合。2013年由乐队 Mr.Children 的主唱樱井和寿与嘻哈组合 EAST END 的成员 GAKU-MC 两人共同组建。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/60b06a12-20ea-469d-aba0-8d509f1d9e76"
@@ -29,7 +29,7 @@
     {
       "to": "mr-children",
       "toName": "Mr.Children",
-      "toArea": "Shibuya",
+      "toArea": "涩谷",
       "toYears": "1989–",
       "type": "member",
       "label": "桜井和寿",

@@ -2,13 +2,13 @@
   "id": "silver-jews",
   "mbid": "1bc2d696-c0e2-480d-87ed-17b2a82d7983",
   "name": "Silver Jews",
-  "area": "Charlottesville",
+  "area": "夏洛茨维尔",
   "countryCode": "US",
   "country": "美国",
   "years": "1989–2009",
   "genres": [
-    "Indie Rock",
-    "Folk Rock"
+    "独立摇滚",
+    "民谣摇滚"
   ],
   "albums": [
     {
@@ -36,8 +36,8 @@
       "year": 2008
     }
   ],
-  "intro": "Silver Jews were an American indie rock band from Hoboken, New Jersey, formed in 1989 by David Berman alongside Pavement members Stephen Malkmus and Bob Nastanovich.",
-  "introLang": "en",
+  "intro": "Silver Jews是一支来自新泽西州霍博肯的美国独立摇滚乐队，由大卫·伯曼（David Berman）与Pavement乐队的成员斯蒂芬·马尔克姆斯（Stephen Malkmus）和鲍勃·纳斯塔诺维奇（Bob Nastanovich）于1989年共同组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1bc2d696-c0e2-480d-87ed-17b2a82d7983"
@@ -46,7 +46,7 @@
     {
       "to": "pavement",
       "toName": "Pavement",
-      "toArea": "Stockton",
+      "toArea": "斯托克顿",
       "toYears": "1989–2000",
       "type": "member",
       "label": "Stephen Malkmus・Bob Nastanovich・Steve West",

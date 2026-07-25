@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "The Senators是一支来自英国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ddb71592-108d-4e21-9077-d96e11d86572"
@@ -27,7 +29,7 @@
     {
       "to": "band-of-joy",
       "toName": "Band of Joy",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1967–1968",
       "type": "member",
       "label": "John Bonham",
@@ -49,7 +51,7 @@
     {
       "to": "gerry-levene-the-avengers",
       "toName": "Gerry Levene & the Avengers",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1959–1964",
       "type": "member",
       "label": "John Bonham",

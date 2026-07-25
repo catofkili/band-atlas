@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1976–2009",
   "genres": [
-    "Psychobilly",
-    "Garage Punk",
-    "Garage Rock"
+    "车库朋克",
+    "车库摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 1994
     }
   ],
-  "intro": "The Cramps were an American rock band formed in 1976 and active until 2009.",
-  "introLang": "en",
+  "intro": "The Cramps 是一支成立于 1976 年、活跃至 2009 年的美国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071"

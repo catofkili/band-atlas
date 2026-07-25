@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "The Buddha Boys Choir是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b34ca318-069e-4d0d-b939-a53e6052af2c"
@@ -16,7 +18,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Keith Hillebrandt",

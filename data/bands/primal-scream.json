@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1982–",
   "genres": [
-    "Alternative Rock",
-    "Alternative Dance",
-    "Electronic"
+    "另类摇滚",
+    "另类舞曲",
+    "电子音乐"
   ],
   "albums": [
     {
@@ -58,7 +58,7 @@
     {
       "to": "experimental-audio-research",
       "toName": "Experimental Audio Research",
-      "toArea": "Rugby",
+      "toArea": "橄榄球",
       "toYears": "1990–",
       "type": "member",
       "label": "Kevin Shields",

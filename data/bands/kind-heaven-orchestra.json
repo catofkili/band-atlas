@@ -8,6 +8,8 @@
   "years": "2018–",
   "genres": [],
   "albums": [],
+  "intro": "Kind Heaven Orchestra是一支音乐团体，活跃时期为2018–。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/18fa73af-3b36-408b-a0eb-68e0375d48d3"
@@ -38,7 +40,7 @@
     {
       "to": "traveling-wilburys",
       "toName": "Traveling Wilburys",
-      "toArea": "Malibu",
+      "toArea": "马里布",
       "toYears": "1988–1990",
       "type": "member",
       "label": "Dhani Harrison",

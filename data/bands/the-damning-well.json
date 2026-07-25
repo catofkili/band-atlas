@@ -7,11 +7,11 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "Rock"
+    "摇滚"
   ],
   "albums": [],
-  "intro": "The Damning Well was a rock supergroup comprising Wes Borland of Limp Bizkit on guitar, Danny Lohner formerly of Nine Inch Nails on bass, Richard Patrick of Filter on vocals, and Josh Freese of A Perfect Circle on drums.",
-  "introLang": "en",
+  "intro": "The Damning Well 是一支摇滚超级乐队，由 Limp Bizkit 乐队的吉他手韦斯·博兰德（Wes Borland）、前 Nine Inch Nails 乐队贝斯手丹尼·洛纳（Danny Lohner）、Filter 乐队主唱理查德·帕特里克（Richard Patrick）以及 A Perfect Circle 乐队鼓手乔什·弗里斯（Josh Freese）组成。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2a3dc878-34f8-48a6-8591-caa8f7b1f70f"
@@ -20,7 +20,7 @@
     {
       "to": "filter",
       "toName": "Filter",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1993–",
       "type": "member",
       "label": "Richard Patrick",
@@ -31,7 +31,7 @@
     {
       "to": "marilyn-manson",
       "toName": "Marilyn Manson",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1989–",
       "type": "member",
       "label": "Wes Borland",
@@ -42,7 +42,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Richard Patrick",

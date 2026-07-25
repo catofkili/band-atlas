@@ -2,14 +2,14 @@
   "id": "les-claypool-and-the-holy-mackerel",
   "mbid": "3dd83e1a-7de2-45fe-ae02-e152a077ccfc",
   "name": "Les Claypool and the Holy Mackerel",
-  "area": "Berkeley",
+  "area": "伯克利",
   "countryCode": "US",
   "country": "美国",
   "years": "1996–1996",
   "genres": [
-    "Experimental",
-    "Funk",
-    "Rock"
+    "实验音乐",
+    "放克",
+    "摇滚"
   ],
   "albums": [
     {
@@ -17,6 +17,8 @@
       "year": 1996
     }
   ],
+  "intro": "Les Claypool and the Holy Mackerel是一支来自伯克利的以实验音乐、放克为主要风格的音乐团体，活跃时期为1996–1996。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3dd83e1a-7de2-45fe-ae02-e152a077ccfc"
@@ -36,7 +38,7 @@
     {
       "to": "primus",
       "toName": "Primus",
-      "toArea": "El Sobrante",
+      "toArea": "埃尔·索布兰特",
       "toYears": "1984–",
       "type": "member",
       "label": "Les Claypool",

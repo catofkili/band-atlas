@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1979–1991",
   "genres": [
-    "Alternative Rock",
-    "Punk Rock",
-    "Power Pop"
+    "另类摇滚",
+    "朋克摇滚",
+    "Power Pop简体中文（大陆）"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1989
     }
   ],
-  "intro": "ザ・リプレイスメンツは、ミネソタ州ミネアポリスのロックバンドである。",
-  "introLang": "ja",
+  "intro": "The Replacements是一支来自明尼苏达州明尼阿波利斯的摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dc0d05ce-2f47-4962-b4fa-8631a0a51987"
@@ -124,7 +124,7 @@
     {
       "to": "the-jacks",
       "toName": "The Jacks",
-      "toArea": "Tulsa",
+      "toArea": "塔尔萨",
       "toYears": null,
       "type": "member",
       "label": "Tommy Stinson",
@@ -135,7 +135,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "influence",
       "label": "影响关系",

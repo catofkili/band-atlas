@@ -7,9 +7,8 @@
   "country": "英国",
   "years": "1988–",
   "genres": [
-    "Shoegaze",
-    "Dream Pop",
-    "Britpop"
+    "梦幻流行乐",
+    "英伦摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 2019
     }
   ],
-  "intro": "ライドは、1988年にイギリスのオックスフォードで結成されたロックバンド。1988年結成。1996年に解散したが、2014年におよそ18年ぶりとなる再結成が発表された。",
-  "introLang": "ja",
+  "intro": "Ride是一支于1988年在英国牛津成立的摇滚乐队。1988年成立。虽然乐队于1996年解散，但2014年宣布了时隔约18年的重组。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3f575ecd-627d-4f08-a89f-abd46d469c7e"

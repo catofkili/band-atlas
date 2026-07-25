@@ -2,12 +2,14 @@
   "id": "starto-for-you",
   "mbid": "4c6c0c28-959f-4975-bf71-57a33dfc57da",
   "name": "STARTO for you",
-  "area": null,
+  "area": "日本",
   "countryCode": "JP",
   "country": "日本",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "STARTO for you是一支来自日本的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4c6c0c28-959f-4975-bf71-57a33dfc57da"

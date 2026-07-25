@@ -17,8 +17,8 @@
       "year": 1992
     }
   ],
-  "intro": "Monsula was an American punk rock band from the San Francisco Bay Area, California, United States.",
-  "introLang": "en",
+  "intro": "Monsula 是一支来自美国加利福尼亚州旧金山湾区的美国朋克摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0bb07307-3785-4668-9e9e-1a36f9f36937"
@@ -27,7 +27,7 @@
     {
       "to": "pinhead-gunpowder",
       "toName": "Pinhead Gunpowder",
-      "toArea": "Arcata",
+      "toArea": "阿卡塔",
       "toYears": "1990–",
       "type": "member",
       "label": "Bill Schneider",

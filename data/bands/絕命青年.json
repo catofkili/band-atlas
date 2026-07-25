@@ -13,6 +13,8 @@
       "year": 2022
     }
   ],
+  "intro": "絕命青年是一支来自台湾的音乐团体，活跃时期为2021–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/15242e2f-01a6-41e6-8466-1a5eee571ffa"
@@ -21,7 +23,7 @@
     {
       "to": "gdjyb",
       "toName": "GDJYB",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": "2012–",
       "type": "member",
       "label": "Soni Cheng・Soft Liu",

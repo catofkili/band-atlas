@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1968–2021",
   "genres": [
-    "Progressive Rock",
-    "Art Rock",
-    "Experimental Rock"
+    "前卫摇滚",
+    "艺术摇滚",
+    "实验摇滚"
   ],
   "albums": [
     {
@@ -113,7 +113,7 @@
     {
       "to": "the-human-experimente",
       "toName": "The Human Experimente",
-      "toArea": "Santa Monica",
+      "toArea": "圣莫尼卡",
       "toYears": null,
       "type": "member",
       "label": "John Wetton・Robert Fripp",
@@ -157,7 +157,7 @@
     {
       "to": "21st-century-schizoid-band",
       "toName": "21st Century Schizoid Band",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "副项目",
@@ -179,7 +179,7 @@
     {
       "to": "projekct-x",
       "toName": "ProjeKct X",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "副项目",
@@ -190,7 +190,7 @@
     {
       "to": "projekct-four",
       "toName": "ProjeKct Four",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "副项目",
@@ -201,7 +201,7 @@
     {
       "to": "projekct-one",
       "toName": "ProjeKct One",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "副项目",

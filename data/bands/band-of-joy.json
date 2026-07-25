@@ -2,7 +2,7 @@
   "id": "band-of-joy",
   "mbid": "a8588753-5e1b-4ac0-8030-896b70c78cf4",
   "name": "Band of Joy",
-  "area": "Birmingham",
+  "area": "伯明翰",
   "countryCode": "GB",
   "country": "英国",
   "years": "1967–1968",
@@ -21,8 +21,8 @@
       "year": 2006
     }
   ],
-  "intro": "Band of Joy (sometimes known as Robert Plant and the Band of Joy) were an English rock band formed in 1966.",
-  "introLang": "en",
+  "intro": "Band of Joy（有时也被称为 Robert Plant and the Band of Joy）是一支成立于1966年的英国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a8588753-5e1b-4ac0-8030-896b70c78cf4"
@@ -53,7 +53,7 @@
     {
       "to": "gerry-levene-the-avengers",
       "toName": "Gerry Levene & the Avengers",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1959–1964",
       "type": "member",
       "label": "John Bonham",

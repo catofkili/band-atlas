@@ -2,14 +2,14 @@
   "id": "lmf",
   "mbid": "837139a7-d72d-42ac-8609-a0ed1a1f96a2",
   "name": "LMF",
-  "area": "Hong Kong",
+  "area": "香港",
   "countryCode": "HK",
   "country": "香港",
   "years": "1993–2003",
   "genres": [
-    "Cantonese",
-    "Hip-Hop",
-    "Hardcore Hip Hop"
+    "粤语",
+    "嘻哈",
+    "硬核嘻哈"
   ],
   "albums": [
     {
@@ -43,7 +43,7 @@
     {
       "to": "anodize",
       "toName": "Anodize",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": "1989–1999",
       "type": "member",
       "label": "Davy Chan・鄭華勝",

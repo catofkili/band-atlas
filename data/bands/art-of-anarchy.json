@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "2011–",
   "genres": [
-    "Hard Rock"
+    "硬摇滚"
   ],
   "albums": [
     {
@@ -23,8 +23,8 @@
       "year": 2024
     }
   ],
-  "intro": "Art of Anarchy is an American rock supergroup formed in 2011, which currently consists of brothers Jon and Vince Votta on guitar and drums, Tony Dickinson on bass, Ron \"Bumblefoot\" Thal (ex-Guns N' Roses, ex-Asia, Sons of Apollo) on guitar and production, and Jeff Scott Soto (Sons of Apollo, ex-Talisman, ex-Journey) on lead vocals.",
-  "introLang": "en",
+  "intro": "Art of Anarchy 是一支成立于 2011 年的美国摇滚超级乐队，目前由担任吉他手和鼓手的乔恩·沃塔（Jon Votta）与文斯·沃塔（Vince Votta）兄弟、贝斯手托尼·迪金森（Tony Dickinson）、负责吉他演奏和制作的罗恩·“邦布尔福特” Thal（前“枪与玫瑰”乐队成员、前“亚洲”乐队成员、“阿波罗之子”乐队成员）担任吉他手兼制作人，以及杰夫·斯科特·索托（“阿波罗之子”乐队成员、前“塔利斯曼”乐队成员、前“旅程”乐队成员）担任主唱。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7294f7d2-743d-483c-84fd-d0c0ffd9a234"
@@ -66,7 +66,7 @@
     {
       "to": "stone-temple-pilots",
       "toName": "Stone Temple Pilots",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "1990–",
       "type": "member",
       "label": "Scott Weiland",
@@ -77,7 +77,7 @@
     {
       "to": "velvet-revolver",
       "toName": "Velvet Revolver",
-      "toArea": "Rancho Santa Margarita",
+      "toArea": "兰乔·圣塔玛格丽塔",
       "toYears": "2002–2008",
       "type": "member",
       "label": "Scott Weiland",

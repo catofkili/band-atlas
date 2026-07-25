@@ -7,10 +7,12 @@
   "country": null,
   "years": "1986–1986",
   "genres": [
-    "Experimental Rock",
-    "Post-Hardcore"
+    "实验摇滚",
+    "后硬核"
   ],
   "albums": [],
+  "intro": "Egg Hunt是一支以实验摇滚、后硬核为主要风格的音乐团体，活跃时期为1986–1986。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2d8d08d8-c1b1-4494-b299-32dd4a7f8dfe"

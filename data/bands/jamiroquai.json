@@ -2,14 +2,13 @@
   "id": "jamiroquai",
   "mbid": "f4857fb9-e255-4dc6-bd01-e4ca7cc68544",
   "name": "Jamiroquai",
-  "area": "Ealing",
+  "area": "伊灵",
   "countryCode": "GB",
   "country": "英国",
   "years": "1992–",
   "genres": [
-    "Acid Jazz",
-    "Funk",
-    "Disco"
+    "放克",
+    "迪斯科"
   ],
   "albums": [
     {
@@ -58,7 +57,7 @@
     {
       "to": "gorillaz",
       "toName": "Gorillaz",
-      "toArea": "Essex",
+      "toArea": "埃塞克斯",
       "toYears": "1999–",
       "type": "member",
       "label": "DJ D-Zire",

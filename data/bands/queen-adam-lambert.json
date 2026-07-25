@@ -2,14 +2,14 @@
   "id": "queen-adam-lambert",
   "mbid": "7e07a487-5438-4128-b2d0-f0f18ac08384",
   "name": "Queen + Adam Lambert",
-  "area": null,
+  "area": "英国",
   "countryCode": "GB",
   "country": "英国",
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "クイーン+アダム・ランバートは、イングランドのロックバンドであるクイーンのブライアン・メイ、ロジャー・テイラーとアメリカの歌手のアダム・ランバートによるコラボレーション・バンドである。",
-  "introLang": "ja",
+  "intro": "“皇后乐队+亚当·兰伯特”是由英格兰摇滚乐队皇后乐队的布莱恩·梅、罗杰·泰勒与美国歌手亚当·兰伯特组成的合作乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7e07a487-5438-4128-b2d0-f0f18ac08384"
@@ -40,7 +40,7 @@
     {
       "to": "queen-paul-rodgers",
       "toName": "Queen + Paul Rodgers",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Roger Taylor",

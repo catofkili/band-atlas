@@ -7,7 +7,7 @@
   "country": "韩国",
   "years": "1997–",
   "genres": [
-    "Indie Rock"
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -35,8 +35,8 @@
       "year": 2018
     }
   ],
-  "intro": "ハックルベリー・フィンは韓国のインディーズ・バンド。1997年からイ・ギヨンをリーダーとして活動を始めた。",
-  "introLang": "ja",
+  "intro": "Huckleberry Finn 是韩国的一支独立乐队。自1997年起，以李基永为队长开始活动。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/62295e15-08c3-4deb-8558-59a677c9391b"

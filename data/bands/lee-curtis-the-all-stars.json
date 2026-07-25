@@ -13,6 +13,8 @@
       "year": 1964
     }
   ],
+  "intro": "Lee Curtis & The All Stars是一支来自英国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/421c6d88-df82-4148-be27-c67e8fcdd14a"
@@ -54,7 +56,7 @@
     {
       "to": "the-beat-brothers",
       "toName": "The Beat Brothers",
-      "toArea": "Hamburg",
+      "toArea": "汉堡",
       "toYears": "1961–",
       "type": "member",
       "label": "Pete Best",

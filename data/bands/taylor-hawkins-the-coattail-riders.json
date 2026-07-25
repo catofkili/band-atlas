@@ -2,14 +2,14 @@
   "id": "taylor-hawkins-the-coattail-riders",
   "mbid": "397cd952-ae9c-40cb-a504-fd0ef47ec120",
   "name": "Taylor Hawkins & The Coattail Riders",
-  "area": "California",
+  "area": "加利福尼亚州",
   "countryCode": "US",
   "country": "美国",
   "years": "2004–2022",
   "genres": [
-    "Alternative Rock",
-    "Pop",
-    "Rock"
+    "另类摇滚",
+    "流行音乐",
+    "摇滚"
   ],
   "albums": [
     {
@@ -25,6 +25,8 @@
       "year": 2019
     }
   ],
+  "intro": "Taylor Hawkins & The Coattail Riders是一支来自加利福尼亚州的以另类摇滚、流行音乐为主要风格的音乐团体，活跃时期为2004–2022。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/397cd952-ae9c-40cb-a504-fd0ef47ec120"

@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1968–1980",
   "genres": [
-    "Hard Rock",
-    "Rock",
-    "Blues Rock"
+    "硬摇滚",
+    "摇滚",
+    "蓝调摇滚"
   ],
   "albums": [
     {
@@ -80,7 +80,7 @@
     {
       "to": "band-of-joy",
       "toName": "Band of Joy",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1967–1968",
       "type": "member",
       "label": "John Bonham",
@@ -124,7 +124,7 @@
     {
       "to": "gerry-levene-the-avengers",
       "toName": "Gerry Levene & the Avengers",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1959–1964",
       "type": "member",
       "label": "John Bonham",
@@ -157,7 +157,7 @@
     {
       "to": "jimmy-page-robert-plant",
       "toName": "Jimmy Page & Robert Plant",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "副项目",
@@ -168,7 +168,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",

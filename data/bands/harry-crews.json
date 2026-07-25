@@ -13,8 +13,8 @@
       "year": 1990
     }
   ],
-  "intro": "Harry Crews was an American, short-lived no wave-influenced hardcore punk and crossover thrash supergroup, made up of Lydia Lunch (guitar), Kim Gordon (bass), and Sadie Mae (drums).",
-  "introLang": "en",
+  "intro": "Harry Crews 是一支美国短命乐队，其音乐深受“无浪潮”（no wave）风格影响，融合了硬核朋克与跨界鞭击金属元素，由莉迪亚·兰奇（Lydia Lunch，吉他）、金·戈登（Kim Gordon，贝斯）和萨迪·梅（Sadie Mae，鼓）组成。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/18d4d274-5c06-4261-a18a-8dbaaea03d34"
@@ -56,7 +56,7 @@
     {
       "to": "body-head",
       "toName": "Body/Head",
-      "toArea": "Northampton",
+      "toArea": "北安普顿",
       "toYears": "2012–",
       "type": "member",
       "label": "Kim Gordon",

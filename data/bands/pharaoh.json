@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Pharaoh是一支来自底特律的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2223d144-0a88-4775-8aa4-cefd9af4992d"
@@ -16,7 +18,7 @@
     {
       "to": "funkadelic",
       "toName": "Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1981",
       "type": "member",
       "label": "Larry Fratangelo",
@@ -27,7 +29,7 @@
     {
       "to": "parliament",
       "toName": "Parliament",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1980",
       "type": "member",
       "label": "Larry Fratangelo",

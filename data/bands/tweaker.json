@@ -7,7 +7,7 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "Industrial Rock"
+    "工业摇滚"
   ],
   "albums": [
     {
@@ -23,8 +23,8 @@
       "year": 2012
     }
   ],
-  "intro": "Tweaker is an American band founded by Chris Vrenna in the late 1990s.",
-  "introLang": "en",
+  "intro": "Tweaker 是一支由克里斯·弗雷纳（Chris Vrenna）于 20 世纪 90 年代末创立的美国乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bbcf65ec-b49a-4612-a767-c1062fba84f8"
@@ -33,7 +33,7 @@
     {
       "to": "scream",
       "toName": "Scream",
-      "toArea": "Virginia",
+      "toArea": "弗吉尼亚州",
       "toYears": "1981–",
       "type": "member",
       "label": "Clint Walsh",
@@ -55,7 +55,7 @@
     {
       "to": "jack-off-jill",
       "toName": "Jack Off Jill",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1992–2000",
       "type": "member",
       "label": "Clint Walsh",

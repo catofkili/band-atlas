@@ -7,9 +7,8 @@
   "country": "日本",
   "years": "2002–",
   "genres": [
-    "Heavy Metal",
-    "Instrumental",
-    "J-Rock"
+    "重金属",
+    "纯器乐"
   ],
   "albums": [
     {
@@ -35,7 +34,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "PATA",

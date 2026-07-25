@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1989–",
   "genres": [
-    "Alternative Rock",
-    "Grunge",
-    "Psychedelic Rock"
+    "另类摇滚",
+    "迷幻摇滚"
   ],
   "albums": [
     {
@@ -33,8 +32,8 @@
       "year": 1998
     }
   ],
-  "intro": "Love Battery is an American rock band from Seattle, Washington.",
-  "introLang": "en",
+  "intro": "Love Battery 是一支来自华盛顿州西雅图的美国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/20fa3e73-7ac4-4550-b9f5-6ac8c523bda5"

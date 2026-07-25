@@ -7,8 +7,8 @@
   "country": "日本",
   "years": "1965–",
   "genres": [
-    "Contemporary Folk",
-    "Folk Pop"
+    "当代民谣",
+    "民谣流行乐"
   ],
   "albums": [
     {
@@ -28,8 +28,8 @@
       "year": 2013
     }
   ],
-  "intro": "ザ・フォーク・クルセダーズは、1960年代後半にデビューした音楽バンドで、フォークルという略称でも呼ばれる。「ザ・フォーク・クルセイダーズ」と表記されることもある。",
-  "introLang": "ja",
+  "intro": "The Folk Crusaders是一支于20世纪60年代后期出道的乐队，也被称为“Folkru”。有时也被写作“The Folk Crusaders”。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a9d1c0f3-269f-436f-b163-41d6fd9ebf13"
@@ -49,7 +49,7 @@
     {
       "to": "the-alfee",
       "toName": "THE ALFEE",
-      "toArea": "Shirokanedai",
+      "toArea": "白金台",
       "toYears": "1973–",
       "type": "member",
       "label": "坂崎幸之助",

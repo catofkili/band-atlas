@@ -2,14 +2,14 @@
   "id": "devo",
   "mbid": "d2db1078-c170-4e22-b261-14f3ad60a690",
   "name": "DEVO",
-  "area": "Akron",
+  "area": "阿克伦",
   "countryCode": "US",
   "country": "美国",
   "years": "1972–",
   "genres": [
-    "New Wave",
-    "Post-Punk",
-    "Art Punk"
+    "新浪潮",
+    "后朋克",
+    "艺术朋克"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1982
     }
   ],
-  "intro": "ディーヴォは、アメリカ合衆国オハイオ州アクロンで1973年に結成されたロックバンド。",
-  "introLang": "ja",
+  "intro": "Divo是一支于1973年在美国俄亥俄州阿克伦市成立的摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d2db1078-c170-4e22-b261-14f3ad60a690"

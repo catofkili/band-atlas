@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1982–1987",
   "genres": [
-    "Jangle Pop",
-    "Indie Pop",
-    "Post-Punk"
+    "叮当流行乐",
+    "独立流行乐",
+    "后朋克"
   ],
   "albums": [
     {
@@ -69,7 +69,7 @@
     {
       "to": "7-worlds-collide",
       "toName": "7 Worlds Collide",
-      "toArea": "New Zealand",
+      "toArea": "新西兰",
       "toYears": null,
       "type": "member",
       "label": "Johnny Marr",
@@ -80,7 +80,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",
@@ -91,7 +91,7 @@
     {
       "to": "fall-out-boy",
       "toName": "Fall Out Boy",
-      "toArea": "Wilmette",
+      "toArea": "威尔梅特",
       "toYears": "2001–",
       "type": "influence",
       "label": "影响关系",
@@ -102,7 +102,7 @@
     {
       "to": "my-chemical-romance",
       "toName": "My Chemical Romance",
-      "toArea": "Newark",
+      "toArea": "纽瓦克",
       "toYears": "2001–",
       "type": "influence",
       "label": "影响关系",

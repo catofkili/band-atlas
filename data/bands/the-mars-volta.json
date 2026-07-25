@@ -2,14 +2,14 @@
   "id": "the-mars-volta",
   "mbid": "20883363-1ea4-4d72-ad72-c0e767038f3e",
   "name": "The Mars Volta",
-  "area": "El Paso",
+  "area": "埃尔帕索",
   "countryCode": "US",
   "country": "美国",
   "years": "2001–",
   "genres": [
-    "Progressive Rock",
-    "Art Rock",
-    "Rock"
+    "前卫摇滚",
+    "艺术摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -58,7 +58,7 @@
     {
       "to": "marilyn-manson",
       "toName": "Marilyn Manson",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1989–",
       "type": "member",
       "label": "Juan Alderete",
@@ -69,7 +69,7 @@
     {
       "to": "queens-of-the-stone-age",
       "toName": "Queens of the Stone Age",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1996–",
       "type": "member",
       "label": "Jon Theodore",
@@ -168,7 +168,7 @@
     {
       "to": "the-wedding-band",
       "toName": "The Wedding Band",
-      "toArea": "Hawaii",
+      "toArea": "夏威夷",
       "toYears": "2018–",
       "type": "member",
       "label": "Jon Theodore",

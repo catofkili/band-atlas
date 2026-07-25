@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1994–",
   "genres": [
-    "Comedy Rock",
-    "Rock",
-    "Acoustic Rock"
+    "喜剧摇滚",
+    "摇滚",
+    "原声摇滚"
   ],
   "albums": [
     {
@@ -31,7 +31,7 @@
     {
       "to": "filter",
       "toName": "Filter",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1993–",
       "type": "member",
       "label": "John Spiker",
@@ -53,7 +53,7 @@
     {
       "to": "the-vandals",
       "toName": "The Vandals",
-      "toArea": "Huntington Beach",
+      "toArea": "亨廷顿海滩",
       "toYears": "1980–",
       "type": "member",
       "label": "Brooks Wackerman",

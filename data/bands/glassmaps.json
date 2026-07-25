@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "GLASSMAPS是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/30860a89-b4d6-49b5-91b7-0d266bd85e45"
@@ -16,7 +18,7 @@
     {
       "to": "the-killers",
       "toName": "The Killers",
-      "toArea": "Las Vegas",
+      "toArea": "拉斯维加斯",
       "toYears": "2001–",
       "type": "guest",
       "label": "伴奏・助演",

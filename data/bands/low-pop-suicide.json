@@ -17,8 +17,8 @@
       "year": 1994
     }
   ],
-  "intro": "Low Pop Suicide was an alternative rock band, formed in 1991 by Rick Boston (lead vocals/guitars), Dave Allen (bass), and Jeff Ward (drums/backing vocals).",
-  "introLang": "en",
+  "intro": "Low Pop Suicide 是一支另类摇滚乐队，由里克·波士顿（主唱/吉他）、戴夫·艾伦（贝斯）和杰夫·沃德（鼓手/和声）于1991年组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ecb6b31e-b37d-4d4e-92c5-535650bfac1e"
@@ -38,7 +38,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Jeff Ward",

@@ -7,9 +7,8 @@
   "country": "日本",
   "years": "2001–",
   "genres": [
-    "Alliteration",
-    "Industrial Rock",
-    "Rock"
+    "工业摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 2018
     }
   ],
-  "intro": "ACID ANDROIDは、L'Arc〜en〜Cielのドラマー、yukihiroのソロプロジェクト。 2001年より活動を開始。",
-  "introLang": "ja",
+  "intro": "ACID ANDROID是L'Arc〜en〜Ciel鼓手yukihiro的个人项目。自2001年起开始活动。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4092a0ab-f189-4d0a-bdd7-a90fb7ef9330"

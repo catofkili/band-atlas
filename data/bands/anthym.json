@@ -13,6 +13,8 @@
       "year": 2002
     }
   ],
+  "intro": "Anthym是一支来自加拿大的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/eb952463-8a4b-4475-8a73-cb31f755d3e6"
@@ -54,7 +56,7 @@
     {
       "to": "redd-kross",
       "toName": "Redd Kross",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1980–",
       "type": "member",
       "label": "Jack Irons",

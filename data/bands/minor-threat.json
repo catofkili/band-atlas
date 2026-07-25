@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1980–1983",
   "genres": [
-    "Hardcore Punk",
-    "Straight Edge",
-    "Punk"
+    "硬核朋克",
+    "朋克"
   ],
   "albums": [
     {
@@ -71,7 +70,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "influence",
       "label": "影响关系",

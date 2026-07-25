@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "The Special Assembly是一支来自英国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d9bb7ca8-3411-4732-8237-a40cc0cd8cbe"
@@ -38,7 +40,7 @@
     {
       "to": "the-jaded-hearts-club",
       "toName": "The Jaded Hearts Club",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "2018–",
       "type": "member",
       "label": "Graham Coxon",
@@ -49,7 +51,7 @@
     {
       "to": "seymour",
       "toName": "Seymour",
-      "toArea": "Colchester",
+      "toArea": "科尔切斯特",
       "toYears": "1989–1990",
       "type": "member",
       "label": "Graham Coxon",

@@ -2,7 +2,7 @@
   "id": "look-outside-your-window",
   "mbid": "585af193-cba6-4dc1-b1b7-2b10260f164e",
   "name": "Look Outside Your Window",
-  "area": null,
+  "area": "美国",
   "countryCode": "US",
   "country": "美国",
   "years": null,
@@ -13,6 +13,8 @@
       "year": 2026
     }
   ],
+  "intro": "Look Outside Your Window是一支来自美国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/585af193-cba6-4dc1-b1b7-2b10260f164e"
@@ -21,7 +23,7 @@
     {
       "to": "slipknot",
       "toName": "Slipknot",
-      "toArea": "Des Moines",
+      "toArea": "得梅因",
       "toYears": "1995–",
       "type": "guest",
       "label": "合作",

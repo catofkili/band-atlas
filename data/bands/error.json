@@ -8,8 +8,8 @@
   "years": "2003–",
   "genres": [],
   "albums": [],
-  "intro": "Error was an American digital hardcore band founded in 2003 by 12 Rounds member and Nine Inch Nails collaborator Atticus Ross, and Bad Religion guitarist Brett Gurewitz.",
-  "introLang": "en",
+  "intro": "Error是一支美国数字硬核乐队，由12 Rounds乐队成员、九寸钉乐队（Nine Inch Nails）的合作者阿提库斯·罗斯（Atticus Ross）与Bad Religion乐队吉他手布雷特·古雷维茨（Brett Gurewitz）于2003年共同创立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bdd9619a-f369-4401-a181-7b50cf8f407f"
@@ -29,7 +29,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Atticus Ross",

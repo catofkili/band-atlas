@@ -2,14 +2,14 @@
   "id": "chickenfoot",
   "mbid": "28830d2c-95d7-492c-82d3-7d1240bb1c6b",
   "name": "Chickenfoot",
-  "area": "Cabo San Lucas",
+  "area": "卡波圣卢卡斯",
   "countryCode": "US",
   "country": "美国",
   "years": "2008–",
   "genres": [
-    "Hard Rock",
-    "Rock",
-    "Supergroup"
+    "硬摇滚",
+    "摇滚",
+    "超级乐队"
   ],
   "albums": [
     {
@@ -21,8 +21,8 @@
       "year": 2011
     }
   ],
-  "intro": "チキンフットは、アメリカ合衆国のハードロックのスーパーグループ。2018年現在、スタジオ・アルバムを2枚、ライブ・アルバムを1枚、ベスト・アルバムを1枚リリースしている。",
-  "introLang": "ja",
+  "intro": "Chickenfoot是美国的一支硬摇滚超级乐队。截至2018年，该乐队已发行2张录音室专辑、1张现场专辑和1张精选集。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/28830d2c-95d7-492c-82d3-7d1240bb1c6b"

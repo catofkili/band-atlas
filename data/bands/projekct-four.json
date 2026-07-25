@@ -2,12 +2,14 @@
   "id": "projekct-four",
   "mbid": "75e06a90-dcaf-4bc2-9bc5-abe6a300dfdc",
   "name": "ProjeKct Four",
-  "area": null,
+  "area": "英国",
   "countryCode": "GB",
   "country": "英国",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "ProjeKct Four是一支来自英国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/75e06a90-dcaf-4bc2-9bc5-abe6a300dfdc"

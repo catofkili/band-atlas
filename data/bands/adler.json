@@ -7,7 +7,7 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "Hard Rock"
+    "硬摇滚"
   ],
   "albums": [
     {
@@ -15,8 +15,8 @@
       "year": 2012
     }
   ],
-  "intro": "Adler was an American hard rock supergroup from Los Angeles, California, formed in 2012 by former Guns N' Roses drummer Steven Adler.",
-  "introLang": "en",
+  "intro": "Adler是一支来自加利福尼亚州洛杉矶的美国硬摇滚超级乐队，由前“枪与玫瑰”乐队鼓手史蒂文·阿德勒于2012年组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d2b89c0c-89fa-42a1-b36b-59c99653fefd"

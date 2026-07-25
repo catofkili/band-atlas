@@ -7,10 +7,12 @@
   "country": "日本",
   "years": "2023–",
   "genres": [
-    "Rock",
-    "Visual Kei"
+    "摇滚",
+    "视觉系"
   ],
   "albums": [],
+  "intro": "ROYAL FORCE是一支来自日本的以摇滚、视觉系为主要风格的音乐团体，活跃时期为2023–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5c7e34da-bd5f-4dbf-9e88-190cd1ad3f34"

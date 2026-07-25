@@ -8,8 +8,8 @@
   "years": "1989–1989",
   "genres": [],
   "albums": [],
-  "intro": "Thomas Edward Yorke (born 7 October 1968) is an English musician who is the singer and main songwriter of the rock band Radiohead.",
-  "introLang": "en",
+  "intro": "托马斯·爱德华·约克（Thomas Edward Yorke，1968年10月7日出生）是一位英国音乐人，也是摇滚乐队Radiohead的主唱和主要词曲作者。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2371ce0b-7990-4b88-af6f-6a8b01ef369a"
@@ -18,7 +18,7 @@
     {
       "to": "radiohead",
       "toName": "Radiohead",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1991–",
       "type": "member",
       "label": "Thom Yorke",
@@ -29,7 +29,7 @@
     {
       "to": "the-smile",
       "toName": "The Smile",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Thom Yorke",
@@ -51,7 +51,7 @@
     {
       "to": "on-a-friday",
       "toName": "On a Friday",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1985–1991",
       "type": "member",
       "label": "Thom Yorke",

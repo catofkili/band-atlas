@@ -2,14 +2,14 @@
   "id": "filter",
   "mbid": "6ae51665-8261-4ae5-883f-1899651ad31b",
   "name": "Filter",
-  "area": "Cleveland",
+  "area": "克利夫兰",
   "countryCode": "US",
   "country": "美国",
   "years": "1993–",
   "genres": [
-    "Alternative Rock",
-    "Industrial Rock",
-    "Rock"
+    "另类摇滚",
+    "工业摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 2010
     }
   ],
-  "intro": "フィルター (Filter) は、アメリカ合衆国のインダストリアル・ロックグループ。 元ナイン・インチ・ネイルズのギタリストであるリチャード・パトリックが、ブライアン・リーゼガングと1993年に結成。",
-  "introLang": "ja",
+  "intro": "Filter 是一支来自美国的工业摇滚乐队。由前“九寸钉”乐队吉他手理查德·帕特里克与布莱恩·里泽冈于1993年共同组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6ae51665-8261-4ae5-883f-1899651ad31b"
@@ -47,7 +47,7 @@
     {
       "to": "marilyn-manson",
       "toName": "Marilyn Manson",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1989–",
       "type": "member",
       "label": "John 5",
@@ -58,7 +58,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Richard Patrick",

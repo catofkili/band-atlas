@@ -6,15 +6,15 @@
   "countryCode": "JP",
   "country": "日本",
   "years": null,
-  "genres": [
-    "Likedis Auto"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "Ja, Zoo",
       "year": 1998
     }
   ],
+  "intro": "hide with Spread Beaver是一支来自日本的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e6da0f1b-090e-42c8-9666-69ce8af84548"
@@ -45,7 +45,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "hide",
@@ -78,7 +78,7 @@
     {
       "to": "横須賀サーベルタイガー",
       "toName": "横須賀サーベルタイガー",
-      "toArea": "Yokosuka",
+      "toArea": "横须贺",
       "toYears": "1981–1987",
       "type": "member",
       "label": "hide",

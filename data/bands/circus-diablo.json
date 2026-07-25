@@ -13,8 +13,8 @@
       "year": 2007
     }
   ],
-  "intro": "Circus Diablo is an American rock band formed in early 2006 by Billy Morrison (vocals), Billy Duffy (lead guitar) and Ricky Warwick (rhythm guitar).",
-  "introLang": "en",
+  "intro": "Circus Diablo 是一支美国摇滚乐队，由比利·莫里森（主唱）、比利·达菲（主音吉他）和里基·沃里克（节奏吉他）于 2006 年初组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/877f5179-607d-4a27-8361-439e4e851504"
@@ -23,7 +23,7 @@
     {
       "to": "filter",
       "toName": "Filter",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1993–",
       "type": "member",
       "label": "Rob Patterson",

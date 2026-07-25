@@ -2,14 +2,12 @@
   "id": "melvins",
   "mbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
   "name": "Melvins",
-  "area": "Montesano",
+  "area": "蒙特萨诺",
   "countryCode": "US",
   "country": "美国",
   "years": "1983–",
   "genres": [
-    "Sludge Metal",
-    "Stoner Metal",
-    "Grunge"
+    "泥浆金属"
   ],
   "albums": [
     {
@@ -37,8 +35,8 @@
       "year": 1994
     }
   ],
-  "intro": "メルヴィンズ (Melvins)は、アメリカ合衆国出身のロックバンド。基本的にトリオ編成で活動しているが、2006年から2016年までは2人のドラマーを擁する4ピース・バンドとして活動。",
-  "introLang": "ja",
+  "intro": "Melvins是一支来自美国的摇滚乐队。虽然通常以三人编制活动，但在2006年至2016年期间，曾作为拥有两名鼓手的四人乐队进行活动。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb"
@@ -113,7 +111,7 @@
     {
       "to": "fecal-matter",
       "toName": "Fecal Matter",
-      "toArea": "Aberdeen",
+      "toArea": "阿伯丁",
       "toYears": "1985–1986",
       "type": "member",
       "label": "Buzz Osborne",

@@ -7,11 +7,12 @@
   "country": "日本",
   "years": "2023–",
   "genres": [
-    "Avatar",
-    "Collaboration",
-    "Fathoms"
+    "阿凡达",
+    "合作"
   ],
   "albums": [],
+  "intro": "FZMZ是一支来自日本的以阿凡达、合作为主要风格的音乐团体，活跃时期为2023–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e10a7d73-546b-4961-8390-2a9171beaa7a"

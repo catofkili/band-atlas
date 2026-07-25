@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "The Complex是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c4d7f1d8-cd5f-4f94-9fb3-915fdee10dd7"
@@ -27,7 +29,7 @@
     {
       "to": "experimental-audio-research",
       "toName": "Experimental Audio Research",
-      "toArea": "Rugby",
+      "toArea": "橄榄球",
       "toYears": "1990–",
       "type": "member",
       "label": "Kevin Shields",
@@ -49,7 +51,7 @@
     {
       "to": "mazzy-star",
       "toName": "Mazzy Star",
-      "toArea": "Santa Monica",
+      "toArea": "圣莫尼卡",
       "toYears": "1988–",
       "type": "member",
       "label": "Colm Ó Cíosóig",

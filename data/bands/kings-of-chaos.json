@@ -8,8 +8,8 @@
   "years": "2012–",
   "genres": [],
   "albums": [],
-  "intro": "Kings of Chaos is a hard rock supergroup with international membership featuring a core lineup of drummer Matt Sorum, bassist Duff McKagan, and guitarist Gilby Clarke (all then formerly of Guns N' Roses), as well as revolving appearances from members of Def Leppard, Deep Purple, Aerosmith and more.",
-  "introLang": "en",
+  "intro": "Kings of Chaos 是一支由国际乐手组成的硬摇滚超级乐队，核心阵容包括鼓手马特·索鲁姆（Matt Sorum）、贝斯手达夫·麦卡根（Duff McKagan）和吉他手吉尔比·克拉克（Gilby Clarke）（三人当时均曾是枪与玫瑰乐队成员），此外还有来自 Def Leppard、Deep Purple、Aerosmith 等乐队的成员不定期参与演出。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/56396fbe-e455-4526-a5e4-2a8f9b01c435"
@@ -18,7 +18,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "member",
       "label": "Chester Bennington",
@@ -29,7 +29,7 @@
     {
       "to": "slipknot",
       "toName": "Slipknot",
-      "toArea": "Des Moines",
+      "toArea": "得梅因",
       "toYears": "1995–",
       "type": "member",
       "label": "Corey Taylor",
@@ -40,7 +40,7 @@
     {
       "to": "stone-temple-pilots",
       "toName": "Stone Temple Pilots",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "1990–",
       "type": "member",
       "label": "Chester Bennington",
@@ -62,7 +62,7 @@
     {
       "to": "grey-daze",
       "toName": "Grey Daze",
-      "toArea": "Phoenix",
+      "toArea": "凤凰城",
       "toYears": "1993–",
       "type": "member",
       "label": "Chester Bennington",

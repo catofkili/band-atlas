@@ -8,6 +8,8 @@
   "years": "1983–1984",
   "genres": [],
   "albums": [],
+  "intro": "Trash是一支来自日本的音乐团体，活跃时期为1983–1984。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/53e00ee1-9db4-4505-aa80-1318f76d6513"
@@ -27,7 +29,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "TAIJI",

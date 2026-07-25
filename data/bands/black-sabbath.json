@@ -2,14 +2,14 @@
   "id": "black-sabbath",
   "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
   "name": "Black Sabbath",
-  "area": "Birmingham",
+  "area": "伯明翰",
   "countryCode": "GB",
   "country": "英国",
   "years": "1968–2025",
   "genres": [
-    "Heavy Metal",
-    "Hard Rock",
-    "Traditional Doom Metal"
+    "重金属",
+    "硬摇滚",
+    "传统厄运金属"
   ],
   "albums": [
     {
@@ -124,7 +124,7 @@
     {
       "to": "ez-street",
       "toName": "EZ-Street",
-      "toArea": "Oakland",
+      "toArea": "奥克兰",
       "toYears": null,
       "type": "member",
       "label": "Mike Bordin",
@@ -168,7 +168,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",
@@ -201,7 +201,7 @@
     {
       "to": "slipknot",
       "toName": "Slipknot",
-      "toArea": "Des Moines",
+      "toArea": "得梅因",
       "toYears": "1995–",
       "type": "influence",
       "label": "影响关系",

@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "1995–2003",
   "genres": [
-    "Post-Hardcore",
-    "Post-Rock"
+    "后硬核",
+    "后摇滚"
   ],
   "albums": [
     {
@@ -20,8 +20,8 @@
       "year": 2001
     }
   ],
-  "intro": "Juno was an American indie rock band formed in Seattle, Washington in 1995.",
-  "introLang": "en",
+  "intro": "Juno是一支美国独立摇滚乐队，于1995年在华盛顿州西雅图成立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6c0994fb-382e-4510-8e26-56709afaf190"
@@ -30,7 +30,7 @@
     {
       "to": "christ-on-a-crutch",
       "toName": "Christ on a Crutch",
-      "toArea": "Richland",
+      "toArea": "里奇兰",
       "toYears": "1983–1993",
       "type": "member",
       "label": "Nate Mendel・Eric Akre",
@@ -41,7 +41,7 @@
     {
       "to": "diddly-squat",
       "toName": "Diddly Squat",
-      "toArea": "Richland",
+      "toArea": "里奇兰",
       "toYears": null,
       "type": "member",
       "label": "Nate Mendel・Eric Akre",

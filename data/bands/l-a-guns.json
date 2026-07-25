@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1983–",
   "genres": [
-    "Hard Rock",
-    "Estados Unidos",
-    "Glam Metal"
+    "硬摇滚",
+    "华丽金属"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 1997
     }
   ],
-  "intro": "L.A.ガンズは、アメリカ合衆国出身のハードロック・バンド。 1980年代に隆盛したLAメタル・ムーブメントの末期にメジャーデビュー。",
-  "introLang": "ja",
+  "intro": "L.A. Guns是一支来自美国的硬摇滚乐队。他们在1980年代盛行的洛杉矶金属运动末期正式出道。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/87684162-ab42-4cfa-bf22-ebe237035f54"
@@ -135,7 +134,7 @@
     {
       "to": "mercyful-fate",
       "toName": "Mercyful Fate",
-      "toArea": "Copenhagen",
+      "toArea": "哥本哈根",
       "toYears": "1981–",
       "type": "member",
       "label": "Ole Beich",

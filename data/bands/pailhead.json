@@ -7,13 +7,13 @@
   "country": "美国",
   "years": "1988–1988",
   "genres": [
-    "Electro-Industrial",
-    "Industrial Metal",
-    "Industrial Rock"
+    "电子工业音乐",
+    "工业金属",
+    "工业摇滚"
   ],
   "albums": [],
-  "intro": "Pailhead was an American industrial rock band founded in 1987.",
-  "introLang": "en",
+  "intro": "Pailhead是一支成立于1987年的美国工业摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9714bcae-da69-4189-84a3-6e226802eddb"

@@ -2,13 +2,13 @@
   "id": "the-vandals",
   "mbid": "f54fc7c3-3a40-4f26-83cf-328d9b097e93",
   "name": "The Vandals",
-  "area": "Huntington Beach",
+  "area": "亨廷顿海滩",
   "countryCode": "US",
   "country": "美国",
   "years": "1980–",
   "genres": [
-    "Punk",
-    "Skate Punk"
+    "朋克",
+    "滑板朋克"
   ],
   "albums": [
     {
@@ -36,8 +36,8 @@
       "year": 1996
     }
   ],
-  "intro": "ザ・ヴァンダルズは、1980年にアメリカ合衆国カリフォルニア州ハンティントンビーチで結成されたパンク・ロック・バンド。",
-  "introLang": "ja",
+  "intro": "The Vandals是一支于1980年在美国加利福尼亚州亨廷顿海滩成立的朋克摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f54fc7c3-3a40-4f26-83cf-328d9b097e93"
@@ -112,7 +112,7 @@
     {
       "to": "blink-182",
       "toName": "blink‐182",
-      "toArea": "Poway",
+      "toArea": "美国",
       "toYears": "1992–",
       "type": "influence",
       "label": "影响关系",

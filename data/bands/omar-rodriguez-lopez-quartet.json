@@ -13,6 +13,8 @@
       "year": 2010
     }
   ],
+  "intro": "Omar Rodriguez‐Lopez Quartet是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/41e755a6-acf2-42d5-a043-c792112b5df4"
@@ -21,7 +23,7 @@
     {
       "to": "the-mars-volta",
       "toName": "The Mars Volta",
-      "toArea": "El Paso",
+      "toArea": "埃尔帕索",
       "toYears": "2001–",
       "type": "member",
       "label": "John Frusciante・Omar Rodríguez‐López・Juan Alderete・Marcel Rodriguez‐Lopez",
@@ -32,7 +34,7 @@
     {
       "to": "marilyn-manson",
       "toName": "Marilyn Manson",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1989–",
       "type": "member",
       "label": "Juan Alderete",

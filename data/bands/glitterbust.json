@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "2015–",
   "genres": [
-    "Experimental Rock"
+    "实验摇滚"
   ],
   "albums": [
     {
@@ -15,8 +15,8 @@
       "year": 2016
     }
   ],
-  "intro": "Glitterbust are an American experimental electric guitar duo composed of Kim Gordon and Alex Knost.",
-  "introLang": "en",
+  "intro": "Glitterbust 是一支由金·戈登（Kim Gordon）和亚历克斯·诺斯特（Alex Knost）组成的美国实验性电吉他二人组。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ba6bba0c-c9c8-47e9-ac09-f58c03fc56ff"
@@ -47,7 +47,7 @@
     {
       "to": "body-head",
       "toName": "Body/Head",
-      "toArea": "Northampton",
+      "toArea": "北安普顿",
       "toYears": "2012–",
       "type": "member",
       "label": "Kim Gordon",

@@ -13,6 +13,8 @@
       "year": 1997
     }
   ],
+  "intro": "Hankshaw是一支来自美国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6ad5da01-2ba5-46e7-ba8b-5cdd267c5e4b"
@@ -21,7 +23,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Justin Meldal‐Johnsen",

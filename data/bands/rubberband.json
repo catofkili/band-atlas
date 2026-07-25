@@ -2,14 +2,14 @@
   "id": "rubberband",
   "mbid": "74fb2a36-7f55-4f12-a474-36ad65350f86",
   "name": "RubberBand",
-  "area": "Hong Kong",
+  "area": "香港",
   "countryCode": "HK",
   "country": "香港",
   "years": "2008–",
   "genres": [
-    "Cantopop",
-    "Hong Kong Rock Band",
-    "Rock Band"
+    "粤语流行乐",
+    "香港摇滚乐队",
+    "摇滚乐队"
   ],
   "albums": [
     {
@@ -47,7 +47,7 @@
     {
       "to": "beatbox-金牌一條順",
       "toName": "Beatbox 金牌一條順",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": null,
       "type": "member",
       "label": "6號",

@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1960–1970",
   "genres": [
-    "Rock",
-    "Pop",
-    "Pop Rock"
+    "摇滚",
+    "流行音乐",
+    "流行摇滚"
   ],
   "albums": [
     {
@@ -58,7 +58,7 @@
     {
       "to": "the-beat-brothers",
       "toName": "The Beat Brothers",
-      "toArea": "Hamburg",
+      "toArea": "汉堡",
       "toYears": "1961–",
       "type": "member",
       "label": "Stuart Sutcliffe・Pete Best・John Lennon・George Harrison",
@@ -146,7 +146,7 @@
     {
       "to": "traveling-wilburys",
       "toName": "Traveling Wilburys",
-      "toArea": "Malibu",
+      "toArea": "马里布",
       "toYears": "1988–1990",
       "type": "member",
       "label": "George Harrison",

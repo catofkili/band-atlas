@@ -2,14 +2,14 @@
   "id": "blink-182",
   "mbid": "0743b15a-3c32-48c8-ad58-cb325350befa",
   "name": "blink‐182",
-  "area": "Poway",
+  "area": "美国",
   "countryCode": "US",
   "country": "美国",
   "years": "1992–",
   "genres": [
-    "Pop Punk",
-    "Punk Rock",
-    "Skate Punk"
+    "流行朋克",
+    "朋克摇滚",
+    "滑板朋克"
   ],
   "albums": [
     {
@@ -58,7 +58,7 @@
     {
       "to": "angels-airwaves",
       "toName": "Angels & Airwaves",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "2005–",
       "type": "member",
       "label": "Tom DeLonge",
@@ -91,7 +91,7 @@
     {
       "to": "adolescents",
       "toName": "Adolescents",
-      "toArea": "Fullerton",
+      "toArea": "富勒顿",
       "toYears": "1979–",
       "type": "influence",
       "label": "影响关系",
@@ -102,7 +102,7 @@
     {
       "to": "fall-out-boy",
       "toName": "Fall Out Boy",
-      "toArea": "Wilmette",
+      "toArea": "威尔梅特",
       "toYears": "2001–",
       "type": "influence",
       "label": "影响关系",
@@ -113,7 +113,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "influence",
       "label": "影响关系",
@@ -124,7 +124,7 @@
     {
       "to": "rancid",
       "toName": "Rancid",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "influence",
       "label": "影响关系",
@@ -135,7 +135,7 @@
     {
       "to": "the-offspring",
       "toName": "The Offspring",
-      "toArea": "Huntington Beach",
+      "toArea": "亨廷顿海滩",
       "toYears": "1984–",
       "type": "influence",
       "label": "影响关系",
@@ -146,7 +146,7 @@
     {
       "to": "the-vandals",
       "toName": "The Vandals",
-      "toArea": "Huntington Beach",
+      "toArea": "亨廷顿海滩",
       "toYears": "1980–",
       "type": "influence",
       "label": "影响关系",

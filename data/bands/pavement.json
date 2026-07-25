@@ -2,14 +2,14 @@
   "id": "pavement",
   "mbid": "36bfa85f-737b-41db-a8fc-b8825850ffc3",
   "name": "Pavement",
-  "area": "Stockton",
+  "area": "斯托克顿",
   "countryCode": "US",
   "country": "美国",
   "years": "1989–2000",
   "genres": [
-    "Indie Rock",
-    "Alternative Rock",
-    "Rock"
+    "独立摇滚",
+    "另类摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -47,7 +47,7 @@
     {
       "to": "silver-jews",
       "toName": "Silver Jews",
-      "toArea": "Charlottesville",
+      "toArea": "夏洛茨维尔",
       "toYears": "1989–2009",
       "type": "member",
       "label": "Stephen Malkmus・Bob Nastanovich・Steve West",

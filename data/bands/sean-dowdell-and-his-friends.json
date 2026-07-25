@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Sean Dowdell And His Friends?是一支来自美国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ddd38b5d-b85b-4e3b-9fbc-093c4ced9cbf"
@@ -16,7 +18,7 @@
     {
       "to": "grey-daze",
       "toName": "Grey Daze",
-      "toArea": "Phoenix",
+      "toArea": "凤凰城",
       "toYears": "1993–",
       "type": "member",
       "label": "Chester Bennington・Sean Dowdell",
@@ -27,7 +29,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "member",
       "label": "Chester Bennington",
@@ -38,7 +40,7 @@
     {
       "to": "stone-temple-pilots",
       "toName": "Stone Temple Pilots",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "1990–",
       "type": "member",
       "label": "Chester Bennington",

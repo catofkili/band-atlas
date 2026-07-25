@@ -7,9 +7,7 @@
   "country": "日本",
   "years": "1992–",
   "genres": [
-    "Drone",
-    "Doom Metal",
-    "Sludge Metal"
+    "泥浆金属"
   ],
   "albums": [
     {
@@ -37,8 +35,8 @@
       "year": 2002
     }
   ],
-  "intro": "Borisは日本のスリーピースロックバンド。ジャンルに縛られない唯一無二の音楽性が特徴。ストーナーロック、サイケデリック、ノイズロック、アンビエント、ポップなど幅広い作品を創造。",
-  "introLang": "ja",
+  "intro": "Boris是一支来自日本的三人摇滚乐队。其特色在于不拘泥于流派的独一无二的音乐风格。他们创作了涵盖斯通纳摇滚、迷幻摇滚、噪音摇滚、氛围音乐、流行音乐等广泛领域的作品。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/57652bf8-cfe8-42e7-b9a7-5572a7080d8d"

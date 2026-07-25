@@ -2,7 +2,7 @@
   "id": "the-tater-totz",
   "mbid": "23df4094-9d65-4173-8235-f7bf1c723bd2",
   "name": "The Tater Totz",
-  "area": "Hawthorne",
+  "area": "霍桑",
   "countryCode": "US",
   "country": "美国",
   "years": "1987–",
@@ -17,8 +17,8 @@
       "year": 1989
     }
   ],
-  "intro": "Redd Kross is an American rock band from Hawthorne, California, who had their roots in 1978 in a punk rock band called the Tourists, which was started by brothers Jeff and Steve McDonald while Steve was still in middle school.",
-  "introLang": "en",
+  "intro": "Redd Kross 是一支来自加利福尼亚州霍桑的美国摇滚乐队，其前身是 1978 年由杰夫和史蒂夫·麦克唐纳兄弟创立的朋克摇滚乐队“The Tourists”，当时史蒂夫还是一名初中生。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/23df4094-9d65-4173-8235-f7bf1c723bd2"
@@ -27,7 +27,7 @@
     {
       "to": "redd-kross",
       "toName": "Redd Kross",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1980–",
       "type": "member",
       "label": "Victor Indrizzo・Steve McDonald・Jeff McDonald",
@@ -38,7 +38,7 @@
     {
       "to": "white-flag",
       "toName": "White Flag",
-      "toArea": "Moreno Valley",
+      "toArea": "莫雷诺谷",
       "toYears": "1982–",
       "type": "member",
       "label": "Melanie Vammen・Pick Z. Stix",
@@ -49,7 +49,7 @@
     {
       "to": "adolescents",
       "toName": "Adolescents",
-      "toArea": "Fullerton",
+      "toArea": "富勒顿",
       "toYears": "1979–",
       "type": "member",
       "label": "Pat Smear",
@@ -71,7 +71,7 @@
     {
       "to": "queens-of-the-stone-age",
       "toName": "Queens of the Stone Age",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1996–",
       "type": "member",
       "label": "Victor Indrizzo",
@@ -82,7 +82,7 @@
     {
       "to": "samiam",
       "toName": "Samiam",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1988–",
       "type": "member",
       "label": "Victor Indrizzo",

@@ -8,8 +8,8 @@
   "years": "1982–1984",
   "genres": [],
   "albums": [],
-  "intro": "Bloody Mannequin Orchestra were an influential early 1980s punk band from Bethesda, Maryland.",
-  "introLang": "en",
+  "intro": "Bloody Mannequin Orchestra 是来自马里兰州贝塞斯达的一支颇具影响力的1980年代早期朋克乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0fff1834-c23b-448b-8595-92fa143456e7"
@@ -40,7 +40,7 @@
     {
       "to": "rumblepuppy",
       "toName": "Rumblepuppy",
-      "toArea": "Massachusetts",
+      "toArea": "马萨诸塞州",
       "toYears": null,
       "type": "member",
       "label": "Colin Sears",

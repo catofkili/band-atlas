@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1987–1993",
   "genres": [
-    "Dance-Rock",
-    "Hard Rock",
-    "Pop Rock"
+    "舞曲摇滚",
+    "硬摇滚",
+    "流行摇滚"
   ],
   "albums": [
     {
@@ -25,8 +25,8 @@
       "year": 1991
     }
   ],
-  "intro": "ザ・クロスは、クイーンのドラマー、ロジャー・テイラーによるソロプロジェクト。1987年から1993年の間に活動し、3枚のアルバムを発表した。",
-  "introLang": "ja",
+  "intro": "The Cross是皇后乐队鼓手罗杰·泰勒的个人项目。该乐队活跃于1987年至1993年间，期间发行了3张专辑。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5b9aa76f-bf0f-41ff-8986-fd0401c18bb4"
@@ -46,7 +46,7 @@
     {
       "to": "queen-paul-rodgers",
       "toName": "Queen + Paul Rodgers",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Roger Taylor",
@@ -79,7 +79,7 @@
     {
       "to": "queen-adam-lambert",
       "toName": "Queen + Adam Lambert",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Roger Taylor",

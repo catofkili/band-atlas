@@ -17,6 +17,8 @@
       "year": 1990
     }
   ],
+  "intro": "Limbomaniacs是一支来自美国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2ef497ac-471a-4967-8300-24cd07bd7982"
@@ -36,7 +38,7 @@
     {
       "to": "les-claypool-and-the-holy-mackerel",
       "toName": "Les Claypool and the Holy Mackerel",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1996–1996",
       "type": "member",
       "label": "Mark \"Mirv\" Haggard",

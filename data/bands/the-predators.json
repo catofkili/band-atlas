@@ -7,9 +7,7 @@
   "country": "日本",
   "years": "2005–",
   "genres": [
-    "Hirotaka Takahashi",
-    "J-Rock",
-    "Jiro"
+    "高桥弘孝"
   ],
   "albums": [
     {
@@ -21,8 +19,8 @@
       "year": 2021
     }
   ],
-  "intro": "THE PREDATORSは、2005年に結成された、日本のスリーピース・ロックバンドである。",
-  "introLang": "ja",
+  "intro": "THE PREDATORS是一支成立于2005年的日本三人摇滚乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/97e8ad87-3962-4527-bdac-d477d17e4423"
@@ -53,7 +51,7 @@
     {
       "to": "glay",
       "toName": "GLAY",
-      "toArea": "Hakodate",
+      "toArea": "函馆",
       "toYears": "1988–",
       "type": "member",
       "label": "JIRO",

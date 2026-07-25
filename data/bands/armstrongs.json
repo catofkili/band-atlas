@@ -8,6 +8,8 @@
   "years": "2017–",
   "genres": [],
   "albums": [],
+  "intro": "Armstrongs是一支来自美国的音乐团体，活跃时期为2017–。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5845bc9c-eee2-4782-8c10-54de353ded63"
@@ -27,7 +29,7 @@
     {
       "to": "the-boo",
       "toName": "The Boo",
-      "toArea": "Oakland",
+      "toArea": "奥克兰",
       "toYears": null,
       "type": "member",
       "label": "Joey Armstrong",

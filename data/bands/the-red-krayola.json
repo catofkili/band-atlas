@@ -2,14 +2,14 @@
   "id": "the-red-krayola",
   "mbid": "dd5c73d5-53df-4be1-8290-a5d2082159b1",
   "name": "The Red Krayola",
-  "area": "Houston",
+  "area": "休斯顿",
   "countryCode": "US",
   "country": "美国",
   "years": "1966–",
   "genres": [
-    "Experimental Rock",
-    "Psychedelic Rock",
-    "Art Punk"
+    "实验摇滚",
+    "迷幻摇滚",
+    "艺术朋克"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1983
     }
   ],
-  "intro": "レッド・クレイオラは、テキサス州ヒューストンで1966年に結成されたアメリカのアヴァンギャルド・ロック・バンド。",
-  "introLang": "ja",
+  "intro": "Red Crayola是一支于1966年在得克萨斯州休斯顿成立的美国前卫摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dd5c73d5-53df-4be1-8290-a5d2082159b1"
@@ -47,7 +47,7 @@
     {
       "to": "gastr-del-sol",
       "toName": "Gastr del Sol",
-      "toArea": "Louisville",
+      "toArea": "路易斯维尔",
       "toYears": "1991–1998",
       "type": "member",
       "label": "David Grubbs・John McEntire",

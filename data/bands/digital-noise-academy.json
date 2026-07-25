@@ -13,6 +13,8 @@
       "year": 2013
     }
   ],
+  "intro": "Digital Noise Academy是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/664e77fd-d050-4671-86cd-89081098c2ea"
@@ -21,7 +23,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Justin Meldal‐Johnsen",

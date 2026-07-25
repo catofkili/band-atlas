@@ -13,6 +13,8 @@
       "year": 2008
     }
   ],
+  "intro": "SexTapes是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/374e1126-0a04-4f6d-9363-1f41b833798f"
@@ -43,7 +45,7 @@
     {
       "to": "lusk",
       "toName": "Lusk",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "1995–1998",
       "type": "member",
       "label": "Chris Pitman",

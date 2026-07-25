@@ -13,6 +13,8 @@
       "year": 2004
     }
   ],
+  "intro": "Wild Wise Apes是一支来自日本的音乐团体，活跃时期为2004–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/463e1c9e-4d1c-4b98-95ba-2aeeb7224304"
@@ -21,7 +23,7 @@
     {
       "to": "buck-tick",
       "toName": "BUCK‐TICK",
-      "toArea": "Fujioka",
+      "toArea": "日本",
       "toYears": "1984–",
       "type": "member",
       "label": "樋口豊",

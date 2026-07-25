@@ -7,9 +7,8 @@
   "country": "日本",
   "years": "2000–",
   "genres": [
-    "J-Rock",
-    "_private Tag 1",
-    "Alternative Rock"
+    "_private 标签 1",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 2016
     }
   ],
-  "intro": "downyは、日本のインディー・ロックバンド。ボーカル、ギター担当の青木ロビンを中心に2000年4月に結成され、シングル「月宿る善良」でメジャーデビュー。",
-  "introLang": "ja",
+  "intro": "downy是一支日本独立摇滚乐队。以担任主唱和吉他手的青木罗宾为核心，于2000年4月成立，并凭借单曲《月宿る善良》正式出道。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f2bec217-8b84-42d4-9395-1421f1fa8a51"

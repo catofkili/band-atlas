@@ -7,8 +7,7 @@
   "country": "美国",
   "years": "2007–",
   "genres": [
-    "Alternative Rock",
-    "Alternative"
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -16,8 +15,8 @@
       "year": 2009
     }
   ],
-  "intro": "Spinnerette was an alternative rock band formed in 2007.",
-  "introLang": "en",
+  "intro": "Spinnerette是一支成立于2007年的另类摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/009a44cd-e5b7-4b0f-beee-64391f8e93fd"
@@ -59,7 +58,7 @@
     {
       "to": "queens-of-the-stone-age",
       "toName": "Queens of the Stone Age",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1996–",
       "type": "member",
       "label": "Alain Johannes",
@@ -81,7 +80,7 @@
     {
       "to": "redd-kross",
       "toName": "Redd Kross",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1980–",
       "type": "member",
       "label": "Jack Irons",
@@ -114,7 +113,7 @@
     {
       "to": "desert-sessions",
       "toName": "Desert Sessions",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1997–",
       "type": "member",
       "label": "Alain Johannes",

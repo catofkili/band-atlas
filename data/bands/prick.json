@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "1992–2003",
   "genres": [
-    "Industrial Metal"
+    "工业金属"
   ],
   "albums": [
     {
@@ -19,8 +19,8 @@
       "year": 2002
     }
   ],
-  "intro": "Prick was an American industrial rock band, founded in 1992 in Los Angeles by guitarist and songwriter Kevin McMahon, after his first project Lucky Pierre disbanded.",
-  "introLang": "en",
+  "intro": "Prick是一支美国工业摇滚乐队，由吉他手兼词曲作者凯文·麦克马洪（Kevin McMahon）于1992年在洛杉矶创立，此前他的首个乐队Lucky Pierre已解散。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1268cf43-fa5d-48fd-a0b7-2fb5bcb8ee72"
@@ -29,7 +29,7 @@
     {
       "to": "lucky-pierre",
       "toName": "Lucky Pierre",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1974–",
       "type": "member",
       "label": "Kevin McMahon・Greg Zydyk",
@@ -51,7 +51,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Kevin McMahon",

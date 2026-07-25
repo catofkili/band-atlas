@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1984–2017",
   "genres": [
-    "Grunge",
-    "Alternative Rock",
-    "Alternative Metal"
+    "另类摇滚",
+    "另类金属"
   ],
   "albums": [
     {
@@ -91,7 +90,7 @@
     {
       "to": "queens-of-the-stone-age",
       "toName": "Queens of the Stone Age",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1996–",
       "type": "member",
       "label": "Matt Cameron",
@@ -102,7 +101,7 @@
     {
       "to": "old",
       "toName": "Old",
-      "toArea": "New Jersey",
+      "toArea": "新泽西州",
       "toYears": "1986–2002",
       "type": "member",
       "label": "Jason Everman",
@@ -113,7 +112,7 @@
     {
       "to": "desert-sessions",
       "toName": "Desert Sessions",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1997–",
       "type": "member",
       "label": "Ben Shepherd",
@@ -124,7 +123,7 @@
     {
       "to": "mind-funk",
       "toName": "Mind Funk",
-      "toArea": "Orange County",
+      "toArea": "奥兰治县",
       "toYears": "1989–",
       "type": "member",
       "label": "Jason Everman",
@@ -157,7 +156,7 @@
     {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1968–2025",
       "type": "influence",
       "label": "影响关系",
@@ -168,7 +167,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",
@@ -190,7 +189,7 @@
     {
       "to": "lostprophets",
       "toName": "Lostprophets",
-      "toArea": "Pontypridd",
+      "toArea": "庞蒂普里德",
       "toYears": "1997–2013",
       "type": "influence",
       "label": "影响关系",

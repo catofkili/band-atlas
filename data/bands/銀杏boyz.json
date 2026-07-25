@@ -7,9 +7,8 @@
   "country": "日本",
   "years": null,
   "genres": [
-    "J-Rock",
-    "Pop Punk",
-    "Power Pop"
+    "流行朋克",
+    "Power Pop简体中文（大陆）"
   ],
   "albums": [
     {
@@ -33,8 +32,8 @@
       "year": 2025
     }
   ],
-  "intro": "銀杏BOYZ は、日本のロックバンド。「銀杏ボーイズ」と表記されることもある。",
-  "introLang": "ja",
+  "intro": "银杏BOYZ 是日本的一支摇滚乐队。有时也被写作“银杏男孩”。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5fb91901-b627-4b03-b7f4-b17cc4649c19"

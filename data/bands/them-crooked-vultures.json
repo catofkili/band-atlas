@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "2009–2010",
   "genres": [
-    "Alternative Rock",
-    "Hard Rock",
-    "Rock"
+    "另类摇滚",
+    "硬摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -17,8 +17,8 @@
       "year": 2009
     }
   ],
-  "intro": "ゼム・クルックド・ヴァルチャーズ (Them Crooked Vultures) は、2009年夏にアメリカ合衆国のロサンゼルスで結成されたロックのスーパーグループ。",
-  "introLang": "ja",
+  "intro": "Them Crooked Vultures 是一支于2009年夏天在美国洛杉矶组建的摇滚超级乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4bc09c51-5d42-4c93-9ba6-8cc21a0edb8d"
@@ -38,7 +38,7 @@
     {
       "to": "queens-of-the-stone-age",
       "toName": "Queens of the Stone Age",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1996–",
       "type": "member",
       "label": "Josh Homme",
@@ -49,7 +49,7 @@
     {
       "to": "desert-sessions",
       "toName": "Desert Sessions",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1997–",
       "type": "member",
       "label": "Josh Homme",

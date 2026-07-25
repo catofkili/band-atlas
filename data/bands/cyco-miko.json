@@ -2,12 +2,12 @@
   "id": "cyco-miko",
   "mbid": "d4fe1194-6dd2-4a5d-bdaf-b2c481e79434",
   "name": "Cyco Miko",
-  "area": "Venice",
+  "area": "威尼斯",
   "countryCode": "US",
   "country": "美国",
   "years": "1994–",
   "genres": [
-    "Thrash Metal"
+    "鞭击金属"
   ],
   "albums": [
     {
@@ -23,6 +23,8 @@
       "year": 2011
     }
   ],
+  "intro": "Cyco Miko是一支来自威尼斯的以鞭击金属为主要风格的音乐团体，活跃时期为1994–。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d4fe1194-6dd2-4a5d-bdaf-b2c481e79434"

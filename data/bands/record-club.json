@@ -6,9 +6,7 @@
   "countryCode": "US",
   "country": "美国",
   "years": "2009–",
-  "genres": [
-    "Lo-Fi"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "Songs of Leonard Cohen",
@@ -31,8 +29,8 @@
       "year": 2010
     }
   ],
-  "intro": "Record Club was a musical project initiated by Beck in June 2009.",
-  "introLang": "en",
+  "intro": "Record Club 是贝克（Beck）于2009年6月发起的音乐项目。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8dd30e73-c5e9-43bf-bcce-8fc44d54a84d"

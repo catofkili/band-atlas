@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Lords of Flatbush是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/829dc052-6f03-42b5-b94f-26ddddf54982"
@@ -16,7 +18,7 @@
     {
       "to": "arctic-monkeys",
       "toName": "Arctic Monkeys",
-      "toArea": "High Green",
+      "toArea": "英国",
       "toYears": "2002–",
       "type": "member",
       "label": "Andy Nicholson",

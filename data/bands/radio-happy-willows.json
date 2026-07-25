@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Radio Happy Willows是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cdcfa52e-97ad-4daf-a0d0-9097ec7b05b0"
@@ -16,7 +18,7 @@
     {
       "to": "glay",
       "toName": "GLAY",
-      "toArea": "Hakodate",
+      "toArea": "函馆",
       "toYears": "1988–",
       "type": "member",
       "label": "TERU",

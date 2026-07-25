@@ -2,7 +2,7 @@
   "id": "clinton",
   "mbid": "89ac338b-98a4-4e8c-815c-f3c987c9ee96",
   "name": "Clinton",
-  "area": null,
+  "area": "英国",
   "countryCode": "GB",
   "country": "英国",
   "years": null,
@@ -13,6 +13,8 @@
       "year": 1999
     }
   ],
+  "intro": "Clinton是一支来自英国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96"
@@ -21,7 +23,7 @@
     {
       "to": "cornershop",
       "toName": "Cornershop",
-      "toArea": "Leicester",
+      "toArea": "莱斯特",
       "toYears": "1991–",
       "type": "member",
       "label": "副项目",

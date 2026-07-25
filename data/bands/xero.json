@@ -2,12 +2,14 @@
   "id": "xero",
   "mbid": "f4fccee7-b634-45ea-8cc9-85386aab69b6",
   "name": "Xero",
-  "area": "Agoura Hills",
+  "area": "阿古拉希尔斯",
   "countryCode": "US",
   "country": "美国",
   "years": "1996–1999",
   "genres": [],
   "albums": [],
+  "intro": "Xero是一支来自阿古拉希尔斯的音乐团体，活跃时期为1996–1999。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f4fccee7-b634-45ea-8cc9-85386aab69b6"
@@ -16,7 +18,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "member",
       "label": "Mark Wakefield・Rob Bourdon・Brad Delson・David Michael Farrell・Joseph “Joe” Hahn・Mike Shinoda",

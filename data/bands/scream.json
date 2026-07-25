@@ -2,7 +2,7 @@
   "id": "scream",
   "mbid": "b9f52132-28af-4cea-9558-165cd125f9b7",
   "name": "Scream",
-  "area": "Virginia",
+  "area": "弗吉尼亚州",
   "countryCode": "US",
   "country": "美国",
   "years": "1981–",
@@ -33,8 +33,8 @@
       "year": 1993
     }
   ],
-  "intro": "Scream is an American hardcore punk band from Washington, D.C.",
-  "introLang": "en",
+  "intro": "Scream 是一支来自华盛顿特区的美国硬核朋克乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b9f52132-28af-4cea-9558-165cd125f9b7"
@@ -98,7 +98,7 @@
     {
       "to": "jack-off-jill",
       "toName": "Jack Off Jill",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1992–2000",
       "type": "member",
       "label": "Clint Walsh",

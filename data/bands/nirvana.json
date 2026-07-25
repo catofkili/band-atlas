@@ -7,8 +7,7 @@
   "country": "美国",
   "years": "1987–1994",
   "genres": [
-    "Grunge",
-    "Alternative Rock"
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -139,7 +138,7 @@
     {
       "to": "old",
       "toName": "Old",
-      "toArea": "New Jersey",
+      "toArea": "新泽西州",
       "toYears": "1986–2002",
       "type": "member",
       "label": "Jason Everman",
@@ -161,7 +160,7 @@
     {
       "to": "mind-funk",
       "toName": "Mind Funk",
-      "toArea": "Orange County",
+      "toArea": "奥兰治县",
       "toYears": "1989–",
       "type": "member",
       "label": "Jason Everman",
@@ -282,7 +281,7 @@
     {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1968–2025",
       "type": "influence",
       "label": "影响关系",
@@ -293,7 +292,7 @@
     {
       "to": "blink-182",
       "toName": "blink‐182",
-      "toArea": "Poway",
+      "toArea": "美国",
       "toYears": "1992–",
       "type": "influence",
       "label": "影响关系",
@@ -304,7 +303,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "influence",
       "label": "影响关系",
@@ -326,7 +325,7 @@
     {
       "to": "melvins",
       "toName": "Melvins",
-      "toArea": "Montesano",
+      "toArea": "蒙特萨诺",
       "toYears": "1983–",
       "type": "influence",
       "label": "影响关系",
@@ -337,7 +336,7 @@
     {
       "to": "muse",
       "toName": "Muse",
-      "toArea": "Teignmouth",
+      "toArea": "泰恩茅斯",
       "toYears": "1994–",
       "type": "influence",
       "label": "影响关系",
@@ -348,7 +347,7 @@
     {
       "to": "the-offspring",
       "toName": "The Offspring",
-      "toArea": "Huntington Beach",
+      "toArea": "亨廷顿海滩",
       "toYears": "1984–",
       "type": "influence",
       "label": "影响关系",

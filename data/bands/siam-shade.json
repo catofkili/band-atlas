@@ -7,7 +7,7 @@
   "country": "日本",
   "years": "1993–2002",
   "genres": [
-    "Visual Kei"
+    "视觉系"
   ],
   "albums": [
     {
@@ -35,8 +35,8 @@
       "year": 2000
     }
   ],
-  "intro": "SIAM SHADEは、日本の5人組ロックバンド。1995年にメジャー・デビューし、2002年に一度解散したが、2007年、2011年、2013年、2015～2016年と一時的な再結成を行っている。",
-  "introLang": "ja",
+  "intro": "SIAM SHADE是日本的一支五人摇滚乐队。该乐队于1995年正式出道，2002年曾一度解散，但随后于2007年、2011年、2013年以及2015至2016年期间进行了临时重组。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b58ac34f-e412-4316-8ad3-a721ce598ac3"

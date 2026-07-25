@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "2010–",
   "genres": [
-    "Electronic",
-    "Dark Ambient",
-    "Experimental Electronic"
+    "电子音乐",
+    "黑暗氛围音乐",
+    "实验电子音乐"
   ],
   "albums": [
     {
@@ -17,8 +17,8 @@
       "year": 2013
     }
   ],
-  "intro": "ハウ・トゥ・デストロイ・エンジェルスは、アメリカ合衆国で結成された音楽グループ。ナイン・インチ・ネイルズのフロントマンであるトレント・レズナーが、彼の妻マリクイーン・マーンディグ、アッティカス・ロスと共に結成した。",
-  "introLang": "ja",
+  "intro": "How to Destroy Angels 是一支在美国组建的乐队。由九寸钉乐队的主唱特伦特·雷兹诺与其妻子玛丽奎恩·曼迪格、阿提库斯·罗斯共同组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/143b396d-a678-43aa-8c74-628fea8e381f"
@@ -27,7 +27,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Atticus Ross",

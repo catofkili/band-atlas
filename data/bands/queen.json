@@ -7,9 +7,8 @@
   "country": "英国",
   "years": "1970–",
   "genres": [
-    "Rock",
-    "Glam Rock",
-    "Hard Rock"
+    "摇滚",
+    "硬摇滚"
   ],
   "albums": [
     {
@@ -47,7 +46,7 @@
     {
       "to": "queen-paul-rodgers",
       "toName": "Queen + Paul Rodgers",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Roger Taylor・副项目",
@@ -58,7 +57,7 @@
     {
       "to": "queen-adam-lambert",
       "toName": "Queen + Adam Lambert",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Roger Taylor・副项目",
@@ -190,7 +189,7 @@
     {
       "to": "muse",
       "toName": "Muse",
-      "toArea": "Teignmouth",
+      "toArea": "泰恩茅斯",
       "toYears": "1994–",
       "type": "influence",
       "label": "影响关系",

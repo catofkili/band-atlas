@@ -7,9 +7,9 @@
   "country": "日本",
   "years": "1999–",
   "genres": [
-    "Post-Rock",
-    "Instrumental Rock",
-    "Experimental Rock"
+    "后摇滚",
+    "器乐摇滚",
+    "实验摇滚"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 2009
     }
   ],
-  "intro": "MONOは、1999年結成した日本・東京の4人組ポストロック/インストゥルメンタル・ロック・バンド。 オーケストラとシューゲイザー、ギターノイズを合わせたMONOの楽曲スタイル。",
-  "introLang": "ja",
+  "intro": "MONO是一支成立于1999年的日本东京四人后摇滚/器乐摇滚乐队。MONO的音乐风格融合了管弦乐、瞪鞋摇滚和吉他噪音元素。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ffe02aed-ef7e-4736-a186-c2f1dd55ce8d"
@@ -47,7 +47,7 @@
     {
       "to": "church-of-misery",
       "toName": "Church of Misery",
-      "toArea": "Shinjuku",
+      "toArea": "新宿",
       "toYears": "1995–",
       "type": "member",
       "label": "Yasunori Takada",

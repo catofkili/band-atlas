@@ -2,14 +2,14 @@
   "id": "adolescents",
   "mbid": "c43c7134-5d6f-4bfa-8275-b4012ae97c46",
   "name": "Adolescents",
-  "area": "Fullerton",
+  "area": "富勒顿",
   "countryCode": "US",
   "country": "美国",
   "years": "1979–",
   "genres": [
-    "Hardcore Punk",
-    "Punk",
-    "Punk Rock"
+    "硬核朋克",
+    "朋克",
+    "朋克摇滚"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 2013
     }
   ],
-  "intro": "The Adolescents are an American punk rock band formed in Fullerton, California in 1979.",
-  "introLang": "en",
+  "intro": "The Adolescents 是一支美国朋克摇滚乐队，于 1979 年在加利福尼亚州富勒顿市成立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c43c7134-5d6f-4bfa-8275-b4012ae97c46"
@@ -69,7 +69,7 @@
     {
       "to": "the-tater-totz",
       "toName": "The Tater Totz",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1987–",
       "type": "member",
       "label": "Pat Smear",
@@ -135,7 +135,7 @@
     {
       "to": "blink-182",
       "toName": "blink‐182",
-      "toArea": "Poway",
+      "toArea": "美国",
       "toYears": "1992–",
       "type": "influence",
       "label": "影响关系",

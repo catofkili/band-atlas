@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "2006–2019",
   "genres": [
-    "Alternative Rock",
-    "Indie Rock",
-    "Art Rock"
+    "另类摇滚",
+    "独立摇滚",
+    "艺术摇滚"
   ],
   "albums": [
     {
@@ -21,8 +21,8 @@
       "year": 2018
     }
   ],
-  "intro": "ザ・グッド,ザ・バッド・アンド・ザ・クイーン (The Good, the Bad & the Queen) は、ブラー、ゴリラズのデーモン・アルバーン、アフロビートの創始者、フェラ・クティと共に活動をしていたトニー・アレン、元ザ・クラッシュのポール・シムノン、元ザ・ヴァーヴのサイモン・トングからなるバンドが、2007年にリリースしたアルバム。",
-  "introLang": "ja",
+  "intro": "The Good, the Bad & the Queen 是由布勒乐队成员、Gorillaz乐队的戴蒙·阿尔本，曾与阿弗罗比特音乐创始人费拉·库蒂合作的托尼·艾伦，前The Clash乐队成员保罗·西蒙诺，前The Verve乐队成员西蒙·汤姆，这支乐队于2007年发行的专辑。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0f211bfc-8c69-4cb7-9165-acbe4353cb0a"
@@ -75,7 +75,7 @@
     {
       "to": "seymour",
       "toName": "Seymour",
-      "toArea": "Colchester",
+      "toArea": "科尔切斯特",
       "toYears": "1989–1990",
       "type": "member",
       "label": "Damon Albarn",

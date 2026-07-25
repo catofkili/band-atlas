@@ -2,7 +2,7 @@
   "id": "sex-pistols",
   "mbid": "e5db18cb-4b1f-496d-a308-548b611090d3",
   "name": "Sex Pistols",
-  "area": null,
+  "area": "英国",
   "countryCode": "GB",
   "country": "英国",
   "years": null,
@@ -72,7 +72,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "influence",
       "label": "影响关系",
@@ -83,7 +83,7 @@
     {
       "to": "the-offspring",
       "toName": "The Offspring",
-      "toArea": "Huntington Beach",
+      "toArea": "亨廷顿海滩",
       "toYears": "1984–",
       "type": "influence",
       "label": "影响关系",

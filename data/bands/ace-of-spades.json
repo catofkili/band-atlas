@@ -6,17 +6,15 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2012–",
-  "genres": [
-    "Likedis Auto"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "4REAL",
       "year": 2019
     }
   ],
-  "intro": "ACE OF SPADESは、日本のロックバンド。2012年限定のコラボレーション企画として結成したが、その後も不定期に活動。",
-  "introLang": "ja",
+  "intro": "ACE OF SPADES是一支日本摇滚乐队。该乐队最初作为2012年的一项限定合作企划而组建，此后仍不定期开展活动。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/689ec927-0889-4830-9092-0a3d9bb840a4"
@@ -25,7 +23,7 @@
     {
       "to": "glay",
       "toName": "GLAY",
-      "toArea": "Hakodate",
+      "toArea": "函馆",
       "toYears": "1988–",
       "type": "member",
       "label": "HISASHI",

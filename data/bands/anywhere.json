@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "2010–",
   "genres": [
-    "Crossover Prog"
+    "跨界前卫摇滚"
   ],
   "albums": [
     {
@@ -19,8 +19,8 @@
       "year": 2018
     }
   ],
-  "intro": "Anywhere is a psychedelic rock/folk music project from Los Angeles, California, founded by Christian Eric Beaulieu (formerly of Triclops!",
-  "introLang": "en",
+  "intro": "Anywhere 是一个来自加利福尼亚州洛杉矶的迷幻摇滚/民谣音乐项目，由克里斯蒂安·埃里克·博利厄（曾任 Triclops! 乐队成员）创立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/54bfa733-5012-4aae-b24f-fc9e36cf4ddf"
@@ -29,7 +29,7 @@
     {
       "to": "the-mars-volta",
       "toName": "The Mars Volta",
-      "toArea": "El Paso",
+      "toArea": "埃尔帕索",
       "toYears": "2001–",
       "type": "member",
       "label": "Cedric Bixler‐Zavala",

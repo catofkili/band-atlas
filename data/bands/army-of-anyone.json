@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "2005–2007",
   "genres": [
-    "Alternative Rock",
-    "Hard Rock"
+    "另类摇滚",
+    "硬摇滚"
   ],
   "albums": [
     {
@@ -16,8 +16,8 @@
       "year": 2006
     }
   ],
-  "intro": "Army of Anyone was an American rock supergroup formed by Filter frontman Richard Patrick with two members of rock band Stone Temple Pilots.",
-  "introLang": "en",
+  "intro": "Army of Anyone 是一支由 Filter 乐队主唱理查德·帕特里克（Richard Patrick）与摇滚乐队 Stone Temple Pilots 的两名成员共同组建的美国摇滚超级乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0d501a8e-e923-4885-8a50-4c6cb11265d6"
@@ -26,7 +26,7 @@
     {
       "to": "stone-temple-pilots",
       "toName": "Stone Temple Pilots",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "1990–",
       "type": "member",
       "label": "Dean DeLeo・Robert DeLeo",
@@ -37,7 +37,7 @@
     {
       "to": "filter",
       "toName": "Filter",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1993–",
       "type": "member",
       "label": "Richard Patrick",
@@ -48,7 +48,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Richard Patrick",

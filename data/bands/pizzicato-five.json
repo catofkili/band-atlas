@@ -7,9 +7,9 @@
   "country": "日本",
   "years": "1984–2001",
   "genres": [
-    "Indie Pop",
-    "Shibuya-Kei",
-    "Dance"
+    "独立流行乐",
+    "涩谷系",
+    "舞曲"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1992
     }
   ],
-  "intro": "ピチカート・ファイヴは、1984年から2001年まで活動した日本の音楽グループ。1984年から1987年までの表記はPIZZICATO V。",
-  "introLang": "ja",
+  "intro": "Pizzicato Five是一支活跃于1984年至2001年的日本音乐组合。1984年至1987年期间，其名称写作PIZZICATO V。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1bbb60c9-6b1b-4bb1-a442-2b669436b50e"

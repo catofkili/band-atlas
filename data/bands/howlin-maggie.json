@@ -2,12 +2,12 @@
   "id": "howlin-maggie",
   "mbid": "85c98899-dd47-435d-9977-8ff45910f111",
   "name": "Howlin’ Maggie",
-  "area": "Columbus",
+  "area": "哥伦布",
   "countryCode": "US",
   "country": "美国",
   "years": "1994–2002",
   "genres": [
-    "Columbus [Oh]"
+    "哥伦布 [俄亥俄州]"
   ],
   "albums": [
     {
@@ -19,8 +19,8 @@
       "year": 2001
     }
   ],
-  "intro": "Howlin' Maggie was a four-piece band founded by (and fronted by) Harold \"Happy\" Chichester in Columbus, Ohio, in 1994.",
-  "introLang": "en",
+  "intro": "Howlin' Maggie 是一支四人乐队，由哈罗德·“快乐”·奇切斯特于1994年在俄亥俄州哥伦布市创立并担任主唱。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/85c98899-dd47-435d-9977-8ff45910f111"
@@ -29,7 +29,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Jerome Dillon",

@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1988–",
   "genres": [
-    "Alternative Rock",
-    "Grunge",
-    "Rock"
+    "另类摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 2002
     }
   ],
-  "intro": "マッドハニー (Mudhoney) は、アメリカ合衆国ワシントン州シアトル出身のバンド。",
-  "introLang": "ja",
+  "intro": "Mudhoney 是一支来自美国华盛顿州西雅图的乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e675295a-1efe-4247-aa3b-53b78d0cdffc"
@@ -91,7 +90,7 @@
     {
       "to": "melvins",
       "toName": "Melvins",
-      "toArea": "Montesano",
+      "toArea": "蒙特萨诺",
       "toYears": "1983–",
       "type": "member",
       "label": "Matt Lukin",

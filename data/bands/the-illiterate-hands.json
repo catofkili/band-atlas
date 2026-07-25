@@ -7,9 +7,11 @@
   "country": "英国",
   "years": null,
   "genres": [
-    "Rock"
+    "摇滚"
   ],
   "albums": [],
+  "intro": "The Illiterate Hands是一支来自牛津的以摇滚为主要风格的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8d289273-27fc-41d9-8978-7d469b154413"
@@ -18,7 +20,7 @@
     {
       "to": "radiohead",
       "toName": "Radiohead",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1991–",
       "type": "member",
       "label": "Jonny Greenwood",
@@ -29,7 +31,7 @@
     {
       "to": "the-smile",
       "toName": "The Smile",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Jonny Greenwood",
@@ -40,7 +42,7 @@
     {
       "to": "on-a-friday",
       "toName": "On a Friday",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1985–1991",
       "type": "member",
       "label": "Jonny Greenwood",

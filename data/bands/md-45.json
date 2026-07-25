@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "1996–1996",
   "genres": [
-    "Heavy Metal",
-    "Thrash Metal"
+    "重金属",
+    "鞭击金属"
   ],
   "albums": [
     {
@@ -16,8 +16,8 @@
       "year": 1996
     }
   ],
-  "intro": "MD.",
-  "introLang": "en",
+  "intro": "MD.45是一支来自美国的以重金属、鞭击金属为主要风格的音乐团体，活跃时期为1996–1996。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1a7c9a3e-60f5-4f6d-9649-fd960ade4895"
@@ -70,7 +70,7 @@
     {
       "to": "panic",
       "toName": "Panic",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Dave Mustaine",

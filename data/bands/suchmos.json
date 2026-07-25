@@ -6,9 +6,7 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2013–",
-  "genres": [
-    "Acid Jazz"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "THE BAY",
@@ -27,8 +25,8 @@
       "year": 2019
     }
   ],
-  "intro": "Suchmosは、日本のロックバンド。2013年結成。バンド名の由来は、ルイ・アームストロングの愛称サッチモ。ロック、ソウル、ポップス、ジャズ、アシッドジャズ、ヒップホップなどから影響を受けた音楽性を持つ。",
-  "introLang": "ja",
+  "intro": "Suchmos是一支日本摇滚乐队，成立于2013年。乐队名称的由来是路易·阿姆斯特朗的昵称“萨奇莫”。其音乐风格受到摇滚、灵魂乐、流行乐、爵士乐、酸爵士和嘻哈等多种音乐流派的影响。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5561990a-0601-4a71-b766-3268ea687ab3"

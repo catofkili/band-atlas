@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "2009–2014",
   "genres": [
-    "Alternative Rock",
-    "Britpop",
-    "Mod Revival"
+    "另类摇滚",
+    "英伦摇滚",
+    "Mod复兴"
   ],
   "albums": [
     {
@@ -21,8 +21,8 @@
       "year": 2013
     }
   ],
-  "intro": "ビーディ・アイ (Beady Eye) は、イギリスのロックバンド。2009年にロンドンにてオアシスの元メンバーによって結成された。",
-  "introLang": "ja",
+  "intro": "Beady Eye 是一支英国摇滚乐队。该乐队由绿洲乐队的前成员于2009年在伦敦组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a0e10984-0eca-4920-a171-5fd7a62ee069"
@@ -75,7 +75,7 @@
     {
       "to": "heavy-stereo",
       "toName": "Heavy Stereo",
-      "toArea": "Durham",
+      "toArea": "达勒姆",
       "toYears": "1995–1996",
       "type": "member",
       "label": "Gem Archer",

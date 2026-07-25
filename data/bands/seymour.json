@@ -2,12 +2,14 @@
   "id": "seymour",
   "mbid": "594493b9-50df-4efb-9aed-9b5c867b4753",
   "name": "Seymour",
-  "area": "Colchester",
+  "area": "科尔切斯特",
   "countryCode": "GB",
   "country": "英国",
   "years": "1989–1990",
   "genres": [],
   "albums": [],
+  "intro": "Seymour是一支来自科尔切斯特的音乐团体，活跃时期为1989–1990。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/594493b9-50df-4efb-9aed-9b5c867b4753"
@@ -71,7 +73,7 @@
     {
       "to": "the-jaded-hearts-club",
       "toName": "The Jaded Hearts Club",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "2018–",
       "type": "member",
       "label": "Graham Coxon",

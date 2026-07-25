@@ -25,8 +25,8 @@
       "year": 2021
     }
   ],
-  "intro": "Bank Bandは、日本のバンド。2004年に結成。所属レコード会社はトイズファクトリー。",
-  "introLang": "ja",
+  "intro": "Bank Band是一支日本乐队。成立于2004年。所属唱片公司为Toys Factory。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9f88c846-7248-4fac-be8a-5d728bb95cd8"
@@ -46,7 +46,7 @@
     {
       "to": "mr-children",
       "toName": "Mr.Children",
-      "toArea": "Shibuya",
+      "toArea": "涩谷",
       "toYears": "1989–",
       "type": "member",
       "label": "桜井和寿",

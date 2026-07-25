@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1976–2005",
   "genres": [
-    "Los Angeles",
-    "Punk",
-    "Punk Rock"
+    "朋克",
+    "朋克摇滚"
   ],
   "albums": [
     {
@@ -21,8 +20,8 @@
       "year": 1992
     }
   ],
-  "intro": "The Weirdos are an American punk rock band from Los Angeles.",
-  "introLang": "en",
+  "intro": "The Weirdos 是一支来自洛杉矶的美国朋克摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bea10050-d80f-4280-98fe-23c9d945beb0"
@@ -53,7 +52,7 @@
     {
       "to": "adolescents",
       "toName": "Adolescents",
-      "toArea": "Fullerton",
+      "toArea": "富勒顿",
       "toYears": "1979–",
       "type": "member",
       "label": "Danny Benair",

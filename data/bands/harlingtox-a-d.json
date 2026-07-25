@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Harlingtox A.D.是一支来自华盛顿特区的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b6aebd2e-6a59-43a6-8252-514ba90cebf3"
@@ -16,7 +18,7 @@
     {
       "to": "churn",
       "toName": "Churn",
-      "toArea": "Arlington County",
+      "toArea": "阿灵顿县",
       "toYears": "1989–",
       "type": "member",
       "label": "Barrett Jones",

@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1967–1972",
   "genres": [
-    "Blue-Eyed Soul",
-    "Blues Rock",
-    "Country Rock"
+    "蓝眼灵魂乐",
+    "蓝调摇滚",
+    "乡村摇滚"
   ],
   "albums": [
     {
@@ -33,8 +33,8 @@
       "year": 1972
     }
   ],
-  "intro": "デラニー&ボニーは、アメリカ合衆国のデュオ歌手。デラニー・ブラムレットとボニー・ブラムレットの夫婦により結成された。エリック・クラプトンとの共演等で知られる。",
-  "introLang": "ja",
+  "intro": "德拉尼与邦妮是美国的一对双人演唱组合。由德拉尼·布拉姆莱特和邦妮·布拉姆莱特夫妇组建。因曾与埃里克·克莱普顿同台演出等而闻名。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1d0e964a-2b91-4dd9-8100-a5a184870382"
@@ -54,7 +54,7 @@
     {
       "to": "traveling-wilburys",
       "toName": "Traveling Wilburys",
-      "toArea": "Malibu",
+      "toArea": "马里布",
       "toYears": "1988–1990",
       "type": "member",
       "label": "George Harrison・Jim Keltner",
@@ -142,7 +142,7 @@
     {
       "to": "the-beat-brothers",
       "toName": "The Beat Brothers",
-      "toArea": "Hamburg",
+      "toArea": "汉堡",
       "toYears": "1961–",
       "type": "member",
       "label": "George Harrison",

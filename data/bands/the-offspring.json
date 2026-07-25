@@ -2,14 +2,14 @@
   "id": "the-offspring",
   "mbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
   "name": "The Offspring",
-  "area": "Huntington Beach",
+  "area": "亨廷顿海滩",
   "countryCode": "US",
   "country": "美国",
   "years": "1984–",
   "genres": [
-    "Punk Rock",
-    "Pop Punk",
-    "Punk"
+    "朋克摇滚",
+    "流行朋克",
+    "朋克"
   ],
   "albums": [
     {
@@ -58,7 +58,7 @@
     {
       "to": "angels-airwaves",
       "toName": "Angels & Airwaves",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "2005–",
       "type": "member",
       "label": "Atom",
@@ -80,7 +80,7 @@
     {
       "to": "rancid",
       "toName": "Rancid",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "guest",
       "label": "伴奏・助演",
@@ -91,7 +91,7 @@
     {
       "to": "blink-182",
       "toName": "blink‐182",
-      "toArea": "Poway",
+      "toArea": "美国",
       "toYears": "1992–",
       "type": "influence",
       "label": "影响关系",
@@ -113,7 +113,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "influence",
       "label": "影响关系",
@@ -124,7 +124,7 @@
     {
       "to": "sex-pistols",
       "toName": "Sex Pistols",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "influence",
       "label": "影响关系",

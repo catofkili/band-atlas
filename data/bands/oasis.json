@@ -7,8 +7,8 @@
   "country": "英国",
   "years": "1991–2009 / 2024–",
   "genres": [
-    "Britpop",
-    "Rock"
+    "英伦摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -84,7 +84,7 @@
     {
       "to": "cornershop",
       "toName": "Cornershop",
-      "toArea": "Leicester",
+      "toArea": "莱斯特",
       "toYears": "1991–",
       "type": "member",
       "label": "Paul McGuigan",
@@ -139,7 +139,7 @@
     {
       "to": "heavy-stereo",
       "toName": "Heavy Stereo",
-      "toArea": "Durham",
+      "toArea": "达勒姆",
       "toYears": "1995–1996",
       "type": "member",
       "label": "Gem Archer",
@@ -172,7 +172,7 @@
     {
       "to": "starclub",
       "toName": "Starclub",
-      "toArea": "Maidstone",
+      "toArea": "梅德斯通",
       "toYears": "1991–1994",
       "type": "member",
       "label": "Alan White",

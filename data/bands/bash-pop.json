@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "1992–",
   "genres": [
-    "Power Pop"
+    "Power Pop简体中文（大陆）"
   ],
   "albums": [
     {
@@ -19,8 +19,8 @@
       "year": 2017
     }
   ],
-  "intro": "Bash & Pop are an American alternative rock band formed in 1992 by Tommy Stinson in Minneapolis, Minnesota, following the breakup of the Replacements.",
-  "introLang": "en",
+  "intro": "Bash & Pop 是一支美国另类摇滚乐队，由汤米·斯廷森（Tommy Stinson）于 1992 年在明尼苏达州明尼阿波利斯市组建，此前“Replacements”乐队刚刚解散。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c44092a6-d6be-4bfa-9650-edccc69f7a2b"
@@ -95,7 +95,7 @@
     {
       "to": "the-jacks",
       "toName": "The Jacks",
-      "toArea": "Tulsa",
+      "toArea": "塔尔萨",
       "toYears": null,
       "type": "member",
       "label": "Tommy Stinson",

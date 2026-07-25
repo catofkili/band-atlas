@@ -2,14 +2,12 @@
   "id": "church-of-misery",
   "mbid": "a0ac9492-36ec-44c9-8583-5d7ff988f6c6",
   "name": "Church of Misery",
-  "area": "Shinjuku",
+  "area": "新宿",
   "countryCode": "JP",
   "country": "日本",
   "years": "1995–",
   "genres": [
-    "Doom Metal",
-    "Doom",
-    "Metal"
+    "金属"
   ],
   "albums": [
     {
@@ -37,8 +35,8 @@
       "year": 2009
     }
   ],
-  "intro": "チャーチ・オブ・ミザリーは、日本のドゥームメタル・バンド。",
-  "introLang": "ja",
+  "intro": "Church of Misery是一支来自日本的厄运金属乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a0ac9492-36ec-44c9-8583-5d7ff988f6c6"

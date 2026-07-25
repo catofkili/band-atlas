@@ -8,6 +8,8 @@
   "years": "2013–",
   "genres": [],
   "albums": [],
+  "intro": "Sticky Blood是一支来自谢菲尔德的音乐团体，活跃时期为2013–。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/857d05c4-ad27-4153-a23d-2ae44e3e2b4a"
@@ -16,7 +18,7 @@
     {
       "to": "arctic-monkeys",
       "toName": "Arctic Monkeys",
-      "toArea": "High Green",
+      "toArea": "英国",
       "toYears": "2002–",
       "type": "member",
       "label": "Andy Nicholson",

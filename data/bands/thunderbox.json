@@ -2,14 +2,14 @@
   "id": "thunderbox",
   "mbid": "65004947-cdea-47cf-8812-9faf47ebd6c1",
   "name": "Thunderbox",
-  "area": "Redondo Beach",
+  "area": "雷东多海滩",
   "countryCode": "US",
   "country": "美国",
   "years": null,
   "genres": [
-    "Country",
-    "Country Rock",
-    "Folk Rock"
+    "乡村音乐",
+    "乡村摇滚",
+    "民谣摇滚"
   ],
   "albums": [
     {
@@ -17,6 +17,8 @@
       "year": 1999
     }
   ],
+  "intro": "Thunderbox是一支来自雷东多海滩的以乡村音乐、乡村摇滚为主要风格的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/65004947-cdea-47cf-8812-9faf47ebd6c1"

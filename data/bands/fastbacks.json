@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "1979–2002",
   "genres": [
-    "Pop Punk"
+    "流行朋克"
   ],
   "albums": [
     {
@@ -35,8 +35,8 @@
       "year": 1996
     }
   ],
-  "intro": "Fastbacks are a Seattle, Washington, punk rock band.",
-  "introLang": "en",
+  "intro": "Fastbacks 是一支来自华盛顿州西雅图的朋克摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3fe64039-d8e0-4ac2-838f-9a3bf97c4931"
@@ -56,7 +56,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "influence",
       "label": "影响关系",

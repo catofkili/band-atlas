@@ -7,9 +7,9 @@
   "country": "日本",
   "years": "1981–",
   "genres": [
-    "Death Metal",
-    "Heavy Metal",
-    "Metalcore"
+    "死亡金属",
+    "重金属",
+    "金属核"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 2001
     }
   ],
-  "intro": "UNITEDは1981年に結成、1990年にアルバムデビューした日本のスラッシュメタルバンド。",
-  "introLang": "ja",
+  "intro": "UNITED是一支成立于1981年、于1990年发行首张专辑的日本鞭击金属乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/210b9cbe-1a89-4bca-8b84-48b37dfe4130"
@@ -58,7 +58,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "吉田良文",

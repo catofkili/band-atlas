@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "2002–2004",
   "genres": [
-    "Alternative Rock",
-    "Funk Metal",
-    "Metal"
+    "另类摇滚",
+    "放克金属",
+    "金属"
   ],
   "albums": [
     {
@@ -17,8 +17,8 @@
       "year": 2004
     }
   ],
-  "intro": "Colonel Claypool's Bucket of Bernie Brains (C2B3) was an experimental rock supergroup featuring bassist Les Claypool, guitarist Buckethead, keyboardist Bernie Worrell and drummer Brain.",
-  "introLang": "en",
+  "intro": "“克莱普尔上校的伯尼大脑桶”（Colonel Claypool's Bucket of Bernie Brains，简称 C2B3）是一支实验摇滚超级乐队，成员包括贝斯手莱斯·克莱普尔（Les Claypool）、吉他手巴克特海德（Buckethead）、键盘手伯尼·沃雷尔（Bernie Worrell）和鼓手布莱恩（Brain）。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4297d19f-4483-494c-a993-0e29a5afac33"
@@ -27,7 +27,7 @@
     {
       "to": "primus",
       "toName": "Primus",
-      "toArea": "El Sobrante",
+      "toArea": "埃尔·索布兰特",
       "toYears": "1984–",
       "type": "member",
       "label": "Les Claypool",
@@ -38,7 +38,7 @@
     {
       "to": "les-claypool-and-the-holy-mackerel",
       "toName": "Les Claypool and the Holy Mackerel",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1996–1996",
       "type": "member",
       "label": "Les Claypool",

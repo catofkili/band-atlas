@@ -2,14 +2,13 @@
   "id": "exodus",
   "mbid": "18e9bfd5-db23-4bc1-be0f-5710e5d656e4",
   "name": "Exodus",
-  "area": "Richmond",
+  "area": "里士满",
   "countryCode": "US",
   "country": "美国",
   "years": "1979–",
   "genres": [
-    "Thrash Metal",
-    "Metal",
-    "Groove Metal"
+    "鞭击金属",
+    "金属"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 2004
     }
   ],
-  "intro": "エクソダスは、アメリカ合衆国出身のスラッシュメタル・バンド。 サンフランシスコ産スラッシュメタル『ベイエリア・スラッシュ』を代表するバンドの一つ。",
-  "introLang": "ja",
+  "intro": "Exodus是一支来自美国的鞭击金属乐队。它是代表旧金山鞭击金属风格“湾区鞭击金属”的乐队之一。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/18e9bfd5-db23-4bc1-be0f-5710e5d656e4"
@@ -80,7 +79,7 @@
     {
       "to": "maxwell-house-ranch-band",
       "toName": "Maxwell House Ranch Band",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Kirk Hammett",
@@ -113,7 +112,7 @@
     {
       "to": "spastik-children",
       "toName": "Spastik Children",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Kirk Hammett",
@@ -124,7 +123,7 @@
     {
       "to": "the-wedding-band",
       "toName": "The Wedding Band",
-      "toArea": "Hawaii",
+      "toArea": "夏威夷",
       "toYears": "2018–",
       "type": "member",
       "label": "Kirk Hammett",

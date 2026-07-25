@@ -2,12 +2,14 @@
   "id": "gown",
   "mbid": "4f83b34e-7eaa-4691-bdc8-afa90806cbca",
   "name": "Gown",
-  "area": null,
+  "area": "美国",
   "countryCode": "US",
   "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Gown是一支来自美国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4f83b34e-7eaa-4691-bdc8-afa90806cbca"
@@ -16,7 +18,7 @@
     {
       "to": "queens-of-the-stone-age",
       "toName": "Queens of the Stone Age",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1996–",
       "type": "member",
       "label": "副项目",

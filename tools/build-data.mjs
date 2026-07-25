@@ -38,6 +38,12 @@ async function readJSON(rel, fallback = null) {
 const curated = await readJSON('data/source/scene-jrock.json');
 const generated = await readJSON('data/source/generated.json', { bands: [], edges: [] });
 const { intros } = await readJSON('data/source/intros.json', { intros: {} });
+const translationsZh = await readJSON('data/source/translations-zh.json', {
+  intros: {},
+  areas: {},
+  genres: {},
+});
+const zhOverrides = await readJSON('data/source/zh-overrides.json', { intros: {} });
 const { edges: influenceEdges } = await readJSON('data/source/influences.json', { edges: [] });
 
 // 维基百科的简介垫在爬来的数据上、人工数据下：有中文简介就用中文的，
@@ -98,6 +104,64 @@ for (const band of generated.bands) {
   }
   remap.set(band.id, band.id);
   merged.set(band.id, band);
+}
+
+/* ---------------------------------------------------------- 全站中文化 */
+
+const hasHan = (text) => /[\u3400-\u9fff]/.test(text ?? '');
+const countryFallback = {
+  JP: '日本', KR: '韩国', KP: '朝鲜', CN: '中国', TW: '台湾', HK: '香港', MO: '澳门', MN: '蒙古',
+  US: '美国', GB: '英国', IE: '爱尔兰', CA: '加拿大', AU: '澳大利亚', NZ: '新西兰',
+  DE: '德国', FR: '法国', SE: '瑞典', NO: '挪威', DK: '丹麦', FI: '芬兰', IS: '冰岛',
+  NL: '荷兰', BE: '比利时', ES: '西班牙', IT: '意大利', PT: '葡萄牙', AT: '奥地利', CH: '瑞士',
+};
+const junkGenres = new Set([
+  '2000s', '1990s', '1980s', '1970s', 'likedis auto', 'alliteration', 'seen live',
+  'favorites', 'favourites', 'awesome', 'band', 'group', 'male vocalists', 'female vocalists',
+]);
+
+for (const band of merged.values()) {
+  const introTranslation = band.mbid && translationsZh.intros?.[band.mbid];
+  if (
+    introTranslation?.text &&
+    (!introTranslation.source || introTranslation.source === band.intro) &&
+    band.introLang !== 'zh'
+  ) {
+    band.intro = introTranslation.text;
+    band.introLang = 'zh';
+  }
+
+  if (band.area) {
+    const translated = translationsZh.areas?.[band.area];
+    band.area = hasHan(translated)
+      ? translated
+      : hasHan(band.area)
+        ? band.area
+        : countryFallback[band.countryCode] ?? '地区未录入';
+  } else if (countryFallback[band.countryCode]) {
+    band.area = countryFallback[band.countryCode];
+  }
+
+  band.genres = [...new Set((band.genres ?? [])
+    .filter((genre) => !junkGenres.has(genre.toLowerCase()))
+    .map((genre) => {
+      const translated = translationsZh.genres?.[genre];
+      return hasHan(translated) ? translated : hasHan(genre) ? genre : null;
+    })
+    .filter((genre) => genre && genre !== band.area && genre !== countryFallback[band.countryCode]))];
+
+  // 没有可翻译原文时只组合已有事实，不虚构经历或评价。
+  if (!band.intro || !hasHan(band.intro)) {
+    const place = band.area && band.area !== '地区未录入' ? `来自${band.area}的` : '';
+    const genre = band.genres.length ? `以${band.genres.slice(0, 2).join('、')}为主要风格的` : '';
+    const years = band.years ? `，活跃时期为${band.years}` : '';
+    band.intro = `${band.name}是一支${place}${genre}音乐团体${years}。`;
+    band.introLang = 'zh';
+  }
+  if (zhOverrides.intros?.[band.id]) {
+    band.intro = zhOverrides.intros[band.id];
+    band.introLang = 'zh';
+  }
 }
 
 /* ---------------------------------------------------------------- 边 */

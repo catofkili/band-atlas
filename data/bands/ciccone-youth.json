@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1986–1988",
   "genres": [
-    "Experimental Rock",
-    "Noise Rock",
-    "Rock"
+    "实验摇滚",
+    "噪音摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -17,8 +17,8 @@
       "year": 1988
     }
   ],
-  "intro": "Sonic Youth was an American rock band formed in New York City in 1981.",
-  "introLang": "en",
+  "intro": "Sonic Youth 是一支于 1981 年在纽约市成立的美国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b36d22e9-7f2c-42ff-98a6-b0e3f2cb36f5"
@@ -71,7 +71,7 @@
     {
       "to": "body-head",
       "toName": "Body/Head",
-      "toArea": "Northampton",
+      "toArea": "北安普顿",
       "toYears": "2012–",
       "type": "member",
       "label": "Kim Gordon",

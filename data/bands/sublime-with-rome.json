@@ -2,14 +2,13 @@
   "id": "sublime-with-rome",
   "mbid": "079f2e2b-b3f9-4574-ac5c-add977b40762",
   "name": "Sublime with Rome",
-  "area": "Long Beach",
+  "area": "长滩",
   "countryCode": "US",
   "country": "美国",
   "years": "2009–2024",
   "genres": [
-    "Reggae",
-    "Alternative Rock",
-    "Dub"
+    "雷鬼",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -33,8 +32,8 @@
       "year": 2024
     }
   ],
-  "intro": "Sublime with Rome was a band that began as a musical collaboration between former Sublime members Eric Wilson and Bud Gaugh, and singer and guitarist Rome Ramirez.",
-  "introLang": "en",
+  "intro": "Sublime with Rome 是一支由前 Sublime 乐队成员埃里克·威尔逊（Eric Wilson）和巴德·高（Bud Gaugh），以及主唱兼吉他手罗姆·拉米雷斯（Rome Ramirez）共同组建的乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/079f2e2b-b3f9-4574-ac5c-add977b40762"
@@ -54,7 +53,7 @@
     {
       "to": "sublime",
       "toName": "Sublime",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "member",
       "label": "副项目",

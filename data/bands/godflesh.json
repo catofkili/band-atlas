@@ -2,14 +2,14 @@
   "id": "godflesh",
   "mbid": "864aa861-e22a-4187-8baa-2ef0c215bc0a",
   "name": "Godflesh",
-  "area": "Birmingham",
+  "area": "伯明翰",
   "countryCode": "GB",
   "country": "英国",
   "years": "1988–",
   "genres": [
-    "Industrial Metal",
-    "Sludge Metal",
-    "Industrial Dub"
+    "工业金属",
+    "泥浆金属",
+    "工业 Dub"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 2001
     }
   ],
-  "intro": "ゴッドフレッシュ (Godflesh) は、イングランド・バーミンガムのインダストリアル・メタルバンド。1988年、ジャスティン・ブロードリックとG.",
-  "introLang": "ja",
+  "intro": "Godflesh 是一支来自英格兰伯明翰的工业金属乐队。1988年，贾斯汀·布罗德里克和G.",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/864aa861-e22a-4187-8baa-2ef0c215bc0a"

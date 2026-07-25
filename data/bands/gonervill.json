@@ -17,6 +17,8 @@
       "year": 2001
     }
   ],
+  "intro": "Gonervill是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d8da300b-4961-47a4-bdb5-f2795bf28b0c"

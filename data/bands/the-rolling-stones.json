@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1962–",
   "genres": [
-    "Rock",
-    "Blues Rock",
-    "Classic Rock"
+    "摇滚",
+    "蓝调摇滚",
+    "经典摇滚"
   ],
   "albums": [
     {
@@ -146,7 +146,7 @@
     {
       "to": "sex-pistols",
       "toName": "Sex Pistols",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "influence",
       "label": "影响关系",

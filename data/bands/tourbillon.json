@@ -7,7 +7,7 @@
   "country": "日本",
   "years": "2005–",
   "genres": [
-    "Visual Kei"
+    "视觉系"
   ],
   "albums": [
     {
@@ -27,8 +27,8 @@
       "year": 2012
     }
   ],
-  "intro": "Tourbillonは、RYUICHI、INORAN、H.Hayamaの3人からなる日本の音楽ユニット。",
-  "introLang": "ja",
+  "intro": "Tourbillon是由RYUICHI、INORAN和H.Hayama三人组成的日本音乐组合。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fa2a83c8-9ab1-4c53-a260-81207c4dd863"

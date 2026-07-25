@@ -7,9 +7,7 @@
   "country": "日本",
   "years": "1996–2019",
   "genres": [
-    "Visual Kei",
-    "J-Rock",
-    "Major"
+    "视觉系"
   ],
   "albums": [
     {
@@ -47,7 +45,7 @@
     {
       "to": "acid-black-cherry",
       "toName": "Acid Black Cherry",
-      "toArea": "Hirakata",
+      "toArea": "枚方",
       "toYears": "2007–2017",
       "type": "member",
       "label": "yasu",

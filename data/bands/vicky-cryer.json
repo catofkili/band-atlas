@@ -13,6 +13,8 @@
       "year": 2013
     }
   ],
+  "intro": "Vicky Cryer是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b09b280d-ce04-444a-8578-d47840d6bd45"
@@ -21,7 +23,7 @@
     {
       "to": "jamiroquai",
       "toName": "Jamiroquai",
-      "toArea": "Ealing",
+      "toArea": "伊灵",
       "toYears": "1992–",
       "type": "member",
       "label": "Nick Fyffe",
@@ -32,7 +34,7 @@
     {
       "to": "muse",
       "toName": "Muse",
-      "toArea": "Teignmouth",
+      "toArea": "泰恩茅斯",
       "toYears": "1994–",
       "type": "member",
       "label": "Dominic Howard",
@@ -43,7 +45,7 @@
     {
       "to": "the-killers",
       "toName": "The Killers",
-      "toArea": "Las Vegas",
+      "toArea": "拉斯维加斯",
       "toYears": "2001–",
       "type": "member",
       "label": "Mark Stoermer",

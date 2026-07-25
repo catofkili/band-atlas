@@ -2,7 +2,7 @@
   "id": "denver-harbor",
   "mbid": "9e47e029-e63d-48d8-a8b8-fd46cc9db1ce",
   "name": "Denver Harbor",
-  "area": "San Diego",
+  "area": "圣地亚哥",
   "countryCode": "US",
   "country": "美国",
   "years": "2002–",
@@ -13,8 +13,8 @@
       "year": 2004
     }
   ],
-  "intro": "Denver Harbor was an American alternative rock band, based in San Diego, California.",
-  "introLang": "en",
+  "intro": "Denver Harbor 是一支来自美国加利福尼亚州圣地亚哥的另类摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9e47e029-e63d-48d8-a8b8-fd46cc9db1ce"
@@ -23,7 +23,7 @@
     {
       "to": "angels-airwaves",
       "toName": "Angels & Airwaves",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "2005–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -34,7 +34,7 @@
     {
       "to": "lostprophets",
       "toName": "Lostprophets",
-      "toArea": "Pontypridd",
+      "toArea": "庞蒂普里德",
       "toYears": "1997–2013",
       "type": "member",
       "label": "Ilan Rubin",
@@ -45,7 +45,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -56,7 +56,7 @@
     {
       "to": "fenix-tx",
       "toName": "Fenix TX",
-      "toArea": "Houston",
+      "toArea": "休斯顿",
       "toYears": "1995–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -67,7 +67,7 @@
     {
       "to": "the-jaded-hearts-club",
       "toName": "The Jaded Hearts Club",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "2018–",
       "type": "member",
       "label": "Ilan Rubin",

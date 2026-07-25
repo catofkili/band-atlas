@@ -8,6 +8,8 @@
   "years": "2019–",
   "genres": [],
   "albums": [],
+  "intro": "Radio Darlings是一支音乐团体，活跃时期为2019–。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/23c50eb0-d6c6-41c9-8ada-b869744d4c0b"
@@ -16,7 +18,7 @@
     {
       "to": "kana-boon",
       "toName": "KANA-BOON",
-      "toArea": "Sakai",
+      "toArea": "日本",
       "toYears": "2006–",
       "type": "member",
       "label": "谷口鮪",
@@ -27,7 +29,7 @@
     {
       "to": "official髭男dism",
       "toName": "Official髭男dism",
-      "toArea": "Shimane",
+      "toArea": "岛根",
       "toYears": "2012–",
       "type": "member",
       "label": "藤原聡",

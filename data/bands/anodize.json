@@ -2,14 +2,14 @@
   "id": "anodize",
   "mbid": "85f76f16-3ca8-41d7-9c00-f8473c4400b9",
   "name": "Anodize",
-  "area": "Hong Kong",
+  "area": "香港",
   "countryCode": "HK",
   "country": "香港",
   "years": "1989–1999",
   "genres": [
-    "Alternative Rock",
-    "Cantonese",
-    "Hard Rock"
+    "另类摇滚",
+    "粤语",
+    "硬摇滚"
   ],
   "albums": [],
   "intro": "Anodize是1989年成立的香港摇滚乐队，是九十年代举足轻重的独立乐队，出版过三张专辑，包括1994年与乐队同名的《Anodize》、1995年的《大车店》、1997年的《Action Figure》，以及在1999年宣布解散前的迷你专辑《Anodize 4》。",
@@ -22,7 +22,7 @@
     {
       "to": "lmf",
       "toName": "LMF",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": "1993–2003",
       "type": "member",
       "label": "Davy Chan・鄭華勝",

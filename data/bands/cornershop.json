@@ -2,14 +2,14 @@
   "id": "cornershop",
   "mbid": "92046be7-0927-4835-a4ed-a90416747d53",
   "name": "Cornershop",
-  "area": "Leicester",
+  "area": "莱斯特",
   "countryCode": "GB",
   "country": "英国",
   "years": "1991–",
   "genres": [
-    "Asian",
-    "Brit Pop",
-    "British Asian"
+    "亚洲",
+    "英国流行乐",
+    "英国亚裔"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 2011
     }
   ],
-  "intro": "コーナーショップは、イングランドのレスターで結成されたロックバンド。インド系英国人であるティジンダー・シンを中心として1991年に結成。",
-  "introLang": "ja",
+  "intro": "Corner Shop是一支成立于英格兰莱斯特的摇滚乐队。该乐队以印度裔英国人蒂金德·辛为核心，于1991年成立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"
@@ -69,7 +69,7 @@
     {
       "to": "clinton",
       "toName": "Clinton",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "副项目",

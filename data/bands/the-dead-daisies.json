@@ -7,9 +7,9 @@
   "country": "澳大利亚",
   "years": "2012–",
   "genres": [
-    "Hard Rock",
-    "Classic Rock",
-    "Heavy Metal"
+    "硬摇滚",
+    "经典摇滚",
+    "重金属"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 2021
     }
   ],
-  "intro": "The Dead Daisies are an Australian-American hard rock band formed in Sydney in 2012.",
-  "introLang": "en",
+  "intro": "The Dead Daisies 是一支澳美硬摇滚乐队，于 2012 年在悉尼成立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e935d070-004d-405a-8b9d-1d9e51590b55"
@@ -69,7 +69,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Alex Carapetis",

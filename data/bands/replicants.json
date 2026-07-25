@@ -13,8 +13,8 @@
       "year": 1995
     }
   ],
-  "intro": "レプリカンツは、アメリカのロック・バンド。1995年にトゥール脱退後のポール・ダムール、キーボーディストのクリス・ピットマン、フェイリュアのメンバーであるケン・アンドリュースとグレッグ・エドワーズの4人で結成。",
-  "introLang": "ja",
+  "intro": "Replicants是一支美国摇滚乐队。1995年，由离开Tourelle乐队的保罗·达穆尔、键盘手克里斯·皮特曼，以及Failure乐队的成员肯·安德鲁斯和格雷格·爱德华兹四人共同组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/eed019ae-c8b6-4b4f-9675-1e7d1e6cc2d3"
@@ -23,7 +23,7 @@
     {
       "to": "lusk",
       "toName": "Lusk",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "1995–1998",
       "type": "member",
       "label": "Chris Pitman・Paul D’Amour・Greg Edwards",

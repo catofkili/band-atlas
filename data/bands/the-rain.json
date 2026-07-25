@@ -8,8 +8,8 @@
   "years": "1990–1991",
   "genres": [],
   "albums": [],
-  "intro": "ザ・レイン (The Rain) は、イギリス・マンチェスターで結成されたロックバンド。オアシスの前身バンドとして知られる。",
-  "introLang": "ja",
+  "intro": "The Rain 是一支成立于英国曼彻斯特的摇滚乐队。该乐队以“绿洲乐队”的前身而闻名。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/68fb8c2a-477a-4bd7-a65e-2fba470a7bcc"
@@ -29,7 +29,7 @@
     {
       "to": "cornershop",
       "toName": "Cornershop",
-      "toArea": "Leicester",
+      "toArea": "莱斯特",
       "toYears": "1991–",
       "type": "member",
       "label": "Paul McGuigan",

@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Gothic Plague是一支来自英国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d7eceba8-e45b-4b3a-b243-2d6cbf8b3b7b"
@@ -16,7 +18,7 @@
     {
       "to": "muse",
       "toName": "Muse",
-      "toArea": "Teignmouth",
+      "toArea": "泰恩茅斯",
       "toYears": "1994–",
       "type": "member",
       "label": "Dominic Howard",

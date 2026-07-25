@@ -6,11 +6,10 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "1957–1967",
-  "genres": [
-    "Beat Music",
-    "Merseybeat"
-  ],
+  "genres": [],
   "albums": [],
+  "intro": "Rory Storm and the Hurricanes是一支来自利物浦的音乐团体，活跃时期为1957–1967。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/de74e49a-d4f0-4551-ab8b-62b291e132bb"

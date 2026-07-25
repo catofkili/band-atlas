@@ -2,14 +2,16 @@
   "id": "the-boo",
   "mbid": "ec7cec28-f54f-45d2-9f98-4392de434a15",
   "name": "The Boo",
-  "area": "Oakland",
+  "area": "奥克兰",
   "countryCode": "US",
   "country": "美国",
   "years": null,
   "genres": [
-    "Alternative Rock"
+    "另类摇滚"
   ],
   "albums": [],
+  "intro": "The Boo是一支来自奥克兰的以另类摇滚为主要风格的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ec7cec28-f54f-45d2-9f98-4392de434a15"

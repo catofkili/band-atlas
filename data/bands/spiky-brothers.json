@@ -7,10 +7,11 @@
   "country": "日本",
   "years": "2000–2001",
   "genres": [
-    "Side Project",
-    "Unit"
+    "副业项目"
   ],
   "albums": [],
+  "intro": "SPIKY BROTHERS是一支来自东京的以副业项目为主要风格的音乐团体，活跃时期为2000–2001。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5820ce84-0a76-4c69-a649-1574b7132c9c"

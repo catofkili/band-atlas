@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "2005–2018",
   "genres": [
-    "Alternative Rock",
-    "Rock",
-    "Electronic Rock"
+    "另类摇滚",
+    "摇滚",
+    "电子摇滚"
   ],
   "albums": [
     {
@@ -27,7 +27,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "member",
       "label": "Chester Bennington",
@@ -38,7 +38,7 @@
     {
       "to": "stone-temple-pilots",
       "toName": "Stone Temple Pilots",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "1990–",
       "type": "member",
       "label": "Chester Bennington",
@@ -49,7 +49,7 @@
     {
       "to": "grey-daze",
       "toName": "Grey Daze",
-      "toArea": "Phoenix",
+      "toArea": "凤凰城",
       "toYears": "1993–",
       "type": "member",
       "label": "Chester Bennington",

@@ -7,9 +7,9 @@
   "country": "韩国",
   "years": "2010–",
   "genres": [
-    "Post-Rock",
-    "Experimental Rock",
-    "Avant-Garde"
+    "后摇滚",
+    "实验摇滚",
+    "前卫"
   ],
   "albums": [
     {
@@ -25,8 +25,8 @@
       "year": 2019
     }
   ],
-  "intro": "Jambinai (Korean: 잠비나이) are a South Korean post-rock band formed in Seoul in 2009.",
-  "introLang": "en",
+  "intro": "Jambinai（韩语：잠비나이）是一支于2009年在首尔成立的韩国后摇滚乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/74c9db5a-cece-4381-afa8-a5f381901487"
@@ -35,7 +35,7 @@
     {
       "to": "13steps",
       "toName": "13Steps",
-      "toArea": "Cheongju",
+      "toArea": "清州",
       "toYears": "2000–",
       "type": "member",
       "label": "이일우",

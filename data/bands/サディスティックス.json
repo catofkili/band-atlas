@@ -7,8 +7,7 @@
   "country": "日本",
   "years": "1976–1978",
   "genres": [
-    "J-Rock",
-    "Rock"
+    "摇滚"
   ],
   "albums": [
     {
@@ -20,8 +19,8 @@
       "year": 1978
     }
   ],
-  "intro": "サディスティックスは、1976年から1978年まで活動した日本のバンド。",
-  "introLang": "ja",
+  "intro": "Sadistics是一支活跃于1976年至1978年的日本乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e4212f64-f16a-4aa8-b575-757eb9ae0715"

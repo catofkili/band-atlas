@@ -6,9 +6,7 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "1999–2002",
-  "genres": [
-    "Likedis Auto"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "Monster Music",
@@ -35,8 +33,8 @@
       "year": 2014
     }
   ],
-  "intro": "ZIGZOは、日本のロックバンド。 元MALICE MIZER、BY-SEXUAL、L'Arc〜en〜Cielのメンバーで結成されたバンド。",
-  "introLang": "ja",
+  "intro": "ZIGZO是一支日本摇滚乐队。该乐队由前MALICE MIZER、BY-SEXUAL和L'Arc〜en〜Ciel的成员组成。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4a12be29-98cf-440d-a686-a8a8831bee1b"

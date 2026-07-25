@@ -8,6 +8,8 @@
   "years": "1987–1990",
   "genres": [],
   "albums": [],
+  "intro": "Emperor是一支来自日本的音乐团体，活跃时期为1987–1990。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9789915d-d16a-4ce8-80d3-63eda0b44e67"
@@ -16,7 +18,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "高井寿・宇高光",
@@ -49,7 +51,7 @@
     {
       "to": "横須賀サーベルタイガー",
       "toName": "横須賀サーベルタイガー",
-      "toArea": "Yokosuka",
+      "toArea": "横须贺",
       "toYears": "1981–1987",
       "type": "member",
       "label": "TOKIHIKO",

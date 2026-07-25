@@ -17,8 +17,8 @@
       "year": 1997
     }
   ],
-  "intro": "ラードは、1988年にジェロ・ビアフラ、アル・ジュールゲンセン、ポール・バーカー、およびジェフ・ワードによるサイド・プロジェクトとして結成された、アメリカのハードコア・パンク／インダストリアル・バンドである。",
-  "introLang": "ja",
+  "intro": "Lard是一支美国硬核朋克/工业乐队，由杰罗·比阿弗拉、阿尔·尤尔根森、保罗·巴克和杰夫·沃德于1988年作为副业项目组建而成。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4430600b-0fdb-43a1-be52-c81aa7ab1682"
@@ -93,7 +93,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Jeff Ward",

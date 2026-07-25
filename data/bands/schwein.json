@@ -17,8 +17,8 @@
       "year": 2024
     }
   ],
-  "intro": "SCHWEINは、ドイツのKMFDM、イギリスのPIG、そして日本のBUCK-TICKのメンバーにより構成されるユニットである。SCHWEINはドイツ語で豚の意。",
-  "introLang": "ja",
+  "intro": "SCHWEIN是由德国KMFDM、英国PIG以及日本BUCK-TICK的成员组成的乐队。SCHWEIN在德语中意为“猪”。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b0614ca3-d843-4540-9383-33c4395250b1"
@@ -27,7 +27,7 @@
     {
       "to": "buck-tick",
       "toName": "BUCK‐TICK",
-      "toArea": "Fujioka",
+      "toArea": "日本",
       "toYears": "1984–",
       "type": "member",
       "label": "櫻井敦司・今井寿",

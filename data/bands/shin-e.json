@@ -17,6 +17,8 @@
       "year": 2007
     }
   ],
+  "intro": "Shin.e是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/832176ab-dfca-40b1-9f47-5b7fe5d1552b"
@@ -47,7 +49,7 @@
     {
       "to": "praxis",
       "toName": "Praxis",
-      "toArea": "Brooklyn",
+      "toArea": "布鲁克林",
       "toYears": "1992–2011",
       "type": "member",
       "label": "Bill Laswell",

@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "2004–2004",
   "genres": [
-    "Rock"
+    "摇滚"
   ],
   "albums": [
     {
@@ -19,8 +19,8 @@
       "year": 2007
     }
   ],
-  "intro": "アタクシアは、レッド・ホット・チリ・ペッパーズのジョン・フルシアンテとジョシュ・クリングホッファー、そして、フガジのジョー・ラリーによる3人組のバンド。",
-  "introLang": "ja",
+  "intro": "Ataxia是由红辣椒乐队的约翰·弗鲁西安特和乔什·克林霍夫，以及Fugazi乐队的乔·拉里组成的三人乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c2b5da4f-31c2-4a02-80a1-e00008378157"
@@ -51,7 +51,7 @@
     {
       "to": "the-mars-volta",
       "toName": "The Mars Volta",
-      "toArea": "El Paso",
+      "toArea": "埃尔帕索",
       "toYears": "2001–",
       "type": "member",
       "label": "John Frusciante",

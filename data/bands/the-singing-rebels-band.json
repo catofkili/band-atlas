@@ -8,6 +8,8 @@
   "years": "1985–1985",
   "genres": [],
   "albums": [],
+  "intro": "The Singing Rebels’ Band是一支音乐团体，活跃时期为1985–1985。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fe6bd6fb-dcc3-4091-b97d-8b0097702bd2"
@@ -93,7 +95,7 @@
     {
       "to": "traveling-wilburys",
       "toName": "Traveling Wilburys",
-      "toArea": "Malibu",
+      "toArea": "马里布",
       "toYears": "1988–1990",
       "type": "member",
       "label": "George Harrison",
@@ -104,7 +106,7 @@
     {
       "to": "the-beat-brothers",
       "toName": "The Beat Brothers",
-      "toArea": "Hamburg",
+      "toArea": "汉堡",
       "toYears": "1961–",
       "type": "member",
       "label": "George Harrison",

@@ -7,9 +7,8 @@
   "country": "英国",
   "years": "1963–",
   "genres": [
-    "Blues Rock",
-    "Psychedelic Rock",
-    "Mod"
+    "蓝调摇滚",
+    "迷幻摇滚"
   ],
   "albums": [
     {
@@ -98,7 +97,7 @@
     {
       "to": "the-honeydrippers",
       "toName": "The Honeydrippers",
-      "toArea": "Worcestershire",
+      "toArea": "伍斯特郡",
       "toYears": "1981–1985",
       "type": "member",
       "label": "Jeff Beck",

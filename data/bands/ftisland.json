@@ -7,8 +7,7 @@
   "country": "韩国",
   "years": "2007–",
   "genres": [
-    "K-Pop",
-    "Pop Rock"
+    "流行摇滚"
   ],
   "albums": [
     {
@@ -46,7 +45,7 @@
     {
       "to": "ft-triple",
       "toName": "FT.triple",
-      "toArea": null,
+      "toArea": "韩国",
       "toYears": null,
       "type": "member",
       "label": "최종훈・최민환・이재진・副项目",

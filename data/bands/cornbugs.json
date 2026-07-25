@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1995–2007",
   "genres": [
-    "Avant-Garde",
-    "Experimental",
-    "Experimental Rock"
+    "前卫",
+    "实验音乐",
+    "实验摇滚"
   ],
   "albums": [
     {
@@ -33,8 +33,8 @@
       "year": 2004
     }
   ],
-  "intro": "Cornbugs was an American avant-garde metal band formed in 1995.",
-  "introLang": "en",
+  "intro": "Cornbugs 是一支成立于 1995 年的美国前卫金属乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6e926752-885a-4239-87fc-62ae76f47d98"
@@ -43,7 +43,7 @@
     {
       "to": "gorgone",
       "toName": "Gorgone",
-      "toArea": "France",
+      "toArea": "法国",
       "toYears": null,
       "type": "member",
       "label": "Pinchface・Travis Dickerson",

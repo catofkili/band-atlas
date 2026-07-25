@@ -2,7 +2,7 @@
   "id": "speak-chinese-or-die",
   "mbid": "00727d07-a1d9-4be5-8653-e5ce1acf8cbe",
   "name": "Speak Chinese or Die",
-  "area": "Wuhan",
+  "area": "武汉",
   "countryCode": "CN",
   "country": "中国",
   "years": null,
@@ -13,6 +13,8 @@
       "year": 2016
     }
   ],
+  "intro": "Speak Chinese or Die是一支来自武汉的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/00727d07-a1d9-4be5-8653-e5ce1acf8cbe"

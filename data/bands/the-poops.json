@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "The Poops是一支音乐团体。",
+  "introLang": "zh",
   "region": "other",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7aeccb42-1128-4f6e-afbe-dda4c39e2d5d"
@@ -16,7 +18,7 @@
     {
       "to": "radiohead",
       "toName": "Radiohead",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1991–",
       "type": "guest",
       "label": "伴奏・助演",

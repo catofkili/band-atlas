@@ -7,8 +7,7 @@
   "country": "美国",
   "years": "1977–1979",
   "genres": [
-    "No Wave",
-    "Punk"
+    "朋克"
   ],
   "albums": [
     {
@@ -16,8 +15,8 @@
       "year": 1995
     }
   ],
-  "intro": "ティーンエイジ・ジーザス・アンド・ザ・ジャークスは、ニューヨークを拠点とし、その地でノー・ウェイヴ運動の一翼を担ったアメリカのノー・ウェイヴ・バンドです。",
-  "introLang": "ja",
+  "intro": "Teenage Jesus and the Jerks是一支以纽约为据点、并在当地参与推动“无浪潮”运动的美国“无浪潮”乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ecb6ad66-0b12-405c-803c-e5bcc83e77df"

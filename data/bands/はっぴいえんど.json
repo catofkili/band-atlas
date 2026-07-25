@@ -7,9 +7,7 @@
   "country": "日本",
   "years": "1969–1972",
   "genres": [
-    "Folk Rock",
-    "J-Rock",
-    "Nyū MyūJikku"
+    "民谣摇滚"
   ],
   "albums": [
     {
@@ -29,8 +27,8 @@
       "year": 1995
     }
   ],
-  "intro": "はっぴいえんどは、1970年代前半に活動した日本のロックバンド。細野晴臣、大瀧詠一、松本隆、鈴木茂によって結成された。日本語ロック史の草創期に活動したグループの一つ。",
-  "introLang": "ja",
+  "intro": "Happy End是活跃于1970年代前半期的日本摇滚乐队。由细野晴臣、大泷颂一、松本隆和铃木茂组建。是活跃于日本摇滚史草创期的乐队之一。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4bd19b19-4ef4-42e0-ac5c-a21f709d248b"

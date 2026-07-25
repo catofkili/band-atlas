@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "1999–",
   "genres": [
-    "Hard Rock"
+    "硬摇滚"
   ],
   "albums": [
     {
@@ -23,8 +23,8 @@
       "year": 2011
     }
   ],
-  "intro": "Loaded (also known as Duff McKagan's Loaded) was an American rock band from Seattle, Washington, formed in 1999.",
-  "introLang": "en",
+  "intro": "Loaded（又名Duff McKagan's Loaded）是一支来自华盛顿州西雅图的美国摇滚乐队，成立于1999年。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/85382364-e2bc-4803-90b4-29bb3da200ce"

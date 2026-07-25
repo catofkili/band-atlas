@@ -7,9 +7,8 @@
   "country": "日本",
   "years": "2002–",
   "genres": [
-    "Alternative Rock",
-    "Electronic Rock",
-    "J-Rock"
+    "另类摇滚",
+    "电子摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 2006
     }
   ],
-  "intro": "FAKE?は、日本のロックユニット。2001年にKEN LLOYDとINORANの両名により結成された。",
-  "introLang": "ja",
+  "intro": "FAKE?是一支日本摇滚组合。由KEN LLOYD和INORAN两人于2001年组建。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6b1084c6-6782-4f2e-b9b1-0dec99232215"

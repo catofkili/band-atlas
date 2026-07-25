@@ -2,7 +2,7 @@
   "id": "the-pancakes",
   "mbid": "acfb3235-1a9a-4e2f-a329-b9ac720b78d2",
   "name": "The Pancakes",
-  "area": "Baden-Württemberg",
+  "area": "巴登-符腾堡州",
   "countryCode": "DE",
   "country": "德国",
   "years": "1995–",
@@ -13,6 +13,8 @@
       "year": 1998
     }
   ],
+  "intro": "The Pancakes是一支来自巴登-符腾堡州的音乐团体，活跃时期为1995–。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/acfb3235-1a9a-4e2f-a329-b9ac720b78d2"

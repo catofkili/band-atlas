@@ -7,13 +7,12 @@
   "country": "日本",
   "years": "1995–1997",
   "genres": [
-    "Gothic",
-    "Kote Kei",
-    "Rock"
+    "哥特",
+    "摇滚"
   ],
   "albums": [],
-  "intro": "La:Sadie'sは、日本のヴィジュアル系バンド。",
-  "introLang": "ja",
+  "intro": "La:Sadie's是一支日本视觉系乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/51b833bf-d214-471d-a22e-e2902f8d7953"
@@ -55,7 +54,7 @@
     {
       "to": "charm",
       "toName": "CHARM",
-      "toArea": "Hyogo",
+      "toArea": "兵库",
       "toYears": "1994–1996",
       "type": "member",
       "label": "薫",

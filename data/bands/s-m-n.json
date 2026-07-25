@@ -6,9 +6,7 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "2001–",
-  "genres": [
-    "Likedis Auto"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "How about it?",
@@ -35,6 +33,8 @@
       "year": 2010
     }
   ],
+  "intro": "S.M.N.是一支来自日本的音乐团体，活跃时期为2001–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cc28ca6b-353f-4b79-805d-275f4eec7ea9"

@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1994–2002",
   "genres": [
-    "Hard Rock",
-    "Blues Rock",
-    "Rock"
+    "硬摇滚",
+    "蓝调摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -21,8 +21,8 @@
       "year": 2000
     }
   ],
-  "intro": "スラッシュズ・スネイクピット (Slash's Snakepit) は1994年当時、ガンズ・アンド・ローゼズに在籍していたギタリストのスラッシュが結成したバンド。",
-  "introLang": "ja",
+  "intro": "Slash's Snakepit 是1994年由当时效力于枪与玫瑰乐队的吉他手斯莱什组建的乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/40ec273c-85dd-487c-8935-ccbc7d866119"
@@ -108,7 +108,7 @@
     {
       "to": "candy",
       "toName": "Candy",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "1985–1987",
       "type": "member",
       "label": "Ryan Roxie",

@@ -7,11 +7,12 @@
   "country": "日本",
   "years": "2002–2002",
   "genres": [
-    "Alternative Metal",
-    "Nu Metal",
-    "Rap Metal"
+    "另类金属",
+    "说唱金属"
   ],
   "albums": [],
+  "intro": "POWER GERMANYS是一支来自日本的以另类金属、说唱金属为主要风格的音乐团体，活跃时期为2002–2002。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fdd015b7-8d2f-4835-bcf5-7e3f3b66a178"
@@ -31,7 +32,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "吉田良文",

@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1990–",
   "genres": [
-    "Grunge",
-    "Alternative Rock",
-    "Rock"
+    "另类摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -69,7 +68,7 @@
     {
       "to": "queens-of-the-stone-age",
       "toName": "Queens of the Stone Age",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1996–",
       "type": "member",
       "label": "Matt Cameron",
@@ -91,7 +90,7 @@
     {
       "to": "redd-kross",
       "toName": "Redd Kross",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1980–",
       "type": "member",
       "label": "Jack Irons",

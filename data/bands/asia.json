@@ -7,9 +7,8 @@
   "country": "英国",
   "years": "1981–",
   "genres": [
-    "Progressive Rock",
-    "Rock",
-    "2008 Universal Fire Victim"
+    "前卫摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 1996
     }
   ],
-  "intro": "エイジアは、イングランド出身のプログレッシブ・ロック・バンド。プログレッシブ・ロックの分野などから多くのアーティスト達が参加してきた「スーパーグループ」の一面を持ち、その活動は35年以上に及ぶ。",
-  "introLang": "ja",
+  "intro": "Asia是一支来自英格兰的前卫摇滚乐队。该乐队兼具“超级乐队”的一面，汇聚了前卫摇滚等领域的众多艺术家，其活动历史已超过35年。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8f695099-c714-4ad0-8888-36eca37fee84"
@@ -157,7 +156,7 @@
     {
       "to": "the-human-experimente",
       "toName": "The Human Experimente",
-      "toArea": "Santa Monica",
+      "toArea": "圣莫尼卡",
       "toYears": null,
       "type": "member",
       "label": "John Wetton",

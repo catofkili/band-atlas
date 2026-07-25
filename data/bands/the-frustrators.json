@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "1999–",
   "genres": [
-    "Pop Punk"
+    "流行朋克"
   ],
   "albums": [
     {
@@ -19,8 +19,8 @@
       "year": 2002
     }
   ],
-  "intro": "The Frustrators are an American punk rock band with Jason Chandler (lead vocals), Terry Linehan (guitar, vocals), Art Tedeschi (drums), and Mike Dirnt (bass, vocals).",
-  "introLang": "en",
+  "intro": "The Frustrators 是一支美国朋克摇滚乐队，成员包括杰森·钱德勒（主唱）、特里·莱纳汉（吉他、和声）、阿特·泰代斯基（鼓手）和迈克·迪恩特（贝斯、和声）。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/75be5447-9d9b-41c7-965c-fd4a0985576f"
@@ -29,7 +29,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "member",
       "label": "Mike Dirnt",
@@ -40,7 +40,7 @@
     {
       "to": "the-network",
       "toName": "The Network",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "2003–",
       "type": "member",
       "label": "Mike Dirnt",

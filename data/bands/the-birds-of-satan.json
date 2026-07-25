@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "2014–2022",
   "genres": [
-    "Alternative Metal",
-    "Alternative Rock",
-    "Progressive Rock"
+    "另类金属",
+    "另类摇滚",
+    "前卫摇滚"
   ],
   "albums": [
     {
@@ -17,8 +17,8 @@
       "year": 2014
     }
   ],
-  "intro": "The Birds of Satan were an American progressive hard rock supergroup, assembled in 2014 as a side-project led by Taylor Hawkins of the Foo Fighters.",
-  "introLang": "en",
+  "intro": "The Birds of Satan 是一支美国前卫硬摇滚超级乐队，由 Foo Fighters 乐队的泰勒·霍金斯（Taylor Hawkins）于 2014 年组建，作为其个人副业项目。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/93557aa9-1ced-421a-b026-5a0aee62fa75"

@@ -8,8 +8,8 @@
   "years": "2005–",
   "genres": [],
   "albums": [],
-  "intro": "Violet UKは、ミュージシャンであるYOSHIKIが率いる音楽プロジェクト。",
-  "introLang": "ja",
+  "intro": "Violet UK是由音乐人YOSHIKI领衔的音乐项目。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/81f25673-b01a-4fd7-a5be-eb93c85d11bb"
@@ -18,7 +18,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "YOSHIKI",

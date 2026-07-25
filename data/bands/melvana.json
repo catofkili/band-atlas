@@ -8,6 +8,8 @@
   "years": "1992–1992",
   "genres": [],
   "albums": [],
+  "intro": "Melvana是一支音乐团体，活跃时期为1992–1992。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4c21807a-a8a1-4e71-a7ad-633120487ad8"
@@ -16,7 +18,7 @@
     {
       "to": "melvins",
       "toName": "Melvins",
-      "toArea": "Montesano",
+      "toArea": "蒙特萨诺",
       "toYears": "1983–",
       "type": "member",
       "label": "Buzz Osborne",
@@ -38,7 +40,7 @@
     {
       "to": "fecal-matter",
       "toName": "Fecal Matter",
-      "toArea": "Aberdeen",
+      "toArea": "阿伯丁",
       "toYears": "1985–1986",
       "type": "member",
       "label": "Buzz Osborne",

@@ -2,12 +2,14 @@
   "id": "beatbox-金牌一條順",
   "mbid": "bacf9116-2f48-4af4-a056-c2b49dedda03",
   "name": "Beatbox 金牌一條順",
-  "area": "Hong Kong",
+  "area": "香港",
   "countryCode": "HK",
   "country": "香港",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Beatbox 金牌一條順是一支来自香港的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bacf9116-2f48-4af4-a056-c2b49dedda03"
@@ -16,7 +18,7 @@
     {
       "to": "rubberband",
       "toName": "RubberBand",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": "2008–",
       "type": "member",
       "label": "6號",

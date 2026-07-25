@@ -8,6 +8,8 @@
   "years": "2017–",
   "genres": [],
   "albums": [],
+  "intro": "ZiNG是一支来自日本的音乐团体，活跃时期为2017–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/104ada9b-3f51-41bf-b01b-4a951f0a3117"
@@ -82,7 +84,7 @@
     {
       "to": "地縛少年バンド",
       "toName": "地縛少年バンド",
-      "toArea": null,
+      "toArea": "日本",
       "toYears": null,
       "type": "guest",
       "label": "合作",

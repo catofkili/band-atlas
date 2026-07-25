@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1995–1997",
   "genres": [
-    "Hard Rock",
-    "Punk",
-    "Punk Rock"
+    "硬摇滚",
+    "朋克",
+    "朋克摇滚"
   ],
   "albums": [
     {
@@ -17,8 +17,8 @@
       "year": 1996
     }
   ],
-  "intro": "ニューロティック・アウトサイダーズは、アメリカ合衆国カリフォルニア州ハリウッドで1995年に結成されたスーパーグループ。",
-  "introLang": "ja",
+  "intro": "Neurotic Outsiders是一支于1995年在美国加利福尼亚州好莱坞组建的超级乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/897dc9d4-f6ca-4646-8a74-e8ef08aa0fb5"

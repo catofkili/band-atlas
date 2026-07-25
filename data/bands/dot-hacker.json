@@ -25,8 +25,8 @@
       "year": 2017
     }
   ],
-  "intro": "Dot Hacker is an American experimental rock band from California, formed in 2008.",
-  "introLang": "en",
+  "intro": "Dot Hacker 是一支来自加利福尼亚州的美国实验摇滚乐队，成立于 2008 年。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f530f536-e877-49de-b0d2-baad9984df5b"
@@ -35,7 +35,7 @@
     {
       "to": "scream",
       "toName": "Scream",
-      "toArea": "Virginia",
+      "toArea": "弗吉尼亚州",
       "toYears": "1981–",
       "type": "member",
       "label": "Clint Walsh",
@@ -68,7 +68,7 @@
     {
       "to": "jack-off-jill",
       "toName": "Jack Off Jill",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1992–2000",
       "type": "member",
       "label": "Clint Walsh",

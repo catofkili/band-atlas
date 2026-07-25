@@ -2,12 +2,14 @@
   "id": "gosick",
   "mbid": "09aa53c7-369f-4fe5-b35c-c0349b46edf5",
   "name": "GOSICK",
-  "area": "Nagano",
+  "area": "长野",
   "countryCode": "JP",
   "country": "日本",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "GOSICK是一支来自长野的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/09aa53c7-369f-4fe5-b35c-c0349b46edf5"

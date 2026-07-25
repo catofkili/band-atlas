@@ -25,6 +25,8 @@
       "year": 2011
     }
   ],
+  "intro": "El Stew是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4887e0e9-ff5b-4dff-8dd7-d9841d40d53f"
@@ -44,7 +46,7 @@
     {
       "to": "primus",
       "toName": "Primus",
-      "toArea": "El Sobrante",
+      "toArea": "埃尔·索布兰特",
       "toYears": "1984–",
       "type": "member",
       "label": "DJ Disk",

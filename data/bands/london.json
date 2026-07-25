@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1978–",
   "genres": [
-    "Glam Metal",
-    "Heavy Metal",
-    "Hip Hop Rnb And Dance Hall"
+    "华丽金属",
+    "重金属",
+    "嘻哈、R&B 和舞厅音乐"
   ],
   "albums": [
     {
@@ -29,8 +29,8 @@
       "year": 2019
     }
   ],
-  "intro": "London is an American glam metal band formed in Hollywood, California in 1978.",
-  "introLang": "en",
+  "intro": "London是一支美国华丽金属乐队，于1978年在加利福尼亚州好莱坞成立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2df26979-0928-49fc-98e8-063d42bfbba1"
@@ -61,7 +61,7 @@
     {
       "to": "izzy-stradlin-and-the-ju-ju-hounds",
       "toName": "Izzy Stradlin and the Ju Ju Hounds",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "1992–",
       "type": "member",
       "label": "Izzy Stradlin",

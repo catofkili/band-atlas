@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1989–",
   "genres": [
-    "Folk Rock",
-    "Roots Rock",
-    "2008 Universal Fire Victim"
+    "民谣摇滚",
+    "根源摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 2012
     }
   ],
-  "intro": "The Wallflowers is an American rock solo project of American singer-songwriter and multi-instrumentalist Jakob Dylan.",
-  "introLang": "en",
+  "intro": "The Wallflowers 是美国唱作人兼多乐器演奏家雅各布·迪伦（Jakob Dylan）的个人摇滚项目。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d9c90718-d54d-4ccf-a92e-37a5415ce299"
@@ -91,7 +90,7 @@
     {
       "to": "redd-kross",
       "toName": "Redd Kross",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1980–",
       "type": "member",
       "label": "Jack Irons",
@@ -102,7 +101,7 @@
     {
       "to": "gunash",
       "toName": "Gunash",
-      "toArea": "Italy",
+      "toArea": "意大利",
       "toYears": "2003–",
       "type": "member",
       "label": "Rami Jaffee",

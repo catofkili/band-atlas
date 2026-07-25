@@ -2,14 +2,13 @@
   "id": "system-of-a-down",
   "mbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
   "name": "System of a Down",
-  "area": "Glendale",
+  "area": "格伦代尔",
   "countryCode": "US",
   "country": "美国",
   "years": "1995–",
   "genres": [
-    "Alternative Metal",
-    "Alternative Rock",
-    "Nu Metal"
+    "另类金属",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -219,7 +218,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "influence",
       "label": "影响关系",

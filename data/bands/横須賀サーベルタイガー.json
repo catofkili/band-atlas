@@ -2,13 +2,12 @@
   "id": "横須賀サーベルタイガー",
   "mbid": "eba81e97-2c61-4638-9562-8804c98f560e",
   "name": "横須賀サーベルタイガー",
-  "area": "Yokosuka",
+  "area": "横须贺",
   "countryCode": "JP",
   "country": "日本",
   "years": "1981–1987",
   "genres": [
-    "Likedis Auto",
-    "Visual Kei"
+    "视觉系"
   ],
   "albums": [
     {
@@ -24,8 +23,8 @@
       "year": 2001
     }
   ],
-  "intro": "横須賀サーベルタイガーは、過去に存在した日本のアマチュアバンド。X JAPANのHIDEが主宰していたことで知られる。",
-  "introLang": "ja",
+  "intro": "横须贺萨贝尔虎是一支曾经存在的日本业余乐队。该乐队因由X JAPAN的HIDE主持而闻名。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/eba81e97-2c61-4638-9562-8804c98f560e"
@@ -56,7 +55,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "hide",

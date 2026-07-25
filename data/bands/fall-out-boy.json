@@ -2,14 +2,14 @@
   "id": "fall-out-boy",
   "mbid": "516cef4d-0718-4007-9939-f9b38af3f784",
   "name": "Fall Out Boy",
-  "area": "Wilmette",
+  "area": "威尔梅特",
   "countryCode": "US",
   "country": "美国",
   "years": "2001–",
   "genres": [
-    "Pop Punk",
-    "Alternative Rock",
-    "Pop Rock"
+    "流行朋克",
+    "另类摇滚",
+    "流行摇滚"
   ],
   "albums": [
     {
@@ -47,7 +47,7 @@
     {
       "to": "blink-182",
       "toName": "blink‐182",
-      "toArea": "Poway",
+      "toArea": "美国",
       "toYears": "1992–",
       "type": "influence",
       "label": "影响关系",
@@ -58,7 +58,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "influence",
       "label": "影响关系",

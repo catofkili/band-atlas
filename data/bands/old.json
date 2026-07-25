@@ -2,7 +2,7 @@
   "id": "old",
   "mbid": "2a7e17f0-dc67-4902-ad4b-20bd986e847b",
   "name": "Old",
-  "area": "New Jersey",
+  "area": "新泽西州",
   "countryCode": "US",
   "country": "美国",
   "years": "1986–2002",
@@ -25,8 +25,8 @@
       "year": 1995
     }
   ],
-  "intro": "OLD (originally an acronym for Old Lady Drivers) was an American heavy metal band from Bergenfield, New Jersey, formed in 1986 and signed to Earache Records.",
-  "introLang": "en",
+  "intro": "OLD（最初是“Old Lady Drivers”的首字母缩写）是一支来自新泽西州伯根菲尔德的美国重金属乐队，成立于1986年，并与Earache Records签约。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2a7e17f0-dc67-4902-ad4b-20bd986e847b"
@@ -57,7 +57,7 @@
     {
       "to": "mind-funk",
       "toName": "Mind Funk",
-      "toArea": "Orange County",
+      "toArea": "奥兰治县",
       "toYears": "1989–",
       "type": "member",
       "label": "Jason Everman",

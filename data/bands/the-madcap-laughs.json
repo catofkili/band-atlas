@@ -7,7 +7,7 @@
   "country": "日本",
   "years": "2012–",
   "genres": [
-    "Rock"
+    "摇滚"
   ],
   "albums": [
     {
@@ -15,6 +15,8 @@
       "year": 2014
     }
   ],
+  "intro": "THE MADCAP LAUGHS是一支来自日本的以摇滚为主要风格的音乐团体，活跃时期为2012–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/117debe3-74c1-4bdf-aad4-6ca5099f4706"

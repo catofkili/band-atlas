@@ -7,7 +7,7 @@
   "country": "日本",
   "years": "2004–",
   "genres": [
-    "Rock"
+    "摇滚"
   ],
   "albums": [
     {
@@ -35,8 +35,8 @@
       "year": 2016
     }
   ],
-  "intro": "9mm Parabellum Bulletは、日本のロックバンド。2004年に横浜市にて結成。",
-  "introLang": "ja",
+  "intro": "9mm Parabellum Bullet是一支日本摇滚乐队。2004年在横滨市成立。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cb9b28ec-799f-44d8-a0b2-2eee3e8eb5b1"

@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "2000–",
   "genres": [
-    "Experimental",
-    "Folk"
+    "实验音乐",
+    "民谣"
   ],
   "albums": [
     {
@@ -16,6 +16,8 @@
       "year": 2003
     }
   ],
+  "intro": "Serart是一支来自洛杉矶的以实验音乐、民谣为主要风格的音乐团体，活跃时期为2000–。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3c80bbf8-4cc6-41b4-88cf-6eb1c7587345"
@@ -24,7 +26,7 @@
     {
       "to": "system-of-a-down",
       "toName": "System of a Down",
-      "toArea": "Glendale",
+      "toArea": "格伦代尔",
       "toYears": "1995–",
       "type": "member",
       "label": "Serj Tankian",

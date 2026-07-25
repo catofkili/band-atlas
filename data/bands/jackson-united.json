@@ -17,8 +17,8 @@
       "year": 2008
     }
   ],
-  "intro": "Jackson United is an American punk rock band, formed by singer and lead guitarist Chris Shiflett in 2002.",
-  "introLang": "en",
+  "intro": "Jackson United 是一支美国朋克摇滚乐队，由主唱兼主音吉他手克里斯·希弗莱特（Chris Shiflett）于 2002 年组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/25c7930a-499d-460f-a26b-7baaf3460d2c"
@@ -27,7 +27,7 @@
     {
       "to": "the-offspring",
       "toName": "The Offspring",
-      "toArea": "Huntington Beach",
+      "toArea": "亨廷顿海滩",
       "toYears": "1984–",
       "type": "member",
       "label": "Pete Parada",

@@ -13,6 +13,8 @@
       "year": 1993
     }
   ],
+  "intro": "The Ne’er Do Wells是一支来自美国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1b25c8f1-0a9a-4305-94c7-1d554e2fef0a"
@@ -32,7 +34,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "member",
       "label": "John Kiffmeyer",

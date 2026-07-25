@@ -8,8 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Band Aid 30 is the 2014 incarnation of the charity supergroup Band Aid.",
-  "introLang": "en",
+  "intro": "Band Aid 30 是慈善超级乐队 Band Aid 在 2014 年的重组版本。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a3c1211b-9422-43be-a75c-5b6778e7c0b6"
@@ -84,7 +84,7 @@
     {
       "to": "queen-paul-rodgers",
       "toName": "Queen + Paul Rodgers",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Roger Taylor",
@@ -106,7 +106,7 @@
     {
       "to": "queen-adam-lambert",
       "toName": "Queen + Adam Lambert",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Roger Taylor",

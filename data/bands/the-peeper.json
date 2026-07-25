@@ -13,6 +13,8 @@
       "year": 2008
     }
   ],
+  "intro": "The Peeper是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6335489e-3312-41a0-a304-ed6a520251d6"
@@ -21,7 +23,7 @@
     {
       "to": "body-head",
       "toName": "Body/Head",
-      "toArea": "Northampton",
+      "toArea": "北安普顿",
       "toYears": "2012–",
       "type": "member",
       "label": "Bill Nace",

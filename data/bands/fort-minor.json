@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "2004–2017",
   "genres": [
-    "Hip Hop",
-    "Alternative Hip Hop",
-    "Side Project"
+    "嘻哈",
+    "另类嘻哈",
+    "副业项目"
   ],
   "albums": [
     {
@@ -31,7 +31,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "member",
       "label": "Mike Shinoda",
@@ -42,7 +42,7 @@
     {
       "to": "xero",
       "toName": "Xero",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–1999",
       "type": "member",
       "label": "Mike Shinoda",

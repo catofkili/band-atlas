@@ -8,8 +8,8 @@
   "years": "2006–",
   "genres": [],
   "albums": [],
-  "intro": "The Ailerons were an English indie rock band featuring Charity Hair, Daniel Beattie, Dave Rowntree, Grog Prebble and Mike Smith.",
-  "introLang": "en",
+  "intro": "The Ailerons 是一支来自英国的独立摇滚乐队，成员包括 Charity Hair、Daniel Beattie、Dave Rowntree、Grog Prebble 和 Mike Smith。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9f1d095a-0114-411c-8a66-dd3995e571a9"
@@ -29,7 +29,7 @@
     {
       "to": "seymour",
       "toName": "Seymour",
-      "toArea": "Colchester",
+      "toArea": "科尔切斯特",
       "toYears": "1989–1990",
       "type": "member",
       "label": "Dave Rowntree",

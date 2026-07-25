@@ -7,8 +7,7 @@
   "country": "英国",
   "years": null,
   "genres": [
-    "Industrial",
-    "Trip Hop"
+    "工业音乐"
   ],
   "albums": [
     {
@@ -20,8 +19,8 @@
       "year": 1998
     }
   ],
-  "intro": "12 Rounds is a British rock band formed by Atticus Ross and singer Claudia Sarne, who are married.",
-  "introLang": "en",
+  "intro": "12 Rounds 是一支由阿提库斯·罗斯（Atticus Ross）和歌手克劳迪娅·萨恩（Claudia Sarne）——两人是夫妻——组建的英国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e3bcef9d-c2cd-44cb-a4ef-6c58914b886d"
@@ -41,7 +40,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Atticus Ross",

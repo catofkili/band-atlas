@@ -2,14 +2,14 @@
   "id": "band-of-skulls",
   "mbid": "1641141b-3c9c-4772-a5cc-7e23fdf17382",
   "name": "Band of Skulls",
-  "area": "Southampton",
+  "area": "南安普敦",
   "countryCode": "GB",
   "country": "英国",
   "years": "2004–",
   "genres": [
-    "Alternative Rock",
-    "Blues Rock",
-    "Garage Rock"
+    "另类摇滚",
+    "蓝调摇滚",
+    "车库摇滚"
   ],
   "albums": [
     {
@@ -33,8 +33,8 @@
       "year": 2019
     }
   ],
-  "intro": "バンド・オブ・スカルズ (Band of Skulls) は2004年に結成されたイギリスのサウサンプトン出身のロックバンドである。",
-  "introLang": "ja",
+  "intro": "Band of Skulls 是一支成立于2004年的英国南安普敦摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1641141b-3c9c-4772-a5cc-7e23fdf17382"

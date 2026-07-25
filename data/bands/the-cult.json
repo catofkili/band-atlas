@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1983–",
   "genres": [
-    "Hard Rock",
-    "Post-Punk",
-    "Alternative Rock"
+    "硬摇滚",
+    "后朋克",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1992
     }
   ],
-  "intro": "ザ・カルト(The Cult)は、イギリスのハードロックバンド。1983年にウェスト・ヨークシャーのブラッドフォードにて結成された。",
-  "introLang": "ja",
+  "intro": "The Cult 是一支英国硬摇滚乐队。1983年成立于西约克郡的布拉德福德。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8846e4ff-0c19-4af2-872b-7a8dc7497f68"

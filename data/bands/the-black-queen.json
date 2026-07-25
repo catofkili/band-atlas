@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "2015–",
   "genres": [
-    "Ambient",
-    "Dark Wave",
-    "Electronic"
+    "氛围音乐",
+    "暗潮",
+    "电子音乐"
   ],
   "albums": [
     {
@@ -25,8 +25,8 @@
       "year": 2018
     }
   ],
-  "intro": "The Black Queen is an American electronic supergroup formed in Los Angeles in 2015.",
-  "introLang": "en",
+  "intro": "The Black Queen 是一支于 2015 年在洛杉矶成立的美国电子音乐超级乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e89e325e-ae11-4c2a-86a8-3e9a967ffda3"
@@ -35,7 +35,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Joshua Eustis",
@@ -46,7 +46,7 @@
     {
       "to": "telefon-tel-aviv",
       "toName": "Telefon Tel Aviv",
-      "toArea": "New Orleans",
+      "toArea": "新奥尔良",
       "toYears": "1999–",
       "type": "member",
       "label": "Joshua Eustis",

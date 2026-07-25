@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "1983–",
   "genres": [
-    "Punk Rock"
+    "朋克摇滚"
   ],
   "albums": [
     {
@@ -35,8 +35,8 @@
       "year": 2020
     }
   ],
-  "intro": "Thelonious Monster was an American punk rock band from Los Angeles, California, led by singer-songwriter Bob Forrest and named after jazz musician Thelonious Monk.",
-  "introLang": "en",
+  "intro": "Thelonious Monster 是一支来自加利福尼亚州洛杉矶的美国朋克摇滚乐队，由唱作人鲍勃·福雷斯特（Bob Forrest）领军，其乐队名称取自爵士音乐家塞隆尼斯·蒙克（Thelonious Monk）。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0b04d160-0def-4171-9fa0-0d9f4addc4a7"
@@ -78,7 +78,7 @@
     {
       "to": "the-mars-volta",
       "toName": "The Mars Volta",
-      "toArea": "El Paso",
+      "toArea": "埃尔帕索",
       "toYears": "2001–",
       "type": "member",
       "label": "John Frusciante",

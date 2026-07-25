@@ -7,7 +7,7 @@
   "country": "韩国",
   "years": "1994–",
   "genres": [
-    "Indie Rock"
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -35,8 +35,8 @@
       "year": 2017
     }
   ],
-  "intro": "Onnine Ibalgwan (Korean: 언니네이발관), also known as Sister's Barbershop, was a South Korean modern rock band.",
-  "introLang": "en",
+  "intro": "Onnine Ibalgwan（韩语：언니네이발관），又名“Sister's Barbershop”，是一支韩国现代摇滚乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d63ff8fa-6a05-475e-b758-e23783195efd"

@@ -2,14 +2,13 @@
   "id": "hilt",
   "mbid": "42509bd3-6fa1-459a-8e40-127a3ef8663b",
   "name": "Hilt",
-  "area": "Vancouver",
+  "area": "温哥华",
   "countryCode": "CA",
   "country": "加拿大",
   "years": "1987–1996",
   "genres": [
-    "Industrial",
-    "Brap",
-    "Experimental"
+    "工业音乐",
+    "实验音乐"
   ],
   "albums": [
     {
@@ -29,8 +28,8 @@
       "year": 2026
     }
   ],
-  "intro": "Hilt was a collective group of Vancouver musicians, usually referred to as a side project of the group Skinny Puppy.",
-  "introLang": "en",
+  "intro": "Hilt 是由温哥华音乐人组成的团体，通常被视为乐队 Skinny Puppy 的副项目。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/42509bd3-6fa1-459a-8e40-127a3ef8663b"
@@ -39,7 +38,7 @@
     {
       "to": "the-tear-garden",
       "toName": "The Tear Garden",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1986–",
       "type": "member",
       "label": "Dave Ogilvie・Dwayne Rudolph Goettel・cEvin Key",
@@ -61,7 +60,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -72,7 +71,7 @@
     {
       "to": "jakalope",
       "toName": "Jakalope",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "2003–",
       "type": "member",
       "label": "Dave Ogilvie",

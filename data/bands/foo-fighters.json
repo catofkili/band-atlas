@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1994–",
   "genres": [
-    "Rock",
-    "Alternative Rock",
-    "Post-Grunge"
+    "摇滚",
+    "另类摇滚",
+    "后垃圾摇滚"
   ],
   "albums": [
     {
@@ -135,7 +135,7 @@
     {
       "to": "adolescents",
       "toName": "Adolescents",
-      "toArea": "Fullerton",
+      "toArea": "富勒顿",
       "toYears": "1979–",
       "type": "member",
       "label": "Pat Smear",
@@ -146,7 +146,7 @@
     {
       "to": "scream",
       "toName": "Scream",
-      "toArea": "Virginia",
+      "toArea": "弗吉尼亚州",
       "toYears": "1981–",
       "type": "member",
       "label": "Franz Stahl",
@@ -168,7 +168,7 @@
     {
       "to": "christ-on-a-crutch",
       "toName": "Christ on a Crutch",
-      "toArea": "Richland",
+      "toArea": "里奇兰",
       "toYears": "1983–1993",
       "type": "member",
       "label": "Nate Mendel",
@@ -212,7 +212,7 @@
     {
       "to": "gunash",
       "toName": "Gunash",
-      "toArea": "Italy",
+      "toArea": "意大利",
       "toYears": "2003–",
       "type": "member",
       "label": "Rami Jaffee",
@@ -234,7 +234,7 @@
     {
       "to": "the-tater-totz",
       "toName": "The Tater Totz",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1987–",
       "type": "member",
       "label": "Pat Smear",
@@ -256,7 +256,7 @@
     {
       "to": "diddly-squat",
       "toName": "Diddly Squat",
-      "toArea": "Richland",
+      "toArea": "里奇兰",
       "toYears": null,
       "type": "member",
       "label": "Nate Mendel",
@@ -289,7 +289,7 @@
     {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1968–2025",
       "type": "influence",
       "label": "影响关系",

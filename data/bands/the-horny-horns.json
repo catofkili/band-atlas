@@ -21,8 +21,8 @@
       "year": 1994
     }
   ],
-  "intro": "The Horny Horns were a horn section associated with Parliament-Funkadelic and Bootsy's Rubber Band led by trombonist Fred Wesley.",
-  "introLang": "en",
+  "intro": "The Horny Horns 是一支与 Parliament-Funkadelic 和 Bootsy's Rubber Band 相关的铜管乐队，由长号手弗雷德·韦斯利（Fred Wesley）领衔。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0b08dcc7-9f5c-4a25-a182-f8ceb13f1972"
@@ -31,7 +31,7 @@
     {
       "to": "funkadelic",
       "toName": "Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1981",
       "type": "member",
       "label": "副项目",
@@ -42,7 +42,7 @@
     {
       "to": "parliament",
       "toName": "Parliament",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1980",
       "type": "member",
       "label": "副项目",

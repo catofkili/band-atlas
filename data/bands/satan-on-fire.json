@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Satan on Fire是一支来自美国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/af7ee72a-e8ed-4b93-b4aa-9ce9b4ca8c1c"
@@ -16,7 +18,7 @@
     {
       "to": "marilyn-manson",
       "toName": "Marilyn Manson",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1989–",
       "type": "member",
       "label": "Jeordie White・Marilyn Manson",
@@ -38,7 +40,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Jeordie White",
@@ -60,7 +62,7 @@
     {
       "to": "desert-sessions",
       "toName": "Desert Sessions",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1997–",
       "type": "member",
       "label": "Jeordie White",
@@ -71,7 +73,7 @@
     {
       "to": "amboog-a-lard",
       "toName": "Amboog-a-Lard",
-      "toArea": "Coral Springs",
+      "toArea": "科拉尔斯普林斯",
       "toYears": "1987–1997",
       "type": "member",
       "label": "Jeordie White",

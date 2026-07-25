@@ -2,14 +2,13 @@
   "id": "syrup16g",
   "mbid": "e4d403dd-2f83-4642-a929-02676a2a944c",
   "name": "syrup16g",
-  "area": "Shimokitazawa",
+  "area": "下北泽",
   "countryCode": "JP",
   "country": "日本",
   "years": "1996–",
   "genres": [
-    "Alternative Rock",
-    "Emo",
-    "Indie Rock"
+    "另类摇滚",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 2004
     }
   ],
-  "intro": "syrup16gは、日本のスリーピースロックバンド。",
-  "introLang": "ja",
+  "intro": "syrup16g是一支来自日本的三人摇滚乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e4d403dd-2f83-4642-a929-02676a2a944c"

@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1990–",
   "genres": [
-    "Progressive Metal",
-    "Alternative Metal",
-    "Progressive Rock"
+    "前卫金属",
+    "另类金属",
+    "前卫摇滚"
   ],
   "albums": [
     {
@@ -58,7 +58,7 @@
     {
       "to": "melvins",
       "toName": "Melvins",
-      "toArea": "Montesano",
+      "toArea": "蒙特萨诺",
       "toYears": "1983–",
       "type": "member",
       "label": "Adam Jones",
@@ -91,7 +91,7 @@
     {
       "to": "lusk",
       "toName": "Lusk",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "1995–1998",
       "type": "member",
       "label": "Paul D’Amour",
@@ -135,7 +135,7 @@
     {
       "to": "the-human-experimente",
       "toName": "The Human Experimente",
-      "toArea": "Santa Monica",
+      "toArea": "圣莫尼卡",
       "toYears": null,
       "type": "member",
       "label": "Maynard James Keenan",
@@ -157,7 +157,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",

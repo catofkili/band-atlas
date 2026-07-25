@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "2013–",
   "genres": [
-    "Industrial"
+    "工业音乐"
   ],
   "albums": [
     {
@@ -23,8 +23,8 @@
       "year": 2019
     }
   ],
-  "intro": "Primitive Race is an international industrial rock supergroup created by Chris Kniker and featuring Raymond Watts (PIG, KMFDM), Dave Ogilvie (SLogan J), Mark Gimli Rasit (Peter Murphy, Spear of Destiny, Tricky, Mob Research, The Mission, Gary Numan), Erie Loch (LUXT, Blownload, Exageist), Chuck Mosley (ex-Faith No More), Graham Crabb (Pop Will Eat Itself) and Kourtney Klein (Combichrist, Nitzer Ebb).",
-  "introLang": "en",
+  "intro": "Primitive Race 是一支由克里斯·尼克尔（Chris Kniker）组建的国际工业摇滚超级乐队，成员包括雷蒙德·瓦茨（Raymond Watts，曾效力于 PIG、KMFDM）、戴夫·奥吉尔维（Dave Ogilvie，曾效力于 SLogan J）， 马克·吉米·拉西特（Mark Gimli Rasit，曾与彼得·墨菲、Spear of Destiny、Tricky、Mob Research、The Mission、加里·纽曼合作）、伊里·洛克（Erie Loch，曾效力于LUXT、Blownload、Exageist）、 查克·莫斯利（Chuck Mosley，前Faith No More成员）、格雷厄姆·克拉布（Graham Crabb，Pop Will Eat Itself成员）以及科特妮·克莱因（Kourtney Klein，Combichrist、Nitzer Ebb成员）。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d4bca920-3e2a-4990-9953-5032a1be78c0"
@@ -33,7 +33,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -44,7 +44,7 @@
     {
       "to": "the-tear-garden",
       "toName": "The Tear Garden",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1986–",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -55,7 +55,7 @@
     {
       "to": "hilt",
       "toName": "Hilt",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1987–1996",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -66,7 +66,7 @@
     {
       "to": "jakalope",
       "toName": "Jakalope",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "2003–",
       "type": "member",
       "label": "Dave Ogilvie",

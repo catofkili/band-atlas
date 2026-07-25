@@ -2,14 +2,14 @@
   "id": "velvet-revolver",
   "mbid": "3a528006-1429-47f4-ae9b-2ea95343e16a",
   "name": "Velvet Revolver",
-  "area": "Rancho Santa Margarita",
+  "area": "兰乔·圣塔玛格丽塔",
   "countryCode": "US",
   "country": "美国",
   "years": "2002–2008",
   "genres": [
-    "Hard Rock",
-    "Alternative Rock",
-    "Rock"
+    "硬摇滚",
+    "另类摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -25,8 +25,8 @@
       "year": 2007
     }
   ],
-  "intro": "ヴェルヴェット・リヴォルヴァーは、アメリカのロックバンド。",
-  "introLang": "ja",
+  "intro": "Velvet Revolver是一支美国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3a528006-1429-47f4-ae9b-2ea95343e16a"
@@ -35,7 +35,7 @@
     {
       "to": "stone-temple-pilots",
       "toName": "Stone Temple Pilots",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "1990–",
       "type": "member",
       "label": "Scott Weiland",

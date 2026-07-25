@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1978–",
   "genres": [
-    "Post-Punk",
-    "New Wave",
-    "Art Punk"
+    "后朋克",
+    "新浪潮",
+    "艺术朋克"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1985
     }
   ],
-  "intro": "パブリック・イメージ・リミテッド (Public Image Ltd) は、ジョン・ライドンが1978年に結成したイングランドのロックバンドである。",
-  "introLang": "ja",
+  "intro": "Public Image Ltd 是由约翰·莱登于1978年组建的英格兰摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/68950696-ee9a-49b2-a8c2-d1d6c19355cc"
@@ -80,7 +80,7 @@
     {
       "to": "praxis",
       "toName": "Praxis",
-      "toArea": "Brooklyn",
+      "toArea": "布鲁克林",
       "toYears": "1992–2011",
       "type": "member",
       "label": "Bill Laswell",
@@ -124,7 +124,7 @@
     {
       "to": "sex-pistols",
       "toName": "Sex Pistols",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "副项目",

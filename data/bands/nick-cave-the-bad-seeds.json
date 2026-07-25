@@ -7,9 +7,9 @@
   "country": "澳大利亚",
   "years": "1983–",
   "genres": [
-    "Alternative Rock",
-    "Post-Punk",
-    "Punk Blues"
+    "另类摇滚",
+    "后朋克",
+    "朋克布鲁斯"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1990
     }
   ],
-  "intro": "Nick Cave and the Bad Seeds are an Australian rock band formed in Melbourne in 1983 by lead vocalist Nick Cave, multi-instrumentalist Mick Harvey and German guitarist-vocalist Blixa Bargeld.",
-  "introLang": "en",
+  "intro": "尼克·凯夫与坏种子乐队（Nick Cave and the Bad Seeds）是一支澳大利亚摇滚乐队，由主唱尼克·凯夫、多乐器演奏家米克·哈维以及德国吉他手兼主唱布利克萨·巴格尔德于1983年在墨尔本组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/172e1f1a-504d-4488-b053-6344ba63e6d0"
@@ -91,7 +91,7 @@
     {
       "to": "the-bad-seeds",
       "toName": "The Bad Seeds",
-      "toArea": null,
+      "toArea": "澳大利亚",
       "toYears": null,
       "type": "member",
       "label": "副项目",

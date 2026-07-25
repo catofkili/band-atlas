@@ -17,6 +17,8 @@
       "year": 2020
     }
   ],
+  "intro": "Bonjintan是一支来自日本的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/823f8b5a-a1eb-4dad-b417-8d5696d97243"

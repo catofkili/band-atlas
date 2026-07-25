@@ -8,6 +8,8 @@
   "years": "2024–",
   "genres": [],
   "albums": [],
+  "intro": "The Bona Fide Band是一支来自西雅图的音乐团体，活跃时期为2024–。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/843db60f-56ec-44a6-8805-27a1ec077bbb"
@@ -27,7 +29,7 @@
     {
       "to": "giants-in-the-trees",
       "toName": "Giants in the Trees",
-      "toArea": "Wahkiakum County",
+      "toArea": "瓦基阿库姆县",
       "toYears": "2017–",
       "type": "member",
       "label": "Jillian Raye",

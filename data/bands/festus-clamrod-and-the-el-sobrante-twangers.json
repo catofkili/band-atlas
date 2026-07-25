@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Festus Clamrod and the El Sobrante Twangers是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/853fc886-896e-4609-ac8c-148f0c78568f"
@@ -16,7 +18,7 @@
     {
       "to": "primus",
       "toName": "Primus",
-      "toArea": "El Sobrante",
+      "toArea": "埃尔·索布兰特",
       "toYears": "1984–",
       "type": "member",
       "label": "Les Claypool・Larry LaLonde",
@@ -27,7 +29,7 @@
     {
       "to": "les-claypool-and-the-holy-mackerel",
       "toName": "Les Claypool and the Holy Mackerel",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1996–1996",
       "type": "member",
       "label": "Les Claypool・Mark \"Mirv\" Haggard",

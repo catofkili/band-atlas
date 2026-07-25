@@ -7,8 +7,7 @@
   "country": null,
   "years": null,
   "genres": [
-    "Funk",
-    "Soul"
+    "放克"
   ],
   "albums": [
     {
@@ -16,6 +15,8 @@
       "year": 1995
     }
   ],
+  "intro": "Axiom Funk是一支以放克为主要风格的音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/975c829a-644d-4fd0-9843-043428f4ee1e"
@@ -57,7 +58,7 @@
     {
       "to": "praxis",
       "toName": "Praxis",
-      "toArea": "Brooklyn",
+      "toArea": "布鲁克林",
       "toYears": "1992–2011",
       "type": "member",
       "label": "Bill Laswell",

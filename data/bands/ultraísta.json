@@ -7,9 +7,7 @@
   "country": "英国",
   "years": "2008–",
   "genres": [
-    "Electronic",
-    "Afrobeat",
-    "Electronica"
+    "电子音乐"
   ],
   "albums": [
     {
@@ -21,8 +19,8 @@
       "year": 2020
     }
   ],
-  "intro": "ウルトライスタ (Ultraísta) は、2008年に結成されたイギリス系アメリカ人によるエクスペリメンタル・ロック・トリオ。",
-  "introLang": "ja",
+  "intro": "Ultraísta 是一支由英裔美国人组成的实验摇滚三人组，成立于2008年。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fe4a653a-dc81-4422-b3f0-60ecb9107eeb"

@@ -2,14 +2,13 @@
   "id": "the-amps",
   "mbid": "5e4ad809-a048-427d-b0e4-a6761de9c220",
   "name": "The Amps",
-  "area": "Dayton",
+  "area": "代顿",
   "countryCode": "US",
   "country": "美国",
   "years": "1995–1996",
   "genres": [
-    "4ad",
-    "Alternative Rock",
-    "Indie Rock"
+    "另类摇滚",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -17,8 +16,8 @@
       "year": 1995
     }
   ],
-  "intro": "アンプス (The Amps)は、アメリカのロックバンド。1995年、活動休止期間に入ったブリーダーズのキム・ディールを中心に結成。",
-  "introLang": "ja",
+  "intro": "The Amps 是一支美国摇滚乐队。1995年，以当时正处于休团期的 The Breeders 乐队成员金·迪尔为核心组建而成。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5e4ad809-a048-427d-b0e4-a6761de9c220"

@@ -2,14 +2,14 @@
   "id": "the-tear-garden",
   "mbid": "57928ae9-5742-408f-b953-9e1c8110b405",
   "name": "The Tear Garden",
-  "area": "Vancouver",
+  "area": "温哥华",
   "countryCode": "CA",
   "country": "加拿大",
   "years": "1986–",
   "genres": [
-    "Electronic",
-    "Experimental Electronic",
-    "Psychedelic"
+    "电子音乐",
+    "实验电子音乐",
+    "迷幻"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 2007
     }
   ],
-  "intro": "The Tear Garden is a psychedelic/experimental/electronic band formed by Edward Ka-Spel of the Legendary Pink Dots and cEvin Key of Skinny Puppy in 1985 after Key served as a sound engineer on tour in Canada for Ka-Spel.",
-  "introLang": "en",
+  "intro": "The Tear Garden 是一支迷幻/实验/电子乐队，由“传奇粉红点”（Legendary Pink Dots）的爱德华·卡-斯佩尔（Edward Ka-Spel）和“瘦小幼崽”（Skinny Puppy）的塞文·基（cEvin Key）于1985年共同组建。此前，基曾作为卡-斯佩尔在加拿大巡演时的音响工程师。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/57928ae9-5742-408f-b953-9e1c8110b405"
@@ -47,7 +47,7 @@
     {
       "to": "hilt",
       "toName": "Hilt",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1987–1996",
       "type": "member",
       "label": "Dave Ogilvie・Dwayne Rudolph Goettel・cEvin Key",
@@ -80,7 +80,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -91,7 +91,7 @@
     {
       "to": "jakalope",
       "toName": "Jakalope",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "2003–",
       "type": "member",
       "label": "Dave Ogilvie",

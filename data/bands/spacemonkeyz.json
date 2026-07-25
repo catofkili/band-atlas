@@ -6,13 +6,10 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "2002–",
-  "genres": [
-    "Dub",
-    "Gorillaz"
-  ],
+  "genres": [],
   "albums": [],
-  "intro": "Spacemonkeyz are a musical group consisting of Darren Galea (DJ D-Zire), Richie Stevens and Gavin Dodds.",
-  "introLang": "en",
+  "intro": "Spacemonkeyz 是一支由达伦·加莱亚（Darren Galea，艺名 DJ D-Zire）、里奇·史蒂文斯（Richie Stevens）和加文·多兹（Gavin Dodds）组成的乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8df68f6c-40c0-4c9a-9343-ed949cb5ffcd"
@@ -21,7 +18,7 @@
     {
       "to": "jamiroquai",
       "toName": "Jamiroquai",
-      "toArea": "Ealing",
+      "toArea": "伊灵",
       "toYears": "1992–",
       "type": "member",
       "label": "DJ D-Zire・Gavin Dodds",
@@ -32,7 +29,7 @@
     {
       "to": "gorillaz",
       "toName": "Gorillaz",
-      "toArea": "Essex",
+      "toArea": "埃塞克斯",
       "toYears": "1999–",
       "type": "member",
       "label": "DJ D-Zire",

@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1992–",
   "genres": [
-    "Emo",
-    "Alternative Rock",
-    "Indie Rock"
+    "另类摇滚",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -29,8 +28,8 @@
       "year": 2000
     }
   ],
-  "intro": "サニー・デイ・リアル・エステイトはアメリカ・シアトル出身のエモバンド。1992年に結成され、その後幾度かの活動停止、再開を繰り返している。",
-  "introLang": "ja",
+  "intro": "Sunny Day Real Estate是一支来自美国西雅图的情绪摇滚乐队。该乐队成立于1992年，此后曾多次暂停活动，又重新开始活动。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/86b24e8f-a4d9-4c84-83ee-fde0d14ad9fa"
@@ -61,7 +60,7 @@
     {
       "to": "christ-on-a-crutch",
       "toName": "Christ on a Crutch",
-      "toArea": "Richland",
+      "toArea": "里奇兰",
       "toYears": "1983–1993",
       "type": "member",
       "label": "Nate Mendel",
@@ -94,7 +93,7 @@
     {
       "to": "diddly-squat",
       "toName": "Diddly Squat",
-      "toArea": "Richland",
+      "toArea": "里奇兰",
       "toYears": null,
       "type": "member",
       "label": "Nate Mendel",
@@ -116,7 +115,7 @@
     {
       "to": "fall-out-boy",
       "toName": "Fall Out Boy",
-      "toArea": "Wilmette",
+      "toArea": "威尔梅特",
       "toYears": "2001–",
       "type": "influence",
       "label": "影响关系",

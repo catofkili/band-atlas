@@ -6,9 +6,7 @@
   "countryCode": "JP",
   "country": "日本",
   "years": null,
-  "genres": [
-    "Likedis Auto"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "サンガツ",
@@ -27,6 +25,8 @@
       "year": 2010
     }
   ],
+  "intro": "サンガツ是一支来自日本的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/51983b80-a95e-4a5d-9c5d-4108d957ce5c"

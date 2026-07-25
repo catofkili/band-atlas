@@ -2,14 +2,14 @@
   "id": "glay-exile",
   "mbid": "70dc28e6-c597-49d4-90c7-e6b75509849e",
   "name": "GLAY×EXILE",
-  "area": null,
+  "area": "日本",
   "countryCode": "JP",
   "country": "日本",
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "「SCREAM」は、ロックバンドGLAYと、ダンス&ボーカルグループEXILEによるコラボレーション曲。2005年7月20日に\"GLAY×EXILE\"名義のシングルとして発売。",
-  "introLang": "ja",
+  "intro": "《SCREAM》是摇滚乐队GLAY与舞蹈及演唱组合EXILE的合作歌曲。于2005年7月20日以“GLAY×EXILE”的名义作为单曲发行。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/70dc28e6-c597-49d4-90c7-e6b75509849e"
@@ -18,7 +18,7 @@
     {
       "to": "glay",
       "toName": "GLAY",
-      "toArea": "Hakodate",
+      "toArea": "函馆",
       "toYears": "1988–",
       "type": "guest",
       "label": "合作",

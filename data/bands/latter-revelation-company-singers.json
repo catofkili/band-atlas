@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Latter Revelation Company Singers是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d99d03db-ebd1-4e03-a7b9-f532115faf0d"
@@ -82,7 +84,7 @@
     {
       "to": "the-jacks",
       "toName": "The Jacks",
-      "toArea": "Tulsa",
+      "toArea": "塔尔萨",
       "toYears": null,
       "type": "member",
       "label": "Tommy Stinson",

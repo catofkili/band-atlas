@@ -2,14 +2,13 @@
   "id": "violent-magic-orchestra",
   "mbid": "9ef8ceb8-0e1f-47fa-bff4-7f80bf9bfc1a",
   "name": "Violent Magic Orchestra",
-  "area": "[Worldwide]",
+  "area": "[全球]",
   "countryCode": "XW",
   "country": null,
   "years": "2016–",
   "genres": [
-    "Black Metal",
-    "Noise",
-    "Drone"
+    "黑金属",
+    "噪音"
   ],
   "albums": [
     {
@@ -25,6 +24,8 @@
       "year": 2026
     }
   ],
+  "intro": "Violent Magic Orchestra是一支来自[全球]的以黑金属、噪音为主要风格的音乐团体，活跃时期为2016–。",
+  "introLang": "zh",
   "region": "other",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9ef8ceb8-0e1f-47fa-bff4-7f80bf9bfc1a"

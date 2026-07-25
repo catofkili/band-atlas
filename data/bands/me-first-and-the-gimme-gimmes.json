@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1995–",
   "genres": [
-    "Covers",
-    "Punk Covers",
-    "Punk Rock"
+    "翻唱",
+    "朋克翻唱",
+    "朋克摇滚"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 2014
     }
   ],
-  "intro": "Me First and the Gimme Gimmes(ミーファースト・アンド・ザ・ギミー・ギミーズ)は、アメリカのパンク・ロックバンド。",
-  "introLang": "ja",
+  "intro": "Me First and the Gimme Gimmes（米·弗斯特与吉米·吉米斯）是一支美国朋克摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9478e346-7c52-4780-9555-3d1577f0b905"

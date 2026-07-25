@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1983–",
   "genres": [
-    "Funk Rock",
-    "Alternative Rock",
-    "Rock"
+    "放克摇滚",
+    "另类摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -124,7 +124,7 @@
     {
       "to": "redd-kross",
       "toName": "Redd Kross",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1980–",
       "type": "member",
       "label": "Jack Irons",
@@ -135,7 +135,7 @@
     {
       "to": "the-mars-volta",
       "toName": "The Mars Volta",
-      "toArea": "El Paso",
+      "toArea": "埃尔帕索",
       "toYears": "2001–",
       "type": "member",
       "label": "John Frusciante",
@@ -289,7 +289,7 @@
     {
       "to": "thunderbox",
       "toName": "Thunderbox",
-      "toArea": "Redondo Beach",
+      "toArea": "雷东多海滩",
       "toYears": null,
       "type": "member",
       "label": "Jack Sherman",
@@ -355,7 +355,7 @@
     {
       "to": "funkadelic",
       "toName": "Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1981",
       "type": "influence",
       "label": "影响关系",
@@ -366,7 +366,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "influence",
       "label": "影响关系",
@@ -377,7 +377,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "influence",
       "label": "影响关系",
@@ -388,7 +388,7 @@
     {
       "to": "parliament",
       "toName": "Parliament",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1980",
       "type": "influence",
       "label": "影响关系",

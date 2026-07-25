@@ -2,14 +2,14 @@
   "id": "marilyn-manson",
   "mbid": "5dfdca28-9ddc-4853-933c-8bc97d87beec",
   "name": "Marilyn Manson",
-  "area": "Fort Lauderdale",
+  "area": "劳德代尔堡",
   "countryCode": "US",
   "country": "美国",
   "years": "1989–",
   "genres": [
-    "Industrial Rock",
-    "Alternative Metal",
-    "Industrial Metal"
+    "工业摇滚",
+    "另类金属",
+    "工业金属"
   ],
   "albums": [
     {
@@ -69,7 +69,7 @@
     {
       "to": "filter",
       "toName": "Filter",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1993–",
       "type": "member",
       "label": "John 5",
@@ -80,7 +80,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Jeordie White",
@@ -91,7 +91,7 @@
     {
       "to": "the-mars-volta",
       "toName": "The Mars Volta",
-      "toArea": "El Paso",
+      "toArea": "埃尔帕索",
       "toYears": "2001–",
       "type": "member",
       "label": "Juan Alderete",
@@ -124,7 +124,7 @@
     {
       "to": "desert-sessions",
       "toName": "Desert Sessions",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1997–",
       "type": "member",
       "label": "Jeordie White",
@@ -135,7 +135,7 @@
     {
       "to": "amboog-a-lard",
       "toName": "Amboog-a-Lard",
-      "toArea": "Coral Springs",
+      "toArea": "科拉尔斯普林斯",
       "toYears": "1987–1997",
       "type": "member",
       "label": "Jeordie White",
@@ -157,7 +157,7 @@
     {
       "to": "jack-off-jill",
       "toName": "Jack Off Jill",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1992–2000",
       "type": "member",
       "label": "Daisy Berkowitz",

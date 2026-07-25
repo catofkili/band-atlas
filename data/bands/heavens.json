@@ -8,8 +8,8 @@
   "years": "2006–",
   "genres": [],
   "albums": [],
-  "intro": "TAIJI with HEAVEN'Sとは、TAIJIこと沢田泰司とDAIを中心に結成された日本のロックバンドである。TAIJIの死後、HEAVENSとして魂を受け継いだメンバーのみで活動を再開している。",
-  "introLang": "ja",
+  "intro": "TAIJI with HEAVEN'S是由TAIJI（即泽田泰司）和DAI为核心组建的日本摇滚乐队。TAIJI去世后，乐队仅由继承其精神、以HEAVENS之名继续活动的成员重新开始活动。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/54a68526-680f-44eb-a41a-9d754b35c0e5"
@@ -29,7 +29,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "TAIJI",

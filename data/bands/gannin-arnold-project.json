@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Gannin Arnold Project是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b1bf128a-0806-420d-817b-e8e29e4b8262"
@@ -16,7 +18,7 @@
     {
       "to": "taylor-hawkins-the-coattail-riders",
       "toName": "Taylor Hawkins & The Coattail Riders",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "2004–2022",
       "type": "member",
       "label": "Gannin Arnold",

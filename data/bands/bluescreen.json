@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Bluescreen是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e6dedb88-8103-450a-a667-a0756d7cb568"
@@ -38,7 +40,7 @@
     {
       "to": "les-claypool-and-the-holy-mackerel",
       "toName": "Les Claypool and the Holy Mackerel",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1996–1996",
       "type": "member",
       "label": "Joe Gore",

@@ -2,13 +2,13 @@
   "id": "jakalope",
   "mbid": "117a8255-3b06-4339-b5ba-038d0fdb6a85",
   "name": "Jakalope",
-  "area": "Vancouver",
+  "area": "温哥华",
   "countryCode": "CA",
   "country": "加拿大",
   "years": "2003–",
   "genres": [
-    "Electronic",
-    "Industrial"
+    "电子音乐",
+    "工业音乐"
   ],
   "albums": [
     {
@@ -24,8 +24,8 @@
       "year": 2010
     }
   ],
-  "intro": "Jakalope was a Canadian Indie pop/rock group.",
-  "introLang": "en",
+  "intro": "Jakalope 是一支来自加拿大的独立流行/摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/117a8255-3b06-4339-b5ba-038d0fdb6a85"
@@ -34,7 +34,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -45,7 +45,7 @@
     {
       "to": "the-tear-garden",
       "toName": "The Tear Garden",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1986–",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -56,7 +56,7 @@
     {
       "to": "hilt",
       "toName": "Hilt",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1987–1996",
       "type": "member",
       "label": "Dave Ogilvie",

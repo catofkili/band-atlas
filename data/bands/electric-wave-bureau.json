@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Electric Wave Bureau是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/faf397af-1ab2-44a2-86a5-6f88da701a4a"
@@ -71,7 +73,7 @@
     {
       "to": "seymour",
       "toName": "Seymour",
-      "toArea": "Colchester",
+      "toArea": "科尔切斯特",
       "toYears": "1989–1990",
       "type": "member",
       "label": "Damon Albarn",

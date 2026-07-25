@@ -7,9 +7,9 @@
   "country": "日本",
   "years": "1981–",
   "genres": [
-    "Pop Punk",
-    "Alternative Pop/Rock",
-    "Alternative Rock"
+    "流行朋克",
+    "另类流行/摇滚",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1991
     }
   ],
-  "intro": "少年ナイフは、日本のガールズバンド。1981年に結成。ラモーンズやザ・ビートルズなどの影響を受けたポップ・パンクやオルタナティヴ・ロックを基調とした楽曲を展開する。",
-  "introLang": "ja",
+  "intro": "少年ナイフ是一支日本女子乐队。成立于1981年。其音乐以受雷蒙兹乐队和披头士乐队等影响的流行朋克及另类摇滚为基调。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5089b746-7612-4a13-9153-33ff2560e161"

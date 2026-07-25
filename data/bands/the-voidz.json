@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "2013–",
   "genres": [
-    "Experimental Rock",
-    "Indie Rock"
+    "实验摇滚",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -24,8 +24,8 @@
       "year": 2024
     }
   ],
-  "intro": "The Voidz (formerly Julian Casablancas + The Voidz) are an experimental rock band.",
-  "introLang": "en",
+  "intro": "The Voidz（前身为 Julian Casablancas + The Voidz）是一支实验摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6a93cb2b-d33a-42fc-a41a-542e3a887ba6"
@@ -34,7 +34,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Alex Carapetis",

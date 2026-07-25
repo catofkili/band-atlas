@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1967–2022",
   "genres": [
-    "Rock",
-    "Soft Rock",
-    "Blues Rock"
+    "摇滚",
+    "柔和摇滚",
+    "蓝调摇滚"
   ],
   "albums": [
     {
@@ -47,7 +47,7 @@
     {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1968–2025",
       "type": "member",
       "label": "Dave Walker",
@@ -69,7 +69,7 @@
     {
       "to": "7-worlds-collide",
       "toName": "7 Worlds Collide",
-      "toArea": "New Zealand",
+      "toArea": "新西兰",
       "toYears": null,
       "type": "member",
       "label": "Neil Finn",

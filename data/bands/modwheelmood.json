@@ -7,12 +7,12 @@
   "country": "美国",
   "years": "2008–",
   "genres": [
-    "Alternative Rock",
-    "Electronica"
+    "另类摇滚",
+    "电子音乐"
   ],
   "albums": [],
-  "intro": "Modwheelmood (also typeset as ModWheelMood or modwheelmood and abbreviated as MWM) is an American electronic/alternative pop band from Los Angeles, California, formed in 1998 by Alessandro Cortini (who is also part of the Nine Inch Nails concert lineup and former Abandoned Pools guitarist Pelle Hillström.",
-  "introLang": "en",
+  "intro": "Modwheelmood（也写作 ModWheelMood 或 modwheelmood，简称 MWM）是一支来自加利福尼亚州洛杉矶的美国电子/另类流行乐队，由亚历山德罗·科尔蒂尼（Alessandro Cortini） （他同时也是“九寸钉”巡演阵容成员）与前“Abandoned Pools”乐队吉他手佩勒·希尔斯特伦于1998年共同组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5dd561f7-7264-42cb-a3b2-bddeb750eb39"
@@ -21,7 +21,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Alessandro Cortini",

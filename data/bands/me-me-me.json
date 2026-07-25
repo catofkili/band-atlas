@@ -8,8 +8,8 @@
   "years": "1996–1996",
   "genres": [],
   "albums": [],
-  "intro": "Me Me Me were a one-off English Britpop supergroup formed in 1996, consisting of Alex James of Blur (vocals, bass), Stephen Duffy (vocals, guitar) previously of Duran Duran/The Lilac Time, Justin Welch of Elastica (drums), and James' friend Charlie Bloor (credited as \"musician\").",
-  "introLang": "en",
+  "intro": "Me Me Me 是一支于 1996 年组建的英国布里特波普（Britpop）超级乐队，仅此一次，成员包括来自 Blur 乐队的 Alex James（主唱、贝斯）、 曾效力于Duran Duran和The Lilac Time乐队的斯蒂芬·达菲（主唱、吉他）、Elastica乐队的贾斯汀·韦尔奇（鼓手），以及詹姆斯的朋友查理·布卢尔（在专辑中被列为“乐手”）。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5656fd4b-d35d-4741-966b-32dee833c0a5"
@@ -40,7 +40,7 @@
     {
       "to": "seymour",
       "toName": "Seymour",
-      "toArea": "Colchester",
+      "toArea": "科尔切斯特",
       "toYears": "1989–1990",
       "type": "member",
       "label": "Alex James",

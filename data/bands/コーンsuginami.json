@@ -8,6 +8,8 @@
   "years": "2017–",
   "genres": [],
   "albums": [],
+  "intro": "コーンsuginAmi是一支来自日本的音乐团体，活跃时期为2017–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f047d705-0445-4c0c-995a-199124430ee7"
@@ -16,7 +18,7 @@
     {
       "to": "mucc",
       "toName": "MUCC",
-      "toArea": "Ibaraki",
+      "toArea": "茨城",
       "toYears": "1997–",
       "type": "member",
       "label": "ミヤ",

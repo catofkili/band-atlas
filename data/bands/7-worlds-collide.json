@@ -2,14 +2,13 @@
   "id": "7-worlds-collide",
   "mbid": "cd1cfb42-4b49-4f86-9518-37b1dfd1a2a8",
   "name": "7 Worlds Collide",
-  "area": "New Zealand",
+  "area": "新西兰",
   "countryCode": "NZ",
   "country": "新西兰",
   "years": null,
   "genres": [
-    "2000s",
-    "Alternative Rock",
-    "Folk Rock"
+    "另类摇滚",
+    "民谣摇滚"
   ],
   "albums": [
     {
@@ -17,8 +16,8 @@
       "year": 2009
     }
   ],
-  "intro": "7 Worlds Collide is a musical project by the New Zealand singer-songwriter Neil Finn.",
-  "introLang": "en",
+  "intro": "7 Worlds Collide 是新西兰唱作人尼尔·芬恩（Neil Finn）发起的一个音乐项目。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cd1cfb42-4b49-4f86-9518-37b1dfd1a2a8"
@@ -27,7 +26,7 @@
     {
       "to": "radiohead",
       "toName": "Radiohead",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1991–",
       "type": "member",
       "label": "Ed O’Brien・Philip Selway",
@@ -38,7 +37,7 @@
     {
       "to": "on-a-friday",
       "toName": "On a Friday",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1985–1991",
       "type": "member",
       "label": "Ed O’Brien・Philip Selway",

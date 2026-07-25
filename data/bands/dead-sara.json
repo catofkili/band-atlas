@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "2003–",
   "genres": [
-    "Alternative Rock",
-    "Garage Rock",
-    "Hard Rock"
+    "另类摇滚",
+    "车库摇滚",
+    "硬摇滚"
   ],
   "albums": [
     {
@@ -25,8 +25,8 @@
       "year": 2021
     }
   ],
-  "intro": "Dead Sara is an American rock band from Los Angeles, consisting of Emily Armstrong (lead vocals, rhythm guitar), Siouxsie Medley (lead guitar, backing vocals), and Sean Friday (drums, backing vocals), best known for their single \"Weatherman\" from their debut album, Dead Sara (2012).",
-  "introLang": "en",
+  "intro": "Dead Sara是一支来自洛杉矶的美国摇滚乐队，由艾米丽·阿姆斯特朗（主唱、节奏吉他）、苏西·梅德利（主吉他、和声）和肖恩·弗莱迪（鼓手、和声）组成，他们最广为人知的作品是首张专辑《Dead Sara》中的单曲《Weatherman》 （2012年）中的单曲《Weatherman》。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0f4fa442-3e9c-4355-8e17-a39386a52077"
@@ -35,7 +35,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "member",
       "label": "Emily Armstrong",

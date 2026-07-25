@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1978–1999",
   "genres": [
-    "Acid Jazz",
-    "Experimental Rock",
-    "Funk"
+    "实验摇滚",
+    "放克"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 1999
     }
   ],
-  "intro": "マテリアルは、1979年に結成され1999年まで活動していた、音楽プロデューサーでベーシストのビル・ラズウェルが率いるアメリカのポピュラー音楽グループ。",
-  "introLang": "ja",
+  "intro": "Material是一支由音乐制作人兼贝斯手比尔·拉兹韦尔领军的美国流行乐队，成立于1979年，活动持续至1999年。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ceaf841a-60e9-4391-9e26-88b853cd4658"
@@ -47,7 +46,7 @@
     {
       "to": "parliament",
       "toName": "Parliament",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1980",
       "type": "member",
       "label": "Jerome Brailey・Gary “Mudbone” Cooper・Michael Hampton",
@@ -58,7 +57,7 @@
     {
       "to": "funkadelic",
       "toName": "Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1981",
       "type": "member",
       "label": "Jerome Brailey・Michael Hampton",
@@ -80,7 +79,7 @@
     {
       "to": "parliament-funkadelic",
       "toName": "Parliament-Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–",
       "type": "member",
       "label": "Gary “Mudbone” Cooper・Michael Hampton",
@@ -124,7 +123,7 @@
     {
       "to": "change",
       "toName": "Change",
-      "toArea": "Bologna",
+      "toArea": "博洛尼亚",
       "toYears": "1979–1986",
       "type": "member",
       "label": "Jeff Bova",
@@ -135,7 +134,7 @@
     {
       "to": "praxis",
       "toName": "Praxis",
-      "toArea": "Brooklyn",
+      "toArea": "布鲁克林",
       "toYears": "1992–2011",
       "type": "member",
       "label": "Bill Laswell",
@@ -201,7 +200,7 @@
     {
       "to": "the-honeydrippers",
       "toName": "The Honeydrippers",
-      "toArea": "Worcestershire",
+      "toArea": "伍斯特郡",
       "toYears": "1981–1985",
       "type": "member",
       "label": "Nile Rodgers",

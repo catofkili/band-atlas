@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "2005–",
   "genres": [
-    "Industrial",
-    "Alternative Rock",
-    "Industrial Rock"
+    "工业音乐",
+    "另类摇滚",
+    "工业摇滚"
   ],
   "albums": [
     {
@@ -25,8 +25,8 @@
       "year": 2013
     }
   ],
-  "intro": "Black Light Burns was an American industrial rock band fronted by Wes Borland.",
-  "introLang": "en",
+  "intro": "Black Light Burns 是一支由韦斯·博兰德（Wes Borland）担任主唱的美国工业摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a33ecf1b-a4ed-43e4-b6ab-26623b40cfad"
@@ -35,7 +35,7 @@
     {
       "to": "marilyn-manson",
       "toName": "Marilyn Manson",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1989–",
       "type": "member",
       "label": "Wes Borland",

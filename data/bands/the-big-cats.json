@@ -7,7 +7,7 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "Indie Rock"
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -15,8 +15,8 @@
       "year": 2003
     }
   ],
-  "intro": "The Big Cats are an American rock band from Little Rock, Arkansas.",
-  "introLang": "en",
+  "intro": "The Big Cats 是一支来自阿肯色州小石城的美国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/661c8840-8a2f-4626-9edf-68be40656c4a"
@@ -25,7 +25,7 @@
     {
       "to": "chino-horde",
       "toName": "Chino Horde",
-      "toArea": "Little Rock",
+      "toArea": "小石城",
       "toYears": "1992–1993",
       "type": "member",
       "label": "Burt Taggart",

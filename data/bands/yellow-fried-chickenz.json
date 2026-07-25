@@ -7,8 +7,7 @@
   "country": "日本",
   "years": "2010–2012",
   "genres": [
-    "Likedis Auto",
-    "Visual Kei"
+    "视觉系"
   ],
   "albums": [
     {
@@ -16,8 +15,8 @@
       "year": 2012
     }
   ],
-  "intro": "YELLOW FRIED CHICKENz(イエローフライドチキンズ)は、日本のヴィジュアル系ロックバンド。2010年3月にGACKTを中心に結成された。",
-  "introLang": "ja",
+  "intro": "YELLOW FRIED CHICKENz（黄炸鸡乐队）是日本的一支视觉系摇滚乐队。2010年3月由GACKT牵头组建。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2556d653-1faf-4b20-8691-185918bee70e"

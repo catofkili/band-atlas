@@ -7,9 +7,9 @@
   "country": "日本",
   "years": "1996–2003",
   "genres": [
-    "Punk",
-    "Punk Rock",
-    "Seishun Punk"
+    "朋克",
+    "朋克摇滚",
+    "青春朋克"
   ],
   "albums": [
     {
@@ -21,8 +21,8 @@
       "year": 2001
     }
   ],
-  "intro": "GOING STEADYは、インディーズで活動していた日本の4人組パンク・ロックバンドである。略称はゴイステ。2003年に解散した。",
-  "introLang": "ja",
+  "intro": "GOING STEADY是一支曾活跃于独立音乐圈的日本四人朋克摇滚乐队。简称“Goyste”。该乐队已于2003年解散。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d8f99482-1a3b-45aa-b920-1c7317138f1b"

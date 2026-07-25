@@ -8,8 +8,8 @@
   "years": "2003–",
   "genres": [],
   "albums": [],
-  "intro": "Camp Freddy was an American hard rock supergroup consisting of established musicians who played rock covers at various shows around the United States from 2002 through 2014.",
-  "introLang": "en",
+  "intro": "Camp Freddy 是一支美国硬摇滚超级乐队，由多位知名音乐人组成，2002年至2014年间在美国各地的演出中演奏摇滚翻唱曲目。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0177a4b0-75b0-4c2a-9501-734b942cdcd4"
@@ -29,7 +29,7 @@
     {
       "to": "stone-temple-pilots",
       "toName": "Stone Temple Pilots",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "1990–",
       "type": "member",
       "label": "Chester Bennington・Scott Weiland",
@@ -40,7 +40,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "member",
       "label": "Chester Bennington",
@@ -51,7 +51,7 @@
     {
       "to": "grey-daze",
       "toName": "Grey Daze",
-      "toArea": "Phoenix",
+      "toArea": "凤凰城",
       "toYears": "1993–",
       "type": "member",
       "label": "Chester Bennington",
@@ -73,7 +73,7 @@
     {
       "to": "velvet-revolver",
       "toName": "Velvet Revolver",
-      "toArea": "Rancho Santa Margarita",
+      "toArea": "兰乔·圣塔玛格丽塔",
       "toYears": "2002–2008",
       "type": "member",
       "label": "Scott Weiland",

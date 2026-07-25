@@ -7,8 +7,7 @@
   "country": "英国",
   "years": "2008–",
   "genres": [
-    "Afrobeat",
-    "Funk"
+    "放克"
   ],
   "albums": [
     {
@@ -16,6 +15,8 @@
       "year": 2012
     }
   ],
+  "intro": "Rocket Juice & the Moon是一支来自英国的以放克为主要风格的音乐团体，活跃时期为2008–。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6dd0c24f-da12-49e6-b27e-4f98500c357f"
@@ -134,7 +135,7 @@
     {
       "to": "seymour",
       "toName": "Seymour",
-      "toArea": "Colchester",
+      "toArea": "科尔切斯特",
       "toYears": "1989–1990",
       "type": "member",
       "label": "Damon Albarn",

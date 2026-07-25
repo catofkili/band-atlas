@@ -17,8 +17,8 @@
       "year": 2001
     }
   ],
-  "intro": "hideは、日本のギタリスト、歌手、プロデューサー。神奈川県横須賀市出身。1987年から1997年までX JAPANのギタリストとしてHIDE名義で活動。",
-  "introLang": "ja",
+  "intro": "hide是日本吉他手、歌手及制作人。出生于神奈川县横须贺市。1987年至1997年间，他以HIDE的名义作为X JAPAN的吉他手进行活动。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4316a6ab-0609-4599-a359-a4d616bf453a"
@@ -38,7 +38,7 @@
     {
       "to": "godflesh",
       "toName": "Godflesh",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1988–",
       "type": "member",
       "label": "Paul Raven",
@@ -82,7 +82,7 @@
     {
       "to": "queens-of-the-stone-age",
       "toName": "Queens of the Stone Age",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1996–",
       "type": "member",
       "label": "Joey Castillo",
@@ -93,7 +93,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "hide",
@@ -104,7 +104,7 @@
     {
       "to": "desert-sessions",
       "toName": "Desert Sessions",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1997–",
       "type": "member",
       "label": "Joey Castillo",
@@ -115,7 +115,7 @@
     {
       "to": "横須賀サーベルタイガー",
       "toName": "横須賀サーベルタイガー",
-      "toArea": "Yokosuka",
+      "toArea": "横须贺",
       "toYears": "1981–1987",
       "type": "member",
       "label": "hide",
@@ -159,7 +159,7 @@
     {
       "to": "the-wedding-band",
       "toName": "The Wedding Band",
-      "toArea": "Hawaii",
+      "toArea": "夏威夷",
       "toYears": "2018–",
       "type": "member",
       "label": "Joey Castillo",

@@ -2,14 +2,13 @@
   "id": "linkin-park",
   "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
   "name": "Linkin Park",
-  "area": "Agoura Hills",
+  "area": "阿古拉希尔斯",
   "countryCode": "US",
   "country": "美国",
   "years": "1996–",
   "genres": [
-    "Nu Metal",
-    "Rock",
-    "Rap Rock"
+    "摇滚",
+    "说唱摇滚"
   ],
   "albums": [
     {
@@ -47,7 +46,7 @@
     {
       "to": "xero",
       "toName": "Xero",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–1999",
       "type": "member",
       "label": "Mark Wakefield・Rob Bourdon・Brad Delson・David Michael Farrell・Joseph “Joe” Hahn・Mike Shinoda",
@@ -69,7 +68,7 @@
     {
       "to": "stone-temple-pilots",
       "toName": "Stone Temple Pilots",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "1990–",
       "type": "member",
       "label": "Chester Bennington",
@@ -80,7 +79,7 @@
     {
       "to": "grey-daze",
       "toName": "Grey Daze",
-      "toArea": "Phoenix",
+      "toArea": "凤凰城",
       "toYears": "1993–",
       "type": "member",
       "label": "Chester Bennington",
@@ -168,7 +167,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",
@@ -190,7 +189,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",
@@ -223,7 +222,7 @@
     {
       "to": "system-of-a-down",
       "toName": "System of a Down",
-      "toArea": "Glendale",
+      "toArea": "格伦代尔",
       "toYears": "1995–",
       "type": "influence",
       "label": "影响关系",
@@ -234,7 +233,7 @@
     {
       "to": "the-offspring",
       "toName": "The Offspring",
-      "toArea": "Huntington Beach",
+      "toArea": "亨廷顿海滩",
       "toYears": "1984–",
       "type": "influence",
       "label": "影响关系",

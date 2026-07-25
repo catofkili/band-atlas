@@ -8,6 +8,8 @@
   "years": "2011–",
   "genres": [],
   "albums": [],
+  "intro": "Fishmans+是一支来自日本的音乐团体，活跃时期为2011–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dc436953-1dc3-437d-9656-da401a0e9134"
@@ -16,7 +18,7 @@
     {
       "to": "フィッシュマンズ",
       "toName": "フィッシュマンズ",
-      "toArea": "Minato",
+      "toArea": "日本",
       "toYears": "1987–",
       "type": "member",
       "label": "茂木欣一・柏原譲・HAKASE-SUN",

@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1981–",
   "genres": [
-    "Speed Metal",
-    "Heavy Metal",
-    "Metal"
+    "重金属",
+    "金属"
   ],
   "albums": [
     {
@@ -29,8 +28,8 @@
       "year": 2022
     }
   ],
-  "intro": "Trauma is an American heavy metal band formed in 1981.",
-  "introLang": "en",
+  "intro": "Trauma 是一支成立于 1981 年的美国重金属乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/09dec2be-aeff-4e26-a9d6-a934d2620223"
@@ -50,7 +49,7 @@
     {
       "to": "agents-of-misfortune",
       "toName": "Agents Of Misfortune",
-      "toArea": "Hayward",
+      "toArea": "海沃德",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -61,7 +60,7 @@
     {
       "to": "ez-street",
       "toName": "EZ-Street",
-      "toArea": "Oakland",
+      "toArea": "奥克兰",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -72,7 +71,7 @@
     {
       "to": "maxwell-house-ranch-band",
       "toName": "Maxwell House Ranch Band",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -83,7 +82,7 @@
     {
       "to": "spastik-children",
       "toName": "Spastik Children",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -105,7 +104,7 @@
     {
       "to": "vicious-hatred",
       "toName": "Vicious Hatred",
-      "toArea": "Hayward",
+      "toArea": "海沃德",
       "toYears": "1981–1982",
       "type": "member",
       "label": "Cliff Burton",

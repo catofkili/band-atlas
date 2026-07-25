@@ -2,14 +2,14 @@
   "id": "x-japan",
   "mbid": "3f77449d-48e4-4ceb-b869-69af48da877b",
   "name": "X JAPAN",
-  "area": "Tateyama",
+  "area": "立山",
   "countryCode": "JP",
   "country": "日本",
   "years": "1982–",
   "genres": [
-    "Heavy Metal",
-    "Visual Kei",
-    "Metal"
+    "重金属",
+    "视觉系",
+    "金属"
   ],
   "albums": [
     {
@@ -109,7 +109,7 @@
     {
       "to": "横須賀サーベルタイガー",
       "toName": "横須賀サーベルタイガー",
-      "toArea": "Yokosuka",
+      "toArea": "横须贺",
       "toYears": "1981–1987",
       "type": "member",
       "label": "hide",

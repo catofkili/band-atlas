@@ -7,9 +7,7 @@
   "country": "美国",
   "years": "1983–1986",
   "genres": [
-    "Emo",
-    "Emocore",
-    "Post-Hardcore"
+    "后硬核"
   ],
   "albums": [
     {
@@ -60,7 +58,7 @@
     {
       "to": "silver-jews",
       "toName": "Silver Jews",
-      "toArea": "Charlottesville",
+      "toArea": "夏洛茨维尔",
       "toYears": "1989–2009",
       "type": "member",
       "label": "Mike Fellows",
@@ -82,7 +80,7 @@
     {
       "to": "fall-out-boy",
       "toName": "Fall Out Boy",
-      "toArea": "Wilmette",
+      "toArea": "威尔梅特",
       "toYears": "2001–",
       "type": "influence",
       "label": "影响关系",

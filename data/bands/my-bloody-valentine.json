@@ -7,8 +7,7 @@
   "country": "爱尔兰",
   "years": "1983–1997 / 2007–",
   "genres": [
-    "Shoegaze",
-    "Noise Pop"
+    "噪音流行乐"
   ],
   "albums": [
     {
@@ -73,7 +72,7 @@
     {
       "to": "experimental-audio-research",
       "toName": "Experimental Audio Research",
-      "toArea": "Rugby",
+      "toArea": "橄榄球",
       "toYears": "1990–",
       "type": "member",
       "label": "Kevin Shields",
@@ -95,7 +94,7 @@
     {
       "to": "mazzy-star",
       "toName": "Mazzy Star",
-      "toArea": "Santa Monica",
+      "toArea": "圣莫尼卡",
       "toYears": "1988–",
       "type": "member",
       "label": "Colm Ó Cíosóig",
@@ -139,7 +138,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",

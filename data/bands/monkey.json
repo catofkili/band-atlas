@@ -13,6 +13,8 @@
       "year": 2008
     }
   ],
+  "intro": "Monkey是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/46160439-9999-42b7-b6aa-a8fbdb468282"
@@ -65,7 +67,7 @@
     {
       "to": "seymour",
       "toName": "Seymour",
-      "toArea": "Colchester",
+      "toArea": "科尔切斯特",
       "toYears": "1989–1990",
       "type": "member",
       "label": "Damon Albarn",

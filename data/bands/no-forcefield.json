@@ -17,6 +17,8 @@
       "year": 2000
     }
   ],
+  "intro": "No Forcefield是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4a4df54a-5878-455f-abdb-2919a0cf650a"
@@ -25,7 +27,7 @@
     {
       "to": "primus",
       "toName": "Primus",
-      "toArea": "El Sobrante",
+      "toArea": "埃尔·索布兰特",
       "toYears": "1984–",
       "type": "member",
       "label": "DJ Disk・Larry LaLonde",

@@ -7,9 +7,9 @@
   "country": "日本",
   "years": "2022–",
   "genres": [
-    "Rock",
-    "Supergroup",
-    "Visual Kei"
+    "摇滚",
+    "超级乐队",
+    "视觉系"
   ],
   "albums": [],
   "intro": "The Last Rockstars是由X JAPAN团长YOSHIKI、L'Arc-en-Ciel主唱HYDE、LUNA SEA与X JAPAN的吉他手SUGIZO、国际音乐人MIYAVI于2022年11月11日联合组成的乐团。",
@@ -44,7 +44,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "YOSHIKI",

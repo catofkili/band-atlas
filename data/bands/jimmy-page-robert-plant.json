@@ -2,7 +2,7 @@
   "id": "jimmy-page-robert-plant",
   "mbid": "4a536dbf-8632-4cfd-b9ea-cdb35cb47c44",
   "name": "Jimmy Page & Robert Plant",
-  "area": null,
+  "area": "英国",
   "countryCode": "GB",
   "country": "英国",
   "years": null,
@@ -13,8 +13,8 @@
       "year": 1998
     }
   ],
-  "intro": "Page and Plant (also known as Jimmy Page & Robert Plant) were an English rock band active between 1994 and 1998.",
-  "introLang": "en",
+  "intro": "Page and Plant（又名Jimmy Page & Robert Plant）是一支活跃于1994年至1998年间的英国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4a536dbf-8632-4cfd-b9ea-cdb35cb47c44"

@@ -2,7 +2,7 @@
   "id": "darlin",
   "mbid": "213b7d3b-db5b-45f1-9cf6-27c2c894ca8a",
   "name": "Darlin’",
-  "area": "Versailles",
+  "area": "凡尔赛",
   "countryCode": "FR",
   "country": "法国",
   "years": "1992–1993",
@@ -18,7 +18,7 @@
     {
       "to": "daft-punk",
       "toName": "Daft Punk",
-      "toArea": "Paris",
+      "toArea": "巴黎",
       "toYears": "1993–2021",
       "type": "member",
       "label": "Thomas Bangalter・Guy‐Manuel de Homem‐Christo",
@@ -51,7 +51,7 @@
     {
       "to": "le-knight-club",
       "toName": "Le Knight Club",
-      "toArea": "Paris",
+      "toArea": "巴黎",
       "toYears": "1997–",
       "type": "member",
       "label": "Guy‐Manuel de Homem‐Christo",
@@ -62,7 +62,7 @@
     {
       "to": "together",
       "toName": "Together",
-      "toArea": "Paris",
+      "toArea": "巴黎",
       "toYears": "2000–",
       "type": "member",
       "label": "Thomas Bangalter",

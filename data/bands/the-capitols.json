@@ -2,12 +2,14 @@
   "id": "the-capitols",
   "mbid": "0cf97acb-7b9e-4587-a760-d4e80381fd35",
   "name": "The Capitols",
-  "area": null,
+  "area": "荷兰",
   "countryCode": "NL",
   "country": "荷兰",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "The Capitols是一支来自荷兰的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0cf97acb-7b9e-4587-a760-d4e80381fd35"
@@ -16,7 +18,7 @@
     {
       "to": "radiohead",
       "toName": "Radiohead",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1991–",
       "type": "guest",
       "label": "伴奏・助演",

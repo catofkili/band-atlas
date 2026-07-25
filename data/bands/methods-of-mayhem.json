@@ -7,8 +7,7 @@
   "country": "美国",
   "years": "1999–",
   "genres": [
-    "Nu Metal",
-    "Rap Metal"
+    "说唱金属"
   ],
   "albums": [
     {
@@ -20,8 +19,8 @@
       "year": 2010
     }
   ],
-  "intro": "Methods of Mayhem is an American rap rock/metal band formed in 1999 by Tommy Lee, who had temporarily quit his position as Mötley Crüe's drummer.",
-  "introLang": "en",
+  "intro": "Methods of Mayhem 是一支美国说唱摇滚/金属乐队，由曾暂时辞去 Mötley Crüe 鼓手职务的汤米·李（Tommy Lee）于 1999 年组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a5f8887e-e178-4969-ba9a-18a64156c42f"

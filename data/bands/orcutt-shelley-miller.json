@@ -7,10 +7,12 @@
   "country": null,
   "years": null,
   "genres": [
-    "Psychedelic Rock",
-    "Space Rock"
+    "迷幻摇滚",
+    "太空摇滚"
   ],
   "albums": [],
+  "intro": "Orcutt Shelley Miller是一支以迷幻摇滚、太空摇滚为主要风格的音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7994fd50-cd4d-4366-9848-53afd8827b8d"

@@ -2,13 +2,12 @@
   "id": "change",
   "mbid": "9974d324-3d58-4f93-812b-41eb3ca75eed",
   "name": "Change",
-  "area": "Bologna",
+  "area": "博洛尼亚",
   "countryCode": "IT",
   "country": "意大利",
   "years": "1979–1986",
   "genres": [
-    "Classic Pop And Rock",
-    "R&B"
+    "经典流行与摇滚"
   ],
   "albums": [
     {
@@ -36,8 +35,8 @@
       "year": 1985
     }
   ],
-  "intro": "チェンジ (Change) は、イタリア人プロデューサーのジャック・フレッド・ペトラスにより、1979年にボローニャで生まれたバンド。",
-  "introLang": "ja",
+  "intro": "Change是由意大利制作人杰克·弗雷德·佩特拉斯于1979年在博洛尼亚创立的乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9974d324-3d58-4f93-812b-41eb3ca75eed"
@@ -57,7 +56,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Lisa Fischer",

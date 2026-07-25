@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "2015–",
   "genres": [
-    "Punk Rock"
+    "朋克摇滚"
   ],
   "albums": [
     {
@@ -15,8 +15,8 @@
       "year": 2020
     }
   ],
-  "intro": "Coriky is an American alternative rock band from Washington D.C., formed in 2015.",
-  "introLang": "en",
+  "intro": "Coriky是一支来自华盛顿特区的美国另类摇滚乐队，成立于2015年。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d471b090-3866-4cf3-b8a0-476e11f30a58"

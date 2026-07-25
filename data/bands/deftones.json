@@ -2,14 +2,13 @@
   "id": "deftones",
   "mbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
   "name": "Deftones",
-  "area": "Sacramento",
+  "area": "萨克拉门托",
   "countryCode": "US",
   "country": "美国",
   "years": "1988–",
   "genres": [
-    "Alternative Metal",
-    "Nu Metal",
-    "Alternative Rock"
+    "另类金属",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -69,7 +68,7 @@
     {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1968–2025",
       "type": "influence",
       "label": "影响关系",
@@ -80,7 +79,7 @@
     {
       "to": "depeche-mode",
       "toName": "Depeche Mode",
-      "toArea": "Basildon",
+      "toArea": "巴兹尔登",
       "toYears": "1980–",
       "type": "influence",
       "label": "影响关系",
@@ -113,7 +112,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "influence",
       "label": "影响关系",
@@ -124,7 +123,7 @@
     {
       "to": "lostprophets",
       "toName": "Lostprophets",
-      "toArea": "Pontypridd",
+      "toArea": "庞蒂普里德",
       "toYears": "1997–2013",
       "type": "influence",
       "label": "影响关系",
@@ -146,7 +145,7 @@
     {
       "to": "radiohead",
       "toName": "Radiohead",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1991–",
       "type": "influence",
       "label": "影响关系",
@@ -179,7 +178,7 @@
     {
       "to": "the-cure",
       "toName": "The Cure",
-      "toArea": "Crawley",
+      "toArea": "克劳利",
       "toYears": "1977–",
       "type": "influence",
       "label": "影响关系",

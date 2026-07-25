@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "2012–",
   "genres": [
-    "Jazz"
+    "爵士乐"
   ],
   "albums": [
     {
@@ -15,6 +15,8 @@
       "year": 2013
     }
   ],
+  "intro": "Jazz-Iz-Christ是一支来自美国的以爵士乐为主要风格的音乐团体，活跃时期为2012–。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c1babec3-803e-4601-8822-9c8a30bc9d9b"
@@ -23,7 +25,7 @@
     {
       "to": "system-of-a-down",
       "toName": "System of a Down",
-      "toArea": "Glendale",
+      "toArea": "格伦代尔",
       "toYears": "1995–",
       "type": "member",
       "label": "Serj Tankian",

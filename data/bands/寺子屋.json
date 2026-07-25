@@ -2,12 +2,14 @@
   "id": "寺子屋",
   "mbid": "5d74d104-d513-448d-8bab-86070a897121",
   "name": "寺子屋",
-  "area": null,
+  "area": "日本",
   "countryCode": "JP",
   "country": "日本",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "寺子屋是一支来自日本的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5d74d104-d513-448d-8bab-86070a897121"

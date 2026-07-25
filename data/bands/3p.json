@@ -2,7 +2,7 @@
   "id": "3p",
   "mbid": "0cbbc4a7-68b9-4cc6-a5ed-2d726e369ec1",
   "name": "3P",
-  "area": "Hong Kong",
+  "area": "香港",
   "countryCode": "HK",
   "country": "香港",
   "years": "2000–2001",
@@ -18,7 +18,7 @@
     {
       "to": "lam-family",
       "toName": "Lam Family",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": null,
       "type": "member",
       "label": "林二汶・林一峰",
@@ -29,7 +29,7 @@
     {
       "to": "at17",
       "toName": "at17",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": "2002–2018",
       "type": "member",
       "label": "林二汶",

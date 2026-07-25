@@ -2,12 +2,14 @@
   "id": "los-unidades",
   "mbid": "e5c9b9b3-9629-43c4-9f05-19e02b8deba1",
   "name": "Los Unidades",
-  "area": null,
+  "area": "英国",
   "countryCode": "GB",
   "country": "英国",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Los Unidades是一支来自英国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e5c9b9b3-9629-43c4-9f05-19e02b8deba1"

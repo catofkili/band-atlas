@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Rockestra是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/74c2a2c5-5337-4e98-ab16-1f6463b77478"
@@ -60,7 +62,7 @@
     {
       "to": "band-of-joy",
       "toName": "Band of Joy",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1967–1968",
       "type": "member",
       "label": "John Bonham",
@@ -71,7 +73,7 @@
     {
       "to": "the-beat-brothers",
       "toName": "The Beat Brothers",
-      "toArea": "Hamburg",
+      "toArea": "汉堡",
       "toYears": "1961–",
       "type": "member",
       "label": "Howie Casey",
@@ -137,7 +139,7 @@
     {
       "to": "gerry-levene-the-avengers",
       "toName": "Gerry Levene & the Avengers",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1959–1964",
       "type": "member",
       "label": "John Bonham",

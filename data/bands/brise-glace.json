@@ -7,8 +7,8 @@
   "country": null,
   "years": null,
   "genres": [
-    "Experimental Rock",
-    "Noise Rock"
+    "实验摇滚",
+    "噪音摇滚"
   ],
   "albums": [
     {
@@ -16,8 +16,8 @@
       "year": 1994
     }
   ],
-  "intro": "Brise-Glace (French for \"ice-breaker\") was a 1990s instrumental avant-rock \"supergroup\" composed of Jim O'Rourke (guitar, organ, tape and \"razor blade\"), Darin Gray (bass guitar), Dylan Posa (guitar), and Thymme Jones (drums).",
-  "introLang": "en",
+  "intro": "Brise-Glace（法语意为“破冰船”）是一支成立于20世纪90年代的器乐前卫摇滚“超级乐队”，由吉姆·奥罗克（吉他、风琴、磁带和“剃须刀片”）、 达林·格雷（贝斯）、迪伦·波萨（吉他）和蒂姆·琼斯（鼓）组成。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d1ff333d-4636-44e5-9bec-3641b8ae38fe"

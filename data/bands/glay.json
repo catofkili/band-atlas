@@ -2,14 +2,13 @@
   "id": "glay",
   "mbid": "051b8830-8aae-4b4e-a48c-ee8d6a2dec50",
   "name": "GLAY",
-  "area": "Hakodate",
+  "area": "函馆",
   "countryCode": "JP",
   "country": "日本",
   "years": "1988–",
   "genres": [
-    "J-Rock",
-    "Pop Rock",
-    "Rock"
+    "流行摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -80,7 +79,7 @@
     {
       "to": "galay",
       "toName": "GALAY",
-      "toArea": null,
+      "toArea": "日本",
       "toYears": null,
       "type": "guest",
       "label": "合作",
@@ -91,7 +90,7 @@
     {
       "to": "glay-exile",
       "toName": "GLAY×EXILE",
-      "toArea": null,
+      "toArea": "日本",
       "toYears": null,
       "type": "guest",
       "label": "合作",

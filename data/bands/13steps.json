@@ -2,7 +2,7 @@
   "id": "13steps",
   "mbid": "0f3907a4-ac12-49df-a3c3-705a1e95b254",
   "name": "13Steps",
-  "area": "Cheongju",
+  "area": "清州",
   "countryCode": "KR",
   "country": "韩国",
   "years": "2000–",
@@ -21,6 +21,8 @@
       "year": 2009
     }
   ],
+  "intro": "13Steps是一支来自清州的音乐团体，活跃时期为2000–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0f3907a4-ac12-49df-a3c3-705a1e95b254"

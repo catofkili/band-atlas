@@ -2,14 +2,13 @@
   "id": "funkadelic",
   "mbid": "cf042013-3edd-46c4-9b0e-a62faac98d0b",
   "name": "Funkadelic",
-  "area": "Plainfield",
+  "area": "普莱恩菲尔德",
   "countryCode": "US",
   "country": "美国",
   "years": "1968–1981",
   "genres": [
-    "Funk",
-    "Funk Rock",
-    "P-Funk"
+    "放克",
+    "放克摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 1974
     }
   ],
-  "intro": "ファンカデリックは、ジョージ・クリントンがパーラメントと並行して1960年代末に結成したファンクバンド。Pファンクの主要プロジェクトのひとつ。",
-  "introLang": "ja",
+  "intro": "Funkadelic是乔治·克林顿在20世纪60年代末与Parliament并行组建的一支放克乐队。它是P-Funk的主要项目之一。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cf042013-3edd-46c4-9b0e-a62faac98d0b"
@@ -47,7 +46,7 @@
     {
       "to": "parliament",
       "toName": "Parliament",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1980",
       "type": "member",
       "label": "Bootsy Collins・Jerome Brailey・Michael Hampton・Larry Fratangelo・Lonnie Motley・Greg Boyer・George Clinton・Bennie Cowan・Ray Davis・Glen Goins・Fuzzy Haskins・Eddie Hazel・Larry Heckstall・Cordell Mosson・Garry Shider・Calvin Simon・Grady Thomas・Undi$co Kidd・Ramon \"Tiki\" Fulwood",
@@ -58,7 +57,7 @@
     {
       "to": "parliament-funkadelic",
       "toName": "Parliament-Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–",
       "type": "member",
       "label": "Bootsy Collins・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Michael Payne・Garry Shider・Undi$co Kidd",
@@ -91,7 +90,7 @@
     {
       "to": "praxis",
       "toName": "Praxis",
-      "toArea": "Brooklyn",
+      "toArea": "布鲁克林",
       "toYears": "1992–2011",
       "type": "member",
       "label": "Bootsy Collins",
@@ -135,7 +134,7 @@
     {
       "to": "parliament-funkadelic",
       "toName": "Parliament-Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–",
       "type": "guest",
       "label": "合作",

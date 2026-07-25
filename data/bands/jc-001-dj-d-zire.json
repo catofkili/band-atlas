@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "JC-001 & DJ D-Zire是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/168ab817-9594-4d78-a863-61e7777a672c"
@@ -16,7 +18,7 @@
     {
       "to": "gorillaz",
       "toName": "Gorillaz",
-      "toArea": "Essex",
+      "toArea": "埃塞克斯",
       "toYears": "1999–",
       "type": "member",
       "label": "DJ D-Zire",
@@ -27,7 +29,7 @@
     {
       "to": "jamiroquai",
       "toName": "Jamiroquai",
-      "toArea": "Ealing",
+      "toArea": "伊灵",
       "toYears": "1992–",
       "type": "member",
       "label": "DJ D-Zire",

@@ -13,8 +13,8 @@
       "year": 2002
     }
   ],
-  "intro": "Medication was an American rock band that included Logan Mader, Whitfield Crane, B.",
-  "introLang": "en",
+  "intro": "Medication是一支美国摇滚乐队，成员包括洛根·马德（Logan Mader）、惠特菲尔德·克雷恩（Whitfield Crane）和B.",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/03214f15-3323-4964-8b9e-1d71496fa524"
@@ -45,7 +45,7 @@
     {
       "to": "the-vandals",
       "toName": "The Vandals",
-      "toArea": "Huntington Beach",
+      "toArea": "亨廷顿海滩",
       "toYears": "1980–",
       "type": "member",
       "label": "Brooks Wackerman",
@@ -78,7 +78,7 @@
     {
       "to": "the-wedding-band",
       "toName": "The Wedding Band",
-      "toArea": "Hawaii",
+      "toArea": "夏威夷",
       "toYears": "2018–",
       "type": "member",
       "label": "Whitfield Crane",

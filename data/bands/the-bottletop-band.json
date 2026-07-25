@@ -13,8 +13,8 @@
       "year": 2011
     }
   ],
-  "intro": "The Bottletop Band is a supergroup consisting of leading musicians of both Brazilian and English music.",
-  "introLang": "en",
+  "intro": "The Bottletop Band 是一支由巴西和英国乐坛顶尖音乐人组成的超级乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9b52f235-714b-4b76-b85b-ebc07363db7f"
@@ -23,7 +23,7 @@
     {
       "to": "arctic-monkeys",
       "toName": "Arctic Monkeys",
-      "toArea": "High Green",
+      "toArea": "英国",
       "toYears": "2002–",
       "type": "member",
       "label": "Andy Nicholson",

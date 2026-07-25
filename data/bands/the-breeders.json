@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1989–",
   "genres": [
-    "Alternative Rock",
-    "Indie Rock",
-    "4ad"
+    "另类摇滚",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -33,8 +32,8 @@
       "year": 2018
     }
   ],
-  "intro": "ザ・ブリーダーズ (The Breeders)は、1988年に結成されたアメリカのロックバンドである。",
-  "introLang": "ja",
+  "intro": "The Breeders 是一支成立于1988年的美国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/667e856e-f3a7-42e9-8244-95422ef31321"
@@ -43,7 +42,7 @@
     {
       "to": "the-amps",
       "toName": "The Amps",
-      "toArea": "Dayton",
+      "toArea": "代顿",
       "toYears": "1995–1996",
       "type": "member",
       "label": "Kim Deal・Jim MacPherson・Nate Farley",

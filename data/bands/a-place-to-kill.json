@@ -13,6 +13,8 @@
       "year": 2026
     }
   ],
+  "intro": "A Place to Kill是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8bd05603-f169-47c1-8e34-1c3f9573f822"
@@ -21,7 +23,7 @@
     {
       "to": "filter",
       "toName": "Filter",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1993–",
       "type": "member",
       "label": "Richard Patrick",
@@ -32,7 +34,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Richard Patrick",

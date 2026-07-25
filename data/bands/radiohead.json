@@ -2,14 +2,14 @@
   "id": "radiohead",
   "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
   "name": "Radiohead",
-  "area": "Abingdon-on-Thames",
+  "area": "泰晤士河畔阿宾顿",
   "countryCode": "GB",
   "country": "英国",
   "years": "1991–",
   "genres": [
-    "Alternative Rock",
-    "Art Rock",
-    "Rock"
+    "另类摇滚",
+    "艺术摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -47,7 +47,7 @@
     {
       "to": "the-smile",
       "toName": "The Smile",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Jonny Greenwood・Thom Yorke・副项目",
@@ -58,7 +58,7 @@
     {
       "to": "on-a-friday",
       "toName": "On a Friday",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1985–1991",
       "type": "member",
       "label": "Colin Greenwood・Jonny Greenwood・Ed O’Brien・Philip Selway・Thom Yorke",
@@ -69,7 +69,7 @@
     {
       "to": "7-worlds-collide",
       "toName": "7 Worlds Collide",
-      "toArea": "New Zealand",
+      "toArea": "新西兰",
       "toYears": null,
       "type": "member",
       "label": "Ed O’Brien・Philip Selway",
@@ -124,7 +124,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",
@@ -135,7 +135,7 @@
     {
       "to": "muse",
       "toName": "Muse",
-      "toArea": "Teignmouth",
+      "toArea": "泰恩茅斯",
       "toYears": "1994–",
       "type": "influence",
       "label": "影响关系",
@@ -157,7 +157,7 @@
     {
       "to": "the-capitols",
       "toName": "The Capitols",
-      "toArea": null,
+      "toArea": "荷兰",
       "toYears": null,
       "type": "guest",
       "label": "伴奏・助演",

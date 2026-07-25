@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Raw Dog是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/87b35fa8-a602-4a8c-abc1-5a46fb85d8f8"
@@ -16,7 +18,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -38,7 +40,7 @@
     {
       "to": "the-tear-garden",
       "toName": "The Tear Garden",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1986–",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -49,7 +51,7 @@
     {
       "to": "hilt",
       "toName": "Hilt",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1987–1996",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -60,7 +62,7 @@
     {
       "to": "jakalope",
       "toName": "Jakalope",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "2003–",
       "type": "member",
       "label": "Dave Ogilvie",

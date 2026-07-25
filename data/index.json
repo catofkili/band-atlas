@@ -240,7 +240,7 @@
     {
       "id": "x-japan",
       "name": "X JAPAN",
-      "area": "Tateyama",
+      "area": "立山",
       "years": "1982–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -267,7 +267,7 @@
     {
       "id": "mr-children",
       "name": "Mr.Children",
-      "area": "Shibuya",
+      "area": "涩谷",
       "years": "1989–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -276,7 +276,7 @@
     {
       "id": "glay",
       "name": "GLAY",
-      "area": "Hakodate",
+      "area": "函馆",
       "years": "1988–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -285,7 +285,7 @@
     {
       "id": "the-alfee",
       "name": "THE ALFEE",
-      "area": "Shirokanedai",
+      "area": "白金台",
       "years": "1973–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -294,7 +294,7 @@
     {
       "id": "buck-tick",
       "name": "BUCK‐TICK",
-      "area": "Fujioka",
+      "area": "日本",
       "years": "1984–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -348,7 +348,7 @@
     {
       "id": "official髭男dism",
       "name": "Official髭男dism",
-      "area": "Shimane",
+      "area": "岛根",
       "years": "2012–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -375,7 +375,7 @@
     {
       "id": "フィッシュマンズ",
       "name": "フィッシュマンズ",
-      "area": "Minato",
+      "area": "日本",
       "years": "1987–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -528,7 +528,7 @@
     {
       "id": "大象體操",
       "name": "大象體操",
-      "area": "Kaohsiung",
+      "area": "高雄",
       "years": "2012–",
       "countryCode": "TW",
       "region": "east-asia",
@@ -537,7 +537,7 @@
     {
       "id": "滅火器",
       "name": "滅火器",
-      "area": "Kaohsiung",
+      "area": "高雄",
       "years": "2001–",
       "countryCode": "TW",
       "region": "east-asia",
@@ -582,7 +582,7 @@
     {
       "id": "beyond",
       "name": "Beyond",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": "1983–2005",
       "countryCode": "HK",
       "region": "east-asia",
@@ -591,7 +591,7 @@
     {
       "id": "rubberband",
       "name": "RubberBand",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": "2008–",
       "countryCode": "HK",
       "region": "east-asia",
@@ -600,7 +600,7 @@
     {
       "id": "at17",
       "name": "at17",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": "2002–2018",
       "countryCode": "HK",
       "region": "east-asia",
@@ -672,7 +672,7 @@
     {
       "id": "マキシマム-ザ-ホルモン",
       "name": "マキシマム ザ ホルモン",
-      "area": "Hachiōji",
+      "area": "八王子",
       "years": "1998–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -690,7 +690,7 @@
     {
       "id": "kana-boon",
       "name": "KANA-BOON",
-      "area": "Sakai",
+      "area": "日本",
       "years": "2006–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -717,7 +717,7 @@
     {
       "id": "mucc",
       "name": "MUCC",
-      "area": "Ibaraki",
+      "area": "茨城",
       "years": "1997–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -753,7 +753,7 @@
     {
       "id": "people-in-the-box",
       "name": "People In The Box",
-      "area": "Kitakyūshū",
+      "area": "北九州",
       "years": "2003–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -825,7 +825,7 @@
     {
       "id": "the-pancakes",
       "name": "The Pancakes",
-      "area": "Baden-Württemberg",
+      "area": "巴登-符腾堡州",
       "years": "1995–",
       "countryCode": "DE",
       "region": "western",
@@ -834,7 +834,7 @@
     {
       "id": "lmf",
       "name": "LMF",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": "1993–2003",
       "countryCode": "HK",
       "region": "east-asia",
@@ -843,7 +843,7 @@
     {
       "id": "小島",
       "name": "小島",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": "1985–1986",
       "countryCode": "HK",
       "region": "east-asia",
@@ -852,7 +852,7 @@
     {
       "id": "gdjyb",
       "name": "GDJYB",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": "2012–",
       "countryCode": "HK",
       "region": "east-asia",
@@ -861,7 +861,7 @@
     {
       "id": "radiohead",
       "name": "Radiohead",
-      "area": "Abingdon-on-Thames",
+      "area": "泰晤士河畔阿宾顿",
       "years": "1991–",
       "countryCode": "GB",
       "region": "western",
@@ -870,7 +870,7 @@
     {
       "id": "daft-punk",
       "name": "Daft Punk",
-      "area": "Paris",
+      "area": "巴黎",
       "years": "1993–2021",
       "countryCode": "FR",
       "region": "western",
@@ -888,7 +888,7 @@
     {
       "id": "linkin-park",
       "name": "Linkin Park",
-      "area": "Agoura Hills",
+      "area": "阿古拉希尔斯",
       "years": "1996–",
       "countryCode": "US",
       "region": "western",
@@ -906,7 +906,7 @@
     {
       "id": "gorillaz",
       "name": "Gorillaz",
-      "area": "Essex",
+      "area": "埃塞克斯",
       "years": "1999–",
       "countryCode": "GB",
       "region": "western",
@@ -942,7 +942,7 @@
     {
       "id": "muse",
       "name": "Muse",
-      "area": "Teignmouth",
+      "area": "泰恩茅斯",
       "years": "1994–",
       "countryCode": "GB",
       "region": "western",
@@ -960,7 +960,7 @@
     {
       "id": "arctic-monkeys",
       "name": "Arctic Monkeys",
-      "area": "High Green",
+      "area": "英国",
       "years": "2002–",
       "countryCode": "GB",
       "region": "western",
@@ -969,7 +969,7 @@
     {
       "id": "system-of-a-down",
       "name": "System of a Down",
-      "area": "Glendale",
+      "area": "格伦代尔",
       "years": "1995–",
       "countryCode": "US",
       "region": "western",
@@ -978,7 +978,7 @@
     {
       "id": "green-day",
       "name": "Green Day",
-      "area": "Berkeley",
+      "area": "伯克利",
       "years": "1989–",
       "countryCode": "US",
       "region": "western",
@@ -1005,7 +1005,7 @@
     {
       "id": "nine-inch-nails",
       "name": "Nine Inch Nails",
-      "area": "Cleveland",
+      "area": "克利夫兰",
       "years": "1988–",
       "countryCode": "US",
       "region": "western",
@@ -1014,7 +1014,7 @@
     {
       "id": "the-cure",
       "name": "The Cure",
-      "area": "Crawley",
+      "area": "克劳利",
       "years": "1977–",
       "countryCode": "GB",
       "region": "western",
@@ -1050,7 +1050,7 @@
     {
       "id": "depeche-mode",
       "name": "Depeche Mode",
-      "area": "Basildon",
+      "area": "巴兹尔登",
       "years": "1980–",
       "countryCode": "GB",
       "region": "western",
@@ -1068,7 +1068,7 @@
     {
       "id": "the-killers",
       "name": "The Killers",
-      "area": "Las Vegas",
+      "area": "拉斯维加斯",
       "years": "2001–",
       "countryCode": "US",
       "region": "western",
@@ -1077,7 +1077,7 @@
     {
       "id": "deftones",
       "name": "Deftones",
-      "area": "Sacramento",
+      "area": "萨克拉门托",
       "years": "1988–",
       "countryCode": "US",
       "region": "western",
@@ -1095,7 +1095,7 @@
     {
       "id": "my-chemical-romance",
       "name": "My Chemical Romance",
-      "area": "Newark",
+      "area": "纽瓦克",
       "years": "2001–",
       "countryCode": "US",
       "region": "western",
@@ -1104,7 +1104,7 @@
     {
       "id": "queens-of-the-stone-age",
       "name": "Queens of the Stone Age",
-      "area": "Palm Desert",
+      "area": "棕榈沙漠",
       "years": "1996–",
       "countryCode": "US",
       "region": "western",
@@ -1122,7 +1122,7 @@
     {
       "id": "black-sabbath",
       "name": "Black Sabbath",
-      "area": "Birmingham",
+      "area": "伯明翰",
       "years": "1968–2025",
       "countryCode": "GB",
       "region": "western",
@@ -1140,7 +1140,7 @@
     {
       "id": "fall-out-boy",
       "name": "Fall Out Boy",
-      "area": "Wilmette",
+      "area": "威尔梅特",
       "years": "2001–",
       "countryCode": "US",
       "region": "western",
@@ -1149,7 +1149,7 @@
     {
       "id": "the-offspring",
       "name": "The Offspring",
-      "area": "Huntington Beach",
+      "area": "亨廷顿海滩",
       "years": "1984–",
       "countryCode": "US",
       "region": "western",
@@ -1167,7 +1167,7 @@
     {
       "id": "blink-182",
       "name": "blink‐182",
-      "area": "Poway",
+      "area": "美国",
       "years": "1992–",
       "countryCode": "US",
       "region": "western",
@@ -1176,7 +1176,7 @@
     {
       "id": "iron-maiden",
       "name": "Iron Maiden",
-      "area": "Leyton",
+      "area": "莱顿",
       "years": "1975–",
       "countryCode": "GB",
       "region": "western",
@@ -1185,7 +1185,7 @@
     {
       "id": "slipknot",
       "name": "Slipknot",
-      "area": "Des Moines",
+      "area": "得梅因",
       "years": "1995–",
       "countryCode": "US",
       "region": "western",
@@ -1221,7 +1221,7 @@
     {
       "id": "glay-exile",
       "name": "GLAY×EXILE",
-      "area": null,
+      "area": "日本",
       "years": null,
       "countryCode": "JP",
       "region": "east-asia",
@@ -1230,7 +1230,7 @@
     {
       "id": "galay",
       "name": "GALAY",
-      "area": null,
+      "area": "日本",
       "years": null,
       "countryCode": "JP",
       "region": "east-asia",
@@ -1239,7 +1239,7 @@
     {
       "id": "寺子屋",
       "name": "寺子屋",
-      "area": null,
+      "area": "日本",
       "years": null,
       "countryCode": "JP",
       "region": "east-asia",
@@ -1248,7 +1248,7 @@
     {
       "id": "day6-even-of-day",
       "name": "DAY6 (Even of Day)",
-      "area": null,
+      "area": "韩国",
       "years": null,
       "countryCode": "KR",
       "region": "east-asia",
@@ -1257,7 +1257,7 @@
     {
       "id": "ft-triple",
       "name": "FT.triple",
-      "area": null,
+      "area": "韩国",
       "years": null,
       "countryCode": "KR",
       "region": "east-asia",
@@ -1275,7 +1275,7 @@
     {
       "id": "コロナナモレモモ",
       "name": "コロナナモレモモ",
-      "area": null,
+      "area": "日本",
       "years": null,
       "countryCode": "JP",
       "region": "east-asia",
@@ -1284,7 +1284,7 @@
     {
       "id": "the-smile",
       "name": "The Smile",
-      "area": null,
+      "area": "英国",
       "years": null,
       "countryCode": "GB",
       "region": "western",
@@ -1293,7 +1293,7 @@
     {
       "id": "the-capitols",
       "name": "The Capitols",
-      "area": null,
+      "area": "荷兰",
       "years": null,
       "countryCode": "NL",
       "region": "western",
@@ -1311,7 +1311,7 @@
     {
       "id": "los-unidades",
       "name": "Los Unidades",
-      "area": null,
+      "area": "英国",
       "years": null,
       "countryCode": "GB",
       "region": "western",
@@ -1320,7 +1320,7 @@
     {
       "id": "queen-adam-lambert",
       "name": "Queen + Adam Lambert",
-      "area": null,
+      "area": "英国",
       "years": null,
       "countryCode": "GB",
       "region": "western",
@@ -1329,7 +1329,7 @@
     {
       "id": "queen-paul-rodgers",
       "name": "Queen + Paul Rodgers",
-      "area": null,
+      "area": "英国",
       "years": null,
       "countryCode": "GB",
       "region": "western",
@@ -1338,7 +1338,7 @@
     {
       "id": "jimmy-page-robert-plant",
       "name": "Jimmy Page & Robert Plant",
-      "area": null,
+      "area": "英国",
       "years": null,
       "countryCode": "GB",
       "region": "western",
@@ -1356,7 +1356,7 @@
     {
       "id": "goat-punishment",
       "name": "Goat Punishment",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -1374,7 +1374,7 @@
     {
       "id": "gown",
       "name": "Gown",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -1383,7 +1383,7 @@
     {
       "id": "rancid",
       "name": "Rancid",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -1392,7 +1392,7 @@
     {
       "id": "look-outside-your-window",
       "name": "Look Outside Your Window",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -1401,7 +1401,7 @@
     {
       "id": "audioslave",
       "name": "Audioslave",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -1410,7 +1410,7 @@
     {
       "id": "band-aid",
       "name": "Band Aid",
-      "area": null,
+      "area": "英国",
       "years": null,
       "countryCode": "GB",
       "region": "western",
@@ -1509,7 +1509,7 @@
     {
       "id": "syrup16g",
       "name": "syrup16g",
-      "area": "Shimokitazawa",
+      "area": "下北泽",
       "years": "1996–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -1806,7 +1806,7 @@
     {
       "id": "the-amps",
       "name": "The Amps",
-      "area": "Dayton",
+      "area": "代顿",
       "years": "1995–1996",
       "countryCode": "US",
       "region": "western",
@@ -1896,7 +1896,7 @@
     {
       "id": "white-flag",
       "name": "White Flag",
-      "area": "Moreno Valley",
+      "area": "莫雷诺谷",
       "years": "1982–",
       "countryCode": "US",
       "region": "western",
@@ -1914,7 +1914,7 @@
     {
       "id": "silver-jews",
       "name": "Silver Jews",
-      "area": "Charlottesville",
+      "area": "夏洛茨维尔",
       "years": "1989–2009",
       "countryCode": "US",
       "region": "western",
@@ -1941,7 +1941,7 @@
     {
       "id": "band-of-skulls",
       "name": "Band of Skulls",
-      "area": "Southampton",
+      "area": "南安普敦",
       "years": "2004–",
       "countryCode": "GB",
       "region": "western",
@@ -2004,7 +2004,7 @@
     {
       "id": "body-head",
       "name": "Body/Head",
-      "area": "Northampton",
+      "area": "北安普顿",
       "years": "2012–",
       "countryCode": "US",
       "region": "western",
@@ -2283,7 +2283,7 @@
     {
       "id": "gut-bank",
       "name": "Gut Bank",
-      "area": "Hoboken",
+      "area": "霍博肯",
       "years": "1984–",
       "countryCode": "US",
       "region": "western",
@@ -2364,7 +2364,7 @@
     {
       "id": "gastr-del-sol",
       "name": "Gastr del Sol",
-      "area": "Louisville",
+      "area": "路易斯维尔",
       "years": "1991–1998",
       "countryCode": "US",
       "region": "western",
@@ -2436,7 +2436,7 @@
     {
       "id": "the-red-krayola",
       "name": "The Red Krayola",
-      "area": "Houston",
+      "area": "休斯顿",
       "years": "1966–",
       "countryCode": "US",
       "region": "western",
@@ -2445,7 +2445,7 @@
     {
       "id": "pavement",
       "name": "Pavement",
-      "area": "Stockton",
+      "area": "斯托克顿",
       "years": "1989–2000",
       "countryCode": "US",
       "region": "western",
@@ -2481,7 +2481,7 @@
     {
       "id": "rumblepuppy",
       "name": "Rumblepuppy",
-      "area": "Massachusetts",
+      "area": "马萨诸塞州",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -2661,7 +2661,7 @@
     {
       "id": "fecal-matter",
       "name": "Fecal Matter",
-      "area": "Aberdeen",
+      "area": "阿伯丁",
       "years": "1985–1986",
       "countryCode": "US",
       "region": "western",
@@ -2679,7 +2679,7 @@
     {
       "id": "sleep",
       "name": "Sleep",
-      "area": "San Jose",
+      "area": "圣何塞",
       "years": "1990–",
       "countryCode": "US",
       "region": "western",
@@ -2706,7 +2706,7 @@
     {
       "id": "melvins",
       "name": "Melvins",
-      "area": "Montesano",
+      "area": "蒙特萨诺",
       "years": "1983–",
       "countryCode": "US",
       "region": "western",
@@ -2733,7 +2733,7 @@
     {
       "id": "kidbug",
       "name": "Kidbug",
-      "area": "Indianapolis",
+      "area": "印第安纳波利斯",
       "years": "2019–",
       "countryCode": "US",
       "region": "western",
@@ -2841,7 +2841,7 @@
     {
       "id": "giants-in-the-trees",
       "name": "Giants in the Trees",
-      "area": "Wahkiakum County",
+      "area": "瓦基阿库姆县",
       "years": "2017–",
       "countryCode": "US",
       "region": "western",
@@ -2940,7 +2940,7 @@
     {
       "id": "mind-funk",
       "name": "Mind Funk",
-      "area": "Orange County",
+      "area": "奥兰治县",
       "years": "1989–",
       "countryCode": "US",
       "region": "western",
@@ -2949,7 +2949,7 @@
     {
       "id": "old",
       "name": "Old",
-      "area": "New Jersey",
+      "area": "新泽西州",
       "years": "1986–2002",
       "countryCode": "US",
       "region": "western",
@@ -3012,7 +3012,7 @@
     {
       "id": "scream",
       "name": "Scream",
-      "area": "Virginia",
+      "area": "弗吉尼亚州",
       "years": "1981–",
       "countryCode": "US",
       "region": "western",
@@ -3075,7 +3075,7 @@
     {
       "id": "churn",
       "name": "Churn",
-      "area": "Arlington County",
+      "area": "阿灵顿县",
       "years": "1989–",
       "countryCode": "US",
       "region": "western",
@@ -3093,7 +3093,7 @@
     {
       "id": "mazzy-star",
       "name": "Mazzy Star",
-      "area": "Santa Monica",
+      "area": "圣莫尼卡",
       "years": "1988–",
       "countryCode": "US",
       "region": "western",
@@ -3129,7 +3129,7 @@
     {
       "id": "experimental-audio-research",
       "name": "Experimental Audio Research",
-      "area": "Rugby",
+      "area": "橄榄球",
       "years": "1990–",
       "countryCode": "GB",
       "region": "western",
@@ -3183,7 +3183,7 @@
     {
       "id": "cornershop",
       "name": "Cornershop",
-      "area": "Leicester",
+      "area": "莱斯特",
       "years": "1991–",
       "countryCode": "GB",
       "region": "western",
@@ -3228,7 +3228,7 @@
     {
       "id": "starclub",
       "name": "Starclub",
-      "area": "Maidstone",
+      "area": "梅德斯通",
       "years": "1991–1994",
       "countryCode": "GB",
       "region": "western",
@@ -3273,7 +3273,7 @@
     {
       "id": "heavy-stereo",
       "name": "Heavy Stereo",
-      "area": "Durham",
+      "area": "达勒姆",
       "years": "1995–1996",
       "countryCode": "GB",
       "region": "western",
@@ -3291,7 +3291,7 @@
     {
       "id": "walt-mink",
       "name": "Walt Mink",
-      "area": "Saint Paul",
+      "area": "圣保罗",
       "years": "1989–1997",
       "countryCode": "US",
       "region": "western",
@@ -3381,7 +3381,7 @@
     {
       "id": "seymour",
       "name": "Seymour",
-      "area": "Colchester",
+      "area": "科尔切斯特",
       "years": "1989–1990",
       "countryCode": "GB",
       "region": "western",
@@ -3426,7 +3426,7 @@
     {
       "id": "the-jaded-hearts-club",
       "name": "The Jaded Hearts Club",
-      "area": "California",
+      "area": "加利福尼亚州",
       "years": "2018–",
       "countryCode": "GB",
       "region": "western",
@@ -3561,7 +3561,7 @@
     {
       "id": "izzy-stradlin-and-the-ju-ju-hounds",
       "name": "Izzy Stradlin and the Ju Ju Hounds",
-      "area": "California",
+      "area": "加利福尼亚州",
       "years": "1992–",
       "countryCode": "US",
       "region": "western",
@@ -3633,7 +3633,7 @@
     {
       "id": "velvet-revolver",
       "name": "Velvet Revolver",
-      "area": "Rancho Santa Margarita",
+      "area": "兰乔·圣塔玛格丽塔",
       "years": "2002–2008",
       "countryCode": "US",
       "region": "western",
@@ -3750,7 +3750,7 @@
     {
       "id": "mercyful-fate",
       "name": "Mercyful Fate",
-      "area": "Copenhagen",
+      "area": "哥本哈根",
       "years": "1981–",
       "countryCode": "DK",
       "region": "western",
@@ -3912,7 +3912,7 @@
     {
       "id": "candy",
       "name": "Candy",
-      "area": "California",
+      "area": "加利福尼亚州",
       "years": "1985–1987",
       "countryCode": "US",
       "region": "western",
@@ -3948,7 +3948,7 @@
     {
       "id": "the-vandals",
       "name": "The Vandals",
-      "area": "Huntington Beach",
+      "area": "亨廷顿海滩",
       "years": "1980–",
       "countryCode": "US",
       "region": "western",
@@ -3975,7 +3975,7 @@
     {
       "id": "devo",
       "name": "DEVO",
-      "area": "Akron",
+      "area": "阿克伦",
       "years": "1972–",
       "countryCode": "US",
       "region": "western",
@@ -3984,7 +3984,7 @@
     {
       "id": "ween",
       "name": "Ween",
-      "area": "New Hope",
+      "area": "New Hope简体中文（大陆）",
       "years": "1984–2024",
       "countryCode": "US",
       "region": "western",
@@ -4002,7 +4002,7 @@
     {
       "id": "desert-sessions",
       "name": "Desert Sessions",
-      "area": "Palm Desert",
+      "area": "棕榈沙漠",
       "years": "1997–",
       "countryCode": "US",
       "region": "western",
@@ -4047,7 +4047,7 @@
     {
       "id": "filter",
       "name": "Filter",
-      "area": "Cleveland",
+      "area": "克利夫兰",
       "years": "1993–",
       "countryCode": "US",
       "region": "western",
@@ -4056,7 +4056,7 @@
     {
       "id": "sublime-with-rome",
       "name": "Sublime with Rome",
-      "area": "Long Beach",
+      "area": "长滩",
       "years": "2009–2024",
       "countryCode": "US",
       "region": "western",
@@ -4182,7 +4182,7 @@
     {
       "id": "the-jacks",
       "name": "The Jacks",
-      "area": "Tulsa",
+      "area": "塔尔萨",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -4200,7 +4200,7 @@
     {
       "id": "lusk",
       "name": "Lusk",
-      "area": "California",
+      "area": "加利福尼亚州",
       "years": "1995–1998",
       "countryCode": null,
       "region": "unknown",
@@ -4290,7 +4290,7 @@
     {
       "id": "gorgone",
       "name": "Gorgone",
-      "area": "France",
+      "area": "法国",
       "years": null,
       "countryCode": "FR",
       "region": "western",
@@ -4326,7 +4326,7 @@
     {
       "id": "praxis",
       "name": "Praxis",
-      "area": "Brooklyn",
+      "area": "布鲁克林",
       "years": "1992–2011",
       "countryCode": "US",
       "region": "western",
@@ -4398,7 +4398,7 @@
     {
       "id": "godflesh",
       "name": "Godflesh",
-      "area": "Birmingham",
+      "area": "伯明翰",
       "years": "1988–",
       "countryCode": "GB",
       "region": "western",
@@ -4425,7 +4425,7 @@
     {
       "id": "primus",
       "name": "Primus",
-      "area": "El Sobrante",
+      "area": "埃尔·索布兰特",
       "years": "1984–",
       "countryCode": "US",
       "region": "western",
@@ -4443,7 +4443,7 @@
     {
       "id": "les-claypool-and-the-holy-mackerel",
       "name": "Les Claypool and the Holy Mackerel",
-      "area": "Berkeley",
+      "area": "伯克利",
       "years": "1996–1996",
       "countryCode": "US",
       "region": "western",
@@ -4794,7 +4794,7 @@
     {
       "id": "横須賀サーベルタイガー",
       "name": "横須賀サーベルタイガー",
-      "area": "Yokosuka",
+      "area": "横须贺",
       "years": "1981–1987",
       "countryCode": "JP",
       "region": "east-asia",
@@ -5271,7 +5271,7 @@
     {
       "id": "charm",
       "name": "CHARM",
-      "area": "Hyogo",
+      "area": "兵库",
       "years": "1994–1996",
       "countryCode": "JP",
       "region": "east-asia",
@@ -5307,7 +5307,7 @@
     {
       "id": "gosick",
       "name": "GOSICK",
-      "area": "Nagano",
+      "area": "长野",
       "years": null,
       "countryCode": "JP",
       "region": "east-asia",
@@ -5676,7 +5676,7 @@
     {
       "id": "church-of-misery",
       "name": "Church of Misery",
-      "area": "Shinjuku",
+      "area": "新宿",
       "years": "1995–",
       "countryCode": "JP",
       "region": "east-asia",
@@ -5721,7 +5721,7 @@
     {
       "id": "violent-magic-orchestra",
       "name": "Violent Magic Orchestra",
-      "area": "[Worldwide]",
+      "area": "[全球]",
       "years": "2016–",
       "countryCode": "XW",
       "region": "other",
@@ -5973,7 +5973,7 @@
     {
       "id": "speak-chinese-or-die",
       "name": "Speak Chinese or Die",
-      "area": "Wuhan",
+      "area": "武汉",
       "years": null,
       "countryCode": "CN",
       "region": "east-asia",
@@ -5982,7 +5982,7 @@
     {
       "id": "浮世繪",
       "name": "浮世繪",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": "1984–",
       "countryCode": "HK",
       "region": "east-asia",
@@ -5991,7 +5991,7 @@
     {
       "id": "beatbox-金牌一條順",
       "name": "Beatbox 金牌一條順",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": null,
       "countryCode": "HK",
       "region": "east-asia",
@@ -6000,7 +6000,7 @@
     {
       "id": "lam-family",
       "name": "Lam Family",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": null,
       "countryCode": "HK",
       "region": "east-asia",
@@ -6009,7 +6009,7 @@
     {
       "id": "3p",
       "name": "3P",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": "2000–2001",
       "countryCode": "HK",
       "region": "east-asia",
@@ -6018,7 +6018,7 @@
     {
       "id": "the-duo-band",
       "name": "The Duo Band",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": null,
       "countryCode": "HK",
       "region": "east-asia",
@@ -6279,7 +6279,7 @@
     {
       "id": "acid-black-cherry",
       "name": "Acid Black Cherry",
-      "area": "Hirakata",
+      "area": "枚方",
       "years": "2007–2017",
       "countryCode": "JP",
       "region": "east-asia",
@@ -6369,7 +6369,7 @@
     {
       "id": "13steps",
       "name": "13Steps",
-      "area": "Cheongju",
+      "area": "清州",
       "years": "2000–",
       "countryCode": "KR",
       "region": "east-asia",
@@ -6468,7 +6468,7 @@
     {
       "id": "flesh-juicer",
       "name": "Flesh Juicer",
-      "area": "Taichung",
+      "area": "台中",
       "years": "2006–",
       "countryCode": "TW",
       "region": "east-asia",
@@ -6513,7 +6513,7 @@
     {
       "id": "anodize",
       "name": "Anodize",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": "1989–1999",
       "countryCode": "HK",
       "region": "east-asia",
@@ -6522,7 +6522,7 @@
     {
       "id": "小島樂隊",
       "name": "小島樂隊",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": "1985–1986",
       "countryCode": "HK",
       "region": "east-asia",
@@ -6531,7 +6531,7 @@
     {
       "id": "天織堂",
       "name": "天織堂",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": null,
       "countryCode": "HK",
       "region": "east-asia",
@@ -6540,7 +6540,7 @@
     {
       "id": "凡風",
       "name": "凡風",
-      "area": "Hong Kong",
+      "area": "香港",
       "years": null,
       "countryCode": "HK",
       "region": "east-asia",
@@ -6558,7 +6558,7 @@
     {
       "id": "on-a-friday",
       "name": "On a Friday",
-      "area": "Abingdon-on-Thames",
+      "area": "泰晤士河畔阿宾顿",
       "years": "1985–1991",
       "countryCode": "GB",
       "region": "western",
@@ -6585,7 +6585,7 @@
     {
       "id": "7-worlds-collide",
       "name": "7 Worlds Collide",
-      "area": "New Zealand",
+      "area": "新西兰",
       "years": null,
       "countryCode": "NZ",
       "region": "western",
@@ -6603,7 +6603,7 @@
     {
       "id": "darlin",
       "name": "Darlin’",
-      "area": "Versailles",
+      "area": "凡尔赛",
       "years": "1992–1993",
       "countryCode": "FR",
       "region": "western",
@@ -6612,7 +6612,7 @@
     {
       "id": "together",
       "name": "Together",
-      "area": "Paris",
+      "area": "巴黎",
       "years": "2000–",
       "countryCode": "FR",
       "region": "western",
@@ -6630,7 +6630,7 @@
     {
       "id": "le-knight-club",
       "name": "Le Knight Club",
-      "area": "Paris",
+      "area": "巴黎",
       "years": "1997–",
       "countryCode": "FR",
       "region": "western",
@@ -6666,7 +6666,7 @@
     {
       "id": "the-beat-brothers",
       "name": "The Beat Brothers",
-      "area": "Hamburg",
+      "area": "汉堡",
       "years": "1961–",
       "countryCode": "DE",
       "region": "western",
@@ -6729,7 +6729,7 @@
     {
       "id": "traveling-wilburys",
       "name": "Traveling Wilburys",
-      "area": "Malibu",
+      "area": "马里布",
       "years": "1988–1990",
       "countryCode": "US",
       "region": "western",
@@ -6828,7 +6828,7 @@
     {
       "id": "xero",
       "name": "Xero",
-      "area": "Agoura Hills",
+      "area": "阿古拉希尔斯",
       "years": "1996–1999",
       "countryCode": "US",
       "region": "western",
@@ -6864,7 +6864,7 @@
     {
       "id": "grey-daze",
       "name": "Grey Daze",
-      "area": "Phoenix",
+      "area": "凤凰城",
       "years": "1993–",
       "countryCode": "US",
       "region": "western",
@@ -6873,7 +6873,7 @@
     {
       "id": "stone-temple-pilots",
       "name": "Stone Temple Pilots",
-      "area": "San Diego",
+      "area": "圣地亚哥",
       "years": "1990–",
       "countryCode": "US",
       "region": "western",
@@ -6954,7 +6954,7 @@
     {
       "id": "jokers-wild",
       "name": "Jokers Wild",
-      "area": "Cambridge",
+      "area": "剑桥",
       "years": "1964–1966",
       "countryCode": "GB",
       "region": "western",
@@ -6981,7 +6981,7 @@
     {
       "id": "jamiroquai",
       "name": "Jamiroquai",
-      "area": "Ealing",
+      "area": "伊灵",
       "years": "1992–",
       "countryCode": "GB",
       "region": "western",
@@ -7143,7 +7143,7 @@
     {
       "id": "redd-kross",
       "name": "Redd Kross",
-      "area": "Hawthorne",
+      "area": "霍桑",
       "years": "1980–",
       "countryCode": "US",
       "region": "western",
@@ -7206,7 +7206,7 @@
     {
       "id": "thunderbox",
       "name": "Thunderbox",
-      "area": "Redondo Beach",
+      "area": "雷东多海滩",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -7278,7 +7278,7 @@
     {
       "id": "funkadelic",
       "name": "Funkadelic",
-      "area": "Plainfield",
+      "area": "普莱恩菲尔德",
       "years": "1968–1981",
       "countryCode": "US",
       "region": "western",
@@ -7287,7 +7287,7 @@
     {
       "id": "parliament-funkadelic",
       "name": "Parliament-Funkadelic",
-      "area": "Plainfield",
+      "area": "普莱恩菲尔德",
       "years": "1968–",
       "countryCode": "US",
       "region": "western",
@@ -7296,7 +7296,7 @@
     {
       "id": "parliament",
       "name": "Parliament",
-      "area": "Plainfield",
+      "area": "普莱恩菲尔德",
       "years": "1968–1980",
       "countryCode": "US",
       "region": "western",
@@ -7350,7 +7350,7 @@
     {
       "id": "the-mars-volta",
       "name": "The Mars Volta",
-      "area": "El Paso",
+      "area": "埃尔帕索",
       "years": "2001–",
       "countryCode": "US",
       "region": "western",
@@ -7386,7 +7386,7 @@
     {
       "id": "chickenfoot",
       "name": "Chickenfoot",
-      "area": "Cabo San Lucas",
+      "area": "卡波圣卢卡斯",
       "years": "2008–",
       "countryCode": "US",
       "region": "western",
@@ -7548,7 +7548,7 @@
     {
       "id": "panic",
       "name": "Panic",
-      "area": "California",
+      "area": "加利福尼亚州",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -7557,7 +7557,7 @@
     {
       "id": "maxwell-house-ranch-band",
       "name": "Maxwell House Ranch Band",
-      "area": "California",
+      "area": "加利福尼亚州",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -7566,7 +7566,7 @@
     {
       "id": "spastik-children",
       "name": "Spastik Children",
-      "area": "California",
+      "area": "加利福尼亚州",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -7575,7 +7575,7 @@
     {
       "id": "vicious-hatred",
       "name": "Vicious Hatred",
-      "area": "Hayward",
+      "area": "海沃德",
       "years": "1981–1982",
       "countryCode": "US",
       "region": "western",
@@ -7602,7 +7602,7 @@
     {
       "id": "ez-street",
       "name": "EZ-Street",
-      "area": "Oakland",
+      "area": "奥克兰",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -7611,7 +7611,7 @@
     {
       "id": "agents-of-misfortune",
       "name": "Agents Of Misfortune",
-      "area": "Hayward",
+      "area": "海沃德",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -7629,7 +7629,7 @@
     {
       "id": "the-wedding-band",
       "name": "The Wedding Band",
-      "area": "Hawaii",
+      "area": "夏威夷",
       "years": "2018–",
       "countryCode": null,
       "region": "unknown",
@@ -7638,7 +7638,7 @@
     {
       "id": "exodus",
       "name": "Exodus",
-      "area": "Richmond",
+      "area": "里士满",
       "years": "1979–",
       "countryCode": "US",
       "region": "western",
@@ -7656,7 +7656,7 @@
     {
       "id": "flotsam-and-jetsam",
       "name": "Flotsam and Jetsam",
-      "area": "Phoenix",
+      "area": "凤凰城",
       "years": "1984–",
       "countryCode": "US",
       "region": "western",
@@ -7710,7 +7710,7 @@
     {
       "id": "cyco-miko",
       "name": "Cyco Miko",
-      "area": "Venice",
+      "area": "威尼斯",
       "years": "1994–",
       "countryCode": "US",
       "region": "western",
@@ -7980,7 +7980,7 @@
     {
       "id": "the-network",
       "name": "The Network",
-      "area": "Berkeley",
+      "area": "伯克利",
       "years": "2003–",
       "countryCode": "US",
       "region": "western",
@@ -7989,7 +7989,7 @@
     {
       "id": "the-longshot",
       "name": "The Longshot",
-      "area": "California",
+      "area": "加利福尼亚州",
       "years": "2018–",
       "countryCode": "US",
       "region": "western",
@@ -8007,7 +8007,7 @@
     {
       "id": "pinhead-gunpowder",
       "name": "Pinhead Gunpowder",
-      "area": "Arcata",
+      "area": "阿卡塔",
       "years": "1990–",
       "countryCode": "US",
       "region": "western",
@@ -8043,7 +8043,7 @@
     {
       "id": "the-boo",
       "name": "The Boo",
-      "area": "Oakland",
+      "area": "奥克兰",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -8070,7 +8070,7 @@
     {
       "id": "samiam",
       "name": "Samiam",
-      "area": "Berkeley",
+      "area": "伯克利",
       "years": "1988–",
       "countryCode": "US",
       "region": "western",
@@ -8115,7 +8115,7 @@
     {
       "id": "chino-horde",
       "name": "Chino Horde",
-      "area": "Little Rock",
+      "area": "小石城",
       "years": "1992–1993",
       "countryCode": "US",
       "region": "western",
@@ -8133,7 +8133,7 @@
     {
       "id": "band-of-joy",
       "name": "Band of Joy",
-      "area": "Birmingham",
+      "area": "伯明翰",
       "years": "1967–1968",
       "countryCode": "GB",
       "region": "western",
@@ -8160,7 +8160,7 @@
     {
       "id": "gerry-levene-the-avengers",
       "name": "Gerry Levene & the Avengers",
-      "area": "Birmingham",
+      "area": "伯明翰",
       "years": "1959–1964",
       "countryCode": "GB",
       "region": "western",
@@ -8205,7 +8205,7 @@
     {
       "id": "the-honeydrippers",
       "name": "The Honeydrippers",
-      "area": "Worcestershire",
+      "area": "伍斯特郡",
       "years": "1981–1985",
       "countryCode": "GB",
       "region": "western",
@@ -8304,7 +8304,7 @@
     {
       "id": "adolescents",
       "name": "Adolescents",
-      "area": "Fullerton",
+      "area": "富勒顿",
       "years": "1979–",
       "countryCode": "US",
       "region": "western",
@@ -8313,7 +8313,7 @@
     {
       "id": "the-tater-totz",
       "name": "The Tater Totz",
-      "area": "Hawthorne",
+      "area": "霍桑",
       "years": "1987–",
       "countryCode": "US",
       "region": "western",
@@ -8340,7 +8340,7 @@
     {
       "id": "christ-on-a-crutch",
       "name": "Christ on a Crutch",
-      "area": "Richland",
+      "area": "里奇兰",
       "years": "1983–1993",
       "countryCode": "US",
       "region": "western",
@@ -8349,7 +8349,7 @@
     {
       "id": "diddly-squat",
       "name": "Diddly Squat",
-      "area": "Richland",
+      "area": "里奇兰",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -8367,7 +8367,7 @@
     {
       "id": "taylor-hawkins-the-coattail-riders",
       "name": "Taylor Hawkins & The Coattail Riders",
-      "area": "California",
+      "area": "加利福尼亚州",
       "years": "2004–2022",
       "countryCode": "US",
       "region": "western",
@@ -8430,7 +8430,7 @@
     {
       "id": "no-use-for-a-name",
       "name": "No Use for a Name",
-      "area": "San Jose",
+      "area": "圣何塞",
       "years": "1987–2012",
       "countryCode": "US",
       "region": "western",
@@ -8466,7 +8466,7 @@
     {
       "id": "gunash",
       "name": "Gunash",
-      "area": "Italy",
+      "area": "意大利",
       "years": "2003–",
       "countryCode": "IT",
       "region": "western",
@@ -8475,7 +8475,7 @@
     {
       "id": "exotic-birds",
       "name": "Exotic Birds",
-      "area": "Cleveland",
+      "area": "克利夫兰",
       "years": "1983–1990",
       "countryCode": "US",
       "region": "western",
@@ -8484,7 +8484,7 @@
     {
       "id": "stabbing-westward",
       "name": "Stabbing Westward",
-      "area": "Macomb",
+      "area": "马科姆",
       "years": "1985–",
       "countryCode": "US",
       "region": "western",
@@ -8493,7 +8493,7 @@
     {
       "id": "marilyn-manson",
       "name": "Marilyn Manson",
-      "area": "Fort Lauderdale",
+      "area": "劳德代尔堡",
       "years": "1989–",
       "countryCode": "US",
       "region": "western",
@@ -8502,7 +8502,7 @@
     {
       "id": "jack-off-jill",
       "name": "Jack Off Jill",
-      "area": "Fort Lauderdale",
+      "area": "劳德代尔堡",
       "years": "1992–2000",
       "countryCode": "US",
       "region": "western",
@@ -8538,7 +8538,7 @@
     {
       "id": "lucky-pierre",
       "name": "Lucky Pierre",
-      "area": "Cleveland",
+      "area": "克利夫兰",
       "years": "1974–",
       "countryCode": "US",
       "region": "western",
@@ -8754,7 +8754,7 @@
     {
       "id": "jakalope",
       "name": "Jakalope",
-      "area": "Vancouver",
+      "area": "温哥华",
       "years": "2003–",
       "countryCode": "CA",
       "region": "western",
@@ -8772,7 +8772,7 @@
     {
       "id": "the-tear-garden",
       "name": "The Tear Garden",
-      "area": "Vancouver",
+      "area": "温哥华",
       "years": "1986–",
       "countryCode": "CA",
       "region": "western",
@@ -8781,7 +8781,7 @@
     {
       "id": "hilt",
       "name": "Hilt",
-      "area": "Vancouver",
+      "area": "温哥华",
       "years": "1987–1996",
       "countryCode": "CA",
       "region": "western",
@@ -8799,7 +8799,7 @@
     {
       "id": "howlin-maggie",
       "name": "Howlin’ Maggie",
-      "area": "Columbus",
+      "area": "哥伦布",
       "years": "1994–2002",
       "countryCode": "US",
       "region": "western",
@@ -8835,7 +8835,7 @@
     {
       "id": "amboog-a-lard",
       "name": "Amboog-a-Lard",
-      "area": "Coral Springs",
+      "area": "科拉尔斯普林斯",
       "years": "1987–1997",
       "countryCode": "US",
       "region": "western",
@@ -8898,7 +8898,7 @@
     {
       "id": "lostprophets",
       "name": "Lostprophets",
-      "area": "Pontypridd",
+      "area": "庞蒂普里德",
       "years": "1997–2013",
       "countryCode": "GB",
       "region": "western",
@@ -8907,7 +8907,7 @@
     {
       "id": "fenix-tx",
       "name": "Fenix TX",
-      "area": "Houston",
+      "area": "休斯顿",
       "years": "1995–",
       "countryCode": "US",
       "region": "western",
@@ -8916,7 +8916,7 @@
     {
       "id": "angels-airwaves",
       "name": "Angels & Airwaves",
-      "area": "San Diego",
+      "area": "圣地亚哥",
       "years": "2005–",
       "countryCode": "US",
       "region": "western",
@@ -8925,7 +8925,7 @@
     {
       "id": "denver-harbor",
       "name": "Denver Harbor",
-      "area": "San Diego",
+      "area": "圣地亚哥",
       "years": "2002–",
       "countryCode": "US",
       "region": "western",
@@ -8970,7 +8970,7 @@
     {
       "id": "gizmodrome",
       "name": "Gizmodrome",
-      "area": "Milano",
+      "area": "米兰",
       "years": "2017–",
       "countryCode": "IT",
       "region": "western",
@@ -8988,7 +8988,7 @@
     {
       "id": "the-human-experimente",
       "name": "The Human Experimente",
-      "area": "Santa Monica",
+      "area": "圣莫尼卡",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -9024,7 +9024,7 @@
     {
       "id": "telefon-tel-aviv",
       "name": "Telefon Tel Aviv",
-      "area": "New Orleans",
+      "area": "新奥尔良",
       "years": "1999–",
       "countryCode": "US",
       "region": "western",
@@ -9033,7 +9033,7 @@
     {
       "id": "change",
       "name": "Change",
-      "area": "Bologna",
+      "area": "博洛尼亚",
       "years": "1979–1986",
       "countryCode": "IT",
       "region": "western",
@@ -9150,7 +9150,7 @@
     {
       "id": "地縛少年バンド",
       "name": "地縛少年バンド",
-      "area": null,
+      "area": "日本",
       "years": null,
       "countryCode": "JP",
       "region": "east-asia",
@@ -9159,7 +9159,7 @@
     {
       "id": "sessanta",
       "name": "Sessanta",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -9168,7 +9168,7 @@
     {
       "id": "the-bad-seeds",
       "name": "The Bad Seeds",
-      "area": null,
+      "area": "澳大利亚",
       "years": null,
       "countryCode": "AU",
       "region": "western",
@@ -9177,7 +9177,7 @@
     {
       "id": "fantômas",
       "name": "Fantômas",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -9186,7 +9186,7 @@
     {
       "id": "clinton",
       "name": "Clinton",
-      "area": null,
+      "area": "英国",
       "years": null,
       "countryCode": "GB",
       "region": "western",
@@ -9204,7 +9204,7 @@
     {
       "id": "sublime",
       "name": "Sublime",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -9213,7 +9213,7 @@
     {
       "id": "twenty-twenty",
       "name": "Twenty★Twenty",
-      "area": null,
+      "area": "日本",
       "years": null,
       "countryCode": "JP",
       "region": "east-asia",
@@ -9222,7 +9222,7 @@
     {
       "id": "starto-for-you",
       "name": "STARTO for you",
-      "area": null,
+      "area": "日本",
       "years": null,
       "countryCode": "JP",
       "region": "east-asia",
@@ -9231,7 +9231,7 @@
     {
       "id": "backstreet-boys",
       "name": "Backstreet Boys",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -9240,7 +9240,7 @@
     {
       "id": "destiny-s-child",
       "name": "Destiny’s Child",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -9249,7 +9249,7 @@
     {
       "id": "jagged-edge",
       "name": "Jagged Edge",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -9258,7 +9258,7 @@
     {
       "id": "nsync",
       "name": "*NSYNC",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -9267,7 +9267,7 @@
     {
       "id": "t-boz-and-chilli",
       "name": "T Boz and Chilli",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -9276,7 +9276,7 @@
     {
       "id": "tlc",
       "name": "TLC",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -9294,7 +9294,7 @@
     {
       "id": "ffs",
       "name": "FFS",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -9312,7 +9312,7 @@
     {
       "id": "wu-tang-killa-bees",
       "name": "Wu‐Tang Killa Bees",
-      "area": null,
+      "area": "美国",
       "years": null,
       "countryCode": "US",
       "region": "western",
@@ -9330,7 +9330,7 @@
     {
       "id": "sex-pistols",
       "name": "Sex Pistols",
-      "area": null,
+      "area": "英国",
       "years": null,
       "countryCode": "GB",
       "region": "western",
@@ -9339,7 +9339,7 @@
     {
       "id": "projekct-one",
       "name": "ProjeKct One",
-      "area": null,
+      "area": "英国",
       "years": null,
       "countryCode": "GB",
       "region": "western",
@@ -9348,7 +9348,7 @@
     {
       "id": "projekct-four",
       "name": "ProjeKct Four",
-      "area": null,
+      "area": "英国",
       "years": null,
       "countryCode": "GB",
       "region": "western",
@@ -9366,7 +9366,7 @@
     {
       "id": "projekct-x",
       "name": "ProjeKct X",
-      "area": null,
+      "area": "英国",
       "years": null,
       "countryCode": "GB",
       "region": "western",
@@ -9375,7 +9375,7 @@
     {
       "id": "21st-century-schizoid-band",
       "name": "21st Century Schizoid Band",
-      "area": null,
+      "area": "英国",
       "years": null,
       "countryCode": "GB",
       "region": "western",

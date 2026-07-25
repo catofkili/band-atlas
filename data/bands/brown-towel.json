@@ -8,6 +8,8 @@
   "years": "1985–1986",
   "genres": [],
   "albums": [],
+  "intro": "Brown Towel是一支音乐团体，活跃时期为1985–1986。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0f8e6822-3672-400c-a87c-792c7a293544"
@@ -16,7 +18,7 @@
     {
       "to": "melvins",
       "toName": "Melvins",
-      "toArea": "Montesano",
+      "toArea": "蒙特萨诺",
       "toYears": "1983–",
       "type": "member",
       "label": "Buzz Osborne",
@@ -27,7 +29,7 @@
     {
       "to": "fecal-matter",
       "toName": "Fecal Matter",
-      "toArea": "Aberdeen",
+      "toArea": "阿伯丁",
       "toYears": "1985–1986",
       "type": "member",
       "label": "Buzz Osborne",

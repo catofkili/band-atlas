@@ -2,7 +2,7 @@
   "id": "mind-funk",
   "mbid": "653f2e2e-ed6b-4844-9d27-2009559d9822",
   "name": "Mind Funk",
-  "area": "Orange County",
+  "area": "奥兰治县",
   "countryCode": "US",
   "country": "美国",
   "years": "1989–",
@@ -21,8 +21,8 @@
       "year": 1995
     }
   ],
-  "intro": "Mind Funk (spelled Mindfunk on later releases) was an American rock band, containing members of Chemical Waste and several other bands.",
-  "introLang": "en",
+  "intro": "Mind Funk（后期发行作品中拼写为Mindfunk）是一支美国摇滚乐队，成员包括来自Chemical Waste以及其他几支乐队的乐手。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/653f2e2e-ed6b-4844-9d27-2009559d9822"
@@ -75,7 +75,7 @@
     {
       "to": "old",
       "toName": "Old",
-      "toArea": "New Jersey",
+      "toArea": "新泽西州",
       "toYears": "1986–2002",
       "type": "member",
       "label": "Jason Everman",

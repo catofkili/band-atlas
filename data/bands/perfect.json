@@ -13,8 +13,8 @@
       "year": 2004
     }
   ],
-  "intro": "Perfect was an American alternative rock group formed in 1995 by Tommy Stinson, formerly of The Replacements, in Minneapolis, Minnesota following the breakup of previous group, Bash & Pop.",
-  "introLang": "en",
+  "intro": "Perfect是一支美国另类摇滚乐队，由前The Replacements乐队成员汤米·斯廷森（Tommy Stinson）于1995年在明尼苏达州明尼阿波利斯市组建，此前他所在的乐队Bash & Pop刚刚解散。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/de69798a-4d18-40e5-889e-f26580a2d62a"
@@ -100,7 +100,7 @@
     {
       "to": "the-jacks",
       "toName": "The Jacks",
-      "toArea": "Tulsa",
+      "toArea": "塔尔萨",
       "toYears": null,
       "type": "member",
       "label": "Tommy Stinson",

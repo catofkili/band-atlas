@@ -2,14 +2,13 @@
   "id": "grey-daze",
   "mbid": "cba83330-32d6-4804-8058-fcf2794afb79",
   "name": "Grey Daze",
-  "area": "Phoenix",
+  "area": "凤凰城",
   "countryCode": "US",
   "country": "美国",
   "years": "1993–",
   "genres": [
-    "Alternative Rock",
-    "Grunge",
-    "Post-Grunge"
+    "另类摇滚",
+    "后垃圾摇滚"
   ],
   "albums": [
     {
@@ -29,8 +28,8 @@
       "year": 2022
     }
   ],
-  "intro": "Grey Daze is an American rock band from Phoenix, Arizona formed in 1993.",
-  "introLang": "en",
+  "intro": "Grey Daze 是一支来自亚利桑那州菲尼克斯的美国摇滚乐队，成立于 1993 年。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cba83330-32d6-4804-8058-fcf2794afb79"
@@ -50,7 +49,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "member",
       "label": "Chester Bennington",
@@ -61,7 +60,7 @@
     {
       "to": "stone-temple-pilots",
       "toName": "Stone Temple Pilots",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "1990–",
       "type": "member",
       "label": "Chester Bennington",

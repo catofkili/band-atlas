@@ -13,6 +13,8 @@
       "year": 2000
     }
   ],
+  "intro": "Mad for the Racket是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/477490d6-3e98-41b2-9c24-b465e8ee74dc"
@@ -43,7 +45,7 @@
     {
       "to": "gizmodrome",
       "toName": "Gizmodrome",
-      "toArea": "Milano",
+      "toArea": "米兰",
       "toYears": "2017–",
       "type": "member",
       "label": "Stewart Copeland",

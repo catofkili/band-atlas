@@ -7,9 +7,8 @@
   "country": "中国",
   "years": "2005–",
   "genres": [
-    "Indie Rock",
-    "Beijing",
-    "Noise Pop"
+    "独立摇滚",
+    "噪音流行乐"
   ],
   "albums": [
     {
@@ -83,7 +82,7 @@
     {
       "to": "speak-chinese-or-die",
       "toName": "Speak Chinese or Die",
-      "toArea": "Wuhan",
+      "toArea": "武汉",
       "toYears": null,
       "type": "member",
       "label": "张守望",

@@ -7,7 +7,7 @@
   "country": "韩国",
   "years": "2005–",
   "genres": [
-    "Reggae"
+    "雷鬼"
   ],
   "albums": [
     {
@@ -19,6 +19,8 @@
       "year": 2007
     }
   ],
+  "intro": "Windy City是一支来自韩国的以雷鬼为主要风格的音乐团体，活跃时期为2005–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0450bbde-a06e-4355-bc78-5a823ff65d9c"

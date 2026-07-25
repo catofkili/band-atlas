@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "2009–",
   "genres": [
-    "Electronic",
-    "Electronic Rock",
-    "Electronica"
+    "电子音乐",
+    "电子摇滚"
   ],
   "albums": [
     {
@@ -49,7 +48,7 @@
     {
       "to": "radiohead",
       "toName": "Radiohead",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1991–",
       "type": "member",
       "label": "Thom Yorke",
@@ -82,7 +81,7 @@
     {
       "to": "the-smile",
       "toName": "The Smile",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Thom Yorke",
@@ -115,7 +114,7 @@
     {
       "to": "on-a-friday",
       "toName": "On a Friday",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1985–1991",
       "type": "member",
       "label": "Thom Yorke",

@@ -2,12 +2,14 @@
   "id": "maxwell-house-ranch-band",
   "mbid": "6deff26d-25a8-4222-839f-b8921593b99e",
   "name": "Maxwell House Ranch Band",
-  "area": "California",
+  "area": "加利福尼亚州",
   "countryCode": "US",
   "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Maxwell House Ranch Band是一支来自加利福尼亚州的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6deff26d-25a8-4222-839f-b8921593b99e"
@@ -38,7 +40,7 @@
     {
       "to": "spastik-children",
       "toName": "Spastik Children",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "James Hetfield・Cliff Burton・Kirk Hammett",
@@ -49,7 +51,7 @@
     {
       "to": "exodus",
       "toName": "Exodus",
-      "toArea": "Richmond",
+      "toArea": "里士满",
       "toYears": "1979–",
       "type": "member",
       "label": "Kirk Hammett",
@@ -60,7 +62,7 @@
     {
       "to": "flotsam-and-jetsam",
       "toName": "Flotsam and Jetsam",
-      "toArea": "Phoenix",
+      "toArea": "凤凰城",
       "toYears": "1984–",
       "type": "member",
       "label": "Eric Braverman",
@@ -82,7 +84,7 @@
     {
       "to": "agents-of-misfortune",
       "toName": "Agents Of Misfortune",
-      "toArea": "Hayward",
+      "toArea": "海沃德",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -93,7 +95,7 @@
     {
       "to": "ez-street",
       "toName": "EZ-Street",
-      "toArea": "Oakland",
+      "toArea": "奥克兰",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -126,7 +128,7 @@
     {
       "to": "the-wedding-band",
       "toName": "The Wedding Band",
-      "toArea": "Hawaii",
+      "toArea": "夏威夷",
       "toYears": "2018–",
       "type": "member",
       "label": "Kirk Hammett",
@@ -137,7 +139,7 @@
     {
       "to": "vicious-hatred",
       "toName": "Vicious Hatred",
-      "toArea": "Hayward",
+      "toArea": "海沃德",
       "toYears": "1981–1982",
       "type": "member",
       "label": "Cliff Burton",

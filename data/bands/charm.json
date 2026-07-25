@@ -2,12 +2,14 @@
   "id": "charm",
   "mbid": "c32cb576-51b8-403c-a07d-b11740f67fd7",
   "name": "CHARM",
-  "area": "Hyogo",
+  "area": "兵库",
   "countryCode": "JP",
   "country": "日本",
   "years": "1994–1996",
   "genres": [],
   "albums": [],
+  "intro": "CHARM是一支来自兵库的音乐团体，活跃时期为1994–1996。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c32cb576-51b8-403c-a07d-b11740f67fd7"

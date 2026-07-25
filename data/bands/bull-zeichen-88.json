@@ -7,7 +7,7 @@
   "country": "日本",
   "years": null,
   "genres": [
-    "Visual Kei"
+    "视觉系"
   ],
   "albums": [
     {
@@ -19,8 +19,8 @@
       "year": 2018
     }
   ],
-  "intro": "BULL ZEICHEN 88は、日本のロックバンド。",
-  "introLang": "ja",
+  "intro": "BULL ZEICHEN 88是一支日本摇滚乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a3e106e0-d406-492b-929d-049ccd598f0d"

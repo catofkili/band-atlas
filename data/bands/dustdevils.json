@@ -21,8 +21,8 @@
       "year": 1990
     }
   ],
-  "intro": "The Dustdevils (sometimes styled as DustDevils, Dust Devils, or DUSTdevils) were a noise rock band based out of New York City for most of its existence.",
-  "introLang": "en",
+  "intro": "The Dustdevils（有时也写作 DustDevils、Dust Devils 或 DUSTdevils）是一支噪音摇滚乐队，在其大部分活动期间都以纽约市为据点。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4a9d8c32-a22c-4712-8fa2-286d78f9458f"
@@ -42,7 +42,7 @@
     {
       "to": "pavement",
       "toName": "Pavement",
-      "toArea": "Stockton",
+      "toArea": "斯托克顿",
       "toYears": "1989–2000",
       "type": "member",
       "label": "Mark Ibold",

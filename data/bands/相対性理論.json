@@ -7,8 +7,8 @@
   "country": "日本",
   "years": "2006–",
   "genres": [
-    "Rock",
-    "_private Tag 1"
+    "摇滚",
+    "_private 标签 1"
   ],
   "albums": [
     {
@@ -108,7 +108,7 @@
     {
       "to": "violent-magic-orchestra",
       "toName": "Violent Magic Orchestra",
-      "toArea": "[Worldwide]",
+      "toArea": "[全球]",
       "toYears": "2016–",
       "type": "member",
       "label": "真部脩一",

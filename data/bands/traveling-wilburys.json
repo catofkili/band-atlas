@@ -2,14 +2,14 @@
   "id": "traveling-wilburys",
   "mbid": "4387b544-e4d0-4f18-b74e-d4a5ba1582ab",
   "name": "Traveling Wilburys",
-  "area": "Malibu",
+  "area": "马里布",
   "countryCode": "US",
   "country": "美国",
   "years": "1988–1990",
   "genres": [
-    "Classic Rock",
-    "Country Rock",
-    "Folk Rock"
+    "经典摇滚",
+    "乡村摇滚",
+    "民谣摇滚"
   ],
   "albums": [
     {
@@ -91,7 +91,7 @@
     {
       "to": "the-beat-brothers",
       "toName": "The Beat Brothers",
-      "toArea": "Hamburg",
+      "toArea": "汉堡",
       "toYears": "1961–",
       "type": "member",
       "label": "George Harrison",

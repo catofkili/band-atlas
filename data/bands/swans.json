@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1982–",
   "genres": [
-    "Noise Rock",
-    "Post-Punk",
-    "Experimental"
+    "噪音摇滚",
+    "后朋克",
+    "实验音乐"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1987
     }
   ],
-  "intro": "スワンズ (Swans) は、アメリカ合衆国のポストパンク・バンド。1982年にシンガー・ソングライターで楽器演奏もこなすマイケル・ジラが結成。",
-  "introLang": "ja",
+  "intro": "Swans 是一支来自美国的后朋克乐队。1982年由身兼创作歌手和乐器演奏者的迈克尔·吉拉组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3285dc48-9505-469d-ad8a-bdf2d3dba632"
@@ -80,7 +80,7 @@
     {
       "to": "godflesh",
       "toName": "Godflesh",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1988–",
       "type": "member",
       "label": "Ted Parsons",
@@ -113,7 +113,7 @@
     {
       "to": "kidbug",
       "toName": "Kidbug",
-      "toArea": "Indianapolis",
+      "toArea": "印第安纳波利斯",
       "toYears": "2019–",
       "type": "member",
       "label": "Thor Harris",

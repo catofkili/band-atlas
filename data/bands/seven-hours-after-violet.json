@@ -7,9 +7,8 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "Metal",
-    "Alternative Metal",
-    "Hardcore"
+    "金属",
+    "另类金属"
   ],
   "albums": [
     {
@@ -17,8 +16,8 @@
       "year": 2024
     }
   ],
-  "intro": "Seven Hours After Violet is an American metalcore band formed by System of a Down bassist Shavo Odadjian in 2024.",
-  "introLang": "en",
+  "intro": "Seven Hours After Violet 是一支美国金属核乐队，由 System of a Down 的贝斯手 Shavo Odadjian 于 2024 年组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f3bf94d3-8cff-4d43-a5c4-e34da969148d"
@@ -27,7 +26,7 @@
     {
       "to": "system-of-a-down",
       "toName": "System of a Down",
-      "toArea": "Glendale",
+      "toArea": "格伦代尔",
       "toYears": "1995–",
       "type": "member",
       "label": "Shavo Odadjian",

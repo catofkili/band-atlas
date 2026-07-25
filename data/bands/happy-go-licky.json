@@ -13,8 +13,8 @@
       "year": 1997
     }
   ],
-  "intro": "Happy Go Licky was an American post-hardcore band formed in the spring of 1987, and which broke up after their final show at Washington, D.",
-  "introLang": "en",
+  "intro": "Happy Go Licky 是一支成立于 1987 年春季的美国后硬核乐队，在华盛顿特区举行的最后一场演出后解散。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4c18be5e-2e53-41a4-a4a1-d9080ff88f8c"
@@ -56,7 +56,7 @@
     {
       "to": "silver-jews",
       "toName": "Silver Jews",
-      "toArea": "Charlottesville",
+      "toArea": "夏洛茨维尔",
       "toYears": "1989–2009",
       "type": "member",
       "label": "Mike Fellows",

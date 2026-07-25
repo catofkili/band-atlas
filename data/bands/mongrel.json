@@ -13,8 +13,8 @@
       "year": 2009
     }
   ],
-  "intro": "Mongrel were a British supergroup formed in 2008, founded by former Arctic Monkeys bassist Andy Nicholson.",
-  "introLang": "en",
+  "intro": "Mongrel是一支成立于2008年的英国超级乐队，由前Arctic Monkeys贝斯手安迪·尼科尔森（Andy Nicholson）创立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/496f3f84-b42f-470e-9358-9e2c047b0335"
@@ -34,7 +34,7 @@
     {
       "to": "arctic-monkeys",
       "toName": "Arctic Monkeys",
-      "toArea": "High Green",
+      "toArea": "英国",
       "toYears": "2002–",
       "type": "member",
       "label": "Andy Nicholson・Matt Helders",

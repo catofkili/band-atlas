@@ -2,13 +2,13 @@
   "id": "fenix-tx",
   "mbid": "cec8cd6a-e3e6-464d-a3e1-ed4ab9953c9a",
   "name": "Fenix TX",
-  "area": "Houston",
+  "area": "休斯顿",
   "countryCode": "US",
   "country": "美国",
   "years": "1995–",
   "genres": [
-    "Pop Punk",
-    "Punk Rock"
+    "流行朋克",
+    "朋克摇滚"
   ],
   "albums": [
     {
@@ -24,8 +24,8 @@
       "year": 2001
     }
   ],
-  "intro": "Fenix TX (styled as Fenix*TX) is an American pop punk band.",
-  "introLang": "en",
+  "intro": "Fenix TX（标注为 Fenix*TX）是一支美国流行朋克乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cec8cd6a-e3e6-464d-a3e1-ed4ab9953c9a"
@@ -34,7 +34,7 @@
     {
       "to": "angels-airwaves",
       "toName": "Angels & Airwaves",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "2005–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -45,7 +45,7 @@
     {
       "to": "lostprophets",
       "toName": "Lostprophets",
-      "toArea": "Pontypridd",
+      "toArea": "庞蒂普里德",
       "toYears": "1997–2013",
       "type": "member",
       "label": "Ilan Rubin",
@@ -56,7 +56,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -67,7 +67,7 @@
     {
       "to": "denver-harbor",
       "toName": "Denver Harbor",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "2002–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -78,7 +78,7 @@
     {
       "to": "the-jaded-hearts-club",
       "toName": "The Jaded Hearts Club",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "2018–",
       "type": "member",
       "label": "Ilan Rubin",

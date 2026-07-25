@@ -17,8 +17,8 @@
       "year": 2002
     }
   ],
-  "intro": "Mt.",
-  "introLang": "en",
+  "intro": "The Apex Theory是一支音乐团体，活跃时期为1999–。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a5f70944-d149-44e2-9d20-40f75a59d1ab"
@@ -27,7 +27,7 @@
     {
       "to": "system-of-a-down",
       "toName": "System of a Down",
-      "toArea": "Glendale",
+      "toArea": "格伦代尔",
       "toYears": "1995–",
       "type": "member",
       "label": "Andy Khatchaturian",

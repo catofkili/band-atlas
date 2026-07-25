@@ -7,10 +7,12 @@
   "country": "日本",
   "years": "2017–",
   "genres": [
-    "Solo",
-    "Visual Kei"
+    "独奏",
+    "视觉系"
   ],
   "albums": [],
+  "intro": "SERAPH是一支来自日本的以独奏、视觉系为主要风格的音乐团体，活跃时期为2017–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d1624165-fab1-45c9-98f0-b1e956adc1c9"

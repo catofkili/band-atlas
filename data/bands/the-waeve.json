@@ -7,9 +7,9 @@
   "country": "英国",
   "years": null,
   "genres": [
-    "Alternative Rock",
-    "Indie Rock",
-    "Singer-Songwriter"
+    "另类摇滚",
+    "独立摇滚",
+    "唱作人"
   ],
   "albums": [
     {
@@ -21,6 +21,8 @@
       "year": 2024
     }
   ],
+  "intro": "The WAEVE是一支来自英国的以另类摇滚、独立摇滚为主要风格的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e6e16ae8-4867-49f4-a877-30ade1ba58cd"
@@ -40,7 +42,7 @@
     {
       "to": "the-jaded-hearts-club",
       "toName": "The Jaded Hearts Club",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "2018–",
       "type": "member",
       "label": "Graham Coxon",
@@ -51,7 +53,7 @@
     {
       "to": "seymour",
       "toName": "Seymour",
-      "toArea": "Colchester",
+      "toArea": "科尔切斯特",
       "toYears": "1989–1990",
       "type": "member",
       "label": "Graham Coxon",

@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1986–",
   "genres": [
-    "Glam Metal",
-    "Hard Rock",
-    "Heavy Metal"
+    "华丽金属",
+    "硬摇滚",
+    "重金属"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 2009
     }
   ],
-  "intro": "BulletBoys is an American hard rock/glam metal band formed in Los Angeles in 1987.",
-  "introLang": "en",
+  "intro": "BulletBoys 是一支成立于 1987 年洛杉矶的美国硬摇滚/华丽金属乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/210c57b3-91dc-48db-9487-97f30719ea81"

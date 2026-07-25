@@ -7,7 +7,7 @@
   "country": "英国",
   "years": "2005–",
   "genres": [
-    "Rock"
+    "摇滚"
   ],
   "albums": [
     {
@@ -35,8 +35,8 @@
       "year": 2017
     }
   ],
-  "intro": "Reverend and the Makers are an English rock band from Sheffield, South Yorkshire.",
-  "introLang": "en",
+  "intro": "Reverend and the Makers 是一支来自南约克郡谢菲尔德的英国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e472c434-9eb9-41d3-b493-0d2f115faed2"
@@ -56,7 +56,7 @@
     {
       "to": "arctic-monkeys",
       "toName": "Arctic Monkeys",
-      "toArea": "High Green",
+      "toArea": "英国",
       "toYears": "2002–",
       "type": "member",
       "label": "Andy Nicholson",

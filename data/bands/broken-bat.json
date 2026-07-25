@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Broken Bat是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7e2b4350-4c9a-446a-8630-e51a5a10b324"
@@ -16,7 +18,7 @@
     {
       "to": "redd-kross",
       "toName": "Redd Kross",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1980–",
       "type": "member",
       "label": "Steve McDonald",
@@ -38,7 +40,7 @@
     {
       "to": "the-tater-totz",
       "toName": "The Tater Totz",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1987–",
       "type": "member",
       "label": "Steve McDonald",

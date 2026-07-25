@@ -2,14 +2,14 @@
   "id": "nine-inch-nails",
   "mbid": "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
   "name": "Nine Inch Nails",
-  "area": "Cleveland",
+  "area": "克利夫兰",
   "countryCode": "US",
   "country": "美国",
   "years": "1988–",
   "genres": [
-    "Industrial Rock",
-    "Industrial",
-    "Alternative Rock"
+    "工业摇滚",
+    "工业音乐",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -80,7 +80,7 @@
     {
       "to": "angels-airwaves",
       "toName": "Angels & Airwaves",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "2005–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -91,7 +91,7 @@
     {
       "to": "change",
       "toName": "Change",
-      "toArea": "Bologna",
+      "toArea": "博洛尼亚",
       "toYears": "1979–1986",
       "type": "member",
       "label": "Lisa Fischer",
@@ -102,7 +102,7 @@
     {
       "to": "filter",
       "toName": "Filter",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1993–",
       "type": "member",
       "label": "Richard Patrick",
@@ -113,7 +113,7 @@
     {
       "to": "lostprophets",
       "toName": "Lostprophets",
-      "toArea": "Pontypridd",
+      "toArea": "庞蒂普里德",
       "toYears": "1997–2013",
       "type": "member",
       "label": "Ilan Rubin",
@@ -124,7 +124,7 @@
     {
       "to": "marilyn-manson",
       "toName": "Marilyn Manson",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1989–",
       "type": "member",
       "label": "Jeordie White",
@@ -179,7 +179,7 @@
     {
       "to": "the-tear-garden",
       "toName": "The Tear Garden",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1986–",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -201,7 +201,7 @@
     {
       "to": "hilt",
       "toName": "Hilt",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1987–1996",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -212,7 +212,7 @@
     {
       "to": "telefon-tel-aviv",
       "toName": "Telefon Tel Aviv",
-      "toArea": "New Orleans",
+      "toArea": "新奥尔良",
       "toYears": "1999–",
       "type": "member",
       "label": "Joshua Eustis",
@@ -223,7 +223,7 @@
     {
       "to": "desert-sessions",
       "toName": "Desert Sessions",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1997–",
       "type": "member",
       "label": "Jeordie White",
@@ -234,7 +234,7 @@
     {
       "to": "fenix-tx",
       "toName": "Fenix TX",
-      "toArea": "Houston",
+      "toArea": "休斯顿",
       "toYears": "1995–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -256,7 +256,7 @@
     {
       "to": "jakalope",
       "toName": "Jakalope",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "2003–",
       "type": "member",
       "label": "Dave Ogilvie",
@@ -311,7 +311,7 @@
     {
       "to": "amboog-a-lard",
       "toName": "Amboog-a-Lard",
-      "toArea": "Coral Springs",
+      "toArea": "科拉尔斯普林斯",
       "toYears": "1987–1997",
       "type": "member",
       "label": "Jeordie White",
@@ -344,7 +344,7 @@
     {
       "to": "howlin-maggie",
       "toName": "Howlin’ Maggie",
-      "toArea": "Columbus",
+      "toArea": "哥伦布",
       "toYears": "1994–2002",
       "type": "member",
       "label": "Jerome Dillon",
@@ -410,7 +410,7 @@
     {
       "to": "denver-harbor",
       "toName": "Denver Harbor",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "2002–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -476,7 +476,7 @@
     {
       "to": "lucky-pierre",
       "toName": "Lucky Pierre",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1974–",
       "type": "member",
       "label": "Kevin McMahon",
@@ -498,7 +498,7 @@
     {
       "to": "the-jaded-hearts-club",
       "toName": "The Jaded Hearts Club",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "2018–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -641,7 +641,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "influence",
       "label": "影响关系",
@@ -652,7 +652,7 @@
     {
       "to": "lostprophets",
       "toName": "Lostprophets",
-      "toArea": "Pontypridd",
+      "toArea": "庞蒂普里德",
       "toYears": "1997–2013",
       "type": "influence",
       "label": "影响关系",

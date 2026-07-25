@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "1997–",
   "genres": [
-    "Alternative Rock",
-    "Hard Rock"
+    "另类摇滚",
+    "硬摇滚"
   ],
   "albums": [
     {
@@ -28,8 +28,8 @@
       "year": 2007
     }
   ],
-  "intro": "The Exies is an American rock band from Los Angeles, formed in 1997.",
-  "introLang": "en",
+  "intro": "The Exies 是一支来自洛杉矶的美国摇滚乐队，成立于 1997 年。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/97e3f316-ec68-47f2-b870-bb4bd0a61f08"

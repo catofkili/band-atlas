@@ -7,8 +7,7 @@
   "country": "日本",
   "years": "1986–",
   "genres": [
-    "J-Pop",
-    "Shibuya-Kei"
+    "涩谷系"
   ],
   "albums": [
     {
@@ -36,8 +35,8 @@
       "year": 1997
     }
   ],
-  "intro": "Original Loveは、日本の音楽ユニット。1985年結成。1991年にメジャー・デビュー。結成当初4人、メジャー・デビュー時は5人のバンドだったが1995年以降、田島貴男のソロユニットとして活動。",
-  "introLang": "ja",
+  "intro": "Original Love是日本的一支音乐组合。成立于1985年，1991年正式出道。组合成立之初有4名成员，出道时为5人组合，但自1995年起，作为田岛贵男的个人组合继续活动。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/da1b555e-946c-4e5f-bfe3-dedd6102cdd2"

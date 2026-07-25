@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "2017–",
   "genres": [
-    "Progressive Metal",
-    "Alternative Metal",
-    "Hard Rock"
+    "前卫金属",
+    "另类金属",
+    "硬摇滚"
   ],
   "albums": [
     {
@@ -21,8 +21,8 @@
       "year": 2020
     }
   ],
-  "intro": "サンズ・オブ・アポロは、アメリカ合衆国出身のプログレッシブ・メタル・スーパーグループである。",
-  "introLang": "ja",
+  "intro": "Sons of Apollo是一支来自美国的 progresive metal 超级乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b858e183-b29c-493a-92bd-9474f1e6590d"

@@ -2,12 +2,12 @@
   "id": "giants-in-the-trees",
   "mbid": "3b9d785f-8188-4397-9f7b-5ed3828cb32e",
   "name": "Giants in the Trees",
-  "area": "Wahkiakum County",
+  "area": "瓦基阿库姆县",
   "countryCode": "US",
   "country": "美国",
   "years": "2017–",
   "genres": [
-    "Rock"
+    "摇滚"
   ],
   "albums": [
     {
@@ -19,8 +19,8 @@
       "year": 2019
     }
   ],
-  "intro": "Giants in the Trees was an American rock band formed in Wahkiakum County, Washington, in 2017.",
-  "introLang": "en",
+  "intro": "Giants in the Trees 是一支美国摇滚乐队，于 2017 年在华盛顿州的瓦基阿库姆县成立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3b9d785f-8188-4397-9f7b-5ed3828cb32e"

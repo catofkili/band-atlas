@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1991–2024",
   "genres": [
-    "Alternative Metal",
-    "Rap Metal",
-    "Funk Metal"
+    "另类金属",
+    "说唱金属",
+    "放克金属"
   ],
   "albums": [
     {
@@ -65,7 +65,7 @@
     {
       "to": "audioslave",
       "toName": "Audioslave",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "member",
       "label": "副项目",
@@ -120,7 +120,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",
@@ -153,7 +153,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "influence",
       "label": "影响关系",
@@ -164,7 +164,7 @@
     {
       "to": "muse",
       "toName": "Muse",
-      "toArea": "Teignmouth",
+      "toArea": "泰恩茅斯",
       "toYears": "1994–",
       "type": "influence",
       "label": "影响关系",
@@ -175,7 +175,7 @@
     {
       "to": "primus",
       "toName": "Primus",
-      "toArea": "El Sobrante",
+      "toArea": "埃尔·索布兰特",
       "toYears": "1984–",
       "type": "influence",
       "label": "影响关系",
@@ -197,7 +197,7 @@
     {
       "to": "slipknot",
       "toName": "Slipknot",
-      "toArea": "Des Moines",
+      "toArea": "得梅因",
       "toYears": "1995–",
       "type": "influence",
       "label": "影响关系",

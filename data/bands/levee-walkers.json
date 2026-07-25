@@ -7,11 +7,12 @@
   "country": "美国",
   "years": "2015–",
   "genres": [
-    "Alternative Rock",
-    "Grunge",
-    "Post-Grunge"
+    "另类摇滚",
+    "后垃圾摇滚"
   ],
   "albums": [],
+  "intro": "Levee Walkers是一支来自西雅图的以另类摇滚、后垃圾摇滚为主要风格的音乐团体，活跃时期为2015–。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d4123128-b8a7-4b1d-8ae9-2943ed867c8c"

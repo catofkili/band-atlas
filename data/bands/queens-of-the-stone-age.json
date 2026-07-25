@@ -2,14 +2,14 @@
   "id": "queens-of-the-stone-age",
   "mbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
   "name": "Queens of the Stone Age",
-  "area": "Palm Desert",
+  "area": "棕榈沙漠",
   "countryCode": "US",
   "country": "美国",
   "years": "1996–",
   "genres": [
-    "Stoner Rock",
-    "Hard Rock",
-    "Alternative Rock"
+    "迷幻摇滚",
+    "硬摇滚",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -47,7 +47,7 @@
     {
       "to": "desert-sessions",
       "toName": "Desert Sessions",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1997–",
       "type": "member",
       "label": "Josh Homme・Dave Catching・Mark Lanegan・Joey Castillo・Troy Van Leeuwen・Alain Johannes",
@@ -80,7 +80,7 @@
     {
       "to": "the-wedding-band",
       "toName": "The Wedding Band",
-      "toArea": "Hawaii",
+      "toArea": "夏威夷",
       "toYears": "2018–",
       "type": "member",
       "label": "Joey Castillo・Jon Theodore",
@@ -102,7 +102,7 @@
     {
       "to": "redd-kross",
       "toName": "Redd Kross",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1980–",
       "type": "member",
       "label": "Victor Indrizzo",
@@ -113,7 +113,7 @@
     {
       "to": "samiam",
       "toName": "Samiam",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1988–",
       "type": "member",
       "label": "Victor Indrizzo",
@@ -135,7 +135,7 @@
     {
       "to": "the-mars-volta",
       "toName": "The Mars Volta",
-      "toArea": "El Paso",
+      "toArea": "埃尔帕索",
       "toYears": "2001–",
       "type": "member",
       "label": "Jon Theodore",
@@ -168,7 +168,7 @@
     {
       "to": "the-tater-totz",
       "toName": "The Tater Totz",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1987–",
       "type": "member",
       "label": "Victor Indrizzo",
@@ -245,7 +245,7 @@
     {
       "to": "gown",
       "toName": "Gown",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "member",
       "label": "副项目",

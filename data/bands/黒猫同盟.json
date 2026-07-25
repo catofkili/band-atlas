@@ -17,6 +17,8 @@
       "year": 2024
     }
   ],
+  "intro": "黒猫同盟是一支来自日本的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/80c3801d-ee57-402b-986a-bf725a884d62"

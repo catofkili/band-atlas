@@ -2,12 +2,14 @@
   "id": "ft-triple",
   "mbid": "5161da96-f881-4852-9ecd-ac5c0e7ba3cb",
   "name": "FT.triple",
-  "area": null,
+  "area": "韩国",
   "countryCode": "KR",
   "country": "韩国",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "FT.triple是一支来自韩国的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5161da96-f881-4852-9ecd-ac5c0e7ba3cb"

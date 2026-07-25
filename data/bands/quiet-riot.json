@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1973–",
   "genres": [
-    "Hard Rock",
-    "Glam Metal",
-    "Heavy Metal"
+    "硬摇滚",
+    "华丽金属",
+    "重金属"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1986
     }
   ],
-  "intro": "クワイエット・ライオットは、アメリカ合衆国出身のハードロック・バンド。 1980年代に確立するヘヴィメタル・シーンにおいて、最初期に全米チャート1位を獲得した草分け的グループ。",
-  "introLang": "ja",
+  "intro": "Quiet Riot是一支来自美国的硬摇滚乐队。在20世纪80年代逐渐成形的重金属乐坛中，他们是最早跻身全美排行榜榜首的先驱乐队之一。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5c6acb91-4b9b-4245-b92f-e817295c4ed0"
@@ -102,7 +102,7 @@
     {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1968–2025",
       "type": "member",
       "label": "Bob Rondinelli",
@@ -179,7 +179,7 @@
     {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1968–2025",
       "type": "influence",
       "label": "影响关系",
@@ -190,7 +190,7 @@
     {
       "to": "iron-maiden",
       "toName": "Iron Maiden",
-      "toArea": "Leyton",
+      "toArea": "莱顿",
       "toYears": "1975–",
       "type": "influence",
       "label": "影响关系",

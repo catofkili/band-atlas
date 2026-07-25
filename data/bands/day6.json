@@ -7,9 +7,8 @@
   "country": "韩国",
   "years": "2015–",
   "genres": [
-    "Pop Rock",
-    "K-Pop",
-    "Rock"
+    "流行摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -43,7 +42,7 @@
     {
       "to": "day6-even-of-day",
       "toName": "DAY6 (Even of Day)",
-      "toArea": null,
+      "toArea": "韩国",
       "toYears": null,
       "type": "member",
       "label": "副项目",

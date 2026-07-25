@@ -7,8 +7,8 @@
   "country": "英国",
   "years": "1988–",
   "genres": [
-    "Britpop",
-    "Alternative Rock"
+    "英伦摇滚",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -55,7 +55,7 @@
     {
       "to": "seymour",
       "toName": "Seymour",
-      "toArea": "Colchester",
+      "toArea": "科尔切斯特",
       "toYears": "1989–1990",
       "type": "member",
       "label": "Damon Albarn・Graham Coxon・Alex James・Dave Rowntree",
@@ -110,7 +110,7 @@
     {
       "to": "the-jaded-hearts-club",
       "toName": "The Jaded Hearts Club",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "2018–",
       "type": "member",
       "label": "Graham Coxon",

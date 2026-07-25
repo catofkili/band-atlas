@@ -7,9 +7,8 @@
   "country": "日本",
   "years": "2021–",
   "genres": [
-    "Alternative Metal",
-    "Nu Metal",
-    "Visual Kei"
+    "另类金属",
+    "视觉系"
   ],
   "albums": [
     {
@@ -21,6 +20,8 @@
       "year": 2024
     }
   ],
+  "intro": "Petit Brabancon是一支来自日本的以另类金属、视觉系为主要风格的音乐团体，活跃时期为2021–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b278ff00-d354-468e-bec5-28aa24b7b7c4"
@@ -62,7 +63,7 @@
     {
       "to": "mucc",
       "toName": "MUCC",
-      "toArea": "Ibaraki",
+      "toArea": "茨城",
       "toYears": "1997–",
       "type": "member",
       "label": "ミヤ",

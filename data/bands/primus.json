@@ -2,14 +2,14 @@
   "id": "primus",
   "mbid": "84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2",
   "name": "Primus",
-  "area": "El Sobrante",
+  "area": "埃尔·索布兰特",
   "countryCode": "US",
   "country": "美国",
   "years": "1984–",
   "genres": [
-    "Funk Metal",
-    "Alternative Rock",
-    "Funk Rock"
+    "放克金属",
+    "另类摇滚",
+    "放克摇滚"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1999
     }
   ],
-  "intro": "プライマスは、アメリカ合衆国出身のオルタナティヴ・ロック・バンド。 主宰者レス・クレイプールの高度なベース・テクニックと、幅広いジャンルの音楽を吸収したサウンドを持ち味としている。",
-  "introLang": "ja",
+  "intro": "普莱马斯（Primus）是一支来自美国的另类摇滚乐队。其特色在于主唱莱斯·克雷普尔（Les Claypool）高超的贝斯演奏技巧，以及融合了多种音乐流派的独特音色。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2"
@@ -113,7 +113,7 @@
     {
       "to": "les-claypool-and-the-holy-mackerel",
       "toName": "Les Claypool and the Holy Mackerel",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1996–1996",
       "type": "member",
       "label": "Les Claypool",
@@ -157,7 +157,7 @@
     {
       "to": "slipknot",
       "toName": "Slipknot",
-      "toArea": "Des Moines",
+      "toArea": "得梅因",
       "toYears": "1995–",
       "type": "influence",
       "label": "影响关系",
@@ -168,7 +168,7 @@
     {
       "to": "sessanta",
       "toName": "Sessanta",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "member",
       "label": "副项目",

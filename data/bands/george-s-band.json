@@ -8,8 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "コンサート・フォー・ジョージは、2002年11月29日、ロイヤル・アルバート・ホールで開催された、元ビートルズのメンバー、ジョージ・ハリスンへの追悼公演である。",
-  "introLang": "ja",
+  "intro": "“为乔治而唱”音乐会是2002年11月29日在皇家阿尔伯特音乐厅举办的一场纪念前披头士乐队成员乔治·哈里森的追悼音乐会。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0663c2de-16ec-4637-a759-2c31c553c554"
@@ -29,7 +29,7 @@
     {
       "to": "traveling-wilburys",
       "toName": "Traveling Wilburys",
-      "toArea": "Malibu",
+      "toArea": "马里布",
       "toYears": "1988–1990",
       "type": "member",
       "label": "Jim Keltner・Jeff Lynne・Tom Petty・Dhani Harrison",

@@ -2,14 +2,14 @@
   "id": "the-cure",
   "mbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
   "name": "The Cure",
-  "area": "Crawley",
+  "area": "克劳利",
   "countryCode": "GB",
   "country": "英国",
   "years": "1977–",
   "genres": [
-    "Gothic Rock",
-    "New Wave",
-    "Post-Punk"
+    "哥特摇滚",
+    "新浪潮",
+    "后朋克"
   ],
   "albums": [
     {
@@ -58,7 +58,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",
@@ -69,7 +69,7 @@
     {
       "to": "lostprophets",
       "toName": "Lostprophets",
-      "toArea": "Pontypridd",
+      "toArea": "庞蒂普里德",
       "toYears": "1997–2013",
       "type": "influence",
       "label": "影响关系",

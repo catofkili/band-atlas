@@ -2,14 +2,13 @@
   "id": "slipknot",
   "mbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
   "name": "Slipknot",
-  "area": "Des Moines",
+  "area": "得梅因",
   "countryCode": "US",
   "country": "美国",
   "years": "1995–",
   "genres": [
-    "Nu Metal",
-    "Alternative Metal",
-    "Metal"
+    "另类金属",
+    "金属"
   ],
   "albums": [
     {
@@ -91,7 +90,7 @@
     {
       "to": "look-outside-your-window",
       "toName": "Look Outside Your Window",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "guest",
       "label": "合作",
@@ -102,7 +101,7 @@
     {
       "to": "black-sabbath",
       "toName": "Black Sabbath",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1968–2025",
       "type": "influence",
       "label": "影响关系",
@@ -124,7 +123,7 @@
     {
       "to": "primus",
       "toName": "Primus",
-      "toArea": "El Sobrante",
+      "toArea": "埃尔·索布兰特",
       "toYears": "1984–",
       "type": "influence",
       "label": "影响关系",

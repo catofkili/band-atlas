@@ -2,7 +2,7 @@
   "id": "sublime",
   "mbid": "95f5b748-d370-47fe-85bd-0af2dc450bc0",
   "name": "Sublime",
-  "area": null,
+  "area": "美国",
   "countryCode": "US",
   "country": "美国",
   "years": null,
@@ -25,8 +25,8 @@
       "year": 2026
     }
   ],
-  "intro": "サブライムは、アメリカ合衆国のロックバンド。",
-  "introLang": "ja",
+  "intro": "Sublime是一支来自美国的摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0"
@@ -35,7 +35,7 @@
     {
       "to": "sublime-with-rome",
       "toName": "Sublime with Rome",
-      "toArea": "Long Beach",
+      "toArea": "长滩",
       "toYears": "2009–2024",
       "type": "member",
       "label": "副项目",

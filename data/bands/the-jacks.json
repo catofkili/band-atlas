@@ -2,12 +2,14 @@
   "id": "the-jacks",
   "mbid": "974d2bc7-9f6a-409b-92a0-e9b7d6d9319f",
   "name": "The Jacks",
-  "area": "Tulsa",
+  "area": "塔尔萨",
   "countryCode": "US",
   "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "The Jacks是一支来自塔尔萨的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/974d2bc7-9f6a-409b-92a0-e9b7d6d9319f"

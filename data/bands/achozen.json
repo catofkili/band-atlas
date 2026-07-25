@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "2005–",
   "genres": [
-    "Hip Hop"
+    "嘻哈"
   ],
   "albums": [
     {
@@ -15,8 +15,8 @@
       "year": 2015
     }
   ],
-  "intro": "Achozen ([pronounced: UH-choh-zen]) (occasionally typeset as AcHoZeN) is a supergroup by System of a Down bassist Shavo Odadjian, Wu-Tang Clan member RZA, Killarmy member Kinetic 9, and Wu-Tang Clan affiliate Reverend William Burke.",
-  "introLang": "en",
+  "intro": "Achozen（[发音：UH-choh-zen]）（有时也拼写为 AcHoZeN）是由 System of a Down 贝斯手 Shavo Odadjian 组建的超级乐队， “武当帮”（Wu-Tang Clan）成员RZA、“Killarmy”成员Kinetic 9，以及“武当帮”关联艺人威廉·伯克牧师（Reverend William Burke）共同组建的超级乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/416e1f41-2c04-493c-a61f-ea34d1ee8ef8"
@@ -25,7 +25,7 @@
     {
       "to": "system-of-a-down",
       "toName": "System of a Down",
-      "toArea": "Glendale",
+      "toArea": "格伦代尔",
       "toYears": "1995–",
       "type": "member",
       "label": "Shavo Odadjian",
@@ -69,7 +69,7 @@
     {
       "to": "wu-tang-killa-bees",
       "toName": "Wu‐Tang Killa Bees",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "member",
       "label": "副项目",

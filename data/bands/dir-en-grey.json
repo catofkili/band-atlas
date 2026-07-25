@@ -7,9 +7,9 @@
   "country": "日本",
   "years": "1997–",
   "genres": [
-    "Metal",
-    "Visual Kei",
-    "Japanese Band"
+    "金属",
+    "视觉系",
+    "日本乐队"
   ],
   "albums": [
     {
@@ -69,7 +69,7 @@
     {
       "to": "charm",
       "toName": "CHARM",
-      "toArea": "Hyogo",
+      "toArea": "兵库",
       "toYears": "1994–1996",
       "type": "member",
       "label": "薫",
@@ -80,7 +80,7 @@
     {
       "to": "gosick",
       "toName": "GOSICK",
-      "toArea": "Nagano",
+      "toArea": "长野",
       "toYears": null,
       "type": "member",
       "label": "Toshiya",

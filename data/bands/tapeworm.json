@@ -8,8 +8,8 @@
   "years": "1996–2004",
   "genres": [],
   "albums": [],
-  "intro": "Tapeworm was an American side project of Nine Inch Nails which existed in various forms from 1995 to roughly 2004.",
-  "introLang": "en",
+  "intro": "Tapeworm 是九寸钉（Nine Inch Nails）的一个美国分支项目，从1995年到大约2004年期间以多种形式存在。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0cb4663d-70a1-4fcd-96ff-8674cb51b7d3"
@@ -18,7 +18,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Charlie Clouser・Atticus Ross",
@@ -106,7 +106,7 @@
     {
       "to": "the-human-experimente",
       "toName": "The Human Experimente",
-      "toArea": "Santa Monica",
+      "toArea": "圣莫尼卡",
       "toYears": null,
       "type": "member",
       "label": "Maynard James Keenan",

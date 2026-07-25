@@ -2,12 +2,14 @@
   "id": "凡風",
   "mbid": "b8b6d7cb-3900-47f0-aba4-74ecc8443b08",
   "name": "凡風",
-  "area": "Hong Kong",
+  "area": "香港",
   "countryCode": "HK",
   "country": "香港",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "凡風是一支来自香港的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b8b6d7cb-3900-47f0-aba4-74ecc8443b08"
@@ -16,7 +18,7 @@
     {
       "to": "小島",
       "toName": "小島",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": "1985–1986",
       "type": "member",
       "label": "區新明",
@@ -27,7 +29,7 @@
     {
       "to": "小島樂隊",
       "toName": "小島樂隊",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": "1985–1986",
       "type": "member",
       "label": "區新明",

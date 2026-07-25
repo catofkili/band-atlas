@@ -13,8 +13,8 @@
       "year": 2008
     }
   ],
-  "intro": "Science Faxtion is an American experimental metal band that formed in California in 2007.",
-  "introLang": "en",
+  "intro": "Science Faxtion 是一支美国实验金属乐队，于 2007 年在加利福尼亚州成立。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2b4f3e93-f1e9-46e8-a78a-3edb7b7fe2b1"
@@ -23,7 +23,7 @@
     {
       "to": "funkadelic",
       "toName": "Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1981",
       "type": "member",
       "label": "Bootsy Collins",
@@ -34,7 +34,7 @@
     {
       "to": "parliament",
       "toName": "Parliament",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1980",
       "type": "member",
       "label": "Bootsy Collins",
@@ -45,7 +45,7 @@
     {
       "to": "praxis",
       "toName": "Praxis",
-      "toArea": "Brooklyn",
+      "toArea": "布鲁克林",
       "toYears": "1992–2011",
       "type": "member",
       "label": "Bootsy Collins",
@@ -56,7 +56,7 @@
     {
       "to": "parliament-funkadelic",
       "toName": "Parliament-Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–",
       "type": "member",
       "label": "Bootsy Collins",

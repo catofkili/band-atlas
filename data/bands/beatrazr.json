@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Beatrazr是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c6429d8a-5917-457c-b625-d97234acf59a"
@@ -93,7 +95,7 @@
     {
       "to": "lusk",
       "toName": "Lusk",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "1995–1998",
       "type": "member",
       "label": "Chris Pitman",

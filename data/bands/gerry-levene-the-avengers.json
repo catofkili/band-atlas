@@ -2,12 +2,14 @@
   "id": "gerry-levene-the-avengers",
   "mbid": "6d0d4632-1225-47c9-8119-5dcdf4f5fbd5",
   "name": "Gerry Levene & the Avengers",
-  "area": "Birmingham",
+  "area": "伯明翰",
   "countryCode": "GB",
   "country": "英国",
   "years": "1959–1964",
   "genres": [],
   "albums": [],
+  "intro": "Gerry Levene & the Avengers是一支来自伯明翰的音乐团体，活跃时期为1959–1964。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6d0d4632-1225-47c9-8119-5dcdf4f5fbd5"
@@ -27,7 +29,7 @@
     {
       "to": "band-of-joy",
       "toName": "Band of Joy",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1967–1968",
       "type": "member",
       "label": "John Bonham",

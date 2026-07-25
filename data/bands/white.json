@@ -21,6 +21,8 @@
       "year": 2024
     }
   ],
+  "intro": "WHITE是一支来自北京的音乐团体，活跃时期为2006–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/00c64c61-0536-4507-9332-8eb24c1aaa1b"
@@ -51,7 +53,7 @@
     {
       "to": "speak-chinese-or-die",
       "toName": "Speak Chinese or Die",
-      "toArea": "Wuhan",
+      "toArea": "武汉",
       "toYears": null,
       "type": "member",
       "label": "张守望",

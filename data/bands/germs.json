@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1976–2013",
   "genres": [
-    "Punk Rock",
-    "Hardcore Punk",
-    "Punk"
+    "朋克摇滚",
+    "硬核朋克",
+    "朋克"
   ],
   "albums": [
     {
@@ -17,8 +17,8 @@
       "year": 1979
     }
   ],
-  "intro": "The Germs were an American punk rock band from Los Angeles, California, originally active from 1976 to 1980.",
-  "introLang": "en",
+  "intro": "The Germs 是一支来自加利福尼亚州洛杉矶的美国朋克摇滚乐队，最初活跃于 1976 年至 1980 年间。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/42c4b58d-2e28-41d4-bfe5-4edee68386cf"
@@ -38,7 +38,7 @@
     {
       "to": "adolescents",
       "toName": "Adolescents",
-      "toArea": "Fullerton",
+      "toArea": "富勒顿",
       "toYears": "1979–",
       "type": "member",
       "label": "Pat Smear",
@@ -82,7 +82,7 @@
     {
       "to": "the-tater-totz",
       "toName": "The Tater Totz",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1987–",
       "type": "member",
       "label": "Pat Smear",
@@ -159,7 +159,7 @@
     {
       "to": "the-offspring",
       "toName": "The Offspring",
-      "toArea": "Huntington Beach",
+      "toArea": "亨廷顿海滩",
       "toYears": "1984–",
       "type": "influence",
       "label": "影响关系",

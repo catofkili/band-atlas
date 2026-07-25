@@ -2,12 +2,14 @@
   "id": "diddly-squat",
   "mbid": "34d1cf44-fba6-4f9b-84f0-43731c7bee35",
   "name": "Diddly Squat",
-  "area": "Richland",
+  "area": "里奇兰",
   "countryCode": "US",
   "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Diddly Squat是一支来自里奇兰的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/34d1cf44-fba6-4f9b-84f0-43731c7bee35"
@@ -16,7 +18,7 @@
     {
       "to": "christ-on-a-crutch",
       "toName": "Christ on a Crutch",
-      "toArea": "Richland",
+      "toArea": "里奇兰",
       "toYears": "1983–1993",
       "type": "member",
       "label": "Nate Mendel・Eric Akre",

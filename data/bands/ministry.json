@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1981–",
   "genres": [
-    "Industrial Metal",
-    "Industrial Rock",
-    "Industrial"
+    "工业金属",
+    "工业摇滚",
+    "工业音乐"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1996
     }
   ],
-  "intro": "ミニストリー (Ministry) は、アメリカ合衆国のインダストリアル・メタルバンド。シカゴで結成したスペシャル・アフェクトを元に誕生。",
-  "introLang": "ja",
+  "intro": "Ministry 是一支来自美国的工业金属乐队。该乐队由在芝加哥成立的 Special Affect 演变而来。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/13df2a46-f72f-40e7-aa63-26fcf62c7048"
@@ -80,7 +80,7 @@
     {
       "to": "mind-funk",
       "toName": "Mind Funk",
-      "toArea": "Orange County",
+      "toArea": "奥兰治县",
       "toYears": "1989–",
       "type": "member",
       "label": "Louis Svitek・John Monte",
@@ -124,7 +124,7 @@
     {
       "to": "godflesh",
       "toName": "Godflesh",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1988–",
       "type": "member",
       "label": "Paul Raven",
@@ -146,7 +146,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Jeff Ward",
@@ -179,7 +179,7 @@
     {
       "to": "gut-bank",
       "toName": "Gut Bank",
-      "toArea": "Hoboken",
+      "toArea": "霍博肯",
       "toYears": "1984–",
       "type": "member",
       "label": "Tia Sprocket",
@@ -201,7 +201,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",

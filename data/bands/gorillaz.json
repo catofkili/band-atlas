@@ -2,14 +2,13 @@
   "id": "gorillaz",
   "mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
   "name": "Gorillaz",
-  "area": "Essex",
+  "area": "埃塞克斯",
   "countryCode": "GB",
   "country": "英国",
   "years": "1999–",
   "genres": [
-    "Alternative Rock",
-    "Electronic",
-    "Trip Hop"
+    "另类摇滚",
+    "电子音乐"
   ],
   "albums": [
     {
@@ -47,7 +46,7 @@
     {
       "to": "jamiroquai",
       "toName": "Jamiroquai",
-      "toArea": "Ealing",
+      "toArea": "伊灵",
       "toYears": "1992–",
       "type": "member",
       "label": "DJ D-Zire",

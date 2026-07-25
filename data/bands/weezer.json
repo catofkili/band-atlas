@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1992–",
   "genres": [
-    "Alternative Rock",
-    "Power Pop",
-    "Rock"
+    "另类摇滚",
+    "Power Pop简体中文（大陆）",
+    "摇滚"
   ],
   "albums": [
     {
@@ -91,7 +91,7 @@
     {
       "to": "the-mars-volta",
       "toName": "The Mars Volta",
-      "toArea": "El Paso",
+      "toArea": "埃尔帕索",
       "toYears": "2001–",
       "type": "member",
       "label": "David Elitch",
@@ -113,7 +113,7 @@
     {
       "to": "fall-out-boy",
       "toName": "Fall Out Boy",
-      "toArea": "Wilmette",
+      "toArea": "威尔梅特",
       "toYears": "2001–",
       "type": "influence",
       "label": "影响关系",
@@ -124,7 +124,7 @@
     {
       "to": "goat-punishment",
       "toName": "Goat Punishment",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "member",
       "label": "副项目",

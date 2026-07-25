@@ -7,7 +7,7 @@
   "country": "日本",
   "years": "2005–2010",
   "genres": [
-    "Rock"
+    "摇滚"
   ],
   "albums": [
     {
@@ -23,8 +23,8 @@
       "year": 2010
     }
   ],
-  "intro": "BINECKSは、日本の4人組ロックバンドである。",
-  "introLang": "ja",
+  "intro": "BINECKS是一支来自日本的四人摇滚乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/43b76999-b5e8-4431-966d-d6fc5fd501ad"

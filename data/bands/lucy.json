@@ -21,8 +21,8 @@
       "year": 2026
     }
   ],
-  "intro": "Lucyは、日本のロックバンド。",
-  "introLang": "ja",
+  "intro": "Lucy是一支日本摇滚乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a56df4c7-8ad1-497a-9634-ae1876b855e0"
@@ -31,7 +31,7 @@
     {
       "to": "buck-tick",
       "toName": "BUCK‐TICK",
-      "toArea": "Fujioka",
+      "toArea": "日本",
       "toYears": "1984–",
       "type": "member",
       "label": "今井寿",

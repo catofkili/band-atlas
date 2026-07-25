@@ -7,11 +7,13 @@
   "country": "美国",
   "years": "2000–",
   "genres": [
-    "Alternative Metal",
-    "Avant-Garde",
-    "Avant-Garde Metal"
+    "另类金属",
+    "前卫",
+    "前卫金属"
   ],
   "albums": [],
+  "intro": "The Fantômas Melvins Big Band是一支来自美国的以另类金属、前卫为主要风格的音乐团体，活跃时期为2000–。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/81295bc0-44c8-4cd4-a83c-5b374453cbfd"
@@ -20,7 +22,7 @@
     {
       "to": "melvins",
       "toName": "Melvins",
-      "toArea": "Montesano",
+      "toArea": "蒙特萨诺",
       "toYears": "1983–",
       "type": "member",
       "label": "Buzz Osborne・副项目",
@@ -53,7 +55,7 @@
     {
       "to": "fantômas",
       "toName": "Fantômas",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "member",
       "label": "副项目",
@@ -75,7 +77,7 @@
     {
       "to": "fecal-matter",
       "toName": "Fecal Matter",
-      "toArea": "Aberdeen",
+      "toArea": "阿伯丁",
       "toYears": "1985–1986",
       "type": "member",
       "label": "Buzz Osborne",

@@ -17,8 +17,8 @@
       "year": 1985
     }
   ],
-  "intro": "DYS is an American straight edge hardcore punk band from Boston, Massachusetts, who were part of the \"Boston Crew\" in the 1980s, along with contemporaries such as SSD and Negative FX.",
-  "introLang": "en",
+  "intro": "DYS是一支来自马萨诸塞州波士顿的美国直边硬核朋克乐队，上世纪80年代曾作为“波士顿军团”的一员，与SSD和Negative FX等同时代乐队并肩而立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f012c04d-96ca-47dd-9359-3bb11fed88b5"
@@ -49,7 +49,7 @@
     {
       "to": "scream",
       "toName": "Scream",
-      "toArea": "Virginia",
+      "toArea": "弗吉尼亚州",
       "toYears": "1981–",
       "type": "member",
       "label": "Franz Stahl",

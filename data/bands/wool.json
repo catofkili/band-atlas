@@ -21,8 +21,8 @@
       "year": 2012
     }
   ],
-  "intro": "Wool was an American rock band from Washington, D.C., and based in Los Angeles.",
-  "introLang": "en",
+  "intro": "Wool是一支来自华盛顿特区的美国摇滚乐队，常驻洛杉矶。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ada7ccb0-8dd8-467c-9859-abb0683884bb"
@@ -31,7 +31,7 @@
     {
       "to": "scream",
       "toName": "Scream",
-      "toArea": "Virginia",
+      "toArea": "弗吉尼亚州",
       "toYears": "1981–",
       "type": "member",
       "label": "Franz Stahl・Peter Stahl",

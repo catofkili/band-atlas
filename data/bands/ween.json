@@ -2,14 +2,14 @@
   "id": "ween",
   "mbid": "c0eee88b-47f2-4cd2-ac48-a045e902a432",
   "name": "Ween",
-  "area": "New Hope",
+  "area": "New Hope简体中文（大陆）",
   "countryCode": "US",
   "country": "美国",
   "years": "1984–2024",
   "genres": [
-    "Experimental Rock",
-    "Alternative Rock",
-    "Art Rock"
+    "实验摇滚",
+    "另类摇滚",
+    "艺术摇滚"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1992
     }
   ],
-  "intro": "Ween is an American rock band from New Hope, Pennsylvania, formed in 1984 by Aaron Freeman and Mickey Melchiondo, better known by their respective stage names, Gene Ween and Dean Ween.",
-  "introLang": "en",
+  "intro": "Ween是一支来自宾夕法尼亚州新希望镇的美国摇滚乐队，由亚伦·弗里曼（Aaron Freeman）和米基·梅尔基翁多（Mickey Melchiondo）于1984年组建，两人更广为人知的艺名分别是吉恩·威恩（Gene Ween）和迪恩·威恩（Dean Ween）。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c0eee88b-47f2-4cd2-ac48-a045e902a432"
@@ -58,7 +58,7 @@
     {
       "to": "desert-sessions",
       "toName": "Desert Sessions",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1997–",
       "type": "member",
       "label": "Dean Ween",

@@ -17,8 +17,8 @@
       "year": 1995
     }
   ],
-  "intro": "D.T.Rは、日本のハードロックバンド。ロックベーシストの沢田泰司を中心に結成、活動した。旧名「DIRTY TRASHROAD」。1996年に活動停止。",
-  "introLang": "ja",
+  "intro": "D.T.R是一支日本硬摇滚乐队。该乐队以摇滚贝斯手泽田泰司为核心组建并开展活动。原名“DIRTY TRASHROAD”。1996年停止活动。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/07ceb4a7-8664-4679-a854-cd7487ab72ef"
@@ -38,7 +38,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "TAIJI",

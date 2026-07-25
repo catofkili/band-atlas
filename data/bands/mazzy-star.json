@@ -2,14 +2,14 @@
   "id": "mazzy-star",
   "mbid": "c48d4327-8122-4286-af66-05e1ee6ac4d8",
   "name": "Mazzy Star",
-  "area": "Santa Monica",
+  "area": "圣莫尼卡",
   "countryCode": "US",
   "country": "美国",
   "years": "1988–",
   "genres": [
-    "Dream Pop",
-    "Slowcore",
-    "Psychedelic Folk"
+    "梦幻流行乐",
+    "慢核",
+    "迷幻民谣"
   ],
   "albums": [
     {
@@ -29,8 +29,8 @@
       "year": 2013
     }
   ],
-  "intro": "マジー・スターは、1989年、ボーカルのホープ・サンドヴァル (Hope Sandoval) とギターのデヴィッド・ロバック (David Roback) により結成されたバンド。",
-  "introLang": "ja",
+  "intro": "Maggie Star是由主唱霍普·桑多瓦尔（Hope Sandoval）和吉他手大卫·罗巴克（David Roback）于1989年组建的乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c48d4327-8122-4286-af66-05e1ee6ac4d8"

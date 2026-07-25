@@ -2,13 +2,13 @@
   "id": "stabbing-westward",
   "mbid": "6f29020d-49c1-4e26-869a-0603d14b7ca7",
   "name": "Stabbing Westward",
-  "area": "Macomb",
+  "area": "马科姆",
   "countryCode": "US",
   "country": "美国",
   "years": "1985–",
   "genres": [
-    "Industrial Rock",
-    "Alternative Rock"
+    "工业摇滚",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -32,8 +32,8 @@
       "year": 2022
     }
   ],
-  "intro": "Stabbing Westward is an American industrial rock band.",
-  "introLang": "en",
+  "intro": "Stabbing Westward 是一支美国工业摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6f29020d-49c1-4e26-869a-0603d14b7ca7"
@@ -42,7 +42,7 @@
     {
       "to": "exotic-birds",
       "toName": "Exotic Birds",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1983–1990",
       "type": "member",
       "label": "Andy Kubiszewski",

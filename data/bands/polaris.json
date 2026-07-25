@@ -8,6 +8,8 @@
   "years": "1992–1993",
   "genres": [],
   "albums": [],
+  "intro": "Polaris是一支来自美国的音乐团体，活跃时期为1992–1993。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2ab4eb9a-ccc2-41c2-a4fb-d8f6f393db1c"
@@ -16,7 +18,7 @@
     {
       "to": "system-of-a-down",
       "toName": "System of a Down",
-      "toArea": "Glendale",
+      "toArea": "格伦代尔",
       "toYears": "1995–",
       "type": "member",
       "label": "Shavo Odadjian",

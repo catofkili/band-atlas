@@ -13,6 +13,8 @@
       "year": 2005
     }
   ],
+  "intro": "nearLY是一支来自洛杉矶的音乐团体，活跃时期为1999–。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ef6acfcb-2c12-419d-bfcf-4ffaac9f3e8d"
@@ -21,7 +23,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Keith Hillebrandt・Jerome Dillon",
@@ -43,7 +45,7 @@
     {
       "to": "howlin-maggie",
       "toName": "Howlin’ Maggie",
-      "toArea": "Columbus",
+      "toArea": "哥伦布",
       "toYears": "1994–2002",
       "type": "member",
       "label": "Jerome Dillon",

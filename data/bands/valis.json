@@ -7,7 +7,7 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "Stoner Rock"
+    "迷幻摇滚"
   ],
   "albums": [
     {
@@ -35,6 +35,8 @@
       "year": 2012
     }
   ],
+  "intro": "Valis是一支来自美国的以迷幻摇滚为主要风格的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d51ef000-95f4-49d0-8e38-e4fe5ccf32af"

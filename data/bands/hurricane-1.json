@@ -6,9 +6,7 @@
   "countryCode": "GB",
   "country": "英国",
   "years": "1996–1999",
-  "genres": [
-    "Oxford"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "Hurricane #1",
@@ -31,8 +29,8 @@
       "year": 2019
     }
   ],
-  "intro": "ハリケーン#1はイギリスのロックバンド。",
-  "introLang": "ja",
+  "intro": "Hurricane #1是一支英国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/87788c91-a97e-40a8-860b-3d9a3956af5e"

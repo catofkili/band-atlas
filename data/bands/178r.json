@@ -8,6 +8,8 @@
   "years": "2017–",
   "genres": [],
   "albums": [],
+  "intro": "178R是一支来自日本的音乐团体，活跃时期为2017–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3bb8fcde-18d4-4401-80e4-81a75b2186ca"
@@ -16,7 +18,7 @@
     {
       "to": "mucc",
       "toName": "MUCC",
-      "toArea": "Ibaraki",
+      "toArea": "茨城",
       "toYears": "1997–",
       "type": "member",
       "label": "ミヤ",

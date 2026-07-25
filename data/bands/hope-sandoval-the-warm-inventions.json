@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "2000–",
   "genres": [
-    "Dream Pop",
-    "Alternative Country",
-    "Contemporary Folk"
+    "梦幻流行乐",
+    "另类乡村音乐",
+    "当代民谣"
   ],
   "albums": [
     {
@@ -25,8 +25,8 @@
       "year": 2016
     }
   ],
-  "intro": "Hope Sandoval & The Warm Inventions are an American-Irish dream pop band comprising Hope Sandoval of Mazzy Star and Colm Ó Cíosóig of My Bloody Valentine.",
-  "introLang": "en",
+  "intro": "Hope Sandoval & The Warm Inventions 是一支美爱混血梦幻流行乐队，由 Mazzy Star 乐队的 Hope Sandoval 和 My Bloody Valentine 乐队的 Colm Ó Cíosóig 组成。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/23f527e1-74ae-4f7c-94f3-4a5d5f379c51"
@@ -46,7 +46,7 @@
     {
       "to": "mazzy-star",
       "toName": "Mazzy Star",
-      "toArea": "Santa Monica",
+      "toArea": "圣莫尼卡",
       "toYears": "1988–",
       "type": "member",
       "label": "Colm Ó Cíosóig・Hope Sandoval",

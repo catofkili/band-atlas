@@ -13,6 +13,8 @@
       "year": 2020
     }
   ],
+  "intro": "Fuktronic是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/49b7b7ce-bc72-4e51-9eef-aa1408804d25"
@@ -21,7 +23,7 @@
     {
       "to": "system-of-a-down",
       "toName": "System of a Down",
-      "toArea": "Glendale",
+      "toArea": "格伦代尔",
       "toYears": "1995–",
       "type": "member",
       "label": "Serj Tankian",

@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1982–",
   "genres": [
-    "Crossover Thrash",
-    "Thrash Metal",
-    "Hardcore Punk"
+    "跨界鞭击金属",
+    "鞭击金属",
+    "硬核朋克"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1992
     }
   ],
-  "intro": "スイサイダル・テンデンシーズは、アメリカ合衆国出身のスラッシュ/ハードコア・バンド。",
-  "introLang": "ja",
+  "intro": "Suicidal Tendencies是一支来自美国的鞭击金属/硬核乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e9e2a634-984f-4c10-bf7b-7970179e1ef1"
@@ -69,7 +69,7 @@
     {
       "to": "slipknot",
       "toName": "Slipknot",
-      "toArea": "Des Moines",
+      "toArea": "得梅因",
       "toYears": "1995–",
       "type": "member",
       "label": "Jay Weinberg",
@@ -80,7 +80,7 @@
     {
       "to": "the-mars-volta",
       "toName": "The Mars Volta",
-      "toArea": "El Paso",
+      "toArea": "埃尔帕索",
       "toYears": "2001–",
       "type": "member",
       "label": "Thomas Pridgen",
@@ -91,7 +91,7 @@
     {
       "to": "the-vandals",
       "toName": "The Vandals",
-      "toArea": "Huntington Beach",
+      "toArea": "亨廷顿海滩",
       "toYears": "1980–",
       "type": "member",
       "label": "Brooks Wackerman",
@@ -102,7 +102,7 @@
     {
       "to": "cyco-miko",
       "toName": "Cyco Miko",
-      "toArea": "Venice",
+      "toArea": "威尼斯",
       "toYears": "1994–",
       "type": "member",
       "label": "Mike Muir",
@@ -168,7 +168,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "influence",
       "label": "影响关系",

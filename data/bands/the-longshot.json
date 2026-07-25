@@ -2,7 +2,7 @@
   "id": "the-longshot",
   "mbid": "dd602e6c-f4d3-4c16-8398-1b137bed8512",
   "name": "The Longshot",
-  "area": "California",
+  "area": "加利福尼亚州",
   "countryCode": "US",
   "country": "美国",
   "years": "2018–",
@@ -13,8 +13,8 @@
       "year": 2018
     }
   ],
-  "intro": "The Longshot is an American rock band formed in Oakland, California, in 2018 by Green Day frontman Billie Joe Armstrong.",
-  "introLang": "en",
+  "intro": "The Longshot 是一支美国摇滚乐队，由绿日乐队（Green Day）主唱比利·乔·阿姆斯特朗（Billie Joe Armstrong）于 2018 年在加利福尼亚州奥克兰市组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dd602e6c-f4d3-4c16-8398-1b137bed8512"

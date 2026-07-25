@@ -7,10 +7,12 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "Experimental Rock",
-    "Progressive Rock"
+    "实验摇滚",
+    "前卫摇滚"
   ],
   "albums": [],
+  "intro": "The Crimson ProjeKCt是一支来自美国的以实验摇滚、前卫摇滚为主要风格的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/37abc279-f281-4543-8e98-8fd0510b65b4"

@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1981–",
   "genres": [
-    "Thrash Metal",
-    "Heavy Metal",
-    "Metal"
+    "鞭击金属",
+    "重金属",
+    "金属"
   ],
   "albums": [
     {
@@ -58,7 +58,7 @@
     {
       "to": "maxwell-house-ranch-band",
       "toName": "Maxwell House Ranch Band",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "James Hetfield・Lars Ulrich・Cliff Burton・Kirk Hammett",
@@ -69,7 +69,7 @@
     {
       "to": "spastik-children",
       "toName": "Spastik Children",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "James Hetfield・Cliff Burton・Kirk Hammett",
@@ -80,7 +80,7 @@
     {
       "to": "exodus",
       "toName": "Exodus",
-      "toArea": "Richmond",
+      "toArea": "里士满",
       "toYears": "1979–",
       "type": "member",
       "label": "Kirk Hammett",
@@ -124,7 +124,7 @@
     {
       "to": "agents-of-misfortune",
       "toName": "Agents Of Misfortune",
-      "toArea": "Hayward",
+      "toArea": "海沃德",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -135,7 +135,7 @@
     {
       "to": "ez-street",
       "toName": "EZ-Street",
-      "toArea": "Oakland",
+      "toArea": "奥克兰",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -157,7 +157,7 @@
     {
       "to": "panic",
       "toName": "Panic",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Dave Mustaine",
@@ -190,7 +190,7 @@
     {
       "to": "the-wedding-band",
       "toName": "The Wedding Band",
-      "toArea": "Hawaii",
+      "toArea": "夏威夷",
       "toYears": "2018–",
       "type": "member",
       "label": "Kirk Hammett",
@@ -201,7 +201,7 @@
     {
       "to": "vicious-hatred",
       "toName": "Vicious Hatred",
-      "toArea": "Hayward",
+      "toArea": "海沃德",
       "toYears": "1981–1982",
       "type": "member",
       "label": "Cliff Burton",
@@ -212,7 +212,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",
@@ -223,7 +223,7 @@
     {
       "to": "lostprophets",
       "toName": "Lostprophets",
-      "toArea": "Pontypridd",
+      "toArea": "庞蒂普里德",
       "toYears": "1997–2013",
       "type": "influence",
       "label": "影响关系",

@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "X SUGINAMI是一支来自日本的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a3c9e997-5c65-4b06-95bf-e6d54f6444a7"
@@ -16,7 +18,7 @@
     {
       "to": "mucc",
       "toName": "MUCC",
-      "toArea": "Ibaraki",
+      "toArea": "茨城",
       "toYears": "1997–",
       "type": "member",
       "label": "ミヤ",

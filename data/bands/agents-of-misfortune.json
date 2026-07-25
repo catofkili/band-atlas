@@ -2,12 +2,14 @@
   "id": "agents-of-misfortune",
   "mbid": "0b45a22a-08ee-4d86-be60-db1d702031dd",
   "name": "Agents Of Misfortune",
-  "area": "Hayward",
+  "area": "海沃德",
   "countryCode": "US",
   "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Agents Of Misfortune是一支来自海沃德的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0b45a22a-08ee-4d86-be60-db1d702031dd"
@@ -38,7 +40,7 @@
     {
       "to": "ez-street",
       "toName": "EZ-Street",
-      "toArea": "Oakland",
+      "toArea": "奥克兰",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -49,7 +51,7 @@
     {
       "to": "maxwell-house-ranch-band",
       "toName": "Maxwell House Ranch Band",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -60,7 +62,7 @@
     {
       "to": "spastik-children",
       "toName": "Spastik Children",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -82,7 +84,7 @@
     {
       "to": "vicious-hatred",
       "toName": "Vicious Hatred",
-      "toArea": "Hayward",
+      "toArea": "海沃德",
       "toYears": "1981–1982",
       "type": "member",
       "label": "Cliff Burton",

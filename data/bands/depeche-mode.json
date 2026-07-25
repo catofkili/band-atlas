@@ -2,14 +2,14 @@
   "id": "depeche-mode",
   "mbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
   "name": "Depeche Mode",
-  "area": "Basildon",
+  "area": "巴兹尔登",
   "countryCode": "GB",
   "country": "英国",
   "years": "1980–",
   "genres": [
-    "Electronic",
-    "Synth-Pop",
-    "New Wave"
+    "电子音乐",
+    "合成器流行乐",
+    "新浪潮"
   ],
   "albums": [
     {
@@ -47,7 +47,7 @@
     {
       "to": "deftones",
       "toName": "Deftones",
-      "toArea": "Sacramento",
+      "toArea": "萨克拉门托",
       "toYears": "1988–",
       "type": "influence",
       "label": "影响关系",

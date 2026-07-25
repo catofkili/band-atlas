@@ -7,9 +7,9 @@
   "country": null,
   "years": "1997–1998",
   "genres": [
-    "Progressive Rock",
-    "Eclectic Prog",
-    "Experimental Rock"
+    "前卫摇滚",
+    "兼收并蓄的前卫摇滚",
+    "实验摇滚"
   ],
   "albums": [
     {
@@ -17,6 +17,8 @@
       "year": 1998
     }
   ],
+  "intro": "ProjeKct Two是一支以前卫摇滚、兼收并蓄的前卫摇滚为主要风格的音乐团体，活跃时期为1997–1998。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/74a2ff82-992b-4696-b603-c6f747bec2b7"
@@ -58,7 +60,7 @@
     {
       "to": "the-human-experimente",
       "toName": "The Human Experimente",
-      "toArea": "Santa Monica",
+      "toArea": "圣莫尼卡",
       "toYears": null,
       "type": "member",
       "label": "Robert Fripp",

@@ -7,8 +7,7 @@
   "country": "日本",
   "years": "1992–1999",
   "genres": [
-    "Likedis Auto",
-    "Visual Kei"
+    "视觉系"
   ],
   "albums": [
     {
@@ -24,8 +23,8 @@
       "year": 1998
     }
   ],
-  "intro": "media youthは、日本のヴィジュアル系ロックバンド。KIYOSHI、DAISUKE、HIROKIの3人で編成。X JAPAN加入以前のHEATHが在籍していたことがある。",
-  "introLang": "ja",
+  "intro": "media youth是日本的一支视觉系摇滚乐队。由KIYOSHI、DAISUKE、HIROKI三人组成。HEATH在加入X JAPAN之前曾是该乐队成员。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/42ac3840-c883-4ef0-ba08-063279cd2e4e"
@@ -34,7 +33,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "heath",

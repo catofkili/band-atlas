@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "1987–2003",
   "genres": [
-    "Post-hardcore",
-    "Punk"
+    "后硬核",
+    "朋克"
   ],
   "albums": [
     {
@@ -154,7 +154,7 @@
     {
       "to": "rumblepuppy",
       "toName": "Rumblepuppy",
-      "toArea": "Massachusetts",
+      "toArea": "马萨诸塞州",
       "toYears": null,
       "type": "member",
       "label": "Colin Sears",

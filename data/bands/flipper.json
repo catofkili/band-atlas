@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1979–",
   "genres": [
-    "Hardcore Punk",
-    "Art Punk",
-    "Noise Rock"
+    "硬核朋克",
+    "艺术朋克",
+    "噪音摇滚"
   ],
   "albums": [
     {
@@ -29,8 +29,8 @@
       "year": 2009
     }
   ],
-  "intro": "Flipper is an American punk rock band formed in San Francisco, California in 1979, continuing in often erratic fashion until the mid-1990s, then reuniting in 2005.",
-  "introLang": "en",
+  "intro": "Flipper 是一支美国朋克摇滚乐队，于 1979 年在加利福尼亚州旧金山成立，此后活动时断时续，一直持续到 1990 年代中期，随后于 2005 年重组。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4e99b3a5-654b-43ee-a9bf-c55c155c0495"

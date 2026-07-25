@@ -2,14 +2,13 @@
   "id": "kidbug",
   "mbid": "bd39dbc4-8260-474e-830f-787dad44066c",
   "name": "Kidbug",
-  "area": "Indianapolis",
+  "area": "印第安纳波利斯",
   "countryCode": "US",
   "country": "美国",
   "years": "2019–",
   "genres": [
-    "Cuddlebug-Sludge",
-    "Pop",
-    "Post-Rock"
+    "流行音乐",
+    "后摇滚"
   ],
   "albums": [
     {
@@ -17,8 +16,8 @@
       "year": 2020
     }
   ],
-  "intro": "Kidbug is an international supergroup composed of musicians signed to Joyful Noise Recordings.",
-  "introLang": "en",
+  "intro": "Kidbug 是一支由签约 Joyful Noise Recordings 的音乐人组成的国际超级乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bd39dbc4-8260-474e-830f-787dad44066c"

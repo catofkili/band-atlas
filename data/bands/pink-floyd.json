@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1965–2014",
   "genres": [
-    "Progressive Rock",
-    "Psychedelic Rock",
-    "Rock"
+    "前卫摇滚",
+    "迷幻摇滚",
+    "摇滚"
   ],
   "albums": [
     {
@@ -102,7 +102,7 @@
     {
       "to": "jokers-wild",
       "toName": "Jokers Wild",
-      "toArea": "Cambridge",
+      "toArea": "剑桥",
       "toYears": "1964–1966",
       "type": "member",
       "label": "David Gilmour",
@@ -157,7 +157,7 @@
     {
       "to": "radiohead",
       "toName": "Radiohead",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1991–",
       "type": "influence",
       "label": "影响关系",

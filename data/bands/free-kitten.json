@@ -7,8 +7,7 @@
   "country": "美国",
   "years": "1992–",
   "genres": [
-    "Indie Rock",
-    "Riot Grrrl"
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -24,8 +23,8 @@
       "year": 2008
     }
   ],
-  "intro": "フリー・キトゥン (Free Kitten) はソニック・ユースのキム・ゴードン、元プッシー・ガロアのジュリィ・カフリッツ、ボアダムスのヨシミ、ペイヴメントのマーク・イボルドの4人からなるコラボレーションバンド。",
-  "introLang": "ja",
+  "intro": "Free Kitten 是一支由 Sonic Youth 的 Kim Gordon、前 Pussy Galore 的 Julie Kafritz、Boadams 的 Yoshimi 以及 Pavement 的 Mark Ibold 四人组成的合作乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7e623dd5-bf40-4f8b-ba71-8226afc918e2"
@@ -45,7 +44,7 @@
     {
       "to": "pavement",
       "toName": "Pavement",
-      "toArea": "Stockton",
+      "toArea": "斯托克顿",
       "toYears": "1989–2000",
       "type": "member",
       "label": "Mark Ibold",
@@ -89,7 +88,7 @@
     {
       "to": "body-head",
       "toName": "Body/Head",
-      "toArea": "Northampton",
+      "toArea": "北安普顿",
       "toYears": "2012–",
       "type": "member",
       "label": "Kim Gordon",

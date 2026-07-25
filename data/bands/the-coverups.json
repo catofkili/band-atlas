@@ -7,13 +7,13 @@
   "country": null,
   "years": "2018–",
   "genres": [
-    "Alternative Rock",
-    "Covers",
-    "New Wave"
+    "另类摇滚",
+    "翻唱",
+    "新浪潮"
   ],
   "albums": [],
-  "intro": "The Coverups is an American cover band that serves as a side project for Green Day members Billie Joe Armstrong and Mike Dirnt.",
-  "introLang": "en",
+  "intro": "The Coverups 是一支美国翻唱乐队，由绿日乐队（Green Day）成员比利·乔·阿姆斯特朗（Billie Joe Armstrong）和迈克·迪恩特（Mike Dirnt）作为副业组建。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/01b73d81-4390-4ebd-984d-f84b4d5ed5b0"
@@ -22,7 +22,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "member",
       "label": "Mike Dirnt",
@@ -33,7 +33,7 @@
     {
       "to": "pinhead-gunpowder",
       "toName": "Pinhead Gunpowder",
-      "toArea": "Arcata",
+      "toArea": "阿卡塔",
       "toYears": "1990–",
       "type": "member",
       "label": "Bill Schneider",
@@ -77,7 +77,7 @@
     {
       "to": "the-network",
       "toName": "The Network",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "2003–",
       "type": "member",
       "label": "Mike Dirnt",

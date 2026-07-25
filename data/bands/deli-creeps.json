@@ -7,9 +7,9 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "Avant-Garde",
-    "Avant-Garde Metal",
-    "Experimental"
+    "前卫",
+    "前卫金属",
+    "实验音乐"
   ],
   "albums": [
     {
@@ -17,8 +17,8 @@
       "year": 2001
     }
   ],
-  "intro": "The Deli Creeps were an avant-garde metal band consisting of singer Maximum Bob, guitarist Buckethead, drummer Pinchface and various bass players, most recently Daniel Monti.",
-  "introLang": "en",
+  "intro": "The Deli Creeps 是一支前卫金属乐队，由主唱 Maximum Bob、吉他手 Buckethead、鼓手 Pinchface 以及多位贝斯手组成，最近的贝斯手是 Daniel Monti。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9ee41ce7-b865-46f1-8f02-895c950b0a8a"
@@ -49,7 +49,7 @@
     {
       "to": "gorgone",
       "toName": "Gorgone",
-      "toArea": "France",
+      "toArea": "法国",
       "toYears": null,
       "type": "member",
       "label": "Pinchface",

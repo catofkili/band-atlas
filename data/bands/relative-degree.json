@@ -8,6 +8,8 @@
   "years": "1995–1996",
   "genres": [],
   "albums": [],
+  "intro": "Relative Degree是一支音乐团体，活跃时期为1995–1996。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/99ffd73b-652d-4a11-a59d-0f33227312d5"
@@ -16,7 +18,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "member",
       "label": "Rob Bourdon・Brad Delson",
@@ -27,7 +29,7 @@
     {
       "to": "xero",
       "toName": "Xero",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–1999",
       "type": "member",
       "label": "Rob Bourdon・Brad Delson",

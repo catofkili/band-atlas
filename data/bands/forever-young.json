@@ -8,6 +8,8 @@
   "years": "1991–1993",
   "genres": [],
   "albums": [],
+  "intro": "Forever Young是一支来自洛杉矶的音乐团体，活跃时期为1991–1993。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9a45fd78-4ffc-4cc7-88dc-7d4264bff79f"
@@ -16,7 +18,7 @@
     {
       "to": "system-of-a-down",
       "toName": "System of a Down",
-      "toArea": "Glendale",
+      "toArea": "格伦代尔",
       "toYears": "1995–",
       "type": "member",
       "label": "Serj Tankian",

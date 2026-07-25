@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1992–",
   "genres": [
-    "Rock",
-    "Blues Rock",
-    "Alternative Rock"
+    "摇滚",
+    "蓝调摇滚",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 2015
     }
   ],
-  "intro": "Tito & Tarantula is an American chicano rock/blues rock band formed in Hollywood, California, in 1992 by singer/songwriter/guitarist Tito Larriva.",
-  "introLang": "en",
+  "intro": "Tito & Tarantula 是一支美国奇卡诺摇滚/蓝调摇滚乐队，由歌手、词曲作者兼吉他手蒂托·拉里瓦（Tito Larriva）于 1992 年在加利福尼亚州好莱坞组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/18662acd-0f22-4608-b3eb-60f12b0766c4"

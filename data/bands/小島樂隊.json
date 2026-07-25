@@ -2,7 +2,7 @@
   "id": "小島樂隊",
   "mbid": "c812ac46-a44a-4c19-8ef5-d6951056b055",
   "name": "小島樂隊",
-  "area": "Hong Kong",
+  "area": "香港",
   "countryCode": "HK",
   "country": "香港",
   "years": "1985–1986",
@@ -18,7 +18,7 @@
     {
       "to": "小島",
       "toName": "小島",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": "1985–1986",
       "type": "member",
       "label": "黎允文・區新明",
@@ -29,7 +29,7 @@
     {
       "to": "凡風",
       "toName": "凡風",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": null,
       "type": "member",
       "label": "區新明",
@@ -40,7 +40,7 @@
     {
       "to": "天織堂",
       "toName": "天織堂",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": null,
       "type": "member",
       "label": "黎允文",

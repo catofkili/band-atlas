@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "The Atoms是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dc5caa1a-2be6-4104-a34e-fab24dcd4abe"
@@ -38,7 +40,7 @@
     {
       "to": "izzy-stradlin-and-the-ju-ju-hounds",
       "toName": "Izzy Stradlin and the Ju Ju Hounds",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "1992–",
       "type": "member",
       "label": "Izzy Stradlin",

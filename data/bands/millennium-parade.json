@@ -7,7 +7,7 @@
   "country": "日本",
   "years": "2019–",
   "genres": [
-    "Alternative R&B"
+    "另类R&B"
   ],
   "albums": [
     {
@@ -15,8 +15,8 @@
       "year": 2021
     }
   ],
-  "intro": "MILLENNIUM PARADEは、常田大希が主宰する日本の音楽プロジェクト。",
-  "introLang": "ja",
+  "intro": "MILLENNIUM PARADE是由常田大希主导的日本音乐项目。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ae120209-21b3-42a9-ac08-4c7de22607eb"

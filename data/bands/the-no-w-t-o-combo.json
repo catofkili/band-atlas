@@ -7,12 +7,11 @@
   "country": "美国",
   "years": "1999–1999",
   "genres": [
-    "Alternative",
-    "Punk"
+    "朋克"
   ],
   "albums": [],
-  "intro": "The No WTO Combo was a one-shot punk rock band started by Krist Novoselic (former Nirvana bassist).",
-  "introLang": "en",
+  "intro": "The No WTO Combo 是一支由克里斯·诺沃塞利克（前涅槃乐队贝斯手）组建的单场演出朋克摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a9208290-48fe-49fb-876c-6b8a18654bc7"

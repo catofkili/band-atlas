@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "2000–",
   "genres": [
-    "Electronic",
-    "Rock",
-    "Experimental"
+    "电子音乐",
+    "摇滚",
+    "实验音乐"
   ],
   "albums": [
     {
@@ -17,8 +17,8 @@
       "year": 2006
     }
   ],
-  "intro": "Peeping Tom were an American rock project led by Mike Patton, active between 2000 and 2007.",
-  "introLang": "en",
+  "intro": "Peeping Tom 是由迈克·帕顿（Mike Patton）领军的美国摇滚乐队，活跃于2000年至2007年。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4caec583-cdcb-437c-af84-8797b11b6807"
@@ -27,7 +27,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Stu Brooks",
@@ -38,7 +38,7 @@
     {
       "to": "primus",
       "toName": "Primus",
-      "toArea": "El Sobrante",
+      "toArea": "埃尔·索布兰特",
       "toYears": "1984–",
       "type": "member",
       "label": "DJ Disk",

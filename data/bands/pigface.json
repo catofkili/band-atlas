@@ -7,9 +7,9 @@
   "country": "美国",
   "years": "1990–",
   "genres": [
-    "Industrial Rock",
-    "Electronic",
-    "Experimental"
+    "工业摇滚",
+    "电子音乐",
+    "实验音乐"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 2003
     }
   ],
-  "intro": "Pigface is an American industrial rock supergroup formed in 1990 by Martin Atkins and William Rieflin.",
-  "introLang": "en",
+  "intro": "Pigface 是一支美国工业摇滚超级乐队，由马丁·阿特金斯（Martin Atkins）和威廉·里夫林（William Rieflin）于 1990 年组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/11137c88-a9a2-4ffa-a97d-fb058c6d6ce2"
@@ -135,7 +135,7 @@
     {
       "to": "the-tear-garden",
       "toName": "The Tear Garden",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1986–",
       "type": "member",
       "label": "Dwayne Rudolph Goettel・cEvin Key",
@@ -168,7 +168,7 @@
     {
       "to": "hilt",
       "toName": "Hilt",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1987–1996",
       "type": "member",
       "label": "Dwayne Rudolph Goettel・cEvin Key",
@@ -212,7 +212,7 @@
     {
       "to": "godflesh",
       "toName": "Godflesh",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1988–",
       "type": "member",
       "label": "Paul Raven",
@@ -223,7 +223,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Jeff Ward",
@@ -234,7 +234,7 @@
     {
       "to": "praxis",
       "toName": "Praxis",
-      "toArea": "Brooklyn",
+      "toArea": "布鲁克林",
       "toYears": "1992–2011",
       "type": "member",
       "label": "Mick Harris",
@@ -267,7 +267,7 @@
     {
       "to": "silver-jews",
       "toName": "Silver Jews",
-      "toArea": "Charlottesville",
+      "toArea": "夏洛茨维尔",
       "toYears": "1989–2009",
       "type": "member",
       "label": "Duane Denison",
@@ -289,7 +289,7 @@
     {
       "to": "ween",
       "toName": "Ween",
-      "toArea": "New Hope",
+      "toArea": "New Hope简体中文（大陆）",
       "toYears": "1984–2024",
       "type": "member",
       "label": "Andrew Weiss",
@@ -311,7 +311,7 @@
     {
       "to": "mind-funk",
       "toName": "Mind Funk",
-      "toArea": "Orange County",
+      "toArea": "奥兰治县",
       "toYears": "1989–",
       "type": "member",
       "label": "Louis Svitek",
@@ -399,7 +399,7 @@
     {
       "to": "lucky-pierre",
       "toName": "Lucky Pierre",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1974–",
       "type": "member",
       "label": "Tom Lash",

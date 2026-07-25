@@ -2,14 +2,14 @@
   "id": "band-aid",
   "mbid": "0ecaa896-58fa-4dca-b53d-8da7bc5f59c5",
   "name": "Band Aid",
-  "area": null,
+  "area": "英国",
   "countryCode": "GB",
   "country": "英国",
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "バンド・エイド (Band Aid) は、イギリスとアイルランドのロック・ポップス界のスーパースターが集まって結成されたチャリティー・プロジェクト。",
-  "introLang": "ja",
+  "intro": "“Band Aid”是由英国和爱尔兰摇滚及流行乐界的超级巨星们联合组建的慈善项目。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0ecaa896-58fa-4dca-b53d-8da7bc5f59c5"

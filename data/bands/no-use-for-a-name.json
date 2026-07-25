@@ -2,13 +2,13 @@
   "id": "no-use-for-a-name",
   "mbid": "d7bd0fad-2f06-4936-89ad-60c5b6ada3c1",
   "name": "No Use for a Name",
-  "area": "San Jose",
+  "area": "圣何塞",
   "countryCode": "US",
   "country": "美国",
   "years": "1987–2012",
   "genres": [
-    "Punk Rock",
-    "Skate Punk"
+    "朋克摇滚",
+    "滑板朋克"
   ],
   "albums": [
     {
@@ -36,8 +36,8 @@
       "year": 1999
     }
   ],
-  "intro": "ノー・ユース・フォー・ア・ネイム(No Use for a Name)とは、アメリカ合衆国カリフォルニア州サンノゼで結成されたポップ・パンクバンドである。",
-  "introLang": "ja",
+  "intro": "No Use for a Name是一支成立于美国加利福尼亚州圣何塞的流行朋克乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d7bd0fad-2f06-4936-89ad-60c5b6ada3c1"

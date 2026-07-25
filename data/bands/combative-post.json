@@ -13,6 +13,8 @@
       "year": 2020
     }
   ],
+  "intro": "Combative Post是一支来自首尔的音乐团体。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/74cebc28-457d-4a02-b734-e888087ebc12"
@@ -21,7 +23,7 @@
     {
       "to": "13steps",
       "toName": "13Steps",
-      "toArea": "Cheongju",
+      "toArea": "清州",
       "toYears": "2000–",
       "type": "member",
       "label": "이일우",

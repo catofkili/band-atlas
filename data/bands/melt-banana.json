@@ -7,9 +7,8 @@
   "country": "日本",
   "years": "1992–",
   "genres": [
-    "Noise Rock",
-    "Experimental Rock",
-    "Noisecore"
+    "噪音摇滚",
+    "实验摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 2000
     }
   ],
-  "intro": "Melt-Banana は日本のロックバンド。母国の日本以上に、アメリカやヨーロッパのパンク・ロック・ファンから支持を得ている。",
-  "introLang": "ja",
+  "intro": "Melt-Banana 是一支日本摇滚乐队。他们在美国和欧洲的朋克摇滚乐迷中获得的支持，甚至超过了在祖国日本。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6d3f44c3-132d-42a6-a45b-16560b30a1fc"

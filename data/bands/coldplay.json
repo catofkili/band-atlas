@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1996–",
   "genres": [
-    "Alternative Rock",
-    "Pop",
-    "Pop Rock"
+    "另类摇滚",
+    "流行音乐",
+    "流行摇滚"
   ],
   "albums": [
     {
@@ -80,7 +80,7 @@
     {
       "to": "los-unidades",
       "toName": "Los Unidades",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "副项目",

@@ -21,8 +21,8 @@
       "year": 2000
     }
   ],
-  "intro": "Mimir is an experimental band comprising Edward Ka-Spel, Jim O'Rourke, Christoph Heeman, Seeman, and Andreas Martin.",
-  "introLang": "en",
+  "intro": "Mimir 是一支实验乐队，成员包括爱德华·卡-斯佩尔（Edward Ka-Spel）、吉姆·奥罗克（Jim O'Rourke）、克里斯托弗·希曼（Christoph Heeman）、西曼（Seeman）和安德烈亚斯·马丁（Andreas Martin）。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/df5281ca-c479-4b16-acc3-1b1a15f34501"
@@ -31,7 +31,7 @@
     {
       "to": "the-tear-garden",
       "toName": "The Tear Garden",
-      "toArea": "Vancouver",
+      "toArea": "温哥华",
       "toYears": "1986–",
       "type": "member",
       "label": "Edward Ka-Spel・The Silverman",

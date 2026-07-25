@@ -6,9 +6,7 @@
   "countryCode": null,
   "country": null,
   "years": null,
-  "genres": [
-    "Likedis Auto"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "フライング・ロケットマン",
@@ -35,6 +33,8 @@
       "year": 2010
     }
   ],
+  "intro": "ロケットマン是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/94c66791-f6df-4623-b7d5-ac10e200db32"

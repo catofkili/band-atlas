@@ -17,8 +17,8 @@
       "year": 2008
     }
   ],
-  "intro": "ランドルフ・ピーター・ベストはイギリスのドラマー。メジャーデビューする直前までビートルズ・メンバーだったので「5人目のビートルズ」と呼ばれている。",
-  "introLang": "ja",
+  "intro": "兰道夫·彼得·贝斯特是英国鼓手。由于在正式出道前曾是披头士乐队成员，因此被称为“第五位披头士”。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f7f024fc-1b17-4a1c-b70c-7c783ec09500"
@@ -38,7 +38,7 @@
     {
       "to": "the-beat-brothers",
       "toName": "The Beat Brothers",
-      "toArea": "Hamburg",
+      "toArea": "汉堡",
       "toYears": "1961–",
       "type": "member",
       "label": "Pete Best",

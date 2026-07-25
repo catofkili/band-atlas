@@ -52,6 +52,8 @@ data/
   source/
     generated.json      爬来的，量大只有硬事实（勿手改）
     intros.json         维基百科首段（勿手改）
+    translations-zh.json DeepL 中文翻译缓存（不含密钥）
+    zh-overrides.json   机器翻译明显失真时的人工中文校对
     influences.json     Wikidata P737 影响关系（勿手改）
     scene-jrock.json    人工整理，覆盖层：中文简介、轶事、恩怨
   bands/<id>.json       构建产物，每支乐队一份
@@ -60,6 +62,7 @@ tools/
   crawl.mjs             爬 MusicBrainz，穿过乐手把乐队连起来
   fetch-popular-seeds.mjs ListenBrainz 全站收听量榜（热门度顺序）
   fetch-intros.mjs      Wikidata 找条目 → 维基百科取首段
+  translate-zh.mjs      外文简介、地区、流派 → 简体中文翻译缓存
   fetch-influences.mjs  Wikidata P737「受谁影响」→ 只留网内关系
   build-data.mjs        三层合并、展开成双向边、校验
   build-standalone.mjs  压成一个自包含 HTML
@@ -72,6 +75,7 @@ tools/
 node tools/fetch-popular-seeds.mjs                             # ListenBrainz 全站热度榜（1000 位）
 node tools/crawl.mjs --max-bands 400 --depth 2 --seed-limit 24 # 按热门榜顺序扩展，约 20 分钟
 node tools/fetch-intros.mjs                      # 约 1 分钟
+DEEPL_AUTH_KEY=... node tools/translate-zh.mjs   # 只翻新增或源文变化的条目
 node tools/fetch-influences.mjs                  # Wikidata 影响关系，秒级
 node tools/build-data.mjs                        # 秒级
 node tools/build-standalone.mjs
@@ -85,12 +89,14 @@ node tools/build-standalone.mjs
 凡是共享过同一个乐手的两支乐队之间就落一条边，标签写那个人的名字。
 共享的乐手越多，这条关系越靠前。这正好就是「某支乐队的鼓手后来去了哪儿」。
 
-**三层合并**，下层只填上层没写的字段：
+**五层合并**，下层只填上层没写的字段：
 
 | 层 | 来源 | 内容 |
 |---|---|---|
 | 底 | `generated.json` | MusicBrainz：名字、地区、年代、流派、专辑、成员流动 |
 | 中 | `intros.json` | 维基百科首段（中文优先，退到日文、英文） |
+| 中 | `translations-zh.json` | DeepL：把英日简介、地区和流派统一为简体中文 |
+| 高 | `zh-overrides.json` | 人工校正截断、错译和维基条目串线 |
 | 顶 | `scene-jrock.json` | 人工：中文简介、代表曲、轶事，以及数据库里没有的恩怨 |
 
 乐队 id 以人工那层为准——已经分享出去的链接（`#/band/straightener`）不能因为重跑数据就失效。

@@ -2,7 +2,7 @@
   "id": "the-smile",
   "mbid": "9055fca5-69bc-4d47-b569-ab2012a19565",
   "name": "The Smile",
-  "area": null,
+  "area": "英国",
   "countryCode": "GB",
   "country": "英国",
   "years": null,
@@ -31,7 +31,7 @@
     {
       "to": "radiohead",
       "toName": "Radiohead",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1991–",
       "type": "member",
       "label": "Jonny Greenwood・Thom Yorke・副项目",
@@ -42,7 +42,7 @@
     {
       "to": "on-a-friday",
       "toName": "On a Friday",
-      "toArea": "Abingdon-on-Thames",
+      "toArea": "泰晤士河畔阿宾顿",
       "toYears": "1985–1991",
       "type": "member",
       "label": "Jonny Greenwood・Thom Yorke",

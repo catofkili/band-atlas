@@ -8,6 +8,8 @@
   "years": "2018–",
   "genres": [],
   "albums": [],
+  "intro": "BOØWY杉並是一支来自日本的音乐团体，活跃时期为2018–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d9dbcb5e-d167-470f-a0f2-657c79bb364f"
@@ -16,7 +18,7 @@
     {
       "to": "mucc",
       "toName": "MUCC",
-      "toArea": "Ibaraki",
+      "toArea": "茨城",
       "toYears": "1997–",
       "type": "member",
       "label": "ミヤ",

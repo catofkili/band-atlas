@@ -7,8 +7,7 @@
   "country": "日本",
   "years": "2012–",
   "genres": [
-    "Alternative Rock",
-    "J-Rock"
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -20,8 +19,8 @@
       "year": 2015
     }
   ],
-  "intro": "geek sleep sheepは、日本の3人組ロックバンド。",
-  "introLang": "ja",
+  "intro": "geek sleep sheep是一支来自日本的三人摇滚乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7276e4b7-b687-4c7f-9984-541bc760ed8d"

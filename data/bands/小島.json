@@ -2,12 +2,14 @@
   "id": "小島",
   "mbid": "a6d9f7f5-9b98-48c6-88c1-d2f9c91a1734",
   "name": "小島",
-  "area": "Hong Kong",
+  "area": "香港",
   "countryCode": "HK",
   "country": "香港",
   "years": "1985–1986",
   "genres": [],
   "albums": [],
+  "intro": "小島是一支来自香港的音乐团体，活跃时期为1985–1986。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a6d9f7f5-9b98-48c6-88c1-d2f9c91a1734"
@@ -16,7 +18,7 @@
     {
       "to": "小島樂隊",
       "toName": "小島樂隊",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": "1985–1986",
       "type": "member",
       "label": "黎允文・區新明",
@@ -27,7 +29,7 @@
     {
       "to": "凡風",
       "toName": "凡風",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": null,
       "type": "member",
       "label": "區新明",
@@ -38,7 +40,7 @@
     {
       "to": "天織堂",
       "toName": "天織堂",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": null,
       "type": "member",
       "label": "黎允文",

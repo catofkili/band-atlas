@@ -2,15 +2,14 @@
   "id": "chino-horde",
   "mbid": "d5a16c6d-49d7-4f48-ac5f-6c312f966947",
   "name": "Chino Horde",
-  "area": "Little Rock",
+  "area": "小石城",
   "countryCode": "US",
   "country": "美国",
   "years": "1992–1993",
-  "genres": [
-    "Emo",
-    "Emocore"
-  ],
+  "genres": [],
   "albums": [],
+  "intro": "Chino Horde是一支来自小石城的音乐团体，活跃时期为1992–1993。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d5a16c6d-49d7-4f48-ac5f-6c312f966947"

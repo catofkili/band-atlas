@@ -2,15 +2,11 @@
   "id": "マキシマム-ザ-ホルモン",
   "mbid": "fb01635c-51fc-4cad-b71f-62e18bb3433b",
   "name": "マキシマム ザ ホルモン",
-  "area": "Hachiōji",
+  "area": "八王子",
   "countryCode": "JP",
   "country": "日本",
   "years": "1998–",
-  "genres": [
-    "Nu Metal",
-    "Hardcore",
-    "J-Rock"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "A.S.A. Crew",
@@ -47,7 +43,7 @@
     {
       "to": "コロナナモレモモ",
       "toName": "コロナナモレモモ",
-      "toArea": null,
+      "toArea": "日本",
       "toYears": null,
       "type": "member",
       "label": "副项目",

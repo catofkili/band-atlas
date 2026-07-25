@@ -2,13 +2,13 @@
   "id": "amboog-a-lard",
   "mbid": "f2b32ea0-8983-4b30-b706-5840ad083350",
   "name": "Amboog-a-Lard",
-  "area": "Coral Springs",
+  "area": "科拉尔斯普林斯",
   "countryCode": "US",
   "country": "美国",
   "years": "1987–1997",
   "genres": [
-    "Avant-Garde Progressive Metal",
-    "Thrash Metal"
+    "前卫前卫金属",
+    "鞭击金属"
   ],
   "albums": [
     {
@@ -20,6 +20,8 @@
       "year": 1993
     }
   ],
+  "intro": "Amboog-a-Lard是一支来自科拉尔斯普林斯的以前卫前卫金属、鞭击金属为主要风格的音乐团体，活跃时期为1987–1997。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f2b32ea0-8983-4b30-b706-5840ad083350"
@@ -28,7 +30,7 @@
     {
       "to": "marilyn-manson",
       "toName": "Marilyn Manson",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1989–",
       "type": "member",
       "label": "Jeordie White",
@@ -39,7 +41,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Jeordie White",
@@ -61,7 +63,7 @@
     {
       "to": "desert-sessions",
       "toName": "Desert Sessions",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1997–",
       "type": "member",
       "label": "Jeordie White",

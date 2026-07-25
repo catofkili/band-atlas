@@ -2,14 +2,13 @@
   "id": "iron-maiden",
   "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
   "name": "Iron Maiden",
-  "area": "Leyton",
+  "area": "莱顿",
   "countryCode": "GB",
   "country": "英国",
   "years": "1975–",
   "genres": [
-    "Heavy Metal",
-    "Nwobhm",
-    "Metal"
+    "重金属",
+    "金属"
   ],
   "albums": [
     {

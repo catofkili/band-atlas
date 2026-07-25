@@ -29,8 +29,8 @@
       "year": 2003
     }
   ],
-  "intro": "Eleven was an American alternative rock supergroup from Los Angeles, California, formed in 1990 by Alain Johannes (vocals, guitar, sitar, horns), Natasha Shneider (vocals, keyboards, bass), and Jack Irons (drums).",
-  "introLang": "en",
+  "intro": "Eleven是一支来自加利福尼亚州洛杉矶的美国另类摇滚超级乐队，由阿兰·约翰内斯（主唱、吉他、西塔琴、铜管乐器）、娜塔莎·施奈德（主唱、键盘、贝斯）和杰克·艾恩斯（鼓手）于1990年组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/988b6d74-74a3-4476-8987-8eea6ca11117"
@@ -39,7 +39,7 @@
     {
       "to": "queens-of-the-stone-age",
       "toName": "Queens of the Stone Age",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1996–",
       "type": "member",
       "label": "Natasha Shneider・Alain Johannes",
@@ -94,7 +94,7 @@
     {
       "to": "redd-kross",
       "toName": "Redd Kross",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1980–",
       "type": "member",
       "label": "Jack Irons",
@@ -116,7 +116,7 @@
     {
       "to": "desert-sessions",
       "toName": "Desert Sessions",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1997–",
       "type": "member",
       "label": "Alain Johannes",

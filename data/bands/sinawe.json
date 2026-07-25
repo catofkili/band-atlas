@@ -7,7 +7,7 @@
   "country": "韩国",
   "years": "1983–",
   "genres": [
-    "Heavy Metal"
+    "重金属"
   ],
   "albums": [
     {
@@ -35,8 +35,8 @@
       "year": 1997
     }
   ],
-  "intro": "Sinawe (Korean: 시나위; RR: Sinawi) is a heavy metal/rock band from South Korea.",
-  "introLang": "en",
+  "intro": "Sinawe（韩语：시나위；罗马拼音：Sinawi）是一支来自韩国的重金属/摇滚乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7f227d98-fced-4718-9492-83b3b3225530"

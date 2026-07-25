@@ -2,7 +2,7 @@
   "id": "projekct-x",
   "mbid": "c1fb4936-e47a-4a52-b1eb-f3f1606a1d4b",
   "name": "ProjeKct X",
-  "area": null,
+  "area": "英国",
   "countryCode": "GB",
   "country": "英国",
   "years": null,
@@ -13,8 +13,8 @@
       "year": 2000
     }
   ],
-  "intro": "In 2000, while the band King Crimson were recording the album The ConstruKction of Light, the four members simultaneously recorded improvised material as ProjeKct X.",
-  "introLang": "en",
+  "intro": "2000年，当King Crimson乐队正在录制专辑《The ConstruKction of Light》时，四位成员同时以ProjeKct X的名义录制了即兴创作的素材。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c1fb4936-e47a-4a52-b1eb-f3f1606a1d4b"

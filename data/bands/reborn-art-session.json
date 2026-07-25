@@ -8,8 +8,8 @@
   "years": "2017–",
   "genres": [],
   "albums": [],
-  "intro": "Reborn-Art Sessionは、日本の音楽ユニット。所属レコード会社はトイズファクトリー。",
-  "introLang": "ja",
+  "intro": "Reborn-Art Session是日本的一支音乐组合。所属唱片公司为Toys Factory。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b14505cf-040f-4c3b-aa6d-5ac441821311"
@@ -29,7 +29,7 @@
     {
       "to": "mr-children",
       "toName": "Mr.Children",
-      "toArea": "Shibuya",
+      "toArea": "涩谷",
       "toYears": "1989–",
       "type": "member",
       "label": "桜井和寿",

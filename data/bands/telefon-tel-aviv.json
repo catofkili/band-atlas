@@ -2,14 +2,14 @@
   "id": "telefon-tel-aviv",
   "mbid": "453f1594-112e-4d3c-921a-8d14e9c97b2e",
   "name": "Telefon Tel Aviv",
-  "area": "New Orleans",
+  "area": "新奥尔良",
   "countryCode": "US",
   "country": "美国",
   "years": "1999–",
   "genres": [
-    "Ambient",
-    "Ambient Techno",
-    "Downtempo"
+    "氛围音乐",
+    "氛围科技舞曲",
+    "慢拍"
   ],
   "albums": [
     {
@@ -29,8 +29,8 @@
       "year": 2019
     }
   ],
-  "intro": "テレフォン・テル・アヴィヴ (Telefon Tel Aviv) はイリノイ州、シカゴを拠点とするアメリカのエレクトロニック・ミュージシャン。",
-  "introLang": "ja",
+  "intro": "Telefon Tel Aviv 是一支以伊利诺伊州芝加哥为据点的美国电子音乐人组合。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/453f1594-112e-4d3c-921a-8d14e9c97b2e"
@@ -39,7 +39,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Joshua Eustis",

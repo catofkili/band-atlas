@@ -13,6 +13,8 @@
       "year": 2003
     }
   ],
+  "intro": "wirebox是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6f6f4f2e-c0c5-4bb8-9962-482e65fa35e9"

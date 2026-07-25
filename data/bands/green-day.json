@@ -2,14 +2,14 @@
   "id": "green-day",
   "mbid": "084308bd-1654-436f-ba03-df6697104e19",
   "name": "Green Day",
-  "area": "Berkeley",
+  "area": "伯克利",
   "countryCode": "US",
   "country": "美国",
   "years": "1989–",
   "genres": [
-    "Punk Rock",
-    "Pop Punk",
-    "Alternative Rock"
+    "朋克摇滚",
+    "流行朋克",
+    "另类摇滚"
   ],
   "albums": [
     {
@@ -47,7 +47,7 @@
     {
       "to": "the-network",
       "toName": "The Network",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "2003–",
       "type": "member",
       "label": "Mike Dirnt・Tré Cool",
@@ -91,7 +91,7 @@
     {
       "to": "samiam",
       "toName": "Samiam",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1988–",
       "type": "member",
       "label": "Tré Cool",
@@ -157,7 +157,7 @@
     {
       "to": "blink-182",
       "toName": "blink‐182",
-      "toArea": "Poway",
+      "toArea": "美国",
       "toYears": "1992–",
       "type": "influence",
       "label": "影响关系",
@@ -179,7 +179,7 @@
     {
       "to": "fall-out-boy",
       "toName": "Fall Out Boy",
-      "toArea": "Wilmette",
+      "toArea": "威尔梅特",
       "toYears": "2001–",
       "type": "influence",
       "label": "影响关系",
@@ -201,7 +201,7 @@
     {
       "to": "lostprophets",
       "toName": "Lostprophets",
-      "toArea": "Pontypridd",
+      "toArea": "庞蒂普里德",
       "toYears": "1997–2013",
       "type": "influence",
       "label": "影响关系",
@@ -223,7 +223,7 @@
     {
       "to": "sex-pistols",
       "toName": "Sex Pistols",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "influence",
       "label": "影响关系",

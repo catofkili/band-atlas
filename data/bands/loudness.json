@@ -7,9 +7,9 @@
   "country": "日本",
   "years": "1981–",
   "genres": [
-    "Heavy Metal",
-    "Hard Rock",
-    "Metal"
+    "重金属",
+    "硬摇滚",
+    "金属"
   ],
   "albums": [
     {
@@ -47,7 +47,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "TAIJI",

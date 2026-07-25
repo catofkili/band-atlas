@@ -7,9 +7,9 @@
   "country": "日本",
   "years": "1978–",
   "genres": [
-    "Experimental Rock",
-    "Noise Rock",
-    "Psychedelic Rock"
+    "实验摇滚",
+    "噪音摇滚",
+    "迷幻摇滚"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1998
     }
   ],
-  "intro": "Fushitsusha (不失者) is a Japanese rock band specialising in experimental and psychedelic rock genres.",
-  "introLang": "en",
+  "intro": "Fushitsusha（不失者）是一支专注于实验摇滚和迷幻摇滚风格的日本摇滚乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/19184fd0-fdff-4d80-aaf6-c196d7f21946"

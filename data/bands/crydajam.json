@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "Crydajam是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ed13185d-a540-4ab4-ab04-0033c1e0d1b0"
@@ -16,7 +18,7 @@
     {
       "to": "le-knight-club",
       "toName": "Le Knight Club",
-      "toArea": "Paris",
+      "toArea": "巴黎",
       "toYears": "1997–",
       "type": "member",
       "label": "Guy‐Manuel de Homem‐Christo・Éric Chédeville",
@@ -27,7 +29,7 @@
     {
       "to": "daft-punk",
       "toName": "Daft Punk",
-      "toArea": "Paris",
+      "toArea": "巴黎",
       "toYears": "1993–2021",
       "type": "member",
       "label": "Guy‐Manuel de Homem‐Christo",
@@ -38,7 +40,7 @@
     {
       "to": "darlin",
       "toName": "Darlin’",
-      "toArea": "Versailles",
+      "toArea": "凡尔赛",
       "toYears": "1992–1993",
       "type": "member",
       "label": "Guy‐Manuel de Homem‐Christo",

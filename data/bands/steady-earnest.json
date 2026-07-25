@@ -17,6 +17,8 @@
       "year": 1994
     }
   ],
+  "intro": "Steady Earnest是一支来自美国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9d7a4c72-2013-41ed-9a91-2cb4032cb5cc"
@@ -36,7 +38,7 @@
     {
       "to": "thunderbox",
       "toName": "Thunderbox",
-      "toArea": "Redondo Beach",
+      "toArea": "雷东多海滩",
       "toYears": null,
       "type": "member",
       "label": "Jack Sherman",

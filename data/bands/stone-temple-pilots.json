@@ -2,14 +2,13 @@
   "id": "stone-temple-pilots",
   "mbid": "8c32bb01-58a3-453b-8050-8c0620edb0e5",
   "name": "Stone Temple Pilots",
-  "area": "San Diego",
+  "area": "圣地亚哥",
   "countryCode": "US",
   "country": "美国",
   "years": "1990–",
   "genres": [
-    "Grunge",
-    "Alternative Rock",
-    "Hard Rock"
+    "另类摇滚",
+    "硬摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 2010
     }
   ],
-  "intro": "ストーン・テンプル・パイロッツは、アメリカ合衆国サンディエゴ出身のロックバンド。略称はSTP。",
-  "introLang": "ja",
+  "intro": "Stone Temple Pilots是一支来自美国圣地亚哥的摇滚乐队。简称STP。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8c32bb01-58a3-453b-8050-8c0620edb0e5"
@@ -69,7 +68,7 @@
     {
       "to": "linkin-park",
       "toName": "Linkin Park",
-      "toArea": "Agoura Hills",
+      "toArea": "阿古拉希尔斯",
       "toYears": "1996–",
       "type": "member",
       "label": "Chester Bennington",
@@ -80,7 +79,7 @@
     {
       "to": "grey-daze",
       "toName": "Grey Daze",
-      "toArea": "Phoenix",
+      "toArea": "凤凰城",
       "toYears": "1993–",
       "type": "member",
       "label": "Chester Bennington",
@@ -102,7 +101,7 @@
     {
       "to": "velvet-revolver",
       "toName": "Velvet Revolver",
-      "toArea": "Rancho Santa Margarita",
+      "toArea": "兰乔·圣塔玛格丽塔",
       "toYears": "2002–2008",
       "type": "member",
       "label": "Scott Weiland",

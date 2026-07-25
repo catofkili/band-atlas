@@ -7,7 +7,7 @@
   "country": null,
   "years": null,
   "genres": [
-    "New Wave"
+    "新浪潮"
   ],
   "albums": [
     {
@@ -15,8 +15,8 @@
       "year": 2006
     }
   ],
-  "intro": "Jihad Jerry & the Evildoers is the solo project of American musician Gerald Casale, best known as a founding member of the new wave band Devo.",
-  "introLang": "en",
+  "intro": "Jihad Jerry & the Evildoers 是美国音乐人杰拉尔德·卡萨莱（Gerald Casale）的个人音乐项目，他最广为人知的身份是新浪潮乐队 Devo 的创始成员之一。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0612a024-6265-4179-a1a6-12d4141aeccc"
@@ -25,7 +25,7 @@
     {
       "to": "devo",
       "toName": "DEVO",
-      "toArea": "Akron",
+      "toArea": "阿克伦",
       "toYears": "1972–",
       "type": "member",
       "label": "Gerald Casale",

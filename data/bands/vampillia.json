@@ -33,8 +33,8 @@
       "year": 2014
     }
   ],
-  "intro": "Vampilliaは、日本のロックバンド。自称10人＋αの「ブルータル・オーケストラ」。2005年頃関西で結成。",
-  "introLang": "ja",
+  "intro": "Vampillia是一支日本摇滚乐队。自称由10人＋α组成的“残暴管弦乐团”。约于2005年在关西地区成立。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/51c8d6ba-a7b0-4bca-b836-600c003856d2"
@@ -43,7 +43,7 @@
     {
       "to": "violent-magic-orchestra",
       "toName": "Violent Magic Orchestra",
-      "toArea": "[Worldwide]",
+      "toArea": "[全球]",
       "toYears": "2016–",
       "type": "member",
       "label": "真部脩一・コイデシュンペイ",

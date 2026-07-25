@@ -33,6 +33,8 @@
       "year": 2014
     }
   ],
+  "intro": "古都の夕べ是一支来自东京的音乐团体，活跃时期为2013–。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/213e3919-874d-4c32-ad5c-52efbd623d2a"
@@ -63,7 +65,7 @@
     {
       "to": "violent-magic-orchestra",
       "toName": "Violent Magic Orchestra",
-      "toArea": "[Worldwide]",
+      "toArea": "[全球]",
       "toYears": "2016–",
       "type": "member",
       "label": "真部脩一",

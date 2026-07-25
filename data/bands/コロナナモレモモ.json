@@ -2,7 +2,7 @@
   "id": "コロナナモレモモ",
   "mbid": "124d3d7c-23c2-4bfd-8bbe-52978177b536",
   "name": "コロナナモレモモ",
-  "area": null,
+  "area": "日本",
   "countryCode": "JP",
   "country": "日本",
   "years": null,
@@ -13,8 +13,8 @@
       "year": 2021
     }
   ],
-  "intro": "コロナナモレモモは、日本のロックバンド・マキシマム ザ ホルモンによるロックバンドフランチャイズ企画から結成されたバンド。所属事務所はミミカジル。",
-  "introLang": "ja",
+  "intro": "Corona Namoremomo是由日本摇滚乐队Maximum the Hormone发起的摇滚乐队特许经营企划中组建的乐队。所属经纪公司为Mimikajiru。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/124d3d7c-23c2-4bfd-8bbe-52978177b536"
@@ -23,7 +23,7 @@
     {
       "to": "マキシマム-ザ-ホルモン",
       "toName": "マキシマム ザ ホルモン",
-      "toArea": "Hachiōji",
+      "toArea": "八王子",
       "toYears": "1998–",
       "type": "member",
       "label": "副项目",

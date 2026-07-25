@@ -13,6 +13,8 @@
       "year": 2024
     }
   ],
+  "intro": "Infrared Hologram是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/90e6ab93-96d8-44ad-bcb3-53c9c781c93d"
@@ -43,7 +45,7 @@
     {
       "to": "the-pancakes",
       "toName": "The Pancakes",
-      "toArea": "Baden-Württemberg",
+      "toArea": "巴登-符腾堡州",
       "toYears": "1995–",
       "type": "member",
       "label": "Rainer Neeff",

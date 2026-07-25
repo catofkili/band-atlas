@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1985–",
   "genres": [
-    "Industrial",
-    "Alternative",
-    "Rock"
+    "工业音乐",
+    "摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 2010
     }
   ],
-  "intro": "Revolting Cocks, also known as RevCo, are an American-Belgian industrial rock band, and sometimes supergroup, that began as a musical side project for Richard 23 of Front 242, Luc van Acker, and Al Jourgensen of Ministry.",
-  "introLang": "en",
+  "intro": "Revolting Cocks（又名 RevCo）是一支美比混血工业摇滚乐队，有时也被视为超级乐队，最初由 Front 242 乐队的 Richard 23、Luc van Acker 以及 Ministry 乐队的 Al Jourgensen 共同发起，作为他们的音乐副业项目。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2865730a-5757-4005-875e-84d6274cb1c0"
@@ -102,7 +101,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Jeff Ward",
@@ -113,7 +112,7 @@
     {
       "to": "silver-jews",
       "toName": "Silver Jews",
-      "toArea": "Charlottesville",
+      "toArea": "夏洛茨维尔",
       "toYears": "1989–2009",
       "type": "member",
       "label": "Duane Denison",

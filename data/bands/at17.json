@@ -2,14 +2,13 @@
   "id": "at17",
   "mbid": "f5cbdc58-8664-4c42-85d1-fdf672346236",
   "name": "at17",
-  "area": "Hong Kong",
+  "area": "香港",
   "countryCode": "HK",
   "country": "香港",
   "years": "2002–2018",
   "genres": [
-    "2000s",
-    "2000s Cantopop Group",
-    "2000s Hong Kong Debut"
+    "2000年代粤语流行乐团",
+    "2000年代 香港出道"
   ],
   "albums": [
     {
@@ -39,7 +38,7 @@
     {
       "to": "the-duo-band",
       "toName": "The Duo Band",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": null,
       "type": "member",
       "label": "盧凱彤",
@@ -50,7 +49,7 @@
     {
       "to": "3p",
       "toName": "3P",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": "2000–2001",
       "type": "member",
       "label": "林二汶",
@@ -61,7 +60,7 @@
     {
       "to": "lam-family",
       "toName": "Lam Family",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": null,
       "type": "member",
       "label": "林二汶",

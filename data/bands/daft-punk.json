@@ -2,14 +2,12 @@
   "id": "daft-punk",
   "mbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
   "name": "Daft Punk",
-  "area": "Paris",
+  "area": "巴黎",
   "countryCode": "FR",
   "country": "法国",
   "years": "1993–2021",
   "genres": [
-    "Electronic",
-    "House",
-    "French House"
+    "电子音乐"
   ],
   "albums": [
     {
@@ -39,7 +37,7 @@
     {
       "to": "darlin",
       "toName": "Darlin’",
-      "toArea": "Versailles",
+      "toArea": "凡尔赛",
       "toYears": "1992–1993",
       "type": "member",
       "label": "Thomas Bangalter・Guy‐Manuel de Homem‐Christo",
@@ -72,7 +70,7 @@
     {
       "to": "le-knight-club",
       "toName": "Le Knight Club",
-      "toArea": "Paris",
+      "toArea": "巴黎",
       "toYears": "1997–",
       "type": "member",
       "label": "Guy‐Manuel de Homem‐Christo",
@@ -83,7 +81,7 @@
     {
       "to": "together",
       "toName": "Together",
-      "toArea": "Paris",
+      "toArea": "巴黎",
       "toYears": "2000–",
       "type": "member",
       "label": "Thomas Bangalter",

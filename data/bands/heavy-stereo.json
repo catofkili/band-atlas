@@ -2,13 +2,12 @@
   "id": "heavy-stereo",
   "mbid": "201b9c59-fcd8-4ffd-8efe-2bc41a74c494",
   "name": "Heavy Stereo",
-  "area": "Durham",
+  "area": "达勒姆",
   "countryCode": "GB",
   "country": "英国",
   "years": "1995–1996",
   "genres": [
-    "Britpop",
-    "Glam Rock"
+    "英伦摇滚"
   ],
   "albums": [
     {
@@ -16,8 +15,8 @@
       "year": 1996
     }
   ],
-  "intro": "ヘヴィー・ステレオは、イギリスのロック・バンド。 オアシスのギタリストであるゲム・アーチャーが在籍したことで知られる。1970年代のグラムロックからの影響が色濃いサウンドを展開した。",
-  "introLang": "ja",
+  "intro": "Heavy Stereo是一支英国摇滚乐队。该乐队因曾有绿洲乐队（Oasis）的吉他手盖姆·阿彻（Gem Archer）担任成员而闻名。其音乐风格深受1970年代格莱姆摇滚的影响。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/201b9c59-fcd8-4ffd-8efe-2bc41a74c494"

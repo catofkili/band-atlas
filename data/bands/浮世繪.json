@@ -2,13 +2,13 @@
   "id": "浮世繪",
   "mbid": "81036bce-6d7c-445e-a8f1-5830d9e3d5f1",
   "name": "浮世繪",
-  "area": "Hong Kong",
+  "area": "香港",
   "countryCode": "HK",
   "country": "香港",
   "years": "1984–",
   "genres": [
-    "Cantopop",
-    "Synth-Pop"
+    "粤语流行乐",
+    "合成器流行乐"
   ],
   "albums": [
     {
@@ -30,7 +30,7 @@
     {
       "to": "beyond",
       "toName": "Beyond",
-      "toArea": "Hong Kong",
+      "toArea": "香港",
       "toYears": "1983–2005",
       "type": "member",
       "label": "劉志遠",

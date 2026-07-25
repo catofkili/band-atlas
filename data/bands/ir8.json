@@ -8,6 +8,8 @@
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "IR8是一支来自美国的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/55dc4368-4572-4a75-885f-a8739ce6a55c"
@@ -16,7 +18,7 @@
     {
       "to": "exodus",
       "toName": "Exodus",
-      "toArea": "Richmond",
+      "toArea": "里士满",
       "toYears": "1979–",
       "type": "member",
       "label": "Tom Hunting",

@@ -2,14 +2,14 @@
   "id": "angels-airwaves",
   "mbid": "05071a7e-e71c-4306-a509-591cd3686893",
   "name": "Angels & Airwaves",
-  "area": "San Diego",
+  "area": "圣地亚哥",
   "countryCode": "US",
   "country": "美国",
   "years": "2005–",
   "genres": [
-    "Alternative Rock",
-    "Pop Rock",
-    "Space Rock"
+    "另类摇滚",
+    "流行摇滚",
+    "太空摇滚"
   ],
   "albums": [
     {
@@ -47,7 +47,7 @@
     {
       "to": "blink-182",
       "toName": "blink‐182",
-      "toArea": "Poway",
+      "toArea": "美国",
       "toYears": "1992–",
       "type": "member",
       "label": "Tom DeLonge",
@@ -58,7 +58,7 @@
     {
       "to": "lostprophets",
       "toName": "Lostprophets",
-      "toArea": "Pontypridd",
+      "toArea": "庞蒂普里德",
       "toYears": "1997–2013",
       "type": "member",
       "label": "Ilan Rubin",
@@ -69,7 +69,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -80,7 +80,7 @@
     {
       "to": "the-offspring",
       "toName": "The Offspring",
-      "toArea": "Huntington Beach",
+      "toArea": "亨廷顿海滩",
       "toYears": "1984–",
       "type": "member",
       "label": "Atom",
@@ -91,7 +91,7 @@
     {
       "to": "fenix-tx",
       "toName": "Fenix TX",
-      "toArea": "Houston",
+      "toArea": "休斯顿",
       "toYears": "1995–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -102,7 +102,7 @@
     {
       "to": "denver-harbor",
       "toName": "Denver Harbor",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "2002–",
       "type": "member",
       "label": "Ilan Rubin",
@@ -113,7 +113,7 @@
     {
       "to": "the-jaded-hearts-club",
       "toName": "The Jaded Hearts Club",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "2018–",
       "type": "member",
       "label": "Ilan Rubin",

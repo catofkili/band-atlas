@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "1990–",
   "genres": [
-    "Industrial Metal",
-    "Thrash Metal"
+    "工业金属",
+    "鞭击金属"
   ],
   "albums": [
     {
@@ -32,8 +32,8 @@
       "year": 2014
     }
   ],
-  "intro": "Skrew is an American industrial metal band.",
-  "introLang": "en",
+  "intro": "Skrew 是一支美国工业金属乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d41885a6-14ce-4ea4-8ce7-d0b222af897e"

@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "1991–2019",
   "genres": [
-    "Pop Punk",
-    "Punk Rock"
+    "流行朋克",
+    "朋克摇滚"
   ],
   "albums": [
     {
@@ -36,8 +36,8 @@
       "year": 2014
     }
   ],
-  "intro": "ザ・マフス (The Muffs) はアメリカのロックバンド。1991年に結成、ロサンゼルスを拠点として、何度か活動休止を挟みつつ、活動を続けていた。",
-  "introLang": "ja",
+  "intro": "The Muffs 是一支美国摇滚乐队。该乐队成立于1991年，以洛杉矶为据点，虽然期间曾数次暂停活动，但一直持续活跃至今。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/72186b6a-fe30-4e2a-9c31-852e23ff93af"
@@ -46,7 +46,7 @@
     {
       "to": "white-flag",
       "toName": "White Flag",
-      "toArea": "Moreno Valley",
+      "toArea": "莫雷诺谷",
       "toYears": "1982–",
       "type": "member",
       "label": "Kim Shattuck・Melanie Vammen・Ronnie Barnett",
@@ -79,7 +79,7 @@
     {
       "to": "redd-kross",
       "toName": "Redd Kross",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1980–",
       "type": "member",
       "label": "Roy McDonald",
@@ -90,7 +90,7 @@
     {
       "to": "the-tater-totz",
       "toName": "The Tater Totz",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1987–",
       "type": "member",
       "label": "Melanie Vammen",

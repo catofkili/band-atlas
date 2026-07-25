@@ -2,14 +2,13 @@
   "id": "parliament",
   "mbid": "d1947987-9614-49ae-bd36-8000e6b6f7d0",
   "name": "Parliament",
-  "area": "Plainfield",
+  "area": "普莱恩菲尔德",
   "countryCode": "US",
   "country": "美国",
   "years": "1968–1980",
   "genres": [
-    "Funk",
-    "P-Funk",
-    "Psychedelic Soul"
+    "放克",
+    "迷幻灵魂乐"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 1977
     }
   ],
-  "intro": "パーラメント (Parliament) は、1955年に14歳のジョージ・クリントンが結成したドゥーワップ・グループ、「ザ・パーラメンツ」を母体としたアメリカ合衆国のファンクバンドである。",
-  "introLang": "ja",
+  "intro": "Parliament 是一支美国放克乐队，其前身是1955年由当时年仅14岁的乔治·克林顿组建的都瓦普组合“The Parliaments”。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d1947987-9614-49ae-bd36-8000e6b6f7d0"
@@ -47,7 +46,7 @@
     {
       "to": "funkadelic",
       "toName": "Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–1981",
       "type": "member",
       "label": "Bootsy Collins・Jerome Brailey・Michael Hampton・Larry Fratangelo・Lonnie Motley・Greg Boyer・George Clinton・Bennie Cowan・Ray Davis・Glen Goins・Fuzzy Haskins・Eddie Hazel・Larry Heckstall・Cordell Mosson・Garry Shider・Calvin Simon・Grady Thomas・Undi$co Kidd・Ramon \"Tiki\" Fulwood",
@@ -69,7 +68,7 @@
     {
       "to": "parliament-funkadelic",
       "toName": "Parliament-Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–",
       "type": "member",
       "label": "Bootsy Collins・Gary “Mudbone” Cooper・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Garry Shider・Undi$co Kidd・Maceo Parker・David Spradley・Fred Wesley",
@@ -91,7 +90,7 @@
     {
       "to": "praxis",
       "toName": "Praxis",
-      "toArea": "Brooklyn",
+      "toArea": "布鲁克林",
       "toYears": "1992–2011",
       "type": "member",
       "label": "Bootsy Collins",
@@ -135,7 +134,7 @@
     {
       "to": "parliament-funkadelic",
       "toName": "Parliament-Funkadelic",
-      "toArea": "Plainfield",
+      "toArea": "普莱恩菲尔德",
       "toYears": "1968–",
       "type": "guest",
       "label": "合作",

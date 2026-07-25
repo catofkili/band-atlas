@@ -7,9 +7,9 @@
   "country": "美国",
   "years": null,
   "genres": [
-    "Garage Punk",
-    "Star Trek",
-    "Surf Rock"
+    "车库朋克",
+    "《星际迷航》",
+    "冲浪摇滚"
   ],
   "albums": [
     {
@@ -17,6 +17,8 @@
       "year": 1994
     }
   ],
+  "intro": "Thee Shatners是一支来自旧金山的以车库朋克、《星际迷航》为主要风格的音乐团体。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4245d894-85af-4ee8-820e-9e46a52d899e"
@@ -36,7 +38,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "member",
       "label": "John Kiffmeyer",

@@ -6,10 +6,7 @@
   "countryCode": "JP",
   "country": "日本",
   "years": "1973–",
-  "genres": [
-    "Likedis Auto",
-    "Nyū MyūJikku"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "キャラメル・ママ",
@@ -36,8 +33,8 @@
       "year": 2003
     }
   ],
-  "intro": "ティン・パン・アレー は、1973年に結成された日本のバンド。所属していた事務所は桑原オフィス。",
-  "introLang": "ja",
+  "intro": "Tin Pan Alley 是一支成立于1973年的日本乐队。所属经纪公司为桑原事务所。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/21914c00-4e74-48e8-9f58-15b4af1b38d8"

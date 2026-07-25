@@ -6,9 +6,7 @@
   "countryCode": null,
   "country": null,
   "years": null,
-  "genres": [
-    "Likedis Auto"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "龍馬のハナ唄 赤盤",
@@ -23,6 +21,8 @@
       "year": 2011
     }
   ],
+  "intro": "高浪慶太郎となんがさきふぁいぶ是一支音乐团体。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/284a0755-f402-4ceb-8a9c-0bcc86ad3bdf"

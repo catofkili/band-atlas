@@ -2,7 +2,7 @@
   "id": "gizmodrome",
   "mbid": "2ab80f85-4b7f-4be8-a74f-a954c8f53cbb",
   "name": "Gizmodrome",
-  "area": "Milano",
+  "area": "米兰",
   "countryCode": "IT",
   "country": "意大利",
   "years": "2017–",
@@ -13,8 +13,8 @@
       "year": 2017
     }
   ],
-  "intro": "Gizmodrome (sometimes known as Copeland, King, Cosma & Belew) is a British-Italian-American rock supergroup formed in Milan, Italy in 2017.",
-  "introLang": "en",
+  "intro": "Gizmodrome（有时也被称为Copeland, King, Cosma & Belew）是一支由英国、意大利和美国音乐人组成的摇滚超级乐队，于2017年在意大利米兰成立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2ab80f85-4b7f-4be8-a74f-a954c8f53cbb"

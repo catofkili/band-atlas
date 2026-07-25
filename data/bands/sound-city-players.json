@@ -8,8 +8,8 @@
   "years": "2012–2013",
   "genres": [],
   "albums": [],
-  "intro": "The Sound City Players were a supergroup formed by ex-Nirvana drummer and Foo Fighters guitarist and lead-singer Dave Grohl.",
-  "introLang": "en",
+  "intro": "The Sound City Players 是一支由前涅槃乐队（Nirvana）鼓手、Foo Fighters 乐队吉他手兼主唱戴夫·格罗尔（Dave Grohl）组建的超级乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b9a9487b-abf6-4a95-a8fd-238cc093e99b"
@@ -29,7 +29,7 @@
     {
       "to": "desert-sessions",
       "toName": "Desert Sessions",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1997–",
       "type": "member",
       "label": "Josh Homme・Alain Johannes・Chris Goss",
@@ -51,7 +51,7 @@
     {
       "to": "queens-of-the-stone-age",
       "toName": "Queens of the Stone Age",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1996–",
       "type": "member",
       "label": "Josh Homme・Alain Johannes",
@@ -73,7 +73,7 @@
     {
       "to": "adolescents",
       "toName": "Adolescents",
-      "toArea": "Fullerton",
+      "toArea": "富勒顿",
       "toYears": "1979–",
       "type": "member",
       "label": "Pat Smear",
@@ -117,7 +117,7 @@
     {
       "to": "slipknot",
       "toName": "Slipknot",
-      "toArea": "Des Moines",
+      "toArea": "得梅因",
       "toYears": "1995–",
       "type": "member",
       "label": "Corey Taylor",
@@ -150,7 +150,7 @@
     {
       "to": "christ-on-a-crutch",
       "toName": "Christ on a Crutch",
-      "toArea": "Richland",
+      "toArea": "里奇兰",
       "toYears": "1983–1993",
       "type": "member",
       "label": "Nate Mendel",
@@ -183,7 +183,7 @@
     {
       "to": "gunash",
       "toName": "Gunash",
-      "toArea": "Italy",
+      "toArea": "意大利",
       "toYears": "2003–",
       "type": "member",
       "label": "Rami Jaffee",
@@ -205,7 +205,7 @@
     {
       "to": "the-tater-totz",
       "toName": "The Tater Totz",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1987–",
       "type": "member",
       "label": "Pat Smear",
@@ -282,7 +282,7 @@
     {
       "to": "diddly-squat",
       "toName": "Diddly Squat",
-      "toArea": "Richland",
+      "toArea": "里奇兰",
       "toYears": null,
       "type": "member",
       "label": "Nate Mendel",

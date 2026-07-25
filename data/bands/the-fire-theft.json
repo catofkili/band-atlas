@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "2001–2004",
   "genres": [
-    "Alternative Rock",
-    "Indie Rock"
+    "另类摇滚",
+    "独立摇滚"
   ],
   "albums": [
     {
@@ -16,8 +16,8 @@
       "year": 2003
     }
   ],
-  "intro": "The Fire Theft was an American rock band from Seattle, Washington.",
-  "introLang": "en",
+  "intro": "The Fire Theft 是一支来自华盛顿州西雅图的美国摇滚乐队。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cb8b0935-af9d-4d26-8ceb-dbfeeaf75aad"
@@ -48,7 +48,7 @@
     {
       "to": "christ-on-a-crutch",
       "toName": "Christ on a Crutch",
-      "toArea": "Richland",
+      "toArea": "里奇兰",
       "toYears": "1983–1993",
       "type": "member",
       "label": "Nate Mendel",
@@ -81,7 +81,7 @@
     {
       "to": "diddly-squat",
       "toName": "Diddly Squat",
-      "toArea": "Richland",
+      "toArea": "里奇兰",
       "toYears": null,
       "type": "member",
       "label": "Nate Mendel",

@@ -8,6 +8,8 @@
   "years": "1969–1970",
   "genres": [],
   "albums": [],
+  "intro": "Sour Milk Sea是一支音乐团体，活跃时期为1969–1970。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f25910c3-e986-406e-8b00-82ed581fcee5"
@@ -27,7 +29,7 @@
     {
       "to": "the-cure",
       "toName": "The Cure",
-      "toArea": "Crawley",
+      "toArea": "克劳利",
       "toYears": "1977–",
       "type": "member",
       "label": "Boris Williams",

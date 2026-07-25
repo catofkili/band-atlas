@@ -8,6 +8,8 @@
   "years": "2020–2020",
   "genres": [],
   "albums": [],
+  "intro": "Mick Fleetwood and Friends是一支音乐团体，活跃时期为2020–2020。",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7b4a9621-17d8-4eb3-b2b3-48a1ab0b2fb2"
@@ -27,7 +29,7 @@
     {
       "to": "exodus",
       "toName": "Exodus",
-      "toArea": "Richmond",
+      "toArea": "里士满",
       "toYears": "1979–",
       "type": "member",
       "label": "Kirk Hammett",
@@ -148,7 +150,7 @@
     {
       "to": "maxwell-house-ranch-band",
       "toName": "Maxwell House Ranch Band",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Kirk Hammett",
@@ -170,7 +172,7 @@
     {
       "to": "spastik-children",
       "toName": "Spastik Children",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Kirk Hammett",
@@ -181,7 +183,7 @@
     {
       "to": "the-wedding-band",
       "toName": "The Wedding Band",
-      "toArea": "Hawaii",
+      "toArea": "夏威夷",
       "toYears": "2018–",
       "type": "member",
       "label": "Kirk Hammett",

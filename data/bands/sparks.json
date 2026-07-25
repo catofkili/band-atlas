@@ -7,9 +7,8 @@
   "country": "美国",
   "years": "1970–",
   "genres": [
-    "Art Pop",
-    "Glam Rock",
-    "Art Rock"
+    "艺术流行乐",
+    "艺术摇滚"
   ],
   "albums": [
     {
@@ -37,8 +36,8 @@
       "year": 1976
     }
   ],
-  "intro": "スパークスは、アメリカ合衆国のロック&ポップ・バンド。1970年にロンとラッセルのメイル兄弟によって結成された。最初はハーフネルソンというバンド名だった。",
-  "introLang": "ja",
+  "intro": "Sparks是一支来自美国的摇滚与流行乐队。1970年由罗恩和拉塞尔·梅尔兄弟组建。最初的乐队名称是Half Nelson。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f319b57a-a494-40f6-a467-3d196d3484e6"
@@ -47,7 +46,7 @@
     {
       "to": "devo",
       "toName": "DEVO",
-      "toArea": "Akron",
+      "toArea": "阿克伦",
       "toYears": "1972–",
       "type": "member",
       "label": "David Kendrick",
@@ -58,7 +57,7 @@
     {
       "to": "redd-kross",
       "toName": "Redd Kross",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1980–",
       "type": "member",
       "label": "Steve McDonald",
@@ -69,7 +68,7 @@
     {
       "to": "the-tater-totz",
       "toName": "The Tater Totz",
-      "toArea": "Hawthorne",
+      "toArea": "霍桑",
       "toYears": "1987–",
       "type": "member",
       "label": "Steve McDonald",
@@ -135,7 +134,7 @@
     {
       "to": "ffs",
       "toName": "FFS",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "guest",
       "label": "合作",

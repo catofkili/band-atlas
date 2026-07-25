@@ -7,7 +7,7 @@
   "country": "日本",
   "years": "2000–2002",
   "genres": [
-    "Visual Kei"
+    "视觉系"
   ],
   "albums": [
     {
@@ -19,8 +19,8 @@
       "year": 2002
     }
   ],
-  "intro": "Dope HEADzは、日本のロックバンド。",
-  "introLang": "ja",
+  "intro": "Dope HEADz是一支日本摇滚乐队。",
+  "introLang": "zh",
   "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/495bc417-f251-459b-b55d-5ddab23e3410"
@@ -40,7 +40,7 @@
     {
       "to": "x-japan",
       "toName": "X JAPAN",
-      "toArea": "Tateyama",
+      "toArea": "立山",
       "toYears": "1982–",
       "type": "member",
       "label": "PATA",

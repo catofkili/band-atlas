@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "1992–2000",
   "genres": [
-    "Alternative Rock",
-    "Pop Rock"
+    "另类摇滚",
+    "流行摇滚"
   ],
   "albums": [
     {
@@ -20,8 +20,8 @@
       "year": 1997
     }
   ],
-  "intro": "Love Spit Love was an English–American alternative rock band founded in 1992 by the English singer Richard Butler during the 1990s hiatus of the Psychedelic Furs.",
-  "introLang": "en",
+  "intro": "Love Spit Love 是一支英美混血另类摇滚乐队，由英国歌手理查德·巴特勒（Richard Butler）于 1992 年在 Psychedelic Furs 乐队 1990 年代暂停活动期间创立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d703af9a-d993-4f00-92aa-14ea284e39bd"

@@ -17,8 +17,8 @@
       "year": 2003
     }
   ],
-  "intro": "The Influents were an American punk rock band formed in 1999 by Jason White and Bill Schneider.",
-  "introLang": "en",
+  "intro": "The Influents 是一支美国朋克摇滚乐队，由杰森·怀特（Jason White）和比尔·施耐德（Bill Schneider）于1999年组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c97a50b1-e2c7-4810-99b9-061e6da522b2"
@@ -27,7 +27,7 @@
     {
       "to": "pinhead-gunpowder",
       "toName": "Pinhead Gunpowder",
-      "toArea": "Arcata",
+      "toArea": "阿卡塔",
       "toYears": "1990–",
       "type": "member",
       "label": "Bill Schneider",

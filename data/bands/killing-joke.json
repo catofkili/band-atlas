@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1979–",
   "genres": [
-    "Post-Punk",
-    "Industrial Metal",
-    "New Wave"
+    "后朋克",
+    "工业金属",
+    "新浪潮"
   ],
   "albums": [
     {
@@ -37,8 +37,8 @@
       "year": 1986
     }
   ],
-  "intro": "キリング・ジョークは、イングランド出身のロック・バンド。 インダストリアル・ロックの代表的グループとして知られる。",
-  "introLang": "ja",
+  "intro": "Killing Joke是一支来自英格兰的摇滚乐队。作为工业摇滚的代表性乐队而闻名。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a"
@@ -69,7 +69,7 @@
     {
       "to": "godflesh",
       "toName": "Godflesh",
-      "toArea": "Birmingham",
+      "toArea": "伯明翰",
       "toYears": "1988–",
       "type": "member",
       "label": "Paul Raven",

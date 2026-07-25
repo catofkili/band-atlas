@@ -7,9 +7,8 @@
   "country": null,
   "years": "1986–1987",
   "genres": [
-    "Emo",
-    "Hardcore Punk",
-    "Post-Hardcore"
+    "硬核朋克",
+    "后硬核"
   ],
   "albums": [
     {
@@ -17,8 +16,8 @@
       "year": 1999
     }
   ],
-  "intro": "One Last Wish was a short-lived post-hardcore band from Washington, D.",
-  "introLang": "en",
+  "intro": "One Last Wish 是一支来自华盛顿州的短命后硬核乐队，D.",
+  "introLang": "zh",
   "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/94f18045-7fe2-41df-bf24-0bed21c88eb8"

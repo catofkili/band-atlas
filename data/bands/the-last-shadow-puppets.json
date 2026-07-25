@@ -7,9 +7,8 @@
   "country": "英国",
   "years": "2007–",
   "genres": [
-    "Indie Rock",
-    "Baroque Pop",
-    "Britannique"
+    "独立摇滚",
+    "巴洛克流行乐"
   ],
   "albums": [
     {
@@ -21,8 +20,8 @@
       "year": 2016
     }
   ],
-  "intro": "ラスト・シャドウ・パペッツは、イギリスのロック・バンド。 アークティック・モンキーズのアレックス・ターナーと、ラスカルズのマイルズ・ケインによって結成された。",
-  "introLang": "ja",
+  "intro": "Last Shadow Puppets是一支英国摇滚乐队。由Arctic Monkeys乐队的亚历克斯·特纳和The Rascals乐队的迈尔斯·凯恩共同组建。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8a3e1c4f-59a8-457a-826c-fe961419a8ae"
@@ -31,7 +30,7 @@
     {
       "to": "arctic-monkeys",
       "toName": "Arctic Monkeys",
-      "toArea": "High Green",
+      "toArea": "英国",
       "toYears": "2002–",
       "type": "member",
       "label": "Alex Turner",
@@ -42,7 +41,7 @@
     {
       "to": "the-jaded-hearts-club",
       "toName": "The Jaded Hearts Club",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "2018–",
       "type": "member",
       "label": "Miles Kane",

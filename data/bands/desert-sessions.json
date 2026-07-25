@@ -2,14 +2,14 @@
   "id": "desert-sessions",
   "mbid": "7a2e6b55-f149-4e74-be6a-30a1b1a387bb",
   "name": "Desert Sessions",
-  "area": "Palm Desert",
+  "area": "棕榈沙漠",
   "countryCode": "US",
   "country": "美国",
   "years": "1997–",
   "genres": [
-    "Stoner Rock",
-    "Alternative Rock",
-    "Desert Rock"
+    "迷幻摇滚",
+    "另类摇滚",
+    "沙漠摇滚"
   ],
   "albums": [
     {
@@ -25,8 +25,8 @@
       "year": 2019
     }
   ],
-  "intro": "The Desert Sessions are a musical collective series, founded by Josh Homme in 1997.",
-  "introLang": "en",
+  "intro": "“沙漠音乐会”（The Desert Sessions）是一系列音乐合作项目，由乔什·霍姆（Josh Homme）于1997年创立。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7a2e6b55-f149-4e74-be6a-30a1b1a387bb"
@@ -35,7 +35,7 @@
     {
       "to": "queens-of-the-stone-age",
       "toName": "Queens of the Stone Age",
-      "toArea": "Palm Desert",
+      "toArea": "棕榈沙漠",
       "toYears": "1996–",
       "type": "member",
       "label": "Josh Homme・Dave Catching・Mark Lanegan・Joey Castillo・Troy Van Leeuwen・Alain Johannes",
@@ -90,7 +90,7 @@
     {
       "to": "marilyn-manson",
       "toName": "Marilyn Manson",
-      "toArea": "Fort Lauderdale",
+      "toArea": "劳德代尔堡",
       "toYears": "1989–",
       "type": "member",
       "label": "Jeordie White",
@@ -101,7 +101,7 @@
     {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
+      "toArea": "克利夫兰",
       "toYears": "1988–",
       "type": "member",
       "label": "Jeordie White",
@@ -123,7 +123,7 @@
     {
       "to": "ween",
       "toName": "Ween",
-      "toArea": "New Hope",
+      "toArea": "New Hope简体中文（大陆）",
       "toYears": "1984–2024",
       "type": "member",
       "label": "Dean Ween",
@@ -134,7 +134,7 @@
     {
       "to": "amboog-a-lard",
       "toName": "Amboog-a-Lard",
-      "toArea": "Coral Springs",
+      "toArea": "科拉尔斯普林斯",
       "toYears": "1987–1997",
       "type": "member",
       "label": "Jeordie White",
@@ -211,7 +211,7 @@
     {
       "to": "the-wedding-band",
       "toName": "The Wedding Band",
-      "toArea": "Hawaii",
+      "toArea": "夏威夷",
       "toYears": "2018–",
       "type": "member",
       "label": "Joey Castillo",

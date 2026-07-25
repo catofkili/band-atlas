@@ -7,9 +7,9 @@
   "country": "英国",
   "years": "1968–1970",
   "genres": [
-    "Classic Rock",
-    "Hard Rock",
-    "Rock"
+    "经典摇滚",
+    "硬摇滚",
+    "摇滚"
   ],
   "albums": [],
   "intro": "Smile是英国伦敦的一支蓝调摇滚乐队，著名的皇后乐队前身。该乐队于1968年由后来的皇后乐队吉他手布莱恩·梅所组建。其他成员包括主唱和贝斯手蒂姆·史塔菲，和之后加入的鼓手罗杰·泰勒。",
@@ -44,7 +44,7 @@
     {
       "to": "queen-paul-rodgers",
       "toName": "Queen + Paul Rodgers",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Roger Taylor",
@@ -88,7 +88,7 @@
     {
       "to": "queen-adam-lambert",
       "toName": "Queen + Adam Lambert",
-      "toArea": null,
+      "toArea": "英国",
       "toYears": null,
       "type": "member",
       "label": "Roger Taylor",

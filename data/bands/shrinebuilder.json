@@ -6,18 +6,15 @@
   "countryCode": "US",
   "country": "美国",
   "years": "2008–",
-  "genres": [
-    "Doom Metal",
-    "Stoner Metal"
-  ],
+  "genres": [],
   "albums": [
     {
       "title": "Shrinebuilder",
       "year": 2009
     }
   ],
-  "intro": "Shrinebuilder was an American stoner/doom metal supergroup consisting of various established musicians, particularly of the doom metal subgenre.",
-  "introLang": "en",
+  "intro": "Shrinebuilder 是一支由多位知名音乐人组成的美国迷幻/厄运金属超级乐队，其成员主要来自厄运金属子流派。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2cffac8e-9bb3-47f2-b59e-0781398b0c7e"
@@ -26,7 +23,7 @@
     {
       "to": "sleep",
       "toName": "Sleep",
-      "toArea": "San Jose",
+      "toArea": "圣何塞",
       "toYears": "1990–",
       "type": "member",
       "label": "Al Cisneros・Chris Hakius",

@@ -7,9 +7,11 @@
   "country": "美国",
   "years": "2001–2001",
   "genres": [
-    "Pop/Rock"
+    "流行/摇滚"
   ],
   "albums": [],
+  "intro": "Artists Against AIDS Worldwide是一支来自纽约的以流行/摇滚为主要风格的音乐团体，活跃时期为2001–2001。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/14bf21c7-8ff5-433a-a6b7-69cf8e8f3899"
@@ -51,7 +53,7 @@
     {
       "to": "stone-temple-pilots",
       "toName": "Stone Temple Pilots",
-      "toArea": "San Diego",
+      "toArea": "圣地亚哥",
       "toYears": "1990–",
       "type": "member",
       "label": "Scott Weiland",
@@ -84,7 +86,7 @@
     {
       "to": "velvet-revolver",
       "toName": "Velvet Revolver",
-      "toArea": "Rancho Santa Margarita",
+      "toArea": "兰乔·圣塔玛格丽塔",
       "toYears": "2002–2008",
       "type": "member",
       "label": "Scott Weiland",
@@ -95,7 +97,7 @@
     {
       "to": "backstreet-boys",
       "toName": "Backstreet Boys",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "guest",
       "label": "合作",
@@ -106,7 +108,7 @@
     {
       "to": "destiny-s-child",
       "toName": "Destiny’s Child",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "guest",
       "label": "合作",
@@ -117,7 +119,7 @@
     {
       "to": "jagged-edge",
       "toName": "Jagged Edge",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "guest",
       "label": "合作",
@@ -128,7 +130,7 @@
     {
       "to": "tlc",
       "toName": "TLC",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "guest",
       "label": "合作",
@@ -150,7 +152,7 @@
     {
       "to": "nsync",
       "toName": "*NSYNC",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "guest",
       "label": "合作",
@@ -183,7 +185,7 @@
     {
       "to": "t-boz-and-chilli",
       "toName": "T Boz and Chilli",
-      "toArea": null,
+      "toArea": "美国",
       "toYears": null,
       "type": "guest",
       "label": "合作",

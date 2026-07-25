@@ -7,8 +7,8 @@
   "country": "美国",
   "years": "2010–2012",
   "genres": [
-    "Electronic",
-    "Industrial"
+    "电子音乐",
+    "工业音乐"
   ],
   "albums": [
     {
@@ -16,8 +16,8 @@
       "year": 2010
     }
   ],
-  "intro": "Antranik Khachaturian (born May 4, 1975) also known as Andy Khachaturian or artistically as Ontronik (stylized as OnTroniK), is an American musician, producer and DJ.",
-  "introLang": "en",
+  "intro": "安特拉尼克·哈恰图良（Antranik Khachaturian，1975年5月4日出生），又名安迪·哈恰图良（Andy Khachaturian），艺名Ontronik（风格化拼写为OnTroniK），是一位美国音乐人、制作人和DJ。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f89758be-c7e4-4e90-9bf5-19ca09201d84"
@@ -26,7 +26,7 @@
     {
       "to": "system-of-a-down",
       "toName": "System of a Down",
-      "toArea": "Glendale",
+      "toArea": "格伦代尔",
       "toYears": "1995–",
       "type": "member",
       "label": "Ontronik Khachaturian",

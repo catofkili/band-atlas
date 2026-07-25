@@ -2,12 +2,14 @@
   "id": "vicious-hatred",
   "mbid": "affba702-20a2-489d-a81e-3c8e12e32c0f",
   "name": "Vicious Hatred",
-  "area": "Hayward",
+  "area": "海沃德",
   "countryCode": "US",
   "country": "美国",
   "years": "1981–1982",
   "genres": [],
   "albums": [],
+  "intro": "Vicious Hatred是一支来自海沃德的音乐团体，活跃时期为1981–1982。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/affba702-20a2-489d-a81e-3c8e12e32c0f"
@@ -38,7 +40,7 @@
     {
       "to": "agents-of-misfortune",
       "toName": "Agents Of Misfortune",
-      "toArea": "Hayward",
+      "toArea": "海沃德",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -49,7 +51,7 @@
     {
       "to": "ez-street",
       "toName": "EZ-Street",
-      "toArea": "Oakland",
+      "toArea": "奥克兰",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -60,7 +62,7 @@
     {
       "to": "maxwell-house-ranch-band",
       "toName": "Maxwell House Ranch Band",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",
@@ -71,7 +73,7 @@
     {
       "to": "spastik-children",
       "toName": "Spastik Children",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": null,
       "type": "member",
       "label": "Cliff Burton",

@@ -7,7 +7,7 @@
   "country": "美国",
   "years": "2007–",
   "genres": [
-    "Rock"
+    "摇滚"
   ],
   "albums": [
     {
@@ -15,8 +15,8 @@
       "year": 2008
     }
   ],
-  "intro": "Foxboro Hot Tubs is the garage rock side project of Green Day, formed in 2007.",
-  "introLang": "en",
+  "intro": "Foxboro Hot Tubs 是绿日乐队（Green Day）于2007年组建的车库摇滚副项目。",
+  "introLang": "zh",
   "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/55affee6-ecb0-42b3-9f36-40b6da415871"
@@ -25,7 +25,7 @@
     {
       "to": "green-day",
       "toName": "Green Day",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1989–",
       "type": "member",
       "label": "Mike Dirnt・Tré Cool",
@@ -36,7 +36,7 @@
     {
       "to": "the-network",
       "toName": "The Network",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "2003–",
       "type": "member",
       "label": "Mike Dirnt・Tré Cool",
@@ -47,7 +47,7 @@
     {
       "to": "samiam",
       "toName": "Samiam",
-      "toArea": "Berkeley",
+      "toArea": "伯克利",
       "toYears": "1988–",
       "type": "member",
       "label": "Tré Cool",
@@ -80,7 +80,7 @@
     {
       "to": "the-longshot",
       "toName": "The Longshot",
-      "toArea": "California",
+      "toArea": "加利福尼亚州",
       "toYears": "2018–",
       "type": "member",
       "label": "Kevin Preston",
