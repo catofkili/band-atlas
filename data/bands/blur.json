@@ -1,0 +1,51 @@
+{
+  "id": "blur",
+  "name": "Blur",
+  "area": "伦敦",
+  "years": "1988–",
+  "genres": [
+    "Britpop",
+    "Alternative Rock"
+  ],
+  "intro": "Damon Albarn 的乐队。用带距离感的观察写英国中产生活，和 Oasis 恰好构成了英伦摇滚的两极。",
+  "albums": [
+    {
+      "title": "Parklife",
+      "year": 1994
+    },
+    {
+      "title": "The Great Escape",
+      "year": 1995
+    },
+    {
+      "title": "Blur",
+      "year": 1997
+    },
+    {
+      "title": "13",
+      "year": 1999
+    }
+  ],
+  "tracks": [
+    "Song 2",
+    "Girls & Boys",
+    "Coffee & TV",
+    "Parklife"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=Blur&type=artist"
+  },
+  "edges": [
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "feud",
+      "label": "英伦摇滚之战",
+      "detail": "1995 年 8 月的同日发行单曲对决，是英国流行乐史上被讨论最多的一次乐队对立。",
+      "year": 1995,
+      "weight": 0.95
+    }
+  ]
+}

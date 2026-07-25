@@ -1,0 +1,58 @@
+{
+  "id": "ling-tosite-sigure",
+  "name": "凛として時雨",
+  "area": "埼玉",
+  "years": "2002–",
+  "genres": [
+    "Math Rock",
+    "Post-hardcore"
+  ],
+  "intro": "TK 领衔的三人组。极高音域的男女双主唱、密到几乎没有空隙的编曲，是 2000 年代后期日本摇滚最辨识度的声音之一。",
+  "albums": [
+    {
+      "title": "#4",
+      "year": 2008
+    },
+    {
+      "title": "just A moment",
+      "year": 2009
+    },
+    {
+      "title": "i'mperfect",
+      "year": 2013
+    }
+  ],
+  "tracks": [
+    "telecastic fake show",
+    "abnormalize",
+    "傍観",
+    "DISCO FLIGHT"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8&type=artist"
+  },
+  "edges": [
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "日语咬字与节奏切分上的上游参照。",
+      "year": null,
+      "weight": 0.7
+    },
+    {
+      "to": "kinoko-teikoku",
+      "toName": "きのこ帝国",
+      "toArea": "东京",
+      "toYears": "2007–2019",
+      "type": "scene",
+      "label": "2010 年前后",
+      "detail": "同属 2010 年前后从 live house 起步的日本另类摇滚新一批。",
+      "year": null,
+      "weight": 0.5
+    }
+  ]
+}

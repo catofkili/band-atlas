@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "band-atlas",
+      "runtimeExecutable": "python3",
+      "runtimeArgs": ["-m", "http.server", "8790", "--directory", "/Users/lsc/Documents/band-atlas"],
+      "port": 8790
+    }
+  ]
+}

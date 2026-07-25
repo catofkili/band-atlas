@@ -1,0 +1,47 @@
+{
+  "id": "mo-some-tonebender",
+  "name": "MO'SOME TONEBENDER",
+  "area": "福冈",
+  "years": "1997–",
+  "genres": [
+    "Garage Rock",
+    "Alternative Rock"
+  ],
+  "intro": "百々和宏领衔的福冈三人组，和 NUMBER GIRL 出自同一片场景，但走的是更噪、更放浪的车库路线。",
+  "albums": [
+    {
+      "title": "Rockin' Luuula",
+      "year": 2002
+    }
+  ],
+  "tracks": [
+    "ロッキンルーラ"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=MO'SOME%20TONEBENDER&type=artist"
+  },
+  "edges": [
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "scene",
+      "label": "福冈・同世代",
+      "detail": "同为福冈出身的同世代乐队。",
+      "year": null,
+      "weight": 0.6
+    },
+    {
+      "to": "thee-michelle-gun-elephant",
+      "toName": "thee michelle gun elephant",
+      "toArea": "东京",
+      "toYears": "1991–2003",
+      "type": "scene",
+      "label": "车库摇滚同世代",
+      "detail": "九十年代末日本车库摇滚的同一批人。",
+      "year": null,
+      "weight": 0.5
+    }
+  ]
+}

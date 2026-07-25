@@ -1,0 +1,73 @@
+{
+  "id": "kinoko-teikoku",
+  "name": "きのこ帝国",
+  "area": "东京",
+  "years": "2007–2019",
+  "genres": [
+    "Shoegaze",
+    "Alternative Rock"
+  ],
+  "intro": "佐藤千亚妃的乐队。从 shoegaze 的噪音墙起步，逐渐转向清亮的流行写作，两个阶段的落差是它最被讨论的地方。",
+  "albums": [
+    {
+      "title": "渦になる",
+      "year": 2012
+    },
+    {
+      "title": "eureka",
+      "year": 2013
+    },
+    {
+      "title": "フェイクワールドワンダーランド",
+      "year": 2014
+    },
+    {
+      "title": "愛のゆくえ",
+      "year": 2015
+    }
+  ],
+  "tracks": [
+    "クロノスタシス",
+    "東京",
+    "WHIRLPOOL",
+    "海と花束"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=%E3%81%8D%E3%81%AE%E3%81%93%E5%B8%9D%E5%9B%BD&type=artist"
+  },
+  "edges": [
+    {
+      "to": "my-bloody-valentine",
+      "toName": "My Bloody Valentine",
+      "toArea": "都柏林 / 伦敦",
+      "toYears": "1983–1997 / 2007–",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "早期噪音墙写法的直系源头。",
+      "year": null,
+      "weight": 0.8
+    },
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "噪音与日语叙事结合的先例。",
+      "year": null,
+      "weight": 0.7
+    },
+    {
+      "to": "ling-tosite-sigure",
+      "toName": "凛として時雨",
+      "toArea": "埼玉",
+      "toYears": "2002–",
+      "type": "scene",
+      "label": "2010 年前后",
+      "detail": "同属 2010 年前后从 live house 起步的一批。",
+      "year": null,
+      "weight": 0.5
+    }
+  ]
+}

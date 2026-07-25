@@ -1,0 +1,541 @@
+/* ------------------------------------------------------------------
+   乐队关系网 — 深色单主题。
+   这是一块夜里的画布，不是文档；配色刻意只做一种世界。
+   「重点色」不是一种颜色，而是五种关系类型的功能色，图例即调色板。
+------------------------------------------------------------------ */
+
+:root {
+  --ground: #0d1014;
+  --ground-2: #12161c;
+  --panel: #171c24;
+  --panel-2: #1d232c;
+  --line: #2a323d;
+  --line-soft: #212832;
+  --ink: #e7e4dc;
+  --ink-2: #a7aebb;
+  --ink-3: #6c7482;
+
+  --rel-member: #58a6ff;
+  --rel-guest: #45c58c;
+  --rel-influence: #b98cff;
+  --rel-feud: #ff6b5e;
+  --rel-scene: #d9ac5a;
+
+  --sans: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans CJK SC",
+    "PingFang SC", "Source Han Sans SC", system-ui, sans-serif;
+  --display: "Helvetica Neue", "Arial Narrow", "Hiragino Sans", "PingFang SC", sans-serif;
+  --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+
+  --card-w: min(420px, 84vw);
+  --peek-w: min(310px, 66vw);
+}
+
+.rel-member { --rel: var(--rel-member); }
+.rel-guest { --rel: var(--rel-guest); }
+.rel-influence { --rel: var(--rel-influence); }
+.rel-feud { --rel: var(--rel-feud); }
+.rel-scene { --rel: var(--rel-scene); }
+
+* { box-sizing: border-box; }
+
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+body {
+  background:
+    radial-gradient(ellipse 70% 60% at 50% 45%, #1a2029 0%, transparent 68%),
+    var(--ground);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+button { font: inherit; color: inherit; }
+
+/* ------------------------------------------------------------ 舞台与世界 */
+
+.stage {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+}
+
+.world {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 0;
+  height: 0;
+  will-change: transform;
+}
+
+.edges {
+  position: absolute;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.edge {
+  stroke: var(--rel);
+  stroke-width: 1.25;
+  opacity: 0.5;
+  transition: opacity 0.25s ease, stroke-width 0.25s ease;
+}
+.edge.is-hot { opacity: 1; stroke-width: 2.25; }
+.rel-feud.edge { stroke-dasharray: 7 5; }
+.rel-scene.edge { stroke-dasharray: 1.5 5; stroke-linecap: round; }
+
+.node {
+  position: absolute;
+  --push: 0px;
+  --ux: 0;
+  --uy: 0;
+  transform: translate(-50%, -50%)
+    translate(calc(var(--ux) * var(--push)), calc(var(--uy) * var(--push)));
+  transition: transform 0.42s cubic-bezier(0.2, 0.9, 0.25, 1), opacity 0.35s ease;
+}
+
+.node--focus { z-index: 3; }
+.node--peek { z-index: 2; }
+.node--chip { z-index: 1; }
+
+/* ---------------------------------------------------------------- 卡片 */
+
+.card {
+  background: linear-gradient(180deg, var(--panel-2), var(--panel));
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  box-shadow: 0 22px 60px -18px rgba(0, 0, 0, 0.85);
+}
+
+.card--focus {
+  width: var(--card-w);
+  padding: 22px 24px 18px;
+  display: flex;
+  flex-direction: column;
+  max-height: min(72vh, 640px);
+}
+
+.card__head { flex: none; }
+
+.card__name {
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: clamp(1.5rem, 4.4vw, 2.05rem);
+  letter-spacing: -0.02em;
+  line-height: 1.12;
+  margin: 0;
+  text-wrap: balance;
+}
+
+.card__meta {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: var(--ink-3);
+  margin: 7px 0 0;
+}
+
+.card__body {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  margin-top: 14px;
+  padding-right: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  /* 底部渐隐，提示这里还能往下滚 */
+  mask-image: linear-gradient(to bottom, #000 calc(100% - 26px), transparent);
+}
+.card__body::-webkit-scrollbar { width: 6px; }
+.card__body::-webkit-scrollbar-thumb { background: var(--line); border-radius: 3px; }
+
+.card__intro { margin: 0; color: var(--ink-2); font-size: 0.9rem; }
+
+.card__section { display: flex; flex-direction: column; gap: 8px; }
+
+.card__label {
+  font-family: var(--mono);
+  font-size: 0.64rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin: 0;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--line-soft);
+}
+
+.taglist {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+  margin: 8px 0 0;
+  padding: 0;
+}
+.tag {
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+  color: var(--ink-2);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 1px 9px;
+}
+.tag--track { color: var(--ink); border-color: var(--line); background: rgba(255, 255, 255, 0.03); }
+
+.albums { list-style: none; margin: 0; padding: 0; }
+.album {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 3px 0;
+}
+.album__title { flex: 1; font-size: 0.86rem; }
+.album__year {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+
+.lore {
+  margin: 0;
+  font-size: 0.84rem;
+  color: var(--ink-2);
+  border-left: 2px solid var(--rel-feud);
+  padding-left: 12px;
+}
+
+/* 全部关系列表：触屏与超出边缘上限时的主要入口 */
+.rels { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+
+.rel-row {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: 0;
+  border-radius: 8px;
+  padding: 7px 9px;
+  cursor: pointer;
+  transition: background 0.18s ease;
+}
+.rel-row:hover, .rel-row:focus-visible { background: rgba(255, 255, 255, 0.05); }
+
+.rel-row__top { display: flex; align-items: center; gap: 8px; }
+.rel-row__dot {
+  width: 7px; height: 7px; flex: none;
+  border-radius: 50%;
+  background: var(--rel);
+}
+.rel-row__name { font-size: 0.84rem; font-weight: 600; }
+.rel-row__label {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  color: var(--ink-3);
+  margin-left: auto;
+  text-align: right;
+}
+.rel-row__detail { font-size: 0.76rem; color: var(--ink-3); line-height: 1.55; padding-left: 15px; }
+
+.card__foot {
+  flex: none;
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line-soft);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.card__counts { display: flex; flex-wrap: wrap; gap: 4px 12px; margin: 0; }
+.count {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--mono);
+  font-size: 0.64rem;
+  color: var(--ink-3);
+}
+.count__dot { width: 6px; height: 6px; border-radius: 50%; background: var(--rel); }
+.count--member { --rel: var(--rel-member); }
+.count--guest { --rel: var(--rel-guest); }
+.count--influence { --rel: var(--rel-influence); }
+.count--feud { --rel: var(--rel-feud); }
+.count--scene { --rel: var(--rel-scene); }
+
+.card__link {
+  margin-left: auto;
+  font-family: var(--mono);
+  font-size: 0.64rem;
+  letter-spacing: 0.04em;
+  color: var(--ink-3);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.card__link:hover { color: var(--ink); }
+
+/* ------------------------------------------------------------ 边缘卡片 */
+
+.card--peek {
+  width: var(--peek-w);
+  padding: 14px 16px;
+  cursor: pointer;
+  display: block;
+  text-align: left;
+  border-color: color-mix(in srgb, var(--rel) 32%, var(--line));
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+.card--peek:hover,
+.card--peek:focus-visible {
+  border-color: color-mix(in srgb, var(--rel) 70%, var(--line));
+  box-shadow: 0 22px 60px -18px rgba(0, 0, 0, 0.9),
+    0 0 0 1px color-mix(in srgb, var(--rel) 35%, transparent);
+  outline: none;
+}
+
+.peek__inner { display: flex; flex-direction: column; gap: 3px; }
+
+.peek__rel {
+  font-family: var(--mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.16em;
+  color: var(--rel);
+}
+.peek__name {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.02rem;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+}
+.peek__meta { font-family: var(--mono); font-size: 0.63rem; color: var(--ink-3); }
+
+/* 连线上挂不下标签时，关系改写在卡片里 */
+.peek__label { display: none; font-size: 0.72rem; color: var(--ink-2); margin-top: 4px; }
+.card--peek.show-label .peek__label { display: block; }
+
+/* 露出哪半边，内容就贴哪半边 —— 否则名字正好被切在屏幕外。
+   左右方向再把内容宽度压到一半以内，上下方向给卡片一个固定高度，
+   这样内容一定落在看得见的那半张卡片里。 */
+.card--peek-e .peek__inner { max-width: 58%; margin-right: auto; }
+.card--peek-w .peek__inner {
+  max-width: 58%;
+  margin-left: auto;
+  align-items: flex-end;
+  text-align: right;
+}
+.card--peek-n,
+.card--peek-s { display: flex; height: 172px; }
+.card--peek-n { align-items: flex-end; }
+.card--peek-s { align-items: flex-start; }
+.card--peek-n .peek__inner,
+.card--peek-s .peek__inner { width: 100%; }
+
+.node--peek:hover, .node--peek.is-hot { --push: -26px; }
+
+/* --------------------------------------------------------- 关系标签 */
+
+/* 标签锚在焦点卡片外缘，朝远离卡片的方向生长 */
+.node--chip.anchor-e { transform: translate(0, -50%); }
+.node--chip.anchor-w { transform: translate(-100%, -50%); }
+.node--chip.anchor-s { transform: translate(-50%, 0); }
+.node--chip.anchor-n { transform: translate(-50%, -100%); }
+
+.relchip {
+  width: max-content;
+  max-width: 190px;
+  background: color-mix(in srgb, var(--ground) 86%, transparent);
+  backdrop-filter: blur(6px);
+  border: 1px solid color-mix(in srgb, var(--rel) 34%, var(--line));
+  border-radius: 8px;
+  padding: 4px 10px;
+  transition: border-color 0.25s ease;
+}
+
+/* 用行内排版而不是 flex：关系标签写得长了要能自己折行，
+   flex 一行到底会把文字顶出盒子，被旁边的卡片切掉。 */
+.relchip__head { font-size: 0.72rem; line-height: 1.5; }
+.relchip__dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--rel);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+.relchip__year {
+  margin-left: 6px;
+  font-family: var(--mono);
+  font-size: 0.63rem;
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+.relchip__detail {
+  display: none;
+  clear: both;
+  font-size: 0.74rem;
+  line-height: 1.55;
+  color: var(--ink-2);
+  padding-top: 5px;
+  margin-top: 5px;
+  border-top: 1px solid var(--line-soft);
+}
+.node--chip.is-hot .relchip {
+  border-color: color-mix(in srgb, var(--rel) 75%, var(--line));
+}
+.node--chip.is-hot .relchip__detail { display: block; }
+
+/* -------------------------------------------------------------- HUD */
+
+.hud {
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  padding: 16px 20px;
+  padding-left: max(20px, env(safe-area-inset-left));
+  padding-right: max(20px, env(safe-area-inset-right));
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  pointer-events: none;
+}
+.hud > * { pointer-events: auto; position: relative; z-index: 1; }
+.hud--top { top: 0; }
+.hud--bottom {
+  bottom: 0;
+  padding-bottom: max(16px, env(safe-area-inset-bottom));
+  align-items: flex-end;
+}
+
+/* 贴着上下边缘的乐队卡片会滑到 HUD 底下，加一层压暗把 HUD 托住。
+   顺带给画面一点边缘的暗角，强化「内容还在屏幕外继续」的感觉。 */
+.hud::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 190%;
+  pointer-events: none;
+}
+.hud--top::before { top: 0; background: linear-gradient(to bottom, rgba(9, 11, 14, 0.85), transparent); }
+.hud--bottom::before { bottom: 0; background: linear-gradient(to top, rgba(9, 11, 14, 0.85), transparent); }
+
+.wordmark { display: flex; flex-direction: column; line-height: 1.35; }
+.wordmark__name {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 0.92rem;
+  letter-spacing: 0.02em;
+}
+.wordmark__scene { font-family: var(--mono); font-size: 0.63rem; color: var(--ink-3); }
+
+.btn {
+  margin-left: auto;
+  background: color-mix(in srgb, var(--panel) 80%, transparent);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 6px 16px;
+  font-size: 0.78rem;
+  cursor: pointer;
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+.btn:hover, .btn:focus-visible { border-color: var(--ink-3); outline: none; }
+
+/* 图例竖排缩在角落里。横着铺开会占满整条底边，
+   而那正是下方那几张乐队卡片露头的地方。 */
+.legend {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.legend__item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--mono);
+  font-size: 0.63rem;
+  color: var(--ink-3);
+}
+.legend__item i { width: 16px; height: 2px; background: var(--rel); border-radius: 2px; }
+.legend__item.rel-feud i { background: repeating-linear-gradient(90deg, var(--rel) 0 5px, transparent 5px 8px); }
+.legend__item.rel-scene i { background: repeating-linear-gradient(90deg, var(--rel) 0 2px, transparent 2px 5px); }
+
+.status {
+  margin: 0 0 0 auto;
+  font-family: var(--mono);
+  font-size: 0.63rem;
+  color: var(--ink-3);
+  text-align: right;
+}
+
+/* --------------------------------------------------------- 动画状态 */
+
+/* 入场：连线画出来，边缘卡片再从屏幕外探进来 */
+.is-entering .node--peek { --push: 64px; opacity: 0; }
+.is-entering .node--chip { opacity: 0; }
+.is-entering .node--focus .card--focus { opacity: 0; transform: translateY(10px); }
+.node--focus .card--focus { transition: opacity 0.5s ease 0.05s, transform 0.5s cubic-bezier(0.2, 0.9, 0.25, 1) 0.05s; }
+.node--chip { transition: opacity 0.4s ease 0.22s, transform 0.42s cubic-bezier(0.2, 0.9, 0.25, 1); }
+
+.edge {
+  stroke-dasharray: var(--len);
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.55s cubic-bezier(0.35, 0.9, 0.3, 1), opacity 0.25s ease, stroke-width 0.25s ease;
+}
+.is-entering .edge { stroke-dashoffset: var(--len); }
+.rel-feud.edge, .rel-scene.edge { stroke-dasharray: 7 5; }
+.rel-scene.edge { stroke-dasharray: 1.5 5; }
+.is-entering .rel-feud.edge, .is-entering .rel-scene.edge { opacity: 0; }
+
+/* 出发：除目标以外的一切先退场 */
+.is-traveling .node--peek:not(.is-target),
+.is-traveling .node--chip:not(.is-target),
+.is-traveling .node--focus { opacity: 0; }
+.is-traveling .edge { opacity: 0; }
+.is-traveling .node--peek.is-target { --push: 0px; }
+.is-traveling .relchip__detail { display: none; }
+
+.card--peek.is-leaving { opacity: 0; position: absolute; inset: 0; pointer-events: none; }
+.card--arriving { opacity: 0; }
+.node--peek .card--focus { transition: opacity 0.45s ease 0.12s; }
+
+.is-fading .world { opacity: 0; transition: opacity 0.2s ease; }
+
+@media (prefers-reduced-motion: reduce) {
+  .node, .edge, .card--focus, .node--chip, .card--peek.is-leaving, .node--peek .card--focus {
+    transition-duration: 0.01ms !important;
+  }
+  .is-entering .node--peek { --push: 0px; opacity: 1; }
+}
+
+/* ------------------------------------------------------------- 窄屏 */
+
+@media (max-width: 640px) {
+    /* 窄屏只用上下两条边，同一条边上要并排放两张，所以卡片必须窄 */
+  :root { --card-w: min(340px, 90vw); --peek-w: min(156px, 44vw); }
+  .hud { padding: 12px 14px; }
+  .status { font-size: 0.6rem; }
+  .relchip { max-width: 190px; }
+  /* 焦点卡片压矮，把上下两头的空间让给露头的邻居 */
+  .card--focus { max-height: 52vh; padding: 18px 18px 14px; }
+  .card--peek { padding: 12px; }
+  .card--peek-n, .card--peek-s { height: 190px; }
+  .peek__name { font-size: 0.9rem; }
+  /* 副标题和图例都让位给卡片：关系类型每张卡片上本来就写着 */
+  .wordmark__scene { display: none; }
+  .legend { display: none; }
+}

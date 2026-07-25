@@ -1,0 +1,69 @@
+{
+  "id": "nothings-carved-in-stone",
+  "name": "Nothing's Carved In Stone",
+  "area": "东京",
+  "years": "2009–",
+  "genres": [
+    "Alternative Rock",
+    "Post-hardcore"
+  ],
+  "intro": "由四支不同乐队的成员凑成的编制，几乎是这张关系网上人脉密度最高的一个节点。",
+  "albums": [
+    {
+      "title": "PARALLEL LIVES",
+      "year": 2009
+    },
+    {
+      "title": "Revolt",
+      "year": 2011
+    },
+    {
+      "title": "Strangers In Heaven",
+      "year": 2013
+    }
+  ],
+  "tracks": [
+    "November 15th",
+    "Isolation",
+    "Out of Control",
+    "Spirit Inspiration"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=Nothing's%20Carved%20In%20Stone&type=artist"
+  },
+  "edges": [
+    {
+      "to": "ellegarden",
+      "toName": "ELLEGARDEN",
+      "toArea": "千叶",
+      "toYears": "1998–2008 / 2018–",
+      "type": "member",
+      "label": "生形真一・大喜多崇規",
+      "detail": "由 ELLEGARDEN 的生形真一与大喜多崇規在母队休止后发起。",
+      "year": 2009,
+      "weight": 0.9
+    },
+    {
+      "to": "straightener",
+      "toName": "ストレイテナー",
+      "toArea": "东京",
+      "toYears": "1998–",
+      "type": "member",
+      "label": "日向秀和",
+      "detail": "贝斯手日向秀和的另一支乐队，两边同时在跑。",
+      "year": 2009,
+      "weight": 0.85
+    },
+    {
+      "to": "zazen-boys",
+      "toName": "ZAZEN BOYS",
+      "toArea": "东京",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "日向秀和",
+      "detail": "贝斯手日向秀和曾是 ZAZEN BOYS 的成员。",
+      "year": 2009,
+      "weight": 0.6
+    }
+  ]
+}

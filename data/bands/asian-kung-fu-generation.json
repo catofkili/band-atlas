@@ -1,0 +1,74 @@
+{
+  "id": "asian-kung-fu-generation",
+  "name": "ASIAN KUNG-FU GENERATION",
+  "area": "横滨",
+  "years": "1996–",
+  "genres": [
+    "Alternative Rock",
+    "Power Pop"
+  ],
+  "intro": "后藤正文的四人组。把 NUMBER GIRL 那一代的另类摇滚语法推向了主流规模，也是很多人认识日本摇滚的入口。",
+  "albums": [
+    {
+      "title": "君繋ファイブエム",
+      "year": 2003
+    },
+    {
+      "title": "ソルファ",
+      "year": 2004
+    },
+    {
+      "title": "ファンクラブ",
+      "year": 2006
+    },
+    {
+      "title": "ワールド ワールド ワールド",
+      "year": 2008
+    }
+  ],
+  "tracks": [
+    "リライト",
+    "遙か彼方",
+    "ソラニン",
+    "君という花",
+    "アフターダーク"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=ASIAN%20KUNG-FU%20GENERATION&type=artist"
+  },
+  "edges": [
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "后藤正文口中「让我开始做乐队的那支乐队」。",
+      "year": null,
+      "weight": 0.9
+    },
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "早期写作里合唱式副歌的参照之一。",
+      "year": null,
+      "weight": 0.6
+    },
+    {
+      "to": "straightener",
+      "toName": "ストレイテナー",
+      "toArea": "东京",
+      "toYears": "1998–",
+      "type": "scene",
+      "label": "2000 年代同世代",
+      "detail": "同属 2000 年代把 live house 场景推向大场馆的一批乐队。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

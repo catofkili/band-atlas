@@ -1,0 +1,189 @@
+{
+  "scene": "日本另类摇滚及其源流",
+  "note": "M0 原型数据：人工整理，未经 MusicBrainz 校验。M1 阶段由数据管线替换。",
+  "generatedAt": "2026-07-25",
+  "bands": [
+    {
+      "id": "number-girl",
+      "name": "NUMBER GIRL",
+      "area": "福冈",
+      "years": "1995–2002 / 2019–2022",
+      "degree": 13
+    },
+    {
+      "id": "zazen-boys",
+      "name": "ZAZEN BOYS",
+      "area": "东京",
+      "years": "2003–",
+      "degree": 4
+    },
+    {
+      "id": "toddle",
+      "name": "toddle",
+      "area": "东京",
+      "years": "2004–",
+      "degree": 3
+    },
+    {
+      "id": "vola-and-the-oriental-machine",
+      "name": "VOLA & THE ORIENTAL MACHINE",
+      "area": "东京",
+      "years": "2004–",
+      "degree": 2
+    },
+    {
+      "id": "bloodthirsty-butchers",
+      "name": "bloodthirsty butchers",
+      "area": "北海道",
+      "years": "1987–2013",
+      "degree": 6
+    },
+    {
+      "id": "eastern-youth",
+      "name": "eastern youth",
+      "area": "北海道",
+      "years": "1988–",
+      "degree": 3
+    },
+    {
+      "id": "lostage",
+      "name": "LOSTAGE",
+      "area": "奈良",
+      "years": "2001–",
+      "degree": 2
+    },
+    {
+      "id": "art-school",
+      "name": "ART-SCHOOL",
+      "area": "东京",
+      "years": "2000–",
+      "degree": 3
+    },
+    {
+      "id": "mo-some-tonebender",
+      "name": "MO'SOME TONEBENDER",
+      "area": "福冈",
+      "years": "1997–",
+      "degree": 2
+    },
+    {
+      "id": "straightener",
+      "name": "ストレイテナー",
+      "area": "东京",
+      "years": "1998–",
+      "degree": 4
+    },
+    {
+      "id": "nothings-carved-in-stone",
+      "name": "Nothing's Carved In Stone",
+      "area": "东京",
+      "years": "2009–",
+      "degree": 3
+    },
+    {
+      "id": "ellegarden",
+      "name": "ELLEGARDEN",
+      "area": "千叶",
+      "years": "1998–2008 / 2018–",
+      "degree": 3
+    },
+    {
+      "id": "the-hiatus",
+      "name": "the HIATUS",
+      "area": "东京",
+      "years": "2009–",
+      "degree": 2
+    },
+    {
+      "id": "thee-michelle-gun-elephant",
+      "name": "thee michelle gun elephant",
+      "area": "东京",
+      "years": "1991–2003",
+      "degree": 3
+    },
+    {
+      "id": "asian-kung-fu-generation",
+      "name": "ASIAN KUNG-FU GENERATION",
+      "area": "横滨",
+      "years": "1996–",
+      "degree": 3
+    },
+    {
+      "id": "ling-tosite-sigure",
+      "name": "凛として時雨",
+      "area": "埼玉",
+      "years": "2002–",
+      "degree": 2
+    },
+    {
+      "id": "kinoko-teikoku",
+      "name": "きのこ帝国",
+      "area": "东京",
+      "years": "2007–2019",
+      "degree": 3
+    },
+    {
+      "id": "supercar",
+      "name": "SUPERCAR",
+      "area": "青森",
+      "years": "1995–2005",
+      "degree": 2
+    },
+    {
+      "id": "pixies",
+      "name": "Pixies",
+      "area": "波士顿",
+      "years": "1986–1993 / 2004–",
+      "degree": 2
+    },
+    {
+      "id": "sonic-youth",
+      "name": "Sonic Youth",
+      "area": "纽约",
+      "years": "1981–2011",
+      "degree": 3
+    },
+    {
+      "id": "fugazi",
+      "name": "Fugazi",
+      "area": "华盛顿特区",
+      "years": "1987–2003",
+      "degree": 2
+    },
+    {
+      "id": "nirvana",
+      "name": "Nirvana",
+      "area": "西雅图",
+      "years": "1987–1994",
+      "degree": 4
+    },
+    {
+      "id": "my-bloody-valentine",
+      "name": "My Bloody Valentine",
+      "area": "都柏林 / 伦敦",
+      "years": "1983–1997 / 2007–",
+      "degree": 2
+    },
+    {
+      "id": "oasis",
+      "name": "Oasis",
+      "area": "曼彻斯特",
+      "years": "1991–2009 / 2024–",
+      "degree": 2
+    },
+    {
+      "id": "blur",
+      "name": "Blur",
+      "area": "伦敦",
+      "years": "1988–",
+      "degree": 1
+    },
+    {
+      "id": "guns-n-roses",
+      "name": "Guns N' Roses",
+      "area": "洛杉矶",
+      "years": "1985–",
+      "degree": 1
+    }
+  ]
+}

@@ -1,0 +1,91 @@
+{
+  "id": "zazen-boys",
+  "name": "ZAZEN BOYS",
+  "area": "东京",
+  "years": "2003–",
+  "genres": [
+    "Math Rock",
+    "Funk",
+    "Alternative Rock"
+  ],
+  "intro": "向井秀徳在 NUMBER GIRL 之后的乐队。把日语念白推到极端，用拍子的错位与突然的静止作为主要武器。",
+  "albums": [
+    {
+      "title": "ZAZEN BOYS",
+      "year": 2004
+    },
+    {
+      "title": "ZAZEN BOYS II",
+      "year": 2004
+    },
+    {
+      "title": "ZAZEN BOYS 4",
+      "year": 2008
+    },
+    {
+      "title": "すとーりーず",
+      "year": 2012
+    },
+    {
+      "title": "らんど",
+      "year": 2024
+    }
+  ],
+  "tracks": [
+    "USODARAKE",
+    "HIMITSU GIRL'S TOP SECRET",
+    "Asobi",
+    "サイボーグのオバケ",
+    "Fender Telecaster"
+  ],
+  "lore": "向井秀徳把自己的录音室命名为 MATSURI STUDIO，多年来一手包办乐队的录音与混音。",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=ZAZEN%20BOYS&type=artist"
+  },
+  "edges": [
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "member",
+      "label": "向井秀徳",
+      "detail": "由 NUMBER GIRL 的主唱向井秀徳在乐队解散后组建，初期鼓手同样来自 NUMBER GIRL。",
+      "year": 2003,
+      "weight": 0.95
+    },
+    {
+      "to": "straightener",
+      "toName": "ストレイテナー",
+      "toArea": "东京",
+      "toYears": "1998–",
+      "type": "member",
+      "label": "日向秀和",
+      "detail": "贝斯手日向秀和同期也是ストレイテナー的成员，是这一代日本摇滚最密的连接点之一。",
+      "year": 2004,
+      "weight": 0.8
+    },
+    {
+      "to": "vola-and-the-oriental-machine",
+      "toName": "VOLA & THE ORIENTAL MACHINE",
+      "toArea": "东京",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "アヒト・イナザワ",
+      "detail": "アヒト・イナザワ在担任 ZAZEN BOYS 鼓手的同时主导了这支乐队。",
+      "year": 2004,
+      "weight": 0.7
+    },
+    {
+      "to": "nothings-carved-in-stone",
+      "toName": "Nothing's Carved In Stone",
+      "toArea": "东京",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "日向秀和",
+      "detail": "日向秀和离开 ZAZEN BOYS 之后成为 Nothing's Carved In Stone 的固定成员。",
+      "year": 2009,
+      "weight": 0.6
+    }
+  ]
+}

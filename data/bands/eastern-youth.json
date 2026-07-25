@@ -1,0 +1,69 @@
+{
+  "id": "eastern-youth",
+  "name": "eastern youth",
+  "area": "北海道",
+  "years": "1988–",
+  "genres": [
+    "Emo",
+    "Post-hardcore",
+    "Punk"
+  ],
+  "intro": "吉野寿的嘶吼与文语式的歌词。和 bloodthirsty butchers 一样出自札幌，是日本 emo 谱系最上游的一支。",
+  "albums": [
+    {
+      "title": "口笛、夜更けに使う",
+      "year": 1998
+    },
+    {
+      "title": "sound track",
+      "year": 1999
+    },
+    {
+      "title": "時計台の鐘",
+      "year": 2001
+    }
+  ],
+  "tracks": [
+    "夏の日の午後",
+    "男子畢生危機一髪",
+    "青い空、白い雲、しゅーっという風"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=eastern%20youth&type=artist"
+  },
+  "edges": [
+    {
+      "to": "bloodthirsty-butchers",
+      "toName": "bloodthirsty butchers",
+      "toArea": "北海道",
+      "toYears": "1987–2013",
+      "type": "guest",
+      "label": "北海道的盟友",
+      "detail": "同为札幌出身的盟友，共演次数多到难以计数。",
+      "year": null,
+      "weight": 0.8
+    },
+    {
+      "to": "fugazi",
+      "toName": "Fugazi",
+      "toArea": "华盛顿特区",
+      "toYears": "1987–2003",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "日本 emo 谱系普遍绕不开的源头。",
+      "year": null,
+      "weight": 0.6
+    },
+    {
+      "to": "lostage",
+      "toName": "LOSTAGE",
+      "toArea": "奈良",
+      "toYears": "2001–",
+      "type": "guest",
+      "label": "共演",
+      "detail": "同属日本独立摇滚的自办体系，长期互相邀约。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

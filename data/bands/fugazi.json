@@ -1,0 +1,62 @@
+{
+  "id": "fugazi",
+  "name": "Fugazi",
+  "area": "华盛顿特区",
+  "years": "1987–2003",
+  "genres": [
+    "Post-hardcore",
+    "Punk"
+  ],
+  "intro": "Ian MacKaye 的乐队。坚持五美元门票、拒绝周边、不上大厂牌，把独立不只是当作声音，而是当作一整套做法。",
+  "albums": [
+    {
+      "title": "13 Songs",
+      "year": 1989
+    },
+    {
+      "title": "Repeater",
+      "year": 1990
+    },
+    {
+      "title": "In on the Kill Taker",
+      "year": 1993
+    },
+    {
+      "title": "The Argument",
+      "year": 2001
+    }
+  ],
+  "tracks": [
+    "Waiting Room",
+    "Merchandise",
+    "Blueprint",
+    "Bed for the Scraping"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=Fugazi&type=artist"
+  },
+  "edges": [
+    {
+      "to": "bloodthirsty-butchers",
+      "toName": "bloodthirsty butchers",
+      "toArea": "北海道",
+      "toYears": "1987–2013",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "post-hardcore 的段落写法与独立做法，是 butchers 上游的一条线。",
+      "year": null,
+      "weight": 0.6
+    },
+    {
+      "to": "eastern-youth",
+      "toName": "eastern youth",
+      "toArea": "北海道",
+      "toYears": "1988–",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "日本 emo / post-hardcore 谱系普遍绕不开的源头。",
+      "year": null,
+      "weight": 0.6
+    }
+  ]
+}

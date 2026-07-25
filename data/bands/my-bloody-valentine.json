@@ -1,0 +1,58 @@
+{
+  "id": "my-bloody-valentine",
+  "name": "My Bloody Valentine",
+  "area": "都柏林 / 伦敦",
+  "years": "1983–1997 / 2007–",
+  "genres": [
+    "Shoegaze",
+    "Noise Pop"
+  ],
+  "intro": "Kevin Shields 用摇把与叠录堆出的吉他音墙。《Loveless》几乎定义了 shoegaze 这个词的全部含义。",
+  "albums": [
+    {
+      "title": "Isn't Anything",
+      "year": 1988
+    },
+    {
+      "title": "Loveless",
+      "year": 1991
+    },
+    {
+      "title": "m b v",
+      "year": 2013
+    }
+  ],
+  "tracks": [
+    "Only Shallow",
+    "Sometimes",
+    "When You Sleep",
+    "Soon"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=My%20Bloody%20Valentine&type=artist"
+  },
+  "edges": [
+    {
+      "to": "kinoko-teikoku",
+      "toName": "きのこ帝国",
+      "toArea": "东京",
+      "toYears": "2007–2019",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "早期的噪音墙写法几乎是《Loveless》的直系。",
+      "year": null,
+      "weight": 0.8
+    },
+    {
+      "to": "supercar",
+      "toName": "SUPERCAR",
+      "toArea": "青森",
+      "toYears": "1995–2005",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "SUPERCAR 早期的吉他质感被普遍认为来自 shoegaze 一系。",
+      "year": null,
+      "weight": 0.7
+    }
+  ]
+}

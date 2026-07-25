@@ -1,0 +1,58 @@
+{
+  "id": "oasis",
+  "name": "Oasis",
+  "area": "曼彻斯特",
+  "years": "1991–2009 / 2024–",
+  "genres": [
+    "Britpop",
+    "Rock"
+  ],
+  "intro": "Gallagher 兄弟的乐队。工人阶级的狂妄、大合唱式的副歌，以及贯穿始终的兄弟内斗。",
+  "albums": [
+    {
+      "title": "Definitely Maybe",
+      "year": 1994
+    },
+    {
+      "title": "(What's the Story) Morning Glory?",
+      "year": 1995
+    },
+    {
+      "title": "Be Here Now",
+      "year": 1997
+    }
+  ],
+  "tracks": [
+    "Live Forever",
+    "Wonderwall",
+    "Don't Look Back in Anger",
+    "Champagne Supernova"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=Oasis&type=artist"
+  },
+  "edges": [
+    {
+      "to": "blur",
+      "toName": "Blur",
+      "toArea": "伦敦",
+      "toYears": "1988–",
+      "type": "feud",
+      "label": "英伦摇滚之战",
+      "detail": "1995 年 8 月，两队把新单曲放在同一天发行，媒体把它炒成全国性对决。Noel Gallagher 随后关于 Blur 成员的失言让关系跌到冰点，多年后他才公开道歉。",
+      "year": 1995,
+      "weight": 0.95
+    },
+    {
+      "to": "asian-kung-fu-generation",
+      "toName": "ASIAN KUNG-FU GENERATION",
+      "toArea": "横滨",
+      "toYears": "1996–",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "英伦摇滚的合唱式副歌，是 AKG 早期写作的参照之一。",
+      "year": null,
+      "weight": 0.6
+    }
+  ]
+}

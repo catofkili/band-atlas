@@ -1,0 +1,74 @@
+{
+  "id": "thee-michelle-gun-elephant",
+  "name": "thee michelle gun elephant",
+  "area": "东京",
+  "years": "1991–2003",
+  "genres": [
+    "Garage Rock",
+    "Punk Rock"
+  ],
+  "intro": "千叶利市的嘶吼与阿部义晴式的西装造型。九十年代日本车库摇滚的最高点，解散至今没有重组。",
+  "albums": [
+    {
+      "title": "cult grass stars",
+      "year": 1996
+    },
+    {
+      "title": "チキンゾンビーズ",
+      "year": 1997
+    },
+    {
+      "title": "ギヤ・ブルーズ",
+      "year": 1998
+    },
+    {
+      "title": "カサノバ・スネイク",
+      "year": 2000
+    }
+  ],
+  "tracks": [
+    "世界の終わり",
+    "バードメン",
+    "ゲット・アップ・ルーシー",
+    "リボルバー・ジャンキーズ"
+  ],
+  "lore": "2003 年宣布解散，翌年在幕张展览馆办完最后一场，此后再无重组。",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=thee%20michelle%20gun%20elephant&type=artist"
+  },
+  "edges": [
+    {
+      "to": "the-hiatus",
+      "toName": "the HIATUS",
+      "toArea": "东京",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "ウエノコウジ",
+      "detail": "解散多年之后，贝斯手ウエノコウジ成为 the HIATUS 的一员。",
+      "year": 2009,
+      "weight": 0.7
+    },
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "scene",
+      "label": "90 年代日本另类摇滚",
+      "detail": "同属九十年代后期日本摇滚的核心阵容。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "mo-some-tonebender",
+      "toName": "MO'SOME TONEBENDER",
+      "toArea": "福冈",
+      "toYears": "1997–",
+      "type": "scene",
+      "label": "车库摇滚同世代",
+      "detail": "九十年代末日本车库摇滚的同一批人。",
+      "year": null,
+      "weight": 0.5
+    }
+  ]
+}

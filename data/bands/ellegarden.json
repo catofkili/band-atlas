@@ -1,0 +1,76 @@
+{
+  "id": "ellegarden",
+  "name": "ELLEGARDEN",
+  "area": "千叶",
+  "years": "1998–2008 / 2018–",
+  "genres": [
+    "Melodic Punk",
+    "Emo",
+    "Alternative Rock"
+  ],
+  "intro": "细美武士的乐队。用英语与日语交替写歌，把 2000 年代日本的 live house 场景推到了武道馆规模。",
+  "albums": [
+    {
+      "title": "DON'T TRUST ANYONE BUT US",
+      "year": 2002
+    },
+    {
+      "title": "Pepperoni Quattro",
+      "year": 2004
+    },
+    {
+      "title": "RIOT ON THE GRILL",
+      "year": 2005
+    },
+    {
+      "title": "ELEVEN FIRE CRACKERS",
+      "year": 2006
+    }
+  ],
+  "tracks": [
+    "Missing",
+    "Salamander",
+    "Marry Me",
+    "風の日",
+    "ジターバグ"
+  ],
+  "lore": "2008 年宣布无限期活动休止，直到 2018 年才重启。中间整整十年，成员各自组了新乐队。",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=ELLEGARDEN&type=artist"
+  },
+  "edges": [
+    {
+      "to": "nothings-carved-in-stone",
+      "toName": "Nothing's Carved In Stone",
+      "toArea": "东京",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "生形真一・大喜多崇規",
+      "detail": "ELLEGARDEN 无限期休止后，吉他手生形真一与鼓手大喜多崇規发起了 Nothing's Carved In Stone。",
+      "year": 2009,
+      "weight": 0.9
+    },
+    {
+      "to": "the-hiatus",
+      "toName": "the HIATUS",
+      "toArea": "东京",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "細美武士",
+      "detail": "主唱細美武士在乐队休止后于 2009 年组建 the HIATUS。",
+      "year": 2009,
+      "weight": 0.9
+    },
+    {
+      "to": "straightener",
+      "toName": "ストレイテナー",
+      "toArea": "东京",
+      "toYears": "1998–",
+      "type": "scene",
+      "label": "2000 年代同世代",
+      "detail": "同属 2000 年代 live house 场景的核心。",
+      "year": null,
+      "weight": 0.6
+    }
+  ]
+}

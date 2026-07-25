@@ -1,0 +1,56 @@
+{
+  "id": "lostage",
+  "name": "LOSTAGE",
+  "area": "奈良",
+  "years": "2001–",
+  "genres": [
+    "Alternative Rock",
+    "Post-hardcore"
+  ],
+  "intro": "五味岳久的三人组。从奈良起步，中途离开大厂牌自办唱片行与厂牌，是日本独立摇滚自给自足的一个样板。",
+  "albums": [
+    {
+      "title": "CONTEXT",
+      "year": 2009
+    },
+    {
+      "title": "In Dreams",
+      "year": 2011
+    },
+    {
+      "title": "LOSTAGE",
+      "year": 2014
+    }
+  ],
+  "tracks": [
+    "HELLO",
+    "生活"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=LOSTAGE&type=artist"
+  },
+  "edges": [
+    {
+      "to": "bloodthirsty-butchers",
+      "toName": "bloodthirsty butchers",
+      "toArea": "北海道",
+      "toYears": "1987–2013",
+      "type": "guest",
+      "label": "共演・后辈",
+      "detail": "五味岳久最敬重的前辈之一，两队多次同台。",
+      "year": null,
+      "weight": 0.6
+    },
+    {
+      "to": "eastern-youth",
+      "toName": "eastern youth",
+      "toArea": "北海道",
+      "toYears": "1988–",
+      "type": "guest",
+      "label": "共演",
+      "detail": "同属日本独立摇滚的自办体系，长期互相邀约。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

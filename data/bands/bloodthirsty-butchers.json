@@ -1,0 +1,111 @@
+{
+  "id": "bloodthirsty-butchers",
+  "name": "bloodthirsty butchers",
+  "area": "北海道",
+  "years": "1987–2013",
+  "genres": [
+    "Alternative Rock",
+    "Post-hardcore",
+    "Noise Rock"
+  ],
+  "intro": "吉村秀树领衔的札幌乐队。旋律粗粝、演奏近乎失控，是日本另类摇滚里被后辈最频繁提起的一支。",
+  "albums": [
+    {
+      "title": "kocorono",
+      "year": 1996
+    },
+    {
+      "title": "未完成",
+      "year": 1998
+    },
+    {
+      "title": "banging the drum",
+      "year": 2001
+    },
+    {
+      "title": "birdy",
+      "year": 2003
+    },
+    {
+      "title": "ギタリストを殺さないで",
+      "year": 2011
+    }
+  ],
+  "tracks": [
+    "7月",
+    "December",
+    "kocorono"
+  ],
+  "lore": "2013 年 5 月，吉村秀树突然离世，乐队随之终止。此后多年，日本另类摇滚圈的纪念演出没有断过。",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=bloodthirsty%20butchers&type=artist"
+  },
+  "edges": [
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "member",
+      "label": "田渕ひさ子 / 长年盟友",
+      "detail": "北海道的前辈与盟友，后来吸纳了 NUMBER GIRL 的吉他手田渕ひさ子。",
+      "year": 2007,
+      "weight": 0.85
+    },
+    {
+      "to": "eastern-youth",
+      "toName": "eastern youth",
+      "toArea": "北海道",
+      "toYears": "1988–",
+      "type": "guest",
+      "label": "北海道的盟友",
+      "detail": "同为札幌出身，两队长年共演、互为对方现场的常客。",
+      "year": null,
+      "weight": 0.8
+    },
+    {
+      "to": "toddle",
+      "toName": "toddle",
+      "toArea": "东京",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "田渕ひさ子",
+      "detail": "吉他手田渕ひさ子在这两支乐队之间同时活动。",
+      "year": 2007,
+      "weight": 0.7
+    },
+    {
+      "to": "sonic-youth",
+      "toName": "Sonic Youth",
+      "toArea": "纽约",
+      "toYears": "1981–2011",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "噪音一侧的上游。",
+      "year": null,
+      "weight": 0.65
+    },
+    {
+      "to": "fugazi",
+      "toName": "Fugazi",
+      "toArea": "华盛顿特区",
+      "toYears": "1987–2003",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "post-hardcore 谱系的上游。",
+      "year": null,
+      "weight": 0.6
+    },
+    {
+      "to": "lostage",
+      "toName": "LOSTAGE",
+      "toArea": "奈良",
+      "toYears": "2001–",
+      "type": "guest",
+      "label": "共演・后辈",
+      "detail": "吉村秀树与 LOSTAGE 的五味岳久交情深厚，两队多次同台。",
+      "year": null,
+      "weight": 0.6
+    }
+  ]
+}

@@ -1,0 +1,68 @@
+{
+  "id": "supercar",
+  "name": "SUPERCAR",
+  "area": "青森",
+  "years": "1995–2005",
+  "genres": [
+    "Shoegaze",
+    "Electronica",
+    "Indie Rock"
+  ],
+  "intro": "从青森出道的四人组。前期是吉他噪音，后期整体转向电子，两种面貌都被后来者反复引用。",
+  "albums": [
+    {
+      "title": "スリーアウトチェンジ",
+      "year": 1998
+    },
+    {
+      "title": "JUMP UP",
+      "year": 1999
+    },
+    {
+      "title": "FUTURAMA",
+      "year": 2000
+    },
+    {
+      "title": "HIGHVISION",
+      "year": 2002
+    },
+    {
+      "title": "ANSWER",
+      "year": 2004
+    }
+  ],
+  "tracks": [
+    "cream soda",
+    "Lucky",
+    "YUMEGIWA LAST BOY",
+    "Storywriter",
+    "White Surf style 5."
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=SUPERCAR&type=artist"
+  },
+  "edges": [
+    {
+      "to": "my-bloody-valentine",
+      "toName": "My Bloody Valentine",
+      "toArea": "都柏林 / 伦敦",
+      "toYears": "1983–1997 / 2007–",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "早期吉他质感的主要来源。",
+      "year": null,
+      "weight": 0.7
+    },
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "scene",
+      "label": "1997 世代",
+      "detail": "几乎同时出道的同世代乐队。",
+      "year": null,
+      "weight": 0.6
+    }
+  ]
+}

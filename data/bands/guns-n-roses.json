@@ -1,0 +1,47 @@
+{
+  "id": "guns-n-roses",
+  "name": "Guns N' Roses",
+  "area": "洛杉矶",
+  "years": "1985–",
+  "genres": [
+    "Hard Rock",
+    "Glam Metal"
+  ],
+  "intro": "八十年代末最后一支超大规模的硬摇滚乐队，也是 grunge 一代最想推翻的对象。",
+  "albums": [
+    {
+      "title": "Appetite for Destruction",
+      "year": 1987
+    },
+    {
+      "title": "Use Your Illusion I",
+      "year": 1991
+    },
+    {
+      "title": "Use Your Illusion II",
+      "year": 1991
+    }
+  ],
+  "tracks": [
+    "Sweet Child o' Mine",
+    "Welcome to the Jungle",
+    "November Rain",
+    "Paradise City"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=Guns%20N'%20Roses&type=artist"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "feud",
+      "label": "1992 VMA 后台冲突",
+      "detail": "1992 年 VMA 后台的当众对峙，把新旧两代摇滚的对立摆到了台面上。",
+      "year": 1992,
+      "weight": 0.9
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "id": "sonic-youth",
+  "name": "Sonic Youth",
+  "area": "纽约",
+  "years": "1981–2011",
+  "genres": [
+    "Noise Rock",
+    "Alternative Rock",
+    "No Wave"
+  ],
+  "intro": "变则调弦、螺丝刀插进琴颈、把噪音当作旋律来写。三十年里始终站在另类摇滚与实验音乐的接缝上。",
+  "albums": [
+    {
+      "title": "Daydream Nation",
+      "year": 1988
+    },
+    {
+      "title": "Goo",
+      "year": 1990
+    },
+    {
+      "title": "Dirty",
+      "year": 1992
+    }
+  ],
+  "tracks": [
+    "Teen Age Riot",
+    "Kool Thing",
+    "Schizophrenia",
+    "100%"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=Sonic%20Youth&type=artist"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "guest",
+      "label": "引荐签约",
+      "detail": "Sonic Youth 把 Nirvana 引荐给 DGC，并在 1991 年的欧洲巡演中同行。",
+      "year": 1991,
+      "weight": 0.8
+    },
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "噪音与变则调弦的用法，是这一代日本另类摇滚的共同教科书。",
+      "year": null,
+      "weight": 0.75
+    },
+    {
+      "to": "bloodthirsty-butchers",
+      "toName": "bloodthirsty butchers",
+      "toArea": "北海道",
+      "toYears": "1987–2013",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "噪音与不谐和音程的用法上有清晰的继承关系。",
+      "year": null,
+      "weight": 0.65
+    }
+  ]
+}

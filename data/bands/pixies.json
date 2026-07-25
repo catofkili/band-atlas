@@ -1,0 +1,64 @@
+{
+  "id": "pixies",
+  "name": "Pixies",
+  "area": "波士顿",
+  "years": "1986–1993 / 2004–",
+  "genres": [
+    "Alternative Rock",
+    "Noise Pop"
+  ],
+  "intro": "轻—重—轻的段落结构、无来由的尖叫、超现实的歌词。九十年代之后几乎所有另类摇滚都欠它一笔。",
+  "albums": [
+    {
+      "title": "Surfer Rosa",
+      "year": 1988
+    },
+    {
+      "title": "Doolittle",
+      "year": 1989
+    },
+    {
+      "title": "Bossanova",
+      "year": 1990
+    },
+    {
+      "title": "Trompe le Monde",
+      "year": 1991
+    }
+  ],
+  "tracks": [
+    "Where Is My Mind?",
+    "Debaser",
+    "Gigantic",
+    "Here Comes Your Man",
+    "Monkey Gone to Heaven"
+  ],
+  "lore": "1993 年，Black Francis 没有开会，也没有挨个打电话——他用一份传真通知了乐队解散。",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=Pixies&type=artist"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "Kurt Cobain 曾直言〈Smells Like Teen Spirit〉就是在试图模仿 Pixies。",
+      "year": null,
+      "weight": 0.9
+    },
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "强弱段落的落差与噪音吉他，被向井秀徳反复提及为 NUMBER GIRL 的骨架。",
+      "year": null,
+      "weight": 0.9
+    }
+  ]
+}

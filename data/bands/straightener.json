@@ -1,0 +1,85 @@
+{
+  "id": "straightener",
+  "name": "ストレイテナー",
+  "area": "东京",
+  "years": "1998–",
+  "genres": [
+    "Alternative Rock",
+    "Emo",
+    "Post-punk"
+  ],
+  "intro": "ホリエアツシ的乐队，从双人编制起步。2004 年日向秀和加入之后成为四人阵容，也由此接上了整个日本摇滚的人脉网。",
+  "albums": [
+    {
+      "title": "LOST WORLD'S ANTHOLOGY",
+      "year": 2004
+    },
+    {
+      "title": "TITLE",
+      "year": 2005
+    },
+    {
+      "title": "LINEAR",
+      "year": 2006
+    },
+    {
+      "title": "Nexus",
+      "year": 2008
+    }
+  ],
+  "tracks": [
+    "TRAVELING GARGOYLE",
+    "シーグラス",
+    "ROCKSTEADY",
+    "KILLER TUNE"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%86%E3%83%8A%E3%83%BC&type=artist"
+  },
+  "edges": [
+    {
+      "to": "nothings-carved-in-stone",
+      "toName": "Nothing's Carved In Stone",
+      "toArea": "东京",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "日向秀和",
+      "detail": "日向秀和同时是 Nothing's Carved In Stone 的贝斯手，两队长年并行。",
+      "year": 2009,
+      "weight": 0.85
+    },
+    {
+      "to": "zazen-boys",
+      "toName": "ZAZEN BOYS",
+      "toArea": "东京",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "日向秀和",
+      "detail": "贝斯手日向秀和曾长期兼任 ZAZEN BOYS 的贝斯。",
+      "year": 2004,
+      "weight": 0.8
+    },
+    {
+      "to": "ellegarden",
+      "toName": "ELLEGARDEN",
+      "toArea": "千叶",
+      "toYears": "1998–2008 / 2018–",
+      "type": "scene",
+      "label": "2000 年代同世代",
+      "detail": "同属 2000 年代 live house 场景的核心，成员之间往来密切。",
+      "year": null,
+      "weight": 0.6
+    },
+    {
+      "to": "asian-kung-fu-generation",
+      "toName": "ASIAN KUNG-FU GENERATION",
+      "toArea": "横滨",
+      "toYears": "1996–",
+      "type": "scene",
+      "label": "2000 年代同世代",
+      "detail": "同属 2000 年代把 live house 场景推向大场馆的一批乐队。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

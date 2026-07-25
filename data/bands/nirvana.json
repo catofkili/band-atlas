@@ -1,0 +1,80 @@
+{
+  "id": "nirvana",
+  "name": "Nirvana",
+  "area": "西雅图",
+  "years": "1987–1994",
+  "genres": [
+    "Grunge",
+    "Alternative Rock"
+  ],
+  "intro": "把地下场景一夜之间推成全球主流的乐队，也因此被这件事本身压垮。",
+  "albums": [
+    {
+      "title": "Bleach",
+      "year": 1989
+    },
+    {
+      "title": "Nevermind",
+      "year": 1991
+    },
+    {
+      "title": "In Utero",
+      "year": 1993
+    }
+  ],
+  "tracks": [
+    "Smells Like Teen Spirit",
+    "Come as You Are",
+    "Heart-Shaped Box",
+    "About a Girl"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=Nirvana&type=artist"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "feud",
+      "label": "1992 VMA 后台冲突",
+      "detail": "1992 年 MTV 音乐录影带大奖后台，Axl Rose 与 Kurt Cobain、Courtney Love 当众对峙。两队自此成了九十年代摇滚新旧两极的象征。",
+      "year": 1992,
+      "weight": 0.9
+    },
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "Kurt Cobain 亲口承认的模仿对象。",
+      "year": null,
+      "weight": 0.9
+    },
+    {
+      "to": "sonic-youth",
+      "toName": "Sonic Youth",
+      "toArea": "纽约",
+      "toYears": "1981–2011",
+      "type": "guest",
+      "label": "引荐签约",
+      "detail": "Nirvana 能签进大厂牌，很大程度上得益于 Sonic Youth 的引荐与带队巡演。",
+      "year": 1991,
+      "weight": 0.8
+    },
+    {
+      "to": "art-school",
+      "toName": "ART-SCHOOL",
+      "toArea": "东京",
+      "toYears": "2000–",
+      "type": "influence",
+      "label": "影响来源",
+      "detail": "木下理树多次提到九十年代美国另类摇滚，尤其是 Nirvana 的影响。",
+      "year": null,
+      "weight": 0.7
+    }
+  ]
+}

@@ -1,0 +1,577 @@
+{
+  "scene": "日本另类摇滚及其源流",
+  "note": "M0 原型数据：人工整理，未经 MusicBrainz 校验。M1 阶段由数据管线替换。",
+  "bands": [
+    {
+      "id": "number-girl",
+      "name": "NUMBER GIRL",
+      "area": "福冈",
+      "years": "1995–2002 / 2019–2022",
+      "genres": ["Alternative Rock", "Post-hardcore", "Noise Rock"],
+      "intro": "向井秀徳领衔的四人组。轰鸣的双吉他、念白式的日语主唱、突然掐断的编曲，几乎重写了此后二十年日本另类摇滚的语法。",
+      "albums": [
+        { "title": "SCHOOL GIRL BYE BYE", "year": 1997 },
+        { "title": "SCHOOL GIRL DISTORTIONAL ADDICT", "year": 1999 },
+        { "title": "SAPPUKEI", "year": 2000 },
+        { "title": "NUM-HEAVYMETALLIC", "year": 2002 }
+      ],
+      "tracks": ["透明少女", "OMOIDE IN MY HEAD", "鉄風 鋭くなって", "DESTRUCTION BABY", "日常に生きる少女"],
+      "lore": "2002 年 11 月 30 日，札幌 PENNY LANE 24。演出中途宣布解散，此后十七年没有再合体。"
+    },
+    {
+      "id": "zazen-boys",
+      "name": "ZAZEN BOYS",
+      "area": "东京",
+      "years": "2003–",
+      "genres": ["Math Rock", "Funk", "Alternative Rock"],
+      "intro": "向井秀徳在 NUMBER GIRL 之后的乐队。把日语念白推到极端，用拍子的错位与突然的静止作为主要武器。",
+      "albums": [
+        { "title": "ZAZEN BOYS", "year": 2004 },
+        { "title": "ZAZEN BOYS II", "year": 2004 },
+        { "title": "ZAZEN BOYS 4", "year": 2008 },
+        { "title": "すとーりーず", "year": 2012 },
+        { "title": "らんど", "year": 2024 }
+      ],
+      "tracks": ["USODARAKE", "HIMITSU GIRL'S TOP SECRET", "Asobi", "サイボーグのオバケ", "Fender Telecaster"],
+      "lore": "向井秀徳把自己的录音室命名为 MATSURI STUDIO，多年来一手包办乐队的录音与混音。"
+    },
+    {
+      "id": "toddle",
+      "name": "toddle",
+      "area": "东京",
+      "years": "2004–",
+      "genres": ["Indie Rock", "Alternative Rock"],
+      "intro": "田渕ひさ子第一次站到主唱位置的乐队。吉他仍然锋利，但情绪比 NUMBER GIRL 时期柔软得多。",
+      "albums": [
+        { "title": "I dedicate D chord", "year": 2005 },
+        { "title": "Dawn Praise the World", "year": 2008 }
+      ],
+      "tracks": ["Rebuilt", "Rise"]
+    },
+    {
+      "id": "vola-and-the-oriental-machine",
+      "name": "VOLA & THE ORIENTAL MACHINE",
+      "area": "东京",
+      "years": "2004–",
+      "genres": ["Dance Punk", "Alternative Rock"],
+      "intro": "アヒト・イナザワ从鼓后走到台前的乐队，他在这里改任主唱兼吉他，声音比本行更偏向舞曲化的朋克。",
+      "albums": [
+        { "title": "Waiting for My Food", "year": 2006 },
+        { "title": "Principle of the Motion", "year": 2007 }
+      ],
+      "tracks": ["Pilot", "Uzumaki"]
+    },
+    {
+      "id": "bloodthirsty-butchers",
+      "name": "bloodthirsty butchers",
+      "area": "北海道",
+      "years": "1987–2013",
+      "genres": ["Alternative Rock", "Post-hardcore", "Noise Rock"],
+      "intro": "吉村秀树领衔的札幌乐队。旋律粗粝、演奏近乎失控，是日本另类摇滚里被后辈最频繁提起的一支。",
+      "albums": [
+        { "title": "kocorono", "year": 1996 },
+        { "title": "未完成", "year": 1998 },
+        { "title": "banging the drum", "year": 2001 },
+        { "title": "birdy", "year": 2003 },
+        { "title": "ギタリストを殺さないで", "year": 2011 }
+      ],
+      "tracks": ["7月", "December", "kocorono"],
+      "lore": "2013 年 5 月，吉村秀树突然离世，乐队随之终止。此后多年，日本另类摇滚圈的纪念演出没有断过。"
+    },
+    {
+      "id": "eastern-youth",
+      "name": "eastern youth",
+      "area": "北海道",
+      "years": "1988–",
+      "genres": ["Emo", "Post-hardcore", "Punk"],
+      "intro": "吉野寿的嘶吼与文语式的歌词。和 bloodthirsty butchers 一样出自札幌，是日本 emo 谱系最上游的一支。",
+      "albums": [
+        { "title": "口笛、夜更けに使う", "year": 1998 },
+        { "title": "sound track", "year": 1999 },
+        { "title": "時計台の鐘", "year": 2001 }
+      ],
+      "tracks": ["夏の日の午後", "男子畢生危機一髪", "青い空、白い雲、しゅーっという風"]
+    },
+    {
+      "id": "lostage",
+      "name": "LOSTAGE",
+      "area": "奈良",
+      "years": "2001–",
+      "genres": ["Alternative Rock", "Post-hardcore"],
+      "intro": "五味岳久的三人组。从奈良起步，中途离开大厂牌自办唱片行与厂牌，是日本独立摇滚自给自足的一个样板。",
+      "albums": [
+        { "title": "CONTEXT", "year": 2009 },
+        { "title": "In Dreams", "year": 2011 },
+        { "title": "LOSTAGE", "year": 2014 }
+      ],
+      "tracks": ["HELLO", "生活"]
+    },
+    {
+      "id": "art-school",
+      "name": "ART-SCHOOL",
+      "area": "东京",
+      "years": "2000–",
+      "genres": ["Alternative Rock", "Shoegaze", "Grunge"],
+      "intro": "木下理树的乐队。把九十年代美国另类摇滚的阴郁质感翻译成日语，成员更替极其频繁。",
+      "albums": [
+        { "title": "LOVE/HATE", "year": 2003 },
+        { "title": "PARADISE LOST", "year": 2004 },
+        { "title": "Anesthesia", "year": 2005 }
+      ],
+      "tracks": ["クロエ", "UNDER MY SKIN", "FADE TO BLACK", "乾いた花"]
+    },
+    {
+      "id": "mo-some-tonebender",
+      "name": "MO'SOME TONEBENDER",
+      "area": "福冈",
+      "years": "1997–",
+      "genres": ["Garage Rock", "Alternative Rock"],
+      "intro": "百々和宏领衔的福冈三人组，和 NUMBER GIRL 出自同一片场景，但走的是更噪、更放浪的车库路线。",
+      "albums": [
+        { "title": "Rockin' Luuula", "year": 2002 }
+      ],
+      "tracks": ["ロッキンルーラ"]
+    },
+    {
+      "id": "straightener",
+      "name": "ストレイテナー",
+      "area": "东京",
+      "years": "1998–",
+      "genres": ["Alternative Rock", "Emo", "Post-punk"],
+      "intro": "ホリエアツシ的乐队，从双人编制起步。2004 年日向秀和加入之后成为四人阵容，也由此接上了整个日本摇滚的人脉网。",
+      "albums": [
+        { "title": "LOST WORLD'S ANTHOLOGY", "year": 2004 },
+        { "title": "TITLE", "year": 2005 },
+        { "title": "LINEAR", "year": 2006 },
+        { "title": "Nexus", "year": 2008 }
+      ],
+      "tracks": ["TRAVELING GARGOYLE", "シーグラス", "ROCKSTEADY", "KILLER TUNE"]
+    },
+    {
+      "id": "nothings-carved-in-stone",
+      "name": "Nothing's Carved In Stone",
+      "area": "东京",
+      "years": "2009–",
+      "genres": ["Alternative Rock", "Post-hardcore"],
+      "intro": "由四支不同乐队的成员凑成的编制，几乎是这张关系网上人脉密度最高的一个节点。",
+      "albums": [
+        { "title": "PARALLEL LIVES", "year": 2009 },
+        { "title": "Revolt", "year": 2011 },
+        { "title": "Strangers In Heaven", "year": 2013 }
+      ],
+      "tracks": ["November 15th", "Isolation", "Out of Control", "Spirit Inspiration"]
+    },
+    {
+      "id": "ellegarden",
+      "name": "ELLEGARDEN",
+      "area": "千叶",
+      "years": "1998–2008 / 2018–",
+      "genres": ["Melodic Punk", "Emo", "Alternative Rock"],
+      "intro": "细美武士的乐队。用英语与日语交替写歌，把 2000 年代日本的 live house 场景推到了武道馆规模。",
+      "albums": [
+        { "title": "DON'T TRUST ANYONE BUT US", "year": 2002 },
+        { "title": "Pepperoni Quattro", "year": 2004 },
+        { "title": "RIOT ON THE GRILL", "year": 2005 },
+        { "title": "ELEVEN FIRE CRACKERS", "year": 2006 }
+      ],
+      "tracks": ["Missing", "Salamander", "Marry Me", "風の日", "ジターバグ"],
+      "lore": "2008 年宣布无限期活动休止，直到 2018 年才重启。中间整整十年，成员各自组了新乐队。"
+    },
+    {
+      "id": "the-hiatus",
+      "name": "the HIATUS",
+      "area": "东京",
+      "years": "2009–",
+      "genres": ["Alternative Rock", "Post-rock"],
+      "intro": "细美武士在 ELLEGARDEN 休止后召集的乐队，成员分别来自四支不同的知名乐队，编曲比本行复杂得多。",
+      "albums": [
+        { "title": "Trash We'd Love", "year": 2009 },
+        { "title": "A World Of Pandemonium", "year": 2011 },
+        { "title": "Keeper Of The Flame", "year": 2014 }
+      ],
+      "tracks": ["Twisted Maple Trees", "Insomnia", "Silver Birch", "Bittersweet / Hatsukoi"]
+    },
+    {
+      "id": "thee-michelle-gun-elephant",
+      "name": "thee michelle gun elephant",
+      "area": "东京",
+      "years": "1991–2003",
+      "genres": ["Garage Rock", "Punk Rock"],
+      "intro": "千叶利市的嘶吼与阿部义晴式的西装造型。九十年代日本车库摇滚的最高点，解散至今没有重组。",
+      "albums": [
+        { "title": "cult grass stars", "year": 1996 },
+        { "title": "チキンゾンビーズ", "year": 1997 },
+        { "title": "ギヤ・ブルーズ", "year": 1998 },
+        { "title": "カサノバ・スネイク", "year": 2000 }
+      ],
+      "tracks": ["世界の終わり", "バードメン", "ゲット・アップ・ルーシー", "リボルバー・ジャンキーズ"],
+      "lore": "2003 年宣布解散，翌年在幕张展览馆办完最后一场，此后再无重组。"
+    },
+    {
+      "id": "asian-kung-fu-generation",
+      "name": "ASIAN KUNG-FU GENERATION",
+      "area": "横滨",
+      "years": "1996–",
+      "genres": ["Alternative Rock", "Power Pop"],
+      "intro": "后藤正文的四人组。把 NUMBER GIRL 那一代的另类摇滚语法推向了主流规模，也是很多人认识日本摇滚的入口。",
+      "albums": [
+        { "title": "君繋ファイブエム", "year": 2003 },
+        { "title": "ソルファ", "year": 2004 },
+        { "title": "ファンクラブ", "year": 2006 },
+        { "title": "ワールド ワールド ワールド", "year": 2008 }
+      ],
+      "tracks": ["リライト", "遙か彼方", "ソラニン", "君という花", "アフターダーク"]
+    },
+    {
+      "id": "ling-tosite-sigure",
+      "name": "凛として時雨",
+      "area": "埼玉",
+      "years": "2002–",
+      "genres": ["Math Rock", "Post-hardcore"],
+      "intro": "TK 领衔的三人组。极高音域的男女双主唱、密到几乎没有空隙的编曲，是 2000 年代后期日本摇滚最辨识度的声音之一。",
+      "albums": [
+        { "title": "#4", "year": 2008 },
+        { "title": "just A moment", "year": 2009 },
+        { "title": "i'mperfect", "year": 2013 }
+      ],
+      "tracks": ["telecastic fake show", "abnormalize", "傍観", "DISCO FLIGHT"]
+    },
+    {
+      "id": "kinoko-teikoku",
+      "name": "きのこ帝国",
+      "area": "东京",
+      "years": "2007–2019",
+      "genres": ["Shoegaze", "Alternative Rock"],
+      "intro": "佐藤千亚妃的乐队。从 shoegaze 的噪音墙起步，逐渐转向清亮的流行写作，两个阶段的落差是它最被讨论的地方。",
+      "albums": [
+        { "title": "渦になる", "year": 2012 },
+        { "title": "eureka", "year": 2013 },
+        { "title": "フェイクワールドワンダーランド", "year": 2014 },
+        { "title": "愛のゆくえ", "year": 2015 }
+      ],
+      "tracks": ["クロノスタシス", "東京", "WHIRLPOOL", "海と花束"]
+    },
+    {
+      "id": "supercar",
+      "name": "SUPERCAR",
+      "area": "青森",
+      "years": "1995–2005",
+      "genres": ["Shoegaze", "Electronica", "Indie Rock"],
+      "intro": "从青森出道的四人组。前期是吉他噪音，后期整体转向电子，两种面貌都被后来者反复引用。",
+      "albums": [
+        { "title": "スリーアウトチェンジ", "year": 1998 },
+        { "title": "JUMP UP", "year": 1999 },
+        { "title": "FUTURAMA", "year": 2000 },
+        { "title": "HIGHVISION", "year": 2002 },
+        { "title": "ANSWER", "year": 2004 }
+      ],
+      "tracks": ["cream soda", "Lucky", "YUMEGIWA LAST BOY", "Storywriter", "White Surf style 5."]
+    },
+    {
+      "id": "pixies",
+      "name": "Pixies",
+      "area": "波士顿",
+      "years": "1986–1993 / 2004–",
+      "genres": ["Alternative Rock", "Noise Pop"],
+      "intro": "轻—重—轻的段落结构、无来由的尖叫、超现实的歌词。九十年代之后几乎所有另类摇滚都欠它一笔。",
+      "albums": [
+        { "title": "Surfer Rosa", "year": 1988 },
+        { "title": "Doolittle", "year": 1989 },
+        { "title": "Bossanova", "year": 1990 },
+        { "title": "Trompe le Monde", "year": 1991 }
+      ],
+      "tracks": ["Where Is My Mind?", "Debaser", "Gigantic", "Here Comes Your Man", "Monkey Gone to Heaven"],
+      "lore": "1993 年，Black Francis 没有开会，也没有挨个打电话——他用一份传真通知了乐队解散。"
+    },
+    {
+      "id": "sonic-youth",
+      "name": "Sonic Youth",
+      "area": "纽约",
+      "years": "1981–2011",
+      "genres": ["Noise Rock", "Alternative Rock", "No Wave"],
+      "intro": "变则调弦、螺丝刀插进琴颈、把噪音当作旋律来写。三十年里始终站在另类摇滚与实验音乐的接缝上。",
+      "albums": [
+        { "title": "Daydream Nation", "year": 1988 },
+        { "title": "Goo", "year": 1990 },
+        { "title": "Dirty", "year": 1992 }
+      ],
+      "tracks": ["Teen Age Riot", "Kool Thing", "Schizophrenia", "100%"]
+    },
+    {
+      "id": "fugazi",
+      "name": "Fugazi",
+      "area": "华盛顿特区",
+      "years": "1987–2003",
+      "genres": ["Post-hardcore", "Punk"],
+      "intro": "Ian MacKaye 的乐队。坚持五美元门票、拒绝周边、不上大厂牌，把独立不只是当作声音，而是当作一整套做法。",
+      "albums": [
+        { "title": "13 Songs", "year": 1989 },
+        { "title": "Repeater", "year": 1990 },
+        { "title": "In on the Kill Taker", "year": 1993 },
+        { "title": "The Argument", "year": 2001 }
+      ],
+      "tracks": ["Waiting Room", "Merchandise", "Blueprint", "Bed for the Scraping"]
+    },
+    {
+      "id": "nirvana",
+      "name": "Nirvana",
+      "area": "西雅图",
+      "years": "1987–1994",
+      "genres": ["Grunge", "Alternative Rock"],
+      "intro": "把地下场景一夜之间推成全球主流的乐队，也因此被这件事本身压垮。",
+      "albums": [
+        { "title": "Bleach", "year": 1989 },
+        { "title": "Nevermind", "year": 1991 },
+        { "title": "In Utero", "year": 1993 }
+      ],
+      "tracks": ["Smells Like Teen Spirit", "Come as You Are", "Heart-Shaped Box", "About a Girl"]
+    },
+    {
+      "id": "my-bloody-valentine",
+      "name": "My Bloody Valentine",
+      "area": "都柏林 / 伦敦",
+      "years": "1983–1997 / 2007–",
+      "genres": ["Shoegaze", "Noise Pop"],
+      "intro": "Kevin Shields 用摇把与叠录堆出的吉他音墙。《Loveless》几乎定义了 shoegaze 这个词的全部含义。",
+      "albums": [
+        { "title": "Isn't Anything", "year": 1988 },
+        { "title": "Loveless", "year": 1991 },
+        { "title": "m b v", "year": 2013 }
+      ],
+      "tracks": ["Only Shallow", "Sometimes", "When You Sleep", "Soon"]
+    },
+    {
+      "id": "oasis",
+      "name": "Oasis",
+      "area": "曼彻斯特",
+      "years": "1991–2009 / 2024–",
+      "genres": ["Britpop", "Rock"],
+      "intro": "Gallagher 兄弟的乐队。工人阶级的狂妄、大合唱式的副歌，以及贯穿始终的兄弟内斗。",
+      "albums": [
+        { "title": "Definitely Maybe", "year": 1994 },
+        { "title": "(What's the Story) Morning Glory?", "year": 1995 },
+        { "title": "Be Here Now", "year": 1997 }
+      ],
+      "tracks": ["Live Forever", "Wonderwall", "Don't Look Back in Anger", "Champagne Supernova"]
+    },
+    {
+      "id": "blur",
+      "name": "Blur",
+      "area": "伦敦",
+      "years": "1988–",
+      "genres": ["Britpop", "Alternative Rock"],
+      "intro": "Damon Albarn 的乐队。用带距离感的观察写英国中产生活，和 Oasis 恰好构成了英伦摇滚的两极。",
+      "albums": [
+        { "title": "Parklife", "year": 1994 },
+        { "title": "The Great Escape", "year": 1995 },
+        { "title": "Blur", "year": 1997 },
+        { "title": "13", "year": 1999 }
+      ],
+      "tracks": ["Song 2", "Girls & Boys", "Coffee & TV", "Parklife"]
+    },
+    {
+      "id": "guns-n-roses",
+      "name": "Guns N' Roses",
+      "area": "洛杉矶",
+      "years": "1985–",
+      "genres": ["Hard Rock", "Glam Metal"],
+      "intro": "八十年代末最后一支超大规模的硬摇滚乐队，也是 grunge 一代最想推翻的对象。",
+      "albums": [
+        { "title": "Appetite for Destruction", "year": 1987 },
+        { "title": "Use Your Illusion I", "year": 1991 },
+        { "title": "Use Your Illusion II", "year": 1991 }
+      ],
+      "tracks": ["Sweet Child o' Mine", "Welcome to the Jungle", "November Rain", "Paradise City"]
+    }
+  ],
+
+  "edges": [
+    {
+      "from": "number-girl", "to": "zazen-boys", "type": "member", "year": 2003, "weight": 0.95,
+      "label": "向井秀徳",
+      "detail": "2002 年 NUMBER GIRL 解散，翌年向井秀徳组建 ZAZEN BOYS，鼓手アヒト・イナザワ也一同进入初期阵容。",
+      "detailRev": "由 NUMBER GIRL 的主唱向井秀徳在乐队解散后组建，初期鼓手同样来自 NUMBER GIRL。"
+    },
+    {
+      "from": "number-girl", "to": "toddle", "type": "member", "year": 2004, "weight": 0.9,
+      "label": "田渕ひさ子",
+      "detail": "吉他手田渕ひさ子在乐队解散后组建 toddle，并第一次亲自担任主唱。",
+      "detailRev": "由 NUMBER GIRL 的吉他手田渕ひさ子组建，她在这里改任主唱。"
+    },
+    {
+      "from": "number-girl", "to": "vola-and-the-oriental-machine", "type": "member", "year": 2004, "weight": 0.8,
+      "label": "アヒト・イナザワ",
+      "detail": "鼓手アヒト・イナザワ的主导项目，他在这里从鼓后走到台前。",
+      "detailRev": "NUMBER GIRL 的鼓手アヒト・イナザワ主导的乐队。"
+    },
+    {
+      "from": "number-girl", "to": "art-school", "type": "member", "year": 2005, "weight": 0.75,
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子于 2000 年代中期以吉他手身份加入 ART-SCHOOL。",
+      "detailRev": "NUMBER GIRL 的田渕ひさ子曾在这支乐队担任吉他手。"
+    },
+    {
+      "from": "number-girl", "to": "bloodthirsty-butchers", "type": "member", "year": 2007, "weight": 0.85,
+      "label": "田渕ひさ子 / 长年盟友",
+      "detail": "两队在九十年代即频繁同台；NUMBER GIRL 解散数年后，田渕ひさ子正式成为 butchers 的吉他手。",
+      "detailRev": "北海道的前辈与盟友，后来吸纳了 NUMBER GIRL 的吉他手田渕ひさ子。"
+    },
+    {
+      "from": "zazen-boys", "to": "vola-and-the-oriental-machine", "type": "member", "year": 2004, "weight": 0.7,
+      "label": "アヒト・イナザワ",
+      "detail": "アヒト・イナザワ在担任 ZAZEN BOYS 鼓手的同时主导了这支乐队。",
+      "detailRev": "两队初期成员重叠，同由アヒト・イナザワ参与。"
+    },
+    {
+      "from": "zazen-boys", "to": "straightener", "type": "member", "year": 2004, "weight": 0.8,
+      "label": "日向秀和",
+      "detail": "贝斯手日向秀和同期也是ストレイテナー的成员，是这一代日本摇滚最密的连接点之一。",
+      "detailRev": "贝斯手日向秀和曾长期兼任 ZAZEN BOYS 的贝斯。"
+    },
+    {
+      "from": "zazen-boys", "to": "nothings-carved-in-stone", "type": "member", "year": 2009, "weight": 0.6,
+      "label": "日向秀和",
+      "detail": "日向秀和离开 ZAZEN BOYS 之后成为 Nothing's Carved In Stone 的固定成员。",
+      "detailRev": "贝斯手日向秀和曾是 ZAZEN BOYS 的成员。"
+    },
+    {
+      "from": "straightener", "to": "nothings-carved-in-stone", "type": "member", "year": 2009, "weight": 0.85,
+      "label": "日向秀和",
+      "detail": "日向秀和同时是 Nothing's Carved In Stone 的贝斯手，两队长年并行。",
+      "detailRev": "贝斯手日向秀和的另一支乐队，两边同时在跑。"
+    },
+    {
+      "from": "ellegarden", "to": "nothings-carved-in-stone", "type": "member", "year": 2009, "weight": 0.9,
+      "label": "生形真一・大喜多崇規",
+      "detail": "ELLEGARDEN 无限期休止后，吉他手生形真一与鼓手大喜多崇規发起了 Nothing's Carved In Stone。",
+      "detailRev": "由 ELLEGARDEN 的生形真一与大喜多崇規在母队休止后发起。"
+    },
+    {
+      "from": "ellegarden", "to": "the-hiatus", "type": "member", "year": 2009, "weight": 0.9,
+      "label": "細美武士",
+      "detail": "主唱細美武士在乐队休止后于 2009 年组建 the HIATUS。",
+      "detailRev": "ELLEGARDEN 主唱細美武士在母队休止期间组建的乐队。"
+    },
+    {
+      "from": "thee-michelle-gun-elephant", "to": "the-hiatus", "type": "member", "year": 2009, "weight": 0.7,
+      "label": "ウエノコウジ",
+      "detail": "解散多年之后，贝斯手ウエノコウジ成为 the HIATUS 的一员。",
+      "detailRev": "贝斯手ウエノコウジ来自九十年代的 thee michelle gun elephant。"
+    },
+    {
+      "from": "toddle", "to": "bloodthirsty-butchers", "type": "member", "year": 2007, "weight": 0.7,
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子同时经营 toddle 与 butchers 的吉他席位。",
+      "detailRev": "吉他手田渕ひさ子在这两支乐队之间同时活动。"
+    },
+    {
+      "from": "toddle", "to": "art-school", "type": "member", "year": 2005, "weight": 0.6,
+      "label": "田渕ひさ子",
+      "detail": "田渕ひさ子在组建 toddle 的同一时期也参加了 ART-SCHOOL。",
+      "detailRev": "吉他手田渕ひさ子同期的另一支乐队。"
+    },
+
+    {
+      "from": "bloodthirsty-butchers", "to": "eastern-youth", "type": "guest", "weight": 0.8,
+      "label": "北海道的盟友",
+      "detail": "同为札幌出身，两队长年共演、互为对方现场的常客。",
+      "detailRev": "同为札幌出身的盟友，共演次数多到难以计数。"
+    },
+    {
+      "from": "bloodthirsty-butchers", "to": "lostage", "type": "guest", "weight": 0.6,
+      "label": "共演・后辈",
+      "detail": "吉村秀树与 LOSTAGE 的五味岳久交情深厚，两队多次同台。",
+      "detailRev": "五味岳久最敬重的前辈之一，两队多次同台。"
+    },
+    {
+      "from": "eastern-youth", "to": "lostage", "type": "guest", "weight": 0.55,
+      "label": "共演",
+      "detail": "同属日本独立摇滚的自办体系，长期互相邀约。",
+      "detailRev": "同属日本独立摇滚的自办体系，长期互相邀约。"
+    },
+    {
+      "from": "sonic-youth", "to": "nirvana", "type": "guest", "year": 1991, "weight": 0.8,
+      "label": "引荐签约",
+      "detail": "Sonic Youth 把 Nirvana 引荐给 DGC，并在 1991 年的欧洲巡演中同行。",
+      "detailRev": "Nirvana 能签进大厂牌，很大程度上得益于 Sonic Youth 的引荐与带队巡演。"
+    },
+
+    {
+      "from": "pixies", "to": "number-girl", "type": "influence", "weight": 0.9,
+      "label": "影响来源",
+      "detail": "强弱段落的落差与噪音吉他，被向井秀徳反复提及为 NUMBER GIRL 的骨架。",
+      "detailRev": "最常被提及的影响来源，轻重段落的写法几乎是直接继承。"
+    },
+    { "from": "sonic-youth", "to": "number-girl", "type": "influence", "weight": 0.75, "label": "影响来源",
+      "detail": "噪音与变则调弦的用法，是这一代日本另类摇滚的共同教科书。",
+      "detailRev": "噪音吉他一侧的主要源头之一。" },
+    { "from": "pixies", "to": "nirvana", "type": "influence", "weight": 0.9, "label": "影响来源",
+      "detail": "Kurt Cobain 曾直言〈Smells Like Teen Spirit〉就是在试图模仿 Pixies。",
+      "detailRev": "Kurt Cobain 亲口承认的模仿对象。" },
+    { "from": "fugazi", "to": "bloodthirsty-butchers", "type": "influence", "weight": 0.6, "label": "影响来源",
+      "detail": "post-hardcore 的段落写法与独立做法，是 butchers 上游的一条线。",
+      "detailRev": "post-hardcore 谱系的上游。" },
+    { "from": "fugazi", "to": "eastern-youth", "type": "influence", "weight": 0.6, "label": "影响来源",
+      "detail": "日本 emo / post-hardcore 谱系普遍绕不开的源头。",
+      "detailRev": "日本 emo 谱系普遍绕不开的源头。" },
+    { "from": "my-bloody-valentine", "to": "kinoko-teikoku", "type": "influence", "weight": 0.8, "label": "影响来源",
+      "detail": "早期的噪音墙写法几乎是《Loveless》的直系。",
+      "detailRev": "早期噪音墙写法的直系源头。" },
+    { "from": "my-bloody-valentine", "to": "supercar", "type": "influence", "weight": 0.7, "label": "影响来源",
+      "detail": "SUPERCAR 早期的吉他质感被普遍认为来自 shoegaze 一系。",
+      "detailRev": "早期吉他质感的主要来源。" },
+    { "from": "number-girl", "to": "asian-kung-fu-generation", "type": "influence", "weight": 0.9, "label": "影响来源",
+      "detail": "后藤正文反复提到 NUMBER GIRL 是他真正开始做乐队的直接动机。",
+      "detailRev": "后藤正文口中「让我开始做乐队的那支乐队」。" },
+    { "from": "number-girl", "to": "ling-tosite-sigure", "type": "influence", "weight": 0.7, "label": "影响来源",
+      "detail": "日语咬字与切分的处理方式在后辈里留下明显痕迹。",
+      "detailRev": "日语咬字与节奏切分上的上游参照。" },
+    { "from": "number-girl", "to": "kinoko-teikoku", "type": "influence", "weight": 0.7, "label": "影响来源",
+      "detail": "噪音与日语叙事结合的路径，被 2010 年代的后辈继续推进。",
+      "detailRev": "噪音与日语叙事结合的先例。" },
+    { "from": "nirvana", "to": "art-school", "type": "influence", "weight": 0.7, "label": "影响来源",
+      "detail": "木下理树多次提到九十年代美国另类摇滚，尤其是 Nirvana 的影响。",
+      "detailRev": "木下理树最常提及的影响来源之一。" },
+    { "from": "oasis", "to": "asian-kung-fu-generation", "type": "influence", "weight": 0.6, "label": "影响来源",
+      "detail": "英伦摇滚的合唱式副歌，是 AKG 早期写作的参照之一。",
+      "detailRev": "早期写作里合唱式副歌的参照之一。" },
+    { "from": "sonic-youth", "to": "bloodthirsty-butchers", "type": "influence", "weight": 0.65, "label": "影响来源",
+      "detail": "噪音与不谐和音程的用法上有清晰的继承关系。",
+      "detailRev": "噪音一侧的上游。" },
+
+    { "from": "number-girl", "to": "mo-some-tonebender", "type": "scene", "weight": 0.6, "label": "福冈・同世代",
+      "detail": "同样出自九十年代末的福冈场景，只是走了更噪、更放浪的车库路线。",
+      "detailRev": "同为福冈出身的同世代乐队。" },
+    { "from": "number-girl", "to": "supercar", "type": "scene", "weight": 0.6, "label": "1997 世代",
+      "detail": "两队几乎同时出道，长期被放在一起讨论。",
+      "detailRev": "几乎同时出道的同世代乐队。" },
+    { "from": "number-girl", "to": "thee-michelle-gun-elephant", "type": "scene", "weight": 0.55, "label": "90 年代日本另类摇滚",
+      "detail": "同属九十年代后期日本摇滚最受注目的一批乐队。",
+      "detailRev": "同属九十年代后期日本摇滚的核心阵容。" },
+    { "from": "straightener", "to": "ellegarden", "type": "scene", "weight": 0.6, "label": "2000 年代同世代",
+      "detail": "同属 2000 年代 live house 场景的核心，成员之间往来密切。",
+      "detailRev": "同属 2000 年代 live house 场景的核心。" },
+    { "from": "mo-some-tonebender", "to": "thee-michelle-gun-elephant", "type": "scene", "weight": 0.5, "label": "车库摇滚同世代",
+      "detail": "九十年代末日本车库摇滚的同一批人。",
+      "detailRev": "九十年代末日本车库摇滚的同一批人。" },
+    { "from": "asian-kung-fu-generation", "to": "straightener", "type": "scene", "weight": 0.55, "label": "2000 年代同世代",
+      "detail": "同属 2000 年代把 live house 场景推向大场馆的一批乐队。",
+      "detailRev": "同属 2000 年代把 live house 场景推向大场馆的一批乐队。" },
+    { "from": "ling-tosite-sigure", "to": "kinoko-teikoku", "type": "scene", "weight": 0.5, "label": "2010 年前后",
+      "detail": "同属 2010 年前后从 live house 起步的日本另类摇滚新一批。",
+      "detailRev": "同属 2010 年前后从 live house 起步的一批。" },
+
+    {
+      "from": "oasis", "to": "blur", "type": "feud", "year": 1995, "weight": 0.95,
+      "label": "英伦摇滚之战",
+      "detail": "1995 年 8 月，两队把新单曲放在同一天发行，媒体把它炒成全国性对决。Noel Gallagher 随后关于 Blur 成员的失言让关系跌到冰点，多年后他才公开道歉。",
+      "detailRev": "1995 年 8 月的同日发行单曲对决，是英国流行乐史上被讨论最多的一次乐队对立。"
+    },
+    {
+      "from": "nirvana", "to": "guns-n-roses", "type": "feud", "year": 1992, "weight": 0.9,
+      "label": "1992 VMA 后台冲突",
+      "detail": "1992 年 MTV 音乐录影带大奖后台，Axl Rose 与 Kurt Cobain、Courtney Love 当众对峙。两队自此成了九十年代摇滚新旧两极的象征。",
+      "detailRev": "1992 年 VMA 后台的当众对峙，把新旧两代摇滚的对立摆到了台面上。"
+    }
+  ]
+}

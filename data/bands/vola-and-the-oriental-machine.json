@@ -1,0 +1,52 @@
+{
+  "id": "vola-and-the-oriental-machine",
+  "name": "VOLA & THE ORIENTAL MACHINE",
+  "area": "东京",
+  "years": "2004–",
+  "genres": [
+    "Dance Punk",
+    "Alternative Rock"
+  ],
+  "intro": "アヒト・イナザワ从鼓后走到台前的乐队，他在这里改任主唱兼吉他，声音比本行更偏向舞曲化的朋克。",
+  "albums": [
+    {
+      "title": "Waiting for My Food",
+      "year": 2006
+    },
+    {
+      "title": "Principle of the Motion",
+      "year": 2007
+    }
+  ],
+  "tracks": [
+    "Pilot",
+    "Uzumaki"
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/search?query=VOLA%20%26%20THE%20ORIENTAL%20MACHINE&type=artist"
+  },
+  "edges": [
+    {
+      "to": "number-girl",
+      "toName": "NUMBER GIRL",
+      "toArea": "福冈",
+      "toYears": "1995–2002 / 2019–2022",
+      "type": "member",
+      "label": "アヒト・イナザワ",
+      "detail": "NUMBER GIRL 的鼓手アヒト・イナザワ主导的乐队。",
+      "year": 2004,
+      "weight": 0.8
+    },
+    {
+      "to": "zazen-boys",
+      "toName": "ZAZEN BOYS",
+      "toArea": "东京",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "アヒト・イナザワ",
+      "detail": "两队初期成员重叠，同由アヒト・イナザワ参与。",
+      "year": 2004,
+      "weight": 0.7
+    }
+  ]
+}
