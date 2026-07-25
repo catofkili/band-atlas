@@ -1,0 +1,141 @@
+{
+  "id": "vaundy",
+  "mbid": "114b26ff-a1fe-41f3-9df8-5c093afe9c56",
+  "name": "Vaundy",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2000–",
+  "genres": [
+    "日本流行音乐",
+    "唱作人",
+    "流行音乐"
+  ],
+  "albums": [
+    {
+      "title": "strobo",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "replica",
+      "year": 2023,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Vaundy是一位日本的创作歌手及多方面艺术创作者。所属的唱片公司为星尘传播旗下的Vaundy Artwork Studio。",
+  "introLang": "zh",
+  "tracks": [
+    "タイムパラドックス",
+    "トドメの一撃",
+    "怪獸的花歌",
+    "Life hack",
+    "ホムンクルス/Gift"
+  ],
+  "trackSources": [
+    {
+      "title": "タイムパラドックス"
+    },
+    {
+      "title": "トドメの一撃"
+    },
+    {
+      "title": "怪獸的花歌"
+    },
+    {
+      "title": "Life hack"
+    },
+    {
+      "title": "ホムンクルス/Gift"
+    }
+  ],
+  "listens": 130078,
+  "listeners": 3730,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/114b26ff-a1fe-41f3-9df8-5c093afe9c56"
+  },
+  "edges": [
+    {
+      "to": "eve",
+      "toName": "Eve",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "米津玄師",
+      "toName": "米津玄師",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "creepy-nuts",
+      "toName": "Creepy Nuts",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ずっと真夜中でいいのに",
+      "toName": "ずっと真夜中でいいのに。",
+      "toArea": "日本",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "藤井風",
+      "toName": "藤井風",
+      "toArea": "日本",
+      "toYears": "1997–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "imase",
+      "toName": "imase",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

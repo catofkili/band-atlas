@@ -1,0 +1,175 @@
+{
+  "id": "星野源",
+  "mbid": "2c6c53ea-09d4-4d98-b174-c9aa83d4fecf",
+  "name": "星野源",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1981–",
+  "genres": [
+    "日本流行音乐",
+    "节奏布鲁斯",
+    "唱作人",
+    "日本流行音樂",
+    "民俗音樂"
+  ],
+  "albums": [
+    {
+      "title": "ばかのうた",
+      "year": 2010,
+      "kind": "Album"
+    },
+    {
+      "title": "エピソード",
+      "year": 2011,
+      "kind": "Album"
+    },
+    {
+      "title": "Stranger",
+      "year": 2013,
+      "kind": "Album"
+    },
+    {
+      "title": "YELLOW DANCER",
+      "year": 2015,
+      "kind": "Album"
+    },
+    {
+      "title": "POP VIRUS",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "Gen",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "星野源是日本男性创作歌手、演员及作家，埼玉县川口市出身。经纪公司分属于Amuse、大人计划。",
+  "introLang": "zh",
+  "tracks": [
+    "恋",
+    "多啦A夢",
+    "Crazy Crazy/櫻花森林",
+    "Cube",
+    "Eureka"
+  ],
+  "trackSources": [
+    {
+      "title": "恋"
+    },
+    {
+      "title": "多啦A夢"
+    },
+    {
+      "title": "Crazy Crazy/櫻花森林"
+    },
+    {
+      "title": "Cube"
+    },
+    {
+      "title": "Eureka"
+    }
+  ],
+  "listens": 21175,
+  "listeners": 761,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2c6c53ea-09d4-4d98-b174-c9aa83d4fecf"
+  },
+  "edges": [
+    {
+      "to": "da-ice",
+      "toName": "Da‐iCE",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "eve",
+      "toName": "Eve",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "あいみょん",
+      "toName": "あいみょん",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "緑黄色社会",
+      "toName": "緑黄色社会",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "omoinotake",
+      "toName": "Omoinotake",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ano",
+      "toName": "ano",
+      "toArea": "日本",
+      "toYears": "????–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "imase",
+      "toName": "imase",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

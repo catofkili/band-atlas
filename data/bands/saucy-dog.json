@@ -1,0 +1,107 @@
+{
+  "id": "saucy-dog",
+  "mbid": "76c63dd7-96d1-42d9-a596-4d576a464008",
+  "name": "Saucy Dog",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2013–",
+  "genres": [
+    "摇滚乐"
+  ],
+  "albums": [
+    {
+      "title": "カントリーロード",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "SALAD DAYS",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "サラダデイズ",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "ブルーピリオド",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "Take Me",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "Lazy Sunday",
+      "year": 2021,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Saucy Dog 是日本三人摇滚乐团。所属经纪公司为 MASH A&R。所属唱片公司为A-Sketch。",
+  "introLang": "zh",
+  "tracks": [
+    "真昼の月"
+  ],
+  "trackSources": [
+    {
+      "title": "真昼の月"
+    }
+  ],
+  "listens": 5942,
+  "listeners": 594,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/76c63dd7-96d1-42d9-a596-4d576a464008"
+  },
+  "edges": [
+    {
+      "to": "マカロニえんぴつ",
+      "toName": "マカロニえんぴつ",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "fruits-zipper",
+      "toName": "FRUITS ZIPPER",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

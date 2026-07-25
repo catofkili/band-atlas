@@ -1,0 +1,152 @@
+{
+  "id": "sekai-no-owari",
+  "mbid": "d9dbfe6a-8346-4337-8614-fe96aab63927",
+  "name": "SEKAI NO OWARI",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2007–",
+  "genres": [
+    "日本流行音乐",
+    "流行音乐",
+    "日本流行音樂",
+    "独立摇滚",
+    "流行搖滾",
+    "獨立流行"
+  ],
+  "albums": [
+    {
+      "title": "EARTH",
+      "year": 2010,
+      "kind": "Album"
+    },
+    {
+      "title": "ENTERTAINMENT",
+      "year": 2012,
+      "kind": "Album"
+    },
+    {
+      "title": "Tree",
+      "year": 2015,
+      "kind": "Album"
+    },
+    {
+      "title": "Eye",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "Lip",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "Chameleon",
+      "year": 2020,
+      "kind": "Album"
+    }
+  ],
+  "intro": "SEKAI NO OWARI，意即世界末日，简称Sekaowa，为日本四人乐队，于2007年组成。于2011年凭借单曲《INORI》正式出道，隶属TOY'S FACTORY旗下。",
+  "introLang": "zh",
+  "tracks": [
+    "Habit",
+    "RAIN",
+    "RPG (單曲)",
+    "スターライトパレード",
+    "スノーマジックファンタジー"
+  ],
+  "trackSources": [
+    {
+      "title": "Habit"
+    },
+    {
+      "title": "RAIN"
+    },
+    {
+      "title": "RPG (單曲)"
+    },
+    {
+      "title": "スターライトパレード"
+    },
+    {
+      "title": "スノーマジックファンタジー"
+    }
+  ],
+  "listens": 45979,
+  "listeners": 2645,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d9dbfe6a-8346-4337-8614-fe96aab63927"
+  },
+  "edges": [
+    {
+      "to": "ちゃんみな",
+      "toName": "ちゃんみな",
+      "toArea": "日本",
+      "toYears": "1998–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "優里",
+      "toName": "優里",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "水曜日のカンパネラ",
+      "toName": "水曜日のカンパネラ",
+      "toArea": "涩谷",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "imase",
+      "toName": "imase",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "tuki",
+      "toName": "tuki.",
+      "toArea": "日本",
+      "toYears": "2008–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

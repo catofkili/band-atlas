@@ -1,0 +1,128 @@
+{
+  "id": "藤井風",
+  "mbid": "c3a4aeca-8f02-4d22-b1ff-693434ab09a8",
+  "name": "藤井風",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1997–",
+  "genres": [
+    "日本流行音乐",
+    "唱作人",
+    "流行音乐",
+    "节奏布鲁斯"
+  ],
+  "albums": [
+    {
+      "title": "HELP EVER HURT NEVER",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "HELP EVER HURT COVER",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "LOVE ALL SERVE ALL",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "Prema",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "藤井风是一名日本创作歌手，出生于冈山县浅口郡里庄町。童年时因父亲影响而接触音乐，三岁开始学钢琴，并从中学开始在YouTube上传翻弹钢琴与翻唱欧美流行歌曲的影片，拍摄地点在自家的咖啡店。",
+  "introLang": "zh",
+  "tracks": [
+    "我寧可去死",
+    "Grace",
+    "Workin' Hard",
+    "閃耀",
+    "燃燒吧"
+  ],
+  "trackSources": [
+    {
+      "title": "我寧可去死"
+    },
+    {
+      "title": "Grace"
+    },
+    {
+      "title": "Workin' Hard"
+    },
+    {
+      "title": "閃耀"
+    },
+    {
+      "title": "燃燒吧"
+    }
+  ],
+  "listens": 124198,
+  "listeners": 3585,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c3a4aeca-8f02-4d22-b1ff-693434ab09a8"
+  },
+  "edges": [
+    {
+      "to": "eve",
+      "toName": "Eve",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "米津玄師",
+      "toName": "米津玄師",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "vaundy",
+      "toName": "Vaundy",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "imase",
+      "toName": "imase",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

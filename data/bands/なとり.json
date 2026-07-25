@@ -1,0 +1,85 @@
+{
+  "id": "なとり",
+  "mbid": "cad9e169-893d-4432-a23f-3aa16beb9f0e",
+  "name": "なとり",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2003–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "劇場",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "深海",
+      "year": 2026,
+      "kind": "Album"
+    }
+  ],
+  "intro": "natori是日本男性创作歌手与音乐制作人。 natori除了个人演唱作品之外，亦会为其他艺人提供词曲创作。其合作对象涵盖VTuber与歌手，包括可波·卡娜埃露、Ado、不破凑、星街彗星等人。",
+  "introLang": "zh",
+  "tracks": [
+    "プロポーズ"
+  ],
+  "trackSources": [
+    {
+      "title": "プロポーズ"
+    }
+  ],
+  "listens": 86764,
+  "listeners": 2543,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cad9e169-893d-4432-a23f-3aa16beb9f0e"
+  },
+  "edges": [
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "mrs-green-apple",
+      "toName": "Mrs. GREEN APPLE",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "yama",
+      "toName": "yama",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

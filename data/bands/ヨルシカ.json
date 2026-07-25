@@ -1,0 +1,120 @@
+{
+  "id": "ヨルシカ",
+  "mbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+  "name": "ヨルシカ",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2017–",
+  "genres": [
+    "日本流行音乐",
+    "流行摇滚",
+    "摇滚乐"
+  ],
+  "albums": [
+    {
+      "title": "エルマ",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "だから僕は音楽を辞めた",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "盗作",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "幻燈",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "二人称",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Yorushika（日语：ヨルシカ，罗马化：Yorushika，可译作夜鹿) 是由作曲家n-buna与歌手suis组成的日本摇滚乐团。",
+  "introLang": "zh",
+  "tracks": [
+    "放晴",
+    "吞食清風",
+    "夜行",
+    "春竊賊",
+    "花上的亡靈"
+  ],
+  "trackSources": [
+    {
+      "title": "放晴"
+    },
+    {
+      "title": "吞食清風"
+    },
+    {
+      "title": "夜行"
+    },
+    {
+      "title": "春竊賊"
+    },
+    {
+      "title": "花上的亡靈"
+    }
+  ],
+  "listens": 471333,
+  "listeners": 4242,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/dfc6a151-3792-4695-8fda-f64723eaa788"
+  },
+  "edges": [
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "lisa",
+      "toName": "LiSA",
+      "toArea": "日本",
+      "toYears": "1987–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "mrs-green-apple",
+      "toName": "Mrs. GREEN APPLE",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

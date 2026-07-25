@@ -1,0 +1,124 @@
+{
+  "id": "da-ice",
+  "mbid": "2fc5c58a-711b-4a11-9b7a-7b5ba1f58e04",
+  "name": "Da‐iCE",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2011–",
+  "genres": [
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "FIGHT BACK",
+      "year": 2014,
+      "kind": "Album"
+    },
+    {
+      "title": "EVERY SEASON",
+      "year": 2016,
+      "kind": "Album"
+    },
+    {
+      "title": "NEXT PHASE",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "BET",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "FACE",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "SiX",
+      "year": 2021,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Da-iCE，是一个日本表演艺术团体及舞蹈流行音乐组合，在2014年1月15日以单曲“SHOUT IT OUT”正式出道。所属经纪公司为爱贝克思管理，唱片公司现为avex trax。",
+  "introLang": "zh",
+  "tracks": [
+    "I'll be back",
+    "I wonder",
+    "BILLION DREAMS",
+    "Break out",
+    "CITRUS"
+  ],
+  "trackSources": [
+    {
+      "title": "I'll be back"
+    },
+    {
+      "title": "I wonder"
+    },
+    {
+      "title": "BILLION DREAMS"
+    },
+    {
+      "title": "Break out"
+    },
+    {
+      "title": "CITRUS"
+    }
+  ],
+  "listens": 26043,
+  "listeners": 809,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2fc5c58a-711b-4a11-9b7a-7b5ba1f58e04"
+  },
+  "edges": [
+    {
+      "to": "星野源",
+      "toName": "星野源",
+      "toArea": "日本",
+      "toYears": "1981–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "緑黄色社会",
+      "toName": "緑黄色社会",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ano",
+      "toName": "ano",
+      "toArea": "日本",
+      "toYears": "????–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

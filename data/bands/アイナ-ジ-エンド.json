@@ -1,0 +1,191 @@
+{
+  "id": "アイナ-ジ-エンド",
+  "mbid": "19827018-8590-4ff1-9ab1-d12296e75a63",
+  "name": "アイナ・ジ・エンド",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1994–",
+  "genres": [
+    "日本流行音乐",
+    "流行摇滚",
+    "另类摇滚",
+    "流行音乐"
+  ],
+  "albums": [
+    {
+      "title": "THE END",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "THE ZOMBIE",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "RUBY POP",
+      "year": 2024,
+      "kind": "Album"
+    }
+  ],
+  "intro": "AiNA THE END，是日本女歌手、舞者、词曲作家，为前偶像团体BiSH成员。出生于大阪府。",
+  "introLang": "zh",
+  "tracks": [
+    "夜王子と月の姫/きえないで"
+  ],
+  "trackSources": [
+    {
+      "title": "夜王子と月の姫/きえないで"
+    }
+  ],
+  "listens": 9516,
+  "listeners": 737,
+  "quality": {
+    "score": 78,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/19827018-8590-4ff1-9ab1-d12296e75a63"
+  },
+  "edges": [
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "saucy-dog",
+      "toName": "Saucy Dog",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "sixtones",
+      "toName": "SixTONES",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "マカロニえんぴつ",
+      "toName": "マカロニえんぴつ",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "米津玄師",
+      "toName": "米津玄師",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "優里",
+      "toName": "優里",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "新しい学校のリーダーズ",
+      "toName": "新しい学校のリーダーズ",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "number-i",
+      "toName": "Number_i",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ado",
+      "toName": "Ado",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "be-first",
+      "toName": "BE:FIRST",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "fruits-zipper",
+      "toName": "FRUITS ZIPPER",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

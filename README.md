@@ -8,8 +8,8 @@
 每张只露出一半，用带颜色的线牵着。点边缘的卡片，镜头滑过去，它展开成新的焦点，
 它自己的邻居再从新的屏幕边缘探出头来。
 
-**908 支乐队 / 2121 条关系**，平均每支 4.7 条；其中东亚 347 支，地区未知 54 支。
-骨架由 MusicBrainz 爬来，简介取自维基百科；首批 26 支由人工完整打底，
+**948 支乐队与音乐人 / 2216 条关系**，平均每位 4.7 条；其中东亚 387 位，地区未知 54 位。
+骨架由 MusicBrainz 爬来，现代日本增量同时允许组合与个人音乐人，简介取自维基百科；首批 26 支由人工完整打底，
 另有 15 条带来源的故事稿通过审核入库——包括数据库里根本没有的恩怨。
 
 ## 跑起来
@@ -53,6 +53,8 @@ js/
 data/
   source/
     generated.json      爬来的，量大只有硬事实（勿手改）
+    modern-japan.json   当代日本热门组合与个人音乐人（勿手改）
+    artist-aliases.json MusicBrainz 正式别名、读音与罗马音（勿手改）
     intros.json         维基百科首段（勿手改）
     translations-zh.json DeepL 中文翻译缓存（不含密钥）
     zh-overrides.json   机器翻译明显失真时的人工中文校对
@@ -72,6 +74,8 @@ tools/
   crawl.mjs             爬 MusicBrainz，穿过乐手把乐队连起来
   fetch-popular-seeds.mjs ListenBrainz 全站收听量榜（热门度顺序）
   fetch-popularity.mjs  只给现有乐队补 ListenBrainz 热度
+  fetch-modern-japan.mjs 核实并按热度加入当代日本音乐人
+  fetch-artist-aliases.mjs 批量生成全局多文字搜索别名
   fetch-intros.mjs      Wikidata 找条目 → 维基百科取首段
   translate-zh.mjs      外文简介、地区、流派 → 简体中文翻译缓存
   fetch-influences.mjs  Wikidata P737「受谁影响」→ 只留网内关系
@@ -91,6 +95,8 @@ tools/
 
 ```bash
 npm run fetch:popularity                                      # 1042 支源数据的真实收听记录
+npm run fetch:modern-japan                                    # 当代日本组合与个人音乐人
+npm run fetch:aliases                                         # 正式名、假名、罗马音互查索引
 npm run fetch:wikidata-enrichment                             # 流派、作品候选
 npm run fetch:guests -- --east=1000 --western=40 --pages=3   # 东亚全覆盖、欧美热门组
 npm run scan:wikipedia-history -- --east=100 --western=60    # 只生成审核原料
@@ -111,6 +117,8 @@ npm run build                                                   # 合并、离�
 | 层 | 来源 | 内容 |
 |---|---|---|
 | 底 | `generated.json` | MusicBrainz：名字、地区、年代、流派、专辑、成员流动 |
+| 底 | `modern-japan.json` | 当代日本热门增量：Group + Person、专辑 / EP、热度推荐 |
+| 中 | `artist-aliases.json` | MusicBrainz：正式别名、假名、罗马音搜索键 |
 | 中 | `intros.json` | 维基百科首段（中文优先，外文随后统一翻译） |
 | 中 | `translations-zh.json` | DeepL：把英日简介、地区和流派统一为简体中文 |
 | 中 | `wikidata-enrichment.json` | Wikidata：补空白流派与代表作品候选 |
@@ -172,6 +180,11 @@ npm run build                                                   # 合并、离�
 **来路乐队一定留下。** 邻居按权重截断，但刚才是从哪支过来的，那支无论权重多低都入选，
 并且占据「来的方向」的反向槽位。既保证回得去，也保住空间记忆。
 
+**搜索是全局多文字索引。** 搜索框不是只查当前邻居，而是一次搜索全部节点。
+构建时把 MusicBrainz 的艺人别名预先展开为平假名、片假名和罗马音，因此
+`藤井風`、`Fujii Kaze`、`ふじいかぜ`、`フジイカゼ` 会落到同一位音乐人；
+汉字互通取决于 MusicBrainz 是否收录对应别名，不做容易误伤的自动猜读。
+
 **关系标签放不下就收起来。** 标签挂在焦点卡片外缘往外长（居中的话靠内那半截会被卡片盖住）。
 左右两条边够长挂得下；上下两条边焦点卡片几乎顶到视口边沿，没有缝——那种情况标签收起，
 改由邻居卡片自己写出关系。判断用的是标签展开后的尺寸，避免收起时放得下、一悬停就撞车。
@@ -184,7 +197,7 @@ npm run build                                                   # 合并、离�
 
 - **新增乐队**：目前不自动扩张；需要时先按东亚与实际热度筛选，再人工启动增量管线。
 - **影响关系**：Wikidata `P737` 已接入；它覆盖不均，且只收两端都在本网内的关系，人工补充仍然很重要。
-- **客串关系**：录音层已补 105 对带 MusicBrainz 录音 URL 的候选，合并后全图有 133 条客串边。
+- **客串关系**：录音层已有带 MusicBrainz 录音 URL 的候选，当前全图有 114 条客串边。
 - **专辑封面**：Cover Art Archive，构建期生成缩略图存同源。
 - **恩怨**：160 支热门乐队的三语 Wikipedia 已跑出 63 个原始条目，并整理成 15 条中文稿；
   其中 10 条东亚、2 条形成站内双端红线。这批内容现已审核入库，卡片同时显示来源链接。
@@ -192,8 +205,8 @@ npm run build                                                   # 合并、离�
 ## 数据准确性
 
 爬来的部分（名字、年代、专辑、成员流动）以 MusicBrainz 为准，硬事实可靠，
-但覆盖不均。当前 593 支有流派、271 支有代表曲；349 支简介仍标记为机器事实摘要，
-它们不会进入高质量随机首屏池。随机入口在 408 支非模板、关系不少于三条的候选中，
+但覆盖不均。当前 631 位有流派、310 位有代表曲；350 位简介仍标记为机器事实摘要，
+它们不会进入高质量随机首屏池。随机入口在 410 位非模板、关系不少于三条的候选中，
 按 ListenBrainz 热度、内容完整度、关系数加权，并给东亚乐队适度加权。
 
 `scene-jrock.json` 里人工写的简介、代表曲、轶事未经数据库校验，细节可能有出入。

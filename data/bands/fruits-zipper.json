@@ -1,0 +1,132 @@
+{
+  "id": "fruits-zipper",
+  "mbid": "29b34cc3-b362-4f0b-ab02-e6ccaf8cafc2",
+  "name": "FRUITS ZIPPER",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2022–",
+  "genres": [
+    "偶像流行",
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "NEW KAWAII",
+      "year": 2024,
+      "kind": "Album"
+    }
+  ],
+  "intro": "FRUITS ZIPPER是日本7人女子偶像团体，其也被粉丝称作“Furuppa”，成立于2022年2月，所属经纪公司为ASOBISYSTEM，为ASOBISYSTEM旗下偶像企划“KAWAII LAB.",
+  "introLang": "zh",
+  "tracks": [
+    "NEW KAWAII/フルーツバスケット",
+    "はちゃめちゃわちゃライフ!/JAM",
+    "我最可愛的地方",
+    "君の明るい未来を追いかけて"
+  ],
+  "trackSources": [
+    {
+      "title": "NEW KAWAII/フルーツバスケット"
+    },
+    {
+      "title": "はちゃめちゃわちゃライフ!/JAM"
+    },
+    {
+      "title": "我最可愛的地方"
+    },
+    {
+      "title": "君の明るい未来を追いかけて"
+    }
+  ],
+  "listens": 8266,
+  "listeners": 275,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/29b34cc3-b362-4f0b-ab02-e6ccaf8cafc2"
+  },
+  "edges": [
+    {
+      "to": "babymetal",
+      "toName": "BABYMETAL",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "saucy-dog",
+      "toName": "Saucy Dog",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "マカロニえんぴつ",
+      "toName": "マカロニえんぴつ",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "優里",
+      "toName": "優里",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "number-i",
+      "toName": "Number_i",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

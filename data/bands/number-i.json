@@ -1,0 +1,98 @@
+{
+  "id": "number-i",
+  "mbid": "126a09d9-04a2-4d06-9cc7-eea581007a0f",
+  "name": "Number_i",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2023–",
+  "genres": [
+    "日本流行音乐",
+    "嘻哈音樂",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "No.Ⅰ",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "No.O -ring-",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "No.Ⅱ",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Number_i是日本经纪公司 TOBE 于2023年10月15日推出的三人男子音乐团体，由平野紫耀、神宫寺勇太、岸优太组成。团体主要目标为制作各种音乐，展现成员多元面貌，并借此为人带来幸福。",
+  "introLang": "zh",
+  "tracks": [
+    "GOAT",
+    "GOD_i"
+  ],
+  "trackSources": [
+    {
+      "title": "GOAT"
+    },
+    {
+      "title": "GOD_i"
+    }
+  ],
+  "listens": 1885,
+  "listeners": 231,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/126a09d9-04a2-4d06-9cc7-eea581007a0f"
+  },
+  "edges": [
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "be-first",
+      "toName": "BE:FIRST",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "fruits-zipper",
+      "toName": "FRUITS ZIPPER",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

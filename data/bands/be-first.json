@@ -1,0 +1,141 @@
+{
+  "id": "be-first",
+  "mbid": "c11b6e14-9a78-40c3-b70c-c46e8b819637",
+  "name": "BE:FIRST",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [
+    "流行舞曲",
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "BE:1",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "2:BE",
+      "year": 2024,
+      "kind": "Album"
+    }
+  ],
+  "intro": "BE：FIRST是从2021年初，由日本男歌手SKY-HI成立的经纪公司BMSG主办的男团选拔赛“THE FIRST”所推出的日本7人男子音乐团体，现为6人团体。",
+  "introLang": "zh",
+  "tracks": [
+    "Betrayal Game",
+    "Bye-Good-Bye",
+    "Gifted.",
+    "Mainstream",
+    "Masterplan"
+  ],
+  "trackSources": [
+    {
+      "title": "Betrayal Game"
+    },
+    {
+      "title": "Bye-Good-Bye"
+    },
+    {
+      "title": "Gifted."
+    },
+    {
+      "title": "Mainstream"
+    },
+    {
+      "title": "Masterplan"
+    }
+  ],
+  "listens": 11232,
+  "listeners": 613,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c11b6e14-9a78-40c3-b70c-c46e8b819637"
+  },
+  "edges": [
+    {
+      "to": "snow-man",
+      "toName": "Snow Man",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "マカロニえんぴつ",
+      "toName": "マカロニえんぴつ",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "宇多田ヒカル",
+      "toName": "宇多田ヒカル",
+      "toArea": "日本",
+      "toYears": "1983–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "number-i",
+      "toName": "Number_i",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "水曜日のカンパネラ",
+      "toName": "水曜日のカンパネラ",
+      "toArea": "涩谷",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

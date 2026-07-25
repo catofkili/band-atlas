@@ -1,0 +1,131 @@
+{
+  "id": "あいみょん",
+  "mbid": "908d9ac2-5187-4b9e-b281-601c6afb0791",
+  "name": "あいみょん",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1995–",
+  "genres": [
+    "日本流行音乐",
+    "唱作人"
+  ],
+  "albums": [
+    {
+      "title": "青春のエキサイトメント",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "瞬間的シックスセンス",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "おいしいパスタがあると聞いて",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "瞳へ落ちるよレコード",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "猫にジェラシー",
+      "year": 2024,
+      "kind": "Album"
+    }
+  ],
+  "intro": "爱缪是日本女性创作歌手，出生于兵库县西宫市，所属经纪公司为ENS Entertainment。",
+  "introLang": "zh",
+  "tracks": [
+    "萬壽菊",
+    "在懂愛之前／落櫻繽紛的夜",
+    "春日",
+    "今夜就这样",
+    "仲夏夜的味道"
+  ],
+  "trackSources": [
+    {
+      "title": "萬壽菊"
+    },
+    {
+      "title": "在懂愛之前／落櫻繽紛的夜"
+    },
+    {
+      "title": "春日"
+    },
+    {
+      "title": "今夜就这样"
+    },
+    {
+      "title": "仲夏夜的味道"
+    }
+  ],
+  "listens": 45099,
+  "listeners": 1434,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/908d9ac2-5187-4b9e-b281-601c6afb0791"
+  },
+  "edges": [
+    {
+      "to": "eve",
+      "toName": "Eve",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "星野源",
+      "toName": "星野源",
+      "toArea": "日本",
+      "toYears": "1981–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "imase",
+      "toName": "imase",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "tuki",
+      "toName": "tuki.",
+      "toArea": "日本",
+      "toYears": "2008–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

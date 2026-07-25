@@ -15,6 +15,7 @@
 import { readFile, writeFile, mkdir, rm } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import { toHiragana, toKatakana, toRomaji } from 'wanakana';
 import { layoutGraphOffline } from './lib/layout-graph.mjs';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
@@ -37,7 +38,13 @@ async function readJSON(rel, fallback = null) {
 }
 
 const curated = await readJSON('data/source/scene-jrock.json');
-const generated = await readJSON('data/source/generated.json', { bands: [], edges: [] });
+const generatedBase = await readJSON('data/source/generated.json', { bands: [], edges: [] });
+const modernJapan = await readJSON('data/source/modern-japan.json', { bands: [], edges: [] });
+const generated = {
+  bands: [...generatedBase.bands, ...modernJapan.bands],
+  edges: [...generatedBase.edges, ...modernJapan.edges],
+};
+const artistAliases = await readJSON('data/source/artist-aliases.json', { artists: {} });
 const { intros } = await readJSON('data/source/intros.json', { intros: {} });
 const translationsZh = await readJSON('data/source/translations-zh.json', {
   intros: {},
@@ -73,6 +80,7 @@ for (const band of generated.bands) {
   if (hit) {
     band.intro = hit.intro;
     band.introLang = hit.lang;
+    band.introTemplate = false;
   }
 }
 
@@ -191,7 +199,13 @@ const genreLabelZh = {
 };
 
 for (const band of merged.values()) {
-  band.introTemplate = false;
+  band.introTemplate ??= false;
+  if (band.mbid) {
+    band.aliases = [...new Set([
+      ...(band.aliases ?? []),
+      ...(artistAliases.artists?.[band.mbid] ?? []),
+    ].filter(Boolean))];
+  }
   const introTranslation = band.mbid && translationsZh.intros?.[band.mbid];
   if (
     introTranslation?.text &&
@@ -252,7 +266,8 @@ for (const band of merged.values()) {
     const place = band.area && band.area !== '地区未录入' ? `来自${band.area}的` : '';
     const genre = band.genres.length ? `以${band.genres.slice(0, 2).join('、')}为主要风格的` : '';
     const years = band.years ? `，活跃时期为${band.years}` : '';
-    band.intro = `${band.name}是一支${place}${genre}音乐团体${years}。`;
+    const subject = band.artistType === 'Person' ? '音乐人' : '音乐团体';
+    band.intro = `${band.name}是${place}${genre}${subject}${years}。`;
     band.introLang = 'zh';
     band.introTemplate = true;
   }
@@ -501,7 +516,8 @@ for (const [id, band] of merged) {
   const place = band.area && band.area !== '地区未录入' ? `来自${band.area}` : '';
   const years = band.years ? `，活跃时期为${band.years}` : '';
   const genres = band.genres?.length ? `，现有资料记录的主要风格包括${band.genres.slice(0, 3).join('、')}` : '';
-  const opening = `${band.name}是一支${place ? `${place}的` : ''}音乐团体${years}${genres}。`;
+  const subject = band.artistType === 'Person' ? '音乐人' : '音乐团体';
+  const opening = `${band.name}是${place ? `${place}的` : ''}${subject}${years}${genres}。`;
   const works = [
     ...(band.tracks ?? []).slice(0, 3).map((title) => `《${title}》`),
     ...(band.albums ?? []).slice(0, 2).map((album) => `《${album.title}》`),
@@ -558,6 +574,8 @@ for (const [id, band] of merged) {
     edges: adjacency.get(id),
   };
   delete doc.curated;
+  // 别名只用于一次加载的全局搜索索引，避免每张详情卡重复携带同一份数据。
+  delete doc.aliases;
   await writeFile(path.join(OUT_DIR, `${id}.json`), JSON.stringify(doc, null, 2) + '\n');
 }
 
@@ -565,18 +583,36 @@ const index = {
   scene: curated.scene,
   note: curated.note,
   generatedAt: new Date().toISOString().slice(0, 10),
-  bands: [...merged.values()].map((b) => ({
-    id: b.id,
-    name: b.name,
-    area: b.area ?? null,
-    years: b.years ?? null,
-    countryCode: b.countryCode ?? null,
-    region: regionOf(b.countryCode),
-    degree: adjacency.get(b.id).length,
-    listens: b.listens ?? 0,
-    listeners: b.listeners ?? null,
-    quality: b.quality,
-  })),
+  bands: [...merged.values()].map((b) => {
+    const aliases = [...new Set((b.aliases ?? []).filter((alias) => alias && norm(alias) !== norm(b.name)))];
+    const searchable = [b.name, ...aliases, b.area].filter(Boolean);
+    const searchKeys = [...new Set(searchable.flatMap((text) => [
+      text,
+      toHiragana(text),
+      toKatakana(text),
+      toRomaji(text),
+    ].map((value) =>
+      value
+        .normalize('NFKC')
+        .toLocaleLowerCase('ja')
+        .replace(/[\s・･._'’\-–—]+/g, '')
+    )))];
+    return {
+      id: b.id,
+      name: b.name,
+      aliases,
+      searchKeys,
+      artistType: b.artistType ?? 'Group',
+      area: b.area ?? null,
+      years: b.years ?? null,
+      countryCode: b.countryCode ?? null,
+      region: regionOf(b.countryCode),
+      degree: adjacency.get(b.id).length,
+      listens: b.listens ?? 0,
+      listeners: b.listeners ?? null,
+      quality: b.quality,
+    };
+  }),
 };
 await writeFile(path.join(root, 'data/index.json'), JSON.stringify(index, null, 2) + '\n');
 

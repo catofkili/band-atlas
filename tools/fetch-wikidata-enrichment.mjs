@@ -11,7 +11,8 @@ import { useCache, sparql, stats } from './lib/mb.mjs';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 useCache(path.join(root, '.cache/wikidata-enrichment'));
 const generated = JSON.parse(await readFile(path.join(root, 'data/source/generated.json'), 'utf8'));
-const mbids = [...new Set(generated.bands.map((band) => band.mbid).filter(Boolean))].sort();
+const modern = JSON.parse(await readFile(path.join(root, 'data/source/modern-japan.json'), 'utf8'));
+const mbids = [...new Set([...generated.bands, ...modern.bands].map((band) => band.mbid).filter(Boolean))].sort();
 const chunks = (items, size) =>
   Array.from({ length: Math.ceil(items.length / size) }, (_, index) =>
     items.slice(index * size, index * size + size)

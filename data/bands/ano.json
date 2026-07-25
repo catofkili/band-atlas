@@ -1,0 +1,95 @@
+{
+  "id": "ano",
+  "mbid": "ebb4513e-4aab-4ac9-a949-14e77bb7b836",
+  "name": "ano",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "????–",
+  "genres": [
+    "日本流行音乐"
+  ],
+  "albums": [
+    {
+      "title": "猫猫吐吐",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "BONE BORN BOMB",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "ano是日本歌手、模特儿、演员、电视艺人。 从2013年到2019是女性偶像团体You'll Melt More!的成员。从2020年开始以“ano”的名义展开个人音乐活动，在2021年至2024年曾参与摇滚乐队I's。",
+  "introLang": "zh",
+  "tracks": [
+    "吻的多樣性",
+    "キ・セ・イ・ラッシュ",
+    "絶絶絶絶対聖域"
+  ],
+  "trackSources": [
+    {
+      "title": "吻的多樣性"
+    },
+    {
+      "title": "キ・セ・イ・ラッシュ"
+    },
+    {
+      "title": "絶絶絶絶対聖域"
+    }
+  ],
+  "listens": 26752,
+  "listeners": 1280,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ebb4513e-4aab-4ac9-a949-14e77bb7b836"
+  },
+  "edges": [
+    {
+      "to": "da-ice",
+      "toName": "Da‐iCE",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "星野源",
+      "toName": "星野源",
+      "toArea": "日本",
+      "toYears": "1981–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "緑黄色社会",
+      "toName": "緑黄色社会",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

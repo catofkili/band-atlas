@@ -1,0 +1,125 @@
+{
+  "id": "yoasobi",
+  "mbid": "df6c619f-4334-43e2-8b6a-4a32af1e4f85",
+  "name": "YOASOBI",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2019–",
+  "genres": [
+    "日本流行音乐",
+    "流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "E-SIDE",
+      "year": 2021,
+      "kind": "EP"
+    },
+    {
+      "title": "THE BOOK",
+      "year": 2021,
+      "kind": "EP"
+    },
+    {
+      "title": "THE BOOK 2",
+      "year": 2021,
+      "kind": "EP"
+    },
+    {
+      "title": "E-SIDE 2",
+      "year": 2022,
+      "kind": "EP"
+    },
+    {
+      "title": "THE BOOK 3",
+      "year": 2023,
+      "kind": "EP"
+    },
+    {
+      "title": "はじめての",
+      "year": 2023,
+      "kind": "EP"
+    }
+  ],
+  "intro": "YOASOBI是2019年结成的日本音乐组合，由使用VOCALOID作曲的作曲家Ayase与本业为创作歌手的几田莉拉在此以ikura之名和其他团员组成。",
+  "introLang": "zh",
+  "tracks": [
+    "向夜晚奔去",
+    "勇者",
+    "重現夢境",
+    "Watch me!",
+    "或許"
+  ],
+  "trackSources": [
+    {
+      "title": "向夜晚奔去"
+    },
+    {
+      "title": "勇者"
+    },
+    {
+      "title": "重現夢境"
+    },
+    {
+      "title": "Watch me!"
+    },
+    {
+      "title": "或許"
+    }
+  ],
+  "listens": 612930,
+  "listeners": 7589,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/df6c619f-4334-43e2-8b6a-4a32af1e4f85"
+  },
+  "edges": [
+    {
+      "to": "babymetal",
+      "toName": "BABYMETAL",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "perfume",
+      "toName": "Perfume",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ado",
+      "toName": "Ado",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

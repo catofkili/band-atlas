@@ -1,0 +1,130 @@
+{
+  "id": "マカロニえんぴつ",
+  "mbid": "c65f10b6-be99-4e3a-a010-2a11fd965780",
+  "name": "マカロニえんぴつ",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2012–",
+  "genres": [
+    "摇滚乐"
+  ],
+  "albums": [
+    {
+      "title": "CHOSYOKU",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "hope",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "ハッピーエンドへの期待は",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "大人の涙",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "physical mind",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "通心粉铅笔是日本摇滚乐团。他们所属经纪公司为murffin discs，唱片公司为TOY'S FACTORY，简称为“マカえん”。",
+  "introLang": "zh",
+  "tracks": [
+    "たましいの居場所",
+    "はしりがき",
+    "メレンゲ",
+    "恋人ごっこ",
+    "沒什麼"
+  ],
+  "trackSources": [
+    {
+      "title": "たましいの居場所"
+    },
+    {
+      "title": "はしりがき"
+    },
+    {
+      "title": "メレンゲ"
+    },
+    {
+      "title": "恋人ごっこ"
+    },
+    {
+      "title": "沒什麼"
+    }
+  ],
+  "listens": 8586,
+  "listeners": 512,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c65f10b6-be99-4e3a-a010-2a11fd965780"
+  },
+  "edges": [
+    {
+      "to": "saucy-dog",
+      "toName": "Saucy Dog",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "be-first",
+      "toName": "BE:FIRST",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "fruits-zipper",
+      "toName": "FRUITS ZIPPER",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

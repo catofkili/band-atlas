@@ -1,0 +1,125 @@
+{
+  "id": "yama",
+  "mbid": "a3becc83-9dab-48c6-9513-e269e1e4c49a",
+  "name": "yama",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [
+    "日本流行音乐"
+  ],
+  "albums": [
+    {
+      "title": "the meaning of life",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "Versus the night",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "awake&build",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "; semicolon",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "yama是一名日本歌手，为MASTERSIX FOUNDATION所属。",
+  "introLang": "zh",
+  "tracks": [
+    "色彩",
+    "Oz./世界は美しいはずなんだ/スモーキーヒロイン",
+    "クリーム",
+    "春を告げる",
+    "麻痺"
+  ],
+  "trackSources": [
+    {
+      "title": "色彩"
+    },
+    {
+      "title": "Oz./世界は美しいはずなんだ/スモーキーヒロイン"
+    },
+    {
+      "title": "クリーム"
+    },
+    {
+      "title": "春を告げる"
+    },
+    {
+      "title": "麻痺"
+    }
+  ],
+  "listens": 84699,
+  "listeners": 2579,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a3becc83-9dab-48c6-9513-e269e1e4c49a"
+  },
+  "edges": [
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "mrs-green-apple",
+      "toName": "Mrs. GREEN APPLE",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ずっと真夜中でいいのに",
+      "toName": "ずっと真夜中でいいのに。",
+      "toArea": "日本",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "なとり",
+      "toName": "なとり",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

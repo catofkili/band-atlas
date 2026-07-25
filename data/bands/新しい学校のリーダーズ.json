@@ -1,0 +1,139 @@
+{
+  "id": "新しい学校のリーダーズ",
+  "mbid": "12a43a61-e31a-4cac-92a6-c95ce9cdfe3c",
+  "name": "新しい学校のリーダーズ",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2015–",
+  "genres": [
+    "日本流行音乐",
+    "流行摇滚",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "マエナラワナイ",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "若気ガイタル",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "AG! Calling",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "From Tokyo with Love",
+      "year": 2026,
+      "kind": "Album"
+    }
+  ],
+  "intro": "新学校领袖，海外活动以“ATARASHII GAKKO!”为名，简称：“AG!”是成立于2015年7月19日的日本歌舞系女子团体。 以“以个性与自由突破界限”为概念，AG!",
+  "introLang": "zh",
+  "tracks": [
+    "HANAKO",
+    "TOKYO CALLING",
+    "キミワイナ'17",
+    "ケセラセラ",
+    "恋文"
+  ],
+  "trackSources": [
+    {
+      "title": "HANAKO"
+    },
+    {
+      "title": "TOKYO CALLING"
+    },
+    {
+      "title": "キミワイナ'17"
+    },
+    {
+      "title": "ケセラセラ"
+    },
+    {
+      "title": "恋文"
+    }
+  ],
+  "listens": 48697,
+  "listeners": 1122,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/12a43a61-e31a-4cac-92a6-c95ce9cdfe3c"
+  },
+  "edges": [
+    {
+      "to": "back-number",
+      "toName": "back number",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "mrs-green-apple",
+      "toName": "Mrs. GREEN APPLE",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "tuki",
+      "toName": "tuki.",
+      "toArea": "日本",
+      "toYears": "2008–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

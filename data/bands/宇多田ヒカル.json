@@ -1,0 +1,143 @@
+{
+  "id": "宇多田ヒカル",
+  "mbid": "b539e453-c4fe-47e3-8a07-8517eac74429",
+  "name": "宇多田ヒカル",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1983–",
+  "genres": [
+    "节奏布鲁斯",
+    "当代节奏布鲁斯",
+    "流行舞曲",
+    "日本流行音乐",
+    "流行音乐",
+    "日本流行音樂",
+    "放克",
+    "仙音",
+    "當代節奏藍調"
+  ],
+  "albums": [
+    {
+      "title": "Precious",
+      "year": 1998,
+      "kind": "Album"
+    },
+    {
+      "title": "First Love",
+      "year": 1999,
+      "kind": "Album"
+    },
+    {
+      "title": "Distance",
+      "year": 2001,
+      "kind": "Album"
+    },
+    {
+      "title": "DEEP RIVER",
+      "year": 2002,
+      "kind": "Album"
+    },
+    {
+      "title": "Exodus",
+      "year": 2004,
+      "kind": "Album"
+    },
+    {
+      "title": "ULTRA BLUE",
+      "year": 2006,
+      "kind": "Album"
+    }
+  ],
+  "intro": "宇多田光是日裔美籍创作歌手及音乐制作人，1999年的出道专辑《First Love》一举创下日本音乐史上最高销量记录。 宇多田光出生于美国纽约市，为音乐制作人宇多田照实与演歌歌手藤圭子的独生子嗣。",
+  "introLang": "zh",
+  "tracks": [
+    "First Love",
+    "Come Back To Me",
+    "Flavor Of Life",
+    "Addicted To You",
+    "Automatic/time will tell"
+  ],
+  "trackSources": [
+    {
+      "title": "First Love"
+    },
+    {
+      "title": "Come Back To Me"
+    },
+    {
+      "title": "Flavor Of Life"
+    },
+    {
+      "title": "Addicted To You"
+    },
+    {
+      "title": "Automatic/time will tell"
+    }
+  ],
+  "listens": 346443,
+  "listeners": 5795,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b539e453-c4fe-47e3-8a07-8517eac74429"
+  },
+  "edges": [
+    {
+      "to": "perfume",
+      "toName": "Perfume",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "米津玄師",
+      "toName": "米津玄師",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "水曜日のカンパネラ",
+      "toName": "水曜日のカンパネラ",
+      "toArea": "涩谷",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "be-first",
+      "toName": "BE:FIRST",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

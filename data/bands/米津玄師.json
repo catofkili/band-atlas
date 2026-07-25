@@ -1,0 +1,201 @@
+{
+  "id": "米津玄師",
+  "mbid": "09d4a85c-4916-4b4e-bc96-c4cfcf371046",
+  "name": "米津玄師",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1991–",
+  "genres": [
+    "日本流行音乐",
+    "唱作人",
+    "另类摇滚",
+    "当代节奏布鲁斯",
+    "流行音乐",
+    "摇滚乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "diorama",
+      "year": 2012,
+      "kind": "Album"
+    },
+    {
+      "title": "YANKEE",
+      "year": 2014,
+      "kind": "Album"
+    },
+    {
+      "title": "Bremen",
+      "year": 2015,
+      "kind": "Album"
+    },
+    {
+      "title": "BOOTLEG",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "STRAY SHEEP",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "LOST CORNER",
+      "year": 2024,
+      "kind": "Album"
+    }
+  ],
+  "intro": "米津玄师是日本男创作歌手、音乐家、插画家、镜像作家，德岛县出身，为近年日本流行音乐的代表歌手之一。",
+  "introLang": "zh",
+  "tracks": [
+    "Lemon",
+    "打上花火",
+    "Peace Sign",
+    "地球儀",
+    "Flamingo/TEENAGE RIOT"
+  ],
+  "trackSources": [
+    {
+      "title": "Lemon"
+    },
+    {
+      "title": "打上花火"
+    },
+    {
+      "title": "Peace Sign"
+    },
+    {
+      "title": "地球儀"
+    },
+    {
+      "title": "Flamingo/TEENAGE RIOT"
+    }
+  ],
+  "listens": 138337,
+  "listeners": 3691,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/09d4a85c-4916-4b4e-bc96-c4cfcf371046"
+  },
+  "edges": [
+    {
+      "to": "eve",
+      "toName": "Eve",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "宇多田ヒカル",
+      "toName": "宇多田ヒカル",
+      "toArea": "日本",
+      "toYears": "1983–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "羊文学",
+      "toName": "羊文学",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "creepy-nuts",
+      "toName": "Creepy Nuts",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "藤井風",
+      "toName": "藤井風",
+      "toArea": "日本",
+      "toYears": "1997–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ado",
+      "toName": "Ado",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "vaundy",
+      "toName": "Vaundy",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "imase",
+      "toName": "imase",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

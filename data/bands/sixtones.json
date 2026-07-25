@@ -1,0 +1,124 @@
+{
+  "id": "sixtones",
+  "mbid": "47a3fb29-e36b-440b-9d3c-3a68cec34396",
+  "name": "SixTONES",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2015–",
+  "genres": [
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "1ST",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "CITY",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "声",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "The Vibes",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "GOLD",
+      "year": 2025,
+      "kind": "Album"
+    },
+    {
+      "title": "MILESixTONES –Best Tracks–",
+      "year": 2026,
+      "kind": "Album"
+    }
+  ],
+  "intro": "SixTONES是由星达拓娱乐的高地优吾、京本大我、田中树、松村北斗、杰西、森本慎太郎所组成的团体，于2015年5月1日结成，2020年1月22日正式发行单曲出道。",
+  "introLang": "zh",
+  "tracks": [
+    "Imitation Rain/D.D.",
+    "NAVIGATOR (SixTONES)",
+    "ABARERO",
+    "BOYZ",
+    "CREAK"
+  ],
+  "trackSources": [
+    {
+      "title": "Imitation Rain/D.D."
+    },
+    {
+      "title": "NAVIGATOR (SixTONES)"
+    },
+    {
+      "title": "ABARERO"
+    },
+    {
+      "title": "BOYZ"
+    },
+    {
+      "title": "CREAK"
+    }
+  ],
+  "listens": 12845,
+  "listeners": 152,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/47a3fb29-e36b-440b-9d3c-3a68cec34396"
+  },
+  "edges": [
+    {
+      "to": "snow-man",
+      "toName": "Snow Man",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "優里",
+      "toName": "優里",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "eve",
+  "mbid": "66bdd1c9-d1c5-40b7-a487-5061fffbd87d",
+  "name": "Eve",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1995–",
+  "genres": [
+    "日本流行音乐",
+    "唱作人",
+    "节奏布鲁斯",
+    "日本流行音樂",
+    "搖滾舞曲",
+    "都市流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "Wonder Word",
+      "year": 2014,
+      "kind": "Album"
+    },
+    {
+      "title": "Round Robin",
+      "year": 2015,
+      "kind": "Album"
+    },
+    {
+      "title": "OFFICIAL NUMBER",
+      "year": 2016,
+      "kind": "Album"
+    },
+    {
+      "title": "文化",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "蒼",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "おとぎ",
+      "year": 2019,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Eve是日本的创作歌手。2009年以网络为中心展开活动。唱片公司为TOY'S FACTORY。",
+  "introLang": "zh",
+  "tracks": [
+    "迴迴奇譚",
+    "皆大欢喜_(Eve歌曲)",
+    "Bubble",
+    "アヴァン",
+    "あの娘シークレット"
+  ],
+  "trackSources": [
+    {
+      "title": "迴迴奇譚"
+    },
+    {
+      "title": "皆大欢喜_(Eve歌曲)"
+    },
+    {
+      "title": "Bubble"
+    },
+    {
+      "title": "アヴァン"
+    },
+    {
+      "title": "あの娘シークレット"
+    }
+  ],
+  "listens": 108393,
+  "listeners": 2944,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/66bdd1c9-d1c5-40b7-a487-5061fffbd87d"
+  },
+  "edges": [
+    {
+      "to": "あいみょん",
+      "toName": "あいみょん",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "星野源",
+      "toName": "星野源",
+      "toArea": "日本",
+      "toYears": "1981–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "米津玄師",
+      "toName": "米津玄師",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ずっと真夜中でいいのに",
+      "toName": "ずっと真夜中でいいのに。",
+      "toArea": "日本",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "藤井風",
+      "toName": "藤井風",
+      "toArea": "日本",
+      "toYears": "1997–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "vaundy",
+      "toName": "Vaundy",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

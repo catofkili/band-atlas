@@ -1,0 +1,132 @@
+{
+  "id": "緑黄色社会",
+  "mbid": "3ed40054-97ab-4783-b3c3-15c2c7b06546",
+  "name": "緑黄色社会",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2012–",
+  "genres": [
+    "日本流行音乐",
+    "日本流行音樂",
+    "流行搖滾"
+  ],
+  "albums": [
+    {
+      "title": "緑黄色社会",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "SINGALONG",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "Actor",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "pink blue",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "Channel U",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "绿黄色社会是日本一支男女混合4人流行乐队，2012年在爱知县组成，所属唱片公司为EPIC Record。简称“RyokuShaka”。",
+  "introLang": "zh",
+  "tracks": [
+    "花になって",
+    "Shout Baby",
+    "Summer Time Cinderella",
+    "illusion",
+    "LITMUS"
+  ],
+  "trackSources": [
+    {
+      "title": "花になって"
+    },
+    {
+      "title": "Shout Baby"
+    },
+    {
+      "title": "Summer Time Cinderella"
+    },
+    {
+      "title": "illusion"
+    },
+    {
+      "title": "LITMUS"
+    }
+  ],
+  "listens": 22485,
+  "listeners": 707,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3ed40054-97ab-4783-b3c3-15c2c7b06546"
+  },
+  "edges": [
+    {
+      "to": "da-ice",
+      "toName": "Da‐iCE",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "星野源",
+      "toName": "星野源",
+      "toArea": "日本",
+      "toYears": "1981–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "omoinotake",
+      "toName": "Omoinotake",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ano",
+      "toName": "ano",
+      "toArea": "日本",
+      "toYears": "????–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

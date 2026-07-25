@@ -1,0 +1,118 @@
+{
+  "id": "羊文学",
+  "mbid": "cd8858ea-73c4-4c8f-8fcc-5aba0b877688",
+  "name": "羊文学",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2011–",
+  "genres": [
+    "另类摇滚",
+    "独立摇滚",
+    "摇滚",
+    "日本流行音樂",
+    "瞪鞋搖滾"
+  ],
+  "albums": [
+    {
+      "title": "若者たちへ",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "POWERS",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "our hope",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "12 hugs (like butterflies)",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "D o n’ t L a u g h I t O f f",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "羊文学与河西ゆりか两人组成。所属事务所为日本索尼音乐娱乐旗下的次世代，唱片厂牌为F.C.L.S.。",
+  "introLang": "zh",
+  "tracks": [
+    "Burning",
+    "FOOL",
+    "more than words",
+    "声"
+  ],
+  "trackSources": [
+    {
+      "title": "Burning"
+    },
+    {
+      "title": "FOOL"
+    },
+    {
+      "title": "more than words"
+    },
+    {
+      "title": "声"
+    }
+  ],
+  "listens": 50886,
+  "listeners": 1287,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cd8858ea-73c4-4c8f-8fcc-5aba0b877688"
+  },
+  "edges": [
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "米津玄師",
+      "toName": "米津玄師",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ado",
+      "toName": "Ado",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

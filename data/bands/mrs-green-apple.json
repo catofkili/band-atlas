@@ -1,0 +1,169 @@
+{
+  "id": "mrs-green-apple",
+  "mbid": "9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2",
+  "name": "Mrs. GREEN APPLE",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2013–",
+  "genres": [
+    "日本流行音乐",
+    "流行摇滚",
+    "日本流行音樂",
+    "流行搖滾"
+  ],
+  "albums": [
+    {
+      "title": "TWELVE",
+      "year": 2016,
+      "kind": "Album"
+    },
+    {
+      "title": "Mrs. GREEN APPLE",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "ENSEMBLE",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "Attitude",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "ANTENNA",
+      "year": 2023,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Mrs. GREEN APPLE是来自日本的音乐团体，活跃时期为2013–，现有资料记录的主要风格包括日本流行音乐、流行摇滚、日本流行音樂。目前资料收录了《Soranji》、《紫丁香》、《關於我 (Mrs. GREEN APPLE歌曲)》、《TWELVE》、《Mrs. GREEN APPLE》等作品。",
+  "introLang": "zh",
+  "tracks": [
+    "Soranji",
+    "紫丁香",
+    "關於我 (Mrs. GREEN APPLE歌曲)",
+    "Darling (Mrs. GREEN APPLE歌曲)",
+    "GOOD DAY (Mrs. GREEN APPLE歌曲)"
+  ],
+  "trackSources": [
+    {
+      "title": "Soranji"
+    },
+    {
+      "title": "紫丁香"
+    },
+    {
+      "title": "關於我 (Mrs. GREEN APPLE歌曲)"
+    },
+    {
+      "title": "Darling (Mrs. GREEN APPLE歌曲)"
+    },
+    {
+      "title": "GOOD DAY (Mrs. GREEN APPLE歌曲)"
+    }
+  ],
+  "listens": 81223,
+  "listeners": 3280,
+  "quality": {
+    "score": 48,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2"
+  },
+  "edges": [
+    {
+      "to": "back-number",
+      "toName": "back number",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "lisa",
+      "toName": "LiSA",
+      "toArea": "日本",
+      "toYears": "1987–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ヨルシカ",
+      "toName": "ヨルシカ",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "yama",
+      "toName": "yama",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "新しい学校のリーダーズ",
+      "toName": "新しい学校のリーダーズ",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "なとり",
+      "toName": "なとり",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

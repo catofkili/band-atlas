@@ -1,0 +1,127 @@
+{
+  "id": "ずっと真夜中でいいのに",
+  "mbid": "14d2a235-30e2-489f-b490-f9dc7d2c0861",
+  "name": "ずっと真夜中でいいのに。",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2018–",
+  "genres": [
+    "日本流行音乐",
+    "独立流行",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "潜潜話",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "ぐされ",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "沈香学",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "形藻土",
+      "year": 2026,
+      "kind": "Album"
+    }
+  ],
+  "intro": "永远是深夜有多好。又称ZUTOMAYO，是源自日本的音乐团体。其作词作曲均由担任主唱的 ACAね独自或与他人合作完成。粉丝爱称为“ずとまろ” 团体特色为主唱ACAね不曾公开露出面容，即便电视演出或演唱会也是如此。",
+  "introLang": "zh",
+  "tracks": [
+    "那些家伙们的校友会",
+    "Dear. Mr「F」",
+    "MILABO",
+    "こんなこと騒動",
+    "サターン"
+  ],
+  "trackSources": [
+    {
+      "title": "那些家伙们的校友会"
+    },
+    {
+      "title": "Dear. Mr「F」"
+    },
+    {
+      "title": "MILABO"
+    },
+    {
+      "title": "こんなこと騒動"
+    },
+    {
+      "title": "サターン"
+    }
+  ],
+  "listens": 106333,
+  "listeners": 2130,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/14d2a235-30e2-489f-b490-f9dc7d2c0861"
+  },
+  "edges": [
+    {
+      "to": "eve",
+      "toName": "Eve",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "yama",
+      "toName": "yama",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "水曜日のカンパネラ",
+      "toName": "水曜日のカンパネラ",
+      "toArea": "涩谷",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "vaundy",
+      "toName": "Vaundy",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

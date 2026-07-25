@@ -1,0 +1,152 @@
+{
+  "id": "優里",
+  "mbid": "4337f1a5-9e02-4b46-98c3-e3c28683a9b5",
+  "name": "優里",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1994–",
+  "genres": [
+    "日本流行音乐",
+    "流行音乐",
+    "日本流行音樂",
+    "流行搖滾"
+  ],
+  "albums": [
+    {
+      "title": "壱",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "響",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "詩-80's",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "弐",
+      "year": 2023,
+      "kind": "Album"
+    }
+  ],
+  "intro": "优里是一位日本创作男歌手、YouTuber。所属经纪公司为日本索尼音乐娱乐，唱片公司为旗下的Ariola Japan。",
+  "introLang": "zh",
+  "tracks": [
+    "乾燥花",
+    "インフィニティ",
+    "うぉ",
+    "おにごっこ",
+    "クリスマスイブ"
+  ],
+  "trackSources": [
+    {
+      "title": "乾燥花"
+    },
+    {
+      "title": "インフィニティ"
+    },
+    {
+      "title": "うぉ"
+    },
+    {
+      "title": "おにごっこ"
+    },
+    {
+      "title": "クリスマスイブ"
+    }
+  ],
+  "listens": 11938,
+  "listeners": 499,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4337f1a5-9e02-4b46-98c3-e3c28683a9b5"
+  },
+  "edges": [
+    {
+      "to": "sekai-no-owari",
+      "toName": "SEKAI NO OWARI",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "sixtones",
+      "toName": "SixTONES",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "snow-man",
+      "toName": "Snow Man",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "fruits-zipper",
+      "toName": "FRUITS ZIPPER",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "imase",
+      "toName": "imase",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,125 @@
+{
+  "id": "back-number",
+  "mbid": "f35bfbe2-d30e-402c-9ac1-fa5f90b72ec2",
+  "name": "back number",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2004–",
+  "genres": [
+    "流行摇滚",
+    "日本流行音樂",
+    "流行搖滾"
+  ],
+  "albums": [
+    {
+      "title": "あとのまつり",
+      "year": 2010,
+      "kind": "Album"
+    },
+    {
+      "title": "スーパースター",
+      "year": 2011,
+      "kind": "Album"
+    },
+    {
+      "title": "blues",
+      "year": 2012,
+      "kind": "Album"
+    },
+    {
+      "title": "ラブストーリー",
+      "year": 2014,
+      "kind": "Album"
+    },
+    {
+      "title": "シャンデリア",
+      "year": 2015,
+      "kind": "Album"
+    },
+    {
+      "title": "MAGIC",
+      "year": 2019,
+      "kind": "Album"
+    }
+  ],
+  "intro": "back number是一个日本强力三重奏乐队，属环球音乐唱片公司旗下，官方粉丝团名为“one room”。",
+  "introLang": "zh",
+  "tracks": [
+    "Christmas Song",
+    "Fish (back number單曲)",
+    "HAPPY BIRTHDAY",
+    "SISTER",
+    "アイラブユー (back numberの曲)"
+  ],
+  "trackSources": [
+    {
+      "title": "Christmas Song"
+    },
+    {
+      "title": "Fish (back number單曲)"
+    },
+    {
+      "title": "HAPPY BIRTHDAY"
+    },
+    {
+      "title": "SISTER"
+    },
+    {
+      "title": "アイラブユー (back numberの曲)"
+    }
+  ],
+  "listens": 34499,
+  "listeners": 1176,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f35bfbe2-d30e-402c-9ac1-fa5f90b72ec2"
+  },
+  "edges": [
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "mrs-green-apple",
+      "toName": "Mrs. GREEN APPLE",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "新しい学校のリーダーズ",
+      "toName": "新しい学校のリーダーズ",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

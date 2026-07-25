@@ -1,0 +1,4566 @@
+{
+  "note": "MusicBrainz sort-name 与 aliases，供全局多文字搜索使用。",
+  "generatedAt": "2026-07-25T18:53:40.299Z",
+  "artists": {
+    "0383dadf-2a4e-4d10-a46a-e9e041da8eb3": [
+      "Queen",
+      "皇后乐队",
+      "クイーン"
+    ],
+    "056e4f3e-d505-4dad-8ec1-d04f521cbb56": [
+      "Daft Punk",
+      "daft punk",
+      "Duft Punk",
+      "ダフト・パンク",
+      "Da Funk"
+    ],
+    "012151a8-0f9a-44c9-997f-ebd68b5389f9": [
+      "Imagine Dragons",
+      "이매진 드래곤스",
+      "Imagine Dragoons",
+      "Imagine Dragonz",
+      "Immagine Dragons",
+      "Imaginal Dragons",
+      "Imagine Dragon"
+    ],
+    "057aa66c-cf6e-499d-bda8-5adc47ad4197": [
+      "Fantômas",
+      "Fantomas"
+    ],
+    "051b8830-8aae-4b4e-a48c-ee8d6a2dec50": [
+      "GLAY",
+      "グレイ"
+    ],
+    "020bfbb4-05c3-4c86-b372-17825c262094": [
+      "Audioslave",
+      "オーディオスレイヴ"
+    ],
+    "01830cc1-8a04-4dfb-9e4a-d557dfda6a93": [
+      "Sakanaction",
+      "魚韻",
+      "鱼韵"
+    ],
+    "05f4fbf4-d01f-4dac-bd66-9613e4db8044": [
+      "Back Horn, The",
+      "THE BACK HORN",
+      "ザ・バックホーン"
+    ],
+    "05071a7e-e71c-4306-a509-591cd3686893": [
+      "Angels & Airwaves",
+      "Angels and Airwaves"
+    ],
+    "04ea0489-0643-4b49-a7c7-aec63680646d": [
+      "SiM",
+      "Silence iz Mine"
+    ],
+    "03a457ae-2307-4e7f-bc99-ae48316a214f": [
+      "HIATUS, the"
+    ],
+    "03a25129-3371-4ab4-b30b-f5d9dcfbec7c": [
+      "Chairs, The",
+      "椅子樂團",
+      "The Chairs"
+    ],
+    "00c64c61-0536-4507-9332-8eb24c1aaa1b": [
+      "WHITE",
+      "White+",
+      "WHITE+"
+    ],
+    "009a44cd-e5b7-4b0f-beee-64391f8e93fd": [
+      "Spinnerette"
+    ],
+    "05b1427d-e344-4932-ae42-8a3f096c2119": [
+      "Sutch, Lord & Heavy Friends"
+    ],
+    "05fdd3fb-6fe9-4b81-926e-f6d52dd1e737": [
+      "Lusk"
+    ],
+    "03214f15-3323-4964-8b9e-1d71496fa524": [
+      "Medication"
+    ],
+    "0450bbde-a06e-4355-bc78-5a823ff65d9c": [
+      "Windy City",
+      "김반장과 윈디시티",
+      "윈디 시티",
+      "윈디시티"
+    ],
+    "00727d07-a1d9-4be5-8653-e5ce1acf8cbe": [
+      "Speak Chinese or Die",
+      "S.C.O.D.",
+      "SCOD"
+    ],
+    "05527f5e-341d-4f98-a41e-72fc9f6dafcf": [
+      "Together",
+      "2 of Us"
+    ],
+    "006d00c0-91d2-4c66-a62d-11a246c1406a": [
+      "King ALL STARS, The"
+    ],
+    "0177a4b0-75b0-4c2a-9501-734b942cdcd4": [
+      "Camp Freddy"
+    ],
+    "03b30313-e7b7-4c2f-b440-5e0f3a4b6751": [
+      "Male Slut"
+    ],
+    "0483f568-848a-4a39-a4ce-8b94f4be47e8": [
+      "Sexoturica"
+    ],
+    "04b0f964-d162-4594-823b-71c321aaaab9": [
+      "Chelonian, Mr.",
+      "海龜先生",
+      "Mr. Sea Turtle"
+    ],
+    "02318007-b827-4e70-83d9-8965ad143c4b": [
+      "Nighttime Boogie Association"
+    ],
+    "01630d13-9b90-4e71-8f38-928ddccbd503": [
+      "3minutes"
+    ],
+    "0612a024-6265-4179-a1a6-12d4141aeccc": [
+      "Jihad Jerry & The Evildoers"
+    ],
+    "0663c2de-16ec-4637-a759-2c31c553c554": [
+      "George's Band"
+    ],
+    "01b73d81-4390-4ebd-984d-f84b4d5ed5b0": [
+      "Coverups, The"
+    ],
+    "008a85d4-7cdc-4087-806d-09356a6c2e96": [
+      "Fatso"
+    ],
+    "03c32674-968a-4a96-929d-f7e57e75e59b": [
+      "Beijing Rock All-Stars",
+      "北京搖滾群星",
+      "北京摇滚群星"
+    ],
+    "084308bd-1654-436f-ba03-df6697104e19": [
+      "Green Day",
+      "グリーン・デイ",
+      "Greenday"
+    ],
+    "0743b15a-3c32-48c8-ad58-cb325350befa": [
+      "blink‐182",
+      "blink 182",
+      "Blink 182",
+      "Blink 182°",
+      "blink182",
+      "blink ‐ 182",
+      "Blink‐182"
+    ],
+    "078a9376-3c04-4280-b7d7-b20e158f345d": [
+      "Perfect Circle, A",
+      "APC",
+      "Perfect Circle"
+    ],
+    "09d4a85c-4916-4b4e-bc96-c4cfcf371046": [
+      "Yonezu, Kenshi",
+      "米津玄師",
+      "켄시 요네즈",
+      "Kenshi Yonezu"
+    ],
+    "083941cf-8183-4cba-b49f-16681f04eb63": [
+      "To Live and Shave in L.A."
+    ],
+    "09037f07-42bc-46ac-a1ee-37f834451fee": [
+      "Minor Threat"
+    ],
+    "0b04d160-0def-4171-9fa0-0d9f4addc4a7": [
+      "Thelonious Monster",
+      "Thelonius Monster"
+    ],
+    "068dfa29-4ce1-46a8-9647-f612b6750387": [
+      "ciwei",
+      "刺猬乐队",
+      "刺猬樂隊",
+      "刺猬HEDGEHOG",
+      "Hedgehog"
+    ],
+    "0ba96c43-c23c-40c7-88e7-b1afe7956cc9": [
+      "Damage Manual, The",
+      "Damage Manual"
+    ],
+    "08f3baa2-9962-4fa7-a8c7-95d64d75d348": [
+      "Apparatjik"
+    ],
+    "079f2e2b-b3f9-4574-ac5c-add977b40762": [
+      "Sublime with Rome"
+    ],
+    "080d552a-7f29-490c-86c1-34108c547a98": [
+      "lostage"
+    ],
+    "088e85ba-619f-4763-ad5f-246ab0614fe6": [
+      "Rose, The"
+    ],
+    "0b08dcc7-9f5c-4a25-a182-f8ceb13f1972": [
+      "Horny Horns, The",
+      "Fred Wesley & The Horny Horns",
+      "Fred Wesley and the Horny Horns",
+      "The Horny Horns"
+    ],
+    "097524cf-ae0f-4ff8-9970-f406ac03b1e4": [
+      "Martinis, The",
+      "The Martini’s"
+    ],
+    "09dec2be-aeff-4e26-a9d6-a934d2620223": [
+      "Trauma"
+    ],
+    "0bb07307-3785-4668-9e9e-1a36f9f36937": [
+      "Monsula"
+    ],
+    "06a78b72-d4c2-4d15-9084-3d3fcf3c3d21": [
+      "Shuudan Koudou",
+      "Group Action",
+      "集団行動"
+    ],
+    "0aa04a77-c86a-4d0e-b882-9876a58c01a3": [
+      "Zee"
+    ],
+    "06c744b8-328d-46a3-96ea-7b98055c702f": [
+      "Vanguard, The"
+    ],
+    "07ceb4a7-8664-4679-a854-cd7487ab72ef": [
+      "D.T.R"
+    ],
+    "09019044-116c-4099-b123-69149b5f045f": [
+      "Inaba/Salas"
+    ],
+    "0882763d-d200-4422-b962-6023a5c0fc54": [
+      "Sweet 75"
+    ],
+    "0860ed05-2e3a-4872-a44a-8e6d8a7e9696": [
+      "Venus in Furs, The",
+      "Venus in Furs"
+    ],
+    "0b1327fa-2944-4d53-af01-88871c20d8df": [
+      "Dumb Angel"
+    ],
+    "095983fb-17ca-4bc5-bdaa-44b20aaee8af": [
+      "IkedaTakada"
+    ],
+    "09da5ee1-a02f-4be0-9711-e27f19ab0c40": [
+      "Rock’n Roll Standard Club Band"
+    ],
+    "0cb4663d-70a1-4fcd-96ff-8674cb51b7d3": [
+      "Tapeworm",
+      "Tape Worm"
+    ],
+    "0ad8a644-6114-4155-b616-bf7a5420d770": [
+      "T Boz and Chili",
+      "T-Boz and Chilli"
+    ],
+    "0b45a22a-08ee-4d86-be60-db1d702031dd": [
+      "Agents Of Misfortune"
+    ],
+    "0cbbc4a7-68b9-4cc6-a5ed-2d726e369ec1": [
+      "3P"
+    ],
+    "09aa53c7-369f-4fe5-b35c-c0349b46edf5": [
+      "GOSICK"
+    ],
+    "0da0f48c-3689-4c38-bf4a-c5b50d516689": [
+      "MUCC",
+      "ムック"
+    ],
+    "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8": [
+      "Massive Attack",
+      "Massiv Attack",
+      "Massive"
+    ],
+    "0d79fe8e-ba27-4859-bb8c-2f255f346853": [
+      "BTS",
+      "방탄",
+      "The Bangtan Boys",
+      "Bangtan Sonyeondan",
+      "Bōdan Shōnendan",
+      "Bulletproof Boy Scouts",
+      "Beyond the Scene",
+      "방탄소년단",
+      "防弾少年団",
+      "Bangtan Boys"
+    ],
+    "0f718079-e5ea-4cfb-b512-b2d04da66901": [
+      "BUMP OF CHICKEN",
+      "Bump of Chiken",
+      "バンプ・オブ・チキン"
+    ],
+    "11137c88-a9a2-4ffa-a97d-fb058c6d6ce2": [
+      "Pigface"
+    ],
+    "114b26ff-a1fe-41f3-9df8-5c093afe9c56": [
+      "Vaundy",
+      "Vaundy Engawa",
+      "バウンディ"
+    ],
+    "0ecaa896-58fa-4dca-b53d-8da7bc5f59c5": [
+      "Band Aid"
+    ],
+    "0f211bfc-8c69-4cb7-9165-acbe4353cb0a": [
+      "Good, the Bad & the Queen, The",
+      "The Good, the Bad and the Queen"
+    ],
+    "0f4fa442-3e9c-4355-8e17-a39386a52077": [
+      "Dead Sara"
+    ],
+    "10c058a2-41e6-4f64-8cdd-fa3c7f2be9c0": [
+      "Honeydrippers, The",
+      "The Honey Drippers",
+      "The Honeydroppers",
+      "Honeydroppers"
+    ],
+    "0df05846-b031-4ed3-a8ed-ad4335ff6d02": [
+      "Tempalay"
+    ],
+    "10a0bbc1-4236-4de2-b827-f9fc25f3655c": [
+      "Dead by Sunrise"
+    ],
+    "117a8255-3b06-4339-b5ba-038d0fdb6a85": [
+      "Jakalope"
+    ],
+    "0f3907a4-ac12-49df-a3c3-705a1e95b254": [
+      "13Steps"
+    ],
+    "0ec64e22-aa09-48d3-9ec6-2f3f8575554f": [
+      "deca joins"
+    ],
+    "0cdf71c3-1265-4e48-b211-61800be4d5ab": [
+      "Viva Death"
+    ],
+    "0cddd743-57d8-42d8-bd50-881777462812": [
+      "Thanatopsis"
+    ],
+    "10ce1c49-1fc6-469a-b1c4-bc80cc91f6d6": [
+      "Cobra Strike"
+    ],
+    "0ccbe20b-d465-458f-83b3-28e4e7efcd4c": [
+      "3RENSA"
+    ],
+    "0cd44b95-7fa3-4fb3-9c87-646cf83a9a6b": [
+      "Before Cars"
+    ],
+    "0d501a8e-e923-4885-8a50-4c6cb11265d6": [
+      "Army of Anyone"
+    ],
+    "0efa265c-e11a-4a37-a0de-5b40417587de": [
+      "I Don't Cares, The"
+    ],
+    "111344be-b02e-4f46-803e-1c722857325b": [
+      "Beards, The"
+    ],
+    "107adced-ab32-404f-828d-50470f4ac723": [
+      "鬼 -O.N.I-",
+      "鬼",
+      "Oni",
+      "O.N.I"
+    ],
+    "1101ca79-cc8d-4add-a7d4-1cbcdc363516": [
+      "QUADRANGLE"
+    ],
+    "0f8e6822-3672-400c-a87c-792c7a293544": [
+      "Brown Towel"
+    ],
+    "0f8a2f89-29c0-4085-8820-635c181a0de9": [
+      "Axis of Justice"
+    ],
+    "104ada9b-3f51-41bf-b01b-4a951f0a3117": [
+      "ZiNG"
+    ],
+    "0fff1834-c23b-448b-8595-92fa143456e7": [
+      "Bloody Mannequin Orchestra"
+    ],
+    "0e74f677-d2c2-47dd-a79b-7f1d373c850d": [
+      "Snowblind"
+    ],
+    "0cf97acb-7b9e-4587-a760-d4e80381fd35": [
+      "Capitol"
+    ],
+    "0e150c5d-9624-4940-8cc0-a85fb984dab8": [
+      "PINK SPIDERS, THE"
+    ],
+    "11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5": [
+      "White Stripes, The",
+      "ザ・ホワイト・ストライプス",
+      "The Redd & White Stripes",
+      "White Stripes",
+      "Las Rayas Blancas"
+    ],
+    "153c9281-268f-4cf3-8938-f5a4593e5df4": [
+      "Soundgarden",
+      "Sound Garden"
+    ],
+    "13df2a46-f72f-40e7-aa63-26fcf62c7048": [
+      "Ministry",
+      "Ministy",
+      "Minestry",
+      "Ministry and Co-Conspirators"
+    ],
+    "14e410f5-97f2-48ba-b1f7-a3a44cbea05c": [
+      "ASIAN KUNG-FU GENERATION",
+      "アジカン",
+      "Asian Kung Fu Generation",
+      "アジアン・カンフー・ジェネレーション",
+      "アジアのカンフー生成",
+      "アジアン カンフー ジェネレーション",
+      "Ajikan",
+      "AKG",
+      "AKFG",
+      "Asian Kungfu Generation"
+    ],
+    "148ddea2-6839-4354-8e2c-5dfadf136b7f": [
+      "Tenacious D",
+      "The D",
+      "テネイシャス D",
+      "テネイシャスＤ",
+      "Tenacious DJ",
+      "Standing O"
+    ],
+    "1322f39c-cea6-42aa-aa98-3b6b5043b07d": [
+      "Snow Man",
+      "SnowMan"
+    ],
+    "14d2a235-30e2-489f-b490-f9dc7d2c0861": [
+      "Zutto Mayonaka de Iinoni.",
+      "즛토마요",
+      "계속 한밤중이면 좋을 텐데.",
+      "ZTMY",
+      "ZUTOMAYO",
+      "Zutto Mayonaka de Ii no ni.",
+      "ずとまよ"
+    ],
+    "1641141b-3c9c-4772-a5cc-7e23fdf17382": [
+      "Band of Skulls"
+    ],
+    "16abde93-51df-4f13-9f28-2789093c1a3d": [
+      "Nothing’s Carved in Stone"
+    ],
+    "16a6ff18-4875-4851-94b6-f4f831e73fa7": [
+      "Seo Taiji & Boys",
+      "Seo Taiji and Boys",
+      "Seotaiji And Boys",
+      "Seo Tai Ji and Boyz",
+      "Taiji Boys"
+    ],
+    "12a43a61-e31a-4cac-92a6-c95ce9cdfe3c": [
+      "Atarashii Gakkou no Leaders",
+      "ATARASHII GAKKO!"
+    ],
+    "164765fe-22bb-4a3c-8643-67c8af245d46": [
+      "ProjeKct 1"
+    ],
+    "12782f3a-dfe7-4d27-8bff-7a5513b59ce3": [
+      "Sleepwalk, The",
+      "ザ・スリープウォーク"
+    ],
+    "163e9cef-ea8c-4476-9a05-7e1fb74a7c0a": [
+      "Network, The"
+    ],
+    "143b396d-a678-43aa-8c74-628fea8e381f": [
+      "How to Destroy Angels"
+    ],
+    "1268cf43-fa5d-48fd-a0b7-2fb5bcb8ee72": [
+      "Prick"
+    ],
+    "1359dfb8-8220-4ebe-aeb9-b759ed737c41": [
+      "tuki."
+    ],
+    "126a09d9-04a2-4d06-9cc7-eea581007a0f": [
+      "Number_i",
+      "ナンバーアイ"
+    ],
+    "1636f82a-b541-4867-9eb7-e4b224552eef": [
+      "No Party For Cao Dong",
+      "草东没有派对",
+      "No Party for Cao Dong"
+    ],
+    "14bf21c7-8ff5-433a-a6b7-69cf8e8f3899": [
+      "Artists Against AIDS Worldwide",
+      "All Star Tribute"
+    ],
+    "130e5f0d-8e5a-4719-a081-49af9aeb1af6": [
+      "Rumblepuppy"
+    ],
+    "117debe3-74c1-4bdf-aad4-6ca5099f4706": [
+      "MADCAP LAUGHS, THE"
+    ],
+    "124d3d7c-23c2-4bfd-8bbe-52978177b536": [
+      "Cottelee",
+      "Colonanamolemomo"
+    ],
+    "15a57df5-a97f-4197-ba4e-16eee9ab35c3": [
+      "Hertz, The"
+    ],
+    "1669f2de-de78-417b-9b79-4f0fde601fc7": [
+      "Dodgems, The"
+    ],
+    "12ab2815-048a-49c5-ab07-ca5c19bc49c2": [
+      "North Kingsley"
+    ],
+    "15242e2f-01a6-41e6-8466-1a5eee571ffa": [
+      "Running Youth"
+    ],
+    "11e22d21-7861-4c04-bea7-0169e71b41d7": [
+      "Galactic Abyss"
+    ],
+    "12a63055-7849-4073-9199-a76b067635df": [
+      "Project Tru"
+    ],
+    "168ab817-9594-4d78-a863-61e7777a672c": [
+      "JC-001 & DJ D-Zire"
+    ],
+    "14fba9aa-07b1-4050-8496-b0264980a218": [
+      "folkduo"
+    ],
+    "1400bb71-35c3-4610-9818-eeba54665cd7": [
+      "R.A.D.D. (Recording Artists Against Drunk Driving)"
+    ],
+    "191de76f-a224-445d-b041-54df16d65bf7": [
+      "Yardbirds, The",
+      "Eric Clapton with The Yardbirds",
+      "Yardbirds ft. Eric Clapton",
+      "Yard Birds",
+      "Eric Clapton & The Yardbirds",
+      "The Yarbirds",
+      "Eric Clapton and The Yardbirds",
+      "The Yardbierds",
+      "Yardbirds"
+    ],
+    "172e1f1a-504d-4488-b053-6344ba63e6d0": [
+      "Cave, Nick & the Bad Seeds",
+      "ニック・ケイヴ＆ザ・バッド・シーズ",
+      "닉 케이브 앤 더 배드 시즈",
+      "Nick Cave & The Cavemen",
+      "Nick Cave and the Bad Seeds",
+      "Nick Cave / Bad Seeds"
+    ],
+    "1bbb60c9-6b1b-4bb1-a442-2b669436b50e": [
+      "Pizzicato Five",
+      "Pizzicato V",
+      "Pillicato Hve",
+      "Pizzicato 5",
+      "ピチカート ファイヴ",
+      "ピチカートファイブ",
+      "ピチカート・ファイヴ",
+      "P5",
+      "Pizzicatto Five",
+      "PICHIKA-TO FAIVU"
+    ],
+    "20172e89-b8a5-4675-bd79-792d50d846a9": [
+      "B’z",
+      "BIIZU",
+      "Bz",
+      "ビーズ"
+    ],
+    "18e9bfd5-db23-4bc1-be0f-5710e5d656e4": [
+      "Exodus",
+      "エクソダス"
+    ],
+    "1d0e964a-2b91-4dd9-8100-a5a184870382": [
+      "Delaney & Bonnie",
+      "Delaney & Bonnie and Friends",
+      "Delaney & Bonnie & Friends",
+      "Bilanie & Donnie"
+    ],
+    "18662acd-0f22-4608-b3eb-60f12b0766c4": [
+      "Tito & Tarantula"
+    ],
+    "19827018-8590-4ff1-9ab1-d12296e75a63": [
+      "AiNA THE END",
+      "AINA THE END",
+      "飯谷愛菜"
+    ],
+    "1bc2d696-c0e2-480d-87ed-17b2a82d7983": [
+      "Silver Jews",
+      "Silver Jews and Nico",
+      "The Silver Joos"
+    ],
+    "18a7861d-a578-4e20-a0c8-951a4c94f8d1": [
+      "Ogre You Asshole"
+    ],
+    "19184fd0-fdff-4d80-aaf6-c196d7f21946": [
+      "Fushitsusha"
+    ],
+    "18a15d8d-b7bf-4921-9976-aa6388b99a9a": [
+      "Kinoko Teikoku",
+      "Kinokoteikoku",
+      "KinokoTeikoku"
+    ],
+    "19361f18-15c7-4ac4-9d12-4c81fe261a17": [
+      "Supper Moment"
+    ],
+    "196b78c8-e4de-4440-93b8-db52b0af56cd": [
+      "cero"
+    ],
+    "16e4f976-dda8-4468-bbbe-a3a52d779cb5": [
+      "Jaded Hearts Club, The"
+    ],
+    "1a7c9a3e-60f5-4f6d-9649-fd960ade4895": [
+      "MD.45"
+    ],
+    "1ef2a7a2-fb43-4297-a42d-8078bf1c9f2c": [
+      "Rashinban",
+      "Rashinban (Compass)"
+    ],
+    "16f76c04-3638-4988-8460-209e38bb2cbd": [
+      "GEISHA GIRLS",
+      "Geisha Girls Ken and Sho"
+    ],
+    "196670b6-ccbf-4a20-9d1d-a55161d1c322": [
+      "Johnny Crash"
+    ],
+    "1ab5659c-aa39-479e-8920-92eaa98999fe": [
+      "Panic Channel, The"
+    ],
+    "1b25c8f1-0a9a-4305-94c7-1d554e2fef0a": [
+      "Ne’er Do Wells, The"
+    ],
+    "18d4d274-5c06-4261-a18a-8dbaaea03d34": [
+      "Harry Crews"
+    ],
+    "174298f2-2751-4843-a007-2850b9e3b13b": [
+      "Denki Candy"
+    ],
+    "1cfcf85c-fb75-4f0e-ab37-747f9d99e7c6": [
+      "bongjeingan"
+    ],
+    "18fa73af-3b36-408b-a0eb-68e0375d48d3": [
+      "Kind Heaven Orchestra"
+    ],
+    "1c6376ba-058b-4906-a5d4-feb036d5bc66": [
+      "Rapidfire"
+    ],
+    "16f7da31-5798-4b0a-abac-ee22ae1b963a": [
+      "HALLOWEEN JUNKY ORCHESTRA"
+    ],
+    "16d79e0b-1f09-470e-8569-47c5bd9ad3a5": [
+      "High Cheez"
+    ],
+    "1d5e1b8c-9682-46c2-8efb-25cd94595f51": [
+      "Society's Ills"
+    ],
+    "1a7a3506-7f87-48e7-82d1-5f6e001587fb": [
+      "Slipknot Suginami"
+    ],
+    "1e33e92d-956e-4623-8b19-96f2cfdbd559": [
+      "Butterfly Launches From Spar Pole"
+    ],
+    "1f8758e3-2863-481b-9629-4c752c67f885": [
+      "Panic"
+    ],
+    "23a03e33-a603-404e-bcbf-2c00159d7067": [
+      "Offspring, The",
+      "Offspring",
+      "Off Spring"
+    ],
+    "24f8d8a5-269b-475c-a1cb-792990b0b2ee": [
+      "Rancid",
+      "ランシド"
+    ],
+    "233fc3f3-6de2-465c-985e-e721dbabbace": [
+      "Fugazi"
+    ],
+    "20883363-1ea4-4d72-ad72-c0e767038f3e": [
+      "Mars Volta, The",
+      "Mars Volta"
+    ],
+    "252c9f8a-be04-4146-b73e-a24696b2f5ed": [
+      "Quruli",
+      "QURURI",
+      "KURURI",
+      "くるり"
+    ],
+    "210c57b3-91dc-48db-9487-97f30719ea81": [
+      "BulletBoys",
+      "The Bullet Boys",
+      "Bullet Boys"
+    ],
+    "23f527e1-74ae-4f7c-94f3-4a5d5f379c51": [
+      "Hope Sandoval & Warm Inventions, The",
+      "The Hope Sandoval & Warm Inventions",
+      "Hope Sandoval & the Warm Inven",
+      "Hope Sandoval & the Warm Intentions",
+      "Hope Sandoval & the Warm Inventors",
+      "Hope Sandoval and the Warm Inventions"
+    ],
+    "210b9cbe-1a89-4bca-8b84-48b37dfe4130": [
+      "United"
+    ],
+    "21914c00-4e74-48e8-9f58-15b4af1b38d8": [
+      "Tin Pan Alley",
+      "ティン・パン・アレー",
+      "ティン・パン・アレイ"
+    ],
+    "213e3919-874d-4c32-ad5c-52efbd623d2a": [
+      "Koto No Yube"
+    ],
+    "20fa3e73-7ac4-4550-b9f5-6ac8c523bda5": [
+      "Love Battery"
+    ],
+    "260b0a6c-b464-4acd-bbd1-9dbb00703207": [
+      "Beautiful Creatures"
+    ],
+    "201b9c59-fcd8-4ffd-8efe-2bc41a74c494": [
+      "Heavy Stereo"
+    ],
+    "25c7930a-499d-460f-a26b-7baaf3460d2c": [
+      "Jackson United"
+    ],
+    "23df4094-9d65-4173-8235-f7bf1c723bd2": [
+      "Tater Totz, The",
+      "Tater Totz",
+      "The Tator Totz",
+      "Tator Totz"
+    ],
+    "22326d4f-f68a-487a-9467-aca645c60154": [
+      "L.S.D."
+    ],
+    "2556d653-1faf-4b20-8691-185918bee70e": [
+      "YELLOW FRIED CHICKENz"
+    ],
+    "222e2e9e-5b42-4772-8984-4a9c79cd476f": [
+      "Grand Duchy"
+    ],
+    "24e8b412-0d14-4afe-be76-f63ea7d0fc34": [
+      "VOOID"
+    ],
+    "244f660e-5e68-47d7-8184-46dc204ee326": [
+      "Wu‐Tang Killa Bees",
+      "Wu‐Tang",
+      "Wu-Tang Clan Affiliates",
+      "Wu Tang Fam",
+      "Wu Fam",
+      "Wu Tang Present Killa Beez"
+    ],
+    "2037a768-5561-488b-9420-4d19237554c3": [
+      "Mongoloids, Da",
+      "Da Mongaloids"
+    ],
+    "23d3f040-984d-4af3-ba40-49fbff73c415": [
+      "Kazukoh",
+      "KAZUKOH"
+    ],
+    "257f77a9-d394-48c3-ba87-05bce2d60199": [
+      "3rd Secret"
+    ],
+    "23a090b5-e504-454a-9cbd-95dac6d07d97": [
+      "Dragons of Eden, The"
+    ],
+    "2371ce0b-7990-4b88-af6f-6a8b01ef369a": [
+      "Headless Chickens"
+    ],
+    "2379fc01-5de4-40c4-b647-a25dccdb03fe": [
+      "Delivery Health"
+    ],
+    "213b7d3b-db5b-45f1-9cf6-27c2c894ca8a": [
+      "Darlin’"
+    ],
+    "273c4ed0-4fd3-4e23-b234-cfa1fd63591a": [
+      "Sugar & The Radio Fire"
+    ],
+    "23c50eb0-d6c6-41c9-8ada-b869744d4c0b": [
+      "Radio Darlings"
+    ],
+    "2223d144-0a88-4775-8aa4-cefd9af4992d": [
+      "Pharaoh"
+    ],
+    "21117dcc-a0e8-4206-80d3-425f023bfb1b": [
+      "Skin"
+    ],
+    "278a7bc9-670c-4f70-b356-626d8627620c": [
+      "Architectural Abdabs"
+    ],
+    "27e2997f-f7a1-4353-bcc4-57b9274fa9a4": [
+      "BABYMETAL",
+      "Bebīmetaru",
+      "ベビーメタル",
+      "BM",
+      "Baby Metal"
+    ],
+    "27f0af0e-4d1f-4808-a58b-090e400dcc43": [
+      "Mr.Children",
+      "ミスチル",
+      "ミスター・チルドレン",
+      "ミスターチルドレン",
+      "Mr Children",
+      "Mr. Children"
+    ],
+    "2865730a-5757-4005-875e-84d6274cb1c0": [
+      "Revolting Cocks",
+      "RevCo",
+      "The Revolting Cocks",
+      "Rev Co"
+    ],
+    "28830d2c-95d7-492c-82d3-7d1240bb1c6b": [
+      "Chickenfoot"
+    ],
+    "2c6c53ea-09d4-4d98-b174-c9aa83d4fecf": [
+      "Hoshino, Gen",
+      "Gen Hoshino",
+      "星野源"
+    ],
+    "2d30afab-d504-4a9c-9679-3a28bb1f9405": [
+      "Mosquito"
+    ],
+    "29b34cc3-b362-4f0b-ab02-e6ccaf8cafc2": [
+      "Fruits Zipper"
+    ],
+    "2a7e17f0-dc67-4902-ad4b-20bd986e847b": [
+      "Old"
+    ],
+    "2a4929b0-3056-48ed-90f7-a0b58ab42329": [
+      "Elements of Life"
+    ],
+    "27decac7-06de-4a04-ab45-d214dfae5d19": [
+      "RH Factor, The",
+      "Roy Hargrove & RH Factor",
+      "Roy Hargrove & The RH Factor"
+    ],
+    "2e95c700-0e9c-4fc9-9828-ddaebba37632": [
+      "Fartz, The"
+    ],
+    "2b835de3-221a-49b1-8edd-7e196a020d02": [
+      "Konk"
+    ],
+    "2df26979-0928-49fc-98e8-063d42bfbba1": [
+      "London"
+    ],
+    "2ab80f85-4b7f-4be8-a74f-a954c8f53cbb": [
+      "Gizmodrome"
+    ],
+    "2b6131a1-4de1-4b05-93b9-40a8bcab7ad3": [
+      "Heavy Seas, The"
+    ],
+    "2a0d8d44-5089-4e9a-aa41-360ac67c9385": [
+      "ADOY"
+    ],
+    "284a0755-f402-4ceb-8a9c-0bcc86ad3bdf": [
+      "高浪慶太郎となんがさきふぁいぶ"
+    ],
+    "29e7a565-5ae6-4bed-9fa5-7f9a74d5f2e3": [
+      "Goon Moon"
+    ],
+    "2a87fc6e-8e3e-43f7-b150-339bdab274cb": [
+      "Dada",
+      "達達樂隊",
+      "THE DADA"
+    ],
+    "2cffac8e-9bb3-47f2-b59e-0781398b0c7e": [
+      "Shrinebuilder"
+    ],
+    "2b4f3e93-f1e9-46e8-a78a-3edb7b7fe2b1": [
+      "Science Faxtion"
+    ],
+    "2d7af8b7-eddd-4cd3-939e-de6aa28ace82": [
+      "Cowboys in the Campfire"
+    ],
+    "2bfe8ede-40fa-4f45-8b4e-2f540783efbe": [
+      "Methodists, The"
+    ],
+    "2c3cbf70-da1f-4abe-a905-011e717f96bb": [
+      "Tailgunner"
+    ],
+    "2d8d08d8-c1b1-4494-b299-32dd4a7f8dfe": [
+      "Egg Hunt"
+    ],
+    "2a3dc878-34f8-48a6-8591-caa8f7b1f70f": [
+      "Damning Well, The"
+    ],
+    "2c2978bd-2b50-425b-83c3-7e45031677de": [
+      "Dan Peters Combo"
+    ],
+    "2e5b4b47-f083-43c1-9708-ec8aba7df887": [
+      "TTT"
+    ],
+    "2df94caf-b447-41f4-b2be-828f60f66d57": [
+      "Earth, The",
+      "Earth"
+    ],
+    "2ab4eb9a-ccc2-41c2-a4fb-d8f6f393db1c": [
+      "Polaris"
+    ],
+    "2a0addfc-9929-404c-ab5c-3f8c00c1005f": [
+      "Danny Bedrosian & Secret Army"
+    ],
+    "28727722-a59b-4819-829f-3d6d1c73c16e": [
+      "Moondog One"
+    ],
+    "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad": [
+      "Backstreet Boys",
+      "バックストリート・ボーイズ",
+      "backtreet boy",
+      "Backstret Boys",
+      "Bachstreet Boys",
+      "Bckstreet Boys",
+      "Back Street Boys",
+      "Bsb",
+      "The Backstreet Boys"
+    ],
+    "3798b104-01cb-484c-a3b0-56adc6399b80": [
+      "Rage Against the Machine",
+      "レイジアゲインストザマシーン",
+      "レイジ・アゲインスト・ザ・マシーン",
+      "Rage",
+      "Rage Againts the Machine",
+      "RATM"
+    ],
+    "3285dc48-9505-469d-ad8a-bdf2d3dba632": [
+      "Swans",
+      "The World of Skin",
+      "The Swans"
+    ],
+    "36bfa85f-737b-41db-a8fc-b8825850ffc3": [
+      "Pavement"
+    ],
+    "37c78aeb-d196-42b5-b991-6afb4fc9bc2e": [
+      "Dead Kennedys",
+      "Dead Kennedies",
+      "The Dead Kennedys",
+      "Dead Kennedy's"
+    ],
+    "33ff8a92-2f3b-4cac-8ea0-5eebfa995626": [
+      "KANA-BOON"
+    ],
+    "371d6599-6292-4f3f-94d2-5b2fd19b089c": [
+      "SUPERCAR",
+      "スーパーカー",
+      "Super Car"
+    ],
+    "36d6bac0-9f2a-48a5-8620-6701942cb95b": [
+      "Jaurim",
+      "紫雨林",
+      "Jaoorimm",
+      "Jawoorim",
+      "Ja Woo Rim"
+    ],
+    "338f5d97-3133-4bf8-a58e-068ff9b5405d": [
+      "King Gnu",
+      "Srv.Vinci",
+      "Mrs.Vinci",
+      "キングヌー"
+    ],
+    "2fc5c58a-711b-4a11-9b7a-7b5ba1f58e04": [
+      "Da‐iCE",
+      "Da-iCE"
+    ],
+    "2ee8a896-8ce2-4d94-9bc7-0db3b3396e74": [
+      "ART-SCHOOL"
+    ],
+    "3089d713-c323-4e66-ab02-b5b911929564": [
+      "C AllStar"
+    ],
+    "337027f4-4f29-42f4-bc4d-63e7d4e74e1a": [
+      "45 Grave",
+      "Fortyfive Grave",
+      ".45 Grave"
+    ],
+    "35498d38-e23b-4643-9068-e0b77b8d4e05": [
+      "Pandoras, The"
+    ],
+    "37abc279-f281-4543-8e98-8fd0510b65b4": [
+      "Crimson ProjeKCt, The",
+      "Belew, Levin, Mastelotto and Friends",
+      "The Crimson ProjeKCt",
+      "Two of a Perfect Trio"
+    ],
+    "38c38eec-c6d9-4da0-b2da-2fba8458a3cb": [
+      "Carsick Cars",
+      "晕车的车",
+      "Car-Sick Cars"
+    ],
+    "387ae7c0-187a-45b8-9eca-72c389f003e4": [
+      "Brides of Destruction"
+    ],
+    "32cab2ff-104e-45b6-a792-b0333593661f": [
+      "SAI"
+    ],
+    "33ee7545-047b-4694-a5be-741ea50b8b73": [
+      "Starclub",
+      "Star Club"
+    ],
+    "34d1cf44-fba6-4f9b-84f0-43731c7bee35": [
+      "Diddly Squat"
+    ],
+    "2ef497ac-471a-4967-8300-24cd07bd7982": [
+      "Limbomaniacs"
+    ],
+    "309879f6-77a0-4660-999c-310223a4ef97": [
+      "What Is This?"
+    ],
+    "388fe5dc-db1a-4ada-86f3-d3b850ae3535": [
+      "Adler’s Appetite"
+    ],
+    "374e1126-0a04-4f6d-9363-1f41b833798f": [
+      "SexTapes"
+    ],
+    "385f372d-9d91-48a7-947c-0258c08d0063": [
+      "Phoneys & the Freaks"
+    ],
+    "381c2b31-3c87-4a14-b7eb-d36fffee16b2": [
+      "POGO, The",
+      "ザ・ポゴ"
+    ],
+    "30fda151-9520-44b5-82ba-a9ed7bce85c4": [
+      "Belew, Adrian, Power Trio"
+    ],
+    "3255235c-ede0-40d7-b671-cdd7751e6d58": [
+      "MC50"
+    ],
+    "30860a89-b4d6-49b5-91b7-0d266bd85e45": [
+      "GLASSMAPS"
+    ],
+    "319500d8-9807-49a6-9b97-8f4db9dbfb80": [
+      "Mick Jagger & The Brothers of Sodom"
+    ],
+    "372e3c3c-d514-4d95-a310-96f30992e86b": [
+      "sic"
+    ],
+    "38a1d9e8-461c-4037-90dd-ab87745096ba": [
+      "Vortex, The"
+    ],
+    "39ab1aed-75e0-4140-bd47-540276886b60": [
+      "Oasis",
+      "The Rain",
+      "オアシス",
+      "Oas*s",
+      "OASIS"
+    ],
+    "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27": [
+      "Smiths, The",
+      "The Smith",
+      "Smiths"
+    ],
+    "3f77449d-48e4-4ceb-b869-69af48da877b": [
+      "X JAPAN",
+      "X-Japan",
+      "X",
+      "iX",
+      "XJapan",
+      "エックス ジャパン .",
+      "エックス ジャパン"
+    ],
+    "3f575ecd-627d-4f08-a89f-abd46d469c7e": [
+      "Ride"
+    ],
+    "3d693ab2-7c33-4b69-87bc-c105b5bbf547": [
+      "Thee Michelle Gun Elephant",
+      "TMGE",
+      "ミッシェル・ガン・エレファント",
+      "The Michelle Gun Elephant"
+    ],
+    "3fe64039-d8e0-4ac2-838f-9a3bf97c4931": [
+      "Fastbacks",
+      "Fastbacks, The",
+      "The Fastbacks"
+    ],
+    "3a528006-1429-47f4-ae9b-2ea95343e16a": [
+      "Velvet Revolver",
+      "Project, The",
+      "Revolver"
+    ],
+    "3d2cd44b-9e77-4249-9d37-d8028e756693": [
+      "Zazen Boys"
+    ],
+    "3ed40054-97ab-4783-b3c3-15c2c7b06546": [
+      "Ryokuoushoku Shakai",
+      "Ryokushaka",
+      "Green Yellow Society",
+      "リョクシャカ"
+    ],
+    "4092a0ab-f189-4d0a-bdd7-a90fb7ef9330": [
+      "acid android"
+    ],
+    "3a6888b1-d520-406e-afc0-bd2e8b289ce7": [
+      "VAMPS"
+    ],
+    "3c82a8e6-d738-41a6-bcfe-474204011472": [
+      "Luminous Orange",
+      "Luminousorange"
+    ],
+    "40ec273c-85dd-487c-8935-ccbc7d866119": [
+      "Slash’s Snakepit"
+    ],
+    "41337bb4-2ca9-42a9-8409-daf0081f004e": [
+      "Smile"
+    ],
+    "3cfda90e-4d46-4eeb-8a40-f55545f9bc1f": [
+      "ROSSO",
+      "ロッソ"
+    ],
+    "3a3b3e5d-2d28-4108-875e-30686d2710e8": [
+      "Evens, The"
+    ],
+    "3c80bbf8-4cc6-41b4-88cf-6eb1c7587345": [
+      "Serart"
+    ],
+    "3afff27f-0341-425c-b70c-2a6f4d697b58": [
+      "MONOEYES"
+    ],
+    "397cd952-ae9c-40cb-a504-fd0ef47ec120": [
+      "Hawkins, Taylor & The Coattail Riders"
+    ],
+    "3a8ee67d-c722-423e-8c85-4e54dd1ad0f1": [
+      "Scar the Martyr"
+    ],
+    "3eccd071-157b-4776-afd3-4c6f82cc8036": [
+      "Hawk"
+    ],
+    "3b9d785f-8188-4397-9f7b-5ed3828cb32e": [
+      "Giants in the Trees"
+    ],
+    "3b70e3f4-72ec-43bd-852e-e67240d43b08": [
+      "Eyes Adrift"
+    ],
+    "3dd83e1a-7de2-45fe-ae02-e152a077ccfc": [
+      "Claypool, Les and the Holy Mackerel",
+      "Les Claypool & The Holy Mackerel"
+    ],
+    "39c49ee6-cb27-4bcc-915d-4df787c81a58": [
+      "Radio Caroline",
+      "レディオ・キャロライン"
+    ],
+    "416e1f41-2c04-493c-a61f-ea34d1ee8ef8": [
+      "AcHoZeN"
+    ],
+    "41e755a6-acf2-42d5-a043-c792112b5df4": [
+      "Rodriguez‐Lopez, Omar, Quartet"
+    ],
+    "3a2429ae-a36e-4ed2-8ec7-9acce01c506e": [
+      "A.N.JELL",
+      "에이엔젤"
+    ],
+    "3bb1282c-68a9-497c-8cf3-5b49ba473402": [
+      "SLOTH LOVE CHUNKS"
+    ],
+    "3bb8fcde-18d4-4401-80e4-81a75b2186ca": [
+      "178R"
+    ],
+    "3dba35e6-28f4-4926-aae3-ff82ad934aa8": [
+      "Apple"
+    ],
+    "3a366de9-5f4b-4828-b3f2-e29485c0e932": [
+      "Sessanta"
+    ],
+    "44cf61b8-5197-448a-b82b-cef6ee89fac5": [
+      "Paramore",
+      "パラモア"
+    ],
+    "4387b544-e4d0-4f18-b74e-d4a5ba1582ab": [
+      "Traveling Wilburys",
+      "The Traveling Wilburys",
+      "Travelling Wilburys",
+      "The Travelling Wilburys",
+      "Travelling Willburys"
+    ],
+    "47a3fb29-e36b-440b-9d3c-3a68cec34396": [
+      "SixTONES",
+      "STONES",
+      "SixTONES(ストーンズ)"
+    ],
+    "4297d19f-4483-494c-a993-0e29a5afac33": [
+      "Claypool, Colonel’s Bucket of Bernie Brains"
+    ],
+    "42c4b58d-2e28-41d4-bfe5-4edee68386cf": [
+      "Germs",
+      "The Germs"
+    ],
+    "4709dd69-1034-4634-9e88-d1099453b192": [
+      "Dag Nasty"
+    ],
+    "45dc44ab-ebd5-48ed-9fc9-6f8de561656d": [
+      "Warzau, Die"
+    ],
+    "453f1594-112e-4d3c-921a-8d14e9c97b2e": [
+      "Telefon Tel Aviv",
+      "Telfon Tel Aviv"
+    ],
+    "43da6916-ba67-48cb-b875-4936adde20dd": [
+      "ProjeKct Three",
+      "P3"
+    ],
+    "42509bd3-6fa1-459a-8e40-127a3ef8663b": [
+      "Hilt",
+      "The Flu",
+      "Remnants of the FLU"
+    ],
+    "4337f1a5-9e02-4b46-98c3-e3c28683a9b5": [
+      "Yuuri",
+      "木村優里",
+      "Yuri",
+      "優里"
+    ],
+    "4339111e-4b64-4a3e-bf95-53f2a4095cd8": [
+      "Mason, Nick, Saucerful of Secrets",
+      "Nick Mason's Saucerful of Secrets"
+    ],
+    "46d70cb0-285f-46ea-97c0-f4fd4c106f7f": [
+      "Kolor"
+    ],
+    "4430600b-0fdb-43a1-be52-c81aa7ab1682": [
+      "Lard"
+    ],
+    "42ac3840-c883-4ef0-ba08-063279cd2e4e": [
+      "Media-Youth",
+      "メディアユース",
+      "media youth"
+    ],
+    "4488bb49-dc2a-4297-b486-e3405a010bd5": [
+      "Fat Les",
+      "Fat Les 2000"
+    ],
+    "447411ac-af07-423a-9be1-12ae0cafc640": [
+      "Lucky Pierre"
+    ],
+    "4316a6ab-0609-4599-a359-a4d616bf453a": [
+      "Zilch"
+    ],
+    "46160439-9999-42b7-b6aa-a8fbdb468282": [
+      "Monkey"
+    ],
+    "421c6d88-df82-4148-be27-c67e8fcdd14a": [
+      "Curtis, Lee & All Stars, The"
+    ],
+    "42fbd12b-a437-494f-8a88-556a598d302c": [
+      "TESTSET"
+    ],
+    "43a22c65-a104-4dc0-a501-419d11ebcf63": [
+      "Sensational Space Shifters",
+      "Robert Plant and The Sensational Space Shifters"
+    ],
+    "477490d6-3e98-41b2-9c24-b465e8ee74dc": [
+      "Mad for the Racket",
+      "Racketeers",
+      "The Racketeers"
+    ],
+    "4245d894-85af-4ee8-820e-9e46a52d899e": [
+      "Shatners, Thee"
+    ],
+    "463e1c9e-4d1c-4b98-95ba-2aeeb7224304": [
+      "Wild Wise Apes"
+    ],
+    "43b76999-b5e8-4431-966d-d6fc5fd501ad": [
+      "BINECKS"
+    ],
+    "464e2a4d-a7b2-4768-91fd-7db54dab4bbe": [
+      "Plastic Palace People"
+    ],
+    "470ded69-da50-41e4-8c6e-6b458c433c6d": [
+      "Lam Family"
+    ],
+    "43518465-ad67-4afc-8ea6-7cb57c506d92": [
+      "GALAY"
+    ],
+    "42fd48bb-6b02-4b51-9853-5e39b275ee4e": [
+      "The Wedding Band"
+    ],
+    "426f3d4a-d7f0-469b-87e8-d248e39297e4": [
+      "The Nicky James Movement"
+    ],
+    "4370e72d-6bec-45c8-932e-8629a38cceb9": [
+      "ねらわれた学園"
+    ],
+    "4a4ee089-93b1-4470-af9a-6ff575d32704": [
+      "Prodigy, The",
+      "The Prodigy vs",
+      "The Prodigy",
+      "Prodigy"
+    ],
+    "486067ad-56d6-48b5-957b-d6cfe3e1af73": [
+      "Perfume",
+      "ぱふゅーむ",
+      "パフューム",
+      "电音香水"
+    ],
+    "4a536dbf-8632-4cfd-b9ea-cdb35cb47c44": [
+      "Page, Jimmy & Plant, Robert",
+      "Jimmy Page and Robert Plant",
+      "Page & Plant"
+    ],
+    "4bd19b19-4ef4-42e0-ac5c-a21f709d248b": [
+      "Happy End",
+      "はっぴーえんど"
+    ],
+    "4e99b3a5-654b-43ee-a9bf-c55c155c0495": [
+      "Flipper"
+    ],
+    "480cdd78-e54e-4518-9ec9-572a62d7e1e1": [
+      "Diddy – Dirty Money",
+      "Dirty Money"
+    ],
+    "4bc09c51-5d42-4c93-9ba6-8cc21a0edb8d": [
+      "Them Crooked Vultures",
+      "TCV"
+    ],
+    "4a12be29-98cf-440d-a686-a8a8831bee1b": [
+      "ZIGZO"
+    ],
+    "4a9d8c32-a22c-4712-8fa2-286d78f9458f": [
+      "Dustdevils"
+    ],
+    "4bb621f5-0cf1-44a5-84b6-2cbafb8f17ad": [
+      "SURL",
+      "설"
+    ],
+    "4caec583-cdcb-437c-af84-8797b11b6807": [
+      "Peeping Tom"
+    ],
+    "4c44479c-8fde-4754-b9e2-5129eb6fb28d": [
+      "1000 Homo DJs",
+      "One Thousand Homo DJs",
+      "1000 Homo DJ'S",
+      "1000 Homo D.J.'s",
+      "1,000 Homo DJ's",
+      "1,000 Homo DJs"
+    ],
+    "4bf05cf1-556a-48bb-b659-7f8164850b72": [
+      "Pete Best Combo, The"
+    ],
+    "4887e0e9-ff5b-4dff-8dd7-d9841d40d53f": [
+      "El Stew"
+    ],
+    "4cd1ce8c-469e-4ff6-a987-59819b975a85": [
+      "Omnipotent Youth Society",
+      "万青",
+      "万能青年旅店",
+      "Wànnéng Qīngnián Lǚdiàn",
+      "萬能青年旅店"
+    ],
+    "4a4df54a-5878-455f-abdb-2919a0cf650a": [
+      "No Forcefield"
+    ],
+    "496f3f84-b42f-470e-9358-9e2c047b0335": [
+      "Mongrel"
+    ],
+    "47f6f7aa-a127-4dc4-a057-ee7389e59bd5": [
+      "GDJYB",
+      "鸡蛋蒸肉饼",
+      "雞蛋蒸肉餅"
+    ],
+    "4c18be5e-2e53-41a4-a4a1-d9080ff88f8c": [
+      "Happy Go Licky"
+    ],
+    "495bc417-f251-459b-b55d-5ddab23e3410": [
+      "Dope HEADz"
+    ],
+    "4d640098-bd30-40d6-9ca3-703ebef3681e": [
+      "Everybody, The"
+    ],
+    "4aa637c3-7bf2-4e30-8484-5271c9aca634": [
+      "Hashimoto Eriko Hatano Hirofumi",
+      "Hashimotoeriko Hatanohirofumi"
+    ],
+    "4fdd4034-2a35-4784-bae0-7a154461b616": [
+      "Copass Grinderz",
+      "Copasss Grinderz",
+      "Copass Grinders"
+    ],
+    "4c21807a-a8a1-4e71-a7ad-633120487ad8": [
+      "Melvana"
+    ],
+    "4f015985-cc45-4cc8-abce-bcc1764d56d2": [
+      "Xavier"
+    ],
+    "4c574459-b742-47d2-8c95-4e35e6dc416e": [
+      "LOW-ATUS, the"
+    ],
+    "4f83b34e-7eaa-4691-bdc8-afa90806cbca": [
+      "Gown"
+    ],
+    "49b7b7ce-bc72-4e51-9eef-aa1408804d25": [
+      "Fuktronic"
+    ],
+    "4c6c0c28-959f-4975-bf71-57a33dfc57da": [
+      "STARTO for you"
+    ],
+    "4fcfce28-f334-49d1-bbde-9006e7e4b2cc": [
+      "Space Soldier Membership Club"
+    ],
+    "4afe3d01-67d4-4a2b-a0e7-5c9685658d51": [
+      "Roundheads, The"
+    ],
+    "4a069714-9250-4aa1-8f8a-233eef3de920": [
+      "Gunzo"
+    ],
+    "5182c1d9-c7d2-4dad-afa0-ccfeada921a8": [
+      "Black Sabbath",
+      "Polka Tulk",
+      "Blakc Sabbath",
+      "Блэк Саббат",
+      "Blak Sabbath",
+      "Sabs",
+      "Sabbs",
+      "Sabbat",
+      "Sabbath",
+      "Black Sabbat",
+      "ブラック・サバス",
+      "Black Sabath",
+      "Earth",
+      "Polka Tulk Blues",
+      "Blac Sabat"
+    ],
+    "513b6df2-f44c-4484-b99d-97f79266cb4a": [
+      "LOUDNESS",
+      "Loudness",
+      "ラウドネス"
+    ],
+    "55704c38-224f-4b75-b29f-d43653f8bc9a": [
+      "Primal Scream",
+      "プライマル・スクリーム",
+      "Primal Sceam",
+      "PRML SCRM",
+      "Scream Team"
+    ],
+    "52074ba6-e495-4ef3-9bb4-0703888a9f68": [
+      "Arcade Fire",
+      "The Arcade Fire"
+    ],
+    "516cef4d-0718-4007-9939-f9b38af3f784": [
+      "Fall Out Boy",
+      "フォール・アウト・ボーイ",
+      "Short Story; Unhappy Ending",
+      "Fallout Boy",
+      "Frosty & The Nightmare Making Machine"
+    ],
+    "5089b746-7612-4a13-9153-33ff2560e161": [
+      "Shonen Knife",
+      "Shounen Knife",
+      "少年ナイフ/Shonen Knife"
+    ],
+    "53187856-5b14-4b58-9c81-c5ea843b6c7a": [
+      "NEWS",
+      "「NEWS」",
+      "NewS"
+    ],
+    "555ab13f-acf4-415f-835d-1bc854e1236f": [
+      "CNBLUE",
+      "C.N.BLUE",
+      "씨엔블루",
+      "Code Name Blue",
+      "C.N. Blue"
+    ],
+    "51c8d6ba-a7b0-4bca-b836-600c003856d2": [
+      "Vampillia"
+    ],
+    "5561990a-0601-4a71-b766-3268ea687ab3": [
+      "Suchmos"
+    ],
+    "552f7965-a23a-4e2f-9ef2-ac2989dea9f0": [
+      "Fecal Matter"
+    ],
+    "54d1fad0-569f-4eab-9d1e-d88c285312ee": [
+      "Divination"
+    ],
+    "5014f8f7-40b6-4fc7-9985-b414844d8f96": [
+      "Knoxville Girls"
+    ],
+    "55affee6-ecb0-42b3-9f36-40b6da415871": [
+      "Foxboro Hot Tubs"
+    ],
+    "51983b80-a95e-4a5d-9c5d-4108d957ce5c": [
+      "Sangatsu"
+    ],
+    "55905821-f019-4f07-9e8b-30017dcd50c0": [
+      "Candy"
+    ],
+    "54fc7b6c-6cfb-4ce3-bc9b-60dfc6e90764": [
+      "Rx",
+      "Rx Ritalin"
+    ],
+    "54bfa733-5012-4aae-b24f-fc9e36cf4ddf": [
+      "Anywhere"
+    ],
+    "52d7718d-fb8e-4bb9-adce-41e7151f847e": [
+      "Your Woman Sleep With Others",
+      "Your Woman Sleep with Others"
+    ],
+    "51b833bf-d214-471d-a22e-e2902f8d7953": [
+      "La Sadies",
+      "La Sadie"
+    ],
+    "547d48b7-fd6c-42e7-ae09-59c2fffdf2bd": [
+      "PERSIA, THE"
+    ],
+    "54c982d5-f078-46f3-a7ce-f9d63433ffbe": [
+      "WhoCares"
+    ],
+    "534ecdc4-9063-4aa1-8b28-1526f1920776": [
+      "ti-ti.uu"
+    ],
+    "55c24ef0-82ad-4bd4-8b97-739690d43612": [
+      "Rodney & The Tube Tops"
+    ],
+    "5161da96-f881-4852-9ecd-ac5c0e7ba3cb": [
+      "FT.triple"
+    ],
+    "5346afba-3bf4-458c-9aa3-50a9061826b2": [
+      "Holly and Ivy’s, The"
+    ],
+    "54a68526-680f-44eb-a41a-9d754b35c0e5": [
+      "Heavens"
+    ],
+    "53350289-5b36-4df0-8015-f27a07a95fac": [
+      "VIVA LA J-ROCK ANTHEMS"
+    ],
+    "52587764-b2ab-4c5a-8eb4-28d427687cb5": [
+      "Confidence"
+    ],
+    "50c213ed-a109-4677-9b7b-d57ef580dd2d": [
+      "Goat Punishment"
+    ],
+    "53e00ee1-9db4-4505-aa80-1318f76d6513": [
+      "Trash"
+    ],
+    "54ecb165-01db-4abf-a7bc-8d3e7e45abac": [
+      "Sham Pain"
+    ],
+    "5b11f4ce-a62d-471e-81fc-a69a8278c7da": [
+      "Nirvana",
+      "ニルヴァーナ",
+      "Nirvana US"
+    ],
+    "5dfdca28-9ddc-4853-933c-8bc97d87beec": [
+      "Marilyn Manson",
+      "マリリン・マンソン",
+      "Marilyn Manson & the Spooky Kids",
+      "Manson Marilyn",
+      "Marilyn Manson and the Spooky Kids",
+      "The Spooky Kids",
+      "marily manson",
+      "Mar1lyn Man5on",
+      "Mariyln Manson",
+      "Marilin Manson",
+      "Marylin Manson"
+    ],
+    "5cbef01b-cc35-4f52-af7b-d0df0c4f61b9": [
+      "Sonic Youth",
+      "Sonic Death",
+      "Sonice Youth",
+      "The Sonic Youth"
+    ],
+    "57652bf8-cfe8-42e7-b9a7-5572a7080d8d": [
+      "Boris",
+      "ボリス"
+    ],
+    "5af2629b-36de-486c-ad50-a89a28ff050f": [
+      "Zwan",
+      "Djali Zwan"
+    ],
+    "5c6acb91-4b9b-4245-b92f-e817295c4ed0": [
+      "Quiet Riot",
+      "Little Women",
+      "March 1"
+    ],
+    "5b9aa76f-bf0f-41ff-8986-fd0401c18bb4": [
+      "Cross, The"
+    ],
+    "57928ae9-5742-408f-b953-9e1c8110b405": [
+      "Tear Garden, The",
+      "tear garden"
+    ],
+    "597b05aa-d273-48c2-b151-a912e0ed942b": [
+      "Tizzy Bac"
+    ],
+    "58ff022e-1143-453b-b419-909ca48a20e5": [
+      "group_inou"
+    ],
+    "5957e45e-43a9-4d65-a558-8b19212a5b8b": [
+      "Life Journey",
+      "The Life Journey",
+      "旅行团乐队",
+      "旅行團樂隊"
+    ],
+    "5ba39b83-d12d-4b31-b449-992300a73df8": [
+      "Experimental Audio Research",
+      "E.A.R. (Experimental Audio Research)",
+      "EAR",
+      "E.A.R."
+    ],
+    "5dd561f7-7264-42cb-a3b2-bddeb750eb39": [
+      "Modwheelmood"
+    ],
+    "578fcf30-a232-4260-8f72-769daac8c908": [
+      "Splendid"
+    ],
+    "5c8c891c-04b5-49d1-94c2-2ed242a93df0": [
+      "Christ on a Crutch"
+    ],
+    "5a936f9a-0b59-4d6e-90fc-3aaca24f5717": [
+      "Whom Gods Destroy"
+    ],
+    "5820ce84-0a76-4c69-a649-1574b7132c9c": [
+      "SPIKY BROTHERS"
+    ],
+    "577758f9-73db-44cb-9cb6-8508a842db77": [
+      "Loser"
+    ],
+    "5c93ecb4-9976-4b18-bb57-92f834e2d726": [
+      "Freak Brothers, The"
+    ],
+    "5674b399-8ab7-4ca3-9644-e5489c3ff2e7": [
+      "Pees, The",
+      "The ピーズ",
+      "Theピーズ",
+      "ザ・ピーズ",
+      "The piizu"
+    ],
+    "55dc4368-4572-4a75-885f-a8739ce6a55c": [
+      "IR8"
+    ],
+    "56eedfe0-4801-4b81-9638-c137a4eafe11": [
+      "da Googie"
+    ],
+    "594493b9-50df-4efb-9aed-9b5c867b4753": [
+      "Seymour"
+    ],
+    "5656fd4b-d35d-4741-966b-32dee833c0a5": [
+      "Me Me Me"
+    ],
+    "585af193-cba6-4dc1-b1b7-2b10260f164e": [
+      "Look Outside Your Window"
+    ],
+    "5845bc9c-eee2-4782-8c10-54de353ded63": [
+      "Armstrongs"
+    ],
+    "5c7e34da-bd5f-4dbf-9e88-190cd1ad3f34": [
+      "ROYAL FORCE"
+    ],
+    "564ce54b-bed1-4e75-aa2b-803934b43c85": [
+      "Soultronics, The"
+    ],
+    "5d74d104-d513-448d-8bab-86070a897121": [
+      "Terakoya"
+    ],
+    "5dcd7e90-11ad-488c-880d-5c3a6325840d": [
+      "Yamanaka, Sawao & ELPIS",
+      "Sawao Yamanaka & ELPIS"
+    ],
+    "5a94f4a5-b367-4765-8bf1-80c35c56c761": [
+      "Beefeater"
+    ],
+    "56396fbe-e455-4526-a5e4-2a8f9b01c435": [
+      "Kings of Chaos"
+    ],
+    "62b61409-d13e-4281-9e3f-06941c2c5f5f": [
+      "L’Arc〜en〜Ciel",
+      "L'Arc~en~Ciel",
+      "L'Arc～en～Ciel",
+      "Laruku",
+      "L'Arc",
+      "ラルク アン シエル",
+      "ラルク",
+      "L'Arc~en~Cie",
+      "L'arc ~ en ~ Ciel",
+      "L'arc ~en~ ciel",
+      "L'Arc~ en~ Ciel",
+      "L'arc~enciel",
+      "arc en ciel",
+      "Arc-en-ciel",
+      "L'Arc-en-Ciel",
+      "larcenciel",
+      "L'arc~en~Ceil",
+      "彩虹乐队"
+    ],
+    "603ba565-3967-4be1-931e-9cb945394e86": [
+      "NSYNC",
+      "N-SYNC",
+      "イン・シンク",
+      "★NSYNC",
+      "*NSYNC",
+      "★NSync",
+      "Nsynch",
+      "N Sync",
+      "N'Synch",
+      "N' Sync",
+      "'NSync",
+      "N*SYNC",
+      "´N Sync",
+      "N'Sync",
+      "'N Sync"
+    ],
+    "5e6512dd-160b-4512-a4b4-2c30fa894a08": [
+      "Fear",
+      "FEAR"
+    ],
+    "65f3d4e1-bd94-4880-a801-666d0ddc0dc2": [
+      "Sunny Day Service",
+      "サニーデイ・サービス"
+    ],
+    "611f1230-7c2b-4610-b9e6-5a4fcb6e3cc7": [
+      "Grinderman"
+    ],
+    "655ba39c-f754-4ed1-adac-4b2258598ade": [
+      "FIRE EX.",
+      "Fire EX."
+    ],
+    "5fd292c1-c010-4bb5-afb4-a91f8045b853": [
+      "3rd Line Butterfly",
+      "3호선 Butterfly"
+    ],
+    "6533674b-9d30-4328-bdfe-92318e12e53a": [
+      "Say Sue Me",
+      "세이수미"
+    ],
+    "61c836d9-5e9e-4db1-94d9-35100a0537e9": [
+      "Omoinotake"
+    ],
+    "5fb91901-b627-4b03-b7f4-b17cc4649c19": [
+      "Ging Nang Boyz"
+    ],
+    "6473c9d8-15f2-4a41-97d2-7b04ca52bb81": [
+      "DMBQ",
+      "D.M.B.Q.",
+      "Dynamite Masters Blues Quartet"
+    ],
+    "62295e15-08c3-4deb-8558-59a677c9391b": [
+      "Huckleberry Finn",
+      "허클베리 핀"
+    ],
+    "6084f926-d798-4468-9e2c-ba64a4b7bfbc": [
+      "Snapline"
+    ],
+    "653f2e2e-ed6b-4844-9d27-2009559d9822": [
+      "Mind Funk",
+      "MindFunk",
+      "Mindfunk"
+    ],
+    "5f984344-da28-4d68-ae1c-8bce9637180a": [
+      "Dim Stars"
+    ],
+    "62788614-b33c-42c9-9b6e-c9375362b57e": [
+      "Messthetics, The"
+    ],
+    "5e4ad809-a048-427d-b0e4-a6761de9c220": [
+      "Amps, The",
+      "Amps"
+    ],
+    "5eebd833-d596-449a-8d5c-77ae5e0ddbc2": [
+      "F.O.E",
+      "Friends of Earth"
+    ],
+    "63d26065-2133-4385-b87e-167c9bd593d4": [
+      "Churn"
+    ],
+    "61b21c03-acbd-450e-a167-7850bfa42c31": [
+      "Spasm"
+    ],
+    "5ef4abac-eaa0-4b83-9f65-d653a6f74f8b": [
+      "Scars Borough"
+    ],
+    "5e8c5405-0369-4384-bad7-aa89d3cabc5a": [
+      "Puppies"
+    ],
+    "5f0904c0-b031-4006-8c49-738b74350e01": [
+      "Felix Felicis"
+    ],
+    "64b20ec0-db9e-4a06-924e-1f5d87e26669": [
+      "Daredevils"
+    ],
+    "6335489e-3312-41a0-a304-ed6a520251d6": [
+      "Peeper, The"
+    ],
+    "64c76808-e12c-49e5-aabf-30d5f3e6556e": [
+      "Lonely H's Band",
+      "론리 허스 밴드"
+    ],
+    "5e4fd5fa-936f-43bf-b54d-5287978a3059": [
+      "The RD Crusaders"
+    ],
+    "5f8f6e63-b615-43ea-b5ab-16a36ce3d85b": [
+      "Hi5"
+    ],
+    "64ea444d-4384-4da4-b9ea-0bf0f65ab1df": [
+      "Dead Wire"
+    ],
+    "60b06a12-20ea-469d-aba0-8d509f1d9e76": [
+      "UKASUKA-G"
+    ],
+    "64f3adb4-1a8c-424b-b7bd-0c06baf4b45e": [
+      "Suto Hisashi GATALI ACOUSTIC SET"
+    ],
+    "65004947-cdea-47cf-8812-9faf47ebd6c1": [
+      "Thunderbox"
+    ],
+    "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab": [
+      "Metallica",
+      "メタリカ",
+      "Metalica",
+      "메탈리카"
+    ],
+    "678d88b2-87b0-403b-b63d-5da7465aecc3": [
+      "Led Zeppelin",
+      "レッド・ツェッペリン",
+      "レッド・ゼップ",
+      "レッドゼップ",
+      "ゼップ",
+      "ledzep",
+      "Bootleg Zeppelin",
+      "LZ",
+      "Led Zepplelin",
+      "Led Zepellin",
+      "レッド ツェッペリン",
+      "レッドツェッペリン",
+      "Led Zepplin",
+      "Led Zep"
+    ],
+    "66c662b6-6e2f-4930-8610-912e24c63ed1": [
+      "AC/DC",
+      "AC|DC",
+      "Akka Dakka",
+      "Acca Dacca",
+      "AC.DC",
+      "AC⚡︎DC",
+      "ACDC",
+      "AC-DC",
+      "AC⚡DC",
+      "AC?DC",
+      "AC\\DC",
+      "AC DC"
+    ],
+    "69ee3720-a7cb-4402-b48d-a02c366f2bcf": [
+      "Cure, The",
+      "Cure"
+    ],
+    "67f66c07-6e61-4026-ade5-7e782fad3a5d": [
+      "Foo Fighters",
+      "フー・ファイター",
+      "FooFighters"
+    ],
+    "66fc5bf8-daa4-4241-b378-9bc9077939d2": [
+      "Tool"
+    ],
+    "68950696-ee9a-49b2-a8c2-d1d6c19355cc": [
+      "Public Image Ltd",
+      "Public Image Lmtd",
+      "Image Publique S.A.",
+      "Public Image Limited",
+      "Public Image LTD. (P.I.L.) -",
+      "PIL",
+      "P.I.L."
+    ],
+    "69158f97-4c07-4c4e-baf8-4e4ab1ed666e": [
+      "Boards of Canada",
+      "ボーズ・オブ・カナダ",
+      "BoC"
+    ],
+    "667e856e-f3a7-42e9-8244-95422ef31321": [
+      "Breeders, The",
+      "Breeders",
+      "The Breaders"
+    ],
+    "6ae51665-8261-4ae5-883f-1899651ad31b": [
+      "Filter"
+    ],
+    "66bdd1c9-d1c5-40b7-a487-5061fffbd87d": [
+      "Eve",
+      "Hiroki Mizuta",
+      "E ve"
+    ],
+    "6b69ad23-4b6d-4d58-8818-ff00b4e1b024": [
+      "12 Rods",
+      "twelve Rods"
+    ],
+    "66f0dcaa-1680-4ef3-9b63-8b2ac24d0b58": [
+      "Malakian, Daron and Scars on Broadway",
+      "Scars on Broadway",
+      "Daron Malakian",
+      "Daron Malakian and Scars on Broadway"
+    ],
+    "6b1084c6-6782-4f2e-b9b1-0dec99232215": [
+      "FAKE?"
+    ],
+    "6a93cb2b-d33a-42fc-a41a-542e3a887ba6": [
+      "Voidz, The",
+      "The Voidz",
+      "Julian Casablancas+The Voidz",
+      "Julian Casablancas + the Voidz"
+    ],
+    "689ec927-0889-4830-9092-0a3d9bb840a4": [
+      "ACE OF SPADES"
+    ],
+    "6b4fbe0d-c8ea-451c-9fe1-afcb90f5e605": [
+      "FFS"
+    ],
+    "6b50ae97-4011-474d-a848-708977d3a6ce": [
+      "Murder Inc."
+    ],
+    "67d1d2b1-3a53-41f4-b012-3b66e616e14d": [
+      "DIE IN CRIES"
+    ],
+    "6c0994fb-382e-4510-8e26-56709afaf190": [
+      "Juno"
+    ],
+    "661c8840-8a2f-4626-9edf-68be40656c4a": [
+      "Big Cats, The"
+    ],
+    "6ad5da01-2ba5-46e7-ba8b-5cdd267c5e4b": [
+      "Hankshaw"
+    ],
+    "69594e66-8ac1-4150-b22a-5b5f6d6f8c40": [
+      "Mantra of the Cosmos"
+    ],
+    "664e77fd-d050-4671-86cd-89081098c2ea": [
+      "Digital Noise Academy"
+    ],
+    "6c25ac2f-2c9f-4cbb-82b8-8018c39777d3": [
+      "POSSESSION=80.2 POR CENTO"
+    ],
+    "6a943574-bf52-48a3-a439-b1d318015f3e": [
+      "Radio Bootsy"
+    ],
+    "678dd79d-f0db-45ca-bd03-c2b4433b63f1": [
+      "Buckethead And His Bucket-Bots"
+    ],
+    "69166673-83ef-49fb-96c1-d1884235f63f": [
+      "Flag, American"
+    ],
+    "6d1c3698-6ef2-4f67-b626-fa16e2c69c8e": [
+      "Mark Knopfler’s Guitar Heroes"
+    ],
+    "6b5caa6c-6e42-4f84-b800-1ab7b8d7dcfc": [
+      "I'M ON MARZ"
+    ],
+    "6d0d4632-1225-47c9-8119-5dcdf4f5fbd5": [
+      "Levene, Gerry & the Avengers"
+    ],
+    "68fb8c2a-477a-4bd7-a65e-2fba470a7bcc": [
+      "Rain, The"
+    ],
+    "6fe07aa5-fec0-4eca-a456-f29bff451b04": [
+      "Weezer",
+      "ウィーザー"
+    ],
+    "6f500293-7396-4903-b4fd-118127d06f9e": [
+      "RADWIMPS",
+      "ラッドウインプス",
+      "ラッドウィンプス"
+    ],
+    "6ef00829-fa94-4fee-a5a6-b28e1208e96a": [
+      "ONE OK ROCK"
+    ],
+    "6d3f44c3-132d-42a6-a45b-16560b30a1fc": [
+      "Melt‐Banana",
+      "MxBx",
+      "Melt Banana",
+      "メルトバナナ"
+    ],
+    "6dddd7a2-5583-49d0-a8b2-9ee46d04f27e": [
+      "Official HIGE DANdism",
+      "Higedan",
+      "Official髭男dism",
+      "ヒゲダン",
+      "OfficialHigeDandism",
+      "Official鬍子男dism"
+    ],
+    "6f29020d-49c1-4e26-869a-0603d14b7ca7": [
+      "Stabbing Westward",
+      "Stabing Westward",
+      "ｽﾀｯﾋﾞﾝｸﾞ･ｳｴｽﾄﾜｰﾄﾞ",
+      "スタッビング・ウエストワード"
+    ],
+    "72186b6a-fe30-4e2a-9c31-852e23ff93af": [
+      "Muffs, The",
+      "1995 The Muffs",
+      "Muffs"
+    ],
+    "6fc69ec6-3e59-4ff7-849d-b5da932abe4d": [
+      "Sleep"
+    ],
+    "730182f9-2b25-45cc-857a-054c2bbe8ade": [
+      "Jannabi",
+      "잔나비"
+    ],
+    "6e926752-885a-4239-87fc-62ae76f47d98": [
+      "Cornbugs"
+    ],
+    "7294f7d2-743d-483c-84fd-d0c0ffd9a234": [
+      "Art of Anarchy"
+    ],
+    "6ee811ab-8a41-4fec-8221-5b51189e8d8b": [
+      "Amazing Show",
+      "Bisiugroup"
+    ],
+    "71888148-a252-4a1f-b080-ddd755195b3c": [
+      "ACID",
+      "ＡＣＩＤ"
+    ],
+    "7178d397-39c9-4389-8d78-e92d2bfb8b42": [
+      "hòuhǎi dàshāyú",
+      "後海大鯊魚",
+      "后海大鲨鱼",
+      "Queen See Big Shark",
+      "Houhai Sharks",
+      "Queen Sea Big Shark"
+    ],
+    "6d797b95-2011-4859-91ab-9284d1e1f472": [
+      "Skid Row"
+    ],
+    "706ed8c5-6472-44e1-a230-e15bab6d3a0e": [
+      "8 Eyed Spy",
+      "Eight Eyed Spy"
+    ],
+    "700cf581-cc8c-49c1-93e3-489bf1719255": [
+      "Lookouts, The",
+      "Lookouts"
+    ],
+    "7276e4b7-b687-4c7f-9984-541bc760ed8d": [
+      "geek sleep sheep"
+    ],
+    "6de8b0ce-bbbb-4307-99de-e96789fac2c9": [
+      "Vivian or Kazuma"
+    ],
+    "6dd0c24f-da12-49e6-b27e-4f98500c357f": [
+      "Rocket Juice & the Moon"
+    ],
+    "6fc16f58-4562-47e6-a364-b03011e5f1ea": [
+      "Harvey's Rabbit"
+    ],
+    "6f8212b8-153d-4c20-8394-c2c0d9a8966b": [
+      "P.S.P.",
+      "PSP"
+    ],
+    "6f6f4f2e-c0c5-4bb8-9962-482e65fa35e9": [
+      "wirebox"
+    ],
+    "6ea382ed-af48-4cf2-9004-a842992a1e22": [
+      "Coolies, The"
+    ],
+    "72d2d3a9-c370-4329-9191-bfbb1da64fb4": [
+      "Crisis Party"
+    ],
+    "715c3816-4ae5-46d3-8c25-62438e289d25": [
+      "Crushed Butler"
+    ],
+    "70dc28e6-c597-49d4-90c7-e6b75509849e": [
+      "GLAYxEXILE",
+      "GLAY x EXILE",
+      "グレイ エグザイル"
+    ],
+    "6d50894b-5bdd-42c3-ab33-5c9a956dd01e": [
+      "A.C.E."
+    ],
+    "6deff26d-25a8-4222-839f-b8921593b99e": [
+      "Maxwell House Ranch Band"
+    ],
+    "72adc07d-7018-4776-8cca-0624f785bbd1": [
+      "Smith & Watt Steakhouse",
+      "The Dirty Bats"
+    ],
+    "6fdccc63-06c3-411e-aaed-a676eb5dbbd0": [
+      "Exovex"
+    ],
+    "6ffcf46f-861b-47e5-aba2-c1a930fef7ee": [
+      "Zaum"
+    ],
+    "7527f6c2-d762-4b88-b5e2-9244f1e34c46": [
+      "Deftones",
+      "デフトーンズ",
+      "Def Tones",
+      "The Deftones"
+    ],
+    "7448d493-0b9d-4057-9a50-bf2bd096d961": [
+      "Flotsam and Jetsam",
+      "Flotsam And Jetsam",
+      "Flotsam & Jetsam"
+    ],
+    "74a2ff82-992b-4696-b603-c6f747bec2b7": [
+      "ProjeKct 2",
+      "Project Two"
+    ],
+    "787aa69f-f419-4e24-8c13-33511a20428d": [
+      "Samiam",
+      "Samian"
+    ],
+    "7974fd3f-b3e7-4607-a1ad-9d85c07ac3b9": [
+      "ORAL CIGARETTES, THE"
+    ],
+    "77b29df2-056e-409e-a1b2-5e2bbfe421c4": [
+      "AWOLNATION",
+      "エイウォルネイション"
+    ],
+    "77191d5f-1045-4b3b-ad7f-12ea398db929": [
+      "DAY6",
+      "데이식스"
+    ],
+    "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d": [
+      "Parliament-Funkadelic",
+      "George Clinton & Parliament-Funkadelic",
+      "P-Funk",
+      "P Funk",
+      "P-Funk All-Stars",
+      "P.Funk All Stars",
+      "P. Funk All Stars",
+      "P-Funk Allstars",
+      "P-Funk All Stars"
+    ],
+    "74fb2a36-7f55-4f12-a474-36ad65350f86": [
+      "RubberBand"
+    ],
+    "7a2e6b55-f149-4e74-be6a-30a1b1a387bb": [
+      "Desert Sessions",
+      "デザート・セッションズ",
+      "Desert Sessions Vol. 3&4",
+      "Desert Sessions Vol. 5&6",
+      "Desert Sessions Vol. 1&2"
+    ],
+    "75c5edb5-796d-46f3-bac3-9b59da658023": [
+      "Sunset Rollercoaster",
+      "落日飛車 Sunset Rollercoaster",
+      "落日飛車",
+      "落日飞车"
+    ],
+    "75e06a90-dcaf-4bc2-9bc5-abe6a300dfdc": [
+      "ProjeKct Four",
+      "ProjeKct 4"
+    ],
+    "7aaf5c90-9691-4ed7-8916-491d4900727f": [
+      "Zhaoze"
+    ],
+    "73156e13-f308-4fda-b2c3-87bb76b7990c": [
+      "MO'SOME TONEBENDER",
+      "モーサム・トーンベンダー",
+      "MO' SOME TONEBENDER"
+    ],
+    "76c63dd7-96d1-42d9-a596-4d576a464008": [
+      "Saucy Dog"
+    ],
+    "74c9db5a-cece-4381-afa8-a5f381901487": [
+      "Jambinai"
+    ],
+    "76fc9a1d-4499-4c92-91cf-85f87ee50787": [
+      "Deep End",
+      "Pete Townshend’s Deep End"
+    ],
+    "78e497ff-b3d2-45e6-a179-f39253df4ea4": [
+      "Porn",
+      "The Men of Porn",
+      "Men of Porn"
+    ],
+    "76d721ac-3eff-4b6d-8a2e-f2dacd2209a3": [
+      "Walt Mink",
+      "Walter Mink"
+    ],
+    "78bde584-ab87-4587-8840-35589461c783": [
+      "unkie"
+    ],
+    "749cffc2-b310-4556-91b9-9298258361d0": [
+      "All Scars",
+      "All-Scars"
+    ],
+    "7acc6c97-2654-4ffa-945f-daeabaa8e5ae": [
+      "Ashes Divide"
+    ],
+    "75a66f67-4d2a-448e-acdf-3000268af6d1": [
+      "I and I Djangdan",
+      "I & I Djangdan",
+      "I&I Djangdan",
+      "아이 앤 아이 장단"
+    ],
+    "7454f7a3-cbc2-46af-a542-20cf0b7e0238": [
+      "MORTAL, THE"
+    ],
+    "75be5447-9d9b-41c7-965c-fd4a0985576f": [
+      "Frustrators, The"
+    ],
+    "74e940a6-b64a-4e75-891a-3d976d533208": [
+      "Gunga Din, The"
+    ],
+    "74cebc28-457d-4a02-b734-e888087ebc12": [
+      "Combative Post",
+      "컴배티브 포스트"
+    ],
+    "74c2a2c5-5337-4e98-ab16-1f6463b77478": [
+      "Rockestra"
+    ],
+    "747c4064-cf47-459a-985d-3021e52dcf89": [
+      "WitchGang",
+      "Witch Gang"
+    ],
+    "7a60ad9e-e5be-47c5-be59-82ff68e2bf1b": [
+      "Crawling King Snakes, The"
+    ],
+    "7513da43-3b98-4da9-812d-2388ad5efaa7": [
+      "Caramel Mama"
+    ],
+    "7994fd50-cd4d-4366-9848-53afd8827b8d": [
+      "Orcutt Shelley Miller"
+    ],
+    "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8": [
+      "Queens of the Stone Age",
+      "Queen of Stoneage",
+      "クイーンズ・オブ・ザ・ストーン・エイジ",
+      "Queens of the Stoneage",
+      "Gamma Ray",
+      "QOTSA"
+    ],
+    "7ce51ba7-91f4-46aa-a030-1e22aaa7510d": [
+      "Slash featuring Myles Kennedy and the Conspirators",
+      "The Conspirators"
+    ],
+    "808fe413-ff00-4a68-99fe-0ab265a7e2be": [
+      "NUMBER GIRL",
+      "NUMBERGIRL",
+      "Number Girl",
+      "ナンバーガール"
+    ],
+    "8293299e-5411-4502-aed3-7ed09d37bf38": [
+      "bloodthirsty butchers",
+      "ブラッド・サースティ・ブッチャーズ"
+    ],
+    "7e07a487-5438-4128-b2d0-f0f18ac08384": [
+      "Queen + Lambert, Adam",
+      "QAL",
+      "Q+AL"
+    ],
+    "7e14cf06-532b-4789-8c03-5aa13da4f6f3": [
+      "Infectious Grooves"
+    ],
+    "7ea8a523-b33d-4944-ad31-fad25a81d603": [
+      "toe",
+      "トー"
+    ],
+    "7e870dd5-2667-454b-9fcf-a132dd8071f1": [
+      "Jack Off Jill"
+    ],
+    "7e623dd5-bf40-4f8b-ba71-8226afc918e2": [
+      "Free Kitten"
+    ],
+    "7f227d98-fced-4718-9492-83b3b3225530": [
+      "Sinawe",
+      "시나위"
+    ],
+    "7d7a9e43-b563-4e8a-ac39-38beaea0fe87": [
+      "portable rock",
+      "Portable Rock"
+    ],
+    "81295bc0-44c8-4cd4-a83c-5b374453cbfd": [
+      "Fantômas Melvins Big Band, The",
+      "Fantômas Melvins Big Band",
+      "FantômasMelvins Big Band"
+    ],
+    "81739b1e-609d-4a63-beaa-4422ca5e278a": [
+      "Knight Club, Le"
+    ],
+    "7b4a9621-17d8-4eb3-b2b3-48a1ab0b2fb2": [
+      "Fleetwood, Mick and Friends"
+    ],
+    "7e2466e5-b279-452d-ad01-b5875361d4dd": [
+      "ProjeKct 6"
+    ],
+    "81036bce-6d7c-445e-a8f1-5830d9e3d5f1": [
+      "浮世繪",
+      "浮世绘",
+      "Life Exhibition"
+    ],
+    "81f25673-b01a-4fd7-a5be-eb93c85d11bb": [
+      "Violet UK"
+    ],
+    "80384a58-0b41-4cfa-89c7-b1fb77d0cf63": [
+      "Yona-Kit",
+      "Yona Kit"
+    ],
+    "7fac92e8-92a5-4d99-bdf0-6e6c8e3aadcb": [
+      "TOUMING MAGAZINE",
+      "Touming Magazine"
+    ],
+    "81cefa59-d9cd-410f-ac11-7b66519a9514": [
+      "Die Spitz"
+    ],
+    "817c0792-e06d-44ce-870f-40b8ec6a54d8": [
+      "Artists United for Nature"
+    ],
+    "8157c593-7738-4f53-ac95-6e7f9db2cf39": [
+      "SHAG"
+    ],
+    "823f8b5a-a1eb-4dad-b417-8d5696d97243": [
+      "Bonjintan",
+      "梵人譚",
+      "Bonjin Tan"
+    ],
+    "815a1812-e87a-44b5-a77c-0c604ceda72b": [
+      "Krautzone"
+    ],
+    "829dc052-6f03-42b5-b94f-26ddddf54982": [
+      "Lords of Flatbush"
+    ],
+    "82276270-8063-4b53-b166-d4cfb78f83a2": [
+      "Spirits in the Sky"
+    ],
+    "7e2b4350-4c9a-446a-8630-e51a5a10b324": [
+      "Broken Bat"
+    ],
+    "8221912e-6c34-4b6e-9cf6-93e7084efd30": [
+      "Moore, Thurston, Group"
+    ],
+    "7aeccb42-1128-4f6e-afbe-dda4c39e2d5d": [
+      "Poops's"
+    ],
+    "80c3801d-ee57-402b-986a-bf725a884d62": [
+      "Kuroneko Doumei",
+      "Alliance de chat noir"
+    ],
+    "82c39004-180d-48a2-8c61-985042842eba": [
+      "Cretin Family"
+    ],
+    "825a4cbb-5490-44b3-be3f-0bff62bb53fd": [
+      "Dr. Dragon & Sound of Arab"
+    ],
+    "83b9cbe7-9857-49e2-ab8e-b57b01038103": [
+      "Pearl Jam",
+      "Mookie Blaylock"
+    ],
+    "83d91898-7763-47d7-b03b-b92132375c47": [
+      "Pink Floyd",
+      "Pink Floid",
+      "The Pink Floyd",
+      "Floyd",
+      "핑크 플로이드",
+      "ピンク・フロイド"
+    ],
+    "8538e728-ca0b-4321-b7e5-cff6565dd4c0": [
+      "Depeche Mode",
+      "デペッシュ・モード",
+      "DM"
+    ],
+    "85d76093-9865-4605-97fa-8c910929d366": [
+      "LiSA",
+      "織部里沙",
+      "lxixsxa",
+      "织部里沙 (LiSA OLiVE)"
+    ],
+    "84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2": [
+      "Primus",
+      "プライマス"
+    ],
+    "864aa861-e22a-4187-8baa-2ef0c215bc0a": [
+      "Godflesh",
+      "GODFLESH",
+      "Goldflesh"
+    ],
+    "84f81b32-8b3a-4914-9cff-017a52f9d16b": [
+      "Plastic Ono Band",
+      "Plastic Ono Supergroup",
+      "The Plastic U.F.Ono Band",
+      "The Plastic Ono Nuclear Band",
+      "Plastic Ono Super Band"
+    ],
+    "86b24e8f-a4d9-4c84-83ee-fde0d14ad9fa": [
+      "Sunny Day Real Estate"
+    ],
+    "837139a7-d72d-42ac-8609-a0ed1a1f96a2": [
+      "LMF"
+    ],
+    "85382364-e2bc-4803-90b4-29bb3da200ce": [
+      "Duff McKagan’s Loaded",
+      "The Gentlemen",
+      "Loaded"
+    ],
+    "82d6c629-d9cf-46c7-aa1e-a511eb344ab1": [
+      "Boogie Box High"
+    ],
+    "85a9cf46-ce52-498b-a339-1ef24b9216a3": [
+      "Gunash"
+    ],
+    "855c04c5-2e03-4c3e-ab18-bfb4ee34ca84": [
+      "49 Morphines"
+    ],
+    "8496b5fa-8f1b-4d34-9933-47a0c98f4e8c": [
+      "Qubit"
+    ],
+    "860fa646-33ab-4e10-9f7f-de14c63502e5": [
+      "Muma",
+      "木馬",
+      "muma",
+      "木玛"
+    ],
+    "85c98899-dd47-435d-9977-8ff45910f111": [
+      "Howlin’ Maggie"
+    ],
+    "832176ab-dfca-40b1-9f47-5b7fe5d1552b": [
+      "Shin.e",
+      "Buckethead - Bill Laswell - Shin Terai",
+      "Shine"
+    ],
+    "84e8d8bf-da21-4488-89e5-50a4c12ff4fa": [
+      "Teen Idles, The",
+      "Teen Idles"
+    ],
+    "861ed82a-7a6a-4d72-89b8-764b4f53e17c": [
+      "Kimonos"
+    ],
+    "83462985-b204-4bf5-91ee-a8278b8d35fc": [
+      "Holland, Jools and His Millionaires"
+    ],
+    "8515f3fc-d9d1-4c97-8513-849a1ee31369": [
+      "Southern Fly"
+    ],
+    "857d05c4-ad27-4153-a23d-2ae44e3e2b4a": [
+      "Sticky Blood"
+    ],
+    "844ea9ee-5aaf-4507-961e-eba6e2ed49aa": [
+      "Chao Jian"
+    ],
+    "85aefc0a-a3ba-4524-8664-ec89bf42146e": [
+      "Rock Therapy"
+    ],
+    "853a15ed-51cb-4da0-a02e-5dc33be1cf1d": [
+      "Power Rangers Orchestra, The"
+    ],
+    "85f76f16-3ca8-41d7-9c00-f8473c4400b9": [
+      "Anodize",
+      "Anodized",
+      "亚龙大",
+      "亞龍大"
+    ],
+    "8710c59b-8249-4cbd-873c-2839dc7ec31f": [
+      "GUERRILLA"
+    ],
+    "843db60f-56ec-44a6-8805-27a1ec077bbb": [
+      "Bona Fide Band, The",
+      "Krist Novoselic’s Bonafide Band"
+    ],
+    "84c597b8-2855-423d-bcff-6a8a97eca89c": [
+      "Skewbald"
+    ],
+    "853fc886-896e-4609-ac8c-148f0c78568f": [
+      "Clamrod, Festus and the El Sobrante Twangers"
+    ],
+    "83a5ab00-9539-4257-a21c-44853773ccdc": [
+      "Chaotics Speed King"
+    ],
+    "8322b08d-24a4-4716-8951-b5cd8b14b338": [
+      "Chickenfuckers, The"
+    ],
+    "8bfac288-ccc5-448d-9573-c33ea2aa5c30": [
+      "Red Hot Chili Peppers",
+      "Red Hot Chilli Peppers",
+      "The Red Hot Chili Peppers",
+      "RHCP",
+      "Red Hot Chilly Peppers",
+      "The Red Hot Chilli Peppers"
+    ],
+    "8846e4ff-0c19-4af2-872b-7a8dc7497f68": [
+      "Cult, The",
+      "The Cult - Labbatt Tracks",
+      "Cult"
+    ],
+    "8c32bb01-58a3-453b-8050-8c0620edb0e5": [
+      "Stone Temple Pilots",
+      "STP"
+    ],
+    "87684162-ab42-4cfa-bf22-ebe237035f54": [
+      "L.A. Guns",
+      "Los Angeles guns",
+      "L>A> guns",
+      "L. A. Guns",
+      "LA Guns"
+    ],
+    "8ca01f46-53ac-4af2-8516-55a909c0905e": [
+      "My Bloody Valentine",
+      "MBV"
+    ],
+    "8b4d99eb-7a54-4648-b299-8e1564d11385": [
+      "Jagged Edge"
+    ],
+    "8c4519da-59e7-44b5-868d-350dffb30b51": [
+      "envy"
+    ],
+    "87788c91-a97e-40a8-860b-3d9a3956af5e": [
+      "Hurricane #1",
+      "Hurricane # 1",
+      "Hurricane#1",
+      "Hurricane No. 1",
+      "HURRICANE #1"
+    ],
+    "8a3e1c4f-59a8-457a-826c-fe961419a8ae": [
+      "Last Shadow Puppets, The",
+      "Last Shadow Puppets"
+    ],
+    "8b64a68f-eb63-48dd-80d9-1c2abcdf1970": [
+      "hyukoh",
+      "HYUKOH",
+      "혁오"
+    ],
+    "8df68f6c-40c0-4c9a-9343-ed949cb5ffcd": [
+      "Spacemonkeyz"
+    ],
+    "8dd30e73-c5e9-43bf-bcce-8fc44d54a84d": [
+      "Record Club"
+    ],
+    "8d6b7062-1825-46b2-b951-a6a33678ec76": [
+      "backQuarter",
+      "四分衛樂團"
+    ],
+    "89ac338b-98a4-4e8c-815c-f3c987c9ee96": [
+      "Clinton"
+    ],
+    "897dc9d4-f6ca-4646-8a74-e8ef08aa0fb5": [
+      "Neurotic Outsiders"
+    ],
+    "8a37afe1-0e1f-413c-a817-ff80ddfd9406": [
+      "Hakaiders"
+    ],
+    "87e23315-d32b-4bfd-9116-afe8beafe6de": [
+      "Dave, Chris and Drumhedz, The"
+    ],
+    "87afe5d0-f12b-4609-b0b2-ddb4ace0f908": [
+      "Eastern Sidekick",
+      "이스턴 사이드킥"
+    ],
+    "8ebcdee1-67ed-432d-948b-0f428c6e6f35": [
+      "Xtra Large"
+    ],
+    "877f5179-607d-4a27-8361-439e4e851504": [
+      "Circus Diablo"
+    ],
+    "8d98bc7d-f4aa-492d-8647-6de748a7236a": [
+      "PARANMAUM"
+    ],
+    "8819509e-aaff-47c8-902b-ea0ab3de9607": [
+      "Helltrout"
+    ],
+    "8a4071fd-932f-461e-87a8-e491a7544f04": [
+      "The THREE"
+    ],
+    "8b60089a-ee47-4f44-9789-999d4a753fe1": [
+      "Caught on Tape"
+    ],
+    "8da60c20-2608-4113-921d-72ffd22ef953": [
+      "Deadland Ritual"
+    ],
+    "87b35fa8-a602-4a8c-abc1-5a46fb85d8f8": [
+      "Raw Dog"
+    ],
+    "8bd05603-f169-47c1-8e34-1c3f9573f822": [
+      "A Place to Kill"
+    ],
+    "884f4e23-7f4b-4f69-ae43-37f0116ac426": [
+      "Sawao to Shiori"
+    ],
+    "8e501d77-6cd6-47e7-8479-30a18aab2050": [
+      "Indicator"
+    ],
+    "8be0cd53-7718-444f-b457-118acd01bda9": [
+      "Tidus Sloan"
+    ],
+    "8cc5122b-ca5c-4ae1-9816-18f0bee865c7": [
+      "Zuomeng",
+      "Zuo Meng"
+    ],
+    "8d289273-27fc-41d9-8978-7d469b154413": [
+      "Illiterate Hands, The"
+    ],
+    "95e1ead9-4d31-4808-a7ac-32c3614c116b": [
+      "Killers, The",
+      "ザ・キラーズ"
+    ],
+    "8f695099-c714-4ad0-8888-36eca37fee84": [
+      "Asia"
+    ],
+    "95f5b748-d370-47fe-85bd-0af2dc450bc0": [
+      "Sublime"
+    ],
+    "96c1edac-1011-4cb8-882c-27248de35071": [
+      "Cramps, The",
+      "Cramps",
+      "Cramps, the"
+    ],
+    "92046be7-0927-4835-a4ed-a90416747d53": [
+      "Cornershop",
+      "Conershop",
+      "Corner Shop -",
+      "Cornership",
+      "Corner Shop"
+    ],
+    "908d9ac2-5187-4b9e-b281-601c6afb0791": [
+      "Aimyon",
+      "아이묭",
+      "あいみょん",
+      "Aimyong"
+    ],
+    "9055fca5-69bc-4d47-b569-ab2012a19565": [
+      "Smile, The"
+    ],
+    "9478e346-7c52-4780-9555-3d1577f0b905": [
+      "Me First and the Gimme Gimmes",
+      "Me First & the Gimme Gimmes",
+      "Me First and the Gimmie Gimmes",
+      "Me First and the Gimme Gimmies",
+      "Me First and the Gimmie Gimmies",
+      "Spike and the Gimme Gimmes",
+      "Gimme Gimmees"
+    ],
+    "96ec7174-5836-4ff8-8d6a-11d90c7a5e62": [
+      "Chanmina",
+      "챤미나",
+      "乙茂内 美奈",
+      "Mina Otomonai",
+      "ちゃんみな"
+    ],
+    "923158cf-9d21-4bce-8040-41e7a497c1c9": [
+      "ELLEGARDEN",
+      "エルレガーデン"
+    ],
+    "94c66791-f6df-4623-b7d5-ac10e200db32": [
+      "Rocketman"
+    ],
+    "97e3f316-ec68-47f2-b870-bb4bd0a61f08": [
+      "Exies, The",
+      "Exies"
+    ],
+    "8f54d90b-f322-4e5d-a0fd-bdc960f2d20f": [
+      "Gastr del Sol"
+    ],
+    "948d77ca-3862-4d65-8f85-621183dcb827": [
+      "Tin Pan"
+    ],
+    "9607d222-f506-4106-8131-87a344d732ca": [
+      "Accusefive",
+      "告五人"
+    ],
+    "9714bcae-da69-4189-84a3-6e226802eddb": [
+      "Pailhead"
+    ],
+    "974d2bc7-9f6a-409b-92a0-e9b7d6d9319f": [
+      "Jacks,The"
+    ],
+    "96ec223b-7915-43c8-b5e5-a84cf366b6db": [
+      "Mu Liang Wen Wang",
+      "暮良文王"
+    ],
+    "93557aa9-1ced-421a-b026-5a0aee62fa75": [
+      "Birds of Satan, The"
+    ],
+    "94f18045-7fe2-41df-bf24-0bed21c88eb8": [
+      "One Last Wish"
+    ],
+    "9789915d-d16a-4ce8-80d3-63eda0b44e67": [
+      "Emperor"
+    ],
+    "92eea162-c19a-4437-bdcd-6d9016cd9574": [
+      "odani misako・ta-ta"
+    ],
+    "975c829a-644d-4fd0-9843-043428f4ee1e": [
+      "Axiom Funk"
+    ],
+    "90e6ab93-96d8-44ad-bcb3-53c9c781c93d": [
+      "Infrared Hologram"
+    ],
+    "92fe6bdc-465c-49ce-99f0-9070bd61ecbf": [
+      "Inawashirokos",
+      "Inawashiroko's"
+    ],
+    "950884aa-f385-4ee6-89da-ef65577dd249": [
+      "YOUNG ODEON",
+      "ヤングオデオン",
+      "ヤング・オデオン"
+    ],
+    "94ecc26c-50b4-4838-aafb-0abae8dbc7c1": [
+      "Ange Graie"
+    ],
+    "946202eb-2207-4d63-9ef3-69bb1ea4a199": [
+      "Gentlemen, The"
+    ],
+    "978a0d05-1dab-4515-be85-05b7b28c1f32": [
+      "Glenn Branca Ensemble"
+    ],
+    "95500c2d-930e-49ba-be89-3b3d875c1450": [
+      "House Band, The"
+    ],
+    "9509e36d-610f-4fe4-8009-2fbee3f55793": [
+      "Afternoon Saints"
+    ],
+    "92e33d87-52dc-4fde-adaa-61722fda620f": [
+      "Old Day, The"
+    ],
+    "9c9f1380-2516-4fc9-a3e6-f9f61941d090": [
+      "Muse",
+      "Rocket Baby Dolls",
+      "ミューズ"
+    ],
+    "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb": [
+      "Melvins",
+      "Melvins the",
+      "The Melvins",
+      "(the) Melvins"
+    ],
+    "99790314-885a-4975-8614-9c5bc890364d": [
+      "TLC",
+      "ティーエルシー",
+      "2nd Nature",
+      "TLC -",
+      "T.L.C."
+    ],
+    "9974d324-3d58-4f93-812b-41eb3ca75eed": [
+      "Change"
+    ],
+    "9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2": [
+      "Mrs. GREEN APPLE",
+      "ミセス"
+    ],
+    "9b137ab6-5987-4606-989b-183cdb2d3e50": [
+      "Mercyful Fate",
+      "Merciful Fate"
+    ],
+    "9dcffd99-eca6-4a09-8dbd-c6c4ed2f20fd": [
+      "Queen + Paul Rodgers",
+      "QPR",
+      "Q+PR",
+      "Queen & Paul Rodgers",
+      "Queen and Paul Rodgers",
+      "Queen + PR"
+    ],
+    "9e8cc0e8-8d46-4a21-8a9d-904872699e60": [
+      "Korner, Alexis’s Blues Incorporated",
+      "Blues Incorporated",
+      "Blues Inc.",
+      "Alexis Korner & Blues Inc"
+    ],
+    "9e299bee-d7e2-49f3-8cd7-d6b28ab204d1": [
+      "Atoms for Peace"
+    ],
+    "97e8fb6a-4272-46f4-8c22-e74c038195b6": [
+      "Stradlin, Izzy, and Ju Ju Hounds, the"
+    ],
+    "988b6d74-74a3-4476-8987-8eea6ca11117": [
+      "Eleven"
+    ],
+    "9e45a3c0-0e98-4217-a144-f7e17b12118b": [
+      "Miserable Faith",
+      "痛仰樂隊",
+      "痛仰"
+    ],
+    "9b6521b9-d689-4ffc-ba3e-9f61ad557d41": [
+      "John Doe Thing, The",
+      "John Doe Thing"
+    ],
+    "97e8ad87-3962-4527-bdac-d477d17e4423": [
+      "Predators, The"
+    ],
+    "9ef8ceb8-0e1f-47fa-bff4-7f80bf9bfc1a": [
+      "Violent Magic Orchestra",
+      "VMO"
+    ],
+    "9d1ad8e3-8740-429a-bdc5-52f96a9c4431": [
+      "Embrace"
+    ],
+    "9d7a4c72-2013-41ed-9a91-2cb4032cb5cc": [
+      "Steady Earnest"
+    ],
+    "9f25abf9-e316-4b1c-afcd-d3e6e7139019": [
+      "MariMari Rythmkiller Machinegun",
+      "マリマリ・リズムキラー・マシンガン"
+    ],
+    "9e47e029-e63d-48d8-a8b8-fd46cc9db1ce": [
+      "Denver Harbor"
+    ],
+    "9ee41ce7-b865-46f1-8f02-895c950b0a8a": [
+      "Deli Creeps"
+    ],
+    "9dad4a09-50dd-43a4-b9da-c0dbcc8c8030": [
+      "Deconstruction"
+    ],
+    "99fb8de2-33cc-4e82-9e88-08aeb4e1e6da": [
+      "Ibex"
+    ],
+    "989ae139-7b35-4f7b-be86-066928ccee2e": [
+      "Speed Dealer Moms"
+    ],
+    "9b1fed57-7628-4eb7-a4ef-b1d0b36d2ce2": [
+      "XYZ"
+    ],
+    "9b52f235-714b-4b76-b85b-ebc07363db7f": [
+      "Bottletop Band, The"
+    ],
+    "9f1d095a-0114-411c-8a66-dd3995e571a9": [
+      "Ailerons, The"
+    ],
+    "98e49380-9a90-43f1-a43a-f1a3104e538a": [
+      "Holez, The"
+    ],
+    "993ea29c-cb1e-4c0f-94d0-c6bd4bd23a72": [
+      "Wreckage"
+    ],
+    "99ffd73b-652d-4a11-a59d-0f33227312d5": [
+      "Relative Degree"
+    ],
+    "9a45fd78-4ffc-4cc7-88dc-7d4264bff79f": [
+      "Young, Forever"
+    ],
+    "97e8202a-5a4f-490c-b678-aabad8d8f8e2": [
+      "Lunacy"
+    ],
+    "99d74e46-7d40-4cff-8fbf-90db8132e7ba": [
+      "Hedigan's"
+    ],
+    "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432": [
+      "U2",
+      "U2 Kiwi",
+      "U2 - Until The"
+    ],
+    "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa": [
+      "Who, The",
+      "ザ・フー",
+      "Who"
+    ],
+    "a466c2a2-6517-42fb-a160-1087c3bafd9f": [
+      "Slipknot"
+    ],
+    "a3842d12-306c-498a-ae1d-03ee40e3f2ac": [
+      "Acid Black Cherry",
+      "アシッド・ブラック・チェリー",
+      "ABC"
+    ],
+    "a0ecfe6b-1035-4d0a-b8c8-c75872139151": [
+      "Ling tosite sigure",
+      "Rin toshite shigure"
+    ],
+    "a3becc83-9dab-48c6-9513-e269e1e4c49a": [
+      "yama"
+    ],
+    "a38222d9-cc8e-4c93-8832-908290666215": [
+      "cinema staff"
+    ],
+    "a0e10984-0eca-4920-a171-5fd7a62ee069": [
+      "Beady Eye"
+    ],
+    "9fdc68d1-98ac-463c-a309-181b58c74aed": [
+      "Elephant Gym",
+      "エレファントジム"
+    ],
+    "a527e4cb-64be-4960-8ef5-edb02ff7d48e": [
+      "Plant, Robert, and Strange Sensation, the",
+      "Robert Plant & The Strange Sensation"
+    ],
+    "a0ac9492-36ec-44c9-8583-5d7ff988f6c6": [
+      "Church of Misery",
+      "チャーチ・オブ・ミザリー"
+    ],
+    "a3d42269-98d7-4b1d-b004-f739cf805cc9": [
+      "New Pants",
+      "新褲子",
+      "新裤子"
+    ],
+    "9fcc463b-7cfc-4ea4-a65e-bab77fc78e9a": [
+      "Quarrymen, The",
+      "Johnny& The Moondogs",
+      "The Quarry Men",
+      "Johnny and the Moondogs"
+    ],
+    "a33ecf1b-a4ed-43e4-b6ab-26623b40cfad": [
+      "Black Light Burns"
+    ],
+    "9f88c846-7248-4fac-be8a-5d728bb95cd8": [
+      "Bank Band",
+      "バンク・バンド"
+    ],
+    "a287546f-46b7-4f59-9ea3-1b34de4e951c": [
+      "Entrance Band, The"
+    ],
+    "a3f30765-6739-49ea-8f5a-cb3d04d79cdd": [
+      "Julia Hart",
+      "줄리아 하트"
+    ],
+    "9fc6c5d5-295d-433b-a960-ef7a4469d4de": [
+      "Backbeat Band, The"
+    ],
+    "a45c61bf-3728-4ca6-a142-bfe6075e1976": [
+      "Bicycle Thief, The"
+    ],
+    "a5522774-29b6-422f-b751-19c5b7c67d06": [
+      "Gano, Gordon & The Ryans"
+    ],
+    "a3e106e0-d406-492b-929d-049ccd598f0d": [
+      "BULL ZEICHEN 88"
+    ],
+    "a46f7006-3ad0-43fe-b51c-872560488061": [
+      "Swarm's Arm",
+      "スワームス・アーム"
+    ],
+    "a4bb1de2-1ff0-454d-a42c-e846a8538343": [
+      "Casablanca"
+    ],
+    "a1ce7e78-9991-4ae9-b955-40210fbf545b": [
+      "Fire Ants, The"
+    ],
+    "a4880dcc-cdaf-4d58-8c1f-144f4492c627": [
+      "SINGER SONGER"
+    ],
+    "a3c1211b-9422-43be-a75c-5b6778e7c0b6": [
+      "Band Aid 30"
+    ],
+    "a47f322c-dde7-4ece-b6f2-b0468aff8861": [
+      "WigWam"
+    ],
+    "a3e3ba4c-07ae-42c9-ab4b-3573a2c4fa9f": [
+      "Mrs. Scabtree"
+    ],
+    "a3feea23-241b-4dfe-acc9-cea1112b65fd": [
+      "Yoko to Sawao"
+    ],
+    "a04268c7-c30f-495d-99ad-1c00f92a2c59": [
+      "The P-Funk Mob"
+    ],
+    "9f3b8a34-e506-4ca7-a383-fd51ba581b64": [
+      "Jibaku Shounen Band",
+      "Jibaku Shonen Band"
+    ],
+    "a3c9e997-5c65-4b06-95bf-e6d54f6444a7": [
+      "X SUGINAMI"
+    ],
+    "a74b1b7f-71a5-4011-9441-d0b5e4122711": [
+      "Radiohead",
+      "r/head",
+      "电台司令",
+      "レディオヘッド",
+      "Radiohead & Thom Yorke",
+      "Radio Head"
+    ],
+    "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e": [
+      "Megadeth",
+      "メガデス",
+      "Megadeath",
+      "The World Needs a Hero"
+    ],
+    "ab309b83-904f-4e2c-8d11-a0223bba51f9": [
+      "DIR EN GREY",
+      "Dir en grey",
+      "ディルアングレイ",
+      "Dir en gery",
+      "ヂル アン グレイ",
+      "Dir en Gry",
+      "Dir en gy",
+      "dir and grey",
+      "diru an gurei",
+      "Dir en erey",
+      "dir engrey",
+      "Die en Grey",
+      "ディル アン グレイ",
+      "Dir En Gray"
+    ],
+    "a70fca82-889a-4f70-98bb-39f7ec968566": [
+      "BUCK‐TICK",
+      "バクチク"
+    ],
+    "ac5af671-1df0-4312-8b7b-e61992ecc883": [
+      "Yellow Magic Orchestra",
+      "YMO",
+      "イエロー・マジック・オーケストラ",
+      "Y.M.O.",
+      "Y̶M̶O̶",
+      "イエローマジックオーケストラ"
+    ],
+    "a796b92e-c137-4895-9c89-10f900617a4f": [
+      "Destiny’s Child",
+      "デスティニーズ・チャイルド",
+      "Girl's Tyme",
+      "Girls Tyme",
+      "Destinys Child",
+      "Destiny´s Child"
+    ],
+    "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67": [
+      "twenty one pilots",
+      "twenty øne piløts",
+      "21 Pilots",
+      "twenty | one | pilots",
+      "TWENTY ØNE PILØTS"
+    ],
+    "a8fd2a44-2f72-47ea-a6ce-96e8bd7059ec": [
+      "Sodagreen",
+      "蘇打綠",
+      "苏打绿",
+      "sodagreen"
+    ],
+    "a92a55c3-5780-40ad-89c2-e62e58b2bc32": [
+      "Praxis"
+    ],
+    "a8588753-5e1b-4ac0-8030-896b70c78cf4": [
+      "Band of Joy",
+      "Robert Plant and the Band of Joy",
+      "The Band of Joy"
+    ],
+    "a5f8887e-e178-4969-ba9a-18a64156c42f": [
+      "Methods of Mayhem",
+      "Methods of Mayham"
+    ],
+    "ac200a8a-fbb0-4b0d-a592-5077feb4efb5": [
+      "21st Century Schizoid Band"
+    ],
+    "a5f70944-d149-44e2-9d20-40f75a59d1ab": [
+      "Apex Theory, The",
+      "Apex Theory"
+    ],
+    "a9d1c0f3-269f-436f-b163-41d6fd9ebf13": [
+      "Folk Crusaders, The",
+      "ザ・ズートルビー",
+      "Tokyo Folk Crusaders",
+      "The Folk Crusaders",
+      "ザ・フォーク・クルセダーズ"
+    ],
+    "acfb3235-1a9a-4e2f-a329-b9ac720b78d2": [
+      "Pancakes, The"
+    ],
+    "a58a1b9a-57ce-40ac-a9df-bb6d75e3b816": [
+      "Keihan Girl",
+      "京阪・GIRL"
+    ],
+    "a6bd68bd-bf3f-4e91-a702-b348e1b8ff70": [
+      "SONS OF ALL PUSSYS",
+      "S.O.A.P."
+    ],
+    "a9bc1e6d-3a17-4838-b608-61a9d2bfcf07": [
+      "Spencer, Jon & HITmakers, The"
+    ],
+    "a56df4c7-8ad1-497a-9634-ae1876b855e0": [
+      "Lucy"
+    ],
+    "a778a11c-04f0-40ec-a129-4f7b6e29c71c": [
+      "Wink Music Service"
+    ],
+    "a5a8bf09-1de9-46eb-a2c3-d198bc4c45f7": [
+      "SociaLybrium"
+    ],
+    "a9208290-48fe-49fb-876c-6b8a18654bc7": [
+      "No W.T.O. Combo, The",
+      "The No W.T.O Combo",
+      "The No WTO Combo",
+      "No WTO Combo"
+    ],
+    "a6ceb290-460f-4fdd-b65c-3bcd2cc88f3a": [
+      "Oh No Fiasco"
+    ],
+    "aaa673a8-af81-4140-8cb8-800406c1eace": [
+      "Bundle of Hiss"
+    ],
+    "a6d9f7f5-9b98-48c6-88c1-d2f9c91a1734": [
+      "小島"
+    ],
+    "a9423fad-c1c0-47f6-8d0f-24e260e376f9": [
+      "RADIO SOUL20"
+    ],
+    "a857f296-bef8-4809-ba28-707076a2bb38": [
+      "Halloween Jack"
+    ],
+    "aa685cb7-8314-401b-818e-92500e396d45": [
+      "Pyrrhus"
+    ],
+    "a7931ef7-7c40-4f45-ae4e-af99bc60690e": [
+      "Marshall Law"
+    ],
+    "a6226499-9075-48e8-9921-22f6b6128de9": [
+      "PERA"
+    ],
+    "a64a9e29-1d2b-4492-827b-285321244547": [
+      "Gut Bank"
+    ],
+    "ac0f79b4-3ac9-4146-ba1c-cd9ee21dd3f8": [
+      "Glacial"
+    ],
+    "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d": [
+      "Beatles, The",
+      "披头士乐队",
+      "披頭四樂團",
+      "Beatles",
+      "Beetles",
+      "披頭四樂隊",
+      "fab four",
+      "Պիթլս",
+      "ဘီးတဲလ်အဖွဲ့",
+      "द बिटल्स",
+      "ᱫᱚ ᱵᱤᱴᱞᱮᱥ",
+      "די ביטלס",
+      "Бітлз",
+      "Битлз",
+      "披头士",
+      "披頭四",
+      "The Silver Beatles",
+      "I Beatles",
+      "Die Beatles",
+      "ბითლზი",
+      "بیٹلز",
+      "เดอะบีเทิลส์",
+      "ద బీటిల్స్",
+      "பீட்டில்ஸ்",
+      "ਦ ਬੀਟਲਜ਼",
+      "Битлси",
+      "ദി ബീറ്റിൽസ്",
+      "ದಿ ಬೀಟಲ್ಸ್",
+      "Bítlarnir",
+      "द बीटल्स",
+      "더 비틀즈",
+      "הביטלס",
+      "ધ બિટલ્સ",
+      "بیتلز",
+      "দ্য বিটল্‌স",
+      "البيتلز",
+      "Los Beatles",
+      "ዘ ቢተልስ",
+      "ザ・ビートルズ",
+      "Les Beatles",
+      "The Beatles"
+    ],
+    "b071f9fa-14b0-4217-8e97-eb41da73f598": [
+      "Rolling Stones, The",
+      "Stones",
+      "The Stones",
+      "ローリング・ストーンズ",
+      "Rolling Stones"
+    ],
+    "b2d122f9-eadb-4930-a196-8f221eeb0c66": [
+      "Rammstein",
+      "Tempelprayers",
+      "ラムシュタイン",
+      "Ramstein",
+      "Rammstien",
+      "Ramms+ein"
+    ],
+    "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a": [
+      "Arctic Monkeys",
+      "The Arctic Monkeys",
+      "Artic Monkeys"
+    ],
+    "b025b720-a68c-4bd1-95fa-0ba95ed7a920": [
+      "Black, Frank and the Catholics",
+      "Frank Black & the Catholics",
+      "Franck Black & the Catholics"
+    ],
+    "ad82f8fd-206f-4b62-9a0d-f46557edb725": [
+      "White Flag"
+    ],
+    "ae6c9840-240d-4f53-a56a-b5ff3da19550": [
+      "Yura Yura Teikoku",
+      "The Wobbling Empire",
+      "Yura Yura Kingdom",
+      "Yurayurateikoku",
+      "Yurayura Teikoku",
+      "yura yura teikoku",
+      "Yura-Yura Teikoku"
+    ],
+    "affe5285-5333-426c-9ee6-aafb13c63f1c": [
+      "Zone Six"
+    ],
+    "b1d39433-6353-4e3b-8125-8716d984fb2c": [
+      "Flesh Juicer",
+      "血肉果汁機"
+    ],
+    "aff5ddd6-f315-4187-8522-25bf11a0f91e": [
+      "Ima Robot",
+      "Imarobot"
+    ],
+    "ada7ccb0-8dd8-467c-9859-abb0683884bb": [
+      "Wool"
+    ],
+    "b278ff00-d354-468e-bec5-28aa24b7b7c4": [
+      "Petit Brabancon",
+      "プチ・ブラバンソン"
+    ],
+    "aff74a2c-de0c-487d-b7fd-24caea74047d": [
+      "BEAT"
+    ],
+    "ae120209-21b3-42a9-ac08-4c7de22607eb": [
+      "millennium parade",
+      "MILLENNIUM PARADE",
+      "ꉈꀧ꒒꒒ꁄꍈꍈꀧ꒦ꉈ ꉣꅔꎡꅔꁕꁄ"
+    ],
+    "ad7cbd82-f6bb-470c-ac25-f579b077055a": [
+      "Offs, The"
+    ],
+    "af2320d6-948e-499a-8bcf-83c93e0a80fb": [
+      "DAY6 (Even of Day)"
+    ],
+    "b0614ca3-d843-4540-9383-33c4395250b1": [
+      "Schwein"
+    ],
+    "ad1358df-3f53-4683-b671-49c1e39b78a7": [
+      "Body/Head"
+    ],
+    "b06f5860-ce8f-4d8f-92ee-6c6f165ef8ef": [
+      "Silver Beatles, The",
+      "The Silver Beatles",
+      "The Beatals",
+      "The Silver Beetles"
+    ],
+    "af7ee72a-e8ed-4b93-b4aa-9ce9b4ca8c1c": [
+      "Satan on Fire"
+    ],
+    "b12602a1-77c4-4d5f-8c5e-9e4b2fa2e812": [
+      "Stiff Woodies"
+    ],
+    "b2da3820-3d19-4817-b370-0c89042ce870": [
+      "Live Lounge Allstars"
+    ],
+    "b14505cf-040f-4c3b-aa6d-5ac441821311": [
+      "Reborn‐Art Session"
+    ],
+    "b09b280d-ce04-444a-8578-d47840d6bd45": [
+      "Vicky Cryer"
+    ],
+    "af112aa8-4376-440d-8d8a-a4d2160b8742": [
+      "Wild Bunch, The"
+    ],
+    "adc32825-123a-4e1b-adb1-ffd093a26917": [
+      "PANDAS"
+    ],
+    "affba702-20a2-489d-a81e-3c8e12e32c0f": [
+      "Vicious Hatred"
+    ],
+    "b1bf128a-0806-420d-817b-e8e29e4b8262": [
+      "Gannin Arnold Project"
+    ],
+    "b239ca22-ce18-4e7c-a272-e9ca195e1026": [
+      "Throat Oyster"
+    ],
+    "b1e5a313-b558-4f9a-a0c5-87611d10c770": [
+      "Twenty Twenty"
+    ],
+    "acfdc017-9351-4853-b95a-fa59ba2d7b2d": [
+      "Silencers, The"
+    ],
+    "ae5688b9-5fe2-4f34-827e-80fe6762efa5": [
+      "Haijin Kurobarazoku",
+      "廃人黒薔薇族"
+    ],
+    "ba0d6274-db14-4ef5-b28d-657ebde1a396": [
+      "Smashing Pumpkins, The",
+      "Smashign Pumpkins",
+      "Smahing Pumpkins",
+      "The Smashing Pumpkinsgs",
+      "Smashing Pumpkins",
+      "Smashing Pumkins"
+    ],
+    "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3": [
+      "King Crimson",
+      "キング・クリムゾン",
+      "King Krimson",
+      "King Crimson, with Jon Anderso"
+    ],
+    "b7ffd2af-418f-4be2-bdd1-22f8b48613da": [
+      "Nine Inch Nails",
+      "NIN",
+      "И1И31ИCHИ41L5",
+      "ナイン・インチ・ネイルズ",
+      "N.I.N.",
+      "NineInchNails",
+      "NIИ",
+      "Nine Inch Nails Live"
+    ],
+    "b6b2bb8d-54a9-491f-9607-7b546023b433": [
+      "Pixies",
+      "The Pixies",
+      "Poxies"
+    ],
+    "ba853904-ae25-4ebb-89d6-c44cfbd71bd2": [
+      "Blur",
+      "Dan Abnormal",
+      "Albarn James Coxon Rowntree"
+    ],
+    "b539e453-c4fe-47e3-8a07-8517eac74429": [
+      "Utada, Hikaru",
+      "Utada",
+      "Hikki",
+      "Cubic U",
+      "Cubic U (Utada Hikaru)",
+      "우타다히카루",
+      "宇多田光",
+      "Hikaru Utada",
+      "Utada Hikaru",
+      "宇多田ヒカル",
+      "‰F‘½“cƒqƒJƒ‹",
+      "ヒッキー"
+    ],
+    "b3b24a1d-78b4-40c9-98ef-19fb812b067a": [
+      "Base Ball Bear"
+    ],
+    "b3d0f168-cb34-47c6-8529-fc05d1fce3ee": [
+      "Tokyo Jihen",
+      "Tokyo Incidents",
+      "東京事變",
+      "东京事变"
+    ],
+    "b58ac34f-e412-4316-8ad3-a721ce598ac3": [
+      "SIAM SHADE",
+      "シャムシェイド",
+      "シャム・シェイド",
+      "hide - SIAM SHADE",
+      "SIMA SHADE"
+    ],
+    "b858e183-b29c-493a-92bd-9474f1e6590d": [
+      "Sons of Apollo"
+    ],
+    "b9f52132-28af-4cea-9558-165cd125f9b7": [
+      "Scream"
+    ],
+    "b6cca708-1083-4bbb-8ba1-237d832088e4": [
+      "Sixx:A.M.",
+      "Sixx AM",
+      "sixxam"
+    ],
+    "b7637cdc-7413-422a-9dc3-3d71a19322ae": [
+      "Wang Wen",
+      "惘聞樂隊",
+      "惘聞",
+      "Wangwen",
+      "Wang-Wen",
+      "惘闻乐队"
+    ],
+    "b949e951-e5b8-485f-a0ff-a438a56b8578": [
+      "1976"
+    ],
+    "bb091494-8742-4ea8-b6ae-1e014510e745": [
+      "Byul.org",
+      "Byul",
+      "별"
+    ],
+    "b36d22e9-7f2c-42ff-98a6-b0e3f2cb36f5": [
+      "Ciccone Youth"
+    ],
+    "b2ff1a6d-9198-4646-b068-8965242d245b": [
+      "Rites of Spring"
+    ],
+    "b56a5b22-a559-444d-b26c-7c6c7a16dd49": [
+      "Muddy Apes"
+    ],
+    "b7e61a98-84d5-4efc-866c-7166e3daa523": [
+      "Contraband"
+    ],
+    "b4959dda-26fa-4c34-b52a-5610c913a59f": [
+      "EmptyORio"
+    ],
+    "b6aebd2e-6a59-43a6-8252-514ba90cebf3": [
+      "Harlingtox A.D."
+    ],
+    "b77165af-4249-4d8e-8f34-1ecf800a44b2": [
+      "TOSHI with T-EARTH",
+      "トシ ウィズ ティーアース"
+    ],
+    "b71a2d29-d52f-4bd3-8311-1144837509ec": [
+      "Asoto Union",
+      "아소토 유니온 (Asoto Union)",
+      "Assoto Union",
+      "아소토 유니온"
+    ],
+    "b927d6c9-9549-4c76-aa67-530bd0a127f0": [
+      "Immortals, The"
+    ],
+    "bab6ba42-16d4-4d14-9e61-eaf6b211de55": [
+      "Press Rider"
+    ],
+    "b9e9779f-f3c8-4b78-a22f-a2d2b17a1aeb": [
+      "Jokers Wild"
+    ],
+    "ba6bba0c-c9c8-47e9-ac09-f58c03fc56ff": [
+      "Glitterbust"
+    ],
+    "b9a9487b-abf6-4a95-a8fd-238cc093e99b": [
+      "Sound City Players"
+    ],
+    "bacf9116-2f48-4af4-a056-c2b49dedda03": [
+      "Beatbox 金牌一條順"
+    ],
+    "b34ca318-069e-4d0d-b939-a53e6052af2c": [
+      "Buddha Boys Choir, The"
+    ],
+    "b6d94c23-7046-477d-bbea-07bcd247e99d": [
+      "Bliss"
+    ],
+    "b8b6d7cb-3900-47f0-aba4-74ecc8443b08": [
+      "Winds of Mind",
+      "凡風樂隊"
+    ],
+    "bd13909f-1c29-4c27-a874-d4aaf27c5b1a": [
+      "Fleetwood Mac",
+      "Peter Green’s Fleetwood Mac",
+      "Mac Fleetwood",
+      "Fleetwood Mack",
+      "Flettwood Mac",
+      "Fleedwood Mac"
+    ],
+    "bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9": [
+      "Heart"
+    ],
+    "c0eee88b-47f2-4cd2-ac48-a045e902a432": [
+      "Ween"
+    ],
+    "c07f0676-9143-4217-8a9f-4c26bd636f13": [
+      "My Chemical Romance",
+      "MCR",
+      "My Chem"
+    ],
+    "c43c7134-5d6f-4bfa-8275-b4012ae97c46": [
+      "Adolescents",
+      "The Adolescents"
+    ],
+    "c3a4aeca-8f02-4d22-b1ff-693434ab09a8": [
+      "Fujii, Kaze",
+      "藤井風",
+      "Fujii Kaze"
+    ],
+    "c08ced1f-d248-4368-90e5-bf579b3bf5de": [
+      "Firm, The",
+      "Jimmy Page's Firm"
+    ],
+    "bb85b2d0-7c62-4389-8564-5eeadacd09bb": [
+      "Beat Brothers, The",
+      "Tony Sheridan & The Beat Brothers"
+    ],
+    "bc83173f-c86f-4343-b3e7-aad839a47a54": [
+      "imase",
+      "imazas",
+      "إيماسي",
+      "ইমাসে",
+      "אימסה",
+      "今瀨",
+      "이마세",
+      "イマセ"
+    ],
+    "bbcf65ec-b49a-4612-a767-c1062fba84f8": [
+      "Tweaker"
+    ],
+    "bea10050-d80f-4280-98fe-23c9d945beb0": [
+      "Weirdos, The",
+      "The Wierdos",
+      "Weirdos"
+    ],
+    "c458e9c5-6d39-4d4e-856c-8c861f707182": [
+      "Sound Fragment",
+      "聲音碎片"
+    ],
+    "c44092a6-d6be-4bfa-9650-edccc69f7a2b": [
+      "Bash & Pop"
+    ],
+    "c1fb4936-e47a-4a52-b1eb-f3f1606a1d4b": [
+      "ProjeKct X",
+      "King Crimson"
+    ],
+    "bb0df069-702b-4518-b17e-0bd64045b1be": [
+      "Action Swingers"
+    ],
+    "c11b6e14-9a78-40c3-b70c-c46e8b819637": [
+      "BE:FIRST"
+    ],
+    "c23d24ea-3a57-4902-84bc-78f6f9440b31": [
+      "Decahedron",
+      "The Black Sea"
+    ],
+    "bd39dbc4-8260-474e-830f-787dad44066c": [
+      "Kidbug"
+    ],
+    "c2b5da4f-31c2-4a02-80a1-e00008378157": [
+      "Ataxia"
+    ],
+    "bff087c0-11b4-4da3-81a0-2db10ca7cabb": [
+      "Phantasm"
+    ],
+    "c19bd467-25ec-4687-963b-a0931a41a04d": [
+      "moools"
+    ],
+    "c1babec3-803e-4601-8822-9c8a30bc9d9b": [
+      "Jazz-Iz-Christ"
+    ],
+    "bdd9619a-f369-4401-a181-7b50cf8f407f": [
+      "Error"
+    ],
+    "bf939291-e1e6-42e7-8151-7e141ee7d83d": [
+      "メガネツインズ"
+    ],
+    "bdb71ec1-1b6c-4333-89f1-5d9d1f7a9560": [
+      "Cyril Davies & His Rhythm & Blues All Stars"
+    ],
+    "bdde1640-98fc-4de3-b1e7-e6a08b5d311a": [
+      "Lucky Sperms"
+    ],
+    "c3c5f47b-0117-4bfa-ad28-ff7c8093faa2": [
+      "Human Experimente, The"
+    ],
+    "c20b7d7c-3d7b-4613-9165-3cdf824d78c6": [
+      "CRYPT CITY"
+    ],
+    "c02c0273-e363-41a4-8ae5-0d44975d56aa": [
+      "Kaibutsu Butou Dan"
+    ],
+    "bb2893c5-a502-466c-8b1e-d3745bc16412": [
+      "TROPICAL@MERRY"
+    ],
+    "bc57af6d-769b-490e-822d-94fab4afc135": [
+      "Hale & Pace and the Stonkers",
+      "Hale And Pace"
+    ],
+    "c32cb576-51b8-403c-a07d-b11740f67fd7": [
+      "CHARM"
+    ],
+    "ca891d65-d9b0-4258-89f7-e6ba29d83767": [
+      "Iron Maiden",
+      "鉄の処女",
+      "Ironmaiden",
+      "Maiden"
+    ],
+    "cc197bad-dc9c-440d-a5b5-d52ba2e14234": [
+      "Coldplay",
+      "Coolplay",
+      "콜드플레이",
+      "コールドプレイ",
+      "Cold Play",
+      "The Coldplay"
+    ],
+    "cc0b7089-c08d-4c10-b6b0-873582c17fd6": [
+      "System of a Down",
+      "システム・オブ・ア・ダウン",
+      "SOAD",
+      "Soil",
+      "System Of Down",
+      "S.O.A.D.",
+      "SoaD"
+    ],
+    "c485632c-b784-4ee9-8ea1-c5fb365681fc": [
+      "MGMT",
+      "The Management"
+    ],
+    "c48d4327-8122-4286-af66-05e1ee6ac4d8": [
+      "Mazzy Star",
+      "Mazzy Starr",
+      "Mazy Star"
+    ],
+    "cb9b28ec-799f-44d8-a0b2-2eee3e8eb5b1": [
+      "9mm Parabellum Bullet"
+    ],
+    "c65f10b6-be99-4e3a-a010-2a11fd965780": [
+      "Macaroni Empitsu",
+      "Macaroni Enpitsu"
+    ],
+    "c74f4726-2671-4011-81b6-f70da905c05a": [
+      "On a Friday",
+      "Radiohead",
+      "Shindig"
+    ],
+    "cba83330-32d6-4804-8058-fcf2794afb79": [
+      "Grey Daze"
+    ],
+    "cad9e169-893d-4432-a23f-3aa16beb9f0e": [
+      "natori",
+      "Natori",
+      "Siritoriyowai_2",
+      "@Siritoriyowai_2",
+      "Siritori Yowai",
+      "なとり"
+    ],
+    "c70c1c59-66a7-430a-b10d-02a85595a9ae": [
+      "Oaeen"
+    ],
+    "c966eaa7-5081-4a88-91bb-42651fad0232": [
+      "LAMA"
+    ],
+    "cb8b0935-af9d-4d26-8ceb-dbfeeaf75aad": [
+      "Fire Theft, The"
+    ],
+    "ca83a41c-10f4-424f-9c3b-d718c85b04f2": [
+      "Ra:IN"
+    ],
+    "c9378444-9a5a-48ec-b51b-302166ab247d": [
+      "pipiband",
+      "pippi band",
+      "pipi band",
+      "삐삐밴드"
+    ],
+    "c874b8c7-268b-491a-943b-d0e6d6907593": [
+      "Droop"
+    ],
+    "c97a50b1-e2c7-4810-99b9-061e6da522b2": [
+      "Influents, The"
+    ],
+    "cbc7ec18-cdd7-40be-8d47-9ca9047b820b": [
+      "Lion Heads"
+    ],
+    "c841766c-4611-4e59-ada9-817c30884bc9": [
+      "RAVEN"
+    ],
+    "c5902edd-de59-43cc-a93f-07ada835fe86": [
+      "Slash’s Blues Ball"
+    ],
+    "c738a64b-d643-43e3-a06b-fef2bba087ff": [
+      "Ourself Beside Me"
+    ],
+    "c67a3712-4b96-4dd0-96d7-4ceda852723a": [
+      "ToNick"
+    ],
+    "c97d6f8b-d324-44da-a130-6b2046df4153": [
+      "Details"
+    ],
+    "c5f297b2-b972-4290-9163-864f451951a4": [
+      "Lost Trees, The"
+    ],
+    "c8b2f191-0bb4-4ee5-a38f-7d3ce8564504": [
+      "Ishibashi, Eiko, Trio"
+    ],
+    "c93f9319-fb59-434f-906f-c019f27c0823": [
+      "Fart Sandwich Posse"
+    ],
+    "c6429d8a-5917-457c-b625-d97234acf59a": [
+      "Beatrazr"
+    ],
+    "c4d7f1d8-cd5f-4f94-9fb3-915fdee10dd7": [
+      "The Complex"
+    ],
+    "c85c1e4a-33c6-457c-9861-32891c1cf712": [
+      "Road Crew"
+    ],
+    "c8f02519-3344-436c-8bd2-cf61228e9b24": [
+      "The poolside"
+    ],
+    "c812ac46-a44a-4c19-8ef5-d6951056b055": [
+      "Kojima Gakutai"
+    ],
+    "cc1e1fbe-4a41-4fa5-b4fb-80b6e57857dd": [
+      "Royal Machines"
+    ],
+    "d2db1078-c170-4e22-b261-14f3ad60a690": [
+      "DEVO",
+      "Workforce to the World"
+    ],
+    "cf042013-3edd-46c4-9b0e-a62faac98d0b": [
+      "Funkadelic",
+      "Funkadellic"
+    ],
+    "d1947987-9614-49ae-bd36-8000e6b6f7d0": [
+      "Parliament",
+      "George Clinton Parliament Funkadelic",
+      "Parliament, Funkadelic & The P-Funk Allstars",
+      "Parliment"
+    ],
+    "d1c5a553-1fd0-43ca-a66a-da94c9f15570": [
+      "MAN WITH A MISSION"
+    ],
+    "d3a4e499-19cf-4676-8aff-4a326b47cdb2": [
+      "Redd Kross",
+      "Red Kross",
+      "Red Cross",
+      "Redd Cross"
+    ],
+    "d0f25f16-7782-42e8-8047-c16a1cb2b450": [
+      "Fishmans"
+    ],
+    "ceaf841a-60e9-4391-9e26-88b853cd4658": [
+      "Material"
+    ],
+    "cf97d78e-7c86-4931-92c0-b8e22bae1e33": [
+      "Pussy Galore"
+    ],
+    "cd8858ea-73c4-4c8f-8fcc-5aba0b877688": [
+      "Hitsujibungaku",
+      "Hitsuji Bungaku"
+    ],
+    "cec8cd6a-e3e6-464d-a3e1-ed4ab9953c9a": [
+      "Fenix TX",
+      "FenixTX",
+      "River Fenix",
+      "Fenix*Tx",
+      "Riverfenix"
+    ],
+    "d382bea5-76e5-4b10-9e93-2be1188d967b": [
+      "Headhunters, The",
+      "Herbie Hancock and the Headhunters",
+      "Headhunters"
+    ],
+    "ce54d048-b971-4132-a8da-2a3305a53402": [
+      "ANATAKIKOU"
+    ],
+    "cc28ca6b-353f-4b79-805d-275f4eec7ea9": [
+      "S.M.N."
+    ],
+    "cf7e57f4-d310-4a00-8bbb-6c30e2046ae8": [
+      "Walking Papers"
+    ],
+    "d2f303ba-0c62-4892-8fce-572f0a381d57": [
+      "toddle"
+    ],
+    "cd1cfb42-4b49-4f86-9518-37b1dfd1a2a8": [
+      "7 Worlds Collide"
+    ],
+    "cff696d7-d383-4654-b4a7-078e1a321842": [
+      "康士坦的變化球",
+      "KST",
+      "Constant & Change"
+    ],
+    "d372b5c2-da26-490e-afab-fe1a019b60e5": [
+      "Duo Band, The"
+    ],
+    "d1a65402-9e71-4392-ac85-9b57d05a6844": [
+      "Peligro"
+    ],
+    "d1c2c6a4-7a74-4d30-a981-7b76df525cee": [
+      "A/N【eɪ-ɛn】",
+      "A/N"
+    ],
+    "cf53fd12-9abf-4115-a099-65a9d7160c00": [
+      "Col. Parker"
+    ],
+    "d320f0cd-cc12-4bf4-b51f-c8e94fe0ca24": [
+      "Giant Robot"
+    ],
+    "d1ff333d-4636-44e5-9bec-3641b8ae38fe": [
+      "Brise-Glace"
+    ],
+    "cd836447-ce1b-48de-a512-a86d6df96676": [
+      "Million Dollar Bashers, The"
+    ],
+    "ccf6963f-c23a-4934-84b3-e2e1b89054e9": [
+      "大鬼众 GHOSTMASS",
+      "大鬼眾",
+      "Ghostmass"
+    ],
+    "d2b89c0c-89fa-42a1-b36b-59c99653fefd": [
+      "Adler"
+    ],
+    "d1624165-fab1-45c9-98f0-b1e956adc1c9": [
+      "SERAPH"
+    ],
+    "d063c9b2-155a-4545-9285-a99e4866e735": [
+      "Coattail Riders, The"
+    ],
+    "cdcfa52e-97ad-4daf-a0d0-9097ec7b05b0": [
+      "Radio Happy Willows"
+    ],
+    "cde10718-4856-43a9-8571-a2e0dfeb40bd": [
+      "THE MAD CAPSULE MARKET'S Suginami"
+    ],
+    "cf9211f1-9e49-4efe-bf96-1138e4da7d3a": [
+      "EZ-Street"
+    ],
+    "d3673660-7d9f-4bf9-b01c-a715a2e1feff": [
+      "kitsunetsuki",
+      "Kitsunetsuki"
+    ],
+    "d922d727-240a-4432-9a88-05a7cf9bc403": [
+      "Wings",
+      "Paul McCartney & the Wings",
+      "The Country Hams",
+      "The Wings",
+      "Suzy and the Red Stripes",
+      "Paul McCartney and Wings",
+      "Paul McCartney & Wings"
+    ],
+    "d84d02ad-d74c-4227-8073-6f13a039cfac": [
+      "Beyond"
+    ],
+    "d77f4539-0661-4741-9307-60ebbd72f5ee": [
+      "Tokyo Ska Paradise Orchestra",
+      "The Tokyo Ska Paradise Orchestra",
+      "TSPO",
+      "東京スカパラ",
+      "Skapara",
+      "Tokio Ska Paradise Orchestra",
+      "Ska Para",
+      "Tokyo Ska Orchestra Paradise",
+      "東京スカパラダイスオーケストラ"
+    ],
+    "d5f54887-117b-42a1-9aee-8780b84ebaba": [
+      "Noel Gallagher’s High Flying Birds",
+      "NGHFB",
+      "하이 플라잉 버즈",
+      "노엘 갤러거",
+      "노엘 갤러거스 하이 플라잉 버즈",
+      "ノエル・ギャラガーズ・ハイ・フライング・バーズ",
+      "Noel Gallager’s High Flying Birds"
+    ],
+    "d7bd0fad-2f06-4936-89ad-60c5b6ada3c1": [
+      "No Use for a Name",
+      "No Use For A Name"
+    ],
+    "d87faf16-56c5-4f31-8d92-2f0e64956de9": [
+      "eastern youth",
+      "Eastern Youth",
+      "イースタン・ユース",
+      "イースタンユース"
+    ],
+    "d6e0f166-4692-4395-86a9-5d11cc7a2899": [
+      "Won Fu",
+      "福旺",
+      "Wang Fu"
+    ],
+    "d63ff8fa-6a05-475e-b758-e23783195efd": [
+      "Sister's Barbershop"
+    ],
+    "d703af9a-d993-4f00-92aa-14ea284e39bd": [
+      "Love Spit Love"
+    ],
+    "d4fe1194-6dd2-4a5d-bdaf-b2c481e79434": [
+      "Cyco Miko"
+    ],
+    "d41885a6-14ce-4ea4-8ce7-d0b222af897e": [
+      "Skrew"
+    ],
+    "d8f99482-1a3b-45aa-b920-1c7317138f1b": [
+      "Going Steady",
+      "ゴーイング・ステディ",
+      "ゴイステ"
+    ],
+    "d4bca920-3e2a-4990-9953-5032a1be78c0": [
+      "Primitive Race"
+    ],
+    "d51ef000-95f4-49d0-8e38-e4fe5ccf32af": [
+      "Valis"
+    ],
+    "d708a7b6-0658-43de-993e-092077955680": [
+      "Gaddabouts, The"
+    ],
+    "d8da300b-4961-47a4-bdb5-f2795bf28b0c": [
+      "Gonervill"
+    ],
+    "d471b090-3866-4cf3-b8a0-476e11f30a58": [
+      "Coriky"
+    ],
+    "d5a16c6d-49d7-4f48-ac5f-6c312f966947": [
+      "Chino Horde"
+    ],
+    "d45cb0dc-b795-4fb1-aec0-a469ae2f317b": [
+      "Devils, The"
+    ],
+    "d5d0a571-5b0f-4476-aff1-66404bf71bef": [
+      "Jomoro"
+    ],
+    "d48c3c04-3bd9-41af-82c7-ccc223b790f2": [
+      "yousei tachi"
+    ],
+    "d70c6faa-9fb7-470f-8250-c36f05a76d6b": [
+      "1984"
+    ],
+    "d55947fc-5f1a-40f6-ac24-7b3d0679ccf4": [
+      "銀杏BOYZと壊れたバイブレーターズ"
+    ],
+    "d8160c1a-bca5-41b4-8e33-30a71abd017c": [
+      "Midwest Vikings, The"
+    ],
+    "d57a2466-c489-44ff-872f-ad01f8e41056": [
+      "Puzzled Panthers"
+    ],
+    "d5a00516-3dc3-4001-824a-970b55651921": [
+      "Fractured Mirror"
+    ],
+    "d5802e4a-fcce-404e-96c2-48f68322f9d8": [
+      "Like-an-Angel"
+    ],
+    "d4123128-b8a7-4b1d-8ae9-2943ed867c8c": [
+      "Levee Walkers"
+    ],
+    "d4bac396-867c-431d-8cec-ef508eee0204": [
+      "Dee Gees"
+    ],
+    "d74acfab-2aea-48ae-9cc2-c0b11e83aacf": [
+      "KA.F.KA"
+    ],
+    "d407f94c-b369-4234-8356-c8eef68e3eb4": [
+      "Dementia"
+    ],
+    "d7eceba8-e45b-4b3a-b243-2d6cbf8b3b7b": [
+      "Gothic Plague"
+    ],
+    "db855eff-9d28-4bd7-ab2c-7301495b4669": [
+      "Alfee, The",
+      "アルフィー",
+      "THE ALFEE",
+      "Alfie",
+      "ALFEE"
+    ],
+    "dc0d05ce-2f47-4962-b4fa-8631a0a51987": [
+      "Replacements, The",
+      "Replacements"
+    ],
+    "d9c90718-d54d-4ccf-a92e-37a5415ce299": [
+      "Wallflowers, The",
+      "ザ・ウォールフラワーズ",
+      "the wall flawers",
+      "Wallflowers"
+    ],
+    "dd5c73d5-53df-4be1-8290-a5d2082159b1": [
+      "Red Krayola, The",
+      "Red Crayola",
+      "The Red Crayola"
+    ],
+    "da1b555e-946c-4e5f-bfe3-dedd6102cdd2": [
+      "ORIGINAL LOVE",
+      "オリジナル・ラヴ",
+      "オリジナルラブ"
+    ],
+    "dea836e0-66dd-4285-9cab-2272bcda93b8": [
+      "FTISLAND",
+      "에프티 아일랜드 (F.T. Island)",
+      "에프티 아일랜드",
+      "FT 아일랜드",
+      "F.T. Island"
+    ],
+    "d9dbfe6a-8346-4337-8614-fe96aab63927": [
+      "SEKAI NO OWARI",
+      "SekaOwa",
+      "世界の終わり",
+      "End of the World"
+    ],
+    "ddf79a7f-1343-462c-8298-c501bf203688": [
+      "Black Panther",
+      "Чёрная пантера",
+      "黑豹",
+      "Black Leopard",
+      "黒豹",
+      "Hei Bao"
+    ],
+    "dd4ccf5c-f30d-4f94-b718-3a519699b99b": [
+      "band apart, the"
+    ],
+    "df3671ea-bbbd-4213-9542-0e6740ac9d0b": [
+      "SCHAFT"
+    ],
+    "dafcf61a-b256-406e-b5fa-b2e4d3c89e22": [
+      "VOLA & THE ORIENTAL MACHINE",
+      "ヴォラ・アンド・ジ・オリエンタル・マシーン"
+    ],
+    "dd602e6c-f4d3-4c16-8398-1b137bed8512": [
+      "Longshot, The"
+    ],
+    "de74e49a-d4f0-4551-ab8b-62b291e132bb": [
+      "Storm, Rory and Hurricanes, The",
+      "Rory Storm & the Hurricanes"
+    ],
+    "de69798a-4d18-40e5-889e-f26580a2d62a": [
+      "Perfect"
+    ],
+    "dda55cb5-21b1-4450-bb21-d5b0ad35b6a2": [
+      "Rock Star Supernova",
+      "Rockstar Supernova"
+    ],
+    "dc436953-1dc3-437d-9656-da401a0e9134": [
+      "Fishmans+"
+    ],
+    "da677331-37f7-40b8-b5c2-793ff0d856f7": [
+      "Original Silence"
+    ],
+    "db24e1fc-110a-4f7f-af04-1c6349fa68b9": [
+      "ChocoCream Rolls",
+      "쵸코크림롤스"
+    ],
+    "da85b991-7a08-410d-8e5e-86504b175feb": [
+      "Kafka’s Ibiki",
+      "カフカ鼾"
+    ],
+    "db0e5c06-c091-46d4-bd42-5ba2ee299123": [
+      "Deathfix"
+    ],
+    "dbb4448c-e71e-4cdb-b072-8ff374a95dac": [
+      "Kurt Hoffman's Band of Weeds"
+    ],
+    "dce02d78-ec77-416a-ac25-50dfc045fc7c": [
+      "Justice Collective, The",
+      "Justice Tonight"
+    ],
+    "ddd38b5d-b85b-4e3b-9fbc-093c4ced9cbf": [
+      "Sean Dowdell And His Friends?"
+    ],
+    "d9bb7ca8-3411-4732-8237-a40cc0cd8cbe": [
+      "Special Assembly, The"
+    ],
+    "dcff5ed6-17c3-4dee-8e47-0b0f9ca19d36": [
+      "Chevy Metal"
+    ],
+    "d9dbcb5e-d167-470f-a0f2-657c79bb364f": [
+      "BOØWY Suginami"
+    ],
+    "dea553aa-cd46-4054-8f5b-3c3d473a8cbb": [
+      "GAK"
+    ],
+    "ddb71592-108d-4e21-9077-d96e11d86572": [
+      "The Senators"
+    ],
+    "dc5caa1a-2be6-4104-a34e-fab24dcd4abe": [
+      "The Atoms"
+    ],
+    "dd39c0c6-454e-4000-99b3-d53eedcee641": [
+      "The New Original Sonic Sound"
+    ],
+    "da1fdd02-2173-4c3d-9a1b-50a514439864": [
+      "Ramblers, The"
+    ],
+    "d99d03db-ebd1-4e03-a7b9-f532115faf0d": [
+      "Latter Revelation Company Singers"
+    ],
+    "e5db18cb-4b1f-496d-a308-548b611090d3": [
+      "Sex Pistols",
+      "The Sex Pistols",
+      "'Original' Sex Pistols",
+      "The Original Pistols"
+    ],
+    "e21857d5-3256-4547-afb3-4b6ded592596": [
+      "Gorillaz",
+      "ゴリラズ",
+      "Gorilaz",
+      "Gorrilaz"
+    ],
+    "e3434cc7-d348-491a-9dc8-325af3d9086d": [
+      "Jane’s Addiction",
+      "Janes Addiction",
+      "Jane' s Addiction"
+    ],
+    "e134b52f-2e9e-4734-9bc3-bea9648d1fa1": [
+      "Ado"
+    ],
+    "e675295a-1efe-4247-aa3b-53b78d0cdffc": [
+      "Mudhoney"
+    ],
+    "df765d93-621c-437f-99fe-fda9e135f89a": [
+      "Cornelius",
+      "hide - CORNELIUS",
+      "コーネリアス"
+    ],
+    "e5e045da-59a3-4b65-8bb4-3c7f3ac9a529": [
+      "Creepy Nuts",
+      "Creepy Nuts (R指定 & DJ松永)",
+      "Creepy Nuts (R-Shitei&DJ Matsunaga)"
+    ],
+    "e472c434-9eb9-41d3-b493-0d2f115faed2": [
+      "Reverend and the Makers",
+      "Reverend & the Makers Heavyweight",
+      "Reverand & the Makers"
+    ],
+    "dfc6a151-3792-4695-8fda-f64723eaa788": [
+      "Yorushika",
+      "YORUSHIKA",
+      "ヨルシカ"
+    ],
+    "e1564e98-978b-4947-8698-f6fd6f8b0181": [
+      "Fort Minor"
+    ],
+    "e156615d-3ddd-4491-9584-4b9d971472c4": [
+      "NELL",
+      "넬"
+    ],
+    "df6c619f-4334-43e2-8b6a-4a32af1e4f85": [
+      "YOASOBI",
+      "YOASOBI バンド"
+    ],
+    "e4d403dd-2f83-4642-a929-02676a2a944c": [
+      "syrup16g",
+      "Syrup 16g",
+      "シロップ１６グラム",
+      "シロップじゅうろくグラム",
+      "シロップ１６ｇ"
+    ],
+    "dfccbd1d-0584-4ba2-84ba-701ce838cfcf": [
+      "Joyside"
+    ],
+    "e49f6e64-12db-4879-8e66-6bcc614f61d0": [
+      "Second Hand Rose",
+      "ershou meigui",
+      "Second-Hand Rose"
+    ],
+    "e3bcef9d-c2cd-44cb-a4ef-6c58914b886d": [
+      "12 Rounds",
+      "Twelve Rounds"
+    ],
+    "dfcf7b21-6f1d-417d-ac23-91e62aeea14a": [
+      "May, Brian, The, Band"
+    ],
+    "df5281ca-c479-4b16-acc3-1b1a15f34501": [
+      "Mimir"
+    ],
+    "dfd81ae0-8a7b-4a15-b837-15de1d6da868": [
+      "13.13"
+    ],
+    "e4eab1d9-2af5-43bf-9b3e-2db132c964b7": [
+      "pupa"
+    ],
+    "e4212f64-f16a-4aa8-b575-757eb9ae0715": [
+      "Sadistics"
+    ],
+    "e3dc948c-4972-40d5-a038-92749905d2ae": [
+      "Wolfmanhattan Project"
+    ],
+    "e423d2df-ad70-4c7a-9803-5b2843457ca6": [
+      "Aleka's Attic"
+    ],
+    "e10a7d73-546b-4961-8390-2a9171beaa7a": [
+      "FZMZ",
+      "ファゾムズ",
+      "Fazomuzu"
+    ],
+    "e0b5eec2-1f43-48d5-8f5f-4ff5765741cc": [
+      "Spastik Children"
+    ],
+    "e5c9b9b3-9629-43c4-9f05-19e02b8deba1": [
+      "Los Unidades"
+    ],
+    "e146114e-325a-4d79-923a-ff899c7e3feb": [
+      "Crover, Dale Band"
+    ],
+    "e114e00e-22c4-40bf-ae46-88514a6bb032": [
+      "LAST ROCKSTARS, THE"
+    ],
+    "e33c71f3-7de9-4daf-9615-2f117e7dff16": [
+      "Storm of Void"
+    ],
+    "e4a17ddd-794a-46aa-9f20-f8abe0db8a98": [
+      "Rat Pack"
+    ],
+    "e157f2ea-922c-49b2-997d-f403eabaa835": [
+      "End, The"
+    ],
+    "e565d961-c4c8-47d0-b3c1-4825952600db": [
+      "Act, The",
+      "The Akt"
+    ],
+    "e69c8ccb-25b1-4c4a-89c6-8fdad1172951": [
+      "pillows, the",
+      "The Pillows",
+      "ザ・ピロウズ"
+    ],
+    "e7ab70fc-ae7b-4321-a9d1-4c2e9440e0f5": [
+      "LUNA SEA",
+      "ルナシー",
+      "ルナ シー",
+      "LUNACY"
+    ],
+    "ea746640-7a3a-40cd-9681-d71d83b31d49": [
+      "Tat Ming Pair",
+      "达明一派"
+    ],
+    "e73ed332-bbde-4d69-87a9-250627ae0e29": [
+      "Mayday",
+      "¤­¤ë¤Ñ",
+      "五月天乐团",
+      "¤¤ë¤Ñ",
+      "Wu Yue Tian",
+      "五月天樂團",
+      "五月天"
+    ],
+    "e9e2a634-984f-4c10-bf7b-7970179e1ef1": [
+      "Suicidal Tendencies",
+      "Cyco Nation",
+      "Suicidal Tendancies",
+      "Sucidal Tendencies",
+      "ST",
+      "S.T.",
+      "Suicidal"
+    ],
+    "ec4ed3f8-f36b-4042-bc74-04e31f6e150e": [
+      "Birthday, The",
+      "Ｔｈｅ Ｂｉｒｔｈｄａｙ"
+    ],
+    "e935d070-004d-405a-8b9d-1d9e51590b55": [
+      "Dead Daisies, The"
+    ],
+    "e6a1e19c-1a24-476f-af69-6308cd33cddf": [
+      "Janne Da Arc",
+      "Janne Da Ark",
+      "ジャンヌ・ダルク",
+      "ジャンヌダルク",
+      "Jeanne d'Arc",
+      "JanneDaArc"
+    ],
+    "ea6185ea-0138-4b8c-a81a-e8fb90d7c680": [
+      "my little airport"
+    ],
+    "eaaa4d91-a43c-4ab2-82bb-4d740daff201": [
+      "Dear Jane"
+    ],
+    "e6da0f1b-090e-42c8-9666-69ce8af84548": [
+      "hide with Spread Beaver",
+      "Spread Beaver"
+    ],
+    "ebb4513e-4aab-4ac9-a949-14e77bb7b836": [
+      "ano",
+      "あの"
+    ],
+    "ead227f6-7689-46b6-9fd2-3f6a37acbdc1": [
+      "Soutaisei Riron",
+      "Sōtaisei Riron",
+      "Soutaiseiriron"
+    ],
+    "ecb6ad66-0b12-405c-803c-e5bcc83e77df": [
+      "Teenage Jesus and the Jerks",
+      "Teenage Jesus & the Jerks"
+    ],
+    "e8bff2b6-25e0-4e58-a8bf-9c48ce993cd0": [
+      "Kid Dakota"
+    ],
+    "ea1b05cd-3d66-4760-89ea-d339227f67fd": [
+      "Tang Dynasty",
+      "唐朝",
+      "Tang Chao"
+    ],
+    "e89e325e-ae11-4c2a-86a8-3e9a967ffda3": [
+      "Black Queen, The"
+    ],
+    "e6e16ae8-4867-49f4-a877-30ade1ba58cd": [
+      "WAEVE, The"
+    ],
+    "e6d8c1dd-e7bc-4e44-87ad-66aa2d3e6580": [
+      "Wylde Ratttz",
+      "Wylde Rattz",
+      "The Wilde Rattz"
+    ],
+    "e8b2f9f2-f5fd-4a24-aaa4-d9bebf8675e7": [
+      "Chelsea Light Moving"
+    ],
+    "eba81e97-2c61-4638-9562-8804c98f560e": [
+      "YOKOSUKA SAVER TIGER",
+      "Saver Tiger",
+      "Saber Tiger",
+      "Yokosuka Saver Tiger"
+    ],
+    "eb952463-8a4b-4475-8a73-cb31f755d3e6": [
+      "Anthym"
+    ],
+    "e9886313-dfe4-4bbd-bc6d-6e978eeb2e34": [
+      "DECAYS"
+    ],
+    "e6dedb88-8103-450a-a667-a0756d7cb568": [
+      "Bluescreen"
+    ],
+    "e88c64dc-e8f7-4da9-9f53-4854a8b240c9": [
+      "Gitaiya"
+    ],
+    "e7973631-58b2-44ee-be0b-9fe1a8fd7ffa": [
+      "Iron Kite",
+      "鐵風箏"
+    ],
+    "ec7cec28-f54f-45d2-9f98-4392de434a15": [
+      "Boo, The"
+    ],
+    "e7bdf685-143c-43c2-adc8-8b9583395528": [
+      "Quisp"
+    ],
+    "ec73c56b-f4a9-4fe3-a830-369464f62a2b": [
+      "Judas"
+    ],
+    "eba6158a-aa17-470e-bb33-e69ff2c83043": [
+      "Ka・za・ri",
+      "Ka-za-ri"
+    ],
+    "e7b83eb6-d0bc-4966-82db-eb1c1872352c": [
+      "Eddie Vedder and the Earthlings"
+    ],
+    "eb2a8edc-5670-4896-82be-87db38de9583": [
+      "Bad Seeds, The"
+    ],
+    "eeb1195b-f213-4ce1-b28c-8565211f8e43": [
+      "Guns N’ Roses",
+      "ガンズ・アンド・ローゼズ",
+      "Guns and Roses",
+      "Guns -N- Roses",
+      "guns 'n' roses",
+      "Guns'N Roses",
+      "Guns'N'Roses",
+      "GNR",
+      "Guns´n Roses",
+      "Gn'R",
+      "Guns 'N Roses",
+      "Guns N'Roses",
+      "Guns N´ Roses",
+      "Guns N Roses",
+      "Guns & Roses",
+      "Guns 'N' Roses"
+    ],
+    "f319b57a-a494-40f6-a467-3d196d3484e6": [
+      "Sparks",
+      "The Sparks",
+      "Halfnelson"
+    ],
+    "f181961b-20f7-459e-89de-920ef03c7ed0": [
+      "Strokes, The",
+      "ザ・ストロークス"
+    ],
+    "ee94b47c-db73-4135-b3d6-deced74b94ba": [
+      "Straightener",
+      "ストレイテナー"
+    ],
+    "ed498651-bb21-4bbc-8d56-b743ad7c1a3e": [
+      "GRAPEVINE"
+    ],
+    "ef6e2e49-aa93-41bd-89b0-8c7d2f260a83": [
+      "Lostprophets",
+      "Lost Prophets",
+      "The Lost Prophets",
+      "The Lostprophets"
+    ],
+    "eeee01ef-15b6-4741-9f42-9477c9ee0804": [
+      "coldrain",
+      "cold rain"
+    ],
+    "ef0413e8-9a3b-4cba-8496-774781cf03bd": [
+      "People In The Box"
+    ],
+    "f2bec217-8b84-42d4-9395-1421f1fa8a51": [
+      "downy"
+    ],
+    "f03600eb-88b2-4cbc-858f-20535f03ca0c": [
+      "Starr, Ringo & His All Starr Band"
+    ],
+    "f012c04d-96ca-47dd-9359-3bb11fed88b5": [
+      "DYS"
+    ],
+    "ecc5c994-d417-4e94-8a80-8079d9a2c3b9": [
+      "Stars, The"
+    ],
+    "ed7af7a0-88ba-4779-b20a-6a53129711e6": [
+      "Asai Kenichi & The Interchange Kills",
+      "Kenichi Asai & THE INTERCHANGE KILLS"
+    ],
+    "f1d76370-e559-4f26-81c7-8652733352e6": [
+      "Shēngyīn wánjù",
+      "聲音玩具",
+      "Soundtoy"
+    ],
+    "ecb6b31e-b37d-4d4e-92c5-535650bfac1e": [
+      "Low Pop Suicide",
+      "Low Pep Suicide"
+    ],
+    "ee361394-914f-4074-891a-3b17b0f89a37": [
+      "Y Kant Tori Read"
+    ],
+    "edb1beeb-f780-4e56-bc82-8499ca7e3e3e": [
+      "Mico de Noche",
+      "MdN"
+    ],
+    "ef6acfcb-2c12-419d-bfcf-4ffaac9f3e8d": [
+      "nearLY"
+    ],
+    "f319b299-2d27-4b47-af56-a5747d7ac0f3": [
+      "Filthy Friends"
+    ],
+    "eed019ae-c8b6-4b4f-9675-1e7d1e6cc2d3": [
+      "Replicants"
+    ],
+    "f28fabab-7535-417c-a89e-9df4287ffe29": [
+      "Mass Mental?"
+    ],
+    "ed13185d-a540-4ab4-ab04-0033c1e0d1b0": [
+      "Crydajam"
+    ],
+    "f108a041-0581-4387-b741-3867c38c1e35": [
+      "Nine Inch Noize"
+    ],
+    "ee3c259e-1a6f-43ed-a5a8-9e4c6a819e5b": [
+      "Blackbird Angels"
+    ],
+    "f2b32ea0-8983-4b30-b706-5840ad083350": [
+      "Amboog-a-Lard",
+      "Amboogalard"
+    ],
+    "ef767a5a-cbb1-420f-822c-4a3308e730ac": [
+      "Discipline"
+    ],
+    "f0de449f-265e-4236-8ca2-4c7182fd6451": [
+      "Sawao to Kenji"
+    ],
+    "ecc014f3-cee3-44e8-9c16-f7d23139754b": [
+      "Parlour Flames"
+    ],
+    "f1c8cfff-d0d1-434e-85d8-712773943bc6": [
+      "Numbskulz"
+    ],
+    "f047d705-0445-4c0c-995a-199124430ee7": [
+      "Korn Suginami",
+      "Korn suginAmi"
+    ],
+    "f25910c3-e986-406e-8b00-82ed581fcee5": [
+      "Sour Milk Sea"
+    ],
+    "f1a5d50b-59e2-4e11-8b5a-c190d61af791": [
+      "Supergroup B"
+    ],
+    "f59c5520-5f46-4d2c-b2c4-822eabf53419": [
+      "Linkin Park",
+      "Lincoln Park",
+      "聯合公園",
+      "Xero",
+      "Limkin Park",
+      "Hybrid Theory"
+    ],
+    "f4857fb9-e255-4dc6-bd01-e4ca7cc68544": [
+      "Jamiroquai",
+      "Jamiroqui"
+    ],
+    "f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a": [
+      "Killing Joke"
+    ],
+    "f54fc7c3-3a40-4f26-83cf-328d9b097e93": [
+      "Vandals, The",
+      "Vandals"
+    ],
+    "f35bfbe2-d30e-402c-9ac1-fa5f90b72ec2": [
+      "back number",
+      "バックナンバー"
+    ],
+    "f7b3c394-3654-4bde-baea-32804f87fe24": [
+      "Pinhead Gunpowder"
+    ],
+    "f5cbdc58-8664-4c42-85d1-fdf672346236": [
+      "at17",
+      "at 17"
+    ],
+    "f6c979f4-bbad-43d3-95f6-9255a189f688": [
+      "METAFIVE"
+    ],
+    "f7f66942-6841-4506-bdae-3acc866d6b41": [
+      "Hollywood Rose"
+    ],
+    "f82ac8f9-5390-4123-87f8-7c8fb10649b2": [
+      "Exotic Birds"
+    ],
+    "f5379e96-4ab6-4d37-a68f-280779e715c1": [
+      "Rayflower"
+    ],
+    "f530f536-e877-49de-b0d2-baad9984df5b": [
+      "Dot Hacker"
+    ],
+    "f7f024fc-1b17-4a1c-b70c-7c783ec09500": [
+      "Pete Best Band, The"
+    ],
+    "f77e4438-2602-4587-b4f1-32baaab1e146": [
+      "SOKABE KEIICHI BAND"
+    ],
+    "f3bf94d3-8cff-4d43-a5c4-e34da969148d": [
+      "Seven Hours After Violet"
+    ],
+    "f6d0eb56-ece2-47fe-9716-81fc6c1ddea5": [
+      "Gorgone"
+    ],
+    "f4fccee7-b634-45ea-8cc9-85386aab69b6": [
+      "Xero"
+    ],
+    "f38d2f08-1e5d-49df-8d95-06c70e468ad0": [
+      "JESUS FEVER"
+    ],
+    "f35abb3a-6eb9-46d7-aaa9-d06b321f64dd": [
+      "Fear of Blue"
+    ],
+    "f37c738e-a2dc-45ce-8a7c-385fd1535d03": [
+      "Diskaholics Anonymous Trio"
+    ],
+    "f84963fa-d168-4700-abe0-7f3a9657bde4": [
+      "Raw Power"
+    ],
+    "f700bde4-494d-46df-aa6a-acd89c933de9": [
+      "North American Hallowe’en Prevention Initiative"
+    ],
+    "f89758be-c7e4-4e90-9bf5-19ca09201d84": [
+      "Killmatriarch"
+    ],
+    "f80bf66a-c771-48ef-b1d3-ed76c433675a": [
+      "Ronnie Wood Band, The"
+    ],
+    "f71e4aaf-b1dd-4f58-a8e8-3be0ba9fd1fb": [
+      "Tin Zik Tong"
+    ],
+    "f34d9248-3e5d-4d45-afef-65bdad8b6548": [
+      "CRYSTAL WARS",
+      "クリスタルウォーズ",
+      "Crystal Wars"
+    ],
+    "f5a1fd0c-72ad-4264-b0e1-f366d192051d": [
+      "FANTA"
+    ],
+    "f7624f1a-597c-4659-a691-5607e85a9dfd": [
+      "World-Wide-Funkdrive"
+    ],
+    "f65e4a6a-e2d7-422e-915b-2f0aaf77f830": [
+      "Flea and the Honora Band"
+    ],
+    "f5a061bf-f2a1-40dd-8edc-ca81069737f2": [
+      "Minibus Pimps"
+    ],
+    "f641e0f4-3fa3-469d-a088-46dbd299b23d": [
+      "L.A.M.F."
+    ],
+    "f407a25b-7341-4411-bd73-ab73e4c2536d": [
+      "Zavalaz"
+    ],
+    "ffe02aed-ef7e-4736-a186-c2f1dd55ce8d": [
+      "MONO",
+      "モノ"
+    ],
+    "f962dc1e-f93a-4d61-892d-2c8042b29daf": [
+      "ACIDMAN",
+      "アシッドマン"
+    ],
+    "f9f9f6a1-693b-43da-bbeb-70395bb0a66a": [
+      "Suiyoubi no Campanella",
+      "WEDNESDAY CAMPANELLA",
+      "Wednesday Campanella",
+      "Suiyōbi no Campanella"
+    ],
+    "fb01635c-51fc-4cad-b71f-62e18bb3433b": [
+      "Maximum the Hormone",
+      "マキシマムザホルモン",
+      "MTH",
+      "マキシマム ザ ホルモン"
+    ],
+    "fb4eebc8-dc88-4770-84b2-462544cb33b9": [
+      "N.Flying",
+      "エヌフライング",
+      "엔플라잉",
+      "NFlying",
+      "N Flying"
+    ],
+    "fe4a653a-dc81-4422-b3f0-60ecb9107eeb": [
+      "Ultraísta"
+    ],
+    "fb57da84-d2fd-415e-84fa-2d47b6d0423b": [
+      "ZI:KILL",
+      "ジキル"
+    ],
+    "faa718bc-dac3-4f55-99c5-2db829f73a3d": [
+      "andymori"
+    ],
+    "f9e6a7f7-7aee-45e1-a005-83c7ddf4db81": [
+      "Matsumoto, Tak, Group",
+      "TMG"
+    ],
+    "fe2385a7-5dda-4e67-845b-f09783805b44": [
+      "gibkiy gibkiy gibkiy"
+    ],
+    "fb77e34b-7d42-4d98-b4ab-2ae844fd28ad": [
+      "neil & iraiza",
+      "Neil and Iraiza"
+    ],
+    "faf397af-1ab2-44a2-86a5-6f88da701a4a": [
+      "Electric Wave Bureau"
+    ],
+    "fa2a83c8-9ab1-4c53-a260-81207c4dd863": [
+      "Tourbillon",
+      "トゥールビヨン"
+    ],
+    "fb465d6f-b6e6-4775-826a-cbc63f8aa11a": [
+      "929樂團"
+    ],
+    "ff3b0cc2-70e6-4952-b511-5e628a825242": [
+      "Yakushimaru, Etsuko Metro Orchestra",
+      "Etsuko Yakushimaru Metro Orchestra"
+    ],
+    "ff183c62-ccb9-4fc1-ac62-f8a81251ffc0": [
+      "agehasprings"
+    ],
+    "ff5fb485-789c-4e1b-a240-5df690edef14": [
+      "Text of Light"
+    ],
+    "f8b15f1b-b01b-46d6-9816-a2602c6c7f26": [
+      "Mirror/Dash"
+    ],
+    "ff976f7c-8e1b-4cde-a047-67c0f07bded5": [
+      "Dutchman"
+    ],
+    "fe89039d-2167-453e-8e03-b2ab5656b84b": [
+      "Pete Best Four, The",
+      "The Pete Best Four"
+    ],
+    "fdd015b7-8d2f-4835-bcf5-7e3f3b66a178": [
+      "POWER GERMANYS"
+    ],
+    "fe6bd6fb-dcc3-4091-b97d-8b0097702bd2": [
+      "Singing Rebels’ Band, The",
+      "The Singing Rebels’ Band",
+      "The Singing Rebel’s Band",
+      "The Singing Rebels Band"
+    ],
+    "faa80f3b-a095-48ba-8164-2de70a71bde2": [
+      "Stripsearch"
+    ],
+    "fc0ae50e-c51a-49fe-9e1f-171094b9135c": [
+      "FT2K'S"
+    ],
+    "fc49ba68-81ff-4450-8142-ce2b897a5b37": [
+      "M・A・S・S"
+    ]
+  }
+}

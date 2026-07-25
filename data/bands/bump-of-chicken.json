@@ -1,0 +1,190 @@
+{
+  "id": "bump-of-chicken",
+  "mbid": "0f718079-e5ea-4cfb-b512-b2d04da66901",
+  "name": "BUMP OF CHICKEN",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1994–",
+  "genres": [
+    "另类摇滚",
+    "独立摇滚",
+    "流行搖滾"
+  ],
+  "albums": [
+    {
+      "title": "FLAME VEIN",
+      "year": 1999
+    },
+    {
+      "title": "THE LIVING DEAD",
+      "year": 2000
+    },
+    {
+      "title": "jupiter",
+      "year": 2002
+    },
+    {
+      "title": "ユグドラシル",
+      "year": 2004
+    },
+    {
+      "title": "orbital period",
+      "year": 2007
+    },
+    {
+      "title": "COSMONAUT",
+      "year": 2010
+    }
+  ],
+  "intro": "BUMP OF CHICKEN是日本摇滚乐队，简称バンプ、BUMP、BOC、棒棒鸡，于1994年组成，1999年在主流歌坛出道。所属唱片公司为TOY'S FACTORY，事务所为LONGFELLOW。",
+  "introLang": "zh",
+  "tracks": [
+    "HAPPY (BUMP OF CHICKEN單曲)",
+    "アルエ",
+    "天體觀測",
+    "花之名",
+    "零"
+  ],
+  "trackSources": [
+    {
+      "title": "HAPPY (BUMP OF CHICKEN單曲)"
+    },
+    {
+      "title": "アルエ"
+    },
+    {
+      "title": "天體觀測"
+    },
+    {
+      "title": "花之名"
+    },
+    {
+      "title": "零"
+    }
+  ],
+  "listens": 85361,
+  "listeners": 2566,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0f718079-e5ea-4cfb-b512-b2d04da66901"
+  },
+  "edges": [
+    {
+      "to": "back-number",
+      "toName": "back number",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "lisa",
+      "toName": "LiSA",
+      "toArea": "日本",
+      "toYears": "1987–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "mrs-green-apple",
+      "toName": "Mrs. GREEN APPLE",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ヨルシカ",
+      "toName": "ヨルシカ",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "羊文学",
+      "toName": "羊文学",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "yama",
+      "toName": "yama",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "新しい学校のリーダーズ",
+      "toName": "新しい学校のリーダーズ",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "なとり",
+      "toName": "なとり",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

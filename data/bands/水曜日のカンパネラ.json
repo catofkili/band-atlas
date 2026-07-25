@@ -1,0 +1,143 @@
+{
+  "id": "水曜日のカンパネラ",
+  "mbid": "f9f9f6a1-693b-43da-bbeb-70395bb0a66a",
+  "name": "水曜日のカンパネラ",
+  "artistType": "Group",
+  "area": "涩谷",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2012–",
+  "genres": [
+    "日本流行音乐",
+    "流行音乐",
+    "流行舞曲",
+    "电子音乐",
+    "独立流行",
+    "電子音樂",
+    "日本流行音樂",
+    "電子舞曲"
+  ],
+  "albums": [
+    {
+      "title": "ジパング",
+      "year": 2015,
+      "kind": "Album"
+    },
+    {
+      "title": "ジパング Instrumental",
+      "year": 2015,
+      "kind": "Album"
+    },
+    {
+      "title": "SUPERMAN",
+      "year": 2017,
+      "kind": "Album"
+    }
+  ],
+  "intro": "星期三的康帕内拉是一组2012年成立的日本音乐团体，作品风格多为嘻哈、J-pop、电音。初期成员分别为KOM_I、釼持英郁、Dir.",
+  "introLang": "zh",
+  "tracks": [
+    "アリス/バッキンガム",
+    "エジソン",
+    "ウォーアイニー"
+  ],
+  "trackSources": [
+    {
+      "title": "アリス/バッキンガム"
+    },
+    {
+      "title": "エジソン"
+    },
+    {
+      "title": "ウォーアイニー"
+    }
+  ],
+  "listens": 59281,
+  "listeners": 1551,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f9f9f6a1-693b-43da-bbeb-70395bb0a66a"
+  },
+  "edges": [
+    {
+      "to": "sekai-no-owari",
+      "toName": "SEKAI NO OWARI",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "宇多田ヒカル",
+      "toName": "宇多田ヒカル",
+      "toArea": "日本",
+      "toYears": "1983–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ずっと真夜中でいいのに",
+      "toName": "ずっと真夜中でいいのに。",
+      "toArea": "日本",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ちゃんみな",
+      "toName": "ちゃんみな",
+      "toArea": "日本",
+      "toYears": "1998–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "be-first",
+      "toName": "BE:FIRST",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "imase",
+      "toName": "imase",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

@@ -82,13 +82,16 @@ export async function getJSON(url, { retries = 3 } = {}) {
 const MB = 'https://musicbrainz.org/ws/2';
 
 export const mbArtist = (mbid) =>
-  getJSON(`${MB}/artist/${mbid}?inc=artist-rels+tags&fmt=json`);
+  getJSON(`${MB}/artist/${mbid}?inc=aliases+artist-rels+tags&fmt=json`);
 
 export const mbSearchArtist = (name) =>
   getJSON(`${MB}/artist/?query=${encodeURIComponent(`artist:"${name}"`)}&fmt=json&limit=5`);
 
 export const mbReleaseGroups = (mbid) =>
   getJSON(`${MB}/release-group?artist=${mbid}&type=album&fmt=json&limit=100`);
+
+export const mbReleaseGroupsOfType = (mbid, type) =>
+  getJSON(`${MB}/release-group?artist=${mbid}&type=${encodeURIComponent(type)}&fmt=json&limit=100`);
 
 /** Wikidata SPARQL，一次问一批，别一个个问。 */
 export async function sparql(query) {

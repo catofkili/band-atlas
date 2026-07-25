@@ -1,0 +1,149 @@
+{
+  "id": "imase",
+  "mbid": "bc83173f-c86f-4343-b3e7-aad839a47a54",
+  "name": "imase",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2000–",
+  "genres": [
+    "日本流行音乐",
+    "流行音乐",
+    "唱作人",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "凡才",
+      "year": 2024,
+      "kind": "Album"
+    }
+  ],
+  "intro": "imase是日本男性创作歌手，岐阜县出身。现所属唱片公司为维京音乐。",
+  "introLang": "zh",
+  "listens": 43900,
+  "listeners": 2853,
+  "quality": {
+    "score": 72,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bc83173f-c86f-4343-b3e7-aad839a47a54"
+  },
+  "edges": [
+    {
+      "to": "sekai-no-owari",
+      "toName": "SEKAI NO OWARI",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "あいみょん",
+      "toName": "あいみょん",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "星野源",
+      "toName": "星野源",
+      "toArea": "日本",
+      "toYears": "1981–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "米津玄師",
+      "toName": "米津玄師",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ちゃんみな",
+      "toName": "ちゃんみな",
+      "toArea": "日本",
+      "toYears": "1998–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "優里",
+      "toName": "優里",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "藤井風",
+      "toName": "藤井風",
+      "toArea": "日本",
+      "toYears": "1997–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "水曜日のカンパネラ",
+      "toName": "水曜日のカンパネラ",
+      "toArea": "涩谷",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "vaundy",
+      "toName": "Vaundy",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "id": "tuki",
+  "mbid": "1359dfb8-8220-4ebe-aeb9-b759ed737c41",
+  "name": "tuki.",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2008–",
+  "genres": [
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "15",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "tuki.，日本女性创作歌手。所属唱片公司为其个人厂牌“月面着陆计画”。她在13岁时开始尝试音乐创作，并于2022年在TikTok平台发布自弹自唱影片而展开音乐活动。",
+  "introLang": "zh",
+  "tracks": [
+    "晚餐歌"
+  ],
+  "trackSources": [
+    {
+      "title": "晚餐歌"
+    }
+  ],
+  "listens": 46911,
+  "listeners": 1201,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1359dfb8-8220-4ebe-aeb9-b759ed737c41"
+  },
+  "edges": [
+    {
+      "to": "sekai-no-owari",
+      "toName": "SEKAI NO OWARI",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "あいみょん",
+      "toName": "あいみょん",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "新しい学校のリーダーズ",
+      "toName": "新しい学校のリーダーズ",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

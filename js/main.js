@@ -1,6 +1,6 @@
 import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js';
 import { layoutNeighbors } from './layout.js';
-import { createNetworkMap } from './map.js?v=84d73bcea2';
+import { createNetworkMap } from './map.js?v=5846f05227';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -554,27 +554,53 @@ function closeSearch() {
   searchEl.hidden = true;
 }
 
+const compactSearch = (text) =>
+  (text ?? '')
+    .normalize('NFKC')
+    .toLocaleLowerCase('ja')
+    .replace(/[\s・･._'’\-–—]+/g, '');
+
+const katakanaToHiragana = (text) =>
+  [...text].map((char) => {
+    const code = char.codePointAt(0);
+    return code >= 0x30a1 && code <= 0x30f6
+      ? String.fromCodePoint(code - 0x60)
+      : char;
+  }).join('');
+
 /**
- * 名字前缀最优先，其次名字里包含，最后才是地区命中。
- * 输入为空时给几支关系最密的当入口，而不是空着一片。
+ * 全局索引包含正式名、MusicBrainz 别名、片假名、平假名和罗马音。
+ * 输入为空时按关系密度与收听热度给出入口。
  */
 function runSearch(raw) {
-  const q = raw.trim().toLowerCase();
+  const q = compactSearch(raw);
+  const qKana = katakanaToHiragana(q);
   const pool = index?.bands ?? [];
 
   if (!q) {
-    hits = [...pool].sort((a, b) => b.degree - a.degree).slice(0, 8);
+    hits = [...pool]
+      .sort((a, b) => b.degree - a.degree || b.listens - a.listens)
+      .slice(0, 8);
   } else {
     hits = pool
       .map((b) => {
-        const name = b.name.toLowerCase();
-        if (name.startsWith(q)) return { b, rank: 0 };
-        if (name.includes(q)) return { b, rank: 1 };
-        if ((b.area ?? '').toLowerCase().includes(q)) return { b, rank: 2 };
+        const official = compactSearch(b.name);
+        const keys = b.searchKeys?.length
+          ? b.searchKeys
+          : [official, ...(b.aliases ?? []).map(compactSearch), compactSearch(b.area)];
+        const keyForms = keys.flatMap((key) => [key, katakanaToHiragana(key)]);
+        if (official === q || official === qKana) return { b, rank: 0 };
+        if (keyForms.some((key) => key === q || key === qKana)) return { b, rank: 1 };
+        if (keyForms.some((key) => key.startsWith(q) || key.startsWith(qKana))) return { b, rank: 2 };
+        if (keyForms.some((key) => key.includes(q) || key.includes(qKana))) return { b, rank: 3 };
         return null;
       })
       .filter(Boolean)
-      .sort((x, y) => x.rank - y.rank || y.b.degree - x.b.degree)
+      .sort((x, y) =>
+        x.rank - y.rank ||
+        y.b.listens - x.b.listens ||
+        y.b.degree - x.b.degree
+      )
       .slice(0, 12)
       .map((x) => x.b);
   }
@@ -584,7 +610,7 @@ function runSearch(raw) {
   if (!hits.length) {
     const li = document.createElement('li');
     li.className = 'search__empty';
-    li.textContent = '没有找到这支乐队';
+    li.textContent = '没有找到这位音乐人或乐队';
     searchResults.append(li);
     return;
   }
@@ -602,7 +628,11 @@ function runSearch(raw) {
     name.textContent = b.name;
     const meta = document.createElement('span');
     meta.className = 'search__hit-meta';
-    meta.textContent = [b.area, `${b.degree} 条关系`].filter(Boolean).join(' · ');
+    meta.textContent = [
+      b.artistType === 'Person' ? '音乐人' : null,
+      b.area,
+      `${b.degree} 条关系`,
+    ].filter(Boolean).join(' · ');
 
     btn.append(name, meta);
     li.append(btn);

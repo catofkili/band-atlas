@@ -1,0 +1,131 @@
+{
+  "id": "snow-man",
+  "mbid": "1322f39c-cea6-42aa-aa98-3b6b5043b07d",
+  "name": "Snow Man",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2012–",
+  "genres": [
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "Snow Mania S1",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "Snow Labo. S2",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "i DO ME",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "RAYS",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "音故知新",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Snow Man是日本星达拓旗下的9人男子偶像团体，于2020年1月22日发行单曲出道，所属唱片公司为星达拓和avex trax合作成立的MENT RECORDING。",
+  "introLang": "zh",
+  "tracks": [
+    "Imitation Rain/D.D.",
+    "Brother Beat",
+    "Grandeur",
+    "HELLO HELLO",
+    "KISSIN'MY LIPS/Stories"
+  ],
+  "trackSources": [
+    {
+      "title": "Imitation Rain/D.D."
+    },
+    {
+      "title": "Brother Beat"
+    },
+    {
+      "title": "Grandeur"
+    },
+    {
+      "title": "HELLO HELLO"
+    },
+    {
+      "title": "KISSIN'MY LIPS/Stories"
+    }
+  ],
+  "listens": 14921,
+  "listeners": 287,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1322f39c-cea6-42aa-aa98-3b6b5043b07d"
+  },
+  "edges": [
+    {
+      "to": "sixtones",
+      "toName": "SixTONES",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "優里",
+      "toName": "優里",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "omoinotake",
+      "toName": "Omoinotake",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "be-first",
+      "toName": "BE:FIRST",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

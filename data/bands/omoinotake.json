@@ -1,0 +1,94 @@
+{
+  "id": "omoinotake",
+  "mbid": "61c836d9-5e9e-4db1-94d9-35100a0537e9",
+  "name": "Omoinotake",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2012–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "So far",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "Ammolite",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "Pieces",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Omoinotake是日本的三人乐队，于2012年组成。2021年11月17日，他们在Sony Music Associated Records旗下的“onenation”厂牌中主流出道。",
+  "introLang": "zh",
+  "tracks": [
+    "幾億光年",
+    "幸せ"
+  ],
+  "trackSources": [
+    {
+      "title": "幾億光年"
+    },
+    {
+      "title": "幸せ"
+    }
+  ],
+  "listens": 16926,
+  "listeners": 1143,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/61c836d9-5e9e-4db1-94d9-35100a0537e9"
+  },
+  "edges": [
+    {
+      "to": "snow-man",
+      "toName": "Snow Man",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "星野源",
+      "toName": "星野源",
+      "toArea": "日本",
+      "toYears": "1981–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "緑黄色社会",
+      "toName": "緑黄色社会",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

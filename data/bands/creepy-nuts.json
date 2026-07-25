@@ -1,0 +1,110 @@
+{
+  "id": "creepy-nuts",
+  "mbid": "e5e045da-59a3-4b65-8bb4-3c7f3ac9a529",
+  "name": "Creepy Nuts",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [
+    "嘻哈",
+    "嘻哈音樂"
+  ],
+  "albums": [
+    {
+      "title": "クリープ・ショー",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "Case",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "アンサンブル・プレイ",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "LEGION",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Creepy Nuts是日本双人嘻哈组合，由R-指定及DJ松永两人在2013年组成，于2017年主流出道。",
+  "introLang": "zh",
+  "tracks": [
+    "オトノケ",
+    "堕天",
+    "Mirage/眠れ",
+    "高校デビュー、大学デビュー、全部失敗したけどメジャーデビュー。"
+  ],
+  "trackSources": [
+    {
+      "title": "オトノケ"
+    },
+    {
+      "title": "堕天"
+    },
+    {
+      "title": "Mirage/眠れ"
+    },
+    {
+      "title": "高校デビュー、大学デビュー、全部失敗したけどメジャーデビュー。"
+    }
+  ],
+  "listens": 176934,
+  "listeners": 5177,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e5e045da-59a3-4b65-8bb4-3c7f3ac9a529"
+  },
+  "edges": [
+    {
+      "to": "米津玄師",
+      "toName": "米津玄師",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ちゃんみな",
+      "toName": "ちゃんみな",
+      "toArea": "日本",
+      "toYears": "1998–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "vaundy",
+      "toName": "Vaundy",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

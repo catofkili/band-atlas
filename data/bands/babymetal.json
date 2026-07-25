@@ -1,0 +1,136 @@
+{
+  "id": "babymetal",
+  "mbid": "27e2997f-f7a1-4353-bcc4-57b9274fa9a4",
+  "name": "BABYMETAL",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2010–",
+  "genres": [
+    "可爱金属",
+    "日本流行音乐",
+    "偶像流行",
+    "重金属",
+    "流行音乐",
+    "日本流行音樂",
+    "可愛金屬"
+  ],
+  "albums": [
+    {
+      "title": "BABYMETAL",
+      "year": 2014,
+      "kind": "Album"
+    },
+    {
+      "title": "METAL RESISTANCE",
+      "year": 2016,
+      "kind": "Album"
+    },
+    {
+      "title": "METAL GALAXY",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "THE OTHER ONE",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "METAL FORTH",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "BABYMETAL是一个在2010年结成的日本少女偶像暨重金属乐团。由Amuse公司的制作室长之一、同时是重金属音乐爱好者的小林启担任制作人。",
+  "introLang": "zh",
+  "tracks": [
+    "BABYMETAL × Kiba of Akiba",
+    "HeadBanger!!",
+    "欺凌、絕對、不行",
+    "狐狸假面",
+    "Road of Resistance"
+  ],
+  "trackSources": [
+    {
+      "title": "BABYMETAL × Kiba of Akiba"
+    },
+    {
+      "title": "HeadBanger!!"
+    },
+    {
+      "title": "欺凌、絕對、不行"
+    },
+    {
+      "title": "狐狸假面"
+    },
+    {
+      "title": "Road of Resistance"
+    }
+  ],
+  "listens": 1091821,
+  "listeners": 10503,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/27e2997f-f7a1-4353-bcc4-57b9274fa9a4"
+  },
+  "edges": [
+    {
+      "to": "perfume",
+      "toName": "Perfume",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "yoasobi",
+      "toName": "YOASOBI",
+      "toArea": "日本",
+      "toYears": "2019–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ado",
+      "toName": "Ado",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "fruits-zipper",
+      "toName": "FRUITS ZIPPER",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

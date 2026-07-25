@@ -1,0 +1,130 @@
+{
+  "id": "ちゃんみな",
+  "mbid": "96ec7174-5836-4ff8-8d6a-11d90c7a5e62",
+  "name": "ちゃんみな",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1998–",
+  "genres": [
+    "嘻哈",
+    "日本流行音乐",
+    "流行音乐",
+    "嘻哈音樂",
+    "日本流行音樂",
+    "韓國流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "未成年",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "Never Grow Up",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "ハレンチ",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "Naked",
+      "year": 2023,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Chanmina是日本女饶舌歌手，东京都练马区出身。日韩混血儿。现所属唱片公司为日本索尼音乐。其夫是ASH ISLAND。",
+  "introLang": "zh",
+  "tracks": [
+    "Test Me (Chanmina song)",
+    "美人",
+    "I hate this love song",
+    "WORK HARD",
+    "World Dance"
+  ],
+  "trackSources": [
+    {
+      "title": "Test Me (Chanmina song)"
+    },
+    {
+      "title": "美人"
+    },
+    {
+      "title": "I hate this love song"
+    },
+    {
+      "title": "WORK HARD"
+    },
+    {
+      "title": "World Dance"
+    }
+  ],
+  "listens": 51105,
+  "listeners": 1398,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/96ec7174-5836-4ff8-8d6a-11d90c7a5e62"
+  },
+  "edges": [
+    {
+      "to": "sekai-no-owari",
+      "toName": "SEKAI NO OWARI",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "creepy-nuts",
+      "toName": "Creepy Nuts",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "水曜日のカンパネラ",
+      "toName": "水曜日のカンパネラ",
+      "toArea": "涩谷",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "imase",
+      "toName": "imase",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

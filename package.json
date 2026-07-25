@@ -8,6 +8,8 @@
     "check:layout": "node tools/check-layout.mjs",
     "check:site": "node tools/check-site.mjs",
     "fetch:popularity": "node tools/fetch-popularity.mjs",
+    "fetch:modern-japan": "node tools/fetch-modern-japan.mjs",
+    "fetch:aliases": "node tools/fetch-artist-aliases.mjs",
     "fetch:guests": "node tools/fetch-guest-recordings.mjs",
     "scan:wikipedia-history": "node tools/scan-wikipedia-history.mjs",
     "fetch:wikidata-enrichment": "node tools/fetch-wikidata-enrichment.mjs",
@@ -18,6 +20,7 @@
     "graphology": "^0.26.0",
     "graphology-components": "^1.5.4",
     "graphology-layout-forceatlas2": "^0.10.1",
-    "graphology-layout-noverlap": "^0.4.2"
+    "graphology-layout-noverlap": "^0.4.2",
+    "wanakana": "^5.3.1"
   }
 }

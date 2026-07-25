@@ -486,7 +486,7 @@
       "name": "BUMP OF CHICKEN",
       "listens": 85361,
       "listeners": 2566,
-      "updatedAt": "2026-07-25T16:52:56.086Z"
+      "updatedAt": "2026-07-25T18:52:33.241Z"
     },
     "0f8a2f89-29c0-4085-8820-635c181a0de9": {
       "name": "Axis of Justice",
@@ -6637,6 +6637,240 @@
       "listens": 292675,
       "listeners": 4558,
       "updatedAt": "2026-07-25T16:58:42.121Z"
+    },
+    "27e2997f-f7a1-4353-bcc4-57b9274fa9a4": {
+      "name": "BABYMETAL",
+      "listens": 1091821,
+      "listeners": 10503,
+      "updatedAt": "2026-07-25T18:52:33.240Z"
+    },
+    "df6c619f-4334-43e2-8b6a-4a32af1e4f85": {
+      "name": "YOASOBI",
+      "listens": 612930,
+      "listeners": 7589,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "e134b52f-2e9e-4734-9bc3-bea9648d1fa1": {
+      "name": "Ado",
+      "listens": 579483,
+      "listeners": 5367,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "dfc6a151-3792-4695-8fda-f64723eaa788": {
+      "name": "ヨルシカ",
+      "listens": 471333,
+      "listeners": 4242,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "486067ad-56d6-48b5-957b-d6cfe3e1af73": {
+      "name": "Perfume",
+      "listens": 433370,
+      "listeners": 3570,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "85d76093-9865-4605-97fa-8c910929d366": {
+      "name": "LiSA",
+      "listens": 417533,
+      "listeners": 5992,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "b539e453-c4fe-47e3-8a07-8517eac74429": {
+      "name": "宇多田ヒカル",
+      "listens": 346443,
+      "listeners": 5795,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "e5e045da-59a3-4b65-8bb4-3c7f3ac9a529": {
+      "name": "Creepy Nuts",
+      "listens": 176934,
+      "listeners": 5177,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "09d4a85c-4916-4b4e-bc96-c4cfcf371046": {
+      "name": "米津玄師",
+      "listens": 138337,
+      "listeners": 3691,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "114b26ff-a1fe-41f3-9df8-5c093afe9c56": {
+      "name": "Vaundy",
+      "listens": 130078,
+      "listeners": 3730,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "c3a4aeca-8f02-4d22-b1ff-693434ab09a8": {
+      "name": "藤井風",
+      "listens": 124198,
+      "listeners": 3585,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "66bdd1c9-d1c5-40b7-a487-5061fffbd87d": {
+      "name": "Eve",
+      "listens": 108393,
+      "listeners": 2944,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "14d2a235-30e2-489f-b490-f9dc7d2c0861": {
+      "name": "ずっと真夜中でいいのに。",
+      "listens": 106333,
+      "listeners": 2130,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "a3becc83-9dab-48c6-9513-e269e1e4c49a": {
+      "name": "yama",
+      "listens": 84699,
+      "listeners": 2579,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2": {
+      "name": "Mrs. GREEN APPLE",
+      "listens": 81223,
+      "listeners": 3280,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "f9f9f6a1-693b-43da-bbeb-70395bb0a66a": {
+      "name": "水曜日のカンパネラ",
+      "listens": 59281,
+      "listeners": 1551,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "96ec7174-5836-4ff8-8d6a-11d90c7a5e62": {
+      "name": "ちゃんみな",
+      "listens": 51105,
+      "listeners": 1398,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "cd8858ea-73c4-4c8f-8fcc-5aba0b877688": {
+      "name": "羊文学",
+      "listens": 50886,
+      "listeners": 1287,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "12a43a61-e31a-4cac-92a6-c95ce9cdfe3c": {
+      "name": "新しい学校のリーダーズ",
+      "listens": 48697,
+      "listeners": 1122,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "1359dfb8-8220-4ebe-aeb9-b759ed737c41": {
+      "name": "tuki.",
+      "listens": 46911,
+      "listeners": 1201,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "d9dbfe6a-8346-4337-8614-fe96aab63927": {
+      "name": "SEKAI NO OWARI",
+      "listens": 45979,
+      "listeners": 2645,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "908d9ac2-5187-4b9e-b281-601c6afb0791": {
+      "name": "あいみょん",
+      "listens": 45099,
+      "listeners": 1434,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "bc83173f-c86f-4343-b3e7-aad839a47a54": {
+      "name": "imase",
+      "listens": 43900,
+      "listeners": 2853,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "f35bfbe2-d30e-402c-9ac1-fa5f90b72ec2": {
+      "name": "back number",
+      "listens": 34499,
+      "listeners": 1176,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "ebb4513e-4aab-4ac9-a949-14e77bb7b836": {
+      "name": "ano",
+      "listens": 26752,
+      "listeners": 1280,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "2fc5c58a-711b-4a11-9b7a-7b5ba1f58e04": {
+      "name": "Da‐iCE",
+      "listens": 26043,
+      "listeners": 809,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "3ed40054-97ab-4783-b3c3-15c2c7b06546": {
+      "name": "緑黄色社会",
+      "listens": 22485,
+      "listeners": 707,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "2c6c53ea-09d4-4d98-b174-c9aa83d4fecf": {
+      "name": "星野源",
+      "listens": 21175,
+      "listeners": 761,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "61c836d9-5e9e-4db1-94d9-35100a0537e9": {
+      "name": "Omoinotake",
+      "listens": 16926,
+      "listeners": 1143,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "1322f39c-cea6-42aa-aa98-3b6b5043b07d": {
+      "name": "Snow Man",
+      "listens": 14921,
+      "listeners": 287,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "47a3fb29-e36b-440b-9d3c-3a68cec34396": {
+      "name": "SixTONES",
+      "listens": 12845,
+      "listeners": 152,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "4337f1a5-9e02-4b46-98c3-e3c28683a9b5": {
+      "name": "優里",
+      "listens": 11938,
+      "listeners": 499,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "19827018-8590-4ff1-9ab1-d12296e75a63": {
+      "name": "アイナ・ジ・エンド",
+      "listens": 9516,
+      "listeners": 737,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "c65f10b6-be99-4e3a-a010-2a11fd965780": {
+      "name": "マカロニえんぴつ",
+      "listens": 8586,
+      "listeners": 512,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "29b34cc3-b362-4f0b-ab02-e6ccaf8cafc2": {
+      "name": "FRUITS ZIPPER",
+      "listens": 8266,
+      "listeners": 275,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "76c63dd7-96d1-42d9-a596-4d576a464008": {
+      "name": "Saucy Dog",
+      "listens": 5942,
+      "listeners": 594,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "126a09d9-04a2-4d06-9cc7-eea581007a0f": {
+      "name": "Number_i",
+      "listens": 1885,
+      "listeners": 231,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "cad9e169-893d-4432-a23f-3aa16beb9f0e": {
+      "name": "なとり",
+      "listens": 86764,
+      "listeners": 2543,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
+    },
+    "c11b6e14-9a78-40c3-b70c-c46e8b819637": {
+      "name": "BE:FIRST",
+      "listens": 11232,
+      "listeners": 613,
+      "updatedAt": "2026-07-25T18:52:33.241Z"
     }
   },
   "failures": []

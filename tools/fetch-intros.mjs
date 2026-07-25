@@ -21,8 +21,9 @@ const log = (...a) => console.log(new Date().toISOString().slice(11, 19), ...a);
 const chunk = (arr, n) => Array.from({ length: Math.ceil(arr.length / n) }, (_, i) => arr.slice(i * n, i * n + n));
 
 const generated = JSON.parse(await readFile(path.join(root, 'data/source/generated.json'), 'utf8'));
-const mbids = generated.bands.map((b) => b.mbid).filter(Boolean);
-log(`要补简介的乐队 ${mbids.length} 支`);
+const modern = JSON.parse(await readFile(path.join(root, 'data/source/modern-japan.json'), 'utf8'));
+const mbids = [...new Set([...generated.bands, ...modern.bands].map((b) => b.mbid).filter(Boolean))];
+log(`要补简介的乐队与音乐人 ${mbids.length} 位`);
 
 /* ------------------------------------------------- Wikidata：找到条目标题 */
 
@@ -111,5 +112,5 @@ await writeFile(
 const byLang = {};
 for (const v of Object.values(intros)) byLang[v.lang] = (byLang[v.lang] ?? 0) + 1;
 const c = stats();
-log(`✓ ${Object.keys(intros).length} / ${mbids.length} 支有简介`, byLang);
+log(`✓ ${Object.keys(intros).length} / ${mbids.length} 位有简介`, byLang);
 log(`  接口调用 ${c.misses} 次，命中缓存 ${c.hits} 次`);

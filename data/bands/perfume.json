@@ -1,0 +1,140 @@
+{
+  "id": "perfume",
+  "mbid": "486067ad-56d6-48b5-957b-d6cfe3e1af73",
+  "name": "Perfume",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2000–",
+  "genres": [
+    "电子流行",
+    "日本流行音乐",
+    "流行音乐",
+    "日本流行音樂",
+    "電子流行音樂",
+    "合成器流行"
+  ],
+  "albums": [
+    {
+      "title": "GAME",
+      "year": 2008,
+      "kind": "Album"
+    },
+    {
+      "title": "⊿",
+      "year": 2009,
+      "kind": "Album"
+    },
+    {
+      "title": "JPN",
+      "year": 2011,
+      "kind": "Album"
+    },
+    {
+      "title": "LEVEL3",
+      "year": 2013,
+      "kind": "Album"
+    },
+    {
+      "title": "COSMIC EXPLORER",
+      "year": 2016,
+      "kind": "Album"
+    },
+    {
+      "title": "Future Pop",
+      "year": 2018,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Perfume是一个出身于日本广岛县的女子流行电子音乐组合，所属唱片公司为环球音乐旗下宝丽多唱片，全部成员均为 AMUSE 经纪公司属下。",
+  "introLang": "zh",
+  "tracks": [
+    "SPICE",
+    "One Room Disco",
+    "Cling Cling",
+    "Love the world",
+    "Spending all my time"
+  ],
+  "trackSources": [
+    {
+      "title": "SPICE"
+    },
+    {
+      "title": "One Room Disco"
+    },
+    {
+      "title": "Cling Cling"
+    },
+    {
+      "title": "Love the world"
+    },
+    {
+      "title": "Spending all my time"
+    }
+  ],
+  "listens": 433370,
+  "listeners": 3570,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/486067ad-56d6-48b5-957b-d6cfe3e1af73"
+  },
+  "edges": [
+    {
+      "to": "babymetal",
+      "toName": "BABYMETAL",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "yoasobi",
+      "toName": "YOASOBI",
+      "toArea": "日本",
+      "toYears": "2019–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "宇多田ヒカル",
+      "toName": "宇多田ヒカル",
+      "toArea": "日本",
+      "toYears": "1983–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ado",
+      "toName": "Ado",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

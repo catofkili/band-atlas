@@ -55,6 +55,47 @@ const withPopularity = index.bands.filter((band) => Number.isFinite(band.listens
 if (withPopularity !== index.bands.length) {
   throw new Error(`热度字段缺失：${withPopularity}/${index.bands.length}`);
 }
+const compactSearch = (text) =>
+  (text ?? '')
+    .normalize('NFKC')
+    .toLocaleLowerCase('ja')
+    .replace(/[\s・･._'’\-–—]+/g, '');
+const katakanaToHiragana = (text) =>
+  [...text].map((char) => {
+    const code = char.codePointAt(0);
+    return code >= 0x30a1 && code <= 0x30f6
+      ? String.fromCodePoint(code - 0x60)
+      : char;
+  }).join('');
+const exactSearch = (query) => {
+  const q = compactSearch(query);
+  const qKana = katakanaToHiragana(q);
+  return index.bands.filter((band) =>
+    (band.searchKeys ?? []).flatMap((key) => [key, katakanaToHiragana(key)])
+      .some((key) => key === q || key === qKana)
+  );
+};
+for (const [query, expected] of [
+  ['YOASOBI', 'YOASOBI'],
+  ['ヨアソビ', 'YOASOBI'],
+  ['よあそび', 'YOASOBI'],
+  ['Fujii Kaze', '藤井風'],
+  ['フジイカゼ', '藤井風'],
+  ['ふじいかぜ', '藤井風'],
+  ['Hikaru Utada', '宇多田ヒカル'],
+  ['宇多田光', '宇多田ヒカル'],
+]) {
+  if (!exactSearch(query).some((band) => band.name === expected)) {
+    throw new Error(`全局多文字搜索失效：${query} → ${expected}`);
+  }
+}
+const people = index.bands.filter((band) => band.artistType === 'Person');
+if (people.length < 15) throw new Error(`个人音乐人异常减少：${people.length}`);
+for (const name of ['YOASOBI', 'Vaundy', '藤井風', 'Ado', 'なとり', 'BE:FIRST']) {
+  if (!index.bands.some((band) => band.name === name)) {
+    throw new Error(`当代日本名单缺少：${name}`);
+  }
+}
 const usWithoutAlbums = bands.filter(
   (band) => band.countryCode === 'US' && !(band.albums?.length)
 );
@@ -119,7 +160,7 @@ if (content.genres < 580 || content.tracks < 260) {
 }
 console.log(
   `✓ 站点回归通过 · 资源 ${versions[0]} · 随机池 ${randomPool.length} · ` +
-  `热度 ${withPopularity}/${bands.length} · 客串 ${guestEdges}`
+  `热度 ${withPopularity}/${bands.length} · 个人音乐人 ${people.length} · 客串 ${guestEdges}`
 );
 console.log(
   `  内容：模板 ${content.template}，有流派 ${content.genres}，` +

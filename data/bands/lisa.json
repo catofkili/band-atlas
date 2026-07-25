@@ -1,0 +1,128 @@
+{
+  "id": "lisa",
+  "mbid": "85d76093-9865-4605-97fa-8c910929d366",
+  "name": "LiSA",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1987–",
+  "genres": [
+    "日本流行音乐",
+    "流行摇滚",
+    "摇滚乐",
+    "日本流行音樂",
+    "動畫歌曲",
+    "日本搖滾樂"
+  ],
+  "albums": [
+    {
+      "title": "LOVER“S”MiLE",
+      "year": 2012,
+      "kind": "Album"
+    },
+    {
+      "title": "LANDSPACE",
+      "year": 2013,
+      "kind": "Album"
+    },
+    {
+      "title": "Launcher",
+      "year": 2015,
+      "kind": "Album"
+    },
+    {
+      "title": "LiTTLE DEViL PARADE",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "LEO-NiNE",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "LANDER",
+      "year": 2022,
+      "kind": "Album"
+    }
+  ],
+  "intro": "LiSA，本名织部里沙，是日本创作女歌手，动漫歌手，以金属质感音色与有力的声音吸引人。岐阜县出身，曾为摇滚乐团“Love is Same All”的主唱，现所属唱片公司为日本索尼音乐娱乐旗下的SACRA MUSIC。",
+  "introLang": "zh",
+  "tracks": [
+    "紅蓮華",
+    "炎",
+    "Crossing field",
+    "Oath sign",
+    "Unlasting"
+  ],
+  "trackSources": [
+    {
+      "title": "紅蓮華"
+    },
+    {
+      "title": "炎"
+    },
+    {
+      "title": "Crossing field"
+    },
+    {
+      "title": "Oath sign"
+    },
+    {
+      "title": "Unlasting"
+    }
+  ],
+  "listens": 417533,
+  "listeners": 5992,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/85d76093-9865-4605-97fa-8c910929d366"
+  },
+  "edges": [
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "mrs-green-apple",
+      "toName": "Mrs. GREEN APPLE",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ヨルシカ",
+      "toName": "ヨルシカ",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}
