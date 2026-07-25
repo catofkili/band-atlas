@@ -1,0 +1,69 @@
+{
+  "id": "pinhead-gunpowder",
+  "mbid": "f7b3c394-3654-4bde-baea-32804f87fe24",
+  "name": "Pinhead Gunpowder",
+  "area": "Arcata",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1990–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Carry the Banner",
+      "year": 1995
+    },
+    {
+      "title": "Goodbye Ellston Avenue",
+      "year": 1997
+    },
+    {
+      "title": "Compulsive Disclosure",
+      "year": 2003
+    },
+    {
+      "title": "Unt",
+      "year": 2024
+    }
+  ],
+  "intro": "ピンヘッド・ガンパウダーは、1990年にカリフォルニア州イーストベイで結成されたアメリカのパンク・ロックバンドである。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f7b3c394-3654-4bde-baea-32804f87fe24"
+  },
+  "edges": [
+    {
+      "to": "monsula",
+      "toName": "Monsula",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Bill Schneider",
+      "detail": "Bill Schneider 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-influents",
+      "toName": "The Influents",
+      "toArea": "旧金山",
+      "toYears": "1999–2003",
+      "type": "member",
+      "label": "Bill Schneider",
+      "detail": "Bill Schneider 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-coverups",
+      "toName": "The Coverups",
+      "toArea": null,
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Bill Schneider",
+      "detail": "Bill Schneider 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

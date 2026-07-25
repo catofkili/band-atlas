@@ -1,0 +1,50 @@
+{
+  "id": "eddie-vedder-and-the-earthlings",
+  "mbid": "e7b83eb6-d0bc-4966-82db-eb1c1872352c",
+  "name": "Eddie Vedder and the Earthlings",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e7b83eb6-d0bc-4966-82db-eb1c1872352c"
+  },
+  "edges": [
+    {
+      "to": "pearl-jam",
+      "toName": "Pearl Jam",
+      "toArea": "西雅图",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Eddie Vedder",
+      "detail": "Eddie Vedder 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "smith-watt-steakhouse",
+      "toName": "Smith & Watt Steakhouse",
+      "toArea": "美国",
+      "toYears": "1977–",
+      "type": "member",
+      "label": "Andrew Watt",
+      "detail": "Andrew Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "supergroup-b",
+      "toName": "Supergroup B",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Andrew Watt",
+      "detail": "Andrew Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

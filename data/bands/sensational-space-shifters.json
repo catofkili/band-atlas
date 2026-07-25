@@ -1,0 +1,28 @@
+{
+  "id": "sensational-space-shifters",
+  "mbid": "43a22c65-a104-4dc0-a501-419d11ebcf63",
+  "name": "Sensational Space Shifters",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "2012–",
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/43a22c65-a104-4dc0-a501-419d11ebcf63"
+  },
+  "edges": [
+    {
+      "to": "robert-plant-and-the-strange-sensation",
+      "toName": "Robert Plant and the Strange Sensation",
+      "toArea": "英国",
+      "toYears": "2001–2007",
+      "type": "member",
+      "label": "Justin Adams・John Baggott・Billy Fuller・Liam Tyson",
+      "detail": "4 位乐手在这两支乐队都待过：Justin Adams・John Baggott・Billy Fuller・Liam Tyson。",
+      "year": null,
+      "weight": 0.95
+    }
+  ]
+}

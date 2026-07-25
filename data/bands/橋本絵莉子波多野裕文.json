@@ -1,0 +1,44 @@
+{
+  "id": "橋本絵莉子波多野裕文",
+  "mbid": "4aa637c3-7bf2-4e30-8484-5271c9aca634",
+  "name": "橋本絵莉子波多野裕文",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2016–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "橋本絵莉子波多野裕文",
+      "year": 2017
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4aa637c3-7bf2-4e30-8484-5271c9aca634"
+  },
+  "edges": [
+    {
+      "to": "people-in-the-box",
+      "toName": "People In The Box",
+      "toArea": "Kitakyūshū",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "波多野裕文",
+      "detail": "波多野裕文 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    },
+    {
+      "to": "radio-darlings",
+      "toName": "Radio Darlings",
+      "toArea": null,
+      "toYears": "2019–",
+      "type": "member",
+      "label": "橋本絵莉子",
+      "detail": "橋本絵莉子 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    }
+  ]
+}

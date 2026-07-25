@@ -1,0 +1,63 @@
+{
+  "id": "s-k-i-n",
+  "mbid": "21117dcc-a0e8-4206-80d3-425f023bfb1b",
+  "name": "S.K.I.N.",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2006–",
+  "genres": [],
+  "albums": [],
+  "intro": "S.K.I.N.是由四位知名日本摇滚乐手所组成的超级乐团。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/21117dcc-a0e8-4206-80d3-425f023bfb1b"
+  },
+  "edges": [
+    {
+      "to": "the-last-rockstars",
+      "toName": "THE LAST ROCKSTARS",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "member",
+      "label": "YOSHIKI・MIYAVI",
+      "detail": "2 位乐手在这两支乐队都待过：YOSHIKI・MIYAVI。",
+      "year": 2022,
+      "weight": 0.84
+    },
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "YOSHIKI",
+      "detail": "YOSHIKI 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "yellow-fried-chickenz",
+      "toName": "YELLOW FRIED CHICKENz",
+      "toArea": "日本",
+      "toYears": "2010–2012",
+      "type": "member",
+      "label": "GACKT",
+      "detail": "GACKT 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "violet-uk",
+      "toName": "Violet UK",
+      "toArea": "日本",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "YOSHIKI",
+      "detail": "YOSHIKI 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    }
+  ]
+}

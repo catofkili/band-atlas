@@ -1,0 +1,30 @@
+{
+  "id": "band-aid",
+  "mbid": "0ecaa896-58fa-4dca-b53d-8da7bc5f59c5",
+  "name": "Band Aid",
+  "area": null,
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "intro": "バンド・エイド (Band Aid) は、イギリスとアイルランドのロック・ポップス界のスーパースターが集まって結成されたチャリティー・プロジェクト。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0ecaa896-58fa-4dca-b53d-8da7bc5f59c5"
+  },
+  "edges": [
+    {
+      "to": "u2",
+      "toName": "U2",
+      "toArea": "都柏林",
+      "toYears": "1976–",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

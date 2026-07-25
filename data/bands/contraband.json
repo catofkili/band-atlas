@@ -3,6 +3,8 @@
   "mbid": "b7e61a98-84d5-4efc-866c-7166e3daa523",
   "name": "Contraband",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": "1991–",
   "genres": [],
   "albums": [
@@ -13,6 +15,7 @@
   ],
   "intro": "Contraband was a short-lived supergroup/side project that included members of several famous rock bands from the 1980s, such as Shark Island, McAuley Schenker Group, Ratt, L.",
   "introLang": "en",
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b7e61a98-84d5-4efc-866c-7166e3daa523"
   },

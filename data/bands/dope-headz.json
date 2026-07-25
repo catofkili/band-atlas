@@ -1,0 +1,63 @@
+{
+  "id": "dope-headz",
+  "mbid": "495bc417-f251-459b-b55d-5ddab23e3410",
+  "name": "Dope HEADz",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2000–2002",
+  "genres": [
+    "Visual Kei"
+  ],
+  "albums": [
+    {
+      "title": "PRIMITIVE IMPULSE",
+      "year": 2001
+    },
+    {
+      "title": "Planet of the Dope",
+      "year": 2002
+    }
+  ],
+  "intro": "Dope HEADzは、日本のロックバンド。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/495bc417-f251-459b-b55d-5ddab23e3410"
+  },
+  "edges": [
+    {
+      "to": "the-pink-spiders",
+      "toName": "THE PINK SPIDERS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "PATA・Shame",
+      "detail": "2 位乐手在这两支乐队都待过：PATA・Shame。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "PATA",
+      "detail": "PATA 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "ra-in",
+      "toName": "Ra:IN",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "PATA",
+      "detail": "PATA 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

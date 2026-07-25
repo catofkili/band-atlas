@@ -3,6 +3,8 @@
   "mbid": "3d693ab2-7c33-4b69-87bc-c105b5bbf547",
   "name": "thee michelle gun elephant",
   "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "1991–2003",
   "genres": [
     "Garage Rock",
@@ -35,6 +37,7 @@
     "リボルバー・ジャンキーズ"
   ],
   "lore": "2003 年宣布解散，翌年在幕张展览馆办完最后一场，此后再无重组。",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3d693ab2-7c33-4b69-87bc-c105b5bbf547"
   },

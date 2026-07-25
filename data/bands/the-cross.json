@@ -1,0 +1,113 @@
+{
+  "id": "the-cross",
+  "mbid": "5b9aa76f-bf0f-41ff-8986-fd0401c18bb4",
+  "name": "The Cross",
+  "area": "英格兰",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1987–1993",
+  "genres": [
+    "Dance-Rock",
+    "Hard Rock",
+    "Pop Rock"
+  ],
+  "albums": [
+    {
+      "title": "Shove It",
+      "year": 1988
+    },
+    {
+      "title": "Mad: Bad: and Dangerous to Know",
+      "year": 1990
+    },
+    {
+      "title": "Blue Rock",
+      "year": 1991
+    }
+  ],
+  "intro": "ザ・クロスは、クイーンのドラマー、ロジャー・テイラーによるソロプロジェクト。1987年から1993年の間に活動し、3枚のアルバムを発表した。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5b9aa76f-bf0f-41ff-8986-fd0401c18bb4"
+  },
+  "edges": [
+    {
+      "to": "queen",
+      "toName": "Queen",
+      "toArea": "伦敦",
+      "toYears": "1970–",
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": 1970,
+      "weight": 0.62
+    },
+    {
+      "to": "queen-paul-rodgers",
+      "toName": "Queen + Paul Rodgers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "band-aid-30",
+      "toName": "Band Aid 30",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "hale-pace-and-the-stonkers",
+      "toName": "Hale & Pace and the Stonkers",
+      "toArea": "英国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "queen-adam-lambert",
+      "toName": "Queen + Adam Lambert",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "smile",
+      "toName": "Smile",
+      "toArea": "英国",
+      "toYears": "1968–1970",
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    },
+    {
+      "to": "the-brian-may-band",
+      "toName": "The Brian May Band",
+      "toArea": null,
+      "toYears": "1991–1998",
+      "type": "member",
+      "label": "Spike Edney",
+      "detail": "Spike Edney 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

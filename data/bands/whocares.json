@@ -1,0 +1,76 @@
+{
+  "id": "whocares",
+  "mbid": "54c982d5-f078-46f3-a7ce-f9d63433ffbe",
+  "name": "WhoCares",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "2011–",
+  "genres": [
+    "Rock"
+  ],
+  "albums": [],
+  "intro": "WhoCares was a supergroup formed by Ian Gillan of Deep Purple and Tony Iommi of Black Sabbath in 2011 with the participation of a great number of rock artists as a charity project to raise money to rebuild a music school in Gyumri, Armenia, after the destruction of the city in the 1988 earthquake in Armenia.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/54c982d5-f078-46f3-a7ce-f9d63433ffbe"
+  },
+  "edges": [
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "Birmingham",
+      "toYears": "1968–2025",
+      "type": "member",
+      "label": "Tony Iommi・Ian Gillan",
+      "detail": "2 位乐手在这两支乐队都待过：Tony Iommi・Ian Gillan。",
+      "year": 2011,
+      "weight": 0.84
+    },
+    {
+      "to": "iron-maiden",
+      "toName": "Iron Maiden",
+      "toArea": "Leyton",
+      "toYears": "1975–",
+      "type": "member",
+      "label": "Nicko McBrain",
+      "detail": "Nicko McBrain 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "hale-pace-and-the-stonkers",
+      "toName": "Hale & Pace and the Stonkers",
+      "toArea": "英国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "Tony Iommi",
+      "detail": "Tony Iommi 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Tony Iommi",
+      "detail": "Tony Iommi 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-singing-rebels-band",
+      "toName": "The Singing Rebels’ Band",
+      "toArea": null,
+      "toYears": "1985–1985",
+      "type": "member",
+      "label": "Jon Lord",
+      "detail": "Jon Lord 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

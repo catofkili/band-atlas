@@ -1,0 +1,97 @@
+{
+  "id": "12-rounds",
+  "mbid": "e3bcef9d-c2cd-44cb-a4ef-6c58914b886d",
+  "name": "12 Rounds",
+  "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [
+    "Industrial",
+    "Trip Hop"
+  ],
+  "albums": [
+    {
+      "title": "Jitter Juice",
+      "year": 1996
+    },
+    {
+      "title": "My Big Hero",
+      "year": 1998
+    }
+  ],
+  "intro": "12 Rounds is a British rock band formed by Atticus Ross and singer Claudia Sarne, who are married.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e3bcef9d-c2cd-44cb-a4ef-6c58914b886d"
+  },
+  "edges": [
+    {
+      "to": "error",
+      "toName": "Error",
+      "toArea": "美国",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Atticus Ross・Leopold Ross",
+      "detail": "2 位乐手在这两支乐队都待过：Atticus Ross・Leopold Ross。",
+      "year": 2003,
+      "weight": 0.84
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
+    },
+    {
+      "to": "how-to-destroy-angels",
+      "toName": "How to Destroy Angels",
+      "toArea": "洛杉矶",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "nearly",
+      "toName": "nearLY",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Claudia Sarne",
+      "detail": "Claudia Sarne 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "tapeworm",
+      "toName": "Tapeworm",
+      "toArea": "美国",
+      "toYears": "1996–2004",
+      "type": "member",
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "witchgang",
+      "toName": "WitchGang",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

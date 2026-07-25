@@ -1,0 +1,41 @@
+{
+  "id": "キツネツキ",
+  "mbid": "d3673660-7d9f-4bf9-b01c-a715a2e1feff",
+  "name": "キツネツキ",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2017–",
+  "genres": [],
+  "albums": [],
+  "intro": "キツネツキは、日本の2人組音楽ユニット。自称「スーパーインディーズバンド」",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d3673660-7d9f-4bf9-b01c-a715a2e1feff"
+  },
+  "edges": [
+    {
+      "to": "9mm-parabellum-bullet",
+      "toName": "9mm Parabellum Bullet",
+      "toArea": "横滨",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "菅原卓郎・滝善充",
+      "detail": "2 位乐手在这两支乐队都待过：菅原卓郎・滝善充。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "zing",
+      "toName": "ZiNG",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "滝善充",
+      "detail": "滝善充 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,164 @@
+{
+  "id": "相対性理論",
+  "mbid": "ead227f6-7689-46b6-9fd2-3f6a37acbdc1",
+  "name": "相対性理論",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2006–",
+  "genres": [
+    "Rock",
+    "_private Tag 1"
+  ],
+  "albums": [
+    {
+      "title": "ハイファイ新書",
+      "year": 2009
+    },
+    {
+      "title": "シンクロニシティーン",
+      "year": 2010
+    },
+    {
+      "title": "アワー ミュージック",
+      "year": 2010
+    },
+    {
+      "title": "TOWN AGE",
+      "year": 2013
+    },
+    {
+      "title": "天声ジングル",
+      "year": 2016
+    }
+  ],
+  "intro": "相对性理论，是来自日本东京的乐队，成立于2006年九月。自称“Youtube影像时代的流行艺术家”，积极进行LIVE活动与音乐合作。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ead227f6-7689-46b6-9fd2-3f6a37acbdc1"
+  },
+  "edges": [
+    {
+      "to": "fishmans",
+      "toName": "Fishmans+",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "永井聖一・やくしまるえつこ・ZAK",
+      "detail": "3 位乐手在这两支乐队都待过：永井聖一・やくしまるえつこ・ZAK。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "集団行動",
+      "toName": "集団行動",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "真部脩一・西浦謙助",
+      "detail": "2 位乐手在这两支乐队都待过：真部脩一・西浦謙助。",
+      "year": 2017,
+      "weight": 0.84
+    },
+    {
+      "to": "フォークデュオ",
+      "toName": "フォークデュオ",
+      "toArea": null,
+      "toYears": "2018–",
+      "type": "member",
+      "label": "真部脩一・西浦謙助",
+      "detail": "2 位乐手在这两支乐队都待过：真部脩一・西浦謙助。",
+      "year": 2006,
+      "weight": 0.84
+    },
+    {
+      "to": "luminous-orange",
+      "toName": "Luminous Orange",
+      "toArea": "横滨",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "西浦謙助",
+      "detail": "西浦謙助 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "vampillia",
+      "toName": "Vampillia",
+      "toArea": "大阪",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "真部脩一",
+      "detail": "真部脩一 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "古都の夕べ",
+      "toName": "古都の夕べ",
+      "toArea": "东京",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "真部脩一",
+      "detail": "真部脩一 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "violent-magic-orchestra",
+      "toName": "Violent Magic Orchestra",
+      "toArea": "[Worldwide]",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "真部脩一",
+      "detail": "真部脩一 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "testset",
+      "toName": "TESTSET",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "永井聖一",
+      "detail": "永井聖一 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "qubit",
+      "toName": "QUBIT",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "永井聖一",
+      "detail": "永井聖一 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "xavier",
+      "toName": "Xavier",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "ZAK",
+      "detail": "ZAK 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "やくしまるえつこメトロオーケストラ",
+      "toName": "やくしまるえつこメトロオーケストラ",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "やくしまるえつこ",
+      "detail": "やくしまるえつこ 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,61 @@
+{
+  "id": "deli-creeps",
+  "mbid": "9ee41ce7-b865-46f1-8f02-895c950b0a8a",
+  "name": "Deli Creeps",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [
+    "Avant-Garde",
+    "Avant-Garde Metal",
+    "Experimental"
+  ],
+  "albums": [
+    {
+      "title": "Dawn of the Deli Creeps",
+      "year": 2001
+    }
+  ],
+  "intro": "The Deli Creeps were an avant-garde metal band consisting of singer Maximum Bob, guitarist Buckethead, drummer Pinchface and various bass players, most recently Daniel Monti.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9ee41ce7-b865-46f1-8f02-895c950b0a8a"
+  },
+  "edges": [
+    {
+      "to": "cornbugs",
+      "toName": "Cornbugs",
+      "toArea": "美国",
+      "toYears": "1995–2007",
+      "type": "member",
+      "label": "Pinchface",
+      "detail": "Pinchface 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "cobra-strike",
+      "toName": "Cobra Strike",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Pinchface",
+      "detail": "Pinchface 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "gorgone",
+      "toName": "Gorgone",
+      "toArea": "France",
+      "toYears": null,
+      "type": "member",
+      "label": "Pinchface",
+      "detail": "Pinchface 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

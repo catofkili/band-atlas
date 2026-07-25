@@ -3,6 +3,8 @@
   "mbid": "dd5c73d5-53df-4be1-8290-a5d2082159b1",
   "name": "The Red Krayola",
   "area": "Houston",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1966–",
   "genres": [
     "Experimental Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "レッド・クレイオラは、テキサス州ヒューストンで1966年に結成されたアメリカのアヴァンギャルド・ロック・バンド。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dd5c73d5-53df-4be1-8290-a5d2082159b1"
   },

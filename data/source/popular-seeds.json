@@ -1,0 +1,5964 @@
+{
+  "note": "ListenBrainz 全站 all_time 收听量榜；crawl.mjs 会按此顺序扩展，并过滤非乐队条目。",
+  "fetchedAt": "2026-07-25T10:55:51.207Z",
+  "seeds": [
+    {
+      "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+      "name": "Radiohead",
+      "listens": 3122738,
+      "rank": 1
+    },
+    {
+      "mbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+      "name": "Daft Punk",
+      "listens": 2602411,
+      "rank": 2
+    },
+    {
+      "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+      "name": "The Beatles",
+      "listens": 2594606,
+      "rank": 3
+    },
+    {
+      "mbid": "f59c5520-5f46-4d2c-b2c4-822eabf53419",
+      "name": "Linkin Park",
+      "listens": 2574569,
+      "rank": 4
+    },
+    {
+      "mbid": "164f0d73-1234-4e2c-8743-d77bf2191051",
+      "name": "Ye",
+      "listens": 2419531,
+      "rank": 5
+    },
+    {
+      "mbid": "381086ea-f511-4aba-bdf9-71c753dc5077",
+      "name": "Kendrick Lamar",
+      "listens": 2417849,
+      "rank": 6
+    },
+    {
+      "mbid": "83d91898-7763-47d7-b03b-b92132375c47",
+      "name": "Pink Floyd",
+      "listens": 2326635,
+      "rank": 7
+    },
+    {
+      "mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+      "name": "Gorillaz",
+      "listens": 2190635,
+      "rank": 8
+    },
+    {
+      "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+      "name": "Coldplay",
+      "listens": 2088780,
+      "rank": 9
+    },
+    {
+      "mbid": "b95ce3ff-3d05-4e87-9e01-c97b66af13d4",
+      "name": "Eminem",
+      "listens": 2045403,
+      "rank": 10
+    },
+    {
+      "mbid": "5b11f4ce-a62d-471e-81fc-a69a8278c7da",
+      "name": "Nirvana",
+      "listens": 2001999,
+      "rank": 11
+    },
+    {
+      "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+      "name": "Queen",
+      "listens": 2001148,
+      "rank": 12
+    },
+    {
+      "mbid": "5441c29d-3602-4898-b1a1-b77fa23b8e50",
+      "name": "David Bowie",
+      "listens": 1944086,
+      "rank": 13
+    },
+    {
+      "mbid": "20244d07-534f-4eff-b4d4-930878889970",
+      "name": "Taylor Swift",
+      "listens": 1936187,
+      "rank": 14
+    },
+    {
+      "mbid": "c8b03190-306c-4120-bb0b-6f2ebfc06ea9",
+      "name": "The Weeknd",
+      "listens": 1932115,
+      "rank": 15
+    },
+    {
+      "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+      "name": "Red Hot Chili Peppers",
+      "listens": 1909664,
+      "rank": 16
+    },
+    {
+      "mbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+      "name": "Muse",
+      "listens": 1856452,
+      "rank": 17
+    },
+    {
+      "mbid": "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab",
+      "name": "Metallica",
+      "listens": 1851607,
+      "rank": 18
+    },
+    {
+      "mbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+      "name": "Arctic Monkeys",
+      "listens": 1808385,
+      "rank": 19
+    },
+    {
+      "mbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+      "name": "System of a Down",
+      "listens": 1797059,
+      "rank": 20
+    },
+    {
+      "mbid": "084308bd-1654-436f-ba03-df6697104e19",
+      "name": "Green Day",
+      "listens": 1701931,
+      "rank": 21
+    },
+    {
+      "mbid": "f6beac20-5dfe-4d1f-ae02-0b0a740aafd6",
+      "name": "Tyler, The Creator",
+      "listens": 1587994,
+      "rank": 22
+    },
+    {
+      "mbid": "63aa26c3-d59b-4da4-84ac-716b54f1ef4d",
+      "name": "Tame Impala",
+      "listens": 1585927,
+      "rank": 23
+    },
+    {
+      "mbid": "9fff2f8a-21e6-47de-a2b8-7f449929d43f",
+      "name": "Drake",
+      "listens": 1567193,
+      "rank": 24
+    },
+    {
+      "mbid": "678d88b2-87b0-403b-b63d-5da7465aecc3",
+      "name": "Led Zeppelin",
+      "listens": 1511643,
+      "rank": 25
+    },
+    {
+      "mbid": "0d79fe8e-ba27-4859-bb8c-2f255f346853",
+      "name": "BTS",
+      "listens": 1502899,
+      "rank": 26
+    },
+    {
+      "mbid": "f4abc0b5-3f7a-4eff-8f78-ac078dbce533",
+      "name": "Billie Eilish",
+      "listens": 1497872,
+      "rank": 27
+    },
+    {
+      "mbid": "67f66c07-6e61-4026-ade5-7e782fad3a5d",
+      "name": "Foo Fighters",
+      "listens": 1450166,
+      "rank": 28
+    },
+    {
+      "mbid": "650e7db6-b795-4eb5-a702-5ea2fc46c848",
+      "name": "Lady Gaga",
+      "listens": 1442214,
+      "rank": 29
+    },
+    {
+      "mbid": "260b6184-8828-48eb-945c-bc4cb6fc34ca",
+      "name": "Charli xcx",
+      "listens": 1438441,
+      "rank": 30
+    },
+    {
+      "mbid": "b7539c32-53e7-4908-bda3-81449c367da6",
+      "name": "Lana Del Rey",
+      "listens": 1430109,
+      "rank": 31
+    },
+    {
+      "mbid": "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
+      "name": "Nine Inch Nails",
+      "listens": 1388088,
+      "rank": 32
+    },
+    {
+      "mbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+      "name": "The Cure",
+      "listens": 1387837,
+      "rank": 33
+    },
+    {
+      "mbid": "012151a8-0f9a-44c9-997f-ebd68b5389f9",
+      "name": "Imagine Dragons",
+      "listens": 1355321,
+      "rank": 34
+    },
+    {
+      "mbid": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+      "name": "The Rolling Stones",
+      "listens": 1344425,
+      "rank": 35
+    },
+    {
+      "mbid": "f27ec8db-af05-4f36-916e-3d57f91ecf5e",
+      "name": "Michael Jackson",
+      "listens": 1325002,
+      "rank": 36
+    },
+    {
+      "mbid": "73e5e69d-3554-40d8-8516-00cb38737a1c",
+      "name": "Rihanna",
+      "listens": 1323027,
+      "rank": 37
+    },
+    {
+      "mbid": "f22942a1-6f70-4f48-866e-238cb2308fbd",
+      "name": "Aphex Twin",
+      "listens": 1309945,
+      "rank": 38
+    },
+    {
+      "mbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+      "name": "The Strokes",
+      "listens": 1269320,
+      "rank": 39
+    },
+    {
+      "mbid": "f4fdbb4c-e4b7-47a0-b83b-d91bbfcfa387",
+      "name": "Ariana Grande",
+      "listens": 1256599,
+      "rank": 40
+    },
+    {
+      "mbid": "6fe07aa5-fec0-4eca-a456-f29bff451b04",
+      "name": "Weezer",
+      "listens": 1237528,
+      "rank": 41
+    },
+    {
+      "mbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+      "name": "Depeche Mode",
+      "listens": 1232344,
+      "rank": 42
+    },
+    {
+      "mbid": "44cf61b8-5197-448a-b82b-cef6ee89fac5",
+      "name": "Paramore",
+      "listens": 1230976,
+      "rank": 43
+    },
+    {
+      "mbid": "ba0d6274-db14-4ef5-b28d-657ebde1a396",
+      "name": "The Smashing Pumpkins",
+      "listens": 1224473,
+      "rank": 44
+    },
+    {
+      "mbid": "b2d122f9-eadb-4930-a196-8f221eeb0c66",
+      "name": "Rammstein",
+      "listens": 1212029,
+      "rank": 45
+    },
+    {
+      "mbid": "95e1ead9-4d31-4808-a7ac-32c3614c116b",
+      "name": "The Killers",
+      "listens": 1210426,
+      "rank": 46
+    },
+    {
+      "mbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+      "name": "Deftones",
+      "listens": 1209836,
+      "rank": 47
+    },
+    {
+      "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+      "name": "Fleetwood Mac",
+      "listens": 1192844,
+      "rank": 48
+    },
+    {
+      "mbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
+      "name": "My Chemical Romance",
+      "listens": 1192093,
+      "rank": 49
+    },
+    {
+      "mbid": "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8",
+      "name": "Queens of the Stone Age",
+      "listens": 1191405,
+      "rank": 50
+    },
+    {
+      "mbid": "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67",
+      "name": "twenty one pilots",
+      "listens": 1179072,
+      "rank": 51
+    },
+    {
+      "mbid": "66fc5bf8-daa4-4241-b378-9bc9077939d2",
+      "name": "Tool",
+      "listens": 1178548,
+      "rank": 52
+    },
+    {
+      "mbid": "6f1a58bf-9b1b-49cf-a44a-6cefad7ae04f",
+      "name": "Dua Lipa",
+      "listens": 1171021,
+      "rank": 53
+    },
+    {
+      "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+      "name": "Black Sabbath",
+      "listens": 1168158,
+      "rank": 54
+    },
+    {
+      "mbid": "66c662b6-6e2f-4930-8610-912e24c63ed1",
+      "name": "AC/DC",
+      "listens": 1164165,
+      "rank": 55
+    },
+    {
+      "mbid": "e520459c-dff4-491d-a6e4-c97be35e0044",
+      "name": "Frank Ocean",
+      "listens": 1157082,
+      "rank": 56
+    },
+    {
+      "mbid": "516cef4d-0718-4007-9939-f9b38af3f784",
+      "name": "Fall Out Boy",
+      "listens": 1153698,
+      "rank": 57
+    },
+    {
+      "mbid": "e4a51f17-a57b-47b1-b37b-f552d0f8e9e6",
+      "name": "Travis Scott",
+      "listens": 1139419,
+      "rank": 58
+    },
+    {
+      "mbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
+      "name": "The Offspring",
+      "listens": 1135044,
+      "rank": 59
+    },
+    {
+      "mbid": "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27",
+      "name": "The Smiths",
+      "listens": 1132791,
+      "rank": 60
+    },
+    {
+      "mbid": "69158f97-4c07-4c4e-baf8-4e4ab1ed666e",
+      "name": "Boards of Canada",
+      "listens": 1131759,
+      "rank": 61
+    },
+    {
+      "mbid": "b8a7c51f-362c-4dcb-a259-bc6e0095f0a6",
+      "name": "Ed Sheeran",
+      "listens": 1121796,
+      "rank": 62
+    },
+    {
+      "mbid": "10adbe5e-a2c0-4bf3-8249-2b4cbf6e6ca8",
+      "name": "Massive Attack",
+      "listens": 1120457,
+      "rank": 63
+    },
+    {
+      "mbid": "0743b15a-3c32-48c8-ad58-cb325350befa",
+      "name": "blink‐182",
+      "listens": 1118607,
+      "rank": 64
+    },
+    {
+      "mbid": "52074ba6-e495-4ef3-9bb4-0703888a9f68",
+      "name": "Arcade Fire",
+      "listens": 1097682,
+      "rank": 65
+    },
+    {
+      "mbid": "87c5dedd-371d-4a53-9f7f-80522fb7f3cb",
+      "name": "Björk",
+      "listens": 1080333,
+      "rank": 66
+    },
+    {
+      "mbid": "72c536dc-7137-4477-a521-567eeb840fa8",
+      "name": "Bob Dylan",
+      "listens": 1063489,
+      "rank": 67
+    },
+    {
+      "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+      "name": "Iron Maiden",
+      "listens": 1055670,
+      "rank": 68
+    },
+    {
+      "mbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+      "name": "Slipknot",
+      "listens": 1055360,
+      "rank": 69
+    },
+    {
+      "mbid": "3798b104-01cb-484c-a3b0-56adc6399b80",
+      "name": "Rage Against the Machine",
+      "listens": 1048764,
+      "rank": 70
+    },
+    {
+      "mbid": "b6b2bb8d-54a9-491f-9607-7b546023b433",
+      "name": "Pixies",
+      "listens": 1044195,
+      "rank": 71
+    },
+    {
+      "mbid": "11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5",
+      "name": "The White Stripes",
+      "listens": 1034600,
+      "rank": 72
+    },
+    {
+      "mbid": "c485632c-b784-4ee9-8ea1-c5fb365681fc",
+      "name": "MGMT",
+      "listens": 1032210,
+      "rank": 73
+    },
+    {
+      "mbid": "b1e26560-60e5-4236-bbdb-9aa5a8d5ee19",
+      "name": "Post Malone",
+      "listens": 1027188,
+      "rank": 74
+    },
+    {
+      "mbid": "f82bcf78-5b69-4622-a5ef-73800768d9ac",
+      "name": "JAY‐Z",
+      "listens": 1022376,
+      "rank": 75
+    },
+    {
+      "mbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+      "name": "U2",
+      "listens": 1018004,
+      "rank": 76
+    },
+    {
+      "mbid": "7fb57fba-a6ef-44c2-abab-2fa3bdee607e",
+      "name": "Childish Gambino",
+      "listens": 1017698,
+      "rank": 77
+    },
+    {
+      "mbid": "83b9cbe7-9857-49e2-ab8e-b57b01038103",
+      "name": "Pearl Jam",
+      "listens": 1014992,
+      "rank": 78
+    },
+    {
+      "mbid": "25b7b584-d952-4662-a8b9-dd8cdfbfeb64",
+      "name": "A$AP Rocky",
+      "listens": 1014094,
+      "rank": 79
+    },
+    {
+      "mbid": "4a4ee089-93b1-4470-af9a-6ff575d32704",
+      "name": "The Prodigy",
+      "listens": 1012157,
+      "rank": 80
+    },
+    {
+      "mbid": "ea4dfa26-f633-4da6-a52a-f49ea4897b58",
+      "name": "R.E.M.",
+      "listens": 1011250,
+      "rank": 81
+    },
+    {
+      "mbid": "074e3847-f67f-49f9-81f1-8c8cea147e8e",
+      "name": "Bring Me the Horizon",
+      "listens": 1008273,
+      "rank": 82
+    },
+    {
+      "mbid": "2f548675-008d-4332-876c-108b0c7ab9c5",
+      "name": "Sia",
+      "listens": 991402,
+      "rank": 83
+    },
+    {
+      "mbid": "d15721d8-56b4-453d-b506-fc915b14cba2",
+      "name": "The Black Keys",
+      "listens": 980184,
+      "rank": 84
+    },
+    {
+      "mbid": "ac9a487a-d9d2-4f27-bb23-0f4686488345",
+      "name": "Lil Wayne",
+      "listens": 975175,
+      "rank": 85
+    },
+    {
+      "mbid": "01d3c51b-9b98-418a-8d8e-37f6fab59d8c",
+      "name": "Sufjan Stevens",
+      "listens": 974376,
+      "rank": 86
+    },
+    {
+      "mbid": "5fee3020-513b-48c2-b1f7-4681b01db0c6",
+      "name": "Florence + the Machine",
+      "listens": 970453,
+      "rank": 87
+    },
+    {
+      "mbid": "8e494408-8620-4c6a-82c2-c2ca4a1e4f12",
+      "name": "Lorde",
+      "listens": 968245,
+      "rank": 88
+    },
+    {
+      "mbid": "48262e82-db9f-4a92-b650-dfef979b73ec",
+      "name": "Future",
+      "listens": 965472,
+      "rank": 89
+    },
+    {
+      "mbid": "9efff43b-3b29-4082-824e-bc82f646f93d",
+      "name": "The Doors",
+      "listens": 957038,
+      "rank": 90
+    },
+    {
+      "mbid": "ac865b2e-bba8-4f5a-8756-dd40d5e39f46",
+      "name": "Korn",
+      "listens": 956108,
+      "rank": 91
+    },
+    {
+      "mbid": "eeb1195b-f213-4ce1-b28c-8565211f8e43",
+      "name": "Guns N’ Roses",
+      "listens": 955593,
+      "rank": 92
+    },
+    {
+      "mbid": "859d0860-d480-4efd-970c-c05d5f1776b8",
+      "name": "Beyoncé",
+      "listens": 953685,
+      "rank": 93
+    },
+    {
+      "mbid": "3377f3bb-60fc-4403-aea9-7e800612e060",
+      "name": "Halsey",
+      "listens": 950244,
+      "rank": 94
+    },
+    {
+      "mbid": "b9472588-93f3-4922-a1a2-74082cdf9ce8",
+      "name": "Panic! at the Disco",
+      "listens": 944556,
+      "rank": 95
+    },
+    {
+      "mbid": "122d63fc-8671-43e4-9752-34e846d62a9c",
+      "name": "Katy Perry",
+      "listens": 944421,
+      "rank": 96
+    },
+    {
+      "mbid": "875203e1-8e58-4b86-8dcb-7190faf411c5",
+      "name": "J. Cole",
+      "listens": 942627,
+      "rank": 97
+    },
+    {
+      "mbid": "272989c8-5535-492d-a25c-9f58803e027f",
+      "name": "SZA",
+      "listens": 938688,
+      "rank": 98
+    },
+    {
+      "mbid": "309c62ba-7a22-4277-9f67-4a162526d18a",
+      "name": "Beck",
+      "listens": 936711,
+      "rank": 99
+    },
+    {
+      "mbid": "39ab1aed-75e0-4140-bd47-540276886b60",
+      "name": "Oasis",
+      "listens": 934724,
+      "rank": 100
+    },
+    {
+      "mbid": "79239441-bfd5-4981-a70c-55c3f15c1287",
+      "name": "Madonna",
+      "listens": 934176,
+      "rank": 101
+    },
+    {
+      "mbid": "302bd7b9-d012-4360-897a-93b00c855680",
+      "name": "David Guetta",
+      "listens": 922266,
+      "rank": 102
+    },
+    {
+      "mbid": "0ab49580-c84f-44d4-875f-d83760ea2cfe",
+      "name": "Maroon 5",
+      "listens": 917554,
+      "rank": 103
+    },
+    {
+      "mbid": "b83bc61f-8451-4a5d-8b8e-7e9ed295e822",
+      "name": "Elton John",
+      "listens": 914174,
+      "rank": 104
+    },
+    {
+      "mbid": "8dd98bdc-80ec-4e93-8509-2f46bafc09a7",
+      "name": "Calvin Harris",
+      "listens": 913178,
+      "rank": 105
+    },
+    {
+      "mbid": "e6de1f3b-6484-491c-88dd-6d619f142abc",
+      "name": "Hans Zimmer",
+      "listens": 906968,
+      "rank": 106
+    },
+    {
+      "mbid": "f90e8b26-9e52-4669-a5c9-e28529c47894",
+      "name": "Snoop Dogg",
+      "listens": 888688,
+      "rank": 107
+    },
+    {
+      "mbid": "6d7b7cd4-254b-4c25-83f6-dd20f98ceacd",
+      "name": "M83",
+      "listens": 885186,
+      "rank": 108
+    },
+    {
+      "mbid": "a94a7155-c79d-4409-9fcf-220cb0e4dc3a",
+      "name": "Talking Heads",
+      "listens": 882717,
+      "rank": 109
+    },
+    {
+      "mbid": "d43d12a1-2dc9-4257-a2fd-0a3bb1081b86",
+      "name": "Johnny Cash",
+      "listens": 879680,
+      "rank": 110
+    },
+    {
+      "mbid": "afb680f2-b6eb-4cd7-a70b-a63b25c763d5",
+      "name": "Bruno Mars",
+      "listens": 878376,
+      "rank": 111
+    },
+    {
+      "mbid": "1036b808-f58c-4a3e-b461-a2c4492ecf1b",
+      "name": "Nicki Minaj",
+      "listens": 876795,
+      "rank": 112
+    },
+    {
+      "mbid": "437a0e49-c6ae-42f6-a6c1-84f25ed366bc",
+      "name": "Bon Iver",
+      "listens": 871224,
+      "rank": 113
+    },
+    {
+      "mbid": "8970d868-0723-483b-a75b-51088913d3d4",
+      "name": "Moby",
+      "listens": 863393,
+      "rank": 114
+    },
+    {
+      "mbid": "ba853904-ae25-4ebb-89d6-c44cfbd71bd2",
+      "name": "Blur",
+      "listens": 851092,
+      "rank": 115
+    },
+    {
+      "mbid": "8f6bd1e4-fbe1-4f50-aa9b-94c450ec0f11",
+      "name": "Portishead",
+      "listens": 847766,
+      "rank": 116
+    },
+    {
+      "mbid": "ebfc1398-8d96-47e3-82c3-f782abcdb13d",
+      "name": "The Beach Boys",
+      "listens": 843958,
+      "rank": 117
+    },
+    {
+      "mbid": "4bd95eea-b9f6-4d70-a36c-cfea77431553",
+      "name": "Alice in Chains",
+      "listens": 842058,
+      "rank": 118
+    },
+    {
+      "mbid": "cc2c9c3c-b7bc-4b8b-84d8-4fbd8779e493",
+      "name": "Adele",
+      "listens": 841552,
+      "rank": 119
+    },
+    {
+      "mbid": "7e5a2a59-6d9f-4a17-b7c2-e1eedb7bd222",
+      "name": "Grimes",
+      "listens": 837732,
+      "rank": 120
+    },
+    {
+      "mbid": "9beb62b2-88db-4cea-801e-162cd344ee53",
+      "name": "Beastie Boys",
+      "listens": 834308,
+      "rank": 121
+    },
+    {
+      "mbid": "ae002c5d-aac6-490b-a39a-30aa9e2edf2b",
+      "name": "Skrillex",
+      "listens": 830864,
+      "rank": 122
+    },
+    {
+      "mbid": "e0140a67-e4d1-4f13-8a01-364355bee46e",
+      "name": "Justin Bieber",
+      "listens": 827177,
+      "rank": 123
+    },
+    {
+      "mbid": "149f91ef-1287-46da-9a8e-87fee02f1471",
+      "name": "Pharrell Williams",
+      "listens": 826196,
+      "rank": 124
+    },
+    {
+      "mbid": "a96ac800-bfcb-412a-8a63-0a98df600700",
+      "name": "Modest Mouse",
+      "listens": 812786,
+      "rank": 125
+    },
+    {
+      "mbid": "614e3804-7d34-41ba-857f-811bad7c2b7a",
+      "name": "Dire Straits",
+      "listens": 805865,
+      "rank": 126
+    },
+    {
+      "mbid": "c5c2ea1c-4bde-4f4d-bd0b-47b200bf99d6",
+      "name": "The xx",
+      "listens": 801418,
+      "rank": 127
+    },
+    {
+      "mbid": "8f92558c-2baa-4758-8c38-615519e9deda",
+      "name": "The Clash",
+      "listens": 799573,
+      "rank": 128
+    },
+    {
+      "mbid": "45a663b5-b1cb-4a91-bff6-2bef7bbfdd76",
+      "name": "Britney Spears",
+      "listens": 799495,
+      "rank": 129
+    },
+    {
+      "mbid": "8264722b-df00-467a-858e-5c97cda169c9",
+      "name": "Joji",
+      "listens": 797947,
+      "rank": 130
+    },
+    {
+      "mbid": "2baf3276-ed6a-4349-8d2e-f4601e7b2167",
+      "name": "Playboi Carti",
+      "listens": 797179,
+      "rank": 131
+    },
+    {
+      "mbid": "4bb4e4e4-5f66-4509-98af-62dbb90c45c5",
+      "name": "Disturbed",
+      "listens": 791596,
+      "rank": 132
+    },
+    {
+      "mbid": "d87e52c5-bb8d-4da8-b941-9f4928627dc8",
+      "name": "ABBA",
+      "listens": 790545,
+      "rank": 133
+    },
+    {
+      "mbid": "0039c7ae-e1a7-4a7d-9b49-0cbc716821a6",
+      "name": "Death Cab for Cutie",
+      "listens": 787432,
+      "rank": 134
+    },
+    {
+      "mbid": "9a58fda3-f4ed-4080-a3a5-f457aac9fcdd",
+      "name": "Joy Division",
+      "listens": 787288,
+      "rank": 135
+    },
+    {
+      "mbid": "d5cc67b8-1cc4-453b-96e8-44487acdebea",
+      "name": "Beach House",
+      "listens": 783243,
+      "rank": 136
+    },
+    {
+      "mbid": "aa7a2827-f74b-473c-bd79-03d065835cf7",
+      "name": "Franz Ferdinand",
+      "listens": 779123,
+      "rank": 137
+    },
+    {
+      "mbid": "5df62a88-cac9-490a-b62c-c7c88f4020f4",
+      "name": "Doja Cat",
+      "listens": 776222,
+      "rank": 138
+    },
+    {
+      "mbid": "109958eb-a335-4c5e-907e-597ff4c6af46",
+      "name": "Creedence Clearwater Revival",
+      "listens": 773530,
+      "rank": 139
+    },
+    {
+      "mbid": "fac55e3c-d459-45ed-9f9f-f5078d3b3423",
+      "name": "C418",
+      "listens": 764674,
+      "rank": 140
+    },
+    {
+      "mbid": "f9133036-ab3d-4e97-bd11-7a2c98ad148a",
+      "name": "Death Grips",
+      "listens": 762721,
+      "rank": 141
+    },
+    {
+      "mbid": "f4a31f0a-51dd-4fa7-986d-3095c40c5ed9",
+      "name": "Evanescence",
+      "listens": 761651,
+      "rank": 142
+    },
+    {
+      "mbid": "847e8284-8582-4b0e-9c26-b042a4f49e57",
+      "name": "Placebo",
+      "listens": 759879,
+      "rank": 143
+    },
+    {
+      "mbid": "5dfdca28-9ddc-4853-933c-8bc97d87beec",
+      "name": "Marilyn Manson",
+      "listens": 753993,
+      "rank": 144
+    },
+    {
+      "mbid": "e0e1db18-f7ba-4dee-95ff-7ae8cf545460",
+      "name": "Kid Cudi",
+      "listens": 752357,
+      "rank": 145
+    },
+    {
+      "mbid": "fa58cf24-0e44-421d-8519-8bf461dcfaa5",
+      "name": "Mitski",
+      "listens": 751991,
+      "rank": 146
+    },
+    {
+      "mbid": "f58384a4-2ad2-4f24-89c5-c7b74ae1cce7",
+      "name": "King Gizzard & the Lizard Wizard",
+      "listens": 749064,
+      "rank": 147
+    },
+    {
+      "mbid": "606bf117-494f-4864-891f-09d63ff6aa4b",
+      "name": "Rise Against",
+      "listens": 747956,
+      "rank": 148
+    },
+    {
+      "mbid": "af37c51c-0790-4a29-b995-456f98a6b8c9",
+      "name": "Vampire Weekend",
+      "listens": 743668,
+      "rank": 149
+    },
+    {
+      "mbid": "33ca19f4-18c8-4411-98df-ac23890ce9f5",
+      "name": "Ellie Goulding",
+      "listens": 743236,
+      "rank": 150
+    },
+    {
+      "mbid": "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e",
+      "name": "Megadeth",
+      "listens": 742792,
+      "rank": 151
+    },
+    {
+      "mbid": "664c3e0e-42d8-48c1-b209-1efca19c0325",
+      "name": "The National",
+      "listens": 736417,
+      "rank": 152
+    },
+    {
+      "mbid": "fc7bbf00-fbaa-4736-986b-b3ac0266ca9b",
+      "name": "alt‐J",
+      "listens": 735855,
+      "rank": 153
+    },
+    {
+      "mbid": "1c26f82c-b35d-4c8e-a1f4-9c20747495c9",
+      "name": "Toby Fox",
+      "listens": 734782,
+      "rank": 154
+    },
+    {
+      "mbid": "c85cfd6b-b1e9-4a50-bd55-eb725f04f7d5",
+      "name": "Avicii",
+      "listens": 734714,
+      "rank": 155
+    },
+    {
+      "mbid": "73fdb566-a9b1-494c-9f32-51768ec9fd27",
+      "name": "OutKast",
+      "listens": 734085,
+      "rank": 156
+    },
+    {
+      "mbid": "a0e8a1b1-5f8f-475a-a253-17415c17d0ff",
+      "name": "Mac Miller",
+      "listens": 732657,
+      "rank": 157
+    },
+    {
+      "mbid": "1946a82a-f927-40c2-8235-38d64f50d043",
+      "name": "The Chemical Brothers",
+      "listens": 727419,
+      "rank": 158
+    },
+    {
+      "mbid": "860b2707-6153-4e3a-aa57-74d2b42c55b5",
+      "name": "Justice",
+      "listens": 726557,
+      "rank": 159
+    },
+    {
+      "mbid": "6925db17-f35e-42f3-a4eb-84ee6bf5d4b0",
+      "name": "Olivia Rodrigo",
+      "listens": 725574,
+      "rank": 160
+    },
+    {
+      "mbid": "70248960-cb53-4ea4-943a-edb18f7d336f",
+      "name": "Bruce Springsteen",
+      "listens": 725349,
+      "rank": 161
+    },
+    {
+      "mbid": "9a709693-b4f8-4da9-8cc1-038c911a61be",
+      "name": "Bonobo",
+      "listens": 724346,
+      "rank": 162
+    },
+    {
+      "mbid": "cb67438a-7f50-4f2b-a6f1-2bb2729fd538",
+      "name": "Air",
+      "listens": 724013,
+      "rank": 163
+    },
+    {
+      "mbid": "f2492c31-54a8-4347-a1fc-f81f72873bbf",
+      "name": "Mac DeMarco",
+      "listens": 722714,
+      "rank": 164
+    },
+    {
+      "mbid": "c296e10c-110a-4103-9e77-47bfebb7fb2e",
+      "name": "Bob Marley & The Wailers",
+      "listens": 720971,
+      "rank": 165
+    },
+    {
+      "mbid": "f1106b17-dcbb-45f6-b938-199ccfab50cc",
+      "name": "New Order",
+      "listens": 720210,
+      "rank": 166
+    },
+    {
+      "mbid": "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa",
+      "name": "The Who",
+      "listens": 719522,
+      "rank": 167
+    },
+    {
+      "mbid": "188711ed-c99b-439c-844a-ca831f63a727",
+      "name": "MF DOOM",
+      "listens": 716451,
+      "rank": 168
+    },
+    {
+      "mbid": "f6f2326f-6b25-4170-b89d-e235b25508e8",
+      "name": "Sigur Rós",
+      "listens": 716214,
+      "rank": 169
+    },
+    {
+      "mbid": "00a9f935-ba93-4fc8-a33a-993abe9c936b",
+      "name": "Nightwish",
+      "listens": 716008,
+      "rank": 170
+    },
+    {
+      "mbid": "4a00ec9d-c635-463a-8cd4-eb61725f0c60",
+      "name": "deadmau5",
+      "listens": 714728,
+      "rank": 171
+    },
+    {
+      "mbid": "b23e8a63-8f47-4882-b55b-df2c92ef400e",
+      "name": "Interpol",
+      "listens": 714041,
+      "rank": 172
+    },
+    {
+      "mbid": "b1570544-93ab-4b2b-8398-131735394202",
+      "name": "Crystal Castles",
+      "listens": 713151,
+      "rank": 173
+    },
+    {
+      "mbid": "0103c1cc-4a09-4a5d-a344-56ad99a77193",
+      "name": "Avril Lavigne",
+      "listens": 707824,
+      "rank": 174
+    },
+    {
+      "mbid": "4e4ebde4-0c56-4dec-844b-6c73adcdd92d",
+      "name": "Juice WRLD",
+      "listens": 707608,
+      "rank": 175
+    },
+    {
+      "mbid": "06fb1c8b-566e-4cb2-985b-b467c90781d4",
+      "name": "Jimi Hendrix",
+      "listens": 705458,
+      "rank": 176
+    },
+    {
+      "mbid": "197450cd-0124-4164-b723-3c22dd16494d",
+      "name": "Frank Sinatra",
+      "listens": 704975,
+      "rank": 177
+    },
+    {
+      "mbid": "c42e60f4-4520-4954-b6e4-82bbdf532c11",
+      "name": "JPEGMAFIA",
+      "listens": 702282,
+      "rank": 178
+    },
+    {
+      "mbid": "8f9d6bb2-dba4-4cca-9967-cc02b9f4820c",
+      "name": "Limp Bizkit",
+      "listens": 701856,
+      "rank": 179
+    },
+    {
+      "mbid": "8837b875-3689-4646-b3fd-d8b53815c7a8",
+      "name": "Lil Uzi Vert",
+      "listens": 699929,
+      "rank": 180
+    },
+    {
+      "mbid": "c33c2065-b1c3-4406-b066-d33a9e2ea71a",
+      "name": "OneRepublic",
+      "listens": 694128,
+      "rank": 181
+    },
+    {
+      "mbid": "6ffb8ea9-2370-44d8-b678-e9237bbd347b",
+      "name": "Kings of Leon",
+      "listens": 692413,
+      "rank": 182
+    },
+    {
+      "mbid": "960afc67-9c21-46dd-9c7f-ff2b509e3150",
+      "name": "Danny Brown",
+      "listens": 689557,
+      "rank": 183
+    },
+    {
+      "mbid": "9e0e2b01-41db-4008-bd8b-988977d6019a",
+      "name": "The Police",
+      "listens": 689513,
+      "rank": 184
+    },
+    {
+      "mbid": "3d2b98e5-556f-4451-a3ff-c50ea18d57cb",
+      "name": "Aerosmith",
+      "listens": 688676,
+      "rank": 185
+    },
+    {
+      "mbid": "1ee18fb3-18a6-4c7f-8ba0-bc41cdd0462e",
+      "name": "Stevie Wonder",
+      "listens": 685512,
+      "rank": 186
+    },
+    {
+      "mbid": "1882fe91-cdd9-49c9-9956-8e06a3810bd4",
+      "name": "Sabrina Carpenter",
+      "listens": 685322,
+      "rank": 187
+    },
+    {
+      "mbid": "09887aa7-226e-4ecc-9a0c-02d2ae5777e1",
+      "name": "Carly Rae Jepsen",
+      "listens": 683963,
+      "rank": 188
+    },
+    {
+      "mbid": "75167b8b-44e4-407b-9d35-effe87b223cf",
+      "name": "Neil Young",
+      "listens": 683391,
+      "rank": 189
+    },
+    {
+      "mbid": "ff95eb47-41c4-4f7f-a104-cdc30f02e872",
+      "name": "Brian Eno",
+      "listens": 679923,
+      "rank": 190
+    },
+    {
+      "mbid": "800760de-bdf8-43a2-8fe0-44a2401a5515",
+      "name": "Young Thug",
+      "listens": 678224,
+      "rank": 191
+    },
+    {
+      "mbid": "cfbc0924-0035-4d6c-8197-f024653af823",
+      "name": "Nas",
+      "listens": 675139,
+      "rank": 192
+    },
+    {
+      "mbid": "c98d40fd-f6cf-4b26-883e-eaa515ee2851",
+      "name": "The Cranberries",
+      "listens": 673818,
+      "rank": 193
+    },
+    {
+      "mbid": "5d02f264-e225-41ff-83f7-d9b1f0b1874a",
+      "name": "Simon & Garfunkel",
+      "listens": 673771,
+      "rank": 194
+    },
+    {
+      "mbid": "d0c7656d-8169-4f77-9dbe-b8f24e40105d",
+      "name": "Kali Uchis",
+      "listens": 673512,
+      "rank": 195
+    },
+    {
+      "mbid": "153c9281-268f-4cf3-8938-f5a4593e5df4",
+      "name": "Soundgarden",
+      "listens": 669487,
+      "rank": 196
+    },
+    {
+      "mbid": "5f6ab597-f57a-40da-be9e-adad48708203",
+      "name": "Dr. Dre",
+      "listens": 667724,
+      "rank": 197
+    },
+    {
+      "mbid": "03ad1736-b7c9-412a-b442-82536d63a5c4",
+      "name": "Elliott Smith",
+      "listens": 662517,
+      "rank": 198
+    },
+    {
+      "mbid": "24e1b53c-3085-4581-8472-0b0088d2508c",
+      "name": "Avenged Sevenfold",
+      "listens": 659511,
+      "rank": 199
+    },
+    {
+      "mbid": "37b2cb82-ef79-4d46-a184-a549450aa231",
+      "name": "21 Savage",
+      "listens": 658491,
+      "rank": 200
+    },
+    {
+      "mbid": "1c70a3fc-fa3c-4be1-8b55-c3192db8a884",
+      "name": "Röyksopp",
+      "listens": 657998,
+      "rank": 201
+    },
+    {
+      "mbid": "070d193a-845c-479f-980e-bef15710653e",
+      "name": "Prince",
+      "listens": 657518,
+      "rank": 202
+    },
+    {
+      "mbid": "7e9bd05a-117f-4cce-87bc-e011527a8b18",
+      "name": "Miley Cyrus",
+      "listens": 657510,
+      "rank": 203
+    },
+    {
+      "mbid": "596ffa74-3d08-44ef-b113-765d43d12738",
+      "name": "Justin Timberlake",
+      "listens": 655162,
+      "rank": 204
+    },
+    {
+      "mbid": "5cbef01b-cc35-4f52-af7b-d0df0c4f61b9",
+      "name": "Sonic Youth",
+      "listens": 652714,
+      "rank": 205
+    },
+    {
+      "mbid": "4b585938-f271-45e2-b19a-91c634b5e396",
+      "name": "Kate Bush",
+      "listens": 652310,
+      "rank": 206
+    },
+    {
+      "mbid": "fabb37f8-eb2a-4cc1-a72a-b56935bbb72d",
+      "name": "Three Days Grace",
+      "listens": 649840,
+      "rank": 207
+    },
+    {
+      "mbid": "31745282-b1ea-4d62-939f-226b14d68e7c",
+      "name": "In Flames",
+      "listens": 647582,
+      "rank": 208
+    },
+    {
+      "mbid": "01809552-4f87-45b0-afff-2c6f0730a3be",
+      "name": "Elvis Presley",
+      "listens": 647452,
+      "rank": 209
+    },
+    {
+      "mbid": "b41b38d4-ef3e-4f37-8c75-cfe9af999696",
+      "name": "Cage the Elephant",
+      "listens": 646970,
+      "rank": 210
+    },
+    {
+      "mbid": "61af87f4-16ee-4431-8504-cc06187079fb",
+      "name": "XXXTENTACION",
+      "listens": 645034,
+      "rank": 211
+    },
+    {
+      "mbid": "f2eef649-a6d5-4114-afba-e50ab26254d2",
+      "name": "Sum 41",
+      "listens": 644312,
+      "rank": 212
+    },
+    {
+      "mbid": "91a81925-92f9-4fc9-b897-93cf01226282",
+      "name": "The Chainsmokers",
+      "listens": 642024,
+      "rank": 213
+    },
+    {
+      "mbid": "d02dd67e-f655-4600-bc47-f789f59e7367",
+      "name": "Anderson .Paak",
+      "listens": 640896,
+      "rank": 214
+    },
+    {
+      "mbid": "5f95440d-7737-4a36-9bcf-c05337f7129b",
+      "name": "Denzel Curry",
+      "listens": 640370,
+      "rank": 215
+    },
+    {
+      "mbid": "9689aa5a-4471-4fb4-9721-07cecda0fa9f",
+      "name": "A Tribe Called Quest",
+      "listens": 636669,
+      "rank": 216
+    },
+    {
+      "mbid": "64b94289-9474-4d43-8c93-918ccc1920d1",
+      "name": "Billy Joel",
+      "listens": 635574,
+      "rank": 217
+    },
+    {
+      "mbid": "beff21d3-88c7-4ee0-8b7a-40b6db22c6d7",
+      "name": "Pendulum",
+      "listens": 634586,
+      "rank": 218
+    },
+    {
+      "mbid": "c14b4180-dc87-481e-b17a-64e4150f90f6",
+      "name": "Opeth",
+      "listens": 622295,
+      "rank": 219
+    },
+    {
+      "mbid": "6a93afbb-257f-4166-b389-9f2a1e5c5df8",
+      "name": "CHVRCHES",
+      "listens": 621476,
+      "rank": 220
+    },
+    {
+      "mbid": "c3aeb863-7b26-4388-94e8-5a240f2be21b",
+      "name": "Tom Waits",
+      "listens": 620863,
+      "rank": 221
+    },
+    {
+      "mbid": "e3e0abcd-7671-4482-a9d8-462f5acc9be5",
+      "name": "Incubus",
+      "listens": 620281,
+      "rank": 222
+    },
+    {
+      "mbid": "d700b3f5-45af-4d02-95ed-57d301bda93e",
+      "name": "Mogwai",
+      "listens": 619985,
+      "rank": 223
+    },
+    {
+      "mbid": "0c502791-4ee9-4c5f-9696-0602b721ff3b",
+      "name": "Electric Light Orchestra",
+      "listens": 618890,
+      "rank": 224
+    },
+    {
+      "mbid": "4ae36ade-1798-48c4-b06b-cc68b7d3d83f",
+      "name": "Porter Robinson",
+      "listens": 618109,
+      "rank": 225
+    },
+    {
+      "mbid": "6b335658-22c8-485d-93de-0bc29a1d0349",
+      "name": "Judas Priest",
+      "listens": 617925,
+      "rank": 226
+    },
+    {
+      "mbid": "bdacc37b-8633-4bf8-9dd5-4662ee651aec",
+      "name": "Slayer",
+      "listens": 617887,
+      "rank": 227
+    },
+    {
+      "mbid": "2aaf7396-6ab8-40f3-9776-a41c42c8e26b",
+      "name": "LCD Soundsystem",
+      "listens": 617265,
+      "rank": 228
+    },
+    {
+      "mbid": "7bd66c18-cb33-49aa-9279-140acedbdb49",
+      "name": "Ty Dolla $ign",
+      "listens": 614385,
+      "rank": 229
+    },
+    {
+      "mbid": "078a9376-3c04-4280-b7d7-b20e158f345d",
+      "name": "A Perfect Circle",
+      "listens": 613714,
+      "rank": 230
+    },
+    {
+      "mbid": "28503ab7-8bf2-4666-a7bd-2644bfc7cb1d",
+      "name": "Dream Theater",
+      "listens": 609916,
+      "rank": 231
+    },
+    {
+      "mbid": "2bcf2e02-5bc3-4c76-bf76-41126cb11444",
+      "name": "Ghost",
+      "listens": 609359,
+      "rank": 232
+    },
+    {
+      "mbid": "5dcdb5eb-cb72-4e6e-9e63-b7bace604965",
+      "name": "Bon Jovi",
+      "listens": 608100,
+      "rank": 233
+    },
+    {
+      "mbid": "94b0fb9d-a066-4823-b2ec-af1d324bcfcf",
+      "name": "The Velvet Underground",
+      "listens": 607913,
+      "rank": 234
+    },
+    {
+      "mbid": "534ee493-bfac-4575-a44a-0ae41e2c3fe4",
+      "name": "Rush",
+      "listens": 607233,
+      "rank": 235
+    },
+    {
+      "mbid": "28737730-ec70-4da5-89c5-77ac13c5c34d",
+      "name": "Khalid",
+      "listens": 606668,
+      "rank": 236
+    },
+    {
+      "mbid": "8ca01f46-53ac-4af2-8516-55a909c0905e",
+      "name": "My Bloody Valentine",
+      "listens": 606120,
+      "rank": 237
+    },
+    {
+      "mbid": "89aa5ecb-59ad-46f5-b3eb-2d424e941f19",
+      "name": "Bad Bunny",
+      "listens": 604790,
+      "rank": 238
+    },
+    {
+      "mbid": "000fc734-b7e1-4a01-92d1-f544261b43f5",
+      "name": "Cocteau Twins",
+      "listens": 602223,
+      "rank": 239
+    },
+    {
+      "mbid": "b4691384-50c3-4afd-9988-51d3ec5db65d",
+      "name": "Hozier",
+      "listens": 596605,
+      "rank": 240
+    },
+    {
+      "mbid": "8aa5b65a-5b3c-4029-92bf-47a544356934",
+      "name": "Ozzy Osbourne",
+      "listens": 596218,
+      "rank": 241
+    },
+    {
+      "mbid": "a16371b9-7d36-497a-a9d4-42b0a0440c5e",
+      "name": "Slowdive",
+      "listens": 595216,
+      "rank": 242
+    },
+    {
+      "mbid": "561d854a-6a28-4aa7-8c99-323e6ce46c2a",
+      "name": "Miles Davis",
+      "listens": 591483,
+      "rank": 243
+    },
+    {
+      "mbid": "20395131-fbde-43ce-b141-b700cfdae99c",
+      "name": "Glass Animals",
+      "listens": 591329,
+      "rank": 244
+    },
+    {
+      "mbid": "a80c5dc5-b12e-4667-9f5a-b568961f3839",
+      "name": "Run the Jewels",
+      "listens": 590361,
+      "rank": 245
+    },
+    {
+      "mbid": "172e1f1a-504d-4488-b053-6344ba63e6d0",
+      "name": "Nick Cave & the Bad Seeds",
+      "listens": 588438,
+      "rank": 246
+    },
+    {
+      "mbid": "e0e1a584-dd0a-4bd1-88d1-c4c62895039d",
+      "name": "Foster the People",
+      "listens": 584288,
+      "rank": 247
+    },
+    {
+      "mbid": "78e854b8-9713-4ff2-9218-6b3784893bff",
+      "name": "Vince Staples",
+      "listens": 579781,
+      "rank": 248
+    },
+    {
+      "mbid": "c5eb9407-caeb-4303-b383-6929aa94021c",
+      "name": "Papa Roach",
+      "listens": 577384,
+      "rank": 249
+    },
+    {
+      "mbid": "4e024037-14b7-4aea-99ad-c6ace63b9620",
+      "name": "Madvillain",
+      "listens": 577099,
+      "rank": 250
+    },
+    {
+      "mbid": "6f1de078-6684-4792-820d-2ffad64c15ed",
+      "name": "Two Door Cinema Club",
+      "listens": 575073,
+      "rank": 251
+    },
+    {
+      "mbid": "8c538f11-c141-4588-8ecb-931083524186",
+      "name": "Bloc Party",
+      "listens": 574595,
+      "rank": 252
+    },
+    {
+      "mbid": "c44e9c22-ef82-4a77-9bcd-af6c958446d6",
+      "name": "Mumford & Sons",
+      "listens": 574297,
+      "rank": 253
+    },
+    {
+      "mbid": "d786f59b-1836-4ddb-8393-ab753edbe984",
+      "name": "Clairo",
+      "listens": 570556,
+      "rank": 254
+    },
+    {
+      "mbid": "044fd265-79dd-43eb-afc4-8b20becf7e17",
+      "name": "Thundercat",
+      "listens": 570389,
+      "rank": 255
+    },
+    {
+      "mbid": "59db3d82-86ea-451f-881f-dffc8ec387c9",
+      "name": "Metro Boomin",
+      "listens": 569406,
+      "rank": 256
+    },
+    {
+      "mbid": "8dc08b1f-e393-4f85-a5dd-300f7693a8b8",
+      "name": "James Blake",
+      "listens": 568511,
+      "rank": 257
+    },
+    {
+      "mbid": "584c04d2-4acc-491b-8a0a-e63133f4bfc4",
+      "name": "Yeah Yeah Yeahs",
+      "listens": 566797,
+      "rank": 258
+    },
+    {
+      "mbid": "fab34286-b8e1-4879-bce3-194e1358fbd2",
+      "name": "Kesha",
+      "listens": 566589,
+      "rank": 259
+    },
+    {
+      "mbid": "fc7376fe-1a6f-4414-b4a7-83f50ed59c92",
+      "name": "Flying Lotus",
+      "listens": 566104,
+      "rank": 260
+    },
+    {
+      "mbid": "8e3fcd7d-bda1-4ca0-b987-b8528d2ee74e",
+      "name": "Genesis",
+      "listens": 564726,
+      "rank": 261
+    },
+    {
+      "mbid": "e4bc69e2-a064-4f93-ada1-f7f209cc1cc3",
+      "name": "Selena Gomez",
+      "listens": 564402,
+      "rank": 262
+    },
+    {
+      "mbid": "dfe9a7c4-8cf2-47f4-9dcb-d233c2b86ec3",
+      "name": "Amy Winehouse",
+      "listens": 563944,
+      "rank": 263
+    },
+    {
+      "mbid": "1f43d76f-8edf-44f6-aaf1-b65f05ad9402",
+      "name": "The Flaming Lips",
+      "listens": 563815,
+      "rank": 264
+    },
+    {
+      "mbid": "1c5efd53-d6b6-4d63-9d22-a15025cf5f07",
+      "name": "Gojira",
+      "listens": 563540,
+      "rank": 265
+    },
+    {
+      "mbid": "d5be5333-4171-427e-8e12-732087c6b78e",
+      "name": "Black Eyed Peas",
+      "listens": 563362,
+      "rank": 266
+    },
+    {
+      "mbid": "efa2c11a-1a35-4b60-bc1b-66d37de88511",
+      "name": "DJ Shadow",
+      "listens": 560155,
+      "rank": 267
+    },
+    {
+      "mbid": "75be165a-ad83-4d12-bd28-f589a15c479f",
+      "name": "Major Lazer",
+      "listens": 557812,
+      "rank": 268
+    },
+    {
+      "mbid": "4449ccf6-c948-4d33-aa97-b6ad98ce4b5b",
+      "name": "Metric",
+      "listens": 557511,
+      "rank": 269
+    },
+    {
+      "mbid": "8d455809-96b3-4bb6-8829-ea4beb580d35",
+      "name": "Phoenix",
+      "listens": 557497,
+      "rank": 270
+    },
+    {
+      "mbid": "f4857fb9-e255-4dc6-bd01-e4ca7cc68544",
+      "name": "Jamiroquai",
+      "listens": 556958,
+      "rank": 271
+    },
+    {
+      "mbid": "f4d5cc07-3bc9-4836-9b15-88a08359bc63",
+      "name": "P!nk",
+      "listens": 553641,
+      "rank": 272
+    },
+    {
+      "mbid": "7eb1ce54-a355-41f9-8d68-e018b096d427",
+      "name": "Harry Styles",
+      "listens": 553559,
+      "rank": 273
+    },
+    {
+      "mbid": "79491354-3d83-40e3-9d8e-7592d58d790a",
+      "name": "Deep Purple",
+      "listens": 552371,
+      "rank": 274
+    },
+    {
+      "mbid": "a506f761-2c22-4b2f-8a94-bd748c2c8f75",
+      "name": "Neutral Milk Hotel",
+      "listens": 552269,
+      "rank": 275
+    },
+    {
+      "mbid": "b665b768-0d83-4363-950c-31ed39317c15",
+      "name": "Van Halen",
+      "listens": 548969,
+      "rank": 276
+    },
+    {
+      "mbid": "8da127cc-c432-418f-b356-ef36210d82ac",
+      "name": "TWICE",
+      "listens": 547735,
+      "rank": 277
+    },
+    {
+      "mbid": "97b8d224-5660-419c-8dff-4b3bf0c33983",
+      "name": "The Neighbourhood",
+      "listens": 547582,
+      "rank": 278
+    },
+    {
+      "mbid": "0b30341b-b59d-4979-8130-b66c0e475321",
+      "name": "Lil Nas X",
+      "listens": 545650,
+      "rank": 279
+    },
+    {
+      "mbid": "e795e03d-b5d5-4a5f-834d-162cfb308a2c",
+      "name": "PJ Harvey",
+      "listens": 544869,
+      "rank": 280
+    },
+    {
+      "mbid": "541f16f5-ad7a-428e-af89-9fa1b16d3c9c",
+      "name": "Pantera",
+      "listens": 544795,
+      "rank": 281
+    },
+    {
+      "mbid": "169c4c28-858e-497b-81a4-8bc15e0026ea",
+      "name": "Porcupine Tree",
+      "listens": 544275,
+      "rank": 282
+    },
+    {
+      "mbid": "fa97dd36-1b82-43d7-a6e4-2adeafd59cef",
+      "name": "Fleet Foxes",
+      "listens": 543443,
+      "rank": 283
+    },
+    {
+      "mbid": "f46bd570-5768-462e-b84c-c7c993bbf47e",
+      "name": "Eagles",
+      "listens": 542001,
+      "rank": 284
+    },
+    {
+      "mbid": "7c7f9c94-dee8-4903-892b-6cf44652e2de",
+      "name": "Tears for Fears",
+      "listens": 540405,
+      "rank": 285
+    },
+    {
+      "mbid": "8b22acd6-20e6-4463-a75c-c14b5cfdb666",
+      "name": "Earl Sweatshirt",
+      "listens": 538731,
+      "rank": 286
+    },
+    {
+      "mbid": "bc5e2ad6-0a4a-4d90-b911-e9a7e6861727",
+      "name": "Mastodon",
+      "listens": 538593,
+      "rank": 287
+    },
+    {
+      "mbid": "3ac96b4c-4f42-48c8-b793-84dbf54d7ac6",
+      "name": "BROCKHAMPTON",
+      "listens": 537224,
+      "rank": 288
+    },
+    {
+      "mbid": "f09d2950-e3c6-47b2-b21c-2bad2cd3f616",
+      "name": "Agust D",
+      "listens": 537021,
+      "rank": 289
+    },
+    {
+      "mbid": "57961a97-3796-4bf7-9f02-a985a8979ae9",
+      "name": "Motörhead",
+      "listens": 535711,
+      "rank": 290
+    },
+    {
+      "mbid": "d6ed7887-a401-47a8-893c-34b967444d26",
+      "name": "Ramones",
+      "listens": 533123,
+      "rank": 291
+    },
+    {
+      "mbid": "9e53f84d-ef44-4c16-9677-5fd4d78cbd7d",
+      "name": "Wilco",
+      "listens": 533066,
+      "rank": 292
+    },
+    {
+      "mbid": "d6d45dda-2377-4faa-947b-e071efa085c0",
+      "name": "100 gecs",
+      "listens": 531794,
+      "rank": 293
+    },
+    {
+      "mbid": "6c8b9855-ba8b-48f9-ac1d-42167f7f7b18",
+      "name": "The Shins",
+      "listens": 531618,
+      "rank": 294
+    },
+    {
+      "mbid": "1ee37742-1e3d-4e61-84d2-bc85f4c1459a",
+      "name": "LE SSERAFIM",
+      "listens": 530176,
+      "rank": 295
+    },
+    {
+      "mbid": "854a1807-025b-42a8-ba8c-2a39717f1d25",
+      "name": "Breaking Benjamin",
+      "listens": 528166,
+      "rank": 296
+    },
+    {
+      "mbid": "aabb1d9f-be12-45b3-a84d-a1fc3e8181fd",
+      "name": "Tiësto",
+      "listens": 527313,
+      "rank": 297
+    },
+    {
+      "mbid": "382f1005-e9ab-4684-afd4-0bdae4ee37f2",
+      "name": "2Pac",
+      "listens": 527092,
+      "rank": 298
+    },
+    {
+      "mbid": "618b6900-0618-4f1e-b835-bccb17f84294",
+      "name": "Eric Clapton",
+      "listens": 525558,
+      "rank": 299
+    },
+    {
+      "mbid": "56756959-1e78-429c-b897-e1d056cb0225",
+      "name": "Tove Lo",
+      "listens": 524655,
+      "rank": 300
+    },
+    {
+      "mbid": "bbc5b66b-d037-4f26-aecf-0b129e7f876a",
+      "name": "Jimmy Eat World",
+      "listens": 524236,
+      "rank": 301
+    },
+    {
+      "mbid": "3bcff06f-675a-451f-9075-99e8657047e8",
+      "name": "Four Tet",
+      "listens": 521674,
+      "rank": 302
+    },
+    {
+      "mbid": "25f3abd9-63b5-471a-bd25-feb9672dfa11",
+      "name": "ROSALÍA",
+      "listens": 520418,
+      "rank": 303
+    },
+    {
+      "mbid": "e1f1e33e-2e4c-4d43-b91b-7064068d3283",
+      "name": "KISS",
+      "listens": 518284,
+      "rank": 304
+    },
+    {
+      "mbid": "9ddce51c-2b75-4b3e-ac8c-1db09e7c89c6",
+      "name": "Burial",
+      "listens": 516459,
+      "rank": 305
+    },
+    {
+      "mbid": "0c751690-c784-4a4f-b1e4-c1de27d47581",
+      "name": "Animal Collective",
+      "listens": 515846,
+      "rank": 306
+    },
+    {
+      "mbid": "020bfbb4-05c3-4c86-b372-17825c262094",
+      "name": "Audioslave",
+      "listens": 514870,
+      "rank": 307
+    },
+    {
+      "mbid": "17b53d9f-5c63-4a09-a593-dde4608e0db9",
+      "name": "The Kinks",
+      "listens": 514723,
+      "rank": 308
+    },
+    {
+      "mbid": "7441014f-f8f5-494f-81db-ff166fbc078d",
+      "name": "PinkPantheress",
+      "listens": 514657,
+      "rank": 309
+    },
+    {
+      "mbid": "e5c7b94f-e264-473c-bb0f-37c85d4d5c70",
+      "name": "Belle and Sebastian",
+      "listens": 511302,
+      "rank": 310
+    },
+    {
+      "mbid": "5a85c140-dcf9-4dd2-b2c8-aff0471549f3",
+      "name": "Sam Smith",
+      "listens": 510815,
+      "rank": 311
+    },
+    {
+      "mbid": "bc710bcf-8815-42cf-bad2-3f1d12246aeb",
+      "name": "Nickelback",
+      "listens": 510605,
+      "rank": 312
+    },
+    {
+      "mbid": "56a55378-f155-48de-80a5-d80104221267",
+      "name": "Chappell Roan",
+      "listens": 509941,
+      "rank": 313
+    },
+    {
+      "mbid": "bf24ca37-25f4-4e34-9aec-460b94364cfc",
+      "name": "Shakira",
+      "listens": 509601,
+      "rank": 314
+    },
+    {
+      "mbid": "713e751f-3ddb-4b77-b3b1-9e6f2e953ad5",
+      "name": "Logic",
+      "listens": 507291,
+      "rank": 315
+    },
+    {
+      "mbid": "7f3d82ee-3817-4367-9eec-f33a312247a1",
+      "name": "MARINA",
+      "listens": 504765,
+      "rank": 316
+    },
+    {
+      "mbid": "afdb7919-059d-43c1-b668-ba1d265e7e42",
+      "name": "Marvin Gaye",
+      "listens": 504420,
+      "rank": 317
+    },
+    {
+      "mbid": "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3",
+      "name": "King Crimson",
+      "listens": 504269,
+      "rank": 318
+    },
+    {
+      "mbid": "134cb0bc-06fa-42f7-8078-b0c858349975",
+      "name": "Jack Harlow",
+      "listens": 503699,
+      "rank": 319
+    },
+    {
+      "mbid": "5b6ebfe0-f72b-4902-bba9-74c8af0f1af0",
+      "name": "The 1975",
+      "listens": 503038,
+      "rank": 320
+    },
+    {
+      "mbid": "48646387-1664-4c9a-9139-9bfd091b823c",
+      "name": "BLACKPINK",
+      "listens": 501533,
+      "rank": 321
+    },
+    {
+      "mbid": "96855c21-b832-4366-ba12-0d2330c36a86",
+      "name": "Phoebe Bridgers",
+      "listens": 500642,
+      "rank": 322
+    },
+    {
+      "mbid": "b3977da4-f899-4328-921b-ecc599a5618a",
+      "name": "j‐hope",
+      "listens": 498602,
+      "rank": 323
+    },
+    {
+      "mbid": "bce6d667-cde8-485e-b078-c0a05adea36d",
+      "name": "ScHoolboy Q",
+      "listens": 497698,
+      "rank": 324
+    },
+    {
+      "mbid": "56c4b861-0922-4c3a-a9b9-3bfcb00f8274",
+      "name": "Zedd",
+      "listens": 497209,
+      "rank": 325
+    },
+    {
+      "mbid": "285e1285-aecc-478f-a8da-0c8cf69e1217",
+      "name": "Miguel",
+      "listens": 496845,
+      "rank": 326
+    },
+    {
+      "mbid": "5334edc0-5faf-4ca5-b1df-000de3e1f752",
+      "name": "St. Vincent",
+      "listens": 494382,
+      "rank": 327
+    },
+    {
+      "mbid": "2fddb92d-24b2-46a5-bf28-3aed46f4684c",
+      "name": "Kylie Minogue",
+      "listens": 494169,
+      "rank": 328
+    },
+    {
+      "mbid": "a6623d39-2d8e-4f70-8242-0a9553b91e50",
+      "name": "The Avalanches",
+      "listens": 492757,
+      "rank": 329
+    },
+    {
+      "mbid": "130d679a-9a92-4373-8348-0800b6b93a30",
+      "name": "初音ミク",
+      "listens": 491828,
+      "rank": 330
+    },
+    {
+      "mbid": "301b45a4-b8b9-410e-8344-4b4eaf96691a",
+      "name": "Marshmello",
+      "listens": 490380,
+      "rank": 331
+    },
+    {
+      "mbid": "401c3991-b76b-499d-8082-9f2df958ef78",
+      "name": "Phil Collins",
+      "listens": 490081,
+      "rank": 332
+    },
+    {
+      "mbid": "14ecd19f-7121-4192-8549-e5056241a42f",
+      "name": "Pusha T",
+      "listens": 488979,
+      "rank": 333
+    },
+    {
+      "mbid": "6a65d878-fcd0-42cf-aff9-ca1d636a8bcc",
+      "name": "Foals",
+      "listens": 488574,
+      "rank": 334
+    },
+    {
+      "mbid": "b15ebd71-a252-417d-9e1c-3e6863da68f8",
+      "name": "Faith No More",
+      "listens": 484707,
+      "rank": 335
+    },
+    {
+      "mbid": "39a31de6-763d-48b6-a45c-f7cfad58ffd8",
+      "name": "Sabaton",
+      "listens": 484669,
+      "rank": 336
+    },
+    {
+      "mbid": "d5d97b2b-b83b-4976-814a-056d9076c8c3",
+      "name": "The Notorious B.I.G.",
+      "listens": 482546,
+      "rank": 337
+    },
+    {
+      "mbid": "ee27b2d8-648c-4a9d-a68c-e55066959975",
+      "name": "Megan Thee Stallion",
+      "listens": 482197,
+      "rank": 338
+    },
+    {
+      "mbid": "35fd8d42-b4a6-4414-9827-8766bd0daa3c",
+      "name": "Flume",
+      "listens": 482065,
+      "rank": 339
+    },
+    {
+      "mbid": "65314b12-0e08-43fa-ba33-baaa7b874c15",
+      "name": "Leonard Cohen",
+      "listens": 481481,
+      "rank": 340
+    },
+    {
+      "mbid": "23c8056b-ee13-4cfc-a772-2f5292e35bb5",
+      "name": "Jung Kook",
+      "listens": 481106,
+      "rank": 341
+    },
+    {
+      "mbid": "7808accb-6395-4b25-858c-678bbb73896b",
+      "name": "Bastille",
+      "listens": 480399,
+      "rank": 342
+    },
+    {
+      "mbid": "99ea432a-e3d8-42cb-9d5e-db316a6a8458",
+      "name": "Nick Drake",
+      "listens": 480073,
+      "rank": 343
+    },
+    {
+      "mbid": "985c709c-7771-4de3-9024-7bda29ebe3f9",
+      "name": "Norah Jones",
+      "listens": 479834,
+      "rank": 344
+    },
+    {
+      "mbid": "144ef525-85e9-40c3-8335-02c32d0861f3",
+      "name": "John Mayer",
+      "listens": 479609,
+      "rank": 345
+    },
+    {
+      "mbid": "7cf0ea9d-86b9-4dad-ba9e-2355a64899ea",
+      "name": "M.I.A.",
+      "listens": 476253,
+      "rank": 346
+    },
+    {
+      "mbid": "4ad8190b-d2fd-46f8-a3d9-c0f55c034976",
+      "name": "Poppy",
+      "listens": 475397,
+      "rank": 347
+    },
+    {
+      "mbid": "1e4e9db7-5068-4a9c-bdd0-5777e47172c8",
+      "name": "FKA twigs",
+      "listens": 474840,
+      "rank": 348
+    },
+    {
+      "mbid": "149e6720-4e4a-41a4-afca-6d29083fc091",
+      "name": "Bad Religion",
+      "listens": 473211,
+      "rank": 349
+    },
+    {
+      "mbid": "f5dfa020-ad69-41cd-b3d4-fd7af0414e94",
+      "name": "Wiz Khalifa",
+      "listens": 473198,
+      "rank": 350
+    },
+    {
+      "mbid": "c3cceeed-3332-4cf0-8c4c-bbde425147b6",
+      "name": "Scorpions",
+      "listens": 472924,
+      "rank": 351
+    },
+    {
+      "mbid": "a9ee533f-8871-4f62-a6bb-91eb264abc90",
+      "name": "Fiona Apple",
+      "listens": 472468,
+      "rank": 352
+    },
+    {
+      "mbid": "d8354b38-e942-4c89-ba93-29323432abc3",
+      "name": "Thirty Seconds to Mars",
+      "listens": 471579,
+      "rank": 353
+    },
+    {
+      "mbid": "1595addf-f76b-450a-a097-af852ff35f27",
+      "name": "Nujabes",
+      "listens": 470563,
+      "rank": 354
+    },
+    {
+      "mbid": "faf4cefb-036c-4c88-b93a-5b03dd0a0e6b",
+      "name": "Demi Lovato",
+      "listens": 469688,
+      "rank": 355
+    },
+    {
+      "mbid": "ba550d0e-adac-4864-b88b-407cab5e76af",
+      "name": "Paul McCartney",
+      "listens": 469624,
+      "rank": 356
+    },
+    {
+      "mbid": "1a1cd7f3-e5df-4eca-bae2-2757c9e656b5",
+      "name": "Duran Duran",
+      "listens": 469567,
+      "rank": 357
+    },
+    {
+      "mbid": "c1d4f2ba-cf39-460c-9528-6b827d3417a1",
+      "name": "Yes",
+      "listens": 469411,
+      "rank": 358
+    },
+    {
+      "mbid": "fa7b9055-3703-473a-8a09-adf2fe031a24",
+      "name": "CAKE",
+      "listens": 468520,
+      "rank": 359
+    },
+    {
+      "mbid": "27e2997f-f7a1-4353-bcc4-57b9274fa9a4",
+      "name": "BABYMETAL",
+      "listens": 467652,
+      "rank": 360
+    },
+    {
+      "mbid": "68c261d5-48c8-4ea9-9466-9fc908dc79bb",
+      "name": "Magdalena Bay",
+      "listens": 466201,
+      "rank": 361
+    },
+    {
+      "mbid": "ff6e677f-91dd-4986-a174-8db0474b1799",
+      "name": "Jack Johnson",
+      "listens": 464518,
+      "rank": 362
+    },
+    {
+      "mbid": "484a4e90-6899-4e4b-a948-a2255d365340",
+      "name": "AURORA",
+      "listens": 464328,
+      "rank": 363
+    },
+    {
+      "mbid": "e01c3376-15fa-40d7-b747-5f219bdefdd7",
+      "name": "Steely Dan",
+      "listens": 463910,
+      "rank": 364
+    },
+    {
+      "mbid": "509f20b2-5df3-4aec-9bbc-002131fb3f99",
+      "name": "Max Richter",
+      "listens": 462621,
+      "rank": 365
+    },
+    {
+      "mbid": "eace2373-31c8-4aba-9a5c-7bce22dd140a",
+      "name": "Within Temptation",
+      "listens": 462437,
+      "rank": 366
+    },
+    {
+      "mbid": "f9ef7a22-4262-4596-a2a8-1d19345b8e50",
+      "name": "Garbage",
+      "listens": 460218,
+      "rank": 367
+    },
+    {
+      "mbid": "0fabbc1d-8d94-4a61-bd1d-1099ad1e4559",
+      "name": "Car Seat Headrest",
+      "listens": 458568,
+      "rank": 368
+    },
+    {
+      "mbid": "b0e4bc50-3062-4d31-afad-def6a6b7a8e9",
+      "name": "Alan Walker",
+      "listens": 457798,
+      "rank": 369
+    },
+    {
+      "mbid": "373a4c98-a46b-48e4-86ec-f6ca65b4f438",
+      "name": "Chance the Rapper",
+      "listens": 456768,
+      "rank": 370
+    },
+    {
+      "mbid": "f467181e-d5e0-4285-b47e-e853dcc89ee7",
+      "name": "Ratatat",
+      "listens": 455884,
+      "rank": 371
+    },
+    {
+      "mbid": "c234fa42-e6a6-443e-937e-2f4b073538a3",
+      "name": "Chris Brown",
+      "listens": 455836,
+      "rank": 372
+    },
+    {
+      "mbid": "58f1e354-ecbc-4fd3-aa25-97eb1d9bd8b9",
+      "name": "RM",
+      "listens": 452902,
+      "rank": 373
+    },
+    {
+      "mbid": "aab5c954-cabe-432e-899e-1c4f99757327",
+      "name": "Toto",
+      "listens": 452701,
+      "rank": 374
+    },
+    {
+      "mbid": "b29020d6-5dbf-4c99-b16f-c009f8a712ff",
+      "name": "Steve Lacy",
+      "listens": 451936,
+      "rank": 375
+    },
+    {
+      "mbid": "d530dbf9-69b1-404f-98f2-0431104f5a1e",
+      "name": "Bullet for My Valentine",
+      "listens": 450299,
+      "rank": 376
+    },
+    {
+      "mbid": "e20747e7-55a4-452e-8766-7b985585082d",
+      "name": "Frank Zappa",
+      "listens": 449950,
+      "rank": 377
+    },
+    {
+      "mbid": "3599a39e-4e10-4cb5-90d4-c8a015ebc73b",
+      "name": "Portugal. The Man",
+      "listens": 447948,
+      "rank": 378
+    },
+    {
+      "mbid": "ae65c507-d9a0-4d42-9a6c-2b1f82158b9f",
+      "name": "Disclosure",
+      "listens": 446352,
+      "rank": 379
+    },
+    {
+      "mbid": "5700dcd4-c139-4f31-aa3e-6382b9af9032",
+      "name": "Kraftwerk",
+      "listens": 445802,
+      "rank": 380
+    },
+    {
+      "mbid": "eab76c9f-ff91-4431-b6dd-3b976c598020",
+      "name": "Infected Mushroom",
+      "listens": 444281,
+      "rank": 381
+    },
+    {
+      "mbid": "cbef45a9-7acb-4325-94c9-70081ac8d1b8",
+      "name": "Tycho",
+      "listens": 442755,
+      "rank": 382
+    },
+    {
+      "mbid": "36bfa85f-737b-41db-a8fc-b8825850ffc3",
+      "name": "Pavement",
+      "listens": 441827,
+      "rank": 383
+    },
+    {
+      "mbid": "09720eec-3871-49d5-932d-eb7542768cd3",
+      "name": "Jin",
+      "listens": 441251,
+      "rank": 384
+    },
+    {
+      "mbid": "d616b606-cf6a-4b6e-ab0f-e253b8db6610",
+      "name": "JID",
+      "listens": 441132,
+      "rank": 385
+    },
+    {
+      "mbid": "8c32bb01-58a3-453b-8050-8c0620edb0e5",
+      "name": "Stone Temple Pilots",
+      "listens": 440914,
+      "rank": 386
+    },
+    {
+      "mbid": "7e8571b1-7c5a-4739-bc51-73d422ee9d74",
+      "name": "Five Finger Death Punch",
+      "listens": 439405,
+      "rank": 387
+    },
+    {
+      "mbid": "4d2956d1-a3f7-44bb-9a41-67563e1a0c94",
+      "name": "Blondie",
+      "listens": 438386,
+      "rank": 388
+    },
+    {
+      "mbid": "8e68819d-71be-4e7d-b41d-f1df81b01d3f",
+      "name": "50 Cent",
+      "listens": 437768,
+      "rank": 389
+    },
+    {
+      "mbid": "9e103f85-7af7-41d7-b83b-49ba8f0c5abf",
+      "name": "Of Monsters and Men",
+      "listens": 437689,
+      "rank": 390
+    },
+    {
+      "mbid": "cd689e77-dfdd-4f81-b50c-5e5a3f5e38a4",
+      "name": "Bladee",
+      "listens": 436920,
+      "rank": 391
+    },
+    {
+      "mbid": "31445b1e-96f3-4c7f-84ec-dd02e647e690",
+      "name": "DJ Snake",
+      "listens": 436891,
+      "rank": 392
+    },
+    {
+      "mbid": "83096042-3785-481e-8843-dee69f1aad12",
+      "name": "V",
+      "listens": 435984,
+      "rank": 393
+    },
+    {
+      "mbid": "34c63966-445c-4613-afe1-4f0e1e53ae9a",
+      "name": "Fatboy Slim",
+      "listens": 435471,
+      "rank": 394
+    },
+    {
+      "mbid": "494e8d09-f85b-4543-892f-a5096aed1cd4",
+      "name": "Mariah Carey",
+      "listens": 435399,
+      "rank": 395
+    },
+    {
+      "mbid": "92da4329-77a4-425c-8e92-4280110cace9",
+      "name": "Lil Peep",
+      "listens": 433062,
+      "rank": 396
+    },
+    {
+      "mbid": "a66999a7-ae5c-460e-ba94-1a01143ae847",
+      "name": "Snow Patrol",
+      "listens": 432662,
+      "rank": 397
+    },
+    {
+      "mbid": "6e0c7c0e-cba5-4c2c-a652-38f71ef5785d",
+      "name": "Lily Allen",
+      "listens": 431887,
+      "rank": 398
+    },
+    {
+      "mbid": "fd429857-5ace-4609-ae54-1502c3bdac11",
+      "name": "Billy Talent",
+      "listens": 430398,
+      "rank": 399
+    },
+    {
+      "mbid": "148ddea2-6839-4354-8e2c-5dfadf136b7f",
+      "name": "Tenacious D",
+      "listens": 430293,
+      "rank": 400
+    },
+    {
+      "mbid": "a0723a3c-4135-438e-85c5-012712144ede",
+      "name": "Don Toliver",
+      "listens": 428734,
+      "rank": 401
+    },
+    {
+      "mbid": "be540c02-7898-4b79-9acc-c8122c7d9e83",
+      "name": "Pet Shop Boys",
+      "listens": 428363,
+      "rank": 402
+    },
+    {
+      "mbid": "8e66ea2b-b57b-47d9-8df0-df4630aeb8e5",
+      "name": "Peter Gabriel",
+      "listens": 427853,
+      "rank": 403
+    },
+    {
+      "mbid": "d2ff6b6b-fc30-48dc-8952-06f9d8fc64f8",
+      "name": "Supertramp",
+      "listens": 427782,
+      "rank": 404
+    },
+    {
+      "mbid": "134e6410-6954-45d1-bd4a-0f2d2ad5471d",
+      "name": "Zara Larsson",
+      "listens": 427547,
+      "rank": 405
+    },
+    {
+      "mbid": "ef326b3d-61f0-4379-aca0-21237d696d63",
+      "name": "$uicideboy$",
+      "listens": 427407,
+      "rank": 406
+    },
+    {
+      "mbid": "27638856-79a1-4495-b7da-1912899560c7",
+      "name": "bbno$",
+      "listens": 427278,
+      "rank": 407
+    },
+    {
+      "mbid": "0febdcf7-4e1f-4661-9493-b40427de2c13",
+      "name": "Wu‐Tang Clan",
+      "listens": 427130,
+      "rank": 408
+    },
+    {
+      "mbid": "ee190f6b-7d98-43ec-b924-da5f8018eca0",
+      "name": "Janelle Monáe",
+      "listens": 426979,
+      "rank": 409
+    },
+    {
+      "mbid": "01b8b5bf-06cb-45da-85fb-61ada72fcd69",
+      "name": "Camila Cabello",
+      "listens": 426888,
+      "rank": 410
+    },
+    {
+      "mbid": "e5712ceb-c37a-4c49-a11c-ccf4e21852d4",
+      "name": "Troye Sivan",
+      "listens": 423959,
+      "rank": 411
+    },
+    {
+      "mbid": "13bcb2bb-db37-4397-baf5-e0f085be2d64",
+      "name": "Rick Ross",
+      "listens": 423101,
+      "rank": 412
+    },
+    {
+      "mbid": "84eac621-1c5a-49a1-9500-555099c6e184",
+      "name": "Spoon",
+      "listens": 423010,
+      "rank": 413
+    },
+    {
+      "mbid": "fbb375f9-48bb-4635-824e-4120273b3ba7",
+      "name": "Regina Spektor",
+      "listens": 422659,
+      "rank": 414
+    },
+    {
+      "mbid": "25ab7547-a4d2-480b-b028-c7f3497bc858",
+      "name": "Men I Trust",
+      "listens": 420827,
+      "rank": 415
+    },
+    {
+      "mbid": "942a9807-9c1a-4a0e-a285-1fde2c5be9d1",
+      "name": "Big Sean",
+      "listens": 419640,
+      "rank": 416
+    },
+    {
+      "mbid": "a668565b-41b8-44a8-9d5c-8e609dbf69fc",
+      "name": "Lil Yachty",
+      "listens": 418632,
+      "rank": 417
+    },
+    {
+      "mbid": "69b39eab-6577-46a4-a9f5-817839092033",
+      "name": "Kasabian",
+      "listens": 418078,
+      "rank": 418
+    },
+    {
+      "mbid": "dff0d392-4cd5-4052-9fbb-f485df3891e5",
+      "name": "2 Chainz",
+      "listens": 417598,
+      "rank": 419
+    },
+    {
+      "mbid": "ba0e7638-0cd6-4ff4-8987-c3e224d22c23",
+      "name": "Kygo",
+      "listens": 416868,
+      "rank": 420
+    },
+    {
+      "mbid": "3285dc48-9505-469d-ad8a-bdf2d3dba632",
+      "name": "Swans",
+      "listens": 416483,
+      "rank": 421
+    },
+    {
+      "mbid": "c544ed4d-2390-4442-a83e-1ea2883b09c8",
+      "name": "Lynyrd Skynyrd",
+      "listens": 416125,
+      "rank": 422
+    },
+    {
+      "mbid": "a8ebde98-7e91-46c7-992c-90039ba42017",
+      "name": "De La Soul",
+      "listens": 415556,
+      "rank": 423
+    },
+    {
+      "mbid": "c3f28da8-662d-4f09-bdc7-3084bf685930",
+      "name": "Iron & Wine",
+      "listens": 414092,
+      "rank": 424
+    },
+    {
+      "mbid": "db008806-16f6-48fc-8521-3d953709689d",
+      "name": "A Day to Remember",
+      "listens": 413828,
+      "rank": 425
+    },
+    {
+      "mbid": "4236acde-2ce2-441c-a3d4-38d55f1b5474",
+      "name": "Explosions in the Sky",
+      "listens": 412379,
+      "rank": 426
+    },
+    {
+      "mbid": "d2582c77-6b0f-4b2f-802f-8f3cad1a5fec",
+      "name": "Jimin",
+      "listens": 412008,
+      "rank": 427
+    },
+    {
+      "mbid": "aea4c9b9-9f8d-49dc-b2ca-57d6f26e8634",
+      "name": "Khruangbin",
+      "listens": 411923,
+      "rank": 428
+    },
+    {
+      "mbid": "d8f43dc5-4613-48ac-8c23-a62b82f8c67a",
+      "name": "Caroline Polachek",
+      "listens": 411910,
+      "rank": 429
+    },
+    {
+      "mbid": "b7d92248-97e3-4450-8057-6fe06738f735",
+      "name": "Shawn Mendes",
+      "listens": 411697,
+      "rank": 430
+    },
+    {
+      "mbid": "72eabb1a-4d2c-4de6-90f2-671b2cada42b",
+      "name": "Caravan Palace",
+      "listens": 411086,
+      "rank": 431
+    },
+    {
+      "mbid": "7944ed53-2a58-4035-9b93-140a71e41c34",
+      "name": "Sting",
+      "listens": 411017,
+      "rank": 432
+    },
+    {
+      "mbid": "d262ea27-3ffe-40f7-b922-85c42d625e67",
+      "name": "Pitbull",
+      "listens": 410704,
+      "rank": 433
+    },
+    {
+      "mbid": "14387b0f-765c-4852-852f-135335790466",
+      "name": "EELS",
+      "listens": 410466,
+      "rank": 434
+    },
+    {
+      "mbid": "34557d8f-ee4a-44ab-ae6e-49bb8ac604d0",
+      "name": "Cigarettes After Sex",
+      "listens": 410294,
+      "rank": 435
+    },
+    {
+      "mbid": "abd506e1-6f2b-4d6f-b937-92c267f6f88b",
+      "name": "Journey",
+      "listens": 409846,
+      "rank": 436
+    },
+    {
+      "mbid": "21645c31-fe1c-45a4-955c-3e172b12c3f9",
+      "name": "Freddie Gibbs",
+      "listens": 409613,
+      "rank": 437
+    },
+    {
+      "mbid": "4967c0a1-b9f3-465e-8440-4598fd9fc33c",
+      "name": "Enya",
+      "listens": 407322,
+      "rank": 438
+    },
+    {
+      "mbid": "410c9baf-5469-44f6-9852-826524b80c61",
+      "name": "Autechre",
+      "listens": 407008,
+      "rank": 439
+    },
+    {
+      "mbid": "1d93c839-22e7-4f76-ad84-d27039efc048",
+      "name": "Sepultura",
+      "listens": 406660,
+      "rank": 440
+    },
+    {
+      "mbid": "477b8c0c-c5fc-4ad2-b5b2-191f0bf2a9df",
+      "name": "Armin van Buuren",
+      "listens": 406262,
+      "rank": 441
+    },
+    {
+      "mbid": "4bdcee62-4902-4773-8cd1-e252e2e31225",
+      "name": "Alanis Morissette",
+      "listens": 406063,
+      "rank": 442
+    },
+    {
+      "mbid": "3cdb40fe-a63e-4bb9-b40d-17cda5f50979",
+      "name": "Little Simz",
+      "listens": 406055,
+      "rank": 443
+    },
+    {
+      "mbid": "20883363-1ea4-4d72-ad72-c0e767038f3e",
+      "name": "The Mars Volta",
+      "listens": 404708,
+      "rank": 444
+    },
+    {
+      "mbid": "a505bb48-ad65-4af4-ae47-29149715bff9",
+      "name": "Thievery Corporation",
+      "listens": 403438,
+      "rank": 445
+    },
+    {
+      "mbid": "95f5b748-d370-47fe-85bd-0af2dc450bc0",
+      "name": "Sublime",
+      "listens": 403131,
+      "rank": 446
+    },
+    {
+      "mbid": "53b106e7-0cc6-42cc-ac95-ed8d30a3a98e",
+      "name": "John Williams",
+      "listens": 402145,
+      "rank": 447
+    },
+    {
+      "mbid": "0b0c25f4-f31c-46a5-a4fb-ccbf53d663bd",
+      "name": "Jon Hopkins",
+      "listens": 401955,
+      "rank": 448
+    },
+    {
+      "mbid": "5b687684-ad34-4a9f-b425-0e7aa81fbd38",
+      "name": "Amon Amarth",
+      "listens": 401130,
+      "rank": 449
+    },
+    {
+      "mbid": "db8fad3a-e131-47a1-8782-c2ee93708cdd",
+      "name": "Bebe Rexha",
+      "listens": 401113,
+      "rank": 450
+    },
+    {
+      "mbid": "4d5447d7-c61c-4120-ba1b-d7f471d385b9",
+      "name": "John Lennon",
+      "listens": 400930,
+      "rank": 451
+    },
+    {
+      "mbid": "355cc194-b8db-4af2-8678-c7ad54213f4b",
+      "name": "Latto",
+      "listens": 398722,
+      "rank": 452
+    },
+    {
+      "mbid": "3f542031-b054-454d-b57b-812fa2a81b11",
+      "name": "Yo La Tengo",
+      "listens": 398558,
+      "rank": 453
+    },
+    {
+      "mbid": "b202beb7-99bd-47e7-8b72-195c8d72ebdd",
+      "name": "Christina Aguilera",
+      "listens": 398332,
+      "rank": 454
+    },
+    {
+      "mbid": "9f81247f-7f57-42f3-a8ba-75bef554e591",
+      "name": "Big Thief",
+      "listens": 397412,
+      "rank": 455
+    },
+    {
+      "mbid": "cbcbb22c-3a8d-46af-b4ba-09c98f0d7931",
+      "name": "J Dilla",
+      "listens": 397278,
+      "rank": 456
+    },
+    {
+      "mbid": "f089f636-6b85-4e0e-a192-0d30ed2b44d1",
+      "name": "Ramin Djawadi",
+      "listens": 396979,
+      "rank": 457
+    },
+    {
+      "mbid": "9757ae7d-44b1-4d63-81ce-b463fe27b9ae",
+      "name": "Joey Bada$$",
+      "listens": 395698,
+      "rank": 458
+    },
+    {
+      "mbid": "05517043-ff78-4988-9c22-88c68588ebb9",
+      "name": "Paul Simon",
+      "listens": 395530,
+      "rank": 459
+    },
+    {
+      "mbid": "f82f3a3e-29c2-42ca-b589-bc5dc210fa9e",
+      "name": "The Kooks",
+      "listens": 395117,
+      "rank": 460
+    },
+    {
+      "mbid": "97b1142f-c71e-4971-8736-4a8ceaf6b4c3",
+      "name": "The Decemberists",
+      "listens": 395103,
+      "rank": 461
+    },
+    {
+      "mbid": "add5f522-25df-41c4-815e-0ca9f60b83e4",
+      "name": "Ava Max",
+      "listens": 394924,
+      "rank": 462
+    },
+    {
+      "mbid": "debabff3-2559-46e5-862d-ef2a906d7010",
+      "name": "Daryl Hall & John Oates",
+      "listens": 394645,
+      "rank": 463
+    },
+    {
+      "mbid": "88d17133-abbc-42db-9526-4e2c1db60336",
+      "name": "beabadoobee",
+      "listens": 393853,
+      "rank": 464
+    },
+    {
+      "mbid": "100b8734-f4f0-4536-9960-47f7c59d1b4c",
+      "name": "Gunna",
+      "listens": 393245,
+      "rank": 465
+    },
+    {
+      "mbid": "d1353a0c-26fb-4318-a116-defde9c7c9ad",
+      "name": "Dido",
+      "listens": 393093,
+      "rank": 466
+    },
+    {
+      "mbid": "2a7ef045-ca10-4cb5-8fe9-1f5d38e84bc2",
+      "name": "GloRilla",
+      "listens": 392803,
+      "rank": 467
+    },
+    {
+      "mbid": "2386cd66-e923-4e8e-bf14-2eebe2e9b973",
+      "name": "3 Doors Down",
+      "listens": 391488,
+      "rank": 468
+    },
+    {
+      "mbid": "f5c4c27e-5902-4fc0-adfb-7775da3d5363",
+      "name": "Yasiin Bey",
+      "listens": 391220,
+      "rank": 469
+    },
+    {
+      "mbid": "7fa7fc04-1011-4876-8095-ecd232edea87",
+      "name": "Blind Guardian",
+      "listens": 390970,
+      "rank": 470
+    },
+    {
+      "mbid": "233fc3f3-6de2-465c-985e-e721dbabbace",
+      "name": "Fugazi",
+      "listens": 390880,
+      "rank": 471
+    },
+    {
+      "mbid": "fbd2a255-1d57-4d31-ac11-65b671c19958",
+      "name": "No Doubt",
+      "listens": 390851,
+      "rank": 472
+    },
+    {
+      "mbid": "a81259a0-a2f5-464b-866e-71220f2739f1",
+      "name": "ZZ Top",
+      "listens": 390628,
+      "rank": 473
+    },
+    {
+      "mbid": "125ec42a-7229-4250-afc5-e057484327fe",
+      "name": "[unknown]",
+      "listens": 390457,
+      "rank": 474
+    },
+    {
+      "mbid": "38f0c7ac-46eb-49ca-b3ab-c785ccd05a60",
+      "name": "TV Girl",
+      "listens": 389980,
+      "rank": 475
+    },
+    {
+      "mbid": "aef06569-098f-4218-a577-b413944d9493",
+      "name": "HAIM",
+      "listens": 389361,
+      "rank": 476
+    },
+    {
+      "mbid": "b625448e-bf4a-41c3-a421-72ad46cdb831",
+      "name": "John Coltrane",
+      "listens": 389076,
+      "rank": 477
+    },
+    {
+      "mbid": "735e3514-a8ae-401f-af3b-6300df1b8d2c",
+      "name": "Caribou",
+      "listens": 388561,
+      "rank": 478
+    },
+    {
+      "mbid": "ad279295-653f-42e1-9aaa-b731df2e78ba",
+      "name": "Owl City",
+      "listens": 387940,
+      "rank": 479
+    },
+    {
+      "mbid": "9d1ebcfe-4c15-4d18-95d3-d919898638a1",
+      "name": "Lou Reed",
+      "listens": 387562,
+      "rank": 480
+    },
+    {
+      "mbid": "9b58672a-e68e-4972-956e-a8985a165a1f",
+      "name": "Howard Shore",
+      "listens": 387299,
+      "rank": 481
+    },
+    {
+      "mbid": "df6c619f-4334-43e2-8b6a-4a32af1e4f85",
+      "name": "YOASOBI",
+      "listens": 387117,
+      "rank": 482
+    },
+    {
+      "mbid": "4593d49a-7f67-46ba-9ec0-126bd676286f",
+      "name": "Flo Rida",
+      "listens": 386769,
+      "rank": 483
+    },
+    {
+      "mbid": "303abdee-ffca-4685-a582-6aaaefd81b01",
+      "name": "Carpenter Brut",
+      "listens": 386209,
+      "rank": 484
+    },
+    {
+      "mbid": "9a3bf45c-347d-4630-894d-7cf3e8e0b632",
+      "name": "Santana",
+      "listens": 386191,
+      "rank": 485
+    },
+    {
+      "mbid": "4f0cb3b7-6c06-4317-ae35-ddf3106a17ee",
+      "name": "Red Velvet",
+      "listens": 385968,
+      "rank": 486
+    },
+    {
+      "mbid": "a670e05a-cea8-4b37-bce9-d82daf1a0fa4",
+      "name": "Feist",
+      "listens": 385765,
+      "rank": 487
+    },
+    {
+      "mbid": "525f1f1c-03f0-4bc8-8dfd-e7521f87631b",
+      "name": "Charlie Puth",
+      "listens": 384388,
+      "rank": 488
+    },
+    {
+      "mbid": "775ad383-ac2d-479a-af9d-b561442cb749",
+      "name": "Sleep Token",
+      "listens": 383962,
+      "rank": 489
+    },
+    {
+      "mbid": "ece57992-dc2e-4f67-a269-fa43626c1a3d",
+      "name": "Jethro Tull",
+      "listens": 383730,
+      "rank": 490
+    },
+    {
+      "mbid": "13655113-cd16-4b43-9dca-cadbbf26ee05",
+      "name": "Nelly Furtado",
+      "listens": 382908,
+      "rank": 491
+    },
+    {
+      "mbid": "5e284bdc-3774-41dc-b5e2-b125d0349acf",
+      "name": "Kero Kero Bonito",
+      "listens": 382905,
+      "rank": 492
+    },
+    {
+      "mbid": "f37b3f31-b1f8-4b88-8cb5-b34f709b17d7",
+      "name": "Iggy Pop",
+      "listens": 382341,
+      "rank": 493
+    },
+    {
+      "mbid": "8ed2e0b3-aa4c-4e13-bec3-dc7393ed4d6b",
+      "name": "Thom Yorke",
+      "listens": 382201,
+      "rank": 494
+    },
+    {
+      "mbid": "7364dea6-ca9a-48e3-be01-b44ad0d19897",
+      "name": "a‐ha",
+      "listens": 382190,
+      "rank": 495
+    },
+    {
+      "mbid": "c7020c6d-cae9-4db3-92a7-e5c561cbad50",
+      "name": "Keane",
+      "listens": 381986,
+      "rank": 496
+    },
+    {
+      "mbid": "c995a379-60b9-404b-bd97-a7e2de0751d3",
+      "name": "Rob Zombie",
+      "listens": 381842,
+      "rank": 497
+    },
+    {
+      "mbid": "05dffdbe-dc6e-4c8d-a075-50a09c4cb45c",
+      "name": "Architects",
+      "listens": 381341,
+      "rank": 498
+    },
+    {
+      "mbid": "321531fc-db73-4ffa-a959-61a61a2908c1",
+      "name": "Erykah Badu",
+      "listens": 381103,
+      "rank": 499
+    },
+    {
+      "mbid": "59a7fbcb-ff74-494d-abd0-9c82359040c9",
+      "name": "Grizzly Bear",
+      "listens": 380433,
+      "rank": 500
+    },
+    {
+      "mbid": "fa34b363-79df-434f-a5b8-be4e6898543f",
+      "name": "Ludovico Einaudi",
+      "listens": 380335,
+      "rank": 501
+    },
+    {
+      "mbid": "e6e879c0-3d56-4f12-b3c5-3ce459661a8e",
+      "name": "Jeff Buckley",
+      "listens": 380297,
+      "rank": 502
+    },
+    {
+      "mbid": "03f3deb7-0419-4bf9-a1e7-511946385717",
+      "name": "The Alchemist",
+      "listens": 379450,
+      "rank": 503
+    },
+    {
+      "mbid": "61ed9c9c-79eb-4e8f-8015-bd599ac0ab49",
+      "name": "Katatonia",
+      "listens": 377348,
+      "rank": 504
+    },
+    {
+      "mbid": "535afeda-2538-435d-9dd1-5e10be586774",
+      "name": "Earth, Wind & Fire",
+      "listens": 377071,
+      "rank": 505
+    },
+    {
+      "mbid": "16a43d5e-c52d-4eaa-9c3b-00b2c1d8e816",
+      "name": "Skillet",
+      "listens": 375520,
+      "rank": 506
+    },
+    {
+      "mbid": "69681b02-05b8-4685-80cb-e98983b7a96f",
+      "name": "Mother Mother",
+      "listens": 374704,
+      "rank": 507
+    },
+    {
+      "mbid": "788ad31c-bf0c-4a31-83f8-b8b130d79c76",
+      "name": "Apocalyptica",
+      "listens": 373629,
+      "rank": 508
+    },
+    {
+      "mbid": "ea9078ef-20ca-4506-81ea-2ae5fe3a42e8",
+      "name": "Madlib",
+      "listens": 373570,
+      "rank": 509
+    },
+    {
+      "mbid": "54799c0e-eb45-4eea-996d-c4d71a63c499",
+      "name": "Ella Fitzgerald",
+      "listens": 373541,
+      "rank": 510
+    },
+    {
+      "mbid": "fbcd7b29-455f-49e6-9c4f-8249d20a055e",
+      "name": "Seether",
+      "listens": 372929,
+      "rank": 511
+    },
+    {
+      "mbid": "183d6ef6-e161-47ff-9085-063c8b897e97",
+      "name": "They Might Be Giants",
+      "listens": 372025,
+      "rank": 512
+    },
+    {
+      "mbid": "0af78501-5647-4c18-9a0d-66ac8789e13b",
+      "name": "Beirut",
+      "listens": 371977,
+      "rank": 513
+    },
+    {
+      "mbid": "9311e2bc-bb3f-44cf-90d8-b1fe6912b60b",
+      "name": "Brand New",
+      "listens": 371231,
+      "rank": 514
+    },
+    {
+      "mbid": "3a6d6481-142d-423f-91d4-55bbfff318ed",
+      "name": "Toro y Moi",
+      "listens": 370295,
+      "rank": 515
+    },
+    {
+      "mbid": "eb872766-98f6-453d-883f-2ae908a18315",
+      "name": "TV on the Radio",
+      "listens": 368438,
+      "rank": 516
+    },
+    {
+      "mbid": "12d432a3-feb0-49b1-a107-d20751880764",
+      "name": "Yann Tiersen",
+      "listens": 368067,
+      "rank": 517
+    },
+    {
+      "mbid": "62162215-b023-4f0e-84bd-1e9412d5b32c",
+      "name": "All Time Low",
+      "listens": 367716,
+      "rank": 518
+    },
+    {
+      "mbid": "c7df5ec5-380a-40f9-856f-28fb4a33d946",
+      "name": "Machine Girl",
+      "listens": 366506,
+      "rank": 519
+    },
+    {
+      "mbid": "bf0f7e29-dfe1-416c-b5c6-f9ebc19ea810",
+      "name": "Bee Gees",
+      "listens": 366423,
+      "rank": 520
+    },
+    {
+      "mbid": "aa62b28e-b6d4-4086-91d4-e5fac1ed56f3",
+      "name": "Royal Blood",
+      "listens": 366195,
+      "rank": 521
+    },
+    {
+      "mbid": "daeec599-bf5d-4428-994a-e76ba5f86e2f",
+      "name": "Passion Pit",
+      "listens": 365466,
+      "rank": 522
+    },
+    {
+      "mbid": "067102ea-9519-4622-9077-57ca4164cfbb",
+      "name": "Morcheeba",
+      "listens": 365230,
+      "rank": 523
+    },
+    {
+      "mbid": "dcaa4f81-bfb7-44eb-8594-4e74f004b6e4",
+      "name": "NOFX",
+      "listens": 364894,
+      "rank": 524
+    },
+    {
+      "mbid": "6655955b-1c1e-4bcb-84e4-81bcd9efab30",
+      "name": "Ólafur Arnalds",
+      "listens": 364881,
+      "rank": 525
+    },
+    {
+      "mbid": "8032cf05-d916-4b2a-9c53-6e75d4a24bd8",
+      "name": "Trippie Redd",
+      "listens": 364198,
+      "rank": 526
+    },
+    {
+      "mbid": "f413369d-d72f-46b9-8744-2d09344a9c6a",
+      "name": "Jeremy Soule",
+      "listens": 363973,
+      "rank": 527
+    },
+    {
+      "mbid": "a41ac10f-0a56-4672-9161-b83f9b223559",
+      "name": "Van Morrison",
+      "listens": 363172,
+      "rank": 528
+    },
+    {
+      "mbid": "78f797e3-4913-4026-aad0-1cd858bd735b",
+      "name": "Bright Eyes",
+      "listens": 362825,
+      "rank": 529
+    },
+    {
+      "mbid": "2f3c4d70-0462-40da-bba3-0aec5772c556",
+      "name": "Cardi B",
+      "listens": 362586,
+      "rank": 530
+    },
+    {
+      "mbid": "1c3919b2-43ca-4a4a-935d-9d50135ec0ef",
+      "name": "AFI",
+      "listens": 361969,
+      "rank": 531
+    },
+    {
+      "mbid": "298909e4-ebcb-47b8-95e9-cc53b087fc65",
+      "name": "Lamb of God",
+      "listens": 361631,
+      "rank": 532
+    },
+    {
+      "mbid": "9cea062d-d476-447f-98b4-e67e14bfd1e4",
+      "name": "Oneohtrix Point Never",
+      "listens": 361318,
+      "rank": 533
+    },
+    {
+      "mbid": "ac7e838c-3d95-47c2-92a9-81767ad7c217",
+      "name": "Empire of the Sun",
+      "listens": 361240,
+      "rank": 534
+    },
+    {
+      "mbid": "54fc0558-12b5-4854-9d57-9441bcd73a72",
+      "name": "Kim Petras",
+      "listens": 360981,
+      "rank": 535
+    },
+    {
+      "mbid": "757ed661-fbad-4e45-b1cd-a6b09f06f54a",
+      "name": "Yung Lean",
+      "listens": 360969,
+      "rank": 536
+    },
+    {
+      "mbid": "75a72702-a5ef-4513-bca5-c5b944903546",
+      "name": "John Legend",
+      "listens": 360891,
+      "rank": 537
+    },
+    {
+      "mbid": "2e222fce-02ae-4221-b1c6-3c3242b423b6",
+      "name": "ODESZA",
+      "listens": 360737,
+      "rank": 538
+    },
+    {
+      "mbid": "dbb3b771-ae77-4381-b61c-758b5b7898ec",
+      "name": "Death",
+      "listens": 360557,
+      "rank": 539
+    },
+    {
+      "mbid": "3414d446-735a-443c-931f-10634f57e5b9",
+      "name": "Usher",
+      "listens": 360384,
+      "rank": 540
+    },
+    {
+      "mbid": "f1df0431-9250-4ec8-95d8-f19ce7cf7fb6",
+      "name": "Stereolab",
+      "listens": 360304,
+      "rank": 541
+    },
+    {
+      "mbid": "49204a7a-ed85-407a-828f-6fd46f1d8126",
+      "name": "NewJeans",
+      "listens": 359791,
+      "rank": 542
+    },
+    {
+      "mbid": "bf710b71-48e5-4e15-9bd6-96debb2e4e98",
+      "name": "The Knife",
+      "listens": 358643,
+      "rank": 543
+    },
+    {
+      "mbid": "c0eee88b-47f2-4cd2-ac48-a045e902a432",
+      "name": "Ween",
+      "listens": 358281,
+      "rank": 544
+    },
+    {
+      "mbid": "dacc2d64-7e59-42a8-87a9-10c53919aff2",
+      "name": "Clean Bandit",
+      "listens": 356933,
+      "rank": 545
+    },
+    {
+      "mbid": "aba64937-3334-4c65-90a1-4e6b9d4d7ada",
+      "name": "Aesop Rock",
+      "listens": 356636,
+      "rank": 546
+    },
+    {
+      "mbid": "5660a8c7-d0d9-4181-89b4-8e125328e31e",
+      "name": "NF",
+      "listens": 356292,
+      "rank": 547
+    },
+    {
+      "mbid": "adc0f033-95c2-4e0b-87bc-c23ed3f26ce6",
+      "name": "Shinedown",
+      "listens": 356147,
+      "rank": 548
+    },
+    {
+      "mbid": "3648db01-b29d-4ab9-835c-83f6a5068fe4",
+      "name": "Godspeed You! Black Emperor",
+      "listens": 355872,
+      "rank": 549
+    },
+    {
+      "mbid": "2eada8f8-056a-4093-bbc2-004909ce743b",
+      "name": "Broken Social Scene",
+      "listens": 355085,
+      "rank": 550
+    },
+    {
+      "mbid": "81d12ca7-5b89-4d21-8736-860b7400b4eb",
+      "name": "Baby Keem",
+      "listens": 354405,
+      "rank": 551
+    },
+    {
+      "mbid": "6de0f914-3e60-4418-be3b-42e0feb6eb4d",
+      "name": "Jason Derulo",
+      "listens": 353759,
+      "rank": 552
+    },
+    {
+      "mbid": "05755bf1-380c-487f-983f-d1a02401fa28",
+      "name": "Cat Power",
+      "listens": 353157,
+      "rank": 553
+    },
+    {
+      "mbid": "9639cd52-c351-4a17-9797-58880e95a7ef",
+      "name": "The Mountain Goats",
+      "listens": 352686,
+      "rank": 554
+    },
+    {
+      "mbid": "8295ee00-0096-461d-95c7-c2263d2a4c6d",
+      "name": "Killswitch Engage",
+      "listens": 352671,
+      "rank": 555
+    },
+    {
+      "mbid": "8ef1df30-ae4f-4dbd-9351-1a32b208a01e",
+      "name": "Alicia Keys",
+      "listens": 352334,
+      "rank": 556
+    },
+    {
+      "mbid": "d339efbb-77b9-4147-ba9e-59f2f24550b2",
+      "name": "Kelly Clarkson",
+      "listens": 352323,
+      "rank": 557
+    },
+    {
+      "mbid": "e631bb92-3e2b-43e3-a2cb-b605e2fb53bd",
+      "name": "Arch Enemy",
+      "listens": 352094,
+      "rank": 558
+    },
+    {
+      "mbid": "d42a5768-ada1-4fb6-85fd-f61aba6264e0",
+      "name": "Lil Baby",
+      "listens": 351437,
+      "rank": 559
+    },
+    {
+      "mbid": "67930b3e-e00b-469f-8c74-fd69f20522ec",
+      "name": "Sade",
+      "listens": 351245,
+      "rank": 560
+    },
+    {
+      "mbid": "1f5ff245-2837-4d4a-a609-e93e544478c3",
+      "name": "Trivium",
+      "listens": 350877,
+      "rank": 561
+    },
+    {
+      "mbid": "d03a54bc-6e07-4c04-a8d4-7fbf2bd07a01",
+      "name": "Nils Frahm",
+      "listens": 350246,
+      "rank": 562
+    },
+    {
+      "mbid": "c0b2500e-0cef-4130-869d-732b23ed9df5",
+      "name": "Tori Amos",
+      "listens": 350033,
+      "rank": 563
+    },
+    {
+      "mbid": "bfcb6630-9b31-4e63-b11f-7b0363be72b5",
+      "name": "The Lumineers",
+      "listens": 349830,
+      "rank": 564
+    },
+    {
+      "mbid": "3e55d51d-687f-4a9d-af96-2fabccf802e5",
+      "name": "The Cardigans",
+      "listens": 349696,
+      "rank": 565
+    },
+    {
+      "mbid": "d1515727-4a93-4c0d-88cb-d7a9fce01879",
+      "name": "Jamie xx",
+      "listens": 349070,
+      "rank": 566
+    },
+    {
+      "mbid": "d8915e13-d67a-4aa0-9c0b-1f126af951af",
+      "name": "Hot Chip",
+      "listens": 348886,
+      "rank": 567
+    },
+    {
+      "mbid": "93eb7110-0bc9-4d3f-816b-4b52ef982ec8",
+      "name": "Metronomy",
+      "listens": 348775,
+      "rank": 568
+    },
+    {
+      "mbid": "2eb55bd9-cfbf-44fd-a5da-92dd825284c7",
+      "name": "AJR",
+      "listens": 348439,
+      "rank": 569
+    },
+    {
+      "mbid": "36494952-f434-45d8-a958-8b4acdbcf8a8",
+      "name": "Gucci Mane",
+      "listens": 347942,
+      "rank": 570
+    },
+    {
+      "mbid": "ab1a3f85-e0ea-470a-af5c-175447ae774c",
+      "name": "underscores",
+      "listens": 347001,
+      "rank": 571
+    },
+    {
+      "mbid": "52494f9b-789d-4467-bcaf-9915e70cc8f6",
+      "name": "Rina Sawayama",
+      "listens": 346031,
+      "rank": 572
+    },
+    {
+      "mbid": "e8374874-4178-4869-b92e-fef6bf30dc04",
+      "name": "Dropkick Murphys",
+      "listens": 345960,
+      "rank": 573
+    },
+    {
+      "mbid": "78ea5ea1-3c4d-4b7e-ac5d-68900319ebe2",
+      "name": "Siouxsie and the Banshees",
+      "listens": 345714,
+      "rank": 574
+    },
+    {
+      "mbid": "936addc3-91aa-49de-8ec0-0dc186de151f",
+      "name": "Misfits",
+      "listens": 345624,
+      "rank": 575
+    },
+    {
+      "mbid": "f9133869-f87c-459c-9aa7-2f176cda7e06",
+      "name": "Tate McRae",
+      "listens": 345545,
+      "rank": 576
+    },
+    {
+      "mbid": "0221734a-35a8-40f7-b5c5-2f61a200bc7c",
+      "name": "Migos",
+      "listens": 345219,
+      "rank": 577
+    },
+    {
+      "mbid": "754294d5-d7d2-4ea2-8184-1dcaaf55a56f",
+      "name": "BADBADNOTGOOD",
+      "listens": 345191,
+      "rank": 578
+    },
+    {
+      "mbid": "e07d9474-00ea-4460-ac27-88b46b3d976e",
+      "name": "blackbear",
+      "listens": 344643,
+      "rank": 579
+    },
+    {
+      "mbid": "cc7d4686-ea02-45fd-956e-94c1a322558c",
+      "name": "Lykke Li",
+      "listens": 344525,
+      "rank": 580
+    },
+    {
+      "mbid": "7df4c4de-3181-4a69-bd36-9d663970cebb",
+      "name": "Alex G",
+      "listens": 344298,
+      "rank": 581
+    },
+    {
+      "mbid": "a17ce9c3-8f6f-4dcc-a1b7-2a04ab9e31f0",
+      "name": "Swae Lee",
+      "listens": 344244,
+      "rank": 582
+    },
+    {
+      "mbid": "a16e47f5-aa54-47fe-87e4-bb8af91a9fdd",
+      "name": "Ennio Morricone",
+      "listens": 342829,
+      "rank": 583
+    },
+    {
+      "mbid": "5a8e07d5-d932-4484-a7f7-e700793a9c94",
+      "name": "Robyn",
+      "listens": 342612,
+      "rank": 584
+    },
+    {
+      "mbid": "630662ea-1c7d-4208-99fd-ba3afec20f0c",
+      "name": "Amon Tobin",
+      "listens": 342200,
+      "rank": 585
+    },
+    {
+      "mbid": "889db25c-d1df-457a-b0d1-c405f34a01f3",
+      "name": "Bo Burnham",
+      "listens": 341828,
+      "rank": 586
+    },
+    {
+      "mbid": "bca46a0c-25c9-42ca-98c2-e64c8a5e337e",
+      "name": "Fred again..",
+      "listens": 341780,
+      "rank": 587
+    },
+    {
+      "mbid": "7b885d42-3c41-4f43-9944-a5855ec5155e",
+      "name": "Goldfrapp",
+      "listens": 341384,
+      "rank": 588
+    },
+    {
+      "mbid": "6143403a-df6c-429e-8ee6-ef869896b0da",
+      "name": "Quavo",
+      "listens": 340828,
+      "rank": 589
+    },
+    {
+      "mbid": "99450990-b24e-4132-bb68-235f8c3e2564",
+      "name": "Alvvays",
+      "listens": 340333,
+      "rank": 590
+    },
+    {
+      "mbid": "3ae2fb37-8a23-429d-9920-bac811c4fc22",
+      "name": "Jack White",
+      "listens": 339758,
+      "rank": 591
+    },
+    {
+      "mbid": "f57e14e4-b030-467c-b202-539453f504ec",
+      "name": "Children of Bodom",
+      "listens": 338618,
+      "rank": 592
+    },
+    {
+      "mbid": "e9dfc148-d5f6-425e-b80b-f99ed2bd7c09",
+      "name": "God Is an Astronaut",
+      "listens": 338522,
+      "rank": 593
+    },
+    {
+      "mbid": "1138a764-2212-4d0a-b02d-0dc14df91e08",
+      "name": "Akon",
+      "listens": 338299,
+      "rank": 594
+    },
+    {
+      "mbid": "ba2f4f3b-0293-4bc8-bb94-2f73b5207343",
+      "name": "Underworld",
+      "listens": 337855,
+      "rank": 595
+    },
+    {
+      "mbid": "611700cf-27f0-4dc9-ae80-c513a767853e",
+      "name": "Michael Bublé",
+      "listens": 337693,
+      "rank": 596
+    },
+    {
+      "mbid": "172053e5-a7fb-4548-a64d-c53858b5e775",
+      "name": "Father John Misty",
+      "listens": 337375,
+      "rank": 597
+    },
+    {
+      "mbid": "21a89505-10a9-4ac0-8388-833bc07b9f86",
+      "name": "Laufey",
+      "listens": 335863,
+      "rank": 598
+    },
+    {
+      "mbid": "ab2528d9-719f-4261-8098-21849222a0f2",
+      "name": "Stromae",
+      "listens": 335301,
+      "rank": 599
+    },
+    {
+      "mbid": "fa1de503-aba7-41fa-a1ed-371b3e87a717",
+      "name": "Madeon",
+      "listens": 335051,
+      "rank": 600
+    },
+    {
+      "mbid": "1a425bbd-cca4-4b2c-aeb7-71cb176c828a",
+      "name": "One Direction",
+      "listens": 334836,
+      "rank": 601
+    },
+    {
+      "mbid": "42a8f507-8412-4611-854f-926571049fa0",
+      "name": "George Harrison",
+      "listens": 334571,
+      "rank": 602
+    },
+    {
+      "mbid": "cf8b3b8c-118e-4136-8d1d-c37091173413",
+      "name": "Meshuggah",
+      "listens": 330901,
+      "rank": 603
+    },
+    {
+      "mbid": "cd8c5019-5d75-4d5c-bc28-e1e26a7dd5c8",
+      "name": "José González",
+      "listens": 329676,
+      "rank": 604
+    },
+    {
+      "mbid": "cf15719f-51f9-4db8-a15d-5eed9664ce69",
+      "name": "Lupe Fiasco",
+      "listens": 329159,
+      "rank": 605
+    },
+    {
+      "mbid": "04cd0cfd-bfd1-4c36-bc38-95c35e2c045f",
+      "name": "Cream",
+      "listens": 328221,
+      "rank": 606
+    },
+    {
+      "mbid": "5bdeb32d-56a5-4b6d-a768-264101fa0a0a",
+      "name": "J Balvin",
+      "listens": 328061,
+      "rank": 607
+    },
+    {
+      "mbid": "eea8a864-fcda-4602-9569-38ab446decd6",
+      "name": "Louis Armstrong",
+      "listens": 327960,
+      "rank": 608
+    },
+    {
+      "mbid": "d4d17620-fd97-4574-92a8-a2cb7e72ce42",
+      "name": "The Verve",
+      "listens": 327712,
+      "rank": 609
+    },
+    {
+      "mbid": "8475297d-fb78-4630-8d74-9b87b6bb7cc8",
+      "name": "of Montreal",
+      "listens": 327293,
+      "rank": 610
+    },
+    {
+      "mbid": "ae1b47d5-5128-431c-9d30-e08fd90e0767",
+      "name": "Coheed and Cambria",
+      "listens": 326828,
+      "rank": 611
+    },
+    {
+      "mbid": "4dbf5678-7a31-406a-abbe-232f8ac2cd63",
+      "name": "Bryan Adams",
+      "listens": 326502,
+      "rank": 612
+    },
+    {
+      "mbid": "328d146c-79f1-4eb6-9e40-8ee5710c14e5",
+      "name": "Imogen Heap",
+      "listens": 326444,
+      "rank": 613
+    },
+    {
+      "mbid": "7a3970c9-ecd8-4eee-a267-4d8c77d97ff3",
+      "name": "The Marías",
+      "listens": 326287,
+      "rank": 614
+    },
+    {
+      "mbid": "80609a00-b394-4a49-975b-2db6b543fa97",
+      "name": "The Kid LAROI",
+      "listens": 325845,
+      "rank": 615
+    },
+    {
+      "mbid": "80b3cf5e-18fe-4c59-98c7-e5bb87210710",
+      "name": "The Roots",
+      "listens": 325217,
+      "rank": 616
+    },
+    {
+      "mbid": "2437980f-513a-44fc-80f1-b90d9d7fcf8f",
+      "name": "Bing Crosby",
+      "listens": 325116,
+      "rank": 617
+    },
+    {
+      "mbid": "fdb53441-e5e6-4657-9aad-8dab672e1cdc",
+      "name": "Purity Ring",
+      "listens": 324853,
+      "rank": 618
+    },
+    {
+      "mbid": "2f9ecbed-27be-40e6-abca-6de49d50299e",
+      "name": "Aretha Franklin",
+      "listens": 324847,
+      "rank": 619
+    },
+    {
+      "mbid": "07b6020a-c539-4d68-aeef-f159f3befc76",
+      "name": "Band of Horses",
+      "listens": 324804,
+      "rank": 620
+    },
+    {
+      "mbid": "3862342a-43c4-4cdb-8250-bfdbfb5e1419",
+      "name": "Måneskin",
+      "listens": 324639,
+      "rank": 621
+    },
+    {
+      "mbid": "e2c00c56-8365-4160-9f40-a64682917633",
+      "name": "Goo Goo Dolls",
+      "listens": 324513,
+      "rank": 622
+    },
+    {
+      "mbid": "f7ba7fbe-c6bd-4ac0-bee9-c25c558d7d62",
+      "name": "T.I.",
+      "listens": 324308,
+      "rank": 623
+    },
+    {
+      "mbid": "6fea1339-260c-40fe-bb7a-ace5c8438955",
+      "name": "Lacuna Coil",
+      "listens": 324073,
+      "rank": 624
+    },
+    {
+      "mbid": "fe1a873d-2000-4789-a895-4187fe756203",
+      "name": "Parov Stelar",
+      "listens": 324053,
+      "rank": 625
+    },
+    {
+      "mbid": "2944824d-4c26-476f-a981-be849081942f",
+      "name": "Nina Simone",
+      "listens": 323669,
+      "rank": 626
+    },
+    {
+      "mbid": "84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2",
+      "name": "Primus",
+      "listens": 323450,
+      "rank": 627
+    },
+    {
+      "mbid": "be465d4f-c28d-4ba1-94ab-ebaada7db8af",
+      "name": "IDLES",
+      "listens": 323219,
+      "rank": 628
+    },
+    {
+      "mbid": "c48d4327-8122-4286-af66-05e1ee6ac4d8",
+      "name": "Mazzy Star",
+      "listens": 323144,
+      "rank": 629
+    },
+    {
+      "mbid": "76b2e842-5e85-4c97-ab62-d5bc315595b5",
+      "name": "Pulp",
+      "listens": 323084,
+      "rank": 630
+    },
+    {
+      "mbid": "b51c672b-85e0-48fe-8648-470a2422229f",
+      "name": "aespa",
+      "listens": 323051,
+      "rank": 631
+    },
+    {
+      "mbid": "eecada09-acfc-472d-ae55-e9e5a43f12d8",
+      "name": "Bad Omens",
+      "listens": 322676,
+      "rank": 632
+    },
+    {
+      "mbid": "4ca783b7-5bf7-4348-b494-46680660050f",
+      "name": "Stone Sour",
+      "listens": 322601,
+      "rank": 633
+    },
+    {
+      "mbid": "e941e097-0f9e-496d-a381-dd74a953682c",
+      "name": "박효신",
+      "listens": 321963,
+      "rank": 634
+    },
+    {
+      "mbid": "eb6de5f6-98f8-4b5a-bfdc-f87fa4936baa",
+      "name": "Kavinsky",
+      "listens": 321915,
+      "rank": 635
+    },
+    {
+      "mbid": "dfe78af2-779e-4137-826a-3073a16e3278",
+      "name": "Phantogram",
+      "listens": 321792,
+      "rank": 636
+    },
+    {
+      "mbid": "57fca0e2-f9ad-4ae6-af9d-6a6f50cbcd5f",
+      "name": "Vangelis",
+      "listens": 321671,
+      "rank": 637
+    },
+    {
+      "mbid": "51508c1f-8d07-4a00-9cf1-26c570fe7b78",
+      "name": "Cypress Hill",
+      "listens": 321333,
+      "rank": 638
+    },
+    {
+      "mbid": "3d254f1e-7d18-431b-baeb-68e57695dfdb",
+      "name": "Blood Orange",
+      "listens": 320999,
+      "rank": 639
+    },
+    {
+      "mbid": "081b133e-ce74-42ba-92c1-c18234acb532",
+      "name": "Andrew Bird",
+      "listens": 320863,
+      "rank": 640
+    },
+    {
+      "mbid": "c23b637b-97c6-41eb-8ef6-6c724efc80a8",
+      "name": "Zero 7",
+      "listens": 320777,
+      "rank": 641
+    },
+    {
+      "mbid": "db4624cf-0e44-481e-a9dc-2142b833ec2f",
+      "name": "Robbie Williams",
+      "listens": 320743,
+      "rank": 642
+    },
+    {
+      "mbid": "c7423e0c-ab3e-4ab4-be10-cdff5a9d3062",
+      "name": "Blue Öyster Cult",
+      "listens": 320448,
+      "rank": 643
+    },
+    {
+      "mbid": "daa09819-5da5-4c7a-8bef-eb372bb27ff1",
+      "name": "Timbaland",
+      "listens": 320085,
+      "rank": 644
+    },
+    {
+      "mbid": "487bfd74-71bf-46dd-b89c-80b7a0f06f2f",
+      "name": "The Hives",
+      "listens": 319970,
+      "rank": 645
+    },
+    {
+      "mbid": "c55193fb-f5d2-4839-a263-4c044fca1456",
+      "name": "Dio",
+      "listens": 319376,
+      "rank": 646
+    },
+    {
+      "mbid": "8ed919fb-eaee-45a1-ba99-b3ede9ca5f1d",
+      "name": "Pierce the Veil",
+      "listens": 318952,
+      "rank": 647
+    },
+    {
+      "mbid": "20aa23e3-3532-42ca-acf6-e8c2e9df2688",
+      "name": "Anathema",
+      "listens": 318851,
+      "rank": 648
+    },
+    {
+      "mbid": "b46e298d-d3a5-4695-a03e-63e8c523b23e",
+      "name": "Daniel Caesar",
+      "listens": 318542,
+      "rank": 649
+    },
+    {
+      "mbid": "33b3c323-77c2-417c-a5b4-af7e6a111cc9",
+      "name": "The Jimi Hendrix Experience",
+      "listens": 318305,
+      "rank": 650
+    },
+    {
+      "mbid": "92631c53-91ed-48f5-a09d-a104ba69cdc7",
+      "name": "Offset",
+      "listens": 317593,
+      "rank": 651
+    },
+    {
+      "mbid": "e56aee57-d90e-40cf-a70d-beb70f6f3c69",
+      "name": "KAYTRANADA",
+      "listens": 317205,
+      "rank": 652
+    },
+    {
+      "mbid": "37c78aeb-d196-42b5-b991-6afb4fc9bc2e",
+      "name": "Dead Kennedys",
+      "listens": 317168,
+      "rank": 653
+    },
+    {
+      "mbid": "4f416ed7-dda2-45de-a6f1-b986e861cf4b",
+      "name": "Deerhunter",
+      "listens": 316281,
+      "rank": 654
+    },
+    {
+      "mbid": "47c8f88b-987a-4b64-9175-2b1b57809727",
+      "name": "Billy Idol",
+      "listens": 315940,
+      "rank": 655
+    },
+    {
+      "mbid": "f93dbc64-6f08-4033-bcc7-8a0bb4689849",
+      "name": "Tom Petty and the Heartbreakers",
+      "listens": 315775,
+      "rank": 656
+    },
+    {
+      "mbid": "925c7673-0e85-410f-b7e4-d9705a7aa619",
+      "name": "Lin‐Manuel Miranda",
+      "listens": 315580,
+      "rank": 657
+    },
+    {
+      "mbid": "6faa7ca7-0d99-4a5e-bfa6-1fd5037520c6",
+      "name": "Grateful Dead",
+      "listens": 314969,
+      "rank": 658
+    },
+    {
+      "mbid": "4d86ad4e-28d8-4e9f-8cf4-735c57060fdc",
+      "name": "Squarepusher",
+      "listens": 314861,
+      "rank": 659
+    },
+    {
+      "mbid": "90218af4-4d58-4821-8d41-2ee295ebbe21",
+      "name": "Kaiser Chiefs",
+      "listens": 314672,
+      "rank": 660
+    },
+    {
+      "mbid": "97b226c8-7140-4da3-91ac-15e62e131a81",
+      "name": "Macklemore & Ryan Lewis",
+      "listens": 313974,
+      "rank": 661
+    },
+    {
+      "mbid": "344bfb00-27f0-4ff2-b96b-048ed1c6a968",
+      "name": "Polyphia",
+      "listens": 313232,
+      "rank": 662
+    },
+    {
+      "mbid": "e2305342-0bde-4a2c-aed0-4b88694834de",
+      "name": "Unknown Mortal Orchestra",
+      "listens": 313198,
+      "rank": 663
+    },
+    {
+      "mbid": "774b02d7-5056-4b0f-9d69-a82b6ae27cde",
+      "name": "SOPHIE",
+      "listens": 312894,
+      "rank": 664
+    },
+    {
+      "mbid": "0df563ec-1a79-486e-a46d-5b9862a40311",
+      "name": "Melanie Martinez",
+      "listens": 311900,
+      "rank": 665
+    },
+    {
+      "mbid": "44f42386-a733-4b51-8298-fe5c807d03aa",
+      "name": "Mindless Self Indulgence",
+      "listens": 311441,
+      "rank": 666
+    },
+    {
+      "mbid": "87b9b3b8-ab93-426c-a200-4012d667a626",
+      "name": "The War on Drugs",
+      "listens": 310017,
+      "rank": 667
+    },
+    {
+      "mbid": "9d30e408-1559-448b-b491-2f8de1583ccf",
+      "name": "Dark Tranquillity",
+      "listens": 309871,
+      "rank": 668
+    },
+    {
+      "mbid": "a56bd8f9-8ef8-4d63-89a4-794ed1360dd2",
+      "name": "Diplo",
+      "listens": 309644,
+      "rank": 669
+    },
+    {
+      "mbid": "aa1d4315-5246-42b2-b62b-f997d046d8b2",
+      "name": "Emancipator",
+      "listens": 309425,
+      "rank": 670
+    },
+    {
+      "mbid": "c8a9ae11-63bf-409b-8bf3-a96b3712a2ff",
+      "name": "Little Dragon",
+      "listens": 309351,
+      "rank": 671
+    },
+    {
+      "mbid": "e9403d9c-329b-4108-a26f-564159d441d9",
+      "name": "Black Country, New Road",
+      "listens": 309236,
+      "rank": 672
+    },
+    {
+      "mbid": "d13f0f47-36f9-4661-87fe-2de56f45c649",
+      "name": "Tegan and Sara",
+      "listens": 309012,
+      "rank": 673
+    },
+    {
+      "mbid": "0cd12ab3-9628-45ef-a97b-ff18624f14a0",
+      "name": "65daysofstatic",
+      "listens": 307780,
+      "rank": 674
+    },
+    {
+      "mbid": "0ef3f425-9bd2-4216-9dd2-219d2fe90f1f",
+      "name": "Lenny Kravitz",
+      "listens": 307226,
+      "rank": 675
+    },
+    {
+      "mbid": "45c25199-fa62-4d4c-b0a2-11eeed6923c3",
+      "name": "Perturbator",
+      "listens": 307138,
+      "rank": 676
+    },
+    {
+      "mbid": "299278d3-25dd-4f30-bae4-5b571c28034d",
+      "name": "The Postal Service",
+      "listens": 307101,
+      "rank": 677
+    },
+    {
+      "mbid": "c7ee3bc9-780c-42c0-91e9-4cd70ad692d3",
+      "name": "Tim Hecker",
+      "listens": 306987,
+      "rank": 678
+    },
+    {
+      "mbid": "3b39abeb-0064-4eed-9ddd-ee47a45c54cb",
+      "name": "Ghostface Killah",
+      "listens": 306837,
+      "rank": 679
+    },
+    {
+      "mbid": "01a36baf-fa2d-4659-8bc2-dbfb5ffed791",
+      "name": "Mick Gordon",
+      "listens": 306619,
+      "rank": 680
+    },
+    {
+      "mbid": "a7e3c900-1c91-444c-9fce-77d230e5791b",
+      "name": "Darren Korb",
+      "listens": 305836,
+      "rank": 681
+    },
+    {
+      "mbid": "2e41ae9c-afd2-4f20-8f1e-17281ce9b472",
+      "name": "Gwen Stefani",
+      "listens": 305767,
+      "rank": 682
+    },
+    {
+      "mbid": "ac2d1c91-3667-46aa-9fe7-170ca7fce9e2",
+      "name": "Godsmack",
+      "listens": 305403,
+      "rank": 683
+    },
+    {
+      "mbid": "8be564c3-dfba-440b-af8c-4ffbceeef45e",
+      "name": "RAYE",
+      "listens": 305398,
+      "rank": 684
+    },
+    {
+      "mbid": "2e62daef-dc0d-40ad-b430-fd6872e992aa",
+      "name": "The Glitch Mob",
+      "listens": 304606,
+      "rank": 685
+    },
+    {
+      "mbid": "4753fcb7-9270-493a-974d-8daca4e49125",
+      "name": "Volbeat",
+      "listens": 304529,
+      "rank": 686
+    },
+    {
+      "mbid": "1fa3bded-908f-47be-9784-3c9ef850682b",
+      "name": "Oliver Tree",
+      "listens": 304385,
+      "rank": 687
+    },
+    {
+      "mbid": "7249b899-8db8-43e7-9e6e-22f1e736024e",
+      "name": "Def Leppard",
+      "listens": 304246,
+      "rank": 688
+    },
+    {
+      "mbid": "5bf64d94-efd9-4334-96fd-e6197b0b02b8",
+      "name": "Tricky",
+      "listens": 303721,
+      "rank": 689
+    },
+    {
+      "mbid": "3e1f2ee4-16be-4406-bf18-6173840cf2b1",
+      "name": "Martin Garrix",
+      "listens": 303525,
+      "rank": 690
+    },
+    {
+      "mbid": "8c529495-91f5-4e2f-b71b-adcb66878d04",
+      "name": "Japanese Breakfast",
+      "listens": 303427,
+      "rank": 691
+    },
+    {
+      "mbid": "82b1f5fd-cd31-41a9-b5d4-7e33f0eb9751",
+      "name": "Otis Redding",
+      "listens": 303266,
+      "rank": 692
+    },
+    {
+      "mbid": "42faad37-8aaa-42e4-a300-5a7dae79ed24",
+      "name": "Low",
+      "listens": 302574,
+      "rank": 693
+    },
+    {
+      "mbid": "883cbf1f-dcaa-4d17-b9ed-394e1fdabc87",
+      "name": "Rex Orange County",
+      "listens": 302457,
+      "rank": 694
+    },
+    {
+      "mbid": "8456e9f7-debf-4579-a86c-33a325a35d2d",
+      "name": "Chevelle",
+      "listens": 302224,
+      "rank": 695
+    },
+    {
+      "mbid": "a1ced3e5-476c-4046-bd74-d428f419989b",
+      "name": "Daughter",
+      "listens": 301519,
+      "rank": 696
+    },
+    {
+      "mbid": "0efe858c-89e5-4e47-906a-356fa953fd6e",
+      "name": "Editors",
+      "listens": 301045,
+      "rank": 697
+    },
+    {
+      "mbid": "b5bd9f88-962e-4730-84a7-795592ba42e8",
+      "name": "Silversun Pickups",
+      "listens": 300801,
+      "rank": 698
+    },
+    {
+      "mbid": "38474d18-9204-4f60-a137-1fcc6750b869",
+      "name": "Skepta",
+      "listens": 300707,
+      "rank": 699
+    },
+    {
+      "mbid": "22a1f4d7-81ff-4216-ac06-3387da6bc118",
+      "name": "Machine Head",
+      "listens": 300503,
+      "rank": 700
+    },
+    {
+      "mbid": "b267ca80-034e-4dc1-9ed4-ec45f1fed41d",
+      "name": "Good Charlotte",
+      "listens": 300292,
+      "rank": 701
+    },
+    {
+      "mbid": "e134b52f-2e9e-4734-9bc3-bea9648d1fa1",
+      "name": "Ado",
+      "listens": 299957,
+      "rank": 702
+    },
+    {
+      "mbid": "10a9ff92-9637-4498-afea-7044b2ab0dc0",
+      "name": "Busta Rhymes",
+      "listens": 299955,
+      "rank": 703
+    },
+    {
+      "mbid": "3ab2ee23-1c2f-458c-9c8c-ca4844729120",
+      "name": "MØ",
+      "listens": 299932,
+      "rank": 704
+    },
+    {
+      "mbid": "c3da3346-2643-48a7-93cd-011f6834b3d7",
+      "name": "Sean Paul",
+      "listens": 299546,
+      "rank": 705
+    },
+    {
+      "mbid": "39c2a93d-9afa-4a22-9bba-c087ab056e1c",
+      "name": "Jefferson Airplane",
+      "listens": 299471,
+      "rank": 706
+    },
+    {
+      "mbid": "e105c272-b5d7-4135-82ef-d60bded54345",
+      "name": "The Wombats",
+      "listens": 298204,
+      "rank": 707
+    },
+    {
+      "mbid": "0068ae6c-7156-40f9-a81f-39294af6a549",
+      "name": "i‐dle",
+      "listens": 298110,
+      "rank": 708
+    },
+    {
+      "mbid": "c3c82bdc-d9e7-4836-9746-c24ead47ca19",
+      "name": "Mark Ronson",
+      "listens": 297941,
+      "rank": 709
+    },
+    {
+      "mbid": "6805e4d5-f550-40fe-b731-05dc8229e74b",
+      "name": "HEALTH",
+      "listens": 297754,
+      "rank": 710
+    },
+    {
+      "mbid": "f0c8f75f-8736-4b1d-b312-9349fcff321d",
+      "name": "Wolfmother",
+      "listens": 297608,
+      "rank": 711
+    },
+    {
+      "mbid": "013fa897-86db-41d3-8e9f-386c8a34f4e6",
+      "name": "Morrissey",
+      "listens": 297538,
+      "rank": 712
+    },
+    {
+      "mbid": "8000598a-5edb-401c-8e6d-36b167feaf38",
+      "name": "Eluveitie",
+      "listens": 297348,
+      "rank": 713
+    },
+    {
+      "mbid": "09885b8e-f235-4b80-a02a-055539493173",
+      "name": "The All‐American Rejects",
+      "listens": 296957,
+      "rank": 714
+    },
+    {
+      "mbid": "a63df8c3-28e4-41db-bac2-c6c6e8ff8f28",
+      "name": "Type O Negative",
+      "listens": 296925,
+      "rank": 715
+    },
+    {
+      "mbid": "ccb8f30e-4d71-40c4-8b1d-846dafe73e2c",
+      "name": "George Michael",
+      "listens": 296731,
+      "rank": 716
+    },
+    {
+      "mbid": "6bbb3983-ce8a-4971-96e0-7cae73268fc4",
+      "name": "Jungle",
+      "listens": 296568,
+      "rank": 717
+    },
+    {
+      "mbid": "efaefde1-e09b-4d49-9d8e-b1304d2ece8d",
+      "name": "Amorphis",
+      "listens": 296385,
+      "rank": 718
+    },
+    {
+      "mbid": "be407b02-f3e6-4ed5-9489-f8e5f0ab36dc",
+      "name": "The Raconteurs",
+      "listens": 296225,
+      "rank": 719
+    },
+    {
+      "mbid": "4ae429fe-735c-4968-8253-a591421b1bd0",
+      "name": "girl in red",
+      "listens": 295687,
+      "rank": 720
+    },
+    {
+      "mbid": "9f75277c-b283-4846-ac8c-f932255cd0ac",
+      "name": "Doechii",
+      "listens": 295622,
+      "rank": 721
+    },
+    {
+      "mbid": "7746d775-9550-4360-b8d5-c37bd448ce01",
+      "name": "“Weird Al” Yankovic",
+      "listens": 295453,
+      "rank": 722
+    },
+    {
+      "mbid": "a6de8ef9-b1a1-4756-97aa-481bbb8a4069",
+      "name": "Joni Mitchell",
+      "listens": 295397,
+      "rank": 723
+    },
+    {
+      "mbid": "f1693075-b637-49f8-8d0e-8cee8bec77cb",
+      "name": "Lena Raine",
+      "listens": 295149,
+      "rank": 724
+    },
+    {
+      "mbid": "830e5c4e-6b7d-431d-86ab-00c751281dc5",
+      "name": "5 Seconds of Summer",
+      "listens": 295055,
+      "rank": 725
+    },
+    {
+      "mbid": "3630fff3-52fc-4e97-ab01-d68fd88e4135",
+      "name": "Yellowcard",
+      "listens": 294746,
+      "rank": 726
+    },
+    {
+      "mbid": "21985b14-1b0d-44fe-b357-310b29bba510",
+      "name": "Epica",
+      "listens": 294685,
+      "rank": 727
+    },
+    {
+      "mbid": "e56ab1ae-1cfa-4d0e-b33b-af31bff677c7",
+      "name": "Falling in Reverse",
+      "listens": 294017,
+      "rank": 728
+    },
+    {
+      "mbid": "26f07661-e115-471d-a930-206f5c89d17c",
+      "name": "Mötley Crüe",
+      "listens": 293942,
+      "rank": 729
+    },
+    {
+      "mbid": "4dbe08c1-b40a-43b3-ab89-210000bd8ab2",
+      "name": "London Grammar",
+      "listens": 293772,
+      "rank": 730
+    },
+    {
+      "mbid": "a0327dc2-dc76-44d5-aec6-47cd2dff1469",
+      "name": "Counting Crows",
+      "listens": 293466,
+      "rank": 731
+    },
+    {
+      "mbid": "a39acc4a-985e-4173-a9ed-f325f2d3bc1c",
+      "name": "Steve Aoki",
+      "listens": 293428,
+      "rank": 732
+    },
+    {
+      "mbid": "ea0f2a37-7007-4217-a812-396227f5013a",
+      "name": "Kyuss",
+      "listens": 293423,
+      "rank": 733
+    },
+    {
+      "mbid": "ef58d4c9-0d40-42ba-bfab-9186c1483edd",
+      "name": "DragonForce",
+      "listens": 292453,
+      "rank": 734
+    },
+    {
+      "mbid": "b4d32cff-f19e-455f-86c4-f347d824ca61",
+      "name": "Eurythmics",
+      "listens": 292322,
+      "rank": 735
+    },
+    {
+      "mbid": "765774a0-2060-469b-8b7d-612eea48579b",
+      "name": "Helloween",
+      "listens": 292311,
+      "rank": 736
+    },
+    {
+      "mbid": "77c167d2-4965-4421-830a-9815e4956475",
+      "name": "Dinosaur Jr.",
+      "listens": 292213,
+      "rank": 737
+    },
+    {
+      "mbid": "b2dbfc09-b332-408b-a235-1850e41971c5",
+      "name": "Bloodhound Gang",
+      "listens": 292006,
+      "rank": 738
+    },
+    {
+      "mbid": "879d43c6-13a8-42f6-b8df-a9b7d50aa9e2",
+      "name": "Duster",
+      "listens": 291916,
+      "rank": 739
+    },
+    {
+      "mbid": "6648391e-7890-4f6c-b939-976f215195d3",
+      "name": "UNKLE",
+      "listens": 291786,
+      "rank": 740
+    },
+    {
+      "mbid": "3ef77bdc-b1ce-4e44-aa4b-acfa763c5284",
+      "name": "Powerwolf",
+      "listens": 291626,
+      "rank": 741
+    },
+    {
+      "mbid": "c45d161f-83ce-4464-ba41-44202e6916d9",
+      "name": "Juicy J",
+      "listens": 291077,
+      "rank": 742
+    },
+    {
+      "mbid": "fa31e7d4-a03a-4110-98fc-f8826e95ec25",
+      "name": "Converge",
+      "listens": 290973,
+      "rank": 743
+    },
+    {
+      "mbid": "321fdfbb-426b-43f7-8295-fa9aca6348d9",
+      "name": "Hollywood Undead",
+      "listens": 290939,
+      "rank": 744
+    },
+    {
+      "mbid": "f3e2a7d9-c6bb-4848-95e5-04c0a1e2f511",
+      "name": "Orbital",
+      "listens": 290098,
+      "rank": 745
+    },
+    {
+      "mbid": "9c935736-7530-41e4-b776-1dbcf534c061",
+      "name": "Spiritbox",
+      "listens": 289138,
+      "rank": 746
+    },
+    {
+      "mbid": "ce55e49a-32f4-4757-9849-bf04d06d5fcc",
+      "name": "T‐Pain",
+      "listens": 289110,
+      "rank": 747
+    },
+    {
+      "mbid": "c0ef2ba5-a7b7-40ea-bd27-30acccfcac11",
+      "name": "Lauv",
+      "listens": 288949,
+      "rank": 748
+    },
+    {
+      "mbid": "53e40f93-f4af-4f8c-819c-7bbe4b6f0a1c",
+      "name": "Lindsey Stirling",
+      "listens": 288924,
+      "rank": 749
+    },
+    {
+      "mbid": "e3f7631b-e50b-4923-9049-2fa84dfcaf71",
+      "name": "BONES",
+      "listens": 288693,
+      "rank": 750
+    },
+    {
+      "mbid": "3ff72a59-f39d-411d-9f93-2d4a86413013",
+      "name": "The Magnetic Fields",
+      "listens": 288074,
+      "rank": 751
+    },
+    {
+      "mbid": "e337c918-098f-418e-97a2-81dc224b1bf9",
+      "name": "Dominic Fike",
+      "listens": 287819,
+      "rank": 752
+    },
+    {
+      "mbid": "7754905b-8bf7-48e2-935a-03d566fec464",
+      "name": "Moderat",
+      "listens": 287713,
+      "rank": 753
+    },
+    {
+      "mbid": "481bf5f9-2e7c-4c44-b08a-05b32bc7c00d",
+      "name": "INXS",
+      "listens": 287554,
+      "rank": 754
+    },
+    {
+      "mbid": "b616d6f0-ec1f-4c69-8a79-12a97ece7372",
+      "name": "Anthrax",
+      "listens": 287484,
+      "rank": 755
+    },
+    {
+      "mbid": "32efea44-6cb5-4b4f-bdaa-c8b8f6cef981",
+      "name": "Manic Street Preachers",
+      "listens": 287415,
+      "rank": 756
+    },
+    {
+      "mbid": "b4b5b5a7-feff-47d0-9458-83d0d135a692",
+      "name": "Hayley Williams",
+      "listens": 287210,
+      "rank": 757
+    },
+    {
+      "mbid": "5f43abf6-92a5-468a-a633-b73f94627972",
+      "name": "ILLENIUM",
+      "listens": 286609,
+      "rank": 758
+    },
+    {
+      "mbid": "7570a0dd-5a67-401b-b19a-261eee01a284",
+      "name": "Manu Chao",
+      "listens": 286210,
+      "rank": 759
+    },
+    {
+      "mbid": "6ed40778-8d03-4a5c-ad35-93cf814627c9",
+      "name": "Jessie Ware",
+      "listens": 286042,
+      "rank": 760
+    },
+    {
+      "mbid": "60e8e938-365e-4429-a141-4c79eb49588d",
+      "name": "Chelsea Wolfe",
+      "listens": 285850,
+      "rank": 761
+    },
+    {
+      "mbid": "77b29df2-056e-409e-a1b2-5e2bbfe421c4",
+      "name": "AWOLNATION",
+      "listens": 285538,
+      "rank": 762
+    },
+    {
+      "mbid": "0307edfc-437c-4b48-8700-80680e66a228",
+      "name": "Whitney Houston",
+      "listens": 285502,
+      "rank": 763
+    },
+    {
+      "mbid": "e938a15c-b17e-4e7a-9f68-ff0d536cab44",
+      "name": "The Jesus and Mary Chain",
+      "listens": 285408,
+      "rank": 764
+    },
+    {
+      "mbid": "fd1a2d9d-9bb6-44de-83a3-41560658aba9",
+      "name": "Bill Withers",
+      "listens": 285184,
+      "rank": 765
+    },
+    {
+      "mbid": "5ec1ecc6-4535-4911-a27a-e26343f4a189",
+      "name": "Kodak Black",
+      "listens": 284774,
+      "rank": 766
+    },
+    {
+      "mbid": "8a9ac1cb-faae-434e-8d60-b139a3707dfc",
+      "name": "MIKA",
+      "listens": 284682,
+      "rank": 767
+    },
+    {
+      "mbid": "ccda046a-2674-4f7d-97e6-f23d6c156432",
+      "name": "Dead Can Dance",
+      "listens": 283336,
+      "rank": 768
+    },
+    {
+      "mbid": "f98711e5-06f7-43ed-8239-da0f61a9c460",
+      "name": "The Alan Parsons Project",
+      "listens": 283322,
+      "rank": 769
+    },
+    {
+      "mbid": "a7229e38-bab7-48c1-9f35-9b4c49738b0f",
+      "name": "Galantis",
+      "listens": 282873,
+      "rank": 770
+    },
+    {
+      "mbid": "66ab36ce-8f58-46fb-9284-396c2c90ecbd",
+      "name": "Ecco2K",
+      "listens": 282605,
+      "rank": 771
+    },
+    {
+      "mbid": "70923a5d-d3ba-4ef7-9064-ea5f709aa076",
+      "name": "Have a Nice Life",
+      "listens": 282308,
+      "rank": 772
+    },
+    {
+      "mbid": "b45335d1-5219-4262-a44d-936aa36eeaed",
+      "name": "Ladytron",
+      "listens": 282134,
+      "rank": 773
+    },
+    {
+      "mbid": "93ccd76c-3790-4435-a8bf-02bc26294b93",
+      "name": "Bush",
+      "listens": 282046,
+      "rank": 774
+    },
+    {
+      "mbid": "10bf95b6-30e3-44f1-817f-45762cdc0de0",
+      "name": "Paradise Lost",
+      "listens": 281538,
+      "rank": 775
+    },
+    {
+      "mbid": "e3d5b5ec-101a-4529-9f2d-01dca64cf44e",
+      "name": "Anne‐Marie",
+      "listens": 280667,
+      "rank": 776
+    },
+    {
+      "mbid": "7e2e4e3a-4e85-4d5a-b78e-5e4afd467a3e",
+      "name": "Nothing But Thieves",
+      "listens": 280417,
+      "rank": 777
+    },
+    {
+      "mbid": "0638ba22-040f-438d-83a5-9b670c4adaf5",
+      "name": "Ludacris",
+      "listens": 280382,
+      "rank": 778
+    },
+    {
+      "mbid": "3547f34a-db02-4ab7-b4a0-380e1ef951a9",
+      "name": "Wolf Alice",
+      "listens": 279890,
+      "rank": 779
+    },
+    {
+      "mbid": "8fb5370b-9568-4b61-9da5-2aa12c9928db",
+      "name": "Lizzo",
+      "listens": 278112,
+      "rank": 780
+    },
+    {
+      "mbid": "fd87acc7-e0a0-4a45-bc2a-d2ab5c10be68",
+      "name": "Fontaines D.C.",
+      "listens": 278004,
+      "rank": 781
+    },
+    {
+      "mbid": "fd3c3f9f-a471-498e-ab3a-940ac20b6bbd",
+      "name": "Panda Bear",
+      "listens": 277772,
+      "rank": 782
+    },
+    {
+      "mbid": "97b20fe3-0924-4a5f-9955-d0b5c5f9587f",
+      "name": "Santigold",
+      "listens": 277004,
+      "rank": 783
+    },
+    {
+      "mbid": "4ebb5ad3-9018-407d-8c24-c03011ab9ac6",
+      "name": "American Football",
+      "listens": 276718,
+      "rank": 784
+    },
+    {
+      "mbid": "1d11e2a1-4531-4d61-a8c7-7b5c6a608fd2",
+      "name": "Ice Cube",
+      "listens": 276615,
+      "rank": 785
+    },
+    {
+      "mbid": "6f6fd596-76e0-4b82-aa37-f558ac2d337b",
+      "name": "Gotye",
+      "listens": 276277,
+      "rank": 786
+    },
+    {
+      "mbid": "db48610c-6d8f-4d10-90ca-c4d14bb1a8b1",
+      "name": "G‐Eazy",
+      "listens": 275315,
+      "rank": 787
+    },
+    {
+      "mbid": "f7625f34-1799-42a4-a1c6-22b5377c767b",
+      "name": "Arca",
+      "listens": 274523,
+      "rank": 788
+    },
+    {
+      "mbid": "9118f524-be76-4eaf-875c-ccf15e2a2ad6",
+      "name": "Chief Keef",
+      "listens": 274237,
+      "rank": 789
+    },
+    {
+      "mbid": "bfd5aec5-62a2-4560-a316-7c46c17babda",
+      "name": "Train",
+      "listens": 274027,
+      "rank": 790
+    },
+    {
+      "mbid": "e4d7cfe5-0bed-46cf-acad-ab9a4dcb7aa6",
+      "name": "Anamanaguchi",
+      "listens": 273769,
+      "rank": 791
+    },
+    {
+      "mbid": "fad2875e-ba81-4637-b859-4684622dcb1c",
+      "name": "Kimbra",
+      "listens": 272784,
+      "rank": 792
+    },
+    {
+      "mbid": "97e69730-3791-423b-9770-287261588854",
+      "name": "Alessia Cara",
+      "listens": 272020,
+      "rank": 793
+    },
+    {
+      "mbid": "20ff3303-4fe2-4a47-a1b6-291e26aa3438",
+      "name": "James Brown",
+      "listens": 271587,
+      "rank": 794
+    },
+    {
+      "mbid": "396a9525-0994-4542-b480-c4587feeb476",
+      "name": "Tinashe",
+      "listens": 271520,
+      "rank": 795
+    },
+    {
+      "mbid": "b5fa29f1-6c22-4321-a488-b5f363b06b06",
+      "name": "The Stone Roses",
+      "listens": 271192,
+      "rank": 796
+    },
+    {
+      "mbid": "a1684a49-feaa-4150-b758-d9412fc59f12",
+      "name": "Mike Oldfield",
+      "listens": 271186,
+      "rank": 797
+    },
+    {
+      "mbid": "c6d571dd-c0ae-4ac8-9500-780b1b9b25e5",
+      "name": "Nile Rodgers",
+      "listens": 270851,
+      "rank": 798
+    },
+    {
+      "mbid": "7d209631-ccb8-4a87-8516-64abe4c22dba",
+      "name": "Ulver",
+      "listens": 270231,
+      "rank": 799
+    },
+    {
+      "mbid": "7b748dac-f5ce-45a7-9b95-c1d8b5b013ed",
+      "name": "Turnstile",
+      "listens": 270116,
+      "rank": 800
+    },
+    {
+      "mbid": "24f8d8a5-269b-475c-a1cb-792990b0b2ee",
+      "name": "Rancid",
+      "listens": 270061,
+      "rank": 801
+    },
+    {
+      "mbid": "c17f08f4-2542-46fb-97f3-3202d60c225a",
+      "name": "Fear Factory",
+      "listens": 270056,
+      "rank": 802
+    },
+    {
+      "mbid": "c0daae21-ec2a-4dd0-a323-4f53f5945d04",
+      "name": "King Krule",
+      "listens": 270053,
+      "rank": 803
+    },
+    {
+      "mbid": "f23ef341-33bd-47c1-b83c-846a78581f05",
+      "name": "PARTYNEXTDOOR",
+      "listens": 268879,
+      "rank": 804
+    },
+    {
+      "mbid": "4c98aa1b-34eb-4336-987f-5e50aa059c00",
+      "name": "The Script",
+      "listens": 268802,
+      "rank": 805
+    },
+    {
+      "mbid": "dd77b8da-cdc7-46b8-8a7f-10894ca0490e",
+      "name": "Alcest",
+      "listens": 268612,
+      "rank": 806
+    },
+    {
+      "mbid": "99075985-0d80-4692-a15e-b16f78831792",
+      "name": "Swedish House Mafia",
+      "listens": 268526,
+      "rank": 807
+    },
+    {
+      "mbid": "9e6a6a2f-f696-4cc0-87f1-e4f712e46802",
+      "name": "Yeat",
+      "listens": 267742,
+      "rank": 808
+    },
+    {
+      "mbid": "7999a8a1-6cbd-4453-8dd4-ebd03a10e44f",
+      "name": "Cavetown",
+      "listens": 267399,
+      "rank": 809
+    },
+    {
+      "mbid": "23a32153-7314-4359-a5cd-9e584fe83504",
+      "name": "Akira Yamaoka",
+      "listens": 267098,
+      "rank": 810
+    },
+    {
+      "mbid": "bc880664-6751-4998-984d-ebdbff15d229",
+      "name": "Trent Reznor",
+      "listens": 266985,
+      "rank": 811
+    },
+    {
+      "mbid": "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad",
+      "name": "Backstreet Boys",
+      "listens": 266758,
+      "rank": 812
+    },
+    {
+      "mbid": "8ab5d936-49d1-415e-92c8-151e0e7dd912",
+      "name": "FERG",
+      "listens": 266638,
+      "rank": 813
+    },
+    {
+      "mbid": "df36f6db-5987-46ed-9d02-0cf36ed4e060",
+      "name": "Vance Joy",
+      "listens": 265899,
+      "rank": 814
+    },
+    {
+      "mbid": "1fefa8b3-806b-4ab9-a066-66574b22aa16",
+      "name": "Atticus Ross",
+      "listens": 265795,
+      "rank": 815
+    },
+    {
+      "mbid": "c0a1179b-b14a-4d68-a3c1-1fdab16ed602",
+      "name": "Common",
+      "listens": 265093,
+      "rank": 816
+    },
+    {
+      "mbid": "329f95db-f02e-40bf-a5f7-0dea11529ce3",
+      "name": "Enter Shikari",
+      "listens": 264986,
+      "rank": 817
+    },
+    {
+      "mbid": "1a120ec5-35b3-4f3e-aa49-7201550d9feb",
+      "name": "RJD2",
+      "listens": 264546,
+      "rank": 818
+    },
+    {
+      "mbid": "13df2a46-f72f-40e7-aa63-26fcf62c7048",
+      "name": "Ministry",
+      "listens": 264195,
+      "rank": 819
+    },
+    {
+      "mbid": "62d364d2-550b-420e-b918-b3bd1e4a2efc",
+      "name": "Broken Bells",
+      "listens": 263703,
+      "rank": 820
+    },
+    {
+      "mbid": "6bbfc71b-5f18-4e61-82fb-bee0c2a6b5f9",
+      "name": "WILLOW",
+      "listens": 263295,
+      "rank": 821
+    },
+    {
+      "mbid": "850a8b03-98a7-4fd3-afbd-5e5520b4ef5f",
+      "name": "Conan Gray",
+      "listens": 263086,
+      "rank": 822
+    },
+    {
+      "mbid": "d59c4cda-11d9-48db-8bfe-b557ee602aed",
+      "name": "Billie Holiday",
+      "listens": 262348,
+      "rank": 823
+    },
+    {
+      "mbid": "eb3c021d-e056-42d6-8fad-064205a90527",
+      "name": "femtanyl",
+      "listens": 262298,
+      "rank": 824
+    },
+    {
+      "mbid": "ccd4879c-5e88-4385-b131-bf65296bf245",
+      "name": "Echo & the Bunnymen",
+      "listens": 261662,
+      "rank": 825
+    },
+    {
+      "mbid": "87ae83df-6173-40cc-a0f2-bad543faa6aa",
+      "name": "DaBaby",
+      "listens": 261163,
+      "rank": 826
+    },
+    {
+      "mbid": "d2db1078-c170-4e22-b261-14f3ad60a690",
+      "name": "DEVO",
+      "listens": 261102,
+      "rank": 827
+    },
+    {
+      "mbid": "3ac482b8-1494-4071-a0e9-f192f9d2c2b0",
+      "name": "Built to Spill",
+      "listens": 260915,
+      "rank": 828
+    },
+    {
+      "mbid": "cf075492-d880-4afc-b87b-d6b03e33dacc",
+      "name": "Electric Callboy",
+      "listens": 260468,
+      "rank": 829
+    },
+    {
+      "mbid": "d7604213-38a4-4372-b682-16f9b831d3a8",
+      "name": "HOME",
+      "listens": 260171,
+      "rank": 830
+    },
+    {
+      "mbid": "1ba1d493-7114-45e2-b163-a36d49a0c065",
+      "name": "Chet Baker",
+      "listens": 260170,
+      "rank": 831
+    },
+    {
+      "mbid": "6f2f87e7-3ce9-4f1c-81dd-6f068a78cf26",
+      "name": "the Microphones",
+      "listens": 259917,
+      "rank": 832
+    },
+    {
+      "mbid": "e471b63c-c3b5-4f62-a971-cd0b2273838f",
+      "name": "Serj Tankian",
+      "listens": 259705,
+      "rank": 833
+    },
+    {
+      "mbid": "33b1695b-0b35-4e22-b1d4-be4971fb71ba",
+      "name": "Sewerslvt",
+      "listens": 259310,
+      "rank": 834
+    },
+    {
+      "mbid": "6821bf3f-5d5b-4b0f-8fa4-79d2ab2d9219",
+      "name": "Blonde Redhead",
+      "listens": 259306,
+      "rank": 835
+    },
+    {
+      "mbid": "56abaa47-0101-463b-b37e-e961136fec39",
+      "name": "Venetian Snares",
+      "listens": 259187,
+      "rank": 836
+    },
+    {
+      "mbid": "3260ce89-5eb0-4c6a-89c7-379c0dfc2ab9",
+      "name": "Kehlani",
+      "listens": 258801,
+      "rank": 837
+    },
+    {
+      "mbid": "2ddd167f-5b8a-4372-b350-6ad50493bac0",
+      "name": "The Fray",
+      "listens": 258752,
+      "rank": 838
+    },
+    {
+      "mbid": "a74f43e4-50c4-4b19-a2ce-c05ce9bccb03",
+      "name": "Talk Talk",
+      "listens": 258634,
+      "rank": 839
+    },
+    {
+      "mbid": "8ac9e35c-e92d-4030-99ef-ba4127b1555c",
+      "name": "Static‐X",
+      "listens": 258566,
+      "rank": 840
+    },
+    {
+      "mbid": "69632f9c-31eb-43d5-a864-e73ac72efc66",
+      "name": "Behemoth",
+      "listens": 258386,
+      "rank": 841
+    },
+    {
+      "mbid": "0d8b0d50-e4cf-4da4-965d-f24c58ec3268",
+      "name": "Boston",
+      "listens": 258379,
+      "rank": 842
+    },
+    {
+      "mbid": "7e13cd1c-0300-4d03-bd8e-5f86dd99d74f",
+      "name": "At the Drive‐In",
+      "listens": 257976,
+      "rank": 843
+    },
+    {
+      "mbid": "eaed2193-e026-493b-ac57-113360407b06",
+      "name": "Halestorm",
+      "listens": 257668,
+      "rank": 844
+    },
+    {
+      "mbid": "749ef494-8518-4b49-b685-63d8e728d25c",
+      "name": "Madison Beer",
+      "listens": 257509,
+      "rank": 845
+    },
+    {
+      "mbid": "350bce49-c21b-4137-b50a-0766ded07e4d",
+      "name": "Taking Back Sunday",
+      "listens": 257078,
+      "rank": 846
+    },
+    {
+      "mbid": "469d6414-1f06-43de-80d5-17762d4a356a",
+      "name": "Weyes Blood",
+      "listens": 256886,
+      "rank": 847
+    },
+    {
+      "mbid": "2ce02909-598b-44ef-a456-151ba0a3bd70",
+      "name": "Ray Charles",
+      "listens": 256656,
+      "rank": 848
+    },
+    {
+      "mbid": "0688add2-c282-4ee2-ba61-223ffdb3c201",
+      "name": "Bauhaus",
+      "listens": 256334,
+      "rank": 849
+    },
+    {
+      "mbid": "6b014cfd-4927-4187-a741-715998e6d785",
+      "name": "Lemon Demon",
+      "listens": 256302,
+      "rank": 850
+    },
+    {
+      "mbid": "92a42e82-b36f-4308-82c1-68bad2e03c89",
+      "name": "Third Eye Blind",
+      "listens": 256209,
+      "rank": 851
+    },
+    {
+      "mbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
+      "name": "Melvins",
+      "listens": 255039,
+      "rank": 852
+    },
+    {
+      "mbid": "3a51b862-0144-40f6-aa17-6aaeefea29d9",
+      "name": "Steven Wilson",
+      "listens": 254934,
+      "rank": 853
+    },
+    {
+      "mbid": "136c4166-85b3-4994-aa04-59857c434199",
+      "name": "Fun",
+      "listens": 254604,
+      "rank": 854
+    },
+    {
+      "mbid": "028e1863-cab4-4a3d-9dd9-91c682c91005",
+      "name": "The Lonely Island",
+      "listens": 254560,
+      "rank": 855
+    },
+    {
+      "mbid": "fad8967c-a327-4af5-a64a-d4de66ece652",
+      "name": "Celldweller",
+      "listens": 253943,
+      "rank": 856
+    },
+    {
+      "mbid": "c0252a1b-0133-46bb-8c4f-cade46349ec3",
+      "name": "Alestorm",
+      "listens": 253694,
+      "rank": 857
+    },
+    {
+      "mbid": "9880800a-f6f8-4f8f-a00e-b4b664776c0c",
+      "name": "Jay Rock",
+      "listens": 253545,
+      "rank": 858
+    },
+    {
+      "mbid": "ca1dcba2-792c-4550-abf2-7b45396e81ca",
+      "name": "bôa",
+      "listens": 253521,
+      "rank": 859
+    },
+    {
+      "mbid": "6a726ac6-019e-455c-8bbb-571a77bed52e",
+      "name": "Thin Lizzy",
+      "listens": 253410,
+      "rank": 860
+    },
+    {
+      "mbid": "17167af8-c1da-45cc-bba2-9d23f068b7a3",
+      "name": "Dimmu Borgir",
+      "listens": 253365,
+      "rank": 861
+    },
+    {
+      "mbid": "eb380962-99bb-46c0-af40-1c7790a7822a",
+      "name": "Amaranthe",
+      "listens": 252934,
+      "rank": 862
+    },
+    {
+      "mbid": "8262d8e4-9137-4bb3-a787-3caabbbc13e9",
+      "name": "The Used",
+      "listens": 252861,
+      "rank": 863
+    },
+    {
+      "mbid": "a2a3f910-b188-43e7-81d0-f1ac2a2f3e12",
+      "name": "Noah Kahan",
+      "listens": 252653,
+      "rank": 864
+    },
+    {
+      "mbid": "a47c3aa2-7d87-475c-a2c7-1e2047dafb09",
+      "name": "Gnarls Barkley",
+      "listens": 252346,
+      "rank": 865
+    },
+    {
+      "mbid": "f41490ce-fe39-435d-86c0-ab5ce098b423",
+      "name": "Simple Minds",
+      "listens": 252043,
+      "rank": 866
+    },
+    {
+      "mbid": "6c85f4c3-026c-4c16-9a7c-f546f42ed0fb",
+      "name": "Guided by Voices",
+      "listens": 252006,
+      "rank": 867
+    },
+    {
+      "mbid": "9d2fde91-4633-430d-87f0-2b9bbb7fa451",
+      "name": "Asking Alexandria",
+      "listens": 251904,
+      "rank": 868
+    },
+    {
+      "mbid": "84ca8fa4-7cca-4948-a90a-cb44db29853d",
+      "name": "clipping.",
+      "listens": 251838,
+      "rank": 869
+    },
+    {
+      "mbid": "27613b78-1b9d-4ec3-9db5-fa0743465fdd",
+      "name": "Herbie Hancock",
+      "listens": 251489,
+      "rank": 870
+    },
+    {
+      "mbid": "7e07ffb5-c0f6-4891-a74d-a5e12a247785",
+      "name": "Die Antwoord",
+      "listens": 251440,
+      "rank": 871
+    },
+    {
+      "mbid": "88d1360a-bc2d-47df-90d1-d2de285560aa",
+      "name": "La Roux",
+      "listens": 250835,
+      "rank": 872
+    },
+    {
+      "mbid": "b2029169-2574-4305-820f-252a5fde3697",
+      "name": "Meghan Trainor",
+      "listens": 250790,
+      "rank": 873
+    },
+    {
+      "mbid": "f6af669a-56ea-448a-a044-de76181ada33",
+      "name": "mgk",
+      "listens": 250653,
+      "rank": 874
+    },
+    {
+      "mbid": "6d230d98-fb8d-4421-a6e8-daca4e55d53e",
+      "name": "Milky Chance",
+      "listens": 250601,
+      "rank": 875
+    },
+    {
+      "mbid": "8ce77888-cd3b-4014-b710-88f83ec93633",
+      "name": "MAX",
+      "listens": 250598,
+      "rank": 876
+    },
+    {
+      "mbid": "51c76d97-0635-433c-b26d-66beb81657f8",
+      "name": "Lord Huron",
+      "listens": 250515,
+      "rank": 877
+    },
+    {
+      "mbid": "b675f327-4738-4af4-bb83-1adb0003f2d3",
+      "name": "Yves Tumor",
+      "listens": 250385,
+      "rank": 878
+    },
+    {
+      "mbid": "82eb8936-7bf6-4577-8320-a2639465206d",
+      "name": "Jason Mraz",
+      "listens": 250228,
+      "rank": 879
+    },
+    {
+      "mbid": "7d0e8067-10b9-4069-95dc-1110a0fbb877",
+      "name": "Vulfpeck",
+      "listens": 249305,
+      "rank": 880
+    },
+    {
+      "mbid": "bd057a0c-a7b6-47bf-8dc3-45e0efac1798",
+      "name": "NERO",
+      "listens": 249186,
+      "rank": 881
+    },
+    {
+      "mbid": "ec22a32b-acab-432e-a88c-ffe6ae68fa16",
+      "name": "Noisia",
+      "listens": 248994,
+      "rank": 882
+    },
+    {
+      "mbid": "92bb085a-2924-4479-b627-181a1835d2f5",
+      "name": "植松伸夫",
+      "listens": 248713,
+      "rank": 883
+    },
+    {
+      "mbid": "16456fed-c9f2-4adf-b6ea-97b648c474d2",
+      "name": "Dance Gavin Dance",
+      "listens": 248226,
+      "rank": 884
+    },
+    {
+      "mbid": "57652bf8-cfe8-42e7-b9a7-5572a7080d8d",
+      "name": "Boris",
+      "listens": 248033,
+      "rank": 885
+    },
+    {
+      "mbid": "d1393ecb-431b-4fde-a6ea-d769f2f040cb",
+      "name": "Kacey Musgraves",
+      "listens": 247892,
+      "rank": 886
+    },
+    {
+      "mbid": "5a2e9cd3-010a-4aae-9f83-629253284202",
+      "name": "Sharon Van Etten",
+      "listens": 247787,
+      "rank": 887
+    },
+    {
+      "mbid": "fbe054ec-a143-4101-9e9e-64abc5ff5ac9",
+      "name": "Nat King Cole",
+      "listens": 247747,
+      "rank": 888
+    },
+    {
+      "mbid": "185527bf-c293-4c24-8213-ed98fb8976be",
+      "name": "Angel Olsen",
+      "listens": 247676,
+      "rank": 889
+    },
+    {
+      "mbid": "244afcb7-fa9a-49b1-9aa6-0149512d1c52",
+      "name": "Thrice",
+      "listens": 247529,
+      "rank": 890
+    },
+    {
+      "mbid": "f4ccf6c5-ad41-4f8f-bb9e-6e2c6ad23302",
+      "name": "Deafheaven",
+      "listens": 247398,
+      "rank": 891
+    },
+    {
+      "mbid": "23d9d74d-c95e-46a6-be26-a6075c49747a",
+      "name": "Faithless",
+      "listens": 247104,
+      "rank": 892
+    },
+    {
+      "mbid": "319b1175-ced9-438f-986b-9239c3edd92d",
+      "name": "Sonata Arctica",
+      "listens": 247086,
+      "rank": 893
+    },
+    {
+      "mbid": "dc3dbfc1-f1f1-49c6-9d7c-425fabf3ae12",
+      "name": "Apparat",
+      "listens": 247060,
+      "rank": 894
+    },
+    {
+      "mbid": "e3cb4543-210f-499a-b0d1-3882c312dfb9",
+      "name": "Rainbow",
+      "listens": 246975,
+      "rank": 895
+    },
+    {
+      "mbid": "ce09ea31-3d4a-4487-a797-e315175457a0",
+      "name": "Tyga",
+      "listens": 246764,
+      "rank": 896
+    },
+    {
+      "mbid": "b345af35-205e-4eca-8006-029e5c20127e",
+      "name": "Simple Plan",
+      "listens": 246233,
+      "rank": 897
+    },
+    {
+      "mbid": "7c158ea8-c0aa-410e-bdc1-20bba9759577",
+      "name": "The Cinematic Orchestra",
+      "listens": 246130,
+      "rank": 898
+    },
+    {
+      "mbid": "130c2184-14f2-4180-a216-04b5a333be57",
+      "name": "Sampha",
+      "listens": 245797,
+      "rank": 899
+    },
+    {
+      "mbid": "f1d1df24-91af-4d27-83a4-9b4ad29b37eb",
+      "name": "Enigma",
+      "listens": 245586,
+      "rank": 900
+    },
+    {
+      "mbid": "bce172fc-51bb-43f7-9a25-b406a0a581d5",
+      "name": "ITZY",
+      "listens": 245309,
+      "rank": 901
+    },
+    {
+      "mbid": "9f4c3bca-4d80-428f-9ed2-0de052d92ecc",
+      "name": "Jack Stauber",
+      "listens": 244887,
+      "rank": 902
+    },
+    {
+      "mbid": "4b1a830b-0a1f-42e5-b8d5-1d6743912e99",
+      "name": "Creed",
+      "listens": 244673,
+      "rank": 903
+    },
+    {
+      "mbid": "a0b8cb9e-7532-45fe-a74c-30e7c4009a39",
+      "name": "Missy Elliott",
+      "listens": 244214,
+      "rank": 904
+    },
+    {
+      "mbid": "5ca3f318-d028-4151-ac73-78e2b2d6cdcc",
+      "name": "Tom Petty",
+      "listens": 244042,
+      "rank": 905
+    },
+    {
+      "mbid": "7e571e09-887e-4544-b993-eb75e7837ec1",
+      "name": "Grouper",
+      "listens": 243686,
+      "rank": 906
+    },
+    {
+      "mbid": "ebee61b4-bbdd-4087-9bcb-d5aa099088ec",
+      "name": "James Blunt",
+      "listens": 243527,
+      "rank": 907
+    },
+    {
+      "mbid": "0bfba3d3-6a04-4779-bb0a-df07df5b0558",
+      "name": "Stereophonics",
+      "listens": 243416,
+      "rank": 908
+    },
+    {
+      "mbid": "07e748f1-075e-428d-85dc-ce3be434e906",
+      "name": "Dave Matthews Band",
+      "listens": 243300,
+      "rank": 909
+    },
+    {
+      "mbid": "0741b30d-e15b-4a8c-b2e5-8834a03d6116",
+      "name": "Cold War Kids",
+      "listens": 243131,
+      "rank": 910
+    },
+    {
+      "mbid": "1d543e07-d0d2-4834-a8db-d65c50c2a856",
+      "name": "Dolly Parton",
+      "listens": 242970,
+      "rank": 911
+    },
+    {
+      "mbid": "142b343d-bf5a-428c-a64f-6d1a7566bbe9",
+      "name": "Stray Kids",
+      "listens": 242891,
+      "rank": 912
+    },
+    {
+      "mbid": "892500b7-09a6-4049-ba92-2d192dd70563",
+      "name": "Biffy Clyro",
+      "listens": 242777,
+      "rank": 913
+    },
+    {
+      "mbid": "1c5b9bd6-76e8-4fe7-a6df-3bc0b5a452cc",
+      "name": "Motionless in White",
+      "listens": 242173,
+      "rank": 914
+    },
+    {
+      "mbid": "5f572b31-8fd9-45ae-9beb-358c98d839df",
+      "name": "The Dandy Warhols",
+      "listens": 241883,
+      "rank": 915
+    },
+    {
+      "mbid": "370bd5a3-4abf-4356-8576-3a8fc0c11d65",
+      "name": "Above & Beyond",
+      "listens": 241727,
+      "rank": 916
+    },
+    {
+      "mbid": "0ae49abe-d6af-44fa-8ab0-b9ace5690e6f",
+      "name": "Bombay Bicycle Club",
+      "listens": 241438,
+      "rank": 917
+    },
+    {
+      "mbid": "44c64a30-1d58-49c5-b314-6e02fba49526",
+      "name": "久石譲",
+      "listens": 241263,
+      "rank": 918
+    },
+    {
+      "mbid": "3cb3928a-526c-4a3d-93c5-53315fa9bde0",
+      "name": "Elbow",
+      "listens": 240657,
+      "rank": 919
+    },
+    {
+      "mbid": "35723b60-732e-4bd8-957f-320b416e7b7f",
+      "name": "Groove Armada",
+      "listens": 240508,
+      "rank": 920
+    },
+    {
+      "mbid": "38f59974-2f4d-4bfa-b2e3-d2696de1b675",
+      "name": "Little Mix",
+      "listens": 240404,
+      "rank": 921
+    },
+    {
+      "mbid": "e5257dc5-1edd-4fca-b7e6-1158e00522c8",
+      "name": "The Jacksons",
+      "listens": 239832,
+      "rank": 922
+    },
+    {
+      "mbid": "12398bf3-1b99-47b7-930c-f3956773f35a",
+      "name": "Aminé",
+      "listens": 239687,
+      "rank": 923
+    },
+    {
+      "mbid": "777a21a8-0d0f-4cf3-86b4-65bc0eba5649",
+      "name": "Staind",
+      "listens": 239389,
+      "rank": 924
+    },
+    {
+      "mbid": "201412c6-7ced-472b-87a9-9259ec3c07d3",
+      "name": "Brent Faiyaz",
+      "listens": 239357,
+      "rank": 925
+    },
+    {
+      "mbid": "34cf95c7-4be9-4efd-a48a-c2ea4a0bb114",
+      "name": "America",
+      "listens": 239146,
+      "rank": 926
+    },
+    {
+      "mbid": "a35237a0-4f47-40a6-b6f3-1e786db23402",
+      "name": "Rod Stewart",
+      "listens": 239025,
+      "rank": 927
+    },
+    {
+      "mbid": "f4ad883e-9a92-45ed-a540-a49c2d1c36dd",
+      "name": "The Fratellis",
+      "listens": 238621,
+      "rank": 928
+    },
+    {
+      "mbid": "bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9",
+      "name": "Heart",
+      "listens": 238543,
+      "rank": 929
+    },
+    {
+      "mbid": "160629ab-ec18-4931-8c95-02cb92d06186",
+      "name": "Foreigner",
+      "listens": 238353,
+      "rank": 930
+    },
+    {
+      "mbid": "10000730-525f-4ed5-aaa8-92888f060f5f",
+      "name": "Bat for Lashes",
+      "listens": 238252,
+      "rank": 931
+    },
+    {
+      "mbid": "092b603f-eb4c-4958-b10e-02420de5885b",
+      "name": "The Cars",
+      "listens": 238199,
+      "rank": 932
+    },
+    {
+      "mbid": "54f8c12e-571c-4c5a-9f79-5336b39e84b0",
+      "name": "The Pretty Reckless",
+      "listens": 238173,
+      "rank": 933
+    },
+    {
+      "mbid": "298f4089-1948-44b5-b5e8-d5381f42362f",
+      "name": "X Ambassadors",
+      "listens": 238140,
+      "rank": 934
+    },
+    {
+      "mbid": "07832b42-8826-4ab1-acd3-c49a2f595ffe",
+      "name": "6LACK",
+      "listens": 238124,
+      "rank": 935
+    },
+    {
+      "mbid": "944e1036-8a03-4611-8aa0-31515a05c848",
+      "name": "Smash Mouth",
+      "listens": 238061,
+      "rank": 936
+    },
+    {
+      "mbid": "cc699fe3-db51-4837-928f-8f712c61a01a",
+      "name": "grandson",
+      "listens": 237987,
+      "rank": 937
+    },
+    {
+      "mbid": "592a3b6d-c42b-4567-99c9-ecf63bd66499",
+      "name": "Chuck Berry",
+      "listens": 237877,
+      "rank": 938
+    },
+    {
+      "mbid": "52fbc948-398c-45f6-833b-dd75164b896a",
+      "name": "Sweet Trip",
+      "listens": 237808,
+      "rank": 939
+    },
+    {
+      "mbid": "407d7ae0-c297-491c-bd19-4185e2b12ef2",
+      "name": "Tally Hall",
+      "listens": 237523,
+      "rank": 940
+    },
+    {
+      "mbid": "7f2a8098-50e3-451c-8696-c5d9f64f4762",
+      "name": "Wire",
+      "listens": 237396,
+      "rank": 941
+    },
+    {
+      "mbid": "a436dd02-0549-4c91-b608-df451217fdeb",
+      "name": "Parkway Drive",
+      "listens": 237169,
+      "rank": 942
+    },
+    {
+      "mbid": "a4a01f5d-18e7-4571-8c3a-76ec0e24e2d7",
+      "name": "Ne‐Yo",
+      "listens": 236939,
+      "rank": 943
+    },
+    {
+      "mbid": "ee58c59f-8e7f-4430-b8ca-236c4d3745ae",
+      "name": "Alice Cooper",
+      "listens": 236887,
+      "rank": 944
+    },
+    {
+      "mbid": "331ce348-1b08-40b9-8ed7-0763b92bd003",
+      "name": "Roxy Music",
+      "listens": 236712,
+      "rank": 945
+    },
+    {
+      "mbid": "420e923e-e74c-42ef-b771-2e2bcee93394",
+      "name": "Woodkid",
+      "listens": 236449,
+      "rank": 946
+    },
+    {
+      "mbid": "4cc51547-88ae-49a2-bf7e-0ef65ee7a94c",
+      "name": "HIM",
+      "listens": 236409,
+      "rank": 947
+    },
+    {
+      "mbid": "92dc699f-fcbc-4278-afbe-40b5ad060a55",
+      "name": "Death From Above 1979",
+      "listens": 236346,
+      "rank": 948
+    },
+    {
+      "mbid": "32b90c92-9978-4a07-90eb-caa4b22f4907",
+      "name": "Black Rebel Motorcycle Club",
+      "listens": 236294,
+      "rank": 949
+    },
+    {
+      "mbid": "1bc41dff-5397-4c53-bb50-469d2c277197",
+      "name": "The Dillinger Escape Plan",
+      "listens": 236188,
+      "rank": 950
+    },
+    {
+      "mbid": "97529a9e-4b5a-4a9c-9c08-c42401d1c268",
+      "name": "YUNGBLUD",
+      "listens": 236121,
+      "rank": 951
+    },
+    {
+      "mbid": "2449300a-6ca7-45da-8102-22789d256475",
+      "name": "Kamelot",
+      "listens": 235969,
+      "rank": 952
+    },
+    {
+      "mbid": "74963434-dcb6-4b14-98cc-99873b06db66",
+      "name": "Future Islands",
+      "listens": 235896,
+      "rank": 953
+    },
+    {
+      "mbid": "e132d370-2a59-4437-8610-756df28a5a02",
+      "name": "OK Go",
+      "listens": 235747,
+      "rank": 954
+    },
+    {
+      "mbid": "9df7ddfb-75fe-4470-9269-5810d9263b09",
+      "name": "HOYO-MiX",
+      "listens": 235720,
+      "rank": 955
+    },
+    {
+      "mbid": "a7f7df4a-77d8-4f12-8acd-5c60c93f4de8",
+      "name": "坂本龍一",
+      "listens": 235546,
+      "rank": 956
+    },
+    {
+      "mbid": "69689acf-d9cd-4d20-a972-47db4ed51b1a",
+      "name": "Kansas",
+      "listens": 235473,
+      "rank": 957
+    },
+    {
+      "mbid": "f2fb0ff0-5679-42ec-a55c-15109ce6e320",
+      "name": "Die Ärzte",
+      "listens": 235355,
+      "rank": 958
+    },
+    {
+      "mbid": "97c86b2c-2765-46a2-aef8-76a7e24c430f",
+      "name": "XTC",
+      "listens": 235181,
+      "rank": 959
+    },
+    {
+      "mbid": "f0602f55-1770-483d-89bd-4bae0d0ac086",
+      "name": "Jennifer Lopez",
+      "listens": 235144,
+      "rank": 960
+    },
+    {
+      "mbid": "37547347-ea75-45fa-9766-ff36b44d8147",
+      "name": "Isaiah Rashad",
+      "listens": 234761,
+      "rank": 961
+    },
+    {
+      "mbid": "5c2d2520-950b-4c78-84fc-78a9328172a3",
+      "name": "Animals as Leaders",
+      "listens": 234748,
+      "rank": 962
+    },
+    {
+      "mbid": "7e26cbe1-b8f5-4215-af82-e43d5f8ff308",
+      "name": "Cradle of Filth",
+      "listens": 234665,
+      "rank": 963
+    },
+    {
+      "mbid": "7c20f558-d664-42bd-b6f1-81acf9dbb72d",
+      "name": "t.A.T.u.",
+      "listens": 234641,
+      "rank": 964
+    },
+    {
+      "mbid": "d8e41375-bd8d-4e39-9da7-f0c171e97086",
+      "name": "Grouplove",
+      "listens": 234629,
+      "rank": 965
+    },
+    {
+      "mbid": "8b431ac6-0806-4e4a-9b6b-1734370fa890",
+      "name": "Xiu Xiu",
+      "listens": 234388,
+      "rank": 966
+    },
+    {
+      "mbid": "f4b6e451-5dce-4842-a555-f793892299b3",
+      "name": "Jane Remover",
+      "listens": 234223,
+      "rank": 967
+    },
+    {
+      "mbid": "f7df5df4-4dfa-459d-972b-1ba051c15ddc",
+      "name": "Fever Ray",
+      "listens": 234086,
+      "rank": 968
+    },
+    {
+      "mbid": "b8c5cc4f-239f-4e02-b46f-b040b77c2030",
+      "name": "Nightmares on Wax",
+      "listens": 234082,
+      "rank": 969
+    },
+    {
+      "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+      "name": "Wings",
+      "listens": 233336,
+      "rank": 970
+    },
+    {
+      "mbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
+      "name": "ヨルシカ",
+      "listens": 232958,
+      "rank": 971
+    },
+    {
+      "mbid": "c9dd033c-0270-463c-b3ec-f4b7712486fe",
+      "name": "Rita Ora",
+      "listens": 232934,
+      "rank": 972
+    },
+    {
+      "mbid": "7d3ec1fb-c3f1-4853-915e-871c0718eae4",
+      "name": "TheFatRat",
+      "listens": 232874,
+      "rank": 973
+    },
+    {
+      "mbid": "5b8ec72b-9e39-4a06-a2bf-964166b92a71",
+      "name": "Tory Lanez",
+      "listens": 232719,
+      "rank": 974
+    },
+    {
+      "mbid": "dc99e6fd-c710-4f79-b74b-127b4d0b7849",
+      "name": "Labrinth",
+      "listens": 232658,
+      "rank": 975
+    },
+    {
+      "mbid": "69421e11-e4c3-4854-951b-ceab4972e38e",
+      "name": "Alkaline Trio",
+      "listens": 232553,
+      "rank": 976
+    },
+    {
+      "mbid": "668fd73c-bf54-4310-a139-305517f05311",
+      "name": "Willie Nelson",
+      "listens": 232350,
+      "rank": 977
+    },
+    {
+      "mbid": "86e2e2ad-6d1b-44fd-9463-b6683718a1cc",
+      "name": "Jean‐Michel Jarre",
+      "listens": 232198,
+      "rank": 978
+    },
+    {
+      "mbid": "9fae44ec-b95c-4b0f-a0a6-f0008613eabf",
+      "name": "Wallows",
+      "listens": 232139,
+      "rank": 979
+    },
+    {
+      "mbid": "c3694ddc-f7e5-40dd-9fad-90d11a2c50fa",
+      "name": "Flogging Molly",
+      "listens": 231812,
+      "rank": 980
+    },
+    {
+      "mbid": "c842d29f-a297-48cd-bb71-4f77fd672b16",
+      "name": "T. Rex",
+      "listens": 231276,
+      "rank": 981
+    },
+    {
+      "mbid": "985f7e6f-0a7e-4de7-b9ec-a5dac63cb2f7",
+      "name": "ZAYN",
+      "listens": 231275,
+      "rank": 982
+    },
+    {
+      "mbid": "d8d1b067-78bb-4db7-8f91-db2ff9a83ee5",
+      "name": "Soilwork",
+      "listens": 231253,
+      "rank": 983
+    },
+    {
+      "mbid": "6dee6b6f-aa72-424c-9c8c-0d31ba5ff673",
+      "name": "Ashnikko",
+      "listens": 230917,
+      "rank": 984
+    },
+    {
+      "mbid": "6be2828f-6c0d-4059-99d4-fa18acf1a296",
+      "name": "Janet Jackson",
+      "listens": 230858,
+      "rank": 985
+    },
+    {
+      "mbid": "65041e06-83d2-4987-ae52-c17a915fc82a",
+      "name": "Spiritualized",
+      "listens": 230611,
+      "rank": 986
+    },
+    {
+      "mbid": "b0337af1-8d93-4671-b6c9-ba306bf942bf",
+      "name": "Central Cee",
+      "listens": 230015,
+      "rank": 987
+    },
+    {
+      "mbid": "05106775-5d45-4131-aecc-1177f813ba11",
+      "name": "Testament",
+      "listens": 229944,
+      "rank": 988
+    },
+    {
+      "mbid": "251e10fb-4ed1-4a79-8655-7f22d461a689",
+      "name": "Everything Everything",
+      "listens": 229934,
+      "rank": 989
+    },
+    {
+      "mbid": "55111838-f001-494a-a1b5-9d818db85810",
+      "name": "Courtney Barnett",
+      "listens": 229919,
+      "rank": 990
+    },
+    {
+      "mbid": "5721c227-4caf-48b1-bbfc-1a4ed3276963",
+      "name": "Roddy Ricch",
+      "listens": 229866,
+      "rank": 991
+    },
+    {
+      "mbid": "753a1564-aaef-4d39-bc68-4a8d5e328cf7",
+      "name": "Miike Snow",
+      "listens": 229454,
+      "rank": 992
+    },
+    {
+      "mbid": "bd513de0-e42f-425e-ae46-817d7bc5fb1c",
+      "name": "Archive",
+      "listens": 229371,
+      "rank": 993
+    }
+  ]
+}

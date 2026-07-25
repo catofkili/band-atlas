@@ -1,0 +1,61 @@
+{
+  "id": "the-mortal",
+  "mbid": "7454f7a3-cbc2-46af-a542-20cf0b7e0238",
+  "name": "THE MORTAL",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2015–",
+  "genres": [
+    "Visual Kei"
+  ],
+  "albums": [
+    {
+      "title": "I AM MORTAL",
+      "year": 2015
+    },
+    {
+      "title": "Spirit",
+      "year": 2015
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7454f7a3-cbc2-46af-a542-20cf0b7e0238"
+  },
+  "edges": [
+    {
+      "to": "buck-tick",
+      "toName": "BUCK‐TICK",
+      "toArea": "Fujioka",
+      "toYears": "1984–",
+      "type": "member",
+      "label": "櫻井敦司",
+      "detail": "櫻井敦司 在这两支乐队都待过。",
+      "year": 2015,
+      "weight": 0.62
+    },
+    {
+      "to": "downy",
+      "toName": "downy",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "秋山隆彦",
+      "detail": "秋山隆彦 在这两支乐队都待过。",
+      "year": 2015,
+      "weight": 0.62
+    },
+    {
+      "to": "schwein",
+      "toName": "Schwein",
+      "toArea": null,
+      "toYears": "2000–",
+      "type": "member",
+      "label": "櫻井敦司",
+      "detail": "櫻井敦司 在这两支乐队都待过。",
+      "year": 2015,
+      "weight": 0.62
+    }
+  ]
+}

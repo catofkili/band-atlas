@@ -1,0 +1,74 @@
+{
+  "id": "prick",
+  "mbid": "1268cf43-fa5d-48fd-a0b7-2fb5bcb8ee72",
+  "name": "Prick",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1992–2003",
+  "genres": [
+    "Industrial Metal"
+  ],
+  "albums": [
+    {
+      "title": "Prick",
+      "year": 1994
+    },
+    {
+      "title": "The Wreckard",
+      "year": 2002
+    }
+  ],
+  "intro": "Prick was an American industrial rock band, founded in 1992 in Los Angeles by guitarist and songwriter Kevin McMahon, after his first project Lucky Pierre disbanded.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1268cf43-fa5d-48fd-a0b7-2fb5bcb8ee72"
+  },
+  "edges": [
+    {
+      "to": "lucky-pierre",
+      "toName": "Lucky Pierre",
+      "toArea": "Cleveland",
+      "toYears": "1974–",
+      "type": "member",
+      "label": "Kevin McMahon・Greg Zydyk",
+      "detail": "2 位乐手在这两支乐队都待过：Kevin McMahon・Greg Zydyk。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "sic",
+      "toName": "( sic )",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Kevin McMahon・Greg Zydyk",
+      "detail": "2 位乐手在这两支乐队都待过：Kevin McMahon・Greg Zydyk。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Kevin McMahon",
+      "detail": "Kevin McMahon 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    },
+    {
+      "to": "fear-of-blue",
+      "toName": "Fear of Blue",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Kevin McMahon",
+      "detail": "Kevin McMahon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

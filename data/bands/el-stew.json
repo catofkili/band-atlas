@@ -1,0 +1,111 @@
+{
+  "id": "el-stew",
+  "mbid": "4887e0e9-ff5b-4dff-8dd7-d9841d40d53f",
+  "name": "El Stew",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "No Hesitation",
+      "year": 1999
+    },
+    {
+      "title": "El Stew",
+      "year": 1999
+    },
+    {
+      "title": "The Rehearsal",
+      "year": 2003
+    },
+    {
+      "title": "Rehearsal #2. 13.0.0.0.0: The Dark Night of a Million Stains",
+      "year": 2011
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4887e0e9-ff5b-4dff-8dd7-d9841d40d53f"
+  },
+  "edges": [
+    {
+      "to": "gonervill",
+      "toName": "Gonervill",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Eddie Def・Extrakd",
+      "detail": "2 位乐手在这两支乐队都待过：DJ Eddie Def・Extrakd。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "primus",
+      "toName": "Primus",
+      "toArea": "El Sobrante",
+      "toYears": "1984–",
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "cobra-strike",
+      "toName": "Cobra Strike",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "no-forcefield",
+      "toName": "No Forcefield",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "peeping-tom",
+      "toName": "Peeping Tom",
+      "toArea": "美国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "buckethead-and-his-bucket-bots",
+      "toName": "Buckethead And His Bucket-Bots",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-freak-brothers",
+      "toName": "The Freak Brothers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Extrakd",
+      "detail": "Extrakd 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

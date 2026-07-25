@@ -1,0 +1,33 @@
+{
+  "id": "ザ-ペルシャ",
+  "mbid": "547d48b7-fd6c-42e7-ae09-59c2fffdf2bd",
+  "name": "ザ・ペルシャ",
+  "area": "北海道",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1984–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "~風に吹かれて~",
+      "year": 1990
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/547d48b7-fd6c-42e7-ae09-59c2fffdf2bd"
+  },
+  "edges": [
+    {
+      "to": "the-pillows",
+      "toName": "the pillows",
+      "toArea": "札幌",
+      "toYears": "1989–2025",
+      "type": "member",
+      "label": "Yoshiaki Manabe",
+      "detail": "Yoshiaki Manabe 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

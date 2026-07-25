@@ -1,0 +1,85 @@
+{
+  "id": "queen-adam-lambert",
+  "mbid": "7e07a487-5438-4128-b2d0-f0f18ac08384",
+  "name": "Queen + Adam Lambert",
+  "area": null,
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "intro": "クイーン+アダム・ランバートは、イングランドのロックバンドであるクイーンのブライアン・メイ、ロジャー・テイラーとアメリカの歌手のアダム・ランバートによるコラボレーション・バンドである。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7e07a487-5438-4128-b2d0-f0f18ac08384"
+  },
+  "edges": [
+    {
+      "to": "queen",
+      "toName": "Queen",
+      "toArea": "伦敦",
+      "toYears": "1970–",
+      "type": "member",
+      "label": "Roger Taylor・副项目",
+      "detail": "2 位乐手在这两支乐队都待过：Roger Taylor・副项目。",
+      "year": 1970,
+      "weight": 0.84
+    },
+    {
+      "to": "the-cross",
+      "toName": "The Cross",
+      "toArea": "英格兰",
+      "toYears": "1987–1993",
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "queen-paul-rodgers",
+      "toName": "Queen + Paul Rodgers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "band-aid-30",
+      "toName": "Band Aid 30",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "hale-pace-and-the-stonkers",
+      "toName": "Hale & Pace and the Stonkers",
+      "toArea": "英国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "smile",
+      "toName": "Smile",
+      "toArea": "英国",
+      "toYears": "1968–1970",
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    }
+  ]
+}

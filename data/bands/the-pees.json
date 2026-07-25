@@ -1,0 +1,46 @@
+{
+  "id": "the-pees",
+  "mbid": "5674b399-8ab7-4ca3-9644-e5489c3ff2e7",
+  "name": "The Pees",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1987–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "アンチグライダー",
+      "year": 2004
+    }
+  ],
+  "intro": "Theピーズ は、1987年に結成した日本のパンク・ロック・バンド。1997年8月の東北ツアーを最後に一旦活動休止し、2002年7月に活動再開した。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5674b399-8ab7-4ca3-9644-e5489c3ff2e7"
+  },
+  "edges": [
+    {
+      "to": "the-pillows",
+      "toName": "the pillows",
+      "toArea": "札幌",
+      "toYears": "1989–2025",
+      "type": "member",
+      "label": "佐藤シンイチロウ",
+      "detail": "佐藤シンイチロウ 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pogo",
+      "toName": "The Pogo",
+      "toArea": "日本",
+      "toYears": "1985–1993",
+      "type": "member",
+      "label": "佐藤シンイチロウ",
+      "detail": "佐藤シンイチロウ 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

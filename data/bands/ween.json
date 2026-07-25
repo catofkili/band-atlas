@@ -3,6 +3,8 @@
   "mbid": "c0eee88b-47f2-4cd2-ac48-a045e902a432",
   "name": "Ween",
   "area": "New Hope",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1984–2024",
   "genres": [
     "Experimental Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "Ween is an American rock band from New Hope, Pennsylvania, formed in 1984 by Aaron Freeman and Mickey Melchiondo, better known by their respective stage names, Gene Ween and Dean Ween.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c0eee88b-47f2-4cd2-ac48-a045e902a432"
   },

@@ -3,6 +3,8 @@
   "mbid": "fb77e34b-7d42-4d98-b4ab-2ae844fd28ad",
   "name": "neil & iraiza",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "1996–",
   "genres": [
     "渋谷系"
@@ -23,6 +25,7 @@
   ],
   "intro": "NEIL & IRAIZAは日本のバンド。1996年から活動開始。2008年までエスカレーターレコーズに所属していた。",
   "introLang": "ja",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fb77e34b-7d42-4d98-b4ab-2ae844fd28ad"
   },

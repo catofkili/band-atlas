@@ -3,6 +3,8 @@
   "mbid": "374e1126-0a04-4f6d-9363-1f41b833798f",
   "name": "SexTapes",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2008
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/374e1126-0a04-4f6d-9363-1f41b833798f"
   },

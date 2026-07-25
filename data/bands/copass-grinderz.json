@@ -3,6 +3,8 @@
   "mbid": "4fdd4034-2a35-4784-bae0-7a154461b616",
   "name": "Copass Grinderz",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "1989–",
   "genres": [
     "Noise Rock"
@@ -10,6 +12,7 @@
   "albums": [],
   "intro": "コーパス・グラインダーズは、日本のジャンクバンド。1989年に結成され、1996年にキングレコードからメジャーデビュー。1999年に活動休止に陥るが、2014年に活動を再開。",
   "introLang": "ja",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4fdd4034-2a35-4784-bae0-7a154461b616"
   },

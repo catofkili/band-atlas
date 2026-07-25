@@ -1,0 +1,30 @@
+{
+  "id": "twenty-twenty",
+  "mbid": "b1e5a313-b558-4f9a-a0c5-87611d10c770",
+  "name": "Twenty★Twenty",
+  "area": null,
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "intro": "Twenty★Twenty是日本经纪公司杰尼斯事务所旗下的慈善性质限定组合，由其旗下15只男子音乐组合及偶像共计75人组成并由副总裁泷泽秀明担任制作人。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b1e5a313-b558-4f9a-a0c5-87611d10c770"
+  },
+  "edges": [
+    {
+      "to": "news",
+      "toName": "NEWS",
+      "toArea": "东京",
+      "toYears": "2003–",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

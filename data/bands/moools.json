@@ -3,6 +3,8 @@
   "mbid": "c19bd467-25ec-4687-963b-a0931a41a04d",
   "name": "moools",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": "1998–",
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2003
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c19bd467-25ec-4687-963b-a0931a41a04d"
   },

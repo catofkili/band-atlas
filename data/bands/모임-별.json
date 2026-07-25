@@ -1,0 +1,55 @@
+{
+  "id": "모임-별",
+  "mbid": "bb091494-8742-4ea8-b6ae-1e014510e745",
+  "name": "모임 별",
+  "area": "首尔",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2000–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "2",
+      "year": 2001
+    },
+    {
+      "title": "너와나의20세기",
+      "year": 2002
+    },
+    {
+      "title": "갑판위에엎드린채",
+      "year": 2004
+    },
+    {
+      "title": ".mp3",
+      "year": 2006
+    },
+    {
+      "title": "지혜롭고아름다운사람을포기하는법",
+      "year": 2006
+    },
+    {
+      "title": "월간뱀파이어 여섯번째호 ‘빛으로 만들어진 도시’",
+      "year": 2007
+    }
+  ],
+  "intro": "Byul.",
+  "introLang": "en",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bb091494-8742-4ea8-b6ae-1e014510e745"
+  },
+  "edges": [
+    {
+      "to": "3호선-버터플라이",
+      "toName": "3호선 버터플라이",
+      "toArea": "韩国",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "서현정",
+      "detail": "서현정 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    }
+  ]
+}

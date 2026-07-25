@@ -1,0 +1,41 @@
+{
+  "id": "the-pogo",
+  "mbid": "381c2b31-3c87-4a14-b7eb-d36fffee16b2",
+  "name": "The Pogo",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1985–1993",
+  "genres": [],
+  "albums": [],
+  "intro": "THE POGOは1985年に結成された日本のパンク・ロックバンド。1993年解散。2022年復活。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/381c2b31-3c87-4a14-b7eb-d36fffee16b2"
+  },
+  "edges": [
+    {
+      "to": "the-pillows",
+      "toName": "the pillows",
+      "toArea": "札幌",
+      "toYears": "1989–2025",
+      "type": "member",
+      "label": "佐藤シンイチロウ",
+      "detail": "佐藤シンイチロウ 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pees",
+      "toName": "The Pees",
+      "toArea": "日本",
+      "toYears": "1987–",
+      "type": "member",
+      "label": "佐藤シンイチロウ",
+      "detail": "佐藤シンイチロウ 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

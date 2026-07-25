@@ -1,0 +1,61 @@
+{
+  "id": "the-exies",
+  "mbid": "97e3f316-ec68-47f2-b870-bb4bd0a61f08",
+  "name": "The Exies",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1997–",
+  "genres": [
+    "Alternative Rock",
+    "Hard Rock"
+  ],
+  "albums": [
+    {
+      "title": "The Exies",
+      "year": 2000
+    },
+    {
+      "title": "Inertia",
+      "year": 2003
+    },
+    {
+      "title": "Head for the Door",
+      "year": 2004
+    },
+    {
+      "title": "A Modern Way of Living With the Truth",
+      "year": 2007
+    }
+  ],
+  "intro": "The Exies is an American rock band from Los Angeles, formed in 1997.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/97e3f316-ec68-47f2-b870-bb4bd0a61f08"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Isaac Carpenter",
+      "detail": "Isaac Carpenter 在这两支乐队都待过。",
+      "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "awolnation",
+      "toName": "AWOLNATION",
+      "toArea": "洛杉矶",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "Isaac Carpenter",
+      "detail": "Isaac Carpenter 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    }
+  ]
+}

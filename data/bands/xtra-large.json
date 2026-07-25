@@ -3,6 +3,8 @@
   "mbid": "8ebcdee1-67ed-432d-948b-0f428c6e6f35",
   "name": "Xtra Large",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 1992
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8ebcdee1-67ed-432d-948b-0f428c6e6f35"
   },

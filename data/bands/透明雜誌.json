@@ -1,0 +1,35 @@
+{
+  "id": "透明雜誌",
+  "mbid": "7fac92e8-92a5-4d99-bdf0-6e6c8e3aadcb",
+  "name": "透明雜誌",
+  "area": "台湾",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": "2007–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "我們的靈魂樂",
+      "year": 2010
+    }
+  ],
+  "intro": "透明杂志是来自台湾台北的独立乐团。成立于2006年一月。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7fac92e8-92a5-4d99-bdf0-6e6c8e3aadcb"
+  },
+  "edges": [
+    {
+      "to": "vooid",
+      "toName": "VOOID",
+      "toArea": "台湾",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "張盛文・洪申豪",
+      "detail": "2 位乐手在这两支乐队都待过：張盛文・洪申豪。",
+      "year": null,
+      "weight": 0.84
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "キャラメル-ママ",
+  "mbid": "7513da43-3b98-4da9-812d-2388ad5efaa7",
+  "name": "キャラメル・ママ",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1973–",
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7513da43-3b98-4da9-812d-2388ad5efaa7"
+  },
+  "edges": [
+    {
+      "to": "tin-pan",
+      "toName": "Tin Pan",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "鈴木茂・林立夫",
+      "detail": "2 位乐手在这两支乐队都待过：鈴木茂・林立夫。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "ティン-パン-アレー",
+      "toName": "ティン・パン・アレー",
+      "toArea": "日本",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "鈴木茂・林立夫",
+      "detail": "2 位乐手在这两支乐队都待过：鈴木茂・林立夫。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "はっぴいえんど",
+      "toName": "はっぴいえんど",
+      "toArea": "日本",
+      "toYears": "1969–1972",
+      "type": "member",
+      "label": "鈴木茂",
+      "detail": "鈴木茂 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

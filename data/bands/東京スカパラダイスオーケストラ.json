@@ -1,0 +1,92 @@
+{
+  "id": "東京スカパラダイスオーケストラ",
+  "mbid": "d77f4539-0661-4741-9307-60ebbd72f5ee",
+  "name": "東京スカパラダイスオーケストラ",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1985–",
+  "genres": [
+    "Big Band",
+    "Ska",
+    "Jazz"
+  ],
+  "albums": [
+    {
+      "title": "Tokyo Ska Paradise Orchestra",
+      "year": 1989
+    },
+    {
+      "title": "スカパラ登場",
+      "year": 1990
+    },
+    {
+      "title": "World Famous",
+      "year": 1991
+    },
+    {
+      "title": "PIONEERS",
+      "year": 1993
+    },
+    {
+      "title": "FANTASIA",
+      "year": 1994
+    },
+    {
+      "title": "グランプリ",
+      "year": 1995
+    }
+  ],
+  "intro": "东京斯卡乐园管弦乐团，日本知名乐团。简称为“Skapara”、“T.S.P.O.”。目前所属于唱片公司为cutting edge，经纪公司是Sony Music Artists。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d77f4539-0661-4741-9307-60ebbd72f5ee"
+  },
+  "edges": [
+    {
+      "to": "フィッシュマンズ",
+      "toName": "フィッシュマンズ",
+      "toArea": "Minato",
+      "toYears": "1987–",
+      "type": "member",
+      "label": "茂木欣一",
+      "detail": "茂木欣一 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    },
+    {
+      "to": "marimari-rythmkiller-machinegun",
+      "toName": "MariMari Rythmkiller Machinegun",
+      "toArea": "日本",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "茂木欣一",
+      "detail": "茂木欣一 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "fishmans",
+      "toName": "Fishmans+",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "茂木欣一",
+      "detail": "茂木欣一 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "viva-la-j-rock-anthems",
+      "toName": "VIVA LA J-ROCK ANTHEMS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "加藤隆志",
+      "detail": "加藤隆志 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    }
+  ]
+}

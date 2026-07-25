@@ -3,9 +3,12 @@
   "mbid": "d8160c1a-bca5-41b4-8e33-30a71abd017c",
   "name": "The Midwest Vikings",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d8160c1a-bca5-41b4-8e33-30a71abd017c"
   },

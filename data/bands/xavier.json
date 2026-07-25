@@ -1,0 +1,39 @@
+{
+  "id": "xavier",
+  "mbid": "4f015985-cc45-4cc8-abce-bcc1764d56d2",
+  "name": "Xavier",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4f015985-cc45-4cc8-abce-bcc1764d56d2"
+  },
+  "edges": [
+    {
+      "to": "fishmans",
+      "toName": "Fishmans+",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "ZAK・大野由美子",
+      "detail": "2 位乐手在这两支乐队都待过：ZAK・大野由美子。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "相対性理論",
+      "toName": "相対性理論",
+      "toArea": "东京",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "ZAK",
+      "detail": "ZAK 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

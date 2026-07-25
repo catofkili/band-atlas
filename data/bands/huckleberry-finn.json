@@ -1,0 +1,57 @@
+{
+  "id": "huckleberry-finn",
+  "mbid": "62295e15-08c3-4deb-8558-59a677c9391b",
+  "name": "Huckleberry Finn",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "1997–",
+  "genres": [
+    "Indie Rock"
+  ],
+  "albums": [
+    {
+      "title": "18일의 수요일",
+      "year": 1998
+    },
+    {
+      "title": "나를 닮은 사내",
+      "year": 2001
+    },
+    {
+      "title": "올랭피오의 별",
+      "year": 2004
+    },
+    {
+      "title": "환상... 나의 환멸",
+      "year": 2007
+    },
+    {
+      "title": "까만 타이거",
+      "year": 2011
+    },
+    {
+      "title": "오로라피플",
+      "year": 2018
+    }
+  ],
+  "intro": "ハックルベリー・フィンは韓国のインディーズ・バンド。1997年からイ・ギヨンをリーダーとして活動を始めた。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/62295e15-08c3-4deb-8558-59a677c9391b"
+  },
+  "edges": [
+    {
+      "to": "3호선-버터플라이",
+      "toName": "3호선 버터플라이",
+      "toArea": "韩国",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "김상우・남상아",
+      "detail": "2 位乐手在这两支乐队都待过：김상우・남상아。",
+      "year": 1997,
+      "weight": 0.84
+    }
+  ]
+}

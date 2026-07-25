@@ -1,0 +1,101 @@
+{
+  "id": "mongrel",
+  "mbid": "496f3f84-b42f-470e-9358-9e2c047b0335",
+  "name": "Mongrel",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Better Than Heavy",
+      "year": 2009
+    }
+  ],
+  "intro": "Mongrel were a British supergroup formed in 2008, founded by former Arctic Monkeys bassist Andy Nicholson.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/496f3f84-b42f-470e-9358-9e2c047b0335"
+  },
+  "edges": [
+    {
+      "to": "reverend-and-the-makers",
+      "toName": "Reverend and the Makers",
+      "toArea": "谢菲尔德",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Andy Nicholson・Jon McClure・Joe Moskow",
+      "detail": "3 位乐手在这两支乐队都待过：Andy Nicholson・Jon McClure・Joe Moskow。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "arctic-monkeys",
+      "toName": "Arctic Monkeys",
+      "toArea": "High Green",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "Andy Nicholson・Matt Helders",
+      "detail": "2 位乐手在这两支乐队都待过：Andy Nicholson・Matt Helders。",
+      "year": 2002,
+      "weight": 0.84
+    },
+    {
+      "to": "diddy-dirty-money",
+      "toName": "Diddy – Dirty Money",
+      "toArea": "美国",
+      "toYears": "2009–2012",
+      "type": "member",
+      "label": "Matt Helders",
+      "detail": "Matt Helders 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-bottletop-band",
+      "toName": "The Bottletop Band",
+      "toArea": "英格兰",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "lords-of-flatbush",
+      "toName": "Lords of Flatbush",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sticky-blood",
+      "toName": "Sticky Blood",
+      "toArea": "谢菲尔德",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-justice-collective",
+      "toName": "The Justice Collective",
+      "toArea": "英国",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Jon McClure",
+      "detail": "Jon McClure 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

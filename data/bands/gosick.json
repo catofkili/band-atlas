@@ -1,0 +1,28 @@
+{
+  "id": "gosick",
+  "mbid": "09aa53c7-369f-4fe5-b35c-c0349b46edf5",
+  "name": "GOSICK",
+  "area": "Nagano",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/09aa53c7-369f-4fe5-b35c-c0349b46edf5"
+  },
+  "edges": [
+    {
+      "to": "dir-en-grey",
+      "toName": "DIR EN GREY",
+      "toArea": "大阪",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Toshiya",
+      "detail": "Toshiya 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    }
+  ]
+}

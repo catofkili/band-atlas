@@ -1,0 +1,33 @@
+{
+  "id": "봉제인간",
+  "mbid": "1cfcf85c-fb75-4f0e-ab37-747f9d99e7c6",
+  "name": "봉제인간",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2022–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "12가지 말들",
+      "year": 2023
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1cfcf85c-fb75-4f0e-ab37-747f9d99e7c6"
+  },
+  "edges": [
+    {
+      "to": "혁오",
+      "toName": "혁오",
+      "toArea": "首尔",
+      "toYears": "2014–",
+      "type": "member",
+      "label": "임현제",
+      "detail": "임현제 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

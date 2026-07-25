@@ -3,6 +3,8 @@
   "mbid": "d471b090-3866-4cf3-b8a0-476e11f30a58",
   "name": "Coriky",
   "area": "华盛顿特区",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2015–",
   "genres": [
     "Punk Rock"
@@ -15,6 +17,7 @@
   ],
   "intro": "Coriky is an American alternative rock band from Washington D.C., formed in 2015.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d471b090-3866-4cf3-b8a0-476e11f30a58"
   },

@@ -3,6 +3,8 @@
   "mbid": "3f575ecd-627d-4f08-a89f-abd46d469c7e",
   "name": "Ride",
   "area": "牛津",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "1988–",
   "genres": [
     "Shoegaze",
@@ -37,6 +39,7 @@
   ],
   "intro": "ライドは、1988年にイギリスのオックスフォードで結成されたロックバンド。1988年結成。1996年に解散したが、2014年におよそ18年ぶりとなる再結成が発表された。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3f575ecd-627d-4f08-a89f-abd46d469c7e"
   },

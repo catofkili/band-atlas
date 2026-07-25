@@ -1,0 +1,28 @@
+{
+  "id": "the-dodgems",
+  "mbid": "1669f2de-de78-417b-9b79-4f0fde601fc7",
+  "name": "The Dodgems",
+  "area": "谢菲尔德",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1669f2de-de78-417b-9b79-4f0fde601fc7"
+  },
+  "edges": [
+    {
+      "to": "arctic-monkeys",
+      "toName": "Arctic Monkeys",
+      "toArea": "High Green",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "Nick O’Malley",
+      "detail": "Nick O’Malley 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    }
+  ]
+}

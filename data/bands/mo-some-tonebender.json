@@ -3,6 +3,8 @@
   "mbid": "73156e13-f308-4fda-b2c3-87bb76b7990c",
   "name": "MO'SOME TONEBENDER",
   "area": "福冈",
+  "countryCode": null,
+  "country": null,
   "years": "1997–",
   "genres": [
     "Garage Rock",
@@ -19,6 +21,7 @@
   "tracks": [
     "ロッキンルーラ"
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/73156e13-f308-4fda-b2c3-87bb76b7990c"
   },

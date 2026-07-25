@@ -3,6 +3,8 @@
   "mbid": "3cfda90e-4d46-4eeb-8a40-f55545f9bc1f",
   "name": "ROSSO",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2001–",
   "genres": [],
   "albums": [
@@ -21,6 +23,7 @@
   ],
   "intro": "ROSSOは、日本のロックバンド。",
   "introLang": "ja",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3cfda90e-4d46-4eeb-8a40-f55545f9bc1f"
   },

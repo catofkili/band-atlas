@@ -1,0 +1,52 @@
+{
+  "id": "bull-zeichen-88",
+  "mbid": "a3e106e0-d406-492b-929d-049ccd598f0d",
+  "name": "BULL ZEICHEN 88",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [
+    "Visual Kei"
+  ],
+  "albums": [
+    {
+      "title": "「 アルバム 」",
+      "year": 2012
+    },
+    {
+      "title": "アルバム2",
+      "year": 2018
+    }
+  ],
+  "intro": "BULL ZEICHEN 88は、日本のロックバンド。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a3e106e0-d406-492b-929d-049ccd598f0d"
+  },
+  "edges": [
+    {
+      "to": "siam-shade",
+      "toName": "SIAM SHADE",
+      "toArea": "日本",
+      "toYears": "1993–2002",
+      "type": "member",
+      "label": "淳士",
+      "detail": "淳士 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "rayflower",
+      "toName": "Rayflower",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "IKUO",
+      "detail": "IKUO 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+  "id": "the-yardbirds",
+  "mbid": "191de76f-a224-445d-b041-54df16d65bf7",
+  "name": "The Yardbirds",
+  "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1963–",
+  "genres": [
+    "Blues Rock",
+    "Psychedelic Rock",
+    "Mod"
+  ],
+  "albums": [
+    {
+      "title": "Having a Rave Up",
+      "year": 1965
+    },
+    {
+      "title": "For Your Love",
+      "year": 1965
+    },
+    {
+      "title": "Yardbirds",
+      "year": 1966
+    },
+    {
+      "title": "Little Games",
+      "year": 1967
+    },
+    {
+      "title": "Birdland",
+      "year": 2003
+    }
+  ],
+  "intro": "雏鸟乐团是一支英国摇滚乐队，在1960年代中期作有一系列热门歌曲，包括《为了你的爱》、《Over Under Sideways Down》和《Heart Full of Soul》。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/191de76f-a224-445d-b041-54df16d65bf7"
+  },
+  "edges": [
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Jeff Beck・Eric Clapton",
+      "detail": "2 位乐手在这两支乐队都待过：Jeff Beck・Eric Clapton。",
+      "year": 1965,
+      "weight": 0.84
+    },
+    {
+      "to": "delaney-bonnie",
+      "toName": "Delaney & Bonnie",
+      "toArea": "洛杉矶",
+      "toYears": "1967–1972",
+      "type": "member",
+      "label": "Eric Clapton",
+      "detail": "Eric Clapton 在这两支乐队都待过。",
+      "year": 1963,
+      "weight": 0.62
+    },
+    {
+      "to": "plastic-ono-band",
+      "toName": "Plastic Ono Band",
+      "toArea": "伦敦",
+      "toYears": "1969–2015",
+      "type": "member",
+      "label": "Eric Clapton",
+      "detail": "Eric Clapton 在这两支乐队都待过。",
+      "year": 1963,
+      "weight": 0.62
+    },
+    {
+      "to": "lord-sutch-heavy-friends",
+      "toName": "Lord Sutch & Heavy Friends",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Jeff Beck",
+      "detail": "Jeff Beck 在这两支乐队都待过。",
+      "year": 1965,
+      "weight": 0.62
+    },
+    {
+      "to": "george-s-band",
+      "toName": "George's Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Eric Clapton",
+      "detail": "Eric Clapton 在这两支乐队都待过。",
+      "year": 1963,
+      "weight": 0.62
+    },
+    {
+      "to": "the-honeydrippers",
+      "toName": "The Honeydrippers",
+      "toArea": "Worcestershire",
+      "toYears": "1981–1985",
+      "type": "member",
+      "label": "Jeff Beck",
+      "detail": "Jeff Beck 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "the-singing-rebels-band",
+      "toName": "The Singing Rebels’ Band",
+      "toArea": null,
+      "toYears": "1985–1985",
+      "type": "member",
+      "label": "Eric Clapton",
+      "detail": "Eric Clapton 在这两支乐队都待过。",
+      "year": 1963,
+      "weight": 0.62
+    }
+  ]
+}

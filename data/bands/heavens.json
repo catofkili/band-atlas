@@ -1,0 +1,85 @@
+{
+  "id": "heavens",
+  "mbid": "54a68526-680f-44eb-a41a-9d754b35c0e5",
+  "name": "HEAVENS",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2006–",
+  "genres": [],
+  "albums": [],
+  "intro": "TAIJI with HEAVEN'Sとは、TAIJIこと沢田泰司とDAIを中心に結成された日本のロックバンドである。TAIJIの死後、HEAVENSとして魂を受け継いだメンバーのみで活動を再開している。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/54a68526-680f-44eb-a41a-9d754b35c0e5"
+  },
+  "edges": [
+    {
+      "to": "loudness",
+      "toName": "LOUDNESS",
+      "toArea": "大阪",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "d-t-r",
+      "toName": "D.T.R",
+      "toArea": "日本",
+      "toYears": "1993–",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "dead-wire",
+      "toName": "Dead Wire",
+      "toArea": "日本",
+      "toYears": "1986–1986",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "dementia",
+      "toName": "Dementia",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "trash",
+      "toName": "Trash",
+      "toArea": "日本",
+      "toYears": "1983–1984",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    }
+  ]
+}

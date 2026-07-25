@@ -1,0 +1,61 @@
+{
+  "id": "windy-city",
+  "mbid": "0450bbde-a06e-4355-bc78-5a823ff65d9c",
+  "name": "Windy City",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2005–",
+  "genres": [
+    "Reggae"
+  ],
+  "albums": [
+    {
+      "title": "Love Record",
+      "year": 2005
+    },
+    {
+      "title": "Countryman's Vibration",
+      "year": 2007
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0450bbde-a06e-4355-bc78-5a823ff65d9c"
+  },
+  "edges": [
+    {
+      "to": "asoto-union",
+      "toName": "Asoto Union",
+      "toArea": "韩国",
+      "toYears": "2001–2005",
+      "type": "member",
+      "label": "김반장・윤갑열",
+      "detail": "2 位乐手在这两支乐队都待过：김반장・윤갑열。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "i-and-i-djangdan",
+      "toName": "I and I Djangdan",
+      "toArea": "韩国",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "김반장・François Rialland",
+      "detail": "2 位乐手在这两支乐队都待过：김반장・François Rialland。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "언니네-이발관",
+      "toName": "언니네 이발관",
+      "toArea": "韩国",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "김반장",
+      "detail": "김반장 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

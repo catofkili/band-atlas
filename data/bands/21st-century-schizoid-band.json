@@ -1,0 +1,35 @@
+{
+  "id": "21st-century-schizoid-band",
+  "mbid": "ac200a8a-fbb0-4b0d-a592-5077feb4efb5",
+  "name": "21st Century Schizoid Band",
+  "area": null,
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Official Bootleg, Volume One",
+      "year": 2002
+    }
+  ],
+  "intro": "21stセンチュリー・スキッツォイド・バンドは、イングランドのロック・バンドである。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ac200a8a-fbb0-4b0d-a592-5077feb4efb5"
+  },
+  "edges": [
+    {
+      "to": "king-crimson",
+      "toName": "King Crimson",
+      "toArea": "伦敦",
+      "toYears": "1968–2021",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

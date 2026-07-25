@@ -1,0 +1,237 @@
+{
+  "id": "the-tater-totz",
+  "mbid": "23df4094-9d65-4173-8235-f7bf1c723bd2",
+  "name": "The Tater Totz",
+  "area": "Hawthorne",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1987–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Alien Sleestacks From Brazil (Unfinished Music Volume 3)",
+      "year": 1988
+    },
+    {
+      "title": "Mono Stereo",
+      "year": 1989
+    }
+  ],
+  "intro": "Redd Kross is an American rock band from Hawthorne, California, who had their roots in 1978 in a punk rock band called the Tourists, which was started by brothers Jeff and Steve McDonald while Steve was still in middle school.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/23df4094-9d65-4173-8235-f7bf1c723bd2"
+  },
+  "edges": [
+    {
+      "to": "redd-kross",
+      "toName": "Redd Kross",
+      "toArea": "Hawthorne",
+      "toYears": "1980–",
+      "type": "member",
+      "label": "Victor Indrizzo・Steve McDonald・Jeff McDonald",
+      "detail": "3 位乐手在这两支乐队都待过：Victor Indrizzo・Steve McDonald・Jeff McDonald。",
+      "year": 1987,
+      "weight": 0.95
+    },
+    {
+      "to": "white-flag",
+      "toName": "White Flag",
+      "toArea": "Moreno Valley",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Melanie Vammen・Pick Z. Stix",
+      "detail": "2 位乐手在这两支乐队都待过：Melanie Vammen・Pick Z. Stix。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "adolescents",
+      "toName": "Adolescents",
+      "toArea": "Fullerton",
+      "toYears": "1979–",
+      "type": "member",
+      "label": "Pat Smear",
+      "detail": "Pat Smear 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Pat Smear",
+      "detail": "Pat Smear 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "queens-of-the-stone-age",
+      "toName": "Queens of the Stone Age",
+      "toArea": "Palm Desert",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Victor Indrizzo",
+      "detail": "Victor Indrizzo 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "samiam",
+      "toName": "Samiam",
+      "toArea": "Berkeley",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Victor Indrizzo",
+      "detail": "Victor Indrizzo 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "sparks",
+      "toName": "Sparks",
+      "toArea": "洛杉矶",
+      "toYears": "1970–",
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "the-muffs",
+      "toName": "The Muffs",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2019",
+      "type": "member",
+      "label": "Melanie Vammen",
+      "detail": "Melanie Vammen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pandoras",
+      "toName": "The Pandoras",
+      "toArea": "洛杉矶",
+      "toYears": "1981–1991",
+      "type": "member",
+      "label": "Melanie Vammen",
+      "detail": "Melanie Vammen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "45-grave",
+      "toName": "45 Grave",
+      "toArea": "洛杉矶",
+      "toYears": "1979–",
+      "type": "member",
+      "label": "Pat Smear",
+      "detail": "Pat Smear 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "dee-gees",
+      "toName": "Dee Gees",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Pat Smear",
+      "detail": "Pat Smear 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "germs",
+      "toName": "Germs",
+      "toArea": "洛杉矶",
+      "toYears": "1976–2013",
+      "type": "member",
+      "label": "Pat Smear",
+      "detail": "Pat Smear 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "loser",
+      "toName": "Loser",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "broken-bat",
+      "toName": "Broken Bat",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "dale-crover-band",
+      "toName": "Dale Crover Band",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "nighttime-boogie-association",
+      "toName": "Nighttime Boogie Association",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "north-american-hallowe-en-prevention-initiative",
+      "toName": "North American Hallowe’en Prevention Initiative",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sound-city-players",
+      "toName": "Sound City Players",
+      "toArea": "美国",
+      "toYears": "2012–2013",
+      "type": "member",
+      "label": "Pat Smear",
+      "detail": "Pat Smear 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-holez",
+      "toName": "The Holez",
+      "toArea": "美国",
+      "toYears": "1992–1992",
+      "type": "member",
+      "label": "Pat Smear",
+      "detail": "Pat Smear 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    }
+  ]
+}

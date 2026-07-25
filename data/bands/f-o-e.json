@@ -1,0 +1,72 @@
+{
+  "id": "f-o-e",
+  "mbid": "5eebd833-d596-449a-8d5c-77ae5e0ddbc2",
+  "name": "F.O.E",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1984–1987",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Sex, Energy and Star",
+      "year": 1986
+    },
+    {
+      "title": "FRIEND or FOE?",
+      "year": 2001
+    }
+  ],
+  "intro": "フレンズ・オブ・アースは、かつて存在した日本の音楽ユニットである。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5eebd833-d596-449a-8d5c-77ae5e0ddbc2"
+  },
+  "edges": [
+    {
+      "to": "material",
+      "toName": "Material",
+      "toArea": "纽约",
+      "toYears": "1978–1999",
+      "type": "member",
+      "label": "Aïyb Dieng",
+      "detail": "Aïyb Dieng 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "swans",
+      "toName": "Swans",
+      "toArea": "纽约",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Anton Fier",
+      "detail": "Anton Fier 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "divination",
+      "toName": "Divination",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Anton Fier",
+      "detail": "Anton Fier 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "press-rider",
+      "toName": "PRESS RIDER",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "西村麻聡",
+      "detail": "西村麻聡 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,69 @@
+{
+  "id": "잠비나이",
+  "mbid": "74c9db5a-cece-4381-afa8-a5f381901487",
+  "name": "잠비나이",
+  "area": "首尔",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2010–",
+  "genres": [
+    "Post-Rock",
+    "Experimental Rock",
+    "Avant-Garde"
+  ],
+  "albums": [
+    {
+      "title": "차연",
+      "year": 2012
+    },
+    {
+      "title": "A Hermitage",
+      "year": 2016
+    },
+    {
+      "title": "ONDA",
+      "year": 2019
+    }
+  ],
+  "intro": "Jambinai (Korean: 잠비나이) are a South Korean post-rock band formed in Seoul in 2009.",
+  "introLang": "en",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/74c9db5a-cece-4381-afa8-a5f381901487"
+  },
+  "edges": [
+    {
+      "to": "13steps",
+      "toName": "13Steps",
+      "toArea": "Cheongju",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "이일우",
+      "detail": "이일우 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "49-morphines",
+      "toName": "49 Morphines",
+      "toArea": "韩国",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "이일우",
+      "detail": "이일우 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "combative-post",
+      "toName": "Combative Post",
+      "toArea": "首尔",
+      "toYears": null,
+      "type": "member",
+      "label": "이일우",
+      "detail": "이일우 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

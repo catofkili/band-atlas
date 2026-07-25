@@ -1,0 +1,47 @@
+{
+  "id": "dead-sara",
+  "mbid": "0f4fa442-3e9c-4355-8e17-a39386a52077",
+  "name": "Dead Sara",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2003–",
+  "genres": [
+    "Alternative Rock",
+    "Garage Rock",
+    "Hard Rock"
+  ],
+  "albums": [
+    {
+      "title": "Dead Sara",
+      "year": 2012
+    },
+    {
+      "title": "Pleasure to Meet You",
+      "year": 2015
+    },
+    {
+      "title": "Ain’t It Tragic",
+      "year": 2021
+    }
+  ],
+  "intro": "Dead Sara is an American rock band from Los Angeles, consisting of Emily Armstrong (lead vocals, rhythm guitar), Siouxsie Medley (lead guitar, backing vocals), and Sean Friday (drums, backing vocals), best known for their single \"Weatherman\" from their debut album, Dead Sara (2012).",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0f4fa442-3e9c-4355-8e17-a39386a52077"
+  },
+  "edges": [
+    {
+      "to": "linkin-park",
+      "toName": "Linkin Park",
+      "toArea": "Agoura Hills",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Emily Armstrong",
+      "detail": "Emily Armstrong 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    }
+  ]
+}

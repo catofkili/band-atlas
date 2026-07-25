@@ -3,9 +3,12 @@
   "mbid": "f84963fa-d168-4700-abe0-7f3a9657bde4",
   "name": "Raw Power",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2015–",
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f84963fa-d168-4700-abe0-7f3a9657bde4"
   },
@@ -16,8 +19,8 @@
       "toArea": "西雅图",
       "toYears": "2015–",
       "type": "member",
-      "label": "Barrett Martin・Mike McCready",
-      "detail": "2 位乐手在这两支乐队都待过：Barrett Martin・Mike McCready。",
+      "label": "Mike McCready・Barrett Martin",
+      "detail": "2 位乐手在这两支乐队都待过：Mike McCready・Barrett Martin。",
       "year": null,
       "weight": 0.84
     },
@@ -30,6 +33,17 @@
       "label": "Mark Arm",
       "detail": "Mark Arm 在这两支乐队都待过。",
       "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "pearl-jam",
+      "toName": "Pearl Jam",
+      "toArea": "西雅图",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Mike McCready",
+      "detail": "Mike McCready 在这两支乐队都待过。",
+      "year": 1990,
       "weight": 0.62
     },
     {

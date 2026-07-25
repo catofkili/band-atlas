@@ -3,6 +3,8 @@
   "mbid": "3fe64039-d8e0-4ac2-838f-9a3bf97c4931",
   "name": "Fastbacks",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1979–2002",
   "genres": [
     "Pop Punk"
@@ -35,6 +37,7 @@
   ],
   "intro": "Fastbacks are a Seattle, Washington, punk rock band.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3fe64039-d8e0-4ac2-838f-9a3bf97c4931"
   },
@@ -49,6 +52,17 @@
       "detail": "Kurt Bloch 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62
+    },
+    {
+      "to": "green-day",
+      "toName": "Green Day",
+      "toArea": "Berkeley",
+      "toYears": "1989–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fastbacks 影响了 Green Day（Wikidata）。",
+      "year": null,
+      "weight": 0.46
     }
   ]
 }

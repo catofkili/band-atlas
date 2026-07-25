@@ -1,0 +1,65 @@
+{
+  "id": "wool",
+  "mbid": "ada7ccb0-8dd8-467c-9859-abb0683884bb",
+  "name": "Wool",
+  "area": "华盛顿特区",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1990–1996",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Box Set",
+      "year": 1994
+    },
+    {
+      "title": "Lunar Momento: Lost Rancho Session 2",
+      "year": 2012
+    },
+    {
+      "title": "Lunar Momento: Lost Rancho Session 1",
+      "year": 2012
+    }
+  ],
+  "intro": "Wool was an American rock band from Washington, D.C., and based in Los Angeles.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ada7ccb0-8dd8-467c-9859-abb0683884bb"
+  },
+  "edges": [
+    {
+      "to": "scream",
+      "toName": "Scream",
+      "toArea": "Virginia",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Franz Stahl・Peter Stahl",
+      "detail": "2 位乐手在这两支乐队都待过：Franz Stahl・Peter Stahl。",
+      "year": 1990,
+      "weight": 0.84
+    },
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Franz Stahl",
+      "detail": "Franz Stahl 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "dys",
+      "toName": "DYS",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Franz Stahl",
+      "detail": "Franz Stahl 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    }
+  ]
+}

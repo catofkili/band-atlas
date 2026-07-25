@@ -1,0 +1,101 @@
+{
+  "id": "siam-shade",
+  "mbid": "b58ac34f-e412-4316-8ad3-a721ce598ac3",
+  "name": "SIAM SHADE",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1993–2002",
+  "genres": [
+    "Visual Kei"
+  ],
+  "albums": [
+    {
+      "title": "SIAM SHADE",
+      "year": 1994
+    },
+    {
+      "title": "SIAM SHADE II",
+      "year": 1995
+    },
+    {
+      "title": "SIAM SHADE III",
+      "year": 1996
+    },
+    {
+      "title": "SIAM SHADE IV・Zero",
+      "year": 1998
+    },
+    {
+      "title": "SIAM SHADE V",
+      "year": 1998
+    },
+    {
+      "title": "SIAM SHADE VI",
+      "year": 2000
+    }
+  ],
+  "intro": "SIAM SHADEは、日本の5人組ロックバンド。1995年にメジャー・デビューし、2002年に一度解散したが、2007年、2011年、2013年、2015～2016年と一時的な再結成を行っている。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b58ac34f-e412-4316-8ad3-a721ce598ac3"
+  },
+  "edges": [
+    {
+      "to": "acid",
+      "toName": "ACID",
+      "toArea": "日本",
+      "toYears": "2003–2009",
+      "type": "member",
+      "label": "栄喜",
+      "detail": "栄喜 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "binecks",
+      "toName": "BINECKS",
+      "toArea": "日本",
+      "toYears": "2005–2010",
+      "type": "member",
+      "label": "DAITA",
+      "detail": "DAITA 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "bull-zeichen-88",
+      "toName": "BULL ZEICHEN 88",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "淳士",
+      "detail": "淳士 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "royal-force",
+      "toName": "ROYAL FORCE",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "KAZUMA",
+      "detail": "KAZUMA 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    },
+    {
+      "to": "vivian-or-kazuma",
+      "toName": "Vivian or Kazuma",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "KAZUMA",
+      "detail": "KAZUMA 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    }
+  ]
+}

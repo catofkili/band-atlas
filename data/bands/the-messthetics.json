@@ -3,6 +3,8 @@
   "mbid": "62788614-b33c-42c9-9b6e-c9375362b57e",
   "name": "The Messthetics",
   "area": "华盛顿特区",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2016–",
   "genres": [
     "Art Punk",
@@ -29,6 +31,7 @@
   ],
   "intro": "The Messthetics is an American musical group founded by bassist Joe Lally and drummer Brendan Canty of Fugazi, along with guitarist Anthony Pirog.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/62788614-b33c-42c9-9b6e-c9375362b57e"
   },

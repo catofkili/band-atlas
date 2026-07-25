@@ -3,6 +3,8 @@
   "mbid": "35498d38-e23b-4643-9068-e0b77b8d4e05",
   "name": "The Pandoras",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1981–1991",
   "genres": [
     "Garage Rock Revival",
@@ -28,6 +30,7 @@
   ],
   "intro": "The Pandoras were an American all-female garage punk band from Los Angeles, California, active from 1982 to 1991.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/35498d38-e23b-4643-9068-e0b77b8d4e05"
   },
@@ -64,6 +67,17 @@
       "detail": "2 位乐手在这两支乐队都待过：Kim Shattuck・Melanie Vammen。",
       "year": 1985,
       "weight": 0.84
+    },
+    {
+      "to": "the-tater-totz",
+      "toName": "The Tater Totz",
+      "toArea": "Hawthorne",
+      "toYears": "1987–",
+      "type": "member",
+      "label": "Melanie Vammen",
+      "detail": "Melanie Vammen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
     },
     {
       "to": "the-beards",

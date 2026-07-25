@@ -1,0 +1,131 @@
+{
+  "id": "the-quarrymen",
+  "mbid": "9fcc463b-7cfc-4ea4-a65e-bab77fc78e9a",
+  "name": "The Quarrymen",
+  "area": "利物浦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1956–",
+  "genres": [
+    "Rock And Roll",
+    "Skiffle"
+  ],
+  "albums": [
+    {
+      "title": "At Home",
+      "year": 1987
+    },
+    {
+      "title": "Open for Engagements",
+      "year": 1994
+    },
+    {
+      "title": "Get Back – Together",
+      "year": 1997
+    },
+    {
+      "title": "Songs We Remember",
+      "year": 2004
+    },
+    {
+      "title": "Grey Album",
+      "year": 2012
+    }
+  ],
+  "intro": "ザ・クオリーメン (The Quarry Men) は、1956年にジョン・レノンがリヴァプールで結成したイギリスのスキッフル・ロックンロールバンドである。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9fcc463b-7cfc-4ea4-a65e-bab77fc78e9a"
+  },
+  "edges": [
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "member",
+      "label": "Stuart Sutcliffe・Chas Newby・John Lennon・George Harrison",
+      "detail": "4 位乐手在这两支乐队都待过：Stuart Sutcliffe・Chas Newby・John Lennon・George Harrison。",
+      "year": 1960,
+      "weight": 0.95
+    },
+    {
+      "to": "the-beat-brothers",
+      "toName": "The Beat Brothers",
+      "toArea": "Hamburg",
+      "toYears": "1961–",
+      "type": "member",
+      "label": "Stuart Sutcliffe・John Lennon・George Harrison",
+      "detail": "3 位乐手在这两支乐队都待过：Stuart Sutcliffe・John Lennon・George Harrison。",
+      "year": 1960,
+      "weight": 0.95
+    },
+    {
+      "to": "the-silver-beatles",
+      "toName": "The Silver Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1960",
+      "type": "member",
+      "label": "Stuart Sutcliffe・John Lennon・George Harrison",
+      "detail": "3 位乐手在这两支乐队都待过：Stuart Sutcliffe・John Lennon・George Harrison。",
+      "year": 1960,
+      "weight": 0.95
+    },
+    {
+      "to": "delaney-bonnie",
+      "toName": "Delaney & Bonnie",
+      "toArea": "洛杉矶",
+      "toYears": "1967–1972",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": 1958,
+      "weight": 0.62
+    },
+    {
+      "to": "plastic-ono-band",
+      "toName": "Plastic Ono Band",
+      "toArea": "伦敦",
+      "toYears": "1969–2015",
+      "type": "member",
+      "label": "John Lennon",
+      "detail": "John Lennon 在这两支乐队都待过。",
+      "year": 1969,
+      "weight": 0.62
+    },
+    {
+      "to": "traveling-wilburys",
+      "toName": "Traveling Wilburys",
+      "toArea": "Malibu",
+      "toYears": "1988–1990",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "apple",
+      "toName": "Apple",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Lennon",
+      "detail": "John Lennon 在这两支乐队都待过。",
+      "year": 1956,
+      "weight": 0.62
+    },
+    {
+      "to": "the-singing-rebels-band",
+      "toName": "The Singing Rebels’ Band",
+      "toArea": null,
+      "toYears": "1985–1985",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": 1958,
+      "weight": 0.62
+    }
+  ]
+}

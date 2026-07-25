@@ -1,0 +1,41 @@
+{
+  "id": "julia-hart",
+  "mbid": "a3f30765-6739-49ea-8f5a-cb3d04d79cdd",
+  "name": "Julia Hart",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2000–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "가벼운 숨결",
+      "year": 2001
+    },
+    {
+      "title": "당신은 울기 위해 태어난 사람",
+      "year": 2006
+    },
+    {
+      "title": "Hot Music",
+      "year": 2007
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a3f30765-6739-49ea-8f5a-cb3d04d79cdd"
+  },
+  "edges": [
+    {
+      "to": "언니네-이발관",
+      "toName": "언니네 이발관",
+      "toArea": "韩国",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "정대욱",
+      "detail": "정대욱 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

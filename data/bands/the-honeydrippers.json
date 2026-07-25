@@ -1,0 +1,63 @@
+{
+  "id": "the-honeydrippers",
+  "mbid": "10c058a2-41e6-4f64-8cdd-fa3c7f2be9c0",
+  "name": "The Honeydrippers",
+  "area": "Worcestershire",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1981–1985",
+  "genres": [],
+  "albums": [],
+  "intro": "The Honeydrippers were an English rock and roll band of the 1980s.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/10c058a2-41e6-4f64-8cdd-fa3c7f2be9c0"
+  },
+  "edges": [
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Jeff Beck・Nile Rodgers",
+      "detail": "2 位乐手在这两支乐队都待过：Jeff Beck・Nile Rodgers。",
+      "year": 1984,
+      "weight": 0.84
+    },
+    {
+      "to": "material",
+      "toName": "Material",
+      "toArea": "纽约",
+      "toYears": "1978–1999",
+      "type": "member",
+      "label": "Nile Rodgers",
+      "detail": "Nile Rodgers 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "the-yardbirds",
+      "toName": "The Yardbirds",
+      "toArea": "伦敦",
+      "toYears": "1963–",
+      "type": "member",
+      "label": "Jeff Beck",
+      "detail": "Jeff Beck 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "lord-sutch-heavy-friends",
+      "toName": "Lord Sutch & Heavy Friends",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Jeff Beck",
+      "detail": "Jeff Beck 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    }
+  ]
+}

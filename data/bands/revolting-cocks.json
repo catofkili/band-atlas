@@ -1,0 +1,136 @@
+{
+  "id": "revolting-cocks",
+  "mbid": "2865730a-5757-4005-875e-84d6274cb1c0",
+  "name": "Revolting Cocks",
+  "area": "芝加哥",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1985–",
+  "genres": [
+    "Industrial",
+    "Alternative",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Big Sexy Land",
+      "year": 1986
+    },
+    {
+      "title": "Beers, Steers & Queers",
+      "year": 1990
+    },
+    {
+      "title": "Linger Ficken’ Good… and Other Barnyard Oddities",
+      "year": 1993
+    },
+    {
+      "title": "Cocked and Loaded",
+      "year": 2006
+    },
+    {
+      "title": "Sex-O Olympic-O",
+      "year": 2009
+    },
+    {
+      "title": "¿Got Cock?",
+      "year": 2010
+    }
+  ],
+  "intro": "Revolting Cocks, also known as RevCo, are an American-Belgian industrial rock band, and sometimes supergroup, that began as a musical side project for Richard 23 of Front 242, Luc van Acker, and Al Jourgensen of Ministry.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2865730a-5757-4005-875e-84d6274cb1c0"
+  },
+  "edges": [
+    {
+      "to": "ministry",
+      "toName": "Ministry",
+      "toArea": "芝加哥",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Jeff Ward・Paul Barker・William Tucker・Al Jourgensen・Sin Quirin・Mike Scaccia",
+      "detail": "6 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・William Tucker・Al Jourgensen・Sin Quirin・Mike Scaccia。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Jeff Ward・Paul Barker・Duane Denison・Sean Joyce・William Tucker",
+      "detail": "5 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Duane Denison・Sean Joyce・William Tucker。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "lard",
+      "toName": "Lard",
+      "toArea": "芝加哥",
+      "toYears": "1988–2000",
+      "type": "member",
+      "label": "Jeff Ward・Paul Barker・Al Jourgensen",
+      "detail": "3 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Al Jourgensen。",
+      "year": 1988,
+      "weight": 0.95
+    },
+    {
+      "to": "1000-homo-djs",
+      "toName": "1000 Homo DJs",
+      "toArea": "芝加哥",
+      "toYears": "1988–1990",
+      "type": "member",
+      "label": "Paul Barker・Al Jourgensen",
+      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "pailhead",
+      "toName": "Pailhead",
+      "toArea": "美国",
+      "toYears": "1988–1988",
+      "type": "member",
+      "label": "Paul Barker・Al Jourgensen",
+      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "silver-jews",
+      "toName": "Silver Jews",
+      "toArea": "Charlottesville",
+      "toYears": "1989–2009",
+      "type": "member",
+      "label": "Duane Denison",
+      "detail": "Duane Denison 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "low-pop-suicide",
+      "toName": "Low Pop Suicide",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

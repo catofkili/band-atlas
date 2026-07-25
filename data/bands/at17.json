@@ -1,0 +1,73 @@
+{
+  "id": "at17",
+  "mbid": "f5cbdc58-8664-4c42-85d1-fdf672346236",
+  "name": "at17",
+  "area": "Hong Kong",
+  "countryCode": "HK",
+  "country": "香港",
+  "years": "2002–2018",
+  "genres": [
+    "2000s",
+    "2000s Cantopop Group",
+    "2000s Hong Kong Debut"
+  ],
+  "albums": [
+    {
+      "title": "Meow Meow Meow",
+      "year": 2002
+    },
+    {
+      "title": "Kiss Kiss Kiss",
+      "year": 2003
+    },
+    {
+      "title": "變變變",
+      "year": 2006
+    },
+    {
+      "title": "Everybody sings at17 新曲+精選30首",
+      "year": 2017
+    }
+  ],
+  "intro": "at17，香港创作女子音乐组合，成员为卢凯彤及林二汶。 二人各自组队参加“原音2000”歌唱比赛，私底下认识了并经常一起表演。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f5cbdc58-8664-4c42-85d1-fdf672346236"
+  },
+  "edges": [
+    {
+      "to": "the-duo-band",
+      "toName": "The Duo Band",
+      "toArea": "Hong Kong",
+      "toYears": null,
+      "type": "member",
+      "label": "盧凱彤",
+      "detail": "盧凱彤 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "3p",
+      "toName": "3P",
+      "toArea": "Hong Kong",
+      "toYears": "2000–2001",
+      "type": "member",
+      "label": "林二汶",
+      "detail": "林二汶 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "lam-family",
+      "toName": "Lam Family",
+      "toArea": "Hong Kong",
+      "toYears": null,
+      "type": "member",
+      "label": "林二汶",
+      "detail": "林二汶 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    }
+  ]
+}

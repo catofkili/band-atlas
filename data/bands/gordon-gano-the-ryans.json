@@ -1,0 +1,66 @@
+{
+  "id": "gordon-gano-the-ryans",
+  "mbid": "a5522774-29b6-422f-b751-19c5b7c67d06",
+  "name": "Gordon Gano & The Ryans",
+  "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Under the Sun",
+      "year": 2009
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a5522774-29b6-422f-b751-19c5b7c67d06"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Frank Ferrer",
+      "detail": "Frank Ferrer 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "love-spit-love",
+      "toName": "Love Spit Love",
+      "toArea": "纽约",
+      "toYears": "1992–2000",
+      "type": "member",
+      "label": "Frank Ferrer・Lonnie D. Hillyer",
+      "detail": "2 位乐手在这两支乐队都待过：Frank Ferrer・Lonnie D. Hillyer。",
+      "year": 1992,
+      "weight": 0.84
+    },
+    {
+      "to": "the-dead-daisies",
+      "toName": "The Dead Daisies",
+      "toArea": "悉尼",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Frank Ferrer",
+      "detail": "Frank Ferrer 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "beatrazr",
+      "toName": "Beatrazr",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Frank Ferrer",
+      "detail": "Frank Ferrer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

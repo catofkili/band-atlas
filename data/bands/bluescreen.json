@@ -1,0 +1,50 @@
+{
+  "id": "bluescreen",
+  "mbid": "e6dedb88-8103-450a-a667-a0756d7cb568",
+  "name": "Bluescreen",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e6dedb88-8103-450a-a667-a0756d7cb568"
+  },
+  "edges": [
+    {
+      "to": "limbomaniacs",
+      "toName": "Limbomaniacs",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Pete Scaturro",
+      "detail": "Pete Scaturro 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "giant-robot",
+      "toName": "Giant Robot",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Pete Scaturro",
+      "detail": "Pete Scaturro 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "les-claypool-and-the-holy-mackerel",
+      "toName": "Les Claypool and the Holy Mackerel",
+      "toArea": "Berkeley",
+      "toYears": "1996–1996",
+      "type": "member",
+      "label": "Joe Gore",
+      "detail": "Joe Gore 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

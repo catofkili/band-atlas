@@ -1,0 +1,59 @@
+{
+  "id": "マキシマム-ザ-ホルモン",
+  "mbid": "fb01635c-51fc-4cad-b71f-62e18bb3433b",
+  "name": "マキシマム ザ ホルモン",
+  "area": "Hachiōji",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1998–",
+  "genres": [
+    "Nu Metal",
+    "Hardcore",
+    "J-Rock"
+  ],
+  "albums": [
+    {
+      "title": "A.S.A. Crew",
+      "year": 1999
+    },
+    {
+      "title": "耳噛じる",
+      "year": 2002
+    },
+    {
+      "title": "糞盤",
+      "year": 2004
+    },
+    {
+      "title": "ロッキンポ殺し",
+      "year": 2005
+    },
+    {
+      "title": "ぶっ生き返す",
+      "year": 2007
+    },
+    {
+      "title": "予襲復讐",
+      "year": 2013
+    }
+  ],
+  "intro": "Maximum The Hormone是一个来自日本东京八王子市的新金属，金属核乐队。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fb01635c-51fc-4cad-b71f-62e18bb3433b"
+  },
+  "edges": [
+    {
+      "to": "コロナナモレモモ",
+      "toName": "コロナナモレモモ",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

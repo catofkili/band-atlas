@@ -1,0 +1,81 @@
+{
+  "id": "フィッシュマンズ",
+  "mbid": "d0f25f16-7782-42e8-8047-c16a1cb2b450",
+  "name": "フィッシュマンズ",
+  "area": "Minato",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1987–",
+  "genres": [
+    "Neo-Psychedelia",
+    "Dream Pop",
+    "Dub"
+  ],
+  "albums": [
+    {
+      "title": "Chappie, Don’t Cry",
+      "year": 1991
+    },
+    {
+      "title": "King Master George",
+      "year": 1992
+    },
+    {
+      "title": "Neo Yankees’ Holiday",
+      "year": 1993
+    },
+    {
+      "title": "ORANGE",
+      "year": 1994
+    },
+    {
+      "title": "空中キャンプ",
+      "year": 1996
+    },
+    {
+      "title": "LONG SEASON",
+      "year": 1996
+    }
+  ],
+  "intro": "Fishmans，日本乐团，1987年在港区(东京都)成立。Fishmans以其独特的迷幻音响，主唱佐藤伸治特有的声线，鼓手茂木欣一雷鬼风格的演奏和贝斯手柏原让律动的bassline而闻名。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d0f25f16-7782-42e8-8047-c16a1cb2b450"
+  },
+  "edges": [
+    {
+      "to": "fishmans",
+      "toName": "Fishmans+",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "茂木欣一・柏原譲・HAKASE-SUN",
+      "detail": "3 位乐手在这两支乐队都待过：茂木欣一・柏原譲・HAKASE-SUN。",
+      "year": 1987,
+      "weight": 0.95
+    },
+    {
+      "to": "東京スカパラダイスオーケストラ",
+      "toName": "東京スカパラダイスオーケストラ",
+      "toArea": "东京",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "茂木欣一",
+      "detail": "茂木欣一 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    },
+    {
+      "to": "marimari-rythmkiller-machinegun",
+      "toName": "MariMari Rythmkiller Machinegun",
+      "toArea": "日本",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "茂木欣一",
+      "detail": "茂木欣一 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    }
+  ]
+}

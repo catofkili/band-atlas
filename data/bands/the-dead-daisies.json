@@ -3,6 +3,8 @@
   "mbid": "e935d070-004d-405a-8b9d-1d9e51590b55",
   "name": "The Dead Daisies",
   "area": "悉尼",
+  "countryCode": "AU",
+  "country": "澳大利亚",
   "years": "2012–",
   "genres": [
     "Hard Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "The Dead Daisies are an Australian-American hard rock band formed in Sydney in 2012.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e935d070-004d-405a-8b9d-1d9e51590b55"
   },
@@ -53,6 +56,17 @@
       "weight": 0.95
     },
     {
+      "to": "love-spit-love",
+      "toName": "Love Spit Love",
+      "toArea": "纽约",
+      "toYears": "1992–2000",
+      "type": "member",
+      "label": "Richard Fortus・Frank Ferrer",
+      "detail": "2 位乐手在这两支乐队都待过：Richard Fortus・Frank Ferrer。",
+      "year": 2013,
+      "weight": 0.84
+    },
+    {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
       "toArea": "Cleveland",
@@ -60,7 +74,18 @@
       "type": "member",
       "label": "Alex Carapetis",
       "detail": "Alex Carapetis 在这两支乐队都待过。",
-      "year": 2005,
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-voidz",
+      "toName": "The Voidz",
+      "toArea": "纽约",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Alex Carapetis",
+      "detail": "Alex Carapetis 在这两支乐队都待过。",
+      "year": 2013,
       "weight": 0.62
     },
     {
@@ -83,6 +108,28 @@
       "label": "Brian Tichy",
       "detail": "Brian Tichy 在这两支乐队都待过。",
       "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "tak-matsumoto-group",
+      "toName": "Tak Matsumoto Group",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "Brian Tichy",
+      "detail": "Brian Tichy 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "gordon-gano-the-ryans",
+      "toName": "Gordon Gano & The Ryans",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Frank Ferrer",
+      "detail": "Frank Ferrer 在这两支乐队都待过。",
+      "year": 2013,
       "weight": 0.62
     },
     {

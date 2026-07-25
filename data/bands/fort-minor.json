@@ -1,0 +1,54 @@
+{
+  "id": "fort-minor",
+  "mbid": "e1564e98-978b-4947-8698-f6fd6f8b0181",
+  "name": "Fort Minor",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2004–2017",
+  "genres": [
+    "Hip Hop",
+    "Alternative Hip Hop",
+    "Side Project"
+  ],
+  "albums": [
+    {
+      "title": "The Rising Tied",
+      "year": 2005
+    },
+    {
+      "title": "Instrumental Album: The Rising Tied",
+      "year": 2005
+    }
+  ],
+  "intro": "黑暗堡垒是乐团林肯公园的主要MC迈克尔·篠田于2005年以单飞不解散名义创立的新的说唱组合，并发行他自己所创立此团的首张专辑《火线同盟》。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e1564e98-978b-4947-8698-f6fd6f8b0181"
+  },
+  "edges": [
+    {
+      "to": "linkin-park",
+      "toName": "Linkin Park",
+      "toArea": "Agoura Hills",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Mike Shinoda",
+      "detail": "Mike Shinoda 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
+    },
+    {
+      "to": "xero",
+      "toName": "Xero",
+      "toArea": "Agoura Hills",
+      "toYears": "1996–1999",
+      "type": "member",
+      "label": "Mike Shinoda",
+      "detail": "Mike Shinoda 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
+    }
+  ]
+}

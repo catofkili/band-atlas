@@ -1,0 +1,28 @@
+{
+  "id": "the-devils",
+  "mbid": "d45cb0dc-b795-4fb1-aec0-a469ae2f317b",
+  "name": "The Devils",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d45cb0dc-b795-4fb1-aec0-a469ae2f317b"
+  },
+  "edges": [
+    {
+      "to": "3호선-버터플라이",
+      "toName": "3호선 버터플라이",
+      "toArea": "韩国",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "손경호",
+      "detail": "손경호 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "jc-001-dj-d-zire",
+  "mbid": "168ab817-9594-4d78-a863-61e7777a672c",
+  "name": "JC-001 & DJ D-Zire",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/168ab817-9594-4d78-a863-61e7777a672c"
+  },
+  "edges": [
+    {
+      "to": "gorillaz",
+      "toName": "Gorillaz",
+      "toArea": "Essex",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "DJ D-Zire",
+      "detail": "DJ D-Zire 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "jamiroquai",
+      "toName": "Jamiroquai",
+      "toArea": "Ealing",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "DJ D-Zire",
+      "detail": "DJ D-Zire 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "spacemonkeyz",
+      "toName": "Spacemonkeyz",
+      "toArea": "英国",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "DJ D-Zire",
+      "detail": "DJ D-Zire 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

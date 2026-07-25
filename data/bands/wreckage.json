@@ -1,0 +1,50 @@
+{
+  "id": "wreckage",
+  "mbid": "993ea29c-cb1e-4c0f-94d0-c6bd4bd23a72",
+  "name": "Wreckage",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1969–1969",
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/993ea29c-cb1e-4c0f-94d0-c6bd4bd23a72"
+  },
+  "edges": [
+    {
+      "to": "queen",
+      "toName": "Queen",
+      "toArea": "伦敦",
+      "toYears": "1970–",
+      "type": "member",
+      "label": "Freddie Mercury",
+      "detail": "Freddie Mercury 在这两支乐队都待过。",
+      "year": 1970,
+      "weight": 0.62
+    },
+    {
+      "to": "ibex",
+      "toName": "Ibex",
+      "toArea": "英国",
+      "toYears": "1969–1969",
+      "type": "member",
+      "label": "Freddie Mercury",
+      "detail": "Freddie Mercury 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sour-milk-sea",
+      "toName": "Sour Milk Sea",
+      "toArea": null,
+      "toYears": "1969–1970",
+      "type": "member",
+      "label": "Freddie Mercury",
+      "detail": "Freddie Mercury 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

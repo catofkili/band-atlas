@@ -1,0 +1,114 @@
+{
+  "id": "fall-out-boy",
+  "mbid": "516cef4d-0718-4007-9939-f9b38af3f784",
+  "name": "Fall Out Boy",
+  "area": "Wilmette",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2001–",
+  "genres": [
+    "Pop Punk",
+    "Alternative Rock",
+    "Pop Rock"
+  ],
+  "albums": [
+    {
+      "title": "Take This to Your Grave",
+      "year": 2003
+    },
+    {
+      "title": "From Under the Cork Tree",
+      "year": 2005
+    },
+    {
+      "title": "Infinity on High",
+      "year": 2007
+    },
+    {
+      "title": "Folie à Deux",
+      "year": 2008
+    },
+    {
+      "title": "Save Rock and Roll",
+      "year": 2013
+    },
+    {
+      "title": "American Beauty/American Psycho",
+      "year": 2015
+    }
+  ],
+  "intro": "打倒男孩是一支流行朋克、另类摇滚曲风的乐团，他们来自美国伊利诺伊州的芝加哥，在2001年组成。乐团成员包括派崔克·史坦普、彼特·温兹乔·特洛曼、安迪·赫里。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/516cef4d-0718-4007-9939-f9b38af3f784"
+  },
+  "edges": [
+    {
+      "to": "blink-182",
+      "toName": "blink‐182",
+      "toArea": "Poway",
+      "toYears": "1992–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fall Out Boy 受 blink‐182 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "green-day",
+      "toName": "Green Day",
+      "toArea": "Berkeley",
+      "toYears": "1989–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fall Out Boy 受 Green Day 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-smiths",
+      "toName": "The Smiths",
+      "toArea": "曼彻斯特",
+      "toYears": "1982–1987",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fall Out Boy 受 The Smiths 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "weezer",
+      "toName": "Weezer",
+      "toArea": "洛杉矶",
+      "toYears": "1992–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fall Out Boy 受 Weezer 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "sunny-day-real-estate",
+      "toName": "Sunny Day Real Estate",
+      "toArea": "西雅图",
+      "toYears": "1992–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fall Out Boy 受 Sunny Day Real Estate 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "rites-of-spring",
+      "toName": "Rites of Spring",
+      "toArea": "华盛顿特区",
+      "toYears": "1983–1986",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fall Out Boy 受 Rites of Spring 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

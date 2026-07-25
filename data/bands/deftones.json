@@ -1,0 +1,213 @@
+{
+  "id": "deftones",
+  "mbid": "7527f6c2-d762-4b88-b5e2-9244f1e34c46",
+  "name": "Deftones",
+  "area": "Sacramento",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1988–",
+  "genres": [
+    "Alternative Metal",
+    "Nu Metal",
+    "Alternative Rock"
+  ],
+  "albums": [
+    {
+      "title": "Adrenaline",
+      "year": 1995
+    },
+    {
+      "title": "Around the Fur",
+      "year": 1997
+    },
+    {
+      "title": "White Pony",
+      "year": 2000
+    },
+    {
+      "title": "Deftones",
+      "year": 2003
+    },
+    {
+      "title": "Saturday Night Wrist",
+      "year": 2006
+    },
+    {
+      "title": "Diamond Eyes",
+      "year": 2010
+    }
+  ],
+  "intro": "盲音合唱团是一支美国的另类金属乐队，1988年成立于加利福尼亚州沙加缅度。该乐队被认为是另类金属乐队中最深入实验金属的一支乐队，有时评论界会称其为“金属音乐界的电台司令”。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7527f6c2-d762-4b88-b5e2-9244f1e34c46"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Guns N’ Roses 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "my-bloody-valentine",
+      "toName": "My Bloody Valentine",
+      "toArea": "都柏林 / 伦敦",
+      "toYears": "1983–1997 / 2007–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 My Bloody Valentine 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "Birmingham",
+      "toYears": "1968–2025",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Black Sabbath 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "depeche-mode",
+      "toName": "Depeche Mode",
+      "toArea": "Basildon",
+      "toYears": "1980–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Depeche Mode 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "jane-s-addiction",
+      "toName": "Jane’s Addiction",
+      "toArea": "洛杉矶",
+      "toYears": "1986–2025",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Jane’s Addiction 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "led-zeppelin",
+      "toName": "Led Zeppelin",
+      "toArea": "伦敦",
+      "toYears": "1968–1980",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Led Zeppelin 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "linkin-park",
+      "toName": "Linkin Park",
+      "toArea": "Agoura Hills",
+      "toYears": "1996–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 影响了 Linkin Park（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "lostprophets",
+      "toName": "Lostprophets",
+      "toArea": "Pontypridd",
+      "toYears": "1997–2013",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 影响了 Lostprophets（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "metallica",
+      "toName": "Metallica",
+      "toArea": "洛杉矶",
+      "toYears": "1981–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Metallica 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "radiohead",
+      "toName": "Radiohead",
+      "toArea": "Abingdon-on-Thames",
+      "toYears": "1991–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Radiohead 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "rage-against-the-machine",
+      "toName": "Rage Against the Machine",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2024",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Rage Against the Machine 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "soundgarden",
+      "toName": "Soundgarden",
+      "toArea": "西雅图",
+      "toYears": "1984–2017",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Soundgarden 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-cure",
+      "toName": "The Cure",
+      "toArea": "Crawley",
+      "toYears": "1977–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 The Cure 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-smiths",
+      "toName": "The Smiths",
+      "toArea": "曼彻斯特",
+      "toYears": "1982–1987",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 The Smiths 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "tool",
+      "toName": "Tool",
+      "toArea": "洛杉矶",
+      "toYears": "1990–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Tool 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

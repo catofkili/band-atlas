@@ -3,6 +3,8 @@
   "mbid": "05fdd3fb-6fe9-4b81-926e-f6d52dd1e737",
   "name": "Lusk",
   "area": "California",
+  "countryCode": null,
+  "country": null,
   "years": "1995–1998",
   "genres": [],
   "albums": [
@@ -13,6 +15,7 @@
   ],
   "intro": "ラスクは、アメリカのサイケデリック・ロック・バンド。",
   "introLang": "ja",
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/05fdd3fb-6fe9-4b81-926e-f6d52dd1e737"
   },
@@ -37,6 +40,17 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "tool",
+      "toName": "Tool",
+      "toArea": "洛杉矶",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Paul D’Amour",
+      "detail": "Paul D’Amour 在这两支乐队都待过。",
+      "year": 1990,
       "weight": 0.62
     },
     {

@@ -1,0 +1,63 @@
+{
+  "id": "the-firm",
+  "mbid": "c08ced1f-d248-4368-90e5-bf579b3bf5de",
+  "name": "The Firm",
+  "area": "英格兰",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1984–1986",
+  "genres": [
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "The Firm",
+      "year": 1985
+    },
+    {
+      "title": "Mean Business",
+      "year": 1986
+    }
+  ],
+  "intro": "ザ・ファームは、イングランド出身のロックバンド。1984年に、ジミー・ペイジ、ポール・ロジャース、トニー・フランクリン、クリス・スレイドで結成したスーパーグループ。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c08ced1f-d248-4368-90e5-bf579b3bf5de"
+  },
+  "edges": [
+    {
+      "to": "ac-dc",
+      "toName": "AC/DC",
+      "toArea": "悉尼",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "Chris Slade",
+      "detail": "Chris Slade 在这两支乐队都待过。",
+      "year": 2015,
+      "weight": 0.62
+    },
+    {
+      "to": "asia",
+      "toName": "Asia",
+      "toArea": "伦敦",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Chris Slade",
+      "detail": "Chris Slade 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "rock-therapy",
+      "toName": "Rock Therapy",
+      "toArea": "英国",
+      "toYears": "1996–1996",
+      "type": "member",
+      "label": "Paul Rodgers",
+      "detail": "Paul Rodgers 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,158 @@
+{
+  "id": "u2",
+  "mbid": "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432",
+  "name": "U2",
+  "area": "都柏林",
+  "countryCode": "IE",
+  "country": "爱尔兰",
+  "years": "1976–",
+  "genres": [
+    "Alternative Rock",
+    "Rock",
+    "Post-Punk"
+  ],
+  "albums": [
+    {
+      "title": "Boy",
+      "year": 1980
+    },
+    {
+      "title": "October",
+      "year": 1981
+    },
+    {
+      "title": "War",
+      "year": 1983
+    },
+    {
+      "title": "The Unforgettable Fire",
+      "year": 1984
+    },
+    {
+      "title": "The Joshua Tree",
+      "year": 1987
+    },
+    {
+      "title": "Tear Down the Walls",
+      "year": 1987
+    }
+  ],
+  "intro": "U2是一支在1976年成立于都柏林的爱尔兰四人制摇滚乐乐团，自1980年代窜起走红之后，一直到了21世纪的今天，仍活跃于全球流行乐坛。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 Guns N’ Roses 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "artists-against-aids-worldwide",
+      "toName": "Artists Against AIDS Worldwide",
+      "toArea": "纽约",
+      "toYears": "2001–2001",
+      "type": "member",
+      "label": "Bono",
+      "detail": "Bono 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "band-aid-30",
+      "toName": "Band Aid 30",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bono",
+      "detail": "Bono 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "lostprophets",
+      "toName": "Lostprophets",
+      "toArea": "Pontypridd",
+      "toYears": "1997–2013",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 影响了 Lostprophets（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "pink-floyd",
+      "toName": "Pink Floyd",
+      "toArea": "伦敦",
+      "toYears": "1965–2014",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 Pink Floyd 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "sex-pistols",
+      "toName": "Sex Pistols",
+      "toArea": null,
+      "toYears": null,
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 Sex Pistols 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 The Beatles 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-rolling-stones",
+      "toName": "The Rolling Stones",
+      "toArea": "伦敦",
+      "toYears": "1962–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 The Rolling Stones 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-who",
+      "toName": "The Who",
+      "toArea": "伦敦",
+      "toYears": "1964–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 The Who 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "band-aid",
+      "toName": "Band Aid",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "18662acd-0f22-4608-b3eb-60f12b0766c4",
   "name": "Tito & Tarantula",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1992–",
   "genres": [
     "Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "Tito & Tarantula is an American chicano rock/blues rock band formed in Hollywood, California, in 1992 by singer/songwriter/guitarist Tito Larriva.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/18662acd-0f22-4608-b3eb-60f12b0766c4"
   },

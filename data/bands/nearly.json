@@ -1,0 +1,77 @@
+{
+  "id": "nearly",
+  "mbid": "ef6acfcb-2c12-419d-bfcf-4ffaac9f3e8d",
+  "name": "nearLY",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1999–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Reminder",
+      "year": 2005
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ef6acfcb-2c12-419d-bfcf-4ffaac9f3e8d"
+  },
+  "edges": [
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Keith Hillebrandt・Jerome Dillon",
+      "detail": "2 位乐手在这两支乐队都待过：Keith Hillebrandt・Jerome Dillon。",
+      "year": 1997,
+      "weight": 0.84
+    },
+    {
+      "to": "12-rounds",
+      "toName": "12 Rounds",
+      "toArea": "伦敦",
+      "toYears": null,
+      "type": "member",
+      "label": "Claudia Sarne",
+      "detail": "Claudia Sarne 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "howlin-maggie",
+      "toName": "Howlin’ Maggie",
+      "toArea": "Columbus",
+      "toYears": "1994–2002",
+      "type": "member",
+      "label": "Jerome Dillon",
+      "detail": "Jerome Dillon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-backbeat-band",
+      "toName": "The Backbeat Band",
+      "toArea": "美国",
+      "toYears": "1994–1994",
+      "type": "member",
+      "label": "Greg Dulli",
+      "detail": "Greg Dulli 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-buddha-boys-choir",
+      "toName": "The Buddha Boys Choir",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Keith Hillebrandt",
+      "detail": "Keith Hillebrandt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

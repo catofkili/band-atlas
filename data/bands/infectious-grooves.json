@@ -1,0 +1,161 @@
+{
+  "id": "infectious-grooves",
+  "mbid": "7e14cf06-532b-4789-8c03-5aa13da4f6f3",
+  "name": "Infectious Grooves",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1990–",
+  "genres": [
+    "Funk Metal",
+    "Funk Rock",
+    "Metal"
+  ],
+  "albums": [
+    {
+      "title": "The Plague That Makes Your Booty Move… It’s the Infectious Grooves",
+      "year": 1991
+    },
+    {
+      "title": "Sarsippius’ Ark: (Limited Edition)",
+      "year": 1993
+    },
+    {
+      "title": "Groove Family Cyco",
+      "year": 1994
+    },
+    {
+      "title": "Borracho",
+      "year": 1999
+    }
+  ],
+  "intro": "Infectious Grooves is an American funk metal supergroup led by vocalist Mike Muir and initially a side project from his group Suicidal Tendencies.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7e14cf06-532b-4789-8c03-5aa13da4f6f3"
+  },
+  "edges": [
+    {
+      "to": "suicidal-tendencies",
+      "toName": "Suicidal Tendencies",
+      "toArea": "洛杉矶",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Brooks Wackerman・Mike Muir・Josh Paul",
+      "detail": "3 位乐手在这两支乐队都待过：Brooks Wackerman・Mike Muir・Josh Paul。",
+      "year": 1993,
+      "weight": 0.95
+    },
+    {
+      "to": "cyco-miko",
+      "toName": "Cyco Miko",
+      "toArea": "Venice",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Mike Muir・Adam Siegel",
+      "detail": "2 位乐手在这两支乐队都待过：Mike Muir・Adam Siegel。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "jane-s-addiction",
+      "toName": "Jane’s Addiction",
+      "toArea": "洛杉矶",
+      "toYears": "1986–2025",
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "no-use-for-a-name",
+      "toName": "No Use for a Name",
+      "toArea": "San Jose",
+      "toYears": "1987–2012",
+      "type": "member",
+      "label": "Dave Nassie",
+      "detail": "Dave Nassie 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "the-vandals",
+      "toName": "The Vandals",
+      "toArea": "Huntington Beach",
+      "toYears": "1980–",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "methods-of-mayhem",
+      "toName": "Methods of Mayhem",
+      "toArea": "美国",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "tenacious-d",
+      "toName": "Tenacious D",
+      "toArea": "洛杉矶",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "mass-mental",
+      "toName": "Mass Mental?",
+      "toArea": null,
+      "toYears": "1998–2002",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "medication",
+      "toName": "Medication",
+      "toArea": "洛杉矶",
+      "toYears": "1999–2003",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "the-panic-channel",
+      "toName": "The Panic Channel",
+      "toArea": "洛杉矶",
+      "toYears": "2004–2007",
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "halloween-jack",
+      "toName": "Halloween Jack",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "id": "滅火器",
+  "mbid": "655ba39c-f754-4ed1-adac-4b2258598ade",
+  "name": "滅火器",
+  "area": "Kaohsiung",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": "2001–",
+  "genres": [
+    "Indie Rock",
+    "Punk Rock"
+  ],
+  "albums": [
+    {
+      "title": "衝啦!",
+      "year": 2007
+    },
+    {
+      "title": "海上的人",
+      "year": 2009
+    },
+    {
+      "title": "再會！青春",
+      "year": 2013
+    },
+    {
+      "title": "REBORN",
+      "year": 2016
+    },
+    {
+      "title": "無名英雄",
+      "year": 2019
+    },
+    {
+      "title": "家和萬事興",
+      "year": 2023
+    }
+  ],
+  "intro": "灭火器，是一个来自台湾高雄以台语创作为主的朋克乐团，成立于2000年。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/655ba39c-f754-4ed1-adac-4b2258598ade"
+  },
+  "edges": [
+    {
+      "to": "emptyorio",
+      "toName": "EmptyORio",
+      "toArea": "台湾",
+      "toYears": null,
+      "type": "member",
+      "label": "鄭宇辰・柯光",
+      "detail": "2 位乐手在这两支乐队都待过：鄭宇辰・柯光。",
+      "year": 2004,
+      "weight": 0.84
+    }
+  ]
+}

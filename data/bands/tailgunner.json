@@ -3,6 +3,8 @@
   "mbid": "2c3cbf70-da1f-4abe-a905-011e717f96bb",
   "name": "Tailgunner",
   "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "2000–",
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2000
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2c3cbf70-da1f-4abe-a905-011e717f96bb"
   },

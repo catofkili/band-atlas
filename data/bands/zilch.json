@@ -1,0 +1,171 @@
+{
+  "id": "zilch",
+  "mbid": "4316a6ab-0609-4599-a359-a4d616bf453a",
+  "name": "Zilch",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1998–2002",
+  "genres": [],
+  "albums": [
+    {
+      "title": "3・2・1",
+      "year": 1998
+    },
+    {
+      "title": "Skyjin",
+      "year": 2001
+    }
+  ],
+  "intro": "hideは、日本のギタリスト、歌手、プロデューサー。神奈川県横須賀市出身。1987年から1997年までX JAPANのギタリストとしてHIDE名義で活動。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4316a6ab-0609-4599-a359-a4d616bf453a"
+  },
+  "edges": [
+    {
+      "to": "hide-with-spread-beaver",
+      "toName": "hide with Spread Beaver",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "hide・I.N.A",
+      "detail": "2 位乐手在这两支乐队都待过：hide・I.N.A。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "godflesh",
+      "toName": "Godflesh",
+      "toArea": "Birmingham",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Paul Raven",
+      "detail": "Paul Raven 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "killing-joke",
+      "toName": "Killing Joke",
+      "toArea": "伦敦",
+      "toYears": "1979–",
+      "type": "member",
+      "label": "Paul Raven",
+      "detail": "Paul Raven 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "ministry",
+      "toName": "Ministry",
+      "toArea": "芝加哥",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Paul Raven",
+      "detail": "Paul Raven 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Paul Raven",
+      "detail": "Paul Raven 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "queens-of-the-stone-age",
+      "toName": "Queens of the Stone Age",
+      "toArea": "Palm Desert",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Joey Castillo",
+      "detail": "Joey Castillo 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "hide",
+      "detail": "hide 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    },
+    {
+      "to": "desert-sessions",
+      "toName": "Desert Sessions",
+      "toArea": "Palm Desert",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Joey Castillo",
+      "detail": "Joey Castillo 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "横須賀サーベルタイガー",
+      "toName": "横須賀サーベルタイガー",
+      "toArea": "Yokosuka",
+      "toYears": "1981–1987",
+      "type": "member",
+      "label": "hide",
+      "detail": "hide 在这两支乐队都待过。",
+      "year": 1982,
+      "weight": 0.62
+    },
+    {
+      "to": "murder-inc",
+      "toName": "Murder Inc.",
+      "toArea": "英国",
+      "toYears": "1991–1992",
+      "type": "member",
+      "label": "Paul Raven",
+      "detail": "Paul Raven 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "m-a-s-s",
+      "toName": "M・A・S・S",
+      "toArea": "东京",
+      "toYears": null,
+      "type": "member",
+      "label": "hide",
+      "detail": "hide 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pink-spiders",
+      "toName": "THE PINK SPIDERS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "I.N.A",
+      "detail": "I.N.A 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "the-wedding-band",
+      "toName": "The Wedding Band",
+      "toArea": "Hawaii",
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Joey Castillo",
+      "detail": "Joey Castillo 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    }
+  ]
+}

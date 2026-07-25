@@ -3,6 +3,8 @@
   "mbid": "cf97d78e-7c86-4931-92c0-b8e22bae1e33",
   "name": "Pussy Galore",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1985–1990",
   "genres": [],
   "albums": [
@@ -25,6 +27,7 @@
   ],
   "intro": "プッシー・ガロア (Pussy Galore) は、1985年に結成されたワシントンD.C.出身のロックバンド。バンド名は映画『007 ゴールドフィンガー』に登場する女性パイロットの名から。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cf97d78e-7c86-4931-92c0-b8e22bae1e33"
   },

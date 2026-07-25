@@ -1,0 +1,36 @@
+{
+  "id": "robert-plant-and-the-strange-sensation",
+  "mbid": "a527e4cb-64be-4960-8ef5-edb02ff7d48e",
+  "name": "Robert Plant and the Strange Sensation",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "2001–2007",
+  "genres": [
+    "Crossover Prog",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Mighty Rearranger",
+      "year": 2005
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a527e4cb-64be-4960-8ef5-edb02ff7d48e"
+  },
+  "edges": [
+    {
+      "to": "sensational-space-shifters",
+      "toName": "Sensational Space Shifters",
+      "toArea": "英国",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Justin Adams・John Baggott・Billy Fuller・Liam Tyson",
+      "detail": "4 位乐手在这两支乐队都待过：Justin Adams・John Baggott・Billy Fuller・Liam Tyson。",
+      "year": null,
+      "weight": 0.95
+    }
+  ]
+}

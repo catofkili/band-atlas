@@ -1,0 +1,77 @@
+{
+  "id": "銀杏boyz",
+  "mbid": "5fb91901-b627-4b03-b7f4-b17cc4649c19",
+  "name": "銀杏BOYZ",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [
+    "J-Rock",
+    "Pop Punk",
+    "Power Pop"
+  ],
+  "albums": [
+    {
+      "title": "君と僕の第三次世界大戦的恋愛革命",
+      "year": 2005
+    },
+    {
+      "title": "Door",
+      "year": 2005
+    },
+    {
+      "title": "光のなかに立っていてね",
+      "year": 2014
+    },
+    {
+      "title": "ねえみんな大好きだよ",
+      "year": 2020
+    },
+    {
+      "title": "Blew Blue",
+      "year": 2025
+    }
+  ],
+  "intro": "銀杏BOYZ は、日本のロックバンド。「銀杏ボーイズ」と表記されることもある。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5fb91901-b627-4b03-b7f4-b17cc4649c19"
+  },
+  "edges": [
+    {
+      "to": "going-steady",
+      "toName": "GOING STEADY",
+      "toArea": "日本",
+      "toYears": "1996–2003",
+      "type": "member",
+      "label": "峯田和伸",
+      "detail": "峯田和伸 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ねらわれた学園",
+      "toName": "ねらわれた学園",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "峯田和伸",
+      "detail": "峯田和伸 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "銀杏boyzと壊れたバイブレーターズ",
+      "toName": "銀杏BOYZと壊れたバイブレーターズ",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

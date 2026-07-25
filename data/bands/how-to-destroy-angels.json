@@ -1,0 +1,83 @@
+{
+  "id": "how-to-destroy-angels",
+  "mbid": "143b396d-a678-43aa-8c74-628fea8e381f",
+  "name": "How to Destroy Angels",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2010–",
+  "genres": [
+    "Electronic",
+    "Dark Ambient",
+    "Experimental Electronic"
+  ],
+  "albums": [
+    {
+      "title": "Welcome Oblivion",
+      "year": 2013
+    }
+  ],
+  "intro": "ハウ・トゥ・デストロイ・エンジェルスは、アメリカ合衆国で結成された音楽グループ。ナイン・インチ・ネイルズのフロントマンであるトレント・レズナーが、彼の妻マリクイーン・マーンディグ、アッティカス・ロスと共に結成した。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/143b396d-a678-43aa-8c74-628fea8e381f"
+  },
+  "edges": [
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "12-rounds",
+      "toName": "12 Rounds",
+      "toArea": "伦敦",
+      "toYears": null,
+      "type": "member",
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "error",
+      "toName": "Error",
+      "toArea": "美国",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "tapeworm",
+      "toName": "Tapeworm",
+      "toArea": "美国",
+      "toYears": "1996–2004",
+      "type": "member",
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "witchgang",
+      "toName": "WitchGang",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    }
+  ]
+}

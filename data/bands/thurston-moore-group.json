@@ -3,9 +3,12 @@
   "mbid": "8221912e-6c34-4b6e-9cf6-93e7084efd30",
   "name": "Thurston Moore Group",
   "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "2017–",
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8221912e-6c34-4b6e-9cf6-93e7084efd30"
   },

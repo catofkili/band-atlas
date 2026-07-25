@@ -3,6 +3,8 @@
   "mbid": "cf53fd12-9abf-4115-a099-65a9d7160c00",
   "name": "Col. Parker",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2001
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cf53fd12-9abf-4115-a099-65a9d7160c00"
   },

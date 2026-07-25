@@ -1,0 +1,86 @@
+{
+  "id": "methods-of-mayhem",
+  "mbid": "a5f8887e-e178-4969-ba9a-18a64156c42f",
+  "name": "Methods of Mayhem",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1999–",
+  "genres": [
+    "Nu Metal",
+    "Rap Metal"
+  ],
+  "albums": [
+    {
+      "title": "Methods of Mayhem",
+      "year": 1999
+    },
+    {
+      "title": "A Public Disservice Announcement",
+      "year": 2010
+    }
+  ],
+  "intro": "Methods of Mayhem is an American rap rock/metal band formed in 1999 by Tommy Lee, who had temporarily quit his position as Mötley Crüe's drummer.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a5f8887e-e178-4969-ba9a-18a64156c42f"
+  },
+  "edges": [
+    {
+      "to": "jane-s-addiction",
+      "toName": "Jane’s Addiction",
+      "toArea": "洛杉矶",
+      "toYears": "1986–2025",
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "infectious-grooves",
+      "toName": "Infectious Grooves",
+      "toArea": "美国",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "rock-star-supernova",
+      "toName": "Rock Star Supernova",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Tommy Lee",
+      "detail": "Tommy Lee 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-panic-channel",
+      "toName": "The Panic Channel",
+      "toArea": "洛杉矶",
+      "toYears": "2004–2007",
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "halloween-jack",
+      "toName": "Halloween Jack",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

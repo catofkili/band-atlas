@@ -1,0 +1,63 @@
+{
+  "id": "the-illiterate-hands",
+  "mbid": "8d289273-27fc-41d9-8978-7d469b154413",
+  "name": "The Illiterate Hands",
+  "area": "牛津",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [
+    "Rock"
+  ],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8d289273-27fc-41d9-8978-7d469b154413"
+  },
+  "edges": [
+    {
+      "to": "radiohead",
+      "toName": "Radiohead",
+      "toArea": "Abingdon-on-Thames",
+      "toYears": "1991–",
+      "type": "member",
+      "label": "Jonny Greenwood",
+      "detail": "Jonny Greenwood 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-smile",
+      "toName": "The Smile",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Jonny Greenwood",
+      "detail": "Jonny Greenwood 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "on-a-friday",
+      "toName": "On a Friday",
+      "toArea": "Abingdon-on-Thames",
+      "toYears": "1985–1991",
+      "type": "member",
+      "label": "Jonny Greenwood",
+      "detail": "Jonny Greenwood 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-venus-in-furs",
+      "toName": "The Venus in Furs",
+      "toArea": "英国",
+      "toYears": "1998–1998",
+      "type": "member",
+      "label": "Jonny Greenwood",
+      "detail": "Jonny Greenwood 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

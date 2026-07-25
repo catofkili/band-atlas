@@ -1,0 +1,52 @@
+{
+  "id": "大鬼众",
+  "mbid": "ccf6963f-c23a-4934-84b3-e2e1b89054e9",
+  "name": "大鬼众",
+  "area": "中国",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "2021–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "苦痛 Kvvvlt/ooong",
+      "year": 2023
+    },
+    {
+      "title": "鬼之冥想 Ghost Meditation",
+      "year": 2024
+    },
+    {
+      "title": "Improvisation for Dusty Ballz 大抱散",
+      "year": 2024
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ccf6963f-c23a-4934-84b3-e2e1b89054e9"
+  },
+  "edges": [
+    {
+      "to": "carsick-cars",
+      "toName": "Carsick Cars",
+      "toArea": "北京",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "李青・李维思",
+      "detail": "2 位乐手在这两支乐队都待过：李青・李维思。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "snapline",
+      "toName": "Snapline",
+      "toArea": "北京",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "李青・李维思",
+      "detail": "2 位乐手在这两支乐队都待过：李青・李维思。",
+      "year": null,
+      "weight": 0.84
+    }
+  ]
+}

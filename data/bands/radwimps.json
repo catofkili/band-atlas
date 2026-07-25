@@ -1,0 +1,59 @@
+{
+  "id": "radwimps",
+  "mbid": "6f500293-7396-4903-b4fd-118127d06f9e",
+  "name": "RADWIMPS",
+  "area": "横滨",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2001–",
+  "genres": [
+    "J-Rock",
+    "Pop Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "RADWIMPS",
+      "year": 2003
+    },
+    {
+      "title": "RADWIMPS 2 〜発展途上〜",
+      "year": 2005
+    },
+    {
+      "title": "RADWIMPS 4 〜おかずのごはん〜",
+      "year": 2006
+    },
+    {
+      "title": "RADWIMPS 3 〜無人島に持っていき忘れた一枚〜",
+      "year": 2006
+    },
+    {
+      "title": "アルトコロニーの定理",
+      "year": 2009
+    },
+    {
+      "title": "絶体絶命",
+      "year": 2011
+    }
+  ],
+  "intro": "RADWIMPS，简称RAD，日本摇滚乐队，现乃日本环球音乐旗下厂牌Muzinto Records的艺人，所属经纪公司为voque ting。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6f500293-7396-4903-b4fd-118127d06f9e"
+  },
+  "edges": [
+    {
+      "to": "寺子屋",
+      "toName": "寺子屋",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

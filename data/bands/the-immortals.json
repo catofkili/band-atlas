@@ -1,0 +1,28 @@
+{
+  "id": "the-immortals",
+  "mbid": "b927d6c9-9549-4c76-aa67-530bd0a127f0",
+  "name": "The Immortals",
+  "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1986–1986",
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b927d6c9-9549-4c76-aa67-530bd0a127f0"
+  },
+  "edges": [
+    {
+      "to": "queen",
+      "toName": "Queen",
+      "toArea": "伦敦",
+      "toYears": "1970–",
+      "type": "member",
+      "label": "John Deacon",
+      "detail": "John Deacon 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    }
+  ]
+}

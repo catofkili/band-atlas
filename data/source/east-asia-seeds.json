@@ -1,0 +1,19 @@
+{
+  "note": "东亚优先的知名乐队起点。crawl.mjs 会用 MusicBrainz 的 Group 类型和国家代码复核，不依赖名字或城市文字判断。",
+  "seeds": [
+    "Yellow Magic Orchestra", "X JAPAN", "B'z", "L'Arc-en-Ciel", "Mr.Children", "GLAY", "THE ALFEE", "BUCK-TICK", "LUNA SEA", "DIR EN GREY",
+    "BUMP OF CHICKEN", "RADWIMPS", "ONE OK ROCK", "King Gnu", "Official髭男dism", "SPITZ", "the pillows", "cero", "フィッシュマンズ", "ゆらゆら帝国",
+    "Cornelius", "Pizzicato Five", "少年ナイフ", "Boris", "Melt-Banana", "MONO", "envy", "相対性理論", "サカナクション", "ASIAN KUNG-FU GENERATION",
+    "서태지와 아이들", "자우림", "Nell", "크라잉 넛", "혁오", "DAY6", "The Rose", "CNBLUE", "FTISLAND", "체리필터",
+    "五月天", "蘇打綠", "草東沒有派對", "落日飛車", "大象體操", "閃靈", "滅火器", "椅子樂團", "deca joins", "929",
+    "唐朝", "黑豹", "新裤子", "Carsick Cars", "万能青年旅店", "重塑雕像的权利", "痛仰", "P.K. 14", "刺猬", "二手玫瑰",
+    "Beyond", "達明一派", "my little airport", "Dear Jane", "RubberBand", "at17",
+    "東京事変", "くるり", "サニーデイ・サービス", "GRAPEVINE", "銀杏BOYZ", "THE BACK HORN", "ACIDMAN", "andymori", "OGRE YOU ASSHOLE", "group_inou",
+    "マキシマム ザ ホルモン", "MAN WITH A MISSION", "SiM", "coldrain", "KANA-BOON", "Base Ball Bear", "Suchmos", "Tempalay", "ゲスの極み乙女。", "THE ORAL CIGARETTES",
+    "MUCC", "メリー", "Janne Da Arc", "SIAM SHADE", "STRAIGHTENER", "9mm Parabellum Bullet", "People In The Box", "ART-SCHOOL", "the band apart", "cinema staff",
+    "국카스텐", "새소년", "잔나비", "잠비나이", "SURL", "ADOY", "Say Sue Me", "3호선 버터플라이", "키라라", "언니네 이발관",
+    "Tizzy Bac", "1976", "旺福", "滅火器", "美秀集團", "告五人", "老王樂隊", "四分衛", "透明雜誌", "康士坦的變化球",
+    "木马", "声音玩具", "Joyside", "后海大鲨鱼", "海龟先生", "旅行团", "达达乐队", "万能青年旅店", "惘闻", "沼泽",
+    "The Pancakes", "The Hertz", "C AllStar", "Kolor", "Supper Moment", "ToNick", "LMF", "Sham Pain", "小島", "GDJYB"
+  ]
+}

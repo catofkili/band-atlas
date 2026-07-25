@@ -3,6 +3,8 @@
   "mbid": "edb1beeb-f780-4e56-bc82-8499ca7e3e3e",
   "name": "Mico de Noche",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2001–",
   "genres": [],
   "albums": [
@@ -21,6 +23,7 @@
   ],
   "intro": "Mico de Noche is an American stoner sludge metal band from Seattle, Washington.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/edb1beeb-f780-4e56-bc82-8499ca7e3e3e"
   },

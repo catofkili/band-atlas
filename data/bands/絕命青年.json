@@ -1,0 +1,33 @@
+{
+  "id": "絕命青年",
+  "mbid": "15242e2f-01a6-41e6-8466-1a5eee571ffa",
+  "name": "絕命青年",
+  "area": "台湾",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": "2021–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "來一場冒險",
+      "year": 2022
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/15242e2f-01a6-41e6-8466-1a5eee571ffa"
+  },
+  "edges": [
+    {
+      "to": "gdjyb",
+      "toName": "GDJYB",
+      "toArea": "Hong Kong",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Soni Cheng・Soft Liu",
+      "detail": "2 位乐手在这两支乐队都待过：Soni Cheng・Soft Liu。",
+      "year": 2012,
+      "weight": 0.84
+    }
+  ]
+}

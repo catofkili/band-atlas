@@ -1,0 +1,35 @@
+{
+  "id": "projekct-x",
+  "mbid": "c1fb4936-e47a-4a52-b1eb-f3f1606a1d4b",
+  "name": "ProjeKct X",
+  "area": null,
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Heaven and Earth",
+      "year": 2000
+    }
+  ],
+  "intro": "In 2000, while the band King Crimson were recording the album The ConstruKction of Light, the four members simultaneously recorded improvised material as ProjeKct X.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c1fb4936-e47a-4a52-b1eb-f3f1606a1d4b"
+  },
+  "edges": [
+    {
+      "to": "king-crimson",
+      "toName": "King Crimson",
+      "toArea": "伦敦",
+      "toYears": "1968–2021",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

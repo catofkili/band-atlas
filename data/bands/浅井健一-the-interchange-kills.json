@@ -3,6 +3,8 @@
   "mbid": "ed7af7a0-88ba-4779-b20a-6a53129711e6",
   "name": "浅井健一 & THE INTERCHANGE KILLS",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2016–",
   "genres": [],
   "albums": [
@@ -15,6 +17,7 @@
       "year": 2018
     }
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ed7af7a0-88ba-4779-b20a-6a53129711e6"
   },

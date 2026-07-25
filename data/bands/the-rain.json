@@ -3,11 +3,14 @@
   "mbid": "68fb8c2a-477a-4bd7-a65e-2fba470a7bcc",
   "name": "The Rain",
   "area": "曼彻斯特",
+  "countryCode": null,
+  "country": null,
   "years": "1990–1991",
   "genres": [],
   "albums": [],
   "intro": "ザ・レイン (The Rain) は、イギリス・マンチェスターで結成されたロックバンド。オアシスの前身バンドとして知られる。",
   "introLang": "ja",
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/68fb8c2a-477a-4bd7-a65e-2fba470a7bcc"
   },

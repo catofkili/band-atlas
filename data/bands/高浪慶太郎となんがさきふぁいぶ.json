@@ -1,0 +1,54 @@
+{
+  "id": "高浪慶太郎となんがさきふぁいぶ",
+  "mbid": "284a0755-f402-4ceb-8a9c-0bcc86ad3bdf",
+  "name": "高浪慶太郎となんがさきふぁいぶ",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [
+    "Likedis Auto"
+  ],
+  "albums": [
+    {
+      "title": "龍馬のハナ唄 赤盤",
+      "year": 2010
+    },
+    {
+      "title": "龍馬のハナ唄 青盤",
+      "year": 2010
+    },
+    {
+      "title": "ドレミの大航海 ナガサキ洋楽事始め",
+      "year": 2011
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/284a0755-f402-4ceb-8a9c-0bcc86ad3bdf"
+  },
+  "edges": [
+    {
+      "to": "pizzicato-five",
+      "toName": "Pizzicato Five",
+      "toArea": "东京",
+      "toYears": "1984–2001",
+      "type": "member",
+      "label": "高浪慶太郎",
+      "detail": "高浪慶太郎 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "wink-music-service",
+      "toName": "Wink Music Service",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "高浪慶太郎",
+      "detail": "高浪慶太郎 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

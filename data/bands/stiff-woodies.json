@@ -3,9 +3,12 @@
   "mbid": "b12602a1-77c4-4d5f-8c5e-9e4b2fa2e812",
   "name": "Stiff Woodies",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": "1986–1987",
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b12602a1-77c4-4d5f-8c5e-9e4b2fa2e812"
   },

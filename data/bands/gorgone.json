@@ -1,0 +1,92 @@
+{
+  "id": "gorgone",
+  "mbid": "f6d0eb56-ece2-47fe-9716-81fc6c1ddea5",
+  "name": "Gorgone",
+  "area": "France",
+  "countryCode": "FR",
+  "country": "法国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Gorgone",
+      "year": 2005
+    },
+    {
+      "title": "Barminam",
+      "year": 2024
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f6d0eb56-ece2-47fe-9716-81fc6c1ddea5"
+  },
+  "edges": [
+    {
+      "to": "cornbugs",
+      "toName": "Cornbugs",
+      "toArea": "美国",
+      "toYears": "1995–2007",
+      "type": "member",
+      "label": "Pinchface・Travis Dickerson",
+      "detail": "2 位乐手在这两支乐队都待过：Pinchface・Travis Dickerson。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "thanatopsis",
+      "toName": "Thanatopsis",
+      "toArea": "美国",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "Travis Dickerson",
+      "detail": "Travis Dickerson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "cobra-strike",
+      "toName": "Cobra Strike",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Pinchface",
+      "detail": "Pinchface 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "deli-creeps",
+      "toName": "Deli Creeps",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Pinchface",
+      "detail": "Pinchface 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "buckethead-and-his-bucket-bots",
+      "toName": "Buckethead And His Bucket-Bots",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Travis Dickerson",
+      "detail": "Travis Dickerson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-dragons-of-eden",
+      "toName": "The Dragons of Eden",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Travis Dickerson",
+      "detail": "Travis Dickerson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

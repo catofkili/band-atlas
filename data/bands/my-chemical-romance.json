@@ -1,0 +1,55 @@
+{
+  "id": "my-chemical-romance",
+  "mbid": "c07f0676-9143-4217-8a9f-4c26bd636f13",
+  "name": "My Chemical Romance",
+  "area": "Newark",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2001–",
+  "genres": [
+    "Pop Punk",
+    "Alternative Rock",
+    "Emo"
+  ],
+  "albums": [
+    {
+      "title": "I Brought You My Bullets, You Brought Me Your Love",
+      "year": 2002
+    },
+    {
+      "title": "Three Cheers for Sweet Revenge",
+      "year": 2004
+    },
+    {
+      "title": "The Black Parade",
+      "year": 2006
+    },
+    {
+      "title": "Danger Days: The True Lives of the Fabulous Killjoys",
+      "year": 2010
+    },
+    {
+      "title": "Conventional Weapons",
+      "year": 2013
+    }
+  ],
+  "intro": "我的化学浪漫是一组来自美国新泽西的摇滚乐团，成立于2001年，解散于2013年，后于2019年10月31日宣布回归。在乐队的大部分时间，乐队由杰洛德·威、麦基·威、弗兰克·伊罗、雷·托罗和鲍伯·布莱亚五人组成。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c07f0676-9143-4217-8a9f-4c26bd636f13"
+  },
+  "edges": [
+    {
+      "to": "the-smiths",
+      "toName": "The Smiths",
+      "toArea": "曼彻斯特",
+      "toYears": "1982–1987",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "My Chemical Romance 受 The Smiths 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

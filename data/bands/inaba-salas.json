@@ -1,0 +1,37 @@
+{
+  "id": "inaba-salas",
+  "mbid": "09019044-116c-4099-b123-69149b5f045f",
+  "name": "Inaba/Salas",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "2017–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Chubby Groove",
+      "year": 2017
+    },
+    {
+      "title": "ATOMIC CHIHUAHUA",
+      "year": 2025
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/09019044-116c-4099-b123-69149b5f045f"
+  },
+  "edges": [
+    {
+      "to": "b-z",
+      "toName": "B’z",
+      "toArea": "日本",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "稲葉浩志",
+      "detail": "稲葉浩志 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    }
+  ]
+}

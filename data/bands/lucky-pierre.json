@@ -1,0 +1,79 @@
+{
+  "id": "lucky-pierre",
+  "mbid": "447411ac-af07-423a-9be1-12ae0cafc640",
+  "name": "Lucky Pierre",
+  "area": "Cleveland",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1974–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "ThinKing",
+      "year": 2004
+    }
+  ],
+  "intro": "Lucky Pierre is a new wave band, founded in Cleveland in 1974 by singer-songwriter, guitarist and the only constant member, Kevin McMahon.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/447411ac-af07-423a-9be1-12ae0cafc640"
+  },
+  "edges": [
+    {
+      "to": "prick",
+      "toName": "Prick",
+      "toArea": "洛杉矶",
+      "toYears": "1992–2003",
+      "type": "member",
+      "label": "Kevin McMahon・Greg Zydyk",
+      "detail": "2 位乐手在这两支乐队都待过：Kevin McMahon・Greg Zydyk。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "sic",
+      "toName": "( sic )",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Kevin McMahon・Greg Zydyk",
+      "detail": "2 位乐手在这两支乐队都待过：Kevin McMahon・Greg Zydyk。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Kevin McMahon",
+      "detail": "Kevin McMahon 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Tom Lash",
+      "detail": "Tom Lash 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "fear-of-blue",
+      "toName": "Fear of Blue",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Kevin McMahon",
+      "detail": "Kevin McMahon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "39ab1aed-75e0-4140-bd47-540276886b60",
   "name": "Oasis",
   "area": "曼彻斯特",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "1991–2009 / 2024–",
   "genres": [
     "Britpop",
@@ -30,6 +32,7 @@
     "Don't Look Back in Anger",
     "Champagne Supernova"
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/39ab1aed-75e0-4140-bd47-540276886b60"
   },
@@ -242,6 +245,50 @@
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": 2025,
       "weight": 0.62
+    },
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Oasis 受 The Beatles 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-rolling-stones",
+      "toName": "The Rolling Stones",
+      "toArea": "伦敦",
+      "toYears": "1962–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Oasis 受 The Rolling Stones 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-who",
+      "toName": "The Who",
+      "toArea": "伦敦",
+      "toYears": "1964–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Oasis 受 The Who 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "weezer",
+      "toName": "Weezer",
+      "toArea": "洛杉矶",
+      "toYears": "1992–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Oasis 影响了 Weezer（Wikidata）。",
+      "year": null,
+      "weight": 0.46
     }
   ]
 }

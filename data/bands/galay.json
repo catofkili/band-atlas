@@ -1,0 +1,30 @@
+{
+  "id": "galay",
+  "mbid": "43518465-ad67-4afc-8ea6-7cb57c506d92",
+  "name": "GALAY",
+  "area": null,
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "intro": "GALAYと、日本の期間限定活動のロックバンドであり、主に2001年に活動した。GLAYとガレッジセールがコラボレーションしたものである。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/43518465-ad67-4afc-8ea6-7cb57c506d92"
+  },
+  "edges": [
+    {
+      "to": "glay",
+      "toName": "GLAY",
+      "toArea": "Hakodate",
+      "toYears": "1988–",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

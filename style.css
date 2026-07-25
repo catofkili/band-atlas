@@ -63,7 +63,16 @@ button { font: inherit; color: inherit; }
   position: fixed;
   inset: 0;
   overflow: hidden;
+  /* 拖画布换乐队要自己接管触摸，否则浏览器先把手势当成滚动页面 */
+  touch-action: none;
 }
+.network-map { position:fixed; inset:0; z-index:10; background:var(--ground); touch-action:none; }
+.network-map[hidden] { display:none; }
+#network-canvas { width:100%; height:100%; display:block; }
+.network-map__hud { position:absolute; inset:16px 16px auto; display:flex; gap:12px; align-items:center; color:var(--ink-2); font-size:.72rem; pointer-events:none; }
+.network-map__hud .btn { pointer-events:auto; }
+/* 但焦点卡片正文得留给它自己滚 */
+.card__body { touch-action: pan-y; }
 
 .world {
   position: absolute;
@@ -316,6 +325,12 @@ button { font: inherit; color: inherit; }
   font-size: 1.02rem;
   letter-spacing: -0.01em;
   line-height: 1.25;
+  /* 名字长了会一直往上顶——上边缘的卡片内容是贴底排的，
+     不封顶就会撞进顶栏。 */
+  display: -webkit-box;
+  -webkit-box-orient: vertical;
+  -webkit-line-clamp: 3;
+  overflow: hidden;
 }
 .peek__meta { font-family: var(--mono); font-size: 0.63rem; color: var(--ink-3); }
 
@@ -607,7 +622,11 @@ button { font: inherit; color: inherit; }
   .card--focus { max-height: 52vh; padding: 18px 18px 14px; }
   .card--peek { padding: 12px; }
   .card--peek-n, .card--peek-s { height: 190px; }
-  .peek__name { font-size: 0.9rem; }
+  .peek__name { font-size: 0.9rem; -webkit-line-clamp: 2; }
+  /* 上边缘的卡片内容贴底排，每多一行就往顶栏顶一分 */
+  .peek__label { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+  .btn { padding: 5px 12px; font-size: 0.72rem; }
+  .hud--top { gap: 8px; }
   /* 副标题和图例都让位给卡片：关系类型每张卡片上本来就写着 */
   .wordmark__scene { display: none; }
   .legend { display: none; }

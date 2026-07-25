@@ -3,9 +3,12 @@
   "mbid": "c4d7f1d8-cd5f-4f94-9fb3-915fdee10dd7",
   "name": "The Complex",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c4d7f1d8-cd5f-4f94-9fb3-915fdee10dd7"
   },

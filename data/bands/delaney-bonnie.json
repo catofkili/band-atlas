@@ -1,0 +1,165 @@
+{
+  "id": "delaney-bonnie",
+  "mbid": "1d0e964a-2b91-4dd9-8100-a5a184870382",
+  "name": "Delaney & Bonnie",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1967–1972",
+  "genres": [
+    "Blue-Eyed Soul",
+    "Blues Rock",
+    "Country Rock"
+  ],
+  "albums": [
+    {
+      "title": "Accept No Substitute",
+      "year": 1969
+    },
+    {
+      "title": "Home",
+      "year": 1969
+    },
+    {
+      "title": "To Bonnie From Delaney",
+      "year": 1970
+    },
+    {
+      "title": "Motel Shot",
+      "year": 1971
+    },
+    {
+      "title": "D & B Together",
+      "year": 1972
+    }
+  ],
+  "intro": "デラニー&ボニーは、アメリカ合衆国のデュオ歌手。デラニー・ブラムレットとボニー・ブラムレットの夫婦により結成された。エリック・クラプトンとの共演等で知られる。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1d0e964a-2b91-4dd9-8100-a5a184870382"
+  },
+  "edges": [
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dave Mason・Eric Clapton・Steve Cropper",
+      "detail": "3 位乐手在这两支乐队都待过：Dave Mason・Eric Clapton・Steve Cropper。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "traveling-wilburys",
+      "toName": "Traveling Wilburys",
+      "toArea": "Malibu",
+      "toYears": "1988–1990",
+      "type": "member",
+      "label": "George Harrison・Jim Keltner",
+      "detail": "2 位乐手在这两支乐队都待过：George Harrison・Jim Keltner。",
+      "year": 1988,
+      "weight": 0.84
+    },
+    {
+      "to": "george-s-band",
+      "toName": "George's Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Eric Clapton・Jim Keltner",
+      "detail": "2 位乐手在这两支乐队都待过：Eric Clapton・Jim Keltner。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "the-singing-rebels-band",
+      "toName": "The Singing Rebels’ Band",
+      "toArea": null,
+      "toYears": "1985–1985",
+      "type": "member",
+      "label": "George Harrison・Eric Clapton",
+      "detail": "2 位乐手在这两支乐队都待过：George Harrison・Eric Clapton。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "fleetwood-mac",
+      "toName": "Fleetwood Mac",
+      "toArea": "伦敦",
+      "toYears": "1967–2022",
+      "type": "member",
+      "label": "Dave Mason",
+      "detail": "Dave Mason 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "plastic-ono-band",
+      "toName": "Plastic Ono Band",
+      "toArea": "伦敦",
+      "toYears": "1969–2015",
+      "type": "member",
+      "label": "Eric Clapton",
+      "detail": "Eric Clapton 在这两支乐队都待过。",
+      "year": 1969,
+      "weight": 0.62
+    },
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": 1960,
+      "weight": 0.62
+    },
+    {
+      "to": "the-quarrymen",
+      "toName": "The Quarrymen",
+      "toArea": "利物浦",
+      "toYears": "1956–",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": 1958,
+      "weight": 0.62
+    },
+    {
+      "to": "the-yardbirds",
+      "toName": "The Yardbirds",
+      "toArea": "伦敦",
+      "toYears": "1963–",
+      "type": "member",
+      "label": "Eric Clapton",
+      "detail": "Eric Clapton 在这两支乐队都待过。",
+      "year": 1963,
+      "weight": 0.62
+    },
+    {
+      "to": "the-beat-brothers",
+      "toName": "The Beat Brothers",
+      "toArea": "Hamburg",
+      "toYears": "1961–",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-silver-beatles",
+      "toName": "The Silver Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1960",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": 1960,
+      "weight": 0.62
+    }
+  ]
+}

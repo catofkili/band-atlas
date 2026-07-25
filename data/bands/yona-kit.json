@@ -3,6 +3,8 @@
   "mbid": "80384a58-0b41-4cfa-89c7-b1fb77d0cf63",
   "name": "Yona-Kit",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -13,6 +15,7 @@
   ],
   "intro": "Yona-Kit was a band comprising Jim O'Rourke, Darin Gray, Thymme Jones, and Brise-Glace.",
   "introLang": "en",
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/80384a58-0b41-4cfa-89c7-b1fb77d0cf63"
   },

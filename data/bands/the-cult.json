@@ -3,6 +3,8 @@
   "mbid": "8846e4ff-0c19-4af2-872b-7a8dc7497f68",
   "name": "The Cult",
   "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "1983–",
   "genres": [
     "Hard Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "ザ・カルト(The Cult)は、イギリスのハードロックバンド。1983年にウェスト・ヨークシャーのブラッドフォードにて結成された。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8846e4ff-0c19-4af2-872b-7a8dc7497f68"
   },
@@ -49,6 +52,17 @@
       "type": "member",
       "label": "Scott Garrett",
       "detail": "Scott Garrett 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "thelonious-monster",
+      "toName": "Thelonious Monster",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Martyn LeNoble",
+      "detail": "Martyn LeNoble 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62
     },

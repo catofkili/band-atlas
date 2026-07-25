@@ -3,6 +3,8 @@
   "mbid": "c20b7d7c-3d7b-4613-9165-3cdf824d78c6",
   "name": "CRYPT CITY",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -19,6 +21,7 @@
       "year": 2016
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c20b7d7c-3d7b-4613-9165-3cdf824d78c6"
   },

@@ -1,0 +1,61 @@
+{
+  "id": "pera",
+  "mbid": "a6226499-9075-48e8-9921-22f6b6128de9",
+  "name": "PERA",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1991–1992",
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a6226499-9075-48e8-9921-22f6b6128de9"
+  },
+  "edges": [
+    {
+      "to": "system-of-a-down",
+      "toName": "System of a Down",
+      "toArea": "Glendale",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "John Dolmayan",
+      "detail": "John Dolmayan 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "daron-malakian-and-scars-on-broadway",
+      "toName": "Daron Malakian and Scars on Broadway",
+      "toArea": "洛杉矶",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "John Dolmayan",
+      "detail": "John Dolmayan 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "american-flag",
+      "toName": "American Flag",
+      "toArea": "美国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "John Dolmayan",
+      "detail": "John Dolmayan 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "indicator",
+      "toName": "Indicator",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "John Dolmayan",
+      "detail": "John Dolmayan 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    }
+  ]
+}

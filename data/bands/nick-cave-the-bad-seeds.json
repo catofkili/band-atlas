@@ -3,6 +3,8 @@
   "mbid": "172e1f1a-504d-4488-b053-6344ba63e6d0",
   "name": "Nick Cave & the Bad Seeds",
   "area": "墨尔本",
+  "countryCode": "AU",
+  "country": "澳大利亚",
   "years": "1983–",
   "genres": [
     "Alternative Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "Nick Cave and the Bad Seeds are an Australian rock band formed in Melbourne in 1983 by lead vocalist Nick Cave, multi-instrumentalist Mick Harvey and German guitarist-vocalist Blixa Bargeld.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/172e1f1a-504d-4488-b053-6344ba63e6d0"
   },

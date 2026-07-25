@@ -1,0 +1,33 @@
+{
+  "id": "パーランマウム",
+  "mbid": "8d98bc7d-f4aa-492d-8647-6de748a7236a",
+  "name": "パーランマウム",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "we are PARANMAUM",
+      "year": 2005
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8d98bc7d-f4aa-492d-8647-6de748a7236a"
+  },
+  "edges": [
+    {
+      "to": "base-ball-bear",
+      "toName": "Base Ball Bear",
+      "toArea": "东京",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "関根史織",
+      "detail": "関根史織 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    }
+  ]
+}

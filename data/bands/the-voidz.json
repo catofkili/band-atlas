@@ -1,0 +1,68 @@
+{
+  "id": "the-voidz",
+  "mbid": "6a93cb2b-d33a-42fc-a41a-542e3a887ba6",
+  "name": "The Voidz",
+  "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2013–",
+  "genres": [
+    "Experimental Rock",
+    "Indie Rock"
+  ],
+  "albums": [
+    {
+      "title": "Tyranny",
+      "year": 2014
+    },
+    {
+      "title": "Virtue",
+      "year": 2018
+    },
+    {
+      "title": "Like All Before You",
+      "year": 2024
+    }
+  ],
+  "intro": "The Voidz (formerly Julian Casablancas + The Voidz) are an experimental rock band.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6a93cb2b-d33a-42fc-a41a-542e3a887ba6"
+  },
+  "edges": [
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Alex Carapetis",
+      "detail": "Alex Carapetis 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-dead-daisies",
+      "toName": "The Dead Daisies",
+      "toArea": "悉尼",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Alex Carapetis",
+      "detail": "Alex Carapetis 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-strokes",
+      "toName": "The Strokes",
+      "toArea": "纽约",
+      "toYears": "1998–",
+      "type": "member",
+      "label": "Julian Casablancas",
+      "detail": "Julian Casablancas 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    }
+  ]
+}

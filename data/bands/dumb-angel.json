@@ -3,9 +3,12 @@
   "mbid": "0b1327fa-2944-4d53-af01-88871c20d8df",
   "name": "Dumb Angel",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0b1327fa-2944-4d53-af01-88871c20d8df"
   },

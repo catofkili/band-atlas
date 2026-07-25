@@ -1,0 +1,114 @@
+{
+  "id": "the-smiths",
+  "mbid": "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27",
+  "name": "The Smiths",
+  "area": "曼彻斯特",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1982–1987",
+  "genres": [
+    "Jangle Pop",
+    "Indie Pop",
+    "Post-Punk"
+  ],
+  "albums": [
+    {
+      "title": "The Smiths",
+      "year": 1984
+    },
+    {
+      "title": "Meat Is Murder",
+      "year": 1985
+    },
+    {
+      "title": "The Queen Is Dead",
+      "year": 1986
+    },
+    {
+      "title": "Strangeways, Here We Come",
+      "year": 1987
+    },
+    {
+      "title": "Rusholme Ruffians Play at Home",
+      "year": 1990
+    },
+    {
+      "title": "Live in Madrid",
+      "year": 1991
+    }
+  ],
+  "intro": "史密斯乐队是一支1982年在曼彻斯特成立的英国摇滚乐队，由主唱莫里西、吉他手约翰尼·马尔、贝斯手安迪·鲁尔克和鼓手迈克·乔伊斯组成，其中莫里西和马尔合作进行音乐创作。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27"
+  },
+  "edges": [
+    {
+      "to": "moondog-one",
+      "toName": "Moondog One",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Mike Joyce・Andy Rourke",
+      "detail": "2 位乐手在这两支乐队都待过：Mike Joyce・Andy Rourke。",
+      "year": 1982,
+      "weight": 0.84
+    },
+    {
+      "to": "public-image-ltd",
+      "toName": "Public Image Ltd",
+      "toArea": "伦敦",
+      "toYears": "1978–",
+      "type": "member",
+      "label": "Mike Joyce",
+      "detail": "Mike Joyce 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "7-worlds-collide",
+      "toName": "7 Worlds Collide",
+      "toArea": "New Zealand",
+      "toYears": null,
+      "type": "member",
+      "label": "Johnny Marr",
+      "detail": "Johnny Marr 在这两支乐队都待过。",
+      "year": 1982,
+      "weight": 0.62
+    },
+    {
+      "to": "deftones",
+      "toName": "Deftones",
+      "toArea": "Sacramento",
+      "toYears": "1988–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Smiths 影响了 Deftones（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "fall-out-boy",
+      "toName": "Fall Out Boy",
+      "toArea": "Wilmette",
+      "toYears": "2001–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Smiths 影响了 Fall Out Boy（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "my-chemical-romance",
+      "toName": "My Chemical Romance",
+      "toArea": "Newark",
+      "toYears": "2001–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Smiths 影响了 My Chemical Romance（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

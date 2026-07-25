@@ -1,0 +1,98 @@
+{
+  "id": "the-smile",
+  "mbid": "9055fca5-69bc-4d47-b569-ab2012a19565",
+  "name": "The Smile",
+  "area": null,
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "A Light for Attracting Attention",
+      "year": 2022
+    },
+    {
+      "title": "Cutouts",
+      "year": 2024
+    },
+    {
+      "title": "Wall of Eyes",
+      "year": 2024
+    }
+  ],
+  "intro": "微笑乐团是一支英国摇滚乐团，由电台司令成员汤姆·约克 和强尼·格林伍德 、爵士乐团Sun of Kemet成员汤姆·斯金纳三人组成，并由电台司令长期合作者尼杰尔·歌德里希担当专案制作人。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9055fca5-69bc-4d47-b569-ab2012a19565"
+  },
+  "edges": [
+    {
+      "to": "radiohead",
+      "toName": "Radiohead",
+      "toArea": "Abingdon-on-Thames",
+      "toYears": "1991–",
+      "type": "member",
+      "label": "Jonny Greenwood・Thom Yorke・副项目",
+      "detail": "3 位乐手在这两支乐队都待过：Jonny Greenwood・Thom Yorke・副项目。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "on-a-friday",
+      "toName": "On a Friday",
+      "toArea": "Abingdon-on-Thames",
+      "toYears": "1985–1991",
+      "type": "member",
+      "label": "Jonny Greenwood・Thom Yorke",
+      "detail": "2 位乐手在这两支乐队都待过：Jonny Greenwood・Thom Yorke。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "the-venus-in-furs",
+      "toName": "The Venus in Furs",
+      "toArea": "英国",
+      "toYears": "1998–1998",
+      "type": "member",
+      "label": "Jonny Greenwood・Thom Yorke",
+      "detail": "2 位乐手在这两支乐队都待过：Jonny Greenwood・Thom Yorke。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "atoms-for-peace",
+      "toName": "Atoms for Peace",
+      "toArea": "洛杉矶",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "Thom Yorke",
+      "detail": "Thom Yorke 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "headless-chickens",
+      "toName": "Headless Chickens",
+      "toArea": "英国",
+      "toYears": "1989–1989",
+      "type": "member",
+      "label": "Thom Yorke",
+      "detail": "Thom Yorke 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-illiterate-hands",
+      "toName": "The Illiterate Hands",
+      "toArea": "牛津",
+      "toYears": null,
+      "type": "member",
+      "label": "Jonny Greenwood",
+      "detail": "Jonny Greenwood 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

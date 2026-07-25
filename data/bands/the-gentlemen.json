@@ -3,11 +3,14 @@
   "mbid": "946202eb-2207-4d63-9ef3-69bb1ea4a199",
   "name": "The Gentlemen",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2000–",
   "genres": [],
   "albums": [],
   "intro": "The Gentlemen was an American rock band from Seattle, Washington, formed in 1998.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/946202eb-2207-4d63-9ef3-69bb1ea4a199"
   },

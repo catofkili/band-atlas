@@ -1,0 +1,65 @@
+{
+  "id": "stabbing-westward",
+  "mbid": "6f29020d-49c1-4e26-869a-0603d14b7ca7",
+  "name": "Stabbing Westward",
+  "area": "Macomb",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1985–",
+  "genres": [
+    "Industrial Rock",
+    "Alternative Rock"
+  ],
+  "albums": [
+    {
+      "title": "Ungod",
+      "year": 1994
+    },
+    {
+      "title": "Wither Blister Burn + Peel",
+      "year": 1996
+    },
+    {
+      "title": "Darkest Days",
+      "year": 1998
+    },
+    {
+      "title": "Stabbing Westward",
+      "year": 2001
+    },
+    {
+      "title": "Chasing Ghosts",
+      "year": 2022
+    }
+  ],
+  "intro": "Stabbing Westward is an American industrial rock band.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6f29020d-49c1-4e26-869a-0603d14b7ca7"
+  },
+  "edges": [
+    {
+      "to": "exotic-birds",
+      "toName": "Exotic Birds",
+      "toArea": "Cleveland",
+      "toYears": "1983–1990",
+      "type": "member",
+      "label": "Andy Kubiszewski",
+      "detail": "Andy Kubiszewski 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "sic",
+      "toName": "( sic )",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Kubiszewski",
+      "detail": "Andy Kubiszewski 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    }
+  ]
+}

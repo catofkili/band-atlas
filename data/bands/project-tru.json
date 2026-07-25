@@ -1,0 +1,28 @@
+{
+  "id": "project-tru",
+  "mbid": "12a63055-7849-4073-9199-a76b067635df",
+  "name": "Project Tru",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/12a63055-7849-4073-9199-a76b067635df"
+  },
+  "edges": [
+    {
+      "to": "wirebox",
+      "toName": "wirebox",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Russ Simms",
+      "detail": "Russ Simms 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

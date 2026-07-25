@@ -1,0 +1,72 @@
+{
+  "id": "lords-of-flatbush",
+  "mbid": "829dc052-6f03-42b5-b94f-26ddddf54982",
+  "name": "Lords of Flatbush",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/829dc052-6f03-42b5-b94f-26ddddf54982"
+  },
+  "edges": [
+    {
+      "to": "arctic-monkeys",
+      "toName": "Arctic Monkeys",
+      "toArea": "High Green",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "reverend-and-the-makers",
+      "toName": "Reverend and the Makers",
+      "toArea": "谢菲尔德",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mongrel",
+      "toName": "Mongrel",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-bottletop-band",
+      "toName": "The Bottletop Band",
+      "toArea": "英格兰",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sticky-blood",
+      "toName": "Sticky Blood",
+      "toArea": "谢菲尔德",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

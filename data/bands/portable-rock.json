@@ -1,0 +1,58 @@
+{
+  "id": "portable-rock",
+  "mbid": "7d7a9e43-b563-4e8a-ac39-38beaea0fe87",
+  "name": "portable rock",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Q.T",
+      "year": 1985
+    },
+    {
+      "title": "Dance Volunteer",
+      "year": 1987
+    },
+    {
+      "title": "ビギニングス",
+      "year": 1990
+    },
+    {
+      "title": "ゴールデン☆ベスト",
+      "year": 2004
+    }
+  ],
+  "intro": "ポータブル・ロックは、1980年代に活動した日本の音楽グループ。 1981年にソロ・デビューした野宮真貴が、彼女のデビュー・コンサートでバックを務めた、中原信雄、鈴木智文と共に1982年に結成した音楽ユニット。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7d7a9e43-b563-4e8a-ac39-38beaea0fe87"
+  },
+  "edges": [
+    {
+      "to": "original-love",
+      "toName": "ORIGINAL LOVE",
+      "toArea": "日本",
+      "toYears": "1986–",
+      "type": "member",
+      "label": "宮田繁男",
+      "detail": "宮田繁男 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "pizzicato-five",
+      "toName": "Pizzicato Five",
+      "toArea": "东京",
+      "toYears": "1984–2001",
+      "type": "member",
+      "label": "野宮真貴",
+      "detail": "野宮真貴 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    }
+  ]
+}

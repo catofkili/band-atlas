@@ -3,9 +3,12 @@
   "mbid": "104ada9b-3f51-41bf-b01b-4a951f0a3117",
   "name": "ZiNG",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2017–",
   "genres": [],
   "albums": [],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/104ada9b-3f51-41bf-b01b-4a951f0a3117"
   },
@@ -19,6 +22,17 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": 2004,
+      "weight": 0.62
+    },
+    {
+      "to": "9mm-parabellum-bullet",
+      "toName": "9mm Parabellum Bullet",
+      "toArea": "横滨",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "滝善充",
+      "detail": "滝善充 在这两支乐队都待过。",
+      "year": null,
       "weight": 0.62
     },
     {
@@ -51,6 +65,17 @@
       "type": "member",
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "キツネツキ",
+      "toName": "キツネツキ",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "滝善充",
+      "detail": "滝善充 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62
     },

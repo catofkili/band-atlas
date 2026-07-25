@@ -3,6 +3,8 @@
   "mbid": "a0ecfe6b-1035-4d0a-b8c8-c75872139151",
   "name": "凛として時雨",
   "area": "埼玉",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2002–",
   "genres": [
     "Math Rock",
@@ -30,6 +32,7 @@
     "傍観",
     "DISCO FLIGHT"
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a0ecfe6b-1035-4d0a-b8c8-c75872139151"
   },

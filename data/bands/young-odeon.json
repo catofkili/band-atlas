@@ -1,0 +1,39 @@
+{
+  "id": "young-odeon",
+  "mbid": "950884aa-f385-4ee6-89da-ef65577dd249",
+  "name": "YOUNG ODEON",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/950884aa-f385-4ee6-89da-ef65577dd249"
+  },
+  "edges": [
+    {
+      "to": "pizzicato-five",
+      "toName": "Pizzicato Five",
+      "toArea": "东京",
+      "toYears": "1984–2001",
+      "type": "member",
+      "label": "小西康陽",
+      "detail": "小西康陽 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "ロケットマン",
+      "toName": "ロケットマン",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "小西康陽",
+      "detail": "小西康陽 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    }
+  ]
+}

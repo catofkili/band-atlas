@@ -1,0 +1,136 @@
+{
+  "id": "muse",
+  "mbid": "9c9f1380-2516-4fc9-a3e6-f9f61941d090",
+  "name": "Muse",
+  "area": "Teignmouth",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1994–",
+  "genres": [
+    "Alternative Rock",
+    "Rock",
+    "Progressive Rock"
+  ],
+  "albums": [
+    {
+      "title": "Showbiz",
+      "year": 1999
+    },
+    {
+      "title": "Origin of Symmetry",
+      "year": 2001
+    },
+    {
+      "title": "Absolution",
+      "year": 2003
+    },
+    {
+      "title": "Black Holes and Revelations",
+      "year": 2006
+    },
+    {
+      "title": "The Resistance Instrumentals",
+      "year": 2009
+    },
+    {
+      "title": "The Resistance",
+      "year": 2009
+    }
+  ],
+  "intro": "缪斯是一支英国摇滚乐队，于1994年在英国德文郡的泰格茅斯镇创立。乐风融合了独立摇滚、前卫摇滚、重金属音乐、古典音乐与电音。乐团以主唱马修·贝拉米对各种阴谋论、外星生物、神学以及末世预言等的怪异兴趣著称。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9c9f1380-2516-4fc9-a3e6-f9f61941d090"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Muse 受 Nirvana 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-jaded-hearts-club",
+      "toName": "The Jaded Hearts Club",
+      "toArea": "California",
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Matt Bellamy",
+      "detail": "Matt Bellamy 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "vicky-cryer",
+      "toName": "Vicky Cryer",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dominic Howard",
+      "detail": "Dominic Howard 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "gothic-plague",
+      "toName": "Gothic Plague",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Dominic Howard",
+      "detail": "Dominic Howard 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "the-old-day",
+      "toName": "The Old Day",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Christopher Wolstenholme",
+      "detail": "Christopher Wolstenholme 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "queen",
+      "toName": "Queen",
+      "toArea": "伦敦",
+      "toYears": "1970–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Muse 受 Queen 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "radiohead",
+      "toName": "Radiohead",
+      "toArea": "Abingdon-on-Thames",
+      "toYears": "1991–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Muse 受 Radiohead 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "rage-against-the-machine",
+      "toName": "Rage Against the Machine",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2024",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Muse 受 Rage Against the Machine 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

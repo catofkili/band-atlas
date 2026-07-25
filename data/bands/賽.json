@@ -1,0 +1,52 @@
+{
+  "id": "賽",
+  "mbid": "32cab2ff-104e-45b6-a792-b0333593661f",
+  "name": "賽",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Family",
+      "year": 2022
+    },
+    {
+      "title": "The Bottle",
+      "year": 2022
+    },
+    {
+      "title": "YELLOW",
+      "year": 2023
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/32cab2ff-104e-45b6-a792-b0333593661f"
+  },
+  "edges": [
+    {
+      "to": "suchmos",
+      "toName": "Suchmos",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "TAIHEI",
+      "detail": "TAIHEI 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "shag",
+      "toName": "SHAG",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "松浦千昇",
+      "detail": "松浦千昇 在这两支乐队都待过。",
+      "year": 2020,
+      "weight": 0.62
+    }
+  ]
+}

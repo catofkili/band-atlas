@@ -1,0 +1,35 @@
+{
+  "id": "jimmy-page-robert-plant",
+  "mbid": "4a536dbf-8632-4cfd-b9ea-cdb35cb47c44",
+  "name": "Jimmy Page & Robert Plant",
+  "area": null,
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Walking Into Clarksdale",
+      "year": 1998
+    }
+  ],
+  "intro": "Page and Plant (also known as Jimmy Page & Robert Plant) were an English rock band active between 1994 and 1998.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4a536dbf-8632-4cfd-b9ea-cdb35cb47c44"
+  },
+  "edges": [
+    {
+      "to": "led-zeppelin",
+      "toName": "Led Zeppelin",
+      "toArea": "伦敦",
+      "toYears": "1968–1980",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

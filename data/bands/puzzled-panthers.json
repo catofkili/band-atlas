@@ -3,9 +3,12 @@
   "mbid": "d57a2466-c489-44ff-872f-ad01f8e41056",
   "name": "Puzzled Panthers",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d57a2466-c489-44ff-872f-ad01f8e41056"
   },

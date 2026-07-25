@@ -1,0 +1,68 @@
+{
+  "id": "9mm-parabellum-bullet",
+  "mbid": "cb9b28ec-799f-44d8-a0b2-2eee3e8eb5b1",
+  "name": "9mm Parabellum Bullet",
+  "area": "横滨",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2004–",
+  "genres": [
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Termination",
+      "year": 2007
+    },
+    {
+      "title": "VAMPIRE",
+      "year": 2008
+    },
+    {
+      "title": "Revolutionary",
+      "year": 2010
+    },
+    {
+      "title": "Movement",
+      "year": 2011
+    },
+    {
+      "title": "Dawning",
+      "year": 2013
+    },
+    {
+      "title": "Waltz on Life Line",
+      "year": 2016
+    }
+  ],
+  "intro": "9mm Parabellum Bulletは、日本のロックバンド。2004年に横浜市にて結成。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cb9b28ec-799f-44d8-a0b2-2eee3e8eb5b1"
+  },
+  "edges": [
+    {
+      "to": "キツネツキ",
+      "toName": "キツネツキ",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "菅原卓郎・滝善充",
+      "detail": "2 位乐手在这两支乐队都待过：菅原卓郎・滝善充。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "zing",
+      "toName": "ZiNG",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "滝善充",
+      "detail": "滝善充 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

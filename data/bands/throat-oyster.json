@@ -3,9 +3,12 @@
   "mbid": "b239ca22-ce18-4e7c-a272-e9ca195e1026",
   "name": "Throat Oyster",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": "1987–1987",
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b239ca22-ce18-4e7c-a272-e9ca195e1026"
   },

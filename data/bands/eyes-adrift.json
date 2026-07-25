@@ -3,6 +3,8 @@
   "mbid": "3b70e3f4-72ec-43bd-852e-e67240d43b08",
   "name": "Eyes Adrift",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [
@@ -13,6 +15,7 @@
   ],
   "intro": "Eyes Adrift (known in Australia as Bud, Curt & Krist) was a three-piece rock supergroup consisting of Krist Novoselic (bass guitar, formerly of Nirvana), Curt Kirkwood (guitar and lead vocals, of Meat Puppets), and Bud Gaugh (drums, formerly of Sublime and Long Beach Dub Allstars).",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3b70e3f4-72ec-43bd-852e-e67240d43b08"
   },

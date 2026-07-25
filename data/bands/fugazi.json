@@ -3,6 +3,8 @@
   "mbid": "233fc3f3-6de2-465c-985e-e721dbabbace",
   "name": "Fugazi",
   "area": "华盛顿特区",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1987–2003",
   "genres": [
     "Post-hardcore",
@@ -34,6 +36,7 @@
     "Blueprint",
     "Bed for the Scraping"
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/233fc3f3-6de2-465c-985e-e721dbabbace"
   },
@@ -169,6 +172,28 @@
       "detail": "Colin Sears 在这两支乐队都待过。",
       "year": 1982,
       "weight": 0.62
+    },
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fugazi 影响了 Foo Fighters（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "rage-against-the-machine",
+      "toName": "Rage Against the Machine",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2024",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fugazi 影响了 Rage Against the Machine（Wikidata）。",
+      "year": null,
+      "weight": 0.46
     }
   ]
 }

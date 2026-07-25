@@ -1,0 +1,81 @@
+{
+  "id": "the-cure",
+  "mbid": "69ee3720-a7cb-4402-b48d-a02c366f2bcf",
+  "name": "The Cure",
+  "area": "Crawley",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1977–",
+  "genres": [
+    "Gothic Rock",
+    "New Wave",
+    "Post-Punk"
+  ],
+  "albums": [
+    {
+      "title": "Three Imaginary Boys",
+      "year": 1979
+    },
+    {
+      "title": "Seventeen Seconds",
+      "year": 1980
+    },
+    {
+      "title": "Faith",
+      "year": 1981
+    },
+    {
+      "title": "Pornography",
+      "year": 1982
+    },
+    {
+      "title": "The Top",
+      "year": 1984
+    },
+    {
+      "title": "The Head on the Door",
+      "year": 1985
+    }
+  ],
+  "intro": "治疗乐队，是一支于 1976 年在西萨塞克斯郡克劳利成立的摇滚乐队。该乐队经历了多次人员调整，只有其核心、吉他手兼主要曲作者罗伯特·史密斯是固定成员。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/69ee3720-a7cb-4402-b48d-a02c366f2bcf"
+  },
+  "edges": [
+    {
+      "to": "sour-milk-sea",
+      "toName": "Sour Milk Sea",
+      "toArea": null,
+      "toYears": "1969–1970",
+      "type": "member",
+      "label": "Boris Williams",
+      "detail": "Boris Williams 在这两支乐队都待过。",
+      "year": 1985,
+      "weight": 0.62
+    },
+    {
+      "to": "deftones",
+      "toName": "Deftones",
+      "toArea": "Sacramento",
+      "toYears": "1988–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Cure 影响了 Deftones（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "lostprophets",
+      "toName": "Lostprophets",
+      "toArea": "Pontypridd",
+      "toYears": "1997–2013",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Cure 影响了 Lostprophets（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

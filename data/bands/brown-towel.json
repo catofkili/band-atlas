@@ -3,9 +3,12 @@
   "mbid": "0f8e6822-3672-400c-a87c-792c7a293544",
   "name": "Brown Towel",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": "1985–1986",
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0f8e6822-3672-400c-a87c-792c7a293544"
   },

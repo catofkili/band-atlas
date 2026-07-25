@@ -3,6 +3,8 @@
   "mbid": "057aa66c-cf6e-499d-bda8-5adc47ad4197",
   "name": "Fantômas",
   "area": null,
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [
@@ -25,6 +27,7 @@
   ],
   "intro": "Fantômas is an American experimental metal supergroup formed in 1998 in California.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/057aa66c-cf6e-499d-bda8-5adc47ad4197"
   },

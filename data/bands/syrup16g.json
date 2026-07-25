@@ -3,6 +3,8 @@
   "mbid": "e4d403dd-2f83-4642-a929-02676a2a944c",
   "name": "syrup16g",
   "area": "Shimokitazawa",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "1996–",
   "genres": [
     "Alternative Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "syrup16gは、日本のスリーピースロックバンド。",
   "introLang": "ja",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e4d403dd-2f83-4642-a929-02676a2a944c"
   },

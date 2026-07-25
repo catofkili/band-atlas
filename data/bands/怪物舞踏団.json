@@ -1,0 +1,28 @@
+{
+  "id": "怪物舞踏団",
+  "mbid": "c02c0273-e363-41a4-8ae5-0d44975d56aa",
+  "name": "怪物舞踏団",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2017–2019",
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c02c0273-e363-41a4-8ae5-0d44975d56aa"
+  },
+  "edges": [
+    {
+      "to": "shag",
+      "toName": "SHAG",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "KenKen",
+      "detail": "KenKen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

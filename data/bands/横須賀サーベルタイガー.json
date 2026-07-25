@@ -1,0 +1,145 @@
+{
+  "id": "横須賀サーベルタイガー",
+  "mbid": "eba81e97-2c61-4638-9562-8804c98f560e",
+  "name": "横須賀サーベルタイガー",
+  "area": "Yokosuka",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1981–1987",
+  "genres": [
+    "Likedis Auto",
+    "Visual Kei"
+  ],
+  "albums": [
+    {
+      "title": "HISTORY OF hide vol.2",
+      "year": 2000
+    },
+    {
+      "title": "UNDER THE VEIL",
+      "year": 2000
+    },
+    {
+      "title": "ヴィジュアル★ラウド★カルトライブ!!",
+      "year": 2001
+    }
+  ],
+  "intro": "横須賀サーベルタイガーは、過去に存在した日本のアマチュアバンド。X JAPANのHIDEが主宰していたことで知られる。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/eba81e97-2c61-4638-9562-8804c98f560e"
+  },
+  "edges": [
+    {
+      "to": "dead-wire",
+      "toName": "Dead Wire",
+      "toArea": "日本",
+      "toYears": "1986–1986",
+      "type": "member",
+      "label": "菊地哲・kyo",
+      "detail": "2 位乐手在这两支乐队都待过：菊地哲・kyo。",
+      "year": 1986,
+      "weight": 0.84
+    },
+    {
+      "to": "die-in-cries",
+      "toName": "DIE IN CRIES",
+      "toArea": "日本",
+      "toYears": "1991–1995",
+      "type": "member",
+      "label": "kyo",
+      "detail": "kyo 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "hide",
+      "detail": "hide 在这两支乐队都待过。",
+      "year": 1982,
+      "weight": 0.62
+    },
+    {
+      "to": "zi-kill",
+      "toName": "ZI:KILL",
+      "toArea": "日本",
+      "toYears": "1987–1994",
+      "type": "member",
+      "label": "菊地哲",
+      "detail": "菊地哲 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "zilch",
+      "toName": "Zilch",
+      "toArea": "美国",
+      "toYears": "1998–2002",
+      "type": "member",
+      "label": "hide",
+      "detail": "hide 在这两支乐队都待过。",
+      "year": 1982,
+      "weight": 0.62
+    },
+    {
+      "to": "halloween-junky-orchestra",
+      "toName": "HALLOWEEN JUNKY ORCHESTRA",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "kyo",
+      "detail": "kyo 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "hide-with-spread-beaver",
+      "toName": "hide with Spread Beaver",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "hide",
+      "detail": "hide 在这两支乐队都待过。",
+      "year": 1982,
+      "weight": 0.62
+    },
+    {
+      "to": "dementia",
+      "toName": "Dementia",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "TOKIHIKO",
+      "detail": "TOKIHIKO 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "emperor",
+      "toName": "Emperor",
+      "toArea": "日本",
+      "toYears": "1987–1990",
+      "type": "member",
+      "label": "TOKIHIKO",
+      "detail": "TOKIHIKO 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "m-a-s-s",
+      "toName": "M・A・S・S",
+      "toArea": "东京",
+      "toYears": null,
+      "type": "member",
+      "label": "hide",
+      "detail": "hide 在这两支乐队都待过。",
+      "year": 1982,
+      "weight": 0.62
+    }
+  ]
+}

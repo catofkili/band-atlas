@@ -1,0 +1,59 @@
+{
+  "id": "base-ball-bear",
+  "mbid": "b3b24a1d-78b4-40c9-98ef-19fb812b067a",
+  "name": "Base Ball Bear",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2002–",
+  "genres": [
+    "Fixme Label Mess Few",
+    "J-Pop",
+    "Pop Rock"
+  ],
+  "albums": [
+    {
+      "title": "夕方ジェネレーション",
+      "year": 2003
+    },
+    {
+      "title": "HIGH COLOR TIMES",
+      "year": 2005
+    },
+    {
+      "title": "C",
+      "year": 2006
+    },
+    {
+      "title": "十七歳",
+      "year": 2007
+    },
+    {
+      "title": "(WHAT IS THE) LOVE & POP?",
+      "year": 2009
+    },
+    {
+      "title": "CYPRESS GIRLS",
+      "year": 2010
+    }
+  ],
+  "intro": "Base Ball Bear是日本的3人摇滚乐队，2001年结成，为索尼音乐旗下艺人。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b3b24a1d-78b4-40c9-98ef-19fb812b067a"
+  },
+  "edges": [
+    {
+      "to": "パーランマウム",
+      "toName": "パーランマウム",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "関根史織",
+      "detail": "関根史織 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    }
+  ]
+}

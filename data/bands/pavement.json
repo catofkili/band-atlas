@@ -3,6 +3,8 @@
   "mbid": "36bfa85f-737b-41db-a8fc-b8825850ffc3",
   "name": "Pavement",
   "area": "Stockton",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1989–2000",
   "genres": [
     "Indie Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "人行道乐队是 20 世纪 90 年代美国最具影响力的独立摇滚乐队之一。尽管他们在主流商业市场上仅获得适度的成功，却凭借独特的音乐风格赢得了极高的邪典追捧，被公认为 Lo-fi 运动的先驱。",
   "introLang": "zh",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/36bfa85f-737b-41db-a8fc-b8825850ffc3"
   },

@@ -3,6 +3,8 @@
   "mbid": "6335489e-3312-41a0-a304-ed6a520251d6",
   "name": "The Peeper",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2008
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6335489e-3312-41a0-a304-ed6a520251d6"
   },

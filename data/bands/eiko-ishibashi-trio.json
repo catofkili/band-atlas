@@ -1,0 +1,66 @@
+{
+  "id": "eiko-ishibashi-trio",
+  "mbid": "c8b2f191-0bb4-4ee5-a38f-7d3ce8564504",
+  "name": "Eiko Ishibashi Trio",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "6 Feet Under",
+      "year": 2016
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c8b2f191-0bb4-4ee5-a38f-7d3ce8564504"
+  },
+  "edges": [
+    {
+      "to": "kafka-s-ibiki",
+      "toName": "Kafka’s Ibiki",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "石橋英子・山本達久",
+      "detail": "2 位乐手在这两支乐队都待过：石橋英子・山本達久。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "melt-banana",
+      "toName": "Melt‐Banana",
+      "toArea": "东京",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "須藤俊明",
+      "detail": "須藤俊明 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "bonjintan",
+      "toName": "Bonjintan",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "山本達久",
+      "detail": "山本達久 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "delivery-health",
+      "toName": "Delivery Health",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "山本達久",
+      "detail": "山本達久 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

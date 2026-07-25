@@ -1,0 +1,84 @@
+{
+  "id": "3호선-버터플라이",
+  "mbid": "5fd292c1-c010-4bb5-afb4-a91f8045b853",
+  "name": "3호선 버터플라이",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "1999–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Self-Titled Obsession",
+      "year": 2001
+    },
+    {
+      "title": "Oh! Silence",
+      "year": 2002
+    },
+    {
+      "title": "Time Table",
+      "year": 2004
+    },
+    {
+      "title": "Dreamtalk",
+      "year": 2012
+    },
+    {
+      "title": "Divided By Zero",
+      "year": 2017
+    }
+  ],
+  "intro": "3号線バタフライは1999年に結成された韓国のロックバンド。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5fd292c1-c010-4bb5-afb4-a91f8045b853"
+  },
+  "edges": [
+    {
+      "to": "huckleberry-finn",
+      "toName": "Huckleberry Finn",
+      "toArea": "韩国",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "김상우・남상아",
+      "detail": "2 位乐手在这两支乐队都待过：김상우・남상아。",
+      "year": 1997,
+      "weight": 0.84
+    },
+    {
+      "to": "모임-별",
+      "toName": "모임 별",
+      "toArea": "首尔",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "서현정",
+      "detail": "서현정 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "pipiband",
+      "toName": "pipiband",
+      "toArea": "韩国",
+      "toYears": "1995–1997",
+      "type": "member",
+      "label": "박현준",
+      "detail": "박현준 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "the-devils",
+      "toName": "The Devils",
+      "toArea": "韩国",
+      "toYears": null,
+      "type": "member",
+      "label": "손경호",
+      "detail": "손경호 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    }
+  ]
+}

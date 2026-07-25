@@ -3,6 +3,8 @@
   "mbid": "ad82f8fd-206f-4b62-9a0d-f46557edb725",
   "name": "White Flag",
   "area": "Moreno Valley",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1982–",
   "genres": [
     "Punk"
@@ -35,6 +37,7 @@
   ],
   "intro": "White Flag is an American punk rock band currently based in Los Angeles.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ad82f8fd-206f-4b62-9a0d-f46557edb725"
   },
@@ -70,6 +73,17 @@
       "label": "Kim Shattuck・Melanie Vammen",
       "detail": "2 位乐手在这两支乐队都待过：Kim Shattuck・Melanie Vammen。",
       "year": 1985,
+      "weight": 0.84
+    },
+    {
+      "to": "the-tater-totz",
+      "toName": "The Tater Totz",
+      "toArea": "Hawthorne",
+      "toYears": "1987–",
+      "type": "member",
+      "label": "Melanie Vammen・Pick Z. Stix",
+      "detail": "2 位乐手在这两支乐队都待过：Melanie Vammen・Pick Z. Stix。",
+      "year": null,
       "weight": 0.84
     },
     {

@@ -1,0 +1,31 @@
+{
+  "id": "chino-horde",
+  "mbid": "d5a16c6d-49d7-4f48-ac5f-6c312f966947",
+  "name": "Chino Horde",
+  "area": "Little Rock",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1992–1993",
+  "genres": [
+    "Emo",
+    "Emocore"
+  ],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d5a16c6d-49d7-4f48-ac5f-6c312f966947"
+  },
+  "edges": [
+    {
+      "to": "the-big-cats",
+      "toName": "The Big Cats",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Burt Taggart",
+      "detail": "Burt Taggart 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

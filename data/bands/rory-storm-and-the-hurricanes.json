@@ -1,0 +1,97 @@
+{
+  "id": "rory-storm-and-the-hurricanes",
+  "mbid": "de74e49a-d4f0-4551-ab8b-62b291e132bb",
+  "name": "Rory Storm and the Hurricanes",
+  "area": "利物浦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1957–1967",
+  "genres": [
+    "Beat Music",
+    "Merseybeat"
+  ],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/de74e49a-d4f0-4551-ab8b-62b291e132bb"
+  },
+  "edges": [
+    {
+      "to": "plastic-ono-band",
+      "toName": "Plastic Ono Band",
+      "toArea": "伦敦",
+      "toYears": "1969–2015",
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 1969,
+      "weight": 0.62
+    },
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 1959,
+      "weight": 0.62
+    },
+    {
+      "to": "george-s-band",
+      "toName": "George's Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "r-a-d-d-recording-artists-against-drunk-driving",
+      "toName": "R.A.D.D. (Recording Artists Against Drunk Driving)",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 1959,
+      "weight": 0.62
+    },
+    {
+      "to": "ringo-starr-his-all-starr-band",
+      "toName": "Ringo Starr & His All Starr Band",
+      "toArea": "伦敦",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-roundheads",
+      "toName": "The Roundheads",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 1959,
+      "weight": 0.62
+    },
+    {
+      "to": "the-singing-rebels-band",
+      "toName": "The Singing Rebels’ Band",
+      "toArea": null,
+      "toYears": "1985–1985",
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 1959,
+      "weight": 0.62
+    }
+  ]
+}

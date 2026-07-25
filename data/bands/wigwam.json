@@ -3,11 +3,14 @@
   "mbid": "a47f322c-dde7-4ece-b6f2-b0468aff8861",
   "name": "WigWam",
   "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "2005–",
   "genres": [],
   "albums": [],
   "intro": "WigWam were an English pop duo, comprising Alex James, the bassist from Blur, and vocalist Betty Boo (Alison Clarkson).",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a47f322c-dde7-4ece-b6f2-b0468aff8861"
   },

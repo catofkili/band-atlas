@@ -3,6 +3,8 @@
   "mbid": "6fc69ec6-3e59-4ff7-849d-b5da932abe4d",
   "name": "Sleep",
   "area": "San Jose",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1990–",
   "genres": [
     "Doom Metal",
@@ -33,6 +35,7 @@
   ],
   "intro": "スリープ (Sleep) は、アメリカ合衆国カリフォルニア州のストーナー・ドゥームバンド。オリジナルメンバーはOMのアル・シスネロス、クリス・ハキアスおよびハイ・オン・ファイアのマット・パイク。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6fc69ec6-3e59-4ff7-849d-b5da932abe4d"
   },

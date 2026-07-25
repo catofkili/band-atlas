@@ -1,0 +1,30 @@
+{
+  "id": "xyz",
+  "mbid": "9b1fed57-7628-4eb7-a4ef-b1d0b36d2ce2",
+  "name": "XYZ",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1981–1981",
+  "genres": [],
+  "albums": [],
+  "intro": "XYZは、イングランドのロック・スーパーグループである。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9b1fed57-7628-4eb7-a4ef-b1d0b36d2ce2"
+  },
+  "edges": [
+    {
+      "to": "plastic-ono-band",
+      "toName": "Plastic Ono Band",
+      "toArea": "伦敦",
+      "toYears": "1969–2015",
+      "type": "member",
+      "label": "Alan White",
+      "detail": "Alan White 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    }
+  ]
+}

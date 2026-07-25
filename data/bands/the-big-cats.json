@@ -1,0 +1,59 @@
+{
+  "id": "the-big-cats",
+  "mbid": "661c8840-8a2f-4626-9edf-68be40656c4a",
+  "name": "The Big Cats",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [
+    "Indie Rock"
+  ],
+  "albums": [
+    {
+      "title": "Worrisome Blues",
+      "year": 2003
+    }
+  ],
+  "intro": "The Big Cats are an American rock band from Little Rock, Arkansas.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/661c8840-8a2f-4626-9edf-68be40656c4a"
+  },
+  "edges": [
+    {
+      "to": "chino-horde",
+      "toName": "Chino Horde",
+      "toArea": "Little Rock",
+      "toYears": "1992–1993",
+      "type": "member",
+      "label": "Burt Taggart",
+      "detail": "Burt Taggart 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "numbskulz",
+      "toName": "Numbskulz",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Colin Brooks",
+      "detail": "Colin Brooks 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "quisp",
+      "toName": "Quisp",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Colin Brooks",
+      "detail": "Colin Brooks 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

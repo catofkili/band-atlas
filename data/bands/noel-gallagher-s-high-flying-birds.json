@@ -3,6 +3,8 @@
   "mbid": "d5f54887-117b-42a1-9aee-8780b84ebaba",
   "name": "Noel Gallagher’s High Flying Birds",
   "area": "曼彻斯特",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "2011–",
   "genres": [
     "Alternative Rock",
@@ -29,6 +31,7 @@
   ],
   "intro": "诺尔加拉格的高飞小鸟是前英国绿洲乐队 (Oasis) 的作曲家兼吉他手诺尔·加拉格 (Noel Gallagher) 在离开绿洲后另组的摇滚乐队。",
   "introLang": "zh",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d5f54887-117b-42a1-9aee-8780b84ebaba"
   },

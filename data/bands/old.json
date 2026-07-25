@@ -3,6 +3,8 @@
   "mbid": "2a7e17f0-dc67-4902-ad4b-20bd986e847b",
   "name": "Old",
   "area": "New Jersey",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1986–2002",
   "genres": [],
   "albums": [
@@ -25,6 +27,7 @@
   ],
   "intro": "OLD (originally an acronym for Old Lady Drivers) was an American heavy metal band from Bergenfield, New Jersey, formed in 1986 and signed to Earache Records.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2a7e17f0-dc67-4902-ad4b-20bd986e847b"
   },

@@ -3,9 +3,12 @@
   "mbid": "b6aebd2e-6a59-43a6-8252-514ba90cebf3",
   "name": "Harlingtox A.D.",
   "area": "华盛顿特区",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b6aebd2e-6a59-43a6-8252-514ba90cebf3"
   },

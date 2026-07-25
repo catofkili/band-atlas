@@ -3,9 +3,12 @@
   "mbid": "adc32825-123a-4e1b-adb1-ffd093a26917",
   "name": "PANDAS",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2017–",
   "genres": [],
   "albums": [],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/adc32825-123a-4e1b-adb1-ffd093a26917"
   },

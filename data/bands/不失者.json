@@ -1,0 +1,92 @@
+{
+  "id": "不失者",
+  "mbid": "19184fd0-fdff-4d80-aaf6-c196d7f21946",
+  "name": "不失者",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1978–",
+  "genres": [
+    "Experimental Rock",
+    "Noise Rock",
+    "Psychedelic Rock"
+  ],
+  "albums": [
+    {
+      "title": "Allegorical Misunderstanding",
+      "year": 1993
+    },
+    {
+      "title": "悲愴",
+      "year": 1994
+    },
+    {
+      "title": "来たる時",
+      "year": 1997
+    },
+    {
+      "title": "完結されもしない死",
+      "year": 1997
+    },
+    {
+      "title": "もう少しこのまま",
+      "year": 1998
+    },
+    {
+      "title": "すでに用意されていた想い",
+      "year": 1998
+    }
+  ],
+  "intro": "Fushitsusha (不失者) is a Japanese rock band specialising in experimental and psychedelic rock genres.",
+  "introLang": "en",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/19184fd0-fdff-4d80-aaf6-c196d7f21946"
+  },
+  "edges": [
+    {
+      "to": "ゆらゆら帝国",
+      "toName": "ゆらゆら帝国",
+      "toArea": "日本",
+      "toYears": "1989–2010",
+      "type": "member",
+      "label": "亀川千代",
+      "detail": "亀川千代 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-stars",
+      "toName": "The Stars",
+      "toArea": "日本",
+      "toYears": "1999–2009",
+      "type": "member",
+      "label": "亀川千代",
+      "detail": "亀川千代 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "galactic-abyss",
+      "toName": "Galactic Abyss",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "亀川千代",
+      "detail": "亀川千代 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "灰野敬二",
+      "detail": "灰野敬二 在这两支乐队都待过。",
+      "year": 1978,
+      "weight": 0.62
+    }
+  ]
+}

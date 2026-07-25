@@ -1,0 +1,149 @@
+{
+  "id": "nighttime-boogie-association",
+  "mbid": "02318007-b827-4e70-83d9-8965ad143c4b",
+  "name": "Nighttime Boogie Association",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/02318007-b827-4e70-83d9-8965ad143c4b"
+  },
+  "edges": [
+    {
+      "to": "pearl-jam",
+      "toName": "Pearl Jam",
+      "toArea": "西雅图",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Matt Cameron",
+      "detail": "Matt Cameron 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "queens-of-the-stone-age",
+      "toName": "Queens of the Stone Age",
+      "toArea": "Palm Desert",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Matt Cameron",
+      "detail": "Matt Cameron 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "redd-kross",
+      "toName": "Redd Kross",
+      "toArea": "Hawthorne",
+      "toYears": "1980–",
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "soundgarden",
+      "toName": "Soundgarden",
+      "toArea": "西雅图",
+      "toYears": "1984–2017",
+      "type": "member",
+      "label": "Matt Cameron",
+      "detail": "Matt Cameron 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "sparks",
+      "toName": "Sparks",
+      "toArea": "洛杉矶",
+      "toYears": "1970–",
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "3rd-secret",
+      "toName": "3rd Secret",
+      "toArea": "西雅图",
+      "toYears": "2021–",
+      "type": "member",
+      "label": "Matt Cameron",
+      "detail": "Matt Cameron 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-tater-totz",
+      "toName": "The Tater Totz",
+      "toArea": "Hawthorne",
+      "toYears": "1987–",
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "loser",
+      "toName": "Loser",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "broken-bat",
+      "toName": "Broken Bat",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "dale-crover-band",
+      "toName": "Dale Crover Band",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mc50",
+      "toName": "MC50",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Matt Cameron",
+      "detail": "Matt Cameron 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "north-american-hallowe-en-prevention-initiative",
+      "toName": "North American Hallowe’en Prevention Initiative",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

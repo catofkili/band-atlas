@@ -1,0 +1,169 @@
+{
+  "id": "funkadelic",
+  "mbid": "cf042013-3edd-46c4-9b0e-a62faac98d0b",
+  "name": "Funkadelic",
+  "area": "Plainfield",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1968–1981",
+  "genres": [
+    "Funk",
+    "Funk Rock",
+    "P-Funk"
+  ],
+  "albums": [
+    {
+      "title": "Free Your Mind… and Your Ass Will Follow",
+      "year": 1970
+    },
+    {
+      "title": "Funkadelic",
+      "year": 1970
+    },
+    {
+      "title": "Maggot Brain",
+      "year": 1971
+    },
+    {
+      "title": "America Eats Its Young",
+      "year": 1972
+    },
+    {
+      "title": "Cosmic Slop",
+      "year": 1973
+    },
+    {
+      "title": "Standing on the Verge of Getting It On",
+      "year": 1974
+    }
+  ],
+  "intro": "ファンカデリックは、ジョージ・クリントンがパーラメントと並行して1960年代末に結成したファンクバンド。Pファンクの主要プロジェクトのひとつ。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cf042013-3edd-46c4-9b0e-a62faac98d0b"
+  },
+  "edges": [
+    {
+      "to": "parliament",
+      "toName": "Parliament",
+      "toArea": "Plainfield",
+      "toYears": "1968–1980",
+      "type": "member",
+      "label": "Bootsy Collins・Jerome Brailey・Michael Hampton・Larry Fratangelo・Lonnie Motley・Greg Boyer・George Clinton・Bennie Cowan・Ray Davis・Glen Goins・Fuzzy Haskins・Eddie Hazel・Larry Heckstall・Cordell Mosson・Garry Shider・Calvin Simon・Grady Thomas・Undi$co Kidd・Ramon \"Tiki\" Fulwood",
+      "detail": "19 位乐手在这两支乐队都待过：Bootsy Collins・Jerome Brailey・Michael Hampton・Larry Fratangelo・Lonnie Motley・Greg Boyer・George Clinton・Bennie Cowan・Ray Davis・Glen Goins・Fuzzy Haskins・Eddie Hazel・Larry Heckstall・Cordell Mosson・Garry Shider・Calvin Simon・Grady Thomas・Undi$co Kidd・Ramon \"Tiki\" Fulwood。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "parliament-funkadelic",
+      "toName": "Parliament-Funkadelic",
+      "toArea": "Plainfield",
+      "toYears": "1968–",
+      "type": "member",
+      "label": "Bootsy Collins・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Michael Payne・Garry Shider・Undi$co Kidd",
+      "detail": "8 位乐手在这两支乐队都待过：Bootsy Collins・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Michael Payne・Garry Shider・Undi$co Kidd。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "the-p-funk-mob",
+      "toName": "The P-Funk Mob",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bootsy Collins・Michael Hampton・Larry Fratangelo・Greg Boyer・George Clinton・Ray Davis・Glen Goins・Fuzzy Haskins・Eddie Hazel・Garry Shider・Calvin Simon・Grady Thomas・Ramon \"Tiki\" Fulwood",
+      "detail": "13 位乐手在这两支乐队都待过：Bootsy Collins・Michael Hampton・Larry Fratangelo・Greg Boyer・George Clinton・Ray Davis・Glen Goins・Fuzzy Haskins・Eddie Hazel・Garry Shider・Calvin Simon・Grady Thomas・Ramon \"Tiki\" Fulwood。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "material",
+      "toName": "Material",
+      "toArea": "纽约",
+      "toYears": "1978–1999",
+      "type": "member",
+      "label": "Jerome Brailey・Michael Hampton",
+      "detail": "2 位乐手在这两支乐队都待过：Jerome Brailey・Michael Hampton。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "praxis",
+      "toName": "Praxis",
+      "toArea": "Brooklyn",
+      "toYears": "1992–2011",
+      "type": "member",
+      "label": "Bootsy Collins",
+      "detail": "Bootsy Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "science-faxtion",
+      "toName": "Science Faxtion",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bootsy Collins",
+      "detail": "Bootsy Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "pharaoh",
+      "toName": "Pharaoh",
+      "toArea": "底特律",
+      "toYears": null,
+      "type": "member",
+      "label": "Larry Fratangelo",
+      "detail": "Larry Fratangelo 在这两支乐队都待过。",
+      "year": 1978,
+      "weight": 0.62
+    },
+    {
+      "to": "world-wide-funkdrive",
+      "toName": "World-Wide-Funkdrive",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bootsy Collins",
+      "detail": "Bootsy Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "parliament-funkadelic",
+      "toName": "Parliament-Funkadelic",
+      "toArea": "Plainfield",
+      "toYears": "1968–",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "the-horny-horns",
+      "toName": "The Horny Horns",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Funkadelic 影响了 Red Hot Chili Peppers（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

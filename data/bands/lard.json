@@ -1,0 +1,127 @@
+{
+  "id": "lard",
+  "mbid": "4430600b-0fdb-43a1-be52-c81aa7ab1682",
+  "name": "Lard",
+  "area": "芝加哥",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1988–2000",
+  "genres": [],
+  "albums": [
+    {
+      "title": "The Last Temptation of Reid",
+      "year": 1990
+    },
+    {
+      "title": "Pure Chewing Satisfaction",
+      "year": 1997
+    }
+  ],
+  "intro": "ラードは、1988年にジェロ・ビアフラ、アル・ジュールゲンセン、ポール・バーカー、およびジェフ・ワードによるサイド・プロジェクトとして結成された、アメリカのハードコア・パンク／インダストリアル・バンドである。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4430600b-0fdb-43a1-be52-c81aa7ab1682"
+  },
+  "edges": [
+    {
+      "to": "ministry",
+      "toName": "Ministry",
+      "toArea": "芝加哥",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Jeff Ward・Paul Barker・Al Jourgensen・Rey Washam",
+      "detail": "4 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Al Jourgensen・Rey Washam。",
+      "year": 1988,
+      "weight": 0.95
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Jeff Ward・Paul Barker・Jello Biafra",
+      "detail": "3 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Jello Biafra。",
+      "year": 1988,
+      "weight": 0.95
+    },
+    {
+      "to": "revolting-cocks",
+      "toName": "Revolting Cocks",
+      "toArea": "芝加哥",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Jeff Ward・Paul Barker・Al Jourgensen",
+      "detail": "3 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Al Jourgensen。",
+      "year": 1988,
+      "weight": 0.95
+    },
+    {
+      "to": "1000-homo-djs",
+      "toName": "1000 Homo DJs",
+      "toArea": "芝加哥",
+      "toYears": "1988–1990",
+      "type": "member",
+      "label": "Paul Barker・Al Jourgensen",
+      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
+      "year": 1988,
+      "weight": 0.84
+    },
+    {
+      "to": "pailhead",
+      "toName": "Pailhead",
+      "toArea": "美国",
+      "toYears": "1988–1988",
+      "type": "member",
+      "label": "Paul Barker・Al Jourgensen",
+      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
+      "year": 1988,
+      "weight": 0.84
+    },
+    {
+      "to": "dead-kennedys",
+      "toName": "Dead Kennedys",
+      "toArea": "旧金山",
+      "toYears": "1978–1986",
+      "type": "member",
+      "label": "Jello Biafra",
+      "detail": "Jello Biafra 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "low-pop-suicide",
+      "toName": "Low Pop Suicide",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "the-no-w-t-o-combo",
+      "toName": "The No W.T.O. Combo",
+      "toArea": "美国",
+      "toYears": "1999–1999",
+      "type": "member",
+      "label": "Jello Biafra",
+      "detail": "Jello Biafra 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    }
+  ]
+}

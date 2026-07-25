@@ -1,0 +1,147 @@
+{
+  "id": "slipknot",
+  "mbid": "a466c2a2-6517-42fb-a160-1087c3bafd9f",
+  "name": "Slipknot",
+  "area": "Des Moines",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1995–",
+  "genres": [
+    "Nu Metal",
+    "Alternative Metal",
+    "Metal"
+  ],
+  "albums": [
+    {
+      "title": "Slipknot",
+      "year": 1999
+    },
+    {
+      "title": "Iowa",
+      "year": 2001
+    },
+    {
+      "title": "Vol. 3: (The Subliminal Verses)",
+      "year": 2004
+    },
+    {
+      "title": "All Hope Is Gone",
+      "year": 2008
+    },
+    {
+      "title": ".5: The Gray Chapter",
+      "year": 2014
+    },
+    {
+      "title": "We Are Not Your Kind",
+      "year": 2019
+    }
+  ],
+  "intro": "活结乐队是来自美国爱荷华州狄蒙的重金属乐队。乐队成立于1995年。经过早期的几次成员变化，目前乐团的固定阵容为八名成员。创团贝斯手保罗·格雷于2010年逝世。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a466c2a2-6517-42fb-a160-1087c3bafd9f"
+  },
+  "edges": [
+    {
+      "to": "suicidal-tendencies",
+      "toName": "Suicidal Tendencies",
+      "toArea": "洛杉矶",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Jay Weinberg",
+      "detail": "Jay Weinberg 在这两支乐队都待过。",
+      "year": 2024,
+      "weight": 0.62
+    },
+    {
+      "to": "scar-the-martyr",
+      "toName": "Scar the Martyr",
+      "toArea": "美国",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Joey Jordison",
+      "detail": "Joey Jordison 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "kings-of-chaos",
+      "toName": "Kings of Chaos",
+      "toArea": "美国",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Corey Taylor",
+      "detail": "Corey Taylor 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "sound-city-players",
+      "toName": "Sound City Players",
+      "toArea": "美国",
+      "toYears": "2012–2013",
+      "type": "member",
+      "label": "Corey Taylor",
+      "detail": "Corey Taylor 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "look-outside-your-window",
+      "toName": "Look Outside Your Window",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "Birmingham",
+      "toYears": "1968–2025",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Slipknot 受 Black Sabbath 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "jane-s-addiction",
+      "toName": "Jane’s Addiction",
+      "toArea": "洛杉矶",
+      "toYears": "1986–2025",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Slipknot 受 Jane’s Addiction 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "primus",
+      "toName": "Primus",
+      "toArea": "El Sobrante",
+      "toYears": "1984–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Slipknot 受 Primus 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "rage-against-the-machine",
+      "toName": "Rage Against the Machine",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2024",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Slipknot 受 Rage Against the Machine 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

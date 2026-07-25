@@ -3,6 +3,8 @@
   "mbid": "92046be7-0927-4835-a4ed-a90416747d53",
   "name": "Cornershop",
   "area": "Leicester",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "1991–",
   "genres": [
     "Asian",
@@ -37,6 +39,7 @@
   ],
   "intro": "コーナーショップは、イングランドのレスターで結成されたロックバンド。インド系英国人であるティジンダー・シンを中心として1991年に結成。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/92046be7-0927-4835-a4ed-a90416747d53"
   },

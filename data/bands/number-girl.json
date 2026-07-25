@@ -3,6 +3,8 @@
   "mbid": "808fe413-ff00-4a68-99fe-0ab265a7e2be",
   "name": "NUMBER GIRL",
   "area": "福冈",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "1995–2002 / 2019–2022",
   "genres": [
     "Alternative Rock",
@@ -37,6 +39,7 @@
     "日常に生きる少女"
   ],
   "lore": "2002 年 11 月 30 日，札幌 PENNY LANE 24。演出中途宣布解散，此后十七年没有再合体。",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/808fe413-ff00-4a68-99fe-0ab265a7e2be"
   },

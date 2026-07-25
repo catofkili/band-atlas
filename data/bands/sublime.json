@@ -3,6 +3,8 @@
   "mbid": "95f5b748-d370-47fe-85bd-0af2dc450bc0",
   "name": "Sublime",
   "area": null,
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [
@@ -25,6 +27,7 @@
   ],
   "intro": "サブライムは、アメリカ合衆国のロックバンド。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/95f5b748-d370-47fe-85bd-0af2dc450bc0"
   },

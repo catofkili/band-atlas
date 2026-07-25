@@ -1,0 +1,72 @@
+{
+  "id": "toshi-with-t-earth",
+  "mbid": "b77165af-4249-4d8e-8f34-1ecf800a44b2",
+  "name": "TOSHI with T-EARTH",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2008–2010",
+  "genres": [],
+  "albums": [
+    {
+      "title": "遥かなる時をこえて",
+      "year": 2008
+    },
+    {
+      "title": "本当の愛",
+      "year": 2009
+    }
+  ],
+  "intro": "TOSHI with T-EARTHは、日本のロックバンド。2008年6月11日結成。コンセプトは“ECO HARD ROCK”。プロデューサーはMASAYA。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b77165af-4249-4d8e-8f34-1ecf800a44b2"
+  },
+  "edges": [
+    {
+      "to": "luna-sea",
+      "toName": "LUNA SEA",
+      "toArea": "神奈川",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "真矢",
+      "detail": "真矢 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Toshl",
+      "detail": "Toshl 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "yellow-fried-chickenz",
+      "toName": "YELLOW FRIED CHICKENz",
+      "toArea": "日本",
+      "toYears": "2010–2012",
+      "type": "member",
+      "label": "真矢",
+      "detail": "真矢 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "lunacy",
+      "toName": "Lunacy",
+      "toArea": "日本",
+      "toYears": "1986–1990",
+      "type": "member",
+      "label": "真矢",
+      "detail": "真矢 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    }
+  ]
+}

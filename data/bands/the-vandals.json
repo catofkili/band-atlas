@@ -3,6 +3,8 @@
   "mbid": "f54fc7c3-3a40-4f26-83cf-328d9b097e93",
   "name": "The Vandals",
   "area": "Huntington Beach",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1980–",
   "genres": [
     "Punk",
@@ -36,6 +38,7 @@
   ],
   "intro": "ザ・ヴァンダルズは、1980年にアメリカ合衆国カリフォルニア州ハンティントンビーチで結成されたパンク・ロック・バンド。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f54fc7c3-3a40-4f26-83cf-328d9b097e93"
   },
@@ -52,6 +55,17 @@
       "weight": 0.62
     },
     {
+      "to": "infectious-grooves",
+      "toName": "Infectious Grooves",
+      "toArea": "美国",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
       "to": "tenacious-d",
       "toName": "Tenacious D",
       "toArea": "洛杉矶",
@@ -60,6 +74,17 @@
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",
       "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "mass-mental",
+      "toName": "Mass Mental?",
+      "toArea": null,
+      "toYears": "1998–2002",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": null,
       "weight": 0.62
     },
     {
@@ -83,6 +108,17 @@
       "detail": "Warren Fitzgerald 在这两支乐队都待过。",
       "year": 1987,
       "weight": 0.62
+    },
+    {
+      "to": "blink-182",
+      "toName": "blink‐182",
+      "toArea": "Poway",
+      "toYears": "1992–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Vandals 影响了 blink‐182（Wikidata）。",
+      "year": null,
+      "weight": 0.46
     }
   ]
 }

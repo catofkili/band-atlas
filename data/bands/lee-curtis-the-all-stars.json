@@ -1,0 +1,77 @@
+{
+  "id": "lee-curtis-the-all-stars",
+  "mbid": "421c6d88-df82-4148-be27-c67e8fcdd14a",
+  "name": "Lee Curtis & The All Stars",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "It's Lee",
+      "year": 1964
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/421c6d88-df82-4148-be27-c67e8fcdd14a"
+  },
+  "edges": [
+    {
+      "to": "the-pete-best-combo",
+      "toName": "The Pete Best Combo",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Pete Best・Wayne Bickerton・Tony Waddington",
+      "detail": "3 位乐手在这两支乐队都待过：Pete Best・Wayne Bickerton・Tony Waddington。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "the-pete-best-four",
+      "toName": "The Pete Best Four",
+      "toArea": "英国",
+      "toYears": "1963–1964",
+      "type": "member",
+      "label": "Pete Best・Wayne Bickerton・Tony Waddington",
+      "detail": "3 位乐手在这两支乐队都待过：Pete Best・Wayne Bickerton・Tony Waddington。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": 1960,
+      "weight": 0.62
+    },
+    {
+      "to": "the-beat-brothers",
+      "toName": "The Beat Brothers",
+      "toArea": "Hamburg",
+      "toYears": "1961–",
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pete-best-band",
+      "toName": "The Pete Best Band",
+      "toArea": "利物浦",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    }
+  ]
+}

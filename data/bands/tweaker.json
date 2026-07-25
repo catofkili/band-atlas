@@ -1,0 +1,67 @@
+{
+  "id": "tweaker",
+  "mbid": "bbcf65ec-b49a-4612-a767-c1062fba84f8",
+  "name": "Tweaker",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [
+    "Industrial Rock"
+  ],
+  "albums": [
+    {
+      "title": "The Attraction to All Things Uncertain",
+      "year": 2001
+    },
+    {
+      "title": "2 A.M. Wakeup Call",
+      "year": 2004
+    },
+    {
+      "title": "Call the Time Eternity",
+      "year": 2012
+    }
+  ],
+  "intro": "Tweaker is an American band founded by Chris Vrenna in the late 1990s.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bbcf65ec-b49a-4612-a767-c1062fba84f8"
+  },
+  "edges": [
+    {
+      "to": "scream",
+      "toName": "Scream",
+      "toArea": "Virginia",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Clint Walsh",
+      "detail": "Clint Walsh 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "dot-hacker",
+      "toName": "Dot Hacker",
+      "toArea": "洛杉矶",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Clint Walsh",
+      "detail": "Clint Walsh 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "jack-off-jill",
+      "toName": "Jack Off Jill",
+      "toArea": "Fort Lauderdale",
+      "toYears": "1992–2000",
+      "type": "member",
+      "label": "Clint Walsh",
+      "detail": "Clint Walsh 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

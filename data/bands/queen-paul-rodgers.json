@@ -1,0 +1,90 @@
+{
+  "id": "queen-paul-rodgers",
+  "mbid": "9dcffd99-eca6-4a09-8dbd-c6c4ed2f20fd",
+  "name": "Queen + Paul Rodgers",
+  "area": null,
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "The Cosmos Rocks",
+      "year": 2008
+    }
+  ],
+  "intro": "クイーン+ポール・ロジャースは、クイーンのブライアン・メイとロジャー・テイラー、元バッド・カンパニーのポール・ロジャースが結成したイギリスのロックバンド。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9dcffd99-eca6-4a09-8dbd-c6c4ed2f20fd"
+  },
+  "edges": [
+    {
+      "to": "queen",
+      "toName": "Queen",
+      "toArea": "伦敦",
+      "toYears": "1970–",
+      "type": "member",
+      "label": "Roger Taylor・副项目",
+      "detail": "2 位乐手在这两支乐队都待过：Roger Taylor・副项目。",
+      "year": 1970,
+      "weight": 0.84
+    },
+    {
+      "to": "the-cross",
+      "toName": "The Cross",
+      "toArea": "英格兰",
+      "toYears": "1987–1993",
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "band-aid-30",
+      "toName": "Band Aid 30",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "hale-pace-and-the-stonkers",
+      "toName": "Hale & Pace and the Stonkers",
+      "toArea": "英国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "queen-adam-lambert",
+      "toName": "Queen + Adam Lambert",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "smile",
+      "toName": "Smile",
+      "toArea": "英国",
+      "toYears": "1968–1970",
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    }
+  ]
+}

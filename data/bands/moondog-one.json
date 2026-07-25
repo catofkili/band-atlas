@@ -3,13 +3,27 @@
   "mbid": "28727722-a59b-4819-829f-3d6d1c73c16e",
   "name": "Moondog One",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/28727722-a59b-4819-829f-3d6d1c73c16e"
   },
   "edges": [
+    {
+      "to": "the-smiths",
+      "toName": "The Smiths",
+      "toArea": "曼彻斯特",
+      "toYears": "1982–1987",
+      "type": "member",
+      "label": "Mike Joyce・Andy Rourke",
+      "detail": "2 位乐手在这两支乐队都待过：Mike Joyce・Andy Rourke。",
+      "year": 1982,
+      "weight": 0.84
+    },
     {
       "to": "oasis",
       "toName": "Oasis",
@@ -19,6 +33,17 @@
       "label": "Paul Arthurs",
       "detail": "Paul Arthurs 在这两支乐队都待过。",
       "year": 2025,
+      "weight": 0.62
+    },
+    {
+      "to": "public-image-ltd",
+      "toName": "Public Image Ltd",
+      "toArea": "伦敦",
+      "toYears": "1978–",
+      "type": "member",
+      "label": "Mike Joyce",
+      "detail": "Mike Joyce 在这两支乐队都待过。",
+      "year": 1992,
       "weight": 0.62
     },
     {

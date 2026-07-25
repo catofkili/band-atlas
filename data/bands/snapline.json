@@ -1,0 +1,60 @@
+{
+  "id": "snapline",
+  "mbid": "6084f926-d798-4468-9e2c-ba64a4b7bfbc",
+  "name": "Snapline",
+  "area": "北京",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "2005–",
+  "genres": [
+    "Beijing"
+  ],
+  "albums": [
+    {
+      "title": "Party Is Over, Pornostar",
+      "year": 2007
+    },
+    {
+      "title": "Future Eyes",
+      "year": 2010
+    },
+    {
+      "title": "Phenomena",
+      "year": 2012
+    },
+    {
+      "title": "Shou Hua",
+      "year": 2018
+    }
+  ],
+  "intro": "Snapline is a band based in Beijing, consisting of Li Qing on guitar and keyboards and Li Weisi on bass, who met while students at the Beijing Institute of Technology.",
+  "introLang": "en",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6084f926-d798-4468-9e2c-ba64a4b7bfbc"
+  },
+  "edges": [
+    {
+      "to": "carsick-cars",
+      "toName": "Carsick Cars",
+      "toArea": "北京",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "李青・李维思",
+      "detail": "2 位乐手在这两支乐队都待过：李青・李维思。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "大鬼众",
+      "toName": "大鬼众",
+      "toArea": "中国",
+      "toYears": "2021–",
+      "type": "member",
+      "label": "李青・李维思",
+      "detail": "2 位乐手在这两支乐队都待过：李青・李维思。",
+      "year": null,
+      "weight": 0.84
+    }
+  ]
+}

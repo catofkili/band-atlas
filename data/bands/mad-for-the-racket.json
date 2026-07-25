@@ -3,6 +3,8 @@
   "mbid": "477490d6-3e98-41b2-9c24-b465e8ee74dc",
   "name": "Mad for the Racket",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2000
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/477490d6-3e98-41b2-9c24-b465e8ee74dc"
   },
@@ -36,6 +39,17 @@
       "detail": "2 位乐手在这两支乐队都待过：Wayne Kramer・Clem Burke。",
       "year": null,
       "weight": 0.84
+    },
+    {
+      "to": "gizmodrome",
+      "toName": "Gizmodrome",
+      "toArea": "Milano",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "Stewart Copeland",
+      "detail": "Stewart Copeland 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
     },
     {
       "to": "mc50",

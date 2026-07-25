@@ -1,0 +1,46 @@
+{
+  "id": "zee",
+  "mbid": "0aa04a77-c86a-4d0e-b882-9876a58c01a3",
+  "name": "Zee",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Identity",
+      "year": 1984
+    }
+  ],
+  "intro": "ZEEは、1983年にリチャード・ライトとデイヴ・ハリスによって結成されたイギリスのバンドである。1984年、グループは彼らの最初にして唯一のアルバム『アイデンティティー』をレコーディングした。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0aa04a77-c86a-4d0e-b882-9876a58c01a3"
+  },
+  "edges": [
+    {
+      "to": "pink-floyd",
+      "toName": "Pink Floyd",
+      "toArea": "伦敦",
+      "toYears": "1965–2014",
+      "type": "member",
+      "label": "Richard Wright",
+      "detail": "Richard Wright 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    },
+    {
+      "to": "architectural-abdabs",
+      "toName": "Architectural Abdabs",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Richard Wright",
+      "detail": "Richard Wright 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

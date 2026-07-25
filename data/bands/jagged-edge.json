@@ -1,0 +1,55 @@
+{
+  "id": "jagged-edge",
+  "mbid": "8b4d99eb-7a54-4648-b299-8e1564d11385",
+  "name": "Jagged Edge",
+  "area": null,
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "A Jagged Era",
+      "year": 1998
+    },
+    {
+      "title": "J.E. Heartbreak",
+      "year": 1999
+    },
+    {
+      "title": "Jagged Little Thrill",
+      "year": 2001
+    },
+    {
+      "title": "Hard",
+      "year": 2003
+    },
+    {
+      "title": "Jagged Edge",
+      "year": 2006
+    },
+    {
+      "title": "Jagged Edge",
+      "year": 2006
+    }
+  ],
+  "intro": "锯齿边缘是美国节奏布鲁斯组合，发迹于1995年。 两名主唱布赖恩·凯西、布兰登·凯西是双胞胎兄弟，另外两名成员为凯尔·诺曼、理查德·温戈。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8b4d99eb-7a54-4648-b299-8e1564d11385"
+  },
+  "edges": [
+    {
+      "to": "artists-against-aids-worldwide",
+      "toName": "Artists Against AIDS Worldwide",
+      "toArea": "纽约",
+      "toYears": "2001–2001",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

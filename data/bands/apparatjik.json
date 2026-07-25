@@ -1,0 +1,43 @@
+{
+  "id": "apparatjik",
+  "mbid": "08f3baa2-9962-4fa7-a8c7-95d64d75d348",
+  "name": "Apparatjik",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "2008–",
+  "genres": [
+    "Alternative Rock",
+    "Dream Pop",
+    "Indie Rock"
+  ],
+  "albums": [
+    {
+      "title": "We Are Here",
+      "year": 2010
+    },
+    {
+      "title": "Square Peg in a Round Hole",
+      "year": 2012
+    }
+  ],
+  "intro": "Apparatjik ( ap-ə-RAT-chik) are a multi-national band formed in 2008.",
+  "introLang": "en",
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/08f3baa2-9962-4fa7-a8c7-95d64d75d348"
+  },
+  "edges": [
+    {
+      "to": "coldplay",
+      "toName": "Coldplay",
+      "toArea": "伦敦",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Guy Berryman",
+      "detail": "Guy Berryman 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    }
+  ]
+}

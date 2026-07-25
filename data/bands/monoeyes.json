@@ -3,6 +3,8 @@
   "mbid": "3afff27f-0341-425c-b70c-2a6f4d697b58",
   "name": "MONOEYES",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2015–",
   "genres": [],
   "albums": [
@@ -25,6 +27,7 @@
   ],
   "intro": "MONOEYESは、日本のロックバンド。レーベルはユニバーサルミュージック内のEMI Records。",
   "introLang": "ja",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3afff27f-0341-425c-b70c-2a6f4d697b58"
   },

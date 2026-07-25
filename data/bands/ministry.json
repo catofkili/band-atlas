@@ -1,0 +1,213 @@
+{
+  "id": "ministry",
+  "mbid": "13df2a46-f72f-40e7-aa63-26fcf62c7048",
+  "name": "Ministry",
+  "area": "芝加哥",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1981–",
+  "genres": [
+    "Industrial Metal",
+    "Industrial Rock",
+    "Industrial"
+  ],
+  "albums": [
+    {
+      "title": "With Sympathy",
+      "year": 1983
+    },
+    {
+      "title": "Twitch",
+      "year": 1986
+    },
+    {
+      "title": "The Land of Rape and Honey",
+      "year": 1988
+    },
+    {
+      "title": "The Mind Is a Terrible Thing to Taste",
+      "year": 1989
+    },
+    {
+      "title": "ΚΕΦΑΛΗΞΘ",
+      "year": 1992
+    },
+    {
+      "title": "Filth Pig",
+      "year": 1996
+    }
+  ],
+  "intro": "ミニストリー (Ministry) は、アメリカ合衆国のインダストリアル・メタルバンド。シカゴで結成したスペシャル・アフェクトを元に誕生。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/13df2a46-f72f-40e7-aa63-26fcf62c7048"
+  },
+  "edges": [
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Jeff Ward・Michael Balch・Paul Barker・Paul Raven・Louis Svitek・William Tucker",
+      "detail": "6 位乐手在这两支乐队都待过：Jeff Ward・Michael Balch・Paul Barker・Paul Raven・Louis Svitek・William Tucker。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "revolting-cocks",
+      "toName": "Revolting Cocks",
+      "toArea": "芝加哥",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Jeff Ward・Paul Barker・William Tucker・Al Jourgensen・Sin Quirin・Mike Scaccia",
+      "detail": "6 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・William Tucker・Al Jourgensen・Sin Quirin・Mike Scaccia。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "lard",
+      "toName": "Lard",
+      "toArea": "芝加哥",
+      "toYears": "1988–2000",
+      "type": "member",
+      "label": "Jeff Ward・Paul Barker・Al Jourgensen・Rey Washam",
+      "detail": "4 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Al Jourgensen・Rey Washam。",
+      "year": 1988,
+      "weight": 0.95
+    },
+    {
+      "to": "mind-funk",
+      "toName": "Mind Funk",
+      "toArea": "Orange County",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Louis Svitek・John Monte",
+      "detail": "2 位乐手在这两支乐队都待过：Louis Svitek・John Monte。",
+      "year": 1992,
+      "weight": 0.84
+    },
+    {
+      "to": "murder-inc",
+      "toName": "Murder Inc.",
+      "toArea": "英国",
+      "toYears": "1991–1992",
+      "type": "member",
+      "label": "Paul Raven・John Bechdel",
+      "detail": "2 位乐手在这两支乐队都待过：Paul Raven・John Bechdel。",
+      "year": 2006,
+      "weight": 0.84
+    },
+    {
+      "to": "1000-homo-djs",
+      "toName": "1000 Homo DJs",
+      "toArea": "芝加哥",
+      "toYears": "1988–1990",
+      "type": "member",
+      "label": "Paul Barker・Al Jourgensen",
+      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
+      "year": 1986,
+      "weight": 0.84
+    },
+    {
+      "to": "pailhead",
+      "toName": "Pailhead",
+      "toArea": "美国",
+      "toYears": "1988–1988",
+      "type": "member",
+      "label": "Paul Barker・Al Jourgensen",
+      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
+      "year": 1986,
+      "weight": 0.84
+    },
+    {
+      "to": "godflesh",
+      "toName": "Godflesh",
+      "toArea": "Birmingham",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Paul Raven",
+      "detail": "Paul Raven 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "killing-joke",
+      "toName": "Killing Joke",
+      "toArea": "伦敦",
+      "toYears": "1979–",
+      "type": "member",
+      "label": "Paul Raven",
+      "detail": "Paul Raven 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "low-pop-suicide",
+      "toName": "Low Pop Suicide",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "zilch",
+      "toName": "Zilch",
+      "toArea": "美国",
+      "toYears": "1998–2002",
+      "type": "member",
+      "label": "Paul Raven",
+      "detail": "Paul Raven 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "gut-bank",
+      "toName": "Gut Bank",
+      "toArea": "Hoboken",
+      "toYears": "1984–",
+      "type": "member",
+      "label": "Tia Sprocket",
+      "detail": "Tia Sprocket 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "tapeworm",
+      "toName": "Tapeworm",
+      "toArea": "美国",
+      "toYears": "1996–2004",
+      "type": "member",
+      "label": "Tommy Victor",
+      "detail": "Tommy Victor 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Ministry 影响了 Nine Inch Nails（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

@@ -1,0 +1,95 @@
+{
+  "id": "daft-punk",
+  "mbid": "056e4f3e-d505-4dad-8ec1-d04f521cbb56",
+  "name": "Daft Punk",
+  "area": "Paris",
+  "countryCode": "FR",
+  "country": "法国",
+  "years": "1993–2021",
+  "genres": [
+    "Electronic",
+    "House",
+    "French House"
+  ],
+  "albums": [
+    {
+      "title": "Homework",
+      "year": 1997
+    },
+    {
+      "title": "Discovery",
+      "year": 2001
+    },
+    {
+      "title": "Human After All",
+      "year": 2005
+    },
+    {
+      "title": "Random Access Memories",
+      "year": 2013
+    }
+  ],
+  "intro": "蠢朋克是创立于法国巴黎的电子音乐团队，由托马斯·本高特和盖-马努尔·德奥梅姆-克里斯托两位DJ于1992年组成。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/056e4f3e-d505-4dad-8ec1-d04f521cbb56"
+  },
+  "edges": [
+    {
+      "to": "darlin",
+      "toName": "Darlin’",
+      "toArea": "Versailles",
+      "toYears": "1992–1993",
+      "type": "member",
+      "label": "Thomas Bangalter・Guy‐Manuel de Homem‐Christo",
+      "detail": "2 位乐手在这两支乐队都待过：Thomas Bangalter・Guy‐Manuel de Homem‐Christo。",
+      "year": 1993,
+      "weight": 0.84
+    },
+    {
+      "to": "crydajam",
+      "toName": "Crydajam",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Guy‐Manuel de Homem‐Christo",
+      "detail": "Guy‐Manuel de Homem‐Christo 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "da-mongoloids",
+      "toName": "Da Mongoloids",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Thomas Bangalter",
+      "detail": "Thomas Bangalter 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "le-knight-club",
+      "toName": "Le Knight Club",
+      "toArea": "Paris",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Guy‐Manuel de Homem‐Christo",
+      "detail": "Guy‐Manuel de Homem‐Christo 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "together",
+      "toName": "Together",
+      "toArea": "Paris",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Thomas Bangalter",
+      "detail": "Thomas Bangalter 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    }
+  ]
+}

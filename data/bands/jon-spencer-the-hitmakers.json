@@ -3,6 +3,8 @@
   "mbid": "a9bc1e6d-3a17-4838-b608-61a9d2bfcf07",
   "name": "Jon Spencer & the HITmakers",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2022
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a9bc1e6d-3a17-4838-b608-61a9d2bfcf07"
   },

@@ -3,6 +3,8 @@
   "mbid": "ec4ed3f8-f36b-4042-bc74-04e31f6e150e",
   "name": "The Birthday",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2005–2023",
   "genres": [
     "Rock"
@@ -35,6 +37,7 @@
   ],
   "intro": "The Birthday是日本摇滚乐队，2006年结成。为日本环球音乐旗下艺人。",
   "introLang": "zh",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ec4ed3f8-f36b-4042-bc74-04e31f6e150e"
   },
@@ -70,6 +73,17 @@
       "label": "チバユウスケ",
       "detail": "チバユウスケ 在这两支乐队都待过。",
       "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "ft2k-s",
+      "toName": "FT2K'S",
+      "toArea": "日本",
+      "toYears": "2002–2002",
+      "type": "member",
+      "label": "藤井謙二",
+      "detail": "藤井謙二 在这两支乐队都待过。",
+      "year": 2011,
       "weight": 0.62
     },
     {

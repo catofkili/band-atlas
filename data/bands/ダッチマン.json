@@ -1,0 +1,35 @@
+{
+  "id": "ダッチマン",
+  "mbid": "ff976f7c-8e1b-4cde-a047-67c0f07bded5",
+  "name": "ダッチマン",
+  "area": "札幌",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1998–2005",
+  "genres": [],
+  "albums": [
+    {
+      "title": "demonstration",
+      "year": 2002
+    }
+  ],
+  "intro": "ダッチマン(Dutchman)は、北海道札幌市を拠点に活動していた日本のバンド。ビクターの育成部門に所属し、インディーズで活動していた。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ff976f7c-8e1b-4cde-a047-67c0f07bded5"
+  },
+  "edges": [
+    {
+      "to": "サカナクション",
+      "toName": "サカナクション",
+      "toArea": "札幌",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "岩寺基晴・山口一郎",
+      "detail": "2 位乐手在这两支乐队都待过：岩寺基晴・山口一郎。",
+      "year": null,
+      "weight": 0.84
+    }
+  ]
+}

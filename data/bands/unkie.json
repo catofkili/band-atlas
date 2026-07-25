@@ -3,6 +3,8 @@
   "mbid": "78bde584-ab87-4587-8840-35589461c783",
   "name": "unkie",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2006–",
   "genres": [],
   "albums": [
@@ -25,6 +27,7 @@
   ],
   "intro": "unkieは、日本のスリーピースインディーズ・ロックバンド。2006年結成。",
   "introLang": "ja",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/78bde584-ab87-4587-8840-35589461c783"
   },
@@ -48,6 +51,17 @@
       "type": "member",
       "label": "青木裕",
       "detail": "青木裕 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "ace-of-spades",
+      "toName": "ACE OF SPADES",
+      "toArea": "东京",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "TOKIE",
+      "detail": "TOKIE 在这两支乐队都待过。",
       "year": 2006,
       "weight": 0.62
     }

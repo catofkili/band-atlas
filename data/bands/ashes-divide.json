@@ -3,6 +3,8 @@
   "mbid": "7acc6c97-2654-4ffa-945f-daeabaa8e5ae",
   "name": "Ashes Divide",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2007–",
   "genres": [
     "Alternative Rock",
@@ -17,6 +19,7 @@
   ],
   "intro": "William L.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7acc6c97-2654-4ffa-945f-daeabaa8e5ae"
   },
@@ -30,6 +33,17 @@
       "label": "Jonathan Radtke",
       "detail": "Jonathan Radtke 在这两支乐队都待过。",
       "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "marilyn-manson",
+      "toName": "Marilyn Manson",
+      "toArea": "Fort Lauderdale",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Andy Gerold",
+      "detail": "Andy Gerold 在这两支乐队都待过。",
+      "year": 2009,
       "weight": 0.62
     },
     {

@@ -1,0 +1,80 @@
+{
+  "id": "bank-band",
+  "mbid": "9f88c846-7248-4fac-be8a-5d728bb95cd8",
+  "name": "Bank Band",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2004–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "沿志奏逢",
+      "year": 2004
+    },
+    {
+      "title": "沿志奏逢２",
+      "year": 2008
+    },
+    {
+      "title": "沿志奏逢３",
+      "year": 2010
+    },
+    {
+      "title": "沿志奏逢 4",
+      "year": 2021
+    }
+  ],
+  "intro": "Bank Bandは、日本のバンド。2004年に結成。所属レコード会社はトイズファクトリー。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9f88c846-7248-4fac-be8a-5d728bb95cd8"
+  },
+  "edges": [
+    {
+      "to": "reborn-art-session",
+      "toName": "Reborn‐Art Session",
+      "toArea": "东京",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "桜井和寿・小林武史",
+      "detail": "2 位乐手在这两支乐队都待过：桜井和寿・小林武史。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "mr-children",
+      "toName": "Mr.Children",
+      "toArea": "Shibuya",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "possession-80-2-por-cento",
+      "toName": "POSSESSION=80.2 POR CENTO",
+      "toArea": null,
+      "toYears": "2014–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ウカスカジー",
+      "toName": "ウカスカジー",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9",
   "name": "Heart",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1973–",
   "genres": [
     "Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "红心乐团是于1970年在美国西雅图组成的摇滚乐团，有着硬摇滚和重金属乐及民间音乐影响。此乐团虽历经不少组员改变， 但两姐妹安·威尔森和南希·威尔森始终是此乐团的重要成员。",
   "introLang": "zh",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9"
   },

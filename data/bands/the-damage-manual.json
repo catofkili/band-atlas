@@ -1,0 +1,83 @@
+{
+  "id": "the-damage-manual",
+  "mbid": "0ba96c43-c23c-40c7-88e7-b1afe7956cc9",
+  "name": "The Damage Manual",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "2000–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "The Damage Manual",
+      "year": 2000
+    },
+    {
+      "title": "Limited Edition",
+      "year": 2005
+    }
+  ],
+  "intro": "The Damage Manual were an English industrial supergroup formed in London in 2000.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0ba96c43-c23c-40c7-88e7-b1afe7956cc9"
+  },
+  "edges": [
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Steven Seibold・Geordie Walker",
+      "detail": "2 位乐手在这两支乐队都待过：Steven Seibold・Geordie Walker。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "killing-joke",
+      "toName": "Killing Joke",
+      "toArea": "伦敦",
+      "toYears": "1979–",
+      "type": "member",
+      "label": "Geordie Walker",
+      "detail": "Geordie Walker 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "public-image-ltd",
+      "toName": "Public Image Ltd",
+      "toArea": "伦敦",
+      "toYears": "1978–",
+      "type": "member",
+      "label": "Jah Wobble",
+      "detail": "Jah Wobble 在这两支乐队都待过。",
+      "year": 1978,
+      "weight": 0.62
+    },
+    {
+      "to": "divination",
+      "toName": "Divination",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Jah Wobble",
+      "detail": "Jah Wobble 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "murder-inc",
+      "toName": "Murder Inc.",
+      "toArea": "英国",
+      "toYears": "1991–1992",
+      "type": "member",
+      "label": "Geordie Walker",
+      "detail": "Geordie Walker 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

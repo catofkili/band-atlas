@@ -1,0 +1,72 @@
+{
+  "id": "festus-clamrod-and-the-el-sobrante-twangers",
+  "mbid": "853fc886-896e-4609-ac8c-148f0c78568f",
+  "name": "Festus Clamrod and the El Sobrante Twangers",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/853fc886-896e-4609-ac8c-148f0c78568f"
+  },
+  "edges": [
+    {
+      "to": "primus",
+      "toName": "Primus",
+      "toArea": "El Sobrante",
+      "toYears": "1984–",
+      "type": "member",
+      "label": "Les Claypool・Larry LaLonde",
+      "detail": "2 位乐手在这两支乐队都待过：Les Claypool・Larry LaLonde。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "les-claypool-and-the-holy-mackerel",
+      "toName": "Les Claypool and the Holy Mackerel",
+      "toArea": "Berkeley",
+      "toYears": "1996–1996",
+      "type": "member",
+      "label": "Les Claypool・Mark \"Mirv\" Haggard",
+      "detail": "2 位乐手在这两支乐队都待过：Les Claypool・Mark \"Mirv\" Haggard。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "limbomaniacs",
+      "toName": "Limbomaniacs",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Mark \"Mirv\" Haggard",
+      "detail": "Mark \"Mirv\" Haggard 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "no-forcefield",
+      "toName": "No Forcefield",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Larry LaLonde",
+      "detail": "Larry LaLonde 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "colonel-claypool-s-bucket-of-bernie-brains",
+      "toName": "Colonel Claypool’s Bucket of Bernie Brains",
+      "toArea": "美国",
+      "toYears": "2002–2004",
+      "type": "member",
+      "label": "Les Claypool",
+      "detail": "Les Claypool 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

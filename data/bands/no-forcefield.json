@@ -1,0 +1,92 @@
+{
+  "id": "no-forcefield",
+  "mbid": "4a4df54a-5878-455f-abdb-2919a0cf650a",
+  "name": "No Forcefield",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "God Is an Excuse",
+      "year": 2000
+    },
+    {
+      "title": "Lee's Oriental Massage 415-626-1837",
+      "year": 2000
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4a4df54a-5878-455f-abdb-2919a0cf650a"
+  },
+  "edges": [
+    {
+      "to": "primus",
+      "toName": "Primus",
+      "toArea": "El Sobrante",
+      "toYears": "1984–",
+      "type": "member",
+      "label": "DJ Disk・Larry LaLonde",
+      "detail": "2 位乐手在这两支乐队都待过：DJ Disk・Larry LaLonde。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "el-stew",
+      "toName": "El Stew",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "cobra-strike",
+      "toName": "Cobra Strike",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "peeping-tom",
+      "toName": "Peeping Tom",
+      "toArea": "美国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "buckethead-and-his-bucket-bots",
+      "toName": "Buckethead And His Bucket-Bots",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "festus-clamrod-and-the-el-sobrante-twangers",
+      "toName": "Festus Clamrod and the El Sobrante Twangers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Larry LaLonde",
+      "detail": "Larry LaLonde 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

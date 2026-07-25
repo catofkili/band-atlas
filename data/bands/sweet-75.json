@@ -3,6 +3,8 @@
   "mbid": "0882763d-d200-4422-b962-6023a5c0fc54",
   "name": "Sweet 75",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1995–2000",
   "genres": [],
   "albums": [
@@ -13,65 +15,11 @@
   ],
   "intro": "スウィート75は、ニルヴァーナの解散後、1995年にクリス・ノヴォセリックとイヴァ・ラス・ヴェガスによって結成されたバンド。2000年に解散する前に、1枚のセルフタイトル・アルバムをリリースした。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0882763d-d200-4422-b962-6023a5c0fc54"
   },
   "edges": [
-    {
-      "to": "pigface",
-      "toName": "Pigface",
-      "toArea": "芝加哥",
-      "toYears": "1990–",
-      "type": "member",
-      "label": "Bill Rieflin",
-      "detail": "Bill Rieflin 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62
-    },
-    {
-      "to": "swans",
-      "toName": "Swans",
-      "toArea": "纽约",
-      "toYears": "1982–",
-      "type": "member",
-      "label": "Bill Rieflin",
-      "detail": "Bill Rieflin 在这两支乐队都待过。",
-      "year": 1993,
-      "weight": 0.62
-    },
-    {
-      "to": "the-bells",
-      "toName": "The Bells",
-      "toArea": "美国",
-      "toYears": null,
-      "type": "member",
-      "label": "Bill Rieflin",
-      "detail": "Bill Rieflin 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62
-    },
-    {
-      "to": "filthy-friends",
-      "toName": "Filthy Friends",
-      "toArea": "波特兰",
-      "toYears": null,
-      "type": "member",
-      "label": "Bill Rieflin",
-      "detail": "Bill Rieflin 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62
-    },
-    {
-      "to": "pailhead",
-      "toName": "Pailhead",
-      "toArea": "美国",
-      "toYears": "1988–1988",
-      "type": "member",
-      "label": "Bill Rieflin",
-      "detail": "Bill Rieflin 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62
-    },
     {
       "to": "the-no-w-t-o-combo",
       "toName": "The No W.T.O. Combo",

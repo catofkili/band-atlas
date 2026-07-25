@@ -3,6 +3,8 @@
   "mbid": "371d6599-6292-4f3f-94d2-5b2fd19b089c",
   "name": "SUPERCAR",
   "area": "青森",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "1995–2005",
   "genres": [
     "Shoegaze",
@@ -40,6 +42,7 @@
     "Storywriter",
     "White Surf style 5."
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/371d6599-6292-4f3f-94d2-5b2fd19b089c"
   },

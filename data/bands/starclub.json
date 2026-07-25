@@ -3,6 +3,8 @@
   "mbid": "33ee7545-047b-4694-a5be-741ea50b8b73",
   "name": "Starclub",
   "area": "Maidstone",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "1991–1994",
   "genres": [],
   "albums": [
@@ -13,6 +15,7 @@
   ],
   "intro": "Starclub was an early 1990s rock band from England, consisting of Owen Vyse (lead vocals, guitar, Hammond organ, keyboards), Steve French (guitar, backing vocals), Julian Taylor (bass, backing vocals) and Alan White (drums, percussion).",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/33ee7545-047b-4694-a5be-741ea50b8b73"
   },

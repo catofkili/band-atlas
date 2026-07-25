@@ -3,6 +3,8 @@
   "mbid": "3d2cd44b-9e77-4249-9d37-d8028e756693",
   "name": "ZAZEN BOYS",
   "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2003–",
   "genres": [
     "Math Rock",
@@ -41,6 +43,7 @@
     "Fender Telecaster"
   ],
   "lore": "向井秀徳把自己的录音室命名为 MATSURI STUDIO，多年来一手包办乐队的录音与混音。",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3d2cd44b-9e77-4249-9d37-d8028e756693"
   },

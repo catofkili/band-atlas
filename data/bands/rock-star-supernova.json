@@ -1,0 +1,35 @@
+{
+  "id": "rock-star-supernova",
+  "mbid": "dda55cb5-21b1-4450-bb21-d5b0ad35b6a2",
+  "name": "Rock Star Supernova",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Rock Star Supernova",
+      "year": 2006
+    }
+  ],
+  "intro": "Rock Star Supernova was a reality television-formed supergroup consisting of drummer Tommy Lee, bassist Jason Newsted, guitarist Gilby Clarke, and singer Lukas Rossi.",
+  "introLang": "en",
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/dda55cb5-21b1-4450-bb21-d5b0ad35b6a2"
+  },
+  "edges": [
+    {
+      "to": "methods-of-mayhem",
+      "toName": "Methods of Mayhem",
+      "toArea": "美国",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Tommy Lee",
+      "detail": "Tommy Lee 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

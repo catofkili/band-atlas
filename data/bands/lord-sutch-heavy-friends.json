@@ -1,0 +1,156 @@
+{
+  "id": "lord-sutch-heavy-friends",
+  "mbid": "05b1427d-e344-4932-ae42-8a3f096c2119",
+  "name": "Lord Sutch & Heavy Friends",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [
+    "Psychedelic Rock"
+  ],
+  "albums": [
+    {
+      "title": "Lord Sutch and Heavy Friends",
+      "year": 1970
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/05b1427d-e344-4932-ae42-8a3f096c2119"
+  },
+  "edges": [
+    {
+      "to": "cyril-davies-his-rhythm-blues-all-stars",
+      "toName": "Cyril Davies & His Rhythm & Blues All Stars",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Richard Brown・Nicky Hopkins",
+      "detail": "2 位乐手在这两支乐队都待过：Richard Brown・Nicky Hopkins。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "led-zeppelin",
+      "toName": "Led Zeppelin",
+      "toArea": "伦敦",
+      "toYears": "1968–1980",
+      "type": "member",
+      "label": "John Bonham",
+      "detail": "John Bonham 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    },
+    {
+      "to": "plastic-ono-band",
+      "toName": "Plastic Ono Band",
+      "toArea": "伦敦",
+      "toYears": "1969–2015",
+      "type": "member",
+      "label": "Keith Moon",
+      "detail": "Keith Moon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-who",
+      "toName": "The Who",
+      "toArea": "伦敦",
+      "toYears": "1964–",
+      "type": "member",
+      "label": "Keith Moon",
+      "detail": "Keith Moon 在这两支乐队都待过。",
+      "year": 1964,
+      "weight": 0.62
+    },
+    {
+      "to": "the-yardbirds",
+      "toName": "The Yardbirds",
+      "toArea": "伦敦",
+      "toYears": "1963–",
+      "type": "member",
+      "label": "Jeff Beck",
+      "detail": "Jeff Beck 在这两支乐队都待过。",
+      "year": 1965,
+      "weight": 0.62
+    },
+    {
+      "to": "band-of-joy",
+      "toName": "Band of Joy",
+      "toArea": "Birmingham",
+      "toYears": "1967–1968",
+      "type": "member",
+      "label": "John Bonham",
+      "detail": "John Bonham 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "gerry-levene-the-avengers",
+      "toName": "Gerry Levene & the Avengers",
+      "toArea": "Birmingham",
+      "toYears": "1959–1964",
+      "type": "member",
+      "label": "John Bonham",
+      "detail": "John Bonham 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Jeff Beck",
+      "detail": "Jeff Beck 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "rockestra",
+      "toName": "Rockestra",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Bonham",
+      "detail": "John Bonham 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-honeydrippers",
+      "toName": "The Honeydrippers",
+      "toArea": "Worcestershire",
+      "toYears": "1981–1985",
+      "type": "member",
+      "label": "Jeff Beck",
+      "detail": "Jeff Beck 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "the-nicky-james-movement",
+      "toName": "The Nicky James Movement",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Bonham",
+      "detail": "John Bonham 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-senators",
+      "toName": "The Senators",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "John Bonham",
+      "detail": "John Bonham 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

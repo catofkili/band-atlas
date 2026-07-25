@@ -1,0 +1,106 @@
+{
+  "id": "amboog-a-lard",
+  "mbid": "f2b32ea0-8983-4b30-b706-5840ad083350",
+  "name": "Amboog-a-Lard",
+  "area": "Coral Springs",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1987–1997",
+  "genres": [
+    "Avant-Garde Progressive Metal",
+    "Thrash Metal"
+  ],
+  "albums": [
+    {
+      "title": "Pro Demo",
+      "year": 1991
+    },
+    {
+      "title": "A New Hope",
+      "year": 1993
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f2b32ea0-8983-4b30-b706-5840ad083350"
+  },
+  "edges": [
+    {
+      "to": "marilyn-manson",
+      "toName": "Marilyn Manson",
+      "toArea": "Fort Lauderdale",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "a-perfect-circle",
+      "toName": "A Perfect Circle",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "desert-sessions",
+      "toName": "Desert Sessions",
+      "toArea": "Palm Desert",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "goon-moon",
+      "toName": "Goon Moon",
+      "toArea": "美国",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "mrs-scabtree",
+      "toName": "Mrs. Scabtree",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "satan-on-fire",
+      "toName": "Satan on Fire",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    }
+  ]
+}

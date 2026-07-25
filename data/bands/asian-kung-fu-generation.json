@@ -3,6 +3,8 @@
   "mbid": "14e410f5-97f2-48ba-b1f7-a3a44cbea05c",
   "name": "ASIAN KUNG-FU GENERATION",
   "area": "横滨",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "1996–",
   "genres": [
     "Alternative Rock",
@@ -35,6 +37,7 @@
     "君という花",
     "アフターダーク"
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/14e410f5-97f2-48ba-b1f7-a3a44cbea05c"
   },

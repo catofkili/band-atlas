@@ -1,0 +1,70 @@
+{
+  "id": "melt-banana",
+  "mbid": "6d3f44c3-132d-42a6-a45b-16560b30a1fc",
+  "name": "Melt‐Banana",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1992–",
+  "genres": [
+    "Noise Rock",
+    "Experimental Rock",
+    "Noisecore"
+  ],
+  "albums": [
+    {
+      "title": "Speak Squeak Creak",
+      "year": 1994
+    },
+    {
+      "title": "Cactuses Come in Flocks",
+      "year": 1994
+    },
+    {
+      "title": "Scratch or Stitch",
+      "year": 1995
+    },
+    {
+      "title": "Chipfarm",
+      "year": 1995
+    },
+    {
+      "title": "Charlie",
+      "year": 1998
+    },
+    {
+      "title": "Teeny Shiny",
+      "year": 2000
+    }
+  ],
+  "intro": "Melt-Banana は日本のロックバンド。母国の日本以上に、アメリカやヨーロッパのパンク・ロック・ファンから支持を得ている。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6d3f44c3-132d-42a6-a45b-16560b30a1fc"
+  },
+  "edges": [
+    {
+      "to": "the-sleepwalk",
+      "toName": "The Sleepwalk",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "大島昌樹",
+      "detail": "大島昌樹 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "eiko-ishibashi-trio",
+      "toName": "Eiko Ishibashi Trio",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "須藤俊明",
+      "detail": "須藤俊明 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    }
+  ]
+}

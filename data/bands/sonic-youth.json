@@ -3,6 +3,8 @@
   "mbid": "5cbef01b-cc35-4f52-af7b-d0df0c4f61b9",
   "name": "Sonic Youth",
   "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1981–2011",
   "genres": [
     "Noise Rock",
@@ -31,6 +33,7 @@
     "Schizophrenia",
     "100%"
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5cbef01b-cc35-4f52-af7b-d0df0c4f61b9"
   },
@@ -78,6 +81,17 @@
       "detail": "2 位乐手在这两支乐队都待过：Kim Gordon・Mark Ibold。",
       "year": 1981,
       "weight": 0.84
+    },
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Sonic Youth 影响了 Nirvana（Wikidata）。",
+      "year": null,
+      "weight": 0.46
     },
     {
       "to": "pavement",
@@ -210,6 +224,28 @@
       "detail": "Kim Gordon 在这两支乐队都待过。",
       "year": 1981,
       "weight": 0.62
+    },
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Sonic Youth 影响了 Foo Fighters（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "weezer",
+      "toName": "Weezer",
+      "toArea": "洛杉矶",
+      "toYears": "1992–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Sonic Youth 影响了 Weezer（Wikidata）。",
+      "year": null,
+      "weight": 0.46
     }
   ]
 }

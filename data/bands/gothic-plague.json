@@ -1,0 +1,39 @@
+{
+  "id": "gothic-plague",
+  "mbid": "d7eceba8-e45b-4b3a-b243-2d6cbf8b3b7b",
+  "name": "Gothic Plague",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d7eceba8-e45b-4b3a-b243-2d6cbf8b3b7b"
+  },
+  "edges": [
+    {
+      "to": "muse",
+      "toName": "Muse",
+      "toArea": "Teignmouth",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Dominic Howard",
+      "detail": "Dominic Howard 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "vicky-cryer",
+      "toName": "Vicky Cryer",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dominic Howard",
+      "detail": "Dominic Howard 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

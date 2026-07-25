@@ -1,0 +1,70 @@
+{
+  "id": "iron-maiden",
+  "mbid": "ca891d65-d9b0-4258-89f7-e6ba29d83767",
+  "name": "Iron Maiden",
+  "area": "Leyton",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1975–",
+  "genres": [
+    "Heavy Metal",
+    "Nwobhm",
+    "Metal"
+  ],
+  "albums": [
+    {
+      "title": "Iron Maiden",
+      "year": 1980
+    },
+    {
+      "title": "Killers",
+      "year": 1981
+    },
+    {
+      "title": "The Number of the Beast",
+      "year": 1982
+    },
+    {
+      "title": "Piece of Mind",
+      "year": 1983
+    },
+    {
+      "title": "Powerslave",
+      "year": 1984
+    },
+    {
+      "title": "Somewhere in Time",
+      "year": 1986
+    }
+  ],
+  "intro": "铁娘子是一个出身于英国东伦敦的重金属乐队，由原吉普赛之吻与微笑者的贝斯手史提夫·哈里斯于1975年成立。截至2015年已发行16张录音室专辑、11张现场专辑、4张迷你专辑和7张精选辑。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ca891d65-d9b0-4258-89f7-e6ba29d83767"
+  },
+  "edges": [
+    {
+      "to": "whocares",
+      "toName": "WhoCares",
+      "toArea": "英国",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "Nicko McBrain",
+      "detail": "Nicko McBrain 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "quiet-riot",
+      "toName": "Quiet Riot",
+      "toArea": "洛杉矶",
+      "toYears": "1973–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Iron Maiden 影响了 Quiet Riot（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

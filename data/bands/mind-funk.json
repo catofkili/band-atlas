@@ -3,6 +3,8 @@
   "mbid": "653f2e2e-ed6b-4844-9d27-2009559d9822",
   "name": "Mind Funk",
   "area": "Orange County",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1989–",
   "genres": [],
   "albums": [
@@ -21,10 +23,22 @@
   ],
   "intro": "Mind Funk (spelled Mindfunk on later releases) was an American rock band, containing members of Chemical Waste and several other bands.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/653f2e2e-ed6b-4844-9d27-2009559d9822"
   },
   "edges": [
+    {
+      "to": "ministry",
+      "toName": "Ministry",
+      "toArea": "芝加哥",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Louis Svitek・John Monte",
+      "detail": "2 位乐手在这两支乐队都待过：Louis Svitek・John Monte。",
+      "year": 1992,
+      "weight": 0.84
+    },
     {
       "to": "nirvana",
       "toName": "Nirvana",

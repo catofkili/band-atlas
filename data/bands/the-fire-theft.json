@@ -1,0 +1,104 @@
+{
+  "id": "the-fire-theft",
+  "mbid": "cb8b0935-af9d-4d26-8ceb-dbfeeaf75aad",
+  "name": "The Fire Theft",
+  "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2001–2004",
+  "genres": [
+    "Alternative Rock",
+    "Indie Rock"
+  ],
+  "albums": [
+    {
+      "title": "The Fire Theft",
+      "year": 2003
+    }
+  ],
+  "intro": "The Fire Theft was an American rock band from Seattle, Washington.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cb8b0935-af9d-4d26-8ceb-dbfeeaf75aad"
+  },
+  "edges": [
+    {
+      "to": "sunny-day-real-estate",
+      "toName": "Sunny Day Real Estate",
+      "toArea": "西雅图",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "William Goldsmith・Nate Mendel・Jeremy Enigk",
+      "detail": "3 位乐手在这两支乐队都待过：William Goldsmith・Nate Mendel・Jeremy Enigk。",
+      "year": 1992,
+      "weight": 0.95
+    },
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "William Goldsmith・Nate Mendel",
+      "detail": "2 位乐手在这两支乐队都待过：William Goldsmith・Nate Mendel。",
+      "year": 1995,
+      "weight": 0.84
+    },
+    {
+      "to": "christ-on-a-crutch",
+      "toName": "Christ on a Crutch",
+      "toArea": "Richland",
+      "toYears": "1983–1993",
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "juno",
+      "toName": "Juno",
+      "toArea": "西雅图",
+      "toYears": "1995–2003",
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "dee-gees",
+      "toName": "Dee Gees",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "diddly-squat",
+      "toName": "Diddly Squat",
+      "toArea": "Richland",
+      "toYears": null,
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sound-city-players",
+      "toName": "Sound City Players",
+      "toArea": "美国",
+      "toYears": "2012–2013",
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

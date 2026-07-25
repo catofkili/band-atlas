@@ -3,6 +3,8 @@
   "mbid": "ecc014f3-cee3-44e8-9c16-f7d23139754b",
   "name": "Parlour Flames",
   "area": "曼彻斯特",
+  "countryCode": "GB",
+  "country": "英国",
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2013
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ecc014f3-cee3-44e8-9c16-f7d23139754b"
   },

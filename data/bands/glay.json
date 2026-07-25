@@ -1,0 +1,103 @@
+{
+  "id": "glay",
+  "mbid": "051b8830-8aae-4b4e-a48c-ee8d6a2dec50",
+  "name": "GLAY",
+  "area": "Hakodate",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1988–",
+  "genres": [
+    "J-Rock",
+    "Pop Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "灰とダイヤモンド",
+      "year": 1994
+    },
+    {
+      "title": "SPEED POP",
+      "year": 1995
+    },
+    {
+      "title": "BELOVED",
+      "year": 1996
+    },
+    {
+      "title": "BEAT out!",
+      "year": 1996
+    },
+    {
+      "title": "pure soul",
+      "year": 1998
+    },
+    {
+      "title": "HEAVY GAUGE",
+      "year": 1999
+    }
+  ],
+  "intro": "日本一个由4人组成的摇滚乐团。于1988年组成，1993年底被X JAPAN团长YOSHIKI发掘，签下他们并为其统筹出道计划。自1994年正式出道后，创作出大量受欢迎的流行歌曲，并对1990年代日本摇滚音乐有影响力。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/051b8830-8aae-4b4e-a48c-ee8d6a2dec50"
+  },
+  "edges": [
+    {
+      "to": "the-predators",
+      "toName": "THE PREDATORS",
+      "toArea": "日本",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "JIRO",
+      "detail": "JIRO 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "ace-of-spades",
+      "toName": "ACE OF SPADES",
+      "toArea": "东京",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "HISASHI",
+      "detail": "HISASHI 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "radio-happy-willows",
+      "toName": "Radio Happy Willows",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "TERU",
+      "detail": "TERU 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "galay",
+      "toName": "GALAY",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "glay-exile",
+      "toName": "GLAY×EXILE",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

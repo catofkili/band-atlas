@@ -1,0 +1,50 @@
+{
+  "id": "space-soldier-membership-club",
+  "mbid": "4fcfce28-f334-49d1-bbde-9006e7e4b2cc",
+  "name": "Space Soldier Membership Club",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4fcfce28-f334-49d1-bbde-9006e7e4b2cc"
+  },
+  "edges": [
+    {
+      "to": "자우림",
+      "toName": "자우림",
+      "toArea": "韩国",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "이선규",
+      "detail": "이선규 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "chococream-rolls",
+      "toName": "ChocoCream Rolls",
+      "toArea": "韩国",
+      "toYears": null,
+      "type": "member",
+      "label": "이선규",
+      "detail": "이선규 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "lonely-h-s-band",
+      "toName": "Lonely H's Band",
+      "toArea": "韩国",
+      "toYears": null,
+      "type": "member",
+      "label": "이선규",
+      "detail": "이선규 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,102 @@
+{
+  "id": "change",
+  "mbid": "9974d324-3d58-4f93-812b-41eb3ca75eed",
+  "name": "Change",
+  "area": "Bologna",
+  "countryCode": "IT",
+  "country": "意大利",
+  "years": "1979–1986",
+  "genres": [
+    "Classic Pop And Rock",
+    "R&B"
+  ],
+  "albums": [
+    {
+      "title": "The Glow of Love",
+      "year": 1980
+    },
+    {
+      "title": "Miracles",
+      "year": 1981
+    },
+    {
+      "title": "Sharing Your Love",
+      "year": 1982
+    },
+    {
+      "title": "This Is Your Time",
+      "year": 1983
+    },
+    {
+      "title": "Change of Heart",
+      "year": 1984
+    },
+    {
+      "title": "Turn On Your Radio",
+      "year": 1985
+    }
+  ],
+  "intro": "チェンジ (Change) は、イタリア人プロデューサーのジャック・フレッド・ペトラスにより、1979年にボローニャで生まれたバンド。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9974d324-3d58-4f93-812b-41eb3ca75eed"
+  },
+  "edges": [
+    {
+      "to": "material",
+      "toName": "Material",
+      "toArea": "纽约",
+      "toYears": "1978–1999",
+      "type": "member",
+      "label": "Jeff Bova",
+      "detail": "Jeff Bova 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Lisa Fischer",
+      "detail": "Lisa Fischer 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "divination",
+      "toName": "Divination",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Jeff Bova",
+      "detail": "Jeff Bova 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "elements-of-life",
+      "toName": "Elements of Life",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Lisa Fischer",
+      "detail": "Lisa Fischer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mick-jagger-the-brothers-of-sodom",
+      "toName": "Mick Jagger & The Brothers of Sodom",
+      "toArea": "伦敦",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Lisa Fischer",
+      "detail": "Lisa Fischer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

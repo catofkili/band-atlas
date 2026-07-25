@@ -1,0 +1,81 @@
+{
+  "id": "gorillaz",
+  "mbid": "e21857d5-3256-4547-afb3-4b6ded592596",
+  "name": "Gorillaz",
+  "area": "Essex",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1999–",
+  "genres": [
+    "Alternative Rock",
+    "Electronic",
+    "Trip Hop"
+  ],
+  "albums": [
+    {
+      "title": "Gorillaz (album Sampler)",
+      "year": 2000
+    },
+    {
+      "title": "Gorillaz",
+      "year": 2001
+    },
+    {
+      "title": "Demon Days",
+      "year": 2005
+    },
+    {
+      "title": "Plastic Beach",
+      "year": 2010
+    },
+    {
+      "title": "iSides",
+      "year": 2010
+    },
+    {
+      "title": "The Fall",
+      "year": 2010
+    }
+  ],
+  "intro": "街头霸王是一支虚拟乐团，由四个虚拟动画角色组成，分别是：阿D、小面、洛胖、魔头。 乐团是由英国模糊主唱—戴蒙·亚邦和漫画家吉米·何力特共同创造。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e21857d5-3256-4547-afb3-4b6ded592596"
+  },
+  "edges": [
+    {
+      "to": "jamiroquai",
+      "toName": "Jamiroquai",
+      "toArea": "Ealing",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "DJ D-Zire",
+      "detail": "DJ D-Zire 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "jc-001-dj-d-zire",
+      "toName": "JC-001 & DJ D-Zire",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ D-Zire",
+      "detail": "DJ D-Zire 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "spacemonkeyz",
+      "toName": "Spacemonkeyz",
+      "toArea": "英国",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "DJ D-Zire",
+      "detail": "DJ D-Zire 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    }
+  ]
+}

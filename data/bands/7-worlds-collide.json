@@ -1,0 +1,72 @@
+{
+  "id": "7-worlds-collide",
+  "mbid": "cd1cfb42-4b49-4f86-9518-37b1dfd1a2a8",
+  "name": "7 Worlds Collide",
+  "area": "New Zealand",
+  "countryCode": "NZ",
+  "country": "新西兰",
+  "years": null,
+  "genres": [
+    "2000s",
+    "Alternative Rock",
+    "Folk Rock"
+  ],
+  "albums": [
+    {
+      "title": "The Sun Came Out",
+      "year": 2009
+    }
+  ],
+  "intro": "7 Worlds Collide is a musical project by the New Zealand singer-songwriter Neil Finn.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cd1cfb42-4b49-4f86-9518-37b1dfd1a2a8"
+  },
+  "edges": [
+    {
+      "to": "radiohead",
+      "toName": "Radiohead",
+      "toArea": "Abingdon-on-Thames",
+      "toYears": "1991–",
+      "type": "member",
+      "label": "Ed O’Brien・Philip Selway",
+      "detail": "2 位乐手在这两支乐队都待过：Ed O’Brien・Philip Selway。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "on-a-friday",
+      "toName": "On a Friday",
+      "toArea": "Abingdon-on-Thames",
+      "toYears": "1985–1991",
+      "type": "member",
+      "label": "Ed O’Brien・Philip Selway",
+      "detail": "2 位乐手在这两支乐队都待过：Ed O’Brien・Philip Selway。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "fleetwood-mac",
+      "toName": "Fleetwood Mac",
+      "toArea": "伦敦",
+      "toYears": "1967–2022",
+      "type": "member",
+      "label": "Neil Finn",
+      "detail": "Neil Finn 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "the-smiths",
+      "toName": "The Smiths",
+      "toArea": "曼彻斯特",
+      "toYears": "1982–1987",
+      "type": "member",
+      "label": "Johnny Marr",
+      "detail": "Johnny Marr 在这两支乐队都待过。",
+      "year": 1982,
+      "weight": 0.62
+    }
+  ]
+}

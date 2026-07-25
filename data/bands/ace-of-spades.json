@@ -1,0 +1,70 @@
+{
+  "id": "ace-of-spades",
+  "mbid": "689ec927-0889-4830-9092-0a3d9bb840a4",
+  "name": "ACE OF SPADES",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2012–",
+  "genres": [
+    "Likedis Auto"
+  ],
+  "albums": [
+    {
+      "title": "4REAL",
+      "year": 2019
+    }
+  ],
+  "intro": "ACE OF SPADESは、日本のロックバンド。2012年限定のコラボレーション企画として結成したが、その後も不定期に活動。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/689ec927-0889-4830-9092-0a3d9bb840a4"
+  },
+  "edges": [
+    {
+      "to": "glay",
+      "toName": "GLAY",
+      "toArea": "Hakodate",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "HISASHI",
+      "detail": "HISASHI 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "unkie",
+      "toName": "unkie",
+      "toArea": "日本",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "TOKIE",
+      "detail": "TOKIE 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "ka-f-ka",
+      "toName": "KA.F.KA",
+      "toArea": "日本",
+      "toYears": "2013–2016",
+      "type": "member",
+      "label": "宮上元克",
+      "detail": "宮上元克 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "boøwy杉並",
+      "toName": "BOØWY杉並",
+      "toArea": "日本",
+      "toYears": "2018–",
+      "type": "member",
+      "label": "宮上元克",
+      "detail": "宮上元克 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

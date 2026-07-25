@@ -3,6 +3,8 @@
   "mbid": "9b137ab6-5987-4606-989b-183cdb2d3e50",
   "name": "Mercyful Fate",
   "area": "Copenhagen",
+  "countryCode": "DK",
+  "country": "丹麦",
   "years": "1981–",
   "genres": [
     "Heavy Metal",
@@ -36,6 +38,7 @@
   ],
   "intro": "Mercyful Fate是一支丹麦重金属乐队，在1981年成立于哥本哈根。乐队起初在1981年至1985年期间活跃，随后因为乐队成员的理念分歧而解散，主唱King Diamond成立了以自己名字命名的乐队。",
   "introLang": "zh",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9b137ab6-5987-4606-989b-183cdb2d3e50"
   },

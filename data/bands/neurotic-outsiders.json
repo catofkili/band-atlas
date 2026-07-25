@@ -3,6 +3,8 @@
   "mbid": "897dc9d4-f6ca-4646-8a74-e8ef08aa0fb5",
   "name": "Neurotic Outsiders",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1995–1997",
   "genres": [
     "Hard Rock",
@@ -17,6 +19,7 @@
   ],
   "intro": "ニューロティック・アウトサイダーズは、アメリカ合衆国カリフォルニア州ハリウッドで1995年に結成されたスーパーグループ。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/897dc9d4-f6ca-4646-8a74-e8ef08aa0fb5"
   },

@@ -1,0 +1,63 @@
+{
+  "id": "reborn-art-session",
+  "mbid": "b14505cf-040f-4c3b-aa6d-5ac441821311",
+  "name": "Reborn‐Art Session",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2017–",
+  "genres": [],
+  "albums": [],
+  "intro": "Reborn-Art Sessionは、日本の音楽ユニット。所属レコード会社はトイズファクトリー。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b14505cf-040f-4c3b-aa6d-5ac441821311"
+  },
+  "edges": [
+    {
+      "to": "bank-band",
+      "toName": "Bank Band",
+      "toArea": "东京",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "桜井和寿・小林武史",
+      "detail": "2 位乐手在这两支乐队都待过：桜井和寿・小林武史。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "mr-children",
+      "toName": "Mr.Children",
+      "toArea": "Shibuya",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "possession-80-2-por-cento",
+      "toName": "POSSESSION=80.2 POR CENTO",
+      "toArea": null,
+      "toYears": "2014–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ウカスカジー",
+      "toName": "ウカスカジー",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

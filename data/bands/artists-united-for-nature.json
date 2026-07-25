@@ -1,0 +1,50 @@
+{
+  "id": "artists-united-for-nature",
+  "mbid": "817c0792-e06d-44ce-870f-40b8ec6a54d8",
+  "name": "Artists United for Nature",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/817c0792-e06d-44ce-870f-40b8ec6a54d8"
+  },
+  "edges": [
+    {
+      "to": "the-headhunters",
+      "toName": "The Headhunters",
+      "toArea": "旧金山",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "Herbie Hancock",
+      "detail": "Herbie Hancock 在这两支乐队都待过。",
+      "year": 1973,
+      "weight": 0.62
+    },
+    {
+      "to": "hale-pace-and-the-stonkers",
+      "toName": "Hale & Pace and the Stonkers",
+      "toArea": "英国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "Chris Thompson",
+      "detail": "Chris Thompson 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "ringo-starr-his-all-starr-band",
+      "toName": "Ringo Starr & His All Starr Band",
+      "toArea": "伦敦",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Richard Page",
+      "detail": "Richard Page 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

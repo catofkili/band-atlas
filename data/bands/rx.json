@@ -1,0 +1,46 @@
+{
+  "id": "rx",
+  "mbid": "54fc7b6c-6cfb-4ce3-bc9b-60dfc6e90764",
+  "name": "Rx",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Bedside Toxicology",
+      "year": 1998
+    }
+  ],
+  "intro": "℞ or Rx was a one-off side project by Skinny Puppy band member Nivek Ogre, in collaboration with Invisible Records founder Martin Atkins.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/54fc7b6c-6cfb-4ce3-bc9b-60dfc6e90764"
+  },
+  "edges": [
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Ogre",
+      "detail": "Ogre 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "raw-dog",
+      "toName": "Raw Dog",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ogre",
+      "detail": "Ogre 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "e3dc948c-4972-40d5-a038-92749905d2ae",
   "name": "Wolfmanhattan Project",
   "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [
@@ -15,6 +17,7 @@
       "year": 2022
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e3dc948c-4972-40d5-a038-92749905d2ae"
   },

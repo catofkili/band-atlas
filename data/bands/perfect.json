@@ -3,6 +3,8 @@
   "mbid": "de69798a-4d18-40e5-889e-f26580a2d62a",
   "name": "Perfect",
   "area": "明尼阿波利斯",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1995–1998",
   "genres": [],
   "albums": [
@@ -13,6 +15,7 @@
   ],
   "intro": "Perfect was an American alternative rock group formed in 1995 by Tommy Stinson, formerly of The Replacements, in Minneapolis, Minnesota following the breakup of previous group, Bash & Pop.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/de69798a-4d18-40e5-889e-f26580a2d62a"
   },

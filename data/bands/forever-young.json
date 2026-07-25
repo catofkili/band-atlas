@@ -1,0 +1,83 @@
+{
+  "id": "forever-young",
+  "mbid": "9a45fd78-4ffc-4cc7-88dc-7d4264bff79f",
+  "name": "Forever Young",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1991–1993",
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9a45fd78-4ffc-4cc7-88dc-7d4264bff79f"
+  },
+  "edges": [
+    {
+      "to": "system-of-a-down",
+      "toName": "System of a Down",
+      "toArea": "Glendale",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "the-apex-theory",
+      "toName": "The Apex Theory",
+      "toArea": null,
+      "toYears": "1999–",
+      "type": "member",
+      "label": "David Hakopyan",
+      "detail": "David Hakopyan 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "fuktronic",
+      "toName": "Fuktronic",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "jazz-iz-christ",
+      "toName": "Jazz-Iz-Christ",
+      "toArea": "美国",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "serart",
+      "toName": "Serart",
+      "toArea": "洛杉矶",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "axis-of-justice",
+      "toName": "Axis of Justice",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    }
+  ]
+}

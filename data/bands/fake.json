@@ -1,0 +1,103 @@
+{
+  "id": "fake",
+  "mbid": "6b1084c6-6782-4f2e-b9b1-0dec99232215",
+  "name": "FAKE?",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2002–",
+  "genres": [
+    "Alternative Rock",
+    "Electronic Rock",
+    "J-Rock"
+  ],
+  "albums": [
+    {
+      "title": "BREATHE IN...",
+      "year": 2002
+    },
+    {
+      "title": "TOMORROW TODAY",
+      "year": 2003
+    },
+    {
+      "title": "THE ART OF LOSING TOUCH",
+      "year": 2004
+    },
+    {
+      "title": "MADE WITH AIR",
+      "year": 2005
+    },
+    {
+      "title": "SONGS FROM BEELZEBUB",
+      "year": 2006
+    },
+    {
+      "title": "MARILYN IS A BUBBLE",
+      "year": 2006
+    }
+  ],
+  "intro": "FAKE?は、日本のロックユニット。2001年にKEN LLOYDとINORANの両名により結成された。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6b1084c6-6782-4f2e-b9b1-0dec99232215"
+  },
+  "edges": [
+    {
+      "to": "luna-sea",
+      "toName": "LUNA SEA",
+      "toArea": "神奈川",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "tourbillon",
+      "toName": "Tourbillon",
+      "toArea": "日本",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "muddy-apes",
+      "toName": "Muddy Apes",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "lunacy",
+      "toName": "Lunacy",
+      "toArea": "日本",
+      "toYears": "1986–1990",
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "m-a-s-s",
+      "toName": "M・A・S・S",
+      "toArea": "东京",
+      "toYears": null,
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    }
+  ]
+}

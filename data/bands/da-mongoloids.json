@@ -1,0 +1,50 @@
+{
+  "id": "da-mongoloids",
+  "mbid": "2037a768-5561-488b-9420-4d19237554c3",
+  "name": "Da Mongoloids",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2037a768-5561-488b-9420-4d19237554c3"
+  },
+  "edges": [
+    {
+      "to": "daft-punk",
+      "toName": "Daft Punk",
+      "toArea": "Paris",
+      "toYears": "1993–2021",
+      "type": "member",
+      "label": "Thomas Bangalter",
+      "detail": "Thomas Bangalter 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "darlin",
+      "toName": "Darlin’",
+      "toArea": "Versailles",
+      "toYears": "1992–1993",
+      "type": "member",
+      "label": "Thomas Bangalter",
+      "detail": "Thomas Bangalter 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "together",
+      "toName": "Together",
+      "toArea": "Paris",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Thomas Bangalter",
+      "detail": "Thomas Bangalter 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

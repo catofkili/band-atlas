@@ -1,0 +1,41 @@
+{
+  "id": "agehasprings",
+  "mbid": "ff183c62-ccb9-4fc1-ac62-f8a81251ffc0",
+  "name": "agehasprings",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2004–",
+  "genres": [],
+  "albums": [],
+  "intro": "agehaspringsは、音楽制作とプロデューサーのマネジメントを主とした日本のクリエイティブカンパニー。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ff183c62-ccb9-4fc1-ac62-f8a81251ffc0"
+  },
+  "edges": [
+    {
+      "to": "s-m-n",
+      "toName": "S.M.N.",
+      "toArea": "日本",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "横山裕章",
+      "detail": "横山裕章 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "サニーデイ-サービス",
+      "toName": "サニーデイ・サービス",
+      "toArea": "日本",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "横山裕章",
+      "detail": "横山裕章 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    }
+  ]
+}

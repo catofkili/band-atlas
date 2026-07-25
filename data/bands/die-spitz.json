@@ -1,0 +1,72 @@
+{
+  "id": "die-spitz",
+  "mbid": "81cefa59-d9cd-410f-ac11-7b66519a9514",
+  "name": "Die Spitz",
+  "area": "奥斯汀",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2022–",
+  "genres": [
+    "Grunge",
+    "Punk",
+    "Punk Rock"
+  ],
+  "albums": [
+    {
+      "title": "Something to Consume",
+      "year": 2025
+    }
+  ],
+  "intro": "Die Spitz is an American rock band from Austin, Texas, consisting of guitarist/singer/drummer Ava Schrobilgen, guitarist/singer Eleanor Livingston, bassist Kate Halter, and drummer/singer/guitarist Chloe de St.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/81cefa59-d9cd-410f-ac11-7b66519a9514"
+  },
+  "edges": [
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Die Spitz 受 Pixies 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Die Spitz 受 Nirvana 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "Birmingham",
+      "toYears": "1968–2025",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Die Spitz 受 Black Sabbath 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "mudhoney",
+      "toName": "Mudhoney",
+      "toArea": "西雅图",
+      "toYears": "1988–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Die Spitz 受 Mudhoney 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

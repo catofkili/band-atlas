@@ -1,0 +1,28 @@
+{
+  "id": "glassmaps",
+  "mbid": "30860a89-b4d6-49b5-91b7-0d266bd85e45",
+  "name": "GLASSMAPS",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/30860a89-b4d6-49b5-91b7-0d266bd85e45"
+  },
+  "edges": [
+    {
+      "to": "the-killers",
+      "toName": "The Killers",
+      "toArea": "Las Vegas",
+      "toYears": "2001–",
+      "type": "guest",
+      "label": "伴奏・助演",
+      "detail": "MusicBrainz 记录的伴奏・助演关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "76d721ac-3eff-4b6d-8a2e-f2dacd2209a3",
   "name": "Walt Mink",
   "area": "Saint Paul",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1989–1997",
   "genres": [
     "Alternative Rock"
@@ -27,6 +29,7 @@
   ],
   "intro": "Walt Mink were an American alternative rock power trio from St. Paul, Minnesota.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/76d721ac-3eff-4b6d-8a2e-f2dacd2209a3"
   },

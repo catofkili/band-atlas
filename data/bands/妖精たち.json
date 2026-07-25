@@ -1,0 +1,28 @@
+{
+  "id": "妖精たち",
+  "mbid": "d48c3c04-3bd9-41af-82c7-ccc223b790f2",
+  "name": "妖精たち",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d48c3c04-3bd9-41af-82c7-ccc223b790f2"
+  },
+  "edges": [
+    {
+      "to": "fishmans",
+      "toName": "Fishmans+",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "Cornelius",
+      "detail": "Cornelius 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

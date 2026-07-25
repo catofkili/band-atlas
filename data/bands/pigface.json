@@ -3,6 +3,8 @@
   "mbid": "11137c88-a9a2-4ffa-a97d-fb058c6d6ce2",
   "name": "Pigface",
   "area": "芝加哥",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1990–",
   "genres": [
     "Industrial Rock",
@@ -37,40 +39,74 @@
   ],
   "intro": "Pigface is an American industrial rock supergroup formed in 1990 by Martin Atkins and William Rieflin.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/11137c88-a9a2-4ffa-a97d-fb058c6d6ce2"
   },
   "edges": [
     {
-      "to": "nine-inch-nails",
-      "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
-      "toYears": "1988–",
+      "to": "killing-joke",
+      "toName": "Killing Joke",
+      "toArea": "伦敦",
+      "toYears": "1979–",
       "type": "member",
-      "label": "Martin Atkins・Trent Reznor・Chris Vrenna・Jeff Ward",
-      "detail": "4 位乐手在这两支乐队都待过：Martin Atkins・Trent Reznor・Chris Vrenna・Jeff Ward。",
-      "year": 1991,
+      "label": "Paul Ferguson・Paul Raven・Geordie Walker・Youth",
+      "detail": "4 位乐手在这两支乐队都待过：Paul Ferguson・Paul Raven・Geordie Walker・Youth。",
+      "year": 1979,
       "weight": 0.95
     },
     {
-      "to": "swans",
-      "toName": "Swans",
-      "toArea": "纽约",
-      "toYears": "1982–",
+      "to": "ministry",
+      "toName": "Ministry",
+      "toArea": "芝加哥",
+      "toYears": "1981–",
       "type": "member",
-      "label": "Michael Gira・Algis Kizys・Bill Rieflin",
-      "detail": "3 位乐手在这两支乐队都待过：Michael Gira・Algis Kizys・Bill Rieflin。",
-      "year": 2010,
+      "label": "Jeff Ward・Michael Balch・Paul Barker・Paul Raven・Louis Svitek・William Tucker",
+      "detail": "6 位乐手在这两支乐队都待过：Jeff Ward・Michael Balch・Paul Barker・Paul Raven・Louis Svitek・William Tucker。",
+      "year": null,
       "weight": 0.95
     },
     {
-      "to": "pailhead",
-      "toName": "Pailhead",
-      "toArea": "美国",
-      "toYears": "1988–1988",
+      "to": "revolting-cocks",
+      "toName": "Revolting Cocks",
+      "toArea": "芝加哥",
+      "toYears": "1985–",
       "type": "member",
-      "label": "Paul Barker・Chris Connelly・Bill Rieflin",
-      "detail": "3 位乐手在这两支乐队都待过：Paul Barker・Chris Connelly・Bill Rieflin。",
+      "label": "Jeff Ward・Paul Barker・Duane Denison・Sean Joyce・William Tucker",
+      "detail": "5 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Duane Denison・Sean Joyce・William Tucker。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "lard",
+      "toName": "Lard",
+      "toArea": "芝加哥",
+      "toYears": "1988–2000",
+      "type": "member",
+      "label": "Jeff Ward・Paul Barker・Jello Biafra",
+      "detail": "3 位乐手在这两支乐队都待过：Jeff Ward・Paul Barker・Jello Biafra。",
+      "year": 1988,
+      "weight": 0.95
+    },
+    {
+      "to": "spasm",
+      "toName": "Spasm",
+      "toArea": "芝加哥",
+      "toYears": null,
+      "type": "member",
+      "label": "Curse Mackey・Eric Pounder・Mark Spybey",
+      "detail": "3 位乐手在这两支乐队都待过：Curse Mackey・Eric Pounder・Mark Spybey。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "murder-inc",
+      "toName": "Murder Inc.",
+      "toArea": "英国",
+      "toYears": "1991–1992",
+      "type": "member",
+      "label": "Paul Ferguson・Paul Raven・Geordie Walker",
+      "detail": "3 位乐手在这两支乐队都待过：Paul Ferguson・Paul Raven・Geordie Walker。",
       "year": null,
       "weight": 0.95
     },
@@ -86,15 +122,147 @@
       "weight": 0.62
     },
     {
-      "to": "the-bells",
-      "toName": "The Bells",
+      "to": "swans",
+      "toName": "Swans",
+      "toArea": "纽约",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Michael Gira・Algis Kizys",
+      "detail": "2 位乐手在这两支乐队都待过：Michael Gira・Algis Kizys。",
+      "year": 2010,
+      "weight": 0.84
+    },
+    {
+      "to": "the-tear-garden",
+      "toName": "The Tear Garden",
+      "toArea": "Vancouver",
+      "toYears": "1986–",
+      "type": "member",
+      "label": "Dwayne Rudolph Goettel・cEvin Key",
+      "detail": "2 位乐手在这两支乐队都待过：Dwayne Rudolph Goettel・cEvin Key。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "少年ナイフ",
+      "toName": "少年ナイフ",
+      "toArea": "大阪",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "山野敦子・山野直子",
+      "detail": "2 位乐手在这两支乐队都待过：山野敦子・山野直子。",
+      "year": 1981,
+      "weight": 0.84
+    },
+    {
+      "to": "die-warzau",
+      "toName": "Die Warzau",
       "toArea": "美国",
       "toYears": null,
       "type": "member",
-      "label": "Chris Connelly・Bill Rieflin",
-      "detail": "2 位乐手在这两支乐队都待过：Chris Connelly・Bill Rieflin。",
+      "label": "Jim Marcus・Jason McNinch",
+      "detail": "2 位乐手在这两支乐队都待过：Jim Marcus・Jason McNinch。",
       "year": null,
       "weight": 0.84
+    },
+    {
+      "to": "hilt",
+      "toName": "Hilt",
+      "toArea": "Vancouver",
+      "toYears": "1987–1996",
+      "type": "member",
+      "label": "Dwayne Rudolph Goettel・cEvin Key",
+      "detail": "2 位乐手在这两支乐队都待过：Dwayne Rudolph Goettel・cEvin Key。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "the-damage-manual",
+      "toName": "The Damage Manual",
+      "toArea": "英国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Steven Seibold・Geordie Walker",
+      "detail": "2 位乐手在这两支乐队都待过：Steven Seibold・Geordie Walker。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "dead-kennedys",
+      "toName": "Dead Kennedys",
+      "toArea": "旧金山",
+      "toYears": "1978–1986",
+      "type": "member",
+      "label": "Jello Biafra",
+      "detail": "Jello Biafra 在这两支乐队都待过。",
+      "year": 1978,
+      "weight": 0.62
+    },
+    {
+      "to": "fear",
+      "toName": "Fear",
+      "toArea": "洛杉矶",
+      "toYears": "1977–",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "godflesh",
+      "toName": "Godflesh",
+      "toArea": "Birmingham",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Paul Raven",
+      "detail": "Paul Raven 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "praxis",
+      "toName": "Praxis",
+      "toArea": "Brooklyn",
+      "toYears": "1992–2011",
+      "type": "member",
+      "label": "Mick Harris",
+      "detail": "Mick Harris 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "public-image-ltd",
+      "toName": "Public Image Ltd",
+      "toArea": "伦敦",
+      "toYears": "1978–",
+      "type": "member",
+      "label": "John Lydon",
+      "detail": "John Lydon 在这两支乐队都待过。",
+      "year": 1978,
+      "weight": 0.62
+    },
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
     },
     {
       "to": "silver-jews",
@@ -105,6 +273,17 @@
       "label": "Duane Denison",
       "detail": "Duane Denison 在这两支乐队都待过。",
       "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "tool",
+      "toName": "Tool",
+      "toArea": "洛杉矶",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Danny Carey",
+      "detail": "Danny Carey 在这两支乐队都待过。",
+      "year": 1990,
       "weight": 0.62
     },
     {
@@ -141,17 +320,6 @@
       "weight": 0.62
     },
     {
-      "to": "filthy-friends",
-      "toName": "Filthy Friends",
-      "toArea": "波特兰",
-      "toYears": null,
-      "type": "member",
-      "label": "Bill Rieflin",
-      "detail": "Bill Rieflin 在这两支乐队都待过。",
-      "year": null,
-      "weight": 0.62
-    },
-    {
       "to": "grand-duchy",
       "toName": "Grand Duchy",
       "toArea": "美国",
@@ -159,6 +327,39 @@
       "type": "member",
       "label": "Black Francis",
       "detail": "Black Francis 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "low-pop-suicide",
+      "toName": "Low Pop Suicide",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "zilch",
+      "toName": "Zilch",
+      "toArea": "美国",
+      "toYears": "1998–2002",
+      "type": "member",
+      "label": "Paul Raven",
+      "detail": "Paul Raven 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "13-13",
+      "toName": "13.13",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Lydia Lunch",
+      "detail": "Lydia Lunch 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62
     },
@@ -196,6 +397,17 @@
       "weight": 0.62
     },
     {
+      "to": "lucky-pierre",
+      "toName": "Lucky Pierre",
+      "toArea": "Cleveland",
+      "toYears": "1974–",
+      "type": "member",
+      "label": "Tom Lash",
+      "detail": "Tom Lash 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
       "to": "rocket-juice-the-moon",
       "toName": "Rocket Juice & the Moon",
       "toArea": "英国",
@@ -207,13 +419,13 @@
       "weight": 0.62
     },
     {
-      "to": "sweet-75",
-      "toName": "Sweet 75",
-      "toArea": "西雅图",
-      "toYears": "1995–2000",
+      "to": "rx",
+      "toName": "Rx",
+      "toArea": "美国",
+      "toYears": null,
       "type": "member",
-      "label": "Bill Rieflin",
-      "detail": "Bill Rieflin 在这两支乐队都待过。",
+      "label": "Ogre",
+      "detail": "Ogre 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62
     },
@@ -229,6 +441,50 @@
       "weight": 0.62
     },
     {
+      "to": "1000-homo-djs",
+      "toName": "1000 Homo DJs",
+      "toArea": "芝加哥",
+      "toYears": "1988–1990",
+      "type": "member",
+      "label": "Paul Barker",
+      "detail": "Paul Barker 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "aleka-s-attic",
+      "toName": "Aleka's Attic",
+      "toArea": "美国",
+      "toYears": "1988–1993",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "beat",
+      "toName": "BEAT",
+      "toArea": "美国",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "Danny Carey",
+      "detail": "Danny Carey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "flea-and-the-honora-band",
+      "toName": "Flea and the Honora Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
       "to": "glenn-branca-ensemble",
       "toName": "Glenn Branca Ensemble",
       "toArea": "美国",
@@ -240,25 +496,47 @@
       "weight": 0.62
     },
     {
-      "to": "sound-city-players",
-      "toName": "Sound City Players",
+      "to": "pailhead",
+      "toName": "Pailhead",
       "toArea": "美国",
-      "toYears": "2012–2013",
+      "toYears": "1988–1988",
       "type": "member",
-      "label": "Trent Reznor",
-      "detail": "Trent Reznor 在这两支乐队都待过。",
+      "label": "Paul Barker",
+      "detail": "Paul Barker 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62
     },
     {
-      "to": "tapeworm",
-      "toName": "Tapeworm",
-      "toArea": "美国",
-      "toYears": "1996–2004",
+      "to": "raw-dog",
+      "toName": "Raw Dog",
+      "toArea": null,
+      "toYears": null,
       "type": "member",
-      "label": "Trent Reznor",
-      "detail": "Trent Reznor 在这两支乐队都待过。",
-      "year": 1996,
+      "label": "Ogre",
+      "detail": "Ogre 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "supergroup-b",
+      "toName": "Supergroup B",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Danny Carey",
+      "detail": "Danny Carey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-lost-trees",
+      "toName": "The Lost Trees",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": null,
       "weight": 0.62
     },
     {

@@ -1,0 +1,87 @@
+{
+  "id": "muddy-apes",
+  "mbid": "b56a5b22-a559-444d-b26c-7c6c7a16dd49",
+  "name": "Muddy Apes",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2012–",
+  "genres": [
+    "Likedis Auto"
+  ],
+  "albums": [
+    {
+      "title": "Crush It",
+      "year": 2012
+    },
+    {
+      "title": "FAIRY DIRT No.5",
+      "year": 2013
+    },
+    {
+      "title": "Faraway So Close",
+      "year": 2016
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b56a5b22-a559-444d-b26c-7c6c7a16dd49"
+  },
+  "edges": [
+    {
+      "to": "fake",
+      "toName": "FAKE?",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "luna-sea",
+      "toName": "LUNA SEA",
+      "toArea": "神奈川",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "tourbillon",
+      "toName": "Tourbillon",
+      "toArea": "日本",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "lunacy",
+      "toName": "Lunacy",
+      "toArea": "日本",
+      "toYears": "1986–1990",
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "m-a-s-s",
+      "toName": "M・A・S・S",
+      "toArea": "东京",
+      "toYears": null,
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

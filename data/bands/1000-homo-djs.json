@@ -1,0 +1,77 @@
+{
+  "id": "1000-homo-djs",
+  "mbid": "4c44479c-8fde-4754-b9e2-5129eb6fb28d",
+  "name": "1000 Homo DJs",
+  "area": "芝加哥",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1988–1990",
+  "genres": [
+    "Industrial Rock",
+    "Industrial"
+  ],
+  "albums": [],
+  "intro": "1000 Homo DJs was a side project of American industrial rock band Ministry.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4c44479c-8fde-4754-b9e2-5129eb6fb28d"
+  },
+  "edges": [
+    {
+      "to": "ministry",
+      "toName": "Ministry",
+      "toArea": "芝加哥",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Paul Barker・Al Jourgensen",
+      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
+      "year": 1986,
+      "weight": 0.84
+    },
+    {
+      "to": "revolting-cocks",
+      "toName": "Revolting Cocks",
+      "toArea": "芝加哥",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Paul Barker・Al Jourgensen",
+      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "lard",
+      "toName": "Lard",
+      "toArea": "芝加哥",
+      "toYears": "1988–2000",
+      "type": "member",
+      "label": "Paul Barker・Al Jourgensen",
+      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
+      "year": 1988,
+      "weight": 0.84
+    },
+    {
+      "to": "pailhead",
+      "toName": "Pailhead",
+      "toArea": "美国",
+      "toYears": "1988–1988",
+      "type": "member",
+      "label": "Paul Barker・Al Jourgensen",
+      "detail": "2 位乐手在这两支乐队都待过：Paul Barker・Al Jourgensen。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Paul Barker",
+      "detail": "Paul Barker 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

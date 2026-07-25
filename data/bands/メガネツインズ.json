@@ -1,0 +1,63 @@
+{
+  "id": "メガネツインズ",
+  "mbid": "bf939291-e1e6-42e7-8151-7e141ee7d83d",
+  "name": "メガネツインズ",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2012–",
+  "genres": [],
+  "albums": [],
+  "intro": "「メガネツインズ」はシンガーソングライター・高橋優と東京事変のベーシスト・亀田誠治によるユニット。2012年に結成された。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bf939291-e1e6-42e7-8151-7e141ee7d83d"
+  },
+  "edges": [
+    {
+      "to": "東京事変",
+      "toName": "東京事変",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "亀田誠治",
+      "detail": "亀田誠治 在这两支乐队都待过。",
+      "year": 2020,
+      "weight": 0.62
+    },
+    {
+      "to": "high-cheez",
+      "toName": "High Cheez",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "亀田誠治",
+      "detail": "亀田誠治 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-three",
+      "toName": "The THREE",
+      "toArea": null,
+      "toYears": "2008–",
+      "type": "member",
+      "label": "亀田誠治",
+      "detail": "亀田誠治 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "viva-la-j-rock-anthems",
+      "toName": "VIVA LA J-ROCK ANTHEMS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "亀田誠治",
+      "detail": "亀田誠治 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

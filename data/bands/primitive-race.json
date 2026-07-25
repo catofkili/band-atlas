@@ -1,0 +1,100 @@
+{
+  "id": "primitive-race",
+  "mbid": "d4bca920-3e2a-4990-9953-5032a1be78c0",
+  "name": "Primitive Race",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2013–",
+  "genres": [
+    "Industrial"
+  ],
+  "albums": [
+    {
+      "title": "Primitive Race",
+      "year": 2015
+    },
+    {
+      "title": "Soul Pretender",
+      "year": 2017
+    },
+    {
+      "title": "Cranial Matter",
+      "year": 2019
+    }
+  ],
+  "intro": "Primitive Race is an international industrial rock supergroup created by Chris Kniker and featuring Raymond Watts (PIG, KMFDM), Dave Ogilvie (SLogan J), Mark Gimli Rasit (Peter Murphy, Spear of Destiny, Tricky, Mob Research, The Mission, Gary Numan), Erie Loch (LUXT, Blownload, Exageist), Chuck Mosley (ex-Faith No More), Graham Crabb (Pop Will Eat Itself) and Kourtney Klein (Combichrist, Nitzer Ebb).",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d4bca920-3e2a-4990-9953-5032a1be78c0"
+  },
+  "edges": [
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-tear-garden",
+      "toName": "The Tear Garden",
+      "toArea": "Vancouver",
+      "toYears": "1986–",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "hilt",
+      "toName": "Hilt",
+      "toArea": "Vancouver",
+      "toYears": "1987–1996",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "jakalope",
+      "toName": "Jakalope",
+      "toArea": "Vancouver",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "schwein",
+      "toName": "Schwein",
+      "toArea": null,
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Raymond Watts",
+      "detail": "Raymond Watts 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "raw-dog",
+      "toName": "Raw Dog",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    }
+  ]
+}

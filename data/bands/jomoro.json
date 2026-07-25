@@ -3,6 +3,8 @@
   "mbid": "d5d0a571-5b0f-4476-aff1-66404bf71bef",
   "name": "Jomoro",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2021–",
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2021
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d5d0a571-5b0f-4476-aff1-66404bf71bef"
   },

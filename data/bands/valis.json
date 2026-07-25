@@ -3,6 +3,8 @@
   "mbid": "d51ef000-95f4-49d0-8e38-e4fe5ccf32af",
   "name": "Valis",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [
     "Stoner Rock"
@@ -33,6 +35,7 @@
       "year": 2012
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d51ef000-95f4-49d0-8e38-e4fe5ccf32af"
   },

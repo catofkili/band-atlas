@@ -1,0 +1,28 @@
+{
+  "id": "los-unidades",
+  "mbid": "e5c9b9b3-9629-43c4-9f05-19e02b8deba1",
+  "name": "Los Unidades",
+  "area": null,
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e5c9b9b3-9629-43c4-9f05-19e02b8deba1"
+  },
+  "edges": [
+    {
+      "to": "coldplay",
+      "toName": "Coldplay",
+      "toArea": "伦敦",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

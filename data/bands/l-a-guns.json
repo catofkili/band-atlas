@@ -3,6 +3,8 @@
   "mbid": "87684162-ab42-4cfa-bf22-ebe237035f54",
   "name": "L.A. Guns",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1983–",
   "genres": [
     "Hard Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "L.A.ガンズは、アメリカ合衆国出身のハードロック・バンド。 1980年代に隆盛したLAメタル・ムーブメントの末期にメジャーデビュー。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/87684162-ab42-4cfa-bf22-ebe237035f54"
   },
@@ -97,6 +100,17 @@
       "weight": 0.84
     },
     {
+      "to": "beautiful-creatures",
+      "toName": "Beautiful Creatures",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Joe Lesté・Kenny Kweens",
+      "detail": "2 位乐手在这两支乐队都待过：Joe Lesté・Kenny Kweens。",
+      "year": 1999,
+      "weight": 0.84
+    },
+    {
       "to": "brides-of-destruction",
       "toName": "Brides of Destruction",
       "toArea": "美国",
@@ -152,6 +166,17 @@
       "weight": 0.62
     },
     {
+      "to": "the-weirdos",
+      "toName": "The Weirdos",
+      "toArea": "洛杉矶",
+      "toYears": "1976–2005",
+      "type": "member",
+      "label": "Nickey “Beat” Alexander",
+      "detail": "Nickey “Beat” Alexander 在这两支乐队都待过。",
+      "year": 1976,
+      "weight": 0.62
+    },
+    {
       "to": "adler",
       "toName": "Adler",
       "toArea": "美国",
@@ -193,6 +218,17 @@
       "label": "Tracii Guns",
       "detail": "Tracii Guns 在这两支乐队都待过。",
       "year": 2016,
+      "weight": 0.62
+    },
+    {
+      "to": "germs",
+      "toName": "Germs",
+      "toArea": "洛杉矶",
+      "toYears": "1976–2013",
+      "type": "member",
+      "label": "Nickey “Beat” Alexander",
+      "detail": "Nickey “Beat” Alexander 在这两支乐队都待过。",
+      "year": 1978,
       "weight": 0.62
     },
     {

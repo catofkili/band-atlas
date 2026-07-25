@@ -1,0 +1,59 @@
+{
+  "id": "sim",
+  "mbid": "04ea0489-0643-4b49-a7c7-aec63680646d",
+  "name": "SiM",
+  "area": "神奈川",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2004–",
+  "genres": [
+    "J-Rock",
+    "Metalcore",
+    "Alternative Metal"
+  ],
+  "albums": [
+    {
+      "title": "Silence iz Mine",
+      "year": 2008
+    },
+    {
+      "title": "SEEDS OF HOPE",
+      "year": 2011
+    },
+    {
+      "title": "PANDORA",
+      "year": 2013
+    },
+    {
+      "title": "THE BEAUTiFUL PEOPLE",
+      "year": 2016
+    },
+    {
+      "title": "THANK GOD, THERE ARE HUNDREDS OF WAYS TO KiLL ENEMiES",
+      "year": 2020
+    },
+    {
+      "title": "PLAYDEAD",
+      "year": 2023
+    }
+  ],
+  "intro": "SiM，是2004年形成的神奈川县日本金属乐队，所属唱片公司为波丽佳音，乐队目前由MAH，SHOW-HATE，SIN和GODRi组成。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/04ea0489-0643-4b49-a7c7-aec63680646d"
+  },
+  "edges": [
+    {
+      "to": "i-m-on-marz",
+      "toName": "I'M ON MARZ",
+      "toArea": "神奈川",
+      "toYears": null,
+      "type": "member",
+      "label": "MAH",
+      "detail": "MAH 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
+    }
+  ]
+}

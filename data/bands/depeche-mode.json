@@ -1,0 +1,59 @@
+{
+  "id": "depeche-mode",
+  "mbid": "8538e728-ca0b-4321-b7e5-cff6565dd4c0",
+  "name": "Depeche Mode",
+  "area": "Basildon",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1980–",
+  "genres": [
+    "Electronic",
+    "Synth-Pop",
+    "New Wave"
+  ],
+  "albums": [
+    {
+      "title": "Speak & Spell",
+      "year": 1981
+    },
+    {
+      "title": "A Broken Frame",
+      "year": 1982
+    },
+    {
+      "title": "Construction Time Again",
+      "year": 1983
+    },
+    {
+      "title": "Some Great Reward",
+      "year": 1984
+    },
+    {
+      "title": "Black Celebration",
+      "year": 1986
+    },
+    {
+      "title": "Music for the Masses",
+      "year": 1987
+    }
+  ],
+  "intro": "赶时髦是一支在1980年成立于英格兰艾赛克斯郡巴西尔登的电子音乐乐团。本团最初的团员有：戴夫·加恩、马丁·戈尔、安迪·弗莱彻和文斯·克拉克。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8538e728-ca0b-4321-b7e5-cff6565dd4c0"
+  },
+  "edges": [
+    {
+      "to": "deftones",
+      "toName": "Deftones",
+      "toArea": "Sacramento",
+      "toYears": "1988–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Depeche Mode 影响了 Deftones（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

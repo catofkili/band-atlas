@@ -3,9 +3,12 @@
   "mbid": "53350289-5b36-4df0-8015-f27a07a95fac",
   "name": "VIVA LA J-ROCK ANTHEMS",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/53350289-5b36-4df0-8015-f27a07a95fac"
   },
@@ -44,6 +47,17 @@
       "weight": 0.62
     },
     {
+      "to": "東京スカパラダイスオーケストラ",
+      "toName": "東京スカパラダイスオーケストラ",
+      "toArea": "东京",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "加藤隆志",
+      "detail": "加藤隆志 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    },
+    {
       "to": "fzmz",
       "toName": "FZMZ",
       "toArea": "日本",
@@ -52,6 +66,28 @@
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
       "year": 2023,
+      "weight": 0.62
+    },
+    {
+      "to": "high-cheez",
+      "toName": "High Cheez",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "亀田誠治",
+      "detail": "亀田誠治 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-three",
+      "toName": "The THREE",
+      "toArea": null,
+      "toYears": "2008–",
+      "type": "member",
+      "label": "亀田誠治",
+      "detail": "亀田誠治 在这两支乐队都待过。",
+      "year": null,
       "weight": 0.62
     },
     {
@@ -73,6 +109,17 @@
       "type": "member",
       "label": "ピエール中野",
       "detail": "ピエール中野 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "メガネツインズ",
+      "toName": "メガネツインズ",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "亀田誠治",
+      "detail": "亀田誠治 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62
     }

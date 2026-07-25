@@ -1,0 +1,1310 @@
+{
+  "note": "由 tools/fetch-influences.mjs 从 Wikidata P737 生成，请勿手改。",
+  "edges": [
+    {
+      "from": "guns-n-roses",
+      "to": "the-rolling-stones",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Guns N’ Roses 受 The Rolling Stones 影响（Wikidata）。",
+      "detailRev": "The Rolling Stones 影响了 Guns N’ Roses（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "guns-n-roses",
+      "to": "the-beatles",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Guns N’ Roses 受 The Beatles 影响（Wikidata）。",
+      "detailRev": "The Beatles 影响了 Guns N’ Roses（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "guns-n-roses",
+      "to": "sex-pistols",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Guns N’ Roses 受 Sex Pistols 影响（Wikidata）。",
+      "detailRev": "Sex Pistols 影响了 Guns N’ Roses（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "guns-n-roses",
+      "to": "queen",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Guns N’ Roses 受 Queen 影响（Wikidata）。",
+      "detailRev": "Queen 影响了 Guns N’ Roses（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "guns-n-roses",
+      "to": "led-zeppelin",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Guns N’ Roses 受 Led Zeppelin 影响（Wikidata）。",
+      "detailRev": "Led Zeppelin 影响了 Guns N’ Roses（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "guns-n-roses",
+      "to": "ac-dc",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Guns N’ Roses 受 AC/DC 影响（Wikidata）。",
+      "detailRev": "AC/DC 影响了 Guns N’ Roses（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "guns-n-roses",
+      "to": "quiet-riot",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Guns N’ Roses 受 Quiet Riot 影响（Wikidata）。",
+      "detailRev": "Quiet Riot 影响了 Guns N’ Roses（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "pixies",
+      "to": "the-beatles",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Pixies 受 The Beatles 影响（Wikidata）。",
+      "detailRev": "The Beatles 影响了 Pixies（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "pixies",
+      "to": "sex-pistols",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Pixies 受 Sex Pistols 影响（Wikidata）。",
+      "detailRev": "Sex Pistols 影响了 Pixies（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "pixies",
+      "to": "the-who",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Pixies 受 The Who 影响（Wikidata）。",
+      "detailRev": "The Who 影响了 Pixies（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "nirvana",
+      "to": "sonic-youth",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Nirvana 受 Sonic Youth 影响（Wikidata）。",
+      "detailRev": "Sonic Youth 影响了 Nirvana（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "nirvana",
+      "to": "pixies",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Nirvana 受 Pixies 影响（Wikidata）。",
+      "detailRev": "Pixies 影响了 Nirvana（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "nirvana",
+      "to": "led-zeppelin",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Nirvana 受 Led Zeppelin 影响（Wikidata）。",
+      "detailRev": "Led Zeppelin 影响了 Nirvana（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "nirvana",
+      "to": "black-sabbath",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Nirvana 受 Black Sabbath 影响（Wikidata）。",
+      "detailRev": "Black Sabbath 影响了 Nirvana（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "nirvana",
+      "to": "melvins",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Nirvana 受 Melvins 影响（Wikidata）。",
+      "detailRev": "Melvins 影响了 Nirvana（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "oasis",
+      "to": "the-rolling-stones",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Oasis 受 The Rolling Stones 影响（Wikidata）。",
+      "detailRev": "The Rolling Stones 影响了 Oasis（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "oasis",
+      "to": "the-beatles",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Oasis 受 The Beatles 影响（Wikidata）。",
+      "detailRev": "The Beatles 影响了 Oasis（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "oasis",
+      "to": "the-who",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Oasis 受 The Who 影响（Wikidata）。",
+      "detailRev": "The Who 影响了 Oasis（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "die-spitz",
+      "to": "mudhoney",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Die Spitz 受 Mudhoney 影响（Wikidata）。",
+      "detailRev": "Mudhoney 影响了 Die Spitz（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "die-spitz",
+      "to": "pixies",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Die Spitz 受 Pixies 影响（Wikidata）。",
+      "detailRev": "Pixies 影响了 Die Spitz（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "die-spitz",
+      "to": "nirvana",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Die Spitz 受 Nirvana 影响（Wikidata）。",
+      "detailRev": "Nirvana 影响了 Die Spitz（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "die-spitz",
+      "to": "black-sabbath",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Die Spitz 受 Black Sabbath 影响（Wikidata）。",
+      "detailRev": "Black Sabbath 影响了 Die Spitz（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "green-day",
+      "to": "fastbacks",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Green Day 受 Fastbacks 影响（Wikidata）。",
+      "detailRev": "Fastbacks 影响了 Green Day（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "red-hot-chili-peppers",
+      "to": "public-image-ltd",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 Public Image Ltd 影响（Wikidata）。",
+      "detailRev": "Public Image Ltd 影响了 Red Hot Chili Peppers（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "red-hot-chili-peppers",
+      "to": "parliament",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 Parliament 影响（Wikidata）。",
+      "detailRev": "Parliament 影响了 Red Hot Chili Peppers（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "red-hot-chili-peppers",
+      "to": "germs",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 Germs 影响（Wikidata）。",
+      "detailRev": "Germs 影响了 Red Hot Chili Peppers（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "red-hot-chili-peppers",
+      "to": "the-weirdos",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 The Weirdos 影响（Wikidata）。",
+      "detailRev": "The Weirdos 影响了 Red Hot Chili Peppers（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "my-bloody-valentine",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 My Bloody Valentine 影响（Wikidata）。",
+      "detailRev": "My Bloody Valentine 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "jane-s-addiction",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Jane’s Addiction 影响（Wikidata）。",
+      "detailRev": "Jane’s Addiction 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "fall-out-boy",
+      "to": "rites-of-spring",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fall Out Boy 受 Rites of Spring 影响（Wikidata）。",
+      "detailRev": "Rites of Spring 影响了 Fall Out Boy（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "fall-out-boy",
+      "to": "sunny-day-real-estate",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fall Out Boy 受 Sunny Day Real Estate 影响（Wikidata）。",
+      "detailRev": "Sunny Day Real Estate 影响了 Fall Out Boy（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "fall-out-boy",
+      "to": "weezer",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fall Out Boy 受 Weezer 影响（Wikidata）。",
+      "detailRev": "Weezer 影响了 Fall Out Boy（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "fall-out-boy",
+      "to": "the-smiths",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fall Out Boy 受 The Smiths 影响（Wikidata）。",
+      "detailRev": "The Smiths 影响了 Fall Out Boy（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "fall-out-boy",
+      "to": "green-day",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fall Out Boy 受 Green Day 影响（Wikidata）。",
+      "detailRev": "Green Day 影响了 Fall Out Boy（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "fall-out-boy",
+      "to": "blink-182",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Fall Out Boy 受 blink‐182 影响（Wikidata）。",
+      "detailRev": "blink‐182 影响了 Fall Out Boy（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "radiohead",
+      "to": "pink-floyd",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Radiohead 受 Pink Floyd 影响（Wikidata）。",
+      "detailRev": "Pink Floyd 影响了 Radiohead（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "rage-against-the-machine",
+      "to": "fugazi",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Rage Against the Machine 受 Fugazi 影响（Wikidata）。",
+      "detailRev": "Fugazi 影响了 Rage Against the Machine（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "rage-against-the-machine",
+      "to": "dead-kennedys",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Rage Against the Machine 受 Dead Kennedys 影响（Wikidata）。",
+      "detailRev": "Dead Kennedys 影响了 Rage Against the Machine（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "rage-against-the-machine",
+      "to": "suicidal-tendencies",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Rage Against the Machine 受 Suicidal Tendencies 影响（Wikidata）。",
+      "detailRev": "Suicidal Tendencies 影响了 Rage Against the Machine（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "rage-against-the-machine",
+      "to": "primus",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Rage Against the Machine 受 Primus 影响（Wikidata）。",
+      "detailRev": "Primus 影响了 Rage Against the Machine（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "rage-against-the-machine",
+      "to": "killing-joke",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Rage Against the Machine 受 Killing Joke 影响（Wikidata）。",
+      "detailRev": "Killing Joke 影响了 Rage Against the Machine（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "rage-against-the-machine",
+      "to": "minor-threat",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Rage Against the Machine 受 Minor Threat 影响（Wikidata）。",
+      "detailRev": "Minor Threat 影响了 Rage Against the Machine（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "rage-against-the-machine",
+      "to": "jane-s-addiction",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Rage Against the Machine 受 Jane’s Addiction 影响（Wikidata）。",
+      "detailRev": "Jane’s Addiction 影响了 Rage Against the Machine（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "rage-against-the-machine",
+      "to": "red-hot-chili-peppers",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Rage Against the Machine 受 Red Hot Chili Peppers 影响（Wikidata）。",
+      "detailRev": "Red Hot Chili Peppers 影响了 Rage Against the Machine（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "the-offspring",
+      "to": "sex-pistols",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Offspring 受 Sex Pistols 影响（Wikidata）。",
+      "detailRev": "Sex Pistols 影响了 The Offspring（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "green-day",
+      "to": "dead-kennedys",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Green Day 受 Dead Kennedys 影响（Wikidata）。",
+      "detailRev": "Dead Kennedys 影响了 Green Day（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "the-offspring",
+      "to": "nirvana",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Offspring 受 Nirvana 影响（Wikidata）。",
+      "detailRev": "Nirvana 影响了 The Offspring（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "green-day",
+      "to": "sex-pistols",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Green Day 受 Sex Pistols 影响（Wikidata）。",
+      "detailRev": "Sex Pistols 影响了 Green Day（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "green-day",
+      "to": "suicidal-tendencies",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Green Day 受 Suicidal Tendencies 影响（Wikidata）。",
+      "detailRev": "Suicidal Tendencies 影响了 Green Day（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "green-day",
+      "to": "guns-n-roses",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Green Day 受 Guns N’ Roses 影响（Wikidata）。",
+      "detailRev": "Guns N’ Roses 影响了 Green Day（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "green-day",
+      "to": "the-who",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Green Day 受 The Who 影响（Wikidata）。",
+      "detailRev": "The Who 影响了 Green Day（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "green-day",
+      "to": "minor-threat",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Green Day 受 Minor Threat 影响（Wikidata）。",
+      "detailRev": "Minor Threat 影响了 Green Day（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "green-day",
+      "to": "nirvana",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Green Day 受 Nirvana 影响（Wikidata）。",
+      "detailRev": "Nirvana 影响了 Green Day（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "green-day",
+      "to": "the-replacements",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Green Day 受 The Replacements 影响（Wikidata）。",
+      "detailRev": "The Replacements 影响了 Green Day（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "green-day",
+      "to": "red-hot-chili-peppers",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Green Day 受 Red Hot Chili Peppers 影响（Wikidata）。",
+      "detailRev": "Red Hot Chili Peppers 影响了 Green Day（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "pearl-jam",
+      "to": "the-rolling-stones",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Pearl Jam 受 The Rolling Stones 影响（Wikidata）。",
+      "detailRev": "The Rolling Stones 影响了 Pearl Jam（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "pearl-jam",
+      "to": "the-beatles",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Pearl Jam 受 The Beatles 影响（Wikidata）。",
+      "detailRev": "The Beatles 影响了 Pearl Jam（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "pearl-jam",
+      "to": "guns-n-roses",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Pearl Jam 受 Guns N’ Roses 影响（Wikidata）。",
+      "detailRev": "Guns N’ Roses 影响了 Pearl Jam（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "pearl-jam",
+      "to": "the-who",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Pearl Jam 受 The Who 影响（Wikidata）。",
+      "detailRev": "The Who 影响了 Pearl Jam（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "pearl-jam",
+      "to": "minor-threat",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Pearl Jam 受 Minor Threat 影响（Wikidata）。",
+      "detailRev": "Minor Threat 影响了 Pearl Jam（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "pearl-jam",
+      "to": "led-zeppelin",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Pearl Jam 受 Led Zeppelin 影响（Wikidata）。",
+      "detailRev": "Led Zeppelin 影响了 Pearl Jam（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "pearl-jam",
+      "to": "red-hot-chili-peppers",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Pearl Jam 受 Red Hot Chili Peppers 影响（Wikidata）。",
+      "detailRev": "Red Hot Chili Peppers 影响了 Pearl Jam（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "weezer",
+      "to": "sonic-youth",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Weezer 受 Sonic Youth 影响（Wikidata）。",
+      "detailRev": "Sonic Youth 影响了 Weezer（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "weezer",
+      "to": "pixies",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Weezer 受 Pixies 影响（Wikidata）。",
+      "detailRev": "Pixies 影响了 Weezer（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "weezer",
+      "to": "nirvana",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Weezer 受 Nirvana 影响（Wikidata）。",
+      "detailRev": "Nirvana 影响了 Weezer（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "weezer",
+      "to": "oasis",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Weezer 受 Oasis 影响（Wikidata）。",
+      "detailRev": "Oasis 影响了 Weezer（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "the-smashing-pumpkins",
+      "to": "pink-floyd",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Smashing Pumpkins 受 Pink Floyd 影响（Wikidata）。",
+      "detailRev": "Pink Floyd 影响了 The Smashing Pumpkins（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "slipknot",
+      "to": "primus",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Slipknot 受 Primus 影响（Wikidata）。",
+      "detailRev": "Primus 影响了 Slipknot（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "foo-fighters",
+      "to": "mudhoney",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Mudhoney 影响（Wikidata）。",
+      "detailRev": "Mudhoney 影响了 Foo Fighters（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "foo-fighters",
+      "to": "fugazi",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Fugazi 影响（Wikidata）。",
+      "detailRev": "Fugazi 影响了 Foo Fighters（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "slipknot",
+      "to": "rage-against-the-machine",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Slipknot 受 Rage Against the Machine 影响（Wikidata）。",
+      "detailRev": "Rage Against the Machine 影响了 Slipknot（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "foo-fighters",
+      "to": "the-beatles",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 The Beatles 影响（Wikidata）。",
+      "detailRev": "The Beatles 影响了 Foo Fighters（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "slipknot",
+      "to": "jane-s-addiction",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Slipknot 受 Jane’s Addiction 影响（Wikidata）。",
+      "detailRev": "Jane’s Addiction 影响了 Slipknot（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "foo-fighters",
+      "to": "flipper",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Flipper 影响（Wikidata）。",
+      "detailRev": "Flipper 影响了 Foo Fighters（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "foo-fighters",
+      "to": "guns-n-roses",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Guns N’ Roses 影响（Wikidata）。",
+      "detailRev": "Guns N’ Roses 影响了 Foo Fighters（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "foo-fighters",
+      "to": "sonic-youth",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Sonic Youth 影响（Wikidata）。",
+      "detailRev": "Sonic Youth 影响了 Foo Fighters（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "foo-fighters",
+      "to": "killing-joke",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Killing Joke 影响（Wikidata）。",
+      "detailRev": "Killing Joke 影响了 Foo Fighters（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "slipknot",
+      "to": "black-sabbath",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Slipknot 受 Black Sabbath 影响（Wikidata）。",
+      "detailRev": "Black Sabbath 影响了 Slipknot（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "foo-fighters",
+      "to": "pixies",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Pixies 影响（Wikidata）。",
+      "detailRev": "Pixies 影响了 Foo Fighters（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "foo-fighters",
+      "to": "black-sabbath",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Black Sabbath 影响（Wikidata）。",
+      "detailRev": "Black Sabbath 影响了 Foo Fighters（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "foo-fighters",
+      "to": "ac-dc",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 AC/DC 影响（Wikidata）。",
+      "detailRev": "AC/DC 影响了 Foo Fighters（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "foo-fighters",
+      "to": "germs",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Foo Fighters 受 Germs 影响（Wikidata）。",
+      "detailRev": "Germs 影响了 Foo Fighters（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "radiohead",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Radiohead 影响（Wikidata）。",
+      "detailRev": "Radiohead 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "the-cure",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 The Cure 影响（Wikidata）。",
+      "detailRev": "The Cure 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "tool",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Tool 影响（Wikidata）。",
+      "detailRev": "Tool 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "guns-n-roses",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Guns N’ Roses 影响（Wikidata）。",
+      "detailRev": "Guns N’ Roses 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "rage-against-the-machine",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Rage Against the Machine 影响（Wikidata）。",
+      "detailRev": "Rage Against the Machine 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "the-smiths",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 The Smiths 影响（Wikidata）。",
+      "detailRev": "The Smiths 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "metallica",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Metallica 影响（Wikidata）。",
+      "detailRev": "Metallica 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "soundgarden",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Soundgarden 影响（Wikidata）。",
+      "detailRev": "Soundgarden 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "led-zeppelin",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Led Zeppelin 影响（Wikidata）。",
+      "detailRev": "Led Zeppelin 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "black-sabbath",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Black Sabbath 影响（Wikidata）。",
+      "detailRev": "Black Sabbath 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "deftones",
+      "to": "depeche-mode",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Deftones 受 Depeche Mode 影响（Wikidata）。",
+      "detailRev": "Depeche Mode 影响了 Deftones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "the-offspring",
+      "to": "fear",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Offspring 受 Fear 影响（Wikidata）。",
+      "detailRev": "Fear 影响了 The Offspring（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "the-offspring",
+      "to": "germs",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Offspring 受 Germs 影响（Wikidata）。",
+      "detailRev": "Germs 影响了 The Offspring（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "blink-182",
+      "to": "rancid",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 Rancid 影响（Wikidata）。",
+      "detailRev": "Rancid 影响了 blink‐182（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "blink-182",
+      "to": "the-offspring",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 The Offspring 影响（Wikidata）。",
+      "detailRev": "The Offspring 影响了 blink‐182（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "blink-182",
+      "to": "nirvana",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 Nirvana 影响（Wikidata）。",
+      "detailRev": "Nirvana 影响了 blink‐182（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "blink-182",
+      "to": "green-day",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 Green Day 影响（Wikidata）。",
+      "detailRev": "Green Day 影响了 blink‐182（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "blink-182",
+      "to": "the-vandals",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 The Vandals 影响（Wikidata）。",
+      "detailRev": "The Vandals 影响了 blink‐182（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "blink-182",
+      "to": "adolescents",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 Adolescents 影响（Wikidata）。",
+      "detailRev": "Adolescents 影响了 blink‐182（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "my-chemical-romance",
+      "to": "the-smiths",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "My Chemical Romance 受 The Smiths 影响（Wikidata）。",
+      "detailRev": "The Smiths 影响了 My Chemical Romance（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "the-rolling-stones",
+      "to": "the-beatles",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Rolling Stones 受 The Beatles 影响（Wikidata）。",
+      "detailRev": "The Beatles 影响了 The Rolling Stones（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "u2",
+      "to": "the-rolling-stones",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 The Rolling Stones 影响（Wikidata）。",
+      "detailRev": "The Rolling Stones 影响了 U2（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "u2",
+      "to": "the-beatles",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 The Beatles 影响（Wikidata）。",
+      "detailRev": "The Beatles 影响了 U2（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "u2",
+      "to": "sex-pistols",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 Sex Pistols 影响（Wikidata）。",
+      "detailRev": "Sex Pistols 影响了 U2（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "u2",
+      "to": "guns-n-roses",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 Guns N’ Roses 影响（Wikidata）。",
+      "detailRev": "Guns N’ Roses 影响了 U2（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "u2",
+      "to": "the-who",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 The Who 影响（Wikidata）。",
+      "detailRev": "The Who 影响了 U2（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "u2",
+      "to": "pink-floyd",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "U2 受 Pink Floyd 影响（Wikidata）。",
+      "detailRev": "Pink Floyd 影响了 U2（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "nine-inch-nails",
+      "to": "ministry",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Nine Inch Nails 受 Ministry 影响（Wikidata）。",
+      "detailRev": "Ministry 影响了 Nine Inch Nails（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "muse",
+      "to": "radiohead",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Muse 受 Radiohead 影响（Wikidata）。",
+      "detailRev": "Radiohead 影响了 Muse（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "queen",
+      "to": "the-beatles",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Queen 受 The Beatles 影响（Wikidata）。",
+      "detailRev": "The Beatles 影响了 Queen（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "linkin-park",
+      "to": "system-of-a-down",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Linkin Park 受 System of a Down 影响（Wikidata）。",
+      "detailRev": "System of a Down 影响了 Linkin Park（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "muse",
+      "to": "rage-against-the-machine",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Muse 受 Rage Against the Machine 影响（Wikidata）。",
+      "detailRev": "Rage Against the Machine 影响了 Muse（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "linkin-park",
+      "to": "nine-inch-nails",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Linkin Park 受 Nine Inch Nails 影响（Wikidata）。",
+      "detailRev": "Nine Inch Nails 影响了 Linkin Park（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "queen",
+      "to": "the-who",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Queen 受 The Who 影响（Wikidata）。",
+      "detailRev": "The Who 影响了 Queen（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "muse",
+      "to": "queen",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Muse 受 Queen 影响（Wikidata）。",
+      "detailRev": "Queen 影响了 Muse（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "muse",
+      "to": "nirvana",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Muse 受 Nirvana 影响（Wikidata）。",
+      "detailRev": "Nirvana 影响了 Muse（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "linkin-park",
+      "to": "rage-against-the-machine",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Linkin Park 受 Rage Against the Machine 影响（Wikidata）。",
+      "detailRev": "Rage Against the Machine 影响了 Linkin Park（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "linkin-park",
+      "to": "jane-s-addiction",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Linkin Park 受 Jane’s Addiction 影响（Wikidata）。",
+      "detailRev": "Jane’s Addiction 影响了 Linkin Park（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "linkin-park",
+      "to": "deftones",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Linkin Park 受 Deftones 影响（Wikidata）。",
+      "detailRev": "Deftones 影响了 Linkin Park（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "queen",
+      "to": "pink-floyd",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Queen 受 Pink Floyd 影响（Wikidata）。",
+      "detailRev": "Pink Floyd 影响了 Queen（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "linkin-park",
+      "to": "the-offspring",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Linkin Park 受 The Offspring 影响（Wikidata）。",
+      "detailRev": "The Offspring 影响了 Linkin Park（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "linkin-park",
+      "to": "red-hot-chili-peppers",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Linkin Park 受 Red Hot Chili Peppers 影响（Wikidata）。",
+      "detailRev": "Red Hot Chili Peppers 影响了 Linkin Park（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "led-zeppelin",
+      "to": "the-rolling-stones",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Led Zeppelin 受 The Rolling Stones 影响（Wikidata）。",
+      "detailRev": "The Rolling Stones 影响了 Led Zeppelin（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "red-hot-chili-peppers",
+      "to": "guns-n-roses",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 Guns N’ Roses 影响（Wikidata）。",
+      "detailRev": "Guns N’ Roses 影响了 Red Hot Chili Peppers（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "red-hot-chili-peppers",
+      "to": "funkadelic",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 Funkadelic 影响（Wikidata）。",
+      "detailRev": "Funkadelic 影响了 Red Hot Chili Peppers（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "soundgarden",
+      "to": "led-zeppelin",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Soundgarden 受 Led Zeppelin 影响（Wikidata）。",
+      "detailRev": "Led Zeppelin 影响了 Soundgarden（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "soundgarden",
+      "to": "black-sabbath",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Soundgarden 受 Black Sabbath 影响（Wikidata）。",
+      "detailRev": "Black Sabbath 影响了 Soundgarden（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "quiet-riot",
+      "to": "iron-maiden",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Quiet Riot 受 Iron Maiden 影响（Wikidata）。",
+      "detailRev": "Iron Maiden 影响了 Quiet Riot（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "quiet-riot",
+      "to": "led-zeppelin",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Quiet Riot 受 Led Zeppelin 影响（Wikidata）。",
+      "detailRev": "Led Zeppelin 影响了 Quiet Riot（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "quiet-riot",
+      "to": "black-sabbath",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Quiet Riot 受 Black Sabbath 影响（Wikidata）。",
+      "detailRev": "Black Sabbath 影响了 Quiet Riot（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "quiet-riot",
+      "to": "ac-dc",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Quiet Riot 受 AC/DC 影响（Wikidata）。",
+      "detailRev": "AC/DC 影响了 Quiet Riot（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "lostprophets",
+      "to": "the-cure",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 The Cure 影响（Wikidata）。",
+      "detailRev": "The Cure 影响了 Lostprophets（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "lostprophets",
+      "to": "u2",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 U2 影响（Wikidata）。",
+      "detailRev": "U2 影响了 Lostprophets（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "lostprophets",
+      "to": "megadeth",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Megadeth 影响（Wikidata）。",
+      "detailRev": "Megadeth 影响了 Lostprophets（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "lostprophets",
+      "to": "nine-inch-nails",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Nine Inch Nails 影响（Wikidata）。",
+      "detailRev": "Nine Inch Nails 影响了 Lostprophets（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "lostprophets",
+      "to": "jane-s-addiction",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Jane’s Addiction 影响（Wikidata）。",
+      "detailRev": "Jane’s Addiction 影响了 Lostprophets（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "lostprophets",
+      "to": "deftones",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Deftones 影响（Wikidata）。",
+      "detailRev": "Deftones 影响了 Lostprophets（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "lostprophets",
+      "to": "metallica",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Metallica 影响（Wikidata）。",
+      "detailRev": "Metallica 影响了 Lostprophets（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "lostprophets",
+      "to": "soundgarden",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Soundgarden 影响（Wikidata）。",
+      "detailRev": "Soundgarden 影响了 Lostprophets（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "lostprophets",
+      "to": "green-day",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Green Day 影响（Wikidata）。",
+      "detailRev": "Green Day 影响了 Lostprophets（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "nsync",
+      "to": "backstreet-boys",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "*NSYNC 受 Backstreet Boys 影响（Wikidata）。",
+      "detailRev": "Backstreet Boys 影响了 *NSYNC（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "sex-pistols",
+      "to": "the-rolling-stones",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Sex Pistols 受 The Rolling Stones 影响（Wikidata）。",
+      "detailRev": "The Rolling Stones 影响了 Sex Pistols（Wikidata）。",
+      "weight": 0.46
+    },
+    {
+      "from": "sex-pistols",
+      "to": "the-who",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Sex Pistols 受 The Who 影响（Wikidata）。",
+      "detailRev": "The Who 影响了 Sex Pistols（Wikidata）。",
+      "weight": 0.46
+    }
+  ]
+}

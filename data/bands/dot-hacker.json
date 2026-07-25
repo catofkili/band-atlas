@@ -1,0 +1,91 @@
+{
+  "id": "dot-hacker",
+  "mbid": "f530f536-e877-49de-b0d2-baad9984df5b",
+  "name": "Dot Hacker",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2008–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Inhibition",
+      "year": 2012
+    },
+    {
+      "title": "How’s Your Process? (Work)",
+      "year": 2014
+    },
+    {
+      "title": "How's Your Process? (Play)",
+      "year": 2014
+    },
+    {
+      "title": "Nº3",
+      "year": 2017
+    }
+  ],
+  "intro": "Dot Hacker is an American experimental rock band from California, formed in 2008.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f530f536-e877-49de-b0d2-baad9984df5b"
+  },
+  "edges": [
+    {
+      "to": "scream",
+      "toName": "Scream",
+      "toArea": "Virginia",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Clint Walsh",
+      "detail": "Clint Walsh 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "tweaker",
+      "toName": "Tweaker",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "Clint Walsh",
+      "detail": "Clint Walsh 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "anywhere",
+      "toName": "Anywhere",
+      "toArea": "洛杉矶",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Jonathan Hischke",
+      "detail": "Jonathan Hischke 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "jack-off-jill",
+      "toName": "Jack Off Jill",
+      "toArea": "Fort Lauderdale",
+      "toYears": "1992–2000",
+      "type": "member",
+      "label": "Clint Walsh",
+      "detail": "Clint Walsh 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "zavalaz",
+      "toName": "Zavalaz",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "伴奏・助演",
+      "detail": "MusicBrainz 记录的伴奏・助演关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

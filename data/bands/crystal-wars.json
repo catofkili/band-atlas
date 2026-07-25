@@ -1,0 +1,37 @@
+{
+  "id": "crystal-wars",
+  "mbid": "f34d9248-3e5d-4d45-afef-65bdad8b6548",
+  "name": "CRYSTAL WARS",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "CRYSTAL WARS",
+      "year": 1992
+    },
+    {
+      "title": "BLUE",
+      "year": 1993
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f34d9248-3e5d-4d45-afef-65bdad8b6548"
+  },
+  "edges": [
+    {
+      "to": "mono",
+      "toName": "MONO",
+      "toArea": "东京",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Tamaki Kunishi",
+      "detail": "Tamaki Kunishi 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    }
+  ]
+}

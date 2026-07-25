@@ -3,9 +3,12 @@
   "mbid": "974d2bc7-9f6a-409b-92a0-e9b7d6d9319f",
   "name": "The Jacks",
   "area": "Tulsa",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/974d2bc7-9f6a-409b-92a0-e9b7d6d9319f"
   },

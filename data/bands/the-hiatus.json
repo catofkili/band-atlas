@@ -3,6 +3,8 @@
   "mbid": "03a457ae-2307-4e7f-bc99-ae48316a214f",
   "name": "the HIATUS",
   "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2009–",
   "genres": [
     "Alternative Rock",
@@ -30,6 +32,7 @@
     "Silver Birch",
     "Bittersweet / Hatsukoi"
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/03a457ae-2307-4e7f-bc99-ae48316a214f"
   },

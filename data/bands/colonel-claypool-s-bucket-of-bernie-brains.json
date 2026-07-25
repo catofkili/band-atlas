@@ -1,0 +1,61 @@
+{
+  "id": "colonel-claypool-s-bucket-of-bernie-brains",
+  "mbid": "4297d19f-4483-494c-a993-0e29a5afac33",
+  "name": "Colonel Claypool’s Bucket of Bernie Brains",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2002–2004",
+  "genres": [
+    "Alternative Rock",
+    "Funk Metal",
+    "Metal"
+  ],
+  "albums": [
+    {
+      "title": "The Big Eyeball in the Sky",
+      "year": 2004
+    }
+  ],
+  "intro": "Colonel Claypool's Bucket of Bernie Brains (C2B3) was an experimental rock supergroup featuring bassist Les Claypool, guitarist Buckethead, keyboardist Bernie Worrell and drummer Brain.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4297d19f-4483-494c-a993-0e29a5afac33"
+  },
+  "edges": [
+    {
+      "to": "primus",
+      "toName": "Primus",
+      "toArea": "El Sobrante",
+      "toYears": "1984–",
+      "type": "member",
+      "label": "Les Claypool",
+      "detail": "Les Claypool 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "les-claypool-and-the-holy-mackerel",
+      "toName": "Les Claypool and the Holy Mackerel",
+      "toArea": "Berkeley",
+      "toYears": "1996–1996",
+      "type": "member",
+      "label": "Les Claypool",
+      "detail": "Les Claypool 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "festus-clamrod-and-the-el-sobrante-twangers",
+      "toName": "Festus Clamrod and the El Sobrante Twangers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Les Claypool",
+      "detail": "Les Claypool 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

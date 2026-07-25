@@ -3,9 +3,12 @@
   "mbid": "534ecdc4-9063-4aa1-8b28-1526f1920776",
   "name": "ti-ti.uu",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2016–",
   "genres": [],
   "albums": [],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/534ecdc4-9063-4aa1-8b28-1526f1920776"
   },

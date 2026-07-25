@@ -3,6 +3,8 @@
   "mbid": "55905821-f019-4f07-9e8b-30017dcd50c0",
   "name": "Candy",
   "area": "California",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1985–1987",
   "genres": [],
   "albums": [
@@ -13,6 +15,7 @@
   ],
   "intro": "Candy was a Los Angeles-based pop rock band, featuring future Guns N' Roses guitarist Gilby Clarke and singer-songwriter Kyle Vincent.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/55905821-f019-4f07-9e8b-30017dcd50c0"
   },

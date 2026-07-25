@@ -3,6 +3,8 @@
   "mbid": "201b9c59-fcd8-4ffd-8efe-2bc41a74c494",
   "name": "Heavy Stereo",
   "area": "Durham",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "1995–1996",
   "genres": [
     "Britpop",
@@ -16,6 +18,7 @@
   ],
   "intro": "ヘヴィー・ステレオは、イギリスのロック・バンド。 オアシスのギタリストであるゲム・アーチャーが在籍したことで知られる。1970年代のグラムロックからの影響が色濃いサウンドを展開した。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/201b9c59-fcd8-4ffd-8efe-2bc41a74c494"
   },

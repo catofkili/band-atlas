@@ -1,0 +1,83 @@
+{
+  "id": "mick-jagger-the-brothers-of-sodom",
+  "mbid": "319500d8-9807-49a6-9b97-8f4db9dbfb80",
+  "name": "Mick Jagger & The Brothers of Sodom",
+  "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1985–",
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/319500d8-9807-49a6-9b97-8f4db9dbfb80"
+  },
+  "edges": [
+    {
+      "to": "change",
+      "toName": "Change",
+      "toArea": "Bologna",
+      "toYears": "1979–1986",
+      "type": "member",
+      "label": "Lisa Fischer",
+      "detail": "Lisa Fischer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Lisa Fischer",
+      "detail": "Lisa Fischer 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-rolling-stones",
+      "toName": "The Rolling Stones",
+      "toArea": "伦敦",
+      "toYears": "1962–",
+      "type": "member",
+      "label": "Mick Jagger",
+      "detail": "Mick Jagger 在这两支乐队都待过。",
+      "year": 1962,
+      "weight": 0.62
+    },
+    {
+      "to": "chickenfoot",
+      "toName": "Chickenfoot",
+      "toArea": "Cabo San Lucas",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Joe Satriani",
+      "detail": "Joe Satriani 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "elements-of-life",
+      "toName": "Elements of Life",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Lisa Fischer",
+      "detail": "Lisa Fischer 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Joe Satriani",
+      "detail": "Joe Satriani 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

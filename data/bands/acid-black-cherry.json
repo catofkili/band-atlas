@@ -1,0 +1,59 @@
+{
+  "id": "acid-black-cherry",
+  "mbid": "a3842d12-306c-498a-ae1d-03ee40e3f2ac",
+  "name": "Acid Black Cherry",
+  "area": "Hirakata",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2007–2017",
+  "genres": [
+    "Alternative Rock",
+    "Hard Rock",
+    "Jazz Fusion"
+  ],
+  "albums": [
+    {
+      "title": "BLACK LIST",
+      "year": 2008
+    },
+    {
+      "title": "Q.E.D.",
+      "year": 2009
+    },
+    {
+      "title": "Mini Best Singles",
+      "year": 2011
+    },
+    {
+      "title": "『2012』",
+      "year": 2012
+    },
+    {
+      "title": "L –エル–",
+      "year": 2015
+    },
+    {
+      "title": "Acid BLOOD Cherry",
+      "year": 2017
+    }
+  ],
+  "intro": "Acid Black Cherryは、元Janne Da Arcのyasuのソロプロジェクト。2007年始動。所属事務所は有限会社アップライズ・プロダクト、所属レーベルはavex trax内のLtOVES。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a3842d12-306c-498a-ae1d-03ee40e3f2ac"
+  },
+  "edges": [
+    {
+      "to": "janne-da-arc",
+      "toName": "Janne Da Arc",
+      "toArea": "日本",
+      "toYears": "1996–2019",
+      "type": "member",
+      "label": "yasu",
+      "detail": "yasu 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    }
+  ]
+}

@@ -20,6 +20,11 @@
   <button id="shuffle" class="btn" type="button">换一支</button>
 </header>
 
+<section id="network-map" class="network-map" hidden aria-label="乐队关系全网地图">
+  <canvas id="network-canvas"></canvas>
+  <div class="network-map__hud"><button id="map-close" class="btn" type="button">返回卡片</button><span>双指缩放 · 拖动地图 · 点节点进入</span></div>
+</section>
+
 <div id="search" class="search" hidden>
   <div class="search__panel" role="dialog" aria-modal="true" aria-label="搜索乐队">
     <input id="search-input" class="search__input" type="search" autocomplete="off"

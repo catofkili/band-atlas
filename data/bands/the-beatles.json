@@ -1,0 +1,323 @@
+{
+  "id": "the-beatles",
+  "mbid": "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d",
+  "name": "The Beatles",
+  "area": "利物浦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1960–1970",
+  "genres": [
+    "Rock",
+    "Pop",
+    "Pop Rock"
+  ],
+  "albums": [
+    {
+      "title": "With The Beatles",
+      "year": 1963
+    },
+    {
+      "title": "Please Please Me",
+      "year": 1963
+    },
+    {
+      "title": "Beatles ’65",
+      "year": 1964
+    },
+    {
+      "title": "Twist and Shout",
+      "year": 1964
+    },
+    {
+      "title": "The Beatles’ Second Album",
+      "year": 1964
+    },
+    {
+      "title": "Something New",
+      "year": 1964
+    }
+  ],
+  "intro": "披头士乐队是1960年在利物浦组建的一支英国摇滚乐队，华文亦称“披头四乐队”、“甲壳虫乐队”等，成员包括约翰·列侬、保罗·麦卡特尼、乔治·哈里森和林戈·斯塔尔。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d"
+  },
+  "edges": [
+    {
+      "to": "the-quarrymen",
+      "toName": "The Quarrymen",
+      "toArea": "利物浦",
+      "toYears": "1956–",
+      "type": "member",
+      "label": "Stuart Sutcliffe・Chas Newby・John Lennon・George Harrison",
+      "detail": "4 位乐手在这两支乐队都待过：Stuart Sutcliffe・Chas Newby・John Lennon・George Harrison。",
+      "year": 1960,
+      "weight": 0.95
+    },
+    {
+      "to": "the-beat-brothers",
+      "toName": "The Beat Brothers",
+      "toArea": "Hamburg",
+      "toYears": "1961–",
+      "type": "member",
+      "label": "Stuart Sutcliffe・Pete Best・John Lennon・George Harrison",
+      "detail": "4 位乐手在这两支乐队都待过：Stuart Sutcliffe・Pete Best・John Lennon・George Harrison。",
+      "year": 1960,
+      "weight": 0.95
+    },
+    {
+      "to": "the-silver-beatles",
+      "toName": "The Silver Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1960",
+      "type": "member",
+      "label": "Stuart Sutcliffe・Tommy Moore・Norman Chapman・John Lennon・George Harrison",
+      "detail": "5 位乐手在这两支乐队都待过：Stuart Sutcliffe・Tommy Moore・Norman Chapman・John Lennon・George Harrison。",
+      "year": 1960,
+      "weight": 0.95
+    },
+    {
+      "to": "plastic-ono-band",
+      "toName": "Plastic Ono Band",
+      "toArea": "伦敦",
+      "toYears": "1969–2015",
+      "type": "member",
+      "label": "John Lennon・Ringo Starr",
+      "detail": "2 位乐手在这两支乐队都待过：John Lennon・Ringo Starr。",
+      "year": 1969,
+      "weight": 0.84
+    },
+    {
+      "to": "the-singing-rebels-band",
+      "toName": "The Singing Rebels’ Band",
+      "toArea": null,
+      "toYears": "1985–1985",
+      "type": "member",
+      "label": "George Harrison・Ringo Starr",
+      "detail": "2 位乐手在这两支乐队都待过：George Harrison・Ringo Starr。",
+      "year": 1960,
+      "weight": 0.84
+    },
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Beatles 影响了 Pixies（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Beatles 影响了 Guns N’ Roses（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Beatles 影响了 Oasis（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "delaney-bonnie",
+      "toName": "Delaney & Bonnie",
+      "toArea": "洛杉矶",
+      "toYears": "1967–1972",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": 1960,
+      "weight": 0.62
+    },
+    {
+      "to": "traveling-wilburys",
+      "toName": "Traveling Wilburys",
+      "toArea": "Malibu",
+      "toYears": "1988–1990",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pete-best-band",
+      "toName": "The Pete Best Band",
+      "toArea": "利物浦",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "lee-curtis-the-all-stars",
+      "toName": "Lee Curtis & The All Stars",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": 1960,
+      "weight": 0.62
+    },
+    {
+      "to": "apple",
+      "toName": "Apple",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Lennon",
+      "detail": "John Lennon 在这两支乐队都待过。",
+      "year": 1960,
+      "weight": 0.62
+    },
+    {
+      "to": "george-s-band",
+      "toName": "George's Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "r-a-d-d-recording-artists-against-drunk-driving",
+      "toName": "R.A.D.D. (Recording Artists Against Drunk Driving)",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 1962,
+      "weight": 0.62
+    },
+    {
+      "to": "ringo-starr-his-all-starr-band",
+      "toName": "Ringo Starr & His All Starr Band",
+      "toArea": "伦敦",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "rory-storm-and-the-hurricanes",
+      "toName": "Rory Storm and the Hurricanes",
+      "toArea": "利物浦",
+      "toYears": "1957–1967",
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 1959,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pete-best-combo",
+      "toName": "The Pete Best Combo",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": 1960,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pete-best-four",
+      "toName": "The Pete Best Four",
+      "toArea": "英国",
+      "toYears": "1963–1964",
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": 1960,
+      "weight": 0.62
+    },
+    {
+      "to": "the-roundheads",
+      "toName": "The Roundheads",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 1962,
+      "weight": 0.62
+    },
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Beatles 影响了 Foo Fighters（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "pearl-jam",
+      "toName": "Pearl Jam",
+      "toArea": "西雅图",
+      "toYears": "1990–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Beatles 影响了 Pearl Jam（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "queen",
+      "toName": "Queen",
+      "toArea": "伦敦",
+      "toYears": "1970–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Beatles 影响了 Queen（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-rolling-stones",
+      "toName": "The Rolling Stones",
+      "toArea": "伦敦",
+      "toYears": "1962–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Beatles 影响了 The Rolling Stones（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "u2",
+      "toName": "U2",
+      "toArea": "都柏林",
+      "toYears": "1976–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Beatles 影响了 U2（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

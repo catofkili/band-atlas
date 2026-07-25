@@ -1,0 +1,77 @@
+{
+  "id": "a-place-to-kill",
+  "mbid": "8bd05603-f169-47c1-8e34-1c3f9573f822",
+  "name": "A Place to Kill",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "APTK",
+      "year": 2026
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8bd05603-f169-47c1-8e34-1c3f9573f822"
+  },
+  "edges": [
+    {
+      "to": "filter",
+      "toName": "Filter",
+      "toArea": "Cleveland",
+      "toYears": "1993–",
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    },
+    {
+      "to": "army-of-anyone",
+      "toName": "Army of Anyone",
+      "toArea": "洛杉矶",
+      "toYears": "2005–2007",
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    },
+    {
+      "to": "the-act",
+      "toName": "The Act",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    },
+    {
+      "to": "the-damning-well",
+      "toName": "The Damning Well",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    }
+  ]
+}

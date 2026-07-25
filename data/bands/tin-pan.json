@@ -1,0 +1,75 @@
+{
+  "id": "tin-pan",
+  "mbid": "948d77ca-3862-4d65-8f85-621183dcb827",
+  "name": "Tin Pan",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2000–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Tin Pan",
+      "year": 2000
+    },
+    {
+      "title": "Hound's Tooth",
+      "year": 2008
+    },
+    {
+      "title": "Underdogs & Thundercats",
+      "year": 2011
+    },
+    {
+      "title": "The Home Bartender's Songbook",
+      "year": 2011
+    },
+    {
+      "title": "Yes Yes Yes",
+      "year": 2015
+    },
+    {
+      "title": "矢野顕子＋TIN PAN PART II さとがえるコンサート",
+      "year": 2016
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/948d77ca-3862-4d65-8f85-621183dcb827"
+  },
+  "edges": [
+    {
+      "to": "ティン-パン-アレー",
+      "toName": "ティン・パン・アレー",
+      "toArea": "日本",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "鈴木茂・林立夫",
+      "detail": "2 位乐手在这两支乐队都待过：鈴木茂・林立夫。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "キャラメル-ママ",
+      "toName": "キャラメル・ママ",
+      "toArea": "日本",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "鈴木茂・林立夫",
+      "detail": "2 位乐手在这两支乐队都待过：鈴木茂・林立夫。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "はっぴいえんど",
+      "toName": "はっぴいえんど",
+      "toArea": "日本",
+      "toYears": "1969–1972",
+      "type": "member",
+      "label": "鈴木茂",
+      "detail": "鈴木茂 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

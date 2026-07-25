@@ -1,0 +1,193 @@
+{
+  "id": "supergroup-b",
+  "mbid": "f1a5d50b-59e2-4e11-8b5a-c190d61af791",
+  "name": "Supergroup B",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f1a5d50b-59e2-4e11-8b5a-c190d61af791"
+  },
+  "edges": [
+    {
+      "to": "tool",
+      "toName": "Tool",
+      "toArea": "洛杉矶",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Danny Carey・Adam Jones",
+      "detail": "2 位乐手在这两支乐队都待过：Danny Carey・Adam Jones。",
+      "year": 1990,
+      "weight": 0.84
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ronnie Wood・Tom Morello",
+      "detail": "2 位乐手在这两支乐队都待过：Ronnie Wood・Tom Morello。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "blink-182",
+      "toName": "blink‐182",
+      "toArea": "Poway",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Travis Barker",
+      "detail": "Travis Barker 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "melvins",
+      "toName": "Melvins",
+      "toArea": "Montesano",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Adam Jones",
+      "detail": "Adam Jones 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Danny Carey",
+      "detail": "Danny Carey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "quiet-riot",
+      "toName": "Quiet Riot",
+      "toArea": "洛杉矶",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "Rudy Sarzo",
+      "detail": "Rudy Sarzo 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "rage-against-the-machine",
+      "toName": "Rage Against the Machine",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2024",
+      "type": "member",
+      "label": "Tom Morello",
+      "detail": "Tom Morello 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-rolling-stones",
+      "toName": "The Rolling Stones",
+      "toArea": "伦敦",
+      "toYears": "1962–",
+      "type": "member",
+      "label": "Ronnie Wood",
+      "detail": "Ronnie Wood 在这两支乐队都待过。",
+      "year": 1975,
+      "weight": 0.62
+    },
+    {
+      "to": "axis-of-justice",
+      "toName": "Axis of Justice",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Tom Morello",
+      "detail": "Tom Morello 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "beat",
+      "toName": "BEAT",
+      "toArea": "美国",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "Danny Carey",
+      "detail": "Danny Carey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "cretin-family",
+      "toName": "Cretin Family",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Travis Barker",
+      "detail": "Travis Barker 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "eddie-vedder-and-the-earthlings",
+      "toName": "Eddie Vedder and the Earthlings",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Andrew Watt",
+      "detail": "Andrew Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "gunzo",
+      "toName": "Gunzo",
+      "toArea": "洛杉矶",
+      "toYears": "2015–",
+      "type": "member",
+      "label": "Rudy Sarzo",
+      "detail": "Rudy Sarzo 在这两支乐队都待过。",
+      "year": 2015,
+      "weight": 0.62
+    },
+    {
+      "to": "smith-watt-steakhouse",
+      "toName": "Smith & Watt Steakhouse",
+      "toArea": "美国",
+      "toYears": "1977–",
+      "type": "member",
+      "label": "Andrew Watt",
+      "detail": "Andrew Watt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-ronnie-wood-band",
+      "toName": "The Ronnie Wood Band",
+      "toArea": "英国",
+      "toYears": "2001–2002",
+      "type": "member",
+      "label": "Ronnie Wood",
+      "detail": "Ronnie Wood 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "zaum",
+      "toName": "Zaum",
+      "toArea": "洛杉矶",
+      "toYears": "1995–1996",
+      "type": "member",
+      "label": "Danny Carey",
+      "detail": "Danny Carey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

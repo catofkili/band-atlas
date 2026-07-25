@@ -1,0 +1,89 @@
+{
+  "id": "the-last-rockstars",
+  "mbid": "e114e00e-22c4-40bf-ae46-88514a6bb032",
+  "name": "THE LAST ROCKSTARS",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2022–",
+  "genres": [
+    "Rock",
+    "Supergroup",
+    "Visual Kei"
+  ],
+  "albums": [],
+  "intro": "The Last Rockstars是由X JAPAN团长YOSHIKI、L'Arc-en-Ciel主唱HYDE、LUNA SEA与X JAPAN的吉他手SUGIZO、国际音乐人MIYAVI于2022年11月11日联合组成的乐团。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e114e00e-22c4-40bf-ae46-88514a6bb032"
+  },
+  "edges": [
+    {
+      "to": "s-k-i-n",
+      "toName": "S.K.I.N.",
+      "toArea": "日本",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "YOSHIKI・MIYAVI",
+      "detail": "2 位乐手在这两支乐队都待过：YOSHIKI・MIYAVI。",
+      "year": 2022,
+      "weight": 0.84
+    },
+    {
+      "to": "l-arc-en-ciel",
+      "toName": "L’Arc〜en〜Ciel",
+      "toArea": "大阪",
+      "toYears": "1991–",
+      "type": "member",
+      "label": "HYDE",
+      "detail": "HYDE 在这两支乐队都待过。",
+      "year": 2022,
+      "weight": 0.62
+    },
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "YOSHIKI",
+      "detail": "YOSHIKI 在这两支乐队都待过。",
+      "year": 2022,
+      "weight": 0.62
+    },
+    {
+      "to": "vamps",
+      "toName": "VAMPS",
+      "toArea": "日本",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "HYDE",
+      "detail": "HYDE 在这两支乐队都待过。",
+      "year": 2022,
+      "weight": 0.62
+    },
+    {
+      "to": "halloween-junky-orchestra",
+      "toName": "HALLOWEEN JUNKY ORCHESTRA",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "HYDE",
+      "detail": "HYDE 在这两支乐队都待过。",
+      "year": 2022,
+      "weight": 0.62
+    },
+    {
+      "to": "violet-uk",
+      "toName": "Violet UK",
+      "toArea": "日本",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "YOSHIKI",
+      "detail": "YOSHIKI 在这两支乐队都待过。",
+      "year": 2022,
+      "weight": 0.62
+    }
+  ]
+}

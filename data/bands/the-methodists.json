@@ -3,6 +3,8 @@
   "mbid": "2bfe8ede-40fa-4f45-8b4e-2f540783efbe",
   "name": "The Methodists",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1995–1998",
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 1998
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2bfe8ede-40fa-4f45-8b4e-2f540783efbe"
   },

@@ -1,0 +1,94 @@
+{
+  "id": "satan-on-fire",
+  "mbid": "af7ee72a-e8ed-4b93-b4aa-9ce9b4ca8c1c",
+  "name": "Satan on Fire",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/af7ee72a-e8ed-4b93-b4aa-9ce9b4ca8c1c"
+  },
+  "edges": [
+    {
+      "to": "marilyn-manson",
+      "toName": "Marilyn Manson",
+      "toArea": "Fort Lauderdale",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Jeordie White・Marilyn Manson",
+      "detail": "2 位乐手在这两支乐队都待过：Jeordie White・Marilyn Manson。",
+      "year": 2008,
+      "weight": 0.84
+    },
+    {
+      "to": "mrs-scabtree",
+      "toName": "Mrs. Scabtree",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Jeordie White・Marilyn Manson",
+      "detail": "2 位乐手在这两支乐队都待过：Jeordie White・Marilyn Manson。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "a-perfect-circle",
+      "toName": "A Perfect Circle",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "desert-sessions",
+      "toName": "Desert Sessions",
+      "toArea": "Palm Desert",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "amboog-a-lard",
+      "toName": "Amboog-a-Lard",
+      "toArea": "Coral Springs",
+      "toYears": "1987–1997",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "goon-moon",
+      "toName": "Goon Moon",
+      "toArea": "美国",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "id": "scar-the-martyr",
+  "mbid": "3a8ee67d-c722-423e-8c85-4e54dd1ad0f1",
+  "name": "Scar the Martyr",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2013–",
+  "genres": [
+    "Alternative Metal",
+    "Nu Metal",
+    "Industrial Metal"
+  ],
+  "albums": [
+    {
+      "title": "Scar the Martyr",
+      "year": 2013
+    }
+  ],
+  "intro": "Vimic is an American heavy metal band consisting of Jed Simon, Kyle Konkiel, Matthew Tarach, Kalen Chase, and Steve Marshall.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3a8ee67d-c722-423e-8c85-4e54dd1ad0f1"
+  },
+  "edges": [
+    {
+      "to": "skrew",
+      "toName": "Skrew",
+      "toArea": "奥斯汀",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Jed Simon",
+      "detail": "Jed Simon 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    },
+    {
+      "to": "slipknot",
+      "toName": "Slipknot",
+      "toArea": "Des Moines",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Joey Jordison",
+      "detail": "Joey Jordison 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    }
+  ]
+}

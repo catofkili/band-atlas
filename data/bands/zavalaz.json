@@ -1,0 +1,28 @@
+{
+  "id": "zavalaz",
+  "mbid": "f407a25b-7341-4411-bd73-ab73e4c2536d",
+  "name": "Zavalaz",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f407a25b-7341-4411-bd73-ab73e4c2536d"
+  },
+  "edges": [
+    {
+      "to": "dot-hacker",
+      "toName": "Dot Hacker",
+      "toArea": "洛杉矶",
+      "toYears": "2008–",
+      "type": "guest",
+      "label": "伴奏・助演",
+      "detail": "MusicBrainz 记录的伴奏・助演关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

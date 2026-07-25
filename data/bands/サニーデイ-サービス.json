@@ -1,0 +1,88 @@
+{
+  "id": "サニーデイ-サービス",
+  "mbid": "65f3d4e1-bd94-4880-a801-666d0ddc0dc2",
+  "name": "サニーデイ・サービス",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1992–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "若者たち",
+      "year": 1995
+    },
+    {
+      "title": "東京",
+      "year": 1996
+    },
+    {
+      "title": "サニーデイ・サービス",
+      "year": 1997
+    },
+    {
+      "title": "愛と笑いの夜",
+      "year": 1997
+    },
+    {
+      "title": "24時",
+      "year": 1998
+    },
+    {
+      "title": "MUGEN",
+      "year": 1999
+    }
+  ],
+  "intro": "サニーデイ・サービスは、日本のロックバンド。ボーカル、ギターの曽我部恵一を中心として1992年に結成され、1994年にミニ・アルバム『星空のドライブep』でメジャーデビュー。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/65f3d4e1-bd94-4880-a801-666d0ddc0dc2"
+  },
+  "edges": [
+    {
+      "to": "s-m-n",
+      "toName": "S.M.N.",
+      "toArea": "日本",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "横山裕章",
+      "detail": "横山裕章 在这两支乐队都待过。",
+      "year": 2020,
+      "weight": 0.62
+    },
+    {
+      "to": "曽我部恵一band",
+      "toName": "曽我部恵一BAND",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "曽我部恵一",
+      "detail": "曽我部恵一 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "擬態屋",
+      "toName": "擬態屋",
+      "toArea": "东京",
+      "toYears": "2020–",
+      "type": "member",
+      "label": "曽我部恵一",
+      "detail": "曽我部恵一 在这两支乐队都待过。",
+      "year": 2020,
+      "weight": 0.62
+    },
+    {
+      "to": "agehasprings",
+      "toName": "agehasprings",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "横山裕章",
+      "detail": "横山裕章 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    }
+  ]
+}

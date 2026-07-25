@@ -3,6 +3,8 @@
   "mbid": "dc0d05ce-2f47-4962-b4fa-8631a0a51987",
   "name": "The Replacements",
   "area": "明尼阿波利斯",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1979–1991",
   "genres": [
     "Alternative Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "ザ・リプレイスメンツは、ミネソタ州ミネアポリスのロックバンドである。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dc0d05ce-2f47-4962-b4fa-8631a0a51987"
   },
@@ -128,6 +131,17 @@
       "detail": "Tommy Stinson 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62
+    },
+    {
+      "to": "green-day",
+      "toName": "Green Day",
+      "toArea": "Berkeley",
+      "toYears": "1989–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Replacements 影响了 Green Day（Wikidata）。",
+      "year": null,
+      "weight": 0.46
     }
   ]
 }

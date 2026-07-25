@@ -1,0 +1,80 @@
+{
+  "id": "ティン-パン-アレー",
+  "mbid": "21914c00-4e74-48e8-9f58-15b4af1b38d8",
+  "name": "ティン・パン・アレー",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1973–",
+  "genres": [
+    "Likedis Auto",
+    "Nyū MyūJikku"
+  ],
+  "albums": [
+    {
+      "title": "キャラメル・ママ",
+      "year": 1975
+    },
+    {
+      "title": "Soul Samba Holiday In Brazil",
+      "year": 1977
+    },
+    {
+      "title": "TIN PAN ALLEY 2",
+      "year": 1977
+    },
+    {
+      "title": "アワー・コネクション",
+      "year": 1977
+    },
+    {
+      "title": "ベスト15",
+      "year": 1992
+    },
+    {
+      "title": "ティン・パン・アレー セレクション",
+      "year": 2003
+    }
+  ],
+  "intro": "ティン・パン・アレー は、1973年に結成された日本のバンド。所属していた事務所は桑原オフィス。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/21914c00-4e74-48e8-9f58-15b4af1b38d8"
+  },
+  "edges": [
+    {
+      "to": "tin-pan",
+      "toName": "Tin Pan",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "鈴木茂・林立夫",
+      "detail": "2 位乐手在这两支乐队都待过：鈴木茂・林立夫。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "キャラメル-ママ",
+      "toName": "キャラメル・ママ",
+      "toArea": "日本",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "鈴木茂・林立夫",
+      "detail": "2 位乐手在这两支乐队都待过：鈴木茂・林立夫。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "はっぴいえんど",
+      "toName": "はっぴいえんど",
+      "toArea": "日本",
+      "toYears": "1969–1972",
+      "type": "member",
+      "label": "鈴木茂",
+      "detail": "鈴木茂 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "72186b6a-fe30-4e2a-9c31-852e23ff93af",
   "name": "The Muffs",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1991–2019",
   "genres": [
     "Pop Punk",
@@ -36,6 +38,7 @@
   ],
   "intro": "ザ・マフス (The Muffs) はアメリカのロックバンド。1991年に結成、ロサンゼルスを拠点として、何度か活動休止を挟みつつ、活動を続けていた。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/72186b6a-fe30-4e2a-9c31-852e23ff93af"
   },
@@ -72,6 +75,28 @@
       "detail": "2 位乐手在这两支乐队都待过：Kim Shattuck・Melanie Vammen。",
       "year": 1985,
       "weight": 0.84
+    },
+    {
+      "to": "redd-kross",
+      "toName": "Redd Kross",
+      "toArea": "Hawthorne",
+      "toYears": "1980–",
+      "type": "member",
+      "label": "Roy McDonald",
+      "detail": "Roy McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-tater-totz",
+      "toName": "The Tater Totz",
+      "toArea": "Hawthorne",
+      "toYears": "1987–",
+      "type": "member",
+      "label": "Melanie Vammen",
+      "detail": "Melanie Vammen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
     },
     {
       "to": "the-beards",

@@ -3,6 +3,8 @@
   "mbid": "c44092a6-d6be-4bfa-9650-edccc69f7a2b",
   "name": "Bash & Pop",
   "area": "明尼阿波利斯",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1992–",
   "genres": [
     "Power Pop"
@@ -19,6 +21,7 @@
   ],
   "intro": "Bash & Pop are an American alternative rock band formed in 1992 by Tommy Stinson in Minneapolis, Minnesota, following the breakup of the Replacements.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c44092a6-d6be-4bfa-9650-edccc69f7a2b"
   },

@@ -1,0 +1,55 @@
+{
+  "id": "combative-post",
+  "mbid": "74cebc28-457d-4a02-b734-e888087ebc12",
+  "name": "Combative Post",
+  "area": "首尔",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Whiteout",
+      "year": 2020
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/74cebc28-457d-4a02-b734-e888087ebc12"
+  },
+  "edges": [
+    {
+      "to": "13steps",
+      "toName": "13Steps",
+      "toArea": "Cheongju",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "이일우",
+      "detail": "이일우 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "잠비나이",
+      "toName": "잠비나이",
+      "toArea": "首尔",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "이일우",
+      "detail": "이일우 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "49-morphines",
+      "toName": "49 Morphines",
+      "toArea": "韩国",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "이일우",
+      "detail": "이일우 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "rock-therapy",
+  "mbid": "85aefc0a-a3ba-4524-8664-ec89bf42146e",
+  "name": "Rock Therapy",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1996–1996",
+  "genres": [],
+  "albums": [],
+  "intro": "Rock Therapy was a 1996 one-off project consisting of Queen guitarist Brian May, Rolling Stones drummer Charlie Watts, plus a number of guest vocalists including Sam Brown, Andy Fairweather Low, Paul Rodgers and Lulu.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/85aefc0a-a3ba-4524-8664-ec89bf42146e"
+  },
+  "edges": [
+    {
+      "to": "george-s-band",
+      "toName": "George's Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Sam Brown・Andy Fairweather‐Low",
+      "detail": "2 位乐手在这两支乐队都待过：Sam Brown・Andy Fairweather‐Low。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "the-rolling-stones",
+      "toName": "The Rolling Stones",
+      "toArea": "伦敦",
+      "toYears": "1962–",
+      "type": "member",
+      "label": "Charlie Watts",
+      "detail": "Charlie Watts 在这两支乐队都待过。",
+      "year": 1963,
+      "weight": 0.62
+    },
+    {
+      "to": "the-firm",
+      "toName": "The Firm",
+      "toArea": "英格兰",
+      "toYears": "1984–1986",
+      "type": "member",
+      "label": "Paul Rodgers",
+      "detail": "Paul Rodgers 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-gaddabouts",
+      "toName": "The Gaddabouts",
+      "toArea": "纽约",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Andy Fairweather‐Low",
+      "detail": "Andy Fairweather‐Low 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,73 @@
+{
+  "id": "はっぴいえんど",
+  "mbid": "4bd19b19-4ef4-42e0-ac5c-a21f709d248b",
+  "name": "はっぴいえんど",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1969–1972",
+  "genres": [
+    "Folk Rock",
+    "J-Rock",
+    "Nyū MyūJikku"
+  ],
+  "albums": [
+    {
+      "title": "はっぴいえんど",
+      "year": 1970
+    },
+    {
+      "title": "風街ろまん",
+      "year": 1971
+    },
+    {
+      "title": "Happy End",
+      "year": 1973
+    },
+    {
+      "title": "はっぴいえんど グレーテスト・ライブ！ オン・ステージ",
+      "year": 1995
+    }
+  ],
+  "intro": "はっぴいえんどは、1970年代前半に活動した日本のロックバンド。細野晴臣、大瀧詠一、松本隆、鈴木茂によって結成された。日本語ロック史の草創期に活動したグループの一つ。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4bd19b19-4ef4-42e0-ac5c-a21f709d248b"
+  },
+  "edges": [
+    {
+      "to": "tin-pan",
+      "toName": "Tin Pan",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "鈴木茂",
+      "detail": "鈴木茂 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ティン-パン-アレー",
+      "toName": "ティン・パン・アレー",
+      "toArea": "日本",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "鈴木茂",
+      "detail": "鈴木茂 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "キャラメル-ママ",
+      "toName": "キャラメル・ママ",
+      "toArea": "日本",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "鈴木茂",
+      "detail": "鈴木茂 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "id": "the-buddha-boys-choir",
+  "mbid": "b34ca318-069e-4d0d-b939-a53e6052af2c",
+  "name": "The Buddha Boys Choir",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b34ca318-069e-4d0d-b939-a53e6052af2c"
+  },
+  "edges": [
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Keith Hillebrandt",
+      "detail": "Keith Hillebrandt 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "nearly",
+      "toName": "nearLY",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Keith Hillebrandt",
+      "detail": "Keith Hillebrandt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,9 +3,12 @@
   "mbid": "5a94f4a5-b367-4765-8bf1-80c35c56c761",
   "name": "BEEFEATER",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2002–2002",
   "genres": [],
   "albums": [],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5a94f4a5-b367-4765-8bf1-80c35c56c761"
   },

@@ -1,0 +1,41 @@
+{
+  "id": "emptyorio",
+  "mbid": "b4959dda-26fa-4c34-b52a-5610c913a59f",
+  "name": "EmptyORio",
+  "area": "台湾",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "EmptyORio",
+      "year": 2018
+    },
+    {
+      "title": "莫相信袂變卦",
+      "year": 2021
+    },
+    {
+      "title": "ALL THE BEST",
+      "year": 2026
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b4959dda-26fa-4c34-b52a-5610c913a59f"
+  },
+  "edges": [
+    {
+      "to": "滅火器",
+      "toName": "滅火器",
+      "toArea": "Kaohsiung",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "鄭宇辰・柯光",
+      "detail": "2 位乐手在这两支乐队都待过：鄭宇辰・柯光。",
+      "year": 2004,
+      "weight": 0.84
+    }
+  ]
+}

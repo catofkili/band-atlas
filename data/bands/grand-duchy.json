@@ -3,6 +3,8 @@
   "mbid": "222e2e9e-5b42-4772-8984-4a9c79cd476f",
   "name": "Grand Duchy",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2008–",
   "genres": [],
   "albums": [
@@ -17,6 +19,7 @@
   ],
   "intro": "Grand Duchy is an American alternative/electronic/art rock band formed in 2008 by Black Francis (also known as Frank Black), the frontman of the Pixies, and his then-wife, musician Violet Clark.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/222e2e9e-5b42-4772-8984-4a9c79cd476f"
   },

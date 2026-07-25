@@ -3,6 +3,8 @@
   "mbid": "7ea8a523-b33d-4944-ad31-fad25a81d603",
   "name": "toe",
   "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2000–",
   "genres": [
     "Post-Rock",
@@ -28,6 +30,7 @@
   ],
   "intro": "toe是一支2000年在日本东京成立的数学摇滚，后摇滚乐队。",
   "introLang": "zh",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7ea8a523-b33d-4944-ad31-fad25a81d603"
   },

@@ -3,6 +3,8 @@
   "mbid": "577758f9-73db-44cb-9cb6-8508a842db77",
   "name": "Loser",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [
     "Rock"
@@ -13,6 +15,7 @@
       "year": 1991
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/577758f9-73db-44cb-9cb6-8508a842db77"
   },
@@ -40,6 +43,28 @@
       "weight": 0.62
     },
     {
+      "to": "redd-kross",
+      "toName": "Redd Kross",
+      "toArea": "Hawthorne",
+      "toYears": "1980–",
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sparks",
+      "toName": "Sparks",
+      "toArea": "洛杉矶",
+      "toYears": "1970–",
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
       "to": "ima-robot",
       "toName": "Ima Robot",
       "toArea": "洛杉矶",
@@ -62,6 +87,39 @@
       "weight": 0.62
     },
     {
+      "to": "the-tater-totz",
+      "toName": "The Tater Totz",
+      "toArea": "Hawthorne",
+      "toYears": "1987–",
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "digital-noise-academy",
+      "toName": "Digital Noise Academy",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Justin Meldal‐Johnsen",
+      "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "hankshaw",
+      "toName": "Hankshaw",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Justin Meldal‐Johnsen",
+      "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
       "to": "broken-bat",
       "toName": "Broken Bat",
       "toArea": null,
@@ -76,6 +134,17 @@
       "to": "dale-crover-band",
       "toName": "Dale Crover Band",
       "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "nighttime-boogie-association",
+      "toName": "Nighttime Boogie Association",
+      "toArea": null,
       "toYears": null,
       "type": "member",
       "label": "Steve McDonald",

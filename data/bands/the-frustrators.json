@@ -1,0 +1,74 @@
+{
+  "id": "the-frustrators",
+  "mbid": "75be5447-9d9b-41c7-965c-fd4a0985576f",
+  "name": "The Frustrators",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1999–",
+  "genres": [
+    "Pop Punk"
+  ],
+  "albums": [
+    {
+      "title": "Bored in the USA",
+      "year": 2000
+    },
+    {
+      "title": "Achtung Jackass",
+      "year": 2002
+    }
+  ],
+  "intro": "The Frustrators are an American punk rock band with Jason Chandler (lead vocals), Terry Linehan (guitar, vocals), Art Tedeschi (drums), and Mike Dirnt (bass, vocals).",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/75be5447-9d9b-41c7-965c-fd4a0985576f"
+  },
+  "edges": [
+    {
+      "to": "green-day",
+      "toName": "Green Day",
+      "toArea": "Berkeley",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Mike Dirnt",
+      "detail": "Mike Dirnt 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-network",
+      "toName": "The Network",
+      "toArea": "Berkeley",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Mike Dirnt",
+      "detail": "Mike Dirnt 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "foxboro-hot-tubs",
+      "toName": "Foxboro Hot Tubs",
+      "toArea": "美国",
+      "toYears": "2007–",
+      "type": "member",
+      "label": "Mike Dirnt",
+      "detail": "Mike Dirnt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-coverups",
+      "toName": "The Coverups",
+      "toArea": null,
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Mike Dirnt",
+      "detail": "Mike Dirnt 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

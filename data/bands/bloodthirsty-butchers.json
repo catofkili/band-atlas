@@ -3,6 +3,8 @@
   "mbid": "8293299e-5411-4502-aed3-7ed09d37bf38",
   "name": "bloodthirsty butchers",
   "area": "北海道",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "1987–2013",
   "genres": [
     "Alternative Rock",
@@ -39,6 +41,7 @@
     "kocorono"
   ],
   "lore": "2013 年 5 月，吉村秀树突然离世，乐队随之终止。此后多年，日本另类摇滚圈的纪念演出没有断过。",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8293299e-5411-4502-aed3-7ed09d37bf38"
   },

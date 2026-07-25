@@ -1,0 +1,55 @@
+{
+  "id": "朝简",
+  "mbid": "844ea9ee-5aaf-4507-961e-eba6e2ed49aa",
+  "name": "朝简",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "百家姓・三字经",
+      "year": 2020
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/844ea9ee-5aaf-4507-961e-eba6e2ed49aa"
+  },
+  "edges": [
+    {
+      "to": "黑豹",
+      "toName": "黑豹",
+      "toArea": "北京",
+      "toYears": "1987–",
+      "type": "member",
+      "label": "窦唯",
+      "detail": "窦唯 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "暮良文王",
+      "toName": "暮良文王",
+      "toArea": "中国",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "窦唯",
+      "detail": "窦唯 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "做梦",
+      "toName": "做梦",
+      "toArea": "中国",
+      "toYears": "1991–",
+      "type": "member",
+      "label": "窦唯",
+      "detail": "窦唯 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    }
+  ]
+}

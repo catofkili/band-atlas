@@ -1,0 +1,67 @@
+{
+  "id": "krautzone",
+  "mbid": "815a1812-e87a-44b5-a77c-0c604ceda72b",
+  "name": "Krautzone",
+  "area": "德国",
+  "countryCode": "DE",
+  "country": "德国",
+  "years": "2011–",
+  "genres": [
+    "Jam Band",
+    "Krautrock",
+    "Psychedelic Rock"
+  ],
+  "albums": [
+    {
+      "title": "Kosmische Rituale",
+      "year": 2013
+    },
+    {
+      "title": "Superkraut / Doors of Perception",
+      "year": 2014
+    },
+    {
+      "title": "Spiritual Retreat",
+      "year": 2015
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/815a1812-e87a-44b5-a77c-0c604ceda72b"
+  },
+  "edges": [
+    {
+      "to": "zone-six",
+      "toName": "Zone Six",
+      "toArea": "柏林",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Rainer Neeff・Komet Lulu・Sula Bassana",
+      "detail": "3 位乐手在这两支乐队都待过：Rainer Neeff・Komet Lulu・Sula Bassana。",
+      "year": 2011,
+      "weight": 0.95
+    },
+    {
+      "to": "infrared-hologram",
+      "toName": "Infrared Hologram",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Rainer Neeff",
+      "detail": "Rainer Neeff 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pancakes",
+      "toName": "The Pancakes",
+      "toArea": "Baden-Württemberg",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Rainer Neeff",
+      "detail": "Rainer Neeff 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    }
+  ]
+}

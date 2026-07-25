@@ -3,6 +3,8 @@
   "mbid": "4c18be5e-2e53-41a4-a4a1-d9080ff88f8c",
   "name": "Happy Go Licky",
   "area": "华盛顿特区",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1987–1988",
   "genres": [],
   "albums": [
@@ -13,6 +15,7 @@
   ],
   "intro": "Happy Go Licky was an American post-hardcore band formed in the spring of 1987, and which broke up after their final show at Washington, D.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4c18be5e-2e53-41a4-a4a1-d9080ff88f8c"
   },

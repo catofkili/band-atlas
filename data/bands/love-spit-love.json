@@ -1,0 +1,75 @@
+{
+  "id": "love-spit-love",
+  "mbid": "d703af9a-d993-4f00-92aa-14ea284e39bd",
+  "name": "Love Spit Love",
+  "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1992–2000",
+  "genres": [
+    "Alternative Rock",
+    "Pop Rock"
+  ],
+  "albums": [
+    {
+      "title": "Love Spit Love",
+      "year": 1994
+    },
+    {
+      "title": "Trysome Eatone",
+      "year": 1997
+    }
+  ],
+  "intro": "Love Spit Love was an English–American alternative rock band founded in 1992 by the English singer Richard Butler during the 1990s hiatus of the Psychedelic Furs.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d703af9a-d993-4f00-92aa-14ea284e39bd"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Richard Fortus・Frank Ferrer",
+      "detail": "2 位乐手在这两支乐队都待过：Richard Fortus・Frank Ferrer。",
+      "year": 2002,
+      "weight": 0.84
+    },
+    {
+      "to": "the-dead-daisies",
+      "toName": "The Dead Daisies",
+      "toArea": "悉尼",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Richard Fortus・Frank Ferrer",
+      "detail": "2 位乐手在这两支乐队都待过：Richard Fortus・Frank Ferrer。",
+      "year": 2013,
+      "weight": 0.84
+    },
+    {
+      "to": "gordon-gano-the-ryans",
+      "toName": "Gordon Gano & The Ryans",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Frank Ferrer・Lonnie D. Hillyer",
+      "detail": "2 位乐手在这两支乐队都待过：Frank Ferrer・Lonnie D. Hillyer。",
+      "year": 1992,
+      "weight": 0.84
+    },
+    {
+      "to": "beatrazr",
+      "toName": "Beatrazr",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Frank Ferrer",
+      "detail": "Frank Ferrer 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    }
+  ]
+}

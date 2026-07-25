@@ -1,0 +1,114 @@
+{
+  "id": "loudness",
+  "mbid": "513b6df2-f44c-4484-b99d-97f79266cb4a",
+  "name": "LOUDNESS",
+  "area": "大阪",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1981–",
+  "genres": [
+    "Heavy Metal",
+    "Hard Rock",
+    "Metal"
+  ],
+  "albums": [
+    {
+      "title": "The Birthday Eve 〜誕生前夜〜",
+      "year": 1981
+    },
+    {
+      "title": "Devil Soldier ～戦慄の奇跡〜",
+      "year": 1982
+    },
+    {
+      "title": "The Law of Devil's Land ～魔界曲章〜",
+      "year": 1983
+    },
+    {
+      "title": "Disillusion",
+      "year": 1984
+    },
+    {
+      "title": "Thunder in the East",
+      "year": 1985
+    },
+    {
+      "title": "Lightning Strikes",
+      "year": 1986
+    }
+  ],
+  "intro": "响度乐团是日本男子重金属乐团，于1981年由吉他手高崎晃和鼓手樋口宗孝所成立。他们是第一个被美国厂牌签约的日本重金属乐团，截到2009年为止一共发行了23张录音专辑(于美国发行五张)。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/513b6df2-f44c-4484-b99d-97f79266cb4a"
+  },
+  "edges": [
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "d-t-r",
+      "toName": "D.T.R",
+      "toArea": "日本",
+      "toYears": "1993–",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "dead-wire",
+      "toName": "Dead Wire",
+      "toArea": "日本",
+      "toYears": "1986–1986",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "dementia",
+      "toName": "Dementia",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "heavens",
+      "toName": "HEAVENS",
+      "toArea": "日本",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "trash",
+      "toName": "Trash",
+      "toArea": "日本",
+      "toYears": "1983–1984",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    }
+  ]
+}

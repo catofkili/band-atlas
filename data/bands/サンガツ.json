@@ -1,0 +1,47 @@
+{
+  "id": "サンガツ",
+  "mbid": "51983b80-a95e-4a5d-9c5d-4108d957ce5c",
+  "name": "サンガツ",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [
+    "Likedis Auto"
+  ],
+  "albums": [
+    {
+      "title": "サンガツ",
+      "year": 2000
+    },
+    {
+      "title": "波",
+      "year": 2001
+    },
+    {
+      "title": "静かな生活",
+      "year": 2005
+    },
+    {
+      "title": "5つのコンポジション",
+      "year": 2010
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/51983b80-a95e-4a5d-9c5d-4108d957ce5c"
+  },
+  "edges": [
+    {
+      "to": "くるり",
+      "toName": "くるり",
+      "toArea": "京都",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "田中 佑司",
+      "detail": "田中 佑司 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "40ec273c-85dd-487c-8935-ccbc7d866119",
   "name": "Slash’s Snakepit",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1994–2002",
   "genres": [
     "Hard Rock",
@@ -21,6 +23,7 @@
   ],
   "intro": "スラッシュズ・スネイクピット (Slash's Snakepit) は1994年当時、ガンズ・アンド・ローゼズに在籍していたギタリストのスラッシュが結成したバンド。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/40ec273c-85dd-487c-8935-ccbc7d866119"
   },
@@ -59,10 +62,32 @@
       "weight": 0.62
     },
     {
+      "to": "megadeth",
+      "toName": "Megadeth",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "James LoMenzo",
+      "detail": "James LoMenzo 在这两支乐队都待过。",
+      "year": 2022,
+      "weight": 0.62
+    },
+    {
       "to": "the-dead-daisies",
       "toName": "The Dead Daisies",
       "toArea": "悉尼",
       "toYears": "2012–",
+      "type": "member",
+      "label": "Brian Tichy",
+      "detail": "Brian Tichy 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "tak-matsumoto-group",
+      "toName": "Tak Matsumoto Group",
+      "toArea": "日本",
+      "toYears": "2004–",
       "type": "member",
       "label": "Brian Tichy",
       "detail": "Brian Tichy 在这两支乐队都待过。",

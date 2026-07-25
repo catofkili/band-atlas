@@ -1,0 +1,35 @@
+{
+  "id": "gizmodrome",
+  "mbid": "2ab80f85-4b7f-4be8-a74f-a954c8f53cbb",
+  "name": "Gizmodrome",
+  "area": "Milano",
+  "countryCode": "IT",
+  "country": "意大利",
+  "years": "2017–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Gizmodrome",
+      "year": 2017
+    }
+  ],
+  "intro": "Gizmodrome (sometimes known as Copeland, King, Cosma & Belew) is a British-Italian-American rock supergroup formed in Milan, Italy in 2017.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2ab80f85-4b7f-4be8-a74f-a954c8f53cbb"
+  },
+  "edges": [
+    {
+      "to": "mad-for-the-racket",
+      "toName": "Mad for the Racket",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Stewart Copeland",
+      "detail": "Stewart Copeland 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

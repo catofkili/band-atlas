@@ -1,0 +1,96 @@
+{
+  "id": "gibkiy-gibkiy-gibkiy",
+  "mbid": "fe2385a7-5dda-4e67-845b-f09783805b44",
+  "name": "gibkiy gibkiy gibkiy",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2016–",
+  "genres": [
+    "Alternative Metal",
+    "Art Kei",
+    "Experimental Rock"
+  ],
+  "albums": [
+    {
+      "title": "不条理種劇",
+      "year": 2016
+    },
+    {
+      "title": "In incontinence",
+      "year": 2017
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fe2385a7-5dda-4e67-845b-f09783805b44"
+  },
+  "edges": [
+    {
+      "to": "the-madcap-laughs",
+      "toName": "THE MADCAP LAUGHS",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Sakura・aie",
+      "detail": "2 位乐手在这两支乐队都待过：Sakura・aie。",
+      "year": 2016,
+      "weight": 0.84
+    },
+    {
+      "to": "l-arc-en-ciel",
+      "toName": "L’Arc〜en〜Ciel",
+      "toArea": "大阪",
+      "toYears": "1991–",
+      "type": "member",
+      "label": "Sakura",
+      "detail": "Sakura 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    },
+    {
+      "to": "zigzo",
+      "toName": "ZIGZO",
+      "toArea": "日本",
+      "toYears": "1999–2002",
+      "type": "member",
+      "label": "Sakura",
+      "detail": "Sakura 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    },
+    {
+      "to": "rayflower",
+      "toName": "Rayflower",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Sakura",
+      "detail": "Sakura 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    },
+    {
+      "to": "lion-heads",
+      "toName": "Lion Heads",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "Sakura",
+      "detail": "Sakura 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    },
+    {
+      "to": "sons-of-all-pussys",
+      "toName": "SONS OF ALL PUSSYS",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "Sakura",
+      "detail": "Sakura 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    }
+  ]
+}

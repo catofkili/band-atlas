@@ -3,12 +3,15 @@
   "mbid": "7994fd50-cd4d-4366-9848-53afd8827b8d",
   "name": "Orcutt Shelley Miller",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [
     "Psychedelic Rock",
     "Space Rock"
   ],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/7994fd50-cd4d-4366-9848-53afd8827b8d"
   },

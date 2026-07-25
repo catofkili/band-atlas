@@ -3,6 +3,8 @@
   "mbid": "20fa3e73-7ac4-4550-b9f5-6ac8c523bda5",
   "name": "Love Battery",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1989–",
   "genres": [
     "Alternative Rock",
@@ -33,6 +35,7 @@
   ],
   "intro": "Love Battery is an American rock band from Seattle, Washington.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/20fa3e73-7ac4-4550-b9f5-6ac8c523bda5"
   },

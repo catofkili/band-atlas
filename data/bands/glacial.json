@@ -3,6 +3,8 @@
   "mbid": "ac0f79b4-3ac9-4146-ba1c-cd9ee21dd3f8",
   "name": "Glacial",
   "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2012
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ac0f79b4-3ac9-4146-ba1c-cd9ee21dd3f8"
   },

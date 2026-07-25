@@ -1,0 +1,83 @@
+{
+  "id": "emperor",
+  "mbid": "9789915d-d16a-4ce8-80d3-63eda0b44e67",
+  "name": "Emperor",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1987–1990",
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9789915d-d16a-4ce8-80d3-63eda0b44e67"
+  },
+  "edges": [
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "高井寿・宇高光",
+      "detail": "2 位乐手在这两支乐队都待过：高井寿・宇高光。",
+      "year": 1987,
+      "weight": 0.84
+    },
+    {
+      "to": "dementia",
+      "toName": "Dementia",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "宇田川隆・TOKIHIKO",
+      "detail": "2 位乐手在这两支乐队都待过：宇田川隆・TOKIHIKO。",
+      "year": 1987,
+      "weight": 0.84
+    },
+    {
+      "to": "united",
+      "toName": "UNITED",
+      "toArea": "日本",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "大谷慎吾",
+      "detail": "大谷慎吾 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "横須賀サーベルタイガー",
+      "toName": "横須賀サーベルタイガー",
+      "toArea": "Yokosuka",
+      "toYears": "1981–1987",
+      "type": "member",
+      "label": "TOKIHIKO",
+      "detail": "TOKIHIKO 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "fractured-mirror",
+      "toName": "Fractured Mirror",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "宇高光",
+      "detail": "宇高光 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    },
+    {
+      "to": "power-germanys",
+      "toName": "POWER GERMANYS",
+      "toArea": "日本",
+      "toYears": "2002–2002",
+      "type": "member",
+      "label": "大谷慎吾",
+      "detail": "大谷慎吾 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    }
+  ]
+}

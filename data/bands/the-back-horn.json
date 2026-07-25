@@ -1,0 +1,70 @@
+{
+  "id": "the-back-horn",
+  "mbid": "05f4fbf4-d01f-4dac-bd66-9613e4db8044",
+  "name": "THE BACK HORN",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1998–",
+  "genres": [
+    "Alternative Rock",
+    "J-Rock",
+    "Pop Punk"
+  ],
+  "albums": [
+    {
+      "title": "何処へ行く",
+      "year": 1999
+    },
+    {
+      "title": "甦る陽",
+      "year": 2000
+    },
+    {
+      "title": "人間プログラム",
+      "year": 2001
+    },
+    {
+      "title": "心臓オーケストラ",
+      "year": 2002
+    },
+    {
+      "title": "イキルサイノウ",
+      "year": 2003
+    },
+    {
+      "title": "ヘッドフォンチルドレン",
+      "year": 2005
+    }
+  ],
+  "intro": "爆轰乐团是日本摇滚乐团，1998年成立于日本东京。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/05f4fbf4-d01f-4dac-bd66-9613e4db8044"
+  },
+  "edges": [
+    {
+      "to": "178r",
+      "toName": "178R",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "山田将司",
+      "detail": "山田将司 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "猪苗代湖ズ",
+      "toName": "猪苗代湖ズ",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "松田晋二",
+      "detail": "松田晋二 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    }
+  ]
+}

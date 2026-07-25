@@ -1,0 +1,51 @@
+{
+  "id": "tlc",
+  "mbid": "99790314-885a-4975-8614-9c5bc890364d",
+  "name": "TLC",
+  "area": null,
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Ooooooohhh…On the TLC Tip",
+      "year": 1992
+    },
+    {
+      "title": "CrazySexyCool",
+      "year": 1994
+    },
+    {
+      "title": "FanMail",
+      "year": 1999
+    },
+    {
+      "title": "3D",
+      "year": 2002
+    },
+    {
+      "title": "TLC",
+      "year": 2017
+    }
+  ],
+  "intro": "TLC是美国著名女子音乐组合，1991年创立于亚特兰大，三名成员为缇盎·瓦特金斯，艺名\"T-Boz\"、丽莎·洛佩兹，艺名\"Left Eye\"、罗藏达·托马斯，艺名\"Chilli\"。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/99790314-885a-4975-8614-9c5bc890364d"
+  },
+  "edges": [
+    {
+      "to": "artists-against-aids-worldwide",
+      "toName": "Artists Against AIDS Worldwide",
+      "toArea": "纽约",
+      "toYears": "2001–2001",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

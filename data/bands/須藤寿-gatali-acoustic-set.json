@@ -1,0 +1,30 @@
+{
+  "id": "須藤寿-gatali-acoustic-set",
+  "mbid": "64f3adb4-1a8c-424b-b7bd-0c06baf4b45e",
+  "name": "須藤寿 GATALI ACOUSTIC SET",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2012–",
+  "genres": [],
+  "albums": [],
+  "intro": "須藤寿 GATALI ACOUSTIC SETは、日本の音楽グループである。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/64f3adb4-1a8c-424b-b7bd-0c06baf4b45e"
+  },
+  "edges": [
+    {
+      "to": "東京事変",
+      "toName": "東京事変",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "浮雲",
+      "detail": "浮雲 在这两支乐队都待过。",
+      "year": 2020,
+      "weight": 0.62
+    }
+  ]
+}

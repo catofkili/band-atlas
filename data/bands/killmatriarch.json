@@ -1,0 +1,38 @@
+{
+  "id": "killmatriarch",
+  "mbid": "f89758be-c7e4-4e90-9bf5-19ca09201d84",
+  "name": "Killmatriarch",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2010–2012",
+  "genres": [
+    "Electronic",
+    "Industrial"
+  ],
+  "albums": [
+    {
+      "title": "Order Through Chaos",
+      "year": 2010
+    }
+  ],
+  "intro": "Antranik Khachaturian (born May 4, 1975) also known as Andy Khachaturian or artistically as Ontronik (stylized as OnTroniK), is an American musician, producer and DJ.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f89758be-c7e4-4e90-9bf5-19ca09201d84"
+  },
+  "edges": [
+    {
+      "to": "system-of-a-down",
+      "toName": "System of a Down",
+      "toArea": "Glendale",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Ontronik Khachaturian",
+      "detail": "Ontronik Khachaturian 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    }
+  ]
+}

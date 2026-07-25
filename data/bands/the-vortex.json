@@ -3,9 +3,12 @@
   "mbid": "38a1d9e8-461c-4037-90dd-ab87745096ba",
   "name": "The Vortex",
   "area": "曼彻斯特",
+  "countryCode": "GB",
+  "country": "英国",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/38a1d9e8-461c-4037-90dd-ab87745096ba"
   },

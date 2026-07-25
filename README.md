@@ -52,12 +52,15 @@ data/
   source/
     generated.json      爬来的，量大只有硬事实（勿手改）
     intros.json         维基百科首段（勿手改）
+    influences.json     Wikidata P737 影响关系（勿手改）
     scene-jrock.json    人工整理，覆盖层：中文简介、轶事、恩怨
   bands/<id>.json       构建产物，每支乐队一份
   index.json            构建产物，随机进站与搜索用
 tools/
   crawl.mjs             爬 MusicBrainz，穿过乐手把乐队连起来
+  fetch-popular-seeds.mjs ListenBrainz 全站收听量榜（热门度顺序）
   fetch-intros.mjs      Wikidata 找条目 → 维基百科取首段
+  fetch-influences.mjs  Wikidata P737「受谁影响」→ 只留网内关系
   build-data.mjs        三层合并、展开成双向边、校验
   build-standalone.mjs  压成一个自包含 HTML
   lib/mb.mjs            限速、落盘缓存、重试
@@ -66,8 +69,10 @@ tools/
 ## 数据管线
 
 ```bash
-node tools/crawl.mjs --max-bands 400 --depth 2   # 约 20 分钟，限速一秒一次
+node tools/fetch-popular-seeds.mjs                             # ListenBrainz 全站热度榜（1000 位）
+node tools/crawl.mjs --max-bands 400 --depth 2 --seed-limit 24 # 按热门榜顺序扩展，约 20 分钟
 node tools/fetch-intros.mjs                      # 约 1 分钟
+node tools/fetch-influences.mjs                  # Wikidata 影响关系，秒级
 node tools/build-data.mjs                        # 秒级
 node tools/build-standalone.mjs
 ```
@@ -132,7 +137,7 @@ node tools/build-standalone.mjs
 ## 接下来
 
 - **要更多乐队**：`--max-bands` 调大、`--depth` 调到 3。缓存还在，增量只花新增那部分的时间。
-- **影响关系**：Wikidata `P737`（influenced by）还没接，目前的影响边全是人工写的。
+- **影响关系**：Wikidata `P737` 已接入；它覆盖不均，且只收两端都在本网内的关系，人工补充仍然很重要。
 - **专辑封面**：Cover Art Archive，构建期生成缩略图存同源。
 - **恩怨**：没有结构化来源，只能 LLM 读 Wikipedia 抽事件 + 人工逐条审核。
   这是本项目区别于普通相似推荐的独家内容，目前只有两条。

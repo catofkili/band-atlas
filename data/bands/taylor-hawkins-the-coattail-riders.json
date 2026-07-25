@@ -1,0 +1,56 @@
+{
+  "id": "taylor-hawkins-the-coattail-riders",
+  "mbid": "397cd952-ae9c-40cb-a504-fd0ef47ec120",
+  "name": "Taylor Hawkins & The Coattail Riders",
+  "area": "California",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2004–2022",
+  "genres": [
+    "Alternative Rock",
+    "Pop",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Taylor Hawkins & The Coattail Riders",
+      "year": 2006
+    },
+    {
+      "title": "Red Light Fever",
+      "year": 2010
+    },
+    {
+      "title": "Get the Money",
+      "year": 2019
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/397cd952-ae9c-40cb-a504-fd0ef47ec120"
+  },
+  "edges": [
+    {
+      "to": "gannin-arnold-project",
+      "toName": "Gannin Arnold Project",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Gannin Arnold",
+      "detail": "Gannin Arnold 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-coattail-riders",
+      "toName": "The Coattail Riders",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

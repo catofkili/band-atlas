@@ -1,0 +1,55 @@
+{
+  "id": "qubit",
+  "mbid": "8496b5fa-8f1b-4d34-9933-47a0c98f4e8c",
+  "name": "QUBIT",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2023–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "9BIT",
+      "year": 2023
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8496b5fa-8f1b-4d34-9933-47a0c98f4e8c"
+  },
+  "edges": [
+    {
+      "to": "相対性理論",
+      "toName": "相対性理論",
+      "toArea": "东京",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "永井聖一",
+      "detail": "永井聖一 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "testset",
+      "toName": "TESTSET",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "永井聖一",
+      "detail": "永井聖一 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "fishmans",
+      "toName": "Fishmans+",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "永井聖一",
+      "detail": "永井聖一 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

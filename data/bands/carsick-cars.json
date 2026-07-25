@@ -1,0 +1,95 @@
+{
+  "id": "carsick-cars",
+  "mbid": "38c38eec-c6d9-4da0-b2da-2fba8458a3cb",
+  "name": "Carsick Cars",
+  "area": "北京",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "2005–",
+  "genres": [
+    "Indie Rock",
+    "Beijing",
+    "Noise Pop"
+  ],
+  "albums": [
+    {
+      "title": "Carsick Cars",
+      "year": 2007
+    },
+    {
+      "title": "You Can Listen, You Can Talk",
+      "year": 2009
+    },
+    {
+      "title": "3",
+      "year": 2014
+    },
+    {
+      "title": "Aha",
+      "year": 2024
+    }
+  ],
+  "intro": "Carsick Cars是中国北京的一支乐队，成立于2005年3月，现由吉他手张守望、鼓手李青，以及贝斯手李维思组成。乐队风格受Sonic Youth等乐队影响。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/38c38eec-c6d9-4da0-b2da-2fba8458a3cb"
+  },
+  "edges": [
+    {
+      "to": "snapline",
+      "toName": "Snapline",
+      "toArea": "北京",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "李青・李维思",
+      "detail": "2 位乐手在这两支乐队都待过：李青・李维思。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "大鬼众",
+      "toName": "大鬼众",
+      "toArea": "中国",
+      "toYears": "2021–",
+      "type": "member",
+      "label": "李青・李维思",
+      "detail": "2 位乐手在这两支乐队都待过：李青・李维思。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "white",
+      "toName": "WHITE",
+      "toArea": "北京",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "张守望",
+      "detail": "张守望 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ourself-beside-me",
+      "toName": "Ourself Beside Me",
+      "toArea": "中国",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "张守望",
+      "detail": "张守望 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "speak-chinese-or-die",
+      "toName": "Speak Chinese or Die",
+      "toArea": "Wuhan",
+      "toYears": null,
+      "type": "member",
+      "label": "张守望",
+      "detail": "张守望 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

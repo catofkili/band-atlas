@@ -3,6 +3,8 @@
   "mbid": "2e95c700-0e9c-4fc9-9828-ddaebba37632",
   "name": "The Fartz",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1981–2003",
   "genres": [],
   "albums": [
@@ -17,6 +19,7 @@
   ],
   "intro": "The Fartz were a hardcore punk band that was founded in 1981 and were one of the first well-known bands in their genre from Seattle, Washington.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2e95c700-0e9c-4fc9-9828-ddaebba37632"
   },

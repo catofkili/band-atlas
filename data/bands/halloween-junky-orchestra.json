@@ -1,0 +1,116 @@
+{
+  "id": "halloween-junky-orchestra",
+  "mbid": "16f7da31-5798-4b0a-abac-ee22ae1b963a",
+  "name": "HALLOWEEN JUNKY ORCHESTRA",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2012–",
+  "genres": [
+    "Cosplay Kei",
+    "Female Member",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Halloween Sounds: Scary Melodies",
+      "year": 2023
+    }
+  ],
+  "intro": "HALLOWEEN JUNKY ORCHESTRAは、HYDEを中心にハロウィンの期間限定で結成された日本のバンド。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/16f7da31-5798-4b0a-abac-ee22ae1b963a"
+  },
+  "edges": [
+    {
+      "to": "vamps",
+      "toName": "VAMPS",
+      "toArea": "日本",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "HYDE・K.A.Z",
+      "detail": "2 位乐手在这两支乐队都待过：HYDE・K.A.Z。",
+      "year": 2008,
+      "weight": 0.84
+    },
+    {
+      "to": "die-in-cries",
+      "toName": "DIE IN CRIES",
+      "toArea": "日本",
+      "toYears": "1991–1995",
+      "type": "member",
+      "label": "kyo",
+      "detail": "kyo 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "l-arc-en-ciel",
+      "toName": "L’Arc〜en〜Ciel",
+      "toArea": "大阪",
+      "toYears": "1991–",
+      "type": "member",
+      "label": "HYDE",
+      "detail": "HYDE 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "mucc",
+      "toName": "MUCC",
+      "toArea": "Ibaraki",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "逹瑯",
+      "detail": "逹瑯 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "横須賀サーベルタイガー",
+      "toName": "横須賀サーベルタイガー",
+      "toArea": "Yokosuka",
+      "toYears": "1981–1987",
+      "type": "member",
+      "label": "kyo",
+      "detail": "kyo 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "hide-with-spread-beaver",
+      "toName": "hide with Spread Beaver",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "K.A.Z",
+      "detail": "K.A.Z 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "dead-wire",
+      "toName": "Dead Wire",
+      "toArea": "日本",
+      "toYears": "1986–1986",
+      "type": "member",
+      "label": "kyo",
+      "detail": "kyo 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "the-last-rockstars",
+      "toName": "THE LAST ROCKSTARS",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "member",
+      "label": "HYDE",
+      "detail": "HYDE 在这两支乐队都待过。",
+      "year": 2022,
+      "weight": 0.62
+    }
+  ]
+}

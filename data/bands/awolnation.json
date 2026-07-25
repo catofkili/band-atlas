@@ -1,0 +1,70 @@
+{
+  "id": "awolnation",
+  "mbid": "77b29df2-056e-409e-a1b2-5e2bbfe421c4",
+  "name": "AWOLNATION",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2009–",
+  "genres": [
+    "Pop Rock",
+    "Alternative Rock",
+    "Synthpop"
+  ],
+  "albums": [
+    {
+      "title": "Megalithic Symphony",
+      "year": 2011
+    },
+    {
+      "title": "Run",
+      "year": 2015
+    },
+    {
+      "title": "Here Come the Runts",
+      "year": 2018
+    },
+    {
+      "title": "Angel Miners & The Lightning Riders",
+      "year": 2020
+    },
+    {
+      "title": "My Echo, My Shadow, My Covers & Me",
+      "year": 2022
+    },
+    {
+      "title": "The Phantom Five",
+      "year": 2024
+    }
+  ],
+  "intro": "Awolnation是一个美国电子摇滚乐队，由Aaron Bruno组建，乐队受Under the Influence of Giants、Hometown Hero和Insurgence的影响颇深。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/77b29df2-056e-409e-a1b2-5e2bbfe421c4"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Isaac Carpenter",
+      "detail": "Isaac Carpenter 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-exies",
+      "toName": "The Exies",
+      "toArea": "洛杉矶",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Isaac Carpenter",
+      "detail": "Isaac Carpenter 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    }
+  ]
+}

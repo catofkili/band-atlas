@@ -1,0 +1,37 @@
+{
+  "id": "spasm",
+  "mbid": "61b21c03-acbd-450e-a167-7850bfa42c31",
+  "name": "Spasm",
+  "area": "芝加哥",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Spasm",
+      "year": 1995
+    },
+    {
+      "title": "Smear",
+      "year": 1997
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/61b21c03-acbd-450e-a167-7850bfa42c31"
+  },
+  "edges": [
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Curse Mackey・Eric Pounder・Mark Spybey",
+      "detail": "3 位乐手在这两支乐队都待过：Curse Mackey・Eric Pounder・Mark Spybey。",
+      "year": null,
+      "weight": 0.95
+    }
+  ]
+}

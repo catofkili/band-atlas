@@ -1,0 +1,107 @@
+{
+  "id": "beat",
+  "mbid": "aff74a2c-de0c-487d-b7fd-24caea74047d",
+  "name": "BEAT",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2023–",
+  "genres": [],
+  "albums": [],
+  "intro": "BEATは、2024年に結成されたアメリカ合衆国のバンド、およびそのツアープロジェクトの名称。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/aff74a2c-de0c-487d-b7fd-24caea74047d"
+  },
+  "edges": [
+    {
+      "to": "king-crimson",
+      "toName": "King Crimson",
+      "toArea": "伦敦",
+      "toYears": "1968–2021",
+      "type": "member",
+      "label": "Tony Levin・副项目",
+      "detail": "2 位乐手在这两支乐队都待过：Tony Levin・副项目。",
+      "year": 2004,
+      "weight": 0.84
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Danny Carey",
+      "detail": "Danny Carey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "tool",
+      "toName": "Tool",
+      "toArea": "洛杉矶",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Danny Carey",
+      "detail": "Danny Carey 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "discipline",
+      "toName": "Discipline",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Tony Levin",
+      "detail": "Tony Levin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve Vai",
+      "detail": "Steve Vai 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "supergroup-b",
+      "toName": "Supergroup B",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Danny Carey",
+      "detail": "Danny Carey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-crimson-projekct",
+      "toName": "The Crimson ProjeKCt",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Tony Levin",
+      "detail": "Tony Levin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "zaum",
+      "toName": "Zaum",
+      "toArea": "洛杉矶",
+      "toYears": "1995–1996",
+      "type": "member",
+      "label": "Danny Carey",
+      "detail": "Danny Carey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

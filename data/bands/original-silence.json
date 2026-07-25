@@ -3,6 +3,8 @@
   "mbid": "da677331-37f7-40b8-b5c2-793ff0d856f7",
   "name": "Original Silence",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -15,6 +17,7 @@
       "year": 2008
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/da677331-37f7-40b8-b5c2-793ff0d856f7"
   },

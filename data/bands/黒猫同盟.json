@@ -1,0 +1,48 @@
+{
+  "id": "黒猫同盟",
+  "mbid": "80c3801d-ee57-402b-986a-bf725a884d62",
+  "name": "黒猫同盟",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Un chat noir",
+      "year": 2021
+    },
+    {
+      "title": "ムーランルージュの黒猫",
+      "year": 2024
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/80c3801d-ee57-402b-986a-bf725a884d62"
+  },
+  "edges": [
+    {
+      "to": "the-pillows",
+      "toName": "the pillows",
+      "toArea": "札幌",
+      "toYears": "1989–2025",
+      "type": "member",
+      "label": "上田ケンジ",
+      "detail": "上田ケンジ 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "details",
+      "toName": "Details",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "上田ケンジ",
+      "detail": "上田ケンジ 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

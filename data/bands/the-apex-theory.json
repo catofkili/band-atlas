@@ -1,0 +1,50 @@
+{
+  "id": "the-apex-theory",
+  "mbid": "a5f70944-d149-44e2-9d20-40f75a59d1ab",
+  "name": "The Apex Theory",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "1999–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Random Bursts",
+      "year": 2001
+    },
+    {
+      "title": "Topsy-Turvy",
+      "year": 2002
+    }
+  ],
+  "intro": "Mt.",
+  "introLang": "en",
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a5f70944-d149-44e2-9d20-40f75a59d1ab"
+  },
+  "edges": [
+    {
+      "to": "system-of-a-down",
+      "toName": "System of a Down",
+      "toArea": "Glendale",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Andy Khatchaturian",
+      "detail": "Andy Khatchaturian 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "forever-young",
+      "toName": "Forever Young",
+      "toArea": "洛杉矶",
+      "toYears": "1991–1993",
+      "type": "member",
+      "label": "David Hakopyan",
+      "detail": "David Hakopyan 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    }
+  ]
+}

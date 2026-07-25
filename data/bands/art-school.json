@@ -3,6 +3,8 @@
   "mbid": "2ee8a896-8ce2-4d94-9bc7-0db3b3396e74",
   "name": "ART-SCHOOL",
   "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2000–",
   "genres": [
     "Alternative Rock",
@@ -31,6 +33,7 @@
     "FADE TO BLACK",
     "乾いた花"
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2ee8a896-8ce2-4d94-9bc7-0db3b3396e74"
   },

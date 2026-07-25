@@ -3,9 +3,14 @@
   "mbid": "6a943574-bf52-48a3-a439-b1d318015f3e",
   "name": "Radio Bootsy",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "intro": "『ACCESSキャンペーン』は、FM802が2006年から行っているキャンペーンである。",
+  "introLang": "ja",
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6a943574-bf52-48a3-a439-b1d318015f3e"
   },

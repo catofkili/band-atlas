@@ -3,6 +3,8 @@
   "mbid": "0efa265c-e11a-4a37-a0de-5b40417587de",
   "name": "The I Don't Cares",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": "2015–",
   "genres": [],
   "albums": [
@@ -13,6 +15,7 @@
   ],
   "intro": "The I Don't Cares are a musical collaboration between Paul Westerberg and Juliana Hatfield that released their debut album Wild Stab in January 2016.",
   "introLang": "en",
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0efa265c-e11a-4a37-a0de-5b40417587de"
   },

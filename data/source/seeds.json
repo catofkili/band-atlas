@@ -1,0 +1,34 @@
+{
+  "note": "爬取的额外起点。只需要名字——crawl.mjs 会去 MusicBrainz 里认领，并把认到的 id 记进缓存。人工整理过的乐队（scene-jrock.json）本身也是种子，不必在这里重复。",
+  "why": "边界是由人脉密度画出来的，不是由名气画出来的。只从日本另类摇滚出发，两跳之内碰不到披头士——因为它们没有任何共同成员。想要哪一片，就得在那一片放个起点。",
+  "seeds": [
+    "The Beatles", "The Rolling Stones", "Led Zeppelin", "Pink Floyd", "The Who",
+    "The Velvet Underground", "The Stooges", "Ramones", "Talking Heads", "Blondie",
+    "Television", "Wire", "Gang of Four", "The Fall", "Joy Division", "New Order",
+    "The Smiths", "The Cure", "Siouxsie and the Banshees", "Public Image Ltd",
+
+    "R.E.M.", "Hüsker Dü", "Minutemen", "Black Flag", "Dinosaur Jr.", "Pavement",
+    "Yo La Tengo", "Built to Spill", "Modest Mouse", "Slint", "Shellac", "Big Black",
+    "Swans", "Butthole Surfers", "The Melvins", "Mudhoney", "Soundgarden",
+    "Alice in Chains", "Pearl Jam", "Screaming Trees",
+
+    "Radiohead", "Blur", "Pulp", "Suede", "The Stone Roses", "Happy Mondays",
+    "The Jesus and Mary Chain", "Cocteau Twins", "Slowdive", "Ride", "Lush",
+    "Portishead", "Massive Attack", "The Verve",
+
+    "Red Hot Chili Peppers", "Rage Against the Machine", "Tool", "Faith No More",
+    "Queens of the Stone Age", "Kyuss", "The Strokes", "Interpol", "Arcade Fire",
+    "LCD Soundsystem", "The White Stripes", "Sonic Youth",
+
+    "Kraftwerk", "Can", "Neu!", "Godspeed You! Black Emperor", "Mogwai",
+    "Sigur Rós", "Explosions in the Sky", "Tortoise", "Fugazi", "At the Drive-In",
+
+    "Boris", "envy", "MELT-BANANA", "少年ナイフ", "THE BLUE HEARTS", "ゆらゆら帝国",
+    "フィッシュマンズ", "サニーデイ・サービス", "スピッツ", "くるり", "中村一義",
+    "東京事変", "相対性理論", "サカナクション", "9mm Parabellum Bullet",
+    "THE NOVEMBERS", "Syrup16g", "GRAPEVINE", "銀杏BOYZ", "GOING STEADY",
+    "サンボマスター", "THE BACK HORN", "ACIDMAN", "BUMP OF CHICKEN", "andymori",
+    "toe", "The Birthday", "ROSSO", "BUCK-TICK", "LUNA SEA", "DIR EN GREY",
+    "MONO", "downy", "cero", "OGRE YOU ASSHOLE", "group_inou"
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "id": "metafive",
+  "mbid": "f6c979f4-bbad-43d3-95f6-9255a189f688",
+  "name": "METAFIVE",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2014–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "META",
+      "year": 2016
+    },
+    {
+      "title": "METAATEM",
+      "year": 2021
+    }
+  ],
+  "intro": "METAFIVEは、日本のスーパーバンド。 2014年に一夜限りのユニットとして結成された高橋幸宏&METAFIVEが、2015年にMETAFIVEと改名。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f6c979f4-bbad-43d3-95f6-9255a189f688"
+  },
+  "edges": [
+    {
+      "to": "testset",
+      "toName": "TESTSET",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "LEO今井・砂原良徳",
+      "detail": "2 位乐手在这两支乐队都待过：LEO今井・砂原良徳。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "pupa",
+      "toName": "pupa",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "member",
+      "label": "権藤知彦",
+      "detail": "権藤知彦 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "geisha-girls",
+      "toName": "GEISHA GIRLS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "TOWA TEI",
+      "detail": "TOWA TEI 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "kimonos",
+      "toName": "KIMONOS",
+      "toArea": null,
+      "toYears": "2010–",
+      "type": "member",
+      "label": "LEO今井",
+      "detail": "LEO今井 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

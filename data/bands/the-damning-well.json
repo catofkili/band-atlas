@@ -3,6 +3,8 @@
   "mbid": "2a3dc878-34f8-48a6-8591-caa8f7b1f70f",
   "name": "The Damning Well",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [
     "Rock"
@@ -10,32 +12,11 @@
   "albums": [],
   "intro": "The Damning Well was a rock supergroup comprising Wes Borland of Limp Bizkit on guitar, Danny Lohner formerly of Nine Inch Nails on bass, Richard Patrick of Filter on vocals, and Josh Freese of A Perfect Circle on drums.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2a3dc878-34f8-48a6-8591-caa8f7b1f70f"
   },
   "edges": [
-    {
-      "to": "nine-inch-nails",
-      "toName": "Nine Inch Nails",
-      "toArea": "Cleveland",
-      "toYears": "1988–",
-      "type": "member",
-      "label": "Danny Lohner・Richard Patrick",
-      "detail": "2 位乐手在这两支乐队都待过：Danny Lohner・Richard Patrick。",
-      "year": 1993,
-      "weight": 0.84
-    },
-    {
-      "to": "black-light-burns",
-      "toName": "Black Light Burns",
-      "toArea": "美国",
-      "toYears": "2005–",
-      "type": "member",
-      "label": "Danny Lohner・Wes Borland",
-      "detail": "2 位乐手在这两支乐队都待过：Danny Lohner・Wes Borland。",
-      "year": null,
-      "weight": 0.84
-    },
     {
       "to": "filter",
       "toName": "Filter",
@@ -48,24 +29,68 @@
       "weight": 0.62
     },
     {
-      "to": "a-perfect-circle",
-      "toName": "A Perfect Circle",
-      "toArea": "洛杉矶",
-      "toYears": "1999–",
+      "to": "marilyn-manson",
+      "toName": "Marilyn Manson",
+      "toArea": "Fort Lauderdale",
+      "toYears": "1989–",
       "type": "member",
-      "label": "Danny Lohner",
-      "detail": "Danny Lohner 在这两支乐队都待过。",
-      "year": 2003,
+      "label": "Wes Borland",
+      "detail": "Wes Borland 在这两支乐队都待过。",
+      "year": 2008,
       "weight": 0.62
     },
     {
-      "to": "tapeworm",
-      "toName": "Tapeworm",
-      "toArea": "美国",
-      "toYears": "1996–2004",
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
       "type": "member",
-      "label": "Danny Lohner",
-      "detail": "Danny Lohner 在这两支乐队都待过。",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "black-light-burns",
+      "toName": "Black Light Burns",
+      "toArea": "美国",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Wes Borland",
+      "detail": "Wes Borland 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "a-place-to-kill",
+      "toName": "A Place to Kill",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    },
+    {
+      "to": "army-of-anyone",
+      "toName": "Army of Anyone",
+      "toArea": "洛杉矶",
+      "toYears": "2005–2007",
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "the-act",
+      "toName": "The Act",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62
     }

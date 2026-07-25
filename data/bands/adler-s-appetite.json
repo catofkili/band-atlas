@@ -3,6 +3,8 @@
   "mbid": "388fe5dc-db1a-4ada-86f3-d3b850ae3535",
   "name": "Adler’s Appetite",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2003–2011",
   "genres": [],
   "albums": [
@@ -13,6 +15,7 @@
   ],
   "intro": "Adler's Appetite was an American rock band from Los Angeles, formed in 2003.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/388fe5dc-db1a-4ada-86f3-d3b850ae3535"
   },
@@ -58,6 +61,17 @@
       "type": "member",
       "label": "Steven Adler",
       "detail": "Steven Adler 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "beautiful-creatures",
+      "toName": "Beautiful Creatures",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Michael Thomas",
+      "detail": "Michael Thomas 在这两支乐队都待过。",
       "year": 2007,
       "weight": 0.62
     },

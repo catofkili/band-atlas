@@ -1,0 +1,61 @@
+{
+  "id": "the-crawling-king-snakes",
+  "mbid": "7a60ad9e-e5be-47c5-be59-82ff68e2bf1b",
+  "name": "The Crawling King Snakes",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7a60ad9e-e5be-47c5-be59-82ff68e2bf1b"
+  },
+  "edges": [
+    {
+      "to": "r-a-d-d-recording-artists-against-drunk-driving",
+      "toName": "R.A.D.D. (Recording Artists Against Drunk Driving)",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Phil Collins",
+      "detail": "Phil Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ringo-starr-his-all-starr-band",
+      "toName": "Ringo Starr & His All Starr Band",
+      "toArea": "伦敦",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Dave Edmunds",
+      "detail": "Dave Edmunds 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "rockestra",
+      "toName": "Rockestra",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dave Edmunds",
+      "detail": "Dave Edmunds 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-house-band",
+      "toName": "The House Band",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Phil Collins",
+      "detail": "Phil Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

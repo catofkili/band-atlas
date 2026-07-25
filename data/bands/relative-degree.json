@@ -1,0 +1,39 @@
+{
+  "id": "relative-degree",
+  "mbid": "99ffd73b-652d-4a11-a59d-0f33227312d5",
+  "name": "Relative Degree",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "1995–1996",
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/99ffd73b-652d-4a11-a59d-0f33227312d5"
+  },
+  "edges": [
+    {
+      "to": "linkin-park",
+      "toName": "Linkin Park",
+      "toArea": "Agoura Hills",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Rob Bourdon・Brad Delson",
+      "detail": "2 位乐手在这两支乐队都待过：Rob Bourdon・Brad Delson。",
+      "year": 1996,
+      "weight": 0.84
+    },
+    {
+      "to": "xero",
+      "toName": "Xero",
+      "toArea": "Agoura Hills",
+      "toYears": "1996–1999",
+      "type": "member",
+      "label": "Rob Bourdon・Brad Delson",
+      "detail": "2 位乐手在这两支乐队都待过：Rob Bourdon・Brad Delson。",
+      "year": 1996,
+      "weight": 0.84
+    }
+  ]
+}

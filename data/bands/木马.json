@@ -1,0 +1,58 @@
+{
+  "id": "木马",
+  "mbid": "860fa646-33ab-4e10-9f7f-de14c63502e5",
+  "name": "木马",
+  "area": "中国",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "1998–",
+  "genres": [
+    "Art Rock",
+    "Beijing",
+    "Indie Rock"
+  ],
+  "albums": [
+    {
+      "title": "木马",
+      "year": 1999
+    },
+    {
+      "title": "Yellow Star",
+      "year": 2003
+    },
+    {
+      "title": "果冻帝国",
+      "year": 2004
+    }
+  ],
+  "intro": "木马乐队是中华人民共和国的一支摇滚乐队，1998年7月成立于北京，2006年解散，2020年重组。现任成员为木玛，邓力源，张大伟。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/860fa646-33ab-4e10-9f7f-de14c63502e5"
+  },
+  "edges": [
+    {
+      "to": "二手玫瑰",
+      "toName": "二手玫瑰",
+      "toArea": "中国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "王钰棋",
+      "detail": "王钰棋 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
+    },
+    {
+      "to": "声音碎片",
+      "toName": "声音碎片",
+      "toArea": "中国",
+      "toYears": null,
+      "type": "member",
+      "label": "曹操",
+      "detail": "曹操 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    }
+  ]
+}

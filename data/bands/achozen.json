@@ -1,0 +1,81 @@
+{
+  "id": "achozen",
+  "mbid": "416e1f41-2c04-493c-a61f-ea34d1ee8ef8",
+  "name": "AcHoZeN",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2005–",
+  "genres": [
+    "Hip Hop"
+  ],
+  "albums": [
+    {
+      "title": "Achozen",
+      "year": 2015
+    }
+  ],
+  "intro": "Achozen ([pronounced: UH-choh-zen]) (occasionally typeset as AcHoZeN) is a supergroup by System of a Down bassist Shavo Odadjian, Wu-Tang Clan member RZA, Killarmy member Kinetic 9, and Wu-Tang Clan affiliate Reverend William Burke.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/416e1f41-2c04-493c-a61f-ea34d1ee8ef8"
+  },
+  "edges": [
+    {
+      "to": "system-of-a-down",
+      "toName": "System of a Down",
+      "toArea": "Glendale",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Shavo Odadjian",
+      "detail": "Shavo Odadjian 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "seven-hours-after-violet",
+      "toName": "Seven Hours After Violet",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Shavo Odadjian",
+      "detail": "Shavo Odadjian 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "north-kingsley",
+      "toName": "North Kingsley",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Shavo Odadjian",
+      "detail": "Shavo Odadjian 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "polaris",
+      "toName": "Polaris",
+      "toArea": "美国",
+      "toYears": "1992–1993",
+      "type": "member",
+      "label": "Shavo Odadjian",
+      "detail": "Shavo Odadjian 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "wu-tang-killa-bees",
+      "toName": "Wu‐Tang Killa Bees",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "bd39dbc4-8260-474e-830f-787dad44066c",
   "name": "Kidbug",
   "area": "Indianapolis",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2019–",
   "genres": [
     "Cuddlebug-Sludge",
@@ -17,6 +19,7 @@
   ],
   "intro": "Kidbug is an international supergroup composed of musicians signed to Joyful Noise Recordings.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bd39dbc4-8260-474e-830f-787dad44066c"
   },

@@ -1,0 +1,30 @@
+{
+  "id": "day6-even-of-day",
+  "mbid": "af2320d6-948e-499a-8bcf-83c93e0a80fb",
+  "name": "DAY6 (Even of Day)",
+  "area": null,
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "intro": "DAY6 (Even of Day)は、韓国の4人組バンドDAY6のメンバーであるYoung K、ウォンピル、ドウンの3人から構成されるユニット。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/af2320d6-948e-499a-8bcf-83c93e0a80fb"
+  },
+  "edges": [
+    {
+      "to": "day6",
+      "toName": "DAY6",
+      "toArea": "首尔",
+      "toYears": "2015–",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

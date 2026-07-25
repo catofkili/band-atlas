@@ -1,0 +1,90 @@
+{
+  "id": "mass-mental",
+  "mbid": "f28fabab-7535-417c-a89e-9df4287ffe29",
+  "name": "Mass Mental?",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "1998–2002",
+  "genres": [],
+  "albums": [
+    {
+      "title": "How to Write Love Songs",
+      "year": 1999
+    }
+  ],
+  "intro": "Mass Mental (also stylized as Mass Mental?) is an American rock band.",
+  "introLang": "en",
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f28fabab-7535-417c-a89e-9df4287ffe29"
+  },
+  "edges": [
+    {
+      "to": "medication",
+      "toName": "Medication",
+      "toArea": "洛杉矶",
+      "toYears": "1999–2003",
+      "type": "member",
+      "label": "Brooks Wackerman・Whitfield Crane・Roy Mayorga",
+      "detail": "3 位乐手在这两支乐队都待过：Brooks Wackerman・Whitfield Crane・Roy Mayorga。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "suicidal-tendencies",
+      "toName": "Suicidal Tendencies",
+      "toArea": "洛杉矶",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "the-vandals",
+      "toName": "The Vandals",
+      "toArea": "Huntington Beach",
+      "toYears": "1980–",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "infectious-grooves",
+      "toName": "Infectious Grooves",
+      "toArea": "美国",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "tenacious-d",
+      "toName": "Tenacious D",
+      "toArea": "洛杉矶",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "the-wedding-band",
+      "toName": "The Wedding Band",
+      "toArea": "Hawaii",
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Whitfield Crane",
+      "detail": "Whitfield Crane 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

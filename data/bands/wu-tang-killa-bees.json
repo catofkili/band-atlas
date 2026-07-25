@@ -1,0 +1,41 @@
+{
+  "id": "wu-tang-killa-bees",
+  "mbid": "244f660e-5e68-47d7-8184-46dc204ee326",
+  "name": "Wu‐Tang Killa Bees",
+  "area": null,
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "The Sting",
+      "year": 2002
+    },
+    {
+      "title": "Tha Wu-Tape Special Edition",
+      "year": 2017
+    },
+    {
+      "title": "Brotherhood of the Wulf, Vol. II: Beta",
+      "year": 2022
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/244f660e-5e68-47d7-8184-46dc204ee326"
+  },
+  "edges": [
+    {
+      "to": "achozen",
+      "toName": "AcHoZeN",
+      "toArea": "洛杉矶",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

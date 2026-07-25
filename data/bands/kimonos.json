@@ -3,6 +3,8 @@
   "mbid": "861ed82a-7a6a-4d72-89b8-764b4f53e17c",
   "name": "KIMONOS",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": "2010–",
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2010
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/861ed82a-7a6a-4d72-89b8-764b4f53e17c"
   },
@@ -35,6 +38,28 @@
       "label": "向井秀徳",
       "detail": "向井秀徳 在这两支乐队都待过。",
       "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "metafive",
+      "toName": "METAFIVE",
+      "toArea": "日本",
+      "toYears": "2014–",
+      "type": "member",
+      "label": "LEO今井",
+      "detail": "LEO今井 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "testset",
+      "toName": "TESTSET",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "LEO今井",
+      "detail": "LEO今井 在这两支乐队都待过。",
+      "year": null,
       "weight": 0.62
     },
     {

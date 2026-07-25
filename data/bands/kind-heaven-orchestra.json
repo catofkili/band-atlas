@@ -1,0 +1,72 @@
+{
+  "id": "kind-heaven-orchestra",
+  "mbid": "18fa73af-3b36-408b-a0eb-68e0375d48d3",
+  "name": "Kind Heaven Orchestra",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "2018–",
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/18fa73af-3b36-408b-a0eb-68e0375d48d3"
+  },
+  "edges": [
+    {
+      "to": "jane-s-addiction",
+      "toName": "Jane’s Addiction",
+      "toArea": "洛杉矶",
+      "toYears": "1986–2025",
+      "type": "member",
+      "label": "Perry Farrell",
+      "detail": "Perry Farrell 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "pearl-jam",
+      "toName": "Pearl Jam",
+      "toArea": "西雅图",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Matt Chamberlain",
+      "detail": "Matt Chamberlain 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "traveling-wilburys",
+      "toName": "Traveling Wilburys",
+      "toArea": "Malibu",
+      "toYears": "1988–1990",
+      "type": "member",
+      "label": "Dhani Harrison",
+      "detail": "Dhani Harrison 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "artists-against-aids-worldwide",
+      "toName": "Artists Against AIDS Worldwide",
+      "toArea": "纽约",
+      "toYears": "2001–2001",
+      "type": "member",
+      "label": "Perry Farrell",
+      "detail": "Perry Farrell 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "george-s-band",
+      "toName": "George's Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dhani Harrison",
+      "detail": "Dhani Harrison 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

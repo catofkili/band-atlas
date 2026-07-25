@@ -3,6 +3,8 @@
   "mbid": "d87faf16-56c5-4f31-8d92-2f0e64956de9",
   "name": "eastern youth",
   "area": "北海道",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "1988–",
   "genres": [
     "Emo",
@@ -30,6 +32,7 @@
     "男子畢生危機一髪",
     "青い空、白い雲、しゅーっという風"
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d87faf16-56c5-4f31-8d92-2f0e64956de9"
   },

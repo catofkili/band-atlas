@@ -1,0 +1,33 @@
+{
+  "id": "socialybrium",
+  "mbid": "a5a8bf09-1de9-46eb-a2c3-d198bc4c45f7",
+  "name": "SociaLybrium",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "2009–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "For You - For Us - For All",
+      "year": 2010
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a5a8bf09-1de9-46eb-a2c3-d198bc4c45f7"
+  },
+  "edges": [
+    {
+      "to": "material",
+      "toName": "Material",
+      "toArea": "纽约",
+      "toYears": "1978–1999",
+      "type": "member",
+      "label": "J.T. Lewis",
+      "detail": "J.T. Lewis 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "080d552a-7f29-490c-86c1-34108c547a98",
   "name": "LOSTAGE",
   "area": "奈良",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2001–",
   "genres": [
     "Alternative Rock",
@@ -28,6 +30,7 @@
     "HELLO",
     "生活"
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/080d552a-7f29-490c-86c1-34108c547a98"
   },

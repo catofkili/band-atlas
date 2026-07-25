@@ -3,6 +3,8 @@
   "mbid": "fe4a653a-dc81-4422-b3f0-60ecb9107eeb",
   "name": "Ultraísta",
   "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "2008–",
   "genres": [
     "Electronic",
@@ -21,6 +23,7 @@
   ],
   "intro": "ウルトライスタ (Ultraísta) は、2008年に結成されたイギリス系アメリカ人によるエクスペリメンタル・ロック・トリオ。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/fe4a653a-dc81-4422-b3f0-60ecb9107eeb"
   },

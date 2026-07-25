@@ -3,9 +3,12 @@
   "mbid": "4c574459-b742-47d2-8c95-4e35e6dc416e",
   "name": "the LOW-ATUS",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4c574459-b742-47d2-8c95-4e35e6dc416e"
   },

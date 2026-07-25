@@ -1,0 +1,180 @@
+{
+  "id": "radiohead",
+  "mbid": "a74b1b7f-71a5-4011-9441-d0b5e4122711",
+  "name": "Radiohead",
+  "area": "Abingdon-on-Thames",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1991–",
+  "genres": [
+    "Alternative Rock",
+    "Art Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Pablo Honey",
+      "year": 1993
+    },
+    {
+      "title": "The Bends",
+      "year": 1994
+    },
+    {
+      "title": "Radiotick Tracks 2",
+      "year": 1997
+    },
+    {
+      "title": "OK Computer",
+      "year": 1997
+    },
+    {
+      "title": "Kid A",
+      "year": 2000
+    },
+    {
+      "title": "Amnesiac",
+      "year": 2001
+    }
+  ],
+  "intro": "电台司令是一支来自英国牛津郡阿宾顿的另类摇滚乐队，组建于1985年。乐队由汤姆·约克，强尼·格林伍德，艾德·欧布莱恩，科林·格林伍德，与菲利普·塞尔韦组成。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a74b1b7f-71a5-4011-9441-d0b5e4122711"
+  },
+  "edges": [
+    {
+      "to": "the-smile",
+      "toName": "The Smile",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Jonny Greenwood・Thom Yorke・副项目",
+      "detail": "3 位乐手在这两支乐队都待过：Jonny Greenwood・Thom Yorke・副项目。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "on-a-friday",
+      "toName": "On a Friday",
+      "toArea": "Abingdon-on-Thames",
+      "toYears": "1985–1991",
+      "type": "member",
+      "label": "Colin Greenwood・Jonny Greenwood・Ed O’Brien・Philip Selway・Thom Yorke",
+      "detail": "5 位乐手在这两支乐队都待过：Colin Greenwood・Jonny Greenwood・Ed O’Brien・Philip Selway・Thom Yorke。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "7-worlds-collide",
+      "toName": "7 Worlds Collide",
+      "toArea": "New Zealand",
+      "toYears": null,
+      "type": "member",
+      "label": "Ed O’Brien・Philip Selway",
+      "detail": "2 位乐手在这两支乐队都待过：Ed O’Brien・Philip Selway。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "the-venus-in-furs",
+      "toName": "The Venus in Furs",
+      "toArea": "英国",
+      "toYears": "1998–1998",
+      "type": "member",
+      "label": "Jonny Greenwood・Thom Yorke",
+      "detail": "2 位乐手在这两支乐队都待过：Jonny Greenwood・Thom Yorke。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "atoms-for-peace",
+      "toName": "Atoms for Peace",
+      "toArea": "洛杉矶",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "Thom Yorke",
+      "detail": "Thom Yorke 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "headless-chickens",
+      "toName": "Headless Chickens",
+      "toArea": "英国",
+      "toYears": "1989–1989",
+      "type": "member",
+      "label": "Thom Yorke",
+      "detail": "Thom Yorke 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-illiterate-hands",
+      "toName": "The Illiterate Hands",
+      "toArea": "牛津",
+      "toYears": null,
+      "type": "member",
+      "label": "Jonny Greenwood",
+      "detail": "Jonny Greenwood 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "deftones",
+      "toName": "Deftones",
+      "toArea": "Sacramento",
+      "toYears": "1988–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Radiohead 影响了 Deftones（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "muse",
+      "toName": "Muse",
+      "toArea": "Teignmouth",
+      "toYears": "1994–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Radiohead 影响了 Muse（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "pink-floyd",
+      "toName": "Pink Floyd",
+      "toArea": "伦敦",
+      "toYears": "1965–2014",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Radiohead 受 Pink Floyd 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-capitols",
+      "toName": "The Capitols",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "伴奏・助演",
+      "detail": "MusicBrainz 记录的伴奏・助演关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "the-poops",
+      "toName": "The Poops",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "伴奏・助演",
+      "detail": "MusicBrainz 记录的伴奏・助演关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

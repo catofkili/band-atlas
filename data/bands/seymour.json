@@ -3,9 +3,12 @@
   "mbid": "594493b9-50df-4efb-9aed-9b5c867b4753",
   "name": "Seymour",
   "area": "Colchester",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "1989–1990",
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/594493b9-50df-4efb-9aed-9b5c867b4753"
   },

@@ -1,0 +1,59 @@
+{
+  "id": "the-strokes",
+  "mbid": "f181961b-20f7-459e-89de-920ef03c7ed0",
+  "name": "The Strokes",
+  "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1998–",
+  "genres": [
+    "Indie Rock",
+    "Garage Rock Revival",
+    "Post-Punk Revival"
+  ],
+  "albums": [
+    {
+      "title": "Is This It",
+      "year": 2001
+    },
+    {
+      "title": "Room on Fire",
+      "year": 2003
+    },
+    {
+      "title": "First Impressions of Earth",
+      "year": 2005
+    },
+    {
+      "title": "Angles",
+      "year": 2011
+    },
+    {
+      "title": "Comedown Machine",
+      "year": 2013
+    },
+    {
+      "title": "The New Abnormal",
+      "year": 2020
+    }
+  ],
+  "intro": "鼓击乐团，美国另类摇滚乐团，创立于1998年的纽约。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f181961b-20f7-459e-89de-920ef03c7ed0"
+  },
+  "edges": [
+    {
+      "to": "the-voidz",
+      "toName": "The Voidz",
+      "toArea": "纽约",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Julian Casablancas",
+      "detail": "Julian Casablancas 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    }
+  ]
+}

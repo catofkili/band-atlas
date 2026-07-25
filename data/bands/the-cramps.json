@@ -3,6 +3,8 @@
   "mbid": "96c1edac-1011-4cb8-882c-27248de35071",
   "name": "The Cramps",
   "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1976–2009",
   "genres": [
     "Psychobilly",
@@ -37,6 +39,7 @@
   ],
   "intro": "The Cramps were an American rock band formed in 1976 and active until 2009.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/96c1edac-1011-4cb8-882c-27248de35071"
   },
@@ -75,6 +78,17 @@
       "weight": 0.62
     },
     {
+      "to": "the-weirdos",
+      "toName": "The Weirdos",
+      "toArea": "洛杉矶",
+      "toYears": "1976–2005",
+      "type": "member",
+      "label": "Nickey “Beat” Alexander",
+      "detail": "Nickey “Beat” Alexander 在这两支乐队都待过。",
+      "year": 1976,
+      "weight": 0.62
+    },
+    {
       "to": "wolfmanhattan-project",
       "toName": "Wolfmanhattan Project",
       "toArea": "纽约",
@@ -83,6 +97,17 @@
       "label": "Kid Congo Powers",
       "detail": "Kid Congo Powers 在这两支乐队都待过。",
       "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "germs",
+      "toName": "Germs",
+      "toArea": "洛杉矶",
+      "toYears": "1976–2013",
+      "type": "member",
+      "label": "Nickey “Beat” Alexander",
+      "detail": "Nickey “Beat” Alexander 在这两支乐队都待过。",
+      "year": 1978,
       "weight": 0.62
     }
   ]

@@ -1,0 +1,198 @@
+{
+  "id": "lostprophets",
+  "mbid": "ef6e2e49-aa93-41bd-89b0-8c7d2f260a83",
+  "name": "Lostprophets",
+  "area": "Pontypridd",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1997–2013",
+  "genres": [
+    "Alternative Rock",
+    "Rock",
+    "Alternative Metal"
+  ],
+  "albums": [
+    {
+      "title": "The Fake Sound of Progress",
+      "year": 2000
+    },
+    {
+      "title": "Start Something",
+      "year": 2004
+    },
+    {
+      "title": "Liberation Transmission",
+      "year": 2006
+    },
+    {
+      "title": "The Betrayed",
+      "year": 2010
+    },
+    {
+      "title": "Weapons",
+      "year": 2012
+    }
+  ],
+  "intro": "洛斯帕飞是来自英国威尔士庞迪布里德的一组摇滚乐队，乐队1997年成立至2013年，发行了五张专辑，是唯一完完全全道地的英国乐队，却流着相当美式的新金属乐风，没有浓厚英国腔调或雌雄莫辨的嗓音，就是洛斯帕飞音乐中最大的特色。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ef6e2e49-aa93-41bd-89b0-8c7d2f260a83"
+  },
+  "edges": [
+    {
+      "to": "angels-airwaves",
+      "toName": "Angels & Airwaves",
+      "toArea": "San Diego",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2014,
+      "weight": 0.62
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "fenix-tx",
+      "toName": "Fenix TX",
+      "toArea": "Houston",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "denver-harbor",
+      "toName": "Denver Harbor",
+      "toArea": "San Diego",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "the-jaded-hearts-club",
+      "toName": "The Jaded Hearts Club",
+      "toArea": "California",
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "deftones",
+      "toName": "Deftones",
+      "toArea": "Sacramento",
+      "toYears": "1988–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Deftones 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "green-day",
+      "toName": "Green Day",
+      "toArea": "Berkeley",
+      "toYears": "1989–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Green Day 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "jane-s-addiction",
+      "toName": "Jane’s Addiction",
+      "toArea": "洛杉矶",
+      "toYears": "1986–2025",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Jane’s Addiction 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "megadeth",
+      "toName": "Megadeth",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Megadeth 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "metallica",
+      "toName": "Metallica",
+      "toArea": "洛杉矶",
+      "toYears": "1981–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Metallica 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Nine Inch Nails 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "soundgarden",
+      "toName": "Soundgarden",
+      "toArea": "西雅图",
+      "toYears": "1984–2017",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 Soundgarden 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-cure",
+      "toName": "The Cure",
+      "toArea": "Crawley",
+      "toYears": "1977–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 The Cure 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "u2",
+      "toName": "U2",
+      "toArea": "都柏林",
+      "toYears": "1976–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Lostprophets 受 U2 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

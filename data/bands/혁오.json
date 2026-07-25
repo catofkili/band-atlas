@@ -1,0 +1,41 @@
+{
+  "id": "혁오",
+  "mbid": "8b64a68f-eb63-48dd-80d9-1c2abcdf1970",
+  "name": "혁오",
+  "area": "首尔",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2014–",
+  "genres": [
+    "Korea"
+  ],
+  "albums": [
+    {
+      "title": "23",
+      "year": 2017
+    },
+    {
+      "title": "AAA",
+      "year": 2024
+    }
+  ],
+  "intro": "HYUKOH，韩国K-pop流行乐团，成员为主唱兼吉他手吴赫、吉他手林贤帝、贝斯手任童健、鼓手李仁雨。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8b64a68f-eb63-48dd-80d9-1c2abcdf1970"
+  },
+  "edges": [
+    {
+      "to": "봉제인간",
+      "toName": "봉제인간",
+      "toArea": "韩国",
+      "toYears": "2022–",
+      "type": "member",
+      "label": "임현제",
+      "detail": "임현제 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

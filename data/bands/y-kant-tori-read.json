@@ -3,6 +3,8 @@
   "mbid": "ee361394-914f-4074-891a-3b17b0f89a37",
   "name": "Y Kant Tori Read",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1984–1989",
   "genres": [],
   "albums": [
@@ -13,6 +15,7 @@
   ],
   "intro": "Y Kant Tori Read was an American synth-pop band fronted by singer-songwriter Tori Amos and active between 1984 and 1989.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ee361394-914f-4074-891a-3b17b0f89a37"
   },

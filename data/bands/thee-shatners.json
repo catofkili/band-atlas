@@ -1,0 +1,48 @@
+{
+  "id": "thee-shatners",
+  "mbid": "4245d894-85af-4ee8-820e-9e46a52d899e",
+  "name": "Thee Shatners",
+  "area": "旧金山",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [
+    "Garage Punk",
+    "Star Trek",
+    "Surf Rock"
+  ],
+  "albums": [
+    {
+      "title": "Thee Shatners",
+      "year": 1994
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4245d894-85af-4ee8-820e-9e46a52d899e"
+  },
+  "edges": [
+    {
+      "to": "the-ne-er-do-wells",
+      "toName": "The Ne’er Do Wells",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "John Kiffmeyer・Jess Hilliard・Chris Imlay・副项目",
+      "detail": "4 位乐手在这两支乐队都待过：John Kiffmeyer・Jess Hilliard・Chris Imlay・副项目。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "green-day",
+      "toName": "Green Day",
+      "toArea": "Berkeley",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "John Kiffmeyer",
+      "detail": "John Kiffmeyer 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    }
+  ]
+}

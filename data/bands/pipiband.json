@@ -1,0 +1,41 @@
+{
+  "id": "pipiband",
+  "mbid": "c9378444-9a5a-48ec-b51b-302166ab247d",
+  "name": "pipiband",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "1995–1997",
+  "genres": [],
+  "albums": [
+    {
+      "title": "文化革命",
+      "year": 1995
+    },
+    {
+      "title": "불가능한 작전",
+      "year": 1996
+    },
+    {
+      "title": "붕어빵",
+      "year": 1996
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c9378444-9a5a-48ec-b51b-302166ab247d"
+  },
+  "edges": [
+    {
+      "to": "3호선-버터플라이",
+      "toName": "3호선 버터플라이",
+      "toArea": "韩国",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "박현준",
+      "detail": "박현준 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    }
+  ]
+}

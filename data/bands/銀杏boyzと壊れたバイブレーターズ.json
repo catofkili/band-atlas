@@ -1,0 +1,33 @@
+{
+  "id": "銀杏boyzと壊れたバイブレーターズ",
+  "mbid": "d55947fc-5f1a-40f6-ac24-7b3d0679ccf4",
+  "name": "銀杏BOYZと壊れたバイブレーターズ",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "SEX CITY 〜セックスしたい〜",
+      "year": 2010
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d55947fc-5f1a-40f6-ac24-7b3d0679ccf4"
+  },
+  "edges": [
+    {
+      "to": "銀杏boyz",
+      "toName": "銀杏BOYZ",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

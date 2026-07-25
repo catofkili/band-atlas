@@ -3,9 +3,12 @@
   "mbid": "4c21807a-a8a1-4e71-a7ad-633120487ad8",
   "name": "Melvana",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": "1992–1992",
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4c21807a-a8a1-4e71-a7ad-633120487ad8"
   },

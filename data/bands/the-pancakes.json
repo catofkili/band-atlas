@@ -1,0 +1,55 @@
+{
+  "id": "the-pancakes",
+  "mbid": "acfb3235-1a9a-4e2f-a329-b9ac720b78d2",
+  "name": "The Pancakes",
+  "area": "Baden-Württemberg",
+  "countryCode": "DE",
+  "country": "德国",
+  "years": "1995–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Brainshaker",
+      "year": 1998
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/acfb3235-1a9a-4e2f-a329-b9ac720b78d2"
+  },
+  "edges": [
+    {
+      "to": "zone-six",
+      "toName": "Zone Six",
+      "toArea": "柏林",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Rainer Neeff",
+      "detail": "Rainer Neeff 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "krautzone",
+      "toName": "Krautzone",
+      "toArea": "德国",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "Rainer Neeff",
+      "detail": "Rainer Neeff 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "infrared-hologram",
+      "toName": "Infrared Hologram",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Rainer Neeff",
+      "detail": "Rainer Neeff 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

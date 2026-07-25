@@ -1,0 +1,50 @@
+{
+  "id": "小島",
+  "mbid": "a6d9f7f5-9b98-48c6-88c1-d2f9c91a1734",
+  "name": "小島",
+  "area": "Hong Kong",
+  "countryCode": "HK",
+  "country": "香港",
+  "years": "1985–1986",
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a6d9f7f5-9b98-48c6-88c1-d2f9c91a1734"
+  },
+  "edges": [
+    {
+      "to": "小島樂隊",
+      "toName": "小島樂隊",
+      "toArea": "Hong Kong",
+      "toYears": "1985–1986",
+      "type": "member",
+      "label": "黎允文・區新明",
+      "detail": "2 位乐手在这两支乐队都待过：黎允文・區新明。",
+      "year": 1985,
+      "weight": 0.84
+    },
+    {
+      "to": "凡風",
+      "toName": "凡風",
+      "toArea": "Hong Kong",
+      "toYears": null,
+      "type": "member",
+      "label": "區新明",
+      "detail": "區新明 在这两支乐队都待过。",
+      "year": 1985,
+      "weight": 0.62
+    },
+    {
+      "to": "天織堂",
+      "toName": "天織堂",
+      "toArea": "Hong Kong",
+      "toYears": null,
+      "type": "member",
+      "label": "黎允文",
+      "detail": "黎允文 在这两支乐队都待过。",
+      "year": 1985,
+      "weight": 0.62
+    }
+  ]
+}

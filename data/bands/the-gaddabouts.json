@@ -1,0 +1,52 @@
+{
+  "id": "the-gaddabouts",
+  "mbid": "d708a7b6-0658-43de-993e-092077955680",
+  "name": "The Gaddabouts",
+  "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2010–",
+  "genres": [
+    "Alternative Pop",
+    "Jazz",
+    "Soul Jazz"
+  ],
+  "albums": [
+    {
+      "title": "The Gaddabouts",
+      "year": 2011
+    },
+    {
+      "title": "Look Out Now!",
+      "year": 2012
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d708a7b6-0658-43de-993e-092077955680"
+  },
+  "edges": [
+    {
+      "to": "george-s-band",
+      "toName": "George's Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Fairweather‐Low",
+      "detail": "Andy Fairweather‐Low 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "rock-therapy",
+      "toName": "Rock Therapy",
+      "toArea": "英国",
+      "toYears": "1996–1996",
+      "type": "member",
+      "label": "Andy Fairweather‐Low",
+      "detail": "Andy Fairweather‐Low 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    }
+  ]
+}

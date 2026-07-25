@@ -1,0 +1,128 @@
+{
+  "id": "sex-pistols",
+  "mbid": "e5db18cb-4b1f-496d-a308-548b611090d3",
+  "name": "Sex Pistols",
+  "area": null,
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Never Mind the Bollocks Here’s the Sex Pistols",
+      "year": 1977
+    },
+    {
+      "title": "The Mini Album",
+      "year": 1988
+    },
+    {
+      "title": "Anarchy in the UK",
+      "year": 2001
+    },
+    {
+      "title": "More Product",
+      "year": 2017
+    },
+    {
+      "title": "76–77",
+      "year": 2021
+    }
+  ],
+  "intro": "性手枪是一支英国朋克摇滚乐队，于1975年在伦敦组建。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e5db18cb-4b1f-496d-a308-548b611090d3"
+  },
+  "edges": [
+    {
+      "to": "pixies",
+      "toName": "Pixies",
+      "toArea": "波士顿",
+      "toYears": "1986–1993 / 2004–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Sex Pistols 影响了 Pixies（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Sex Pistols 影响了 Guns N’ Roses（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "public-image-ltd",
+      "toName": "Public Image Ltd",
+      "toArea": "伦敦",
+      "toYears": "1978–",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "green-day",
+      "toName": "Green Day",
+      "toArea": "Berkeley",
+      "toYears": "1989–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Sex Pistols 影响了 Green Day（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-offspring",
+      "toName": "The Offspring",
+      "toArea": "Huntington Beach",
+      "toYears": "1984–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Sex Pistols 影响了 The Offspring（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-rolling-stones",
+      "toName": "The Rolling Stones",
+      "toArea": "伦敦",
+      "toYears": "1962–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Sex Pistols 受 The Rolling Stones 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-who",
+      "toName": "The Who",
+      "toArea": "伦敦",
+      "toYears": "1964–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Sex Pistols 受 The Who 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "u2",
+      "toName": "U2",
+      "toArea": "都柏林",
+      "toYears": "1976–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Sex Pistols 影响了 U2（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

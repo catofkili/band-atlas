@@ -1,0 +1,55 @@
+{
+  "id": "asoto-union",
+  "mbid": "b71a2d29-d52f-4bd3-8311-1144837509ec",
+  "name": "Asoto Union",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2001–2005",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Sound Renovates a Structure",
+      "year": 2003
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b71a2d29-d52f-4bd3-8311-1144837509ec"
+  },
+  "edges": [
+    {
+      "to": "windy-city",
+      "toName": "Windy City",
+      "toArea": "韩国",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "김반장・윤갑열",
+      "detail": "2 位乐手在这两支乐队都待过：김반장・윤갑열。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "언니네-이발관",
+      "toName": "언니네 이발관",
+      "toArea": "韩国",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "김반장",
+      "detail": "김반장 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "i-and-i-djangdan",
+      "toName": "I and I Djangdan",
+      "toArea": "韩国",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "김반장",
+      "detail": "김반장 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,9 +3,12 @@
   "mbid": "1c6376ba-058b-4906-a5d4-feb036d5bc66",
   "name": "Rapidfire",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1c6376ba-058b-4906-a5d4-feb036d5bc66"
   },

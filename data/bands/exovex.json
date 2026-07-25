@@ -1,0 +1,33 @@
+{
+  "id": "exovex",
+  "mbid": "6fdccc63-06c3-411e-aaed-a676eb5dbbd0",
+  "name": "Exovex",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Radio Silence",
+      "year": 2015
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6fdccc63-06c3-411e-aaed-a676eb5dbbd0"
+  },
+  "edges": [
+    {
+      "to": "king-crimson",
+      "toName": "King Crimson",
+      "toArea": "伦敦",
+      "toYears": "1968–2021",
+      "type": "member",
+      "label": "Gavin Harrison",
+      "detail": "Gavin Harrison 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    }
+  ]
+}

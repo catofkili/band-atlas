@@ -3,6 +3,8 @@
   "mbid": "78e497ff-b3d2-45e6-a179-f39253df4ea4",
   "name": "Porn",
   "area": "旧金山",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [
@@ -29,6 +31,7 @@
   ],
   "intro": "Men of Porn, sometimes typeset as Porn (The Men Of) and now simply known as Porn, is an American, San Francisco-based stoner rock band.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/78e497ff-b3d2-45e6-a179-f39253df4ea4"
   },

@@ -1,0 +1,30 @@
+{
+  "id": "projekct-one",
+  "mbid": "164765fe-22bb-4a3c-8643-67c8af245d46",
+  "name": "ProjeKct One",
+  "area": null,
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "intro": "プロジェクトは、イングランド出身のプログレッシブ・ロックバンド「キング・クリムゾン」から派生した実験音楽ユニットの総称。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/164765fe-22bb-4a3c-8643-67c8af245d46"
+  },
+  "edges": [
+    {
+      "to": "king-crimson",
+      "toName": "King Crimson",
+      "toArea": "伦敦",
+      "toYears": "1968–2021",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

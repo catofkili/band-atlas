@@ -3,6 +3,8 @@
   "mbid": "b025b720-a68c-4bd1-95fa-0ba95ed7a920",
   "name": "Frank Black and the Catholics",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1997–2003",
   "genres": [],
   "albums": [
@@ -33,6 +35,7 @@
   ],
   "intro": "Charles Michael Kittridge Thompson IV (born April 6, 1965), known professionally as Black Francis and formerly Frank Black, is an American singer, songwriter, and guitarist who is the lead vocalist of the alternative rock band Pixies.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b025b720-a68c-4bd1-95fa-0ba95ed7a920"
   },
@@ -46,6 +49,17 @@
       "label": "Joey Santiago",
       "detail": "Joey Santiago 在这两支乐队都待过。",
       "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "fear",
+      "toName": "Fear",
+      "toArea": "洛杉矶",
+      "toYears": "1977–",
+      "type": "member",
+      "label": "Eric Drew Feldman",
+      "detail": "Eric Drew Feldman 在这两支乐队都待过。",
+      "year": null,
       "weight": 0.62
     },
     {

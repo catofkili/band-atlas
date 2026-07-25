@@ -3,6 +3,8 @@
   "mbid": "dafcf61a-b256-406e-b5fa-b2e4d3c89e22",
   "name": "VOLA & THE ORIENTAL MACHINE",
   "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2004–",
   "genres": [
     "Dance Punk",
@@ -24,6 +26,7 @@
     "Pilot",
     "Uzumaki"
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dafcf61a-b256-406e-b5fa-b2e4d3c89e22"
   },

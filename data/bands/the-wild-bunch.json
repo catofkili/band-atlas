@@ -3,9 +3,12 @@
   "mbid": "af112aa8-4376-440d-8d8a-a4d2160b8742",
   "name": "The Wild Bunch",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/af112aa8-4376-440d-8d8a-a4d2160b8742"
   },

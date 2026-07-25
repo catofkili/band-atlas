@@ -1,0 +1,50 @@
+{
+  "id": "3minutes",
+  "mbid": "01630d13-9b90-4e71-8f38-928ddccbd503",
+  "name": "3minutes",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/01630d13-9b90-4e71-8f38-928ddccbd503"
+  },
+  "edges": [
+    {
+      "to": "luna-sea",
+      "toName": "LUNA SEA",
+      "toArea": "神奈川",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "河村隆一",
+      "detail": "河村隆一 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "tourbillon",
+      "toName": "Tourbillon",
+      "toArea": "日本",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "河村隆一",
+      "detail": "河村隆一 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "lunacy",
+      "toName": "Lunacy",
+      "toArea": "日本",
+      "toYears": "1986–1990",
+      "type": "member",
+      "label": "河村隆一",
+      "detail": "河村隆一 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    }
+  ]
+}

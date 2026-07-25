@@ -3,6 +3,8 @@
   "mbid": "8515f3fc-d9d1-4c97-8513-849a1ee31369",
   "name": "Southern Fly",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2000
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8515f3fc-d9d1-4c97-8513-849a1ee31369"
   },

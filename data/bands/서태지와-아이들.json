@@ -1,0 +1,51 @@
+{
+  "id": "서태지와-아이들",
+  "mbid": "16a6ff18-4875-4851-94b6-f4f831e73fa7",
+  "name": "서태지와 아이들",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "1991–1997",
+  "genres": [
+    "Boy Band",
+    "Boy Group",
+    "Dance-Pop"
+  ],
+  "albums": [
+    {
+      "title": "Seo Taiji and Boys",
+      "year": 1992
+    },
+    {
+      "title": "Seotaiji and Boys II",
+      "year": 1993
+    },
+    {
+      "title": "Seo Taiji and Boys III",
+      "year": 1994
+    },
+    {
+      "title": "Seo Taiji and Boys IV",
+      "year": 1995
+    }
+  ],
+  "intro": "徐太志和孩子们，是韩国曾经的一个音乐组合，于1992年出道，共有三名成员。1996年1月31日上午10点45分，徐太志和孩子们在成均馆大学召开记者会宣布隐退。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/16a6ff18-4875-4851-94b6-f4f831e73fa7"
+  },
+  "edges": [
+    {
+      "to": "sinawe",
+      "toName": "Sinawe",
+      "toArea": "韩国",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "서태지",
+      "detail": "서태지 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    }
+  ]
+}

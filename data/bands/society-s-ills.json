@@ -3,13 +3,27 @@
   "mbid": "1d5e1b8c-9682-46c2-8efb-25cd94595f51",
   "name": "Society's Ills",
   "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1d5e1b8c-9682-46c2-8efb-25cd94595f51"
   },
   "edges": [
+    {
+      "to": "redd-kross",
+      "toName": "Redd Kross",
+      "toArea": "Hawthorne",
+      "toYears": "1980–",
+      "type": "member",
+      "label": "Dez Cadena",
+      "detail": "Dez Cadena 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
     {
       "to": "anywhere",
       "toName": "Anywhere",

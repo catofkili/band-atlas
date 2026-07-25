@@ -3,6 +3,8 @@
   "mbid": "c48d4327-8122-4286-af66-05e1ee6ac4d8",
   "name": "Mazzy Star",
   "area": "Santa Monica",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1988–",
   "genres": [
     "Dream Pop",
@@ -29,6 +31,7 @@
   ],
   "intro": "マジー・スターは、1989年、ボーカルのホープ・サンドヴァル (Hope Sandoval) とギターのデヴィッド・ロバック (David Roback) により結成されたバンド。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c48d4327-8122-4286-af66-05e1ee6ac4d8"
   },

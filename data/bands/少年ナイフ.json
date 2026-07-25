@@ -1,0 +1,125 @@
+{
+  "id": "少年ナイフ",
+  "mbid": "5089b746-7612-4a13-9153-33ff2560e161",
+  "name": "少年ナイフ",
+  "area": "大阪",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1981–",
+  "genres": [
+    "Pop Punk",
+    "Alternative Pop/Rock",
+    "Alternative Rock"
+  ],
+  "albums": [
+    {
+      "title": "みんな楽しく少年ナイフ",
+      "year": 1982
+    },
+    {
+      "title": "BURNING FARM",
+      "year": 1983
+    },
+    {
+      "title": "山のアッちゃん。",
+      "year": 1984
+    },
+    {
+      "title": "PRETTY LITTLE BAKA GUY",
+      "year": 1986
+    },
+    {
+      "title": "Pretty Little Baka Guy + Live in Japan",
+      "year": 1990
+    },
+    {
+      "title": "712",
+      "year": 1991
+    }
+  ],
+  "intro": "少年ナイフは、日本のガールズバンド。1981年に結成。ラモーンズやザ・ビートルズなどの影響を受けたポップ・パンクやオルタナティヴ・ロックを基調とした楽曲を展開する。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5089b746-7612-4a13-9153-33ff2560e161"
+  },
+  "edges": [
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "山野敦子・山野直子",
+      "detail": "2 位乐手在这两支乐队都待过：山野敦子・山野直子。",
+      "year": 1981,
+      "weight": 0.84
+    },
+    {
+      "to": "dmbq",
+      "toName": "DMBQ",
+      "toArea": "札幌",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "西浦真奈",
+      "detail": "西浦真奈 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "羅針盤",
+      "toName": "羅針盤",
+      "toArea": "日本",
+      "toYears": "1988–2005",
+      "type": "member",
+      "label": "西浦真奈",
+      "detail": "西浦真奈 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "droop",
+      "toName": "Droop",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "西浦真奈",
+      "detail": "西浦真奈 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "jesus-fever",
+      "toName": "JESUS FEVER",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "西浦真奈",
+      "detail": "西浦真奈 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "京阪girl",
+      "toName": "京阪GIRL",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "種田律子",
+      "detail": "種田律子 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "電気キャンディ",
+      "toName": "電気キャンディ",
+      "toArea": "大阪",
+      "toYears": "2004–2008",
+      "type": "member",
+      "label": "種田律子",
+      "detail": "種田律子 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    }
+  ]
+}

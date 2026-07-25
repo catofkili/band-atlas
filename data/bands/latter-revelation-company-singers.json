@@ -3,9 +3,12 @@
   "mbid": "d99d03db-ebd1-4e03-a7b9-f532115faf0d",
   "name": "Latter Revelation Company Singers",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d99d03db-ebd1-4e03-a7b9-f532115faf0d"
   },

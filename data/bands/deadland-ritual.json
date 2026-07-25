@@ -3,6 +3,8 @@
   "mbid": "8da60c20-2608-4113-921d-72ffd22ef953",
   "name": "Deadland Ritual",
   "area": "伦敦",
+  "countryCode": null,
+  "country": null,
   "years": "2018–",
   "genres": [
     "Hard Rock"
@@ -10,10 +12,33 @@
   "albums": [],
   "intro": "Deadland Ritual was a British–American hard rock supergroup band originally formed in Los Angeles in 2018, the band is a supergroup composed of vocalist Franky Perez (Apocalyptica), guitarist Steve Stevens (Billy Idol, Michael Jackson), bassist Geezer Butler (Black Sabbath, Heaven and Hell) and drummer Matt Sorum (the Cult, Guns N' Roses, Velvet Revolver and many others).",
   "introLang": "en",
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8da60c20-2608-4113-921d-72ffd22ef953"
   },
   "edges": [
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "Birmingham",
+      "toYears": "1968–2025",
+      "type": "member",
+      "label": "Geezer Butler",
+      "detail": "Geezer Butler 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "daron-malakian-and-scars-on-broadway",
+      "toName": "Daron Malakian and Scars on Broadway",
+      "toArea": "洛杉矶",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "Franky Perez",
+      "detail": "Franky Perez 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
     {
       "to": "neurotic-outsiders",
       "toName": "Neurotic Outsiders",

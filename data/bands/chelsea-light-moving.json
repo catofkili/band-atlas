@@ -3,6 +3,8 @@
   "mbid": "e8b2f9f2-f5fd-4a24-aaa4-d9bebf8675e7",
   "name": "Chelsea Light Moving",
   "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2012–",
   "genres": [
     "Alternative Rock"
@@ -15,6 +17,7 @@
   ],
   "intro": "Chelsea Light Moving was an American alternative rock band formed in 2012 in New York City.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e8b2f9f2-f5fd-4a24-aaa4-d9bebf8675e7"
   },

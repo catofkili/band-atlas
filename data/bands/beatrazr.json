@@ -3,9 +3,12 @@
   "mbid": "c6429d8a-5917-457c-b625-d97234acf59a",
   "name": "Beatrazr",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c6429d8a-5917-457c-b625-d97234acf59a"
   },
@@ -22,6 +25,17 @@
       "weight": 0.95
     },
     {
+      "to": "asia",
+      "toName": "Asia",
+      "toArea": "伦敦",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Ron “Bumblefoot” Thal",
+      "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
+      "year": 2019,
+      "weight": 0.62
+    },
+    {
       "to": "the-dead-daisies",
       "toName": "The Dead Daisies",
       "toArea": "悉尼",
@@ -30,6 +44,50 @@
       "label": "Frank Ferrer",
       "detail": "Frank Ferrer 在这两支乐队都待过。",
       "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "art-of-anarchy",
+      "toName": "Art of Anarchy",
+      "toArea": "美国",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "Ron “Bumblefoot” Thal",
+      "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
+      "year": 2014,
+      "weight": 0.62
+    },
+    {
+      "to": "love-spit-love",
+      "toName": "Love Spit Love",
+      "toArea": "纽约",
+      "toYears": "1992–2000",
+      "type": "member",
+      "label": "Frank Ferrer",
+      "detail": "Frank Ferrer 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "sons-of-apollo",
+      "toName": "Sons of Apollo",
+      "toArea": "美国",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "Ron “Bumblefoot” Thal",
+      "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "gordon-gano-the-ryans",
+      "toName": "Gordon Gano & The Ryans",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Frank Ferrer",
+      "detail": "Frank Ferrer 在这两支乐队都待过。",
+      "year": null,
       "weight": 0.62
     },
     {
@@ -63,6 +121,17 @@
       "label": "Chris Pitman",
       "detail": "Chris Pitman 在这两支乐队都待过。",
       "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "whom-gods-destroy",
+      "toName": "Whom Gods Destroy",
+      "toArea": "美国",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "Ron “Bumblefoot” Thal",
+      "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
+      "year": 2020,
       "weight": 0.62
     },
     {

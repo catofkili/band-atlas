@@ -1,0 +1,48 @@
+{
+  "id": "gonervill",
+  "mbid": "d8da300b-4961-47a4-bdb5-f2795bf28b0c",
+  "name": "Gonervill",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Gonervill",
+      "year": 2001
+    },
+    {
+      "title": "The Freak Brothers",
+      "year": 2001
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d8da300b-4961-47a4-bdb5-f2795bf28b0c"
+  },
+  "edges": [
+    {
+      "to": "el-stew",
+      "toName": "El Stew",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Eddie Def・Extrakd",
+      "detail": "2 位乐手在这两支乐队都待过：DJ Eddie Def・Extrakd。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "the-freak-brothers",
+      "toName": "The Freak Brothers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Extrakd",
+      "detail": "Extrakd 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

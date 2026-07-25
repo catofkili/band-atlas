@@ -1,0 +1,102 @@
+{
+  "id": "on-a-friday",
+  "mbid": "c74f4726-2671-4011-81b6-f70da905c05a",
+  "name": "On a Friday",
+  "area": "Abingdon-on-Thames",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1985–1991",
+  "genres": [
+    "Indie Pop",
+    "Oxford"
+  ],
+  "albums": [
+    {
+      "title": "Medicinal Sounds",
+      "year": 1987
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c74f4726-2671-4011-81b6-f70da905c05a"
+  },
+  "edges": [
+    {
+      "to": "radiohead",
+      "toName": "Radiohead",
+      "toArea": "Abingdon-on-Thames",
+      "toYears": "1991–",
+      "type": "member",
+      "label": "Colin Greenwood・Jonny Greenwood・Ed O’Brien・Philip Selway・Thom Yorke",
+      "detail": "5 位乐手在这两支乐队都待过：Colin Greenwood・Jonny Greenwood・Ed O’Brien・Philip Selway・Thom Yorke。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "the-smile",
+      "toName": "The Smile",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Jonny Greenwood・Thom Yorke",
+      "detail": "2 位乐手在这两支乐队都待过：Jonny Greenwood・Thom Yorke。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "7-worlds-collide",
+      "toName": "7 Worlds Collide",
+      "toArea": "New Zealand",
+      "toYears": null,
+      "type": "member",
+      "label": "Ed O’Brien・Philip Selway",
+      "detail": "2 位乐手在这两支乐队都待过：Ed O’Brien・Philip Selway。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "the-venus-in-furs",
+      "toName": "The Venus in Furs",
+      "toArea": "英国",
+      "toYears": "1998–1998",
+      "type": "member",
+      "label": "Jonny Greenwood・Thom Yorke",
+      "detail": "2 位乐手在这两支乐队都待过：Jonny Greenwood・Thom Yorke。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "atoms-for-peace",
+      "toName": "Atoms for Peace",
+      "toArea": "洛杉矶",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "Thom Yorke",
+      "detail": "Thom Yorke 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "headless-chickens",
+      "toName": "Headless Chickens",
+      "toArea": "英国",
+      "toYears": "1989–1989",
+      "type": "member",
+      "label": "Thom Yorke",
+      "detail": "Thom Yorke 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-illiterate-hands",
+      "toName": "The Illiterate Hands",
+      "toArea": "牛津",
+      "toYears": null,
+      "type": "member",
+      "label": "Jonny Greenwood",
+      "detail": "Jonny Greenwood 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

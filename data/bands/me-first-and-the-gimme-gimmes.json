@@ -1,0 +1,59 @@
+{
+  "id": "me-first-and-the-gimme-gimmes",
+  "mbid": "9478e346-7c52-4780-9555-3d1577f0b905",
+  "name": "Me First and the Gimme Gimmes",
+  "area": "旧金山",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1995–",
+  "genres": [
+    "Covers",
+    "Punk Covers",
+    "Punk Rock"
+  ],
+  "albums": [
+    {
+      "title": "Have a Ball",
+      "year": 1997
+    },
+    {
+      "title": "Are a Drag",
+      "year": 1999
+    },
+    {
+      "title": "Blow in the Wind",
+      "year": 2001
+    },
+    {
+      "title": "Take a Break",
+      "year": 2003
+    },
+    {
+      "title": "Love Their Country",
+      "year": 2006
+    },
+    {
+      "title": "Are We Not Men? We Are Diva!",
+      "year": 2014
+    }
+  ],
+  "intro": "Me First and the Gimme Gimmes(ミーファースト・アンド・ザ・ギミー・ギミーズ)は、アメリカのパンク・ロックバンド。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9478e346-7c52-4780-9555-3d1577f0b905"
+  },
+  "edges": [
+    {
+      "to": "cretin-family",
+      "toName": "Cretin Family",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "C.J. Ramone",
+      "detail": "C.J. Ramone 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

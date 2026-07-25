@@ -1,0 +1,39 @@
+{
+  "id": "hedigan-s",
+  "mbid": "99d74e46-7d40-4cff-8fbf-90db8132e7ba",
+  "name": "Hedigan's",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2024–",
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/99d74e46-7d40-4cff-8fbf-90db8132e7ba"
+  },
+  "edges": [
+    {
+      "to": "suchmos",
+      "toName": "Suchmos",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "YONCE",
+      "detail": "YONCE 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ザ-プールサイド",
+      "toName": "ザ・プールサイド",
+      "toArea": null,
+      "toYears": "2016–",
+      "type": "member",
+      "label": "YONCE",
+      "detail": "YONCE 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

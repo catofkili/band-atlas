@@ -1,0 +1,58 @@
+{
+  "id": "acidman",
+  "mbid": "f962dc1e-f93a-4d61-892d-2c8042b29daf",
+  "name": "ACIDMAN",
+  "area": "埼玉",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1997–",
+  "genres": [
+    "Alternative Rock",
+    "J-Rock"
+  ],
+  "albums": [
+    {
+      "title": "創",
+      "year": 2002
+    },
+    {
+      "title": "Loop",
+      "year": 2003
+    },
+    {
+      "title": "equal",
+      "year": 2004
+    },
+    {
+      "title": "and world",
+      "year": 2005
+    },
+    {
+      "title": "green chord",
+      "year": 2007
+    },
+    {
+      "title": "LIFE",
+      "year": 2008
+    }
+  ],
+  "intro": "ACIDMANは、日本のスリーピースロックバンド。所属事務所はFREE STAR。レーベルはユニバーサルミュージック内のVirgin Music。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f962dc1e-f93a-4d61-892d-2c8042b29daf"
+  },
+  "edges": [
+    {
+      "to": "寺子屋",
+      "toName": "寺子屋",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

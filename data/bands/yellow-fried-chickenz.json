@@ -1,0 +1,71 @@
+{
+  "id": "yellow-fried-chickenz",
+  "mbid": "2556d653-1faf-4b20-8691-185918bee70e",
+  "name": "YELLOW FRIED CHICKENz",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2010–2012",
+  "genres": [
+    "Likedis Auto",
+    "Visual Kei"
+  ],
+  "albums": [
+    {
+      "title": "YELLOW FRIED CHICKENz I",
+      "year": 2012
+    }
+  ],
+  "intro": "YELLOW FRIED CHICKENz(イエローフライドチキンズ)は、日本のヴィジュアル系ロックバンド。2010年3月にGACKTを中心に結成された。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2556d653-1faf-4b20-8691-185918bee70e"
+  },
+  "edges": [
+    {
+      "to": "luna-sea",
+      "toName": "LUNA SEA",
+      "toArea": "神奈川",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "真矢",
+      "detail": "真矢 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "toshi-with-t-earth",
+      "toName": "TOSHI with T-EARTH",
+      "toArea": "日本",
+      "toYears": "2008–2010",
+      "type": "member",
+      "label": "真矢",
+      "detail": "真矢 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "lunacy",
+      "toName": "Lunacy",
+      "toArea": "日本",
+      "toYears": "1986–1990",
+      "type": "member",
+      "label": "真矢",
+      "detail": "真矢 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "s-k-i-n",
+      "toName": "S.K.I.N.",
+      "toArea": "日本",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "GACKT",
+      "detail": "GACKT 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    }
+  ]
+}

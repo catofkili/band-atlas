@@ -1,0 +1,50 @@
+{
+  "id": "廃人黒薔薇族",
+  "mbid": "ae5688b9-5fe2-4f34-827e-80fe6762efa5",
+  "name": "廃人黒薔薇族",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ae5688b9-5fe2-4f34-827e-80fe6762efa5"
+  },
+  "edges": [
+    {
+      "to": "la-sadie-s",
+      "toName": "La:Sadie's",
+      "toArea": "大阪",
+      "toYears": "1995–1997",
+      "type": "member",
+      "label": "Shinya・KISAKI",
+      "detail": "2 位乐手在这两支乐队都待过：Shinya・KISAKI。",
+      "year": 1995,
+      "weight": 0.84
+    },
+    {
+      "to": "dir-en-grey",
+      "toName": "DIR EN GREY",
+      "toArea": "大阪",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Shinya",
+      "detail": "Shinya 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "seraph",
+      "toName": "SERAPH",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "Shinya",
+      "detail": "Shinya 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "ee94b47c-db73-4135-b3d6-deced74b94ba",
   "name": "ストレイテナー",
   "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "1998–",
   "genres": [
     "Alternative Rock",
@@ -35,6 +37,7 @@
     "ROCKSTEADY",
     "KILLER TUNE"
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ee94b47c-db73-4135-b3d6-deced74b94ba"
   },

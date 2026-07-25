@@ -1,0 +1,59 @@
+{
+  "id": "envy",
+  "mbid": "8c4519da-59e7-44b5-868d-350dffb30b51",
+  "name": "envy",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1992–",
+  "genres": [
+    "Screamo",
+    "Post-Hardcore",
+    "Post-Rock"
+  ],
+  "albums": [
+    {
+      "title": "Breathing and Dying in This Place",
+      "year": 1996
+    },
+    {
+      "title": "From Here to Eternity",
+      "year": 1998
+    },
+    {
+      "title": "All the Footprints You've Ever Left and the Fear Expecting Ahead",
+      "year": 2001
+    },
+    {
+      "title": "A Dead Sinking Story",
+      "year": 2003
+    },
+    {
+      "title": "Insomniac Doze",
+      "year": 2006
+    },
+    {
+      "title": "recitation",
+      "year": 2010
+    }
+  ],
+  "intro": "envyは日本のポスト・ハードコアバンドである。前身バンド「BLIND JUSTICE」を経て1995年結成。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8c4519da-59e7-44b5-868d-350dffb30b51"
+  },
+  "edges": [
+    {
+      "to": "storm-of-void",
+      "toName": "Storm of Void",
+      "toArea": "东京",
+      "toYears": null,
+      "type": "member",
+      "label": "Dairoku Seki",
+      "detail": "Dairoku Seki 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "id": "the-alfee",
+  "mbid": "db855eff-9d28-4bd7-ab2c-7301495b4669",
+  "name": "THE ALFEE",
+  "area": "Shirokanedai",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1973–",
+  "genres": [
+    "Flugels",
+    "Folk Rock",
+    "J-Rock"
+  ],
+  "albums": [
+    {
+      "title": "青春の記憶",
+      "year": 1975
+    },
+    {
+      "title": "TIME AND TIDE",
+      "year": 1979
+    },
+    {
+      "title": "讃集詩",
+      "year": 1980
+    },
+    {
+      "title": "ALMIGHTY",
+      "year": 1981
+    },
+    {
+      "title": "doubt,",
+      "year": 1982
+    },
+    {
+      "title": "ALFEE",
+      "year": 1983
+    }
+  ],
+  "intro": "THE ALFEE，台译阿飞合唱团，是日本历史最长久的乐团之一，未曾经历过活动休止，以LIVE活动为中心，每年约60余场。1973年结成，1974年8月25日出道，曲风及支持者年龄层广泛，粉丝自称为“アル中”。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/db855eff-9d28-4bd7-ab2c-7301495b4669"
+  },
+  "edges": [
+    {
+      "to": "コンフィデンス",
+      "toName": "コンフィデンス",
+      "toArea": "日本",
+      "toYears": "1972–1973",
+      "type": "member",
+      "label": "三宅康夫・坂崎幸之助・桜井賢",
+      "detail": "3 位乐手在这两支乐队都待过：三宅康夫・坂崎幸之助・桜井賢。",
+      "year": 1972,
+      "weight": 0.95
+    },
+    {
+      "to": "ザ-フォーク-クルセダーズ",
+      "toName": "ザ・フォーク・クルセダーズ",
+      "toArea": "日本",
+      "toYears": "1965–",
+      "type": "member",
+      "label": "坂崎幸之助",
+      "detail": "坂崎幸之助 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "和幸",
+      "toName": "和幸",
+      "toArea": "日本",
+      "toYears": "2007–2009",
+      "type": "member",
+      "label": "坂崎幸之助",
+      "detail": "坂崎幸之助 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "fanta",
+      "toName": "FANTA",
+      "toArea": "日本",
+      "toYears": "2010–2012",
+      "type": "member",
+      "label": "高見沢俊彦",
+      "detail": "高見沢俊彦 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    }
+  ]
+}

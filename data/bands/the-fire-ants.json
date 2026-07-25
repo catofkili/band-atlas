@@ -3,9 +3,12 @@
   "mbid": "a1ce7e78-9991-4ae9-b955-40210fbf545b",
   "name": "The Fire Ants",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1991–1993",
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a1ce7e78-9991-4ae9-b955-40210fbf545b"
   },

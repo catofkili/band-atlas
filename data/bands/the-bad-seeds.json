@@ -3,9 +3,12 @@
   "mbid": "eb2a8edc-5670-4896-82be-87db38de9583",
   "name": "The Bad Seeds",
   "area": null,
+  "countryCode": "AU",
+  "country": "澳大利亚",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/eb2a8edc-5670-4896-82be-87db38de9583"
   },

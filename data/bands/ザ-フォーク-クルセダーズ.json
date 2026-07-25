@@ -1,0 +1,72 @@
+{
+  "id": "ザ-フォーク-クルセダーズ",
+  "mbid": "a9d1c0f3-269f-436f-b163-41d6fd9ebf13",
+  "name": "ザ・フォーク・クルセダーズ",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1965–",
+  "genres": [
+    "Contemporary Folk",
+    "Folk Pop"
+  ],
+  "albums": [
+    {
+      "title": "ハレンチ",
+      "year": 1967
+    },
+    {
+      "title": "紀元弐阡年",
+      "year": 1968
+    },
+    {
+      "title": "ハレンチ+1",
+      "year": 1995
+    },
+    {
+      "title": "若い加藤和彦のように",
+      "year": 2013
+    }
+  ],
+  "intro": "ザ・フォーク・クルセダーズは、1960年代後半にデビューした音楽バンドで、フォークルという略称でも呼ばれる。「ザ・フォーク・クルセイダーズ」と表記されることもある。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a9d1c0f3-269f-436f-b163-41d6fd9ebf13"
+  },
+  "edges": [
+    {
+      "to": "和幸",
+      "toName": "和幸",
+      "toArea": "日本",
+      "toYears": "2007–2009",
+      "type": "member",
+      "label": "坂崎幸之助・加藤和彦",
+      "detail": "2 位乐手在这两支乐队都待过：坂崎幸之助・加藤和彦。",
+      "year": 2007,
+      "weight": 0.84
+    },
+    {
+      "to": "the-alfee",
+      "toName": "THE ALFEE",
+      "toArea": "Shirokanedai",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "坂崎幸之助",
+      "detail": "坂崎幸之助 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "コンフィデンス",
+      "toName": "コンフィデンス",
+      "toArea": "日本",
+      "toYears": "1972–1973",
+      "type": "member",
+      "label": "坂崎幸之助",
+      "detail": "坂崎幸之助 在这两支乐队都待过。",
+      "year": 1972,
+      "weight": 0.62
+    }
+  ]
+}

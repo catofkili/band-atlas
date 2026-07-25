@@ -3,6 +3,8 @@
   "mbid": "097524cf-ae0f-4ff8-9970-f406ac03b1e4",
   "name": "The Martinis",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1993–",
   "genres": [],
   "albums": [
@@ -17,6 +19,7 @@
   ],
   "intro": "ザ・マルティニス(The Martinis)は、アメリカのロックバンド。1993年、解散したピクシーズのギタリストであったジョーイ・サンティアゴと、その妻であるリンダ・マラーリの2人で結成された。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/097524cf-ae0f-4ff8-9970-f406ac03b1e4"
   },

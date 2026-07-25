@@ -1,0 +1,94 @@
+{
+  "id": "the-mad-capsule-market-s-杉並",
+  "mbid": "cde10718-4856-43a9-8571-a2e0dfeb40bd",
+  "name": "THE MAD CAPSULE MARKET'S 杉並",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "2018–",
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cde10718-4856-43a9-8571-a2e0dfeb40bd"
+  },
+  "edges": [
+    {
+      "to": "slipknot杉並",
+      "toName": "Slipknot杉並",
+      "toArea": "日本",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "ミヤ・Allen",
+      "detail": "2 位乐手在这两支乐队都待过：ミヤ・Allen。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "mucc",
+      "toName": "MUCC",
+      "toArea": "Ibaraki",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "petit-brabancon",
+      "toName": "Petit Brabancon",
+      "toArea": "日本",
+      "toYears": "2021–",
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": 2021,
+      "weight": 0.62
+    },
+    {
+      "to": "178r",
+      "toName": "178R",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "boøwy杉並",
+      "toName": "BOØWY杉並",
+      "toArea": "日本",
+      "toYears": "2018–",
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "x-suginami",
+      "toName": "X SUGINAMI",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "コーンsuginami",
+      "toName": "コーンsuginAmi",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,55 @@
+{
+  "id": "audioslave",
+  "mbid": "020bfbb4-05c3-4c86-b372-17825c262094",
+  "name": "Audioslave",
+  "area": null,
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Audioslave",
+      "year": 2002
+    },
+    {
+      "title": "Live in Tokyo",
+      "year": 2003
+    },
+    {
+      "title": "Out of Exile",
+      "year": 2005
+    },
+    {
+      "title": "Revelations",
+      "year": 2006
+    },
+    {
+      "title": "Covers & Rare",
+      "year": 2006
+    },
+    {
+      "title": "Covers & Rare II",
+      "year": 2007
+    }
+  ],
+  "intro": "音魔乐队是一支美国的摇滚超级乐团，于2001年在加州的洛杉矶组建，后于2007年解散。成员包括前声音花园主音克里斯·康奈尔及三名前讨伐体制乐团成员，包括吉他手汤姆·莫雷洛、贝斯手蒂姆·康默福德及鼓手布拉德·威尔克。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/020bfbb4-05c3-4c86-b372-17825c262094"
+  },
+  "edges": [
+    {
+      "to": "rage-against-the-machine",
+      "toName": "Rage Against the Machine",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2024",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

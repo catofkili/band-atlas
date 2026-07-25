@@ -3,6 +3,8 @@
   "mbid": "e675295a-1efe-4247-aa3b-53b78d0cdffc",
   "name": "Mudhoney",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1988–",
   "genres": [
     "Alternative Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "マッドハニー (Mudhoney) は、アメリカ合衆国ワシントン州シアトル出身のバンド。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e675295a-1efe-4247-aa3b-53b78d0cdffc"
   },
@@ -139,6 +142,28 @@
       "detail": "Mark Arm 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62
+    },
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Mudhoney 影响了 Foo Fighters（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "die-spitz",
+      "toName": "Die Spitz",
+      "toArea": "奥斯汀",
+      "toYears": "2022–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Mudhoney 影响了 Die Spitz（Wikidata）。",
+      "year": null,
+      "weight": 0.46
     }
   ]
 }

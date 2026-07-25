@@ -1,0 +1,158 @@
+{
+  "id": "blink-182",
+  "mbid": "0743b15a-3c32-48c8-ad58-cb325350befa",
+  "name": "blink‐182",
+  "area": "Poway",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1992–",
+  "genres": [
+    "Pop Punk",
+    "Punk Rock",
+    "Skate Punk"
+  ],
+  "albums": [
+    {
+      "title": "Cheshire Cat",
+      "year": 1995
+    },
+    {
+      "title": "Dude Ranch",
+      "year": 1997
+    },
+    {
+      "title": "Enema of the State",
+      "year": 1999
+    },
+    {
+      "title": "Sand in My Eyes",
+      "year": 2000
+    },
+    {
+      "title": "The B Sides",
+      "year": 2000
+    },
+    {
+      "title": "Take Off Your Pants and Jacket",
+      "year": 2001
+    }
+  ],
+  "intro": "眨眼182出身于美国是加利福尼亚州的摇滚三重唱乐队，擅长玩流行朋克及朋克摇滚。该乐队于1992年由主音暨吉他手汤姆·德朗、低音马克·霍普斯成立。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0743b15a-3c32-48c8-ad58-cb325350befa"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 Nirvana 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "angels-airwaves",
+      "toName": "Angels & Airwaves",
+      "toArea": "San Diego",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Tom DeLonge",
+      "detail": "Tom DeLonge 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "cretin-family",
+      "toName": "Cretin Family",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Travis Barker",
+      "detail": "Travis Barker 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "supergroup-b",
+      "toName": "Supergroup B",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Travis Barker",
+      "detail": "Travis Barker 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "adolescents",
+      "toName": "Adolescents",
+      "toArea": "Fullerton",
+      "toYears": "1979–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 Adolescents 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "fall-out-boy",
+      "toName": "Fall Out Boy",
+      "toArea": "Wilmette",
+      "toYears": "2001–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 影响了 Fall Out Boy（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "green-day",
+      "toName": "Green Day",
+      "toArea": "Berkeley",
+      "toYears": "1989–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 Green Day 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "rancid",
+      "toName": "Rancid",
+      "toArea": null,
+      "toYears": null,
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 Rancid 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-offspring",
+      "toName": "The Offspring",
+      "toArea": "Huntington Beach",
+      "toYears": "1984–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 The Offspring 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-vandals",
+      "toName": "The Vandals",
+      "toArea": "Huntington Beach",
+      "toYears": "1980–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "blink‐182 受 The Vandals 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

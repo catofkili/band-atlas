@@ -1,0 +1,59 @@
+{
+  "id": "サカナクション",
+  "mbid": "01830cc1-8a04-4dfb-9e4a-d557dfda6a93",
+  "name": "サカナクション",
+  "area": "札幌",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2005–",
+  "genres": [
+    "Alternative Rock",
+    "J-Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "GO TO THE FUTURE",
+      "year": 2007
+    },
+    {
+      "title": "NIGHT FISHING",
+      "year": 2008
+    },
+    {
+      "title": "シンシロ",
+      "year": 2009
+    },
+    {
+      "title": "kikUUiki",
+      "year": 2010
+    },
+    {
+      "title": "DocumentaLy",
+      "year": 2011
+    },
+    {
+      "title": "sakanaction",
+      "year": 2013
+    }
+  ],
+  "intro": "鱼韵是日本摇滚乐团，2005年于北海道札幌市结合而成。其乐风综合了另类摇滚、电子音乐、新浪潮、Pop等等，很难将其归类为其中之一。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/01830cc1-8a04-4dfb-9e4a-d557dfda6a93"
+  },
+  "edges": [
+    {
+      "to": "ダッチマン",
+      "toName": "ダッチマン",
+      "toArea": "札幌",
+      "toYears": "1998–2005",
+      "type": "member",
+      "label": "岩寺基晴・山口一郎",
+      "detail": "2 位乐手在这两支乐队都待过：岩寺基晴・山口一郎。",
+      "year": null,
+      "weight": 0.84
+    }
+  ]
+}

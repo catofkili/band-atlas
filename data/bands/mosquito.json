@@ -3,6 +3,8 @@
   "mbid": "2d30afab-d504-4a9c-9679-3a28bb1f9405",
   "name": "Mosquito",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1992–",
   "genres": [
     "Rock"
@@ -29,6 +31,7 @@
       "year": 2024
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2d30afab-d504-4a9c-9679-3a28bb1f9405"
   },

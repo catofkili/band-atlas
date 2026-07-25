@@ -1,0 +1,55 @@
+{
+  "id": "ourself-beside-me",
+  "mbid": "c738a64b-d643-43e3-a06b-fef2bba087ff",
+  "name": "Ourself Beside Me",
+  "area": "中国",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "2003–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Ourself Beside Me",
+      "year": 2009
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c738a64b-d643-43e3-a06b-fef2bba087ff"
+  },
+  "edges": [
+    {
+      "to": "carsick-cars",
+      "toName": "Carsick Cars",
+      "toArea": "北京",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "张守望",
+      "detail": "张守望 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "white",
+      "toName": "WHITE",
+      "toArea": "北京",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "张守望",
+      "detail": "张守望 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "speak-chinese-or-die",
+      "toName": "Speak Chinese or Die",
+      "toArea": "Wuhan",
+      "toYears": null,
+      "type": "member",
+      "label": "张守望",
+      "detail": "张守望 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

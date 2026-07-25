@@ -1,0 +1,120 @@
+{
+  "id": "the-weirdos",
+  "mbid": "bea10050-d80f-4280-98fe-23c9d945beb0",
+  "name": "The Weirdos",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1976–2005",
+  "genres": [
+    "Los Angeles",
+    "Punk",
+    "Punk Rock"
+  ],
+  "albums": [
+    {
+      "title": "Condor",
+      "year": 1990
+    },
+    {
+      "title": "Ranting in a Rubber Room!!!",
+      "year": 1992
+    }
+  ],
+  "intro": "The Weirdos are an American punk rock band from Los Angeles.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bea10050-d80f-4280-98fe-23c9d945beb0"
+  },
+  "edges": [
+    {
+      "to": "13-13",
+      "toName": "13.13",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Cliff Martinez・Dix Denney・Greg Williams",
+      "detail": "3 位乐手在这两支乐队都待过：Cliff Martinez・Dix Denney・Greg Williams。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "thelonious-monster",
+      "toName": "Thelonious Monster",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Dix Denney・Zander Schloss",
+      "detail": "2 位乐手在这两支乐队都待过：Dix Denney・Zander Schloss。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "adolescents",
+      "toName": "Adolescents",
+      "toArea": "Fullerton",
+      "toYears": "1979–",
+      "type": "member",
+      "label": "Danny Benair",
+      "detail": "Danny Benair 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "l-a-guns",
+      "toName": "L.A. Guns",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Nickey “Beat” Alexander",
+      "detail": "Nickey “Beat” Alexander 在这两支乐队都待过。",
+      "year": 1976,
+      "weight": 0.62
+    },
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Cliff Martinez",
+      "detail": "Cliff Martinez 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "the-cramps",
+      "toName": "The Cramps",
+      "toArea": "纽约",
+      "toYears": "1976–2009",
+      "type": "member",
+      "label": "Nickey “Beat” Alexander",
+      "detail": "Nickey “Beat” Alexander 在这两支乐队都待过。",
+      "year": 1976,
+      "weight": 0.62
+    },
+    {
+      "to": "germs",
+      "toName": "Germs",
+      "toArea": "洛杉矶",
+      "toYears": "1976–2013",
+      "type": "member",
+      "label": "Nickey “Beat” Alexander",
+      "detail": "Nickey “Beat” Alexander 在这两支乐队都待过。",
+      "year": 1978,
+      "weight": 0.62
+    },
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Weirdos 影响了 Red Hot Chili Peppers（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

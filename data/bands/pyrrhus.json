@@ -3,9 +3,12 @@
   "mbid": "aa685cb7-8314-401b-818e-92500e396d45",
   "name": "Pyrrhus",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/aa685cb7-8314-401b-818e-92500e396d45"
   },

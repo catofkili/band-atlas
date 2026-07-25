@@ -1,0 +1,51 @@
+{
+  "id": "acid",
+  "mbid": "71888148-a252-4a1f-b080-ddd755195b3c",
+  "name": "ACID",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2003–2009",
+  "genres": [],
+  "albums": [
+    {
+      "title": "ACID 1 ～Punk Drunker～",
+      "year": 2004
+    },
+    {
+      "title": "ACID 1.5 ～Punk Drunker～",
+      "year": 2005
+    },
+    {
+      "title": "ACID 1.7 ～SPIRITUAL CIRCUS～",
+      "year": 2005
+    },
+    {
+      "title": "ACID 2.0 ～SPIRITUAL CIRCUS COMPLETE～",
+      "year": 2006
+    },
+    {
+      "title": "PRAY FOR THE FUTURE",
+      "year": 2007
+    }
+  ],
+  "intro": "ACIDは、かつて存在した日本のミクスチャーバンド。相次ぐメンバーの脱退により2008年9月26日に解散。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/71888148-a252-4a1f-b080-ddd755195b3c"
+  },
+  "edges": [
+    {
+      "to": "siam-shade",
+      "toName": "SIAM SHADE",
+      "toArea": "日本",
+      "toYears": "1993–2002",
+      "type": "member",
+      "label": "栄喜",
+      "detail": "栄喜 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    }
+  ]
+}

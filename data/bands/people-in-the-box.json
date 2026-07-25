@@ -1,0 +1,55 @@
+{
+  "id": "people-in-the-box",
+  "mbid": "ef0413e8-9a3b-4cba-8496-774781cf03bd",
+  "name": "People In The Box",
+  "area": "Kitakyūshū",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2003–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Frog Queen",
+      "year": 2007
+    },
+    {
+      "title": "Family Record",
+      "year": 2010
+    },
+    {
+      "title": "Ave Materia",
+      "year": 2012
+    },
+    {
+      "title": "Weather Report",
+      "year": 2013
+    },
+    {
+      "title": "Wall, Window",
+      "year": 2014
+    },
+    {
+      "title": "Kodomo Rengou",
+      "year": 2018
+    }
+  ],
+  "intro": "People In The Boxは、日本の男性3人組ポストロック・バンド。2003年に福岡県北九州市にて結成。所属レーベルはBAUXITE MUSIC WY.",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ef0413e8-9a3b-4cba-8496-774781cf03bd"
+  },
+  "edges": [
+    {
+      "to": "橋本絵莉子波多野裕文",
+      "toName": "橋本絵莉子波多野裕文",
+      "toArea": "日本",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "波多野裕文",
+      "detail": "波多野裕文 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "id": "anatakikou",
+  "mbid": "ce54d048-b971-4132-a8da-2a3305a53402",
+  "name": "ANATAKIKOU",
+  "area": "大阪",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2001–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "sweet montage A",
+      "year": 2005
+    },
+    {
+      "title": "Message Pie",
+      "year": 2006
+    },
+    {
+      "title": "YELLOW MATADOR",
+      "year": 2007
+    },
+    {
+      "title": "3.2.1.O",
+      "year": 2017
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ce54d048-b971-4132-a8da-2a3305a53402"
+  },
+  "edges": [
+    {
+      "to": "official髭男dism",
+      "toName": "Official髭男dism",
+      "toArea": "Shimane",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "松浦匡希",
+      "detail": "松浦匡希 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

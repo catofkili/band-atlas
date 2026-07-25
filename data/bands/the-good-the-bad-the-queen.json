@@ -3,6 +3,8 @@
   "mbid": "0f211bfc-8c69-4cb7-9165-acbe4353cb0a",
   "name": "The Good, the Bad & the Queen",
   "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "2006–2019",
   "genres": [
     "Alternative Rock",
@@ -21,6 +23,7 @@
   ],
   "intro": "ザ・グッド,ザ・バッド・アンド・ザ・クイーン (The Good, the Bad & the Queen) は、ブラー、ゴリラズのデーモン・アルバーン、アフロビートの創始者、フェラ・クティと共に活動をしていたトニー・アレン、元ザ・クラッシュのポール・シムノン、元ザ・ヴァーヴのサイモン・トングからなるバンドが、2007年にリリースしたアルバム。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0f211bfc-8c69-4cb7-9165-acbe4353cb0a"
   },

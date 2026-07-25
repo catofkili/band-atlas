@@ -1,0 +1,83 @@
+{
+  "id": "discipline",
+  "mbid": "ef767a5a-cbb1-420f-822c-4a3308e730ac",
+  "name": "Discipline",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ef767a5a-cbb1-420f-822c-4a3308e730ac"
+  },
+  "edges": [
+    {
+      "to": "king-crimson",
+      "toName": "King Crimson",
+      "toArea": "伦敦",
+      "toYears": "1968–2021",
+      "type": "member",
+      "label": "Robert Fripp・Bill Bruford・Tony Levin",
+      "detail": "3 位乐手在这两支乐队都待过：Robert Fripp・Bill Bruford・Tony Levin。",
+      "year": 1968,
+      "weight": 0.95
+    },
+    {
+      "to": "projekct-two",
+      "toName": "ProjeKct Two",
+      "toArea": null,
+      "toYears": "1997–1998",
+      "type": "member",
+      "label": "Robert Fripp",
+      "detail": "Robert Fripp 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "beat",
+      "toName": "BEAT",
+      "toArea": "美国",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "Tony Levin",
+      "detail": "Tony Levin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "projekct-six",
+      "toName": "ProjeKct Six",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Robert Fripp",
+      "detail": "Robert Fripp 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-crimson-projekct",
+      "toName": "The Crimson ProjeKCt",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Tony Levin",
+      "detail": "Tony Levin 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-human-experimente",
+      "toName": "The Human Experimente",
+      "toArea": "Santa Monica",
+      "toYears": null,
+      "type": "member",
+      "label": "Robert Fripp",
+      "detail": "Robert Fripp 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

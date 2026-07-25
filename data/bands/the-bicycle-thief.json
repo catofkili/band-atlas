@@ -1,0 +1,35 @@
+{
+  "id": "the-bicycle-thief",
+  "mbid": "a45c61bf-3728-4ca6-a142-bfe6075e1976",
+  "name": "The Bicycle Thief",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1997–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "You Come and Go Like a Pop Song",
+      "year": 1999
+    }
+  ],
+  "intro": "The Bicycle Thief is an American alternative rock band fronted by Bob Forrest.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a45c61bf-3728-4ca6-a142-bfe6075e1976"
+  },
+  "edges": [
+    {
+      "to": "thelonious-monster",
+      "toName": "Thelonious Monster",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Bob Forrest",
+      "detail": "Bob Forrest 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

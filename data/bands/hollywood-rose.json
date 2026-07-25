@@ -3,6 +3,8 @@
   "mbid": "f7f66942-6841-4506-bdae-3acc866d6b41",
   "name": "Hollywood Rose",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1983–1984",
   "genres": [
     "Hard Rock"
@@ -10,6 +12,7 @@
   "albums": [],
   "intro": "ハリウッド・ローズ (Hollywood Rose)は、アメリカのグラムメタル・バンド。1983年にクリス・ウェバーを中心に結成され、アクセル・ローズ、トレイシー・ガンズらが在籍した。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f7f66942-6841-4506-bdae-3acc866d6b41"
   },

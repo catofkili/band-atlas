@@ -1,0 +1,39 @@
+{
+  "id": "eastern-sidekick",
+  "mbid": "87afe5d0-f12b-4609-b0b2-ddb4ace0f908",
+  "name": "Eastern Sidekick",
+  "area": "首尔",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2010–2016",
+  "genres": [],
+  "albums": [
+    {
+      "title": "The First",
+      "year": 2012
+    },
+    {
+      "title": "Total Reflection",
+      "year": 2015
+    }
+  ],
+  "intro": "Eastern Sidekick (Korean: 이스턴 사이드킥) was a South Korean indie rock band formed in 2010, but they officially debuted under Fluxus Music includes Clazziquai, Urban Zakapa in 2013.",
+  "introLang": "en",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/87afe5d0-f12b-4609-b0b2-ddb4ace0f908"
+  },
+  "edges": [
+    {
+      "to": "adoy",
+      "toName": "ADOY",
+      "toArea": "首尔",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "오주환",
+      "detail": "오주환 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    }
+  ]
+}

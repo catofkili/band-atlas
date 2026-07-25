@@ -3,6 +3,8 @@
   "mbid": "923158cf-9d21-4bce-8040-41e7a497c1c9",
   "name": "ELLEGARDEN",
   "area": "千叶",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "1998–2008 / 2018–",
   "genres": [
     "Melodic Punk",
@@ -37,6 +39,7 @@
     "ジターバグ"
   ],
   "lore": "2008 年宣布无限期活动休止，直到 2018 年才重启。中间整整十年，成员各自组了新乐队。",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/923158cf-9d21-4bce-8040-41e7a497c1c9"
   },

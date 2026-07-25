@@ -1,0 +1,136 @@
+{
+  "id": "mucc",
+  "mbid": "0da0f48c-3689-4c38-bf4a-c5b50d516689",
+  "name": "MUCC",
+  "area": "Ibaraki",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1997–",
+  "genres": [
+    "Metal",
+    "Nu Metal",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "痛絶",
+      "year": 2001
+    },
+    {
+      "title": "葬ラ謳",
+      "year": 2002
+    },
+    {
+      "title": "是空",
+      "year": 2003
+    },
+    {
+      "title": "朽木の灯",
+      "year": 2004
+    },
+    {
+      "title": "鵬翼",
+      "year": 2005
+    },
+    {
+      "title": "COVER PARADE",
+      "year": 2006
+    }
+  ],
+  "intro": "MUCC，日本视觉系乐团。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0da0f48c-3689-4c38-bf4a-c5b50d516689"
+  },
+  "edges": [
+    {
+      "to": "petit-brabancon",
+      "toName": "Petit Brabancon",
+      "toArea": "日本",
+      "toYears": "2021–",
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": 2021,
+      "weight": 0.62
+    },
+    {
+      "to": "halloween-junky-orchestra",
+      "toName": "HALLOWEEN JUNKY ORCHESTRA",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "逹瑯",
+      "detail": "逹瑯 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "178r",
+      "toName": "178R",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "boøwy杉並",
+      "toName": "BOØWY杉並",
+      "toArea": "日本",
+      "toYears": "2018–",
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "slipknot杉並",
+      "toName": "Slipknot杉並",
+      "toArea": "日本",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "the-mad-capsule-market-s-杉並",
+      "toName": "THE MAD CAPSULE MARKET'S 杉並",
+      "toArea": null,
+      "toYears": "2018–",
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "x-suginami",
+      "toName": "X SUGINAMI",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "コーンsuginami",
+      "toName": "コーンsuginAmi",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "ミヤ",
+      "detail": "ミヤ 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    }
+  ]
+}

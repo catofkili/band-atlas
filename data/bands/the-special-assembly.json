@@ -3,9 +3,12 @@
   "mbid": "d9bb7ca8-3411-4732-8237-a40cc0cd8cbe",
   "name": "The Special Assembly",
   "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d9bb7ca8-3411-4732-8237-a40cc0cd8cbe"
   },

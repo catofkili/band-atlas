@@ -3,6 +3,8 @@
   "mbid": "b2ff1a6d-9198-4646-b068-8965242d245b",
   "name": "Rites of Spring",
   "area": "华盛顿特区",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1983–1986",
   "genres": [
     "Emo",
@@ -17,6 +19,7 @@
   ],
   "intro": "Rites of Spring是一个美国华盛顿特区的后硬蕊乐团，以他们富有活力的表演闻名，活跃与1980年中期。",
   "introLang": "zh",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b2ff1a6d-9198-4646-b068-8965242d245b"
   },
@@ -75,6 +78,17 @@
       "detail": "Eddie Janney 在这两支乐队都待过。",
       "year": 1981,
       "weight": 0.62
+    },
+    {
+      "to": "fall-out-boy",
+      "toName": "Fall Out Boy",
+      "toArea": "Wilmette",
+      "toYears": "2001–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Rites of Spring 影响了 Fall Out Boy（Wikidata）。",
+      "year": null,
+      "weight": 0.46
     }
   ]
 }

@@ -1,0 +1,39 @@
+{
+  "id": "the-earth",
+  "mbid": "2df94caf-b447-41f4-b2be-828f60f66d57",
+  "name": "The Earth",
+  "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1968–1969",
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2df94caf-b447-41f4-b2be-828f60f66d57"
+  },
+  "edges": [
+    {
+      "to": "queen",
+      "toName": "Queen",
+      "toArea": "伦敦",
+      "toYears": "1970–",
+      "type": "member",
+      "label": "Barry Mitchell",
+      "detail": "Barry Mitchell 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    },
+    {
+      "to": "crushed-butler",
+      "toName": "Crushed Butler",
+      "toArea": "伦敦",
+      "toYears": "1969–1971",
+      "type": "member",
+      "label": "Barry Mitchell",
+      "detail": "Barry Mitchell 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    }
+  ]
+}

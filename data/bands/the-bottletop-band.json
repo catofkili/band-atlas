@@ -1,0 +1,79 @@
+{
+  "id": "the-bottletop-band",
+  "mbid": "9b52f235-714b-4b76-b85b-ebc07363db7f",
+  "name": "The Bottletop Band",
+  "area": "英格兰",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "2008–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Dream Service",
+      "year": 2011
+    }
+  ],
+  "intro": "The Bottletop Band is a supergroup consisting of leading musicians of both Brazilian and English music.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9b52f235-714b-4b76-b85b-ebc07363db7f"
+  },
+  "edges": [
+    {
+      "to": "arctic-monkeys",
+      "toName": "Arctic Monkeys",
+      "toArea": "High Green",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "reverend-and-the-makers",
+      "toName": "Reverend and the Makers",
+      "toArea": "谢菲尔德",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mongrel",
+      "toName": "Mongrel",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "lords-of-flatbush",
+      "toName": "Lords of Flatbush",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sticky-blood",
+      "toName": "Sticky Blood",
+      "toArea": "谢菲尔德",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

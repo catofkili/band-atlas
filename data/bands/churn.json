@@ -3,6 +3,8 @@
   "mbid": "63d26065-2133-4385-b87e-167c9bd593d4",
   "name": "Churn",
   "area": "Arlington County",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1989–",
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 1996
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/63d26065-2133-4385-b87e-167c9bd593d4"
   },

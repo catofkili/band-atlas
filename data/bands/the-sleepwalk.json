@@ -1,0 +1,49 @@
+{
+  "id": "the-sleepwalk",
+  "mbid": "12782f3a-dfe7-4d27-8bff-7a5513b59ce3",
+  "name": "The Sleepwalk",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Phantasmagoria III",
+      "year": 2007
+    },
+    {
+      "title": "Upon A Brown 〜エルフの死〜",
+      "year": 2008
+    },
+    {
+      "title": "The Forest of FOSS DARYA 〜フォス・ダーリャの森〜",
+      "year": 2008
+    },
+    {
+      "title": "Phantasmagoria I",
+      "year": 2010
+    },
+    {
+      "title": "Phantasmagoria II",
+      "year": 2010
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/12782f3a-dfe7-4d27-8bff-7a5513b59ce3"
+  },
+  "edges": [
+    {
+      "to": "melt-banana",
+      "toName": "Melt‐Banana",
+      "toArea": "东京",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "大島昌樹",
+      "detail": "大島昌樹 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    }
+  ]
+}

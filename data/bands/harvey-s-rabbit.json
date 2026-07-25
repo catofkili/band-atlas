@@ -3,6 +3,8 @@
   "mbid": "6fc16f58-4562-47e6-a364-b03011e5f1ea",
   "name": "Harvey's Rabbit",
   "area": "曼彻斯特",
+  "countryCode": "GB",
+  "country": "英国",
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 1998
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6fc16f58-4562-47e6-a364-b03011e5f1ea"
   },

@@ -3,6 +3,8 @@
   "mbid": "e10a7d73-546b-4961-8390-2a9171beaa7a",
   "name": "FZMZ",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2023–",
   "genres": [
     "Avatar",
@@ -10,6 +12,7 @@
     "Fathoms"
   ],
   "albums": [],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e10a7d73-546b-4961-8390-2a9171beaa7a"
   },

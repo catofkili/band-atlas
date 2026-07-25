@@ -1,0 +1,28 @@
+{
+  "id": "marshall-law",
+  "mbid": "a7931ef7-7c40-4f45-ae4e-af99bc60690e",
+  "name": "Marshall Law",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a7931ef7-7c40-4f45-ae4e-af99bc60690e"
+  },
+  "edges": [
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Arik Marshall",
+      "detail": "Arik Marshall 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    }
+  ]
+}

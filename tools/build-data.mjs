@@ -4,6 +4,7 @@
  *
  *   generated.json   由 tools/crawl.mjs 从 MusicBrainz 爬来，量大但只有硬事实
  *   scene-jrock.json 人工整理，量小但有中文简介、轶事，以及数据库里根本没有的恩怨
+ *   influences.json  Wikidata P737 关系；只保留两端都在本网里的影响边
  *
  * 人工的那份是覆盖层：同一支乐队，人工写了什么就以什么为准，
  * 没写的字段才用爬来的补。乐队 id 也以人工那份为准，
@@ -18,6 +19,13 @@ import path from 'node:path';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT_DIR = path.join(root, 'data/bands');
 const TYPES = new Set(['member', 'guest', 'influence', 'feud', 'scene']);
+const EAST_ASIA = new Set(['JP', 'KR', 'KP', 'CN', 'TW', 'HK', 'MO', 'MN']);
+const WESTERN = new Set([
+  'US', 'GB', 'IE', 'CA', 'AU', 'NZ', 'DE', 'FR', 'SE', 'NO', 'DK', 'FI', 'IS', 'NL', 'BE', 'ES',
+  'IT', 'PT', 'AT', 'CH',
+]);
+const regionOf = (countryCode) =>
+  EAST_ASIA.has(countryCode) ? 'east-asia' : WESTERN.has(countryCode) ? 'western' : countryCode ? 'other' : 'unknown';
 
 async function readJSON(rel, fallback = null) {
   try {
@@ -30,6 +38,7 @@ async function readJSON(rel, fallback = null) {
 const curated = await readJSON('data/source/scene-jrock.json');
 const generated = await readJSON('data/source/generated.json', { bands: [], edges: [] });
 const { intros } = await readJSON('data/source/intros.json', { intros: {} });
+const { edges: influenceEdges } = await readJSON('data/source/influences.json', { edges: [] });
 
 // 维基百科的简介垫在爬来的数据上、人工数据下：有中文简介就用中文的，
 // 人工写过的照旧以人工为准。
@@ -139,6 +148,12 @@ curated.edges.forEach((e, i) => addEdge(e, `scene-jrock.edges[${i}]`));
 generated.edges.forEach((e, i) =>
   addEdge({ ...e, from: remap.get(e.from) ?? e.from, to: remap.get(e.to) ?? e.to }, `generated.edges[${i}]`)
 );
+influenceEdges.forEach((e, i) =>
+  addEdge(
+    { ...e, from: remap.get(e.from) ?? e.from, to: remap.get(e.to) ?? e.to },
+    `influences.edges[${i}]`
+  )
+);
 
 /**
  * 一支乐队可能有几十条关系，屏幕边缘只摆得下八个，得挑。
@@ -182,6 +197,7 @@ await mkdir(OUT_DIR, { recursive: true });
 for (const [id, band] of merged) {
   const doc = {
     ...band,
+    region: regionOf(band.countryCode),
     links: {
       musicbrainz: band.mbid
         ? `https://musicbrainz.org/artist/${band.mbid}`
@@ -202,10 +218,32 @@ const index = {
     name: b.name,
     area: b.area ?? null,
     years: b.years ?? null,
+    countryCode: b.countryCode ?? null,
+    region: regionOf(b.countryCode),
     degree: adjacency.get(b.id).length,
   })),
 };
 await writeFile(path.join(root, 'data/index.json'), JSON.stringify(index, null, 2) + '\n');
+
+// 缩略地图不再逐支请求 JSON：一次拿到轻量节点和全量连线，Canvas 才能画出真正的网状图。
+const graph = {
+  generatedAt: index.generatedAt,
+  nodes: [...merged.values()].map((b) => ({
+    id: b.id,
+    name: b.name,
+    countryCode: b.countryCode ?? null,
+    region: regionOf(b.countryCode),
+    degree: adjacency.get(b.id).length,
+    // ListenBrainz 热度接口恢复后由热度构建步骤填入；null 绝不冒充低热度。
+    listens: b.listens ?? null,
+    listeners: b.listeners ?? null,
+  })),
+  edges: [...seen].map((key) => {
+    const [from, to, type] = key.split('|');
+    return { from, to, type };
+  }),
+};
+await writeFile(path.join(root, 'data/graph.json'), JSON.stringify(graph) + '\n');
 
 const degrees = index.bands.map((b) => b.degree);
 const edgeCount = seen.size;

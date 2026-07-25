@@ -3,6 +3,8 @@
   "mbid": "54bfa733-5012-4aae-b24f-fc9e36cf4ddf",
   "name": "Anywhere",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2010–",
   "genres": [
     "Crossover Prog"
@@ -19,10 +21,33 @@
   ],
   "intro": "Anywhere is a psychedelic rock/folk music project from Los Angeles, California, founded by Christian Eric Beaulieu (formerly of Triclops!",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/54bfa733-5012-4aae-b24f-fc9e36cf4ddf"
   },
   "edges": [
+    {
+      "to": "the-mars-volta",
+      "toName": "The Mars Volta",
+      "toArea": "El Paso",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "Cedric Bixler‐Zavala",
+      "detail": "Cedric Bixler‐Zavala 在这两支乐队都待过。",
+      "year": 2022,
+      "weight": 0.62
+    },
+    {
+      "to": "dot-hacker",
+      "toName": "Dot Hacker",
+      "toArea": "洛杉矶",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Jonathan Hischke",
+      "detail": "Jonathan Hischke 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
     {
       "to": "wylde-ratttz",
       "toName": "Wylde Ratttz",

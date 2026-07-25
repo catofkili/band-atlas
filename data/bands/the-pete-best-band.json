@@ -1,0 +1,83 @@
+{
+  "id": "the-pete-best-band",
+  "mbid": "f7f024fc-1b17-4a1c-b70c-7c783ec09500",
+  "name": "The Pete Best Band",
+  "area": "利物浦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1988–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "“…Once a Beatle, Always…”",
+      "year": 1996
+    },
+    {
+      "title": "Haymans Green",
+      "year": 2008
+    }
+  ],
+  "intro": "ランドルフ・ピーター・ベストはイギリスのドラマー。メジャーデビューする直前までビートルズ・メンバーだったので「5人目のビートルズ」と呼ばれている。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f7f024fc-1b17-4a1c-b70c-7c783ec09500"
+  },
+  "edges": [
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "the-beat-brothers",
+      "toName": "The Beat Brothers",
+      "toArea": "Hamburg",
+      "toYears": "1961–",
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "lee-curtis-the-all-stars",
+      "toName": "Lee Curtis & The All Stars",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pete-best-combo",
+      "toName": "The Pete Best Combo",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pete-best-four",
+      "toName": "The Pete Best Four",
+      "toArea": "英国",
+      "toYears": "1963–1964",
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    }
+  ]
+}

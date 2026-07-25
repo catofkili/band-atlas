@@ -1,0 +1,455 @@
+{
+  "id": "red-hot-chili-peppers",
+  "mbid": "8bfac288-ccc5-448d-9573-c33ea2aa5c30",
+  "name": "Red Hot Chili Peppers",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1983–",
+  "genres": [
+    "Funk Rock",
+    "Alternative Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "The Red Hot Chili Peppers",
+      "year": 1984
+    },
+    {
+      "title": "Freaky Styley",
+      "year": 1985
+    },
+    {
+      "title": "The Uplift Mofo Party Plan",
+      "year": 1987
+    },
+    {
+      "title": "Mother’s Milk",
+      "year": 1989
+    },
+    {
+      "title": "Blood Sugar Sex Magik",
+      "year": 1991
+    },
+    {
+      "title": "One Hot Minute",
+      "year": 1995
+    }
+  ],
+  "intro": "红辣椒乐队是1982年成立于加州洛杉矶的美国另类摇滚乐队，现由主唱安东尼·基德斯、吉他手约翰·伏许安、贝斯手“跳蚤”麦可·巴札里及鼓手查德·史密斯组成。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8bfac288-ccc5-448d-9573-c33ea2aa5c30"
+  },
+  "edges": [
+    {
+      "to": "what-is-this",
+      "toName": "What Is This?",
+      "toArea": "洛杉矶",
+      "toYears": "1980–1986",
+      "type": "member",
+      "label": "Jack Irons・Hillel Slovak",
+      "detail": "2 位乐手在这两支乐队都待过：Jack Irons・Hillel Slovak。",
+      "year": 1986,
+      "weight": 0.84
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 Guns N’ Roses 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "dead-kennedys",
+      "toName": "Dead Kennedys",
+      "toArea": "旧金山",
+      "toYears": "1978–1986",
+      "type": "member",
+      "label": "D.H. Peligro",
+      "detail": "D.H. Peligro 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "eleven",
+      "toName": "Eleven",
+      "toArea": "洛杉矶",
+      "toYears": "1990–2007",
+      "type": "member",
+      "label": "Jack Irons",
+      "detail": "Jack Irons 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "fear",
+      "toName": "Fear",
+      "toArea": "洛杉矶",
+      "toYears": "1977–",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "pearl-jam",
+      "toName": "Pearl Jam",
+      "toArea": "西雅图",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Jack Irons",
+      "detail": "Jack Irons 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "redd-kross",
+      "toName": "Redd Kross",
+      "toArea": "Hawthorne",
+      "toYears": "1980–",
+      "type": "member",
+      "label": "Jack Irons",
+      "detail": "Jack Irons 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "the-mars-volta",
+      "toName": "The Mars Volta",
+      "toArea": "El Paso",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "John Frusciante",
+      "detail": "John Frusciante 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "the-wallflowers",
+      "toName": "The Wallflowers",
+      "toArea": "洛杉矶",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Jack Irons",
+      "detail": "Jack Irons 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "thelonious-monster",
+      "toName": "Thelonious Monster",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "John Frusciante",
+      "detail": "John Frusciante 在这两支乐队都待过。",
+      "year": 2019,
+      "weight": 0.62
+    },
+    {
+      "to": "ataxia",
+      "toName": "Ataxia",
+      "toArea": "洛杉矶",
+      "toYears": "2004–2004",
+      "type": "member",
+      "label": "John Frusciante",
+      "detail": "John Frusciante 在这两支乐队都待过。",
+      "year": 2019,
+      "weight": 0.62
+    },
+    {
+      "to": "steady-earnest",
+      "toName": "Steady Earnest",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Jack Sherman",
+      "detail": "Jack Sherman 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "the-weirdos",
+      "toName": "The Weirdos",
+      "toArea": "洛杉矶",
+      "toYears": "1976–2005",
+      "type": "member",
+      "label": "Cliff Martinez",
+      "detail": "Cliff Martinez 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "13-13",
+      "toName": "13.13",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Cliff Martinez",
+      "detail": "Cliff Martinez 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "anthym",
+      "toName": "Anthym",
+      "toArea": "加拿大",
+      "toYears": null,
+      "type": "member",
+      "label": "Jack Irons",
+      "detail": "Jack Irons 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "atoms-for-peace",
+      "toName": "Atoms for Peace",
+      "toArea": "洛杉矶",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "omar-rodriguez-lopez-quartet",
+      "toName": "Omar Rodriguez‐Lopez Quartet",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Frusciante",
+      "detail": "John Frusciante 在这两支乐队都待过。",
+      "year": 2019,
+      "weight": 0.62
+    },
+    {
+      "to": "peligro",
+      "toName": "Peligro",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "D.H. Peligro",
+      "detail": "D.H. Peligro 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "rocket-juice-the-moon",
+      "toName": "Rocket Juice & the Moon",
+      "toArea": "英国",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "spinnerette",
+      "toName": "Spinnerette",
+      "toArea": "洛杉矶",
+      "toYears": "2007–",
+      "type": "member",
+      "label": "Jack Irons",
+      "detail": "Jack Irons 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "splendid",
+      "toName": "Splendid",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Jesse Tobias",
+      "detail": "Jesse Tobias 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "thunderbox",
+      "toName": "Thunderbox",
+      "toArea": "Redondo Beach",
+      "toYears": null,
+      "type": "member",
+      "label": "Jack Sherman",
+      "detail": "Jack Sherman 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "aleka-s-attic",
+      "toName": "Aleka's Attic",
+      "toArea": "美国",
+      "toYears": "1988–1993",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "flea-and-the-honora-band",
+      "toName": "Flea and the Honora Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "marshall-law",
+      "toName": "Marshall Law",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Arik Marshall",
+      "detail": "Arik Marshall 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "speed-dealer-moms",
+      "toName": "Speed Dealer Moms",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Frusciante",
+      "detail": "John Frusciante 在这两支乐队都待过。",
+      "year": 2019,
+      "weight": 0.62
+    },
+    {
+      "to": "the-lost-trees",
+      "toName": "The Lost Trees",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "funkadelic",
+      "toName": "Funkadelic",
+      "toArea": "Plainfield",
+      "toYears": "1968–1981",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 Funkadelic 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "green-day",
+      "toName": "Green Day",
+      "toArea": "Berkeley",
+      "toYears": "1989–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 影响了 Green Day（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "linkin-park",
+      "toName": "Linkin Park",
+      "toArea": "Agoura Hills",
+      "toYears": "1996–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 影响了 Linkin Park（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "parliament",
+      "toName": "Parliament",
+      "toArea": "Plainfield",
+      "toYears": "1968–1980",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 Parliament 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "pearl-jam",
+      "toName": "Pearl Jam",
+      "toArea": "西雅图",
+      "toYears": "1990–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 影响了 Pearl Jam（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "public-image-ltd",
+      "toName": "Public Image Ltd",
+      "toArea": "伦敦",
+      "toYears": "1978–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 Public Image Ltd 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "rage-against-the-machine",
+      "toName": "Rage Against the Machine",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2024",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 影响了 Rage Against the Machine（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-weirdos",
+      "toName": "The Weirdos",
+      "toArea": "洛杉矶",
+      "toYears": "1976–2005",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 The Weirdos 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "germs",
+      "toName": "Germs",
+      "toArea": "洛杉矶",
+      "toYears": "1976–2013",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Red Hot Chili Peppers 受 Germs 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

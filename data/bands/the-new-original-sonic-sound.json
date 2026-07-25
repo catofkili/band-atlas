@@ -3,9 +3,12 @@
   "mbid": "dd39c0c6-454e-4000-99b3-d53eedcee641",
   "name": "The New Original Sonic Sound",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dd39c0c6-454e-4000-99b3-d53eedcee641"
   },

@@ -1,0 +1,61 @@
+{
+  "id": "sugar-the-radio-fire",
+  "mbid": "273c4ed0-4fd3-4e23-b234-cfa1fd63591a",
+  "name": "Sugar & The Radio Fire",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "2015–",
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/273c4ed0-4fd3-4e23-b234-cfa1fd63591a"
+  },
+  "edges": [
+    {
+      "to": "possession-80-2-por-cento",
+      "toName": "POSSESSION=80.2 POR CENTO",
+      "toArea": null,
+      "toYears": "2014–",
+      "type": "member",
+      "label": "谷口鮪・川上洋平",
+      "detail": "2 位乐手在这两支乐队都待过：谷口鮪・川上洋平。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "kana-boon",
+      "toName": "KANA-BOON",
+      "toArea": "Sakai",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "谷口鮪",
+      "detail": "谷口鮪 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "radio-darlings",
+      "toName": "Radio Darlings",
+      "toArea": null,
+      "toYears": "2019–",
+      "type": "member",
+      "label": "谷口鮪",
+      "detail": "谷口鮪 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "radio-soul20",
+      "toName": "RADIO SOUL20",
+      "toArea": null,
+      "toYears": "2009–",
+      "type": "member",
+      "label": "スガシカオ",
+      "detail": "スガシカオ 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

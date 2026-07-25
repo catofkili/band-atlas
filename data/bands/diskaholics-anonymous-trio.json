@@ -3,6 +3,8 @@
   "mbid": "f37c738e-a2dc-45ce-8a7c-385fd1535d03",
   "name": "Diskaholics Anonymous Trio",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -15,6 +17,7 @@
       "year": 2006
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f37c738e-a2dc-45ce-8a7c-385fd1535d03"
   },

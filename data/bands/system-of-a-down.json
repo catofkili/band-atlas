@@ -1,0 +1,231 @@
+{
+  "id": "system-of-a-down",
+  "mbid": "cc0b7089-c08d-4c10-b6b0-873582c17fd6",
+  "name": "System of a Down",
+  "area": "Glendale",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1995–",
+  "genres": [
+    "Alternative Metal",
+    "Alternative Rock",
+    "Nu Metal"
+  ],
+  "albums": [
+    {
+      "title": "System of a Down",
+      "year": 1998
+    },
+    {
+      "title": "Toxicity",
+      "year": 2001
+    },
+    {
+      "title": "Steal This Album!",
+      "year": 2002
+    },
+    {
+      "title": "Hypnotize",
+      "year": 2005
+    },
+    {
+      "title": "Mezmerize",
+      "year": 2005
+    }
+  ],
+  "intro": "堕落体制或者体制颠覆，是一支来自于美国加利福尼亚州洛杉矶的亚美尼亚裔重金属乐队。他们的音乐风格介于另类金属和新金属之间。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cc0b7089-c08d-4c10-b6b0-873582c17fd6"
+  },
+  "edges": [
+    {
+      "to": "daron-malakian-and-scars-on-broadway",
+      "toName": "Daron Malakian and Scars on Broadway",
+      "toArea": "洛杉矶",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "Daron Malakian・John Dolmayan",
+      "detail": "2 位乐手在这两支乐队都待过：Daron Malakian・John Dolmayan。",
+      "year": 2006,
+      "weight": 0.84
+    },
+    {
+      "to": "the-apex-theory",
+      "toName": "The Apex Theory",
+      "toArea": null,
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Andy Khatchaturian",
+      "detail": "Andy Khatchaturian 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "achozen",
+      "toName": "AcHoZeN",
+      "toArea": "洛杉矶",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Shavo Odadjian",
+      "detail": "Shavo Odadjian 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "fuktronic",
+      "toName": "Fuktronic",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "jazz-iz-christ",
+      "toName": "Jazz-Iz-Christ",
+      "toArea": "美国",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "killmatriarch",
+      "toName": "Killmatriarch",
+      "toArea": "美国",
+      "toYears": "2010–2012",
+      "type": "member",
+      "label": "Ontronik Khachaturian",
+      "detail": "Ontronik Khachaturian 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "serart",
+      "toName": "Serart",
+      "toArea": "洛杉矶",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "seven-hours-after-violet",
+      "toName": "Seven Hours After Violet",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Shavo Odadjian",
+      "detail": "Shavo Odadjian 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "american-flag",
+      "toName": "American Flag",
+      "toArea": "美国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "John Dolmayan",
+      "detail": "John Dolmayan 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "axis-of-justice",
+      "toName": "Axis of Justice",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "forever-young",
+      "toName": "Forever Young",
+      "toArea": "洛杉矶",
+      "toYears": "1991–1993",
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "indicator",
+      "toName": "Indicator",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "John Dolmayan",
+      "detail": "John Dolmayan 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "north-kingsley",
+      "toName": "North Kingsley",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Shavo Odadjian",
+      "detail": "Shavo Odadjian 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "pera",
+      "toName": "PERA",
+      "toArea": "美国",
+      "toYears": "1991–1992",
+      "type": "member",
+      "label": "John Dolmayan",
+      "detail": "John Dolmayan 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "polaris",
+      "toName": "Polaris",
+      "toArea": "美国",
+      "toYears": "1992–1993",
+      "type": "member",
+      "label": "Shavo Odadjian",
+      "detail": "Shavo Odadjian 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "snowblind",
+      "toName": "Snowblind",
+      "toArea": "洛杉矶",
+      "toYears": "1991–1992",
+      "type": "member",
+      "label": "Daron Malakian",
+      "detail": "Daron Malakian 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "linkin-park",
+      "toName": "Linkin Park",
+      "toArea": "Agoura Hills",
+      "toYears": "1996–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "System of a Down 影响了 Linkin Park（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

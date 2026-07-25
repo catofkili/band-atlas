@@ -1,0 +1,28 @@
+{
+  "id": "storm-of-void",
+  "mbid": "e33c71f3-7de9-4daf-9615-2f117e7dff16",
+  "name": "Storm of Void",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e33c71f3-7de9-4daf-9615-2f117e7dff16"
+  },
+  "edges": [
+    {
+      "to": "envy",
+      "toName": "envy",
+      "toArea": "东京",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Dairoku Seki",
+      "detail": "Dairoku Seki 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

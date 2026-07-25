@@ -1,0 +1,61 @@
+{
+  "id": "the-influents",
+  "mbid": "c97a50b1-e2c7-4810-99b9-061e6da522b2",
+  "name": "The Influents",
+  "area": "旧金山",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1999–2003",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Check Please",
+      "year": 2000
+    },
+    {
+      "title": "Some of the Young",
+      "year": 2003
+    }
+  ],
+  "intro": "The Influents were an American punk rock band formed in 1999 by Jason White and Bill Schneider.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c97a50b1-e2c7-4810-99b9-061e6da522b2"
+  },
+  "edges": [
+    {
+      "to": "pinhead-gunpowder",
+      "toName": "Pinhead Gunpowder",
+      "toArea": "Arcata",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Bill Schneider",
+      "detail": "Bill Schneider 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "monsula",
+      "toName": "Monsula",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Bill Schneider",
+      "detail": "Bill Schneider 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-coverups",
+      "toName": "The Coverups",
+      "toArea": null,
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Bill Schneider",
+      "detail": "Bill Schneider 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

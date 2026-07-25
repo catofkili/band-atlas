@@ -1,0 +1,125 @@
+{
+  "id": "the-tear-garden",
+  "mbid": "57928ae9-5742-408f-b953-9e1c8110b405",
+  "name": "The Tear Garden",
+  "area": "Vancouver",
+  "countryCode": "CA",
+  "country": "加拿大",
+  "years": "1986–",
+  "genres": [
+    "Electronic",
+    "Experimental Electronic",
+    "Psychedelic"
+  ],
+  "albums": [
+    {
+      "title": "Tired Eyes Slowly Burning",
+      "year": 1987
+    },
+    {
+      "title": "The Last Man to Fly",
+      "year": 1992
+    },
+    {
+      "title": "To Be an Angel Blind, the Crippled Soul Divide",
+      "year": 1996
+    },
+    {
+      "title": "Crystal Mass",
+      "year": 2000
+    },
+    {
+      "title": "Eye Spy With My Little Eye",
+      "year": 2002
+    },
+    {
+      "title": "The Secret Experiment",
+      "year": 2007
+    }
+  ],
+  "intro": "The Tear Garden is a psychedelic/experimental/electronic band formed by Edward Ka-Spel of the Legendary Pink Dots and cEvin Key of Skinny Puppy in 1985 after Key served as a sound engineer on tour in Canada for Ka-Spel.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/57928ae9-5742-408f-b953-9e1c8110b405"
+  },
+  "edges": [
+    {
+      "to": "hilt",
+      "toName": "Hilt",
+      "toArea": "Vancouver",
+      "toYears": "1987–1996",
+      "type": "member",
+      "label": "Dave Ogilvie・Dwayne Rudolph Goettel・cEvin Key",
+      "detail": "3 位乐手在这两支乐队都待过：Dave Ogilvie・Dwayne Rudolph Goettel・cEvin Key。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Dwayne Rudolph Goettel・cEvin Key",
+      "detail": "2 位乐手在这两支乐队都待过：Dwayne Rudolph Goettel・cEvin Key。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "mimir",
+      "toName": "Mimir",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Edward Ka-Spel・The Silverman",
+      "detail": "2 位乐手在这两支乐队都待过：Edward Ka-Spel・The Silverman。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "jakalope",
+      "toName": "Jakalope",
+      "toArea": "Vancouver",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "primitive-race",
+      "toName": "Primitive Race",
+      "toArea": "洛杉矶",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "raw-dog",
+      "toName": "Raw Dog",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

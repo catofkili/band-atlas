@@ -1,0 +1,58 @@
+{
+  "id": "chococream-rolls",
+  "mbid": "db24e1fc-110a-4f7f-af04-1c6349fa68b9",
+  "name": "ChocoCream Rolls",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": null,
+  "genres": [
+    "Rock",
+    "South Korea"
+  ],
+  "albums": [
+    {
+      "title": "ChocoCream Rolls",
+      "year": 2003
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/db24e1fc-110a-4f7f-af04-1c6349fa68b9"
+  },
+  "edges": [
+    {
+      "to": "자우림",
+      "toName": "자우림",
+      "toArea": "韩国",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "김진만・이선규",
+      "detail": "2 位乐手在这两支乐队都待过：김진만・이선규。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "lonely-h-s-band",
+      "toName": "Lonely H's Band",
+      "toArea": "韩国",
+      "toYears": null,
+      "type": "member",
+      "label": "이선규",
+      "detail": "이선규 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "space-soldier-membership-club",
+      "toName": "Space Soldier Membership Club",
+      "toArea": "韩国",
+      "toYears": null,
+      "type": "member",
+      "label": "이선규",
+      "detail": "이선규 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

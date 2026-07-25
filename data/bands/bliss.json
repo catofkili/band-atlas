@@ -3,9 +3,12 @@
   "mbid": "b6d94c23-7046-477d-bbea-07bcd247e99d",
   "name": "Bliss",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1988–1988",
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b6d94c23-7046-477d-bbea-07bcd247e99d"
   },

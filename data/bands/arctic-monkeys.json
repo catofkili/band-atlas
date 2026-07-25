@@ -1,0 +1,136 @@
+{
+  "id": "arctic-monkeys",
+  "mbid": "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a",
+  "name": "Arctic Monkeys",
+  "area": "High Green",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "2002–",
+  "genres": [
+    "Indie Rock",
+    "Alternative Rock",
+    "Garage Rock Revival"
+  ],
+  "albums": [
+    {
+      "title": "Whatever People Say I Am, That’s What I’m Not",
+      "year": 2005
+    },
+    {
+      "title": "Favourite Worst Nightmare",
+      "year": 2007
+    },
+    {
+      "title": "Humbug",
+      "year": 2009
+    },
+    {
+      "title": "Suck It and See",
+      "year": 2011
+    },
+    {
+      "title": "AM",
+      "year": 2013
+    },
+    {
+      "title": "Tranquility Base Hotel & Casino",
+      "year": 2018
+    }
+  ],
+  "intro": "北极猴子是组来自英国谢菲尔德的另类摇滚乐团。乐团成立于2002年，团员有主唱兼吉他手 Alex Turner、吉他手Jamie Cook、贝斯手Nick O'Malley与鼓手Matt Helders。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ada7a83c-e3e1-40f1-93f9-3e73dbc9298a"
+  },
+  "edges": [
+    {
+      "to": "mongrel",
+      "toName": "Mongrel",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Nicholson・Matt Helders",
+      "detail": "2 位乐手在这两支乐队都待过：Andy Nicholson・Matt Helders。",
+      "year": 2002,
+      "weight": 0.84
+    },
+    {
+      "to": "reverend-and-the-makers",
+      "toName": "Reverend and the Makers",
+      "toArea": "谢菲尔德",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "the-last-shadow-puppets",
+      "toName": "The Last Shadow Puppets",
+      "toArea": "谢菲尔德",
+      "toYears": "2007–",
+      "type": "member",
+      "label": "Alex Turner",
+      "detail": "Alex Turner 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "diddy-dirty-money",
+      "toName": "Diddy – Dirty Money",
+      "toArea": "美国",
+      "toYears": "2009–2012",
+      "type": "member",
+      "label": "Matt Helders",
+      "detail": "Matt Helders 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "the-bottletop-band",
+      "toName": "The Bottletop Band",
+      "toArea": "英格兰",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "lords-of-flatbush",
+      "toName": "Lords of Flatbush",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "sticky-blood",
+      "toName": "Sticky Blood",
+      "toArea": "谢菲尔德",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "the-dodgems",
+      "toName": "The Dodgems",
+      "toArea": "谢菲尔德",
+      "toYears": null,
+      "type": "member",
+      "label": "Nick O’Malley",
+      "detail": "Nick O’Malley 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    }
+  ]
+}

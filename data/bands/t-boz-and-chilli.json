@@ -1,0 +1,28 @@
+{
+  "id": "t-boz-and-chilli",
+  "mbid": "0ad8a644-6114-4155-b616-bf7a5420d770",
+  "name": "T Boz and Chilli",
+  "area": null,
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0ad8a644-6114-4155-b616-bf7a5420d770"
+  },
+  "edges": [
+    {
+      "to": "artists-against-aids-worldwide",
+      "toName": "Artists Against AIDS Worldwide",
+      "toArea": "纽约",
+      "toYears": "2001–2001",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

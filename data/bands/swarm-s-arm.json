@@ -3,6 +3,8 @@
   "mbid": "a46f7006-3ad0-43fe-b51c-872560488061",
   "name": "Swarm's Arm",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -15,6 +17,7 @@
       "year": 2007
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a46f7006-3ad0-43fe-b51c-872560488061"
   },

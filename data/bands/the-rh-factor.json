@@ -1,0 +1,45 @@
+{
+  "id": "the-rh-factor",
+  "mbid": "27decac7-06de-4a04-ab45-d214dfae5d19",
+  "name": "The RH Factor",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [
+    "Contemporary Jazz",
+    "Jazz",
+    "Jazz Fusion"
+  ],
+  "albums": [
+    {
+      "title": "Hard Groove",
+      "year": 2003
+    },
+    {
+      "title": "Strength",
+      "year": 2004
+    },
+    {
+      "title": "Distractions",
+      "year": 2006
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/27decac7-06de-4a04-ab45-d214dfae5d19"
+  },
+  "edges": [
+    {
+      "to": "the-soultronics",
+      "toName": "The Soultronics",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Roy Hargrove・James Poyser・Spanky",
+      "detail": "3 位乐手在这两支乐队都待过：Roy Hargrove・James Poyser・Spanky。",
+      "year": null,
+      "weight": 0.95
+    }
+  ]
+}

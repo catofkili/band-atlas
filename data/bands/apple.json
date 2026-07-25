@@ -1,0 +1,72 @@
+{
+  "id": "apple",
+  "mbid": "3dba35e6-28f4-4926-aae3-ff82ad934aa8",
+  "name": "Apple",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3dba35e6-28f4-4926-aae3-ff82ad934aa8"
+  },
+  "edges": [
+    {
+      "to": "plastic-ono-band",
+      "toName": "Plastic Ono Band",
+      "toArea": "伦敦",
+      "toYears": "1969–2015",
+      "type": "member",
+      "label": "John Lennon・Yoko Ono",
+      "detail": "2 位乐手在这两支乐队都待过：John Lennon・Yoko Ono。",
+      "year": 1969,
+      "weight": 0.84
+    },
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "member",
+      "label": "John Lennon",
+      "detail": "John Lennon 在这两支乐队都待过。",
+      "year": 1960,
+      "weight": 0.62
+    },
+    {
+      "to": "the-quarrymen",
+      "toName": "The Quarrymen",
+      "toArea": "利物浦",
+      "toYears": "1956–",
+      "type": "member",
+      "label": "John Lennon",
+      "detail": "John Lennon 在这两支乐队都待过。",
+      "year": 1956,
+      "weight": 0.62
+    },
+    {
+      "to": "the-beat-brothers",
+      "toName": "The Beat Brothers",
+      "toArea": "Hamburg",
+      "toYears": "1961–",
+      "type": "member",
+      "label": "John Lennon",
+      "detail": "John Lennon 在这两支乐队都待过。",
+      "year": 1961,
+      "weight": 0.62
+    },
+    {
+      "to": "the-silver-beatles",
+      "toName": "The Silver Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1960",
+      "type": "member",
+      "label": "John Lennon",
+      "detail": "John Lennon 在这两支乐队都待过。",
+      "year": 1960,
+      "weight": 0.62
+    }
+  ]
+}

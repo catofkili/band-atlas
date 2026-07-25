@@ -1,0 +1,28 @@
+{
+  "id": "i-m-on-marz",
+  "mbid": "6b5caa6c-6e42-4f84-b800-1ab7b8d7dcfc",
+  "name": "I'M ON MARZ",
+  "area": "神奈川",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6b5caa6c-6e42-4f84-b800-1ab7b8d7dcfc"
+  },
+  "edges": [
+    {
+      "to": "sim",
+      "toName": "SiM",
+      "toArea": "神奈川",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "MAH",
+      "detail": "MAH 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "083941cf-8183-4cba-b49f-16681f04eb63",
   "name": "To Live and Shave in L.A.",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1991–",
   "genres": [],
   "albums": [
@@ -33,6 +35,7 @@
   ],
   "intro": "To Live and Shave in L.A.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/083941cf-8183-4cba-b49f-16681f04eb63"
   },

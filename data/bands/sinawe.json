@@ -1,0 +1,57 @@
+{
+  "id": "sinawe",
+  "mbid": "7f227d98-fced-4718-9492-83b3b3225530",
+  "name": "Sinawe",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "1983–",
+  "genres": [
+    "Heavy Metal"
+  ],
+  "albums": [
+    {
+      "title": "Heavy Metal Sinawe",
+      "year": 1986
+    },
+    {
+      "title": "Down and Up",
+      "year": 1987
+    },
+    {
+      "title": "Freeman",
+      "year": 1988
+    },
+    {
+      "title": "Four",
+      "year": 1990
+    },
+    {
+      "title": "매 맞는 아이",
+      "year": 1995
+    },
+    {
+      "title": "Blue Baby",
+      "year": 1997
+    }
+  ],
+  "intro": "Sinawe (Korean: 시나위; RR: Sinawi) is a heavy metal/rock band from South Korea.",
+  "introLang": "en",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7f227d98-fced-4718-9492-83b3b3225530"
+  },
+  "edges": [
+    {
+      "to": "서태지와-아이들",
+      "toName": "서태지와 아이들",
+      "toArea": "韩国",
+      "toYears": "1991–1997",
+      "type": "member",
+      "label": "서태지",
+      "detail": "서태지 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    }
+  ]
+}

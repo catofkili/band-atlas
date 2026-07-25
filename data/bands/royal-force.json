@@ -1,0 +1,42 @@
+{
+  "id": "royal-force",
+  "mbid": "5c7e34da-bd5f-4dbf-9e88-190cd1ad3f34",
+  "name": "ROYAL FORCE",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2023–",
+  "genres": [
+    "Rock",
+    "Visual Kei"
+  ],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5c7e34da-bd5f-4dbf-9e88-190cd1ad3f34"
+  },
+  "edges": [
+    {
+      "to": "siam-shade",
+      "toName": "SIAM SHADE",
+      "toArea": "日本",
+      "toYears": "1993–2002",
+      "type": "member",
+      "label": "KAZUMA",
+      "detail": "KAZUMA 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    },
+    {
+      "to": "vivian-or-kazuma",
+      "toName": "Vivian or Kazuma",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "KAZUMA",
+      "detail": "KAZUMA 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    }
+  ]
+}

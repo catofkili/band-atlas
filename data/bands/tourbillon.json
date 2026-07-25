@@ -1,0 +1,104 @@
+{
+  "id": "tourbillon",
+  "mbid": "fa2a83c8-9ab1-4c53-a260-81207c4dd863",
+  "name": "Tourbillon",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2005–",
+  "genres": [
+    "Visual Kei"
+  ],
+  "albums": [
+    {
+      "title": "HEAVEN",
+      "year": 2005
+    },
+    {
+      "title": "Sonatæ, Balletti scordati, Aria et variationes",
+      "year": 2005
+    },
+    {
+      "title": "A Tide of New Era",
+      "year": 2006
+    },
+    {
+      "title": "The complete music for viola da gamba solo",
+      "year": 2012
+    }
+  ],
+  "intro": "Tourbillonは、RYUICHI、INORAN、H.Hayamaの3人からなる日本の音楽ユニット。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fa2a83c8-9ab1-4c53-a260-81207c4dd863"
+  },
+  "edges": [
+    {
+      "to": "luna-sea",
+      "toName": "LUNA SEA",
+      "toArea": "神奈川",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "INORAN・河村隆一",
+      "detail": "2 位乐手在这两支乐队都待过：INORAN・河村隆一。",
+      "year": 2005,
+      "weight": 0.84
+    },
+    {
+      "to": "lunacy",
+      "toName": "Lunacy",
+      "toArea": "日本",
+      "toYears": "1986–1990",
+      "type": "member",
+      "label": "INORAN・河村隆一",
+      "detail": "2 位乐手在这两支乐队都待过：INORAN・河村隆一。",
+      "year": 2005,
+      "weight": 0.84
+    },
+    {
+      "to": "fake",
+      "toName": "FAKE?",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "muddy-apes",
+      "toName": "Muddy Apes",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "3minutes",
+      "toName": "3minutes",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "河村隆一",
+      "detail": "河村隆一 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "m-a-s-s",
+      "toName": "M・A・S・S",
+      "toArea": "东京",
+      "toYears": null,
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    }
+  ]
+}

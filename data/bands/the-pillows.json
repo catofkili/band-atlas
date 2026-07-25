@@ -3,6 +3,8 @@
   "mbid": "e69c8ccb-25b1-4c4a-89c6-8fdad1172951",
   "name": "the pillows",
   "area": "札幌",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "1989–2025",
   "genres": [
     "J-Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "The Pillows是一个于1989年组成的日本的摇滚乐队，由山中泽男、真锅吉明、佐藤信一郎等三人组成。",
   "introLang": "zh",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e69c8ccb-25b1-4c4a-89c6-8fdad1172951"
   },
@@ -53,6 +56,17 @@
       "weight": 0.62
     },
     {
+      "to": "casablanca",
+      "toName": "Casablanca",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
       "to": "the-predators",
       "toName": "THE PREDATORS",
       "toArea": "日本",
@@ -61,6 +75,138 @@
       "label": "山中さわお",
       "detail": "山中さわお 在这两支乐队都待过。",
       "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "さわおとしおり",
+      "toName": "さわおとしおり",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "黒猫同盟",
+      "toName": "黒猫同盟",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "上田ケンジ",
+      "detail": "上田ケンジ 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pees",
+      "toName": "The Pees",
+      "toArea": "日本",
+      "toYears": "1987–",
+      "type": "member",
+      "label": "佐藤シンイチロウ",
+      "detail": "佐藤シンイチロウ 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "ザ-ペルシャ",
+      "toName": "ザ・ペルシャ",
+      "toArea": "北海道",
+      "toYears": "1984–",
+      "type": "member",
+      "label": "Yoshiaki Manabe",
+      "detail": "Yoshiaki Manabe 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "山中さわお-elpis",
+      "toName": "山中さわお&ELPIS",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "a-c-e",
+      "toName": "A.C.E.",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "鹿島達也",
+      "detail": "鹿島達也 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "details",
+      "toName": "Details",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "上田ケンジ",
+      "detail": "上田ケンジ 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "hi5",
+      "toName": "Hi5",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "鹿島達也",
+      "detail": "鹿島達也 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "spiky-brothers",
+      "toName": "SPIKY BROTHERS",
+      "toArea": "东京",
+      "toYears": "2000–2001",
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pogo",
+      "toName": "The Pogo",
+      "toArea": "日本",
+      "toYears": "1985–1993",
+      "type": "member",
+      "label": "佐藤シンイチロウ",
+      "detail": "佐藤シンイチロウ 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "さわおとケンジ",
+      "toName": "さわおとケンジ",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "ヨーコとさわお",
+      "toName": "ヨーコとさわお",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": 1989,
       "weight": 0.62
     }
   ]

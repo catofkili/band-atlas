@@ -1,0 +1,37 @@
+{
+  "id": "adoy",
+  "mbid": "2a0d8d44-5089-4e9a-aa41-360ac67c9385",
+  "name": "ADOY",
+  "area": "首尔",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2016–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Vivid",
+      "year": 2019
+    },
+    {
+      "title": "PLEASURES",
+      "year": 2023
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2a0d8d44-5089-4e9a-aa41-360ac67c9385"
+  },
+  "edges": [
+    {
+      "to": "eastern-sidekick",
+      "toName": "Eastern Sidekick",
+      "toArea": "首尔",
+      "toYears": "2010–2016",
+      "type": "member",
+      "label": "오주환",
+      "detail": "오주환 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    }
+  ]
+}

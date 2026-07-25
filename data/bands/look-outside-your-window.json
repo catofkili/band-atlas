@@ -1,0 +1,33 @@
+{
+  "id": "look-outside-your-window",
+  "mbid": "585af193-cba6-4dc1-b1b7-2b10260f164e",
+  "name": "Look Outside Your Window",
+  "area": null,
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Look Outside Your Window",
+      "year": 2026
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/585af193-cba6-4dc1-b1b7-2b10260f164e"
+  },
+  "edges": [
+    {
+      "to": "slipknot",
+      "toName": "Slipknot",
+      "toArea": "Des Moines",
+      "toYears": "1995–",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

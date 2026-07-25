@@ -1,0 +1,59 @@
+{
+  "id": "蘇打綠",
+  "mbid": "a8fd2a44-2f72-47ea-a6ce-96e8bd7059ec",
+  "name": "蘇打綠",
+  "area": "台湾",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": "2001–",
+  "genres": [
+    "Indie Pop",
+    "Mandopop",
+    "Pop Rock"
+  ],
+  "albums": [
+    {
+      "title": "蘇打綠",
+      "year": 2005
+    },
+    {
+      "title": "小宇宙",
+      "year": 2006
+    },
+    {
+      "title": "無與倫比的美麗",
+      "year": 2007
+    },
+    {
+      "title": "夏 / 狂熱",
+      "year": 2009
+    },
+    {
+      "title": "春‧日光",
+      "year": 2009
+    },
+    {
+      "title": "十年一刻",
+      "year": 2010
+    }
+  ],
+  "intro": "苏打绿，分身鱼丁糸，是于2001年成立的台湾独立乐团。在2003年后确定了现在的6人阵容：吴青峰、谢馨仪、史俊威、何景扬、刘家凯、龚钰祺。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a8fd2a44-2f72-47ea-a6ce-96e8bd7059ec"
+  },
+  "edges": [
+    {
+      "to": "魚丁糸",
+      "toName": "魚丁糸",
+      "toArea": "台湾",
+      "toYears": "2020–",
+      "type": "member",
+      "label": "史俊威・馨儀・吳青峰・阿龔・何景揚・家凱",
+      "detail": "6 位乐手在这两支乐队都待过：史俊威・馨儀・吳青峰・阿龔・何景揚・家凱。",
+      "year": 2001,
+      "weight": 0.95
+    }
+  ]
+}

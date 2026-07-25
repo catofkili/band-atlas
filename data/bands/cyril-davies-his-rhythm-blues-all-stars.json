@@ -1,0 +1,39 @@
+{
+  "id": "cyril-davies-his-rhythm-blues-all-stars",
+  "mbid": "bdb71ec1-1b6c-4333-89f1-5d9d1f7a9560",
+  "name": "Cyril Davies & His Rhythm & Blues All Stars",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bdb71ec1-1b6c-4333-89f1-5d9d1f7a9560"
+  },
+  "edges": [
+    {
+      "to": "alexis-korner-s-blues-incorporated",
+      "toName": "Alexis Korner’s Blues Incorporated",
+      "toArea": "伦敦",
+      "toYears": "1961–1966",
+      "type": "member",
+      "label": "Cyril Davies・Dick Heckstall‐Smith・Long John Baldry",
+      "detail": "3 位乐手在这两支乐队都待过：Cyril Davies・Dick Heckstall‐Smith・Long John Baldry。",
+      "year": 1961,
+      "weight": 0.95
+    },
+    {
+      "to": "lord-sutch-heavy-friends",
+      "toName": "Lord Sutch & Heavy Friends",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Richard Brown・Nicky Hopkins",
+      "detail": "2 位乐手在这两支乐队都待过：Richard Brown・Nicky Hopkins。",
+      "year": null,
+      "weight": 0.84
+    }
+  ]
+}

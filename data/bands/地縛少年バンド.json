@@ -3,9 +3,12 @@
   "mbid": "9f3b8a34-e506-4ca7-a383-fd51ba581b64",
   "name": "地縛少年バンド",
   "area": null,
+  "countryCode": "JP",
+  "country": "日本",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9f3b8a34-e506-4ca7-a383-fd51ba581b64"
   },

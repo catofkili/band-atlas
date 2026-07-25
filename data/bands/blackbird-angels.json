@@ -3,6 +3,8 @@
   "mbid": "ee3c259e-1a6f-43ed-a5a8-9e4c6a819e5b",
   "name": "Blackbird Angels",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2023
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ee3c259e-1a6f-43ed-a5a8-9e4c6a819e5b"
   },

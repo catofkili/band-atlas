@@ -1,0 +1,42 @@
+{
+  "id": "サディスティックス",
+  "mbid": "e4212f64-f16a-4aa8-b575-757eb9ae0715",
+  "name": "サディスティックス",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1976–1978",
+  "genres": [
+    "J-Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "サディスティックス",
+      "year": 1977
+    },
+    {
+      "title": "WE ARE JUST TAKING OFF",
+      "year": 1978
+    }
+  ],
+  "intro": "サディスティックスは、1976年から1978年まで活動した日本のバンド。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e4212f64-f16a-4aa8-b575-757eb9ae0715"
+  },
+  "edges": [
+    {
+      "to": "dr-ドラゴン-サウンド-オブ-アラブ",
+      "toName": "Dr.ドラゴン&サウンド・オブ・アラブ",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "後藤次利",
+      "detail": "後藤次利 在这两支乐队都待过。",
+      "year": 1976,
+      "weight": 0.62
+    }
+  ]
+}

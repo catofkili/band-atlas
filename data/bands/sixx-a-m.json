@@ -1,0 +1,88 @@
+{
+  "id": "sixx-a-m",
+  "mbid": "b6cca708-1083-4bbb-8ba1-237d832088e4",
+  "name": "Sixx:A.M.",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2007–",
+  "genres": [
+    "Hard Rock",
+    "Heavy Metal",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "The Heroin Diaries Soundtrack",
+      "year": 2007
+    },
+    {
+      "title": "This Is Gonna Hurt",
+      "year": 2011
+    },
+    {
+      "title": "Modern Vintage",
+      "year": 2014
+    },
+    {
+      "title": "Prayers for the Blessed, Vol. 2",
+      "year": 2016
+    },
+    {
+      "title": "Prayers for the Damned, Vol. 1",
+      "year": 2016
+    }
+  ],
+  "intro": "Sixx:A.M.是一支2007年由Nikki Sixx、DJ Ashba与James Michael成立于美国洛杉矶的硬式摇滚乐团，乐团名称来自三位创团成员的姓氏组合。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b6cca708-1083-4bbb-8ba1-237d832088e4"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "DJ Ashba",
+      "detail": "DJ Ashba 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "bulletboys",
+      "toName": "BulletBoys",
+      "toArea": "洛杉矶",
+      "toYears": "1986–",
+      "type": "member",
+      "label": "DJ Ashba",
+      "detail": "DJ Ashba 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "london",
+      "toName": "London",
+      "toArea": "洛杉矶",
+      "toYears": "1978–",
+      "type": "member",
+      "label": "Nikki Sixx",
+      "detail": "Nikki Sixx 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "beautiful-creatures",
+      "toName": "Beautiful Creatures",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "DJ Ashba",
+      "detail": "DJ Ashba 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,62 @@
+{
+  "id": "唐朝",
+  "mbid": "ea1b05cd-3d66-4760-89ea-d339227f67fd",
+  "name": "唐朝",
+  "area": "北京",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "1988–",
+  "genres": [
+    "Heavy Metal",
+    "Rock",
+    "Beijing"
+  ],
+  "albums": [
+    {
+      "title": "唐朝",
+      "year": 1992
+    },
+    {
+      "title": "演义",
+      "year": 1998
+    },
+    {
+      "title": "浪漫骑士",
+      "year": 2008
+    },
+    {
+      "title": "芒刺",
+      "year": 2013
+    }
+  ],
+  "intro": "唐朝乐队 (Tang Dynasty)，成立于1988年，中国第一支重金属摇滚乐队，以历史上一个最强盛朝代唐朝命名。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ea1b05cd-3d66-4760-89ea-d339227f67fd"
+  },
+  "edges": [
+    {
+      "to": "黑豹",
+      "toName": "黑豹",
+      "toArea": "北京",
+      "toYears": "1987–",
+      "type": "member",
+      "label": "丁武",
+      "detail": "丁武 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    },
+    {
+      "to": "铁风筝",
+      "toName": "铁风筝",
+      "toArea": "北京",
+      "toYears": "1993–",
+      "type": "member",
+      "label": "虞洋",
+      "detail": "虞洋 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    }
+  ]
+}

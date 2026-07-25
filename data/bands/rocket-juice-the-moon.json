@@ -3,6 +3,8 @@
   "mbid": "6dd0c24f-da12-49e6-b27e-4f98500c357f",
   "name": "Rocket Juice & the Moon",
   "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "2008–",
   "genres": [
     "Afrobeat",
@@ -14,6 +16,7 @@
       "year": 2012
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/6dd0c24f-da12-49e6-b27e-4f98500c357f"
   },
@@ -41,10 +44,32 @@
       "weight": 0.84
     },
     {
+      "to": "fear",
+      "toName": "Fear",
+      "toArea": "洛杉矶",
+      "toYears": "1977–",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
       "to": "pigface",
       "toName": "Pigface",
       "toArea": "芝加哥",
       "toYears": "1990–",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
       "type": "member",
       "label": "Flea",
       "detail": "Flea 在这两支乐队都待过。",
@@ -74,6 +99,17 @@
       "weight": 0.62
     },
     {
+      "to": "aleka-s-attic",
+      "toName": "Aleka's Attic",
+      "toArea": "美国",
+      "toYears": "1988–1993",
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
       "to": "electric-wave-bureau",
       "toName": "Electric Wave Bureau",
       "toArea": null,
@@ -81,6 +117,17 @@
       "type": "member",
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "flea-and-the-honora-band",
+      "toName": "Flea and the Honora Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
       "year": 2008,
       "weight": 0.62
     },
@@ -103,6 +150,17 @@
       "type": "member",
       "label": "Damon Albarn",
       "detail": "Damon Albarn 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "the-lost-trees",
+      "toName": "The Lost Trees",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Flea",
+      "detail": "Flea 在这两支乐队都待过。",
       "year": 2008,
       "weight": 0.62
     }

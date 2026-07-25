@@ -1,0 +1,50 @@
+{
+  "id": "コンフィデンス",
+  "mbid": "52587764-b2ab-4c5a-8eb4-28d427687cb5",
+  "name": "コンフィデンス",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1972–1973",
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/52587764-b2ab-4c5a-8eb4-28d427687cb5"
+  },
+  "edges": [
+    {
+      "to": "the-alfee",
+      "toName": "THE ALFEE",
+      "toArea": "Shirokanedai",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "三宅康夫・坂崎幸之助・桜井賢",
+      "detail": "3 位乐手在这两支乐队都待过：三宅康夫・坂崎幸之助・桜井賢。",
+      "year": 1972,
+      "weight": 0.95
+    },
+    {
+      "to": "ザ-フォーク-クルセダーズ",
+      "toName": "ザ・フォーク・クルセダーズ",
+      "toArea": "日本",
+      "toYears": "1965–",
+      "type": "member",
+      "label": "坂崎幸之助",
+      "detail": "坂崎幸之助 在这两支乐队都待过。",
+      "year": 1972,
+      "weight": 0.62
+    },
+    {
+      "to": "和幸",
+      "toName": "和幸",
+      "toArea": "日本",
+      "toYears": "2007–2009",
+      "type": "member",
+      "label": "坂崎幸之助",
+      "detail": "坂崎幸之助 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    }
+  ]
+}

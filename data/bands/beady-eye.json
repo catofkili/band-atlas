@@ -3,6 +3,8 @@
   "mbid": "a0e10984-0eca-4920-a171-5fd7a62ee069",
   "name": "Beady Eye",
   "area": "曼彻斯特",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "2009–2014",
   "genres": [
     "Alternative Rock",
@@ -21,6 +23,7 @@
   ],
   "intro": "ビーディ・アイ (Beady Eye) は、イギリスのロックバンド。2009年にロンドンにてオアシスの元メンバーによって結成された。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/a0e10984-0eca-4920-a171-5fd7a62ee069"
   },

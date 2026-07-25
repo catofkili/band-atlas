@@ -1,0 +1,147 @@
+{
+  "id": "sparks",
+  "mbid": "f319b57a-a494-40f6-a467-3d196d3484e6",
+  "name": "Sparks",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1970–",
+  "genres": [
+    "Art Pop",
+    "Glam Rock",
+    "Art Rock"
+  ],
+  "albums": [
+    {
+      "title": "Halfnelson",
+      "year": 1971
+    },
+    {
+      "title": "A Woofer in Tweeter’s Clothing",
+      "year": 1973
+    },
+    {
+      "title": "Kimono My House",
+      "year": 1974
+    },
+    {
+      "title": "Propaganda",
+      "year": 1974
+    },
+    {
+      "title": "Indiscreet",
+      "year": 1975
+    },
+    {
+      "title": "Big Beat",
+      "year": 1976
+    }
+  ],
+  "intro": "スパークスは、アメリカ合衆国のロック&ポップ・バンド。1970年にロンとラッセルのメイル兄弟によって結成された。最初はハーフネルソンというバンド名だった。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f319b57a-a494-40f6-a467-3d196d3484e6"
+  },
+  "edges": [
+    {
+      "to": "devo",
+      "toName": "DEVO",
+      "toArea": "Akron",
+      "toYears": "1972–",
+      "type": "member",
+      "label": "David Kendrick",
+      "detail": "David Kendrick 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "redd-kross",
+      "toName": "Redd Kross",
+      "toArea": "Hawthorne",
+      "toYears": "1980–",
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "the-tater-totz",
+      "toName": "The Tater Totz",
+      "toArea": "Hawthorne",
+      "toYears": "1987–",
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "loser",
+      "toName": "Loser",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "broken-bat",
+      "toName": "Broken Bat",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "dale-crover-band",
+      "toName": "Dale Crover Band",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "nighttime-boogie-association",
+      "toName": "Nighttime Boogie Association",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "north-american-hallowe-en-prevention-initiative",
+      "toName": "North American Hallowe’en Prevention Initiative",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Steve McDonald",
+      "detail": "Steve McDonald 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "ffs",
+      "toName": "FFS",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

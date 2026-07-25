@@ -3,6 +3,8 @@
   "mbid": "3eccd071-157b-4776-afd3-4c6f82cc8036",
   "name": "Hawk",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1984–",
   "genres": [],
   "albums": [
@@ -15,6 +17,7 @@
       "year": 2009
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/3eccd071-157b-4776-afd3-4c6f82cc8036"
   },

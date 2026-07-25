@@ -1,0 +1,55 @@
+{
+  "id": "minibus-pimps",
+  "mbid": "f5a061bf-f2a1-40dd-8edc-ca81069737f2",
+  "name": "Minibus Pimps",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "2011–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Cloud to Ground",
+      "year": 2014
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f5a061bf-f2a1-40dd-8edc-ca81069737f2"
+  },
+  "edges": [
+    {
+      "to": "led-zeppelin",
+      "toName": "Led Zeppelin",
+      "toArea": "伦敦",
+      "toYears": "1968–1980",
+      "type": "member",
+      "label": "John Paul Jones",
+      "detail": "John Paul Jones 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    },
+    {
+      "to": "them-crooked-vultures",
+      "toName": "Them Crooked Vultures",
+      "toArea": "洛杉矶",
+      "toYears": "2009–2010",
+      "type": "member",
+      "label": "John Paul Jones",
+      "detail": "John Paul Jones 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "rockestra",
+      "toName": "Rockestra",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Paul Jones",
+      "detail": "John Paul Jones 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

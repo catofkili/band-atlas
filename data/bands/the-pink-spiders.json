@@ -1,0 +1,72 @@
+{
+  "id": "the-pink-spiders",
+  "mbid": "0e150c5d-9624-4940-8cc0-a85fb984dab8",
+  "name": "THE PINK SPIDERS",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0e150c5d-9624-4940-8cc0-a85fb984dab8"
+  },
+  "edges": [
+    {
+      "to": "hide-with-spread-beaver",
+      "toName": "hide with Spread Beaver",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "I.N.A・CHIROLYN・宮脇“JOE”知史",
+      "detail": "3 位乐手在这两支乐队都待过：I.N.A・CHIROLYN・宮脇“JOE”知史。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "dope-headz",
+      "toName": "Dope HEADz",
+      "toArea": "日本",
+      "toYears": "2000–2002",
+      "type": "member",
+      "label": "PATA・Shame",
+      "detail": "2 位乐手在这两支乐队都待过：PATA・Shame。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "PATA",
+      "detail": "PATA 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "ra-in",
+      "toName": "Ra:IN",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "PATA",
+      "detail": "PATA 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "zilch",
+      "toName": "Zilch",
+      "toArea": "美国",
+      "toYears": "1998–2002",
+      "type": "member",
+      "label": "I.N.A",
+      "detail": "I.N.A 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    }
+  ]
+}

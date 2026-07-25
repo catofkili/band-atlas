@@ -3,6 +3,8 @@
   "mbid": "d2f303ba-0c62-4892-8fce-572f0a381d57",
   "name": "toddle",
   "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2004–",
   "genres": [
     "Indie Rock",
@@ -24,6 +26,7 @@
     "Rebuilt",
     "Rise"
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/d2f303ba-0c62-4892-8fce-572f0a381d57"
   },

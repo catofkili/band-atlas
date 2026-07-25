@@ -3,6 +3,8 @@
   "mbid": "464e2a4d-a7b2-4768-91fd-7db54dab4bbe",
   "name": "Plastic Palace People",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2020
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/464e2a4d-a7b2-4768-91fd-7db54dab4bbe"
   },

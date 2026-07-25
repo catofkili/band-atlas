@@ -1,0 +1,59 @@
+{
+  "id": "the-headhunters",
+  "mbid": "d382bea5-76e5-4b10-9e93-2be1188d967b",
+  "name": "The Headhunters",
+  "area": "旧金山",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1973–",
+  "genres": [
+    "Jazz",
+    "Jazz Fusion",
+    "Jazz-Funk"
+  ],
+  "albums": [
+    {
+      "title": "Survival of the Fittest",
+      "year": 1975
+    },
+    {
+      "title": "Straight From the Gate",
+      "year": 1977
+    },
+    {
+      "title": "Return of the Headhunters",
+      "year": 1998
+    },
+    {
+      "title": "Platinum",
+      "year": 2011
+    },
+    {
+      "title": "Speakers In the House",
+      "year": 2022
+    },
+    {
+      "title": "The Stunt Man",
+      "year": 2024
+    }
+  ],
+  "intro": "ザ・ヘッドハンターズは、1973年にアメリカにてハービー・ハンコックによって結成されたフュージョン・バンドである。グループはジャズ、ファンク、ロックといった音楽を融合させた。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d382bea5-76e5-4b10-9e93-2be1188d967b"
+  },
+  "edges": [
+    {
+      "to": "artists-united-for-nature",
+      "toName": "Artists United for Nature",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Herbie Hancock",
+      "detail": "Herbie Hancock 在这两支乐队都待过。",
+      "year": 1973,
+      "weight": 0.62
+    }
+  ]
+}

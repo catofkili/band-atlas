@@ -3,6 +3,8 @@
   "mbid": "006d00c0-91d2-4c66-a62d-11a246c1406a",
   "name": "THE King ALL STARS",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2014–",
   "genres": [],
   "albums": [
@@ -15,6 +17,7 @@
       "year": 2015
     }
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/006d00c0-91d2-4c66-a62d-11a246c1406a"
   },

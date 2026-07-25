@@ -1,0 +1,61 @@
+{
+  "id": "the-house-band",
+  "mbid": "95500c2d-930e-49ba-be89-3b3d875c1450",
+  "name": "The House Band",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/95500c2d-930e-49ba-be89-3b3d875c1450"
+  },
+  "edges": [
+    {
+      "to": "george-s-band",
+      "toName": "George's Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ray Cooper",
+      "detail": "Ray Cooper 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "r-a-d-d-recording-artists-against-drunk-driving",
+      "toName": "R.A.D.D. (Recording Artists Against Drunk Driving)",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Phil Collins",
+      "detail": "Phil Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-crawling-king-snakes",
+      "toName": "The Crawling King Snakes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Phil Collins",
+      "detail": "Phil Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-singing-rebels-band",
+      "toName": "The Singing Rebels’ Band",
+      "toArea": null,
+      "toYears": "1985–1985",
+      "type": "member",
+      "label": "Ray Cooper",
+      "detail": "Ray Cooper 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "id": "alexis-korner-s-blues-incorporated",
+  "mbid": "9e8cc0e8-8d46-4a21-8a9d-904872699e60",
+  "name": "Alexis Korner’s Blues Incorporated",
+  "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1961–1966",
+  "genres": [
+    "Blues Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Red Hot From Alex",
+      "year": 1964
+    },
+    {
+      "title": "Alexis Korner’s Blues Incorporated",
+      "year": 1965
+    },
+    {
+      "title": "Take a Walk With",
+      "year": 2020
+    }
+  ],
+  "intro": "Alexis Korner's Blues Incorporated, or simply Blues Incorporated, were an English blues band formed in London in 1961, led by Alexis Korner and including at various times Jack Bruce, Charlie Watts, Terry Cox, Ginger Baker, Art Wood, Long John Baldry, Ronnie Jones, Danny Thompson, Graham Bond, Cyril Davies, and Dick Heckstall-Smith.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9e8cc0e8-8d46-4a21-8a9d-904872699e60"
+  },
+  "edges": [
+    {
+      "to": "cyril-davies-his-rhythm-blues-all-stars",
+      "toName": "Cyril Davies & His Rhythm & Blues All Stars",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Cyril Davies・Dick Heckstall‐Smith・Long John Baldry",
+      "detail": "3 位乐手在这两支乐队都待过：Cyril Davies・Dick Heckstall‐Smith・Long John Baldry。",
+      "year": 1961,
+      "weight": 0.95
+    }
+  ]
+}

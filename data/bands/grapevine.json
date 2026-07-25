@@ -1,0 +1,55 @@
+{
+  "id": "grapevine",
+  "mbid": "ed498651-bb21-4bbc-8d56-b743ad7c1a3e",
+  "name": "GRAPEVINE",
+  "area": "大阪",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1993–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Hybrid Soup",
+      "year": 1996
+    },
+    {
+      "title": "退屈の花",
+      "year": 1998
+    },
+    {
+      "title": "Lifetime",
+      "year": 1999
+    },
+    {
+      "title": "Here",
+      "year": 2000
+    },
+    {
+      "title": "Circulat∞r",
+      "year": 2001
+    },
+    {
+      "title": "another sky",
+      "year": 2002
+    }
+  ],
+  "intro": "GRAPEVINEは、ボーカル・ギター・田中和将、ギター・西川弘剛、ドラムス・亀井亨の3人からなる日本のロックバンド。1993年に大阪府で結成。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ed498651-bb21-4bbc-8d56-b743ad7c1a3e"
+  },
+  "edges": [
+    {
+      "to": "ft2k-s",
+      "toName": "FT2K'S",
+      "toArea": "日本",
+      "toYears": "2002–2002",
+      "type": "member",
+      "label": "田中和将・亀井亨",
+      "detail": "2 位乐手在这两支乐队都待过：田中和将・亀井亨。",
+      "year": 1993,
+      "weight": 0.84
+    }
+  ]
+}

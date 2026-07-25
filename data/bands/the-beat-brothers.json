@@ -1,0 +1,169 @@
+{
+  "id": "the-beat-brothers",
+  "mbid": "bb85b2d0-7c62-4389-8564-5eeadacd09bb",
+  "name": "The Beat Brothers",
+  "area": "Hamburg",
+  "countryCode": "DE",
+  "country": "德国",
+  "years": "1961–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "My Bonnie",
+      "year": 1962
+    },
+    {
+      "title": "Just a Little Bit of Tony Sheridan",
+      "year": 1964
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bb85b2d0-7c62-4389-8564-5eeadacd09bb"
+  },
+  "edges": [
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "member",
+      "label": "Stuart Sutcliffe・Pete Best・John Lennon・George Harrison",
+      "detail": "4 位乐手在这两支乐队都待过：Stuart Sutcliffe・Pete Best・John Lennon・George Harrison。",
+      "year": 1960,
+      "weight": 0.95
+    },
+    {
+      "to": "the-quarrymen",
+      "toName": "The Quarrymen",
+      "toArea": "利物浦",
+      "toYears": "1956–",
+      "type": "member",
+      "label": "Stuart Sutcliffe・John Lennon・George Harrison",
+      "detail": "3 位乐手在这两支乐队都待过：Stuart Sutcliffe・John Lennon・George Harrison。",
+      "year": 1960,
+      "weight": 0.95
+    },
+    {
+      "to": "the-silver-beatles",
+      "toName": "The Silver Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1960",
+      "type": "member",
+      "label": "Stuart Sutcliffe・John Lennon・George Harrison",
+      "detail": "3 位乐手在这两支乐队都待过：Stuart Sutcliffe・John Lennon・George Harrison。",
+      "year": 1960,
+      "weight": 0.95
+    },
+    {
+      "to": "delaney-bonnie",
+      "toName": "Delaney & Bonnie",
+      "toArea": "洛杉矶",
+      "toYears": "1967–1972",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "plastic-ono-band",
+      "toName": "Plastic Ono Band",
+      "toArea": "伦敦",
+      "toYears": "1969–2015",
+      "type": "member",
+      "label": "John Lennon",
+      "detail": "John Lennon 在这两支乐队都待过。",
+      "year": 1969,
+      "weight": 0.62
+    },
+    {
+      "to": "traveling-wilburys",
+      "toName": "Traveling Wilburys",
+      "toArea": "Malibu",
+      "toYears": "1988–1990",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pete-best-band",
+      "toName": "The Pete Best Band",
+      "toArea": "利物浦",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "lee-curtis-the-all-stars",
+      "toName": "Lee Curtis & The All Stars",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "apple",
+      "toName": "Apple",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Lennon",
+      "detail": "John Lennon 在这两支乐队都待过。",
+      "year": 1961,
+      "weight": 0.62
+    },
+    {
+      "to": "rockestra",
+      "toName": "Rockestra",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Howie Casey",
+      "detail": "Howie Casey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pete-best-combo",
+      "toName": "The Pete Best Combo",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pete-best-four",
+      "toName": "The Pete Best Four",
+      "toArea": "英国",
+      "toYears": "1963–1964",
+      "type": "member",
+      "label": "Pete Best",
+      "detail": "Pete Best 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-singing-rebels-band",
+      "toName": "The Singing Rebels’ Band",
+      "toArea": null,
+      "toYears": "1985–1985",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

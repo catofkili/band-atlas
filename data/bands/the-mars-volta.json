@@ -1,0 +1,180 @@
+{
+  "id": "the-mars-volta",
+  "mbid": "20883363-1ea4-4d72-ad72-c0e767038f3e",
+  "name": "The Mars Volta",
+  "area": "El Paso",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2001–",
+  "genres": [
+    "Progressive Rock",
+    "Art Rock",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "De‐Loused in the Comatorium",
+      "year": 2003
+    },
+    {
+      "title": "Frances the Mute",
+      "year": 2005
+    },
+    {
+      "title": "Amputechture",
+      "year": 2006
+    },
+    {
+      "title": "The Bedlam in Goliath",
+      "year": 2008
+    },
+    {
+      "title": "Octahedron",
+      "year": 2009
+    },
+    {
+      "title": "Noctourniquet",
+      "year": 2012
+    }
+  ],
+  "intro": "火星之音是支美国的前卫摇滚乐队，2001年成立于德克萨斯州艾尔帕索。乐队阵容有奥马尔·罗德里格斯-罗培兹、塞德里克·比克斯勒-萨瓦拉、璜·艾尔德瑞特、马歇尔·罗德里奎-罗培兹和丹恩东尼·帕克斯。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/20883363-1ea4-4d72-ad72-c0e767038f3e"
+  },
+  "edges": [
+    {
+      "to": "omar-rodriguez-lopez-quartet",
+      "toName": "Omar Rodriguez‐Lopez Quartet",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Frusciante・Omar Rodríguez‐López・Juan Alderete・Marcel Rodriguez‐Lopez",
+      "detail": "4 位乐手在这两支乐队都待过：John Frusciante・Omar Rodríguez‐López・Juan Alderete・Marcel Rodriguez‐Lopez。",
+      "year": 2002,
+      "weight": 0.95
+    },
+    {
+      "to": "marilyn-manson",
+      "toName": "Marilyn Manson",
+      "toArea": "Fort Lauderdale",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Juan Alderete",
+      "detail": "Juan Alderete 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "queens-of-the-stone-age",
+      "toName": "Queens of the Stone Age",
+      "toArea": "Palm Desert",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Jon Theodore",
+      "detail": "Jon Theodore 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "John Frusciante",
+      "detail": "John Frusciante 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "suicidal-tendencies",
+      "toName": "Suicidal Tendencies",
+      "toArea": "洛杉矶",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Thomas Pridgen",
+      "detail": "Thomas Pridgen 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "thelonious-monster",
+      "toName": "Thelonious Monster",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "John Frusciante",
+      "detail": "John Frusciante 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "weezer",
+      "toName": "Weezer",
+      "toArea": "洛杉矶",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "David Elitch",
+      "detail": "David Elitch 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "anywhere",
+      "toName": "Anywhere",
+      "toArea": "洛杉矶",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Cedric Bixler‐Zavala",
+      "detail": "Cedric Bixler‐Zavala 在这两支乐队都待过。",
+      "year": 2022,
+      "weight": 0.62
+    },
+    {
+      "to": "ataxia",
+      "toName": "Ataxia",
+      "toArea": "洛杉矶",
+      "toYears": "2004–2004",
+      "type": "member",
+      "label": "John Frusciante",
+      "detail": "John Frusciante 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "flea-and-the-honora-band",
+      "toName": "Flea and the Honora Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Deantoni Parks",
+      "detail": "Deantoni Parks 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
+      "to": "speed-dealer-moms",
+      "toName": "Speed Dealer Moms",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "John Frusciante",
+      "detail": "John Frusciante 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "the-wedding-band",
+      "toName": "The Wedding Band",
+      "toArea": "Hawaii",
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Jon Theodore",
+      "detail": "Jon Theodore 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    }
+  ]
+}

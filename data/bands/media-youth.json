@@ -1,0 +1,57 @@
+{
+  "id": "media-youth",
+  "mbid": "42ac3840-c883-4ef0-ba08-063279cd2e4e",
+  "name": "Media-Youth",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1992–1999",
+  "genres": [
+    "Likedis Auto",
+    "Visual Kei"
+  ],
+  "albums": [
+    {
+      "title": "Awake of youth",
+      "year": 1993
+    },
+    {
+      "title": "スパイラル・カラーズ",
+      "year": 1996
+    },
+    {
+      "title": "Jesus Christ Rock'n'Roll",
+      "year": 1998
+    }
+  ],
+  "intro": "media youthは、日本のヴィジュアル系ロックバンド。KIYOSHI、DAISUKE、HIROKIの3人で編成。X JAPAN加入以前のHEATHが在籍していたことがある。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/42ac3840-c883-4ef0-ba08-063279cd2e4e"
+  },
+  "edges": [
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "heath",
+      "detail": "heath 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
+      "to": "hide-with-spread-beaver",
+      "toName": "hide with Spread Beaver",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "KIYOSHI",
+      "detail": "KIYOSHI 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

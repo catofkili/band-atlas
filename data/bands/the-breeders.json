@@ -3,6 +3,8 @@
   "mbid": "667e856e-f3a7-42e9-8244-95422ef31321",
   "name": "The Breeders",
   "area": "波士顿",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1989–",
   "genres": [
     "Alternative Rock",
@@ -33,6 +35,7 @@
   ],
   "intro": "ザ・ブリーダーズ (The Breeders)は、1988年に結成されたアメリカのロックバンドである。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/667e856e-f3a7-42e9-8244-95422ef31321"
   },

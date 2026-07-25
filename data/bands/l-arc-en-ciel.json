@@ -1,0 +1,235 @@
+{
+  "id": "l-arc-en-ciel",
+  "mbid": "62b61409-d13e-4281-9e3f-06941c2c5f5f",
+  "name": "L’Arc〜en〜Ciel",
+  "area": "大阪",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1991–",
+  "genres": [
+    "Rock",
+    "Visual Kei",
+    "Alternative Rock"
+  ],
+  "albums": [
+    {
+      "title": "DUNE",
+      "year": 1993
+    },
+    {
+      "title": "Tierra",
+      "year": 1994
+    },
+    {
+      "title": "heavenly",
+      "year": 1995
+    },
+    {
+      "title": "True",
+      "year": 1996
+    },
+    {
+      "title": "HEART",
+      "year": 1998
+    },
+    {
+      "title": "ray",
+      "year": 1999
+    }
+  ],
+  "intro": "彩虹乐团为日本著名的摇滚团体，由hyde、tetsuya、ken、yukihiro所组成。1991年2月以tetsuya作为中心在大阪成立。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/62b61409-d13e-4281-9e3f-06941c2c5f5f"
+  },
+  "edges": [
+    {
+      "to": "sons-of-all-pussys",
+      "toName": "SONS OF ALL PUSSYS",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "Ken・Sakura",
+      "detail": "2 位乐手在这两支乐队都待过：Ken・Sakura。",
+      "year": 2002,
+      "weight": 0.84
+    },
+    {
+      "to": "acid-android",
+      "toName": "acid android",
+      "toArea": "日本",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "yukihiro",
+      "detail": "yukihiro 在这两支乐队都待过。",
+      "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "die-in-cries",
+      "toName": "DIE IN CRIES",
+      "toArea": "日本",
+      "toYears": "1991–1995",
+      "type": "member",
+      "label": "yukihiro",
+      "detail": "yukihiro 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "zi-kill",
+      "toName": "ZI:KILL",
+      "toArea": "日本",
+      "toYears": "1987–1994",
+      "type": "member",
+      "label": "yukihiro",
+      "detail": "yukihiro 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "zigzo",
+      "toName": "ZIGZO",
+      "toArea": "日本",
+      "toYears": "1999–2002",
+      "type": "member",
+      "label": "Sakura",
+      "detail": "Sakura 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "vamps",
+      "toName": "VAMPS",
+      "toArea": "日本",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "HYDE",
+      "detail": "HYDE 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "geek-sleep-sheep",
+      "toName": "geek sleep sheep",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "yukihiro",
+      "detail": "yukihiro 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "gibkiy-gibkiy-gibkiy",
+      "toName": "gibkiy gibkiy gibkiy",
+      "toArea": "日本",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "Sakura",
+      "detail": "Sakura 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    },
+    {
+      "to": "petit-brabancon",
+      "toName": "Petit Brabancon",
+      "toArea": "日本",
+      "toYears": "2021–",
+      "type": "member",
+      "label": "yukihiro",
+      "detail": "yukihiro 在这两支乐队都待过。",
+      "year": 2021,
+      "weight": 0.62
+    },
+    {
+      "to": "rayflower",
+      "toName": "Rayflower",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Sakura",
+      "detail": "Sakura 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "halloween-junky-orchestra",
+      "toName": "HALLOWEEN JUNKY ORCHESTRA",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "HYDE",
+      "detail": "HYDE 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "lion-heads",
+      "toName": "Lion Heads",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "Sakura",
+      "detail": "Sakura 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "the-madcap-laughs",
+      "toName": "THE MADCAP LAUGHS",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Sakura",
+      "detail": "Sakura 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "ange-graie",
+      "toName": "Ange∞Graie",
+      "toArea": "大阪",
+      "toYears": "1992–2020",
+      "type": "member",
+      "label": "hiro",
+      "detail": "hiro 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "guerrilla",
+      "toName": "GUERRILLA",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "yukihiro",
+      "detail": "yukihiro 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "like-an-angel",
+      "toName": "Like-an-Angel",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "TETSUYA",
+      "detail": "TETSUYA 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "the-last-rockstars",
+      "toName": "THE LAST ROCKSTARS",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "member",
+      "label": "HYDE",
+      "detail": "HYDE 在这两支乐队都待过。",
+      "year": 2022,
+      "weight": 0.62
+    }
+  ]
+}

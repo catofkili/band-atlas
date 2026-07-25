@@ -1,0 +1,52 @@
+{
+  "id": "violet-uk",
+  "mbid": "81f25673-b01a-4fd7-a5be-eb93c85d11bb",
+  "name": "Violet UK",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2005–",
+  "genres": [],
+  "albums": [],
+  "intro": "Violet UKは、ミュージシャンであるYOSHIKIが率いる音楽プロジェクト。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/81f25673-b01a-4fd7-a5be-eb93c85d11bb"
+  },
+  "edges": [
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "YOSHIKI",
+      "detail": "YOSHIKI 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "s-k-i-n",
+      "toName": "S.K.I.N.",
+      "toArea": "日本",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "YOSHIKI",
+      "detail": "YOSHIKI 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "the-last-rockstars",
+      "toName": "THE LAST ROCKSTARS",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "member",
+      "label": "YOSHIKI",
+      "detail": "YOSHIKI 在这两支乐队都待过。",
+      "year": 2022,
+      "weight": 0.62
+    }
+  ]
+}

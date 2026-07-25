@@ -1,0 +1,52 @@
+{
+  "id": "howlin-maggie",
+  "mbid": "85c98899-dd47-435d-9977-8ff45910f111",
+  "name": "Howlin’ Maggie",
+  "area": "Columbus",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1994–2002",
+  "genres": [
+    "Columbus [Oh]"
+  ],
+  "albums": [
+    {
+      "title": "Honeysuckle Strange",
+      "year": 1996
+    },
+    {
+      "title": "Hyde",
+      "year": 2001
+    }
+  ],
+  "intro": "Howlin' Maggie was a four-piece band founded by (and fronted by) Harold \"Happy\" Chichester in Columbus, Ohio, in 1994.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/85c98899-dd47-435d-9977-8ff45910f111"
+  },
+  "edges": [
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Jerome Dillon",
+      "detail": "Jerome Dillon 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "nearly",
+      "toName": "nearLY",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Jerome Dillon",
+      "detail": "Jerome Dillon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

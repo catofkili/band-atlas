@@ -1,0 +1,140 @@
+{
+  "id": "deep-end",
+  "mbid": "76fc9a1d-4499-4c92-91cf-85f87ee50787",
+  "name": "Deep End",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1985–1986",
+  "genres": [],
+  "albums": [],
+  "intro": "Deep End was a short-lived supergroup founded by guitarist Pete Townshend of the Who and featuring David Gilmour of Pink Floyd.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/76fc9a1d-4499-4c92-91cf-85f87ee50787"
+  },
+  "edges": [
+    {
+      "to": "the-who",
+      "toName": "The Who",
+      "toArea": "伦敦",
+      "toYears": "1964–",
+      "type": "member",
+      "label": "Pete Townshend・John “Rabbit” Bundrick",
+      "detail": "2 位乐手在这两支乐队都待过：Pete Townshend・John “Rabbit” Bundrick。",
+      "year": 1964,
+      "weight": 0.84
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "David Gilmour・Pete Townshend",
+      "detail": "2 位乐手在这两支乐队都待过：David Gilmour・Pete Townshend。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "pink-floyd",
+      "toName": "Pink Floyd",
+      "toArea": "伦敦",
+      "toYears": "1965–2014",
+      "type": "member",
+      "label": "David Gilmour",
+      "detail": "David Gilmour 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    },
+    {
+      "to": "gannin-arnold-project",
+      "toName": "Gannin Arnold Project",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Simon Phillips",
+      "detail": "Simon Phillips 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "hale-pace-and-the-stonkers",
+      "toName": "Hale & Pace and the Stonkers",
+      "toArea": "英国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "David Gilmour",
+      "detail": "David Gilmour 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "holly-and-the-ivy-s",
+      "toName": "Holly and The Ivy’s",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "David Gilmour",
+      "detail": "David Gilmour 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "jokers-wild",
+      "toName": "Jokers Wild",
+      "toArea": "Cambridge",
+      "toYears": "1964–1966",
+      "type": "member",
+      "label": "David Gilmour",
+      "detail": "David Gilmour 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mick-fleetwood-and-friends",
+      "toName": "Mick Fleetwood and Friends",
+      "toArea": null,
+      "toYears": "2020–2020",
+      "type": "member",
+      "label": "Pete Townshend",
+      "detail": "Pete Townshend 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "p-s-p",
+      "toName": "P.S.P.",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Simon Phillips",
+      "detail": "Simon Phillips 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "rockestra",
+      "toName": "Rockestra",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Pete Townshend",
+      "detail": "Pete Townshend 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-ramblers",
+      "toName": "The Ramblers",
+      "toArea": "英国",
+      "toYears": "1962–1963",
+      "type": "member",
+      "label": "David Gilmour",
+      "detail": "David Gilmour 在这两支乐队都待过。",
+      "year": 1962,
+      "weight": 0.62
+    }
+  ]
+}

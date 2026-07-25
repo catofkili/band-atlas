@@ -3,6 +3,8 @@
   "mbid": "b36d22e9-7f2c-42ff-98a6-b0e3f2cb36f5",
   "name": "Ciccone Youth",
   "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1986–1988",
   "genres": [
     "Experimental Rock",
@@ -17,6 +19,7 @@
   ],
   "intro": "Sonic Youth was an American rock band formed in New York City in 1981.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b36d22e9-7f2c-42ff-98a6-b0e3f2cb36f5"
   },

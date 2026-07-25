@@ -3,9 +3,12 @@
   "mbid": "4f83b34e-7eaa-4691-bdc8-afa90806cbca",
   "name": "Gown",
   "area": null,
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4f83b34e-7eaa-4691-bdc8-afa90806cbca"
   },

@@ -1,0 +1,48 @@
+{
+  "id": "thunderbox",
+  "mbid": "65004947-cdea-47cf-8812-9faf47ebd6c1",
+  "name": "Thunderbox",
+  "area": "Redondo Beach",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [
+    "Country",
+    "Country Rock",
+    "Folk Rock"
+  ],
+  "albums": [
+    {
+      "title": "Thunderbox",
+      "year": 1999
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/65004947-cdea-47cf-8812-9faf47ebd6c1"
+  },
+  "edges": [
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Jack Sherman",
+      "detail": "Jack Sherman 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "steady-earnest",
+      "toName": "Steady Earnest",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Jack Sherman",
+      "detail": "Jack Sherman 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

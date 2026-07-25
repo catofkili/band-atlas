@@ -1,0 +1,235 @@
+{
+  "id": "black-sabbath",
+  "mbid": "5182c1d9-c7d2-4dad-afa0-ccfeada921a8",
+  "name": "Black Sabbath",
+  "area": "Birmingham",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1968–2025",
+  "genres": [
+    "Heavy Metal",
+    "Hard Rock",
+    "Traditional Doom Metal"
+  ],
+  "albums": [
+    {
+      "title": "Black Sabbath",
+      "year": 1970
+    },
+    {
+      "title": "Paranoid",
+      "year": 1970
+    },
+    {
+      "title": "Master of Reality",
+      "year": 1971
+    },
+    {
+      "title": "Vol 4",
+      "year": 1972
+    },
+    {
+      "title": "Sabbath Bloody Sabbath",
+      "year": 1973
+    },
+    {
+      "title": "Sabotage",
+      "year": 1975
+    }
+  ],
+  "intro": "黑色安息日是英国的硬式摇滚／重金属乐团，1968年成立于英国伯明翰，截至2017年共发行十九张录音室专辑。它的主要成员有奥茲·奥斯本，托尼·艾欧密，吉泽·巴特勒和比尔·沃德。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5182c1d9-c7d2-4dad-afa0-ccfeada921a8"
+  },
+  "edges": [
+    {
+      "to": "hale-pace-and-the-stonkers",
+      "toName": "Hale & Pace and the Stonkers",
+      "toArea": "英国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "Tony Iommi・Cozy Powell・Neil Murray",
+      "detail": "3 位乐手在这两支乐队都待过：Tony Iommi・Cozy Powell・Neil Murray。",
+      "year": 1991,
+      "weight": 0.95
+    },
+    {
+      "to": "the-brian-may-band",
+      "toName": "The Brian May Band",
+      "toArea": null,
+      "toYears": "1991–1998",
+      "type": "member",
+      "label": "Cozy Powell・Neil Murray",
+      "detail": "2 位乐手在这两支乐队都待过：Cozy Powell・Neil Murray。",
+      "year": 1998,
+      "weight": 0.84
+    },
+    {
+      "to": "whocares",
+      "toName": "WhoCares",
+      "toArea": "英国",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "Tony Iommi・Ian Gillan",
+      "detail": "2 位乐手在这两支乐队都待过：Tony Iommi・Ian Gillan。",
+      "year": 2011,
+      "weight": 0.84
+    },
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Black Sabbath 影响了 Nirvana（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "fleetwood-mac",
+      "toName": "Fleetwood Mac",
+      "toArea": "伦敦",
+      "toYears": "1967–2022",
+      "type": "member",
+      "label": "Dave Walker",
+      "detail": "Dave Walker 在这两支乐队都待过。",
+      "year": 1977,
+      "weight": 0.62
+    },
+    {
+      "to": "quiet-riot",
+      "toName": "Quiet Riot",
+      "toArea": "洛杉矶",
+      "toYears": "1973–",
+      "type": "member",
+      "label": "Bob Rondinelli",
+      "detail": "Bob Rondinelli 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "deadland-ritual",
+      "toName": "Deadland Ritual",
+      "toArea": "伦敦",
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Geezer Butler",
+      "detail": "Geezer Butler 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "ez-street",
+      "toName": "EZ-Street",
+      "toArea": "Oakland",
+      "toYears": null,
+      "type": "member",
+      "label": "Mike Bordin",
+      "detail": "Mike Bordin 在这两支乐队都待过。",
+      "year": 1979,
+      "weight": 0.62
+    },
+    {
+      "to": "fart-sandwich-posse",
+      "toName": "Fart Sandwich Posse",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Mike Bordin",
+      "detail": "Mike Bordin 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Tony Iommi",
+      "detail": "Tony Iommi 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "the-chickenfuckers",
+      "toName": "The Chickenfuckers",
+      "toArea": "旧金山",
+      "toYears": "1984–1984",
+      "type": "member",
+      "label": "Mike Bordin",
+      "detail": "Mike Bordin 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "deftones",
+      "toName": "Deftones",
+      "toArea": "Sacramento",
+      "toYears": "1988–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Black Sabbath 影响了 Deftones（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Black Sabbath 影响了 Foo Fighters（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "quiet-riot",
+      "toName": "Quiet Riot",
+      "toArea": "洛杉矶",
+      "toYears": "1973–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Black Sabbath 影响了 Quiet Riot（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "slipknot",
+      "toName": "Slipknot",
+      "toArea": "Des Moines",
+      "toYears": "1995–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Black Sabbath 影响了 Slipknot（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "soundgarden",
+      "toName": "Soundgarden",
+      "toArea": "西雅图",
+      "toYears": "1984–2017",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Black Sabbath 影响了 Soundgarden（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "die-spitz",
+      "toName": "Die Spitz",
+      "toArea": "奥斯汀",
+      "toYears": "2022–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Black Sabbath 影响了 Die Spitz（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

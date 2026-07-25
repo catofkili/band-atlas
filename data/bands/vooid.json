@@ -1,0 +1,37 @@
+{
+  "id": "vooid",
+  "mbid": "24e8b412-0d14-4afe-be76-f63ea7d0fc34",
+  "name": "VOOID",
+  "area": "台湾",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": "2016–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "VOOID",
+      "year": 2017
+    },
+    {
+      "title": "Vooid 2025",
+      "year": 2025
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/24e8b412-0d14-4afe-be76-f63ea7d0fc34"
+  },
+  "edges": [
+    {
+      "to": "透明雜誌",
+      "toName": "透明雜誌",
+      "toArea": "台湾",
+      "toYears": "2007–",
+      "type": "member",
+      "label": "張盛文・洪申豪",
+      "detail": "2 位乐手在这两支乐队都待过：張盛文・洪申豪。",
+      "year": null,
+      "weight": 0.84
+    }
+  ]
+}

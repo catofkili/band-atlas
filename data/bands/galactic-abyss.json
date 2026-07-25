@@ -1,0 +1,50 @@
+{
+  "id": "galactic-abyss",
+  "mbid": "11e22d21-7861-4c04-bea7-0169e71b41d7",
+  "name": "Galactic Abyss",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/11e22d21-7861-4c04-bea7-0169e71b41d7"
+  },
+  "edges": [
+    {
+      "to": "ゆらゆら帝国",
+      "toName": "ゆらゆら帝国",
+      "toArea": "日本",
+      "toYears": "1989–2010",
+      "type": "member",
+      "label": "亀川千代",
+      "detail": "亀川千代 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "不失者",
+      "toName": "不失者",
+      "toArea": "东京",
+      "toYears": "1978–",
+      "type": "member",
+      "label": "亀川千代",
+      "detail": "亀川千代 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-stars",
+      "toName": "The Stars",
+      "toArea": "日本",
+      "toYears": "1999–2009",
+      "type": "member",
+      "label": "亀川千代",
+      "detail": "亀川千代 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

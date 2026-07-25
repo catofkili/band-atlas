@@ -1,0 +1,54 @@
+{
+  "id": "cyco-miko",
+  "mbid": "d4fe1194-6dd2-4a5d-bdaf-b2c481e79434",
+  "name": "Cyco Miko",
+  "area": "Venice",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1994–",
+  "genres": [
+    "Thrash Metal"
+  ],
+  "albums": [
+    {
+      "title": "Lost My Brain! (Once Again)",
+      "year": 1995
+    },
+    {
+      "title": "Schizophrenic Born Again Problem Child",
+      "year": 1999
+    },
+    {
+      "title": "The Mad Mad Muir Musical Tour (Part One)",
+      "year": 2011
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d4fe1194-6dd2-4a5d-bdaf-b2c481e79434"
+  },
+  "edges": [
+    {
+      "to": "infectious-grooves",
+      "toName": "Infectious Grooves",
+      "toArea": "美国",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Mike Muir・Adam Siegel",
+      "detail": "2 位乐手在这两支乐队都待过：Mike Muir・Adam Siegel。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "suicidal-tendencies",
+      "toName": "Suicidal Tendencies",
+      "toArea": "洛杉矶",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "Mike Muir",
+      "detail": "Mike Muir 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    }
+  ]
+}

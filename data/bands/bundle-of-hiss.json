@@ -3,6 +3,8 @@
   "mbid": "aaa673a8-af81-4140-8cb8-800406c1eace",
   "name": "Bundle of Hiss",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [
     "Alternative Rock",
@@ -11,6 +13,7 @@
   "albums": [],
   "intro": "Bundle of Hiss was an American grunge band formed in 1980 in Stanwood, Washington by future Tad member Kurt Danielson, guitarist Jeff Hopper, vocalist Kurt Schonberg and drummer Russ Bartlett.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/aaa673a8-af81-4140-8cb8-800406c1eace"
   },

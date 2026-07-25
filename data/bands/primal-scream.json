@@ -3,6 +3,8 @@
   "mbid": "55704c38-224f-4b75-b29f-d43653f8bc9a",
   "name": "Primal Scream",
   "area": "格拉斯哥",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "1982–",
   "genres": [
     "Alternative Rock",
@@ -37,6 +39,7 @@
   ],
   "intro": "原始呐喊是提名全英音乐奖的非主流乐队，1982年成立于苏格兰格拉斯哥。",
   "introLang": "zh",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/55704c38-224f-4b75-b29f-d43653f8bc9a"
   },

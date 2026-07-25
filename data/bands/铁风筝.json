@@ -1,0 +1,35 @@
+{
+  "id": "铁风筝",
+  "mbid": "e7973631-58b2-44ee-be0b-9fe1a8fd7ffa",
+  "name": "铁风筝",
+  "area": "北京",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "1993–",
+  "genres": [
+    "Indie Rock"
+  ],
+  "albums": [
+    {
+      "title": "这是我们的秘密",
+      "year": 2002
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e7973631-58b2-44ee-be0b-9fe1a8fd7ffa"
+  },
+  "edges": [
+    {
+      "to": "唐朝",
+      "toName": "唐朝",
+      "toArea": "北京",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "虞洋",
+      "detail": "虞洋 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    }
+  ]
+}

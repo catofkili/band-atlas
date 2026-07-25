@@ -1,0 +1,51 @@
+{
+  "id": "destiny-s-child",
+  "mbid": "a796b92e-c137-4895-9c89-10f900617a4f",
+  "name": "Destiny’s Child",
+  "area": null,
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Destiny’s Child",
+      "year": 1997
+    },
+    {
+      "title": "The Writing’s on the Wall",
+      "year": 1999
+    },
+    {
+      "title": "Survivor",
+      "year": 2001
+    },
+    {
+      "title": "8 Days of Christmas",
+      "year": 2001
+    },
+    {
+      "title": "Destiny Fulfilled",
+      "year": 2004
+    }
+  ],
+  "intro": "天命真女是美国女子音乐组合，最终成员包括碧昂丝·诺尔斯、凯莉·罗兰和米歇尔·威廉姆斯。她们的音乐生涯始于1990年在得克萨斯州休斯敦成立的Girl's Tyme。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a796b92e-c137-4895-9c89-10f900617a4f"
+  },
+  "edges": [
+    {
+      "to": "artists-against-aids-worldwide",
+      "toName": "Artists Against AIDS Worldwide",
+      "toArea": "纽约",
+      "toYears": "2001–2001",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

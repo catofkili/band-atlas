@@ -1,0 +1,33 @@
+{
+  "id": "chris-dave-and-the-drumhedz",
+  "mbid": "87e23315-d32b-4bfd-9116-afe8beafe6de",
+  "name": "Chris Dave and The Drumhedz",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Chris Dave and The Drumhedz",
+      "year": 2018
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/87e23315-d32b-4bfd-9116-afe8beafe6de"
+  },
+  "edges": [
+    {
+      "to": "the-vanguard",
+      "toName": "The Vanguard",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Chris Dave",
+      "detail": "Chris Dave 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

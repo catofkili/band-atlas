@@ -3,6 +3,8 @@
   "mbid": "5ba39b83-d12d-4b31-b449-992300a73df8",
   "name": "Experimental Audio Research",
   "area": "Rugby",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "1990–",
   "genres": [],
   "albums": [
@@ -33,6 +35,7 @@
   ],
   "intro": "Peter Kember (born 19 November 1965), also known by his stage name Sonic Boom, is an English singer-songwriter, composer and record producer.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5ba39b83-d12d-4b31-b449-992300a73df8"
   },

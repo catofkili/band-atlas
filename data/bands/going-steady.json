@@ -1,0 +1,54 @@
+{
+  "id": "going-steady",
+  "mbid": "d8f99482-1a3b-45aa-b920-1c7317138f1b",
+  "name": "GOING STEADY",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1996–2003",
+  "genres": [
+    "Punk",
+    "Punk Rock",
+    "Seishun Punk"
+  ],
+  "albums": [
+    {
+      "title": "BOYS&GIRLS",
+      "year": 1999
+    },
+    {
+      "title": "さくらの唄",
+      "year": 2001
+    }
+  ],
+  "intro": "GOING STEADYは、インディーズで活動していた日本の4人組パンク・ロックバンドである。略称はゴイステ。2003年に解散した。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d8f99482-1a3b-45aa-b920-1c7317138f1b"
+  },
+  "edges": [
+    {
+      "to": "銀杏boyz",
+      "toName": "銀杏BOYZ",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "峯田和伸",
+      "detail": "峯田和伸 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ねらわれた学園",
+      "toName": "ねらわれた学園",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "峯田和伸",
+      "detail": "峯田和伸 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

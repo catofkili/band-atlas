@@ -1,0 +1,114 @@
+{
+  "id": "fleetwood-mac",
+  "mbid": "bd13909f-1c29-4c27-a874-d4aaf27c5b1a",
+  "name": "Fleetwood Mac",
+  "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1967–2022",
+  "genres": [
+    "Rock",
+    "Soft Rock",
+    "Blues Rock"
+  ],
+  "albums": [
+    {
+      "title": "Mr. Wonderful",
+      "year": 1968
+    },
+    {
+      "title": "Peter Green’s Fleetwood Mac",
+      "year": 1968
+    },
+    {
+      "title": "The Biggest Thing Since Colossus",
+      "year": 1969
+    },
+    {
+      "title": "Then Play On",
+      "year": 1969
+    },
+    {
+      "title": "Kiln House",
+      "year": 1970
+    },
+    {
+      "title": "Future Games",
+      "year": 1971
+    }
+  ],
+  "intro": "佛利伍麦克是一个英美摇滚乐团，1967年成立于伦敦。乐团成军至今经历多次团员变动，多次更换主唱与吉他手，但也因此不断融入新的创作元素，在不同阶段呈现出各有特色的音乐风格。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bd13909f-1c29-4c27-a874-d4aaf27c5b1a"
+  },
+  "edges": [
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "Birmingham",
+      "toYears": "1968–2025",
+      "type": "member",
+      "label": "Dave Walker",
+      "detail": "Dave Walker 在这两支乐队都待过。",
+      "year": 1977,
+      "weight": 0.62
+    },
+    {
+      "to": "delaney-bonnie",
+      "toName": "Delaney & Bonnie",
+      "toArea": "洛杉矶",
+      "toYears": "1967–1972",
+      "type": "member",
+      "label": "Dave Mason",
+      "detail": "Dave Mason 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "7-worlds-collide",
+      "toName": "7 Worlds Collide",
+      "toArea": "New Zealand",
+      "toYears": null,
+      "type": "member",
+      "label": "Neil Finn",
+      "detail": "Neil Finn 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dave Mason",
+      "detail": "Dave Mason 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "mick-fleetwood-and-friends",
+      "toName": "Mick Fleetwood and Friends",
+      "toArea": null,
+      "toYears": "2020–2020",
+      "type": "member",
+      "label": "Mick Fleetwood",
+      "detail": "Mick Fleetwood 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "sound-city-players",
+      "toName": "Sound City Players",
+      "toArea": "美国",
+      "toYears": "2012–2013",
+      "type": "member",
+      "label": "Stevie Nicks",
+      "detail": "Stevie Nicks 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "id": "king-gnu",
+  "mbid": "338f5d97-3133-4bf8-a58e-068ff9b5405d",
+  "name": "King Gnu",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2013–",
+  "genres": [
+    "J-Pop",
+    "Pop Rock"
+  ],
+  "albums": [
+    {
+      "title": "Mad Me More Softly",
+      "year": 2015
+    },
+    {
+      "title": "Tokyo Rendez‐Vous",
+      "year": 2017
+    },
+    {
+      "title": "Sympa",
+      "year": 2019
+    },
+    {
+      "title": "CEREMONY",
+      "year": 2020
+    },
+    {
+      "title": "THE GREATEST UNKNOWN",
+      "year": 2023
+    }
+  ],
+  "intro": "King Gnu是一个日本4人摇滚乐队，于2017年以常田大希为核心结成。现为日本索尼音乐旗下艺人。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/338f5d97-3133-4bf8-a58e-068ff9b5405d"
+  },
+  "edges": [
+    {
+      "to": "millennium-parade",
+      "toName": "MILLENNIUM PARADE",
+      "toArea": "日本",
+      "toYears": "2019–",
+      "type": "member",
+      "label": "新井和輝・勢喜遊・常田大希",
+      "detail": "3 位乐手在这两支乐队都待过：新井和輝・勢喜遊・常田大希。",
+      "year": null,
+      "weight": 0.95
+    }
+  ]
+}

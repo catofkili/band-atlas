@@ -1,0 +1,77 @@
+{
+  "id": "luminous-orange",
+  "mbid": "3c82a8e6-d738-41a6-bcfe-474204011472",
+  "name": "Luminous Orange",
+  "area": "横滨",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1992–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Vivid Short Trip",
+      "year": 1996
+    },
+    {
+      "title": "Waiting for the Summer",
+      "year": 1997
+    },
+    {
+      "title": "Sugarcoated",
+      "year": 1998
+    },
+    {
+      "title": "luminousorangesuperplastic",
+      "year": 1999
+    },
+    {
+      "title": "Drop You Vivid Colours",
+      "year": 2002
+    },
+    {
+      "title": "Sakura Swirl",
+      "year": 2007
+    }
+  ],
+  "intro": "ルミナスオレンジは、日本のオルタナティヴ・ロックバンド。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3c82a8e6-d738-41a6-bcfe-474204011472"
+  },
+  "edges": [
+    {
+      "to": "相対性理論",
+      "toName": "相対性理論",
+      "toArea": "东京",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "西浦謙助",
+      "detail": "西浦謙助 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "集団行動",
+      "toName": "集団行動",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "西浦謙助",
+      "detail": "西浦謙助 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "フォークデュオ",
+      "toName": "フォークデュオ",
+      "toArea": null,
+      "toYears": "2018–",
+      "type": "member",
+      "label": "西浦謙助",
+      "detail": "西浦謙助 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

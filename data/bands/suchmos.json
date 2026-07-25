@@ -1,0 +1,71 @@
+{
+  "id": "suchmos",
+  "mbid": "5561990a-0601-4a71-b766-3268ea687ab3",
+  "name": "Suchmos",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2013–",
+  "genres": [
+    "Acid Jazz"
+  ],
+  "albums": [
+    {
+      "title": "THE BAY",
+      "year": 2015
+    },
+    {
+      "title": "THE KIDS",
+      "year": 2017
+    },
+    {
+      "title": "THE ASHTRAY",
+      "year": 2018
+    },
+    {
+      "title": "THE ANYMAL",
+      "year": 2019
+    }
+  ],
+  "intro": "Suchmosは、日本のロックバンド。2013年結成。バンド名の由来は、ルイ・アームストロングの愛称サッチモ。ロック、ソウル、ポップス、ジャズ、アシッドジャズ、ヒップホップなどから影響を受けた音楽性を持つ。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5561990a-0601-4a71-b766-3268ea687ab3"
+  },
+  "edges": [
+    {
+      "to": "賽",
+      "toName": "賽",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "TAIHEI",
+      "detail": "TAIHEI 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "hedigan-s",
+      "toName": "Hedigan's",
+      "toArea": "日本",
+      "toYears": "2024–",
+      "type": "member",
+      "label": "YONCE",
+      "detail": "YONCE 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ザ-プールサイド",
+      "toName": "ザ・プールサイド",
+      "toArea": null,
+      "toYears": "2016–",
+      "type": "member",
+      "label": "YONCE",
+      "detail": "YONCE 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

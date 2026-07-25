@@ -3,9 +3,12 @@
   "mbid": "cc1e1fbe-4a41-4fa5-b4fb-80b6e57857dd",
   "name": "Royal Machines",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cc1e1fbe-4a41-4fa5-b4fb-80b6e57857dd"
   },
@@ -16,8 +19,8 @@
       "toArea": "美国",
       "toYears": "2003–",
       "type": "member",
-      "label": "Chris Chaney・Donovan Leitch・Mark McGrath・Billy Morrison・Dave Navarro",
-      "detail": "5 位乐手在这两支乐队都待过：Chris Chaney・Donovan Leitch・Mark McGrath・Billy Morrison・Dave Navarro。",
+      "label": "Donovan Leitch・Mark McGrath・Billy Morrison",
+      "detail": "3 位乐手在这两支乐队都待过：Donovan Leitch・Mark McGrath・Billy Morrison。",
       "year": null,
       "weight": 0.95
     },

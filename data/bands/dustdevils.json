@@ -3,6 +3,8 @@
   "mbid": "4a9d8c32-a22c-4712-8fa2-286d78f9458f",
   "name": "Dustdevils",
   "area": "利兹",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [
@@ -21,6 +23,7 @@
   ],
   "intro": "The Dustdevils (sometimes styled as DustDevils, Dust Devils, or DUSTdevils) were a noise rock band based out of New York City for most of its existence.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4a9d8c32-a22c-4712-8fa2-286d78f9458f"
   },

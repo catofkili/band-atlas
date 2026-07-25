@@ -3,11 +3,14 @@
   "mbid": "1101ca79-cc8d-4add-a7d4-1cbcdc363516",
   "name": "QUADRANGLE",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": null,
   "genres": [],
   "albums": [],
   "intro": "QUADRANGLEは、日本のロックバンド。2010年頃にバンド形態で始動。活動休止後、猫田ヒデヲのソロプロジェクト名として名前は残っていたが長期に渡り沈黙状態だった。",
   "introLang": "ja",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1101ca79-cc8d-4add-a7d4-1cbcdc363516"
   },

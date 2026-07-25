@@ -3,6 +3,8 @@
   "mbid": "89ac338b-98a4-4e8c-815c-f3c987c9ee96",
   "name": "Clinton",
   "area": null,
+  "countryCode": "GB",
+  "country": "英国",
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 1999
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96"
   },

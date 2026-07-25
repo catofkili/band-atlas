@@ -3,6 +3,8 @@
   "mbid": "94f18045-7fe2-41df-bf24-0bed21c88eb8",
   "name": "One Last Wish",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": "1986–1987",
   "genres": [
     "Emo",
@@ -17,6 +19,7 @@
   ],
   "intro": "One Last Wish was a short-lived post-hardcore band from Washington, D.",
   "introLang": "en",
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/94f18045-7fe2-41df-bf24-0bed21c88eb8"
   },

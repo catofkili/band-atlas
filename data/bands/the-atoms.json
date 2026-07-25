@@ -3,9 +3,12 @@
   "mbid": "dc5caa1a-2be6-4104-a34e-fab24dcd4abe",
   "name": "The Atoms",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dc5caa1a-2be6-4104-a34e-fab24dcd4abe"
   },

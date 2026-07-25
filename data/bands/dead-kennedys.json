@@ -1,0 +1,121 @@
+{
+  "id": "dead-kennedys",
+  "mbid": "37c78aeb-d196-42b5-b991-6afb4fc9bc2e",
+  "name": "Dead Kennedys",
+  "area": "旧金山",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1978–1986",
+  "genres": [
+    "Hardcore Punk",
+    "Punk",
+    "Punk Rock"
+  ],
+  "albums": [
+    {
+      "title": "Fresh Fruit for Rotting Vegetables",
+      "year": 1980
+    },
+    {
+      "title": "Plastic Surgery Disasters",
+      "year": 1982
+    },
+    {
+      "title": "Frankenchrist",
+      "year": 1985
+    },
+    {
+      "title": "Bedtime for Democracy",
+      "year": 1986
+    },
+    {
+      "title": "Iguana Studios Rehearsal Tape: San Francisco 1978",
+      "year": 2018
+    }
+  ],
+  "intro": "デッド・ケネディーズは、アメリカ合衆国のハードコア・パンクバンド。カリフォルニア州サンフランシスコ出身。ジェロ・ビアフラの個性的なボーカル、政治的でアナーキーな姿勢、風刺やアイロニーに富んだ反体制的な歌詞で人気を博した。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/37c78aeb-d196-42b5-b991-6afb4fc9bc2e"
+  },
+  "edges": [
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Jello Biafra",
+      "detail": "Jello Biafra 在这两支乐队都待过。",
+      "year": 1978,
+      "weight": 0.62
+    },
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "D.H. Peligro",
+      "detail": "D.H. Peligro 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "lard",
+      "toName": "Lard",
+      "toArea": "芝加哥",
+      "toYears": "1988–2000",
+      "type": "member",
+      "label": "Jello Biafra",
+      "detail": "Jello Biafra 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "peligro",
+      "toName": "Peligro",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "D.H. Peligro",
+      "detail": "D.H. Peligro 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "the-no-w-t-o-combo",
+      "toName": "The No W.T.O. Combo",
+      "toArea": "美国",
+      "toYears": "1999–1999",
+      "type": "member",
+      "label": "Jello Biafra",
+      "detail": "Jello Biafra 在这两支乐队都待过。",
+      "year": 1978,
+      "weight": 0.62
+    },
+    {
+      "to": "green-day",
+      "toName": "Green Day",
+      "toArea": "Berkeley",
+      "toYears": "1989–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Dead Kennedys 影响了 Green Day（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "rage-against-the-machine",
+      "toName": "Rage Against the Machine",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2024",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Dead Kennedys 影响了 Rage Against the Machine（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

@@ -1,0 +1,124 @@
+{
+  "id": "くるり",
+  "mbid": "252c9f8a-be04-4146-b73e-a24696b2f5ed",
+  "name": "くるり",
+  "area": "京都",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1996–",
+  "genres": [
+    "Alternative Rock",
+    "J-Rock"
+  ],
+  "albums": [
+    {
+      "title": "もしもし",
+      "year": 1997
+    },
+    {
+      "title": "ファンデリア",
+      "year": 1998
+    },
+    {
+      "title": "さよならストレンジャー",
+      "year": 1999
+    },
+    {
+      "title": "図鑑",
+      "year": 2000
+    },
+    {
+      "title": "TEAM ROCK",
+      "year": 2001
+    },
+    {
+      "title": "THE WORLD IS MINE",
+      "year": 2002
+    }
+  ],
+  "intro": "团团转乐团1996年于日本京都的立命馆大学音乐性社团Rock Commune里成立。创始团员有岸田繁、佐藤征史与森信行。1998年以单曲“东京”主流出道。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/252c9f8a-be04-4146-b73e-a24696b2f5ed"
+  },
+  "edges": [
+    {
+      "to": "singer-songer",
+      "toName": "SINGER SONGER",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "岸田繁・佐藤征史",
+      "detail": "2 位乐手在这两支乐队都待过：岸田繁・佐藤征史。",
+      "year": 1996,
+      "weight": 0.84
+    },
+    {
+      "to": "12-rods",
+      "toName": "12 Rods",
+      "toArea": "牛津",
+      "toYears": "1992–2025",
+      "type": "member",
+      "label": "Christopher McGuire",
+      "detail": "Christopher McGuire 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "kid-dakota",
+      "toName": "Kid Dakota",
+      "toArea": "明尼阿波利斯",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "Christopher McGuire",
+      "detail": "Christopher McGuire 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "サンガツ",
+      "toName": "サンガツ",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "田中 佑司",
+      "detail": "田中 佑司 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "puppies",
+      "toName": "Puppies",
+      "toArea": "牛津",
+      "toYears": null,
+      "type": "member",
+      "label": "Christopher McGuire",
+      "detail": "Christopher McGuire 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "radio-soul20",
+      "toName": "RADIO SOUL20",
+      "toArea": null,
+      "toYears": "2009–",
+      "type": "member",
+      "label": "岸田繁",
+      "detail": "岸田繁 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    },
+    {
+      "to": "ザ-プールサイド",
+      "toName": "ザ・プールサイド",
+      "toArea": null,
+      "toYears": "2016–",
+      "type": "member",
+      "label": "岸田繁",
+      "detail": "岸田繁 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    }
+  ]
+}

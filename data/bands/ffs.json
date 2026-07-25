@@ -1,0 +1,35 @@
+{
+  "id": "ffs",
+  "mbid": "6b4fbe0d-c8ea-451c-9fe1-afcb90f5e605",
+  "name": "FFS",
+  "area": null,
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "F·F·S",
+      "year": 2015
+    }
+  ],
+  "intro": "FFS (an abbreviation of Franz Ferdinand and Sparks) was a supergroup formed by Scottish indie rock band Franz Ferdinand and American art rock band Sparks.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6b4fbe0d-c8ea-451c-9fe1-afcb90f5e605"
+  },
+  "edges": [
+    {
+      "to": "sparks",
+      "toName": "Sparks",
+      "toArea": "洛杉矶",
+      "toYears": "1970–",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

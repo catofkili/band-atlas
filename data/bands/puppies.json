@@ -1,0 +1,61 @@
+{
+  "id": "puppies",
+  "mbid": "5e8c5405-0369-4384-bad7-aa89d3cabc5a",
+  "name": "Puppies",
+  "area": "牛津",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "Sick Machine",
+      "year": 2007
+    },
+    {
+      "title": "War and Reconstruction",
+      "year": 2011
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5e8c5405-0369-4384-bad7-aa89d3cabc5a"
+  },
+  "edges": [
+    {
+      "to": "12-rods",
+      "toName": "12 Rods",
+      "toArea": "牛津",
+      "toYears": "1992–2025",
+      "type": "member",
+      "label": "Christopher McGuire",
+      "detail": "Christopher McGuire 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "kid-dakota",
+      "toName": "Kid Dakota",
+      "toArea": "明尼阿波利斯",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "Christopher McGuire",
+      "detail": "Christopher McGuire 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "くるり",
+      "toName": "くるり",
+      "toArea": "京都",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Christopher McGuire",
+      "detail": "Christopher McGuire 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    }
+  ]
+}

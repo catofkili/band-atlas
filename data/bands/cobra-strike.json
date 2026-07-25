@@ -1,0 +1,114 @@
+{
+  "id": "cobra-strike",
+  "mbid": "10ce1c49-1fc6-469a-b1c4-bc80cc91f6d6",
+  "name": "Cobra Strike",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "The 13th Scroll",
+      "year": 1999
+    },
+    {
+      "title": "Cobra Strike II: Y,Y+B,X+Y<hold>←",
+      "year": 2000
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/10ce1c49-1fc6-469a-b1c4-bc80cc91f6d6"
+  },
+  "edges": [
+    {
+      "to": "cornbugs",
+      "toName": "Cornbugs",
+      "toArea": "美国",
+      "toYears": "1995–2007",
+      "type": "member",
+      "label": "Pinchface",
+      "detail": "Pinchface 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "primus",
+      "toName": "Primus",
+      "toArea": "El Sobrante",
+      "toYears": "1984–",
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "el-stew",
+      "toName": "El Stew",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "gorgone",
+      "toName": "Gorgone",
+      "toArea": "France",
+      "toYears": null,
+      "type": "member",
+      "label": "Pinchface",
+      "detail": "Pinchface 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "no-forcefield",
+      "toName": "No Forcefield",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "deli-creeps",
+      "toName": "Deli Creeps",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Pinchface",
+      "detail": "Pinchface 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "peeping-tom",
+      "toName": "Peeping Tom",
+      "toArea": "美国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "buckethead-and-his-bucket-bots",
+      "toName": "Buckethead And His Bucket-Bots",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

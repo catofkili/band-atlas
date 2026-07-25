@@ -1,0 +1,112 @@
+{
+  "id": "hide-with-spread-beaver",
+  "mbid": "e6da0f1b-090e-42c8-9666-69ce8af84548",
+  "name": "hide with Spread Beaver",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [
+    "Likedis Auto"
+  ],
+  "albums": [
+    {
+      "title": "Ja, Zoo",
+      "year": 1998
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e6da0f1b-090e-42c8-9666-69ce8af84548"
+  },
+  "edges": [
+    {
+      "to": "the-pink-spiders",
+      "toName": "THE PINK SPIDERS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "I.N.A・CHIROLYN・宮脇“JOE”知史",
+      "detail": "3 位乐手在这两支乐队都待过：I.N.A・CHIROLYN・宮脇“JOE”知史。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "zilch",
+      "toName": "Zilch",
+      "toArea": "美国",
+      "toYears": "1998–2002",
+      "type": "member",
+      "label": "hide・I.N.A",
+      "detail": "2 位乐手在这两支乐队都待过：hide・I.N.A。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "hide",
+      "detail": "hide 在这两支乐队都待过。",
+      "year": 1987,
+      "weight": 0.62
+    },
+    {
+      "to": "vamps",
+      "toName": "VAMPS",
+      "toArea": "日本",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "K.A.Z",
+      "detail": "K.A.Z 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "media-youth",
+      "toName": "Media-Youth",
+      "toArea": "日本",
+      "toYears": "1992–1999",
+      "type": "member",
+      "label": "KIYOSHI",
+      "detail": "KIYOSHI 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "横須賀サーベルタイガー",
+      "toName": "横須賀サーベルタイガー",
+      "toArea": "Yokosuka",
+      "toYears": "1981–1987",
+      "type": "member",
+      "label": "hide",
+      "detail": "hide 在这两支乐队都待过。",
+      "year": 1982,
+      "weight": 0.62
+    },
+    {
+      "to": "halloween-junky-orchestra",
+      "toName": "HALLOWEEN JUNKY ORCHESTRA",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "K.A.Z",
+      "detail": "K.A.Z 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "m-a-s-s",
+      "toName": "M・A・S・S",
+      "toArea": "东京",
+      "toYears": null,
+      "type": "member",
+      "label": "hide",
+      "detail": "hide 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

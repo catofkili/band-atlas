@@ -3,9 +3,12 @@
   "mbid": "8be0cd53-7718-444f-b457-118acd01bda9",
   "name": "Tidus Sloan",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8be0cd53-7718-444f-b457-118acd01bda9"
   },

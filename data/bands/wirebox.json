@@ -1,0 +1,33 @@
+{
+  "id": "wirebox",
+  "mbid": "6f6f4f2e-c0c5-4bb8-9962-482e65fa35e9",
+  "name": "wirebox",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Prison Cell",
+      "year": 2003
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6f6f4f2e-c0c5-4bb8-9962-482e65fa35e9"
+  },
+  "edges": [
+    {
+      "to": "project-tru",
+      "toName": "Project Tru",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Russ Simms",
+      "detail": "Russ Simms 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

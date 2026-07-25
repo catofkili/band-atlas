@@ -3,9 +3,12 @@
   "mbid": "2b6131a1-4de1-4b05-93b9-40a8bcab7ad3",
   "name": "The Heavy Seas",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2b6131a1-4de1-4b05-93b9-40a8bcab7ad3"
   },

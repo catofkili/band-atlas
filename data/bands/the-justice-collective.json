@@ -1,0 +1,54 @@
+{
+  "id": "the-justice-collective",
+  "mbid": "dce02d78-ec77-416a-ac25-50dfc045fc7c",
+  "name": "The Justice Collective",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "2012–",
+  "genres": [
+    "Pop"
+  ],
+  "albums": [],
+  "intro": "The Justice Collective was a collective of musicians and celebrities.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/dce02d78-ec77-416a-ac25-50dfc045fc7c"
+  },
+  "edges": [
+    {
+      "to": "reverend-and-the-makers",
+      "toName": "Reverend and the Makers",
+      "toArea": "谢菲尔德",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Jon McClure",
+      "detail": "Jon McClure 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mongrel",
+      "toName": "Mongrel",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Jon McClure",
+      "detail": "Jon McClure 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "band-aid-30",
+      "toName": "Band Aid 30",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Paloma Faith",
+      "detail": "Paloma Faith 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

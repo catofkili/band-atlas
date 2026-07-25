@@ -1,0 +1,28 @@
+{
+  "id": "猪苗代湖ズ",
+  "mbid": "92fe6bdc-465c-49ce-99f0-9070bd61ecbf",
+  "name": "猪苗代湖ズ",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2010–",
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/92fe6bdc-465c-49ce-99f0-9070bd61ecbf"
+  },
+  "edges": [
+    {
+      "to": "the-back-horn",
+      "toName": "THE BACK HORN",
+      "toArea": "日本",
+      "toYears": "1998–",
+      "type": "member",
+      "label": "松田晋二",
+      "detail": "松田晋二 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    }
+  ]
+}

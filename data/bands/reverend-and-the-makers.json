@@ -1,0 +1,112 @@
+{
+  "id": "reverend-and-the-makers",
+  "mbid": "e472c434-9eb9-41d3-b493-0d2f115faed2",
+  "name": "Reverend and the Makers",
+  "area": "谢菲尔德",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "2005–",
+  "genres": [
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "The State of Things",
+      "year": 2007
+    },
+    {
+      "title": "A French Kiss in the Chaos",
+      "year": 2009
+    },
+    {
+      "title": "@Reverend_Makers",
+      "year": 2012
+    },
+    {
+      "title": "ThirtyTwo",
+      "year": 2014
+    },
+    {
+      "title": "Mirrors",
+      "year": 2015
+    },
+    {
+      "title": "The Death of a King",
+      "year": 2017
+    }
+  ],
+  "intro": "Reverend and the Makers are an English rock band from Sheffield, South Yorkshire.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e472c434-9eb9-41d3-b493-0d2f115faed2"
+  },
+  "edges": [
+    {
+      "to": "mongrel",
+      "toName": "Mongrel",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Nicholson・Jon McClure・Joe Moskow",
+      "detail": "3 位乐手在这两支乐队都待过：Andy Nicholson・Jon McClure・Joe Moskow。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "arctic-monkeys",
+      "toName": "Arctic Monkeys",
+      "toArea": "High Green",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "the-bottletop-band",
+      "toName": "The Bottletop Band",
+      "toArea": "英格兰",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "lords-of-flatbush",
+      "toName": "Lords of Flatbush",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sticky-blood",
+      "toName": "Sticky Blood",
+      "toArea": "谢菲尔德",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Andy Nicholson",
+      "detail": "Andy Nicholson 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-justice-collective",
+      "toName": "The Justice Collective",
+      "toArea": "英国",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Jon McClure",
+      "detail": "Jon McClure 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,43 @@
+{
+  "id": "p-s-p",
+  "mbid": "6f8212b8-153d-4c20-8394-c2c0d9a8966b",
+  "name": "P.S.P.",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [
+    "Fusion",
+    "Jazz Fusion",
+    "Jazz Rock"
+  ],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6f8212b8-153d-4c20-8394-c2c0d9a8966b"
+  },
+  "edges": [
+    {
+      "to": "deep-end",
+      "toName": "Deep End",
+      "toArea": "英国",
+      "toYears": "1985–1986",
+      "type": "member",
+      "label": "Simon Phillips",
+      "detail": "Simon Phillips 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "gannin-arnold-project",
+      "toName": "Gannin Arnold Project",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Simon Phillips",
+      "detail": "Simon Phillips 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

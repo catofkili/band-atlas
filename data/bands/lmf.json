@@ -1,0 +1,55 @@
+{
+  "id": "lmf",
+  "mbid": "837139a7-d72d-42ac-8609-a0ed1a1f96a2",
+  "name": "LMF",
+  "area": "Hong Kong",
+  "countryCode": "HK",
+  "country": "香港",
+  "years": "1993–2003",
+  "genres": [
+    "Cantonese",
+    "Hip-Hop",
+    "Hardcore Hip Hop"
+  ],
+  "albums": [
+    {
+      "title": "大懒堂",
+      "year": 2000
+    },
+    {
+      "title": "Aroom Represents",
+      "year": 2000
+    },
+    {
+      "title": "嘻武门",
+      "year": 2002
+    },
+    {
+      "title": "Crazy Children",
+      "year": 2002
+    },
+    {
+      "title": "Finalazy",
+      "year": 2003
+    }
+  ],
+  "intro": "大懒堂，英语：LMF，是于1999年成立的一队香港新金属、硬核嘻哈、饶舌摇滚乐队组合，歌词内容对于政治、社会现象等题材有一定的涉猎和探讨，有别于其他香港主流乐队。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/837139a7-d72d-42ac-8609-a0ed1a1f96a2"
+  },
+  "edges": [
+    {
+      "to": "anodize",
+      "toName": "Anodize",
+      "toArea": "Hong Kong",
+      "toYears": "1989–1999",
+      "type": "member",
+      "label": "Davy Chan・鄭華勝",
+      "detail": "2 位乐手在这两支乐队都待过：Davy Chan・鄭華勝。",
+      "year": null,
+      "weight": 0.84
+    }
+  ]
+}

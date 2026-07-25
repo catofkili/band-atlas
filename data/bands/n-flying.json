@@ -1,0 +1,51 @@
+{
+  "id": "n-flying",
+  "mbid": "fb4eebc8-dc88-4770-84b2-462544cb33b9",
+  "name": "N.Flying",
+  "area": "首尔",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2011–",
+  "genres": [
+    "K-Pop",
+    "Pop Rock",
+    "Rap Rock"
+  ],
+  "albums": [
+    {
+      "title": "BROTHERHOOD",
+      "year": 2019
+    },
+    {
+      "title": "TURBULENCE",
+      "year": 2021
+    },
+    {
+      "title": "Man on the Moon",
+      "year": 2021
+    },
+    {
+      "title": "Everlasting",
+      "year": 2025
+    }
+  ],
+  "intro": "N.Flying是韩国FNC娱乐旗下的男子流行摇滚乐团，于2015年5月20日出道，最初由权光珍、李承协、车勋、金宰铉所组成，并由李承协担任队长。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fb4eebc8-dc88-4770-84b2-462544cb33b9"
+  },
+  "edges": [
+    {
+      "to": "cnblue",
+      "toName": "CNBLUE",
+      "toArea": "首尔",
+      "toYears": "2009–",
+      "type": "member",
+      "label": "권광진",
+      "detail": "권광진 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    }
+  ]
+}

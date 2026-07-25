@@ -1,0 +1,39 @@
+{
+  "id": "the-birds-of-satan",
+  "mbid": "93557aa9-1ced-421a-b026-5a0aee62fa75",
+  "name": "The Birds of Satan",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2014–2022",
+  "genres": [
+    "Alternative Metal",
+    "Alternative Rock",
+    "Progressive Rock"
+  ],
+  "albums": [
+    {
+      "title": "The Birds of Satan",
+      "year": 2014
+    }
+  ],
+  "intro": "The Birds of Satan were an American progressive hard rock supergroup, assembled in 2014 as a side-project led by Taylor Hawkins of the Foo Fighters.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/93557aa9-1ced-421a-b026-5a0aee62fa75"
+  },
+  "edges": [
+    {
+      "to": "chevy-metal",
+      "toName": "Chevy Metal",
+      "toArea": "洛杉矶",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Wiley Hodgden・Mick Murphy",
+      "detail": "2 位乐手在这两支乐队都待过：Wiley Hodgden・Mick Murphy。",
+      "year": 2012,
+      "weight": 0.84
+    }
+  ]
+}

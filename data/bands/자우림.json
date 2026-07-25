@@ -1,0 +1,81 @@
+{
+  "id": "자우림",
+  "mbid": "36d6bac0-9f2a-48a5-8620-6701942cb95b",
+  "name": "자우림",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "1997–",
+  "genres": [
+    "Rock",
+    "Indie Rock",
+    "Pop Rock"
+  ],
+  "albums": [
+    {
+      "title": "Purple Heart",
+      "year": 1997
+    },
+    {
+      "title": "戀人",
+      "year": 1998
+    },
+    {
+      "title": "The Wonderland",
+      "year": 2000
+    },
+    {
+      "title": "04",
+      "year": 2002
+    },
+    {
+      "title": "#1",
+      "year": 2003
+    },
+    {
+      "title": "All You Need Is Love",
+      "year": 2004
+    }
+  ],
+  "intro": "紫雨林是韩国的四人摇滚乐团，成员有吉他手兼团长的李善奎、主唱金伦我、鼓手具泰勋(已退出)及贝斯手金真满。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/36d6bac0-9f2a-48a5-8620-6701942cb95b"
+  },
+  "edges": [
+    {
+      "to": "chococream-rolls",
+      "toName": "ChocoCream Rolls",
+      "toArea": "韩国",
+      "toYears": null,
+      "type": "member",
+      "label": "김진만・이선규",
+      "detail": "2 位乐手在这两支乐队都待过：김진만・이선규。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "lonely-h-s-band",
+      "toName": "Lonely H's Band",
+      "toArea": "韩国",
+      "toYears": null,
+      "type": "member",
+      "label": "이선규",
+      "detail": "이선규 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "space-soldier-membership-club",
+      "toName": "Space Soldier Membership Club",
+      "toArea": "韩国",
+      "toYears": null,
+      "type": "member",
+      "label": "이선규",
+      "detail": "이선규 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

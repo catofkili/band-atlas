@@ -1,0 +1,83 @@
+{
+  "id": "low-pop-suicide",
+  "mbid": "ecb6b31e-b37d-4d4e-92c5-535650bfac1e",
+  "name": "Low Pop Suicide",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "On the Cross of Commerce",
+      "year": 1992
+    },
+    {
+      "title": "The Death of Excellence",
+      "year": 1994
+    }
+  ],
+  "intro": "Low Pop Suicide was an alternative rock band, formed in 1991 by Rick Boston (lead vocals/guitars), Dave Allen (bass), and Jeff Ward (drums/backing vocals).",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ecb6b31e-b37d-4d4e-92c5-535650bfac1e"
+  },
+  "edges": [
+    {
+      "to": "ministry",
+      "toName": "Ministry",
+      "toArea": "芝加哥",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "revolting-cocks",
+      "toName": "Revolting Cocks",
+      "toArea": "芝加哥",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "lard",
+      "toName": "Lard",
+      "toArea": "芝加哥",
+      "toYears": "1988–2000",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    }
+  ]
+}

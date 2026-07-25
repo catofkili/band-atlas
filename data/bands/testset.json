@@ -1,0 +1,83 @@
+{
+  "id": "testset",
+  "mbid": "42fbd12b-a437-494f-8a88-556a598d302c",
+  "name": "TESTSET",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "1STST",
+      "year": 2023
+    },
+    {
+      "title": "ALL HAZE",
+      "year": 2025
+    }
+  ],
+  "intro": "TESTSETは、日本のバンド。METAFIVEのメンバーの一部によって結成された。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/42fbd12b-a437-494f-8a88-556a598d302c"
+  },
+  "edges": [
+    {
+      "to": "metafive",
+      "toName": "METAFIVE",
+      "toArea": "日本",
+      "toYears": "2014–",
+      "type": "member",
+      "label": "LEO今井・砂原良徳",
+      "detail": "2 位乐手在这两支乐队都待过：LEO今井・砂原良徳。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "相対性理論",
+      "toName": "相対性理論",
+      "toArea": "东京",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "永井聖一",
+      "detail": "永井聖一 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "kimonos",
+      "toName": "KIMONOS",
+      "toArea": null,
+      "toYears": "2010–",
+      "type": "member",
+      "label": "LEO今井",
+      "detail": "LEO今井 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "qubit",
+      "toName": "QUBIT",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "永井聖一",
+      "detail": "永井聖一 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "fishmans",
+      "toName": "Fishmans+",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "永井聖一",
+      "detail": "永井聖一 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

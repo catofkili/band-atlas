@@ -1,0 +1,28 @@
+{
+  "id": "the-poops",
+  "mbid": "7aeccb42-1128-4f6e-afbe-dda4c39e2d5d",
+  "name": "The Poops",
+  "area": null,
+  "countryCode": "XE",
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "other",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7aeccb42-1128-4f6e-afbe-dda4c39e2d5d"
+  },
+  "edges": [
+    {
+      "to": "radiohead",
+      "toName": "Radiohead",
+      "toArea": "Abingdon-on-Thames",
+      "toYears": "1991–",
+      "type": "guest",
+      "label": "伴奏・助演",
+      "detail": "MusicBrainz 记录的伴奏・助演关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

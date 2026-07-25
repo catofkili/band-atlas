@@ -1,0 +1,33 @@
+{
+  "id": "gut-bank",
+  "mbid": "a64a9e29-1d2b-4492-827b-285321244547",
+  "name": "Gut Bank",
+  "area": "Hoboken",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1984–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "The Dark Ages",
+      "year": 1986
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a64a9e29-1d2b-4492-827b-285321244547"
+  },
+  "edges": [
+    {
+      "to": "ministry",
+      "toName": "Ministry",
+      "toArea": "芝加哥",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Tia Sprocket",
+      "detail": "Tia Sprocket 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

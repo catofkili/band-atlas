@@ -3,6 +3,8 @@
   "mbid": "e6e16ae8-4867-49f4-a877-30ade1ba58cd",
   "name": "The WAEVE",
   "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
   "years": null,
   "genres": [
     "Alternative Rock",
@@ -19,6 +21,7 @@
       "year": 2024
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e6e16ae8-4867-49f4-a877-30ade1ba58cd"
   },

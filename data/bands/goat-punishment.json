@@ -3,9 +3,12 @@
   "mbid": "50c213ed-a109-4677-9b7b-d57ef580dd2d",
   "name": "Goat Punishment",
   "area": null,
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/50c213ed-a109-4677-9b7b-d57ef580dd2d"
   },

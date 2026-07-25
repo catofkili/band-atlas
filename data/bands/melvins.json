@@ -3,6 +3,8 @@
   "mbid": "9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb",
   "name": "Melvins",
   "area": "Montesano",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1983–",
   "genres": [
     "Sludge Metal",
@@ -37,6 +39,7 @@
   ],
   "intro": "メルヴィンズ (Melvins)は、アメリカ合衆国出身のロックバンド。基本的にトリオ編成で活動しているが、2006年から2016年までは2人のドラマーを擁する4ピース・バンドとして活動。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9ccfbc94-a4f4-42f7-b6f5-d903ab77cccb"
   },
@@ -51,6 +54,17 @@
       "detail": "2 位乐手在这两支乐队都待过：Buzz Osborne・副项目。",
       "year": null,
       "weight": 0.84
+    },
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Melvins 影响了 Nirvana（Wikidata）。",
+      "year": null,
+      "weight": 0.46
     },
     {
       "to": "mudhoney",
@@ -72,6 +86,17 @@
       "label": "Billy Anderson",
       "detail": "Billy Anderson 在这两支乐队都待过。",
       "year": 2001,
+      "weight": 0.62
+    },
+    {
+      "to": "tool",
+      "toName": "Tool",
+      "toArea": "洛杉矶",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Adam Jones",
+      "detail": "Adam Jones 在这两支乐队都待过。",
+      "year": 1990,
       "weight": 0.62
     },
     {
@@ -104,6 +129,17 @@
       "type": "member",
       "label": "Buzz Osborne",
       "detail": "Buzz Osborne 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "supergroup-b",
+      "toName": "Supergroup B",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Adam Jones",
+      "detail": "Adam Jones 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62
     },

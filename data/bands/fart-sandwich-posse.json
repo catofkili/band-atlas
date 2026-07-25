@@ -1,0 +1,50 @@
+{
+  "id": "fart-sandwich-posse",
+  "mbid": "c93f9319-fb59-434f-906f-c019f27c0823",
+  "name": "Fart Sandwich Posse",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c93f9319-fb59-434f-906f-c019f27c0823"
+  },
+  "edges": [
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "Birmingham",
+      "toYears": "1968–2025",
+      "type": "member",
+      "label": "Mike Bordin",
+      "detail": "Mike Bordin 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "ez-street",
+      "toName": "EZ-Street",
+      "toArea": "Oakland",
+      "toYears": null,
+      "type": "member",
+      "label": "Mike Bordin",
+      "detail": "Mike Bordin 在这两支乐队都待过。",
+      "year": 1979,
+      "weight": 0.62
+    },
+    {
+      "to": "the-chickenfuckers",
+      "toName": "The Chickenfuckers",
+      "toArea": "旧金山",
+      "toYears": "1984–1984",
+      "type": "member",
+      "label": "Mike Bordin",
+      "detail": "Mike Bordin 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    }
+  ]
+}

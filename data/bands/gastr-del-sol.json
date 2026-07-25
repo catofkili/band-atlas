@@ -3,6 +3,8 @@
   "mbid": "8f54d90b-f322-4e5d-a0fd-bdc960f2d20f",
   "name": "Gastr del Sol",
   "area": "Louisville",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1991–1998",
   "genres": [
     "Post-Rock",
@@ -29,6 +31,7 @@
   ],
   "intro": "ガスター・デル・ソル (Gastr del Sol) は、アメリカ合衆国のポストロックバンド。バストロのデヴィッド・グラブスを中心として、1991年に結成された。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8f54d90b-f322-4e5d-a0fd-bdc960f2d20f"
   },

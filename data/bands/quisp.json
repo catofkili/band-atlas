@@ -1,0 +1,39 @@
+{
+  "id": "quisp",
+  "mbid": "e7bdf685-143c-43c2-adc8-8b9583395528",
+  "name": "Quisp",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e7bdf685-143c-43c2-adc8-8b9583395528"
+  },
+  "edges": [
+    {
+      "to": "numbskulz",
+      "toName": "Numbskulz",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Colin Brooks・Andy Conrad",
+      "detail": "2 位乐手在这两支乐队都待过：Colin Brooks・Andy Conrad。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "the-big-cats",
+      "toName": "The Big Cats",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Colin Brooks",
+      "detail": "Colin Brooks 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

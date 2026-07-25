@@ -1,0 +1,72 @@
+{
+  "id": "radio-darlings",
+  "mbid": "23c50eb0-d6c6-41c9-8ada-b869744d4c0b",
+  "name": "Radio Darlings",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "2019–",
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/23c50eb0-d6c6-41c9-8ada-b869744d4c0b"
+  },
+  "edges": [
+    {
+      "to": "kana-boon",
+      "toName": "KANA-BOON",
+      "toArea": "Sakai",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "谷口鮪",
+      "detail": "谷口鮪 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "official髭男dism",
+      "toName": "Official髭男dism",
+      "toArea": "Shimane",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "藤原聡",
+      "detail": "藤原聡 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "橋本絵莉子波多野裕文",
+      "toName": "橋本絵莉子波多野裕文",
+      "toArea": "日本",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "橋本絵莉子",
+      "detail": "橋本絵莉子 在这两支乐队都待过。",
+      "year": 2016,
+      "weight": 0.62
+    },
+    {
+      "to": "possession-80-2-por-cento",
+      "toName": "POSSESSION=80.2 POR CENTO",
+      "toArea": null,
+      "toYears": "2014–",
+      "type": "member",
+      "label": "谷口鮪",
+      "detail": "谷口鮪 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sugar-the-radio-fire",
+      "toName": "Sugar & The Radio Fire",
+      "toArea": null,
+      "toYears": "2015–",
+      "type": "member",
+      "label": "谷口鮪",
+      "detail": "谷口鮪 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

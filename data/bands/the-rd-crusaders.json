@@ -1,0 +1,94 @@
+{
+  "id": "the-rd-crusaders",
+  "mbid": "5e4fd5fa-936f-43bf-b54d-5287978a3059",
+  "name": "The RD Crusaders",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5e4fd5fa-936f-43bf-b54d-5287978a3059"
+  },
+  "edges": [
+    {
+      "to": "the-who",
+      "toName": "The Who",
+      "toArea": "伦敦",
+      "toYears": "1964–",
+      "type": "member",
+      "label": "Roger Daltrey・Simon Townshend",
+      "detail": "2 位乐手在这两支乐队都待过：Roger Daltrey・Simon Townshend。",
+      "year": 1964,
+      "weight": 0.84
+    },
+    {
+      "to": "ringo-starr-his-all-starr-band",
+      "toName": "Ringo Starr & His All Starr Band",
+      "toArea": "伦敦",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Greg Lake・Gary Brooker",
+      "detail": "2 位乐手在这两支乐队都待过：Greg Lake・Gary Brooker。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "asia",
+      "toName": "Asia",
+      "toArea": "伦敦",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Greg Lake",
+      "detail": "Greg Lake 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "king-crimson",
+      "toName": "King Crimson",
+      "toArea": "伦敦",
+      "toYears": "1968–2021",
+      "type": "member",
+      "label": "Greg Lake",
+      "detail": "Greg Lake 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    },
+    {
+      "to": "george-s-band",
+      "toName": "George's Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Gary Brooker",
+      "detail": "Gary Brooker 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Roger Daltrey",
+      "detail": "Roger Daltrey 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "rockestra",
+      "toName": "Rockestra",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Gary Brooker",
+      "detail": "Gary Brooker 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

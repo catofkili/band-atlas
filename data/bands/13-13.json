@@ -1,0 +1,99 @@
+{
+  "id": "13-13",
+  "mbid": "dfd81ae0-8a7b-4a15-b837-15de1d6da868",
+  "name": "13.13",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "13.13",
+      "year": 1982
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/dfd81ae0-8a7b-4a15-b837-15de1d6da868"
+  },
+  "edges": [
+    {
+      "to": "the-weirdos",
+      "toName": "The Weirdos",
+      "toArea": "洛杉矶",
+      "toYears": "1976–2005",
+      "type": "member",
+      "label": "Cliff Martinez・Dix Denney・Greg Williams",
+      "detail": "3 位乐手在这两支乐队都待过：Cliff Martinez・Dix Denney・Greg Williams。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Lydia Lunch",
+      "detail": "Lydia Lunch 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "red-hot-chili-peppers",
+      "toName": "Red Hot Chili Peppers",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Cliff Martinez",
+      "detail": "Cliff Martinez 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    },
+    {
+      "to": "thelonious-monster",
+      "toName": "Thelonious Monster",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "member",
+      "label": "Dix Denney",
+      "detail": "Dix Denney 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "8-eyed-spy",
+      "toName": "8 Eyed Spy",
+      "toArea": "纽约",
+      "toYears": null,
+      "type": "member",
+      "label": "Lydia Lunch",
+      "detail": "Lydia Lunch 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "harry-crews",
+      "toName": "Harry Crews",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Lydia Lunch",
+      "detail": "Lydia Lunch 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "teenage-jesus-and-the-jerks",
+      "toName": "Teenage Jesus and the Jerks",
+      "toArea": "纽约",
+      "toYears": "1977–1979",
+      "type": "member",
+      "label": "Lydia Lunch",
+      "detail": "Lydia Lunch 在这两支乐队都待过。",
+      "year": 1977,
+      "weight": 0.62
+    }
+  ]
+}

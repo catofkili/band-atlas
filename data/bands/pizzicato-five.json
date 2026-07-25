@@ -1,0 +1,114 @@
+{
+  "id": "pizzicato-five",
+  "mbid": "1bbb60c9-6b1b-4bb1-a442-2b669436b50e",
+  "name": "Pizzicato Five",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1984–2001",
+  "genres": [
+    "Indie Pop",
+    "Shibuya-Kei",
+    "Dance"
+  ],
+  "albums": [
+    {
+      "title": "カップルズ",
+      "year": 1987
+    },
+    {
+      "title": "ベリッシマ",
+      "year": 1988
+    },
+    {
+      "title": "女王陛下のピチカート・ファイヴ",
+      "year": 1989
+    },
+    {
+      "title": "月面軟着陸",
+      "year": 1990
+    },
+    {
+      "title": "女性上位時代",
+      "year": 1991
+    },
+    {
+      "title": "スウィート・ピチカート・ファイヴ",
+      "year": 1992
+    }
+  ],
+  "intro": "ピチカート・ファイヴは、1984年から2001年まで活動した日本の音楽グループ。1984年から1987年までの表記はPIZZICATO V。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1bbb60c9-6b1b-4bb1-a442-2b669436b50e"
+  },
+  "edges": [
+    {
+      "to": "original-love",
+      "toName": "ORIGINAL LOVE",
+      "toArea": "日本",
+      "toYears": "1986–",
+      "type": "member",
+      "label": "田島貴男",
+      "detail": "田島貴男 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "ロケットマン",
+      "toName": "ロケットマン",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "小西康陽",
+      "detail": "小西康陽 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "portable-rock",
+      "toName": "portable rock",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "野宮真貴",
+      "detail": "野宮真貴 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "高浪慶太郎となんがさきふぁいぶ",
+      "toName": "高浪慶太郎となんがさきふぁいぶ",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "高浪慶太郎",
+      "detail": "高浪慶太郎 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "wink-music-service",
+      "toName": "Wink Music Service",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "高浪慶太郎",
+      "detail": "高浪慶太郎 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "young-odeon",
+      "toName": "YOUNG ODEON",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "小西康陽",
+      "detail": "小西康陽 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    }
+  ]
+}

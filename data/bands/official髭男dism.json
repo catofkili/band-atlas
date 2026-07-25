@@ -1,0 +1,70 @@
+{
+  "id": "official髭男dism",
+  "mbid": "6dddd7a2-5583-49d0-a8b2-9ee46d04f27e",
+  "name": "Official髭男dism",
+  "area": "Shimane",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2012–",
+  "genres": [
+    "Pop Rock",
+    "J-Pop",
+    "J-Rock"
+  ],
+  "albums": [
+    {
+      "title": "ラブとピースは君の中",
+      "year": 2015
+    },
+    {
+      "title": "レポート",
+      "year": 2017
+    },
+    {
+      "title": "エスカパレード",
+      "year": 2018
+    },
+    {
+      "title": "Traveler",
+      "year": 2019
+    },
+    {
+      "title": "Traveler-Instrumentals-",
+      "year": 2020
+    },
+    {
+      "title": "Editorial",
+      "year": 2021
+    }
+  ],
+  "intro": "Official髭男dism是在日本岛根县结成的流行摇滚乐团，于2012年组成。所属经纪公司为Lastrum Music Entertainment，所属唱片公司为波丽佳音内的IRORI Records。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6dddd7a2-5583-49d0-a8b2-9ee46d04f27e"
+  },
+  "edges": [
+    {
+      "to": "anatakikou",
+      "toName": "ANATAKIKOU",
+      "toArea": "大阪",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "松浦匡希",
+      "detail": "松浦匡希 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "radio-darlings",
+      "toName": "Radio Darlings",
+      "toArea": null,
+      "toYears": "2019–",
+      "type": "member",
+      "label": "藤原聡",
+      "detail": "藤原聡 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

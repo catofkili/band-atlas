@@ -3,6 +3,8 @@
   "mbid": "9509e36d-610f-4fe4-8009-2fbee3f55793",
   "name": "Afternoon Saints",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2009
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9509e36d-610f-4fe4-8009-2fbee3f55793"
   },

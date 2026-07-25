@@ -1,0 +1,39 @@
+{
+  "id": "the-silencers",
+  "mbid": "acfdc017-9351-4853-b95a-fa59ba2d7b2d",
+  "name": "The Silencers",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/acfdc017-9351-4853-b95a-fa59ba2d7b2d"
+  },
+  "edges": [
+    {
+      "to": "armstrongs",
+      "toName": "Armstrongs",
+      "toArea": "美国",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "Tim Armstrong",
+      "detail": "Tim Armstrong 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "cretin-family",
+      "toName": "Cretin Family",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Tim Armstrong",
+      "detail": "Tim Armstrong 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

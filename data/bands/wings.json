@@ -1,0 +1,59 @@
+{
+  "id": "wings",
+  "mbid": "d922d727-240a-4432-9a88-05a7cf9bc403",
+  "name": "Wings",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1971–1981",
+  "genres": [
+    "Rock",
+    "Soft Rock",
+    "Classic Rock"
+  ],
+  "albums": [
+    {
+      "title": "Wild Life",
+      "year": 1971
+    },
+    {
+      "title": "Band on the Run",
+      "year": 1973
+    },
+    {
+      "title": "Red Rose Speedway",
+      "year": 1973
+    },
+    {
+      "title": "Banda En Fuga",
+      "year": 1974
+    },
+    {
+      "title": "Venus and Mars",
+      "year": 1975
+    },
+    {
+      "title": "Wings at the Speed of Sound",
+      "year": 1976
+    }
+  ],
+  "intro": "羽翼乐队又称为保罗·麦卡特尼与羽翼乐队，是一队英国摇滚乐团。1971年乐队由前披头士成员保罗·麦卡特尼与其妻琳达·麦卡特尼、鼓手丹尼·斯威尔及前忧郁布鲁斯乐队吉他手丹尼·莱恩组成。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d922d727-240a-4432-9a88-05a7cf9bc403"
+  },
+  "edges": [
+    {
+      "to": "rockestra",
+      "toName": "Rockestra",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Denny Laine・Linda McCartney・Thaddeus Richard・Steve Holley・Laurence Juber",
+      "detail": "5 位乐手在这两支乐队都待过：Denny Laine・Linda McCartney・Thaddeus Richard・Steve Holley・Laurence Juber。",
+      "year": 1971,
+      "weight": 0.95
+    }
+  ]
+}

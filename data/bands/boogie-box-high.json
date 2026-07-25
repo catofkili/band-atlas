@@ -1,0 +1,35 @@
+{
+  "id": "boogie-box-high",
+  "mbid": "82d6c629-d9cf-46c7-aa1e-a511eb344ab1",
+  "name": "Boogie Box High",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "1987–2010",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Outrageous",
+      "year": 1989
+    }
+  ],
+  "intro": "Boogie Box High was an English pop musical project headed by Andros Georgiou in the late 1980s that featured a range of collaborators, including George Michael, guitarist Nick Heyward (of Haircut One Hundred), keyboardist Mick Talbot (of the Style Council), guitarist–songwriter David Austin, bassist Deon Estus, and others.",
+  "introLang": "en",
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/82d6c629-d9cf-46c7-aa1e-a511eb344ab1"
+  },
+  "edges": [
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Taylor",
+      "detail": "Andy Taylor 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

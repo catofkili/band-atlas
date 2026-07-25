@@ -3,11 +3,14 @@
   "mbid": "4488bb49-dc2a-4297-b486-e3405a010bd5",
   "name": "Fat Les",
   "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
   "years": null,
   "genres": [],
   "albums": [],
   "intro": "Fat Les were a British band consisting of Blur bassist Alex James, actor Keith Allen, and artist Damien Hirst.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4488bb49-dc2a-4297-b486-e3405a010bd5"
   },

@@ -3,9 +3,12 @@
   "mbid": "1e33e92d-956e-4623-8b19-96f2cfdbd559",
   "name": "Butterfly Launches From Spar Pole",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/1e33e92d-956e-4623-8b19-96f2cfdbd559"
   },

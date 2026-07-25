@@ -1,5 +1,6 @@
 import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js';
 import { layoutNeighbors } from './layout.js';
+import { createNetworkMap } from './map.js';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -21,6 +22,10 @@ let world = null;
 let current = null; // 当前焦点乐队文档
 let slots = []; // 当前邻居槽位
 let busy = false;
+const mapEl = document.getElementById('network-map');
+const networkMap = createNetworkMap({ canvas: document.getElementById('network-canvas'), onChoose: (id) => { mapEl.hidden = true; jumpTo(id); } });
+document.getElementById('map-close').addEventListener('click', () => { mapEl.hidden = true; });
+window.addEventListener('resize', () => { if (!mapEl.hidden) networkMap.resize(); });
 
 /* ------------------------------------------------------------------ 相机 */
 
@@ -44,13 +49,13 @@ function cameraTransform(x, y) {
   return `translate3d(${-x}px, ${-y}px, 0)`;
 }
 
-function panCamera(x, y) {
+function panCamera(x, y, from = { x: 0, y: 0 }) {
   if (reduceMotion.matches) {
     world.style.transform = cameraTransform(x, y);
     return Promise.resolve();
   }
   const anim = world.animate(
-    [{ transform: cameraTransform(0, 0) }, { transform: cameraTransform(x, y) }],
+    [{ transform: cameraTransform(from.x, from.y) }, { transform: cameraTransform(x, y) }],
     { duration: PAN_MS, easing: 'cubic-bezier(.72,0,.16,1)', fill: 'forwards' }
   );
   // 光等 finished 不行：标签页在后台时动画根本不推进，promise 永远不兑现，
@@ -194,8 +199,12 @@ function setStatus(band) {
 
 /* -------------------------------------------------------------- 导航 */
 
-/** 点击边缘卡片：相机滑过去，目标在途中展开成新的焦点。 */
-async function travelTo(slot) {
+/**
+ * 点击边缘卡片：相机滑过去，目标在途中展开成新的焦点。
+ * from 是相机此刻已经被拖到的位置——手势松手时画布不在原点，
+ * 不从那里接着动的话会先跳回去再滑，很难看。
+ */
+async function travelTo(slot, from = { x: 0, y: 0 }) {
   if (busy) return;
   busy = true;
   try {
@@ -213,7 +222,7 @@ async function travelTo(slot) {
     peek.classList.add('is-leaving');
     nextFrame(() => arriving.classList.remove('card--arriving'));
 
-    await panCamera(slot.x, slot.y);
+    await panCamera(slot.x, slot.y, from);
     render(target, { cameFrom: current.id, backAngle: slot.angle + Math.PI });
   } catch (err) {
     console.error(err);
@@ -275,6 +284,11 @@ function setRoute(id, { replace = false } = {}) {
 /* -------------------------------------------------------------- 事件 */
 
 stage.addEventListener('click', (ev) => {
+  // 触屏划完一下还会补发一个 click，别让它再触发一次跳转
+  if (swallowClick) {
+    swallowClick = false;
+    return;
+  }
   const peek = ev.target.closest('.card--peek');
   if (peek) {
     const slot = slots.find((s) => s.edge.to === peek.dataset.id);
@@ -306,6 +320,109 @@ stage.addEventListener('focusout', (ev) => {
   const peek = ev.target.closest('.card--peek');
   if (peek) setHighlight(peek.dataset.id, false);
 });
+
+/* -------------------------------------------------------------- 手势 */
+
+/**
+ * 触屏上拖画布换乐队。
+ *
+ * 方向约定跟地图 app 一致：手指往上滑 = 把下面那张卡片拽上来。
+ * 也就是说想去的那支乐队，在手指划过方向的**反面**。
+ *
+ * 松手时按方向匹配最接近的邻居，所以斜着滑能挑出上边缘偏左还是偏右那一张——
+ * 这正是窄屏上下各摆两张时需要的。
+ */
+const SWIPE_MIN = 56; // 小于这个距离当误触
+const SWIPE_ARC = Math.PI / 3; // 方向偏差超过 60° 就不认
+const DRAG_DAMP = 0.42; // 画布跟手但带阻尼，暗示这不是自由拖动
+
+let drag = null;
+let swallowClick = false;
+const stageTouches = new Set();
+
+function openMapFromGesture() {
+  if (mapEl.hidden) {
+    drag = null;
+    mapEl.hidden = false;
+    networkMap.open(current?.id);
+  }
+}
+
+function pickSlotToward(angle) {
+  let best = null;
+  let bestDelta = SWIPE_ARC;
+  for (const slot of slots) {
+    let d = Math.abs(((slot.angle - angle + Math.PI) % (Math.PI * 2)) - Math.PI);
+    if (d < bestDelta) {
+      bestDelta = d;
+      best = slot;
+    }
+  }
+  return best;
+}
+
+stage.addEventListener(
+  'pointerdown',
+  (ev) => {
+    if (ev.pointerType === 'mouse' || busy || !world) return;
+    if (ev.pointerType === 'touch') {
+      stageTouches.add(ev.pointerId);
+      // 第二根手指落下就从卡片自然退到关系网，不需要额外的「全网」入口。
+      if (stageTouches.size >= 2) return openMapFromGesture();
+    }
+    // 焦点卡片正文自己要滚动，别把它的竖划抢走
+    if (ev.target.closest('.card__body, .search')) return;
+    // 接住这根手指直到松开。否则手指划出舞台边缘时收不到 pointerup，
+    // 下一次触摸会带着上一次的拖动状态继续，画面就像卡住了一样。
+    stage.setPointerCapture?.(ev.pointerId);
+    drag = { id: ev.pointerId, x0: ev.clientX, y0: ev.clientY, dx: 0, dy: 0, active: false };
+  },
+  { passive: true }
+);
+
+stage.addEventListener(
+  'pointermove',
+  (ev) => {
+    if (!drag || ev.pointerId !== drag.id) return;
+    drag.dx = ev.clientX - drag.x0;
+    drag.dy = ev.clientY - drag.y0;
+    if (!drag.active && Math.hypot(drag.dx, drag.dy) < 10) return;
+    drag.active = true;
+    world.style.transition = 'none';
+    world.style.transform = `translate3d(${drag.dx * DRAG_DAMP}px, ${drag.dy * DRAG_DAMP}px, 0)`;
+  },
+  { passive: true }
+);
+
+function endDrag(ev) {
+  if (!drag || ev.pointerId !== drag.id) return;
+  const { dx, dy, active } = drag;
+  drag = null;
+  if (stage.hasPointerCapture?.(ev.pointerId)) stage.releasePointerCapture(ev.pointerId);
+  if (!active) return;
+  // 只有正常松手才会紧跟一个合成 click；被系统取消（来电、切换 app 等）时
+  // 不吞掉下一次真正的点击。
+  swallowClick = ev.type !== 'pointercancel';
+
+  // 画布此刻停在哪儿。相机坐标和位移是反的：画布右移 = 相机左移。
+  const from = { x: -dx * DRAG_DAMP, y: -dy * DRAG_DAMP };
+  const target = Math.hypot(dx, dy) >= SWIPE_MIN ? pickSlotToward(Math.atan2(-dy, -dx)) : null;
+
+  if (target) {
+    world.style.transform = cameraTransform(from.x, from.y);
+    travelTo(target, from);
+  } else {
+    // 没够着任何一张，弹回去
+    world.style.transition = 'transform .34s cubic-bezier(.2,.9,.25,1)';
+    world.style.transform = cameraTransform(0, 0);
+    setTimeout(() => world && (world.style.transition = ''), 360);
+  }
+}
+
+stage.addEventListener('pointerup', endDrag, { passive: true });
+stage.addEventListener('pointercancel', endDrag, { passive: true });
+stage.addEventListener('pointerup', (ev) => stageTouches.delete(ev.pointerId), { passive: true });
+stage.addEventListener('pointercancel', (ev) => stageTouches.delete(ev.pointerId), { passive: true });
 
 function setHighlight(id, on) {
   const slot = slots.find((s) => s.edge.to === id);

@@ -1,0 +1,59 @@
+{
+  "id": "rubberband",
+  "mbid": "74fb2a36-7f55-4f12-a474-36ad65350f86",
+  "name": "RubberBand",
+  "area": "Hong Kong",
+  "countryCode": "HK",
+  "country": "香港",
+  "years": "2008–",
+  "genres": [
+    "Cantopop",
+    "Hong Kong Rock Band",
+    "Rock Band"
+  ],
+  "albums": [
+    {
+      "title": "Apollo 18",
+      "year": 2008
+    },
+    {
+      "title": "Beaming",
+      "year": 2009
+    },
+    {
+      "title": "Connected",
+      "year": 2010
+    },
+    {
+      "title": "Easy",
+      "year": 2012
+    },
+    {
+      "title": "FRANK",
+      "year": 2014
+    },
+    {
+      "title": "Gotta Go",
+      "year": 2016
+    }
+  ],
+  "intro": "RubberBand，于2005年成立的香港流行乐队，成员包括主音6号、吉他手兼队长阿正、低音吉他手阿伟以及鼓手泥鯭。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/74fb2a36-7f55-4f12-a474-36ad65350f86"
+  },
+  "edges": [
+    {
+      "to": "beatbox-金牌一條順",
+      "toName": "Beatbox 金牌一條順",
+      "toArea": "Hong Kong",
+      "toYears": null,
+      "type": "member",
+      "label": "6號",
+      "detail": "6號 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

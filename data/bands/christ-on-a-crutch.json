@@ -1,0 +1,110 @@
+{
+  "id": "christ-on-a-crutch",
+  "mbid": "5c8c891c-04b5-49d1-94c2-2ed242a93df0",
+  "name": "Christ on a Crutch",
+  "area": "Richland",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1983–1993",
+  "genres": [
+    "Hardcore Punk",
+    "Punk"
+  ],
+  "albums": [
+    {
+      "title": "Crime Pays When Pigs Die",
+      "year": 1991
+    },
+    {
+      "title": "Shit Edge and Other Songs for the Young and Sentimental",
+      "year": 1997
+    },
+    {
+      "title": "Spread Your Filth, the Doughnut and Bourbon Years",
+      "year": 1998
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5c8c891c-04b5-49d1-94c2-2ed242a93df0"
+  },
+  "edges": [
+    {
+      "to": "juno",
+      "toName": "Juno",
+      "toArea": "西雅图",
+      "toYears": "1995–2003",
+      "type": "member",
+      "label": "Nate Mendel・Eric Akre",
+      "detail": "2 位乐手在这两支乐队都待过：Nate Mendel・Eric Akre。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "diddly-squat",
+      "toName": "Diddly Squat",
+      "toArea": "Richland",
+      "toYears": null,
+      "type": "member",
+      "label": "Nate Mendel・Eric Akre",
+      "detail": "2 位乐手在这两支乐队都待过：Nate Mendel・Eric Akre。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "sunny-day-real-estate",
+      "toName": "Sunny Day Real Estate",
+      "toArea": "西雅图",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "dee-gees",
+      "toName": "Dee Gees",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-fire-theft",
+      "toName": "The Fire Theft",
+      "toArea": "西雅图",
+      "toYears": "2001–2004",
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sound-city-players",
+      "toName": "Sound City Players",
+      "toArea": "美国",
+      "toYears": "2012–2013",
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

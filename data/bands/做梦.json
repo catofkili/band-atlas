@@ -1,0 +1,50 @@
+{
+  "id": "做梦",
+  "mbid": "8cc5122b-ca5c-4ae1-9816-18f0bee865c7",
+  "name": "做梦",
+  "area": "中国",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "1991–",
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8cc5122b-ca5c-4ae1-9816-18f0bee865c7"
+  },
+  "edges": [
+    {
+      "to": "黑豹",
+      "toName": "黑豹",
+      "toArea": "北京",
+      "toYears": "1987–",
+      "type": "member",
+      "label": "窦唯",
+      "detail": "窦唯 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "暮良文王",
+      "toName": "暮良文王",
+      "toArea": "中国",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "窦唯",
+      "detail": "窦唯 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "朝简",
+      "toName": "朝简",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "窦唯",
+      "detail": "窦唯 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "id": "white",
+  "mbid": "00c64c61-0536-4507-9332-8eb24c1aaa1b",
+  "name": "WHITE",
+  "area": "北京",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "2006–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "WHITE",
+      "year": 2008
+    },
+    {
+      "title": "White+",
+      "year": 2012
+    },
+    {
+      "title": "Ⅱ",
+      "year": 2024
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/00c64c61-0536-4507-9332-8eb24c1aaa1b"
+  },
+  "edges": [
+    {
+      "to": "carsick-cars",
+      "toName": "Carsick Cars",
+      "toArea": "北京",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "张守望",
+      "detail": "张守望 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ourself-beside-me",
+      "toName": "Ourself Beside Me",
+      "toArea": "中国",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "张守望",
+      "detail": "张守望 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "speak-chinese-or-die",
+      "toName": "Speak Chinese or Die",
+      "toArea": "Wuhan",
+      "toYears": null,
+      "type": "member",
+      "label": "张守望",
+      "detail": "张守望 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

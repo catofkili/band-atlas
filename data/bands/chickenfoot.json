@@ -1,0 +1,54 @@
+{
+  "id": "chickenfoot",
+  "mbid": "28830d2c-95d7-492c-82d3-7d1240bb1c6b",
+  "name": "Chickenfoot",
+  "area": "Cabo San Lucas",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2008–",
+  "genres": [
+    "Hard Rock",
+    "Rock",
+    "Supergroup"
+  ],
+  "albums": [
+    {
+      "title": "Chickenfoot",
+      "year": 2009
+    },
+    {
+      "title": "III",
+      "year": 2011
+    }
+  ],
+  "intro": "チキンフットは、アメリカ合衆国のハードロックのスーパーグループ。2018年現在、スタジオ・アルバムを2枚、ライブ・アルバムを1枚、ベスト・アルバムを1枚リリースしている。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/28830d2c-95d7-492c-82d3-7d1240bb1c6b"
+  },
+  "edges": [
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Joe Satriani",
+      "detail": "Joe Satriani 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "mick-jagger-the-brothers-of-sodom",
+      "toName": "Mick Jagger & The Brothers of Sodom",
+      "toArea": "伦敦",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Joe Satriani",
+      "detail": "Joe Satriani 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    }
+  ]
+}

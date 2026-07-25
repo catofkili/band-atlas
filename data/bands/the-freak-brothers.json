@@ -1,0 +1,39 @@
+{
+  "id": "the-freak-brothers",
+  "mbid": "5c93ecb4-9976-4b18-bb57-92f834e2d726",
+  "name": "The Freak Brothers",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5c93ecb4-9976-4b18-bb57-92f834e2d726"
+  },
+  "edges": [
+    {
+      "to": "el-stew",
+      "toName": "El Stew",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Extrakd",
+      "detail": "Extrakd 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "gonervill",
+      "toName": "Gonervill",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Extrakd",
+      "detail": "Extrakd 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

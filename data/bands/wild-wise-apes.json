@@ -1,0 +1,33 @@
+{
+  "id": "wild-wise-apes",
+  "mbid": "463e1c9e-4d1c-4b98-95ba-2aeeb7224304",
+  "name": "Wild Wise Apes",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2004–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "3rd world",
+      "year": 2004
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/463e1c9e-4d1c-4b98-95ba-2aeeb7224304"
+  },
+  "edges": [
+    {
+      "to": "buck-tick",
+      "toName": "BUCK‐TICK",
+      "toArea": "Fujioka",
+      "toYears": "1984–",
+      "type": "member",
+      "label": "樋口豊",
+      "detail": "樋口豊 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

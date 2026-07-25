@@ -3,6 +3,8 @@
   "mbid": "5e4ad809-a048-427d-b0e4-a6761de9c220",
   "name": "The Amps",
   "area": "Dayton",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1995–1996",
   "genres": [
     "4ad",
@@ -17,6 +19,7 @@
   ],
   "intro": "アンプス (The Amps)は、アメリカのロックバンド。1995年、活動休止期間に入ったブリーダーズのキム・ディールを中心に結成。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5e4ad809-a048-427d-b0e4-a6761de9c220"
   },

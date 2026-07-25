@@ -3,6 +3,8 @@
   "mbid": "196670b6-ccbf-4a20-9d1d-a55161d1c322",
   "name": "Johnny Crash",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1985–1992",
   "genres": [],
   "albums": [
@@ -17,6 +19,7 @@
   ],
   "intro": "Johnny Crash was an American hard rock band formed in 1985.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/196670b6-ccbf-4a20-9d1d-a55161d1c322"
   },

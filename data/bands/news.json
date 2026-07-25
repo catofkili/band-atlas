@@ -1,0 +1,80 @@
+{
+  "id": "news",
+  "mbid": "53187856-5b14-4b58-9c81-c5ea843b6c7a",
+  "name": "NEWS",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2003–",
+  "genres": [
+    "Boy Band",
+    "J-Pop"
+  ],
+  "albums": [
+    {
+      "title": "touch",
+      "year": 2005
+    },
+    {
+      "title": "pacific",
+      "year": 2007
+    },
+    {
+      "title": "color",
+      "year": 2008
+    },
+    {
+      "title": "LIVE",
+      "year": 2010
+    },
+    {
+      "title": "NEWS",
+      "year": 2013
+    },
+    {
+      "title": "White",
+      "year": 2015
+    }
+  ],
+  "intro": "NEWS是日本男子偶像团体，事务所为星达拓娱乐，唱片公司为ELOV-Label。于2003年9月15日成立。于2004年5月12日正式出道。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/53187856-5b14-4b58-9c81-c5ea843b6c7a"
+  },
+  "edges": [
+    {
+      "to": "one-ok-rock",
+      "toName": "ONE OK ROCK",
+      "toArea": "东京",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Taka",
+      "detail": "Taka 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "starto-for-you",
+      "toName": "STARTO for you",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "twenty-twenty",
+      "toName": "Twenty★Twenty",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

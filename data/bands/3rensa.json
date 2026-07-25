@@ -3,6 +3,8 @@
   "mbid": "0ccbe20b-d465-458f-83b3-28e4e7efcd4c",
   "name": "3RENSA",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": null,
   "genres": [],
   "albums": [
@@ -15,6 +17,7 @@
       "year": 2020
     }
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0ccbe20b-d465-458f-83b3-28e4e7efcd4c"
   },

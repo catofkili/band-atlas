@@ -3,6 +3,8 @@
   "mbid": "4709dd69-1034-4634-9e88-d1099453b192",
   "name": "Dag Nasty",
   "area": "华盛顿特区",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1985–1991",
   "genres": [
     "Emocore",
@@ -37,6 +39,7 @@
   ],
   "intro": "Dag Nasty was an American hardcore punk band from Washington D.C.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/4709dd69-1034-4634-9e88-d1099453b192"
   },
@@ -72,6 +75,17 @@
       "label": "Scott Garrett",
       "detail": "Scott Garrett 在这两支乐队都待过。",
       "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "dys",
+      "toName": "DYS",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Dave Smalley",
+      "detail": "Dave Smalley 在这两支乐队都待过。",
+      "year": 1992,
       "weight": 0.62
     },
     {

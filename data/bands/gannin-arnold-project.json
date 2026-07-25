@@ -1,0 +1,50 @@
+{
+  "id": "gannin-arnold-project",
+  "mbid": "b1bf128a-0806-420d-817b-e8e29e4b8262",
+  "name": "Gannin Arnold Project",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b1bf128a-0806-420d-817b-e8e29e4b8262"
+  },
+  "edges": [
+    {
+      "to": "taylor-hawkins-the-coattail-riders",
+      "toName": "Taylor Hawkins & The Coattail Riders",
+      "toArea": "California",
+      "toYears": "2004–2022",
+      "type": "member",
+      "label": "Gannin Arnold",
+      "detail": "Gannin Arnold 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "deep-end",
+      "toName": "Deep End",
+      "toArea": "英国",
+      "toYears": "1985–1986",
+      "type": "member",
+      "label": "Simon Phillips",
+      "detail": "Simon Phillips 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "p-s-p",
+      "toName": "P.S.P.",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Simon Phillips",
+      "detail": "Simon Phillips 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

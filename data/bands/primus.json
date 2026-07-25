@@ -1,0 +1,180 @@
+{
+  "id": "primus",
+  "mbid": "84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2",
+  "name": "Primus",
+  "area": "El Sobrante",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1984–",
+  "genres": [
+    "Funk Metal",
+    "Alternative Rock",
+    "Funk Rock"
+  ],
+  "albums": [
+    {
+      "title": "Frizzle Fry",
+      "year": 1990
+    },
+    {
+      "title": "Sailing the Seas of Cheese",
+      "year": 1991
+    },
+    {
+      "title": "Pork Soda",
+      "year": 1993
+    },
+    {
+      "title": "Tales From the Punchbowl",
+      "year": 1995
+    },
+    {
+      "title": "Brown Album",
+      "year": 1997
+    },
+    {
+      "title": "Antipop",
+      "year": 1999
+    }
+  ],
+  "intro": "プライマスは、アメリカ合衆国出身のオルタナティヴ・ロック・バンド。 主宰者レス・クレイプールの高度なベース・テクニックと、幅広いジャンルの音楽を吸収したサウンドを持ち味としている。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/84dc4f23-c0b8-4fe1-bbca-a3993ddc8fc2"
+  },
+  "edges": [
+    {
+      "to": "no-forcefield",
+      "toName": "No Forcefield",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk・Larry LaLonde",
+      "detail": "2 位乐手在这两支乐队都待过：DJ Disk・Larry LaLonde。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "festus-clamrod-and-the-el-sobrante-twangers",
+      "toName": "Festus Clamrod and the El Sobrante Twangers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Les Claypool・Larry LaLonde",
+      "detail": "2 位乐手在这两支乐队都待过：Les Claypool・Larry LaLonde。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "a-perfect-circle",
+      "toName": "A Perfect Circle",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Tim Alexander",
+      "detail": "Tim Alexander 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "el-stew",
+      "toName": "El Stew",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "cobra-strike",
+      "toName": "Cobra Strike",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "colonel-claypool-s-bucket-of-bernie-brains",
+      "toName": "Colonel Claypool’s Bucket of Bernie Brains",
+      "toArea": "美国",
+      "toYears": "2002–2004",
+      "type": "member",
+      "label": "Les Claypool",
+      "detail": "Les Claypool 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "les-claypool-and-the-holy-mackerel",
+      "toName": "Les Claypool and the Holy Mackerel",
+      "toArea": "Berkeley",
+      "toYears": "1996–1996",
+      "type": "member",
+      "label": "Les Claypool",
+      "detail": "Les Claypool 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "peeping-tom",
+      "toName": "Peeping Tom",
+      "toArea": "美国",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "buckethead-and-his-bucket-bots",
+      "toName": "Buckethead And His Bucket-Bots",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "DJ Disk",
+      "detail": "DJ Disk 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "rage-against-the-machine",
+      "toName": "Rage Against the Machine",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2024",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Primus 影响了 Rage Against the Machine（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "slipknot",
+      "toName": "Slipknot",
+      "toArea": "Des Moines",
+      "toYears": "1995–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Primus 影响了 Slipknot（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "sessanta",
+      "toName": "Sessanta",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

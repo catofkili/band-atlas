@@ -3,6 +3,8 @@
   "mbid": "2cffac8e-9bb3-47f2-b59e-0781398b0c7e",
   "name": "Shrinebuilder",
   "area": "旧金山",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2008–",
   "genres": [
     "Doom Metal",
@@ -16,6 +18,7 @@
   ],
   "intro": "Shrinebuilder was an American stoner/doom metal supergroup consisting of various established musicians, particularly of the doom metal subgenre.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2cffac8e-9bb3-47f2-b59e-0781398b0c7e"
   },

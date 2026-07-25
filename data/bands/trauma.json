@@ -1,0 +1,117 @@
+{
+  "id": "trauma",
+  "mbid": "09dec2be-aeff-4e26-a9d6-a934d2620223",
+  "name": "Trauma",
+  "area": "旧金山",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1981–",
+  "genres": [
+    "Speed Metal",
+    "Heavy Metal",
+    "Metal"
+  ],
+  "albums": [
+    {
+      "title": "Scratch and Scream",
+      "year": 1984
+    },
+    {
+      "title": "Rapture and Wrath",
+      "year": 2015
+    },
+    {
+      "title": "As the World Dies",
+      "year": 2018
+    },
+    {
+      "title": "Awakening",
+      "year": 2022
+    }
+  ],
+  "intro": "Trauma is an American heavy metal band formed in 1981.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/09dec2be-aeff-4e26-a9d6-a934d2620223"
+  },
+  "edges": [
+    {
+      "to": "metallica",
+      "toName": "Metallica",
+      "toArea": "洛杉矶",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": 1982,
+      "weight": 0.62
+    },
+    {
+      "to": "agents-of-misfortune",
+      "toName": "Agents Of Misfortune",
+      "toArea": "Hayward",
+      "toYears": null,
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ez-street",
+      "toName": "EZ-Street",
+      "toArea": "Oakland",
+      "toYears": null,
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "maxwell-house-ranch-band",
+      "toName": "Maxwell House Ranch Band",
+      "toArea": "California",
+      "toYears": null,
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "spastik-children",
+      "toName": "Spastik Children",
+      "toArea": "California",
+      "toYears": null,
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-chickenfuckers",
+      "toName": "The Chickenfuckers",
+      "toArea": "旧金山",
+      "toYears": "1984–1984",
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "vicious-hatred",
+      "toName": "Vicious Hatred",
+      "toArea": "Hayward",
+      "toYears": "1981–1982",
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    }
+  ]
+}

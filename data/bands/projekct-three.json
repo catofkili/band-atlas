@@ -1,0 +1,35 @@
+{
+  "id": "projekct-three",
+  "mbid": "43da6916-ba67-48cb-b875-4936adde20dd",
+  "name": "ProjeKct Three",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Masque",
+      "year": 1999
+    }
+  ],
+  "intro": "The ProjeKcts are a succession of experimental spin-off groups associated with the English progressive rock band King Crimson.",
+  "introLang": "en",
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/43da6916-ba67-48cb-b875-4936adde20dd"
+  },
+  "edges": [
+    {
+      "to": "king-crimson",
+      "toName": "King Crimson",
+      "toArea": "伦敦",
+      "toYears": "1968–2021",
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

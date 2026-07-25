@@ -3,6 +3,8 @@
   "mbid": "ba853904-ae25-4ebb-89d6-c44cfbd71bd2",
   "name": "Blur",
   "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "1988–",
   "genres": [
     "Britpop",
@@ -34,6 +36,7 @@
     "Coffee & TV",
     "Parklife"
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ba853904-ae25-4ebb-89d6-c44cfbd71bd2"
   },

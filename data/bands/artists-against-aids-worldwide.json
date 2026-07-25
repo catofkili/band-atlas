@@ -1,0 +1,195 @@
+{
+  "id": "artists-against-aids-worldwide",
+  "mbid": "14bf21c7-8ff5-433a-a6b7-69cf8e8f3899",
+  "name": "Artists Against AIDS Worldwide",
+  "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2001–2001",
+  "genres": [
+    "Pop/Rock"
+  ],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/14bf21c7-8ff5-433a-a6b7-69cf8e8f3899"
+  },
+  "edges": [
+    {
+      "to": "band-aid-30",
+      "toName": "Band Aid 30",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Chris Martin・Bono",
+      "detail": "2 位乐手在这两支乐队都待过：Chris Martin・Bono。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "coldplay",
+      "toName": "Coldplay",
+      "toArea": "伦敦",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Chris Martin",
+      "detail": "Chris Martin 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    },
+    {
+      "to": "jane-s-addiction",
+      "toName": "Jane’s Addiction",
+      "toArea": "洛杉矶",
+      "toYears": "1986–2025",
+      "type": "member",
+      "label": "Perry Farrell",
+      "detail": "Perry Farrell 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "stone-temple-pilots",
+      "toName": "Stone Temple Pilots",
+      "toArea": "San Diego",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Scott Weiland",
+      "detail": "Scott Weiland 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "u2",
+      "toName": "U2",
+      "toArea": "都柏林",
+      "toYears": "1976–",
+      "type": "member",
+      "label": "Bono",
+      "detail": "Bono 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "art-of-anarchy",
+      "toName": "Art of Anarchy",
+      "toArea": "美国",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "Scott Weiland",
+      "detail": "Scott Weiland 在这两支乐队都待过。",
+      "year": 2014,
+      "weight": 0.62
+    },
+    {
+      "to": "velvet-revolver",
+      "toName": "Velvet Revolver",
+      "toArea": "Rancho Santa Margarita",
+      "toYears": "2002–2008",
+      "type": "member",
+      "label": "Scott Weiland",
+      "detail": "Scott Weiland 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "backstreet-boys",
+      "toName": "Backstreet Boys",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "destiny-s-child",
+      "toName": "Destiny’s Child",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "jagged-edge",
+      "toName": "Jagged Edge",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "tlc",
+      "toName": "TLC",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "diddy-dirty-money",
+      "toName": "Diddy – Dirty Money",
+      "toArea": "美国",
+      "toYears": "2009–2012",
+      "type": "member",
+      "label": "Diddy",
+      "detail": "Diddy 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "nsync",
+      "toName": "*NSYNC",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "camp-freddy",
+      "toName": "Camp Freddy",
+      "toArea": "美国",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Scott Weiland",
+      "detail": "Scott Weiland 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "kind-heaven-orchestra",
+      "toName": "Kind Heaven Orchestra",
+      "toArea": null,
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Perry Farrell",
+      "detail": "Perry Farrell 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "t-boz-and-chilli",
+      "toName": "T Boz and Chilli",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

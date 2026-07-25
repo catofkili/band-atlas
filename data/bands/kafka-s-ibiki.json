@@ -3,6 +3,8 @@
   "mbid": "da85b991-7a08-410d-8e5e-86504b175feb",
   "name": "Kafka’s Ibiki",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": null,
   "genres": [],
   "albums": [
@@ -15,10 +17,22 @@
       "year": 2014
     }
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/da85b991-7a08-410d-8e5e-86504b175feb"
   },
   "edges": [
+    {
+      "to": "eiko-ishibashi-trio",
+      "toName": "Eiko Ishibashi Trio",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "石橋英子・山本達久",
+      "detail": "2 位乐手在这两支乐队都待过：石橋英子・山本達久。",
+      "year": null,
+      "weight": 0.84
+    },
     {
       "to": "bonjintan",
       "toName": "Bonjintan",

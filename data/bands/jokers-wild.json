@@ -1,0 +1,85 @@
+{
+  "id": "jokers-wild",
+  "mbid": "b9e9779f-f3c8-4b78-a22f-a2d2b17a1aeb",
+  "name": "Jokers Wild",
+  "area": "Cambridge",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1964–1966",
+  "genres": [],
+  "albums": [],
+  "intro": "ジョーカーズ・ワイルドは、1964年にイングランドのケンブリッジで結成されたイギリスのロック・バンド。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b9e9779f-f3c8-4b78-a22f-a2d2b17a1aeb"
+  },
+  "edges": [
+    {
+      "to": "pink-floyd",
+      "toName": "Pink Floyd",
+      "toArea": "伦敦",
+      "toYears": "1965–2014",
+      "type": "member",
+      "label": "David Gilmour",
+      "detail": "David Gilmour 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    },
+    {
+      "to": "deep-end",
+      "toName": "Deep End",
+      "toArea": "英国",
+      "toYears": "1985–1986",
+      "type": "member",
+      "label": "David Gilmour",
+      "detail": "David Gilmour 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "hale-pace-and-the-stonkers",
+      "toName": "Hale & Pace and the Stonkers",
+      "toArea": "英国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "David Gilmour",
+      "detail": "David Gilmour 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "holly-and-the-ivy-s",
+      "toName": "Holly and The Ivy’s",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "David Gilmour",
+      "detail": "David Gilmour 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "David Gilmour",
+      "detail": "David Gilmour 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-ramblers",
+      "toName": "The Ramblers",
+      "toArea": "英国",
+      "toYears": "1962–1963",
+      "type": "member",
+      "label": "David Gilmour",
+      "detail": "David Gilmour 在这两支乐队都待过。",
+      "year": 1962,
+      "weight": 0.62
+    }
+  ]
+}

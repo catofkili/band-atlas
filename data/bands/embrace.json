@@ -3,6 +3,8 @@
   "mbid": "9d1ad8e3-8740-429a-bdc5-52f96a9c4431",
   "name": "Embrace",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1985–1986",
   "genres": [
     "Emo",
@@ -17,6 +19,7 @@
   ],
   "intro": "Embrace是一个后硬蕊乐团，成立于华盛顿特区。这个乐团1985夏天到1986春天，只维持不到一年时，是头个被称为情绪硬蕊(Emotional Hardcore)的乐团，但打从这个词出现，乐团就极力与这个词撇凊。",
   "introLang": "zh",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9d1ad8e3-8740-429a-bdc5-52f96a9c4431"
   },

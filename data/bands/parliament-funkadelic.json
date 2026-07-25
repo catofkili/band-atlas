@@ -1,0 +1,145 @@
+{
+  "id": "parliament-funkadelic",
+  "mbid": "7a0ae10d-c51f-434a-9d5a-551d2ae93a9d",
+  "name": "Parliament-Funkadelic",
+  "area": "Plainfield",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1968–",
+  "genres": [
+    "P-Funk",
+    "Funk"
+  ],
+  "albums": [
+    {
+      "title": "Urban Dancefloor Guerillas",
+      "year": 1983
+    },
+    {
+      "title": "Hydraulic Funk",
+      "year": 1995
+    },
+    {
+      "title": "Mother Call: Live Boston ’76",
+      "year": 2022
+    }
+  ],
+  "intro": "百乐门-放克疯是由乔治·克林顿领导音乐家们组成的美国放克音乐集合体，其成员主要来自百乐门和放克疯，这两个乐团皆始自1960年代。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7a0ae10d-c51f-434a-9d5a-551d2ae93a9d"
+  },
+  "edges": [
+    {
+      "to": "funkadelic",
+      "toName": "Funkadelic",
+      "toArea": "Plainfield",
+      "toYears": "1968–1981",
+      "type": "member",
+      "label": "Bootsy Collins・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Michael Payne・Garry Shider・Undi$co Kidd",
+      "detail": "8 位乐手在这两支乐队都待过：Bootsy Collins・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Michael Payne・Garry Shider・Undi$co Kidd。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "parliament",
+      "toName": "Parliament",
+      "toArea": "Plainfield",
+      "toYears": "1968–1980",
+      "type": "member",
+      "label": "Bootsy Collins・Gary “Mudbone” Cooper・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Garry Shider・Undi$co Kidd・Maceo Parker・David Spradley・Fred Wesley",
+      "detail": "11 位乐手在这两支乐队都待过：Bootsy Collins・Gary “Mudbone” Cooper・Michael Hampton・Lonnie Motley・George Clinton・Eddie Hazel・Garry Shider・Undi$co Kidd・Maceo Parker・David Spradley・Fred Wesley。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "the-p-funk-mob",
+      "toName": "The P-Funk Mob",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bootsy Collins・Gary “Mudbone” Cooper・Michael Hampton・George Clinton・Eddie Hazel・Garry Shider・Maceo Parker・Fred Wesley",
+      "detail": "8 位乐手在这两支乐队都待过：Bootsy Collins・Gary “Mudbone” Cooper・Michael Hampton・George Clinton・Eddie Hazel・Garry Shider・Maceo Parker・Fred Wesley。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "material",
+      "toName": "Material",
+      "toArea": "纽约",
+      "toYears": "1978–1999",
+      "type": "member",
+      "label": "Gary “Mudbone” Cooper・Michael Hampton",
+      "detail": "2 位乐手在这两支乐队都待过：Gary “Mudbone” Cooper・Michael Hampton。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "danny-bedrosian-secret-army",
+      "toName": "Danny Bedrosian & Secret Army",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Danny Bedrosian・Lige Curry",
+      "detail": "2 位乐手在这两支乐队都待过：Danny Bedrosian・Lige Curry。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "praxis",
+      "toName": "Praxis",
+      "toArea": "Brooklyn",
+      "toYears": "1992–2011",
+      "type": "member",
+      "label": "Bootsy Collins",
+      "detail": "Bootsy Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "funkadelic",
+      "toName": "Funkadelic",
+      "toArea": "Plainfield",
+      "toYears": "1968–1981",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "parliament",
+      "toName": "Parliament",
+      "toArea": "Plainfield",
+      "toYears": "1968–1980",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "science-faxtion",
+      "toName": "Science Faxtion",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bootsy Collins",
+      "detail": "Bootsy Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "world-wide-funkdrive",
+      "toName": "World-Wide-Funkdrive",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bootsy Collins",
+      "detail": "Bootsy Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "46160439-9999-42b7-b6aa-a8fbdb468282",
   "name": "Monkey",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2008
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/46160439-9999-42b7-b6aa-a8fbdb468282"
   },

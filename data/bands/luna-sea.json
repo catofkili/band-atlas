@@ -1,0 +1,136 @@
+{
+  "id": "luna-sea",
+  "mbid": "e7ab70fc-ae7b-4321-a9d1-4c2e9440e0f5",
+  "name": "LUNA SEA",
+  "area": "神奈川",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1990–",
+  "genres": [
+    "Rock",
+    "Alternative Rock",
+    "Gothic"
+  ],
+  "albums": [
+    {
+      "title": "LUNA SEA",
+      "year": 1991
+    },
+    {
+      "title": "IMAGE",
+      "year": 1992
+    },
+    {
+      "title": "EDEN",
+      "year": 1993
+    },
+    {
+      "title": "MOTHER",
+      "year": 1994
+    },
+    {
+      "title": "STYLE",
+      "year": 1996
+    },
+    {
+      "title": "SHINE",
+      "year": 1998
+    }
+  ],
+  "intro": "月之海是1986年在日本神奈川县组成的视觉系摇滚乐团，由于在职业生涯早期使用化妆和华丽服饰，广受大众欢迎，是视觉系运动中是最成功和最有影响力的乐团之一。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e7ab70fc-ae7b-4321-a9d1-4c2e9440e0f5"
+  },
+  "edges": [
+    {
+      "to": "lunacy",
+      "toName": "Lunacy",
+      "toArea": "日本",
+      "toYears": "1986–1990",
+      "type": "member",
+      "label": "INORAN・J・河村隆一・真矢",
+      "detail": "4 位乐手在这两支乐队都待过：INORAN・J・河村隆一・真矢。",
+      "year": 1986,
+      "weight": 0.95
+    },
+    {
+      "to": "tourbillon",
+      "toName": "Tourbillon",
+      "toArea": "日本",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "INORAN・河村隆一",
+      "detail": "2 位乐手在这两支乐队都待过：INORAN・河村隆一。",
+      "year": 2005,
+      "weight": 0.84
+    },
+    {
+      "to": "m-a-s-s",
+      "toName": "M・A・S・S",
+      "toArea": "东京",
+      "toYears": null,
+      "type": "member",
+      "label": "INORAN・J",
+      "detail": "2 位乐手在这两支乐队都待过：INORAN・J。",
+      "year": 1990,
+      "weight": 0.84
+    },
+    {
+      "to": "fake",
+      "toName": "FAKE?",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "muddy-apes",
+      "toName": "Muddy Apes",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "INORAN",
+      "detail": "INORAN 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "toshi-with-t-earth",
+      "toName": "TOSHI with T-EARTH",
+      "toArea": "日本",
+      "toYears": "2008–2010",
+      "type": "member",
+      "label": "真矢",
+      "detail": "真矢 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "yellow-fried-chickenz",
+      "toName": "YELLOW FRIED CHICKENz",
+      "toArea": "日本",
+      "toYears": "2010–2012",
+      "type": "member",
+      "label": "真矢",
+      "detail": "真矢 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "3minutes",
+      "toName": "3minutes",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "河村隆一",
+      "detail": "河村隆一 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    }
+  ]
+}

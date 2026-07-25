@@ -1,0 +1,63 @@
+{
+  "id": "ウカスカジー",
+  "mbid": "60b06a12-20ea-469d-aba0-8d509f1d9e76",
+  "name": "ウカスカジー",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2013–",
+  "genres": [],
+  "albums": [],
+  "intro": "ウカスカジー (UKASUKA-G) は、日本の音楽ユニット。2013年にバンド・Mr.Childrenのボーカルである桜井和寿と、ヒップホップユニット・EAST ENDのメンバーであるGAKU-MCの2人で結成。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/60b06a12-20ea-469d-aba0-8d509f1d9e76"
+  },
+  "edges": [
+    {
+      "to": "possession-80-2-por-cento",
+      "toName": "POSSESSION=80.2 POR CENTO",
+      "toArea": null,
+      "toYears": "2014–",
+      "type": "member",
+      "label": "桜井和寿・GAKU‐MC",
+      "detail": "2 位乐手在这两支乐队都待过：桜井和寿・GAKU‐MC。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "mr-children",
+      "toName": "Mr.Children",
+      "toArea": "Shibuya",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "bank-band",
+      "toName": "Bank Band",
+      "toArea": "东京",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "reborn-art-session",
+      "toName": "Reborn‐Art Session",
+      "toArea": "东京",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

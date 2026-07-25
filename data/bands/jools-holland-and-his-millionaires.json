@@ -1,0 +1,33 @@
+{
+  "id": "jools-holland-and-his-millionaires",
+  "mbid": "83462985-b204-4bf5-91ee-a8278b8d35fc",
+  "name": "Jools Holland and His Millionaires",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Jools Holland And His Millionaires",
+      "year": 1982
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/83462985-b204-4bf5-91ee-a8278b8d35fc"
+  },
+  "edges": [
+    {
+      "to": "george-s-band",
+      "toName": "George's Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Jools Holland",
+      "detail": "Jools Holland 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

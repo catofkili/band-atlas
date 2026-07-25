@@ -3,9 +3,12 @@
   "mbid": "bdde1640-98fc-4de3-b1e7-e6a08b5d311a",
   "name": "Lucky Sperms",
   "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/bdde1640-98fc-4de3-b1e7-e6a08b5d311a"
   },

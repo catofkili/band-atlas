@@ -3,6 +3,8 @@
   "mbid": "0cd44b95-7fa3-4fb3-9c87-646cf83a9a6b",
   "name": "Before Cars",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -15,6 +17,7 @@
       "year": 2013
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/0cd44b95-7fa3-4fb3-9c87-646cf83a9a6b"
   },

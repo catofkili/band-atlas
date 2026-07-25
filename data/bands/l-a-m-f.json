@@ -3,9 +3,12 @@
   "mbid": "f641e0f4-3fa3-469d-a088-46dbd299b23d",
   "name": "L.A.M.F.",
   "area": "纽约",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2016–",
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f641e0f4-3fa3-469d-a088-46dbd299b23d"
   },

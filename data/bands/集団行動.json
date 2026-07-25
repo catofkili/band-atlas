@@ -1,0 +1,98 @@
+{
+  "id": "集団行動",
+  "mbid": "06a78b72-d4c2-4d15-9084-3d3fcf3c3d21",
+  "name": "集団行動",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2017–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "集団行動",
+      "year": 2017
+    },
+    {
+      "title": "充分未来",
+      "year": 2018
+    },
+    {
+      "title": "SUPER MUSIC",
+      "year": 2019
+    }
+  ],
+  "intro": "集団行動は、2017年に結成された日本のバンド。所属レーベルはビクターエンタテインメント系列のCONNECTONE。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/06a78b72-d4c2-4d15-9084-3d3fcf3c3d21"
+  },
+  "edges": [
+    {
+      "to": "相対性理論",
+      "toName": "相対性理論",
+      "toArea": "东京",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "真部脩一・西浦謙助",
+      "detail": "2 位乐手在这两支乐队都待过：真部脩一・西浦謙助。",
+      "year": 2017,
+      "weight": 0.84
+    },
+    {
+      "to": "フォークデュオ",
+      "toName": "フォークデュオ",
+      "toArea": null,
+      "toYears": "2018–",
+      "type": "member",
+      "label": "真部脩一・西浦謙助",
+      "detail": "2 位乐手在这两支乐队都待过：真部脩一・西浦謙助。",
+      "year": 2017,
+      "weight": 0.84
+    },
+    {
+      "to": "luminous-orange",
+      "toName": "Luminous Orange",
+      "toArea": "横滨",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "西浦謙助",
+      "detail": "西浦謙助 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "vampillia",
+      "toName": "Vampillia",
+      "toArea": "大阪",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "真部脩一",
+      "detail": "真部脩一 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "古都の夕べ",
+      "toName": "古都の夕べ",
+      "toArea": "东京",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "真部脩一",
+      "detail": "真部脩一 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "violent-magic-orchestra",
+      "toName": "Violent Magic Orchestra",
+      "toArea": "[Worldwide]",
+      "toYears": "2016–",
+      "type": "member",
+      "label": "真部脩一",
+      "detail": "真部脩一 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    }
+  ]
+}

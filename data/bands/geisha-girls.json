@@ -1,0 +1,35 @@
+{
+  "id": "geisha-girls",
+  "mbid": "16f76c04-3638-4988-8460-209e38bb2cbd",
+  "name": "GEISHA GIRLS",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "THE GEISHA GIRLS SHOW 炎のおっさんアワー",
+      "year": 1995
+    }
+  ],
+  "intro": "GEISHA GIRLSは日本のラップ音楽ユニット。1994年結成、1996年以降活動中止。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/16f76c04-3638-4988-8460-209e38bb2cbd"
+  },
+  "edges": [
+    {
+      "to": "metafive",
+      "toName": "METAFIVE",
+      "toArea": "日本",
+      "toYears": "2014–",
+      "type": "member",
+      "label": "TOWA TEI",
+      "detail": "TOWA TEI 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

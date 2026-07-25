@@ -1,0 +1,28 @@
+{
+  "id": "1984",
+  "mbid": "d70c6faa-9fb7-470f-8250-c36f05a76d6b",
+  "name": "1984",
+  "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1964–1968",
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d70c6faa-9fb7-470f-8250-c36f05a76d6b"
+  },
+  "edges": [
+    {
+      "to": "smile",
+      "toName": "Smile",
+      "toArea": "英国",
+      "toYears": "1968–1970",
+      "type": "member",
+      "label": "Tim Staffell",
+      "detail": "Tim Staffell 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    }
+  ]
+}

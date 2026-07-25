@@ -1,0 +1,52 @@
+{
+  "id": "exotic-birds",
+  "mbid": "f82ac8f9-5390-4123-87f8-7c8fb10649b2",
+  "name": "Exotic Birds",
+  "area": "Cleveland",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1983–1990",
+  "genres": [
+    "Synth-Pop"
+  ],
+  "albums": [
+    {
+      "title": "Exotic Birds",
+      "year": 1984
+    },
+    {
+      "title": "Equilibrium",
+      "year": 1989
+    }
+  ],
+  "intro": "The Exotic Birds was an American Synthpop music group formed in Cleveland, Ohio, United States, in 1982 by three Cleveland Institute of Music percussion students (Andy Kubiszewski, Tom Freer and Timothy Adams Jr.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f82ac8f9-5390-4123-87f8-7c8fb10649b2"
+  },
+  "edges": [
+    {
+      "to": "stabbing-westward",
+      "toName": "Stabbing Westward",
+      "toArea": "Macomb",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Andy Kubiszewski",
+      "detail": "Andy Kubiszewski 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "sic",
+      "toName": "( sic )",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Andy Kubiszewski",
+      "detail": "Andy Kubiszewski 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    }
+  ]
+}

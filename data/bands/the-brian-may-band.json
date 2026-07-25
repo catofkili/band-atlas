@@ -1,0 +1,52 @@
+{
+  "id": "the-brian-may-band",
+  "mbid": "dfcf7b21-6f1d-417d-ac23-91e62aeea14a",
+  "name": "The Brian May Band",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "1991–1998",
+  "genres": [],
+  "albums": [],
+  "intro": "ザ・ブライアン・メイ・バンド (The Brian May Band) は、クイーンのギタリスト、ブライアン・メイを中心としていたイギリスのロックバンド。",
+  "introLang": "ja",
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/dfcf7b21-6f1d-417d-ac23-91e62aeea14a"
+  },
+  "edges": [
+    {
+      "to": "black-sabbath",
+      "toName": "Black Sabbath",
+      "toArea": "Birmingham",
+      "toYears": "1968–2025",
+      "type": "member",
+      "label": "Cozy Powell・Neil Murray",
+      "detail": "2 位乐手在这两支乐队都待过：Cozy Powell・Neil Murray。",
+      "year": 1998,
+      "weight": 0.84
+    },
+    {
+      "to": "hale-pace-and-the-stonkers",
+      "toName": "Hale & Pace and the Stonkers",
+      "toArea": "英国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "Cozy Powell・Neil Murray",
+      "detail": "2 位乐手在这两支乐队都待过：Cozy Powell・Neil Murray。",
+      "year": 1998,
+      "weight": 0.84
+    },
+    {
+      "to": "the-cross",
+      "toName": "The Cross",
+      "toArea": "英格兰",
+      "toYears": "1987–1993",
+      "type": "member",
+      "label": "Spike Edney",
+      "detail": "Spike Edney 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

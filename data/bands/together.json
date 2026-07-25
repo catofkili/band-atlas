@@ -1,0 +1,52 @@
+{
+  "id": "together",
+  "mbid": "05527f5e-341d-4f98-a41e-72fc9f6dafcf",
+  "name": "Together",
+  "area": "Paris",
+  "countryCode": "FR",
+  "country": "法国",
+  "years": "2000–",
+  "genres": [],
+  "albums": [],
+  "intro": "Together是一支法国浩室音乐二人组合，由DJ Falcon和蠢朋克成员托马斯·本高特组成。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/05527f5e-341d-4f98-a41e-72fc9f6dafcf"
+  },
+  "edges": [
+    {
+      "to": "daft-punk",
+      "toName": "Daft Punk",
+      "toArea": "Paris",
+      "toYears": "1993–2021",
+      "type": "member",
+      "label": "Thomas Bangalter",
+      "detail": "Thomas Bangalter 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "da-mongoloids",
+      "toName": "Da Mongoloids",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Thomas Bangalter",
+      "detail": "Thomas Bangalter 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "darlin",
+      "toName": "Darlin’",
+      "toArea": "Versailles",
+      "toYears": "1992–1993",
+      "type": "member",
+      "label": "Thomas Bangalter",
+      "detail": "Thomas Bangalter 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

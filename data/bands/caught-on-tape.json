@@ -3,6 +3,8 @@
   "mbid": "8b60089a-ee47-4f44-9789-999d4a753fe1",
   "name": "Caught on Tape",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -15,6 +17,7 @@
       "year": 2015
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8b60089a-ee47-4f44-9789-999d4a753fe1"
   },

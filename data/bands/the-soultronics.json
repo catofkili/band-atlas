@@ -1,0 +1,30 @@
+{
+  "id": "the-soultronics",
+  "mbid": "564ce54b-bed1-4e75-aa2b-803934b43c85",
+  "name": "The Soultronics",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "intro": "The Soultronics was an R&B and neo soul supergroup formed in 2000, which served as the backing band for musician D'Angelo in 2000 during The Voodoo Tour, the supporting tour for his second studio album Voodoo.",
+  "introLang": "en",
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/564ce54b-bed1-4e75-aa2b-803934b43c85"
+  },
+  "edges": [
+    {
+      "to": "the-rh-factor",
+      "toName": "The RH Factor",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Roy Hargrove・James Poyser・Spanky",
+      "detail": "3 位乐手在这两支乐队都待过：Roy Hargrove・James Poyser・Spanky。",
+      "year": null,
+      "weight": 0.95
+    }
+  ]
+}

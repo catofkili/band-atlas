@@ -1,0 +1,53 @@
+{
+  "id": "声音碎片",
+  "mbid": "c458e9c5-6d39-4d4e-856c-8c861f707182",
+  "name": "声音碎片",
+  "area": "中国",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "世界是噪音的花园",
+      "year": 2002
+    },
+    {
+      "title": "Under life is…",
+      "year": 2005
+    },
+    {
+      "title": "把光芒洒向更开阔的地方",
+      "year": 2008
+    },
+    {
+      "title": "没有鸟鸣，关上窗吧",
+      "year": 2019
+    },
+    {
+      "title": "昔日我曾苍老",
+      "year": 2021
+    },
+    {
+      "title": "有限身 无穷念",
+      "year": 2022
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c458e9c5-6d39-4d4e-856c-8c861f707182"
+  },
+  "edges": [
+    {
+      "to": "木马",
+      "toName": "木马",
+      "toArea": "中国",
+      "toYears": "1998–",
+      "type": "member",
+      "label": "曹操",
+      "detail": "曹操 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    }
+  ]
+}

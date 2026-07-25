@@ -3,6 +3,8 @@
   "mbid": "b7ffd2af-418f-4be2-bdd1-22f8b48613da",
   "name": "Nine Inch Nails",
   "area": "Cleveland",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1988–",
   "genres": [
     "Industrial Rock",
@@ -37,32 +39,11 @@
   ],
   "intro": "九吋钉是美国的工业金属乐团，由特伦特·雷泽诺在1988年成立于美国俄亥俄州克里夫兰市。作为它的主要制作人、歌手、作曲家和演奏家， 雷泽诺是九吋钉唯一且保持全权负责乐团方向的正式成员。",
   "introLang": "zh",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/b7ffd2af-418f-4be2-bdd1-22f8b48613da"
   },
   "edges": [
-    {
-      "to": "pigface",
-      "toName": "Pigface",
-      "toArea": "芝加哥",
-      "toYears": "1990–",
-      "type": "member",
-      "label": "Martin Atkins・Trent Reznor・Chris Vrenna・Jeff Ward",
-      "detail": "4 位乐手在这两支乐队都待过：Martin Atkins・Trent Reznor・Chris Vrenna・Jeff Ward。",
-      "year": 1991,
-      "weight": 0.95
-    },
-    {
-      "to": "tapeworm",
-      "toName": "Tapeworm",
-      "toArea": "美国",
-      "toYears": "1996–2004",
-      "type": "member",
-      "label": "Trent Reznor・Danny Lohner・Charlie Clouser・Atticus Ross",
-      "detail": "4 位乐手在这两支乐队都待过：Trent Reznor・Danny Lohner・Charlie Clouser・Atticus Ross。",
-      "year": 1996,
-      "weight": 0.95
-    },
     {
       "to": "guns-n-roses",
       "toName": "Guns N' Roses",
@@ -75,26 +56,48 @@
       "weight": 0.62
     },
     {
-      "to": "a-perfect-circle",
-      "toName": "A Perfect Circle",
+      "to": "nearly",
+      "toName": "nearLY",
       "toArea": "洛杉矶",
       "toYears": "1999–",
       "type": "member",
-      "label": "Danny Lohner・Jeordie White",
-      "detail": "2 位乐手在这两支乐队都待过：Danny Lohner・Jeordie White。",
-      "year": 1993,
+      "label": "Keith Hillebrandt・Jerome Dillon",
+      "detail": "2 位乐手在这两支乐队都待过：Keith Hillebrandt・Jerome Dillon。",
+      "year": 1997,
       "weight": 0.84
     },
     {
-      "to": "the-damning-well",
-      "toName": "The Damning Well",
+      "to": "tapeworm",
+      "toName": "Tapeworm",
       "toArea": "美国",
-      "toYears": null,
+      "toYears": "1996–2004",
       "type": "member",
-      "label": "Danny Lohner・Richard Patrick",
-      "detail": "2 位乐手在这两支乐队都待过：Danny Lohner・Richard Patrick。",
-      "year": 1993,
+      "label": "Charlie Clouser・Atticus Ross",
+      "detail": "2 位乐手在这两支乐队都待过：Charlie Clouser・Atticus Ross。",
+      "year": 1994,
       "weight": 0.84
+    },
+    {
+      "to": "angels-airwaves",
+      "toName": "Angels & Airwaves",
+      "toArea": "San Diego",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2014,
+      "weight": 0.62
+    },
+    {
+      "to": "change",
+      "toName": "Change",
+      "toArea": "Bologna",
+      "toYears": "1979–1986",
+      "type": "member",
+      "label": "Lisa Fischer",
+      "detail": "Lisa Fischer 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
     },
     {
       "to": "filter",
@@ -108,6 +111,61 @@
       "weight": 0.62
     },
     {
+      "to": "lostprophets",
+      "toName": "Lostprophets",
+      "toArea": "Pontypridd",
+      "toYears": "1997–2013",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "marilyn-manson",
+      "toName": "Marilyn Manson",
+      "toArea": "Fort Lauderdale",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "ministry",
+      "toName": "Ministry",
+      "toArea": "芝加哥",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "revolting-cocks",
+      "toName": "Revolting Cocks",
+      "toArea": "芝加哥",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
       "to": "the-dead-daisies",
       "toName": "The Dead Daisies",
       "toArea": "悉尼",
@@ -115,18 +173,51 @@
       "type": "member",
       "label": "Alex Carapetis",
       "detail": "Alex Carapetis 在这两支乐队都待过。",
-      "year": 2005,
+      "year": 2013,
       "weight": 0.62
     },
     {
-      "to": "black-light-burns",
-      "toName": "Black Light Burns",
-      "toArea": "美国",
-      "toYears": "2005–",
+      "to": "the-tear-garden",
+      "toName": "The Tear Garden",
+      "toArea": "Vancouver",
+      "toYears": "1986–",
       "type": "member",
-      "label": "Danny Lohner",
-      "detail": "Danny Lohner 在这两支乐队都待过。",
-      "year": 1993,
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "a-perfect-circle",
+      "toName": "A Perfect Circle",
+      "toArea": "洛杉矶",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "hilt",
+      "toName": "Hilt",
+      "toArea": "Vancouver",
+      "toYears": "1987–1996",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "telefon-tel-aviv",
+      "toName": "Telefon Tel Aviv",
+      "toArea": "New Orleans",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Joshua Eustis",
+      "detail": "Joshua Eustis 在这两支乐队都待过。",
+      "year": 2013,
       "weight": 0.62
     },
     {
@@ -141,6 +232,17 @@
       "weight": 0.62
     },
     {
+      "to": "fenix-tx",
+      "toName": "Fenix TX",
+      "toArea": "Houston",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
       "to": "ima-robot",
       "toName": "Ima Robot",
       "toArea": "洛杉矶",
@@ -152,6 +254,215 @@
       "weight": 0.62
     },
     {
+      "to": "jakalope",
+      "toName": "Jakalope",
+      "toArea": "Vancouver",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "primitive-race",
+      "toName": "Primitive Race",
+      "toArea": "洛杉矶",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "the-black-queen",
+      "toName": "The Black Queen",
+      "toArea": "美国",
+      "toYears": "2015–",
+      "type": "member",
+      "label": "Joshua Eustis",
+      "detail": "Joshua Eustis 在这两支乐队都待过。",
+      "year": 2015,
+      "weight": 0.62
+    },
+    {
+      "to": "the-voidz",
+      "toName": "The Voidz",
+      "toArea": "纽约",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Alex Carapetis",
+      "detail": "Alex Carapetis 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "12-rounds",
+      "toName": "12 Rounds",
+      "toArea": "伦敦",
+      "toYears": null,
+      "type": "member",
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
+    },
+    {
+      "to": "amboog-a-lard",
+      "toName": "Amboog-a-Lard",
+      "toArea": "Coral Springs",
+      "toYears": "1987–1997",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "elements-of-life",
+      "toName": "Elements of Life",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Lisa Fischer",
+      "detail": "Lisa Fischer 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "goon-moon",
+      "toName": "Goon Moon",
+      "toArea": "美国",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "howlin-maggie",
+      "toName": "Howlin’ Maggie",
+      "toArea": "Columbus",
+      "toYears": "1994–2002",
+      "type": "member",
+      "label": "Jerome Dillon",
+      "detail": "Jerome Dillon 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "lard",
+      "toName": "Lard",
+      "toArea": "芝加哥",
+      "toYears": "1988–2000",
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "low-pop-suicide",
+      "toName": "Low Pop Suicide",
+      "toArea": "洛杉矶",
+      "toYears": null,
+      "type": "member",
+      "label": "Jeff Ward",
+      "detail": "Jeff Ward 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    },
+    {
+      "to": "prick",
+      "toName": "Prick",
+      "toArea": "洛杉矶",
+      "toYears": "1992–2003",
+      "type": "member",
+      "label": "Kevin McMahon",
+      "detail": "Kevin McMahon 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    },
+    {
+      "to": "a-place-to-kill",
+      "toName": "A Place to Kill",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    },
+    {
+      "to": "army-of-anyone",
+      "toName": "Army of Anyone",
+      "toArea": "洛杉矶",
+      "toYears": "2005–2007",
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "denver-harbor",
+      "toName": "Denver Harbor",
+      "toArea": "San Diego",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "digital-noise-academy",
+      "toName": "Digital Noise Academy",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Justin Meldal‐Johnsen",
+      "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "fear-of-blue",
+      "toName": "Fear of Blue",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Kevin McMahon",
+      "detail": "Kevin McMahon 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    },
+    {
+      "to": "hankshaw",
+      "toName": "Hankshaw",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Justin Meldal‐Johnsen",
+      "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "how-to-destroy-angels",
+      "toName": "How to Destroy Angels",
+      "toArea": "洛杉矶",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    },
+    {
       "to": "loser",
       "toName": "Loser",
       "toArea": null,
@@ -160,6 +471,17 @@
       "label": "Justin Meldal‐Johnsen",
       "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
       "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "lucky-pierre",
+      "toName": "Lucky Pierre",
+      "toArea": "Cleveland",
+      "toYears": "1974–",
+      "type": "member",
+      "label": "Kevin McMahon",
+      "detail": "Kevin McMahon 在这两支乐队都待过。",
+      "year": 1996,
       "weight": 0.62
     },
     {
@@ -185,14 +507,124 @@
       "weight": 0.62
     },
     {
-      "to": "sound-city-players",
-      "toName": "Sound City Players",
+      "to": "error",
+      "toName": "Error",
       "toArea": "美国",
-      "toYears": "2012–2013",
+      "toYears": "2003–",
       "type": "member",
-      "label": "Trent Reznor",
-      "detail": "Trent Reznor 在这两支乐队都待过。",
-      "year": 1988,
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "mick-jagger-the-brothers-of-sodom",
+      "toName": "Mick Jagger & The Brothers of Sodom",
+      "toArea": "伦敦",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Lisa Fischer",
+      "detail": "Lisa Fischer 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "modwheelmood",
+      "toName": "Modwheelmood",
+      "toArea": "洛杉矶",
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Alessandro Cortini",
+      "detail": "Alessandro Cortini 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "mrs-scabtree",
+      "toName": "Mrs. Scabtree",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "raw-dog",
+      "toName": "Raw Dog",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "satan-on-fire",
+      "toName": "Satan on Fire",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Jeordie White",
+      "detail": "Jeordie White 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "sic",
+      "toName": "( sic )",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Kevin McMahon",
+      "detail": "Kevin McMahon 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    },
+    {
+      "to": "the-act",
+      "toName": "The Act",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "the-buddha-boys-choir",
+      "toName": "The Buddha Boys Choir",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Keith Hillebrandt",
+      "detail": "Keith Hillebrandt 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "the-damning-well",
+      "toName": "The Damning Well",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Richard Patrick",
+      "detail": "Richard Patrick 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "witchgang",
+      "toName": "WitchGang",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Atticus Ross",
+      "detail": "Atticus Ross 在这两支乐队都待过。",
+      "year": 2004,
       "weight": 0.62
     },
     {
@@ -205,6 +637,39 @@
       "detail": "MusicBrainz 记录的合作关系。",
       "year": null,
       "weight": 0.55
+    },
+    {
+      "to": "linkin-park",
+      "toName": "Linkin Park",
+      "toArea": "Agoura Hills",
+      "toYears": "1996–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Nine Inch Nails 影响了 Linkin Park（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "lostprophets",
+      "toName": "Lostprophets",
+      "toArea": "Pontypridd",
+      "toYears": "1997–2013",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Nine Inch Nails 影响了 Lostprophets（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "ministry",
+      "toName": "Ministry",
+      "toArea": "芝加哥",
+      "toYears": "1981–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Nine Inch Nails 受 Ministry 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
     }
   ]
 }

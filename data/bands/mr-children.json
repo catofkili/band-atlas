@@ -1,0 +1,91 @@
+{
+  "id": "mr-children",
+  "mbid": "27f0af0e-4d1f-4808-a58b-090e400dcc43",
+  "name": "Mr.Children",
+  "area": "Shibuya",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1989–",
+  "genres": [
+    "J-Rock",
+    "Pop Rock"
+  ],
+  "albums": [
+    {
+      "title": "Kind of Love",
+      "year": 1992
+    },
+    {
+      "title": "Everything",
+      "year": 1992
+    },
+    {
+      "title": "Versus",
+      "year": 1993
+    },
+    {
+      "title": "Atomic Heart",
+      "year": 1994
+    },
+    {
+      "title": "深海",
+      "year": 1996
+    },
+    {
+      "title": "BOLERO",
+      "year": 1997
+    }
+  ],
+  "intro": "Mr.Children是日本当代最著名的摇滚乐团之一，成员有四人，包括主唱樱井和寿、吉他手田原健一 、贝斯手中川敬辅，和鼓手铃木英哉。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/27f0af0e-4d1f-4808-a58b-090e400dcc43"
+  },
+  "edges": [
+    {
+      "to": "bank-band",
+      "toName": "Bank Band",
+      "toArea": "东京",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "possession-80-2-por-cento",
+      "toName": "POSSESSION=80.2 POR CENTO",
+      "toArea": null,
+      "toYears": "2014–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "reborn-art-session",
+      "toName": "Reborn‐Art Session",
+      "toArea": "东京",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ウカスカジー",
+      "toName": "ウカスカジー",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "桜井和寿",
+      "detail": "桜井和寿 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

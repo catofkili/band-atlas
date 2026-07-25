@@ -1,0 +1,94 @@
+{
+  "id": "vicious-hatred",
+  "mbid": "affba702-20a2-489d-a81e-3c8e12e32c0f",
+  "name": "Vicious Hatred",
+  "area": "Hayward",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1981–1982",
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/affba702-20a2-489d-a81e-3c8e12e32c0f"
+  },
+  "edges": [
+    {
+      "to": "metallica",
+      "toName": "Metallica",
+      "toArea": "洛杉矶",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "trauma",
+      "toName": "Trauma",
+      "toArea": "旧金山",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "agents-of-misfortune",
+      "toName": "Agents Of Misfortune",
+      "toArea": "Hayward",
+      "toYears": null,
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "ez-street",
+      "toName": "EZ-Street",
+      "toArea": "Oakland",
+      "toYears": null,
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "maxwell-house-ranch-band",
+      "toName": "Maxwell House Ranch Band",
+      "toArea": "California",
+      "toYears": null,
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "spastik-children",
+      "toName": "Spastik Children",
+      "toArea": "California",
+      "toYears": null,
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": 1981,
+      "weight": 0.62
+    },
+    {
+      "to": "the-chickenfuckers",
+      "toName": "The Chickenfuckers",
+      "toArea": "旧金山",
+      "toYears": "1984–1984",
+      "type": "member",
+      "label": "Cliff Burton",
+      "detail": "Cliff Burton 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    }
+  ]
+}

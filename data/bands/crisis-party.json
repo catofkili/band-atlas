@@ -3,6 +3,8 @@
   "mbid": "72d2d3a9-c370-4329-9191-bfbb1da64fb4",
   "name": "Crisis Party",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 1989
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/72d2d3a9-c370-4329-9191-bfbb1da64fb4"
   },

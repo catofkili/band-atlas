@@ -1,0 +1,59 @@
+{
+  "id": "church-of-misery",
+  "mbid": "a0ac9492-36ec-44c9-8583-5d7ff988f6c6",
+  "name": "Church of Misery",
+  "area": "Shinjuku",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1995–",
+  "genres": [
+    "Doom Metal",
+    "Doom",
+    "Metal"
+  ],
+  "albums": [
+    {
+      "title": "Vol. 1",
+      "year": 1997
+    },
+    {
+      "title": "Born Too Late",
+      "year": 1998
+    },
+    {
+      "title": "Master of Brutality",
+      "year": 2001
+    },
+    {
+      "title": "Acrimony / Church of Misery",
+      "year": 2003
+    },
+    {
+      "title": "The Second Coming",
+      "year": 2004
+    },
+    {
+      "title": "Houses of the Unholy",
+      "year": 2009
+    }
+  ],
+  "intro": "チャーチ・オブ・ミザリーは、日本のドゥームメタル・バンド。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a0ac9492-36ec-44c9-8583-5d7ff988f6c6"
+  },
+  "edges": [
+    {
+      "to": "mono",
+      "toName": "MONO",
+      "toArea": "东京",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Yasunori Takada",
+      "detail": "Yasunori Takada 在这两支乐队都待过。",
+      "year": 2020,
+      "weight": 0.62
+    }
+  ]
+}

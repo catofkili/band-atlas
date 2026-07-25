@@ -1,0 +1,176 @@
+{
+  "id": "jane-s-addiction",
+  "mbid": "e3434cc7-d348-491a-9dc8-325af3d9086d",
+  "name": "Jane’s Addiction",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1986–2025",
+  "genres": [
+    "Alternative Rock",
+    "Alternative Metal",
+    "Funk Metal"
+  ],
+  "albums": [
+    {
+      "title": "Nothing’s Shocking",
+      "year": 1988
+    },
+    {
+      "title": "Ritual de lo habitual",
+      "year": 1990
+    },
+    {
+      "title": "Pigs In Zen",
+      "year": 1992
+    },
+    {
+      "title": "Strays",
+      "year": 2003
+    },
+    {
+      "title": "The Great Escape Artist",
+      "year": 2011
+    }
+  ],
+  "intro": "ジェーンズ・アディクションは、アメリカ合衆国のカリフォルニア州出身のロックバンド。R.E.M.、ピクシーズ、レッド・ホット・チリ・ペッパーズらと共に、オルタナティヴ・ロックの土台を作り上げた。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e3434cc7-d348-491a-9dc8-325af3d9086d"
+  },
+  "edges": [
+    {
+      "to": "infectious-grooves",
+      "toName": "Infectious Grooves",
+      "toArea": "美国",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "methods-of-mayhem",
+      "toName": "Methods of Mayhem",
+      "toArea": "美国",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "deconstruction",
+      "toName": "Deconstruction",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Eric Avery",
+      "detail": "Eric Avery 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-panic-channel",
+      "toName": "The Panic Channel",
+      "toArea": "洛杉矶",
+      "toYears": "2004–2007",
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "artists-against-aids-worldwide",
+      "toName": "Artists Against AIDS Worldwide",
+      "toArea": "纽约",
+      "toYears": "2001–2001",
+      "type": "member",
+      "label": "Perry Farrell",
+      "detail": "Perry Farrell 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "halloween-jack",
+      "toName": "Halloween Jack",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "kind-heaven-orchestra",
+      "toName": "Kind Heaven Orchestra",
+      "toArea": null,
+      "toYears": "2018–",
+      "type": "member",
+      "label": "Perry Farrell",
+      "detail": "Perry Farrell 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    },
+    {
+      "to": "deftones",
+      "toName": "Deftones",
+      "toArea": "Sacramento",
+      "toYears": "1988–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Jane’s Addiction 影响了 Deftones（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "linkin-park",
+      "toName": "Linkin Park",
+      "toArea": "Agoura Hills",
+      "toYears": "1996–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Jane’s Addiction 影响了 Linkin Park（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "lostprophets",
+      "toName": "Lostprophets",
+      "toArea": "Pontypridd",
+      "toYears": "1997–2013",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Jane’s Addiction 影响了 Lostprophets（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "rage-against-the-machine",
+      "toName": "Rage Against the Machine",
+      "toArea": "洛杉矶",
+      "toYears": "1991–2024",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Jane’s Addiction 影响了 Rage Against the Machine（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "slipknot",
+      "toName": "Slipknot",
+      "toArea": "Des Moines",
+      "toYears": "1995–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Jane’s Addiction 影响了 Slipknot（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

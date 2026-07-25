@@ -1,0 +1,63 @@
+{
+  "id": "13steps",
+  "mbid": "0f3907a4-ac12-49df-a3c3-705a1e95b254",
+  "name": "13Steps",
+  "area": "Cheongju",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2000–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "This Is The Reality That We Confront",
+      "year": 2005
+    },
+    {
+      "title": "The Curse Upon Liars",
+      "year": 2006
+    },
+    {
+      "title": "Existence",
+      "year": 2009
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0f3907a4-ac12-49df-a3c3-705a1e95b254"
+  },
+  "edges": [
+    {
+      "to": "잠비나이",
+      "toName": "잠비나이",
+      "toArea": "首尔",
+      "toYears": "2010–",
+      "type": "member",
+      "label": "이일우",
+      "detail": "이일우 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "49-morphines",
+      "toName": "49 Morphines",
+      "toArea": "韩国",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "이일우",
+      "detail": "이일우 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "combative-post",
+      "toName": "Combative Post",
+      "toArea": "首尔",
+      "toYears": null,
+      "type": "member",
+      "label": "이일우",
+      "detail": "이일우 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

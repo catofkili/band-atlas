@@ -1,0 +1,30 @@
+{
+  "id": "the-boo",
+  "mbid": "ec7cec28-f54f-45d2-9f98-4392de434a15",
+  "name": "The Boo",
+  "area": "Oakland",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [
+    "Alternative Rock"
+  ],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ec7cec28-f54f-45d2-9f98-4392de434a15"
+  },
+  "edges": [
+    {
+      "to": "armstrongs",
+      "toName": "Armstrongs",
+      "toArea": "美国",
+      "toYears": "2017–",
+      "type": "member",
+      "label": "Joey Armstrong",
+      "detail": "Joey Armstrong 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

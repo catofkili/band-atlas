@@ -1,0 +1,66 @@
+{
+  "id": "s-m-n",
+  "mbid": "cc28ca6b-353f-4b79-805d-275f4eec7ea9",
+  "name": "S.M.N.",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2001–",
+  "genres": [
+    "Likedis Auto"
+  ],
+  "albums": [
+    {
+      "title": "How about it?",
+      "year": 2006
+    },
+    {
+      "title": "Knocking My Soul",
+      "year": 2006
+    },
+    {
+      "title": "ホワット・イズ・バッド・トゥー・ビー・ファン!!",
+      "year": 2007
+    },
+    {
+      "title": "スマイル・ユア・ティアーズ・アウェイ",
+      "year": 2008
+    },
+    {
+      "title": "ブレイク・オープン・ザ・ドア",
+      "year": 2010
+    },
+    {
+      "title": "リペイント・イット・ニュー",
+      "year": 2010
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cc28ca6b-353f-4b79-805d-275f4eec7ea9"
+  },
+  "edges": [
+    {
+      "to": "サニーデイ-サービス",
+      "toName": "サニーデイ・サービス",
+      "toArea": "日本",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "横山裕章",
+      "detail": "横山裕章 在这两支乐队都待过。",
+      "year": 2020,
+      "weight": 0.62
+    },
+    {
+      "to": "agehasprings",
+      "toName": "agehasprings",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "横山裕章",
+      "detail": "横山裕章 在这两支乐队都待过。",
+      "year": 2010,
+      "weight": 0.62
+    }
+  ]
+}

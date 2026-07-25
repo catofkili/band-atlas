@@ -1,0 +1,94 @@
+{
+  "id": "d-t-r",
+  "mbid": "07ceb4a7-8664-4679-a854-cd7487ab72ef",
+  "name": "D.T.R",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1993–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Dirty Trashroad",
+      "year": 1994
+    },
+    {
+      "title": "DARING TRIBAL ROAR",
+      "year": 1995
+    }
+  ],
+  "intro": "D.T.Rは、日本のハードロックバンド。ロックベーシストの沢田泰司を中心に結成、活動した。旧名「DIRTY TRASHROAD」。1996年に活動停止。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/07ceb4a7-8664-4679-a854-cd7487ab72ef"
+  },
+  "edges": [
+    {
+      "to": "loudness",
+      "toName": "LOUDNESS",
+      "toArea": "大阪",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "dead-wire",
+      "toName": "Dead Wire",
+      "toArea": "日本",
+      "toYears": "1986–1986",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "dementia",
+      "toName": "Dementia",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 1984,
+      "weight": 0.62
+    },
+    {
+      "to": "heavens",
+      "toName": "HEAVENS",
+      "toArea": "日本",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "trash",
+      "toName": "Trash",
+      "toArea": "日本",
+      "toYears": "1983–1984",
+      "type": "member",
+      "label": "TAIJI",
+      "detail": "TAIJI 在这两支乐队都待过。",
+      "year": 1983,
+      "weight": 0.62
+    }
+  ]
+}

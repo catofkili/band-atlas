@@ -1,0 +1,73 @@
+{
+  "id": "12-rods",
+  "mbid": "6b69ad23-4b6d-4d58-8818-ff00b4e1b024",
+  "name": "12 Rods",
+  "area": "牛津",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1992–2025",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Bliss",
+      "year": 1993
+    },
+    {
+      "title": "Split Personalities",
+      "year": 1998
+    },
+    {
+      "title": "Separation Anxieties",
+      "year": 2000
+    },
+    {
+      "title": "Lost Time",
+      "year": 2002
+    },
+    {
+      "title": "If We Stayed Alive",
+      "year": 2023
+    }
+  ],
+  "intro": "12 Rods (also known by the stylistic variants 12RODS and Twelve Rods) was an American indie rock band from Minneapolis, Minnesota.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6b69ad23-4b6d-4d58-8818-ff00b4e1b024"
+  },
+  "edges": [
+    {
+      "to": "kid-dakota",
+      "toName": "Kid Dakota",
+      "toArea": "明尼阿波利斯",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "Christopher McGuire",
+      "detail": "Christopher McGuire 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "くるり",
+      "toName": "くるり",
+      "toArea": "京都",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Christopher McGuire",
+      "detail": "Christopher McGuire 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "puppies",
+      "toName": "Puppies",
+      "toArea": "牛津",
+      "toYears": null,
+      "type": "member",
+      "label": "Christopher McGuire",
+      "detail": "Christopher McGuire 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    }
+  ]
+}

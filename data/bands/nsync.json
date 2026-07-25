@@ -1,0 +1,58 @@
+{
+  "id": "nsync",
+  "mbid": "603ba565-3967-4be1-931e-9cb945394e86",
+  "name": "*NSYNC",
+  "area": null,
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "*NSYNC",
+      "year": 1997
+    },
+    {
+      "title": "Home for Christmas",
+      "year": 1998
+    },
+    {
+      "title": "No Strings Attached",
+      "year": 2000
+    },
+    {
+      "title": "Celebrity",
+      "year": 2001
+    }
+  ],
+  "intro": "超级男孩是美国一组已解散的流行男子演唱组合，来自佛罗里达州奥兰多。由兰斯·贝斯、杰西·契西、乔伊·费敦、克里斯·克帕特里克、贾斯汀·汀布莱克组成。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/603ba565-3967-4be1-931e-9cb945394e86"
+  },
+  "edges": [
+    {
+      "to": "backstreet-boys",
+      "toName": "Backstreet Boys",
+      "toArea": null,
+      "toYears": null,
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "*NSYNC 受 Backstreet Boys 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "artists-against-aids-worldwide",
+      "toName": "Artists Against AIDS Worldwide",
+      "toArea": "纽约",
+      "toYears": "2001–2001",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

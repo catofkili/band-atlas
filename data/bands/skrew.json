@@ -1,0 +1,54 @@
+{
+  "id": "skrew",
+  "mbid": "d41885a6-14ce-4ea4-8ce7-d0b222af897e",
+  "name": "Skrew",
+  "area": "奥斯汀",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1990–",
+  "genres": [
+    "Industrial Metal",
+    "Thrash Metal"
+  ],
+  "albums": [
+    {
+      "title": "Burning in Water, Drowning in Flame",
+      "year": 1992
+    },
+    {
+      "title": "Dusted",
+      "year": 1994
+    },
+    {
+      "title": "Shadow of Doubt",
+      "year": 1996
+    },
+    {
+      "title": "Angel Seed XXIII",
+      "year": 1997
+    },
+    {
+      "title": "Universal Immolation",
+      "year": 2014
+    }
+  ],
+  "intro": "Skrew is an American industrial metal band.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d41885a6-14ce-4ea4-8ce7-d0b222af897e"
+  },
+  "edges": [
+    {
+      "to": "scar-the-martyr",
+      "toName": "Scar the Martyr",
+      "toArea": "美国",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Jed Simon",
+      "detail": "Jed Simon 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    }
+  ]
+}

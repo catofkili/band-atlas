@@ -3,6 +3,8 @@
   "mbid": "9b6521b9-d689-4ffc-ba3e-9f61ad557d41",
   "name": "The John Doe Thing",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [
@@ -19,6 +21,7 @@
       "year": 2006
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/9b6521b9-d689-4ffc-ba3e-9f61ad557d41"
   },

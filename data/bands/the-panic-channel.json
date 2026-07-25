@@ -1,0 +1,68 @@
+{
+  "id": "the-panic-channel",
+  "mbid": "1ab5659c-aa39-479e-8920-92eaa98999fe",
+  "name": "The Panic Channel",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2004–2007",
+  "genres": [],
+  "albums": [
+    {
+      "title": "(One)",
+      "year": 2006
+    }
+  ],
+  "intro": "The Panic Channel was an American post-hardcore band formed in Los Angeles, California, United States, in 2004, following the third break-up of Jane's Addiction.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1ab5659c-aa39-479e-8920-92eaa98999fe"
+  },
+  "edges": [
+    {
+      "to": "jane-s-addiction",
+      "toName": "Jane’s Addiction",
+      "toArea": "洛杉矶",
+      "toYears": "1986–2025",
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "infectious-grooves",
+      "toName": "Infectious Grooves",
+      "toArea": "美国",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "methods-of-mayhem",
+      "toName": "Methods of Mayhem",
+      "toArea": "美国",
+      "toYears": "1999–",
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "halloween-jack",
+      "toName": "Halloween Jack",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Stephen Perkins",
+      "detail": "Stephen Perkins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

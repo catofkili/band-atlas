@@ -1,0 +1,39 @@
+{
+  "id": "寺子屋",
+  "mbid": "5d74d104-d513-448d-8bab-86070a897121",
+  "name": "寺子屋",
+  "area": null,
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5d74d104-d513-448d-8bab-86070a897121"
+  },
+  "edges": [
+    {
+      "to": "acidman",
+      "toName": "ACIDMAN",
+      "toArea": "埼玉",
+      "toYears": "1997–",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "radwimps",
+      "toName": "RADWIMPS",
+      "toArea": "横滨",
+      "toYears": "2001–",
+      "type": "guest",
+      "label": "合作",
+      "detail": "MusicBrainz 记录的合作关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

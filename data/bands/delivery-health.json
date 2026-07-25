@@ -3,6 +3,8 @@
   "mbid": "2379fc01-5de4-40c4-b647-a25dccdb03fe",
   "name": "Delivery Health",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2017
     }
   ],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2379fc01-5de4-40c4-b647-a25dccdb03fe"
   },
@@ -29,6 +32,17 @@
     {
       "to": "kafka-s-ibiki",
       "toName": "Kafka’s Ibiki",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "山本達久",
+      "detail": "山本達久 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "eiko-ishibashi-trio",
+      "toName": "Eiko Ishibashi Trio",
       "toArea": "日本",
       "toYears": null,
       "type": "member",

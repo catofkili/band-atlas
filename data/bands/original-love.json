@@ -1,0 +1,69 @@
+{
+  "id": "original-love",
+  "mbid": "da1b555e-946c-4e5f-bfe3-dedd6102cdd2",
+  "name": "ORIGINAL LOVE",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1986–",
+  "genres": [
+    "J-Pop",
+    "Shibuya-Kei"
+  ],
+  "albums": [
+    {
+      "title": "LOVE! LOVE! & LOVE!",
+      "year": 1991
+    },
+    {
+      "title": "SOUL LIBERATION「結晶」",
+      "year": 1992
+    },
+    {
+      "title": "EYES",
+      "year": 1993
+    },
+    {
+      "title": "風の歌を聴け",
+      "year": 1994
+    },
+    {
+      "title": "Desire",
+      "year": 1996
+    },
+    {
+      "title": "イレヴン・グラフィティ",
+      "year": 1997
+    }
+  ],
+  "intro": "Original Loveは、日本の音楽ユニット。1985年結成。1991年にメジャー・デビュー。結成当初4人、メジャー・デビュー時は5人のバンドだったが1995年以降、田島貴男のソロユニットとして活動。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/da1b555e-946c-4e5f-bfe3-dedd6102cdd2"
+  },
+  "edges": [
+    {
+      "to": "pizzicato-five",
+      "toName": "Pizzicato Five",
+      "toArea": "东京",
+      "toYears": "1984–2001",
+      "type": "member",
+      "label": "田島貴男",
+      "detail": "田島貴男 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "portable-rock",
+      "toName": "portable rock",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "宮田繁男",
+      "detail": "宮田繁男 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,180 @@
+{
+  "id": "the-rolling-stones",
+  "mbid": "b071f9fa-14b0-4217-8e97-eb41da73f598",
+  "name": "The Rolling Stones",
+  "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1962–",
+  "genres": [
+    "Rock",
+    "Blues Rock",
+    "Classic Rock"
+  ],
+  "albums": [
+    {
+      "title": "12 × 5",
+      "year": 1964
+    },
+    {
+      "title": "England’s Newest Hit Makers",
+      "year": 1964
+    },
+    {
+      "title": "The Rolling Stones, Now!",
+      "year": 1965
+    },
+    {
+      "title": "Out of Our Heads",
+      "year": 1965
+    },
+    {
+      "title": "The Rolling Stones No. 2",
+      "year": 1965
+    },
+    {
+      "title": "December’s Children (and Everybody’s)",
+      "year": 1965
+    }
+  ],
+  "intro": "滚石乐队是一支英国摇滚乐乐队，于1962年4月在伦敦成立。布莱恩·琼斯、伊恩·斯图尔特、米克·贾格尔以及基思·理查兹，加上贝斯手比尔·怀曼和鼓手查理·沃茨组成了早期的滚石乐队。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b071f9fa-14b0-4217-8e97-eb41da73f598"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Rolling Stones 影响了 Guns N’ Roses（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "oasis",
+      "toName": "Oasis",
+      "toArea": "曼彻斯特",
+      "toYears": "1991–2009 / 2024–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Rolling Stones 影响了 Oasis（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ronnie Wood",
+      "detail": "Ronnie Wood 在这两支乐队都待过。",
+      "year": 1975,
+      "weight": 0.62
+    },
+    {
+      "to": "mick-jagger-the-brothers-of-sodom",
+      "toName": "Mick Jagger & The Brothers of Sodom",
+      "toArea": "伦敦",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Mick Jagger",
+      "detail": "Mick Jagger 在这两支乐队都待过。",
+      "year": 1962,
+      "weight": 0.62
+    },
+    {
+      "to": "rock-therapy",
+      "toName": "Rock Therapy",
+      "toArea": "英国",
+      "toYears": "1996–1996",
+      "type": "member",
+      "label": "Charlie Watts",
+      "detail": "Charlie Watts 在这两支乐队都待过。",
+      "year": 1963,
+      "weight": 0.62
+    },
+    {
+      "to": "supergroup-b",
+      "toName": "Supergroup B",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ronnie Wood",
+      "detail": "Ronnie Wood 在这两支乐队都待过。",
+      "year": 1975,
+      "weight": 0.62
+    },
+    {
+      "to": "the-ronnie-wood-band",
+      "toName": "The Ronnie Wood Band",
+      "toArea": "英国",
+      "toYears": "2001–2002",
+      "type": "member",
+      "label": "Ronnie Wood",
+      "detail": "Ronnie Wood 在这两支乐队都待过。",
+      "year": 1975,
+      "weight": 0.62
+    },
+    {
+      "to": "led-zeppelin",
+      "toName": "Led Zeppelin",
+      "toArea": "伦敦",
+      "toYears": "1968–1980",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Rolling Stones 影响了 Led Zeppelin（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "pearl-jam",
+      "toName": "Pearl Jam",
+      "toArea": "西雅图",
+      "toYears": "1990–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Rolling Stones 影响了 Pearl Jam（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "sex-pistols",
+      "toName": "Sex Pistols",
+      "toArea": null,
+      "toYears": null,
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Rolling Stones 影响了 Sex Pistols（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Rolling Stones 受 The Beatles 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "u2",
+      "toName": "U2",
+      "toArea": "都柏林",
+      "toYears": "1976–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Rolling Stones 影响了 U2（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

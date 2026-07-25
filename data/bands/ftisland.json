@@ -1,0 +1,69 @@
+{
+  "id": "ftisland",
+  "mbid": "dea836e0-66dd-4285-9cab-2272bcda93b8",
+  "name": "FTISLAND",
+  "area": "首尔",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2007–",
+  "genres": [
+    "K-Pop",
+    "Pop Rock"
+  ],
+  "albums": [
+    {
+      "title": "The Refreshment",
+      "year": 2007
+    },
+    {
+      "title": "Cheerful Sensibility",
+      "year": 2007
+    },
+    {
+      "title": "Colorful Sensibility",
+      "year": 2008
+    },
+    {
+      "title": "Cross & Change",
+      "year": 2009
+    },
+    {
+      "title": "So long, Au revoir",
+      "year": 2009
+    },
+    {
+      "title": "Double Date",
+      "year": 2009
+    }
+  ],
+  "intro": "FTISLAND，韩国流行摇滚乐团。是FNC娱乐公司旗下首支乐团，也是韩国流行音乐中第一个偶像乐团。现任成员有主唱李洪基、贝斯手李在真和鼓手崔敏焕。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/dea836e0-66dd-4285-9cab-2272bcda93b8"
+  },
+  "edges": [
+    {
+      "to": "ft-triple",
+      "toName": "FT.triple",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "최종훈・최민환・이재진・副项目",
+      "detail": "4 位乐手在这两支乐队都待过：최종훈・최민환・이재진・副项目。",
+      "year": 2007,
+      "weight": 0.95
+    },
+    {
+      "to": "a-n-jell",
+      "toName": "A.N.JELL",
+      "toArea": "首尔",
+      "toYears": "2009–2009",
+      "type": "member",
+      "label": "이홍기",
+      "detail": "이홍기 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    }
+  ]
+}

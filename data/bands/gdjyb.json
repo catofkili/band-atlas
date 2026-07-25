@@ -1,0 +1,39 @@
+{
+  "id": "gdjyb",
+  "mbid": "47f6f7aa-a127-4dc4-a057-ee7389e59bd5",
+  "name": "GDJYB",
+  "area": "Hong Kong",
+  "countryCode": "HK",
+  "country": "香港",
+  "years": "2012–",
+  "genres": [
+    "Female Vocals",
+    "Hong Kong Rock Band",
+    "Math Folk"
+  ],
+  "albums": [
+    {
+      "title": "23:59 Before Tomorrow",
+      "year": 2017
+    }
+  ],
+  "intro": "鸡蛋蒸肉饼简称鸡饼，来自香港的中性风全女子乐团，成员有主音Soft Liu、吉他手Soni Cheng、贝斯手Wing Chan和鼓手Heihei Ng。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/47f6f7aa-a127-4dc4-a057-ee7389e59bd5"
+  },
+  "edges": [
+    {
+      "to": "絕命青年",
+      "toName": "絕命青年",
+      "toArea": "台湾",
+      "toYears": "2021–",
+      "type": "member",
+      "label": "Soni Cheng・Soft Liu",
+      "detail": "2 位乐手在这两支乐队都待过：Soni Cheng・Soft Liu。",
+      "year": 2012,
+      "weight": 0.84
+    }
+  ]
+}

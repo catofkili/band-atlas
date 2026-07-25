@@ -3,9 +3,12 @@
   "mbid": "978a0d05-1dab-4515-be85-05b7b28c1f32",
   "name": "Glenn Branca Ensemble",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/978a0d05-1dab-4515-be85-05b7b28c1f32"
   },

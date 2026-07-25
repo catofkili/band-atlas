@@ -1,0 +1,87 @@
+{
+  "id": "sons-of-apollo",
+  "mbid": "b858e183-b29c-493a-92bd-9474f1e6590d",
+  "name": "Sons of Apollo",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "2017–",
+  "genres": [
+    "Progressive Metal",
+    "Alternative Metal",
+    "Hard Rock"
+  ],
+  "albums": [
+    {
+      "title": "Psychotic Symphony",
+      "year": 2017
+    },
+    {
+      "title": "MMXX",
+      "year": 2020
+    }
+  ],
+  "intro": "サンズ・オブ・アポロは、アメリカ合衆国出身のプログレッシブ・メタル・スーパーグループである。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b858e183-b29c-493a-92bd-9474f1e6590d"
+  },
+  "edges": [
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "member",
+      "label": "Ron “Bumblefoot” Thal",
+      "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "art-of-anarchy",
+      "toName": "Art of Anarchy",
+      "toArea": "美国",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "Ron “Bumblefoot” Thal・Jeff Scott Soto",
+      "detail": "2 位乐手在这两支乐队都待过：Ron “Bumblefoot” Thal・Jeff Scott Soto。",
+      "year": 2017,
+      "weight": 0.84
+    },
+    {
+      "to": "whom-gods-destroy",
+      "toName": "Whom Gods Destroy",
+      "toArea": "美国",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "Ron “Bumblefoot” Thal・Derek Sherinian",
+      "detail": "2 位乐手在这两支乐队都待过：Ron “Bumblefoot” Thal・Derek Sherinian。",
+      "year": 2017,
+      "weight": 0.84
+    },
+    {
+      "to": "asia",
+      "toName": "Asia",
+      "toArea": "伦敦",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Ron “Bumblefoot” Thal",
+      "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
+      "year": 2019,
+      "weight": 0.62
+    },
+    {
+      "to": "beatrazr",
+      "toName": "Beatrazr",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ron “Bumblefoot” Thal",
+      "detail": "Ron “Bumblefoot” Thal 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    }
+  ]
+}

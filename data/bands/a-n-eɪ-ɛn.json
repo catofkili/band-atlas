@@ -1,0 +1,59 @@
+{
+  "id": "a-n-eɪ-ɛn",
+  "mbid": "d1c2c6a4-7a74-4d30-a981-7b76df525cee",
+  "name": "A/N【eɪ-ɛn】",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2018–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "素描集Ⅰ",
+      "year": 2018
+    },
+    {
+      "title": "素描集Ⅱ",
+      "year": 2019
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d1c2c6a4-7a74-4d30-a981-7b76df525cee"
+  },
+  "edges": [
+    {
+      "to": "鬼-o-n-i",
+      "toName": "鬼 -O.N.I-",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "Atsuo・Takeshi・森川誠一郎",
+      "detail": "3 位乐手在这两支乐队都待过：Atsuo・Takeshi・森川誠一郎。",
+      "year": 2018,
+      "weight": 0.95
+    },
+    {
+      "to": "boris",
+      "toName": "Boris",
+      "toArea": "东京",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Atsuo・Takeshi",
+      "detail": "2 位乐手在这两支乐队都待过：Atsuo・Takeshi。",
+      "year": 2018,
+      "weight": 0.84
+    },
+    {
+      "to": "hakaiders",
+      "toName": "Hakaiders",
+      "toArea": "日本",
+      "toYears": "1989–1996",
+      "type": "member",
+      "label": "Atsuo",
+      "detail": "Atsuo 在这两支乐队都待过。",
+      "year": 2018,
+      "weight": 0.62
+    }
+  ]
+}

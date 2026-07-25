@@ -6,7 +6,7 @@
  * 「乐队 ↔ 乐队」。所以要穿过人来连——凡是共享过同一个乐手的两支乐队之间
  * 就落一条边，标签写那个人的名字。这正是「某个鼓手后来去了哪支乐队」。
  *
- *   node tools/crawl.mjs [--max-bands 400] [--depth 2]
+ *   node tools/crawl.mjs [--max-bands 400] [--depth 2] [--seed-limit 24]
  *
  * 全程限速一秒一次并落盘缓存，中断了重跑不会重复打接口。
  */
@@ -24,6 +24,10 @@ const arg = (name, fallback) => {
 };
 const MAX_BANDS = arg('max-bands', 400);
 const DEPTH = arg('depth', 2);
+// 人工场景种子始终全部保留；额外种子按 seeds.json 的热门度顺序只拿前 N 支。
+// 这样不会为了「扩数据」一口气把成千上万支边缘项目也拉进来。
+const SEED_LIMIT = arg('seed-limit', 24);
+const EAST_SEED_LIMIT = arg('east-seed-limit', 60);
 /** 一个人挂太多乐队多半是录音室乐手，两两连边会炸出一堆噪音 */
 const MAX_BANDS_PER_PERSON = 8;
 
@@ -54,6 +58,18 @@ const AREA_ZH = {
 };
 
 const zhArea = (name) => (name ? (AREA_ZH[name] ?? name) : null);
+const COUNTRY_ZH = {
+  JP: '日本', KR: '韩国', KP: '朝鲜', CN: '中国', TW: '台湾', HK: '香港', MO: '澳门', MN: '蒙古',
+  US: '美国', GB: '英国', IE: '爱尔兰', CA: '加拿大', AU: '澳大利亚', NZ: '新西兰',
+  DE: '德国', FR: '法国', SE: '瑞典', NO: '挪威', DK: '丹麦', FI: '芬兰', IS: '冰岛',
+  NL: '荷兰', BE: '比利时', ES: '西班牙', IT: '意大利', PT: '葡萄牙', AT: '奥地利', CH: '瑞士',
+};
+
+function countryCodeOf(artist) {
+  // country 是 MusicBrainz 给艺人的 ISO 3166-1 代码；即使展示地点是某个区或城市，
+  // 也能可靠地归到国家。area 本身为 Country 时则从它的 ISO 代码兜底。
+  return artist.country ?? artist.area?.['iso-3166-1-codes']?.[0] ?? null;
+}
 
 // 值得留下的乐队↔乐队关系；其余（致敬、翻唱、同名等）一律丢弃
 const DIRECT_REL = {
@@ -157,22 +173,65 @@ async function resolveSeeds() {
   const curated = JSON.parse(
     await readFile(path.join(root, 'data/source/scene-jrock.json'), 'utf8')
   );
+  let extra = { seeds: [] };
+  try {
+    extra = JSON.parse(await readFile(path.join(root, 'data/source/seeds.json'), 'utf8'));
+  } catch {
+    /* 没有额外种子就只用人工整理的那批 */
+  }
+  let popular = { seeds: [] };
+  try {
+    popular = JSON.parse(await readFile(path.join(root, 'data/source/popular-seeds.json'), 'utf8'));
+  } catch {
+    /* 还没拉 ListenBrainz 榜单时，沿用手工热门序列 */
+  }
+  let eastAsia = { seeds: [] };
+  try {
+    eastAsia = JSON.parse(await readFile(path.join(root, 'data/source/east-asia-seeds.json'), 'utf8'));
+  } catch {
+    /* 没有东亚扩展种子时不影响原有数据管线 */
+  }
+  let rankedEastAsia = { seeds: [] };
+  try {
+    rankedEastAsia = JSON.parse(await readFile(path.join(root, 'data/source/east-asia-ranked-seeds.json'), 'utf8'));
+  } catch {
+    /* 热度榜尚未生成时使用人工候选顺序 */
+  }
+
+  // 有 ListenBrainz 榜单时，它是唯一的扩展顺序；手工列表只在没取到榜单时兜底。
+  const extraSeeds = (popular.seeds?.length ? popular.seeds : extra.seeds ?? [])
+    .slice(0, Math.max(0, SEED_LIMIT))
+    .map((seed) => (typeof seed === 'string' ? { name: seed } : seed));
+  const eastSeeds = (rankedEastAsia.seeds?.length ? rankedEastAsia.seeds : eastAsia.seeds ?? [])
+    .slice(0, Math.max(0, EAST_SEED_LIMIT))
+    .map((seed) => (typeof seed === 'string' ? { name: seed } : seed));
+  // 旧的热门榜种子保住现有网络；新的扩展名额优先给东亚种子。
+  const wanted = [...curated.bands.map((b) => ({ name: b.name, mbid: b.mbid })), ...eastSeeds, ...extraSeeds];
+
   const seeds = [];
-  for (const b of curated.bands) {
-    if (b.mbid) {
-      seeds.push(b.mbid);
+  const missed = [];
+  for (const w of wanted) {
+    if (w.mbid) {
+      // ListenBrainz 的榜单混有个人艺人。这里先确认是 Group，
+      // 否则下面的成员关系爬取会把独唱艺人当成乐队根节点。
+      const hit = bands.get(w.mbid) ?? (await mbArtist(w.mbid));
+      if (hit?.type !== 'Group') continue;
+      bands.set(hit.id, hit);
+      if (!seeds.includes(hit.id)) seeds.push(hit.id);
       continue;
     }
-    const res = await mbSearchArtist(b.name);
+    const res = await mbSearchArtist(w.name);
     const hit = (res?.artists ?? []).find((a) => a.type === 'Group') ?? res?.artists?.[0];
     if (!hit) {
-      log(`  ! 找不到种子：${b.name}`);
+      missed.push(w.name);
       continue;
     }
-    log(`  种子 ${b.name} → ${hit.name} (${hit.id})`);
-    seeds.push(hit.id);
-    bands.set(hit.id, hit);
+    if (!seeds.includes(hit.id)) {
+      seeds.push(hit.id);
+      bands.set(hit.id, hit);
+    }
   }
+  if (missed.length) log(`  ! 认领不到：${missed.join('、')}`);
   return seeds;
 }
 
@@ -180,7 +239,7 @@ async function resolveSeeds() {
 
 log(`开始爬取：上限 ${MAX_BANDS} 支乐队，深度 ${DEPTH}`);
 const seeds = await resolveSeeds();
-log(`种子 ${seeds.length} 支`);
+log(`种子 ${seeds.length} 支（人工场景 + 东亚种子前 ${EAST_SEED_LIMIT} 支 + 热门榜前 ${SEED_LIMIT} 位）`);
 
 let frontier = seeds;
 for (let depth = 1; depth <= DEPTH; depth++) {
@@ -325,6 +384,8 @@ for (const id of keep) {
     mbid: id,
     name: a.name,
     area: zhArea(a['begin-area']?.name ?? a.area?.name),
+    countryCode: countryCodeOf(a),
+    country: COUNTRY_ZH[countryCodeOf(a)] ?? null,
     years,
     genres,
     albums: albumsOf.get(id) ?? [],

@@ -3,6 +3,8 @@
   "mbid": "387ae7c0-187a-45b8-9eca-72c389f003e4",
   "name": "Brides of Destruction",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2002–2006",
   "genres": [],
   "albums": [
@@ -17,6 +19,7 @@
   ],
   "intro": "Brides of Destruction was an American hard rock supergroup from Los Angeles, California, formed in 2002.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/387ae7c0-187a-45b8-9eca-72c389f003e4"
   },

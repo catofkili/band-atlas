@@ -1,0 +1,105 @@
+{
+  "id": "ザ-プールサイド",
+  "mbid": "c8f02519-3344-436c-8bd2-cf61228e9b24",
+  "name": "ザ・プールサイド",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "2016–",
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c8f02519-3344-436c-8bd2-cf61228e9b24"
+  },
+  "edges": [
+    {
+      "to": "くるり",
+      "toName": "くるり",
+      "toArea": "京都",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "岸田繁",
+      "detail": "岸田繁 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    },
+    {
+      "to": "suchmos",
+      "toName": "Suchmos",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "YONCE",
+      "detail": "YONCE 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "singer-songer",
+      "toName": "SINGER SONGER",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "岸田繁",
+      "detail": "岸田繁 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "hedigan-s",
+      "toName": "Hedigan's",
+      "toArea": "日本",
+      "toYears": "2024–",
+      "type": "member",
+      "label": "YONCE",
+      "detail": "YONCE 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "possession-80-2-por-cento",
+      "toName": "POSSESSION=80.2 POR CENTO",
+      "toArea": null,
+      "toYears": "2014–",
+      "type": "member",
+      "label": "KREVA",
+      "detail": "KREVA 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "radio-happy-willows",
+      "toName": "Radio Happy Willows",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "大橋卓弥",
+      "detail": "大橋卓弥 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "radio-soul20",
+      "toName": "RADIO SOUL20",
+      "toArea": null,
+      "toYears": "2009–",
+      "type": "member",
+      "label": "岸田繁",
+      "detail": "岸田繁 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-three",
+      "toName": "The THREE",
+      "toArea": null,
+      "toYears": "2008–",
+      "type": "member",
+      "label": "KREVA",
+      "detail": "KREVA 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

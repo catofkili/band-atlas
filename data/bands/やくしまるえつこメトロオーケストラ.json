@@ -1,0 +1,39 @@
+{
+  "id": "やくしまるえつこメトロオーケストラ",
+  "mbid": "ff3b0cc2-70e6-4952-b511-5e628a825242",
+  "name": "やくしまるえつこメトロオーケストラ",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ff3b0cc2-70e6-4952-b511-5e628a825242"
+  },
+  "edges": [
+    {
+      "to": "相対性理論",
+      "toName": "相対性理論",
+      "toArea": "东京",
+      "toYears": "2006–",
+      "type": "member",
+      "label": "やくしまるえつこ",
+      "detail": "やくしまるえつこ 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "fishmans",
+      "toName": "Fishmans+",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "やくしまるえつこ",
+      "detail": "やくしまるえつこ 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

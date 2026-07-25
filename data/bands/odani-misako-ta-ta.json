@@ -3,6 +3,8 @@
   "mbid": "92eea162-c19a-4437-bdcd-6d9016cd9574",
   "name": "odani misako・ta-ta",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2003–",
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2003
     }
   ],
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/92eea162-c19a-4437-bdcd-6d9016cd9574"
   },

@@ -1,0 +1,55 @@
+{
+  "id": "the-ne-er-do-wells",
+  "mbid": "1b25c8f1-0a9a-4305-94c7-1d554e2fef0a",
+  "name": "The Ne’er Do Wells",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Gift of Knowledge",
+      "year": 1993
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1b25c8f1-0a9a-4305-94c7-1d554e2fef0a"
+  },
+  "edges": [
+    {
+      "to": "thee-shatners",
+      "toName": "Thee Shatners",
+      "toArea": "旧金山",
+      "toYears": null,
+      "type": "member",
+      "label": "John Kiffmeyer・Jess Hilliard・Chris Imlay・副项目",
+      "detail": "4 位乐手在这两支乐队都待过：John Kiffmeyer・Jess Hilliard・Chris Imlay・副项目。",
+      "year": null,
+      "weight": 0.95
+    },
+    {
+      "to": "green-day",
+      "toName": "Green Day",
+      "toArea": "Berkeley",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "John Kiffmeyer",
+      "detail": "John Kiffmeyer 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "monsula",
+      "toName": "Monsula",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Paul Curran",
+      "detail": "Paul Curran 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

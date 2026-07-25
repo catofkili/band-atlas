@@ -1,0 +1,108 @@
+{
+  "id": "juno",
+  "mbid": "6c0994fb-382e-4510-8e26-56709afaf190",
+  "name": "Juno",
+  "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1995–2003",
+  "genres": [
+    "Post-Hardcore",
+    "Post-Rock"
+  ],
+  "albums": [
+    {
+      "title": "this is the way it goes and goes and goes",
+      "year": 1999
+    },
+    {
+      "title": "A Future Lived in Past Tense",
+      "year": 2001
+    }
+  ],
+  "intro": "Juno was an American indie rock band formed in Seattle, Washington in 1995.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6c0994fb-382e-4510-8e26-56709afaf190"
+  },
+  "edges": [
+    {
+      "to": "christ-on-a-crutch",
+      "toName": "Christ on a Crutch",
+      "toArea": "Richland",
+      "toYears": "1983–1993",
+      "type": "member",
+      "label": "Nate Mendel・Eric Akre",
+      "detail": "2 位乐手在这两支乐队都待过：Nate Mendel・Eric Akre。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "diddly-squat",
+      "toName": "Diddly Squat",
+      "toArea": "Richland",
+      "toYears": null,
+      "type": "member",
+      "label": "Nate Mendel・Eric Akre",
+      "detail": "2 位乐手在这两支乐队都待过：Nate Mendel・Eric Akre。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": 1995,
+      "weight": 0.62
+    },
+    {
+      "to": "sunny-day-real-estate",
+      "toName": "Sunny Day Real Estate",
+      "toArea": "西雅图",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "dee-gees",
+      "toName": "Dee Gees",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-fire-theft",
+      "toName": "The Fire Theft",
+      "toArea": "西雅图",
+      "toYears": "2001–2004",
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "sound-city-players",
+      "toName": "Sound City Players",
+      "toArea": "美国",
+      "toYears": "2012–2013",
+      "type": "member",
+      "label": "Nate Mendel",
+      "detail": "Nate Mendel 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

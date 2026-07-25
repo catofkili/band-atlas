@@ -1,0 +1,55 @@
+{
+  "id": "infrared-hologram",
+  "mbid": "90e6ab93-96d8-44ad-bcb3-53c9c781c93d",
+  "name": "Infrared Hologram",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Exploding Flowers",
+      "year": 2024
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/90e6ab93-96d8-44ad-bcb3-53c9c781c93d"
+  },
+  "edges": [
+    {
+      "to": "zone-six",
+      "toName": "Zone Six",
+      "toArea": "柏林",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Rainer Neeff",
+      "detail": "Rainer Neeff 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "krautzone",
+      "toName": "Krautzone",
+      "toArea": "德国",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "Rainer Neeff",
+      "detail": "Rainer Neeff 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pancakes",
+      "toName": "The Pancakes",
+      "toArea": "Baden-Württemberg",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Rainer Neeff",
+      "detail": "Rainer Neeff 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

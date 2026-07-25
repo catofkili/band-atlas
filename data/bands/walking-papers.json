@@ -3,6 +3,8 @@
   "mbid": "cf7e57f4-d310-4a00-8bbb-6c30e2046ae8",
   "name": "Walking Papers",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2012–",
   "genres": [],
   "albums": [
@@ -25,6 +27,7 @@
   ],
   "intro": "Walking Papers is an American rock band from Seattle, Washington, formed in 2012.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cf7e57f4-d310-4a00-8bbb-6c30e2046ae8"
   },

@@ -1,0 +1,28 @@
+{
+  "id": "fatso",
+  "mbid": "008a85d4-7cdc-4087-806d-09356a6c2e96",
+  "name": "Fatso",
+  "area": "旧金山",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1994–",
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/008a85d4-7cdc-4087-806d-09356a6c2e96"
+  },
+  "edges": [
+    {
+      "to": "judas",
+      "toName": "Judas",
+      "toArea": "旧金山",
+      "toYears": null,
+      "type": "member",
+      "label": "Kelly Smith",
+      "detail": "Kelly Smith 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    }
+  ]
+}

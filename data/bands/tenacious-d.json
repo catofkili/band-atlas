@@ -3,6 +3,8 @@
   "mbid": "148ddea2-6839-4354-8e2c-5dfadf136b7f",
   "name": "Tenacious D",
   "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1994–",
   "genres": [
     "Comedy Rock",
@@ -21,6 +23,7 @@
   ],
   "intro": "顽强的D是一支由杰克·布莱克和凯尔·盖斯于1994年在加利福尼亚州洛杉矶组成的二人喜剧摇滚乐队，共发行了三张专辑，即《顽强的D》、《摇滚之神》和《浴火重生》。",
   "introLang": "zh",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/148ddea2-6839-4354-8e2c-5dfadf136b7f"
   },
@@ -52,6 +55,28 @@
       "toName": "The Vandals",
       "toArea": "Huntington Beach",
       "toYears": "1980–",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "infectious-grooves",
+      "toName": "Infectious Grooves",
+      "toArea": "美国",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Brooks Wackerman",
+      "detail": "Brooks Wackerman 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "mass-mental",
+      "toName": "Mass Mental?",
+      "toArea": null,
+      "toYears": "1998–2002",
       "type": "member",
       "label": "Brooks Wackerman",
       "detail": "Brooks Wackerman 在这两支乐队都待过。",

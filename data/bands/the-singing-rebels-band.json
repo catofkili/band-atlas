@@ -1,0 +1,215 @@
+{
+  "id": "the-singing-rebels-band",
+  "mbid": "fe6bd6fb-dcc3-4091-b97d-8b0097702bd2",
+  "name": "The Singing Rebels’ Band",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": "1985–1985",
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fe6bd6fb-dcc3-4091-b97d-8b0097702bd2"
+  },
+  "edges": [
+    {
+      "to": "george-s-band",
+      "toName": "George's Band",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ringo Starr・Eric Clapton・Ray Cooper・Chris Stainton",
+      "detail": "4 位乐手在这两支乐队都待过：Ringo Starr・Eric Clapton・Ray Cooper・Chris Stainton。",
+      "year": 2002,
+      "weight": 0.95
+    },
+    {
+      "to": "delaney-bonnie",
+      "toName": "Delaney & Bonnie",
+      "toArea": "洛杉矶",
+      "toYears": "1967–1972",
+      "type": "member",
+      "label": "George Harrison・Eric Clapton",
+      "detail": "2 位乐手在这两支乐队都待过：George Harrison・Eric Clapton。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "plastic-ono-band",
+      "toName": "Plastic Ono Band",
+      "toArea": "伦敦",
+      "toYears": "1969–2015",
+      "type": "member",
+      "label": "Ringo Starr・Eric Clapton",
+      "detail": "2 位乐手在这两支乐队都待过：Ringo Starr・Eric Clapton。",
+      "year": 1969,
+      "weight": 0.84
+    },
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "member",
+      "label": "George Harrison・Ringo Starr",
+      "detail": "2 位乐手在这两支乐队都待过：George Harrison・Ringo Starr。",
+      "year": 1960,
+      "weight": 0.84
+    },
+    {
+      "to": "the-quarrymen",
+      "toName": "The Quarrymen",
+      "toArea": "利物浦",
+      "toYears": "1956–",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": 1958,
+      "weight": 0.62
+    },
+    {
+      "to": "the-who",
+      "toName": "The Who",
+      "toArea": "伦敦",
+      "toYears": "1964–",
+      "type": "member",
+      "label": "Chris Stainton",
+      "detail": "Chris Stainton 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "the-yardbirds",
+      "toName": "The Yardbirds",
+      "toArea": "伦敦",
+      "toYears": "1963–",
+      "type": "member",
+      "label": "Eric Clapton",
+      "detail": "Eric Clapton 在这两支乐队都待过。",
+      "year": 1963,
+      "weight": 0.62
+    },
+    {
+      "to": "traveling-wilburys",
+      "toName": "Traveling Wilburys",
+      "toArea": "Malibu",
+      "toYears": "1988–1990",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "the-beat-brothers",
+      "toName": "The Beat Brothers",
+      "toArea": "Hamburg",
+      "toYears": "1961–",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-silver-beatles",
+      "toName": "The Silver Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1960",
+      "type": "member",
+      "label": "George Harrison",
+      "detail": "George Harrison 在这两支乐队都待过。",
+      "year": 1960,
+      "weight": 0.62
+    },
+    {
+      "to": "hale-pace-and-the-stonkers",
+      "toName": "Hale & Pace and the Stonkers",
+      "toArea": "英国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "Mike Moran",
+      "detail": "Mike Moran 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "mark-knopfler-s-guitar-heroes",
+      "toName": "Mark Knopfler’s Guitar Heroes",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Eric Clapton",
+      "detail": "Eric Clapton 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "r-a-d-d-recording-artists-against-drunk-driving",
+      "toName": "R.A.D.D. (Recording Artists Against Drunk Driving)",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ringo-starr-his-all-starr-band",
+      "toName": "Ringo Starr & His All Starr Band",
+      "toArea": "伦敦",
+      "toYears": "1989–",
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "rory-storm-and-the-hurricanes",
+      "toName": "Rory Storm and the Hurricanes",
+      "toArea": "利物浦",
+      "toYears": "1957–1967",
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": 1959,
+      "weight": 0.62
+    },
+    {
+      "to": "the-house-band",
+      "toName": "The House Band",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Ray Cooper",
+      "detail": "Ray Cooper 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-roundheads",
+      "toName": "The Roundheads",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Ringo Starr",
+      "detail": "Ringo Starr 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "whocares",
+      "toName": "WhoCares",
+      "toArea": "英国",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "Jon Lord",
+      "detail": "Jon Lord 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

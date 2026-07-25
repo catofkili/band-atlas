@@ -1,0 +1,55 @@
+{
+  "id": "i-and-i-djangdan",
+  "mbid": "75a66f67-4d2a-448e-acdf-3000268af6d1",
+  "name": "I and I Djangdan",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2008–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Guidance",
+      "year": 2010
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/75a66f67-4d2a-448e-acdf-3000268af6d1"
+  },
+  "edges": [
+    {
+      "to": "windy-city",
+      "toName": "Windy City",
+      "toArea": "韩国",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "김반장・François Rialland",
+      "detail": "2 位乐手在这两支乐队都待过：김반장・François Rialland。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "언니네-이발관",
+      "toName": "언니네 이발관",
+      "toArea": "韩国",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "김반장",
+      "detail": "김반장 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "asoto-union",
+      "toName": "Asoto Union",
+      "toArea": "韩国",
+      "toYears": "2001–2005",
+      "type": "member",
+      "label": "김반장",
+      "detail": "김반장 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

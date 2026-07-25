@@ -1,0 +1,83 @@
+{
+  "id": "sean-dowdell-and-his-friends",
+  "mbid": "ddd38b5d-b85b-4e3b-9fbc-093c4ced9cbf",
+  "name": "Sean Dowdell And His Friends?",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ddd38b5d-b85b-4e3b-9fbc-093c4ced9cbf"
+  },
+  "edges": [
+    {
+      "to": "grey-daze",
+      "toName": "Grey Daze",
+      "toArea": "Phoenix",
+      "toYears": "1993–",
+      "type": "member",
+      "label": "Chester Bennington・Sean Dowdell",
+      "detail": "2 位乐手在这两支乐队都待过：Chester Bennington・Sean Dowdell。",
+      "year": 1993,
+      "weight": 0.84
+    },
+    {
+      "to": "linkin-park",
+      "toName": "Linkin Park",
+      "toArea": "Agoura Hills",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "Chester Bennington",
+      "detail": "Chester Bennington 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    },
+    {
+      "to": "stone-temple-pilots",
+      "toName": "Stone Temple Pilots",
+      "toArea": "San Diego",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Chester Bennington",
+      "detail": "Chester Bennington 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "dead-by-sunrise",
+      "toName": "Dead by Sunrise",
+      "toArea": "美国",
+      "toYears": "2005–2018",
+      "type": "member",
+      "label": "Chester Bennington",
+      "detail": "Chester Bennington 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "camp-freddy",
+      "toName": "Camp Freddy",
+      "toArea": "美国",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Chester Bennington",
+      "detail": "Chester Bennington 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "kings-of-chaos",
+      "toName": "Kings of Chaos",
+      "toArea": "美国",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Chester Bennington",
+      "detail": "Chester Bennington 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

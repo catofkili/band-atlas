@@ -3,9 +3,12 @@
   "mbid": "843db60f-56ec-44a6-8805-27a1ec077bbb",
   "name": "The Bona Fide Band",
   "area": "西雅图",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2024–",
   "genres": [],
   "albums": [],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/843db60f-56ec-44a6-8805-27a1ec077bbb"
   },

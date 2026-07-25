@@ -1,0 +1,53 @@
+{
+  "id": "seraph",
+  "mbid": "d1624165-fab1-45c9-98f0-b1e956adc1c9",
+  "name": "SERAPH",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2017–",
+  "genres": [
+    "Solo",
+    "Visual Kei"
+  ],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d1624165-fab1-45c9-98f0-b1e956adc1c9"
+  },
+  "edges": [
+    {
+      "to": "dir-en-grey",
+      "toName": "DIR EN GREY",
+      "toArea": "大阪",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Shinya",
+      "detail": "Shinya 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "la-sadie-s",
+      "toName": "La:Sadie's",
+      "toArea": "大阪",
+      "toYears": "1995–1997",
+      "type": "member",
+      "label": "Shinya",
+      "detail": "Shinya 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "廃人黒薔薇族",
+      "toName": "廃人黒薔薇族",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "Shinya",
+      "detail": "Shinya 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    }
+  ]
+}

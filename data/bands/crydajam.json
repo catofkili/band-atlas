@@ -1,0 +1,50 @@
+{
+  "id": "crydajam",
+  "mbid": "ed13185d-a540-4ab4-ab04-0033c1e0d1b0",
+  "name": "Crydajam",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ed13185d-a540-4ab4-ab04-0033c1e0d1b0"
+  },
+  "edges": [
+    {
+      "to": "le-knight-club",
+      "toName": "Le Knight Club",
+      "toArea": "Paris",
+      "toYears": "1997–",
+      "type": "member",
+      "label": "Guy‐Manuel de Homem‐Christo・Éric Chédeville",
+      "detail": "2 位乐手在这两支乐队都待过：Guy‐Manuel de Homem‐Christo・Éric Chédeville。",
+      "year": null,
+      "weight": 0.84
+    },
+    {
+      "to": "daft-punk",
+      "toName": "Daft Punk",
+      "toArea": "Paris",
+      "toYears": "1993–2021",
+      "type": "member",
+      "label": "Guy‐Manuel de Homem‐Christo",
+      "detail": "Guy‐Manuel de Homem‐Christo 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "darlin",
+      "toName": "Darlin’",
+      "toArea": "Versailles",
+      "toYears": "1992–1993",
+      "type": "member",
+      "label": "Guy‐Manuel de Homem‐Christo",
+      "detail": "Guy‐Manuel de Homem‐Christo 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "id": "daredevils",
+  "mbid": "64b20ec0-db9e-4a06-924e-1f5d87e26669",
+  "name": "Daredevils",
+  "area": "洛杉矶",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1994–",
+  "genres": [
+    "Punk"
+  ],
+  "albums": [],
+  "intro": "Daredevils was an American punk rock band from Los Angeles, California, that was composed of Brett Gurewitz, Gore Verbinski, Dean Opseth, and Josh Freese.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/64b20ec0-db9e-4a06-924e-1f5d87e26669"
+  },
+  "edges": [
+    {
+      "to": "error",
+      "toName": "Error",
+      "toArea": "美国",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Brett Gurewitz",
+      "detail": "Brett Gurewitz 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

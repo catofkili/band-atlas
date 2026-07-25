@@ -1,0 +1,70 @@
+{
+  "id": "mono",
+  "mbid": "ffe02aed-ef7e-4736-a186-c2f1dd55ce8d",
+  "name": "MONO",
+  "area": "东京",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1999–",
+  "genres": [
+    "Post-Rock",
+    "Instrumental Rock",
+    "Experimental Rock"
+  ],
+  "albums": [
+    {
+      "title": "Under the Pipal Tree",
+      "year": 2001
+    },
+    {
+      "title": "One Step More and You Die",
+      "year": 2002
+    },
+    {
+      "title": "Walking Cloud and Deep Red Sky, Flag Fluttered and the Sun Shined",
+      "year": 2004
+    },
+    {
+      "title": "Palmless Prayer / Mass Murder Refrain",
+      "year": 2005
+    },
+    {
+      "title": "You Are There",
+      "year": 2006
+    },
+    {
+      "title": "Hymn to the Immortal Wind",
+      "year": 2009
+    }
+  ],
+  "intro": "MONOは、1999年結成した日本・東京の4人組ポストロック/インストゥルメンタル・ロック・バンド。 オーケストラとシューゲイザー、ギターノイズを合わせたMONOの楽曲スタイル。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ffe02aed-ef7e-4736-a186-c2f1dd55ce8d"
+  },
+  "edges": [
+    {
+      "to": "church-of-misery",
+      "toName": "Church of Misery",
+      "toArea": "Shinjuku",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Yasunori Takada",
+      "detail": "Yasunori Takada 在这两支乐队都待过。",
+      "year": 2020,
+      "weight": 0.62
+    },
+    {
+      "to": "crystal-wars",
+      "toName": "CRYSTAL WARS",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "Tamaki Kunishi",
+      "detail": "Tamaki Kunishi 在这两支乐队都待过。",
+      "year": 1999,
+      "weight": 0.62
+    }
+  ]
+}

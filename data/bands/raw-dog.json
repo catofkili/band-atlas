@@ -1,0 +1,94 @@
+{
+  "id": "raw-dog",
+  "mbid": "87b35fa8-a602-4a8c-abc1-5a46fb85d8f8",
+  "name": "Raw Dog",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/87b35fa8-a602-4a8c-abc1-5a46fb85d8f8"
+  },
+  "edges": [
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Ogre",
+      "detail": "Ogre 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-tear-garden",
+      "toName": "The Tear Garden",
+      "toArea": "Vancouver",
+      "toYears": "1986–",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "hilt",
+      "toName": "Hilt",
+      "toArea": "Vancouver",
+      "toYears": "1987–1996",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "jakalope",
+      "toName": "Jakalope",
+      "toArea": "Vancouver",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "primitive-race",
+      "toName": "Primitive Race",
+      "toArea": "洛杉矶",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "Dave Ogilvie",
+      "detail": "Dave Ogilvie 在这两支乐队都待过。",
+      "year": 2013,
+      "weight": 0.62
+    },
+    {
+      "to": "rx",
+      "toName": "Rx",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Ogre",
+      "detail": "Ogre 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

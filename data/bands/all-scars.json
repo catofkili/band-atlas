@@ -3,6 +3,8 @@
   "mbid": "749cffc2-b310-4556-91b9-9298258361d0",
   "name": "All Scars",
   "area": "华盛顿特区",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1997–2003",
   "genres": [],
   "albums": [
@@ -19,6 +21,7 @@
       "year": 2002
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/749cffc2-b310-4556-91b9-9298258361d0"
   },

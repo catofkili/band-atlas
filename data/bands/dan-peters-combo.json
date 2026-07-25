@@ -3,9 +3,12 @@
   "mbid": "2c2978bd-2b50-425b-83c3-7e45031677de",
   "name": "Dan Peters Combo",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2c2978bd-2b50-425b-83c3-7e45031677de"
   },

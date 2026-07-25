@@ -1,0 +1,55 @@
+{
+  "id": "day6",
+  "mbid": "77191d5f-1045-4b3b-ad7f-12ea398db929",
+  "name": "DAY6",
+  "area": "首尔",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2015–",
+  "genres": [
+    "Pop Rock",
+    "K-Pop",
+    "Rock"
+  ],
+  "albums": [
+    {
+      "title": "SUNRISE",
+      "year": 2017
+    },
+    {
+      "title": "MOONRISE",
+      "year": 2017
+    },
+    {
+      "title": "Unlock",
+      "year": 2018
+    },
+    {
+      "title": "The Book of Us : Entropy",
+      "year": 2019
+    },
+    {
+      "title": "The DECADE",
+      "year": 2025
+    }
+  ],
+  "intro": "DAY6是韩国JYP娱乐旗下部门Studio J于2015年推出乐团，经成员变动后由晟镇、Young K、元弼及度云等4位成员组成并由晟镇担任队长。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/77191d5f-1045-4b3b-ad7f-12ea398db929"
+  },
+  "edges": [
+    {
+      "to": "day6-even-of-day",
+      "toName": "DAY6 (Even of Day)",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

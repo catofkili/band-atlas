@@ -1,0 +1,66 @@
+{
+  "id": "digital-noise-academy",
+  "mbid": "664e77fd-d050-4671-86cd-89081098c2ea",
+  "name": "Digital Noise Academy",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Synemy",
+      "year": 2013
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/664e77fd-d050-4671-86cd-89081098c2ea"
+  },
+  "edges": [
+    {
+      "to": "nine-inch-nails",
+      "toName": "Nine Inch Nails",
+      "toArea": "Cleveland",
+      "toYears": "1988–",
+      "type": "member",
+      "label": "Justin Meldal‐Johnsen",
+      "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "ima-robot",
+      "toName": "Ima Robot",
+      "toArea": "洛杉矶",
+      "toYears": "1998–",
+      "type": "member",
+      "label": "Justin Meldal‐Johnsen",
+      "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "hankshaw",
+      "toName": "Hankshaw",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Justin Meldal‐Johnsen",
+      "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "loser",
+      "toName": "Loser",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Justin Meldal‐Johnsen",
+      "detail": "Justin Meldal‐Johnsen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

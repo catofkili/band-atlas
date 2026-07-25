@@ -1,0 +1,176 @@
+{
+  "id": "praxis",
+  "mbid": "a92a55c3-5780-40ad-89c2-e62e58b2bc32",
+  "name": "Praxis",
+  "area": "Brooklyn",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1992–2011",
+  "genres": [
+    "Avant-Garde",
+    "Experimental",
+    "Funk"
+  ],
+  "albums": [
+    {
+      "title": "Transmutation (Mutatis Mutandis)",
+      "year": 1992
+    },
+    {
+      "title": "Metatron",
+      "year": 1994
+    },
+    {
+      "title": "Sacrifist",
+      "year": 1994
+    },
+    {
+      "title": "Mold",
+      "year": 1998
+    },
+    {
+      "title": "Profanation: Preparation for a Coming Darkness",
+      "year": 2008
+    }
+  ],
+  "intro": "Praxis is an experimental rock project, led by producer/bassist Bill Laswell and featuring guitarist Buckethead and drummer Brain in nearly every incarnation of the band.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a92a55c3-5780-40ad-89c2-e62e58b2bc32"
+  },
+  "edges": [
+    {
+      "to": "funkadelic",
+      "toName": "Funkadelic",
+      "toArea": "Plainfield",
+      "toYears": "1968–1981",
+      "type": "member",
+      "label": "Bootsy Collins",
+      "detail": "Bootsy Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "material",
+      "toName": "Material",
+      "toArea": "纽约",
+      "toYears": "1978–1999",
+      "type": "member",
+      "label": "Bill Laswell",
+      "detail": "Bill Laswell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "parliament",
+      "toName": "Parliament",
+      "toArea": "Plainfield",
+      "toYears": "1968–1980",
+      "type": "member",
+      "label": "Bootsy Collins",
+      "detail": "Bootsy Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "pigface",
+      "toName": "Pigface",
+      "toArea": "芝加哥",
+      "toYears": "1990–",
+      "type": "member",
+      "label": "Mick Harris",
+      "detail": "Mick Harris 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "public-image-ltd",
+      "toName": "Public Image Ltd",
+      "toArea": "伦敦",
+      "toYears": "1978–",
+      "type": "member",
+      "label": "Bill Laswell",
+      "detail": "Bill Laswell 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "divination",
+      "toName": "Divination",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Bill Laswell",
+      "detail": "Bill Laswell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "parliament-funkadelic",
+      "toName": "Parliament-Funkadelic",
+      "toArea": "Plainfield",
+      "toYears": "1968–",
+      "type": "member",
+      "label": "Bootsy Collins",
+      "detail": "Bootsy Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "shin-e",
+      "toName": "Shin.e",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bill Laswell",
+      "detail": "Bill Laswell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "axiom-funk",
+      "toName": "Axiom Funk",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bill Laswell",
+      "detail": "Bill Laswell 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "science-faxtion",
+      "toName": "Science Faxtion",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bootsy Collins",
+      "detail": "Bootsy Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-p-funk-mob",
+      "toName": "The P-Funk Mob",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bootsy Collins",
+      "detail": "Bootsy Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "world-wide-funkdrive",
+      "toName": "World-Wide-Funkdrive",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Bootsy Collins",
+      "detail": "Bootsy Collins 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

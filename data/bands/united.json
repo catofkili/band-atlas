@@ -1,0 +1,92 @@
+{
+  "id": "united",
+  "mbid": "210b9cbe-1a89-4bca-8b84-48b37dfe4130",
+  "name": "UNITED",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1981–",
+  "genres": [
+    "Death Metal",
+    "Heavy Metal",
+    "Metalcore"
+  ],
+  "albums": [
+    {
+      "title": "Bloody but Unbowed",
+      "year": 1990
+    },
+    {
+      "title": "Human Zoo",
+      "year": 1992
+    },
+    {
+      "title": "N.O.I.Q",
+      "year": 1995
+    },
+    {
+      "title": "Reload",
+      "year": 1997
+    },
+    {
+      "title": "Distorted Vison",
+      "year": 1998
+    },
+    {
+      "title": "Infectious Hazard",
+      "year": 2001
+    }
+  ],
+  "intro": "UNITEDは1981年に結成、1990年にアルバムデビューした日本のスラッシュメタルバンド。",
+  "introLang": "ja",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/210b9cbe-1a89-4bca-8b84-48b37dfe4130"
+  },
+  "edges": [
+    {
+      "to": "power-germanys",
+      "toName": "POWER GERMANYS",
+      "toArea": "日本",
+      "toYears": "2002–2002",
+      "type": "member",
+      "label": "吉田良文・大谷慎吾・横山明裕・中村雄介・湯浅正俊",
+      "detail": "5 位乐手在这两支乐队都待过：吉田良文・大谷慎吾・横山明裕・中村雄介・湯浅正俊。",
+      "year": 2002,
+      "weight": 0.95
+    },
+    {
+      "to": "x-japan",
+      "toName": "X JAPAN",
+      "toArea": "Tateyama",
+      "toYears": "1982–",
+      "type": "member",
+      "label": "吉田良文",
+      "detail": "吉田良文 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "dementia",
+      "toName": "Dementia",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "吉田良文",
+      "detail": "吉田良文 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "emperor",
+      "toName": "Emperor",
+      "toArea": "日本",
+      "toYears": "1987–1990",
+      "type": "member",
+      "label": "大谷慎吾",
+      "detail": "大谷慎吾 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    }
+  ]
+}

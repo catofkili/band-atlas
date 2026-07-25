@@ -1,0 +1,66 @@
+{
+  "id": "rancid",
+  "mbid": "24f8d8a5-269b-475c-a1cb-792990b0b2ee",
+  "name": "Rancid",
+  "area": null,
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Rancid",
+      "year": 1993
+    },
+    {
+      "title": "Let’s Go",
+      "year": 1994
+    },
+    {
+      "title": "…And Out Come the Wolves",
+      "year": 1995
+    },
+    {
+      "title": "Life Won’t Wait",
+      "year": 1998
+    },
+    {
+      "title": "Rancid",
+      "year": 2000
+    },
+    {
+      "title": "BYO Split Series, Volume III",
+      "year": 2002
+    }
+  ],
+  "intro": "腐臭乐队，于1991年成立，美国著名朋克乐队。它是由提姆·阿姆斯壮与麦特·费曼于加州阿拉米达县阿尔巴尼创立。目前的成员有提姆·阿姆斯壮、拉斯·弗瑞德里克森、麦特·费曼与布兰登·斯坦科特。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/24f8d8a5-269b-475c-a1cb-792990b0b2ee"
+  },
+  "edges": [
+    {
+      "to": "the-offspring",
+      "toName": "The Offspring",
+      "toArea": "Huntington Beach",
+      "toYears": "1984–",
+      "type": "guest",
+      "label": "伴奏・助演",
+      "detail": "MusicBrainz 记录的伴奏・助演关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "blink-182",
+      "toName": "blink‐182",
+      "toArea": "Poway",
+      "toYears": "1992–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Rancid 影响了 blink‐182（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

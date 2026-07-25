@@ -3,6 +3,8 @@
   "mbid": "ad1358df-3f53-4683-b671-49c1e39b78a7",
   "name": "Body/Head",
   "area": "Northampton",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2012–",
   "genres": [],
   "albums": [
@@ -17,6 +19,7 @@
   ],
   "intro": "Body/Head are an American experimental electric guitar duo composed of Kim Gordon and Bill Nace.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/ad1358df-3f53-4683-b671-49c1e39b78a7"
   },

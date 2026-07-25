@@ -1,0 +1,99 @@
+{
+  "id": "山中さわお-elpis",
+  "mbid": "5dcd7e90-11ad-488c-880d-5c3a6325840d",
+  "name": "山中さわお&ELPIS",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Daydream again",
+      "year": 2026
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5dcd7e90-11ad-488c-880d-5c3a6325840d"
+  },
+  "edges": [
+    {
+      "to": "the-pillows",
+      "toName": "the pillows",
+      "toArea": "札幌",
+      "toYears": "1989–2025",
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": 1989,
+      "weight": 0.62
+    },
+    {
+      "to": "casablanca",
+      "toName": "Casablanca",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-predators",
+      "toName": "THE PREDATORS",
+      "toArea": "日本",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "さわおとしおり",
+      "toName": "さわおとしおり",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "spiky-brothers",
+      "toName": "SPIKY BROTHERS",
+      "toArea": "东京",
+      "toYears": "2000–2001",
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": 2000,
+      "weight": 0.62
+    },
+    {
+      "to": "さわおとケンジ",
+      "toName": "さわおとケンジ",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "ヨーコとさわお",
+      "toName": "ヨーコとさわお",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "山中さわお",
+      "detail": "山中さわお 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

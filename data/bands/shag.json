@@ -1,0 +1,44 @@
+{
+  "id": "shag",
+  "mbid": "8157c593-7738-4f53-ac95-6e7f9db2cf39",
+  "name": "SHAG",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2002–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "THE PROTEST JAM",
+      "year": 2022
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8157c593-7738-4f53-ac95-6e7f9db2cf39"
+  },
+  "edges": [
+    {
+      "to": "賽",
+      "toName": "賽",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "member",
+      "label": "松浦千昇",
+      "detail": "松浦千昇 在这两支乐队都待过。",
+      "year": 2020,
+      "weight": 0.62
+    },
+    {
+      "to": "怪物舞踏団",
+      "toName": "怪物舞踏団",
+      "toArea": "日本",
+      "toYears": "2017–2019",
+      "type": "member",
+      "label": "KenKen",
+      "detail": "KenKen 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,9 +3,12 @@
   "mbid": "8819509e-aaff-47c8-902b-ea0ab3de9607",
   "name": "Helltrout",
   "area": null,
+  "countryCode": null,
+  "country": null,
   "years": null,
   "genres": [],
   "albums": [],
+  "region": "unknown",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/8819509e-aaff-47c8-902b-ea0ab3de9607"
   },

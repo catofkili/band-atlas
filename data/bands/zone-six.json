@@ -1,0 +1,79 @@
+{
+  "id": "zone-six",
+  "mbid": "affe5285-5333-426c-9ee6-aafb13c63f1c",
+  "name": "Zone Six",
+  "area": "柏林",
+  "countryCode": "DE",
+  "country": "德国",
+  "years": "1997–",
+  "genres": [
+    "Psychedelic Rock",
+    "Space Rock",
+    "Krautrock"
+  ],
+  "albums": [
+    {
+      "title": "Zone Six",
+      "year": 1998
+    },
+    {
+      "title": "Any Noise Is Intended",
+      "year": 2003
+    },
+    {
+      "title": "Psychedelic Scripture",
+      "year": 2004
+    },
+    {
+      "title": "The Split Thing",
+      "year": 2012
+    },
+    {
+      "title": "Love Monster",
+      "year": 2015
+    },
+    {
+      "title": "Arc of Ascent / Zone Six",
+      "year": 2018
+    }
+  ],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/affe5285-5333-426c-9ee6-aafb13c63f1c"
+  },
+  "edges": [
+    {
+      "to": "krautzone",
+      "toName": "Krautzone",
+      "toArea": "德国",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "Rainer Neeff・Komet Lulu・Sula Bassana",
+      "detail": "3 位乐手在这两支乐队都待过：Rainer Neeff・Komet Lulu・Sula Bassana。",
+      "year": 2011,
+      "weight": 0.95
+    },
+    {
+      "to": "infrared-hologram",
+      "toName": "Infrared Hologram",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Rainer Neeff",
+      "detail": "Rainer Neeff 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "the-pancakes",
+      "toName": "The Pancakes",
+      "toArea": "Baden-Württemberg",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Rainer Neeff",
+      "detail": "Rainer Neeff 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "id": "the-offspring",
+  "mbid": "23a03e33-a603-404e-bcbf-2c00159d7067",
+  "name": "The Offspring",
+  "area": "Huntington Beach",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1984–",
+  "genres": [
+    "Punk Rock",
+    "Pop Punk",
+    "Punk"
+  ],
+  "albums": [
+    {
+      "title": "The Offspring",
+      "year": 1989
+    },
+    {
+      "title": "Ignition",
+      "year": 1992
+    },
+    {
+      "title": "Smash",
+      "year": 1994
+    },
+    {
+      "title": "Ixnay on the Hombre",
+      "year": 1997
+    },
+    {
+      "title": "Americana",
+      "year": 1998
+    },
+    {
+      "title": "Conspiracy of One",
+      "year": 2000
+    }
+  ],
+  "intro": "后裔是一个美国摇滚乐团，1984年成立于加利福尼亚州。主要成员包括德克斯特·霍兰德、凯文·魏瑟曼的歌曲，第一首是同年年中达成的You're Gonna Go Far Kid。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/23a03e33-a603-404e-bcbf-2c00159d7067"
+  },
+  "edges": [
+    {
+      "to": "nirvana",
+      "toName": "Nirvana",
+      "toArea": "西雅图",
+      "toYears": "1987–1994",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Offspring 受 Nirvana 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "angels-airwaves",
+      "toName": "Angels & Airwaves",
+      "toArea": "San Diego",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Atom",
+      "detail": "Atom 在这两支乐队都待过。",
+      "year": 2005,
+      "weight": 0.62
+    },
+    {
+      "to": "jackson-united",
+      "toName": "Jackson United",
+      "toArea": "洛杉矶",
+      "toYears": "2003–",
+      "type": "member",
+      "label": "Pete Parada",
+      "detail": "Pete Parada 在这两支乐队都待过。",
+      "year": 2003,
+      "weight": 0.62
+    },
+    {
+      "to": "rancid",
+      "toName": "Rancid",
+      "toArea": null,
+      "toYears": null,
+      "type": "guest",
+      "label": "伴奏・助演",
+      "detail": "MusicBrainz 记录的伴奏・助演关系。",
+      "year": null,
+      "weight": 0.55
+    },
+    {
+      "to": "blink-182",
+      "toName": "blink‐182",
+      "toArea": "Poway",
+      "toYears": "1992–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Offspring 影响了 blink‐182（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "fear",
+      "toName": "Fear",
+      "toArea": "洛杉矶",
+      "toYears": "1977–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Offspring 受 Fear 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "linkin-park",
+      "toName": "Linkin Park",
+      "toArea": "Agoura Hills",
+      "toYears": "1996–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Offspring 影响了 Linkin Park（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "sex-pistols",
+      "toName": "Sex Pistols",
+      "toArea": null,
+      "toYears": null,
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Offspring 受 Sex Pistols 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "germs",
+      "toName": "Germs",
+      "toArea": "洛杉矶",
+      "toYears": "1976–2013",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "The Offspring 受 Germs 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

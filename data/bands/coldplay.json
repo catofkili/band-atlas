@@ -1,0 +1,92 @@
+{
+  "id": "coldplay",
+  "mbid": "cc197bad-dc9c-440d-a5b5-d52ba2e14234",
+  "name": "Coldplay",
+  "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1996–",
+  "genres": [
+    "Alternative Rock",
+    "Pop",
+    "Pop Rock"
+  ],
+  "albums": [
+    {
+      "title": "Parachutes",
+      "year": 2000
+    },
+    {
+      "title": "A Rush of Blood to the Head",
+      "year": 2002
+    },
+    {
+      "title": "X&Y",
+      "year": 2005
+    },
+    {
+      "title": "Viva la Vida or Death and All His Friends",
+      "year": 2008
+    },
+    {
+      "title": "Viva La Vida (Remixes)",
+      "year": 2008
+    },
+    {
+      "title": "Postcards From Glasgow",
+      "year": 2009
+    }
+  ],
+  "intro": "酷玩乐队是成立于1997年，来自英国英格兰伦敦的另类摇滚乐团。团员包括克里斯·马丁、强尼·巴克兰、盖伊·贝里曼及威尔·钱皮恩。乐团最早成形于马丁与巴克兰就读于伦敦大学学院时期。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cc197bad-dc9c-440d-a5b5-d52ba2e14234"
+  },
+  "edges": [
+    {
+      "to": "apparatjik",
+      "toName": "Apparatjik",
+      "toArea": null,
+      "toYears": "2008–",
+      "type": "member",
+      "label": "Guy Berryman",
+      "detail": "Guy Berryman 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "artists-against-aids-worldwide",
+      "toName": "Artists Against AIDS Worldwide",
+      "toArea": "纽约",
+      "toYears": "2001–2001",
+      "type": "member",
+      "label": "Chris Martin",
+      "detail": "Chris Martin 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    },
+    {
+      "to": "band-aid-30",
+      "toName": "Band Aid 30",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Chris Martin",
+      "detail": "Chris Martin 在这两支乐队都待过。",
+      "year": 1996,
+      "weight": 0.62
+    },
+    {
+      "to": "los-unidades",
+      "toName": "Los Unidades",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "副项目",
+      "detail": "MusicBrainz 记录的副项目关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

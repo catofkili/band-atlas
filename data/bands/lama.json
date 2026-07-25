@@ -3,6 +3,8 @@
   "mbid": "c966eaa7-5081-4a88-91bb-42651fad0232",
   "name": "LAMA",
   "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
   "years": "2010–",
   "genres": [],
   "albums": [
@@ -17,6 +19,7 @@
   ],
   "intro": "LAMAは、フルカワミキを中心としたメンバーによって構成される日本のロックバンド。2011年にデビューした。所属レコード会社はキューンレコード。",
   "introLang": "ja",
+  "region": "east-asia",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/c966eaa7-5081-4a88-91bb-42651fad0232"
   },

@@ -3,6 +3,8 @@
   "mbid": "16e4f976-dda8-4468-bbbe-a3a52d779cb5",
   "name": "The Jaded Hearts Club",
   "area": "California",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "2018–",
   "genres": [
     "Classic Rock",
@@ -17,6 +19,7 @@
   ],
   "intro": "The Jaded Hearts Club is a rock supergroup and covers band consisting of Miles Kane (of the Rascals and Last Shadow Puppets), Nic Cester (of Jet), Matt Bellamy (of Muse), Jamie Davis (of former member Graham Coxon's former label Transcopic) and Sean Payne (of the Zutons).",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/16e4f976-dda8-4468-bbbe-a3a52d779cb5"
   },
@@ -33,6 +36,39 @@
       "weight": 0.62
     },
     {
+      "to": "angels-airwaves",
+      "toName": "Angels & Airwaves",
+      "toArea": "San Diego",
+      "toYears": "2005–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2014,
+      "weight": 0.62
+    },
+    {
+      "to": "lostprophets",
+      "toName": "Lostprophets",
+      "toArea": "Pontypridd",
+      "toYears": "1997–2013",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "muse",
+      "toName": "Muse",
+      "toArea": "Teignmouth",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Matt Bellamy",
+      "detail": "Matt Bellamy 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
       "to": "nine-inch-nails",
       "toName": "Nine Inch Nails",
       "toArea": "Cleveland",
@@ -44,6 +80,28 @@
       "weight": 0.62
     },
     {
+      "to": "fenix-tx",
+      "toName": "Fenix TX",
+      "toArea": "Houston",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
+      "year": 2006,
+      "weight": 0.62
+    },
+    {
+      "to": "the-last-shadow-puppets",
+      "toName": "The Last Shadow Puppets",
+      "toArea": "谢菲尔德",
+      "toYears": "2007–",
+      "type": "member",
+      "label": "Miles Kane",
+      "detail": "Miles Kane 在这两支乐队都待过。",
+      "year": 2007,
+      "weight": 0.62
+    },
+    {
       "to": "the-waeve",
       "toName": "The WAEVE",
       "toArea": "英国",
@@ -51,6 +109,17 @@
       "type": "member",
       "label": "Graham Coxon",
       "detail": "Graham Coxon 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "denver-harbor",
+      "toName": "Denver Harbor",
+      "toArea": "San Diego",
+      "toYears": "2002–",
+      "type": "member",
+      "label": "Ilan Rubin",
+      "detail": "Ilan Rubin 在这两支乐队都待过。",
       "year": null,
       "weight": 0.62
     },

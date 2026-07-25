@@ -1,0 +1,72 @@
+{
+  "id": "dys",
+  "mbid": "f012c04d-96ca-47dd-9359-3bb11fed88b5",
+  "name": "DYS",
+  "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Brotherhood",
+      "year": 1983
+    },
+    {
+      "title": "DYS",
+      "year": 1985
+    }
+  ],
+  "intro": "DYS is an American straight edge hardcore punk band from Boston, Massachusetts, who were part of the \"Boston Crew\" in the 1980s, along with contemporaries such as SSD and Negative FX.",
+  "introLang": "en",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f012c04d-96ca-47dd-9359-3bb11fed88b5"
+  },
+  "edges": [
+    {
+      "to": "dag-nasty",
+      "toName": "Dag Nasty",
+      "toArea": "华盛顿特区",
+      "toYears": "1985–1991",
+      "type": "member",
+      "label": "Dave Smalley",
+      "detail": "Dave Smalley 在这两支乐队都待过。",
+      "year": 1992,
+      "weight": 0.62
+    },
+    {
+      "to": "foo-fighters",
+      "toName": "Foo Fighters",
+      "toArea": "西雅图",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Franz Stahl",
+      "detail": "Franz Stahl 在这两支乐队都待过。",
+      "year": 1997,
+      "weight": 0.62
+    },
+    {
+      "to": "scream",
+      "toName": "Scream",
+      "toArea": "Virginia",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "Franz Stahl",
+      "detail": "Franz Stahl 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    },
+    {
+      "to": "wool",
+      "toName": "Wool",
+      "toArea": "华盛顿特区",
+      "toYears": "1990–1996",
+      "type": "member",
+      "label": "Franz Stahl",
+      "detail": "Franz Stahl 在这两支乐队都待过。",
+      "year": 1990,
+      "weight": 0.62
+    }
+  ]
+}

@@ -3,6 +3,8 @@
   "mbid": "2d7af8b7-eddd-4cd3-939e-de6aa28ace82",
   "name": "Cowboys in the Campfire",
   "area": "美国",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2017–",
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2023
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/2d7af8b7-eddd-4cd3-939e-de6aa28ace82"
   },

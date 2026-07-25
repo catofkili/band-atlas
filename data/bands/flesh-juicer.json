@@ -1,0 +1,47 @@
+{
+  "id": "flesh-juicer",
+  "mbid": "b1d39433-6353-4e3b-8125-8716d984fb2c",
+  "name": "Flesh Juicer",
+  "area": "Taichung",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": "2006–",
+  "genres": [
+    "Alternative Metal",
+    "Alternative Rock",
+    "Death Metal"
+  ],
+  "albums": [
+    {
+      "title": "GIGO",
+      "year": 2015
+    },
+    {
+      "title": "深海童話",
+      "year": 2018
+    },
+    {
+      "title": "GOLDEN 太子 BRO",
+      "year": 2021
+    }
+  ],
+  "intro": "血肉果汁机是一个创于台湾台中的台语重金属乐团，成立于2006年。现任成员为主唱GIGO、吉他手阿霖、吉他手Matt、贝斯手金毛。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b1d39433-6353-4e3b-8125-8716d984fb2c"
+  },
+  "edges": [
+    {
+      "to": "康士坦的變化球",
+      "toName": "康士坦的變化球",
+      "toArea": "台湾",
+      "toYears": "2013–",
+      "type": "member",
+      "label": "金毛",
+      "detail": "金毛 在这两支乐队都待过。",
+      "year": 2020,
+      "weight": 0.62
+    }
+  ]
+}

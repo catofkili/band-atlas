@@ -3,6 +3,8 @@
   "mbid": "87788c91-a97e-40a8-860b-3d9a3956af5e",
   "name": "Hurricane #1",
   "area": "牛津",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "1996–1999",
   "genres": [
     "Oxford"
@@ -31,6 +33,7 @@
   ],
   "intro": "ハリケーン#1はイギリスのロックバンド。",
   "introLang": "ja",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/87788c91-a97e-40a8-860b-3d9a3956af5e"
   },

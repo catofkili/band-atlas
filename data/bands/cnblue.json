@@ -1,0 +1,70 @@
+{
+  "id": "cnblue",
+  "mbid": "555ab13f-acf4-415f-835d-1bc854e1236f",
+  "name": "CNBLUE",
+  "area": "首尔",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2009–",
+  "genres": [
+    "Alternative Rock",
+    "Pop",
+    "Pop Rock"
+  ],
+  "albums": [
+    {
+      "title": "ThankU",
+      "year": 2010
+    },
+    {
+      "title": "FIRST STEP",
+      "year": 2011
+    },
+    {
+      "title": "392",
+      "year": 2011
+    },
+    {
+      "title": "CODE NAME BLUE",
+      "year": 2012
+    },
+    {
+      "title": "What turns you on?",
+      "year": 2013
+    },
+    {
+      "title": "WAVE",
+      "year": 2014
+    }
+  ],
+  "intro": "CNBLUE，韩国FNC娱乐旗下的乐团组合，2009年成立。成员包括郑容和、姜敏赫和李正信组成。首位贝斯手权光珍2009年在日语《Now or Never》发行后退出，由李正信接手。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/555ab13f-acf4-415f-835d-1bc854e1236f"
+  },
+  "edges": [
+    {
+      "to": "n-flying",
+      "toName": "N.Flying",
+      "toArea": "首尔",
+      "toYears": "2011–",
+      "type": "member",
+      "label": "권광진",
+      "detail": "권광진 在这两支乐队都待过。",
+      "year": 2011,
+      "weight": 0.62
+    },
+    {
+      "to": "a-n-jell",
+      "toName": "A.N.JELL",
+      "toArea": "首尔",
+      "toYears": "2009–2009",
+      "type": "member",
+      "label": "정용화",
+      "detail": "정용화 在这两支乐队都待过。",
+      "year": 2009,
+      "weight": 0.62
+    }
+  ]
+}

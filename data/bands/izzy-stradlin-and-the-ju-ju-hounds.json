@@ -3,6 +3,8 @@
   "mbid": "97e8fb6a-4272-46f4-8c22-e74c038195b6",
   "name": "Izzy Stradlin and the Ju Ju Hounds",
   "area": "California",
+  "countryCode": "US",
+  "country": "美国",
   "years": "1992–",
   "genres": [],
   "albums": [
@@ -15,6 +17,7 @@
       "year": 1992
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/97e8fb6a-4272-46f4-8c22-e74c038195b6"
   },

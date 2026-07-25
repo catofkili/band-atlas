@@ -3,6 +3,8 @@
   "mbid": "db0e5c06-c091-46d4-bd42-5ba2ee299123",
   "name": "Deathfix",
   "area": "华盛顿特区",
+  "countryCode": "US",
+  "country": "美国",
   "years": "2009–",
   "genres": [],
   "albums": [
@@ -11,6 +13,7 @@
       "year": 2013
     }
   ],
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/db0e5c06-c091-46d4-bd42-5ba2ee299123"
   },

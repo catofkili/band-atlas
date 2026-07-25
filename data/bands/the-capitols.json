@@ -1,0 +1,28 @@
+{
+  "id": "the-capitols",
+  "mbid": "0cf97acb-7b9e-4587-a760-d4e80381fd35",
+  "name": "The Capitols",
+  "area": null,
+  "countryCode": "NL",
+  "country": "荷兰",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0cf97acb-7b9e-4587-a760-d4e80381fd35"
+  },
+  "edges": [
+    {
+      "to": "radiohead",
+      "toName": "Radiohead",
+      "toArea": "Abingdon-on-Thames",
+      "toYears": "1991–",
+      "type": "guest",
+      "label": "伴奏・助演",
+      "detail": "MusicBrainz 记录的伴奏・助演关系。",
+      "year": null,
+      "weight": 0.55
+    }
+  ]
+}

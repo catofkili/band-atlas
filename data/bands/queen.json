@@ -1,0 +1,235 @@
+{
+  "id": "queen",
+  "mbid": "0383dadf-2a4e-4d10-a46a-e9e041da8eb3",
+  "name": "Queen",
+  "area": "伦敦",
+  "countryCode": "GB",
+  "country": "英国",
+  "years": "1970–",
+  "genres": [
+    "Rock",
+    "Glam Rock",
+    "Hard Rock"
+  ],
+  "albums": [
+    {
+      "title": "Queen",
+      "year": 1973
+    },
+    {
+      "title": "Sheer Heart Attack",
+      "year": 1974
+    },
+    {
+      "title": "Queen II",
+      "year": 1974
+    },
+    {
+      "title": "A Night at the Opera",
+      "year": 1975
+    },
+    {
+      "title": "A Day at the Races",
+      "year": 1976
+    },
+    {
+      "title": "News of the World",
+      "year": 1977
+    }
+  ],
+  "intro": "皇后乐队是英国摇滚乐乐队，成立于1970年，成员包括主唱弗雷迪·默丘里、吉他手布赖恩·梅、鼓手罗杰·泰勒、贝斯手约翰·迪肯，乐队最初期的作品受到前卫摇滚、硬摇滚和重金属音乐的影响，后来逐渐尝试往传统和电台广播的作品迈进，将其他风格像歌剧、民谣、艺术摇滚、竞技场摇滚和流行摇滚融入音乐中，对世界乐坛留下深远影响。",
+  "introLang": "zh",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0383dadf-2a4e-4d10-a46a-e9e041da8eb3"
+  },
+  "edges": [
+    {
+      "to": "queen-paul-rodgers",
+      "toName": "Queen + Paul Rodgers",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Roger Taylor・副项目",
+      "detail": "2 位乐手在这两支乐队都待过：Roger Taylor・副项目。",
+      "year": 1970,
+      "weight": 0.84
+    },
+    {
+      "to": "queen-adam-lambert",
+      "toName": "Queen + Adam Lambert",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Roger Taylor・副项目",
+      "detail": "2 位乐手在这两支乐队都待过：Roger Taylor・副项目。",
+      "year": 1970,
+      "weight": 0.84
+    },
+    {
+      "to": "guns-n-roses",
+      "toName": "Guns N' Roses",
+      "toArea": "洛杉矶",
+      "toYears": "1985–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Queen 影响了 Guns N’ Roses（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-cross",
+      "toName": "The Cross",
+      "toArea": "英格兰",
+      "toYears": "1987–1993",
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": 1970,
+      "weight": 0.62
+    },
+    {
+      "to": "band-aid-30",
+      "toName": "Band Aid 30",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": 1970,
+      "weight": 0.62
+    },
+    {
+      "to": "crushed-butler",
+      "toName": "Crushed Butler",
+      "toArea": "伦敦",
+      "toYears": "1969–1971",
+      "type": "member",
+      "label": "Barry Mitchell",
+      "detail": "Barry Mitchell 在这两支乐队都待过。",
+      "year": 1970,
+      "weight": 0.62
+    },
+    {
+      "to": "hale-pace-and-the-stonkers",
+      "toName": "Hale & Pace and the Stonkers",
+      "toArea": "英国",
+      "toYears": "1991–1991",
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    },
+    {
+      "to": "ibex",
+      "toName": "Ibex",
+      "toArea": "英国",
+      "toYears": "1969–1969",
+      "type": "member",
+      "label": "Freddie Mercury",
+      "detail": "Freddie Mercury 在这两支乐队都待过。",
+      "year": 1970,
+      "weight": 0.62
+    },
+    {
+      "to": "smile",
+      "toName": "Smile",
+      "toArea": "英国",
+      "toYears": "1968–1970",
+      "type": "member",
+      "label": "Roger Taylor",
+      "detail": "Roger Taylor 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    },
+    {
+      "to": "sour-milk-sea",
+      "toName": "Sour Milk Sea",
+      "toArea": null,
+      "toYears": "1969–1970",
+      "type": "member",
+      "label": "Freddie Mercury",
+      "detail": "Freddie Mercury 在这两支乐队都待过。",
+      "year": 1970,
+      "weight": 0.62
+    },
+    {
+      "to": "the-earth",
+      "toName": "The Earth",
+      "toArea": "伦敦",
+      "toYears": "1968–1969",
+      "type": "member",
+      "label": "Barry Mitchell",
+      "detail": "Barry Mitchell 在这两支乐队都待过。",
+      "year": 1968,
+      "weight": 0.62
+    },
+    {
+      "to": "the-immortals",
+      "toName": "The Immortals",
+      "toArea": "伦敦",
+      "toYears": "1986–1986",
+      "type": "member",
+      "label": "John Deacon",
+      "detail": "John Deacon 在这两支乐队都待过。",
+      "year": 1986,
+      "weight": 0.62
+    },
+    {
+      "to": "wreckage",
+      "toName": "Wreckage",
+      "toArea": "英国",
+      "toYears": "1969–1969",
+      "type": "member",
+      "label": "Freddie Mercury",
+      "detail": "Freddie Mercury 在这两支乐队都待过。",
+      "year": 1970,
+      "weight": 0.62
+    },
+    {
+      "to": "muse",
+      "toName": "Muse",
+      "toArea": "Teignmouth",
+      "toYears": "1994–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Queen 影响了 Muse（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "pink-floyd",
+      "toName": "Pink Floyd",
+      "toArea": "伦敦",
+      "toYears": "1965–2014",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Queen 受 Pink Floyd 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-beatles",
+      "toName": "The Beatles",
+      "toArea": "利物浦",
+      "toYears": "1960–1970",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Queen 受 The Beatles 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    },
+    {
+      "to": "the-who",
+      "toName": "The Who",
+      "toArea": "伦敦",
+      "toYears": "1964–",
+      "type": "influence",
+      "label": "影响关系",
+      "detail": "Queen 受 The Who 影响（Wikidata）。",
+      "year": null,
+      "weight": 0.46
+    }
+  ]
+}

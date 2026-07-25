@@ -1,0 +1,39 @@
+{
+  "id": "vivian-or-kazuma",
+  "mbid": "6de8b0ce-bbbb-4307-99de-e96789fac2c9",
+  "name": "Vivian or Kazuma",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6de8b0ce-bbbb-4307-99de-e96789fac2c9"
+  },
+  "edges": [
+    {
+      "to": "siam-shade",
+      "toName": "SIAM SHADE",
+      "toArea": "日本",
+      "toYears": "1993–2002",
+      "type": "member",
+      "label": "KAZUMA",
+      "detail": "KAZUMA 在这两支乐队都待过。",
+      "year": 1993,
+      "weight": 0.62
+    },
+    {
+      "to": "royal-force",
+      "toName": "ROYAL FORCE",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "member",
+      "label": "KAZUMA",
+      "detail": "KAZUMA 在这两支乐队都待过。",
+      "year": 2023,
+      "weight": 0.62
+    }
+  ]
+}

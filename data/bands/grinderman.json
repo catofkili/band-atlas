@@ -3,6 +3,8 @@
   "mbid": "611f1230-7c2b-4610-b9e6-5a4fcb6e3cc7",
   "name": "Grinderman",
   "area": "英国",
+  "countryCode": "GB",
+  "country": "英国",
   "years": "2006–2011",
   "genres": [
     "Garage Rock",
@@ -21,6 +23,7 @@
   ],
   "intro": "Grinderman was an Australian-American rock band that formed in London, England, in 2006.",
   "introLang": "en",
+  "region": "western",
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/611f1230-7c2b-4610-b9e6-5a4fcb6e3cc7"
   },

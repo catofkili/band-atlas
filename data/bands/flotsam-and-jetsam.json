@@ -1,0 +1,59 @@
+{
+  "id": "flotsam-and-jetsam",
+  "mbid": "7448d493-0b9d-4057-9a50-bf2bd096d961",
+  "name": "Flotsam and Jetsam",
+  "area": "Phoenix",
+  "countryCode": "US",
+  "country": "美国",
+  "years": "1984–",
+  "genres": [
+    "Thrash Metal",
+    "Heavy Metal",
+    "Estados Unidos"
+  ],
+  "albums": [
+    {
+      "title": "Doomsday for the Deceiver",
+      "year": 1986
+    },
+    {
+      "title": "No Place for Disgrace",
+      "year": 1988
+    },
+    {
+      "title": "When the Storm Comes Down",
+      "year": 1990
+    },
+    {
+      "title": "Cuatro",
+      "year": 1992
+    },
+    {
+      "title": "Drift",
+      "year": 1995
+    },
+    {
+      "title": "High",
+      "year": 1997
+    }
+  ],
+  "intro": "フロットサム・アンド・ジェットサム (Flotsam and Jetsam) は、アメリカ合衆国出身のスラッシュメタル・バンド。",
+  "introLang": "ja",
+  "region": "western",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7448d493-0b9d-4057-9a50-bf2bd096d961"
+  },
+  "edges": [
+    {
+      "to": "maxwell-house-ranch-band",
+      "toName": "Maxwell House Ranch Band",
+      "toArea": "California",
+      "toYears": null,
+      "type": "member",
+      "label": "Eric Braverman",
+      "detail": "Eric Braverman 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

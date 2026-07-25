@@ -1,0 +1,66 @@
+{
+  "id": "vicky-cryer",
+  "mbid": "b09b280d-ce04-444a-8578-d47840d6bd45",
+  "name": "Vicky Cryer",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "The Synthetic Love of Emotional Engineering",
+      "year": 2013
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b09b280d-ce04-444a-8578-d47840d6bd45"
+  },
+  "edges": [
+    {
+      "to": "jamiroquai",
+      "toName": "Jamiroquai",
+      "toArea": "Ealing",
+      "toYears": "1992–",
+      "type": "member",
+      "label": "Nick Fyffe",
+      "detail": "Nick Fyffe 在这两支乐队都待过。",
+      "year": 1998,
+      "weight": 0.62
+    },
+    {
+      "to": "muse",
+      "toName": "Muse",
+      "toArea": "Teignmouth",
+      "toYears": "1994–",
+      "type": "member",
+      "label": "Dominic Howard",
+      "detail": "Dominic Howard 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "the-killers",
+      "toName": "The Killers",
+      "toArea": "Las Vegas",
+      "toYears": "2001–",
+      "type": "member",
+      "label": "Mark Stoermer",
+      "detail": "Mark Stoermer 在这两支乐队都待过。",
+      "year": 2002,
+      "weight": 0.62
+    },
+    {
+      "to": "gothic-plague",
+      "toName": "Gothic Plague",
+      "toArea": "英国",
+      "toYears": null,
+      "type": "member",
+      "label": "Dominic Howard",
+      "detail": "Dominic Howard 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}

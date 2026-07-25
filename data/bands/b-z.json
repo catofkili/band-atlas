@@ -1,0 +1,92 @@
+{
+  "id": "b-z",
+  "mbid": "20172e89-b8a5-4675-bd79-792d50d846a9",
+  "name": "B’z",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1988–",
+  "genres": [
+    "Rock",
+    "Hard Rock",
+    "J-Rock"
+  ],
+  "albums": [
+    {
+      "title": "B’z",
+      "year": 1988
+    },
+    {
+      "title": "OFF THE LOCK",
+      "year": 1989
+    },
+    {
+      "title": "RISKY",
+      "year": 1990
+    },
+    {
+      "title": "BREAK THROUGH",
+      "year": 1990
+    },
+    {
+      "title": "IN THE LIFE",
+      "year": 1991
+    },
+    {
+      "title": "RUN",
+      "year": 1992
+    }
+  ],
+  "intro": "B'z是日本双人摇滚组合，由吉他手松本孝弘与主唱稻叶浩志在1988年结成。所属经纪公司为VERMILLION。所属唱片公司是VERMILLION RECORDS。",
+  "introLang": "zh",
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/20172e89-b8a5-4675-bd79-792d50d846a9"
+  },
+  "edges": [
+    {
+      "to": "inaba-salas",
+      "toName": "Inaba/Salas",
+      "toArea": null,
+      "toYears": "2017–",
+      "type": "member",
+      "label": "稲葉浩志",
+      "detail": "稲葉浩志 在这两支乐队都待过。",
+      "year": 2017,
+      "weight": 0.62
+    },
+    {
+      "to": "tak-matsumoto-group",
+      "toName": "Tak Matsumoto Group",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "member",
+      "label": "松本孝弘",
+      "detail": "松本孝弘 在这两支乐队都待过。",
+      "year": 2004,
+      "weight": 0.62
+    },
+    {
+      "to": "press-rider",
+      "toName": "PRESS RIDER",
+      "toArea": null,
+      "toYears": null,
+      "type": "member",
+      "label": "松本孝弘",
+      "detail": "松本孝弘 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    },
+    {
+      "to": "rock-n-roll-standard-club-band",
+      "toName": "Rock’n Roll Standard Club Band",
+      "toArea": "日本",
+      "toYears": "1996–",
+      "type": "member",
+      "label": "松本孝弘",
+      "detail": "松本孝弘 在这两支乐队都待过。",
+      "year": 1988,
+      "weight": 0.62
+    }
+  ]
+}

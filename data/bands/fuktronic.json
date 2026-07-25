@@ -1,0 +1,77 @@
+{
+  "id": "fuktronic",
+  "mbid": "49b7b7ce-bc72-4e51-9eef-aa1408804d25",
+  "name": "Fuktronic",
+  "area": null,
+  "countryCode": null,
+  "country": null,
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "Fuktronic",
+      "year": 2020
+    }
+  ],
+  "region": "unknown",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/49b7b7ce-bc72-4e51-9eef-aa1408804d25"
+  },
+  "edges": [
+    {
+      "to": "system-of-a-down",
+      "toName": "System of a Down",
+      "toArea": "Glendale",
+      "toYears": "1995–",
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 1994,
+      "weight": 0.62
+    },
+    {
+      "to": "jazz-iz-christ",
+      "toName": "Jazz-Iz-Christ",
+      "toArea": "美国",
+      "toYears": "2012–",
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 2012,
+      "weight": 0.62
+    },
+    {
+      "to": "serart",
+      "toName": "Serart",
+      "toArea": "洛杉矶",
+      "toYears": "2000–",
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "axis-of-justice",
+      "toName": "Axis of Justice",
+      "toArea": "美国",
+      "toYears": null,
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    },
+    {
+      "to": "forever-young",
+      "toName": "Forever Young",
+      "toArea": "洛杉矶",
+      "toYears": "1991–1993",
+      "type": "member",
+      "label": "Serj Tankian",
+      "detail": "Serj Tankian 在这两支乐队都待过。",
+      "year": 1991,
+      "weight": 0.62
+    }
+  ]
+}

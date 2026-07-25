@@ -1,0 +1,48 @@
+{
+  "id": "京阪girl",
+  "mbid": "a58a1b9a-57ce-40ac-a9df-bb6d75e3b816",
+  "name": "京阪GIRL",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [],
+  "albums": [
+    {
+      "title": "京阪ロック",
+      "year": 2002
+    },
+    {
+      "title": "さよならサンダーバード",
+      "year": 2003
+    }
+  ],
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a58a1b9a-57ce-40ac-a9df-bb6d75e3b816"
+  },
+  "edges": [
+    {
+      "to": "少年ナイフ",
+      "toName": "少年ナイフ",
+      "toArea": "大阪",
+      "toYears": "1981–",
+      "type": "member",
+      "label": "種田律子",
+      "detail": "種田律子 在这两支乐队都待过。",
+      "year": 2008,
+      "weight": 0.62
+    },
+    {
+      "to": "電気キャンディ",
+      "toName": "電気キャンディ",
+      "toArea": "大阪",
+      "toYears": "2004–2008",
+      "type": "member",
+      "label": "種田律子",
+      "detail": "種田律子 在这两支乐队都待过。",
+      "year": null,
+      "weight": 0.62
+    }
+  ]
+}
