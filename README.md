@@ -1,5 +1,7 @@
 # 乐队关系网 · Band Atlas
 
+**<https://catofkili.github.io/band-atlas/>**
+
 从一支乐队出发，顺着成员流动、客串合作、影响与恩怨，一支一支走下去。
 
 进站随机落在一支乐队上，它在屏幕正中完整展开；与它有关系的乐队贴在屏幕四周，
@@ -22,6 +24,17 @@ python3 -m http.server 8790
 
 ```bash
 node tools/build-data.mjs
+```
+
+## 发布
+
+推到 `main` 就会自动更新线上站点（GitHub Pages，从仓库根目录发布），一两分钟生效。
+
+`dist/band-atlas.html` 是把样式、脚本和全部数据压进去的单文件版，79 KB、零外部请求，
+双击就能开，也能丢进禁止发请求的沙箱。改完内容重新生成：
+
+```bash
+node tools/build-data.mjs && node tools/build-standalone.mjs
 ```
 
 ## 目录

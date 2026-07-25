@@ -4,7 +4,7 @@
     {
       "name": "band-atlas",
       "runtimeExecutable": "python3",
-      "runtimeArgs": ["-m", "http.server", "8790", "--directory", "/Users/lsc/Documents/band-atlas"],
+      "runtimeArgs": ["-m", "http.server", "8790"],
       "port": 8790
     }
   ]
