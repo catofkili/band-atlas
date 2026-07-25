@@ -24,7 +24,10 @@ let slots = []; // 当前邻居槽位
 let busy = false;
 const mapEl = document.getElementById('network-map');
 const networkMap = createNetworkMap({ canvas: document.getElementById('network-canvas'), onChoose: (id) => { mapEl.hidden = true; jumpTo(id); } });
-document.getElementById('map-close').addEventListener('click', () => { mapEl.hidden = true; });
+document.getElementById('map-close').addEventListener('click', () => {
+  stageTouches.clear();
+  mapEl.hidden = true;
+});
 window.addEventListener('resize', () => { if (!mapEl.hidden) networkMap.resize(); });
 
 /* ------------------------------------------------------------------ 相机 */
@@ -343,6 +346,9 @@ const stageTouches = new Set();
 function openMapFromGesture() {
   if (mapEl.hidden) {
     drag = null;
+    // 地图盖上来后，先前落在卡片上的手指事件不会再回到 stage。
+    // 清掉它们，避免返回卡片时把下一次单指错判成第二根手指。
+    stageTouches.clear();
     mapEl.hidden = false;
     networkMap.open(current?.id);
   }
