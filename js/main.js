@@ -132,12 +132,6 @@ function render(band, { cameFrom, backAngle, animate = true } = {}) {
   prefetchNeighbors(band);
 }
 
-/**
- * 关系标签挂在连线上，但两头的卡片都不能压。
- *
- * 左右两条边很长，中间空得下；上下两条边则不然——焦点卡片几乎顶到视口上下沿，
- * 和边缘卡片之间根本没有缝。那种情况就把标签收起来，改由边缘卡片自己写出关系。
- */
 /** 盒子在某个方向上的投影长度。 */
 function projectSize(box, dx, dy) {
   return Math.abs(dx) * box.width + Math.abs(dy) * box.height;
@@ -206,7 +200,7 @@ async function travelTo(slot) {
   busy = true;
   try {
     const target = await loadBand(slot.edge.to);
-    history.pushState(null, '', `#/band/${target.id}`);
+    setRoute(target.id);
 
     stage.classList.add('is-traveling');
     slot.node.classList.add('is-target');
@@ -237,7 +231,7 @@ async function jumpTo(id, { push = true } = {}) {
   try {
     if (!isLoaded(id)) statusEl.textContent = '载入中…';
     const band = await loadBand(id);
-    if (push) history.pushState(null, '', `#/band/${band.id}`);
+    if (push) setRoute(band.id);
     stage.classList.add('is-fading');
     if (!reduceMotion.matches) await wait(220);
     render(band);
@@ -263,6 +257,19 @@ function randomId(exclude) {
 function idFromHash() {
   const m = location.hash.match(/^#\/band\/(.+)$/);
   return m ? decodeURIComponent(m[1]) : null;
+}
+
+/**
+ * 地址栏同步是锦上添花：分享出去的链接能直达某支乐队。
+ * 但沙箱里的 iframe 调 history API 会直接抛 SecurityError，
+ * 不兜住的话整个导航都会跟着失败。
+ */
+function setRoute(id, { replace = false } = {}) {
+  try {
+    history[replace ? 'replaceState' : 'pushState'](null, '', `#/band/${id}`);
+  } catch {
+    /* 宿主不给写历史记录，那就不写，不影响走网 */
+  }
 }
 
 /* -------------------------------------------------------------- 事件 */
@@ -350,7 +357,7 @@ new ResizeObserver(() => {
     }
     const id = idFromHash() ?? randomId();
     const band = await loadBand(id).catch(() => loadBand(randomId()));
-    if (!idFromHash()) history.replaceState(null, '', `#/band/${band.id}`);
+    if (!idFromHash()) setRoute(band.id, { replace: true });
     render(band);
   } catch (err) {
     console.error(err);

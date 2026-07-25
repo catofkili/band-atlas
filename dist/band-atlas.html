@@ -1,0 +1,1321 @@
+<meta charset="utf-8">
+<title>乐队关系网</title>
+<meta name="description" content="从一支乐队出发，顺着成员、客串、影响与恩怨，走进整张关系网。">
+<style>
+/* ------------------------------------------------------------------
+   乐队关系网 — 深色单主题。
+   这是一块夜里的画布，不是文档；配色刻意只做一种世界。
+   「重点色」不是一种颜色，而是五种关系类型的功能色，图例即调色板。
+------------------------------------------------------------------ */
+
+:root {
+  --ground: #0d1014;
+  --ground-2: #12161c;
+  --panel: #171c24;
+  --panel-2: #1d232c;
+  --line: #2a323d;
+  --line-soft: #212832;
+  --ink: #e7e4dc;
+  --ink-2: #a7aebb;
+  --ink-3: #6c7482;
+
+  --rel-member: #58a6ff;
+  --rel-guest: #45c58c;
+  --rel-influence: #b98cff;
+  --rel-feud: #ff6b5e;
+  --rel-scene: #d9ac5a;
+
+  --sans: "Hiragino Sans", "Hiragino Kaku Gothic ProN", "Noto Sans CJK SC",
+    "PingFang SC", "Source Han Sans SC", system-ui, sans-serif;
+  --display: "Helvetica Neue", "Arial Narrow", "Hiragino Sans", "PingFang SC", sans-serif;
+  --mono: ui-monospace, "SF Mono", "JetBrains Mono", Menlo, monospace;
+
+  --card-w: min(420px, 84vw);
+  --peek-w: min(310px, 66vw);
+}
+
+.rel-member { --rel: var(--rel-member); }
+.rel-guest { --rel: var(--rel-guest); }
+.rel-influence { --rel: var(--rel-influence); }
+.rel-feud { --rel: var(--rel-feud); }
+.rel-scene { --rel: var(--rel-scene); }
+
+* { box-sizing: border-box; }
+
+html, body {
+  height: 100%;
+  margin: 0;
+  overflow: hidden;
+}
+
+body {
+  background:
+    radial-gradient(ellipse 70% 60% at 50% 45%, #1a2029 0%, transparent 68%),
+    var(--ground);
+  color: var(--ink);
+  font-family: var(--sans);
+  font-size: 15px;
+  line-height: 1.7;
+  -webkit-font-smoothing: antialiased;
+}
+
+button { font: inherit; color: inherit; }
+
+/* ------------------------------------------------------------ 舞台与世界 */
+
+.stage {
+  position: fixed;
+  inset: 0;
+  overflow: hidden;
+}
+
+.world {
+  position: absolute;
+  left: 50%;
+  top: 50%;
+  width: 0;
+  height: 0;
+  will-change: transform;
+}
+
+.edges {
+  position: absolute;
+  overflow: visible;
+  pointer-events: none;
+}
+
+.edge {
+  stroke: var(--rel);
+  stroke-width: 1.25;
+  opacity: 0.5;
+  transition: opacity 0.25s ease, stroke-width 0.25s ease;
+}
+.edge.is-hot { opacity: 1; stroke-width: 2.25; }
+.rel-feud.edge { stroke-dasharray: 7 5; }
+.rel-scene.edge { stroke-dasharray: 1.5 5; stroke-linecap: round; }
+
+.node {
+  position: absolute;
+  --push: 0px;
+  --ux: 0;
+  --uy: 0;
+  transform: translate(-50%, -50%)
+    translate(calc(var(--ux) * var(--push)), calc(var(--uy) * var(--push)));
+  transition: transform 0.42s cubic-bezier(0.2, 0.9, 0.25, 1), opacity 0.35s ease;
+}
+
+.node--focus { z-index: 3; }
+.node--peek { z-index: 2; }
+.node--chip { z-index: 1; }
+
+/* ---------------------------------------------------------------- 卡片 */
+
+.card {
+  background: linear-gradient(180deg, var(--panel-2), var(--panel));
+  border: 1px solid var(--line);
+  border-radius: 14px;
+  box-shadow: 0 22px 60px -18px rgba(0, 0, 0, 0.85);
+}
+
+.card--focus {
+  width: var(--card-w);
+  padding: 22px 24px 18px;
+  display: flex;
+  flex-direction: column;
+  max-height: min(72vh, 640px);
+}
+
+.card__head { flex: none; }
+
+.card__name {
+  font-family: var(--display);
+  font-weight: 800;
+  font-size: clamp(1.5rem, 4.4vw, 2.05rem);
+  letter-spacing: -0.02em;
+  line-height: 1.12;
+  margin: 0;
+  text-wrap: balance;
+}
+
+.card__meta {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  letter-spacing: 0.06em;
+  color: var(--ink-3);
+  margin: 7px 0 0;
+}
+
+.card__body {
+  overflow-y: auto;
+  overscroll-behavior: contain;
+  margin-top: 14px;
+  padding-right: 4px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  /* 底部渐隐，提示这里还能往下滚 */
+  mask-image: linear-gradient(to bottom, #000 calc(100% - 26px), transparent);
+}
+.card__body::-webkit-scrollbar { width: 6px; }
+.card__body::-webkit-scrollbar-thumb { background: var(--line); border-radius: 3px; }
+
+.card__intro { margin: 0; color: var(--ink-2); font-size: 0.9rem; }
+
+.card__section { display: flex; flex-direction: column; gap: 8px; }
+
+.card__label {
+  font-family: var(--mono);
+  font-size: 0.64rem;
+  font-weight: 500;
+  letter-spacing: 0.22em;
+  text-transform: uppercase;
+  color: var(--ink-3);
+  margin: 0;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--line-soft);
+}
+
+.taglist {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  list-style: none;
+  margin: 8px 0 0;
+  padding: 0;
+}
+.tag {
+  font-size: 0.7rem;
+  letter-spacing: 0.04em;
+  color: var(--ink-2);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 1px 9px;
+}
+.tag--track { color: var(--ink); border-color: var(--line); background: rgba(255, 255, 255, 0.03); }
+
+.albums { list-style: none; margin: 0; padding: 0; }
+.album {
+  display: flex;
+  align-items: baseline;
+  gap: 10px;
+  padding: 3px 0;
+}
+.album__title { flex: 1; font-size: 0.86rem; }
+.album__year {
+  font-family: var(--mono);
+  font-size: 0.72rem;
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+
+.lore {
+  margin: 0;
+  font-size: 0.84rem;
+  color: var(--ink-2);
+  border-left: 2px solid var(--rel-feud);
+  padding-left: 12px;
+}
+
+/* 全部关系列表：触屏与超出边缘上限时的主要入口 */
+.rels { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }
+
+.rel-row {
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  width: 100%;
+  text-align: left;
+  background: none;
+  border: 0;
+  border-radius: 8px;
+  padding: 7px 9px;
+  cursor: pointer;
+  transition: background 0.18s ease;
+}
+.rel-row:hover, .rel-row:focus-visible { background: rgba(255, 255, 255, 0.05); }
+
+.rel-row__top { display: flex; align-items: center; gap: 8px; }
+.rel-row__dot {
+  width: 7px; height: 7px; flex: none;
+  border-radius: 50%;
+  background: var(--rel);
+}
+.rel-row__name { font-size: 0.84rem; font-weight: 600; }
+.rel-row__label {
+  font-family: var(--mono);
+  font-size: 0.66rem;
+  color: var(--ink-3);
+  margin-left: auto;
+  text-align: right;
+}
+.rel-row__detail { font-size: 0.76rem; color: var(--ink-3); line-height: 1.55; padding-left: 15px; }
+
+.card__foot {
+  flex: none;
+  margin-top: 16px;
+  padding-top: 12px;
+  border-top: 1px solid var(--line-soft);
+  display: flex;
+  align-items: center;
+  gap: 12px;
+}
+.card__counts { display: flex; flex-wrap: wrap; gap: 4px 12px; margin: 0; }
+.count {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  font-family: var(--mono);
+  font-size: 0.64rem;
+  color: var(--ink-3);
+}
+.count__dot { width: 6px; height: 6px; border-radius: 50%; background: var(--rel); }
+.count--member { --rel: var(--rel-member); }
+.count--guest { --rel: var(--rel-guest); }
+.count--influence { --rel: var(--rel-influence); }
+.count--feud { --rel: var(--rel-feud); }
+.count--scene { --rel: var(--rel-scene); }
+
+.card__link {
+  margin-left: auto;
+  font-family: var(--mono);
+  font-size: 0.64rem;
+  letter-spacing: 0.04em;
+  color: var(--ink-3);
+  text-decoration: none;
+  white-space: nowrap;
+}
+.card__link:hover { color: var(--ink); }
+
+/* ------------------------------------------------------------ 边缘卡片 */
+
+.card--peek {
+  width: var(--peek-w);
+  padding: 14px 16px;
+  cursor: pointer;
+  display: block;
+  text-align: left;
+  border-color: color-mix(in srgb, var(--rel) 32%, var(--line));
+  transition: border-color 0.25s ease, box-shadow 0.25s ease;
+}
+.card--peek:hover,
+.card--peek:focus-visible {
+  border-color: color-mix(in srgb, var(--rel) 70%, var(--line));
+  box-shadow: 0 22px 60px -18px rgba(0, 0, 0, 0.9),
+    0 0 0 1px color-mix(in srgb, var(--rel) 35%, transparent);
+  outline: none;
+}
+
+.peek__inner { display: flex; flex-direction: column; gap: 3px; }
+
+.peek__rel {
+  font-family: var(--mono);
+  font-size: 0.6rem;
+  letter-spacing: 0.16em;
+  color: var(--rel);
+}
+.peek__name {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 1.02rem;
+  letter-spacing: -0.01em;
+  line-height: 1.25;
+}
+.peek__meta { font-family: var(--mono); font-size: 0.63rem; color: var(--ink-3); }
+
+/* 连线上挂不下标签时，关系改写在卡片里 */
+.peek__label { display: none; font-size: 0.72rem; color: var(--ink-2); margin-top: 4px; }
+.card--peek.show-label .peek__label { display: block; }
+
+/* 露出哪半边，内容就贴哪半边 —— 否则名字正好被切在屏幕外。
+   左右方向再把内容宽度压到一半以内，上下方向给卡片一个固定高度，
+   这样内容一定落在看得见的那半张卡片里。 */
+.card--peek-e .peek__inner { max-width: 58%; margin-right: auto; }
+.card--peek-w .peek__inner {
+  max-width: 58%;
+  margin-left: auto;
+  align-items: flex-end;
+  text-align: right;
+}
+.card--peek-n,
+.card--peek-s { display: flex; height: 172px; }
+.card--peek-n { align-items: flex-end; }
+.card--peek-s { align-items: flex-start; }
+.card--peek-n .peek__inner,
+.card--peek-s .peek__inner { width: 100%; }
+
+.node--peek:hover, .node--peek.is-hot { --push: -26px; }
+
+/* --------------------------------------------------------- 关系标签 */
+
+/* 标签锚在焦点卡片外缘，朝远离卡片的方向生长 */
+.node--chip.anchor-e { transform: translate(0, -50%); }
+.node--chip.anchor-w { transform: translate(-100%, -50%); }
+.node--chip.anchor-s { transform: translate(-50%, 0); }
+.node--chip.anchor-n { transform: translate(-50%, -100%); }
+
+.relchip {
+  width: max-content;
+  max-width: 190px;
+  background: color-mix(in srgb, var(--ground) 86%, transparent);
+  backdrop-filter: blur(6px);
+  border: 1px solid color-mix(in srgb, var(--rel) 34%, var(--line));
+  border-radius: 8px;
+  padding: 4px 10px;
+  transition: border-color 0.25s ease;
+}
+
+/* 用行内排版而不是 flex：关系标签写得长了要能自己折行，
+   flex 一行到底会把文字顶出盒子，被旁边的卡片切掉。 */
+.relchip__head { font-size: 0.72rem; line-height: 1.5; }
+.relchip__dot {
+  display: inline-block;
+  width: 6px;
+  height: 6px;
+  border-radius: 50%;
+  background: var(--rel);
+  margin-right: 6px;
+  vertical-align: middle;
+}
+.relchip__year {
+  margin-left: 6px;
+  font-family: var(--mono);
+  font-size: 0.63rem;
+  color: var(--ink-3);
+  font-variant-numeric: tabular-nums;
+}
+.relchip__detail {
+  display: none;
+  clear: both;
+  font-size: 0.74rem;
+  line-height: 1.55;
+  color: var(--ink-2);
+  padding-top: 5px;
+  margin-top: 5px;
+  border-top: 1px solid var(--line-soft);
+}
+.node--chip.is-hot .relchip {
+  border-color: color-mix(in srgb, var(--rel) 75%, var(--line));
+}
+.node--chip.is-hot .relchip__detail { display: block; }
+
+/* -------------------------------------------------------------- HUD */
+
+.hud {
+  position: fixed;
+  left: 0;
+  right: 0;
+  z-index: 10;
+  padding: 16px 20px;
+  padding-left: max(20px, env(safe-area-inset-left));
+  padding-right: max(20px, env(safe-area-inset-right));
+  display: flex;
+  align-items: center;
+  gap: 16px;
+  pointer-events: none;
+}
+.hud > * { pointer-events: auto; position: relative; z-index: 1; }
+.hud--top { top: 0; }
+.hud--bottom {
+  bottom: 0;
+  padding-bottom: max(16px, env(safe-area-inset-bottom));
+  align-items: flex-end;
+}
+
+/* 贴着上下边缘的乐队卡片会滑到 HUD 底下，加一层压暗把 HUD 托住。
+   顺带给画面一点边缘的暗角，强化「内容还在屏幕外继续」的感觉。 */
+.hud::before {
+  content: "";
+  position: absolute;
+  left: 0;
+  right: 0;
+  height: 190%;
+  pointer-events: none;
+}
+.hud--top::before { top: 0; background: linear-gradient(to bottom, rgba(9, 11, 14, 0.85), transparent); }
+.hud--bottom::before { bottom: 0; background: linear-gradient(to top, rgba(9, 11, 14, 0.85), transparent); }
+
+.wordmark { display: flex; flex-direction: column; line-height: 1.35; }
+.wordmark__name {
+  font-family: var(--display);
+  font-weight: 700;
+  font-size: 0.92rem;
+  letter-spacing: 0.02em;
+}
+.wordmark__scene { font-family: var(--mono); font-size: 0.63rem; color: var(--ink-3); }
+
+.btn {
+  margin-left: auto;
+  background: color-mix(in srgb, var(--panel) 80%, transparent);
+  backdrop-filter: blur(8px);
+  border: 1px solid var(--line);
+  border-radius: 999px;
+  padding: 6px 16px;
+  font-size: 0.78rem;
+  cursor: pointer;
+  transition: border-color 0.2s ease, color 0.2s ease;
+}
+.btn:hover, .btn:focus-visible { border-color: var(--ink-3); outline: none; }
+
+/* 图例竖排缩在角落里。横着铺开会占满整条底边，
+   而那正是下方那几张乐队卡片露头的地方。 */
+.legend {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+.legend__item {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  font-family: var(--mono);
+  font-size: 0.63rem;
+  color: var(--ink-3);
+}
+.legend__item i { width: 16px; height: 2px; background: var(--rel); border-radius: 2px; }
+.legend__item.rel-feud i { background: repeating-linear-gradient(90deg, var(--rel) 0 5px, transparent 5px 8px); }
+.legend__item.rel-scene i { background: repeating-linear-gradient(90deg, var(--rel) 0 2px, transparent 2px 5px); }
+
+.status {
+  margin: 0 0 0 auto;
+  font-family: var(--mono);
+  font-size: 0.63rem;
+  color: var(--ink-3);
+  text-align: right;
+}
+
+/* --------------------------------------------------------- 动画状态 */
+
+/* 入场：连线画出来，边缘卡片再从屏幕外探进来 */
+.is-entering .node--peek { --push: 64px; opacity: 0; }
+.is-entering .node--chip { opacity: 0; }
+.is-entering .node--focus .card--focus { opacity: 0; transform: translateY(10px); }
+.node--focus .card--focus { transition: opacity 0.5s ease 0.05s, transform 0.5s cubic-bezier(0.2, 0.9, 0.25, 1) 0.05s; }
+.node--chip { transition: opacity 0.4s ease 0.22s, transform 0.42s cubic-bezier(0.2, 0.9, 0.25, 1); }
+
+.edge {
+  stroke-dasharray: var(--len);
+  stroke-dashoffset: 0;
+  transition: stroke-dashoffset 0.55s cubic-bezier(0.35, 0.9, 0.3, 1), opacity 0.25s ease, stroke-width 0.25s ease;
+}
+.is-entering .edge { stroke-dashoffset: var(--len); }
+.rel-feud.edge, .rel-scene.edge { stroke-dasharray: 7 5; }
+.rel-scene.edge { stroke-dasharray: 1.5 5; }
+.is-entering .rel-feud.edge, .is-entering .rel-scene.edge { opacity: 0; }
+
+/* 出发：除目标以外的一切先退场 */
+.is-traveling .node--peek:not(.is-target),
+.is-traveling .node--chip:not(.is-target),
+.is-traveling .node--focus { opacity: 0; }
+.is-traveling .edge { opacity: 0; }
+.is-traveling .node--peek.is-target { --push: 0px; }
+.is-traveling .relchip__detail { display: none; }
+
+.card--peek.is-leaving { opacity: 0; position: absolute; inset: 0; pointer-events: none; }
+.card--arriving { opacity: 0; }
+.node--peek .card--focus { transition: opacity 0.45s ease 0.12s; }
+
+.is-fading .world { opacity: 0; transition: opacity 0.2s ease; }
+
+@media (prefers-reduced-motion: reduce) {
+  .node, .edge, .card--focus, .node--chip, .card--peek.is-leaving, .node--peek .card--focus {
+    transition-duration: 0.01ms !important;
+  }
+  .is-entering .node--peek { --push: 0px; opacity: 1; }
+}
+
+/* ------------------------------------------------------------- 窄屏 */
+
+@media (max-width: 640px) {
+    /* 窄屏只用上下两条边，同一条边上要并排放两张，所以卡片必须窄 */
+  :root { --card-w: min(340px, 90vw); --peek-w: min(156px, 44vw); }
+  .hud { padding: 12px 14px; }
+  .status { font-size: 0.6rem; }
+  .relchip { max-width: 190px; }
+  /* 焦点卡片压矮，把上下两头的空间让给露头的邻居 */
+  .card--focus { max-height: 52vh; padding: 18px 18px 14px; }
+  .card--peek { padding: 12px; }
+  .card--peek-n, .card--peek-s { height: 190px; }
+  .peek__name { font-size: 0.9rem; }
+  /* 副标题和图例都让位给卡片：关系类型每张卡片上本来就写着 */
+  .wordmark__scene { display: none; }
+  .legend { display: none; }
+}
+
+</style>
+
+<main id="stage" class="stage" aria-label="乐队关系网"></main>
+
+<header class="hud hud--top">
+  <div class="wordmark">
+    <span class="wordmark__name">乐队关系网</span>
+    <span class="wordmark__scene" id="scene-name">载入中</span>
+  </div>
+  <button id="shuffle" class="btn" type="button">换一支</button>
+</header>
+
+<footer class="hud hud--bottom">
+  <ul class="legend" id="legend"></ul>
+  <p class="status" id="status" role="status">载入中…</p>
+</footer>
+
+<script>
+globalThis.BAND_ATLAS_DATA = {"index":{"scene":"日本另类摇滚及其源流","note":"M0 原型数据：人工整理，未经 MusicBrainz 校验。M1 阶段由数据管线替换。","generatedAt":"2026-07-25","bands":[{"id":"number-girl","name":"NUMBER GIRL","area":"福冈","years":"1995–2002 / 2019–2022","degree":13},{"id":"zazen-boys","name":"ZAZEN BOYS","area":"东京","years":"2003–","degree":4},{"id":"toddle","name":"toddle","area":"东京","years":"2004–","degree":3},{"id":"vola-and-the-oriental-machine","name":"VOLA & THE ORIENTAL MACHINE","area":"东京","years":"2004–","degree":2},{"id":"bloodthirsty-butchers","name":"bloodthirsty butchers","area":"北海道","years":"1987–2013","degree":6},{"id":"eastern-youth","name":"eastern youth","area":"北海道","years":"1988–","degree":3},{"id":"lostage","name":"LOSTAGE","area":"奈良","years":"2001–","degree":2},{"id":"art-school","name":"ART-SCHOOL","area":"东京","years":"2000–","degree":3},{"id":"mo-some-tonebender","name":"MO'SOME TONEBENDER","area":"福冈","years":"1997–","degree":2},{"id":"straightener","name":"ストレイテナー","area":"东京","years":"1998–","degree":4},{"id":"nothings-carved-in-stone","name":"Nothing's Carved In Stone","area":"东京","years":"2009–","degree":3},{"id":"ellegarden","name":"ELLEGARDEN","area":"千叶","years":"1998–2008 / 2018–","degree":3},{"id":"the-hiatus","name":"the HIATUS","area":"东京","years":"2009–","degree":2},{"id":"thee-michelle-gun-elephant","name":"thee michelle gun elephant","area":"东京","years":"1991–2003","degree":3},{"id":"asian-kung-fu-generation","name":"ASIAN KUNG-FU GENERATION","area":"横滨","years":"1996–","degree":3},{"id":"ling-tosite-sigure","name":"凛として時雨","area":"埼玉","years":"2002–","degree":2},{"id":"kinoko-teikoku","name":"きのこ帝国","area":"东京","years":"2007–2019","degree":3},{"id":"supercar","name":"SUPERCAR","area":"青森","years":"1995–2005","degree":2},{"id":"pixies","name":"Pixies","area":"波士顿","years":"1986–1993 / 2004–","degree":2},{"id":"sonic-youth","name":"Sonic Youth","area":"纽约","years":"1981–2011","degree":3},{"id":"fugazi","name":"Fugazi","area":"华盛顿特区","years":"1987–2003","degree":2},{"id":"nirvana","name":"Nirvana","area":"西雅图","years":"1987–1994","degree":4},{"id":"my-bloody-valentine","name":"My Bloody Valentine","area":"都柏林 / 伦敦","years":"1983–1997 / 2007–","degree":2},{"id":"oasis","name":"Oasis","area":"曼彻斯特","years":"1991–2009 / 2024–","degree":2},{"id":"blur","name":"Blur","area":"伦敦","years":"1988–","degree":1},{"id":"guns-n-roses","name":"Guns N' Roses","area":"洛杉矶","years":"1985–","degree":1}]},"bands":{"art-school":{"id":"art-school","name":"ART-SCHOOL","area":"东京","years":"2000–","genres":["Alternative Rock","Shoegaze","Grunge"],"intro":"木下理树的乐队。把九十年代美国另类摇滚的阴郁质感翻译成日语，成员更替极其频繁。","albums":[{"title":"LOVE/HATE","year":2003},{"title":"PARADISE LOST","year":2004},{"title":"Anesthesia","year":2005}],"tracks":["クロエ","UNDER MY SKIN","FADE TO BLACK","乾いた花"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=ART-SCHOOL&type=artist"},"edges":[{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"member","label":"田渕ひさ子","detail":"NUMBER GIRL 的田渕ひさ子曾在这支乐队担任吉他手。","year":2005,"weight":0.75},{"to":"nirvana","toName":"Nirvana","toArea":"西雅图","toYears":"1987–1994","type":"influence","label":"影响来源","detail":"木下理树最常提及的影响来源之一。","year":null,"weight":0.7},{"to":"toddle","toName":"toddle","toArea":"东京","toYears":"2004–","type":"member","label":"田渕ひさ子","detail":"吉他手田渕ひさ子同期的另一支乐队。","year":2005,"weight":0.6}]},"asian-kung-fu-generation":{"id":"asian-kung-fu-generation","name":"ASIAN KUNG-FU GENERATION","area":"横滨","years":"1996–","genres":["Alternative Rock","Power Pop"],"intro":"后藤正文的四人组。把 NUMBER GIRL 那一代的另类摇滚语法推向了主流规模，也是很多人认识日本摇滚的入口。","albums":[{"title":"君繋ファイブエム","year":2003},{"title":"ソルファ","year":2004},{"title":"ファンクラブ","year":2006},{"title":"ワールド ワールド ワールド","year":2008}],"tracks":["リライト","遙か彼方","ソラニン","君という花","アフターダーク"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=ASIAN%20KUNG-FU%20GENERATION&type=artist"},"edges":[{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"influence","label":"影响来源","detail":"后藤正文口中「让我开始做乐队的那支乐队」。","year":null,"weight":0.9},{"to":"oasis","toName":"Oasis","toArea":"曼彻斯特","toYears":"1991–2009 / 2024–","type":"influence","label":"影响来源","detail":"早期写作里合唱式副歌的参照之一。","year":null,"weight":0.6},{"to":"straightener","toName":"ストレイテナー","toArea":"东京","toYears":"1998–","type":"scene","label":"2000 年代同世代","detail":"同属 2000 年代把 live house 场景推向大场馆的一批乐队。","year":null,"weight":0.55}]},"bloodthirsty-butchers":{"id":"bloodthirsty-butchers","name":"bloodthirsty butchers","area":"北海道","years":"1987–2013","genres":["Alternative Rock","Post-hardcore","Noise Rock"],"intro":"吉村秀树领衔的札幌乐队。旋律粗粝、演奏近乎失控，是日本另类摇滚里被后辈最频繁提起的一支。","albums":[{"title":"kocorono","year":1996},{"title":"未完成","year":1998},{"title":"banging the drum","year":2001},{"title":"birdy","year":2003},{"title":"ギタリストを殺さないで","year":2011}],"tracks":["7月","December","kocorono"],"lore":"2013 年 5 月，吉村秀树突然离世，乐队随之终止。此后多年，日本另类摇滚圈的纪念演出没有断过。","links":{"musicbrainz":"https://musicbrainz.org/search?query=bloodthirsty%20butchers&type=artist"},"edges":[{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"member","label":"田渕ひさ子 / 长年盟友","detail":"北海道的前辈与盟友，后来吸纳了 NUMBER GIRL 的吉他手田渕ひさ子。","year":2007,"weight":0.85},{"to":"eastern-youth","toName":"eastern youth","toArea":"北海道","toYears":"1988–","type":"guest","label":"北海道的盟友","detail":"同为札幌出身，两队长年共演、互为对方现场的常客。","year":null,"weight":0.8},{"to":"toddle","toName":"toddle","toArea":"东京","toYears":"2004–","type":"member","label":"田渕ひさ子","detail":"吉他手田渕ひさ子在这两支乐队之间同时活动。","year":2007,"weight":0.7},{"to":"sonic-youth","toName":"Sonic Youth","toArea":"纽约","toYears":"1981–2011","type":"influence","label":"影响来源","detail":"噪音一侧的上游。","year":null,"weight":0.65},{"to":"fugazi","toName":"Fugazi","toArea":"华盛顿特区","toYears":"1987–2003","type":"influence","label":"影响来源","detail":"post-hardcore 谱系的上游。","year":null,"weight":0.6},{"to":"lostage","toName":"LOSTAGE","toArea":"奈良","toYears":"2001–","type":"guest","label":"共演・后辈","detail":"吉村秀树与 LOSTAGE 的五味岳久交情深厚，两队多次同台。","year":null,"weight":0.6}]},"blur":{"id":"blur","name":"Blur","area":"伦敦","years":"1988–","genres":["Britpop","Alternative Rock"],"intro":"Damon Albarn 的乐队。用带距离感的观察写英国中产生活，和 Oasis 恰好构成了英伦摇滚的两极。","albums":[{"title":"Parklife","year":1994},{"title":"The Great Escape","year":1995},{"title":"Blur","year":1997},{"title":"13","year":1999}],"tracks":["Song 2","Girls & Boys","Coffee & TV","Parklife"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=Blur&type=artist"},"edges":[{"to":"oasis","toName":"Oasis","toArea":"曼彻斯特","toYears":"1991–2009 / 2024–","type":"feud","label":"英伦摇滚之战","detail":"1995 年 8 月的同日发行单曲对决，是英国流行乐史上被讨论最多的一次乐队对立。","year":1995,"weight":0.95}]},"eastern-youth":{"id":"eastern-youth","name":"eastern youth","area":"北海道","years":"1988–","genres":["Emo","Post-hardcore","Punk"],"intro":"吉野寿的嘶吼与文语式的歌词。和 bloodthirsty butchers 一样出自札幌，是日本 emo 谱系最上游的一支。","albums":[{"title":"口笛、夜更けに使う","year":1998},{"title":"sound track","year":1999},{"title":"時計台の鐘","year":2001}],"tracks":["夏の日の午後","男子畢生危機一髪","青い空、白い雲、しゅーっという風"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=eastern%20youth&type=artist"},"edges":[{"to":"bloodthirsty-butchers","toName":"bloodthirsty butchers","toArea":"北海道","toYears":"1987–2013","type":"guest","label":"北海道的盟友","detail":"同为札幌出身的盟友，共演次数多到难以计数。","year":null,"weight":0.8},{"to":"fugazi","toName":"Fugazi","toArea":"华盛顿特区","toYears":"1987–2003","type":"influence","label":"影响来源","detail":"日本 emo 谱系普遍绕不开的源头。","year":null,"weight":0.6},{"to":"lostage","toName":"LOSTAGE","toArea":"奈良","toYears":"2001–","type":"guest","label":"共演","detail":"同属日本独立摇滚的自办体系，长期互相邀约。","year":null,"weight":0.55}]},"ellegarden":{"id":"ellegarden","name":"ELLEGARDEN","area":"千叶","years":"1998–2008 / 2018–","genres":["Melodic Punk","Emo","Alternative Rock"],"intro":"细美武士的乐队。用英语与日语交替写歌，把 2000 年代日本的 live house 场景推到了武道馆规模。","albums":[{"title":"DON'T TRUST ANYONE BUT US","year":2002},{"title":"Pepperoni Quattro","year":2004},{"title":"RIOT ON THE GRILL","year":2005},{"title":"ELEVEN FIRE CRACKERS","year":2006}],"tracks":["Missing","Salamander","Marry Me","風の日","ジターバグ"],"lore":"2008 年宣布无限期活动休止，直到 2018 年才重启。中间整整十年，成员各自组了新乐队。","links":{"musicbrainz":"https://musicbrainz.org/search?query=ELLEGARDEN&type=artist"},"edges":[{"to":"nothings-carved-in-stone","toName":"Nothing's Carved In Stone","toArea":"东京","toYears":"2009–","type":"member","label":"生形真一・大喜多崇規","detail":"ELLEGARDEN 无限期休止后，吉他手生形真一与鼓手大喜多崇規发起了 Nothing's Carved In Stone。","year":2009,"weight":0.9},{"to":"the-hiatus","toName":"the HIATUS","toArea":"东京","toYears":"2009–","type":"member","label":"細美武士","detail":"主唱細美武士在乐队休止后于 2009 年组建 the HIATUS。","year":2009,"weight":0.9},{"to":"straightener","toName":"ストレイテナー","toArea":"东京","toYears":"1998–","type":"scene","label":"2000 年代同世代","detail":"同属 2000 年代 live house 场景的核心。","year":null,"weight":0.6}]},"fugazi":{"id":"fugazi","name":"Fugazi","area":"华盛顿特区","years":"1987–2003","genres":["Post-hardcore","Punk"],"intro":"Ian MacKaye 的乐队。坚持五美元门票、拒绝周边、不上大厂牌，把独立不只是当作声音，而是当作一整套做法。","albums":[{"title":"13 Songs","year":1989},{"title":"Repeater","year":1990},{"title":"In on the Kill Taker","year":1993},{"title":"The Argument","year":2001}],"tracks":["Waiting Room","Merchandise","Blueprint","Bed for the Scraping"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=Fugazi&type=artist"},"edges":[{"to":"bloodthirsty-butchers","toName":"bloodthirsty butchers","toArea":"北海道","toYears":"1987–2013","type":"influence","label":"影响来源","detail":"post-hardcore 的段落写法与独立做法，是 butchers 上游的一条线。","year":null,"weight":0.6},{"to":"eastern-youth","toName":"eastern youth","toArea":"北海道","toYears":"1988–","type":"influence","label":"影响来源","detail":"日本 emo / post-hardcore 谱系普遍绕不开的源头。","year":null,"weight":0.6}]},"guns-n-roses":{"id":"guns-n-roses","name":"Guns N' Roses","area":"洛杉矶","years":"1985–","genres":["Hard Rock","Glam Metal"],"intro":"八十年代末最后一支超大规模的硬摇滚乐队，也是 grunge 一代最想推翻的对象。","albums":[{"title":"Appetite for Destruction","year":1987},{"title":"Use Your Illusion I","year":1991},{"title":"Use Your Illusion II","year":1991}],"tracks":["Sweet Child o' Mine","Welcome to the Jungle","November Rain","Paradise City"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=Guns%20N'%20Roses&type=artist"},"edges":[{"to":"nirvana","toName":"Nirvana","toArea":"西雅图","toYears":"1987–1994","type":"feud","label":"1992 VMA 后台冲突","detail":"1992 年 VMA 后台的当众对峙，把新旧两代摇滚的对立摆到了台面上。","year":1992,"weight":0.9}]},"kinoko-teikoku":{"id":"kinoko-teikoku","name":"きのこ帝国","area":"东京","years":"2007–2019","genres":["Shoegaze","Alternative Rock"],"intro":"佐藤千亚妃的乐队。从 shoegaze 的噪音墙起步，逐渐转向清亮的流行写作，两个阶段的落差是它最被讨论的地方。","albums":[{"title":"渦になる","year":2012},{"title":"eureka","year":2013},{"title":"フェイクワールドワンダーランド","year":2014},{"title":"愛のゆくえ","year":2015}],"tracks":["クロノスタシス","東京","WHIRLPOOL","海と花束"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=%E3%81%8D%E3%81%AE%E3%81%93%E5%B8%9D%E5%9B%BD&type=artist"},"edges":[{"to":"my-bloody-valentine","toName":"My Bloody Valentine","toArea":"都柏林 / 伦敦","toYears":"1983–1997 / 2007–","type":"influence","label":"影响来源","detail":"早期噪音墙写法的直系源头。","year":null,"weight":0.8},{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"influence","label":"影响来源","detail":"噪音与日语叙事结合的先例。","year":null,"weight":0.7},{"to":"ling-tosite-sigure","toName":"凛として時雨","toArea":"埼玉","toYears":"2002–","type":"scene","label":"2010 年前后","detail":"同属 2010 年前后从 live house 起步的一批。","year":null,"weight":0.5}]},"ling-tosite-sigure":{"id":"ling-tosite-sigure","name":"凛として時雨","area":"埼玉","years":"2002–","genres":["Math Rock","Post-hardcore"],"intro":"TK 领衔的三人组。极高音域的男女双主唱、密到几乎没有空隙的编曲，是 2000 年代后期日本摇滚最辨识度的声音之一。","albums":[{"title":"#4","year":2008},{"title":"just A moment","year":2009},{"title":"i'mperfect","year":2013}],"tracks":["telecastic fake show","abnormalize","傍観","DISCO FLIGHT"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=%E5%87%9B%E3%81%A8%E3%81%97%E3%81%A6%E6%99%82%E9%9B%A8&type=artist"},"edges":[{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"influence","label":"影响来源","detail":"日语咬字与节奏切分上的上游参照。","year":null,"weight":0.7},{"to":"kinoko-teikoku","toName":"きのこ帝国","toArea":"东京","toYears":"2007–2019","type":"scene","label":"2010 年前后","detail":"同属 2010 年前后从 live house 起步的日本另类摇滚新一批。","year":null,"weight":0.5}]},"lostage":{"id":"lostage","name":"LOSTAGE","area":"奈良","years":"2001–","genres":["Alternative Rock","Post-hardcore"],"intro":"五味岳久的三人组。从奈良起步，中途离开大厂牌自办唱片行与厂牌，是日本独立摇滚自给自足的一个样板。","albums":[{"title":"CONTEXT","year":2009},{"title":"In Dreams","year":2011},{"title":"LOSTAGE","year":2014}],"tracks":["HELLO","生活"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=LOSTAGE&type=artist"},"edges":[{"to":"bloodthirsty-butchers","toName":"bloodthirsty butchers","toArea":"北海道","toYears":"1987–2013","type":"guest","label":"共演・后辈","detail":"五味岳久最敬重的前辈之一，两队多次同台。","year":null,"weight":0.6},{"to":"eastern-youth","toName":"eastern youth","toArea":"北海道","toYears":"1988–","type":"guest","label":"共演","detail":"同属日本独立摇滚的自办体系，长期互相邀约。","year":null,"weight":0.55}]},"mo-some-tonebender":{"id":"mo-some-tonebender","name":"MO'SOME TONEBENDER","area":"福冈","years":"1997–","genres":["Garage Rock","Alternative Rock"],"intro":"百々和宏领衔的福冈三人组，和 NUMBER GIRL 出自同一片场景，但走的是更噪、更放浪的车库路线。","albums":[{"title":"Rockin' Luuula","year":2002}],"tracks":["ロッキンルーラ"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=MO'SOME%20TONEBENDER&type=artist"},"edges":[{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"scene","label":"福冈・同世代","detail":"同为福冈出身的同世代乐队。","year":null,"weight":0.6},{"to":"thee-michelle-gun-elephant","toName":"thee michelle gun elephant","toArea":"东京","toYears":"1991–2003","type":"scene","label":"车库摇滚同世代","detail":"九十年代末日本车库摇滚的同一批人。","year":null,"weight":0.5}]},"my-bloody-valentine":{"id":"my-bloody-valentine","name":"My Bloody Valentine","area":"都柏林 / 伦敦","years":"1983–1997 / 2007–","genres":["Shoegaze","Noise Pop"],"intro":"Kevin Shields 用摇把与叠录堆出的吉他音墙。《Loveless》几乎定义了 shoegaze 这个词的全部含义。","albums":[{"title":"Isn't Anything","year":1988},{"title":"Loveless","year":1991},{"title":"m b v","year":2013}],"tracks":["Only Shallow","Sometimes","When You Sleep","Soon"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=My%20Bloody%20Valentine&type=artist"},"edges":[{"to":"kinoko-teikoku","toName":"きのこ帝国","toArea":"东京","toYears":"2007–2019","type":"influence","label":"影响来源","detail":"早期的噪音墙写法几乎是《Loveless》的直系。","year":null,"weight":0.8},{"to":"supercar","toName":"SUPERCAR","toArea":"青森","toYears":"1995–2005","type":"influence","label":"影响来源","detail":"SUPERCAR 早期的吉他质感被普遍认为来自 shoegaze 一系。","year":null,"weight":0.7}]},"nirvana":{"id":"nirvana","name":"Nirvana","area":"西雅图","years":"1987–1994","genres":["Grunge","Alternative Rock"],"intro":"把地下场景一夜之间推成全球主流的乐队，也因此被这件事本身压垮。","albums":[{"title":"Bleach","year":1989},{"title":"Nevermind","year":1991},{"title":"In Utero","year":1993}],"tracks":["Smells Like Teen Spirit","Come as You Are","Heart-Shaped Box","About a Girl"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=Nirvana&type=artist"},"edges":[{"to":"guns-n-roses","toName":"Guns N' Roses","toArea":"洛杉矶","toYears":"1985–","type":"feud","label":"1992 VMA 后台冲突","detail":"1992 年 MTV 音乐录影带大奖后台，Axl Rose 与 Kurt Cobain、Courtney Love 当众对峙。两队自此成了九十年代摇滚新旧两极的象征。","year":1992,"weight":0.9},{"to":"pixies","toName":"Pixies","toArea":"波士顿","toYears":"1986–1993 / 2004–","type":"influence","label":"影响来源","detail":"Kurt Cobain 亲口承认的模仿对象。","year":null,"weight":0.9},{"to":"sonic-youth","toName":"Sonic Youth","toArea":"纽约","toYears":"1981–2011","type":"guest","label":"引荐签约","detail":"Nirvana 能签进大厂牌，很大程度上得益于 Sonic Youth 的引荐与带队巡演。","year":1991,"weight":0.8},{"to":"art-school","toName":"ART-SCHOOL","toArea":"东京","toYears":"2000–","type":"influence","label":"影响来源","detail":"木下理树多次提到九十年代美国另类摇滚，尤其是 Nirvana 的影响。","year":null,"weight":0.7}]},"nothings-carved-in-stone":{"id":"nothings-carved-in-stone","name":"Nothing's Carved In Stone","area":"东京","years":"2009–","genres":["Alternative Rock","Post-hardcore"],"intro":"由四支不同乐队的成员凑成的编制，几乎是这张关系网上人脉密度最高的一个节点。","albums":[{"title":"PARALLEL LIVES","year":2009},{"title":"Revolt","year":2011},{"title":"Strangers In Heaven","year":2013}],"tracks":["November 15th","Isolation","Out of Control","Spirit Inspiration"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=Nothing's%20Carved%20In%20Stone&type=artist"},"edges":[{"to":"ellegarden","toName":"ELLEGARDEN","toArea":"千叶","toYears":"1998–2008 / 2018–","type":"member","label":"生形真一・大喜多崇規","detail":"由 ELLEGARDEN 的生形真一与大喜多崇規在母队休止后发起。","year":2009,"weight":0.9},{"to":"straightener","toName":"ストレイテナー","toArea":"东京","toYears":"1998–","type":"member","label":"日向秀和","detail":"贝斯手日向秀和的另一支乐队，两边同时在跑。","year":2009,"weight":0.85},{"to":"zazen-boys","toName":"ZAZEN BOYS","toArea":"东京","toYears":"2003–","type":"member","label":"日向秀和","detail":"贝斯手日向秀和曾是 ZAZEN BOYS 的成员。","year":2009,"weight":0.6}]},"number-girl":{"id":"number-girl","name":"NUMBER GIRL","area":"福冈","years":"1995–2002 / 2019–2022","genres":["Alternative Rock","Post-hardcore","Noise Rock"],"intro":"向井秀徳领衔的四人组。轰鸣的双吉他、念白式的日语主唱、突然掐断的编曲，几乎重写了此后二十年日本另类摇滚的语法。","albums":[{"title":"SCHOOL GIRL BYE BYE","year":1997},{"title":"SCHOOL GIRL DISTORTIONAL ADDICT","year":1999},{"title":"SAPPUKEI","year":2000},{"title":"NUM-HEAVYMETALLIC","year":2002}],"tracks":["透明少女","OMOIDE IN MY HEAD","鉄風 鋭くなって","DESTRUCTION BABY","日常に生きる少女"],"lore":"2002 年 11 月 30 日，札幌 PENNY LANE 24。演出中途宣布解散，此后十七年没有再合体。","links":{"musicbrainz":"https://musicbrainz.org/search?query=NUMBER%20GIRL&type=artist"},"edges":[{"to":"zazen-boys","toName":"ZAZEN BOYS","toArea":"东京","toYears":"2003–","type":"member","label":"向井秀徳","detail":"2002 年 NUMBER GIRL 解散，翌年向井秀徳组建 ZAZEN BOYS，鼓手アヒト・イナザワ也一同进入初期阵容。","year":2003,"weight":0.95},{"to":"asian-kung-fu-generation","toName":"ASIAN KUNG-FU GENERATION","toArea":"横滨","toYears":"1996–","type":"influence","label":"影响来源","detail":"后藤正文反复提到 NUMBER GIRL 是他真正开始做乐队的直接动机。","year":null,"weight":0.9},{"to":"pixies","toName":"Pixies","toArea":"波士顿","toYears":"1986–1993 / 2004–","type":"influence","label":"影响来源","detail":"最常被提及的影响来源，轻重段落的写法几乎是直接继承。","year":null,"weight":0.9},{"to":"toddle","toName":"toddle","toArea":"东京","toYears":"2004–","type":"member","label":"田渕ひさ子","detail":"吉他手田渕ひさ子在乐队解散后组建 toddle，并第一次亲自担任主唱。","year":2004,"weight":0.9},{"to":"bloodthirsty-butchers","toName":"bloodthirsty butchers","toArea":"北海道","toYears":"1987–2013","type":"member","label":"田渕ひさ子 / 长年盟友","detail":"两队在九十年代即频繁同台；NUMBER GIRL 解散数年后，田渕ひさ子正式成为 butchers 的吉他手。","year":2007,"weight":0.85},{"to":"vola-and-the-oriental-machine","toName":"VOLA & THE ORIENTAL MACHINE","toArea":"东京","toYears":"2004–","type":"member","label":"アヒト・イナザワ","detail":"鼓手アヒト・イナザワ的主导项目，他在这里从鼓后走到台前。","year":2004,"weight":0.8},{"to":"art-school","toName":"ART-SCHOOL","toArea":"东京","toYears":"2000–","type":"member","label":"田渕ひさ子","detail":"田渕ひさ子于 2000 年代中期以吉他手身份加入 ART-SCHOOL。","year":2005,"weight":0.75},{"to":"sonic-youth","toName":"Sonic Youth","toArea":"纽约","toYears":"1981–2011","type":"influence","label":"影响来源","detail":"噪音吉他一侧的主要源头之一。","year":null,"weight":0.75},{"to":"kinoko-teikoku","toName":"きのこ帝国","toArea":"东京","toYears":"2007–2019","type":"influence","label":"影响来源","detail":"噪音与日语叙事结合的路径，被 2010 年代的后辈继续推进。","year":null,"weight":0.7},{"to":"ling-tosite-sigure","toName":"凛として時雨","toArea":"埼玉","toYears":"2002–","type":"influence","label":"影响来源","detail":"日语咬字与切分的处理方式在后辈里留下明显痕迹。","year":null,"weight":0.7},{"to":"mo-some-tonebender","toName":"MO'SOME TONEBENDER","toArea":"福冈","toYears":"1997–","type":"scene","label":"福冈・同世代","detail":"同样出自九十年代末的福冈场景，只是走了更噪、更放浪的车库路线。","year":null,"weight":0.6},{"to":"supercar","toName":"SUPERCAR","toArea":"青森","toYears":"1995–2005","type":"scene","label":"1997 世代","detail":"两队几乎同时出道，长期被放在一起讨论。","year":null,"weight":0.6},{"to":"thee-michelle-gun-elephant","toName":"thee michelle gun elephant","toArea":"东京","toYears":"1991–2003","type":"scene","label":"90 年代日本另类摇滚","detail":"同属九十年代后期日本摇滚最受注目的一批乐队。","year":null,"weight":0.55}]},"oasis":{"id":"oasis","name":"Oasis","area":"曼彻斯特","years":"1991–2009 / 2024–","genres":["Britpop","Rock"],"intro":"Gallagher 兄弟的乐队。工人阶级的狂妄、大合唱式的副歌，以及贯穿始终的兄弟内斗。","albums":[{"title":"Definitely Maybe","year":1994},{"title":"(What's the Story) Morning Glory?","year":1995},{"title":"Be Here Now","year":1997}],"tracks":["Live Forever","Wonderwall","Don't Look Back in Anger","Champagne Supernova"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=Oasis&type=artist"},"edges":[{"to":"blur","toName":"Blur","toArea":"伦敦","toYears":"1988–","type":"feud","label":"英伦摇滚之战","detail":"1995 年 8 月，两队把新单曲放在同一天发行，媒体把它炒成全国性对决。Noel Gallagher 随后关于 Blur 成员的失言让关系跌到冰点，多年后他才公开道歉。","year":1995,"weight":0.95},{"to":"asian-kung-fu-generation","toName":"ASIAN KUNG-FU GENERATION","toArea":"横滨","toYears":"1996–","type":"influence","label":"影响来源","detail":"英伦摇滚的合唱式副歌，是 AKG 早期写作的参照之一。","year":null,"weight":0.6}]},"pixies":{"id":"pixies","name":"Pixies","area":"波士顿","years":"1986–1993 / 2004–","genres":["Alternative Rock","Noise Pop"],"intro":"轻—重—轻的段落结构、无来由的尖叫、超现实的歌词。九十年代之后几乎所有另类摇滚都欠它一笔。","albums":[{"title":"Surfer Rosa","year":1988},{"title":"Doolittle","year":1989},{"title":"Bossanova","year":1990},{"title":"Trompe le Monde","year":1991}],"tracks":["Where Is My Mind?","Debaser","Gigantic","Here Comes Your Man","Monkey Gone to Heaven"],"lore":"1993 年，Black Francis 没有开会，也没有挨个打电话——他用一份传真通知了乐队解散。","links":{"musicbrainz":"https://musicbrainz.org/search?query=Pixies&type=artist"},"edges":[{"to":"nirvana","toName":"Nirvana","toArea":"西雅图","toYears":"1987–1994","type":"influence","label":"影响来源","detail":"Kurt Cobain 曾直言〈Smells Like Teen Spirit〉就是在试图模仿 Pixies。","year":null,"weight":0.9},{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"influence","label":"影响来源","detail":"强弱段落的落差与噪音吉他，被向井秀徳反复提及为 NUMBER GIRL 的骨架。","year":null,"weight":0.9}]},"sonic-youth":{"id":"sonic-youth","name":"Sonic Youth","area":"纽约","years":"1981–2011","genres":["Noise Rock","Alternative Rock","No Wave"],"intro":"变则调弦、螺丝刀插进琴颈、把噪音当作旋律来写。三十年里始终站在另类摇滚与实验音乐的接缝上。","albums":[{"title":"Daydream Nation","year":1988},{"title":"Goo","year":1990},{"title":"Dirty","year":1992}],"tracks":["Teen Age Riot","Kool Thing","Schizophrenia","100%"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=Sonic%20Youth&type=artist"},"edges":[{"to":"nirvana","toName":"Nirvana","toArea":"西雅图","toYears":"1987–1994","type":"guest","label":"引荐签约","detail":"Sonic Youth 把 Nirvana 引荐给 DGC，并在 1991 年的欧洲巡演中同行。","year":1991,"weight":0.8},{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"influence","label":"影响来源","detail":"噪音与变则调弦的用法，是这一代日本另类摇滚的共同教科书。","year":null,"weight":0.75},{"to":"bloodthirsty-butchers","toName":"bloodthirsty butchers","toArea":"北海道","toYears":"1987–2013","type":"influence","label":"影响来源","detail":"噪音与不谐和音程的用法上有清晰的继承关系。","year":null,"weight":0.65}]},"straightener":{"id":"straightener","name":"ストレイテナー","area":"东京","years":"1998–","genres":["Alternative Rock","Emo","Post-punk"],"intro":"ホリエアツシ的乐队，从双人编制起步。2004 年日向秀和加入之后成为四人阵容，也由此接上了整个日本摇滚的人脉网。","albums":[{"title":"LOST WORLD'S ANTHOLOGY","year":2004},{"title":"TITLE","year":2005},{"title":"LINEAR","year":2006},{"title":"Nexus","year":2008}],"tracks":["TRAVELING GARGOYLE","シーグラス","ROCKSTEADY","KILLER TUNE"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=%E3%82%B9%E3%83%88%E3%83%AC%E3%82%A4%E3%83%86%E3%83%8A%E3%83%BC&type=artist"},"edges":[{"to":"nothings-carved-in-stone","toName":"Nothing's Carved In Stone","toArea":"东京","toYears":"2009–","type":"member","label":"日向秀和","detail":"日向秀和同时是 Nothing's Carved In Stone 的贝斯手，两队长年并行。","year":2009,"weight":0.85},{"to":"zazen-boys","toName":"ZAZEN BOYS","toArea":"东京","toYears":"2003–","type":"member","label":"日向秀和","detail":"贝斯手日向秀和曾长期兼任 ZAZEN BOYS 的贝斯。","year":2004,"weight":0.8},{"to":"ellegarden","toName":"ELLEGARDEN","toArea":"千叶","toYears":"1998–2008 / 2018–","type":"scene","label":"2000 年代同世代","detail":"同属 2000 年代 live house 场景的核心，成员之间往来密切。","year":null,"weight":0.6},{"to":"asian-kung-fu-generation","toName":"ASIAN KUNG-FU GENERATION","toArea":"横滨","toYears":"1996–","type":"scene","label":"2000 年代同世代","detail":"同属 2000 年代把 live house 场景推向大场馆的一批乐队。","year":null,"weight":0.55}]},"supercar":{"id":"supercar","name":"SUPERCAR","area":"青森","years":"1995–2005","genres":["Shoegaze","Electronica","Indie Rock"],"intro":"从青森出道的四人组。前期是吉他噪音，后期整体转向电子，两种面貌都被后来者反复引用。","albums":[{"title":"スリーアウトチェンジ","year":1998},{"title":"JUMP UP","year":1999},{"title":"FUTURAMA","year":2000},{"title":"HIGHVISION","year":2002},{"title":"ANSWER","year":2004}],"tracks":["cream soda","Lucky","YUMEGIWA LAST BOY","Storywriter","White Surf style 5."],"links":{"musicbrainz":"https://musicbrainz.org/search?query=SUPERCAR&type=artist"},"edges":[{"to":"my-bloody-valentine","toName":"My Bloody Valentine","toArea":"都柏林 / 伦敦","toYears":"1983–1997 / 2007–","type":"influence","label":"影响来源","detail":"早期吉他质感的主要来源。","year":null,"weight":0.7},{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"scene","label":"1997 世代","detail":"几乎同时出道的同世代乐队。","year":null,"weight":0.6}]},"the-hiatus":{"id":"the-hiatus","name":"the HIATUS","area":"东京","years":"2009–","genres":["Alternative Rock","Post-rock"],"intro":"细美武士在 ELLEGARDEN 休止后召集的乐队，成员分别来自四支不同的知名乐队，编曲比本行复杂得多。","albums":[{"title":"Trash We'd Love","year":2009},{"title":"A World Of Pandemonium","year":2011},{"title":"Keeper Of The Flame","year":2014}],"tracks":["Twisted Maple Trees","Insomnia","Silver Birch","Bittersweet / Hatsukoi"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=the%20HIATUS&type=artist"},"edges":[{"to":"ellegarden","toName":"ELLEGARDEN","toArea":"千叶","toYears":"1998–2008 / 2018–","type":"member","label":"細美武士","detail":"ELLEGARDEN 主唱細美武士在母队休止期间组建的乐队。","year":2009,"weight":0.9},{"to":"thee-michelle-gun-elephant","toName":"thee michelle gun elephant","toArea":"东京","toYears":"1991–2003","type":"member","label":"ウエノコウジ","detail":"贝斯手ウエノコウジ来自九十年代的 thee michelle gun elephant。","year":2009,"weight":0.7}]},"thee-michelle-gun-elephant":{"id":"thee-michelle-gun-elephant","name":"thee michelle gun elephant","area":"东京","years":"1991–2003","genres":["Garage Rock","Punk Rock"],"intro":"千叶利市的嘶吼与阿部义晴式的西装造型。九十年代日本车库摇滚的最高点，解散至今没有重组。","albums":[{"title":"cult grass stars","year":1996},{"title":"チキンゾンビーズ","year":1997},{"title":"ギヤ・ブルーズ","year":1998},{"title":"カサノバ・スネイク","year":2000}],"tracks":["世界の終わり","バードメン","ゲット・アップ・ルーシー","リボルバー・ジャンキーズ"],"lore":"2003 年宣布解散，翌年在幕张展览馆办完最后一场，此后再无重组。","links":{"musicbrainz":"https://musicbrainz.org/search?query=thee%20michelle%20gun%20elephant&type=artist"},"edges":[{"to":"the-hiatus","toName":"the HIATUS","toArea":"东京","toYears":"2009–","type":"member","label":"ウエノコウジ","detail":"解散多年之后，贝斯手ウエノコウジ成为 the HIATUS 的一员。","year":2009,"weight":0.7},{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"scene","label":"90 年代日本另类摇滚","detail":"同属九十年代后期日本摇滚的核心阵容。","year":null,"weight":0.55},{"to":"mo-some-tonebender","toName":"MO'SOME TONEBENDER","toArea":"福冈","toYears":"1997–","type":"scene","label":"车库摇滚同世代","detail":"九十年代末日本车库摇滚的同一批人。","year":null,"weight":0.5}]},"toddle":{"id":"toddle","name":"toddle","area":"东京","years":"2004–","genres":["Indie Rock","Alternative Rock"],"intro":"田渕ひさ子第一次站到主唱位置的乐队。吉他仍然锋利，但情绪比 NUMBER GIRL 时期柔软得多。","albums":[{"title":"I dedicate D chord","year":2005},{"title":"Dawn Praise the World","year":2008}],"tracks":["Rebuilt","Rise"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=toddle&type=artist"},"edges":[{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"member","label":"田渕ひさ子","detail":"由 NUMBER GIRL 的吉他手田渕ひさ子组建，她在这里改任主唱。","year":2004,"weight":0.9},{"to":"bloodthirsty-butchers","toName":"bloodthirsty butchers","toArea":"北海道","toYears":"1987–2013","type":"member","label":"田渕ひさ子","detail":"田渕ひさ子同时经营 toddle 与 butchers 的吉他席位。","year":2007,"weight":0.7},{"to":"art-school","toName":"ART-SCHOOL","toArea":"东京","toYears":"2000–","type":"member","label":"田渕ひさ子","detail":"田渕ひさ子在组建 toddle 的同一时期也参加了 ART-SCHOOL。","year":2005,"weight":0.6}]},"vola-and-the-oriental-machine":{"id":"vola-and-the-oriental-machine","name":"VOLA & THE ORIENTAL MACHINE","area":"东京","years":"2004–","genres":["Dance Punk","Alternative Rock"],"intro":"アヒト・イナザワ从鼓后走到台前的乐队，他在这里改任主唱兼吉他，声音比本行更偏向舞曲化的朋克。","albums":[{"title":"Waiting for My Food","year":2006},{"title":"Principle of the Motion","year":2007}],"tracks":["Pilot","Uzumaki"],"links":{"musicbrainz":"https://musicbrainz.org/search?query=VOLA%20%26%20THE%20ORIENTAL%20MACHINE&type=artist"},"edges":[{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"member","label":"アヒト・イナザワ","detail":"NUMBER GIRL 的鼓手アヒト・イナザワ主导的乐队。","year":2004,"weight":0.8},{"to":"zazen-boys","toName":"ZAZEN BOYS","toArea":"东京","toYears":"2003–","type":"member","label":"アヒト・イナザワ","detail":"两队初期成员重叠，同由アヒト・イナザワ参与。","year":2004,"weight":0.7}]},"zazen-boys":{"id":"zazen-boys","name":"ZAZEN BOYS","area":"东京","years":"2003–","genres":["Math Rock","Funk","Alternative Rock"],"intro":"向井秀徳在 NUMBER GIRL 之后的乐队。把日语念白推到极端，用拍子的错位与突然的静止作为主要武器。","albums":[{"title":"ZAZEN BOYS","year":2004},{"title":"ZAZEN BOYS II","year":2004},{"title":"ZAZEN BOYS 4","year":2008},{"title":"すとーりーず","year":2012},{"title":"らんど","year":2024}],"tracks":["USODARAKE","HIMITSU GIRL'S TOP SECRET","Asobi","サイボーグのオバケ","Fender Telecaster"],"lore":"向井秀徳把自己的录音室命名为 MATSURI STUDIO，多年来一手包办乐队的录音与混音。","links":{"musicbrainz":"https://musicbrainz.org/search?query=ZAZEN%20BOYS&type=artist"},"edges":[{"to":"number-girl","toName":"NUMBER GIRL","toArea":"福冈","toYears":"1995–2002 / 2019–2022","type":"member","label":"向井秀徳","detail":"由 NUMBER GIRL 的主唱向井秀徳在乐队解散后组建，初期鼓手同样来自 NUMBER GIRL。","year":2003,"weight":0.95},{"to":"straightener","toName":"ストレイテナー","toArea":"东京","toYears":"1998–","type":"member","label":"日向秀和","detail":"贝斯手日向秀和同期也是ストレイテナー的成员，是这一代日本摇滚最密的连接点之一。","year":2004,"weight":0.8},{"to":"vola-and-the-oriental-machine","toName":"VOLA & THE ORIENTAL MACHINE","toArea":"东京","toYears":"2004–","type":"member","label":"アヒト・イナザワ","detail":"アヒト・イナザワ在担任 ZAZEN BOYS 鼓手的同时主导了这支乐队。","year":2004,"weight":0.7},{"to":"nothings-carved-in-stone","toName":"Nothing's Carved In Stone","toArea":"东京","toYears":"2009–","type":"member","label":"日向秀和","detail":"日向秀和离开 ZAZEN BOYS 之后成为 Nothing's Carved In Stone 的固定成员。","year":2009,"weight":0.6}]}}};
+(function () {
+/**
+ * 以焦点为中心的局部布局（ego layout）。
+ *
+ * 世界坐标原点永远是当前焦点乐队。邻居沿着视口边框铺开，卡片中心压在边界附近，
+ * 于是每张都被屏幕切掉一半 —— 这是整个交互的钩子：一眼就能看出画布还在屏幕外延伸。
+ */
+
+/** FNV-1a，用来给布局一个稳定的随机性：同一支乐队每次进来方位一致。 */
+function hash32(str) {
+  let h = 0x811c9dc5;
+  for (let i = 0; i < str.length; i++) {
+    h ^= str.charCodeAt(i);
+    h = Math.imul(h, 0x01000193);
+  }
+  return h >>> 0;
+}
+
+const TAU = Math.PI * 2;
+
+/** 邻居上限：窄屏边缘位置少，露出的卡片也要少。 */
+function maxNeighbors(vw) {
+  if (vw < 560) return 4;
+  if (vw < 900) return 5;
+  if (vw < 1400) return 7;
+  return 8;
+}
+
+/**
+ * 槽位沿视口边框的周长分布，而不是按角度均分整圈。
+ * 按角度分会出问题：宽屏上「离垂直方向 26°」在水平方向只有几十像素，
+ * 上下两张卡片会挤在焦点卡片正后方。按边长分则天然贴着边均匀铺开。
+ *
+ * u 是沿某条边的位置，取值 -1（一端）到 1（另一端），0 是这条边的中点。
+ */
+const U_HORIZONTAL = [
+  [-0.58, -0.3],
+  [0.3, 0.58],
+]; // 上下边：中间让给焦点卡片，两端让给 HUD
+const U_VERTICAL = [[-0.56, 0.56]]; // 左右边：中间没有东西挡，可以用满
+// 竖屏时上下边要并排塞两张卡片，得推得更开，否则两张会叠在一起
+const U_HORIZONTAL_PORTRAIT = [
+  [-0.66, -0.48],
+  [0.48, 0.66],
+];
+
+/** 把 k 个位置平均撒进若干区间里（区间之间轮流分配）。 */
+function spread(k, ranges) {
+  const counts = new Array(ranges.length).fill(0);
+  for (let i = 0; i < k; i++) counts[i % ranges.length]++;
+  const out = [];
+  counts.forEach((c, ri) => {
+    const [lo, hi] = ranges[ri];
+    for (let i = 0; i < c; i++) out.push(c === 1 ? (lo + hi) / 2 : lo + (hi - lo) * (i / (c - 1)));
+  });
+  return out;
+}
+
+/** 生成 n 个槽位坐标。起始边由 focusId 决定，所以同一支乐队每次进来方位一致。 */
+function slotPoints(focusId, n, vw, vh) {
+  const hw = vw / 2;
+  const hh = vh / 2;
+  // 窄屏左右放不下卡片——放下了也会盖住焦点卡片——所以只用上下两条边。
+  const portrait = vw < 640 || vh / vw > 1.3;
+  const sides = portrait ? ['s', 'n'] : ['e', 's', 'w', 'n'];
+  const offset = hash32(focusId) % sides.length;
+
+  const counts = new Array(sides.length).fill(0);
+  for (let i = 0; i < n; i++) counts[(i + offset) % sides.length]++;
+
+  const pts = [];
+  sides.forEach((side, si) => {
+    const k = counts[si];
+    if (!k) return;
+    const vertical = side === 'e' || side === 'w';
+    // 0.94 而不是 1.0：卡片中心正压在边界上只露一半，名字会挤到读不出来。
+    // 竖屏再往里收一点，给上下两条边的 HUD 让出位置。
+    const reach = portrait ? 0.86 : 0.94;
+    const ranges = vertical ? U_VERTICAL : portrait ? U_HORIZONTAL_PORTRAIT : U_HORIZONTAL;
+    for (const u of spread(k, ranges)) {
+      const x = (vertical ? (side === 'e' ? hw : -hw) : hw * u) * reach;
+      const y = (vertical ? hh * u : side === 's' ? hh : -hh) * reach;
+      pts.push({ x, y, angle: Math.atan2(y, x), radius: Math.hypot(x, y), side });
+    }
+  });
+  return pts;
+}
+
+function angleDelta(a, b) {
+  let d = (a - b) % TAU;
+  if (d > Math.PI) d -= TAU;
+  if (d < -Math.PI) d += TAU;
+  return Math.abs(d);
+}
+
+/**
+ * 把邻居分配到槽位上。
+ *
+ * @param {string} focusId
+ * @param {Array} edges          已按权重降序排好的展示边
+ * @param {object} opts
+ * @param {string} [opts.cameFrom]   来路乐队 id：必定入选，且占据「来的方向」的反向槽位
+ * @param {number} [opts.backAngle]  来路乐队应该出现的期望角度（弧度）
+ * @param {number} opts.vw
+ * @param {number} opts.vh
+ * @returns {Array} 每项 { edge, angle, x, y, radius, side }
+ */
+function layoutNeighbors(focusId, edges, { cameFrom, backAngle, vw, vh }) {
+  const limit = maxNeighbors(vw);
+
+  // 取舍：权重降序截断，但来路乐队无论权重多低都必须留下（否则回不去）。
+  let picked = edges.slice(0, limit);
+  if (cameFrom && !picked.some((e) => e.to === cameFrom)) {
+    const back = edges.find((e) => e.to === cameFrom);
+    if (back) picked = [back, ...picked.slice(0, limit - 1)];
+  }
+
+  const points = slotPoints(focusId, picked.length, vw, vh);
+  const taken = new Array(points.length).fill(false);
+  const result = new Array(picked.length);
+
+  // 先把来路乐队钉在离期望方向最近的槽位上，保住空间记忆。
+  if (cameFrom && backAngle != null) {
+    const idx = picked.findIndex((e) => e.to === cameFrom);
+    if (idx >= 0) {
+      let best = 0;
+      let bestD = Infinity;
+      points.forEach((p, i) => {
+        const d = angleDelta(p.angle, backAngle);
+        if (d < bestD) {
+          bestD = d;
+          best = i;
+        }
+      });
+      taken[best] = true;
+      result[idx] = points[best];
+    }
+  }
+
+  // 其余按 hash 排序后依次填空——顺序只取决于 id，因此结果可复现。
+  const rest = picked
+    .map((e, i) => ({ e, i }))
+    .filter(({ i }) => result[i] == null)
+    .sort((a, b) => hash32(focusId + '::' + a.e.to) - hash32(focusId + '::' + b.e.to));
+
+  let cursor = 0;
+  for (const { i } of rest) {
+    while (taken[cursor]) cursor++;
+    taken[cursor] = true;
+    result[i] = points[cursor];
+  }
+
+  return picked.map((edge, i) => ({ edge, ...result[i] }));
+}
+
+const cache = new Map();
+const inflight = new Map();
+
+/**
+ * 单文件版把全部数据直接嵌进页面（见 tools/build-standalone.mjs）。
+ * 分享用的托管页面禁止页面自己发请求，只能走这条路；顺带也让打包出来的
+ * 那一个 HTML 双击就能开。没有嵌入数据时照常按需 fetch。
+ */
+const EMBEDDED = globalThis.BAND_ATLAS_DATA ?? null;
+
+const REL = {
+  member: { name: '成员流动', short: '成员' },
+  guest: { name: '客串・合作', short: '合作' },
+  influence: { name: '影响', short: '影响' },
+  feud: { name: '恩怨', short: '恩怨' },
+  scene: { name: '同乡・同世代', short: '同世代' },
+};
+
+async function loadIndex() {
+  if (EMBEDDED) return EMBEDDED.index;
+  const res = await fetch('data/index.json');
+  if (!res.ok) throw new Error('索引加载失败');
+  return res.json();
+}
+
+function loadBand(id) {
+  if (EMBEDDED) {
+    const doc = EMBEDDED.bands[id];
+    return doc ? Promise.resolve(doc) : Promise.reject(new Error(`找不到乐队 ${id}`));
+  }
+  if (cache.has(id)) return Promise.resolve(cache.get(id));
+  if (inflight.has(id)) return inflight.get(id);
+
+  const p = fetch(`data/bands/${encodeURIComponent(id)}.json`)
+    .then((res) => {
+      if (!res.ok) throw new Error(`找不到乐队 ${id}`);
+      return res.json();
+    })
+    .then((doc) => {
+      cache.set(id, doc);
+      inflight.delete(id);
+      return doc;
+    })
+    .catch((err) => {
+      inflight.delete(id);
+      throw err;
+    });
+
+  inflight.set(id, p);
+  return p;
+}
+
+function isLoaded(id) {
+  return EMBEDDED ? id in EMBEDDED.bands : cache.has(id);
+}
+
+/** 焦点渲染完之后趁空闲把邻居全部拉下来，点过去就没有等待。 */
+function prefetchNeighbors(band) {
+  if (EMBEDDED) return; // 数据已经在页面里了
+  const idle = window.requestIdleCallback || ((fn) => setTimeout(fn, 200));
+  idle(() => {
+    for (const e of band.edges) {
+      if (!cache.has(e.to)) loadBand(e.to).catch(() => {});
+    }
+  });
+}
+
+
+
+const SVG_NS = 'http://www.w3.org/2000/svg';
+/** 连线层用一张固定大小的画布，原点摆在正中，省掉 viewBox 的负坐标换算。 */
+const CANVAS_HALF = 4000;
+
+function el(tag, className, text) {
+  const node = document.createElement(tag);
+  if (className) node.className = className;
+  if (text != null) node.textContent = text;
+  return node;
+}
+
+function metaLine(band) {
+  return [band.area, band.years].filter(Boolean).join(' · ');
+}
+
+/** 焦点卡片：这支乐队的全部内容都在这里。 */
+function buildFocusCard(band) {
+  const card = el('article', 'card card--focus');
+  card.dataset.id = band.id;
+
+  const head = el('header', 'card__head');
+  head.append(el('h1', 'card__name', band.name));
+  head.append(el('p', 'card__meta', metaLine(band)));
+  if (band.genres?.length) {
+    const tags = el('ul', 'taglist');
+    for (const g of band.genres) tags.append(el('li', 'tag', g));
+    head.append(tags);
+  }
+  card.append(head);
+
+  const body = el('div', 'card__body');
+
+  if (band.intro) body.append(el('p', 'card__intro', band.intro));
+
+  if (band.albums?.length) {
+    const sec = section('代表作');
+    const list = el('ol', 'albums');
+    for (const a of band.albums) {
+      const li = el('li', 'album');
+      li.append(el('span', 'album__title', a.title));
+      li.append(el('span', 'album__year', a.year ?? ''));
+      list.append(li);
+    }
+    sec.append(list);
+    body.append(sec);
+  }
+
+  if (band.tracks?.length) {
+    const sec = section('代表曲');
+    const list = el('ul', 'taglist taglist--tracks');
+    for (const t of band.tracks) list.append(el('li', 'tag tag--track', t));
+    sec.append(list);
+    body.append(sec);
+  }
+
+  if (band.lore) {
+    const sec = section('轶事');
+    sec.append(el('p', 'lore', band.lore));
+    body.append(sec);
+  }
+
+  // 全部关系都列在这里：屏幕边缘放不下的、以及触屏上没有悬停可用的，都从这里走。
+  const relSec = section(`全部关系 ${band.edges.length}`);
+  const rels = el('ul', 'rels');
+  for (const e of band.edges) {
+    const li = el('li');
+    const btn = el('button', `rel-row rel-${e.type}`);
+    btn.type = 'button';
+    btn.dataset.id = e.to;
+    const top = el('span', 'rel-row__top');
+    top.append(el('span', 'rel-row__dot'));
+    top.append(el('span', 'rel-row__name', e.toName));
+    top.append(el('span', 'rel-row__label', e.label + (e.year ? ` · ${e.year}` : '')));
+    btn.append(top);
+    if (e.detail) btn.append(el('span', 'rel-row__detail', e.detail));
+    li.append(btn);
+    rels.append(li);
+  }
+  relSec.append(rels);
+  body.append(relSec);
+
+  card.append(body);
+
+  const foot = el('footer', 'card__foot');
+  const counts = countByType(band.edges);
+  const summary = el('p', 'card__counts');
+  for (const [type, n] of counts) {
+    const chip = el('span', `count count--${type}`);
+    chip.append(el('span', 'count__dot'));
+    chip.append(document.createTextNode(`${REL[type].name} ${n}`));
+    summary.append(chip);
+  }
+  foot.append(summary);
+
+  const link = el('a', 'card__link', 'MusicBrainz ↗');
+  link.href = band.links?.musicbrainz ?? '#';
+  link.target = '_blank';
+  link.rel = 'noopener noreferrer';
+  foot.append(link);
+  card.append(foot);
+
+  return card;
+}
+
+function section(title) {
+  const sec = el('section', 'card__section');
+  sec.append(el('h2', 'card__label', title));
+  return sec;
+}
+
+function countByType(edges) {
+  const m = new Map();
+  for (const e of edges) m.set(e.type, (m.get(e.type) ?? 0) + 1);
+  return [...m].sort((a, b) => b[1] - a[1]);
+}
+
+/** 边缘卡片：只露一半，所以内容要贴在看得见的那半边。 */
+function buildPeekCard(slot) {
+  const { edge, side } = slot;
+  const card = el('button', `card card--peek card--peek-${side} rel-${edge.type}`);
+  card.type = 'button';
+  card.dataset.id = edge.to;
+  card.setAttribute('aria-label', `前往 ${edge.toName}（${REL[edge.type].name}：${edge.label}）`);
+
+  const inner = el('div', 'peek__inner');
+  inner.append(el('span', 'peek__rel', REL[edge.type].short));
+  inner.append(el('span', 'peek__name', edge.toName));
+  inner.append(el('span', 'peek__meta', [edge.toArea, edge.toYears].filter(Boolean).join(' · ')));
+  // 线上挂不下关系标签时（上下两边常常如此），由 placeChips 打开这一行顶上。
+  inner.append(el('span', 'peek__label', edge.label + (edge.year ? ` · ${edge.year}` : '')));
+  card.append(inner);
+  return card;
+}
+
+/** 关系标签：贴在连线上，写清楚是谁、哪一年、什么事。 */
+function buildRelChip(slot) {
+  const { edge } = slot;
+  const chip = el('div', `relchip rel-${edge.type}`);
+  const head = el('span', 'relchip__head');
+  head.append(el('span', 'relchip__dot'));
+  head.append(document.createTextNode(edge.label));
+  if (edge.year) head.append(el('span', 'relchip__year', String(edge.year)));
+  chip.append(head);
+  if (edge.detail) chip.append(el('span', 'relchip__detail', edge.detail));
+  return chip;
+}
+
+function buildEdgeLayer() {
+  const svg = document.createElementNS(SVG_NS, 'svg');
+  svg.classList.add('edges');
+  svg.setAttribute('width', CANVAS_HALF * 2);
+  svg.setAttribute('height', CANVAS_HALF * 2);
+  svg.setAttribute('aria-hidden', 'true');
+  svg.style.left = `${-CANVAS_HALF}px`;
+  svg.style.top = `${-CANVAS_HALF}px`;
+  return svg;
+}
+
+function buildEdgeLine(slot) {
+  const line = document.createElementNS(SVG_NS, 'line');
+  line.setAttribute('class', `edge rel-${slot.edge.type}`);
+  line.setAttribute('x1', CANVAS_HALF);
+  line.setAttribute('y1', CANVAS_HALF);
+  line.setAttribute('x2', CANVAS_HALF + slot.x);
+  line.setAttribute('y2', CANVAS_HALF + slot.y);
+  const len = Math.hypot(slot.x, slot.y);
+  line.style.setProperty('--len', len.toFixed(1));
+  return line;
+}
+
+
+
+
+
+const stage = document.getElementById('stage');
+const statusEl = document.getElementById('status');
+const sceneEl = document.getElementById('scene-name');
+
+const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
+const PAN_MS = 680;
+
+let index = null;
+let world = null;
+let current = null; // 当前焦点乐队文档
+let slots = []; // 当前邻居槽位
+let busy = false;
+
+/* ------------------------------------------------------------------ 相机 */
+
+/**
+ * 等到浏览器认下了元素的初始状态，再切到目标状态，动画才会跑起来。
+ * 用 rAF 是正路，但后台标签页里 rAF 根本不触发——那样起始态就永远摘不掉，
+ * 页面会停在「全部透明」的样子。所以再挂一个定时器兜底。
+ */
+function nextFrame(fn) {
+  let done = false;
+  const once = () => {
+    if (done) return;
+    done = true;
+    fn();
+  };
+  requestAnimationFrame(() => requestAnimationFrame(once));
+  setTimeout(once, 100);
+}
+
+function cameraTransform(x, y) {
+  return `translate3d(${-x}px, ${-y}px, 0)`;
+}
+
+function panCamera(x, y) {
+  if (reduceMotion.matches) {
+    world.style.transform = cameraTransform(x, y);
+    return Promise.resolve();
+  }
+  const anim = world.animate(
+    [{ transform: cameraTransform(0, 0) }, { transform: cameraTransform(x, y) }],
+    { duration: PAN_MS, easing: 'cubic-bezier(.72,0,.16,1)', fill: 'forwards' }
+  );
+  // 光等 finished 不行：标签页在后台时动画根本不推进，promise 永远不兑现，
+  // 导航就会卡死在半路（busy 一直是 true，之后所有点击都被吞掉）。
+  const bailout = new Promise((r) => setTimeout(r, PAN_MS + 150));
+  return Promise.race([anim.finished.catch(() => {}), bailout]).then(() => {
+    world.style.transform = cameraTransform(x, y);
+    anim.cancel();
+  });
+}
+
+/* ---------------------------------------------------------------- 渲染 */
+
+function viewport() {
+  return { vw: stage.clientWidth, vh: stage.clientHeight };
+}
+
+function makeNode(className, x, y, angle) {
+  const node = document.createElement('div');
+  node.className = `node ${className}`;
+  node.style.left = `${x}px`;
+  node.style.top = `${y}px`;
+  if (angle != null) {
+    node.style.setProperty('--ux', Math.cos(angle).toFixed(4));
+    node.style.setProperty('--uy', Math.sin(angle).toFixed(4));
+  }
+  return node;
+}
+
+/**
+ * 把世界整个重建一遍：焦点回到原点，相机归零。
+ * 这一步永远发生在相机已经停在目标身上的时刻，画面内容一致，所以看不出偷换。
+ */
+function render(band, { cameFrom, backAngle, animate = true } = {}) {
+  const { vw, vh } = viewport();
+  laidOutFor = { vw, vh };
+  slots = layoutNeighbors(band.id, band.edges, { cameFrom, backAngle, vw, vh });
+
+  const next = document.createElement('div');
+  next.className = 'world';
+  next.style.transform = cameraTransform(0, 0);
+
+  const edgeLayer = buildEdgeLayer();
+  next.append(edgeLayer);
+
+  const focusNode = makeNode('node--focus', 0, 0);
+  focusNode.append(buildFocusCard(band));
+  next.append(focusNode);
+
+  for (const slot of slots) {
+    edgeLayer.append(buildEdgeLine(slot));
+
+    const chipNode = makeNode('node--chip', 0, 0);
+    chipNode.append(buildRelChip(slot));
+    next.append(chipNode);
+
+    const node = makeNode('node--peek', slot.x, slot.y, slot.angle);
+    node.append(buildPeekCard(slot));
+    next.append(node);
+    slot.node = node;
+    slot.chip = chipNode;
+  }
+
+  if (world) world.remove();
+  world = next;
+  stage.append(world);
+  placeChips(focusNode.firstElementChild);
+
+  stage.classList.remove('is-traveling');
+  current = band;
+
+  if (animate && !reduceMotion.matches) {
+    stage.classList.add('is-entering');
+    nextFrame(() => stage.classList.remove('is-entering'));
+  }
+
+  document.title = `${band.name} · 乐队关系网`;
+  setStatus(band);
+  prefetchNeighbors(band);
+}
+
+/** 盒子在某个方向上的投影长度。 */
+function projectSize(box, dx, dy) {
+  return Math.abs(dx) * box.width + Math.abs(dy) * box.height;
+}
+
+const CHIP_CLEARANCE = 12;
+
+/**
+ * 关系标签贴在连线上，从焦点卡片的外缘往外挂。
+ *
+ * 挂而不是居中，是因为标签悬停时会多出一整句说明：从边缘往外长，
+ * 长出去的部分落在空白里；居中的话两头都长，靠内那半截会钻到焦点卡片底下。
+ *
+ * 左右两条边够长，挂得下；上下两条边则不然——焦点卡片几乎顶到视口上下沿，
+ * 和邻居卡片之间根本没有缝。那种情况就把标签收起来，改由邻居卡片自己写出关系。
+ */
+function placeChips(focusCard) {
+  const focus = focusCard.getBoundingClientRect();
+
+  for (const slot of slots) {
+    const dx = Math.cos(slot.angle);
+    const dy = Math.sin(slot.angle);
+
+    const tx = Math.abs(dx) < 1e-6 ? Infinity : focus.width / 2 / Math.abs(dx);
+    const ty = Math.abs(dy) < 1e-6 ? Infinity : focus.height / 2 / Math.abs(dy);
+    const exit = Math.min(tx, ty); // 射线离开焦点卡片处
+    const enter = slot.radius - projectSize(slot.node.getBoundingClientRect(), dx, dy) / 2;
+
+    // 量展开后的尺寸：收起时放得下、一展开就撞车的位置，不如一开始就别放。
+    slot.chip.classList.add('is-hot');
+    const reach = projectSize(slot.chip.getBoundingClientRect(), dx, dy);
+    slot.chip.classList.remove('is-hot');
+
+    const d = exit + CHIP_CLEARANCE;
+    if (d + reach > enter - CHIP_CLEARANCE) {
+      slot.chip.hidden = true;
+      slot.node.querySelector('.card--peek').classList.add('show-label');
+      continue;
+    }
+
+    slot.chip.style.left = `${(dx * d).toFixed(1)}px`;
+    slot.chip.style.top = `${(dy * d).toFixed(1)}px`;
+    slot.chip.classList.add(
+      Math.abs(dx) > 0.35 ? (dx > 0 ? 'anchor-e' : 'anchor-w') : dy > 0 ? 'anchor-s' : 'anchor-n'
+    );
+  }
+}
+
+function setStatus(band) {
+  const shown = slots.length;
+  const total = band.edges.length;
+  if (total <= 1) {
+    statusEl.textContent = `${band.name} 目前只有 ${total} 条关系 — 数据还很浅`;
+  } else if (shown < total) {
+    statusEl.textContent = `边缘显示 ${shown} / ${total} 条关系，其余在卡片内`;
+  } else {
+    statusEl.textContent = `${total} 条关系`;
+  }
+}
+
+/* -------------------------------------------------------------- 导航 */
+
+/** 点击边缘卡片：相机滑过去，目标在途中展开成新的焦点。 */
+async function travelTo(slot) {
+  if (busy) return;
+  busy = true;
+  try {
+    const target = await loadBand(slot.edge.to);
+    setRoute(target.id);
+
+    stage.classList.add('is-traveling');
+    slot.node.classList.add('is-target');
+    slot.chip.classList.add('is-target');
+
+    const peek = slot.node.querySelector('.card--peek');
+    const arriving = buildFocusCard(target);
+    arriving.classList.add('card--arriving');
+    slot.node.append(arriving);
+    peek.classList.add('is-leaving');
+    nextFrame(() => arriving.classList.remove('card--arriving'));
+
+    await panCamera(slot.x, slot.y);
+    render(target, { cameFrom: current.id, backAngle: slot.angle + Math.PI });
+  } catch (err) {
+    console.error(err);
+    statusEl.textContent = '加载失败，请重试';
+    stage.classList.remove('is-traveling');
+  } finally {
+    busy = false;
+  }
+}
+
+/** 没有来路方向时的跳转（随机、地址栏、卡片内的关系列表）：交叉淡入。 */
+async function jumpTo(id, { push = true } = {}) {
+  if (busy) return;
+  busy = true;
+  try {
+    if (!isLoaded(id)) statusEl.textContent = '载入中…';
+    const band = await loadBand(id);
+    if (push) setRoute(band.id);
+    stage.classList.add('is-fading');
+    if (!reduceMotion.matches) await wait(220);
+    render(band);
+    stage.classList.remove('is-fading');
+  } catch (err) {
+    console.error(err);
+    statusEl.textContent = '加载失败，请重试';
+    stage.classList.remove('is-fading');
+  } finally {
+    busy = false;
+  }
+}
+
+const wait = (ms) => new Promise((r) => setTimeout(r, ms));
+
+/** 进站随机：只从关系够多的乐队里挑，避免一开局就是死胡同。 */
+function randomId(exclude) {
+  const pool = index.bands.filter((b) => b.degree >= 3 && b.id !== exclude);
+  const from = pool.length ? pool : index.bands;
+  return from[Math.floor(Math.random() * from.length)].id;
+}
+
+function idFromHash() {
+  const m = location.hash.match(/^#\/band\/(.+)$/);
+  return m ? decodeURIComponent(m[1]) : null;
+}
+
+/**
+ * 地址栏同步是锦上添花：分享出去的链接能直达某支乐队。
+ * 但沙箱里的 iframe 调 history API 会直接抛 SecurityError，
+ * 不兜住的话整个导航都会跟着失败。
+ */
+function setRoute(id, { replace = false } = {}) {
+  try {
+    history[replace ? 'replaceState' : 'pushState'](null, '', `#/band/${id}`);
+  } catch {
+    /* 宿主不给写历史记录，那就不写，不影响走网 */
+  }
+}
+
+/* -------------------------------------------------------------- 事件 */
+
+stage.addEventListener('click', (ev) => {
+  const peek = ev.target.closest('.card--peek');
+  if (peek) {
+    const slot = slots.find((s) => s.edge.to === peek.dataset.id);
+    if (slot) travelTo(slot);
+    return;
+  }
+  const row = ev.target.closest('.rel-row');
+  if (row) {
+    const slot = slots.find((s) => s.edge.to === row.dataset.id);
+    if (slot) travelTo(slot);
+    else jumpTo(row.dataset.id);
+  }
+});
+
+// 悬停边缘卡片时，对应的连线与关系标签一起点亮。
+stage.addEventListener('pointerover', (ev) => {
+  const peek = ev.target.closest('.card--peek');
+  if (peek) setHighlight(peek.dataset.id, true);
+});
+stage.addEventListener('pointerout', (ev) => {
+  const peek = ev.target.closest('.card--peek');
+  if (peek) setHighlight(peek.dataset.id, false);
+});
+stage.addEventListener('focusin', (ev) => {
+  const peek = ev.target.closest('.card--peek');
+  if (peek) setHighlight(peek.dataset.id, true);
+});
+stage.addEventListener('focusout', (ev) => {
+  const peek = ev.target.closest('.card--peek');
+  if (peek) setHighlight(peek.dataset.id, false);
+});
+
+function setHighlight(id, on) {
+  const slot = slots.find((s) => s.edge.to === id);
+  if (!slot) return;
+  slot.node.classList.toggle('is-hot', on);
+  slot.chip.classList.toggle('is-hot', on);
+  world.querySelectorAll('.edge').forEach((line, i) => {
+    if (slots[i] === slot) line.classList.toggle('is-hot', on);
+  });
+}
+
+document.getElementById('shuffle').addEventListener('click', () => {
+  jumpTo(randomId(current?.id));
+});
+
+window.addEventListener('hashchange', () => {
+  const id = idFromHash();
+  if (id && id !== current?.id) jumpTo(id, { push: false });
+});
+
+// 邻居的位置整个是按视口尺寸算出来的，尺寸一变就得重排。
+// 用 ResizeObserver 而不是 window 的 resize 事件：舞台的尺寸变化未必伴随一次
+// window resize（页面在隐藏的小画布里先渲染一遍就是这种情况），漏掉的话
+// 邻居会按错误的尺寸摆在焦点卡片背后，一张都看不见。
+let laidOutFor = { vw: 0, vh: 0 };
+let resizeTimer;
+new ResizeObserver(() => {
+  clearTimeout(resizeTimer);
+  resizeTimer = setTimeout(() => {
+    const { vw, vh } = viewport();
+    if (!current || busy) return;
+    if (Math.abs(vw - laidOutFor.vw) < 24 && Math.abs(vh - laidOutFor.vh) < 24) return;
+    render(current, { animate: false });
+  }, 140);
+}).observe(stage);
+
+/* -------------------------------------------------------------- 启动 */
+
+(async function boot() {
+  try {
+    index = await loadIndex();
+    sceneEl.textContent = index.scene;
+    const legend = document.getElementById('legend');
+    for (const [type, meta] of Object.entries(REL)) {
+      const li = document.createElement('li');
+      li.className = `legend__item rel-${type}`;
+      li.innerHTML = `<i></i>${meta.name}`;
+      legend.append(li);
+    }
+    const id = idFromHash() ?? randomId();
+    const band = await loadBand(id).catch(() => loadBand(randomId()));
+    if (!idFromHash()) setRoute(band.id, { replace: true });
+    render(band);
+  } catch (err) {
+    console.error(err);
+    statusEl.textContent = '数据加载失败：请先运行 node tools/build-data.mjs';
+  }
+})();
+
+})();
+</script>
