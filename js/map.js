@@ -4,6 +4,14 @@ const COLORS = {
   other: '#a891d7',
   unknown: '#737b87',
 };
+const STAGES = [
+  { scale: 1, count: 9 },
+  { scale: 0.68, count: 40 },
+  { scale: 0.42, count: 160 },
+  { scale: 0.21, count: Infinity },
+];
+const OVERSCAN = 2;
+const MAX_SNAPSHOT_PIXELS = 4_000_000;
 
 const hash = (text) => {
   let value = 2166136261;
@@ -19,31 +27,45 @@ function roundedRect(ctx, x, y, width, height, radius) {
   ctx.roundRect(x, y, width, height, Math.min(radius, width / 2, height / 2));
 }
 
+function makeBuffer(width, height) {
+  if (typeof OffscreenCanvas !== 'undefined') return new OffscreenCanvas(width, height);
+  const buffer = document.createElement('canvas');
+  buffer.width = width;
+  buffer.height = height;
+  return buffer;
+}
+
 export function createNetworkMap({ canvas, onChoose }) {
   let graph;
   let nodes;
   let positions;
   let links;
   let adjacency;
-  let hops;
   let rankedHops = [];
   let primaryIds = [];
   let localPositions = new Map();
-  let viewCache = new Map();
-  let metricsCache = new Map();
+  let stageViews = [];
+  let snapshots = [];
+  let activeStage = 0;
+  let wantedStage = 0;
+  let snapshotGeneration = 0;
+  let snapshotRatio = 1;
+  let viewportWidth = 1;
+  let viewportHeight = 1;
+  let canvasCssWidth = 1;
+  let canvasCssHeight = 1;
+  let canvasLeft = 0;
+  let canvasTop = 0;
   let focusId;
-  let followFocus = true;
   let scale = 1;
   let offsetX = 0;
   let offsetY = 0;
-  let pixelRatio = 1;
   let drag = null;
   let pinch = null;
-  let drawFrame = 0;
   let transformFrame = 0;
-  let gestureBase = null;
   const pointers = new Map();
   const ctx = canvas.getContext('2d', { alpha: false });
+  const surface = canvas.parentElement;
   const stats = document.getElementById('map-stats');
 
   async function load() {
@@ -79,8 +101,8 @@ export function createNetworkMap({ canvas, onChoose }) {
       Math.min(46, Math.max(a.node.labelWidth, b.node.labelWidth) * 0.48);
   }
 
-  function measureHops(id) {
-    hops = new Map([[id, 0]]);
+  function prepareFocus(id) {
+    const hops = new Map([[id, 0]]);
     const queue = [id];
     for (let cursor = 0; cursor < queue.length; cursor += 1) {
       const from = queue[cursor];
@@ -125,122 +147,104 @@ export function createNetworkMap({ canvas, onChoose }) {
         compactAngle: compactAngle.get(neighborId),
       });
     });
-    viewCache = new Map();
+
+    stageViews = STAGES.map((stage, index) => {
+      const ids =
+        index === 0
+          ? [focusId, ...primaryIds.slice(0, 8)]
+          : index === STAGES.length - 1
+            ? [...nodes.keys()]
+            : rankedHops.slice(0, stage.count).map(([nodeId]) => nodeId);
+      const visible = new Set(ids);
+      return {
+        visible,
+        points: [...positions.values()]
+          .filter((point) => visible.has(point.node.id))
+          .sort((a, b) => (a.node.id === focusId ? 1 : 0) - (b.node.id === focusId ? 1 : 0)),
+        links: links.filter(({ a, b }) => visible.has(a.node.id) && visible.has(b.node.id)),
+      };
+    });
   }
 
-  function visibilitySpec() {
-    if (scale >= 0.82) return { key: 'near', ids: [focusId, ...primaryIds.slice(0, 8)] };
-    const depth = scale >= 0.48 ? 2 : scale >= 0.27 ? 3 : Infinity;
-    const rawBudget = scale >= 0.48
-      ? 20 + (0.82 - scale) * 100
-      : scale >= 0.27
-        ? 55 + (0.48 - scale) * 350
-        : 130 + (0.27 - scale) * 7000;
-    // 每四支才切一次层级，细小手势不会反复重建可见集合。
-    const budget = Math.max(8, Math.ceil(rawBudget / 4) * 4);
-    return { key: `${depth}:${budget}`, depth, budget };
+  function stageForScale(value) {
+    if (value >= 0.82) return 0;
+    if (value >= 0.55) return 1;
+    if (value >= 0.32) return 2;
+    return 3;
   }
 
-  function viewData() {
-    const spec = visibilitySpec();
-    const cached = viewCache.get(spec.key);
-    if (cached) return cached;
-    const ids = spec.ids ?? rankedHops
-      .filter(([, hop]) => hop <= spec.depth)
-      .slice(0, spec.budget)
-      .map(([id]) => id);
-    const visible = new Set(ids);
-    const points = [...positions.values()]
-      .filter((point) => visible.has(point.node.id))
-      .sort((a, b) => (a.node.id === focusId ? 1 : 0) - (b.node.id === focusId ? 1 : 0));
-    const visibleLinks = links.filter(
-      ({ a, b }) => visible.has(a.node.id) && visible.has(b.node.id)
-    );
-    const data = { visible, points, links: visibleLinks };
-    viewCache.set(spec.key, data);
-    return data;
-  }
-
-  function labelMetrics(node) {
-    const cached = metricsCache.get(node.id);
-    if (cached) return cached;
-    const fontScreen = clamp(11 * Math.sqrt(scale), 7.2, 12);
-    const metrics = {
+  function labelMetrics(node, renderScale) {
+    const fontScreen = clamp(11 * Math.sqrt(renderScale), 7.2, 12);
+    return {
       fontScreen,
       widthScreen: node.labelWidth * (fontScreen / 11),
-      heightScreen: clamp(22 * Math.sqrt(scale), 14, 25),
+      heightScreen: clamp(22 * Math.sqrt(renderScale), 14, 25),
     };
-    metricsCache.set(node.id, metrics);
-    return metrics;
   }
 
-  function boundaryDistance(metrics, ux, uy) {
-    const halfWidth = metrics.widthScreen / scale / 2;
-    const halfHeight = metrics.heightScreen / scale / 2;
+  function boundaryDistance(metrics, ux, uy, renderScale) {
+    const halfWidth = metrics.widthScreen / renderScale / 2;
+    const halfHeight = metrics.heightScreen / renderScale / 2;
     const tx = Math.abs(ux) < 0.0001 ? Infinity : halfWidth / Math.abs(ux);
     const ty = Math.abs(uy) < 0.0001 ? Infinity : halfHeight / Math.abs(uy);
     return Math.min(tx, ty);
   }
 
-  function displayPosition(point) {
+  function displayPosition(point, renderScale) {
     const local = localPositions.get(point.node.id);
     if (!local) return point;
     const focus = positions.get(focusId);
-    const count = scale >= 0.82 ? Math.min(8, primaryIds.length) : primaryIds.length;
-    const angle = scale >= 0.82
+    const count = renderScale >= 0.82 ? Math.min(8, primaryIds.length) : primaryIds.length;
+    const angle = renderScale >= 0.82
       ? local.compactAngle
       : -Math.PI / 2 + (local.index / Math.max(1, count)) * Math.PI * 2;
-    const metrics = labelMetrics(point.node);
+    const metrics = labelMetrics(point.node, renderScale);
     const cos = Math.cos(angle);
     const sin = Math.sin(angle);
-    let radiusScreen = local.radius * scale;
+    let radiusScreen = local.radius * renderScale;
     if (Math.abs(cos) > 0.001) {
       radiusScreen = Math.min(
         radiusScreen,
-        (canvas.clientWidth / 2 - metrics.widthScreen / 2 - 14) / Math.abs(cos)
+        (viewportWidth / 2 - metrics.widthScreen / 2 - 14) / Math.abs(cos)
       );
     }
     if (Math.abs(sin) > 0.001) {
       radiusScreen = Math.min(
         radiusScreen,
-        (canvas.clientHeight / 2 - metrics.heightScreen / 2 - 68) / Math.abs(sin)
+        (viewportHeight / 2 - metrics.heightScreen / 2 - 68) / Math.abs(sin)
       );
     }
-    const focusMetrics = labelMetrics(focus.node);
+    const focusMetrics = labelMetrics(focus.node, renderScale);
     const minimumScreen = (
-      boundaryDistance(focusMetrics, cos, sin) +
-      boundaryDistance(metrics, cos, sin)
-    ) * scale + 12;
-    const radius = Math.max(minimumScreen, radiusScreen) / scale;
+      boundaryDistance(focusMetrics, cos, sin, renderScale) +
+      boundaryDistance(metrics, cos, sin, renderScale)
+    ) * renderScale + 12;
+    const radius = Math.max(minimumScreen, radiusScreen) / renderScale;
     return { x: focus.x + cos * radius, y: focus.y + sin * radius };
   }
 
-  function draw() {
-    drawFrame = 0;
-    if (!graph || !canvas.width) return;
-    metricsCache = new Map();
-    const width = canvas.width / pixelRatio;
-    const height = canvas.height / pixelRatio;
-    if (followFocus) {
-      const focus = positions.get(focusId);
-      if (focus) {
-        offsetX = -focus.x * scale;
-        offsetY = -focus.y * scale;
-      }
-    }
-    const view = viewData();
-    const display = new Map(view.points.map((point) => [point.node.id, displayPosition(point)]));
+  function renderSnapshot(buffer, stageIndex) {
+    const stage = STAGES[stageIndex];
+    const view = stageViews[stageIndex];
+    const renderScale = stage.scale;
+    const bufferCtx = buffer.getContext('2d', { alpha: false });
+    const width = buffer.width / snapshotRatio;
+    const height = buffer.height / snapshotRatio;
+    const focus = positions.get(focusId);
+    const baseOffsetX = -focus.x * renderScale;
+    const baseOffsetY = -focus.y * renderScale;
+    const display = new Map(
+      view.points.map((point) => [point.node.id, displayPosition(point, renderScale)])
+    );
 
-    ctx.setTransform(pixelRatio, 0, 0, pixelRatio, 0, 0);
-    ctx.fillStyle = '#0d1014';
-    ctx.fillRect(0, 0, width, height);
-    ctx.translate(width / 2 + offsetX, height / 2 + offsetY);
-    ctx.scale(scale, scale);
-    if (stats) stats.textContent = `显示 ${view.visible.size} / ${nodes.size}`;
-
-    ctx.strokeStyle = 'rgba(150,164,180,.34)';
-    ctx.lineWidth = 1.1 / scale;
-    ctx.beginPath();
+    bufferCtx.setTransform(snapshotRatio, 0, 0, snapshotRatio, 0, 0);
+    bufferCtx.fillStyle = '#0d1014';
+    bufferCtx.fillRect(0, 0, width, height);
+    bufferCtx.translate(width / 2 + baseOffsetX, height / 2 + baseOffsetY);
+    bufferCtx.scale(renderScale, renderScale);
+    bufferCtx.strokeStyle = 'rgba(150,164,180,.34)';
+    bufferCtx.lineWidth = 1.1 / renderScale;
+    bufferCtx.beginPath();
     for (const { a, b } of view.links) {
       const ap = display.get(a.node.id);
       const bp = display.get(b.node.id);
@@ -250,127 +254,157 @@ export function createNetworkMap({ canvas, onChoose }) {
       if (!distance) continue;
       const ux = dx / distance;
       const uy = dy / distance;
-      const from = boundaryDistance(labelMetrics(a.node), ux, uy);
-      const to = boundaryDistance(labelMetrics(b.node), ux, uy);
+      const from = boundaryDistance(labelMetrics(a.node, renderScale), ux, uy, renderScale);
+      const to = boundaryDistance(labelMetrics(b.node, renderScale), ux, uy, renderScale);
       if (distance <= from + to) continue;
-      ctx.moveTo(ap.x + ux * from, ap.y + uy * from);
-      ctx.lineTo(bp.x - ux * to, bp.y - uy * to);
+      bufferCtx.moveTo(ap.x + ux * from, ap.y + uy * from);
+      bufferCtx.lineTo(bp.x - ux * to, bp.y - uy * to);
     }
-    ctx.stroke();
+    bufferCtx.stroke();
 
     for (const point of view.points) {
       const at = display.get(point.node.id);
-      const metrics = labelMetrics(point.node);
-      const widthWorld = metrics.widthScreen / scale;
-      const heightWorld = metrics.heightScreen / scale;
+      const metrics = labelMetrics(point.node, renderScale);
+      const widthWorld = metrics.widthScreen / renderScale;
+      const heightWorld = metrics.heightScreen / renderScale;
       const selected = point.node.id === focusId;
       const color = COLORS[point.node.region] || COLORS.unknown;
       roundedRect(
-        ctx,
+        bufferCtx,
         at.x - widthWorld / 2,
         at.y - heightWorld / 2,
         widthWorld,
         heightWorld,
-        8 / scale
+        8 / renderScale
       );
-      ctx.fillStyle = selected ? color : 'rgba(19,24,31,.94)';
-      ctx.fill();
-      ctx.strokeStyle = selected ? '#f3efe4' : color;
-      ctx.lineWidth = (selected ? 2.2 : 1.15) / scale;
-      ctx.stroke();
-      ctx.fillStyle = selected ? '#101419' : '#ece8df';
-      ctx.font = `${selected ? 650 : 520} ${metrics.fontScreen / scale}px system-ui, sans-serif`;
-      ctx.textAlign = 'center';
-      ctx.textBaseline = 'middle';
-      ctx.fillText(point.node.name, at.x, at.y, widthWorld - 10 / scale);
+      bufferCtx.fillStyle = selected ? color : 'rgba(19,24,31,.94)';
+      bufferCtx.fill();
+      bufferCtx.strokeStyle = selected ? '#f3efe4' : color;
+      bufferCtx.lineWidth = (selected ? 2.2 : 1.15) / renderScale;
+      bufferCtx.stroke();
+      bufferCtx.fillStyle = selected ? '#101419' : '#ece8df';
+      bufferCtx.font =
+        `${selected ? 650 : 520} ${metrics.fontScreen / renderScale}px system-ui, sans-serif`;
+      bufferCtx.textAlign = 'center';
+      bufferCtx.textBaseline = 'middle';
+      bufferCtx.fillText(point.node.name, at.x, at.y, widthWorld - 10 / renderScale);
     }
   }
 
-  function requestDraw() {
-    if (!drawFrame) drawFrame = requestAnimationFrame(draw);
+  function sizeCanvas() {
+    viewportWidth = Math.max(1, canvas.parentElement.clientWidth);
+    viewportHeight = Math.max(1, canvas.parentElement.clientHeight);
+    canvasCssWidth = Math.ceil(viewportWidth * OVERSCAN);
+    canvasCssHeight = Math.ceil(viewportHeight * OVERSCAN);
+    canvasLeft = -(canvasCssWidth - viewportWidth) / 2;
+    canvasTop = -(canvasCssHeight - viewportHeight) / 2;
+    snapshotRatio = Math.min(
+      window.devicePixelRatio || 1,
+      1.25,
+      Math.sqrt(MAX_SNAPSHOT_PIXELS / (canvasCssWidth * canvasCssHeight))
+    );
+    canvas.style.width = `${canvasCssWidth}px`;
+    canvas.style.height = `${canvasCssHeight}px`;
+    canvas.style.left = `${canvasLeft}px`;
+    canvas.style.top = `${canvasTop}px`;
+    canvas.style.position = 'absolute';
+    canvas.style.transformOrigin = '0 0';
+    canvas.width = Math.round(canvasCssWidth * snapshotRatio);
+    canvas.height = Math.round(canvasCssHeight * snapshotRatio);
   }
 
-  function resize() {
-    pixelRatio = Math.min(window.devicePixelRatio || 1, 2);
-    const width = Math.max(1, Math.round(canvas.clientWidth * pixelRatio));
-    const height = Math.max(1, Math.round(canvas.clientHeight * pixelRatio));
-    if (canvas.width !== width || canvas.height !== height) {
-      canvas.width = width;
-      canvas.height = height;
+  function copySnapshot(stageIndex) {
+    const snapshot = snapshots[stageIndex];
+    if (!snapshot) return false;
+    activeStage = stageIndex;
+    ctx.setTransform(1, 0, 0, 1, 0, 0);
+    ctx.drawImage(snapshot, 0, 0);
+    if (stats) {
+      const shown = stageViews[stageIndex].visible.size;
+      stats.textContent = `阶段 ${stageIndex + 1}/4 · 显示 ${shown} / ${nodes.size}`;
     }
-    draw();
+    applyTransform();
+    return true;
   }
 
-  function center(id) {
-    const point = positions.get(id);
-    if (!point) return;
-    offsetX = -point.x * scale;
-    offsetY = -point.y * scale;
-    draw();
+  function applyTransform() {
+    transformFrame = 0;
+    if (!snapshots[activeStage]) return;
+    const stageScale = STAGES[activeStage].scale;
+    const focus = positions.get(focusId);
+    const baseOffsetX = -focus.x * stageScale;
+    const baseOffsetY = -focus.y * stageScale;
+    const ratio = scale / stageScale;
+    const tx = viewportWidth / 2 + offsetX - canvasLeft -
+      ratio * (canvasCssWidth / 2 + baseOffsetX);
+    const ty = viewportHeight / 2 + offsetY - canvasTop -
+      ratio * (canvasCssHeight / 2 + baseOffsetY);
+    canvas.style.transform = `matrix(${ratio},0,0,${ratio},${tx},${ty})`;
+  }
+
+  function requestTransform() {
+    if (!transformFrame) transformFrame = requestAnimationFrame(applyTransform);
+  }
+
+  function chooseStage() {
+    wantedStage = stageForScale(scale);
+    if (wantedStage !== activeStage && snapshots[wantedStage]) copySnapshot(wantedStage);
+    else requestTransform();
+  }
+
+  async function preloadStages() {
+    const generation = ++snapshotGeneration;
+    for (const snapshot of snapshots) snapshot?.close?.();
+    snapshots = new Array(STAGES.length);
+    sizeCanvas();
+    for (let index = 0; index < STAGES.length; index += 1) {
+      if (generation !== snapshotGeneration) return;
+      const buffer = makeBuffer(canvas.width, canvas.height);
+      renderSnapshot(buffer, index);
+      snapshots[index] =
+        typeof buffer.transferToImageBitmap === 'function'
+          ? buffer.transferToImageBitmap()
+          : buffer;
+      if (index === 0 || index === wantedStage) copySnapshot(index);
+      if (stats && index < STAGES.length - 1) {
+        stats.textContent = `预载地图 ${index + 1}/4`;
+      }
+      await new Promise((resolve) => requestAnimationFrame(resolve));
+    }
+    if (generation !== snapshotGeneration) return;
+    copySnapshot(stageForScale(scale));
   }
 
   function screenPoint(event) {
-    const rect = canvas.getBoundingClientRect();
+    const rect = surface.getBoundingClientRect();
     return { x: event.clientX - rect.left, y: event.clientY - rect.top };
   }
 
   function zoomAt(nextScale, screenX, screenY) {
-    const worldX = (screenX - canvas.clientWidth / 2 - offsetX) / scale;
-    const worldY = (screenY - canvas.clientHeight / 2 - offsetY) / scale;
+    const worldX = (screenX - viewportWidth / 2 - offsetX) / scale;
+    const worldY = (screenY - viewportHeight / 2 - offsetY) / scale;
     scale = clamp(nextScale, 0.14, 5);
-    offsetX = screenX - canvas.clientWidth / 2 - worldX * scale;
-    offsetY = screenY - canvas.clientHeight / 2 - worldY * scale;
-  }
-
-  function beginGpuGesture() {
-    if (gestureBase || !canvas.width) return;
-    gestureBase = { scale, offsetX, offsetY };
-    canvas.style.transformOrigin = '0 0';
-    canvas.style.willChange = 'transform';
-  }
-
-  function applyGpuTransform() {
-    transformFrame = 0;
-    if (!gestureBase) return;
-    const ratio = scale / gestureBase.scale;
-    const tx = canvas.clientWidth / 2 + offsetX -
-      ratio * (canvas.clientWidth / 2 + gestureBase.offsetX);
-    const ty = canvas.clientHeight / 2 + offsetY -
-      ratio * (canvas.clientHeight / 2 + gestureBase.offsetY);
-    canvas.style.transform = `matrix(${ratio},0,0,${ratio},${tx},${ty})`;
-  }
-
-  function requestGpuTransform() {
-    if (!transformFrame) transformFrame = requestAnimationFrame(applyGpuTransform);
-  }
-
-  function finishGpuGesture({ redraw = true } = {}) {
-    if (transformFrame) cancelAnimationFrame(transformFrame);
-    transformFrame = 0;
-    canvas.style.transform = 'none';
-    canvas.style.willChange = '';
-    gestureBase = null;
-    if (redraw) draw();
+    offsetX = screenX - viewportWidth / 2 - worldX * scale;
+    offsetY = screenY - viewportHeight / 2 - worldY * scale;
   }
 
   function hit(screenX, screenY) {
-    metricsCache = new Map();
-    for (const point of [...viewData().points].reverse()) {
-      const at = displayPosition(point);
-      const metrics = labelMetrics(point.node);
-      const x = canvas.clientWidth / 2 + offsetX + at.x * scale;
-      const y = canvas.clientHeight / 2 + offsetY + at.y * scale;
+    const stageScale = STAGES[activeStage].scale;
+    for (const point of [...stageViews[activeStage].points].reverse()) {
+      const at = displayPosition(point, stageScale);
+      const metrics = labelMetrics(point.node, stageScale);
+      const x = viewportWidth / 2 + offsetX + at.x * scale;
+      const y = viewportHeight / 2 + offsetY + at.y * scale;
+      const sizeRatio = scale / stageScale;
       if (
-        Math.abs(screenX - x) <= metrics.widthScreen / 2 + 4 &&
-        Math.abs(screenY - y) <= metrics.heightScreen / 2 + 4
+        Math.abs(screenX - x) <= metrics.widthScreen * sizeRatio / 2 + 4 &&
+        Math.abs(screenY - y) <= metrics.heightScreen * sizeRatio / 2 + 4
       ) return point.node;
     }
     return null;
   }
 
   function beginPointer(event) {
-    followFocus = false;
-    beginGpuGesture();
     const point = screenPoint(event);
     pointers.set(event.pointerId, point);
     if (pointers.size === 1) drag = { ...point, moved: false };
@@ -386,9 +420,8 @@ export function createNetworkMap({ canvas, onChoose }) {
   }
 
   function adoptPointers(entries) {
-    followFocus = false;
     pointers.clear();
-    const rect = canvas.getBoundingClientRect();
+    const rect = surface.getBoundingClientRect();
     for (const entry of entries) {
       pointers.set(entry.id, { x: entry.clientX - rect.left, y: entry.clientY - rect.top });
     }
@@ -402,7 +435,6 @@ export function createNetworkMap({ canvas, onChoose }) {
         midY: (a.y + b.y) / 2,
       };
     }
-    if (graph) beginGpuGesture();
   }
 
   function movePointer(event) {
@@ -419,7 +451,7 @@ export function createNetworkMap({ canvas, onChoose }) {
       offsetY += midY - (pinch?.midY ?? midY);
       pinch = { distance, midX, midY };
       if (drag) drag.moved = true;
-      requestGpuTransform();
+      chooseStage();
       return;
     }
     if (drag) {
@@ -428,7 +460,7 @@ export function createNetworkMap({ canvas, onChoose }) {
       drag.x = point.x;
       drag.y = point.y;
       drag.moved = true;
-      requestGpuTransform();
+      requestTransform();
     }
   }
 
@@ -442,27 +474,26 @@ export function createNetworkMap({ canvas, onChoose }) {
       drag = { ...remaining, moved: true };
     } else if (!pointers.size) {
       drag = null;
-      finishGpuGesture();
     }
     pinch = null;
     if (chosen) onChoose(chosen.id);
   }
 
-  canvas.addEventListener('pointerdown', (event) => {
-    canvas.setPointerCapture(event.pointerId);
+  surface.addEventListener('pointerdown', (event) => {
+    if (event.target.closest?.('.network-map__hud')) return;
+    surface.setPointerCapture(event.pointerId);
     beginPointer(event);
   });
-  canvas.addEventListener('pointermove', movePointer);
-  canvas.addEventListener('pointerup', endPointer);
-  canvas.addEventListener('pointercancel', endPointer);
-  canvas.addEventListener(
+  surface.addEventListener('pointermove', movePointer);
+  surface.addEventListener('pointerup', endPointer);
+  surface.addEventListener('pointercancel', endPointer);
+  surface.addEventListener(
     'wheel',
     (event) => {
       event.preventDefault();
-      followFocus = false;
       const point = screenPoint(event);
-      zoomAt(scale * (event.deltaY > 0 ? 0.86 : 1.16), point.x, point.y);
-      requestDraw();
+      zoomAt(scale * (event.deltaY > 0 ? 0.94 : 1.065), point.x, point.y);
+      chooseStage();
     },
     { passive: false }
   );
@@ -471,17 +502,17 @@ export function createNetworkMap({ canvas, onChoose }) {
     async open(id) {
       await load();
       focusId = id;
-      measureHops(id);
+      prepareFocus(id);
       scale = 1;
-      followFocus = true;
-      resize();
-      center(id);
-      if (pointers.size) {
-        followFocus = false;
-        beginGpuGesture();
-      }
+      const focus = positions.get(id);
+      offsetX = -focus.x;
+      offsetY = -focus.y;
+      wantedStage = 0;
+      await preloadStages();
     },
-    resize,
+    resize() {
+      if (focusId) preloadStages();
+    },
     adoptPointers,
     moveAdoptedPointer: movePointer,
     endAdoptedPointer: endPointer,
@@ -489,7 +520,6 @@ export function createNetworkMap({ canvas, onChoose }) {
       pointers.clear();
       drag = null;
       pinch = null;
-      finishGpuGesture();
     },
   };
 }

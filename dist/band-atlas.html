@@ -72,7 +72,14 @@ button { font: inherit; color: inherit; }
 }
 .network-map { position:fixed; inset:0; z-index:30; background:var(--ground); touch-action:none; }
 .network-map[hidden] { display:none; }
-#network-canvas { width:100%; height:100%; display:block; }
+#network-canvas {
+  width:100%;
+  height:100%;
+  display:block;
+  contain:strict;
+  will-change:transform;
+  backface-visibility:hidden;
+}
 .network-map__hud { position:absolute; inset:16px 16px auto; display:flex; gap:12px; align-items:center; color:var(--ink-2); font-size:.72rem; pointer-events:none; }
 .network-map__hud .btn { pointer-events:auto; }
 /* 但焦点卡片正文得留给它自己滚 */
