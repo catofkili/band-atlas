@@ -45,6 +45,13 @@
   ],
   "intro": "佛利伍麦克是一个英美摇滚乐团，1967年成立于伦敦。乐团成军至今经历多次团员变动，多次更换主唱与吉他手，但也因此不断融入新的创作元素，在不同阶段呈现出各有特色的音乐风格。",
   "introLang": "zh",
+  "lore": "Fleetwood Mac的成员关系长期与创作交缠：John与Christine McVie的婚姻危机、Stevie Nicks与Lindsey Buckingham的分手，以及成员间持续紧张，都发生在乐队商业巅峰前后；这些现实关系也成为《Rumours》时期作品的重要背景。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（中文）",
+      "url": "https://zh.wikipedia.org/wiki/%E4%BD%9B%E5%88%A9%E4%BC%8D%E9%BA%A5%E5%85%8B"
+    }
+  ],
   "tracks": [
     "来安农",
     "オー・ウェル",
@@ -72,11 +79,11 @@
   "listens": 1569955,
   "listeners": 22503,
   "quality": {
-    "score": 90,
+    "score": 100,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "western",

@@ -30,14 +30,21 @@
   ],
   "intro": "Carsick Cars是中国北京的一支乐队，成立于2005年3月，现由吉他手张守望、鼓手李青，以及贝斯手李维思组成。乐队风格受Sonic Youth等乐队影响。",
   "introLang": "zh",
+  "lore": "2010年，贝斯手李维思与鼓手李青同时退出Carsick Cars；两人把音乐重心转向Snapline与Soviet Pop，何凡与斑斑随后接任，形成新的阵容。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（中文）",
+      "url": "https://zh.wikipedia.org/wiki/Carsick_Cars"
+    }
+  ],
   "listens": 7045,
   "listeners": 457,
   "quality": {
-    "score": 65,
+    "score": 75,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "east-asia",

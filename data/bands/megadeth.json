@@ -81,6 +81,20 @@
   },
   "edges": [
     {
+      "to": "metallica",
+      "toName": "Metallica",
+      "toArea": "洛杉矶",
+      "toYears": "1981–",
+      "type": "feud",
+      "label": "开除、另组乐队与署名争议",
+      "detail": "1983年，Dave Mustaine因酗酒、药物及与成员的冲突被Metallica开除，随后组建Megadeth，并公开表示要做出更快、更重的音乐。双方围绕开除方式与早期歌曲署名的紧张关系延续多年，后来也曾共同参加Big Four演出。",
+      "year": 1983,
+      "weight": 0.95,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Metallica"
+      ]
+    },
+    {
       "to": "md-45",
       "toName": "MD.45",
       "toArea": "美国",

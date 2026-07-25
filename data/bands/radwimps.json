@@ -41,6 +41,13 @@
   ],
   "intro": "RADWIMPS，简称RAD，日本摇滚乐队，现乃日本环球音乐旗下厂牌Muzinto Records的艺人，所属经纪公司为voque ting。",
   "introLang": "zh",
+  "lore": "2018年《HINOMARU》被部分听众批评带有军歌、战争或民族主义联想；野田洋次郎公开否认攻击性意图，神户演出前亦出现要求停演的抗议。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（日文）",
+      "url": "https://ja.wikipedia.org/wiki/RADWIMPS"
+    }
+  ],
   "tracks": [
     "前前前世",
     "オーダーメイド",
@@ -68,11 +75,11 @@
   "listens": 269047,
   "listeners": 5215,
   "quality": {
-    "score": 87,
+    "score": 97,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "east-asia",

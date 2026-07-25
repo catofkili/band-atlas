@@ -43,6 +43,13 @@
   ],
   "intro": "ONE OK ROCK，是一个日本摇滚乐团，成立于2005年。由Taka、Toru、Ryota、Tomoya、Alex五人组成的摇滚乐队。",
   "introLang": "zh",
+  "lore": "2009年，吉他手Alex遭拘捕后，ONE OK ROCK原定的电视剧主题曲被替换，单曲发行与巡演取消；同年5月乐队宣布Alex退出，随后以四人阵容重新编曲并恢复活动。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（中文）",
+      "url": "https://zh.wikipedia.org/wiki/ONE_OK_ROCK"
+    }
+  ],
   "tracks": [
     "The Beginning (ONE OK ROCK單曲)",
     "Deeper Deeper/Nothing Helps",
@@ -70,11 +77,11 @@
   "listens": 310552,
   "listeners": 4715,
   "quality": {
-    "score": 88,
+    "score": 98,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "east-asia",

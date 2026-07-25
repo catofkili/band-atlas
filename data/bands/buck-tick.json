@@ -40,6 +40,13 @@
   ],
   "intro": "花火师是日本的摇滚乐团，成立于1985年的群马县藤冈市，由樱井敦司、今井寿、星野英彦、樋口豊、樋口隆所组成。多数评论家认为是早期视觉系乐团具代表性的先驱之一。",
   "introLang": "zh",
+  "lore": "1989年今井寿因LSD相关违法行为被捕，余下巡演全部取消，乐队进入约半年谨慎期；同年12月，BUCK-TICK以“バクチク現象”演出复出，并在东京巨蛋吸引约4.3万人。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（日文）",
+      "url": "https://ja.wikipedia.org/wiki/BUCK-TICK"
+    }
+  ],
   "tracks": [
     "くちづけ",
     "蜉蝣 -かげろう-",
@@ -67,11 +74,11 @@
   "listens": 150688,
   "listeners": 1585,
   "quality": {
-    "score": 89,
+    "score": 99,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "east-asia",

@@ -74,6 +74,29 @@ if (
 ) {
   throw new Error('恩怨情仇审核包缺失或东亚候选过少');
 }
+const approvedCandidates = reviewCandidates.filter((candidate) => candidate.status === 'approved');
+for (const candidate of approvedCandidates) {
+  const band = bands.find((item) => item.id === candidate.bandId);
+  if (!band?.lore?.includes(candidate.proposedLore)) {
+    throw new Error(`已批准轶事没有进入乐队卡片：${candidate.id}`);
+  }
+  if (
+    candidate.source &&
+    !band.loreSources?.some((source) => source.url === candidate.source)
+  ) {
+    throw new Error(`已批准轶事缺少来源链接：${candidate.id}`);
+  }
+  if (
+    candidate.proposedEdge &&
+    !band.edges?.some(
+      (edge) =>
+        edge.to === candidate.proposedEdge.to &&
+        edge.type === candidate.proposedEdge.type
+    )
+  ) {
+    throw new Error(`已批准关系没有进入关系图：${candidate.id}`);
+  }
+}
 
 const content = {
   template: bands.filter((band) => band.quality?.templateIntro).length,
@@ -91,6 +114,7 @@ console.log(
 );
 console.log(
   `  内容：模板 ${content.template}，有流派 ${content.genres}，` +
-  `有代表曲 ${content.tracks}，有轶事 ${content.lore}，单关系 ${content.degreeOne}；` +
+  `有代表曲 ${content.tracks}，有轶事 ${content.lore}（本次批准 ${approvedCandidates.length}），` +
+  `单关系 ${content.degreeOne}；` +
   `地区：东亚 ${regions['east-asia']?.length ?? 0}，未知 ${regions.unknown?.length ?? 0}`
 );

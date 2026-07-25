@@ -24,6 +24,13 @@
   ],
   "intro": "GOING STEADY是一支曾活跃于独立音乐圈的日本四人朋克摇滚乐队。简称“Goyste”。该乐队已于2003年解散。",
   "introLang": "zh",
+  "lore": "2003年1月，GOING STEADY在全国巡演开始前突然宣布解散；其后峯田和伸、安孫子真哉与村井守共同加入银杏BOYZ，原有自设厂牌也由银杏BOYZ承接。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（日文）",
+      "url": "https://ja.wikipedia.org/wiki/GOING_STEADY"
+    }
+  ],
   "tracks": [
     "HOLiDAYS & GOING STEADY",
     "星に願いを",
@@ -51,11 +58,11 @@
   "listens": 3258,
   "listeners": 123,
   "quality": {
-    "score": 87,
+    "score": 97,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "east-asia",

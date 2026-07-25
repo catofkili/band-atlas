@@ -135,6 +135,17 @@ for (const candidate of approvedHistory) {
   band.lore = band.lore
     ? `${band.lore} ${candidate.proposedLore}`
     : candidate.proposedLore;
+  if (candidate.source) {
+    const languageName = { zh: '中文', ja: '日文', en: '英文' }[candidate.sourceLanguage];
+    const source = {
+      label: `Wikipedia${languageName ? `（${languageName}）` : ''}`,
+      url: candidate.source,
+    };
+    band.loreSources = [...(band.loreSources ?? [])];
+    if (!band.loreSources.some((item) => item.url === source.url)) {
+      band.loreSources.push(source);
+    }
+  }
 }
 
 /* ---------------------------------------------------------- 全站中文化 */

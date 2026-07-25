@@ -79,6 +79,20 @@
   },
   "edges": [
     {
+      "to": "pavement",
+      "toName": "Pavement",
+      "toArea": "斯托克顿",
+      "toYears": "1989–2000",
+      "type": "feud",
+      "label": "歌词讥讽与音乐节排斥",
+      "detail": "Pavement在《Range Life》中挖苦The Smashing Pumpkins；Stephen Malkmus后来称歌词是玩笑、并非有意侮辱。Billy Corgan则威胁若Pavement参加1994年Lollapalooza，The Smashing Pumpkins将退出，双方随后多年在媒体上互相讥讽。",
+      "year": 1994,
+      "weight": 0.86,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pavement_(band)"
+      ]
+    },
+    {
       "to": "zwan",
       "toName": "Zwan",
       "toArea": "美国",

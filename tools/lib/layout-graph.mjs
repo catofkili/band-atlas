@@ -16,7 +16,7 @@ const COMPONENT_GAP = 90;
 const GOLDEN_ANGLE = 2.399963229728653;
 const DEFAULT_OPTIONS = {
   adjustSizes: false,
-  collisionRatio: 0.455,
+  collisionRatio: 0.46,
   fa2Scaling: 4.6,
   linLogMode: false,
   noverlap: true,

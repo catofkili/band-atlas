@@ -58,6 +58,18 @@ export function buildFocusCard(band) {
   if (band.lore) {
     const sec = section('轶事');
     sec.append(el('p', 'lore', band.lore));
+    if (band.loreSources?.length) {
+      const sources = el('p', 'lore__sources', '来源：');
+      band.loreSources.forEach((source, index) => {
+        if (index) sources.append(document.createTextNode(' · '));
+        const link = el('a', 'lore__source', source.label ?? '公开资料');
+        link.href = source.url;
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        sources.append(link);
+      });
+      sec.append(sources);
+    }
     body.append(sec);
   }
 

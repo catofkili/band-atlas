@@ -41,6 +41,13 @@
   ],
   "intro": "响度乐团是日本男子重金属乐团，于1981年由吉他手高崎晃和鼓手樋口宗孝所成立。他们是第一个被美国厂牌签约的日本重金属乐团，截到2009年为止一共发行了23张录音专辑(于美国发行五张)。",
   "introLang": "zh",
+  "lore": "LOUDNESS结成前，高崎晃与樋口宗孝所在的LAZY因硬摇滚方向与事务所压力发生冲突；日文条目记载樋口与社长争执甚至发展到解雇风波，高崎则表示若樋口离开自己也会退出。LAZY解散后，两人成为LOUDNESS的核心。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（日文）",
+      "url": "https://ja.wikipedia.org/wiki/LOUDNESS"
+    }
+  ],
   "tracks": [
     "Crazy Night",
     "The ETERNAL SOLDIERS"
@@ -56,11 +63,11 @@
   "listens": 25711,
   "listeners": 1049,
   "quality": {
-    "score": 83,
+    "score": 93,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "east-asia",

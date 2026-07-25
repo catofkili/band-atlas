@@ -622,11 +622,11 @@
       "listens": 150688,
       "listeners": 1585,
       "quality": {
-        "score": 89,
+        "score": 99,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -679,11 +679,11 @@
       "listens": 269047,
       "listeners": 5215,
       "quality": {
-        "score": 87,
+        "score": 97,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -698,11 +698,11 @@
       "listens": 310552,
       "listeners": 4715,
       "quality": {
-        "score": 88,
+        "score": 98,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -793,11 +793,11 @@
       "listens": 116600,
       "listeners": 3247,
       "quality": {
-        "score": 88,
+        "score": 98,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -1059,11 +1059,11 @@
       "listens": 26444,
       "listeners": 690,
       "quality": {
-        "score": 87,
+        "score": 97,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -1192,11 +1192,11 @@
       "listens": 7045,
       "listeners": 457,
       "quality": {
-        "score": 65,
+        "score": 75,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -1477,11 +1477,11 @@
       "listens": 29570,
       "listeners": 932,
       "quality": {
-        "score": 87,
+        "score": 97,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -2005,15 +2005,15 @@
       "years": "1981–",
       "countryCode": "US",
       "region": "western",
-      "degree": 18,
+      "degree": 19,
       "listens": 3685079,
       "listeners": 23290,
       "quality": {
-        "score": 90,
+        "score": 100,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -2142,11 +2142,11 @@
       "listens": 2297310,
       "listeners": 20547,
       "quality": {
-        "score": 89,
+        "score": 99,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -2233,7 +2233,7 @@
       "years": "1988–",
       "countryCode": "US",
       "region": "western",
-      "degree": 5,
+      "degree": 6,
       "listens": 2022191,
       "listeners": 18557,
       "quality": {
@@ -2294,11 +2294,11 @@
       "listens": 1569955,
       "listeners": 22503,
       "quality": {
-        "score": 90,
+        "score": 100,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -2446,11 +2446,11 @@
       "listens": 1762798,
       "listeners": 17085,
       "quality": {
-        "score": 90,
+        "score": 100,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -5159,15 +5159,15 @@
       "years": "1989–2000",
       "countryCode": "US",
       "region": "western",
-      "degree": 4,
+      "degree": 5,
       "listens": 683779,
       "listeners": 9027,
       "quality": {
-        "score": 88,
+        "score": 99,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -9989,11 +9989,11 @@
       "listens": 25711,
       "listeners": 1049,
       "quality": {
-        "score": 83,
+        "score": 93,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -13010,11 +13010,11 @@
       "listens": 3258,
       "listeners": 123,
       "quality": {
-        "score": 87,
+        "score": 97,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
-        "hasLore": false,
+        "hasLore": true,
         "hasAlbums": true
       }
     },
@@ -15894,7 +15894,7 @@
       "years": "1983–",
       "countryCode": "US",
       "region": "western",
-      "degree": 8,
+      "degree": 9,
       "listens": 1449104,
       "listeners": 11400,
       "quality": {

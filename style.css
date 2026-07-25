@@ -299,6 +299,19 @@ button { font: inherit; color: inherit; }
   border-left: 2px solid var(--rel-feud);
   padding-left: 12px;
 }
+.lore__sources {
+  margin: 7px 0 0 14px;
+  font-family: var(--mono);
+  font-size: 0.64rem;
+  color: var(--ink-3);
+}
+.lore__source {
+  color: var(--ink-2);
+  text-decoration-color: color-mix(in srgb, currentColor 45%, transparent);
+  text-underline-offset: 3px;
+}
+.lore__source:hover,
+.lore__source:focus-visible { color: var(--ink); }
 
 /* 全部关系列表：触屏与超出边缘上限时的主要入口 */
 .rels { list-style: none; margin: 0; padding: 0; display: flex; flex-direction: column; gap: 2px; }

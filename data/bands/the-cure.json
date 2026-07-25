@@ -42,6 +42,13 @@
   ],
   "intro": "治疗乐队，是一支于 1976 年在西萨塞克斯郡克劳利成立的摇滚乐队。该乐队经历了多次人员调整，只有其核心、吉他手兼主要曲作者罗伯特·史密斯是固定成员。",
   "introLang": "zh",
+  "lore": "《Pornography》在高度紧张的氛围中完成；日文条目称Robert Smith与Simon Gallup在巡演期间激烈争吵，Gallup离队，Smith也决定暂停The Cure的活动。两人后来重新合作。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（日文）",
+      "url": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%AD%E3%83%A5%E3%82%A2%E3%83%BC"
+    }
+  ],
   "tracks": [
     "Friday I'm in Love",
     "Boys Don't Cry",
@@ -69,11 +76,11 @@
   "listens": 2297310,
   "listeners": 20547,
   "quality": {
-    "score": 89,
+    "score": 99,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "western",

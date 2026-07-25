@@ -42,6 +42,13 @@
   ],
   "intro": "Base Ball Bear是日本的3人摇滚乐队，2001年结成，为索尼音乐旗下艺人。",
   "introLang": "zh",
+  "lore": "2016年，吉他手汤浅将平突然失联；乐队与事务所称数次联络未果，之后由第三方转达其“难以继续乐队活动”的意向，最终发表退团声明，乐队转为三人阵容。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（中文）",
+      "url": "https://zh.wikipedia.org/wiki/Base_Ball_Bear"
+    }
+  ],
   "tracks": [
     "Stairway Generation",
     "ドラマチック",
@@ -69,11 +76,11 @@
   "listens": 29570,
   "listeners": 932,
   "quality": {
-    "score": 87,
+    "score": 97,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "east-asia",

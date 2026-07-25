@@ -43,6 +43,13 @@
   ],
   "intro": "史密斯乐队是一支1982年在曼彻斯特成立的英国摇滚乐队，由主唱莫里西、吉他手约翰尼·马尔、贝斯手安迪·鲁尔克和鼓手迈克·乔伊斯组成，其中莫里西和马尔合作进行音乐创作。",
   "introLang": "zh",
+  "lore": "The Smiths内部关系持续紧张，并于1987年解散；此后成员间的版税争议进入法院。多名成员后来都表示不愿重组，使这场分裂成为乐队历史的一部分。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（中文）",
+      "url": "https://zh.wikipedia.org/wiki/%E5%8F%B2%E5%AF%86%E6%96%AF%E6%A8%82%E5%9C%98"
+    }
+  ],
   "tracks": [
     "ディス・チャーミング・マン",
     "ゼア・イズ・ア・ライト",
@@ -70,11 +77,11 @@
   "listens": 1762798,
   "listeners": 17085,
   "quality": {
-    "score": 90,
+    "score": 100,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "western",

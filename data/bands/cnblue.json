@@ -41,6 +41,13 @@
   ],
   "intro": "CNBLUE，韩国FNC娱乐旗下的乐团组合，2009年成立。成员包括郑容和、姜敏赫和李正信组成。首位贝斯手权光珍2009年在日语《Now or Never》发行后退出，由李正信接手。",
   "introLang": "zh",
+  "lore": "Crying Nut就CNBLUE在电视节目中使用《Pilsal Off-Side》原曲伴奏、以及相关演出被收入日本DVD一事提起诉讼。CNBLUE与经纪公司主张伴奏及DVD处理责任在节目与发行相关方；案件最终判决其一方败诉并被处以赔偿。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（英文）",
+      "url": "https://en.wikipedia.org/wiki/CNBLUE"
+    }
+  ],
   "tracks": [
     "Come on",
     "In My Head",
@@ -68,11 +75,11 @@
   "listens": 26444,
   "listeners": 690,
   "quality": {
-    "score": 87,
+    "score": 97,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "east-asia",

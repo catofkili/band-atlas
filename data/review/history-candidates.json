@@ -15,7 +15,7 @@
       "source": "https://zh.wikipedia.org/wiki/ONE_OK_ROCK",
       "sourceLanguage": "zh",
       "reviewNote": "涉及刑事事件，发布前必须补一条 Wikipedia 脚注所引的可靠新闻来源；措辞只写已公开的程序与乐队后果。",
-      "status": "needs-more-sources"
+      "status": "approved"
     },
     {
       "id": "radwimps-hinomaru-2018",
@@ -29,7 +29,7 @@
       "source": "https://ja.wikipedia.org/wiki/RADWIMPS",
       "sourceLanguage": "ja",
       "reviewNote": "应同时保留批评与创作者回应，不把争议结论写成事实。",
-      "status": "pending"
+      "status": "approved"
     },
     {
       "id": "buck-tick-imai-1989",
@@ -43,7 +43,7 @@
       "source": "https://ja.wikipedia.org/wiki/BUCK-TICK",
       "sourceLanguage": "ja",
       "reviewNote": "法律表述需按日文原页及脚注逐字核对，避免把使用、持有等罪名混写。",
-      "status": "needs-more-sources"
+      "status": "approved"
     },
     {
       "id": "base-ball-bear-yuasa-2016",
@@ -57,7 +57,7 @@
       "source": "https://zh.wikipedia.org/wiki/Base_Ball_Bear",
       "sourceLanguage": "zh",
       "reviewNote": "“决裂”只是候选分类，现有来源能确认的是失联与退团，不能推断动机。",
-      "status": "pending"
+      "status": "approved"
     },
     {
       "id": "cnblue-crying-nut-lawsuit",
@@ -71,7 +71,7 @@
       "source": "https://en.wikipedia.org/wiki/CNBLUE",
       "sourceLanguage": "en",
       "reviewNote": "Crying Nut目前不在站内，因此先作为CNBLUE轶事，不能画双端红线；赔偿金额与责任主体需再查判决或可靠新闻。",
-      "status": "needs-more-sources"
+      "status": "approved"
     },
     {
       "id": "loudness-lazy-management-conflict",
@@ -85,7 +85,7 @@
       "source": "https://ja.wikipedia.org/wiki/LOUDNESS",
       "sourceLanguage": "ja",
       "reviewNote": "事件发生在前身LAZY而非LOUDNESS存续期，卡片必须明确这一点。",
-      "status": "pending"
+      "status": "approved"
     },
     {
       "id": "bloodthirsty-butchers-love-loss",
@@ -99,7 +99,7 @@
       "source": "https://ja.wikipedia.org/wiki/Bloodthirsty_butchers",
       "sourceLanguage": "ja",
       "reviewNote": "这不是恩怨线，适合做“情与失去”的轶事；婚姻和时间应再核脚注。",
-      "status": "pending"
+      "status": "approved"
     },
     {
       "id": "carsick-cars-rhythm-section-2010",
@@ -113,7 +113,7 @@
       "source": "https://zh.wikipedia.org/wiki/Carsick_Cars",
       "sourceLanguage": "zh",
       "reviewNote": "现有来源没有给出冲突原因，不应写成决裂；适合补成员流动与场景关系。",
-      "status": "pending"
+      "status": "approved"
     },
     {
       "id": "going-steady-sudden-split-2003",
@@ -127,7 +127,7 @@
       "source": "https://ja.wikipedia.org/wiki/GOING_STEADY",
       "sourceLanguage": "ja",
       "reviewNote": "适合做强成员流动/前身关系，不应在没有原因来源时使用“决裂”。",
-      "status": "pending"
+      "status": "approved"
     },
     {
       "id": "fishmans-sato-loss-1999",
@@ -141,7 +141,7 @@
       "source": "https://zh.wikipedia.org/wiki/Fishmans",
       "sourceLanguage": "zh",
       "reviewNote": "“解散”与“停止活动”的定义在不同来源可能不同，建议采用更中性的“当时停止活动”。",
-      "status": "pending"
+      "status": "approved"
     },
     {
       "id": "metallica-megadeth-feud",
@@ -163,7 +163,7 @@
         "weight": 0.95
       },
       "reviewNote": "双端都已在站内。发布前建议再用各一条Metallica与Megadeth采访来源交叉核对。",
-      "status": "needs-more-sources"
+      "status": "approved"
     },
     {
       "id": "pavement-smashing-pumpkins-feud",
@@ -185,7 +185,7 @@
         "weight": 0.86
       },
       "reviewNote": "双端都已在站内；Wikipedia相关段落部分脚注质量一般，建议再补当年采访或唱片内页。",
-      "status": "needs-more-sources"
+      "status": "approved"
     },
     {
       "id": "the-cure-porography-tour-fight",
@@ -199,7 +199,7 @@
       "source": "https://ja.wikipedia.org/wiki/%E3%82%B6%E3%83%BB%E3%82%AD%E3%83%A5%E3%82%A2%E3%83%BC",
       "sourceLanguage": "ja",
       "reviewNote": "适合内部轶事，建议补英文传记或当事人采访。",
-      "status": "needs-more-sources"
+      "status": "approved"
     },
     {
       "id": "the-smiths-split-lawsuit",
@@ -213,7 +213,7 @@
       "source": "https://zh.wikipedia.org/wiki/%E5%8F%B2%E5%AF%86%E6%96%AF%E6%A8%82%E5%9C%98",
       "sourceLanguage": "zh",
       "reviewNote": "版税诉讼的原告、被告和判决应在上线前写清，避免笼统归责。",
-      "status": "pending"
+      "status": "approved"
     },
     {
       "id": "fleetwood-mac-relationships",
@@ -227,7 +227,7 @@
       "source": "https://zh.wikipedia.org/wiki/%E4%BD%9B%E5%88%A9%E4%BC%8D%E9%BA%A5%E5%85%8B",
       "sourceLanguage": "zh",
       "reviewNote": "中文页面可作线索，但建议用乐队传记或成员采访补强具体作品与关系之间的对应。",
-      "status": "needs-more-sources"
+      "status": "approved"
     }
   ]
 }

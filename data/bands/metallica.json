@@ -41,6 +41,13 @@
   ],
   "intro": "金属乐队是美国殿堂级重金属乐队，也是世界上第一支敲击金属乐队，1981年10月28日成立于美国加州洛杉矶。起源是鼓手拉尔斯·乌尔里希在当地报纸刊登招募成员的广告，前去应征的是主唱兼吉他手詹姆斯·海特菲尔德。",
   "introLang": "zh",
+  "lore": "1983年，Dave Mustaine因酗酒、药物及与成员的冲突被Metallica开除，随后组建Megadeth，并公开表示要做出更快、更重的音乐。双方围绕开除方式与早期歌曲署名的紧张关系延续多年，后来也曾共同参加Big Four演出。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（英文）",
+      "url": "https://en.wikipedia.org/wiki/Metallica"
+    }
+  ],
   "tracks": [
     "無關緊要",
     "睡魔入侵",
@@ -68,11 +75,11 @@
   "listens": 3685079,
   "listeners": 23290,
   "quality": {
-    "score": 90,
+    "score": 100,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "western",
@@ -80,6 +87,20 @@
     "musicbrainz": "https://musicbrainz.org/artist/65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab"
   },
   "edges": [
+    {
+      "to": "megadeth",
+      "toName": "Megadeth",
+      "toArea": "洛杉矶",
+      "toYears": "1983–",
+      "type": "feud",
+      "label": "开除、另组乐队与署名争议",
+      "detail": "1983年，Dave Mustaine因酗酒、药物及与成员的冲突被Metallica开除，随后组建Megadeth，并公开表示要做出更快、更重的音乐。双方围绕开除方式与早期歌曲署名的紧张关系延续多年，后来也曾共同参加Big Four演出。",
+      "year": 1983,
+      "weight": 0.95,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Metallica"
+      ]
+    },
     {
       "to": "gak",
       "toName": "GAK",

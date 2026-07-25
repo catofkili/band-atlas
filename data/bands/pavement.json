@@ -39,6 +39,13 @@
   ],
   "intro": "人行道乐队是 20 世纪 90 年代美国最具影响力的独立摇滚乐队之一。尽管他们在主流商业市场上仅获得适度的成功，却凭借独特的音乐风格赢得了极高的邪典追捧，被公认为 Lo-fi 运动的先驱。",
   "introLang": "zh",
+  "lore": "Pavement在《Range Life》中挖苦The Smashing Pumpkins；Stephen Malkmus后来称歌词是玩笑、并非有意侮辱。Billy Corgan则威胁若Pavement参加1994年Lollapalooza，The Smashing Pumpkins将退出，双方随后多年在媒体上互相讥讽。",
+  "loreSources": [
+    {
+      "label": "Wikipedia（英文）",
+      "url": "https://en.wikipedia.org/wiki/Pavement_(band)"
+    }
+  ],
   "tracks": [
     "Father to a Sister of Thought",
     "Stereo",
@@ -66,11 +73,11 @@
   "listens": 683779,
   "listeners": 9027,
   "quality": {
-    "score": 88,
+    "score": 99,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
-    "hasLore": false,
+    "hasLore": true,
     "hasAlbums": true
   },
   "region": "western",
@@ -101,6 +108,20 @@
       "year": 1991,
       "weight": 0.62,
       "sources": []
+    },
+    {
+      "to": "the-smashing-pumpkins",
+      "toName": "The Smashing Pumpkins",
+      "toArea": "芝加哥",
+      "toYears": "1988–",
+      "type": "feud",
+      "label": "歌词讥讽与音乐节排斥",
+      "detail": "Pavement在《Range Life》中挖苦The Smashing Pumpkins；Stephen Malkmus后来称歌词是玩笑、并非有意侮辱。Billy Corgan则威胁若Pavement参加1994年Lollapalooza，The Smashing Pumpkins将退出，双方随后多年在媒体上互相讥讽。",
+      "year": 1994,
+      "weight": 0.86,
+      "sources": [
+        "https://en.wikipedia.org/wiki/Pavement_(band)"
+      ]
     },
     {
       "to": "dustdevils",
