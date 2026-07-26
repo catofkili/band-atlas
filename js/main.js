@@ -1,6 +1,7 @@
-import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=287a76b1d6';
-import { layoutNeighbors } from './layout.js?v=287a76b1d6';
-import { createNetworkMap } from './map.js?v=287a76b1d6';
+import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=7d2d3405aa';
+import { layoutNeighbors } from './layout.js?v=7d2d3405aa';
+import { createNetworkMap } from './map.js?v=7d2d3405aa';
+import { chooseRandomBand } from './random.js?v=7d2d3405aa';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -8,7 +9,7 @@ import {
   buildEdgeLayer,
   buildEdgeLine,
   CANVAS_HALF,
-} from './render.js?v=287a76b1d6';
+} from './render.js?v=7d2d3405aa';
 
 const stage = document.getElementById('stage');
 const statusEl = document.getElementById('status');
@@ -36,6 +37,7 @@ let slots = []; // 当前邻居槽位
 let busy = false;
 let neighborSelectionSalt = 0;
 let popularOnly = storedPopularOnly();
+const recentRandomIds = [];
 const mapEl = document.getElementById('network-map');
 const mapCanvas = document.getElementById('network-canvas');
 const mapStats = document.getElementById('map-stats');
@@ -333,7 +335,10 @@ async function jumpTo(id, { push = true, allowCold = false } = {}) {
 
 const wait = (ms) => new Promise((r) => setTimeout(r, ms));
 
-/** 进站随机：只从关系够多的乐队里挑，避免一开局就是死胡同。 */
+/**
+ * 进站随机：先按地区份额抽池，再让中上知名度与精品卡更常出现。
+ * 最近抽中过的乐队会暂时降权，避免几支名团来回刷屏。
+ */
 function randomId(exclude) {
   const candidates = index.bands.filter(
     (band) => band.id !== exclude && (!popularOnly || isPopularBand(band.id))
@@ -347,20 +352,13 @@ function randomId(exclude) {
   const pool = strong.length >= 40
     ? strong
     : candidates.filter((band) => band.degree >= 3);
-  const maxListens = Math.max(1, ...pool.map((band) => band.listens ?? 0));
-  const weights = pool.map((band) => {
-    const popularity = Math.log1p(band.listens ?? 0) / Math.log1p(maxListens);
-    const content = (band.quality?.score ?? 25) / 100;
-    const connected = Math.min(band.degree, 16) / 16;
-    const eastAsia = band.region === 'east-asia' ? 1.28 : 1;
-    return (0.08 + popularity * 3.4 + content * 1.9 + connected * 0.7) * eastAsia;
-  });
-  let ticket = Math.random() * weights.reduce((sum, weight) => sum + weight, 0);
-  for (let index = 0; index < pool.length; index += 1) {
-    ticket -= weights[index];
-    if (ticket <= 0) return pool[index].id;
+  const selected = chooseRandomBand(pool, { recentIds: recentRandomIds });
+  const id = selected?.id ?? candidates[0]?.id;
+  if (id) {
+    recentRandomIds.push(id);
+    if (recentRandomIds.length > 14) recentRandomIds.shift();
   }
-  return pool.at(-1)?.id ?? candidates[0].id;
+  return id;
 }
 
 function isPopularBand(id) {

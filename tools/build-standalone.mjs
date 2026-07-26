@@ -14,7 +14,14 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const read = (p) => readFile(path.join(root, p), 'utf8');
 
 // 依赖顺序：map 和 main 放在最后；全部模块会进入同一个函数作用域。
-const MODULES = ['js/layout.js', 'js/data.js', 'js/render.js', 'js/map.js', 'js/main.js'];
+const MODULES = [
+  'js/layout.js',
+  'js/data.js',
+  'js/render.js',
+  'js/map.js',
+  'js/random.js',
+  'js/main.js',
+];
 
 /** 把 ES 模块拼成一段普通脚本：模块之间的 import/export 在同一作用域里是多余的。 */
 function stripModuleSyntax(src) {

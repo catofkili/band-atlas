@@ -2,6 +2,11 @@
 import { readFile, readdir } from 'node:fs/promises';
 import { fileURLToPath } from 'node:url';
 import path from 'node:path';
+import {
+  RANDOM_REGION_SHARES,
+  bellPopularityWeight,
+  chooseRandomBand,
+} from '../js/random.js';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const read = (file) => readFile(path.join(root, file), 'utf8');
@@ -33,12 +38,12 @@ if (versions.some((version) => !version) || new Set(versions).size !== 1) {
   throw new Error(`静态资源版本不一致：${versions.join(', ')}`);
 }
 const dependencyVersions = [
-  ...[...mainJs.matchAll(/from ['"]\.\/(?:data|layout|map|render)\.js\?v=([^'"]+)/g)]
+  ...[...mainJs.matchAll(/from ['"]\.\/(?:data|layout|map|random|render)\.js\?v=([^'"]+)/g)]
     .map((match) => match[1]),
   renderJs.match(/from ['"]\.\/data\.js\?v=([^'"]+)/)?.[1],
 ];
 if (
-  dependencyVersions.length !== 5 ||
+  dependencyVersions.length !== 6 ||
   dependencyVersions.some((version) => version !== versions[0])
 ) {
   throw new Error(`内部模块缓存版本不一致：${dependencyVersions.join(', ')}`);
@@ -48,6 +53,9 @@ if (!standalone.includes('BAND_ATLAS_DATA = {"index":') || !standalone.includes(
 }
 if (!standalone.includes('createNetworkMap') || !standalone.includes('map-band-select')) {
   throw new Error('单文件版缺少地图代码或地图入口');
+}
+if (!standalone.includes('function chooseRandomBand') || !standalone.includes('RANDOM_REGION_SHARES')) {
+  throw new Error('单文件版缺少分地区钟形随机算法');
 }
 if (!standalone.includes('简介资料：') || !standalone.includes('introSources')) {
   throw new Error('单文件版缺少人工简介的来源链接');
@@ -74,6 +82,37 @@ const randomPool = index.bands.filter(
 if (randomPool.length < 40) throw new Error(`高质量随机池过小：${randomPool.length}`);
 if (randomPool.some((band) => band.degree < 3 || band.quality?.templateIntro)) {
   throw new Error('高质量随机池混入模板卡或死胡同');
+}
+if (
+  RANDOM_REGION_SHARES['east-asia'] !== 0.55 ||
+  RANDOM_REGION_SHARES.elsewhere !== 0.45
+) {
+  throw new Error('随机入口的地区份额不是东亚 55% / 非东亚 45%');
+}
+const bellPeak = bellPopularityWeight(0.68);
+const bellTop = bellPopularityWeight(1);
+const bellBottom = bellPopularityWeight(0);
+if (!(bellPeak > bellTop && bellTop > bellBottom * 5)) {
+  throw new Error('随机入口的钟形热度曲线不符合“中上段最多、顶流高于冷门”');
+}
+let randomState = 0x6d2b79f5;
+const seededRandom = () => {
+  randomState = Math.imul(randomState ^ (randomState >>> 15), 1 | randomState);
+  randomState ^= randomState + Math.imul(randomState ^ (randomState >>> 7), 61 | randomState);
+  return ((randomState ^ (randomState >>> 14)) >>> 0) / 4294967296;
+};
+const defaultRandomPool = randomPool.filter((band) => band.listens >= 1000);
+const sampledRegions = { 'east-asia': 0, elsewhere: 0 };
+for (let sample = 0; sample < 30000; sample += 1) {
+  const band = chooseRandomBand(defaultRandomPool, { random: seededRandom });
+  const bucket = band.region === 'east-asia' ? 'east-asia' : 'elsewhere';
+  sampledRegions[bucket] += 1;
+}
+for (const [region, expected] of Object.entries(RANDOM_REGION_SHARES)) {
+  const actual = sampledRegions[region] / 30000;
+  if (Math.abs(actual - expected) > 0.015) {
+    throw new Error(`随机入口地区抽样异常：${region} ${actual.toFixed(3)}，预期 ${expected}`);
+  }
 }
 const withPopularity = index.bands.filter((band) => Number.isFinite(band.listens)).length;
 if (withPopularity !== index.bands.length) {
