@@ -123,6 +123,38 @@ for (const name of ['Aimer', 'HANA', 'XG', '星街すいせい', '櫻坂46', '�
     throw new Error(`热门增量会被默认冷门筛选隐藏：${name}`);
   }
 }
+for (const name of [
+  'YOASOBI',
+  'Vaundy',
+  'Ado',
+  'ヨルシカ',
+  'Mrs. GREEN APPLE',
+  'BAD HOP',
+  'CUTIE STREET',
+  'LANA',
+  'クリープハイプ',
+]) {
+  const band = bands.find((item) => item.name === name);
+  if (
+    !band ||
+    band.quality?.templateIntro ||
+    band.introLang !== 'zh' ||
+    (band.intro?.length ?? 0) < 20
+  ) {
+    throw new Error(`现代艺人的 Wikipedia 中文简介回退：${name}`);
+  }
+}
+if (
+  bands.some((band) => {
+    const intro = band.intro?.trim() ?? '';
+    return (
+      /^(?:Mrs|MD|William L|Murder, Inc|Mt|Byul)\.?$/.test(intro) ||
+      /(?:\b[A-Z]\.|(?:[A-Z]\.){2,})$/.test(intro)
+    );
+  })
+) {
+  throw new Error('Wikipedia 简介再次被英文姓名缩写截断');
+}
 const atarayo = bands.find((band) => band.id === 'atarayo');
 const atarayoIndex = index.bands.find((band) => band.id === 'atarayo');
 const atarayoTargets = new Set([

@@ -17,7 +17,7 @@
       "year": 2008
     }
   ],
-  "intro": "Ashes Divide是来自美国的音乐团体，活跃时期为2007–，现有资料记录的主要风格包括另类摇滚、前卫摇滚、摇滚。目前资料收录了《The Stone》、《Keep Telling Myself It's Alright》等作品；MusicBrainz 还记录了它与Filter、Marilyn Manson、A Perfect Circle之间的成员往来。",
+  "intro": "威廉·L·霍沃德尔（William L. Howerdel，1970年5月18日出生）是一位美国音乐人，最广为人知的是他作为乐队“完美圆圈”（A Perfect Circle）的创始成员、吉他手、和声歌手、词曲作者及制作人的身份。",
   "introLang": "zh",
   "tracks": [
     "The Stone"
@@ -30,8 +30,8 @@
   "listens": 25531,
   "listeners": 1267,
   "quality": {
-    "score": 34,
-    "templateIntro": true,
+    "score": 76,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
     "hasLore": false,

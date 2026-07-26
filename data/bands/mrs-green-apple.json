@@ -40,7 +40,7 @@
       "kind": "Album"
     }
   ],
-  "intro": "Mrs. GREEN APPLE是来自日本的音乐团体，活跃时期为2013–，现有资料记录的主要风格包括日本流行音乐、流行摇滚、日本流行音樂。目前资料收录了《Soranji》、《紫丁香》、《關於我 (Mrs. GREEN APPLE歌曲)》、《TWELVE》、《Mrs. GREEN APPLE》等作品。",
+  "intro": "Mrs. GREEN APPLE是日本三人流行摇滚乐团，2013年结成，2015年由环球音乐旗下的EMI Records出道，所属事务所为Universal Music Artists内的Project-MGA，乐团昵称为“ミセス”和“MGA”。",
   "introLang": "zh",
   "tracks": [
     "Soranji",
@@ -69,8 +69,8 @@
   "listens": 81223,
   "listeners": 3280,
   "quality": {
-    "score": 47,
-    "templateIntro": true,
+    "score": 89,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
     "hasLore": false,

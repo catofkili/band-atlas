@@ -73,13 +73,16 @@ for (const seed of popularSeeds.seeds ?? []) {
   }
 }
 
-// 维基百科的简介垫在爬来的数据上、人工数据下：有中文简介就用中文的，
-// 人工写过的照旧以人工为准。
+// 维基百科的简介垫在爬来的数据与现代日本增量上、人工数据下：
+// 有中文简介就用中文的，人工写过的照旧以人工为准。
 for (const band of generated.bands) {
   const hit = intros[band.mbid];
-  // 当代增量自带中文事实摘要；只有中文维基稿才覆盖它。
-  // 否则日文维基首段会把已经可用的中文退回外文。
-  const hasChineseFallback = band.introLang === 'zh' && band.intro;
+  // 真正的中文内容优先；自动生成的中文模板只是一层兜底，任何语言的
+  // Wikipedia 首段都比它信息更完整，外文会在合并后走翻译缓存。
+  const hasChineseFallback =
+    band.introLang === 'zh' &&
+    band.intro &&
+    !band.introTemplate;
   if (hit && (hit.lang === 'zh' || !hasChineseFallback)) {
     band.intro = hit.intro;
     band.introLang = hit.lang;

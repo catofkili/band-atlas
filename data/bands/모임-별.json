@@ -33,13 +33,13 @@
       "year": 2007
     }
   ],
-  "intro": "모임 별是来自首尔的音乐团体，活跃时期为2000–。目前资料收录了《2》、《너와나의20세기》等作品；MusicBrainz 还记录了它与3호선 버터플라이之间的成员往来。",
+  "intro": "Byul.org（韩语：모임 별；罗马音：Moim Byul）是一支电子音乐、梦幻流行乐队，同时也是一家设计工作室，总部位于韩国首尔。",
   "introLang": "zh",
   "listens": 2027,
   "listeners": 26,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,

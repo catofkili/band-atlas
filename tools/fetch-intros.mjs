@@ -51,17 +51,34 @@ for (const [i, batch] of chunk(mbids, 120).entries()) {
 
 /* --------------------------------------------- 维基百科：取首段并截短 */
 
-/** 首段往往很长，卡片只放得下一两句。按句号切，攒到够长为止。 */
-function condense(text, limit = 110) {
+/**
+ * 焦点卡片容得下约两三句。180 字既能交代成员、声音或关键经历，
+ * 又不会把整段百科原文直接塞进页面。
+ */
+function condense(text, limit = 180) {
   const clean = text.replace(/\s+/g, ' ').replace(/（[^）]*）/g, '').trim();
-  const parts = clean.split(/(?<=[。．！？.!?])/);
-  let out = '';
-  for (const p of parts) {
-    if (out && out.length + p.length > limit) break;
-    out += p;
-    if (out.length >= limit * 0.6) break;
-  }
-  return (out || clean.slice(0, limit)).trim();
+  if (clean.length <= limit) return clean;
+
+  // 不能直接按英文句点 split：Mrs. GREEN APPLE、William L. Howerdel
+  // 这类艺人名会被错误截成 “Mrs.” 或 “William L.”。
+  const minLength = Math.floor(limit * 0.6);
+  const maxLength = Math.floor(limit * 1.35);
+  const endings = [...clean.matchAll(/[。．！？!?]+|[.]+(?=\s)/g)]
+    .map((match) => match.index + match[0].length)
+    .filter((index) => {
+      if (index < minLength || index > maxLength) return false;
+      const before = clean.slice(0, index);
+      return !/(?:\b[A-Z]\.|(?:[A-Z]\.){2,})$/.test(before);
+    });
+  if (endings.length) return clean.slice(0, endings[0]).trim();
+
+  const clipped = clean.slice(0, limit);
+  const wordBoundary = Math.max(
+    clipped.lastIndexOf(' '),
+    clipped.lastIndexOf('，'),
+    clipped.lastIndexOf('、')
+  );
+  return `${(wordBoundary >= minLength ? clipped.slice(0, wordBoundary) : clipped).trim()}…`;
 }
 
 async function extractsFor(lang, wanted) {

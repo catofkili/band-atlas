@@ -17,13 +17,13 @@
       "year": 1996
     }
   ],
-  "intro": "MD.45是来自美国的音乐团体，活跃时期为1996–1996，现有资料记录的主要风格包括重金属、鞭击金属、敲击金属。目前资料收录了《The Craving》等作品；MusicBrainz 还记录了它与Megadeth、Fear、Metallica之间的成员往来。",
+  "intro": "MD.45 是一支美国重金属/朋克摇滚乐队，由 Megadeth 乐队吉他手兼主唱戴夫·马斯泰恩（Dave Mustaine）和 Fear 乐队主唱李·文（Lee Ving）作为副业项目组建而成。",
   "introLang": "zh",
   "listens": 7049,
   "listeners": 451,
   "quality": {
-    "score": 28,
-    "templateIntro": true,
+    "score": 70,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,

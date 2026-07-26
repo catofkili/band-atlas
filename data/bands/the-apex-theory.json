@@ -19,14 +19,14 @@
       "year": 2002
     }
   ],
-  "intro": "The Apex Theory是来自美国的音乐团体，活跃时期为1999–，现有资料记录的主要风格包括前衛搖滾。目前资料收录了《Random Bursts》、《Topsy-Turvy》等作品；MusicBrainz 还记录了它与System of a Down之间的成员往来。",
+  "intro": "Mt. Helium（前身为 Apex Theory）是一支来自加利福尼亚州洛杉矶的美国摇滚乐队，以演奏融合地中海音乐与前卫摇滚的风格而闻名。",
   "introLang": "zh",
   "listens": 4430,
   "listeners": 482,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 15,
-    "templateIntro": true,
+    "score": 57,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,

@@ -15,13 +15,13 @@
       "year": 1992
     }
   ],
-  "intro": "Murder Inc.是来自英国的音乐团体，活跃时期为1991–1992，现有资料记录的主要风格包括工業金屬。目前资料收录了《Murder Inc.》等作品；MusicBrainz 还记录了它与Killing Joke、Pigface、Ministry之间的成员往来。",
+  "intro": "Murder, Inc. 是一支成立于1991年的英国工业音乐超级乐队，成员包括 Killing Joke 乐队的乔迪·沃克（Geordie Walker）、保罗·雷文（Paul Raven）、“大保罗”·弗格森（\"Big Paul\" Ferguson）、约翰·贝克德尔（John Bechdel）和马丁……",
   "introLang": "zh",
   "listens": 1238,
   "listeners": 93,
   "quality": {
-    "score": 17,
-    "templateIntro": true,
+    "score": 59,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,

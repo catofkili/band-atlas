@@ -12,7 +12,7 @@
     "日本流行音乐"
   ],
   "albums": [],
-  "intro": "CUTIE STREET是来自日本的音乐团体，活跃时期为2024–，现有资料记录的主要风格包括偶像流行、日本流行音乐。目前资料收录了《かわいいだけじゃだめですか?》等作品。",
+  "intro": "CUTIE STREET是日本女子偶像组合，由木村ミサ担任制作人，于2024年成立，隶属ASOBISYSTEM。组合通称“きゅーすと”，粉丝昵称为“きゅーてすと”。",
   "introLang": "zh",
   "tracks": [
     "かわいいだけじゃだめですか?"
@@ -25,8 +25,8 @@
   "listens": 3589,
   "listeners": 151,
   "quality": {
-    "score": 20,
-    "templateIntro": true,
+    "score": 62,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
     "hasLore": false,
