@@ -86,6 +86,18 @@
   },
   "edges": [
     {
+      "to": "atarayo",
+      "toName": "あたらよ",
+      "toArea": "东京",
+      "toYears": "2019–",
+      "type": "scene",
+      "label": "失恋叙事推荐",
+      "detail": "以失恋叙事与共感歌词为线索的编辑推荐。",
+      "year": null,
+      "weight": 0.68,
+      "sources": []
+    },
+    {
       "to": "orange-range",
       "toName": "ORANGE RANGE",
       "toArea": "日本",

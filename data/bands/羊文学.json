@@ -79,6 +79,18 @@
   },
   "edges": [
     {
+      "to": "atarayo",
+      "toName": "あたらよ",
+      "toArea": "东京",
+      "toYears": "2019–",
+      "type": "scene",
+      "label": "清透吉他推荐",
+      "detail": "从女声、清透吉他与夜晚空气感出发的编辑推荐。",
+      "year": null,
+      "weight": 0.64,
+      "sources": []
+    },
+    {
       "to": "bump-of-chicken",
       "toName": "BUMP OF CHICKEN",
       "toArea": "日本",

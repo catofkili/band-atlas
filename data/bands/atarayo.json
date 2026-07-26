@@ -1,0 +1,124 @@
+{
+  "id": "atarayo",
+  "mbid": "a5083194-56ab-46cd-a235-77a397723e93",
+  "name": "あたらよ",
+  "area": "东京",
+  "years": "2019–",
+  "genres": [
+    "日本流行音乐",
+    "流行摇滚",
+    "独立流行"
+  ],
+  "intro": "あたらよ（Atarayo）是2019年在东京成立的三人乐队，现由主唱兼吉他手ひとみ、吉他手まーしー与贝斯手たけお组成。团名取自古语“可惜夜”——美得令人舍不得天亮的夜晚；他们用清透而带裂痕感的歌声、都市夜色般的编曲与直面失恋的歌词，把难以说出口的情绪写成歌。",
+  "albums": [
+    {
+      "title": "夜明け前",
+      "year": 2021
+    },
+    {
+      "title": "極夜において月は語らず",
+      "year": 2022
+    },
+    {
+      "title": "季億の箱",
+      "year": 2023
+    },
+    {
+      "title": "朝露は木漏れ日に溶けて",
+      "year": 2024
+    },
+    {
+      "title": "泡沫の夢は幻に",
+      "year": 2025
+    }
+  ],
+  "tracks": [
+    "10月無口な君を忘れる",
+    "夏霞",
+    "「僕は...」",
+    "恋するもののあはれ",
+    "ツキノフネ",
+    "忘愛",
+    "春となり",
+    "魚"
+  ],
+  "lore": "他们自称“在悲伤中成长的乐队”。2020年上传的首支原创曲《10月無口な君を忘れる》成为突破口，官方记录其 YouTube 播放已超过5000万；2024年首次亚洲巡演六场售罄，2025年第二次亚洲巡演扩展至海外9城与日本5城，多场继续售罄。",
+  "loreSources": [
+    {
+      "label": "あたらよ官方简介",
+      "url": "https://atarayo-jp.com/profiles"
+    },
+    {
+      "label": "あたらよ官方作品目录",
+      "url": "https://atarayo-jp.com/discography"
+    }
+  ],
+  "links": {
+    "official": "https://atarayo-jp.com/",
+    "musicbrainz": "https://musicbrainz.org/artist/a5083194-56ab-46cd-a235-77a397723e93"
+  },
+  "introLang": "zh",
+  "countryCode": "JP",
+  "countryInferred": "area",
+  "listens": 31393,
+  "listeners": 825,
+  "quality": {
+    "score": 98,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": true,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "edges": [
+    {
+      "to": "ヨルシカ",
+      "toName": "ヨルシカ",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "scene",
+      "label": "夜色叙事推荐",
+      "detail": "同样擅长把夜晚、季节与难以直说的情绪写进现代日本流行摇滚；这是编辑推荐，不表示成员或影响关系。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    },
+    {
+      "to": "back-number",
+      "toName": "back number",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "失恋叙事推荐",
+      "detail": "如果你喜欢把关系结束后的细节写得具体而克制，这是一条自然的继续收听路线；这是编辑推荐。",
+      "year": null,
+      "weight": 0.68,
+      "sources": []
+    },
+    {
+      "to": "羊文学",
+      "toName": "羊文学",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "清透吉他推荐",
+      "detail": "从女声、清透吉他与夜晚空气感出发的编辑推荐，不表示事实上的合作或影响关系。",
+      "year": null,
+      "weight": 0.64,
+      "sources": []
+    },
+    {
+      "to": "あいみょん",
+      "toName": "あいみょん",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日语情歌推荐",
+      "detail": "以直白日语、亲密关系与强烈共感为线索的编辑推荐，不表示事实上的合作或影响关系。",
+      "year": null,
+      "weight": 0.6,
+      "sources": []
+    }
+  ]
+}

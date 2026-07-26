@@ -80,6 +80,18 @@
   },
   "edges": [
     {
+      "to": "atarayo",
+      "toName": "あたらよ",
+      "toArea": "东京",
+      "toYears": "2019–",
+      "type": "scene",
+      "label": "当代日语情歌推荐",
+      "detail": "以日语情歌与亲密关系书写为线索的编辑推荐。",
+      "year": null,
+      "weight": 0.6,
+      "sources": []
+    },
+    {
       "to": "aiko",
       "toName": "aiko",
       "toArea": "日本",

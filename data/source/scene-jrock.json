@@ -383,6 +383,41 @@
         { "title": "Use Your Illusion II", "year": 1991 }
       ],
       "tracks": ["Sweet Child o' Mine", "Welcome to the Jungle", "November Rain", "Paradise City"]
+    },
+    {
+      "id": "atarayo",
+      "mbid": "a5083194-56ab-46cd-a235-77a397723e93",
+      "name": "あたらよ",
+      "aliases": ["Atarayo", "可惜夜"],
+      "area": "东京",
+      "years": "2019–",
+      "genres": ["日本流行音乐", "流行摇滚", "独立流行"],
+      "intro": "あたらよ（Atarayo）是2019年在东京成立的三人乐队，现由主唱兼吉他手ひとみ、吉他手まーしー与贝斯手たけお组成。团名取自古语“可惜夜”——美得令人舍不得天亮的夜晚；他们用清透而带裂痕感的歌声、都市夜色般的编曲与直面失恋的歌词，把难以说出口的情绪写成歌。",
+      "albums": [
+        { "title": "夜明け前", "year": 2021 },
+        { "title": "極夜において月は語らず", "year": 2022 },
+        { "title": "季億の箱", "year": 2023 },
+        { "title": "朝露は木漏れ日に溶けて", "year": 2024 },
+        { "title": "泡沫の夢は幻に", "year": 2025 }
+      ],
+      "tracks": [
+        "10月無口な君を忘れる",
+        "夏霞",
+        "「僕は...」",
+        "恋するもののあはれ",
+        "ツキノフネ",
+        "忘愛",
+        "春となり",
+        "魚"
+      ],
+      "lore": "他们自称“在悲伤中成长的乐队”。2020年上传的首支原创曲《10月無口な君を忘れる》成为突破口，官方记录其 YouTube 播放已超过5000万；2024年首次亚洲巡演六场售罄，2025年第二次亚洲巡演扩展至海外9城与日本5城，多场继续售罄。",
+      "loreSources": [
+        { "label": "あたらよ官方简介", "url": "https://atarayo-jp.com/profiles" },
+        { "label": "あたらよ官方作品目录", "url": "https://atarayo-jp.com/discography" }
+      ],
+      "links": {
+        "official": "https://atarayo-jp.com/"
+      }
     }
   ],
 
@@ -561,6 +596,18 @@
     { "from": "ling-tosite-sigure", "to": "kinoko-teikoku", "type": "scene", "weight": 0.5, "label": "2010 年前后",
       "detail": "同属 2010 年前后从 live house 起步的日本另类摇滚新一批。",
       "detailRev": "同属 2010 年前后从 live house 起步的一批。" },
+    { "from": "atarayo", "to": "ヨルシカ", "type": "scene", "weight": 0.72, "label": "夜色叙事推荐",
+      "detail": "同样擅长把夜晚、季节与难以直说的情绪写进现代日本流行摇滚；这是编辑推荐，不表示成员或影响关系。",
+      "detailRev": "从夜色意象与情绪叙事出发的编辑推荐，不表示成员或影响关系。" },
+    { "from": "atarayo", "to": "back-number", "type": "scene", "weight": 0.68, "label": "失恋叙事推荐",
+      "detail": "如果你喜欢把关系结束后的细节写得具体而克制，这是一条自然的继续收听路线；这是编辑推荐。",
+      "detailRev": "以失恋叙事与共感歌词为线索的编辑推荐。" },
+    { "from": "atarayo", "to": "羊文学", "type": "scene", "weight": 0.64, "label": "清透吉他推荐",
+      "detail": "从女声、清透吉他与夜晚空气感出发的编辑推荐，不表示事实上的合作或影响关系。",
+      "detailRev": "从女声、清透吉他与夜晚空气感出发的编辑推荐。" },
+    { "from": "atarayo", "to": "あいみょん", "type": "scene", "weight": 0.6, "label": "当代日语情歌推荐",
+      "detail": "以直白日语、亲密关系与强烈共感为线索的编辑推荐，不表示事实上的合作或影响关系。",
+      "detailRev": "以日语情歌与亲密关系书写为线索的编辑推荐。" },
 
     {
       "from": "oasis", "to": "blur", "type": "feud", "year": 1995, "weight": 0.95,

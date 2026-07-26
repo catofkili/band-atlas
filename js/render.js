@@ -114,11 +114,14 @@ export function buildFocusCard(band) {
   }
   foot.append(summary);
 
-  const link = el('a', 'card__link', 'MusicBrainz ↗');
-  link.href = band.links?.musicbrainz ?? '#';
-  link.target = '_blank';
-  link.rel = 'noopener noreferrer';
-  foot.append(link);
+  for (const [key, label] of [['official', '官方网站 ↗'], ['musicbrainz', 'MusicBrainz ↗']]) {
+    if (!band.links?.[key]) continue;
+    const link = el('a', 'card__link', label);
+    link.href = band.links[key];
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    foot.append(link);
+  }
   card.append(foot);
 
   return card;

@@ -902,6 +902,37 @@
       }
     },
     {
+      "id": "atarayo",
+      "name": "あたらよ",
+      "aliases": [
+        "Atarayo",
+        "可惜夜"
+      ],
+      "searchKeys": [
+        "あたらよ",
+        "アタラヨ",
+        "atarayo",
+        "可惜夜",
+        "东京"
+      ],
+      "artistType": "Group",
+      "area": "东京",
+      "years": "2019–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 31393,
+      "listeners": 825,
+      "quality": {
+        "score": 98,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": true,
+        "hasAlbums": true
+      }
+    },
+    {
       "id": "x-japan",
       "name": "X JAPAN",
       "aliases": [
@@ -28744,7 +28775,7 @@
       "years": "2017–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 3,
+      "degree": 4,
       "listens": 471333,
       "listeners": 4242,
       "quality": {
@@ -29481,7 +29512,7 @@
       "years": "2011–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 3,
+      "degree": 4,
       "listens": 50886,
       "listeners": 1287,
       "quality": {
@@ -29662,7 +29693,7 @@
       "years": "1995–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 5,
+      "degree": 6,
       "listens": 45099,
       "listeners": 1434,
       "quality": {
@@ -29807,7 +29838,7 @@
       "years": "2004–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 3,
+      "degree": 4,
       "listens": 34499,
       "listeners": 1176,
       "quality": {

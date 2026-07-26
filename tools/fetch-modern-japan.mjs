@@ -47,6 +47,10 @@ const VERIFIED_MBIDS = new Map([
   ['星街すいせい', '8eeb59f4-0071-4261-b1f8-91d8294622d2'],
 ]);
 const SUPPORTED_TYPES = new Set(['Group', 'Person', 'Character']);
+// あたらよ的关系由人工精品卡维护，不使用自动相似推荐。
+const MANUAL_RECOMMENDATION_MBIDS = new Set([
+  'a5083194-56ab-46cd-a235-77a397723e93',
+]);
 
 const norm = (text) =>
   text
@@ -225,11 +229,19 @@ const resolvedNodes = resolved
   .filter((item) => item.id);
 const edges = [];
 const seenPairs = new Set();
-for (const item of resolvedNodes.filter((node) => newBands.some((band) => band.id === node.id))) {
+for (const item of resolvedNodes.filter(
+  (node) =>
+    newBands.some((band) => band.id === node.id) &&
+    !MANUAL_RECOMMENDATION_MBIDS.has(node.artist.id)
+)) {
   const ownGenres = new Set(item.genres);
   const ownPopularity = Math.log10(item.listens + 1);
   const candidates = resolvedNodes
-    .filter((candidate) => candidate.id !== item.id)
+    .filter(
+      (candidate) =>
+        candidate.id !== item.id &&
+        !MANUAL_RECOMMENDATION_MBIDS.has(candidate.artist.id),
+    )
     .map((candidate) => {
       const sharedGenres = candidate.genres.filter((genre) => ownGenres.has(genre)).length;
       const popularityDistance = Math.abs(Math.log10(candidate.listens + 1) - ownPopularity);

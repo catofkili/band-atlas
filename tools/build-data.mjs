@@ -570,6 +570,7 @@ for (const [id, band] of merged) {
     ...band,
     region: regionOf(band.countryCode),
     links: {
+      ...(band.links ?? {}),
       musicbrainz: band.mbid
         ? `https://musicbrainz.org/artist/${band.mbid}`
         : `https://musicbrainz.org/search?query=${encodeURIComponent(band.name)}&type=artist`,

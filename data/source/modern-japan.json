@@ -1,6 +1,6 @@
 {
   "note": "日本当代热门 Group/Person/Character；MusicBrainz 元数据，ListenBrainz 热度排序，推荐边非事实关系。",
-  "generatedAt": "2026-07-26T01:50:19.749Z",
+  "generatedAt": "2026-07-26T01:58:41.374Z",
   "resolved": [
     {
       "rank": 1,
@@ -319,6 +319,15 @@
     },
     {
       "rank": 36,
+      "seedName": "あたらよ",
+      "name": "あたらよ",
+      "mbid": "a5083194-56ab-46cd-a235-77a397723e93",
+      "artistType": "Group",
+      "listens": 31393,
+      "existing": true
+    },
+    {
+      "rank": 37,
       "seedName": "嵐",
       "name": "嵐",
       "mbid": "1008b912-cbb1-4e4c-bd4d-b9adf6937e8e",
@@ -327,7 +336,7 @@
       "existing": false
     },
     {
-      "rank": 37,
+      "rank": 38,
       "seedName": "Superfly",
       "name": "Superfly",
       "mbid": "8b55db74-4717-44e1-b799-35f6e1b8fa10",
@@ -336,7 +345,7 @@
       "existing": false
     },
     {
-      "rank": 38,
+      "rank": 39,
       "seedName": "ano",
       "name": "ano",
       "mbid": "ebb4513e-4aab-4ac9-a949-14e77bb7b836",
@@ -345,7 +354,7 @@
       "existing": false
     },
     {
-      "rank": 39,
+      "rank": 40,
       "seedName": "aiko",
       "name": "aiko",
       "mbid": "53e90c12-6ad0-4d1e-ad5b-f2e5d0059946",
@@ -354,7 +363,7 @@
       "existing": false
     },
     {
-      "rank": 40,
+      "rank": 41,
       "seedName": "&TEAM",
       "name": "&TEAM",
       "mbid": "bba737dc-7ec8-482d-b79f-68d949ef2c7f",
@@ -363,7 +372,7 @@
       "existing": false
     },
     {
-      "rank": 41,
+      "rank": 42,
       "seedName": "Da-iCE",
       "name": "Da‐iCE",
       "mbid": "2fc5c58a-711b-4a11-9b7a-7b5ba1f58e04",
@@ -372,7 +381,7 @@
       "existing": false
     },
     {
-      "rank": 42,
+      "rank": 43,
       "seedName": "幾田りら",
       "name": "幾田りら",
       "mbid": "55e42264-ef27-49d8-93fd-29f930dc96e4",
@@ -381,7 +390,7 @@
       "existing": false
     },
     {
-      "rank": 43,
+      "rank": 44,
       "seedName": "GReeeeN",
       "name": "GRe4N BOYZ",
       "mbid": "9c492c6c-ef67-48e7-b347-a410993b3274",
@@ -390,7 +399,7 @@
       "existing": false
     },
     {
-      "rank": 44,
+      "rank": 45,
       "seedName": "緑黄色社会",
       "name": "緑黄色社会",
       "mbid": "3ed40054-97ab-4783-b3c3-15c2c7b06546",
@@ -399,7 +408,7 @@
       "existing": false
     },
     {
-      "rank": 45,
+      "rank": 46,
       "seedName": "KinKi Kids",
       "name": "KinKi Kids",
       "mbid": "1a07eeb3-bc0c-48c7-ad15-8cbf879c412e",
@@ -408,7 +417,7 @@
       "existing": false
     },
     {
-      "rank": 46,
+      "rank": 47,
       "seedName": "星野源",
       "name": "星野源",
       "mbid": "2c6c53ea-09d4-4d98-b174-c9aa83d4fecf",
@@ -417,7 +426,7 @@
       "existing": false
     },
     {
-      "rank": 47,
+      "rank": 48,
       "seedName": "Omoinotake",
       "name": "Omoinotake",
       "mbid": "61c836d9-5e9e-4db1-94d9-35100a0537e9",
@@ -426,7 +435,7 @@
       "existing": false
     },
     {
-      "rank": 48,
+      "rank": 49,
       "seedName": "AKASAKI",
       "name": "AKASAKI",
       "mbid": "7d915528-c29f-4cec-9575-37212e4936ad",
@@ -435,7 +444,7 @@
       "existing": false
     },
     {
-      "rank": 49,
+      "rank": 50,
       "seedName": "こっちのけんと",
       "name": "こっちのけんと",
       "mbid": "f0d4005f-e138-472b-97f6-02233375ad90",
@@ -444,7 +453,7 @@
       "existing": false
     },
     {
-      "rank": 50,
+      "rank": 51,
       "seedName": "Snow Man",
       "name": "Snow Man",
       "mbid": "1322f39c-cea6-42aa-aa98-3b6b5043b07d",
@@ -453,7 +462,7 @@
       "existing": false
     },
     {
-      "rank": 51,
+      "rank": 52,
       "seedName": "timelesz",
       "name": "timelesz",
       "mbid": "057927dd-b6bf-4c58-ae51-cceaf1ee58ac",
@@ -462,7 +471,7 @@
       "existing": false
     },
     {
-      "rank": 52,
+      "rank": 53,
       "seedName": "Travis Japan",
       "name": "Travis Japan",
       "mbid": "b665cecc-e94c-4b3a-9c91-76869fa92b1d",
@@ -471,7 +480,7 @@
       "existing": false
     },
     {
-      "rank": 53,
+      "rank": 54,
       "seedName": "＝LOVE",
       "name": "=LOVE",
       "mbid": "28abfefb-cceb-4605-8330-a53b6d161403",
@@ -480,7 +489,7 @@
       "existing": false
     },
     {
-      "rank": 54,
+      "rank": 55,
       "seedName": "SixTONES",
       "name": "SixTONES",
       "mbid": "47a3fb29-e36b-440b-9d3c-3a68cec34396",
@@ -489,7 +498,7 @@
       "existing": false
     },
     {
-      "rank": 55,
+      "rank": 56,
       "seedName": "サザンオールスターズ",
       "name": "サザンオールスターズ",
       "mbid": "24d9e513-c215-4901-87ee-b66aa769ab9d",
@@ -498,7 +507,7 @@
       "existing": false
     },
     {
-      "rank": 56,
+      "rank": 57,
       "seedName": "Novelbright",
       "name": "Novelbright",
       "mbid": "f1d9bc16-a8a2-4733-9b9d-2e101e010ea0",
@@ -507,7 +516,7 @@
       "existing": false
     },
     {
-      "rank": 57,
+      "rank": 58,
       "seedName": "JO1",
       "name": "JO1",
       "mbid": "331a87af-4abd-494e-9254-c1d66b3260e2",
@@ -516,7 +525,7 @@
       "existing": false
     },
     {
-      "rank": 58,
+      "rank": 59,
       "seedName": "優里",
       "name": "優里",
       "mbid": "4337f1a5-9e02-4b46-98c3-e3c28683a9b5",
@@ -525,7 +534,7 @@
       "existing": false
     },
     {
-      "rank": 59,
+      "rank": 60,
       "seedName": "BE:FIRST",
       "name": "BE:FIRST",
       "mbid": "c11b6e14-9a78-40c3-b70c-c46e8b819637",
@@ -534,7 +543,7 @@
       "existing": false
     },
     {
-      "rank": 60,
+      "rank": 61,
       "seedName": "アイナ・ジ・エンド",
       "name": "アイナ・ジ・エンド",
       "mbid": "19827018-8590-4ff1-9ab1-d12296e75a63",
@@ -543,7 +552,7 @@
       "existing": false
     },
     {
-      "rank": 61,
+      "rank": 62,
       "seedName": "クリープハイプ",
       "name": "クリープハイプ",
       "mbid": "3b7bc38c-7e3a-4085-81eb-0440e3b120a7",
@@ -552,7 +561,7 @@
       "existing": false
     },
     {
-      "rank": 62,
+      "rank": 63,
       "seedName": "MONGOL800",
       "name": "MONGOL800",
       "mbid": "0f774f0e-052e-48ae-8237-79359b9fd259",
@@ -561,7 +570,7 @@
       "existing": false
     },
     {
-      "rank": 63,
+      "rank": 64,
       "seedName": "マカロニえんぴつ",
       "name": "マカロニえんぴつ",
       "mbid": "c65f10b6-be99-4e3a-a010-2a11fd965780",
@@ -570,7 +579,7 @@
       "existing": false
     },
     {
-      "rank": 64,
+      "rank": 65,
       "seedName": "FRUITS ZIPPER",
       "name": "FRUITS ZIPPER",
       "mbid": "29b34cc3-b362-4f0b-ab02-e6ccaf8cafc2",
@@ -579,7 +588,7 @@
       "existing": false
     },
     {
-      "rank": 65,
+      "rank": 66,
       "seedName": "HANA",
       "name": "HANA",
       "mbid": "0c8c6c7a-aa33-400d-b297-d45ea1ecfc86",
@@ -588,7 +597,7 @@
       "existing": false
     },
     {
-      "rank": 66,
+      "rank": 67,
       "seedName": "King & Prince",
       "name": "King & Prince",
       "mbid": "7a2a8791-91dd-4bea-95fa-d0bfc0f2c740",
@@ -597,7 +606,7 @@
       "existing": false
     },
     {
-      "rank": 67,
+      "rank": 68,
       "seedName": "清水翔太",
       "name": "清水翔太",
       "mbid": "9262c0e1-c37e-4b87-896f-f394e70515fa",
@@ -606,7 +615,7 @@
       "existing": false
     },
     {
-      "rank": 68,
+      "rank": 69,
       "seedName": "なにわ男子",
       "name": "なにわ男子",
       "mbid": "91460ddb-8d0a-41af-bf3e-0e78616d4f08",
@@ -615,7 +624,7 @@
       "existing": false
     },
     {
-      "rank": 69,
+      "rank": 70,
       "seedName": "Tani Yuuki",
       "name": "Tani Yuuki",
       "mbid": "272981dd-20c8-424a-b86a-0d0ebb95f692",
@@ -624,7 +633,7 @@
       "existing": false
     },
     {
-      "rank": 70,
+      "rank": 71,
       "seedName": "Saucy Dog",
       "name": "Saucy Dog",
       "mbid": "76c63dd7-96d1-42d9-a596-4d576a464008",
@@ -633,7 +642,7 @@
       "existing": false
     },
     {
-      "rank": 71,
+      "rank": 72,
       "seedName": "菅田将暉",
       "name": "菅田将暉",
       "mbid": "264955bb-3412-4ab5-9ba5-4423a28b3641",
@@ -642,7 +651,7 @@
       "existing": false
     },
     {
-      "rank": 72,
+      "rank": 73,
       "seedName": "超ときめき♡宣伝部",
       "name": "超ときめき♡宣伝部",
       "mbid": "b901c170-0045-4555-8472-8ff0d59cbefe",
@@ -651,7 +660,7 @@
       "existing": false
     },
     {
-      "rank": 73,
+      "rank": 74,
       "seedName": "HY",
       "name": "HY",
       "mbid": "7b049fe5-0af8-4c19-bceb-41b5df99d39d",
@@ -660,7 +669,7 @@
       "existing": false
     },
     {
-      "rank": 74,
+      "rank": 75,
       "seedName": "CANDY TUNE",
       "name": "CANDY TUNE",
       "mbid": "71b68ea5-dcee-4e0b-8297-c027816cedf9",
@@ -669,7 +678,7 @@
       "existing": false
     },
     {
-      "rank": 75,
+      "rank": 76,
       "seedName": "CUTIE STREET",
       "name": "CUTIE STREET",
       "mbid": "0848dd33-fef4-48c4-801c-18ce3a611467",
@@ -678,7 +687,7 @@
       "existing": false
     },
     {
-      "rank": 76,
+      "rank": 77,
       "seedName": "LANA",
       "name": "LANA",
       "mbid": "9ac6b30d-472b-4744-afe0-aa7e7e6b2729",
@@ -687,7 +696,7 @@
       "existing": false
     },
     {
-      "rank": 77,
+      "rank": 78,
       "seedName": "平井大",
       "name": "平井大",
       "mbid": "d04b4d86-222f-4bcd-86d7-c70d33ebd41c",
@@ -696,7 +705,7 @@
       "existing": false
     },
     {
-      "rank": 78,
+      "rank": 79,
       "seedName": "INI",
       "name": "INI",
       "mbid": "f7b7ba8b-b0f4-4722-bb50-7a13747bdeb2",
@@ -705,7 +714,7 @@
       "existing": false
     },
     {
-      "rank": 79,
+      "rank": 80,
       "seedName": "M!LK",
       "name": "M!LK",
       "mbid": "c209e6c9-bdc6-41b1-8044-6ccbd5896252",
@@ -714,7 +723,7 @@
       "existing": false
     },
     {
-      "rank": 80,
+      "rank": 81,
       "seedName": "Number_i",
       "name": "Number_i",
       "mbid": "126a09d9-04a2-4d06-9cc7-eea581007a0f",
@@ -723,7 +732,7 @@
       "existing": false
     },
     {
-      "rank": 81,
+      "rank": 82,
       "seedName": "BAD HOP",
       "name": "BAD HOP",
       "mbid": "f618ef38-31d5-403f-9623-2d375270c390",

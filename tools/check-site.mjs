@@ -100,6 +100,8 @@ for (const [query, expected] of [
   ['Hoshimachi Suisei', '星街すいせい'],
   ['GReeeeN', 'GRe4N BOYZ'],
   ['Ikimonogakari', 'いきものがかり'],
+  ['Atarayo', 'あたらよ'],
+  ['可惜夜', 'あたらよ'],
 ]) {
   if (!exactSearch(query).some((band) => band.name === expected)) {
     throw new Error(`全局多文字搜索失效：${query} → ${expected}`);
@@ -120,6 +122,35 @@ for (const name of ['Aimer', 'HANA', 'XG', '星街すいせい', '櫻坂46', '�
   if ((band?.listens ?? 0) < 1000) {
     throw new Error(`热门增量会被默认冷门筛选隐藏：${name}`);
   }
+}
+const atarayo = bands.find((band) => band.id === 'atarayo');
+const atarayoIndex = index.bands.find((band) => band.id === 'atarayo');
+const atarayoTargets = new Set([
+  'ヨルシカ',
+  'back-number',
+  '羊文学',
+  'あいみょん',
+]);
+if (
+  !atarayo ||
+  !atarayoIndex ||
+  atarayo.quality?.templateIntro ||
+  (atarayo.quality?.score ?? 0) < 95 ||
+  (atarayoIndex.listens ?? 0) < 1000 ||
+  atarayo.albums?.length !== 5 ||
+  (atarayo.tracks?.length ?? 0) < 8 ||
+  !atarayo.lore ||
+  atarayo.loreSources?.length !== 2 ||
+  atarayo.links?.official !== 'https://atarayo-jp.com/' ||
+  atarayo.edges?.length !== atarayoTargets.size ||
+  atarayo.edges.some(
+    (edge) =>
+      edge.type !== 'scene' ||
+      edge.label === '当代日本推荐' ||
+      !atarayoTargets.has(edge.to)
+  )
+) {
+  throw new Error('あたらよ手写卡片不完整或混入自动推荐');
 }
 const usWithoutAlbums = bands.filter(
   (band) => band.countryCode === 'US' && !(band.albums?.length)

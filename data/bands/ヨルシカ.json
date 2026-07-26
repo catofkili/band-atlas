@@ -81,6 +81,18 @@
   },
   "edges": [
     {
+      "to": "atarayo",
+      "toName": "あたらよ",
+      "toArea": "东京",
+      "toYears": "2019–",
+      "type": "scene",
+      "label": "夜色叙事推荐",
+      "detail": "从夜色意象与情绪叙事出发的编辑推荐，不表示成员或影响关系。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    },
+    {
       "to": "bump-of-chicken",
       "toName": "BUMP OF CHICKEN",
       "toArea": "日本",
