@@ -12,6 +12,10 @@
   "albums": [],
   "intro": "The Ronnie Wood Band是由英国摇滚音乐人罗尼·伍德领衔的乐队。",
   "introLang": "zh",
+  "introSources": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f80bf66a-c771-48ef-b1d3-ed76c433675a"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
@@ -23,9 +27,6 @@
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f80bf66a-c771-48ef-b1d3-ed76c433675a"
-  },
   "edges": [
     {
       "to": "the-rolling-stones",

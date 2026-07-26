@@ -1,6 +1,18 @@
 {
-  "note": "机器翻译或维基摘要明显失真时的人工中文覆盖；键为最终乐队 id。",
+  "note": "机器翻译或维基摘要明显失真时的人工中文覆盖；键为最终乐队 id。introSources 保存公开资料来源。",
   "intros": {
+    "adoy": "ADOY是2017年在首尔正式出道的四人合成器独立流行乐队，由Juhwan Oh、Zee、Geunchang Park和Dayoung Jeong组成。团名来自Juhwan的猫Yoda，将名字倒过来便成为ADOY；他们把城市流行、八十年代浪漫流行、独立摇滚与梦幻流行揉进以合成器为核心的声音，首张EP《CATNIP》是最直接的入口。",
+    "fishmans": "Fishmans+是2011年前后围绕Fishmans作品成立的纪念性音乐人集合体，既有茂木欣一、柏原譲、HAKASE-SUN等原成员，也汇集UA、原田郁子、ハナレグミ、やくしまるえつこ、Cornelius等不同世代的乐手。这个项目的重要线索是重新完成并演绎佐藤伸治留下的《A Piece of Future》，更像一场不断换阵容的传承现场，而不是普通的新乐队。",
+    "fzmz": "FZMZ是2023年出现的五人覆面乐队，五位与游戏、VR等数字文化关系密切的音乐人以海洋生物化身组成阵容：MAQUMA负责主唱，GAVI担任吉他，HONNWAKA 88担任贝斯，JACK负责说唱，KAMATA担任鼓手。虚拟身份不是装饰，而是这个项目把重型乐队、说唱和数字世界放进同一套视觉叙事的方法。",
+    "violent-magic-orchestra": "Violent Magic Orchestra（VMO）是来自大阪的极端视听团体，把黑金属、硬核、工业电子、trance和gabber节拍压进高强度现场。失真、尖啸、频闪、烟雾与巨幅影像共同构成演出本体；如果传统金属和俱乐部音乐之间存在一道裂缝，VMO几乎就住在那道裂缝里。《DEATH RAVE》是理解其声音与视觉野心的入口。",
+    "魚丁糸": "魚丁糸是蘇打綠六位成员在2020年启用的分身名称，“魚丁糸”由繁体字“蘇打綠”拆解而来，也象征乐队暂时离开原名、重新开始的一段时期。这个阶段一面用《池堂怪談》尝试更顽皮、实验的声音，一面重新录制过去的专辑，因此既像新项目，也像对蘇打綠历史的一次重新整理。",
+    "kimonos": "KIMONOS由ZAZEN BOYS的向井秀徳与LEO今井在2010年组成，同年发行唯一的同名专辑。复古合成器、后朋克吉他riff、沉重而极简的节拍，加上两人交错的日英双语歌声，让它听起来既冷静又紧绷；Deerhoof的Greg Saunier和ZAZEN BOYS的吉田一郎也参与了专辑录音。",
+    "the-mortal": "THE MORTAL是BUCK-TICK主唱櫻井敦司在2015年发起的五人项目，成员还包括Jake Cloudchair、村田有希生、三代堅和downy鼓手秋山タカヒコ。櫻井负责歌词，其他成员共同作曲，把他长期书写的生死、恶意、孤独与内心黑暗推向更哥特、更戏剧化的声音；《Spirit》和《I AM MORTAL》记录了这个短暂但完整的阶段。",
+    "hide-with-spread-beaver": "hide with Spread Beaver是hide与六位现场伙伴在1998年正式启用的七人乐队形态，以《ROCKET DIVE》《ピンク スパイダー》《ever free》连续展开。hide去世后，I.N.A等成员完成尚未完成的专辑《Ja, Zoo》，并在hide缺席的情况下走完全国巡演；因此它既是hide个人创作的延伸，也是伙伴们替他完成最后一段音乐旅程的名字。",
+    "petit-brabancon": "Petit Brabancon是2021年公开的日本重型超级乐队：DIR EN GREY的京担任主唱，L’Arc-en-Ciel的yukihiro担任鼓手，MUCC的ミヤ与antz负责吉他，THE NOVEMBERS的高松浩史担任贝斯。五人的共同点不是复刻各自主团，而是把高速、噪响、氛围段落与极端金属压进同一套锋利而黑暗的声音；《Fetish》是完整认识这支乐队的入口。",
+    "vooid": "VOOID是洪申豪在2016年于台北组成的四人乐队，阵容由主唱兼吉他洪申豪、吉他连震堂、贝斯吴峻宇和鼓手卢之轩构成。首张同名专辑把爽朗的独立摇滚、低保真质感和更深的迷幻结构放在一起；2025年的《Vooid 2025》则让这个从透明杂志人脉延伸出来的项目重新进入完整专辑状态。",
+    "49-morphines": "49 Morphines是2001年成立的韩国硬核朋克乐队，最初由中学、高中时期的同学李一雨与成始荣发起，再经招募组成阵容。EP《The Most Important Value》和专辑《Partial Eclipse》记录了他们的主要阶段；吉他手李一雨后来参与13Steps、Combative Post与Jambinai，使这支乐队成为理解韩国硬核与实验音乐人脉的一条早期支线。",
+    "パーランマウム": "パーランマウム并不是按通常方式长期活动的乐队，而是2005年电影《琳达！琳达！琳达！》中的四人女子乐队，由裴斗娜、前田亚季、香椎由宇与Base Ball Bear的关根史织饰演并实际演奏。她们在片中翻唱THE BLUE HEARTS的《リンダ リンダ》《僕の右手》《終わらない歌》，电影之外也以《we are PARANMAUM》留下正式唱片，因此是一支从虚构故事走进真实音乐目录的乐队。",
     "contraband": "Contraband是一支活跃于1990年代初的摇滚超级乐队，成员来自多支1980年代硬摇滚乐队。",
     "whom-gods-destroy": "Whom Gods Destroy是一支2023年成立的美国前卫金属乐队。",
     "scar-the-martyr": "Scar the Martyr是一支2013年成立的美国工业金属与另类金属乐队。",
@@ -9,5 +21,59 @@
     "lusk": "Lusk是一支活跃于1995至1998年的美国迷幻摇滚乐队。",
     "to-live-and-shave-in-l-a": "To Live and Shave in L.A.是一支1991年成立的美国实验音乐团体。",
     "康士坦的變化球": "康士坦的变化球是2013年成立的台湾乐团，团名取自“唯一不变的是变化本身”。"
+  },
+  "introSources": {
+    "adoy": [
+      { "label": "ADOY资料页", "url": "https://en.wikipedia.org/wiki/Adoy" },
+      { "label": "KBS WORLD艺人介绍", "url": "https://world.kbs.co.kr/service/contents_view.htm?board_seq=409589&lang=j" }
+    ],
+    "fishmans": [
+      { "label": "Fishmans+资料页", "url": "https://fishmans.fandom.com/wiki/Fishmans%2B" }
+    ],
+    "fzmz": [
+      { "label": "FZMZ官方网站", "url": "https://fzmz.jp/about/" }
+    ],
+    "violent-magic-orchestra": [
+      { "label": "MUTEK Tokyo艺人介绍", "url": "https://tokyo.mutek.org/en/artists/vmo-a-k-a-violent-magic-orchestra" }
+    ],
+    "魚丁糸": [
+      { "label": "魚丁糸官方网站", "url": "https://www.sodagreen.com/about" },
+      { "label": "Apple Music艺人介绍", "url": "https://music.apple.com/us/artist/%E9%AD%9A%E4%B8%81%E7%B3%B8/1526108775?l=zh-Hant-TW" }
+    ],
+    "kimonos": [
+      { "label": "Universal Music官方简介", "url": "https://www.universal-music.co.jp/kimonos/biography/" }
+    ],
+    "the-mortal": [
+      { "label": "THE MORTAL官方简介", "url": "https://the-mortal.com/profile/" },
+      { "label": "官方作品目录", "url": "https://the-mortal.com/discography/" }
+    ],
+    "hide-with-spread-beaver": [
+      { "label": "音乐ナタリー艺人资料", "url": "https://natalie.mu/music/artist/100246" },
+      { "label": "《Ja, Zoo》资料", "url": "https://en.wikipedia.org/wiki/Ja%2C_Zoo" }
+    ],
+    "petit-brabancon": [
+      { "label": "Petit Brabancon资料页", "url": "https://en.wikipedia.org/wiki/Petit_Brabancon_(band)" },
+      { "label": "官方艺人介绍", "url": "https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad" }
+    ],
+    "vooid": [
+      { "label": "VOOID唱片资料", "url": "https://wwr.com.tw/artists/vooid-twband" },
+      { "label": "StreetVoice成员资料", "url": "https://streetvoice.com/VOOID/about/" }
+    ],
+    "49-morphines": [
+      { "label": "Bugs艺人资料", "url": "https://music.bugs.co.kr/artist/80024237?wl_ref=S_ar_01_01" },
+      { "label": "Apple Music作品目录", "url": "https://music.apple.com/kr/artist/49-morphines/286928257?l=en-GB" }
+    ],
+    "パーランマウム": [
+      { "label": "《琳达！琳达！琳达！》资料", "url": "https://en.wikipedia.org/wiki/Linda_Linda_Linda" },
+      { "label": "MusicBrainz发行资料", "url": "https://musicbrainz.org/artist/8d98bc7d-f4aa-492d-8647-6de748a7236a/releases?va=1" }
+    ]
+  },
+  "links": {
+    "adoy": { "official": "https://adoyofficial.com/" },
+    "fzmz": { "official": "https://fzmz.jp/" },
+    "魚丁糸": { "official": "https://www.sodagreen.com/" },
+    "kimonos": { "official": "https://www.universal-music.co.jp/kimonos/" },
+    "the-mortal": { "official": "https://the-mortal.com/" },
+    "petit-brabancon": { "official": "https://www.petitbrabancon.jp/" }
   }
 }

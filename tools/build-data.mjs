@@ -51,7 +51,11 @@ const translationsZh = await readJSON('data/source/translations-zh.json', {
   areas: {},
   genres: {},
 });
-const zhOverrides = await readJSON('data/source/zh-overrides.json', { intros: {} });
+const zhOverrides = await readJSON('data/source/zh-overrides.json', {
+  intros: {},
+  introSources: {},
+  links: {},
+});
 const { edges: influenceEdges } = await readJSON('data/source/influences.json', { edges: [] });
 const { edges: guestEdges } = await readJSON('data/source/guest-edges.json', { edges: [] });
 const popularityData = await readJSON('data/source/popularity.json', { artists: {} });
@@ -281,6 +285,11 @@ for (const band of merged.values()) {
     band.intro = zhOverrides.intros[band.id];
     band.introLang = 'zh';
     band.introTemplate = false;
+    band.introSources = zhOverrides.introSources?.[band.id] ?? [];
+    band.links = {
+      ...(band.links ?? {}),
+      ...(zhOverrides.links?.[band.id] ?? {}),
+    };
   }
   const popularity = band.mbid ? popularityByMbid.get(band.mbid) : null;
   band.listens = popularity?.listens ?? 0;
@@ -515,27 +524,137 @@ if (problems.length) {
   process.exit(1);
 }
 
-// 对仍是模板的卡片补充可核验的硬事实。它们仍保留 templateIntro 标记，
-// 不会混进“人工内容完整”的随机首屏池，也不虚构评价、地位或故事。
+const workTitle = (title) => `《${title}》`;
+const yearLabel = (year) => (year ? `${year}年的` : '');
+const activeLabel = (years) => {
+  if (!years) return '';
+  if (/^\d{4}–$/.test(years)) return `${years.slice(0, 4)}年至今活跃`;
+  if (/^\d{4}–\d{4}$/.test(years)) {
+    const [from, to] = years.split('–');
+    if (from === to) return `${from}年活跃`;
+    return `${from}至${to}年间活跃`;
+  }
+  return `活跃时期为${years}`;
+};
+const memberNames = (label) =>
+  (label ?? '')
+    .split('・')
+    .map((name) => name.trim())
+    .filter((name) => name && name !== '副项目');
+const NON_GENRE_TAGS = new Set([
+  '合作',
+  '阿凡达',
+  '翻唱',
+  'Covers',
+  'Star Trek',
+  'Go Down Records',
+  'Rami Jaffee',
+  'Columbus [Oh]',
+]);
+
+// 对没有百科正文的卡片，使用作品与关系数据生成两三句“推歌型事实简介”。
+// 它们仍保留 templateIntro 标记，不会冒充人工文案或进入精品随机首屏。
 for (const [id, band] of merged) {
   if (!band.introTemplate) continue;
-  const place = band.area && band.area !== '地区未录入' ? `来自${band.area}` : '';
-  const years = band.years ? `，活跃时期为${band.years}` : '';
-  const genres = band.genres?.length ? `，现有资料记录的主要风格包括${band.genres.slice(0, 3).join('、')}` : '';
+
+  const place =
+    band.area && band.area !== '地区未录入' && band.area !== '[全球]'
+      ? `来自${band.area}`
+      : '';
+  const active = activeLabel(band.years);
   const subject = band.artistType === 'Person' ? '音乐人' : '音乐团体';
-  const opening = `${band.name}是${place ? `${place}的` : ''}${subject}${years}${genres}。`;
-  const works = [
-    ...(band.tracks ?? []).slice(0, 3).map((title) => `《${title}》`),
-    ...(band.albums ?? []).slice(0, 2).map((album) => `《${album.title}》`),
+  const identity = [place, active].filter(Boolean).join('、');
+  const genres = [...new Set(band.genres ?? [])]
+    .filter((genre) => !NON_GENRE_TAGS.has(genre))
+    .slice(0, 2);
+  const sentences = [
+    `${band.name}是${identity ? `${identity}的` : ''}${subject}` +
+      `${genres.length ? `，现有资料将其归入${genres.join('、')}` : ''}。`,
   ];
-  const memberLinks = adjacency.get(id)
-    .filter((edge) => edge.type === 'member')
-    .slice(0, 3)
-    .map((edge) => edge.toName);
-  const facts = [];
-  if (works.length) facts.push(`目前资料收录了${[...new Set(works)].join('、')}等作品`);
-  if (memberLinks.length) facts.push(`MusicBrainz 还记录了它与${[...new Set(memberLinks)].join('、')}之间的成员往来`);
-  band.intro = `${opening}${facts.length ? `${facts.join('；')}。` : ''}`;
+
+  const tracks = [...new Set(band.tracks ?? [])].slice(0, 3);
+  const albums = [...(band.albums ?? [])]
+    .filter((album) => album?.title)
+    .sort((a, b) => (a.year ?? 9999) - (b.year ?? 9999) || a.title.localeCompare(b.title));
+  let entryWork = null;
+  if (tracks.length) {
+    entryWork = workTitle(tracks[0]);
+    sentences.push(`想从歌曲进入，可以先听${tracks.map(workTitle).join('、')}。`);
+  } else if (albums.length === 1) {
+    entryWork = workTitle(albums[0].title);
+    sentences.push(
+      `现有唱片目录收录了${yearLabel(albums[0].year)}${entryWork}。`
+    );
+  } else if (albums.length > 1) {
+    const first = albums[0];
+    const last = albums.at(-1);
+    entryWork = workTitle(first.title);
+    sentences.push(first.year && first.year === last.year
+      ? `${first.year}年的唱片目录包括${entryWork}和${workTitle(last.title)}。`
+      : `现有唱片目录可从${yearLabel(first.year)}${entryWork}` +
+        `一路听到${yearLabel(last.year)}${workTitle(last.title)}。`);
+  }
+
+  const relationEdges = [...adjacency.get(id)]
+    .filter(
+      (edge) =>
+        edge.type === 'member' ||
+        edge.type === 'guest' ||
+        (edge.type === 'scene' && edge.label === '完整专辑推荐')
+    )
+    .sort((a, b) => {
+      const aBand = merged.get(a.to);
+      const bBand = merged.get(b.to);
+      const aScore =
+        (a.type === 'member' ? 2 : 0) +
+        a.weight +
+        Math.log10((aBand?.listens ?? 0) + 1) / 8;
+      const bScore =
+        (b.type === 'member' ? 2 : 0) +
+        b.weight +
+        Math.log10((bBand?.listens ?? 0) + 1) / 8;
+      return bScore - aScore || a.to.localeCompare(b.to);
+    });
+  const selectedRelations = [];
+  const usedTargets = new Set();
+  for (const edge of relationEdges) {
+    if (usedTargets.has(edge.to)) continue;
+    selectedRelations.push(edge);
+    usedTargets.add(edge.to);
+    if (selectedRelations.length === 1) break;
+  }
+
+  const relationFacts = selectedRelations.map((edge) => {
+    const names = memberNames(edge.label);
+    if (edge.label === '副项目') {
+      return `MusicBrainz将它记录为${edge.toName}的副项目`;
+    }
+    if (edge.type === 'scene') {
+      return `本站按原关系链、流派与热度把它和${edge.toName}放在同一条推荐路径上（不表示合作或影响）`;
+    }
+    if (edge.type === 'guest') {
+      const guest = names
+        .map((name) => name.replace(/^客串：/, ''))
+        .filter((name) => name && name !== '合作' && name !== '伴奏' && name !== '助演');
+      return guest.length
+        ? `${guest.join('、')}把它与${edge.toName}的录音联系起来`
+        : `录音资料记录了它与${edge.toName}的合作联系`;
+    }
+    if (names.length) {
+      return `${names.join('、')}的履历把它与${edge.toName}连接起来`;
+    }
+    return `成员资料把它与${edge.toName}连接起来`;
+  });
+  if (relationFacts.length) {
+    sentences.push(`理解这个项目的另一条线索是成员关系：${relationFacts.join('；')}。`);
+  }
+
+  if (entryWork && selectedRelations.length) {
+    sentences.push(
+      `从${selectedRelations[0].toName}沿关系网点进来时，${entryWork}可以作为试听入口。`
+    );
+  }
+  band.intro = sentences.join('');
 }
 
 for (const [id, band] of merged) {

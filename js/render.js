@@ -1,4 +1,4 @@
-import { REL } from './data.js';
+import { REL } from './data.js?v=287a76b1d6';
 
 const SVG_NS = 'http://www.w3.org/2000/svg';
 /** 连线层用一张固定大小的画布，原点摆在正中，省掉 viewBox 的负坐标换算。 */
@@ -32,7 +32,21 @@ export function buildFocusCard(band) {
 
   const body = el('div', 'card__body');
 
-  if (band.intro) body.append(el('p', 'card__intro', band.intro));
+  if (band.intro) {
+    body.append(el('p', 'card__intro', band.intro));
+    if (band.introSources?.length) {
+      const sources = el('p', 'lore__sources', '简介资料：');
+      band.introSources.forEach((source, index) => {
+        if (index) sources.append(document.createTextNode(' · '));
+        const link = el('a', 'lore__source', source.label ?? '公开资料');
+        link.href = source.url;
+        link.target = '_blank';
+        link.rel = 'noopener noreferrer';
+        sources.append(link);
+      });
+      body.append(sources);
+    }
+  }
 
   if (band.albums?.length) {
     const sec = section('代表作');

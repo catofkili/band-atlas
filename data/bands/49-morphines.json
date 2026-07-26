@@ -15,22 +15,32 @@
       "year": 2008
     }
   ],
-  "intro": "49 Morphines是来自韩国的音乐团体，活跃时期为2001–，现有资料记录的主要风格包括硬核朋克。目前资料收录了《Partial Eclipse》等作品；MusicBrainz 还记录了它与13Steps、잠비나이、Combative Post之间的成员往来。",
+  "intro": "49 Morphines是2001年成立的韩国硬核朋克乐队，最初由中学、高中时期的同学李一雨与成始荣发起，再经招募组成阵容。EP《The Most Important Value》和专辑《Partial Eclipse》记录了他们的主要阶段；吉他手李一雨后来参与13Steps、Combative Post与Jambinai，使这支乐队成为理解韩国硬核与实验音乐人脉的一条早期支线。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Bugs艺人资料",
+      "url": "https://music.bugs.co.kr/artist/80024237?wl_ref=S_ar_01_01"
+    },
+    {
+      "label": "Apple Music作品目录",
+      "url": "https://music.apple.com/kr/artist/49-morphines/286928257?l=en-GB"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/855c04c5-2e03-4c3e-ab18-bfb4ee34ca84"
+  },
   "listens": 1351,
   "listeners": 62,
   "quality": {
-    "score": 16,
-    "templateIntro": true,
+    "score": 58,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/855c04c5-2e03-4c3e-ab18-bfb4ee34ca84"
-  },
   "edges": [
     {
       "to": "13steps",

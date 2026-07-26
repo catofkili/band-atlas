@@ -14,22 +14,29 @@
     "日本重金属"
   ],
   "albums": [],
-  "intro": "FZMZ是来自日本的音乐团体，活跃时期为2023–，现有资料记录的主要风格包括阿凡达、合作、另類金屬。MusicBrainz 还记录了它与凛として時雨、VIVA LA J-ROCK ANTHEMS、ZiNG之间的成员往来。",
+  "intro": "FZMZ是2023年出现的五人覆面乐队，五位与游戏、VR等数字文化关系密切的音乐人以海洋生物化身组成阵容：MAQUMA负责主唱，GAVI担任吉他，HONNWAKA 88担任贝斯，JACK负责说唱，KAMATA担任鼓手。虚拟身份不是装饰，而是这个项目把重型乐队、说唱和数字世界放进同一套视觉叙事的方法。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "FZMZ官方网站",
+      "url": "https://fzmz.jp/about/"
+    }
+  ],
+  "links": {
+    "official": "https://fzmz.jp/",
+    "musicbrainz": "https://musicbrainz.org/artist/e10a7d73-546b-4961-8390-2a9171beaa7a"
+  },
   "listens": 6456,
   "listeners": 621,
   "quality": {
-    "score": 20,
-    "templateIntro": true,
+    "score": 62,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/e10a7d73-546b-4961-8390-2a9171beaa7a"
-  },
   "edges": [
     {
       "to": "ling-tosite-sigure",

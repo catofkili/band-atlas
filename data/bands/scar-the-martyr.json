@@ -27,6 +27,10 @@
       "title": "Soul Disintegration"
     }
   ],
+  "introSources": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3a8ee67d-c722-423e-8c85-4e54dd1ad0f1"
+  },
   "listens": 4894,
   "listeners": 467,
   "quality": {
@@ -38,9 +42,6 @@
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/3a8ee67d-c722-423e-8c85-4e54dd1ad0f1"
-  },
   "edges": [
     {
       "to": "skrew",

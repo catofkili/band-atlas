@@ -32,22 +32,33 @@
       "year": 2023
     }
   ],
-  "intro": "魚丁糸是来自台湾的音乐团体，活跃时期为2020–，现有资料记录的主要风格包括独立流行乐、华语流行乐。目前资料收录了《池堂怪談》、《小宇宙 (魚版)》等作品；MusicBrainz 还记录了它与蘇打綠之间的成员往来。",
+  "intro": "魚丁糸是蘇打綠六位成员在2020年启用的分身名称，“魚丁糸”由繁体字“蘇打綠”拆解而来，也象征乐队暂时离开原名、重新开始的一段时期。这个阶段一面用《池堂怪談》尝试更顽皮、实验的声音，一面重新录制过去的专辑，因此既像新项目，也像对蘇打綠历史的一次重新整理。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "魚丁糸官方网站",
+      "url": "https://www.sodagreen.com/about"
+    },
+    {
+      "label": "Apple Music艺人介绍",
+      "url": "https://music.apple.com/us/artist/%E9%AD%9A%E4%B8%81%E7%B3%B8/1526108775?l=zh-Hant-TW"
+    }
+  ],
+  "links": {
+    "official": "https://www.sodagreen.com/",
+    "musicbrainz": "https://musicbrainz.org/artist/c70c1c59-66a7-430a-b10d-02a85595a9ae"
+  },
   "listens": 2707,
   "listeners": 58,
   "quality": {
-    "score": 21,
-    "templateIntro": true,
+    "score": 63,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c70c1c59-66a7-430a-b10d-02a85595a9ae"
-  },
   "edges": [
     {
       "to": "蘇打綠",

@@ -17,6 +17,10 @@
   ],
   "intro": "Contraband是一支活跃于1990年代初的摇滚超级乐队，成员来自多支1980年代硬摇滚乐队。",
   "introLang": "zh",
+  "introSources": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b7e61a98-84d5-4efc-866c-7166e3daa523"
+  },
   "listens": 349,
   "listeners": 61,
   "countryInferred": "member-neighbors",
@@ -29,9 +33,6 @@
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/b7e61a98-84d5-4efc-866c-7166e3daa523"
-  },
   "edges": [
     {
       "to": "guns-n-roses",

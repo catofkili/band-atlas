@@ -19,6 +19,10 @@
   ],
   "intro": "Whom Gods Destroy是一支2023年成立的美国前卫金属乐队。",
   "introLang": "zh",
+  "introSources": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5a936f9a-0b59-4d6e-90fc-3aaca24f5717"
+  },
   "listens": 1164,
   "listeners": 128,
   "quality": {
@@ -30,9 +34,6 @@
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5a936f9a-0b59-4d6e-90fc-3aaca24f5717"
-  },
   "edges": [
     {
       "to": "guns-n-roses",

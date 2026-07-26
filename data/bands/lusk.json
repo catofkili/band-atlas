@@ -17,6 +17,10 @@
   ],
   "intro": "Lusk是一支活跃于1995至1998年的美国迷幻摇滚乐队。",
   "introLang": "zh",
+  "introSources": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/05fdd3fb-6fe9-4b81-926e-f6d52dd1e737"
+  },
   "listens": 406,
   "listeners": 33,
   "countryInferred": "member-neighbors",
@@ -29,9 +33,6 @@
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/05fdd3fb-6fe9-4b81-926e-f6d52dd1e737"
-  },
   "edges": [
     {
       "to": "replicants",

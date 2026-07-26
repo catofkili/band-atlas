@@ -15,6 +15,10 @@
   ],
   "intro": "The Duo Band是香港歌手陈奕迅的DUO巡演乐队组合。",
   "introLang": "zh",
+  "introSources": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d372b5c2-da26-490e-afab-fe1a019b60e5"
+  },
   "listens": 840,
   "listeners": 88,
   "quality": {
@@ -26,9 +30,6 @@
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d372b5c2-da26-490e-afab-fe1a019b60e5"
-  },
   "edges": [
     {
       "to": "at17",

@@ -13,22 +13,32 @@
       "year": 1998
     }
   ],
-  "intro": "hide with Spread Beaver是来自日本的音乐团体。目前资料收录了《Ja, Zoo》等作品；MusicBrainz 还记录了它与THE PINK SPIDERS、Zilch、X JAPAN之间的成员往来。",
+  "intro": "hide with Spread Beaver是hide与六位现场伙伴在1998年正式启用的七人乐队形态，以《ROCKET DIVE》《ピンク スパイダー》《ever free》连续展开。hide去世后，I.N.A等成员完成尚未完成的专辑《Ja, Zoo》，并在hide缺席的情况下走完全国巡演；因此它既是hide个人创作的延伸，也是伙伴们替他完成最后一段音乐旅程的名字。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "音乐ナタリー艺人资料",
+      "url": "https://natalie.mu/music/artist/100246"
+    },
+    {
+      "label": "《Ja, Zoo》资料",
+      "url": "https://en.wikipedia.org/wiki/Ja%2C_Zoo"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e6da0f1b-090e-42c8-9666-69ce8af84548"
+  },
   "listens": 2533,
   "listeners": 175,
   "quality": {
-    "score": 12,
-    "templateIntro": true,
+    "score": 54,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/e6da0f1b-090e-42c8-9666-69ce8af84548"
-  },
   "edges": [
     {
       "to": "the-pink-spiders",

@@ -5,10 +5,11 @@ import path from 'node:path';
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const read = (file) => readFile(path.join(root, file), 'utf8');
-const [indexHtml, mainJs, mapJs, standalone, indexText, graphText, reviewText] = await Promise.all([
+const [indexHtml, mainJs, mapJs, renderJs, standalone, indexText, graphText, reviewText] = await Promise.all([
   read('index.html'),
   read('js/main.js'),
   read('js/map.js'),
+  read('js/render.js'),
   read('dist/band-atlas.html'),
   read('data/index.json'),
   read('data/graph.json'),
@@ -31,11 +32,25 @@ const versions = [
 if (versions.some((version) => !version) || new Set(versions).size !== 1) {
   throw new Error(`静态资源版本不一致：${versions.join(', ')}`);
 }
+const dependencyVersions = [
+  ...[...mainJs.matchAll(/from ['"]\.\/(?:data|layout|map|render)\.js\?v=([^'"]+)/g)]
+    .map((match) => match[1]),
+  renderJs.match(/from ['"]\.\/data\.js\?v=([^'"]+)/)?.[1],
+];
+if (
+  dependencyVersions.length !== 5 ||
+  dependencyVersions.some((version) => version !== versions[0])
+) {
+  throw new Error(`内部模块缓存版本不一致：${dependencyVersions.join(', ')}`);
+}
 if (!standalone.includes('BAND_ATLAS_DATA = {"index":') || !standalone.includes('"graph":{"generatedAt"')) {
   throw new Error('单文件版没有嵌入索引与全网地图数据');
 }
 if (!standalone.includes('createNetworkMap') || !standalone.includes('map-band-select')) {
   throw new Error('单文件版缺少地图代码或地图入口');
+}
+if (!standalone.includes('简介资料：') || !standalone.includes('introSources')) {
+  throw new Error('单文件版缺少人工简介的来源链接');
 }
 if (!standalone.includes('map-popular-toggle') || !standalone.includes('POPULAR_LISTEN_FLOOR')) {
   throw new Error('单文件版缺少地图热度筛选');
@@ -183,6 +198,44 @@ if (
   )
 ) {
   throw new Error('あたらよ手写卡片不完整或混入自动推荐');
+}
+const sourcedEditorialIds = [
+  'adoy',
+  'fishmans',
+  'fzmz',
+  'violent-magic-orchestra',
+  '魚丁糸',
+  'kimonos',
+  'the-mortal',
+  'hide-with-spread-beaver',
+  'petit-brabancon',
+  'vooid',
+  '49-morphines',
+  'パーランマウム',
+];
+for (const id of sourcedEditorialIds) {
+  const band = bands.find((item) => item.id === id);
+  if (
+    !band ||
+    band.quality?.templateIntro ||
+    band.introLang !== 'zh' ||
+    (band.intro?.length ?? 0) < 90 ||
+    !(band.introSources?.length)
+  ) {
+    throw new Error(`东亚重点艺人的带来源简介回退：${id}`);
+  }
+}
+const structuredTemplates = bands.filter((band) => band.quality?.templateIntro);
+if (
+  structuredTemplates.some(
+    (band) =>
+      (band.intro?.length ?? 0) < 45 ||
+      !band.intro.includes('关系') ||
+      band.intro.includes('目前资料收录了') ||
+      band.intro.includes('MusicBrainz 还记录了它与')
+  )
+) {
+  throw new Error('事实型模板简介重新退化为籍贯或旧式数据库说明');
 }
 const usWithoutAlbums = bands.filter(
   (band) => band.countryCode === 'US' && !(band.albums?.length)

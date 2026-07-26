@@ -13,23 +13,30 @@
       "year": 2010
     }
   ],
-  "intro": "KIMONOS是来自日本的音乐团体，活跃时期为2010–。目前资料收录了《Kimonos》等作品；MusicBrainz 还记录了它与ZAZEN BOYS、NUMBER GIRL、METAFIVE之间的成员往来。",
+  "intro": "KIMONOS由ZAZEN BOYS的向井秀徳与LEO今井在2010年组成，同年发行唯一的同名专辑。复古合成器、后朋克吉他riff、沉重而极简的节拍，加上两人交错的日英双语歌声，让它听起来既冷静又紧绷；Deerhoof的Greg Saunier和ZAZEN BOYS的吉田一郎也参与了专辑录音。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Universal Music官方简介",
+      "url": "https://www.universal-music.co.jp/kimonos/biography/"
+    }
+  ],
+  "links": {
+    "official": "https://www.universal-music.co.jp/kimonos/",
+    "musicbrainz": "https://musicbrainz.org/artist/861ed82a-7a6a-4d72-89b8-764b4f53e17c"
+  },
   "listens": 1693,
   "listeners": 88,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/861ed82a-7a6a-4d72-89b8-764b4f53e17c"
-  },
   "edges": [
     {
       "to": "zazen-boys",

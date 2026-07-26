@@ -20,22 +20,33 @@
       "year": 2024
     }
   ],
-  "intro": "Petit Brabancon是来自日本的音乐团体，活跃时期为2021–，现有资料记录的主要风格包括另类金属、视觉系。目前资料收录了《Fetish》、《Seven Garbage Born of Hatred》等作品；MusicBrainz 还记录了它与acid android、DIE IN CRIES、L’Arc〜en〜Ciel之间的成员往来。",
+  "intro": "Petit Brabancon是2021年公开的日本重型超级乐队：DIR EN GREY的京担任主唱，L’Arc-en-Ciel的yukihiro担任鼓手，MUCC的ミヤ与antz负责吉他，THE NOVEMBERS的高松浩史担任贝斯。五人的共同点不是复刻各自主团，而是把高速、噪响、氛围段落与极端金属压进同一套锋利而黑暗的声音；《Fetish》是完整认识这支乐队的入口。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Petit Brabancon资料页",
+      "url": "https://en.wikipedia.org/wiki/Petit_Brabancon_(band)"
+    },
+    {
+      "label": "官方艺人介绍",
+      "url": "https://open.spotify.com/artist/0hS6BAggi7bO0BrnJLg8Ad"
+    }
+  ],
+  "links": {
+    "official": "https://www.petitbrabancon.jp/",
+    "musicbrainz": "https://musicbrainz.org/artist/b278ff00-d354-468e-bec5-28aa24b7b7c4"
+  },
   "listens": 2056,
   "listeners": 97,
   "quality": {
-    "score": 24,
-    "templateIntro": true,
+    "score": 66,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/b278ff00-d354-468e-bec5-28aa24b7b7c4"
-  },
   "edges": [
     {
       "to": "acid-android",

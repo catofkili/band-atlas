@@ -19,22 +19,33 @@
       "year": 2015
     }
   ],
-  "intro": "THE MORTAL是来自日本的音乐团体，活跃时期为2015–，现有资料记录的主要风格包括视觉系。目前资料收录了《I AM MORTAL》、《Spirit》等作品；MusicBrainz 还记录了它与BUCK‐TICK、downy、Schwein之间的成员往来。",
+  "intro": "THE MORTAL是BUCK-TICK主唱櫻井敦司在2015年发起的五人项目，成员还包括Jake Cloudchair、村田有希生、三代堅和downy鼓手秋山タカヒコ。櫻井负责歌词，其他成员共同作曲，把他长期书写的生死、恶意、孤独与内心黑暗推向更哥特、更戏剧化的声音；《Spirit》和《I AM MORTAL》记录了这个短暂但完整的阶段。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "THE MORTAL官方简介",
+      "url": "https://the-mortal.com/profile/"
+    },
+    {
+      "label": "官方作品目录",
+      "url": "https://the-mortal.com/discography/"
+    }
+  ],
+  "links": {
+    "official": "https://the-mortal.com/",
+    "musicbrainz": "https://musicbrainz.org/artist/7454f7a3-cbc2-46af-a542-20cf0b7e0238"
+  },
   "listens": 1477,
   "listeners": 29,
   "quality": {
-    "score": 16,
-    "templateIntro": true,
+    "score": 58,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/7454f7a3-cbc2-46af-a542-20cf0b7e0238"
-  },
   "edges": [
     {
       "to": "buck-tick",

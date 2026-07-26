@@ -37,6 +37,10 @@
   ],
   "intro": "To Live and Shave in L.A.是一支1991年成立的美国实验音乐团体。",
   "introLang": "zh",
+  "introSources": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/083941cf-8183-4cba-b49f-16681f04eb63"
+  },
   "listens": 733,
   "listeners": 55,
   "quality": {
@@ -48,9 +52,6 @@
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/083941cf-8183-4cba-b49f-16681f04eb63"
-  },
   "edges": [
     {
       "to": "pussy-galore",

@@ -24,22 +24,28 @@
       "year": 2026
     }
   ],
-  "intro": "Violent Magic Orchestra是来自[全球]的音乐团体，活跃时期为2016–，现有资料记录的主要风格包括黑金属、噪音。目前资料收录了《Catastrophic Anonymous》、《DEATH RAVE》等作品；MusicBrainz 还记录了它与Vampillia、古都の夕べ、相対性理論之间的成员往来。",
+  "intro": "Violent Magic Orchestra（VMO）是来自大阪的极端视听团体，把黑金属、硬核、工业电子、trance和gabber节拍压进高强度现场。失真、尖啸、频闪、烟雾与巨幅影像共同构成演出本体；如果传统金属和俱乐部音乐之间存在一道裂缝，VMO几乎就住在那道裂缝里。《DEATH RAVE》是理解其声音与视觉野心的入口。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MUTEK Tokyo艺人介绍",
+      "url": "https://tokyo.mutek.org/en/artists/vmo-a-k-a-violent-magic-orchestra"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9ef8ceb8-0e1f-47fa-bff4-7f80bf9bfc1a"
+  },
   "listens": 5300,
   "listeners": 228,
   "quality": {
-    "score": 23,
-    "templateIntro": true,
+    "score": 65,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "other",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/9ef8ceb8-0e1f-47fa-bff4-7f80bf9bfc1a"
-  },
   "edges": [
     {
       "to": "vampillia",

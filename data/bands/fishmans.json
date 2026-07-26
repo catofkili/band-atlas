@@ -8,22 +8,28 @@
   "years": "2011–",
   "genres": [],
   "albums": [],
-  "intro": "Fishmans+是来自日本的音乐团体，活跃时期为2011–。MusicBrainz 还记录了它与フィッシュマンズ、相対性理論、MariMari Rythmkiller Machinegun之间的成员往来。",
+  "intro": "Fishmans+是2011年前后围绕Fishmans作品成立的纪念性音乐人集合体，既有茂木欣一、柏原譲、HAKASE-SUN等原成员，也汇集UA、原田郁子、ハナレグミ、やくしまるえつこ、Cornelius等不同世代的乐手。这个项目的重要线索是重新完成并演绎佐藤伸治留下的《A Piece of Future》，更像一场不断换阵容的传承现场，而不是普通的新乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Fishmans+资料页",
+      "url": "https://fishmans.fandom.com/wiki/Fishmans%2B"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/dc436953-1dc3-437d-9656-da401a0e9134"
+  },
   "listens": 12850,
   "listeners": 1275,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/dc436953-1dc3-437d-9656-da401a0e9134"
-  },
   "edges": [
     {
       "to": "フィッシュマンズ",

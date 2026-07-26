@@ -17,22 +17,33 @@
       "year": 2023
     }
   ],
-  "intro": "ADOY是来自首尔的音乐团体，活跃时期为2016–。目前资料收录了《Vivid》、《PLEASURES》等作品；MusicBrainz 还记录了它与Eastern Sidekick之间的成员往来。",
+  "intro": "ADOY是2017年在首尔正式出道的四人合成器独立流行乐队，由Juhwan Oh、Zee、Geunchang Park和Dayoung Jeong组成。团名来自Juhwan的猫Yoda，将名字倒过来便成为ADOY；他们把城市流行、八十年代浪漫流行、独立摇滚与梦幻流行揉进以合成器为核心的声音，首张EP《CATNIP》是最直接的入口。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "ADOY资料页",
+      "url": "https://en.wikipedia.org/wiki/Adoy"
+    },
+    {
+      "label": "KBS WORLD艺人介绍",
+      "url": "https://world.kbs.co.kr/service/contents_view.htm?board_seq=409589&lang=j"
+    }
+  ],
+  "links": {
+    "official": "https://adoyofficial.com/",
+    "musicbrainz": "https://musicbrainz.org/artist/2a0d8d44-5089-4e9a-aa41-360ac67c9385"
+  },
   "listens": 15920,
   "listeners": 695,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/2a0d8d44-5089-4e9a-aa41-360ac67c9385"
-  },
   "edges": [
     {
       "to": "eastern-sidekick",
