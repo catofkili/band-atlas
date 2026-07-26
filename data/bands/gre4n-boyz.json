@@ -1,0 +1,123 @@
+{
+  "id": "gre4n-boyz",
+  "mbid": "9c492c6c-ef67-48e7-b347-a410993b3274",
+  "name": "GRe4N BOYZ",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2002–",
+  "genres": [
+    "流行音乐"
+  ],
+  "albums": [
+    {
+      "title": "あっ、ども。はじめまして。",
+      "year": 2007,
+      "kind": "Album"
+    },
+    {
+      "title": "あっ、ども。おひさしぶりです。",
+      "year": 2008,
+      "kind": "Album"
+    },
+    {
+      "title": "塩、コショウ",
+      "year": 2009,
+      "kind": "Album"
+    },
+    {
+      "title": "歌うたいが歌うたいに来て 歌うたえと言うが 歌うたいが歌うたうだけうたい切れば 歌うたうけれども 歌うたいだけ 歌うたい切れないから 歌うたわぬ！？",
+      "year": 2012,
+      "kind": "Album"
+    },
+    {
+      "title": "いいね！（´・ω・｀）☆",
+      "year": 2013,
+      "kind": "Album"
+    },
+    {
+      "title": "今から親指が消える手品しまーす。",
+      "year": 2014,
+      "kind": "Album"
+    }
+  ],
+  "intro": "GRe4N BOYZ，原名GReeeeN，成立于日本福岛县郡山市，属于宝丽多唱片旗下的4人组创作团体。2024年3月19日，宣布离开原事务所，团名称更改为“GRe4N BOYZ”。",
+  "introLang": "zh",
+  "tracks": [
+    "奇蹟",
+    "愛歌",
+    "伊卡洛斯",
+    "刹那 (單曲)",
+    "強忍淚水，總有一天"
+  ],
+  "trackSources": [
+    {
+      "title": "奇蹟"
+    },
+    {
+      "title": "愛歌"
+    },
+    {
+      "title": "伊卡洛斯"
+    },
+    {
+      "title": "刹那 (單曲)"
+    },
+    {
+      "title": "強忍淚水，總有一天"
+    }
+  ],
+  "listens": 22767,
+  "listeners": 815,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9c492c6c-ef67-48e7-b347-a410993b3274"
+  },
+  "edges": [
+    {
+      "to": "aiko",
+      "toName": "aiko",
+      "toArea": "日本",
+      "toYears": "1975–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "da-ice",
+      "toName": "Da‐iCE",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "kinki-kids",
+      "toName": "KinKi Kids",
+      "toArea": "日本",
+      "toYears": "1992–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

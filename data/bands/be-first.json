@@ -53,7 +53,7 @@
   "listens": 11232,
   "listeners": 613,
   "quality": {
-    "score": 89,
+    "score": 88,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -66,22 +66,10 @@
   },
   "edges": [
     {
-      "to": "snow-man",
-      "toName": "Snow Man",
+      "to": "jo1",
+      "toName": "JO1",
       "toArea": "日本",
-      "toYears": "2012–",
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
-      "to": "マカロニえんぴつ",
-      "toName": "マカロニえんぴつ",
-      "toArea": "日本",
-      "toYears": "2012–",
+      "toYears": "2019–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -102,22 +90,10 @@
       "sources": []
     },
     {
-      "to": "number-i",
-      "toName": "Number_i",
+      "to": "嵐",
+      "toName": "嵐",
       "toArea": "日本",
-      "toYears": "2023–",
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
-      "to": "アイナ-ジ-エンド",
-      "toName": "アイナ・ジ・エンド",
-      "toArea": "日本",
-      "toYears": "1994–",
+      "toYears": "1999–2026",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

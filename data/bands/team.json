@@ -1,0 +1,80 @@
+{
+  "id": "team",
+  "mbid": "bba737dc-7ec8-482d-b79f-68d949ef2c7f",
+  "name": "&TEAM",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2022–",
+  "genres": [
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "First Howling : NOW",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "雪明かり (Yukiakari)",
+      "year": 2024,
+      "kind": "Album"
+    }
+  ],
+  "intro": "&TEAM是韩国HYBE旗下日本公司YX LABELS透过选秀节目《&AUDITION》推出的九人男子团体，由七位日本成员K、FUMA、YUMA、JO、HARUA、TAKI、MAKI，一位韩国成员EJ，以及一位台湾成员NICHOLAS组成，并由EJ担任队长以及FUMA担任副队长。",
+  "introLang": "zh",
+  "listens": 26213,
+  "listeners": 762,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bba737dc-7ec8-482d-b79f-68d949ef2c7f"
+  },
+  "edges": [
+    {
+      "to": "aiko",
+      "toName": "aiko",
+      "toArea": "日本",
+      "toYears": "1975–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "superfly",
+      "toName": "Superfly",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ano",
+      "toName": "ano",
+      "toArea": "日本",
+      "toYears": "????–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

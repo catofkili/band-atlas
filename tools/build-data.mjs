@@ -77,7 +77,10 @@ for (const seed of popularSeeds.seeds ?? []) {
 // 人工写过的照旧以人工为准。
 for (const band of generated.bands) {
   const hit = intros[band.mbid];
-  if (hit) {
+  // 当代增量自带中文事实摘要；只有中文维基稿才覆盖它。
+  // 否则日文维基首段会把已经可用的中文退回外文。
+  const hasChineseFallback = band.introLang === 'zh' && band.intro;
+  if (hit && (hit.lang === 'zh' || !hasChineseFallback)) {
     band.intro = hit.intro;
     band.introLang = hit.lang;
     band.introTemplate = false;

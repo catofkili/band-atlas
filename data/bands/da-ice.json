@@ -85,10 +85,10 @@
   },
   "edges": [
     {
-      "to": "星野源",
-      "toName": "星野源",
+      "to": "aiko",
+      "toName": "aiko",
       "toArea": "日本",
-      "toYears": "1981–",
+      "toYears": "1975–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -97,10 +97,10 @@
       "sources": []
     },
     {
-      "to": "緑黄色社会",
-      "toName": "緑黄色社会",
+      "to": "gre4n-boyz",
+      "toName": "GRe4N BOYZ",
       "toArea": "日本",
-      "toYears": "2012–",
+      "toYears": "2002–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -113,6 +113,18 @@
       "toName": "ano",
       "toArea": "日本",
       "toYears": "????–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "幾田りら",
+      "toName": "幾田りら",
+      "toArea": "日本",
+      "toYears": "2000–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

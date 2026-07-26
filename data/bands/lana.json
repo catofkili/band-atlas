@@ -1,0 +1,137 @@
+{
+  "id": "lana",
+  "mbid": "9ac6b30d-472b-4744-afe0-aa7e7e6b2729",
+  "name": "LANA",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [
+    "嘻哈",
+    "日本流行音乐",
+    "流行音乐"
+  ],
+  "albums": [
+    {
+      "title": "20",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "20 +",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "LANA是来自日本的音乐人，现有资料记录的主要风格包括嘻哈、日本流行音乐、流行音乐。目前资料收录了《Bad Bitch 美学》、《20》、《20 +》等作品。",
+  "introLang": "zh",
+  "tracks": [
+    "Bad Bitch 美学"
+  ],
+  "trackSources": [
+    {
+      "title": "Bad Bitch 美学"
+    }
+  ],
+  "listens": 3197,
+  "listeners": 251,
+  "quality": {
+    "score": 36,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9ac6b30d-472b-4744-afe0-aa7e7e6b2729"
+  },
+  "edges": [
+    {
+      "to": "bad-hop",
+      "toName": "BAD HOP",
+      "toArea": "日本",
+      "toYears": "2014–2024",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "creepy-nuts",
+      "toName": "Creepy Nuts",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ちゃんみな",
+      "toName": "ちゃんみな",
+      "toArea": "日本",
+      "toYears": "1998–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "優里",
+      "toName": "優里",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ini",
+      "toName": "INI",
+      "toArea": "日本",
+      "toYears": "2021–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "number-i",
+      "toName": "Number_i",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

@@ -67,7 +67,7 @@
   "listens": 45099,
   "listeners": 1434,
   "quality": {
-    "score": 82,
+    "score": 83,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -80,10 +80,10 @@
   },
   "edges": [
     {
-      "to": "eve",
-      "toName": "Eve",
+      "to": "aiko",
+      "toName": "aiko",
       "toArea": "日本",
-      "toYears": "1995–",
+      "toYears": "1975–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -96,6 +96,18 @@
       "toName": "星野源",
       "toArea": "日本",
       "toYears": "1981–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "niziu",
+      "toName": "NiziU",
+      "toArea": "日本",
+      "toYears": "2020–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

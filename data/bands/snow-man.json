@@ -67,7 +67,7 @@
   "listens": 14921,
   "listeners": 287,
   "quality": {
-    "score": 82,
+    "score": 83,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -79,6 +79,18 @@
     "musicbrainz": "https://musicbrainz.org/artist/1322f39c-cea6-42aa-aa98-3b6b5043b07d"
   },
   "edges": [
+    {
+      "to": "novelbright",
+      "toName": "Novelbright",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
     {
       "to": "sixtones",
       "toName": "SixTONES",
@@ -92,10 +104,22 @@
       "sources": []
     },
     {
-      "to": "優里",
-      "toName": "優里",
+      "to": "timelesz",
+      "toName": "timelesz",
       "toArea": "日本",
-      "toYears": "1994–",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "travis-japan",
+      "toName": "Travis Japan",
+      "toArea": "日本",
+      "toYears": "2012–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -116,10 +140,10 @@
       "sources": []
     },
     {
-      "to": "be-first",
-      "toName": "BE:FIRST",
+      "to": "こっちのけんと",
+      "toName": "こっちのけんと",
       "toArea": "日本",
-      "toYears": null,
+      "toYears": "1996–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

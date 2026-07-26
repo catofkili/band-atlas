@@ -1,0 +1,132 @@
+{
+  "id": "乃木坂46",
+  "mbid": "466f7b0a-a3e6-435d-8326-b4ef825a609d",
+  "name": "乃木坂46",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2011–",
+  "genres": [
+    "偶像流行",
+    "日本流行音乐",
+    "流行音乐"
+  ],
+  "albums": [
+    {
+      "title": "透明な色",
+      "year": 2015,
+      "kind": "Album"
+    },
+    {
+      "title": "それぞれの椅子",
+      "year": 2016,
+      "kind": "Album"
+    },
+    {
+      "title": "生まれてから初めて見た夢",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "今が思い出になるまで",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "My respect",
+      "year": 2026,
+      "kind": "Album"
+    }
+  ],
+  "intro": "乃木坂46是日本大型女子偶像组合，成立于2011年8月21日；其出道时定位为另一女子偶像组合AKB48的“官方对手”，有独立的营运团队，行销策略及组合风格也与AKB48系列组合不同，惟总制作人同样是秋元康。",
+  "introLang": "zh",
+  "tracks": [
+    "來吧香波",
+    "制服模特兒",
+    "女生規則",
+    "窗簾圍繞",
+    "觉察已是单相思"
+  ],
+  "trackSources": [
+    {
+      "title": "來吧香波"
+    },
+    {
+      "title": "制服模特兒"
+    },
+    {
+      "title": "女生規則"
+    },
+    {
+      "title": "窗簾圍繞"
+    },
+    {
+      "title": "觉察已是单相思"
+    }
+  ],
+  "listens": 45616,
+  "listeners": 298,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/466f7b0a-a3e6-435d-8326-b4ef825a609d"
+  },
+  "edges": [
+    {
+      "to": "超ときめき-宣伝部",
+      "toName": "超ときめき♡宣伝部",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "櫻坂46",
+      "toName": "櫻坂46",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "fruits-zipper",
+      "toName": "FRUITS ZIPPER",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "tuki",
+      "toName": "tuki.",
+      "toArea": "日本",
+      "toYears": "2008–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

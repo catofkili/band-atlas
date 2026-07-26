@@ -1,0 +1,156 @@
+{
+  "id": "超ときめき-宣伝部",
+  "mbid": "b901c170-0045-4555-8472-8ff0d59cbefe",
+  "name": "超ときめき♡宣伝部",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2015–",
+  "genres": [
+    "偶像流行",
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "ときおとめ",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "ときめきがすべて",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "ときめきルールブック",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "ときめく恋と青春",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "ときめきえがお",
+      "year": 2026,
+      "kind": "Album"
+    }
+  ],
+  "intro": "超心动♡宣传部是由五位所属星尘传播的艺人组成的女性偶像团体,于2016年正式出道,近年以《喜欢！～超ver～》和《最上等的可爱！",
+  "introLang": "zh",
+  "tracks": [
+    "DEADHEAT",
+    "LOVEイヤイヤ期",
+    "STAR",
+    "かわいいメモリアル",
+    "ガンバ!!"
+  ],
+  "trackSources": [
+    {
+      "title": "DEADHEAT"
+    },
+    {
+      "title": "LOVEイヤイヤ期"
+    },
+    {
+      "title": "STAR"
+    },
+    {
+      "title": "かわいいメモリアル"
+    },
+    {
+      "title": "ガンバ!!"
+    }
+  ],
+  "listens": 5682,
+  "listeners": 80,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b901c170-0045-4555-8472-8ff0d59cbefe"
+  },
+  "edges": [
+    {
+      "to": "saucy-dog",
+      "toName": "Saucy Dog",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "乃木坂46",
+      "toName": "乃木坂46",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "tani-yuuki",
+      "toName": "Tani Yuuki",
+      "toArea": "日本",
+      "toYears": "1998–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "candy-tune",
+      "toName": "CANDY TUNE",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "fruits-zipper",
+      "toName": "FRUITS ZIPPER",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "cutie-street",
+      "toName": "CUTIE STREET",
+      "toArea": "日本",
+      "toYears": "2024–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

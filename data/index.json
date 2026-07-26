@@ -1,7 +1,7 @@
 {
   "scene": "日本另类摇滚及其源流",
   "note": "M0 原型数据：人工整理，未经 MusicBrainz 校验。M1 阶段由数据管线替换。",
-  "generatedAt": "2026-07-25",
+  "generatedAt": "2026-07-26",
   "bands": [
     {
       "id": "number-girl",
@@ -1334,7 +1334,7 @@
       "years": "1994–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 9,
+      "degree": 11,
       "listens": 85361,
       "listeners": 2566,
       "quality": {
@@ -28600,9 +28600,63 @@
       "years": "2010–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 4,
+      "degree": 5,
       "listens": 1091821,
       "listeners": 10503,
+      "quality": {
+        "score": 89,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "aimer",
+      "name": "Aimer",
+      "aliases": [
+        "AimerOfficialVEVO",
+        "Emi Fujimoto",
+        "aimerrhythm",
+        "エメ",
+        "エメリズム",
+        "フジモトエミ",
+        "藤本恵実"
+      ],
+      "searchKeys": [
+        "aimer",
+        "あいめr",
+        "アイメr",
+        "aimerofficialvevo",
+        "あいめろっふぃきあlゔぇゔぉ",
+        "アイメロッフィキアlヴェヴォ",
+        "emifujimoto",
+        "えみふじもと",
+        "エミフジモト",
+        "aimerrhythm",
+        "あいめrrhythm",
+        "アイメrrhythm",
+        "エメ",
+        "えめ",
+        "eme",
+        "エメリズム",
+        "えめりずむ",
+        "emerizumu",
+        "フジモトエミ",
+        "ふじもとえみ",
+        "fujimotoemi",
+        "藤本恵実",
+        "日本"
+      ],
+      "artistType": "Person",
+      "area": "日本",
+      "years": null,
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 755897,
+      "listeners": 4647,
       "quality": {
         "score": 88,
         "templateIntro": false,
@@ -28633,7 +28687,7 @@
       "years": "2019–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 3,
+      "degree": 4,
       "listens": 612930,
       "listeners": 7589,
       "quality": {
@@ -28660,11 +28714,11 @@
       "years": "2002–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 6,
+      "degree": 7,
       "listens": 579483,
       "listeners": 5367,
       "quality": {
-        "score": 89,
+        "score": 90,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -28829,14 +28883,56 @@
       "years": "1983–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 4,
+      "degree": 6,
       "listens": 346443,
       "listeners": 5795,
       "quality": {
-        "score": 88,
+        "score": 89,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "xg",
+      "name": "XG",
+      "aliases": [
+        "Xtraordinary Genes",
+        "Xtraordinary Girls",
+        "エックスジー",
+        "엑스지",
+        "특별한 소녀들"
+      ],
+      "searchKeys": [
+        "xg",
+        "xtraordinarygenes",
+        "xtらおrぢなryげねs",
+        "xtラオrヂナryゲネs",
+        "xtraordinarygirls",
+        "xtらおrぢなryぎrls",
+        "xtラオrヂナryギrls",
+        "エックスジー",
+        "えっくすじい",
+        "ekkusujii",
+        "엑스지",
+        "특별한소녀들",
+        "韩国"
+      ],
+      "artistType": "Group",
+      "area": "韩国",
+      "years": "2022–",
+      "countryCode": "KR",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 182583,
+      "listeners": 3250,
+      "quality": {
+        "score": 70,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
       }
@@ -28899,7 +28995,7 @@
       "years": "1991–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 9,
+      "degree": 7,
       "listens": 138337,
       "listeners": 3691,
       "quality": {
@@ -28935,11 +29031,11 @@
       "years": "2000–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 6,
+      "degree": 7,
       "listens": 130078,
       "listeners": 3730,
       "quality": {
-        "score": 89,
+        "score": 90,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -28969,11 +29065,58 @@
       "years": "1997–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 4,
+      "degree": 6,
       "listens": 124198,
       "listeners": 3585,
       "quality": {
-        "score": 88,
+        "score": 89,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "星街すいせい",
+      "name": "星街すいせい",
+      "aliases": [
+        "Hoshimachi, Suisei",
+        "Hoshimachi Suisei",
+        "Suisei Hoshimachi",
+        "Suisei Hosimati",
+        "ほしまち すいせい",
+        "ほしまちすいせい",
+        "星街彗星",
+        "星街 すいせい"
+      ],
+      "searchKeys": [
+        "星街すいせい",
+        "星街スイセイ",
+        "星街suisei",
+        "hoshimachi,suisei",
+        "ほしまち、すいせい",
+        "ホシマチ、スイセイ",
+        "hoshimachisuisei",
+        "ほしまちすいせい",
+        "ホシマチスイセイ",
+        "suiseihoshimachi",
+        "すいせいほしまち",
+        "スイセイホシマチ",
+        "suiseihosimati",
+        "星街彗星",
+        "日本"
+      ],
+      "artistType": "Character",
+      "area": "日本",
+      "years": "2018–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 110489,
+      "listeners": 1996,
+      "quality": {
+        "score": 76,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -29002,7 +29145,7 @@
       "years": "1995–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 6,
+      "degree": 5,
       "listens": 108393,
       "listeners": 2944,
       "quality": {
@@ -29051,6 +29194,43 @@
       "listeners": 2130,
       "quality": {
         "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "いきものがかり",
+      "name": "いきものがかり",
+      "aliases": [
+        "ikimonogakari",
+        "Ikimono Gakari",
+        "Ikimonogakari",
+        "生物股長",
+        "生物股长",
+        "이키모노가카리"
+      ],
+      "searchKeys": [
+        "いきものがかり",
+        "イキモノガカリ",
+        "ikimonogakari",
+        "生物股長",
+        "生物股长",
+        "이키모노가카리",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "1999–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 5,
+      "listens": 96376,
+      "listeners": 3409,
+      "quality": {
+        "score": 89,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -29128,6 +29308,50 @@
       }
     },
     {
+      "id": "櫻坂46",
+      "name": "櫻坂46",
+      "aliases": [
+        "Sakurazaka46",
+        "Keyakizaka",
+        "Keyakizaka46",
+        "Sakurazaka",
+        "欅坂46"
+      ],
+      "searchKeys": [
+        "櫻坂46",
+        "sakurazaka46",
+        "さくらざか46",
+        "サクラザカ46",
+        "keyakizaka",
+        "けやきざか",
+        "ケヤキザカ",
+        "keyakizaka46",
+        "けやきざか46",
+        "ケヤキザカ46",
+        "sakurazaka",
+        "さくらざか",
+        "サクラザカ",
+        "欅坂46",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2015–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 5,
+      "listens": 82219,
+      "listeners": 316,
+      "quality": {
+        "score": 89,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
       "id": "mrs-green-apple",
       "name": "Mrs. GREEN APPLE",
       "aliases": [
@@ -29147,11 +29371,11 @@
       "years": "2013–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 7,
+      "degree": 6,
       "listens": 81223,
       "listeners": 3280,
       "quality": {
-        "score": 48,
+        "score": 47,
         "templateIntro": true,
         "hasGenres": true,
         "hasTracks": true,
@@ -29189,11 +29413,11 @@
       "years": "2012–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 6,
+      "degree": 7,
       "listens": 59281,
       "listeners": 1551,
       "quality": {
-        "score": 89,
+        "score": 90,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -29226,11 +29450,11 @@
       "years": "1998–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 4,
+      "degree": 6,
       "listens": 51105,
       "listeners": 1398,
       "quality": {
-        "score": 88,
+        "score": 89,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -29294,7 +29518,7 @@
       "years": "2015–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 5,
+      "degree": 6,
       "listens": 48697,
       "listeners": 1122,
       "quality": {
@@ -29361,11 +29585,53 @@
       "years": "2007–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 5,
+      "degree": 4,
       "listens": 45979,
       "listeners": 2645,
       "quality": {
-        "score": 89,
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "乃木坂46",
+      "name": "乃木坂46",
+      "aliases": [
+        "Nogizaka46",
+        "N46",
+        "NOGISAKA46",
+        "Nogizaka"
+      ],
+      "searchKeys": [
+        "乃木坂46",
+        "nogizaka46",
+        "のぎざか46",
+        "ノギザカ46",
+        "n46",
+        "ん46",
+        "ン46",
+        "nogisaka46",
+        "のぎさか46",
+        "ノギサカ46",
+        "nogizaka",
+        "のぎざか",
+        "ノギザカ",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2011–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 45616,
+      "listeners": 298,
+      "quality": {
+        "score": 88,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -29396,11 +29662,11 @@
       "years": "1995–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 4,
+      "degree": 5,
       "listens": 45099,
       "listeners": 1434,
       "quality": {
-        "score": 82,
+        "score": 83,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -29452,6 +29718,76 @@
       }
     },
     {
+      "id": "orange-range",
+      "name": "ORANGE RANGE",
+      "aliases": [
+        "オレンジレンジ",
+        "オレンジ・レンジ",
+        "ＯＲＡＮＧＥ ＲＡＮＧＥ",
+        "ORANGERANGE"
+      ],
+      "searchKeys": [
+        "orangerange",
+        "おらんげらんげ",
+        "オランゲランゲ",
+        "オレンジレンジ",
+        "おれんじれんじ",
+        "orenjirenji",
+        "orenji/renji",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2001–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 8,
+      "listens": 41629,
+      "listeners": 1706,
+      "quality": {
+        "score": 90,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "niziu",
+      "name": "NiziU",
+      "aliases": [
+        "ニジュー",
+        "니쥬"
+      ],
+      "searchKeys": [
+        "niziu",
+        "にじう",
+        "ニジウ",
+        "ニジュー",
+        "にじゅう",
+        "nijuu",
+        "니쥬",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2020–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 37606,
+      "listeners": 1000,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
       "id": "back-number",
       "name": "back number",
       "aliases": [
@@ -29484,6 +29820,126 @@
       }
     },
     {
+      "id": "ポルノグラフィティ",
+      "name": "ポルノグラフィティ",
+      "aliases": [
+        "PornoGraffitti",
+        "Porno Graffiti",
+        "Porno Graffitty",
+        "Porno Graffity",
+        "Porno Grafiti",
+        "Porno Grafitti",
+        "Porno Grafitty",
+        "Porno Grafity",
+        "pornograffiti",
+        "ポルノ・グラフィティ"
+      ],
+      "searchKeys": [
+        "ポルノグラフィティ",
+        "ぽるのぐらふぃてぃ",
+        "porunogurafyitei",
+        "pornograffitti",
+        "ぽrのgらっふぃっち",
+        "ポrノgラッフィッチ",
+        "pornograffiti",
+        "ぽrのgらっふぃち",
+        "ポrノgラッフィチ",
+        "pornograffitty",
+        "ぽrのgらっふぃtty",
+        "ポrノgラッフィtty",
+        "pornograffity",
+        "ぽrのgらっふぃty",
+        "ポrノgラッフィty",
+        "pornografiti",
+        "ぽrのgらふぃち",
+        "ポrノgラフィチ",
+        "pornografitti",
+        "ぽrのgらふぃっち",
+        "ポrノgラフィッチ",
+        "pornografitty",
+        "ぽrのgらふぃtty",
+        "ポrノgラフィtty",
+        "pornografity",
+        "ぽrのgらふぃty",
+        "ポrノgラフィty",
+        "poruno/gurafyitei",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "1994–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 31849,
+      "listeners": 949,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "嵐",
+      "name": "嵐",
+      "aliases": [
+        "Arashi"
+      ],
+      "searchKeys": [
+        "嵐",
+        "arashi",
+        "あらし",
+        "アラシ",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "1999–2026",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 28599,
+      "listeners": 532,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "superfly",
+      "name": "Superfly",
+      "aliases": [],
+      "searchKeys": [
+        "superfly",
+        "すぺrfly",
+        "スペrfly",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2004–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 6,
+      "listens": 27286,
+      "listeners": 1226,
+      "quality": {
+        "score": 89,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
       "id": "ano",
       "name": "ano",
       "aliases": [
@@ -29500,14 +29956,78 @@
       "years": "????–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 3,
+      "degree": 5,
       "listens": 26752,
       "listeners": 1280,
       "quality": {
-        "score": 76,
+        "score": 77,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "aiko",
+      "name": "aiko",
+      "aliases": [
+        "柳井愛子"
+      ],
+      "searchKeys": [
+        "aiko",
+        "あいこ",
+        "アイコ",
+        "柳井愛子",
+        "日本"
+      ],
+      "artistType": "Person",
+      "area": "日本",
+      "years": "1975–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 7,
+      "listens": 26632,
+      "listeners": 667,
+      "quality": {
+        "score": 90,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "team",
+      "name": "&TEAM",
+      "aliases": [
+        "アンドチーム",
+        "앤팀"
+      ],
+      "searchKeys": [
+        "&team",
+        "&てあm",
+        "&テアm",
+        "アンドチーム",
+        "あんどちいむ",
+        "andochiimu",
+        "앤팀",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2022–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 26213,
+      "listeners": 762,
+      "quality": {
+        "score": 64,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
       }
@@ -29525,11 +30045,83 @@
       "years": "2011–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 3,
+      "degree": 4,
       "listens": 26043,
       "listeners": 809,
       "quality": {
         "score": 82,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "幾田りら",
+      "name": "幾田りら",
+      "aliases": [
+        "Ikuta, Lilas",
+        "Lilas Ikuta"
+      ],
+      "searchKeys": [
+        "幾田りら",
+        "幾田リラ",
+        "幾田rira",
+        "ikuta,lilas",
+        "いくた、ぃぁs",
+        "イクタ、ィァs",
+        "lilasikuta",
+        "ぃぁsいくた",
+        "ィァsイクタ",
+        "日本"
+      ],
+      "artistType": "Person",
+      "area": "日本",
+      "years": "2000–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 6,
+      "listens": 23532,
+      "listeners": 1828,
+      "quality": {
+        "score": 83,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "gre4n-boyz",
+      "name": "GRe4N BOYZ",
+      "aliases": [
+        "GReeeN",
+        "GReeeeN"
+      ],
+      "searchKeys": [
+        "gre4nboyz",
+        "gれ4んぼyz",
+        "gレ4ンボyz",
+        "greeen",
+        "gれええん",
+        "gレエエン",
+        "greeeen",
+        "gれえええん",
+        "gレエエエン",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2002–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 22767,
+      "listeners": 815,
+      "quality": {
+        "score": 76,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -29577,6 +30169,38 @@
       }
     },
     {
+      "id": "kinki-kids",
+      "name": "KinKi Kids",
+      "aliases": [
+        "DOMOTO"
+      ],
+      "searchKeys": [
+        "kinkikids",
+        "きんききds",
+        "キンキキds",
+        "domoto",
+        "どもと",
+        "ドモト",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "1992–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 21533,
+      "listeners": 152,
+      "quality": {
+        "score": 76,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
       "id": "星野源",
       "name": "星野源",
       "aliases": [
@@ -29598,11 +30222,11 @@
       "years": "1981–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 7,
+      "degree": 6,
       "listens": 21175,
       "listeners": 761,
       "quality": {
-        "score": 90,
+        "score": 89,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -29638,6 +30262,69 @@
       }
     },
     {
+      "id": "akasaki",
+      "name": "AKASAKI",
+      "aliases": [],
+      "searchKeys": [
+        "akasaki",
+        "あかさき",
+        "アカサキ",
+        "日本"
+      ],
+      "artistType": "Person",
+      "area": "日本",
+      "years": "2007–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 12,
+      "listens": 16354,
+      "listeners": 1134,
+      "quality": {
+        "score": 72,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": false,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "こっちのけんと",
+      "name": "こっちのけんと",
+      "aliases": [
+        "Kocchi no Kento",
+        "Kento Sugō",
+        "菅生健人"
+      ],
+      "searchKeys": [
+        "こっちのけんと",
+        "コッチノケント",
+        "kotchinokento",
+        "kocchinokento",
+        "kentosugō",
+        "けんとすgō",
+        "ケントスgō",
+        "菅生健人",
+        "日本"
+      ],
+      "artistType": "Person",
+      "area": "日本",
+      "years": "1996–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 15845,
+      "listeners": 1455,
+      "quality": {
+        "score": 58,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": false,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
       "id": "snow-man",
       "name": "Snow Man",
       "aliases": [
@@ -29654,11 +30341,108 @@
       "years": "2012–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 4,
+      "degree": 6,
       "listens": 14921,
       "listeners": 287,
       "quality": {
+        "score": 83,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "timelesz",
+      "name": "timelesz",
+      "aliases": [
+        "Sexy Zone"
+      ],
+      "searchKeys": [
+        "timelesz",
+        "ちめぇsz",
+        "チメェsz",
+        "sexyzone",
+        "せxyぞね",
+        "セxyゾネ",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2011–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 5,
+      "listens": 13664,
+      "listeners": 94,
+      "quality": {
+        "score": 83,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "travis-japan",
+      "name": "Travis Japan",
+      "aliases": [],
+      "searchKeys": [
+        "travisjapan",
+        "tらゔぃsじゃぱん",
+        "tラヴィsジャパン",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2012–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 13234,
+      "listeners": 155,
+      "quality": {
         "score": 82,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "love",
+      "name": "=LOVE",
+      "aliases": [
+        "Equal LOVE",
+        "イコラブ",
+        "＝LOVE",
+        "= LOVE"
+      ],
+      "searchKeys": [
+        "=love",
+        "=ぉゔぇ",
+        "=ォヴェ",
+        "equallove",
+        "えくぅあlぉゔぇ",
+        "エクゥアlォヴェ",
+        "イコラブ",
+        "いこらぶ",
+        "ikorabu",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2017–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 5,
+      "listens": 12847,
+      "listeners": 295,
+      "quality": {
+        "score": 83,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -29691,9 +30475,108 @@
       "years": "2015–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 3,
+      "degree": 5,
       "listens": 12845,
       "listeners": 152,
+      "quality": {
+        "score": 83,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "サザンオールスターズ",
+      "name": "サザンオールスターズ",
+      "aliases": [
+        "Southern All Stars",
+        "SAS .",
+        "サザン"
+      ],
+      "searchKeys": [
+        "サザンオールスターズ",
+        "さざんおうるすたあず",
+        "sazanoorusutaazu",
+        "southernallstars",
+        "そうてぇrんあllsたrs",
+        "ソウテェrンアllsタrs",
+        "sas",
+        "さs。",
+        "サs。",
+        "サザン",
+        "さざん",
+        "sazan",
+        "涩谷"
+      ],
+      "artistType": "Group",
+      "area": "涩谷",
+      "years": "1974–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 12657,
+      "listeners": 451,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "novelbright",
+      "name": "Novelbright",
+      "aliases": [],
+      "searchKeys": [
+        "novelbright",
+        "のゔぇlbりght",
+        "ノヴェlbリght",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2013–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 10,
+      "listens": 12560,
+      "listeners": 682,
+      "quality": {
+        "score": 90,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "jo1",
+      "name": "JO1",
+      "aliases": [
+        "ジェイオーワン"
+      ],
+      "searchKeys": [
+        "jo1",
+        "じょ1",
+        "ジョ1",
+        "ジェイオーワン",
+        "じぇいおうわん",
+        "jeioowan",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2019–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 11982,
+      "listeners": 442,
       "quality": {
         "score": 82,
         "templateIntro": false,
@@ -29727,7 +30610,7 @@
       "years": "1994–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 6,
+      "degree": 5,
       "listens": 11938,
       "listeners": 499,
       "quality": {
@@ -29754,11 +30637,11 @@
       "years": null,
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 6,
+      "degree": 4,
       "listens": 11232,
       "listeners": 613,
       "quality": {
-        "score": 89,
+        "score": 88,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -29789,11 +30672,81 @@
       "years": "1994–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 11,
+      "degree": 7,
       "listens": 9516,
       "listeners": 737,
       "quality": {
         "score": 78,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "クリープハイプ",
+      "name": "クリープハイプ",
+      "aliases": [
+        "CreepHyp",
+        "Creep Hyp"
+      ],
+      "searchKeys": [
+        "クリープハイプ",
+        "くりいぷはいぷ",
+        "kuriipuhaipu",
+        "creephyp",
+        "cれえphyp",
+        "cレエphyp",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2001–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 8981,
+      "listeners": 153,
+      "quality": {
+        "score": 34,
+        "templateIntro": true,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "mongol800",
+      "name": "MONGOL800",
+      "aliases": [
+        "モンゴル800",
+        "モンパチ",
+        "Mongol 800"
+      ],
+      "searchKeys": [
+        "mongol800",
+        "もんごl800",
+        "モンゴl800",
+        "モンゴル800",
+        "もんごる800",
+        "mongoru800",
+        "モンパチ",
+        "もんぱち",
+        "monpachi",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2000–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 8879,
+      "listeners": 597,
+      "quality": {
+        "score": 82,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -29851,13 +30804,173 @@
       "years": "2022–",
       "countryCode": "JP",
       "region": "east-asia",
-      "degree": 6,
+      "degree": 8,
       "listens": 8266,
       "listeners": 275,
       "quality": {
-        "score": 89,
+        "score": 90,
         "templateIntro": false,
         "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "hana",
+      "name": "HANA",
+      "aliases": [],
+      "searchKeys": [
+        "hana",
+        "はな",
+        "ハナ",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2025–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 5,
+      "listens": 8088,
+      "listeners": 481,
+      "quality": {
+        "score": 77,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "king-prince",
+      "name": "King & Prince",
+      "aliases": [],
+      "searchKeys": [
+        "king&prince",
+        "きんg&pりんけ",
+        "キンg&pリンケ",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2015–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 7587,
+      "listeners": 182,
+      "quality": {
+        "score": 82,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "清水翔太",
+      "name": "清水翔太",
+      "aliases": [
+        "Shimizu, Shota",
+        "Shimizu Shota",
+        "Shota Shimizu",
+        "しみず しょうた"
+      ],
+      "searchKeys": [
+        "清水翔太",
+        "shimizu,shota",
+        "しみず、しょた",
+        "シミズ、ショタ",
+        "shimizushota",
+        "しみずしょた",
+        "シミズショタ",
+        "shotashimizu",
+        "しょたしみず",
+        "ショタシミズ",
+        "しみずしょうた",
+        "シミズショウタ",
+        "shimizushouta",
+        "日本"
+      ],
+      "artistType": "Person",
+      "area": "日本",
+      "years": "1989–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 7,
+      "listens": 7546,
+      "listeners": 415,
+      "quality": {
+        "score": 90,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "なにわ男子",
+      "name": "なにわ男子",
+      "aliases": [
+        "Naniwa Danshi"
+      ],
+      "searchKeys": [
+        "なにわ男子",
+        "ナニワ男子",
+        "naniwa男子",
+        "naniwadanshi",
+        "なにわだんし",
+        "ナニワダンシ",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2018–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 6697,
+      "listeners": 39,
+      "quality": {
+        "score": 82,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "tani-yuuki",
+      "name": "Tani Yuuki",
+      "aliases": [
+        "Tani, Yuuki"
+      ],
+      "searchKeys": [
+        "taniyuuki",
+        "たにゆうき",
+        "タニユウキ",
+        "tani,yuuki",
+        "たに、ゆうき",
+        "タニ、ユウキ",
+        "日本"
+      ],
+      "artistType": "Person",
+      "area": "日本",
+      "years": "1998–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 6375,
+      "listeners": 587,
+      "quality": {
+        "score": 64,
+        "templateIntro": false,
+        "hasGenres": false,
         "hasTracks": true,
         "hasLore": false,
         "hasAlbums": true
@@ -29883,6 +30996,317 @@
       "listeners": 594,
       "quality": {
         "score": 64,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "菅田将暉",
+      "name": "菅田将暉",
+      "aliases": [
+        "Suda, Masaki",
+        "Masaki Suda",
+        "Taishō Sugō",
+        "菅生大将"
+      ],
+      "searchKeys": [
+        "菅田将暉",
+        "suda,masaki",
+        "すだ、まさき",
+        "スダ、マサキ",
+        "masakisuda",
+        "まさきすだ",
+        "マサキスダ",
+        "taishōsugō",
+        "たいshōすgō",
+        "タイshōスgō",
+        "菅生大将",
+        "日本"
+      ],
+      "artistType": "Person",
+      "area": "日本",
+      "years": "1993–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 5836,
+      "listeners": 298,
+      "quality": {
+        "score": 82,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "超ときめき-宣伝部",
+      "name": "超ときめき♡宣伝部",
+      "aliases": [
+        "Cho Tokimeki Sendenbu",
+        "Cho Tokimeki♡Sendenbu",
+        "Chou Tokimeki Sendenbu",
+        "Chō Tokimeki Sendenbu",
+        "Tokisen",
+        "ときめき♡宣伝部",
+        "とき宣",
+        "超とき宣"
+      ],
+      "searchKeys": [
+        "超ときめき♡宣伝部",
+        "超トキメキ♡宣伝部",
+        "超tokimeki♡宣伝部",
+        "chotokimekisendenbu",
+        "ちょときめきせんでんぶ",
+        "チョトキメキセンデンブ",
+        "chotokimeki♡sendenbu",
+        "choutokimekisendenbu",
+        "ちょうときめきせんでんぶ",
+        "チョウトキメキセンデンブ",
+        "chōtokimekisendenbu",
+        "chōときめきせんでんぶ",
+        "chōトキメキセンデンブ",
+        "tokisen",
+        "ときせん",
+        "トキセン",
+        "ときめき♡宣伝部",
+        "トキメキ♡宣伝部",
+        "tokimeki♡宣伝部",
+        "とき宣",
+        "トキ宣",
+        "toki宣",
+        "超とき宣",
+        "超トキ宣",
+        "超toki宣",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2015–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 6,
+      "listens": 5682,
+      "listeners": 80,
+      "quality": {
+        "score": 89,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "hy",
+      "name": "HY",
+      "aliases": [
+        "higashi yakena",
+        "ひがし やけな",
+        "ひがしやけな",
+        "エイチワイ",
+        "東 屋慶名",
+        "東屋慶名"
+      ],
+      "searchKeys": [
+        "hy",
+        "higashiyakena",
+        "ひがしやけな",
+        "ヒガシヤケナ",
+        "エイチワイ",
+        "えいちわい",
+        "eichiwai",
+        "東屋慶名",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2000–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 5026,
+      "listeners": 363,
+      "quality": {
+        "score": 76,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "candy-tune",
+      "name": "CANDY TUNE",
+      "aliases": [],
+      "searchKeys": [
+        "candytune",
+        "かんdyつね",
+        "カンdyツネ",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2023–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 4335,
+      "listeners": 116,
+      "quality": {
+        "score": 70,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": false,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "cutie-street",
+      "name": "CUTIE STREET",
+      "aliases": [],
+      "searchKeys": [
+        "cutiestreet",
+        "くちえstれえt",
+        "クチエstレエt",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2024–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 3589,
+      "listeners": 151,
+      "quality": {
+        "score": 20,
+        "templateIntro": true,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": false
+      }
+    },
+    {
+      "id": "lana",
+      "name": "LANA",
+      "aliases": [],
+      "searchKeys": [
+        "lana",
+        "ぁな",
+        "ァナ",
+        "日本"
+      ],
+      "artistType": "Person",
+      "area": "日本",
+      "years": null,
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 7,
+      "listens": 3197,
+      "listeners": 251,
+      "quality": {
+        "score": 36,
+        "templateIntro": true,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "平井大",
+      "name": "平井大",
+      "aliases": [
+        "Hirai, Dai",
+        "HIRAIDAI",
+        "Hirai Dai"
+      ],
+      "searchKeys": [
+        "平井大",
+        "hirai,dai",
+        "ひらい、だい",
+        "ヒライ、ダイ",
+        "hiraidai",
+        "ひらいだい",
+        "ヒライダイ",
+        "日本"
+      ],
+      "artistType": "Person",
+      "area": "日本",
+      "years": "1991–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 5,
+      "listens": 3140,
+      "listeners": 168,
+      "quality": {
+        "score": 89,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "ini",
+      "name": "INI",
+      "aliases": [
+        "Aienuai",
+        "アイエヌアイ"
+      ],
+      "searchKeys": [
+        "ini",
+        "いに",
+        "イニ",
+        "aienuai",
+        "あいえぬあい",
+        "アイエヌアイ",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2021–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 5,
+      "listens": 2752,
+      "listeners": 216,
+      "quality": {
+        "score": 89,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "m-lk",
+      "name": "M!LK",
+      "aliases": [],
+      "searchKeys": [
+        "m!lk",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2014–",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 2258,
+      "listeners": 108,
+      "quality": {
+        "score": 82,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -29918,6 +31342,33 @@
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "bad-hop",
+      "name": "BAD HOP",
+      "aliases": [],
+      "searchKeys": [
+        "badhop",
+        "ばdほp",
+        "バdホp",
+        "日本"
+      ],
+      "artistType": "Group",
+      "area": "日本",
+      "years": "2014–2024",
+      "countryCode": "JP",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 1124,
+      "listeners": 163,
+      "quality": {
+        "score": 16,
+        "templateIntro": true,
+        "hasGenres": true,
+        "hasTracks": false,
         "hasLore": false,
         "hasAlbums": true
       }

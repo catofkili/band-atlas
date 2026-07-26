@@ -81,10 +81,10 @@
   },
   "edges": [
     {
-      "to": "da-ice",
-      "toName": "Da‐iCE",
+      "to": "kinki-kids",
+      "toName": "KinKi Kids",
       "toArea": "日本",
-      "toYears": "2011–",
+      "toYears": "1992–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -105,10 +105,10 @@
       "sources": []
     },
     {
-      "to": "omoinotake",
-      "toName": "Omoinotake",
+      "to": "ano",
+      "toName": "ano",
       "toArea": "日本",
-      "toYears": "2012–",
+      "toYears": "????–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -117,10 +117,10 @@
       "sources": []
     },
     {
-      "to": "ano",
-      "toName": "ano",
+      "to": "幾田りら",
+      "toName": "幾田りら",
       "toArea": "日本",
-      "toYears": "????–",
+      "toYears": "2000–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

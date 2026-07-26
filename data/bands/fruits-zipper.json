@@ -44,7 +44,7 @@
   "listens": 8266,
   "listeners": 275,
   "quality": {
-    "score": 89,
+    "score": 90,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -57,22 +57,10 @@
   },
   "edges": [
     {
-      "to": "babymetal",
-      "toName": "BABYMETAL",
+      "to": "クリープハイプ",
+      "toName": "クリープハイプ",
       "toArea": "日本",
-      "toYears": "2010–",
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
-      "to": "saucy-dog",
-      "toName": "Saucy Dog",
-      "toArea": "日本",
-      "toYears": "2013–",
+      "toYears": "2001–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -93,10 +81,10 @@
       "sources": []
     },
     {
-      "to": "優里",
-      "toName": "優里",
+      "to": "乃木坂46",
+      "toName": "乃木坂46",
       "toArea": "日本",
-      "toYears": "1994–",
+      "toYears": "2011–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -105,8 +93,32 @@
       "sources": []
     },
     {
-      "to": "number-i",
-      "toName": "Number_i",
+      "to": "超ときめき-宣伝部",
+      "toName": "超ときめき♡宣伝部",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "櫻坂46",
+      "toName": "櫻坂46",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "candy-tune",
+      "toName": "CANDY TUNE",
       "toArea": "日本",
       "toYears": "2023–",
       "type": "scene",
@@ -117,10 +129,22 @@
       "sources": []
     },
     {
-      "to": "アイナ-ジ-エンド",
-      "toName": "アイナ・ジ・エンド",
+      "to": "hana",
+      "toName": "HANA",
       "toArea": "日本",
-      "toYears": "1994–",
+      "toYears": "2025–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "cutie-street",
+      "toName": "CUTIE STREET",
+      "toArea": "日本",
+      "toYears": "2024–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

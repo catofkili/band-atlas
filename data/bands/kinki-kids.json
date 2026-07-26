@@ -1,0 +1,123 @@
+{
+  "id": "kinki-kids",
+  "mbid": "1a07eeb3-bc0c-48c7-ad15-8cbf879c412e",
+  "name": "KinKi Kids",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1992–",
+  "genres": [
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "A Album",
+      "year": 1997,
+      "kind": "Album"
+    },
+    {
+      "title": "B album",
+      "year": 1998,
+      "kind": "Album"
+    },
+    {
+      "title": "C Album",
+      "year": 1999,
+      "kind": "Album"
+    },
+    {
+      "title": "D album",
+      "year": 2000,
+      "kind": "Album"
+    },
+    {
+      "title": "E album",
+      "year": 2001,
+      "kind": "Album"
+    },
+    {
+      "title": "F album",
+      "year": 2002,
+      "kind": "Album"
+    }
+  ],
+  "intro": "DOMOTO，2025年7月前旧名KinKi Kids，是日本星达拓娱乐旗下的双人偶像组合，成员为堂本光一及堂本刚，组合于1993年结成，后在1997年正式出道。",
+  "introLang": "zh",
+  "tracks": [
+    "Anniversary",
+    "Family ～讓我們在一起",
+    "Hey!大家好嗎?",
+    "Secret Code",
+    "SNOW! SNOW! SNOW!"
+  ],
+  "trackSources": [
+    {
+      "title": "Anniversary"
+    },
+    {
+      "title": "Family ～讓我們在一起"
+    },
+    {
+      "title": "Hey!大家好嗎?"
+    },
+    {
+      "title": "Secret Code"
+    },
+    {
+      "title": "SNOW! SNOW! SNOW!"
+    }
+  ],
+  "listens": 21533,
+  "listeners": 152,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1a07eeb3-bc0c-48c7-ad15-8cbf879c412e"
+  },
+  "edges": [
+    {
+      "to": "gre4n-boyz",
+      "toName": "GRe4N BOYZ",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "星野源",
+      "toName": "星野源",
+      "toArea": "日本",
+      "toYears": "1981–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "緑黄色社会",
+      "toName": "緑黄色社会",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

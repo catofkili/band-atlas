@@ -1,0 +1,139 @@
+{
+  "id": "ポルノグラフィティ",
+  "mbid": "95de09ab-3142-4798-9c70-c2e8e1d7374d",
+  "name": "ポルノグラフィティ",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1994–",
+  "genres": [
+    "日本流行音乐",
+    "摇滚",
+    "另类摇滚",
+    "日本流行音樂",
+    "流行搖滾"
+  ],
+  "albums": [
+    {
+      "title": "ロマンチスト・エゴイスト",
+      "year": 2000,
+      "kind": "Album"
+    },
+    {
+      "title": "foo?",
+      "year": 2001,
+      "kind": "Album"
+    },
+    {
+      "title": "雲をも掴む民",
+      "year": 2002,
+      "kind": "Album"
+    },
+    {
+      "title": "WORLDILLIA",
+      "year": 2003,
+      "kind": "Album"
+    },
+    {
+      "title": "THUMPχ",
+      "year": 2005,
+      "kind": "Album"
+    },
+    {
+      "title": "m-CABI",
+      "year": 2006,
+      "kind": "Album"
+    }
+  ],
+  "intro": "色情涂鸦是日本的摇滚乐团，目前成员包括冈野昭仁和新藤晴一。1999年9月8日以单曲《阿波罗》在日本乐界出道。所属经纪公司为Amuse、唱片公司为日本SONY旗下之SME Records。",
+  "introLang": "zh",
+  "tracks": [
+    "アニマロッサ",
+    "哦！勁敵",
+    "2012Spark",
+    "EXIT (ポルノグラフィティの曲)",
+    "Link (色情塗鴉的歌曲)"
+  ],
+  "trackSources": [
+    {
+      "title": "アニマロッサ"
+    },
+    {
+      "title": "哦！勁敵"
+    },
+    {
+      "title": "2012Spark"
+    },
+    {
+      "title": "EXIT (ポルノグラフィティの曲)"
+    },
+    {
+      "title": "Link (色情塗鴉的歌曲)"
+    }
+  ],
+  "listens": 31849,
+  "listeners": 949,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/95de09ab-3142-4798-9c70-c2e8e1d7374d"
+  },
+  "edges": [
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "novelbright",
+      "toName": "Novelbright",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "orange-range",
+      "toName": "ORANGE RANGE",
+      "toArea": "日本",
+      "toYears": "2001–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "niziu",
+      "toName": "NiziU",
+      "toArea": "日本",
+      "toYears": "2020–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "id": "星街すいせい",
+  "mbid": "8eeb59f4-0071-4261-b1f8-91d8294622d2",
+  "name": "星街すいせい",
+  "artistType": "Character",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2018–",
+  "genres": [
+    "日本流行音乐"
+  ],
+  "albums": [
+    {
+      "title": "Still Still Stellar",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "Specter",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "新星目録",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "星街彗星，是日本的虚拟YouTuber、虚拟偶像、歌手。所属事务所为hololive。同时为TOY'S FACTORY所属音乐组合Midnight Grand Orchestra成员，在组合中担任主唱与部分歌曲作词。",
+  "introLang": "zh",
+  "tracks": [
+    "I don't care",
+    "瞄準月亮",
+    "GHOST",
+    "NEXT COLOR PLANET",
+    "ソワレ"
+  ],
+  "trackSources": [
+    {
+      "title": "I don't care"
+    },
+    {
+      "title": "瞄準月亮"
+    },
+    {
+      "title": "GHOST"
+    },
+    {
+      "title": "NEXT COLOR PLANET"
+    },
+    {
+      "title": "ソワレ"
+    }
+  ],
+  "listens": 110489,
+  "listeners": 1996,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8eeb59f4-0071-4261-b1f8-91d8294622d2"
+  },
+  "edges": [
+    {
+      "to": "eve",
+      "toName": "Eve",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ずっと真夜中でいいのに",
+      "toName": "ずっと真夜中でいいのに。",
+      "toArea": "日本",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "藤井風",
+      "toName": "藤井風",
+      "toArea": "日本",
+      "toYears": "1997–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

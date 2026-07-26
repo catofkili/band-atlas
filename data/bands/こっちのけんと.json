@@ -1,0 +1,86 @@
+{
+  "id": "こっちのけんと",
+  "mbid": "f0d4005f-e138-472b-97f6-02233375ad90",
+  "name": "こっちのけんと",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1996–",
+  "genres": [
+    "流行音乐"
+  ],
+  "albums": [
+    {
+      "title": "けっかおーらい EP",
+      "year": 2025,
+      "kind": "EP"
+    }
+  ],
+  "intro": "菅生健人，艺名こっちのけんと，是一名日本创作歌手，出身于大阪府箕面市，现隶属于blowout Inc。",
+  "introLang": "zh",
+  "listens": 15845,
+  "listeners": 1455,
+  "quality": {
+    "score": 58,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f0d4005f-e138-472b-97f6-02233375ad90"
+  },
+  "edges": [
+    {
+      "to": "snow-man",
+      "toName": "Snow Man",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "timelesz",
+      "toName": "timelesz",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "akasaki",
+      "toName": "AKASAKI",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "omoinotake",
+      "toName": "Omoinotake",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,119 @@
+{
+  "id": "なにわ男子",
+  "mbid": "91460ddb-8d0a-41af-bf3e-0e78616d4f08",
+  "name": "なにわ男子",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2018–",
+  "genres": [
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "1st Love",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "POPMALL",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "+Alpha",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "BON BON VOYAGE",
+      "year": 2025,
+      "kind": "Album"
+    },
+    {
+      "title": "ND⁵",
+      "year": 2026,
+      "kind": "Album"
+    }
+  ],
+  "intro": "浪花男子，为日本星达拓娱乐旗下的七人男子偶像团体，唱片公司隶属于Storm Labels。该团体为继SUPER EIGHT、WEST.",
+  "introLang": "zh",
+  "tracks": [
+    "Doki it",
+    "HARD WORK",
+    "I Wish (浪花男子單曲)",
+    "Make Up Day／Missing",
+    "Special Kiss"
+  ],
+  "trackSources": [
+    {
+      "title": "Doki it"
+    },
+    {
+      "title": "HARD WORK"
+    },
+    {
+      "title": "I Wish (浪花男子單曲)"
+    },
+    {
+      "title": "Make Up Day／Missing"
+    },
+    {
+      "title": "Special Kiss"
+    }
+  ],
+  "listens": 6697,
+  "listeners": 39,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/91460ddb-8d0a-41af-bf3e-0e78616d4f08"
+  },
+  "edges": [
+    {
+      "to": "king-prince",
+      "toName": "King & Prince",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "清水翔太",
+      "toName": "清水翔太",
+      "toArea": "日本",
+      "toYears": "1989–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "hana",
+      "toName": "HANA",
+      "toArea": "日本",
+      "toYears": "2025–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

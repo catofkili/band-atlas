@@ -41,7 +41,12 @@ const occupiedIds = new Set(existingBands.map((band) => band.id));
 const VERIFIED_MBIDS = new Map([
   ['natori', 'cad9e169-893d-4432-a23f-3aa16beb9f0e'],
   ['BE:FIRST', 'c11b6e14-9a78-40c3-b70c-c46e8b819637'],
+  ['HANA', '0c8c6c7a-aa33-400d-b297-d45ea1ecfc86'],
+  ['XG', '8dfe067c-ae90-472e-80f2-fcee9be4e158'],
+  ['GReeeeN', '9c492c6c-ef67-48e7-b347-a410993b3274'],
+  ['星街すいせい', '8eeb59f4-0071-4261-b1f8-91d8294622d2'],
 ]);
+const SUPPORTED_TYPES = new Set(['Group', 'Person', 'Character']);
 
 const norm = (text) =>
   text
@@ -123,7 +128,7 @@ for (const [index, seedName] of seedSource.seeds.entries()) {
   const verifiedMbid = VERIFIED_MBIDS.get(seedName);
   const search = verifiedMbid ? null : await mbSearchArtist(seedName);
   const candidates = [...(search?.artists ?? [])]
-    .filter((artist) => artist.type === 'Group' || artist.type === 'Person')
+    .filter((artist) => SUPPORTED_TYPES.has(artist.type))
     .sort((a, b) => {
       const aExact = norm(a.name) === norm(seedName) || (a.aliases ?? []).some((alias) => norm(alias.name) === norm(seedName));
       const bExact = norm(b.name) === norm(seedName) || (b.aliases ?? []).some((alias) => norm(alias.name) === norm(seedName));
@@ -142,7 +147,7 @@ for (const [index, seedName] of seedSource.seeds.entries()) {
   if (
     !artist ||
     (!VERIFIED_MBIDS.has(seedName) && countryCodeOf(artist) !== 'JP') ||
-    !['Group', 'Person'].includes(artist.type)
+    !SUPPORTED_TYPES.has(artist.type)
   ) {
     console.warn(`  跳过：${seedName} 不是日本 Group/Person`);
     continue;
@@ -189,7 +194,12 @@ for (const item of resolved) {
     continue;
   }
   const id = previousByMbid.get(item.artist.id)?.id ?? slugify(item.artist.name, item.artist.id);
-  const kind = item.artist.type === 'Person' ? '音乐人' : '音乐组合';
+  const kind =
+    item.artist.type === 'Person'
+      ? '音乐人'
+      : item.artist.type === 'Character'
+        ? '虚拟音乐人'
+        : '音乐组合';
   const band = {
     id,
     mbid: item.artist.id,
@@ -197,8 +207,8 @@ for (const item of resolved) {
     artistType: item.artist.type,
     aliases: item.aliases,
     area: item.artist['begin-area']?.name ?? item.artist.area?.name ?? '日本',
-    countryCode: 'JP',
-    country: '日本',
+    countryCode: countryCodeOf(item.artist) ?? 'JP',
+    country: countryCodeOf(item.artist) === 'KR' ? '韩国' : '日本',
     years: yearsOf(item.artist),
     genres: item.genres,
     albums: item.works,
@@ -263,7 +273,7 @@ await writeFile(
   path.join(root, 'data/source/modern-japan.json'),
   JSON.stringify(
     {
-      note: '日本当代热门 Group/Person；MusicBrainz 元数据，ListenBrainz 热度排序，推荐边非事实关系。',
+      note: '日本当代热门 Group/Person/Character；MusicBrainz 元数据，ListenBrainz 热度排序，推荐边非事实关系。',
       generatedAt: new Date().toISOString(),
       resolved: resolved.map((item, index) => ({
         rank: index + 1,

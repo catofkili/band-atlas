@@ -1,0 +1,125 @@
+{
+  "id": "aimer",
+  "mbid": "9388cee2-7d57-4598-905f-106019b267d3",
+  "name": "Aimer",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": null,
+  "genres": [
+    "日本流行音乐",
+    "爵士乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "Sleepless Nights",
+      "year": 2012,
+      "kind": "Album"
+    },
+    {
+      "title": "Midnight Sun",
+      "year": 2014,
+      "kind": "Album"
+    },
+    {
+      "title": "UnChild",
+      "year": 2014,
+      "kind": "Album"
+    },
+    {
+      "title": "DAWN",
+      "year": 2015,
+      "kind": "Album"
+    },
+    {
+      "title": "daydream",
+      "year": 2016,
+      "kind": "Album"
+    },
+    {
+      "title": "Penny Rain",
+      "year": 2019,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Aimer是日本女歌手，个人资料和出生日期未对外公开披露。艺名为其本人多年来的昵称“エメ”，亦为法语词汇“爱”的意思。作词时常以aimerrhythm署名。",
+  "introLang": "zh",
+  "tracks": [
+    "殘響散歌 / 早晨來了",
+    "ONE/花之歌/六等星之夜 Magic Blue ver.",
+    "RE:I AM EP",
+    "StarRingChild EP",
+    "Brave Shine"
+  ],
+  "trackSources": [
+    {
+      "title": "殘響散歌 / 早晨來了"
+    },
+    {
+      "title": "ONE/花之歌/六等星之夜 Magic Blue ver."
+    },
+    {
+      "title": "RE:I AM EP"
+    },
+    {
+      "title": "StarRingChild EP"
+    },
+    {
+      "title": "Brave Shine"
+    }
+  ],
+  "listens": 755897,
+  "listeners": 4647,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9388cee2-7d57-4598-905f-106019b267d3"
+  },
+  "edges": [
+    {
+      "to": "babymetal",
+      "toName": "BABYMETAL",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "yoasobi",
+      "toName": "YOASOBI",
+      "toArea": "日本",
+      "toYears": "2019–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ado",
+      "toName": "Ado",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

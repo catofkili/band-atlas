@@ -72,7 +72,7 @@
   "listens": 12845,
   "listeners": 152,
   "quality": {
-    "score": 82,
+    "score": 83,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -84,6 +84,18 @@
     "musicbrainz": "https://musicbrainz.org/artist/47a3fb29-e36b-440b-9d3c-3a68cec34396"
   },
   "edges": [
+    {
+      "to": "novelbright",
+      "toName": "Novelbright",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
     {
       "to": "snow-man",
       "toName": "Snow Man",
@@ -97,10 +109,10 @@
       "sources": []
     },
     {
-      "to": "優里",
-      "toName": "優里",
+      "to": "timelesz",
+      "toName": "timelesz",
       "toArea": "日本",
-      "toYears": "1994–",
+      "toYears": "2011–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -109,10 +121,22 @@
       "sources": []
     },
     {
-      "to": "アイナ-ジ-エンド",
-      "toName": "アイナ・ジ・エンド",
+      "to": "travis-japan",
+      "toName": "Travis Japan",
       "toArea": "日本",
-      "toYears": "1994–",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "love",
+      "toName": "=LOVE",
+      "toArea": "日本",
+      "toYears": "2017–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

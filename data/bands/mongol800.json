@@ -1,0 +1,114 @@
+{
+  "id": "mongol800",
+  "mbid": "0f774f0e-052e-48ae-8237-79359b9fd259",
+  "name": "MONGOL800",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2000–",
+  "genres": [
+    "朋克搖滾",
+    "独立摇滚",
+    "斯卡朋克",
+    "日本斯卡"
+  ],
+  "albums": [
+    {
+      "title": "GO ON AS YOU ARE",
+      "year": 2000,
+      "kind": "Album"
+    },
+    {
+      "title": "MESSAGE",
+      "year": 2001,
+      "kind": "Album"
+    },
+    {
+      "title": "百々",
+      "year": 2004,
+      "kind": "Album"
+    },
+    {
+      "title": "Daniel",
+      "year": 2006,
+      "kind": "Album"
+    },
+    {
+      "title": "eight-hundreds",
+      "year": 2009,
+      "kind": "Album"
+    },
+    {
+      "title": "GOOD MORNING OKINAWA",
+      "year": 2013,
+      "kind": "Album"
+    }
+  ],
+  "intro": "MONGOL800，日本冲绳县出身的三人摇滚乐团，1998年组成，隶属于HIGHWAVE。常被简称为“モンパチ”的MONGOL800是日本由地下乐团发迹但逐渐登上主流舞台的团体中非常具有代表性的一个。",
+  "introLang": "zh",
+  "tracks": [
+    "Special thanks!!",
+    "ヨロコビノウタ"
+  ],
+  "trackSources": [
+    {
+      "title": "Special thanks!!"
+    },
+    {
+      "title": "ヨロコビノウタ"
+    }
+  ],
+  "listens": 8879,
+  "listeners": 597,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0f774f0e-052e-48ae-8237-79359b9fd259"
+  },
+  "edges": [
+    {
+      "to": "クリープハイプ",
+      "toName": "クリープハイプ",
+      "toArea": "日本",
+      "toYears": "2001–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "マカロニえんぴつ",
+      "toName": "マカロニえんぴつ",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

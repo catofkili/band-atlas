@@ -1,0 +1,124 @@
+{
+  "id": "m-lk",
+  "mbid": "c209e6c9-bdc6-41b1-8044-6ccbd5896252",
+  "name": "M!LK",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2014–",
+  "genres": [
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "王様の牛乳",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "Time Capsule",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "HOME MADE CHU!?",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "Juvenilizm-青春主義-",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "Jewel",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "M!Ⅹ",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "M!LK是一个由日本经纪公司星尘传播旗下艺人所组成的五人男子歌唱舞蹈团体。2014年11月组成，2015年3月25日发行单曲《コーヒーが饮めません》正式出道。",
+  "introLang": "zh",
+  "tracks": [
+    "Energy",
+    "ERA",
+    "Kiss Plan",
+    "Over The Storm",
+    "Ribbon"
+  ],
+  "trackSources": [
+    {
+      "title": "Energy"
+    },
+    {
+      "title": "ERA"
+    },
+    {
+      "title": "Kiss Plan"
+    },
+    {
+      "title": "Over The Storm"
+    },
+    {
+      "title": "Ribbon"
+    }
+  ],
+  "listens": 2258,
+  "listeners": 108,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c209e6c9-bdc6-41b1-8044-6ccbd5896252"
+  },
+  "edges": [
+    {
+      "to": "平井大",
+      "toName": "平井大",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ini",
+      "toName": "INI",
+      "toArea": "日本",
+      "toYears": "2021–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "number-i",
+      "toName": "Number_i",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

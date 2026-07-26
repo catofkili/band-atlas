@@ -1,6 +1,6 @@
 import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js';
 import { layoutNeighbors } from './layout.js';
-import { createNetworkMap } from './map.js?v=5846f05227';
+import { createNetworkMap } from './map.js?v=7263a1cb4e';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -16,21 +16,37 @@ const sceneEl = document.getElementById('scene-name');
 
 const reduceMotion = window.matchMedia('(prefers-reduced-motion: reduce)');
 const PAN_MS = 680;
+const POPULAR_LISTEN_FLOOR = 1000;
+const POPULAR_STORAGE_KEY = 'band-atlas-hide-cold-v1';
+
+function storedPopularOnly() {
+  try {
+    const stored = localStorage.getItem(POPULAR_STORAGE_KEY);
+    return stored == null ? true : stored !== 'false';
+  } catch {
+    return true;
+  }
+}
 
 let index = null;
+let indexById = new Map();
 let world = null;
 let current = null; // 当前焦点乐队文档
 let slots = []; // 当前邻居槽位
 let busy = false;
 let neighborSelectionSalt = 0;
+let popularOnly = storedPopularOnly();
 const mapEl = document.getElementById('network-map');
 const mapCanvas = document.getElementById('network-canvas');
 const mapStats = document.getElementById('map-stats');
 const mapError = document.getElementById('map-error');
 const mapOpenButton = document.getElementById('map-open');
+const popularToggle = document.getElementById('popular-toggle');
 let mapReturnFocus = null;
 const networkMap = createNetworkMap({
   canvas: mapCanvas,
+  popularOnly,
+  onPopularChange: (enabled) => setPopularOnly(enabled, { fromMap: true }),
   onChoose: (id) => {
     hideNetworkMap();
     jumpTo(id);
@@ -53,6 +69,7 @@ async function showNetworkMap({ trigger = mapOpenButton, preservePointers = fals
   mapStats.textContent = '载入地图…';
   if (!preservePointers) networkMap.cancelPointers();
   try {
+    await networkMap.setPopularOnly(popularOnly);
     await networkMap.open(current.id);
     if (!preservePointers) mapCanvas.focus();
   } catch (error) {
@@ -137,7 +154,10 @@ function render(band, { cameFrom, backAngle, animate = true, reuseSelection = fa
   const { vw, vh } = viewport();
   laidOutFor = { vw, vh };
   if (!reuseSelection) neighborSelectionSalt += 1;
-  slots = layoutNeighbors(band.id, band.edges, {
+  const visibleBand = popularOnly
+    ? { ...band, edges: band.edges.filter((edge) => isPopularBand(edge.to)) }
+    : band;
+  slots = layoutNeighbors(visibleBand.id, visibleBand.edges, {
     cameFrom,
     backAngle,
     vw,
@@ -153,7 +173,7 @@ function render(band, { cameFrom, backAngle, animate = true, reuseSelection = fa
   next.append(edgeLayer);
 
   const focusNode = makeNode('node--focus', 0, 0);
-  focusNode.append(buildFocusCard(band));
+  focusNode.append(buildFocusCard(visibleBand));
   next.append(focusNode);
 
   for (const slot of slots) {
@@ -184,8 +204,8 @@ function render(band, { cameFrom, backAngle, animate = true, reuseSelection = fa
   }
 
   document.title = `${band.name} · 乐队关系网`;
-  setStatus(band);
-  prefetchNeighbors(band);
+  setStatus(visibleBand, band.edges.length);
+  prefetchNeighbors(visibleBand);
 }
 
 /** 盒子在某个方向上的投影长度。 */
@@ -236,15 +256,17 @@ function placeChips(focusCard) {
   }
 }
 
-function setStatus(band) {
+function setStatus(band, fullTotal = band.edges.length) {
   const shown = slots.length;
   const total = band.edges.length;
+  const hidden = fullTotal - total;
+  const prefix = hidden > 0 ? `已隐藏 ${hidden} 条超冷门关系 · ` : '';
   if (total <= 1) {
-    statusEl.textContent = `${band.name} 目前只有 ${total} 条关系 — 数据还很浅`;
+    statusEl.textContent = `${prefix}${band.name} 目前显示 ${total} 条关系`;
   } else if (shown < total) {
-    statusEl.textContent = `边缘显示 ${shown} / ${total} 条关系，其余在卡片内`;
+    statusEl.textContent = `${prefix}边缘显示 ${shown} / ${total} 条关系，其余在卡片内`;
   } else {
-    statusEl.textContent = `${total} 条关系`;
+    statusEl.textContent = `${prefix}${total} 条关系`;
   }
 }
 
@@ -285,8 +307,12 @@ async function travelTo(slot, from = { x: 0, y: 0 }) {
 }
 
 /** 没有来路方向时的跳转（随机、地址栏、卡片内的关系列表）：交叉淡入。 */
-async function jumpTo(id, { push = true } = {}) {
+async function jumpTo(id, { push = true, allowCold = false } = {}) {
   if (busy) return;
+  if (popularOnly && !allowCold && !isPopularBand(id)) {
+    statusEl.textContent = '这支音乐人目前被“隐藏冷门”过滤；关闭筛选后可以进入';
+    return;
+  }
   busy = true;
   try {
     if (!isLoaded(id)) statusEl.textContent = '载入中…';
@@ -309,7 +335,9 @@ const wait = (ms) => new Promise((r) => setTimeout(r, ms));
 
 /** 进站随机：只从关系够多的乐队里挑，避免一开局就是死胡同。 */
 function randomId(exclude) {
-  const candidates = index.bands.filter((band) => band.id !== exclude);
+  const candidates = index.bands.filter(
+    (band) => band.id !== exclude && (!popularOnly || isPopularBand(band.id))
+  );
   const strong = candidates.filter(
     (band) =>
       band.degree >= 3 &&
@@ -334,6 +362,33 @@ function randomId(exclude) {
   }
   return pool.at(-1)?.id ?? candidates[0].id;
 }
+
+function isPopularBand(id) {
+  return (indexById.get(id)?.listens ?? 0) >= POPULAR_LISTEN_FLOOR;
+}
+
+function syncPopularToggle() {
+  popularToggle.setAttribute('aria-pressed', String(popularOnly));
+  popularToggle.textContent = `隐藏冷门：${popularOnly ? '开' : '关'}`;
+}
+
+async function setPopularOnly(enabled, { fromMap = false } = {}) {
+  popularOnly = Boolean(enabled);
+  try {
+    localStorage.setItem(POPULAR_STORAGE_KEY, String(popularOnly));
+  } catch {
+    /* 禁止本地存储的宿主里只保留本次页面状态 */
+  }
+  syncPopularToggle();
+  if (!fromMap) {
+    await networkMap.setPopularOnly(popularOnly, { rebuild: !mapEl.hidden });
+  }
+  if (current) render(current, { animate: false, reuseSelection: true });
+  if (typeof searchEl !== 'undefined' && !searchEl.hidden) runSearch(searchInput.value);
+}
+
+popularToggle.addEventListener('click', () => setPopularOnly(!popularOnly));
+syncPopularToggle();
 
 function idFromHash() {
   const m = location.hash.match(/^#\/band\/(.+)$/);
@@ -575,7 +630,9 @@ const katakanaToHiragana = (text) =>
 function runSearch(raw) {
   const q = compactSearch(raw);
   const qKana = katakanaToHiragana(q);
-  const pool = index?.bands ?? [];
+  const pool = (index?.bands ?? []).filter(
+    (band) => !popularOnly || isPopularBand(band.id) || band.id === current?.id
+  );
 
   if (!q) {
     hits = [...pool]
@@ -686,7 +743,7 @@ document.addEventListener('keydown', (ev) => {
 
 window.addEventListener('hashchange', () => {
   const id = idFromHash();
-  if (id && id !== current?.id) jumpTo(id, { push: false });
+  if (id && id !== current?.id) jumpTo(id, { push: false, allowCold: true });
 });
 
 // 邻居的位置整个是按视口尺寸算出来的，尺寸一变就得重排。
@@ -710,6 +767,7 @@ new ResizeObserver(() => {
 (async function boot() {
   try {
     index = await loadIndex();
+    indexById = new Map(index.bands.map((band) => [band.id, band]));
     sceneEl.textContent = index.scene;
     const legend = document.getElementById('legend');
     for (const [type, meta] of Object.entries(REL)) {

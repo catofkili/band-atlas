@@ -1,0 +1,134 @@
+{
+  "id": "櫻坂46",
+  "mbid": "0ba820db-bb50-4650-a515-d9ba80bf6d34",
+  "name": "櫻坂46",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2015–",
+  "genres": [
+    "偶像流行",
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "真っ白なものは汚したくなる",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "As you know?",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "Addiction",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "樱坂46是日本大型女子偶像团体，为继乃木坂46之后成立的第2个“坂道系列”团体，成立于2015年8月21日，原暂名为“鸟居坂46”，结成时定名为“榉坂46”，2020年10月14日起改为现名，总制作人为秋元康。",
+  "introLang": "zh",
+  "tracks": [
+    "兩人季節",
+    "沉默的多數",
+    "不协和音",
+    "就算風吹",
+    "打破玻璃！"
+  ],
+  "trackSources": [
+    {
+      "title": "兩人季節"
+    },
+    {
+      "title": "沉默的多數"
+    },
+    {
+      "title": "不协和音"
+    },
+    {
+      "title": "就算風吹"
+    },
+    {
+      "title": "打破玻璃！"
+    }
+  ],
+  "listens": 82219,
+  "listeners": 316,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0ba820db-bb50-4650-a515-d9ba80bf6d34"
+  },
+  "edges": [
+    {
+      "to": "babymetal",
+      "toName": "BABYMETAL",
+      "toArea": "日本",
+      "toYears": "2010–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "乃木坂46",
+      "toName": "乃木坂46",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "yama",
+      "toName": "yama",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "なとり",
+      "toName": "なとり",
+      "toArea": "日本",
+      "toYears": "2003–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "fruits-zipper",
+      "toName": "FRUITS ZIPPER",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

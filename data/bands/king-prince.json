@@ -1,0 +1,124 @@
+{
+  "id": "king-prince",
+  "mbid": "7a2a8791-91dd-4bea-95fa-d0bfc0f2c740",
+  "name": "King & Prince",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2015–",
+  "genres": [
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "King & Prince",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "L&",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "Re:Sense",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "Made in",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "ピース",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "Re:ERA",
+      "year": 2024,
+      "kind": "Album"
+    }
+  ],
+  "intro": "King & Prince，简称KinPri粉丝名为Tiara。是日本杰尼斯事务所旗下的2人偶像男子组合，于2018年5月23日发行单曲出道，所属唱片公司为环球音乐。",
+  "introLang": "zh",
+  "tracks": [
+    "I promise",
+    "Life goes on / We are young",
+    "lovin' you/踊るように人生を。",
+    "Magic Touch / Beating Hearts",
+    "Mazy Night"
+  ],
+  "trackSources": [
+    {
+      "title": "I promise"
+    },
+    {
+      "title": "Life goes on / We are young"
+    },
+    {
+      "title": "lovin' you/踊るように人生を。"
+    },
+    {
+      "title": "Magic Touch / Beating Hearts"
+    },
+    {
+      "title": "Mazy Night"
+    }
+  ],
+  "listens": 7587,
+  "listeners": 182,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7a2a8791-91dd-4bea-95fa-d0bfc0f2c740"
+  },
+  "edges": [
+    {
+      "to": "なにわ男子",
+      "toName": "なにわ男子",
+      "toArea": "日本",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "清水翔太",
+      "toName": "清水翔太",
+      "toArea": "日本",
+      "toYears": "1989–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "hana",
+      "toName": "HANA",
+      "toArea": "日本",
+      "toYears": "2025–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

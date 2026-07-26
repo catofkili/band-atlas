@@ -1,0 +1,76 @@
+{
+  "id": "candy-tune",
+  "mbid": "71b68ea5-dcee-4e0b-8297-c027816cedf9",
+  "name": "CANDY TUNE",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2023–",
+  "genres": [
+    "偶像流行",
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "倍倍FIGHT!",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "CANDY TUNE是日本7人女子偶像团体，为ASOBISYSTEM旗下偶像企划“KAWAII LAB.”的第2支团体，于2023年结成。",
+  "introLang": "zh",
+  "listens": 4335,
+  "listeners": 116,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/71b68ea5-dcee-4e0b-8297-c027816cedf9"
+  },
+  "edges": [
+    {
+      "to": "超ときめき-宣伝部",
+      "toName": "超ときめき♡宣伝部",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "fruits-zipper",
+      "toName": "FRUITS ZIPPER",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "cutie-street",
+      "toName": "CUTIE STREET",
+      "toArea": "日本",
+      "toYears": "2024–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

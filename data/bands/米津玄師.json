@@ -114,30 +114,6 @@
       "sources": []
     },
     {
-      "to": "羊文学",
-      "toName": "羊文学",
-      "toArea": "日本",
-      "toYears": "2011–",
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
-      "to": "creepy-nuts",
-      "toName": "Creepy Nuts",
-      "toArea": "日本",
-      "toYears": null,
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
       "to": "藤井風",
       "toName": "藤井風",
       "toArea": "日本",
@@ -186,10 +162,10 @@
       "sources": []
     },
     {
-      "to": "imase",
-      "toName": "imase",
-      "toArea": "日本",
-      "toYears": "2000–",
+      "to": "xg",
+      "toName": "XG",
+      "toArea": "韩国",
+      "toYears": "2022–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

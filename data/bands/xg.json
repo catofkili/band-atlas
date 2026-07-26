@@ -1,0 +1,79 @@
+{
+  "id": "xg",
+  "mbid": "8dfe067c-ae90-472e-80f2-fcee9be4e158",
+  "name": "XG",
+  "artistType": "Group",
+  "area": "韩国",
+  "countryCode": "KR",
+  "country": "韩国",
+  "years": "2022–",
+  "genres": [
+    "当代节奏布鲁斯",
+    "流行音乐",
+    "嘻哈音樂",
+    "节奏布鲁斯",
+    "日本流行音樂",
+    "當代節奏藍調"
+  ],
+  "albums": [
+    {
+      "title": "THE CORE - 核",
+      "year": 2026,
+      "kind": "Album"
+    }
+  ],
+  "intro": "XG是日本由六名女性以及一个指定性别为女性的跨性别男性气质非二元者组成的七人流行音乐团体，活动据点在韩国，成员包括JURIN、CHISA、HINATA、HARVEY、JURIA、MAYA和COCONA。",
+  "introLang": "zh",
+  "listens": 182583,
+  "listeners": 3250,
+  "quality": {
+    "score": 70,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8dfe067c-ae90-472e-80f2-fcee9be4e158"
+  },
+  "edges": [
+    {
+      "to": "宇多田ヒカル",
+      "toName": "宇多田ヒカル",
+      "toArea": "日本",
+      "toYears": "1983–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "米津玄師",
+      "toName": "米津玄師",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "vaundy",
+      "toName": "Vaundy",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

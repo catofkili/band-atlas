@@ -1,0 +1,110 @@
+{
+  "id": "niziu",
+  "mbid": "7e7df33f-85fb-49d5-9de7-efb086b2dc1d",
+  "name": "NiziU",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2020–",
+  "genres": [
+    "日本流行音乐",
+    "日本流行音樂",
+    "韓國流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "U",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "COCONUT",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "New Emotion",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "NiziU，是韩国JYP娱乐和日本索尼音乐娱乐联手创立的日本女子组合，成员通过JYP自制生存实境节目‘Nizi Project’筛选而出，由九名成员MAKO、RIO、MAYA、RIKU、AYAKA、MAYUKA、RIMA、MIIHI和NINA组成。",
+  "introLang": "zh",
+  "tracks": [
+    "Step and a step",
+    "ASOBO",
+    "CLAP CLAP",
+    "Paradise",
+    "Take a picture／Poppin' Shakin'"
+  ],
+  "trackSources": [
+    {
+      "title": "Step and a step"
+    },
+    {
+      "title": "ASOBO"
+    },
+    {
+      "title": "CLAP CLAP"
+    },
+    {
+      "title": "Paradise"
+    },
+    {
+      "title": "Take a picture／Poppin' Shakin'"
+    }
+  ],
+  "listens": 37606,
+  "listeners": 1000,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7e7df33f-85fb-49d5-9de7-efb086b2dc1d"
+  },
+  "edges": [
+    {
+      "to": "あいみょん",
+      "toName": "あいみょん",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ポルノグラフィティ",
+      "toName": "ポルノグラフィティ",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "imase",
+      "toName": "imase",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

@@ -68,10 +68,10 @@
       "sources": []
     },
     {
-      "to": "saucy-dog",
-      "toName": "Saucy Dog",
+      "to": "hy",
+      "toName": "HY",
       "toArea": "日本",
-      "toYears": "2013–",
+      "toYears": "2000–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -80,22 +80,10 @@
       "sources": []
     },
     {
-      "to": "sixtones",
-      "toName": "SixTONES",
+      "to": "mongol800",
+      "toName": "MONGOL800",
       "toArea": "日本",
-      "toYears": "2015–",
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
-      "to": "マカロニえんぴつ",
-      "toName": "マカロニえんぴつ",
-      "toArea": "日本",
-      "toYears": "2012–",
+      "toYears": "2000–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -128,30 +116,6 @@
       "sources": []
     },
     {
-      "to": "新しい学校のリーダーズ",
-      "toName": "新しい学校のリーダーズ",
-      "toArea": "日本",
-      "toYears": "2015–",
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
-      "to": "number-i",
-      "toName": "Number_i",
-      "toArea": "日本",
-      "toYears": "2023–",
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
       "to": "ado",
       "toName": "Ado",
       "toArea": "日本",
@@ -164,22 +128,10 @@
       "sources": []
     },
     {
-      "to": "be-first",
-      "toName": "BE:FIRST",
+      "to": "lana",
+      "toName": "LANA",
       "toArea": "日本",
       "toYears": null,
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
-      "to": "fruits-zipper",
-      "toName": "FRUITS ZIPPER",
-      "toArea": "日本",
-      "toYears": "2022–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

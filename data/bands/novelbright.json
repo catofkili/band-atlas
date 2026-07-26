@@ -1,0 +1,210 @@
+{
+  "id": "novelbright",
+  "mbid": "f1d9bc16-a8a2-4733-9b9d-2e101e010ea0",
+  "name": "Novelbright",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2013–",
+  "genres": [
+    "日本流行音乐",
+    "流行摇滚",
+    "摇滚",
+    "日本搖滾樂"
+  ],
+  "albums": [
+    {
+      "title": "SKYWALK",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "EN.",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "WONDERLAND",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "開幕宣言",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "Assort",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "CIRCUS",
+      "year": 2024,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Novelbright是日本的五人男子摇滚乐团，2013年在大阪组成。昵称为“nobura(ノーブラ)”或“nobebura(ノベブラ)”。",
+  "introLang": "zh",
+  "tracks": [
+    "Cantabile",
+    "ODYSSEY",
+    "PRIDE",
+    "Seeker/ワンルーム",
+    "The Warrior"
+  ],
+  "trackSources": [
+    {
+      "title": "Cantabile"
+    },
+    {
+      "title": "ODYSSEY"
+    },
+    {
+      "title": "PRIDE"
+    },
+    {
+      "title": "Seeker/ワンルーム"
+    },
+    {
+      "title": "The Warrior"
+    }
+  ],
+  "listens": 12560,
+  "listeners": 682,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f1d9bc16-a8a2-4733-9b9d-2e101e010ea0"
+  },
+  "edges": [
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "hy",
+      "toName": "HY",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "jo1",
+      "toName": "JO1",
+      "toArea": "日本",
+      "toYears": "2019–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "orange-range",
+      "toName": "ORANGE RANGE",
+      "toArea": "日本",
+      "toYears": "2001–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "sixtones",
+      "toName": "SixTONES",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "snow-man",
+      "toName": "Snow Man",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "superfly",
+      "toName": "Superfly",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "サザンオールスターズ",
+      "toName": "サザンオールスターズ",
+      "toArea": "涩谷",
+      "toYears": "1974–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ポルノグラフィティ",
+      "toName": "ポルノグラフィティ",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "love",
+      "toName": "=LOVE",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

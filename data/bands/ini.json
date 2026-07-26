@@ -1,0 +1,134 @@
+{
+  "id": "ini",
+  "mbid": "f7b7ba8b-b0f4-4722-bb50-7a13747bdeb2",
+  "name": "INI",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2021–",
+  "genres": [
+    "日本流行音乐",
+    "流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "Awakening",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "MATCH UP",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "THE ORIGIN",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "INI是在2021年日本选秀节目《PRODUCE 101 JAPAN 第二季》中，通过由被称为“国民制作人”的观众投票，从101名练习生中选出的11名练习生而组成的男子组合。",
+  "introLang": "zh",
+  "tracks": [
+    "A (INI单曲)",
+    "I (INI单曲)",
+    "DROP That",
+    "M",
+    "TAG ME"
+  ],
+  "trackSources": [
+    {
+      "title": "A (INI单曲)"
+    },
+    {
+      "title": "I (INI单曲)"
+    },
+    {
+      "title": "DROP That"
+    },
+    {
+      "title": "M"
+    },
+    {
+      "title": "TAG ME"
+    }
+  ],
+  "listens": 2752,
+  "listeners": 216,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f7b7ba8b-b0f4-4722-bb50-7a13747bdeb2"
+  },
+  "edges": [
+    {
+      "to": "m-lk",
+      "toName": "M!LK",
+      "toArea": "日本",
+      "toYears": "2014–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "平井大",
+      "toName": "平井大",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "number-i",
+      "toName": "Number_i",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "lana",
+      "toName": "LANA",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "cutie-street",
+      "toName": "CUTIE STREET",
+      "toArea": "日本",
+      "toYears": "2024–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

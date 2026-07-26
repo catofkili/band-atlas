@@ -59,10 +59,10 @@
   },
   "edges": [
     {
-      "to": "アイナ-ジ-エンド",
-      "toName": "アイナ・ジ・エンド",
+      "to": "m-lk",
+      "toName": "M!LK",
       "toArea": "日本",
-      "toYears": "1994–",
+      "toYears": "2014–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -71,22 +71,22 @@
       "sources": []
     },
     {
-      "to": "be-first",
-      "toName": "BE:FIRST",
+      "to": "ini",
+      "toName": "INI",
+      "toArea": "日本",
+      "toYears": "2021–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "lana",
+      "toName": "LANA",
       "toArea": "日本",
       "toYears": null,
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
-      "to": "fruits-zipper",
-      "toName": "FRUITS ZIPPER",
-      "toArea": "日本",
-      "toYears": "2022–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

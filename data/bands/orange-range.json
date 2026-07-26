@@ -1,0 +1,190 @@
+{
+  "id": "orange-range",
+  "mbid": "fee8e811-a2dc-4c09-8484-3c2aca38c3f9",
+  "name": "ORANGE RANGE",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2001–",
+  "genres": [
+    "日本流行音乐",
+    "流行摇滚",
+    "摇滚",
+    "另类摇滚",
+    "日本流行音樂",
+    "流行搖滾",
+    "強力流行樂",
+    "搖滾嘻哈"
+  ],
+  "albums": [
+    {
+      "title": "オレンジボール",
+      "year": 2002,
+      "kind": "Album"
+    },
+    {
+      "title": "1st CONTACT",
+      "year": 2003,
+      "kind": "Album"
+    },
+    {
+      "title": "musiQ",
+      "year": 2004,
+      "kind": "Album"
+    },
+    {
+      "title": "Иatural",
+      "year": 2005,
+      "kind": "Album"
+    },
+    {
+      "title": "ORANGE RANGE",
+      "year": 2006,
+      "kind": "Album"
+    },
+    {
+      "title": "PANIC FANCY",
+      "year": 2008,
+      "kind": "Album"
+    }
+  ],
+  "intro": "ORANGE RANGE，是一队来自日本冲绳县的五人男子组合乐团。2003年凭一曲“上海HONEY”知名度大升，2004年凭多首优秀作品迅速走红。",
+  "introLang": "zh",
+  "tracks": [
+    "＊〜米字鍵〜",
+    "愛的大行進",
+    "冠軍之歌",
+    "太陽無用",
+    "羈絆"
+  ],
+  "trackSources": [
+    {
+      "title": "＊〜米字鍵〜"
+    },
+    {
+      "title": "愛的大行進"
+    },
+    {
+      "title": "冠軍之歌"
+    },
+    {
+      "title": "太陽無用"
+    },
+    {
+      "title": "羈絆"
+    }
+  ],
+  "listens": 41629,
+  "listeners": 1706,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fee8e811-a2dc-4c09-8484-3c2aca38c3f9"
+  },
+  "edges": [
+    {
+      "to": "back-number",
+      "toName": "back number",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "novelbright",
+      "toName": "Novelbright",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "superfly",
+      "toName": "Superfly",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "サザンオールスターズ",
+      "toName": "サザンオールスターズ",
+      "toArea": "涩谷",
+      "toYears": "1974–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ポルノグラフィティ",
+      "toName": "ポルノグラフィティ",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "羊文学",
+      "toName": "羊文学",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "新しい学校のリーダーズ",
+      "toName": "新しい学校のリーダーズ",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

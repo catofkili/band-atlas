@@ -72,7 +72,7 @@
   "listens": 1091821,
   "listeners": 10503,
   "quality": {
-    "score": 88,
+    "score": 89,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -84,6 +84,18 @@
     "musicbrainz": "https://musicbrainz.org/artist/27e2997f-f7a1-4353-bcc4-57b9274fa9a4"
   },
   "edges": [
+    {
+      "to": "aimer",
+      "toName": "Aimer",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
     {
       "to": "perfume",
       "toName": "Perfume",
@@ -109,10 +121,10 @@
       "sources": []
     },
     {
-      "to": "ado",
-      "toName": "Ado",
+      "to": "櫻坂46",
+      "toName": "櫻坂46",
       "toArea": "日本",
-      "toYears": "2002–",
+      "toYears": "2015–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -121,10 +133,10 @@
       "sources": []
     },
     {
-      "to": "fruits-zipper",
-      "toName": "FRUITS ZIPPER",
+      "to": "ado",
+      "toName": "Ado",
       "toArea": "日本",
-      "toYears": "2022–",
+      "toYears": "2002–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

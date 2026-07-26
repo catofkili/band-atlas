@@ -20,7 +20,7 @@ const STAGES = [
 const OVERSCAN = 2;
 const MAX_SNAPSHOT_PIXELS = 4_000_000;
 const POPULAR_LISTEN_FLOOR = 1000;
-const GRAPH_VERSION = '5846f05227';
+const GRAPH_VERSION = '7263a1cb4e';
 
 const hash = (text) => {
   let value = 2166136261;
@@ -44,7 +44,7 @@ function makeBuffer(width, height) {
   return buffer;
 }
 
-export function createNetworkMap({ canvas, onChoose }) {
+export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopularOnly = true, onPopularChange }) {
   let graph;
   let nodes;
   let positions;
@@ -70,7 +70,7 @@ export function createNetworkMap({ canvas, onChoose }) {
   let offsetY = 0;
   let drag = null;
   let pinch = null;
-  let popularOnly = false;
+  let popularOnly = initialPopularOnly;
   let transformFrame = 0;
   const pointers = new Map();
   const ctx = canvas.getContext('2d', { alpha: false });
@@ -116,16 +116,6 @@ export function createNetworkMap({ canvas, onChoose }) {
       adjacency.get(a.node.id).push(b.node.id);
       adjacency.get(b.node.id).push(a.node.id);
     }
-    if (picker) {
-      const fragment = document.createDocumentFragment();
-      for (const node of [...nodes.values()].sort((a, b) => a.name.localeCompare(b.name, 'zh-CN'))) {
-        const option = document.createElement('option');
-        option.value = node.id;
-        option.textContent = `${node.name}${node.region === 'east-asia' ? ' · 东亚' : ''}`;
-        fragment.append(option);
-      }
-      picker.replaceChildren(fragment);
-    }
   }
 
   function prepareFocus(id) {
@@ -133,6 +123,18 @@ export function createNetworkMap({ canvas, onChoose }) {
       !popularOnly ||
       nodeId === id ||
       (nodes.get(nodeId)?.listens ?? 0) >= POPULAR_LISTEN_FLOOR;
+    if (picker) {
+      const fragment = document.createDocumentFragment();
+      for (const node of [...nodes.values()]
+        .filter((node) => allowed(node.id))
+        .sort((a, b) => a.name.localeCompare(b.name, 'zh-CN'))) {
+        const option = document.createElement('option');
+        option.value = node.id;
+        option.textContent = `${node.name}${node.region === 'east-asia' ? ' · 东亚' : ''}`;
+        fragment.append(option);
+      }
+      picker.replaceChildren(fragment);
+    }
     const hops = new Map([[id, 0]]);
     const queue = [id];
     for (let cursor = 0; cursor < queue.length; cursor += 1) {
@@ -537,15 +539,22 @@ export function createNetworkMap({ canvas, onChoose }) {
     if (picker.value) onChoose(picker.value);
   });
   popularToggle?.addEventListener('click', async () => {
-    popularOnly = !popularOnly;
-    popularToggle.setAttribute('aria-pressed', String(popularOnly));
-    popularToggle.textContent = popularOnly ? '显示全部' : '隐藏超冷门';
-    if (!focusId) return;
+    await setPopularOnly(!popularOnly);
+    onPopularChange?.(popularOnly);
+    canvas.focus();
+  });
+
+  async function setPopularOnly(enabled, { rebuild = true } = {}) {
+    const next = Boolean(enabled);
+    const changed = next !== popularOnly;
+    popularOnly = next;
+    popularToggle?.setAttribute('aria-pressed', String(popularOnly));
+    if (popularToggle) popularToggle.textContent = `隐藏冷门：${popularOnly ? '开' : '关'}`;
+    if (!focusId || !changed || !rebuild) return;
     prepareFocus(focusId);
     wantedStage = stageForScale(scale);
     await preloadStages();
-    canvas.focus();
-  });
+  }
 
   return {
     async open(id) {
@@ -562,6 +571,7 @@ export function createNetworkMap({ canvas, onChoose }) {
     resize() {
       if (focusId) preloadStages();
     },
+    setPopularOnly,
     adoptPointers,
     moveAdoptedPointer: movePointer,
     endAdoptedPointer: endPointer,

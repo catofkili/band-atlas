@@ -1,0 +1,173 @@
+{
+  "id": "aiko",
+  "mbid": "53e90c12-6ad0-4d1e-ad5b-f2e5d0059946",
+  "name": "aiko",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1975–",
+  "genres": [
+    "日本流行音乐",
+    "唱作人",
+    "流行音乐"
+  ],
+  "albums": [
+    {
+      "title": "小さな丸い好日",
+      "year": 1999,
+      "kind": "Album"
+    },
+    {
+      "title": "桜の木の下",
+      "year": 2000,
+      "kind": "Album"
+    },
+    {
+      "title": "astral box + GIRLIE",
+      "year": 2001,
+      "kind": "Album"
+    },
+    {
+      "title": "夏服",
+      "year": 2001,
+      "kind": "Album"
+    },
+    {
+      "title": "秋 そばにいるよ",
+      "year": 2002,
+      "kind": "Album"
+    },
+    {
+      "title": "暁のラブレター",
+      "year": 2003,
+      "kind": "Album"
+    }
+  ],
+  "intro": "aiko是日本的女性创作歌手，出身于大阪府吹田市。作曲及作词皆精通，擅长细腻的情歌以及女性心理的描写。代表作有《烟火》、《独角仙》、《亮晶晶》等。",
+  "introLang": "zh",
+  "tracks": [
+    "沒有星星的世界/側臉",
+    "無法挽回的明日",
+    "相思相愛",
+    "Boy Friend (aiko單曲)",
+    "Honey Memory"
+  ],
+  "trackSources": [
+    {
+      "title": "沒有星星的世界/側臉"
+    },
+    {
+      "title": "無法挽回的明日"
+    },
+    {
+      "title": "相思相愛"
+    },
+    {
+      "title": "Boy Friend (aiko單曲)"
+    },
+    {
+      "title": "Honey Memory"
+    }
+  ],
+  "listens": 26632,
+  "listeners": 667,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/53e90c12-6ad0-4d1e-ad5b-f2e5d0059946"
+  },
+  "edges": [
+    {
+      "to": "da-ice",
+      "toName": "Da‐iCE",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "gre4n-boyz",
+      "toName": "GRe4N BOYZ",
+      "toArea": "日本",
+      "toYears": "2002–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "あいみょん",
+      "toName": "あいみょん",
+      "toArea": "日本",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "星野源",
+      "toName": "星野源",
+      "toArea": "日本",
+      "toYears": "1981–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "akasaki",
+      "toName": "AKASAKI",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "team",
+      "toName": "&TEAM",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "幾田りら",
+      "toName": "幾田りら",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

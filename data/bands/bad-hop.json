@@ -1,0 +1,89 @@
+{
+  "id": "bad-hop",
+  "mbid": "f618ef38-31d5-403f-9623-2d375270c390",
+  "name": "BAD HOP",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2014–2024",
+  "genres": [
+    "嘻哈"
+  ],
+  "albums": [
+    {
+      "title": "Mobb Life",
+      "year": 2017,
+      "kind": "Album"
+    },
+    {
+      "title": "BAD HOP WORLD DELUXE",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "BAD HOP (THE FINAL Edition)",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "BAD HOP FOREVER (ALL TIME BEST)",
+      "year": 2024,
+      "kind": "Album"
+    }
+  ],
+  "intro": "BAD HOP是来自日本的音乐团体，活跃时期为2014–2024，现有资料记录的主要风格包括嘻哈。目前资料收录了《Mobb Life》、《BAD HOP WORLD DELUXE》等作品。",
+  "introLang": "zh",
+  "listens": 1124,
+  "listeners": 163,
+  "quality": {
+    "score": 16,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": false,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f618ef38-31d5-403f-9623-2d375270c390"
+  },
+  "edges": [
+    {
+      "to": "creepy-nuts",
+      "toName": "Creepy Nuts",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ちゃんみな",
+      "toName": "ちゃんみな",
+      "toArea": "日本",
+      "toYears": "1998–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "lana",
+      "toName": "LANA",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

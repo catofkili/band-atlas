@@ -1,0 +1,128 @@
+{
+  "id": "嵐",
+  "mbid": "1008b912-cbb1-4e4c-bd4d-b9adf6937e8e",
+  "name": "嵐",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1999–2026",
+  "genres": [
+    "流行舞曲",
+    "日本流行音乐",
+    "流行音乐",
+    "日本流行音樂",
+    "當代節奏藍調",
+    "泡泡糖流行樂"
+  ],
+  "albums": [
+    {
+      "title": "ARASHI NO.1-嵐は嵐を呼ぶ-",
+      "year": 2001,
+      "kind": "Album"
+    },
+    {
+      "title": "Here We Go!",
+      "year": 2002,
+      "kind": "Album"
+    },
+    {
+      "title": "How's it going?",
+      "year": 2003,
+      "kind": "Album"
+    },
+    {
+      "title": "いざッ、Now",
+      "year": 2004,
+      "kind": "Album"
+    },
+    {
+      "title": "One",
+      "year": 2005,
+      "kind": "Album"
+    },
+    {
+      "title": "ARASHIC",
+      "year": 2006,
+      "kind": "Album"
+    }
+  ],
+  "intro": "岚是日本男子偶像团体，由大野智、樱井翔、相叶雅纪、二宫和也、松本润，由杰尼斯事务所推出。于1999年11月3日发行首张单曲正式出道，所属唱片公司为J Storm。",
+  "introLang": "zh",
+  "tracks": [
+    "A·RA·SHI",
+    "One Love",
+    "Beautiful days",
+    "Believe/烏雲散去，天氣晴",
+    "Happiness"
+  ],
+  "trackSources": [
+    {
+      "title": "A·RA·SHI"
+    },
+    {
+      "title": "One Love"
+    },
+    {
+      "title": "Beautiful days"
+    },
+    {
+      "title": "Believe/烏雲散去，天氣晴"
+    },
+    {
+      "title": "Happiness"
+    }
+  ],
+  "listens": 28599,
+  "listeners": 532,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1008b912-cbb1-4e4c-bd4d-b9adf6937e8e"
+  },
+  "edges": [
+    {
+      "to": "宇多田ヒカル",
+      "toName": "宇多田ヒカル",
+      "toArea": "日本",
+      "toYears": "1983–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "水曜日のカンパネラ",
+      "toName": "水曜日のカンパネラ",
+      "toArea": "涩谷",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "be-first",
+      "toName": "BE:FIRST",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,141 @@
+{
+  "id": "平井大",
+  "mbid": "d04b4d86-222f-4bcd-86d7-c70d33ebd41c",
+  "name": "平井大",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1991–",
+  "genres": [
+    "日本流行音乐",
+    "唱作人",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "Aloha",
+      "year": 2012,
+      "kind": "Album"
+    },
+    {
+      "title": "Dream",
+      "year": 2013,
+      "kind": "Album"
+    },
+    {
+      "title": "ALOOOOHANA!!",
+      "year": 2014,
+      "kind": "Album"
+    },
+    {
+      "title": "Disney Island Music",
+      "year": 2014,
+      "kind": "Album"
+    },
+    {
+      "title": "The Light",
+      "year": 2014,
+      "kind": "Album"
+    },
+    {
+      "title": "Slow & Easy",
+      "year": 2015,
+      "kind": "Album"
+    }
+  ],
+  "intro": "平井 大是日本男创作歌手、尤克里里演奏家、吉他手、词曲作家、编曲家。所属娱乐事务所是TV Asahi Music。所属唱片公司是爱贝克思娱乐，厂牌是avex trax。",
+  "introLang": "zh",
+  "tracks": [
+    "Stand by me, Stand by you.",
+    "THE GIFT",
+    "祈り花"
+  ],
+  "trackSources": [
+    {
+      "title": "Stand by me, Stand by you."
+    },
+    {
+      "title": "THE GIFT"
+    },
+    {
+      "title": "祈り花"
+    }
+  ],
+  "listens": 3140,
+  "listeners": 168,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d04b4d86-222f-4bcd-86d7-c70d33ebd41c"
+  },
+  "edges": [
+    {
+      "to": "m-lk",
+      "toName": "M!LK",
+      "toArea": "日本",
+      "toYears": "2014–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "清水翔太",
+      "toName": "清水翔太",
+      "toArea": "日本",
+      "toYears": "1989–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "菅田将暉",
+      "toName": "菅田将暉",
+      "toArea": "日本",
+      "toYears": "1993–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "akasaki",
+      "toName": "AKASAKI",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ini",
+      "toName": "INI",
+      "toArea": "日本",
+      "toYears": "2021–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

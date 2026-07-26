@@ -1,0 +1,89 @@
+{
+  "id": "cutie-street",
+  "mbid": "0848dd33-fef4-48c4-801c-18ce3a611467",
+  "name": "CUTIE STREET",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2024–",
+  "genres": [
+    "偶像流行",
+    "日本流行音乐"
+  ],
+  "albums": [],
+  "intro": "CUTIE STREET是来自日本的音乐团体，活跃时期为2024–，现有资料记录的主要风格包括偶像流行、日本流行音乐。目前资料收录了《かわいいだけじゃだめですか?》等作品。",
+  "introLang": "zh",
+  "tracks": [
+    "かわいいだけじゃだめですか?"
+  ],
+  "trackSources": [
+    {
+      "title": "かわいいだけじゃだめですか?"
+    }
+  ],
+  "listens": 3589,
+  "listeners": 151,
+  "quality": {
+    "score": 20,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": false
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0848dd33-fef4-48c4-801c-18ce3a611467"
+  },
+  "edges": [
+    {
+      "to": "超ときめき-宣伝部",
+      "toName": "超ときめき♡宣伝部",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ini",
+      "toName": "INI",
+      "toArea": "日本",
+      "toYears": "2021–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "candy-tune",
+      "toName": "CANDY TUNE",
+      "toArea": "日本",
+      "toYears": "2023–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "fruits-zipper",
+      "toName": "FRUITS ZIPPER",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+{
+  "id": "hy",
+  "mbid": "7b049fe5-0af8-4c19-bceb-41b5df99d39d",
+  "name": "HY",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2000–",
+  "genres": [
+    "独立摇滚",
+    "流行摇滚",
+    "另类摇滚",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "DEPARTURE",
+      "year": 2002,
+      "kind": "Album"
+    },
+    {
+      "title": "Street Story",
+      "year": 2003,
+      "kind": "Album"
+    },
+    {
+      "title": "TRUNK",
+      "year": 2004,
+      "kind": "Album"
+    },
+    {
+      "title": "Confidence",
+      "year": 2006,
+      "kind": "Album"
+    },
+    {
+      "title": "HeartY",
+      "year": 2008,
+      "kind": "Album"
+    },
+    {
+      "title": "Whistle",
+      "year": 2010,
+      "kind": "Album"
+    }
+  ],
+  "intro": "HY是来自日本冲绳县的乐队，于2000年成立，共五位团员，其中男性四名，女性一名。团名由来为五位团员的出生地冲绳县宇流麻市的与那城“东屋庆名”，取第一个字母而成。",
+  "introLang": "zh",
+  "tracks": [
+    "レール (HYの曲)"
+  ],
+  "trackSources": [
+    {
+      "title": "レール (HYの曲)"
+    }
+  ],
+  "listens": 5026,
+  "listeners": 363,
+  "quality": {
+    "score": 76,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7b049fe5-0af8-4c19-bceb-41b5df99d39d"
+  },
+  "edges": [
+    {
+      "to": "novelbright",
+      "toName": "Novelbright",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "サザンオールスターズ",
+      "toName": "サザンオールスターズ",
+      "toArea": "涩谷",
+      "toYears": "1974–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "アイナ-ジ-エンド",
+      "toName": "アイナ・ジ・エンド",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

@@ -69,7 +69,7 @@
   "listens": 81223,
   "listeners": 3280,
   "quality": {
-    "score": 48,
+    "score": 47,
     "templateIntro": true,
     "hasGenres": true,
     "hasTracks": true,
@@ -81,18 +81,6 @@
     "musicbrainz": "https://musicbrainz.org/artist/9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2"
   },
   "edges": [
-    {
-      "to": "back-number",
-      "toName": "back number",
-      "toArea": "日本",
-      "toYears": "2004–",
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
     {
       "to": "bump-of-chicken",
       "toName": "BUMP OF CHICKEN",
@@ -118,10 +106,10 @@
       "sources": []
     },
     {
-      "to": "ヨルシカ",
-      "toName": "ヨルシカ",
+      "to": "いきものがかり",
+      "toName": "いきものがかり",
       "toArea": "日本",
-      "toYears": "2017–",
+      "toYears": "1999–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

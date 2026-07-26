@@ -1,0 +1,129 @@
+{
+  "id": "幾田りら",
+  "mbid": "55e42264-ef27-49d8-93fd-29f930dc96e4",
+  "name": "幾田りら",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2000–",
+  "genres": [
+    "日本流行音乐",
+    "唱作人",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "Sketch",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "Laugh",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "几田莉拉是日本女性创作歌手，同时为音乐组合YOASOBI成员、以及不插电音乐组合Plusonica前成员，东京都出身。作为YOASOBI成员时，另以“ikura”的名义进行活动。",
+  "introLang": "zh",
+  "tracks": [
+    "百花缭乱 (几田莉拉歌曲)",
+    "P.S."
+  ],
+  "trackSources": [
+    {
+      "title": "百花缭乱 (几田莉拉歌曲)"
+    },
+    {
+      "title": "P.S."
+    }
+  ],
+  "listens": 23532,
+  "listeners": 1828,
+  "quality": {
+    "score": 83,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/55e42264-ef27-49d8-93fd-29f930dc96e4"
+  },
+  "edges": [
+    {
+      "to": "aiko",
+      "toName": "aiko",
+      "toArea": "日本",
+      "toYears": "1975–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "da-ice",
+      "toName": "Da‐iCE",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "星野源",
+      "toName": "星野源",
+      "toArea": "日本",
+      "toYears": "1981–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "緑黄色社会",
+      "toName": "緑黄色社会",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "akasaki",
+      "toName": "AKASAKI",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ano",
+      "toName": "ano",
+      "toArea": "日本",
+      "toYears": "????–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

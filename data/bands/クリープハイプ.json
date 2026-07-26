@@ -1,0 +1,123 @@
+{
+  "id": "クリープハイプ",
+  "mbid": "3b7bc38c-7e3a-4085-81eb-0440e3b120a7",
+  "name": "クリープハイプ",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2001–",
+  "genres": [
+    "独立摇滚"
+  ],
+  "albums": [
+    {
+      "title": "When I was young, I'd listen to the radio",
+      "year": 2009,
+      "kind": "Album"
+    },
+    {
+      "title": "踊り場から愛を込めて",
+      "year": 2010,
+      "kind": "Album"
+    },
+    {
+      "title": "待ちくたびれて朝がくる",
+      "year": 2011,
+      "kind": "Album"
+    },
+    {
+      "title": "死ぬまで一生愛されてると思ってたよ",
+      "year": 2012,
+      "kind": "Album"
+    },
+    {
+      "title": "吹き零れる程のI、哀、愛",
+      "year": 2013,
+      "kind": "Album"
+    },
+    {
+      "title": "一つになれないなら、せめて二つだけでいよう",
+      "year": 2014,
+      "kind": "Album"
+    }
+  ],
+  "intro": "クリープハイプ是来自日本的音乐团体，活跃时期为2001–，现有资料记录的主要风格包括独立摇滚。目前资料收录了《イト》、《エロ/二十九、三十》、《おやすみ泣き声、さよなら歌姫》、《When I was young, I'd listen to the radio》、《踊り場から愛を込めて》等作品。",
+  "introLang": "zh",
+  "tracks": [
+    "イト",
+    "エロ/二十九、三十",
+    "おやすみ泣き声、さよなら歌姫",
+    "リバーシブルー",
+    "寢癖"
+  ],
+  "trackSources": [
+    {
+      "title": "イト"
+    },
+    {
+      "title": "エロ/二十九、三十"
+    },
+    {
+      "title": "おやすみ泣き声、さよなら歌姫"
+    },
+    {
+      "title": "リバーシブルー"
+    },
+    {
+      "title": "寢癖"
+    }
+  ],
+  "listens": 8981,
+  "listeners": 153,
+  "quality": {
+    "score": 34,
+    "templateIntro": true,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3b7bc38c-7e3a-4085-81eb-0440e3b120a7"
+  },
+  "edges": [
+    {
+      "to": "mongol800",
+      "toName": "MONGOL800",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "マカロニえんぴつ",
+      "toName": "マカロニえんぴつ",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "fruits-zipper",
+      "toName": "FRUITS ZIPPER",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

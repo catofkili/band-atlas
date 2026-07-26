@@ -1,6 +1,6 @@
 {
-  "note": "日本当代热门 Group/Person；MusicBrainz 元数据，ListenBrainz 热度排序，推荐边非事实关系。",
-  "generatedAt": "2026-07-25T18:52:33.241Z",
+  "note": "日本当代热门 Group/Person/Character；MusicBrainz 元数据，ListenBrainz 热度排序，推荐边非事实关系。",
+  "generatedAt": "2026-07-26T01:50:19.749Z",
   "resolved": [
     {
       "rank": 1,
@@ -13,6 +13,15 @@
     },
     {
       "rank": 2,
+      "seedName": "Aimer",
+      "name": "Aimer",
+      "mbid": "9388cee2-7d57-4598-905f-106019b267d3",
+      "artistType": "Person",
+      "listens": 755897,
+      "existing": false
+    },
+    {
+      "rank": 3,
       "seedName": "YOASOBI",
       "name": "YOASOBI",
       "mbid": "df6c619f-4334-43e2-8b6a-4a32af1e4f85",
@@ -21,7 +30,7 @@
       "existing": false
     },
     {
-      "rank": 3,
+      "rank": 4,
       "seedName": "Ado",
       "name": "Ado",
       "mbid": "e134b52f-2e9e-4734-9bc3-bea9648d1fa1",
@@ -30,7 +39,7 @@
       "existing": false
     },
     {
-      "rank": 4,
+      "rank": 5,
       "seedName": "ヨルシカ",
       "name": "ヨルシカ",
       "mbid": "dfc6a151-3792-4695-8fda-f64723eaa788",
@@ -39,7 +48,7 @@
       "existing": false
     },
     {
-      "rank": 5,
+      "rank": 6,
       "seedName": "Perfume",
       "name": "Perfume",
       "mbid": "486067ad-56d6-48b5-957b-d6cfe3e1af73",
@@ -48,7 +57,7 @@
       "existing": false
     },
     {
-      "rank": 6,
+      "rank": 7,
       "seedName": "LiSA",
       "name": "LiSA",
       "mbid": "85d76093-9865-4605-97fa-8c910929d366",
@@ -57,7 +66,7 @@
       "existing": false
     },
     {
-      "rank": 7,
+      "rank": 8,
       "seedName": "宇多田ヒカル",
       "name": "宇多田ヒカル",
       "mbid": "b539e453-c4fe-47e3-8a07-8517eac74429",
@@ -66,7 +75,16 @@
       "existing": false
     },
     {
-      "rank": 8,
+      "rank": 9,
+      "seedName": "XG",
+      "name": "XG",
+      "mbid": "8dfe067c-ae90-472e-80f2-fcee9be4e158",
+      "artistType": "Group",
+      "listens": 182583,
+      "existing": false
+    },
+    {
+      "rank": 10,
       "seedName": "Creepy Nuts",
       "name": "Creepy Nuts",
       "mbid": "e5e045da-59a3-4b65-8bb4-3c7f3ac9a529",
@@ -75,7 +93,7 @@
       "existing": false
     },
     {
-      "rank": 9,
+      "rank": 11,
       "seedName": "米津玄師",
       "name": "米津玄師",
       "mbid": "09d4a85c-4916-4b4e-bc96-c4cfcf371046",
@@ -84,7 +102,7 @@
       "existing": false
     },
     {
-      "rank": 10,
+      "rank": 12,
       "seedName": "Vaundy",
       "name": "Vaundy",
       "mbid": "114b26ff-a1fe-41f3-9df8-5c093afe9c56",
@@ -93,7 +111,7 @@
       "existing": false
     },
     {
-      "rank": 11,
+      "rank": 13,
       "seedName": "藤井風",
       "name": "藤井風",
       "mbid": "c3a4aeca-8f02-4d22-b1ff-693434ab09a8",
@@ -102,7 +120,16 @@
       "existing": false
     },
     {
-      "rank": 12,
+      "rank": 14,
+      "seedName": "星街すいせい",
+      "name": "星街すいせい",
+      "mbid": "8eeb59f4-0071-4261-b1f8-91d8294622d2",
+      "artistType": "Character",
+      "listens": 110489,
+      "existing": false
+    },
+    {
+      "rank": 15,
       "seedName": "Eve",
       "name": "Eve",
       "mbid": "66bdd1c9-d1c5-40b7-a487-5061fffbd87d",
@@ -111,7 +138,7 @@
       "existing": false
     },
     {
-      "rank": 13,
+      "rank": 16,
       "seedName": "ずっと真夜中でいいのに。",
       "name": "ずっと真夜中でいいのに。",
       "mbid": "14d2a235-30e2-489f-b490-f9dc7d2c0861",
@@ -120,7 +147,16 @@
       "existing": false
     },
     {
-      "rank": 14,
+      "rank": 17,
+      "seedName": "いきものがかり",
+      "name": "いきものがかり",
+      "mbid": "18191eea-369f-42e8-96ab-c1c24e4d0011",
+      "artistType": "Group",
+      "listens": 96376,
+      "existing": false
+    },
+    {
+      "rank": 18,
       "seedName": "natori",
       "name": "なとり",
       "mbid": "cad9e169-893d-4432-a23f-3aa16beb9f0e",
@@ -129,7 +165,7 @@
       "existing": false
     },
     {
-      "rank": 15,
+      "rank": 19,
       "seedName": "BUMP OF CHICKEN",
       "name": "BUMP OF CHICKEN",
       "mbid": "0f718079-e5ea-4cfb-b512-b2d04da66901",
@@ -138,7 +174,7 @@
       "existing": true
     },
     {
-      "rank": 16,
+      "rank": 20,
       "seedName": "yama",
       "name": "yama",
       "mbid": "a3becc83-9dab-48c6-9513-e269e1e4c49a",
@@ -147,7 +183,16 @@
       "existing": false
     },
     {
-      "rank": 17,
+      "rank": 21,
+      "seedName": "櫻坂46",
+      "name": "櫻坂46",
+      "mbid": "0ba820db-bb50-4650-a515-d9ba80bf6d34",
+      "artistType": "Group",
+      "listens": 82219,
+      "existing": false
+    },
+    {
+      "rank": 22,
       "seedName": "Mrs. GREEN APPLE",
       "name": "Mrs. GREEN APPLE",
       "mbid": "9ce674b7-5180-41f7-9ac2-95dc0d8a0ed2",
@@ -156,7 +201,7 @@
       "existing": false
     },
     {
-      "rank": 18,
+      "rank": 23,
       "seedName": "水曜日のカンパネラ",
       "name": "水曜日のカンパネラ",
       "mbid": "f9f9f6a1-693b-43da-bbeb-70395bb0a66a",
@@ -165,7 +210,7 @@
       "existing": false
     },
     {
-      "rank": 19,
+      "rank": 24,
       "seedName": "ちゃんみな",
       "name": "ちゃんみな",
       "mbid": "96ec7174-5836-4ff8-8d6a-11d90c7a5e62",
@@ -174,7 +219,7 @@
       "existing": false
     },
     {
-      "rank": 20,
+      "rank": 25,
       "seedName": "羊文学",
       "name": "羊文学",
       "mbid": "cd8858ea-73c4-4c8f-8fcc-5aba0b877688",
@@ -183,7 +228,7 @@
       "existing": false
     },
     {
-      "rank": 21,
+      "rank": 26,
       "seedName": "新しい学校のリーダーズ",
       "name": "新しい学校のリーダーズ",
       "mbid": "12a43a61-e31a-4cac-92a6-c95ce9cdfe3c",
@@ -192,7 +237,7 @@
       "existing": false
     },
     {
-      "rank": 22,
+      "rank": 27,
       "seedName": "tuki.",
       "name": "tuki.",
       "mbid": "1359dfb8-8220-4ebe-aeb9-b759ed737c41",
@@ -201,7 +246,7 @@
       "existing": false
     },
     {
-      "rank": 23,
+      "rank": 28,
       "seedName": "SEKAI NO OWARI",
       "name": "SEKAI NO OWARI",
       "mbid": "d9dbfe6a-8346-4337-8614-fe96aab63927",
@@ -210,7 +255,16 @@
       "existing": false
     },
     {
-      "rank": 24,
+      "rank": 29,
+      "seedName": "乃木坂46",
+      "name": "乃木坂46",
+      "mbid": "466f7b0a-a3e6-435d-8326-b4ef825a609d",
+      "artistType": "Group",
+      "listens": 45616,
+      "existing": false
+    },
+    {
+      "rank": 30,
       "seedName": "あいみょん",
       "name": "あいみょん",
       "mbid": "908d9ac2-5187-4b9e-b281-601c6afb0791",
@@ -219,7 +273,7 @@
       "existing": false
     },
     {
-      "rank": 25,
+      "rank": 31,
       "seedName": "imase",
       "name": "imase",
       "mbid": "bc83173f-c86f-4343-b3e7-aad839a47a54",
@@ -228,7 +282,25 @@
       "existing": false
     },
     {
-      "rank": 26,
+      "rank": 32,
+      "seedName": "ORANGE RANGE",
+      "name": "ORANGE RANGE",
+      "mbid": "fee8e811-a2dc-4c09-8484-3c2aca38c3f9",
+      "artistType": "Group",
+      "listens": 41629,
+      "existing": false
+    },
+    {
+      "rank": 33,
+      "seedName": "NiziU",
+      "name": "NiziU",
+      "mbid": "7e7df33f-85fb-49d5-9de7-efb086b2dc1d",
+      "artistType": "Group",
+      "listens": 37606,
+      "existing": false
+    },
+    {
+      "rank": 34,
       "seedName": "back number",
       "name": "back number",
       "mbid": "f35bfbe2-d30e-402c-9ac1-fa5f90b72ec2",
@@ -237,7 +309,34 @@
       "existing": false
     },
     {
-      "rank": 27,
+      "rank": 35,
+      "seedName": "ポルノグラフィティ",
+      "name": "ポルノグラフィティ",
+      "mbid": "95de09ab-3142-4798-9c70-c2e8e1d7374d",
+      "artistType": "Group",
+      "listens": 31849,
+      "existing": false
+    },
+    {
+      "rank": 36,
+      "seedName": "嵐",
+      "name": "嵐",
+      "mbid": "1008b912-cbb1-4e4c-bd4d-b9adf6937e8e",
+      "artistType": "Group",
+      "listens": 28599,
+      "existing": false
+    },
+    {
+      "rank": 37,
+      "seedName": "Superfly",
+      "name": "Superfly",
+      "mbid": "8b55db74-4717-44e1-b799-35f6e1b8fa10",
+      "artistType": "Group",
+      "listens": 27286,
+      "existing": false
+    },
+    {
+      "rank": 38,
       "seedName": "ano",
       "name": "ano",
       "mbid": "ebb4513e-4aab-4ac9-a949-14e77bb7b836",
@@ -246,7 +345,25 @@
       "existing": false
     },
     {
-      "rank": 28,
+      "rank": 39,
+      "seedName": "aiko",
+      "name": "aiko",
+      "mbid": "53e90c12-6ad0-4d1e-ad5b-f2e5d0059946",
+      "artistType": "Person",
+      "listens": 26632,
+      "existing": false
+    },
+    {
+      "rank": 40,
+      "seedName": "&TEAM",
+      "name": "&TEAM",
+      "mbid": "bba737dc-7ec8-482d-b79f-68d949ef2c7f",
+      "artistType": "Group",
+      "listens": 26213,
+      "existing": false
+    },
+    {
+      "rank": 41,
       "seedName": "Da-iCE",
       "name": "Da‐iCE",
       "mbid": "2fc5c58a-711b-4a11-9b7a-7b5ba1f58e04",
@@ -255,7 +372,25 @@
       "existing": false
     },
     {
-      "rank": 29,
+      "rank": 42,
+      "seedName": "幾田りら",
+      "name": "幾田りら",
+      "mbid": "55e42264-ef27-49d8-93fd-29f930dc96e4",
+      "artistType": "Person",
+      "listens": 23532,
+      "existing": false
+    },
+    {
+      "rank": 43,
+      "seedName": "GReeeeN",
+      "name": "GRe4N BOYZ",
+      "mbid": "9c492c6c-ef67-48e7-b347-a410993b3274",
+      "artistType": "Group",
+      "listens": 22767,
+      "existing": false
+    },
+    {
+      "rank": 44,
       "seedName": "緑黄色社会",
       "name": "緑黄色社会",
       "mbid": "3ed40054-97ab-4783-b3c3-15c2c7b06546",
@@ -264,7 +399,16 @@
       "existing": false
     },
     {
-      "rank": 30,
+      "rank": 45,
+      "seedName": "KinKi Kids",
+      "name": "KinKi Kids",
+      "mbid": "1a07eeb3-bc0c-48c7-ad15-8cbf879c412e",
+      "artistType": "Group",
+      "listens": 21533,
+      "existing": false
+    },
+    {
+      "rank": 46,
       "seedName": "星野源",
       "name": "星野源",
       "mbid": "2c6c53ea-09d4-4d98-b174-c9aa83d4fecf",
@@ -273,7 +417,7 @@
       "existing": false
     },
     {
-      "rank": 31,
+      "rank": 47,
       "seedName": "Omoinotake",
       "name": "Omoinotake",
       "mbid": "61c836d9-5e9e-4db1-94d9-35100a0537e9",
@@ -282,7 +426,25 @@
       "existing": false
     },
     {
-      "rank": 32,
+      "rank": 48,
+      "seedName": "AKASAKI",
+      "name": "AKASAKI",
+      "mbid": "7d915528-c29f-4cec-9575-37212e4936ad",
+      "artistType": "Person",
+      "listens": 16354,
+      "existing": false
+    },
+    {
+      "rank": 49,
+      "seedName": "こっちのけんと",
+      "name": "こっちのけんと",
+      "mbid": "f0d4005f-e138-472b-97f6-02233375ad90",
+      "artistType": "Person",
+      "listens": 15845,
+      "existing": false
+    },
+    {
+      "rank": 50,
       "seedName": "Snow Man",
       "name": "Snow Man",
       "mbid": "1322f39c-cea6-42aa-aa98-3b6b5043b07d",
@@ -291,7 +453,34 @@
       "existing": false
     },
     {
-      "rank": 33,
+      "rank": 51,
+      "seedName": "timelesz",
+      "name": "timelesz",
+      "mbid": "057927dd-b6bf-4c58-ae51-cceaf1ee58ac",
+      "artistType": "Group",
+      "listens": 13664,
+      "existing": false
+    },
+    {
+      "rank": 52,
+      "seedName": "Travis Japan",
+      "name": "Travis Japan",
+      "mbid": "b665cecc-e94c-4b3a-9c91-76869fa92b1d",
+      "artistType": "Group",
+      "listens": 13234,
+      "existing": false
+    },
+    {
+      "rank": 53,
+      "seedName": "＝LOVE",
+      "name": "=LOVE",
+      "mbid": "28abfefb-cceb-4605-8330-a53b6d161403",
+      "artistType": "Group",
+      "listens": 12847,
+      "existing": false
+    },
+    {
+      "rank": 54,
       "seedName": "SixTONES",
       "name": "SixTONES",
       "mbid": "47a3fb29-e36b-440b-9d3c-3a68cec34396",
@@ -300,7 +489,34 @@
       "existing": false
     },
     {
-      "rank": 34,
+      "rank": 55,
+      "seedName": "サザンオールスターズ",
+      "name": "サザンオールスターズ",
+      "mbid": "24d9e513-c215-4901-87ee-b66aa769ab9d",
+      "artistType": "Group",
+      "listens": 12657,
+      "existing": false
+    },
+    {
+      "rank": 56,
+      "seedName": "Novelbright",
+      "name": "Novelbright",
+      "mbid": "f1d9bc16-a8a2-4733-9b9d-2e101e010ea0",
+      "artistType": "Group",
+      "listens": 12560,
+      "existing": false
+    },
+    {
+      "rank": 57,
+      "seedName": "JO1",
+      "name": "JO1",
+      "mbid": "331a87af-4abd-494e-9254-c1d66b3260e2",
+      "artistType": "Group",
+      "listens": 11982,
+      "existing": false
+    },
+    {
+      "rank": 58,
       "seedName": "優里",
       "name": "優里",
       "mbid": "4337f1a5-9e02-4b46-98c3-e3c28683a9b5",
@@ -309,7 +525,7 @@
       "existing": false
     },
     {
-      "rank": 35,
+      "rank": 59,
       "seedName": "BE:FIRST",
       "name": "BE:FIRST",
       "mbid": "c11b6e14-9a78-40c3-b70c-c46e8b819637",
@@ -318,7 +534,7 @@
       "existing": false
     },
     {
-      "rank": 36,
+      "rank": 60,
       "seedName": "アイナ・ジ・エンド",
       "name": "アイナ・ジ・エンド",
       "mbid": "19827018-8590-4ff1-9ab1-d12296e75a63",
@@ -327,7 +543,25 @@
       "existing": false
     },
     {
-      "rank": 37,
+      "rank": 61,
+      "seedName": "クリープハイプ",
+      "name": "クリープハイプ",
+      "mbid": "3b7bc38c-7e3a-4085-81eb-0440e3b120a7",
+      "artistType": "Group",
+      "listens": 8981,
+      "existing": false
+    },
+    {
+      "rank": 62,
+      "seedName": "MONGOL800",
+      "name": "MONGOL800",
+      "mbid": "0f774f0e-052e-48ae-8237-79359b9fd259",
+      "artistType": "Group",
+      "listens": 8879,
+      "existing": false
+    },
+    {
+      "rank": 63,
       "seedName": "マカロニえんぴつ",
       "name": "マカロニえんぴつ",
       "mbid": "c65f10b6-be99-4e3a-a010-2a11fd965780",
@@ -336,7 +570,7 @@
       "existing": false
     },
     {
-      "rank": 38,
+      "rank": 64,
       "seedName": "FRUITS ZIPPER",
       "name": "FRUITS ZIPPER",
       "mbid": "29b34cc3-b362-4f0b-ab02-e6ccaf8cafc2",
@@ -345,7 +579,52 @@
       "existing": false
     },
     {
-      "rank": 39,
+      "rank": 65,
+      "seedName": "HANA",
+      "name": "HANA",
+      "mbid": "0c8c6c7a-aa33-400d-b297-d45ea1ecfc86",
+      "artistType": "Group",
+      "listens": 8088,
+      "existing": false
+    },
+    {
+      "rank": 66,
+      "seedName": "King & Prince",
+      "name": "King & Prince",
+      "mbid": "7a2a8791-91dd-4bea-95fa-d0bfc0f2c740",
+      "artistType": "Group",
+      "listens": 7587,
+      "existing": false
+    },
+    {
+      "rank": 67,
+      "seedName": "清水翔太",
+      "name": "清水翔太",
+      "mbid": "9262c0e1-c37e-4b87-896f-f394e70515fa",
+      "artistType": "Person",
+      "listens": 7546,
+      "existing": false
+    },
+    {
+      "rank": 68,
+      "seedName": "なにわ男子",
+      "name": "なにわ男子",
+      "mbid": "91460ddb-8d0a-41af-bf3e-0e78616d4f08",
+      "artistType": "Group",
+      "listens": 6697,
+      "existing": false
+    },
+    {
+      "rank": 69,
+      "seedName": "Tani Yuuki",
+      "name": "Tani Yuuki",
+      "mbid": "272981dd-20c8-424a-b86a-0d0ebb95f692",
+      "artistType": "Person",
+      "listens": 6375,
+      "existing": false
+    },
+    {
+      "rank": 70,
       "seedName": "Saucy Dog",
       "name": "Saucy Dog",
       "mbid": "76c63dd7-96d1-42d9-a596-4d576a464008",
@@ -354,12 +633,102 @@
       "existing": false
     },
     {
-      "rank": 40,
+      "rank": 71,
+      "seedName": "菅田将暉",
+      "name": "菅田将暉",
+      "mbid": "264955bb-3412-4ab5-9ba5-4423a28b3641",
+      "artistType": "Person",
+      "listens": 5836,
+      "existing": false
+    },
+    {
+      "rank": 72,
+      "seedName": "超ときめき♡宣伝部",
+      "name": "超ときめき♡宣伝部",
+      "mbid": "b901c170-0045-4555-8472-8ff0d59cbefe",
+      "artistType": "Group",
+      "listens": 5682,
+      "existing": false
+    },
+    {
+      "rank": 73,
+      "seedName": "HY",
+      "name": "HY",
+      "mbid": "7b049fe5-0af8-4c19-bceb-41b5df99d39d",
+      "artistType": "Group",
+      "listens": 5026,
+      "existing": false
+    },
+    {
+      "rank": 74,
+      "seedName": "CANDY TUNE",
+      "name": "CANDY TUNE",
+      "mbid": "71b68ea5-dcee-4e0b-8297-c027816cedf9",
+      "artistType": "Group",
+      "listens": 4335,
+      "existing": false
+    },
+    {
+      "rank": 75,
+      "seedName": "CUTIE STREET",
+      "name": "CUTIE STREET",
+      "mbid": "0848dd33-fef4-48c4-801c-18ce3a611467",
+      "artistType": "Group",
+      "listens": 3589,
+      "existing": false
+    },
+    {
+      "rank": 76,
+      "seedName": "LANA",
+      "name": "LANA",
+      "mbid": "9ac6b30d-472b-4744-afe0-aa7e7e6b2729",
+      "artistType": "Person",
+      "listens": 3197,
+      "existing": false
+    },
+    {
+      "rank": 77,
+      "seedName": "平井大",
+      "name": "平井大",
+      "mbid": "d04b4d86-222f-4bcd-86d7-c70d33ebd41c",
+      "artistType": "Person",
+      "listens": 3140,
+      "existing": false
+    },
+    {
+      "rank": 78,
+      "seedName": "INI",
+      "name": "INI",
+      "mbid": "f7b7ba8b-b0f4-4722-bb50-7a13747bdeb2",
+      "artistType": "Group",
+      "listens": 2752,
+      "existing": false
+    },
+    {
+      "rank": 79,
+      "seedName": "M!LK",
+      "name": "M!LK",
+      "mbid": "c209e6c9-bdc6-41b1-8044-6ccbd5896252",
+      "artistType": "Group",
+      "listens": 2258,
+      "existing": false
+    },
+    {
+      "rank": 80,
       "seedName": "Number_i",
       "name": "Number_i",
       "mbid": "126a09d9-04a2-4d06-9cc7-eea581007a0f",
       "artistType": "Group",
       "listens": 1885,
+      "existing": false
+    },
+    {
+      "rank": 81,
+      "seedName": "BAD HOP",
+      "name": "BAD HOP",
+      "mbid": "f618ef38-31d5-403f-9623-2d375270c390",
+      "artistType": "Group",
+      "listens": 1124,
       "existing": false
     }
   ],
@@ -413,6 +782,63 @@
         }
       ],
       "intro": "BABYMETAL是来自日本的音乐组合。现有资料收录了5张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "aimer",
+      "mbid": "9388cee2-7d57-4598-905f-106019b267d3",
+      "name": "Aimer",
+      "artistType": "Person",
+      "aliases": [
+        "AimerOfficialVEVO",
+        "Emi Fujimoto",
+        "aimerrhythm",
+        "エメ",
+        "エメリズム",
+        "フジモトエミ",
+        "藤本恵実"
+      ],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": null,
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "Sleepless Nights",
+          "year": 2012,
+          "kind": "Album"
+        },
+        {
+          "title": "Midnight Sun",
+          "year": 2014,
+          "kind": "Album"
+        },
+        {
+          "title": "UnChild",
+          "year": 2014,
+          "kind": "Album"
+        },
+        {
+          "title": "DAWN",
+          "year": 2015,
+          "kind": "Album"
+        },
+        {
+          "title": "daydream",
+          "year": 2016,
+          "kind": "Album"
+        },
+        {
+          "title": "Penny Rain",
+          "year": 2019,
+          "kind": "Album"
+        }
+      ],
+      "intro": "Aimer是来自日本的音乐人。现有资料收录了6张代表专辑或EP。",
       "introLang": "zh",
       "introTemplate": true
     },
@@ -723,6 +1149,37 @@
       "introTemplate": true
     },
     {
+      "id": "xg",
+      "mbid": "8dfe067c-ae90-472e-80f2-fcee9be4e158",
+      "name": "XG",
+      "artistType": "Group",
+      "aliases": [
+        "Xtraordinary Genes",
+        "Xtraordinary Girls",
+        "エックスジー",
+        "엑스지",
+        "특별한 소녀들"
+      ],
+      "area": "Tokyo",
+      "countryCode": "KR",
+      "country": "韩国",
+      "years": "2022–",
+      "genres": [
+        "当代节奏布鲁斯",
+        "流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "THE CORE - 核",
+          "year": 2026,
+          "kind": "Album"
+        }
+      ],
+      "intro": "XG是来自日本的音乐组合。现有资料收录了1张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
       "id": "creepy-nuts",
       "mbid": "e5e045da-59a3-4b65-8bb4-3c7f3ac9a529",
       "name": "Creepy Nuts",
@@ -900,6 +1357,48 @@
       "introTemplate": true
     },
     {
+      "id": "星街すいせい",
+      "mbid": "8eeb59f4-0071-4261-b1f8-91d8294622d2",
+      "name": "星街すいせい",
+      "artistType": "Character",
+      "aliases": [
+        "Hoshimachi, Suisei",
+        "Hoshimachi Suisei",
+        "Suisei Hoshimachi",
+        "Suisei Hosimati",
+        "ほしまち すいせい",
+        "ほしまちすいせい",
+        "星街彗星"
+      ],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2018–",
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "Still Still Stellar",
+          "year": 2021,
+          "kind": "Album"
+        },
+        {
+          "title": "Specter",
+          "year": 2023,
+          "kind": "Album"
+        },
+        {
+          "title": "新星目録",
+          "year": 2025,
+          "kind": "Album"
+        }
+      ],
+      "intro": "星街すいせい是来自日本的虚拟音乐人。现有资料收录了3张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
       "id": "eve",
       "mbid": "66bdd1c9-d1c5-40b7-a487-5061fffbd87d",
       "name": "Eve",
@@ -1000,6 +1499,63 @@
       "introTemplate": true
     },
     {
+      "id": "いきものがかり",
+      "mbid": "18191eea-369f-42e8-96ab-c1c24e4d0011",
+      "name": "いきものがかり",
+      "artistType": "Group",
+      "aliases": [
+        "ikimonogakari",
+        "Ikimono Gakari",
+        "Ikimonogakari",
+        "生物股長",
+        "生物股长",
+        "이키모노가카리"
+      ],
+      "area": "Kanagawa",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "1999–",
+      "genres": [
+        "日本流行音乐",
+        "流行摇滚"
+      ],
+      "albums": [
+        {
+          "title": "誠に僭越ながらファーストアルバムを拵えました…",
+          "year": 2003,
+          "kind": "Album"
+        },
+        {
+          "title": "七色こんにゃく",
+          "year": 2004,
+          "kind": "Album"
+        },
+        {
+          "title": "人生すごろくだべ。",
+          "year": 2005,
+          "kind": "Album"
+        },
+        {
+          "title": "桜咲く街物語",
+          "year": 2007,
+          "kind": "Album"
+        },
+        {
+          "title": "My song Your song",
+          "year": 2008,
+          "kind": "Album"
+        },
+        {
+          "title": "ライフアルバム",
+          "year": 2008,
+          "kind": "Album"
+        }
+      ],
+      "intro": "いきものがかり是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
       "id": "なとり",
       "mbid": "cad9e169-893d-4432-a23f-3aa16beb9f0e",
       "name": "なとり",
@@ -1068,6 +1624,47 @@
         }
       ],
       "intro": "yama是来自日本的音乐人。现有资料收录了4张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "櫻坂46",
+      "mbid": "0ba820db-bb50-4650-a515-d9ba80bf6d34",
+      "name": "櫻坂46",
+      "artistType": "Group",
+      "aliases": [
+        "Sakurazaka46",
+        "Keyakizaka",
+        "Keyakizaka46",
+        "Sakurazaka",
+        "欅坂46"
+      ],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2015–",
+      "genres": [
+        "偶像流行",
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "真っ白なものは汚したくなる",
+          "year": 2017,
+          "kind": "Album"
+        },
+        {
+          "title": "As you know?",
+          "year": 2022,
+          "kind": "Album"
+        },
+        {
+          "title": "Addiction",
+          "year": 2025,
+          "kind": "Album"
+        }
+      ],
+      "intro": "櫻坂46是来自日本的音乐组合。现有资料收录了3张代表专辑或EP。",
       "introLang": "zh",
       "introTemplate": true
     },
@@ -1376,6 +1973,56 @@
       "introTemplate": true
     },
     {
+      "id": "乃木坂46",
+      "mbid": "466f7b0a-a3e6-435d-8326-b4ef825a609d",
+      "name": "乃木坂46",
+      "artistType": "Group",
+      "aliases": [
+        "Nogizaka46",
+        "N46",
+        "NOGISAKA46",
+        "Nogizaka"
+      ],
+      "area": "Minato",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2011–",
+      "genres": [
+        "偶像流行",
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "透明な色",
+          "year": 2015,
+          "kind": "Album"
+        },
+        {
+          "title": "それぞれの椅子",
+          "year": 2016,
+          "kind": "Album"
+        },
+        {
+          "title": "生まれてから初めて見た夢",
+          "year": 2017,
+          "kind": "Album"
+        },
+        {
+          "title": "今が思い出になるまで",
+          "year": 2019,
+          "kind": "Album"
+        },
+        {
+          "title": "My respect",
+          "year": 2026,
+          "kind": "Album"
+        }
+      ],
+      "intro": "乃木坂46是来自日本的音乐组合。现有资料收录了5张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
       "id": "あいみょん",
       "mbid": "908d9ac2-5187-4b9e-b281-601c6afb0791",
       "name": "あいみょん",
@@ -1459,6 +2106,97 @@
       "introTemplate": true
     },
     {
+      "id": "orange-range",
+      "mbid": "fee8e811-a2dc-4c09-8484-3c2aca38c3f9",
+      "name": "ORANGE RANGE",
+      "artistType": "Group",
+      "aliases": [
+        "オレンジレンジ",
+        "オレンジ・レンジ"
+      ],
+      "area": "Okinawa",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2001–",
+      "genres": [
+        "日本流行音乐",
+        "流行摇滚",
+        "摇滚"
+      ],
+      "albums": [
+        {
+          "title": "オレンジボール",
+          "year": 2002,
+          "kind": "Album"
+        },
+        {
+          "title": "1st CONTACT",
+          "year": 2003,
+          "kind": "Album"
+        },
+        {
+          "title": "musiQ",
+          "year": 2004,
+          "kind": "Album"
+        },
+        {
+          "title": "Иatural",
+          "year": 2005,
+          "kind": "Album"
+        },
+        {
+          "title": "ORANGE RANGE",
+          "year": 2006,
+          "kind": "Album"
+        },
+        {
+          "title": "PANIC FANCY",
+          "year": 2008,
+          "kind": "Album"
+        }
+      ],
+      "intro": "ORANGE RANGE是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "niziu",
+      "mbid": "7e7df33f-85fb-49d5-9de7-efb086b2dc1d",
+      "name": "NiziU",
+      "artistType": "Group",
+      "aliases": [
+        "ニジュー",
+        "니쥬"
+      ],
+      "area": "Seoul",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2020–",
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "U",
+          "year": 2021,
+          "kind": "Album"
+        },
+        {
+          "title": "COCONUT",
+          "year": 2023,
+          "kind": "Album"
+        },
+        {
+          "title": "New Emotion",
+          "year": 2025,
+          "kind": "Album"
+        }
+      ],
+      "intro": "NiziU是来自日本的音乐组合。现有资料收录了3张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
       "id": "back-number",
       "mbid": "f35bfbe2-d30e-402c-9ac1-fa5f90b72ec2",
       "name": "back number",
@@ -1510,6 +2248,168 @@
       "introTemplate": true
     },
     {
+      "id": "ポルノグラフィティ",
+      "mbid": "95de09ab-3142-4798-9c70-c2e8e1d7374d",
+      "name": "ポルノグラフィティ",
+      "artistType": "Group",
+      "aliases": [
+        "PornoGraffitti",
+        "Porno Graffiti",
+        "Porno Graffitty",
+        "Porno Graffity",
+        "Porno Grafiti",
+        "Porno Grafitti",
+        "Porno Grafitty",
+        "Porno Grafity",
+        "pornograffiti"
+      ],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "1994–",
+      "genres": [
+        "日本流行音乐",
+        "摇滚"
+      ],
+      "albums": [
+        {
+          "title": "ロマンチスト・エゴイスト",
+          "year": 2000,
+          "kind": "Album"
+        },
+        {
+          "title": "foo?",
+          "year": 2001,
+          "kind": "Album"
+        },
+        {
+          "title": "雲をも掴む民",
+          "year": 2002,
+          "kind": "Album"
+        },
+        {
+          "title": "WORLDILLIA",
+          "year": 2003,
+          "kind": "Album"
+        },
+        {
+          "title": "THUMPχ",
+          "year": 2005,
+          "kind": "Album"
+        },
+        {
+          "title": "m-CABI",
+          "year": 2006,
+          "kind": "Album"
+        }
+      ],
+      "intro": "ポルノグラフィティ是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "嵐",
+      "mbid": "1008b912-cbb1-4e4c-bd4d-b9adf6937e8e",
+      "name": "嵐",
+      "artistType": "Group",
+      "aliases": [
+        "Arashi"
+      ],
+      "area": "Honolulu",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "1999–2026",
+      "genres": [
+        "流行舞曲",
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "ARASHI NO.1-嵐は嵐を呼ぶ-",
+          "year": 2001,
+          "kind": "Album"
+        },
+        {
+          "title": "Here We Go!",
+          "year": 2002,
+          "kind": "Album"
+        },
+        {
+          "title": "How's it going?",
+          "year": 2003,
+          "kind": "Album"
+        },
+        {
+          "title": "いざッ、Now",
+          "year": 2004,
+          "kind": "Album"
+        },
+        {
+          "title": "One",
+          "year": 2005,
+          "kind": "Album"
+        },
+        {
+          "title": "ARASHIC",
+          "year": 2006,
+          "kind": "Album"
+        }
+      ],
+      "intro": "嵐是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "superfly",
+      "mbid": "8b55db74-4717-44e1-b799-35f6e1b8fa10",
+      "name": "Superfly",
+      "artistType": "Group",
+      "aliases": [],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2004–",
+      "genres": [
+        "日本流行音乐",
+        "流行摇滚"
+      ],
+      "albums": [
+        {
+          "title": "Superfly",
+          "year": 2008,
+          "kind": "Album"
+        },
+        {
+          "title": "Box Emotions",
+          "year": 2009,
+          "kind": "Album"
+        },
+        {
+          "title": "Mind Travel",
+          "year": 2011,
+          "kind": "Album"
+        },
+        {
+          "title": "Force",
+          "year": 2012,
+          "kind": "Album"
+        },
+        {
+          "title": "WHITE",
+          "year": 2015,
+          "kind": "Album"
+        },
+        {
+          "title": "0",
+          "year": 2020,
+          "kind": "Album"
+        }
+      ],
+      "intro": "Superfly是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
       "id": "ano",
       "mbid": "ebb4513e-4aab-4ac9-a949-14e77bb7b836",
       "name": "ano",
@@ -1537,6 +2437,90 @@
         }
       ],
       "intro": "ano是来自日本的音乐人。现有资料收录了2张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "aiko",
+      "mbid": "53e90c12-6ad0-4d1e-ad5b-f2e5d0059946",
+      "name": "aiko",
+      "artistType": "Person",
+      "aliases": [
+        "柳井愛子"
+      ],
+      "area": "Suita",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "1975–",
+      "genres": [
+        "日本流行音乐",
+        "唱作人"
+      ],
+      "albums": [
+        {
+          "title": "小さな丸い好日",
+          "year": 1999,
+          "kind": "Album"
+        },
+        {
+          "title": "桜の木の下",
+          "year": 2000,
+          "kind": "Album"
+        },
+        {
+          "title": "astral box + GIRLIE",
+          "year": 2001,
+          "kind": "Album"
+        },
+        {
+          "title": "夏服",
+          "year": 2001,
+          "kind": "Album"
+        },
+        {
+          "title": "秋 そばにいるよ",
+          "year": 2002,
+          "kind": "Album"
+        },
+        {
+          "title": "暁のラブレター",
+          "year": 2003,
+          "kind": "Album"
+        }
+      ],
+      "intro": "aiko是来自日本的音乐人。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "team",
+      "mbid": "bba737dc-7ec8-482d-b79f-68d949ef2c7f",
+      "name": "&TEAM",
+      "artistType": "Group",
+      "aliases": [
+        "アンドチーム",
+        "앤팀"
+      ],
+      "area": "Tokyo",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2022–",
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "First Howling : NOW",
+          "year": 2023,
+          "kind": "Album"
+        },
+        {
+          "title": "雪明かり (Yukiakari)",
+          "year": 2024,
+          "kind": "Album"
+        }
+      ],
+      "intro": "&TEAM是来自日本的音乐组合。现有资料收录了2张代表专辑或EP。",
       "introLang": "zh",
       "introTemplate": true
     },
@@ -1592,6 +2576,89 @@
       "introTemplate": true
     },
     {
+      "id": "幾田りら",
+      "mbid": "55e42264-ef27-49d8-93fd-29f930dc96e4",
+      "name": "幾田りら",
+      "artistType": "Person",
+      "aliases": [
+        "Ikuta, Lilas",
+        "Lilas Ikuta"
+      ],
+      "area": "Tokyo",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2000–",
+      "genres": [
+        "日本流行音乐",
+        "唱作人"
+      ],
+      "albums": [
+        {
+          "title": "Sketch",
+          "year": 2023,
+          "kind": "Album"
+        },
+        {
+          "title": "Laugh",
+          "year": 2025,
+          "kind": "Album"
+        }
+      ],
+      "intro": "幾田りら是来自日本的音乐人。现有资料收录了2张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "gre4n-boyz",
+      "mbid": "9c492c6c-ef67-48e7-b347-a410993b3274",
+      "name": "GRe4N BOYZ",
+      "artistType": "Group",
+      "aliases": [
+        "GReeeN",
+        "GReeeeN"
+      ],
+      "area": "Kōriyama",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2002–",
+      "genres": [],
+      "albums": [
+        {
+          "title": "あっ、ども。はじめまして。",
+          "year": 2007,
+          "kind": "Album"
+        },
+        {
+          "title": "あっ、ども。おひさしぶりです。",
+          "year": 2008,
+          "kind": "Album"
+        },
+        {
+          "title": "塩、コショウ",
+          "year": 2009,
+          "kind": "Album"
+        },
+        {
+          "title": "歌うたいが歌うたいに来て 歌うたえと言うが 歌うたいが歌うたうだけうたい切れば 歌うたうけれども 歌うたいだけ 歌うたい切れないから 歌うたわぬ！？",
+          "year": 2012,
+          "kind": "Album"
+        },
+        {
+          "title": "いいね！（´・ω・｀）☆",
+          "year": 2013,
+          "kind": "Album"
+        },
+        {
+          "title": "今から親指が消える手品しまーす。",
+          "year": 2014,
+          "kind": "Album"
+        }
+      ],
+      "intro": "GRe4N BOYZ是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
       "id": "緑黄色社会",
       "mbid": "3ed40054-97ab-4783-b3c3-15c2c7b06546",
       "name": "緑黄色社会",
@@ -1637,6 +2704,55 @@
         }
       ],
       "intro": "緑黄色社会是来自日本的音乐组合。现有资料收录了5张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "kinki-kids",
+      "mbid": "1a07eeb3-bc0c-48c7-ad15-8cbf879c412e",
+      "name": "KinKi Kids",
+      "artistType": "Group",
+      "aliases": [
+        "DOMOTO"
+      ],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "1992–",
+      "genres": [],
+      "albums": [
+        {
+          "title": "A Album",
+          "year": 1997,
+          "kind": "Album"
+        },
+        {
+          "title": "B album",
+          "year": 1998,
+          "kind": "Album"
+        },
+        {
+          "title": "C Album",
+          "year": 1999,
+          "kind": "Album"
+        },
+        {
+          "title": "D album",
+          "year": 2000,
+          "kind": "Album"
+        },
+        {
+          "title": "E album",
+          "year": 2001,
+          "kind": "Album"
+        },
+        {
+          "title": "F album",
+          "year": 2002,
+          "kind": "Album"
+        }
+      ],
+      "intro": "KinKi Kids是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
       "introLang": "zh",
       "introTemplate": true
     },
@@ -1727,6 +2843,68 @@
       "introTemplate": true
     },
     {
+      "id": "akasaki",
+      "mbid": "7d915528-c29f-4cec-9575-37212e4936ad",
+      "name": "AKASAKI",
+      "artistType": "Person",
+      "aliases": [],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2007–",
+      "genres": [
+        "日本流行音乐",
+        "流行音乐",
+        "唱作人"
+      ],
+      "albums": [
+        {
+          "title": "AKASAKI - 2024",
+          "year": 2024,
+          "kind": "Album"
+        },
+        {
+          "title": "18才",
+          "year": 2025,
+          "kind": "Album"
+        },
+        {
+          "title": "last YOUNG",
+          "year": 2026,
+          "kind": "Album"
+        }
+      ],
+      "intro": "AKASAKI是来自日本的音乐人。现有资料收录了3张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "こっちのけんと",
+      "mbid": "f0d4005f-e138-472b-97f6-02233375ad90",
+      "name": "こっちのけんと",
+      "artistType": "Person",
+      "aliases": [
+        "Kocchi no Kento",
+        "Kento Sugō",
+        "菅生健人"
+      ],
+      "area": "Minoh",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "1996–",
+      "genres": [],
+      "albums": [
+        {
+          "title": "けっかおーらい EP",
+          "year": 2025,
+          "kind": "EP"
+        }
+      ],
+      "intro": "こっちのけんと是来自日本的音乐人。现有资料收录了1张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
       "id": "snow-man",
       "mbid": "1322f39c-cea6-42aa-aa98-3b6b5043b07d",
       "name": "Snow Man",
@@ -1767,6 +2945,128 @@
         }
       ],
       "intro": "Snow Man是来自日本的音乐组合。现有资料收录了5张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "timelesz",
+      "mbid": "057927dd-b6bf-4c58-ae51-cceaf1ee58ac",
+      "name": "timelesz",
+      "artistType": "Group",
+      "aliases": [
+        "Sexy Zone"
+      ],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2011–",
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "one Sexy Zone",
+          "year": 2012,
+          "kind": "Album"
+        },
+        {
+          "title": "Sexy Second",
+          "year": 2014,
+          "kind": "Album"
+        },
+        {
+          "title": "Sexy Power3",
+          "year": 2015,
+          "kind": "Album"
+        },
+        {
+          "title": "Welcome to Sexy Zone",
+          "year": 2016,
+          "kind": "Album"
+        },
+        {
+          "title": "XYZ=repainting",
+          "year": 2018,
+          "kind": "Album"
+        },
+        {
+          "title": "PAGES",
+          "year": 2019,
+          "kind": "Album"
+        }
+      ],
+      "intro": "timelesz是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "travis-japan",
+      "mbid": "b665cecc-e94c-4b3a-9c91-76869fa92b1d",
+      "name": "Travis Japan",
+      "artistType": "Group",
+      "aliases": [],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2012–",
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "Road to A",
+          "year": 2023,
+          "kind": "Album"
+        },
+        {
+          "title": "Road to A (Global Edition)",
+          "year": 2024,
+          "kind": "Album"
+        },
+        {
+          "title": "VIIsual",
+          "year": 2024,
+          "kind": "Album"
+        },
+        {
+          "title": "VIIsual (Global Edition)",
+          "year": 2024,
+          "kind": "Album"
+        },
+        {
+          "title": "’s travelers",
+          "year": 2025,
+          "kind": "Album"
+        }
+      ],
+      "intro": "Travis Japan是来自日本的音乐组合。现有资料收录了5张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "love",
+      "mbid": "28abfefb-cceb-4605-8330-a53b6d161403",
+      "name": "=LOVE",
+      "artistType": "Group",
+      "aliases": [
+        "Equal LOVE",
+        "イコラブ"
+      ],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2017–",
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "全部、内緒。",
+          "year": 2021,
+          "kind": "Album"
+        }
+      ],
+      "intro": "=LOVE是来自日本的音乐组合。现有资料收录了1张代表专辑或EP。",
       "introLang": "zh",
       "introTemplate": true
     },
@@ -1819,6 +3119,157 @@
         }
       ],
       "intro": "SixTONES是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "サザンオールスターズ",
+      "mbid": "24d9e513-c215-4901-87ee-b66aa769ab9d",
+      "name": "サザンオールスターズ",
+      "artistType": "Group",
+      "aliases": [
+        "Southern All Stars",
+        "SAS .",
+        "サザン"
+      ],
+      "area": "Shibuya",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "1974–",
+      "genres": [
+        "流行摇滚",
+        "摇滚"
+      ],
+      "albums": [
+        {
+          "title": "熱い胸さわぎ",
+          "year": 1978,
+          "kind": "Album"
+        },
+        {
+          "title": "10ナンバーズ・からっと",
+          "year": 1979,
+          "kind": "Album"
+        },
+        {
+          "title": "タイニイ・バブルス",
+          "year": 1980,
+          "kind": "Album"
+        },
+        {
+          "title": "ステレオ太陽族",
+          "year": 1981,
+          "kind": "Album"
+        },
+        {
+          "title": "NUDE MAN",
+          "year": 1982,
+          "kind": "Album"
+        },
+        {
+          "title": "綺麗",
+          "year": 1983,
+          "kind": "Album"
+        }
+      ],
+      "intro": "サザンオールスターズ是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "novelbright",
+      "mbid": "f1d9bc16-a8a2-4733-9b9d-2e101e010ea0",
+      "name": "Novelbright",
+      "artistType": "Group",
+      "aliases": [],
+      "area": "Osaka",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2013–",
+      "genres": [
+        "日本流行音乐",
+        "流行摇滚",
+        "摇滚"
+      ],
+      "albums": [
+        {
+          "title": "SKYWALK",
+          "year": 2018,
+          "kind": "Album"
+        },
+        {
+          "title": "EN.",
+          "year": 2019,
+          "kind": "Album"
+        },
+        {
+          "title": "WONDERLAND",
+          "year": 2020,
+          "kind": "Album"
+        },
+        {
+          "title": "開幕宣言",
+          "year": 2021,
+          "kind": "Album"
+        },
+        {
+          "title": "Assort",
+          "year": 2022,
+          "kind": "Album"
+        },
+        {
+          "title": "CIRCUS",
+          "year": 2024,
+          "kind": "Album"
+        }
+      ],
+      "intro": "Novelbright是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "jo1",
+      "mbid": "331a87af-4abd-494e-9254-c1d66b3260e2",
+      "name": "JO1",
+      "artistType": "Group",
+      "aliases": [
+        "ジェイオーワン"
+      ],
+      "area": "Tokyo",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2019–",
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "The STAR",
+          "year": 2020,
+          "kind": "Album"
+        },
+        {
+          "title": "KIZUNA",
+          "year": 2022,
+          "kind": "Album"
+        },
+        {
+          "title": "EQUINOX",
+          "year": 2023,
+          "kind": "Album"
+        },
+        {
+          "title": "TROPICAL NIGHT",
+          "year": 2023,
+          "kind": "Album"
+        },
+        {
+          "title": "BE CLASSIC",
+          "year": 2025,
+          "kind": "Album"
+        }
+      ],
+      "intro": "JO1是来自日本的音乐组合。现有资料收录了5张代表专辑或EP。",
       "introLang": "zh",
       "introTemplate": true
     },
@@ -1938,6 +3389,106 @@
       "introTemplate": true
     },
     {
+      "id": "クリープハイプ",
+      "mbid": "3b7bc38c-7e3a-4085-81eb-0440e3b120a7",
+      "name": "クリープハイプ",
+      "artistType": "Group",
+      "aliases": [
+        "CreepHyp",
+        "Creep Hyp"
+      ],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2001–",
+      "genres": [],
+      "albums": [
+        {
+          "title": "When I was young, I'd listen to the radio",
+          "year": 2009,
+          "kind": "Album"
+        },
+        {
+          "title": "踊り場から愛を込めて",
+          "year": 2010,
+          "kind": "Album"
+        },
+        {
+          "title": "待ちくたびれて朝がくる",
+          "year": 2011,
+          "kind": "Album"
+        },
+        {
+          "title": "死ぬまで一生愛されてると思ってたよ",
+          "year": 2012,
+          "kind": "Album"
+        },
+        {
+          "title": "吹き零れる程のI、哀、愛",
+          "year": 2013,
+          "kind": "Album"
+        },
+        {
+          "title": "一つになれないなら、せめて二つだけでいよう",
+          "year": 2014,
+          "kind": "Album"
+        }
+      ],
+      "intro": "クリープハイプ是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "mongol800",
+      "mbid": "0f774f0e-052e-48ae-8237-79359b9fd259",
+      "name": "MONGOL800",
+      "artistType": "Group",
+      "aliases": [
+        "モンゴル800",
+        "モンパチ"
+      ],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2000–",
+      "genres": [],
+      "albums": [
+        {
+          "title": "GO ON AS YOU ARE",
+          "year": 2000,
+          "kind": "Album"
+        },
+        {
+          "title": "MESSAGE",
+          "year": 2001,
+          "kind": "Album"
+        },
+        {
+          "title": "百々",
+          "year": 2004,
+          "kind": "Album"
+        },
+        {
+          "title": "Daniel",
+          "year": 2006,
+          "kind": "Album"
+        },
+        {
+          "title": "eight-hundreds",
+          "year": 2009,
+          "kind": "Album"
+        },
+        {
+          "title": "GOOD MORNING OKINAWA",
+          "year": 2013,
+          "kind": "Album"
+        }
+      ],
+      "intro": "MONGOL800是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
       "id": "マカロニえんぴつ",
       "mbid": "c65f10b6-be99-4e3a-a010-2a11fd965780",
       "name": "マカロニえんぴつ",
@@ -2008,6 +3559,214 @@
       "introTemplate": true
     },
     {
+      "id": "hana",
+      "mbid": "0c8c6c7a-aa33-400d-b297-d45ea1ecfc86",
+      "name": "HANA",
+      "artistType": "Group",
+      "aliases": [],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2025–",
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "HANA",
+          "year": 2026,
+          "kind": "Album"
+        }
+      ],
+      "intro": "HANA是来自日本的音乐组合。现有资料收录了1张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "king-prince",
+      "mbid": "7a2a8791-91dd-4bea-95fa-d0bfc0f2c740",
+      "name": "King & Prince",
+      "artistType": "Group",
+      "aliases": [],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2015–",
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "King & Prince",
+          "year": 2019,
+          "kind": "Album"
+        },
+        {
+          "title": "L&",
+          "year": 2020,
+          "kind": "Album"
+        },
+        {
+          "title": "Re:Sense",
+          "year": 2021,
+          "kind": "Album"
+        },
+        {
+          "title": "Made in",
+          "year": 2022,
+          "kind": "Album"
+        },
+        {
+          "title": "ピース",
+          "year": 2023,
+          "kind": "Album"
+        },
+        {
+          "title": "Re:ERA",
+          "year": 2024,
+          "kind": "Album"
+        }
+      ],
+      "intro": "King & Prince是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "清水翔太",
+      "mbid": "9262c0e1-c37e-4b87-896f-f394e70515fa",
+      "name": "清水翔太",
+      "artistType": "Person",
+      "aliases": [
+        "Shimizu, Shota",
+        "Shimizu Shota",
+        "Shota Shimizu",
+        "しみず しょうた"
+      ],
+      "area": "Yao",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "1989–",
+      "genres": [
+        "日本流行音乐",
+        "唱作人"
+      ],
+      "albums": [
+        {
+          "title": "Umbrella",
+          "year": 2008,
+          "kind": "Album"
+        },
+        {
+          "title": "Journey",
+          "year": 2010,
+          "kind": "Album"
+        },
+        {
+          "title": "COLORS",
+          "year": 2011,
+          "kind": "Album"
+        },
+        {
+          "title": "MELODY",
+          "year": 2012,
+          "kind": "Album"
+        },
+        {
+          "title": "PROUD",
+          "year": 2016,
+          "kind": "Album"
+        },
+        {
+          "title": "WHITE",
+          "year": 2016,
+          "kind": "Album"
+        }
+      ],
+      "intro": "清水翔太是来自日本的音乐人。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "なにわ男子",
+      "mbid": "91460ddb-8d0a-41af-bf3e-0e78616d4f08",
+      "name": "なにわ男子",
+      "artistType": "Group",
+      "aliases": [
+        "Naniwa Danshi"
+      ],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2018–",
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "1st Love",
+          "year": 2022,
+          "kind": "Album"
+        },
+        {
+          "title": "POPMALL",
+          "year": 2023,
+          "kind": "Album"
+        },
+        {
+          "title": "+Alpha",
+          "year": 2024,
+          "kind": "Album"
+        },
+        {
+          "title": "BON BON VOYAGE",
+          "year": 2025,
+          "kind": "Album"
+        },
+        {
+          "title": "ND⁵",
+          "year": 2026,
+          "kind": "Album"
+        }
+      ],
+      "intro": "なにわ男子是来自日本的音乐组合。现有资料收录了5张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "tani-yuuki",
+      "mbid": "272981dd-20c8-424a-b86a-0d0ebb95f692",
+      "name": "Tani Yuuki",
+      "artistType": "Person",
+      "aliases": [
+        "Tani, Yuuki"
+      ],
+      "area": "Chigasaki",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "1998–",
+      "genres": [],
+      "albums": [
+        {
+          "title": "Memories",
+          "year": 2021,
+          "kind": "Album"
+        },
+        {
+          "title": "多面態",
+          "year": 2023,
+          "kind": "Album"
+        },
+        {
+          "title": "航海士",
+          "year": 2025,
+          "kind": "Album"
+        }
+      ],
+      "intro": "Tani Yuuki是来自日本的音乐人。现有资料收录了3张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
       "id": "saucy-dog",
       "mbid": "76c63dd7-96d1-42d9-a596-4d576a464008",
       "name": "Saucy Dog",
@@ -2055,6 +3814,377 @@
       "introTemplate": true
     },
     {
+      "id": "菅田将暉",
+      "mbid": "264955bb-3412-4ab5-9ba5-4423a28b3641",
+      "name": "菅田将暉",
+      "artistType": "Person",
+      "aliases": [
+        "Suda, Masaki",
+        "Masaki Suda",
+        "Taishō Sugō",
+        "菅生大将"
+      ],
+      "area": "Minoh",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "1993–",
+      "genres": [
+        "日本流行音乐",
+        "唱作人"
+      ],
+      "albums": [
+        {
+          "title": "PLAY",
+          "year": 2018,
+          "kind": "Album"
+        },
+        {
+          "title": "LOVE",
+          "year": 2019,
+          "kind": "Album"
+        },
+        {
+          "title": "COLLAGE",
+          "year": 2022,
+          "kind": "Album"
+        },
+        {
+          "title": "SPIN",
+          "year": 2024,
+          "kind": "Album"
+        }
+      ],
+      "intro": "菅田将暉是来自日本的音乐人。现有资料收录了4张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "超ときめき-宣伝部",
+      "mbid": "b901c170-0045-4555-8472-8ff0d59cbefe",
+      "name": "超ときめき♡宣伝部",
+      "artistType": "Group",
+      "aliases": [
+        "Cho Tokimeki Sendenbu",
+        "Cho Tokimeki♡Sendenbu",
+        "Chou Tokimeki Sendenbu",
+        "Chō Tokimeki Sendenbu",
+        "Tokisen",
+        "ときめき♡宣伝部",
+        "とき宣",
+        "超とき宣"
+      ],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2015–",
+      "genres": [
+        "偶像流行",
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "ときおとめ",
+          "year": 2018,
+          "kind": "Album"
+        },
+        {
+          "title": "ときめきがすべて",
+          "year": 2020,
+          "kind": "Album"
+        },
+        {
+          "title": "ときめきルールブック",
+          "year": 2024,
+          "kind": "Album"
+        },
+        {
+          "title": "ときめく恋と青春",
+          "year": 2024,
+          "kind": "Album"
+        },
+        {
+          "title": "ときめきえがお",
+          "year": 2026,
+          "kind": "Album"
+        }
+      ],
+      "intro": "超ときめき♡宣伝部是来自日本的音乐组合。现有资料收录了5张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "hy",
+      "mbid": "7b049fe5-0af8-4c19-bceb-41b5df99d39d",
+      "name": "HY",
+      "artistType": "Group",
+      "aliases": [
+        "higashi yakena",
+        "ひがし やけな",
+        "ひがしやけな",
+        "エイチワイ",
+        "東 屋慶名",
+        "東屋慶名"
+      ],
+      "area": "Okinawa",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2000–",
+      "genres": [
+        "独立摇滚",
+        "流行摇滚"
+      ],
+      "albums": [
+        {
+          "title": "DEPARTURE",
+          "year": 2002,
+          "kind": "Album"
+        },
+        {
+          "title": "Street Story",
+          "year": 2003,
+          "kind": "Album"
+        },
+        {
+          "title": "TRUNK",
+          "year": 2004,
+          "kind": "Album"
+        },
+        {
+          "title": "Confidence",
+          "year": 2006,
+          "kind": "Album"
+        },
+        {
+          "title": "HeartY",
+          "year": 2008,
+          "kind": "Album"
+        },
+        {
+          "title": "Whistle",
+          "year": 2010,
+          "kind": "Album"
+        }
+      ],
+      "intro": "HY是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "candy-tune",
+      "mbid": "71b68ea5-dcee-4e0b-8297-c027816cedf9",
+      "name": "CANDY TUNE",
+      "artistType": "Group",
+      "aliases": [],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2023–",
+      "genres": [
+        "偶像流行",
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "倍倍FIGHT!",
+          "year": 2025,
+          "kind": "Album"
+        }
+      ],
+      "intro": "CANDY TUNE是来自日本的音乐组合。现有资料收录了1张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "cutie-street",
+      "mbid": "0848dd33-fef4-48c4-801c-18ce3a611467",
+      "name": "CUTIE STREET",
+      "artistType": "Group",
+      "aliases": [],
+      "area": "Harajuku",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2024–",
+      "genres": [
+        "偶像流行",
+        "日本流行音乐"
+      ],
+      "albums": [],
+      "intro": "CUTIE STREET是来自日本的音乐组合。现有资料收录了0张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "lana",
+      "mbid": "9ac6b30d-472b-4744-afe0-aa7e7e6b2729",
+      "name": "LANA",
+      "artistType": "Person",
+      "aliases": [],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": null,
+      "genres": [
+        "嘻哈",
+        "日本流行音乐",
+        "流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "20",
+          "year": 2024,
+          "kind": "Album"
+        },
+        {
+          "title": "20 +",
+          "year": 2025,
+          "kind": "Album"
+        }
+      ],
+      "intro": "LANA是来自日本的音乐人。现有资料收录了2张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "平井大",
+      "mbid": "d04b4d86-222f-4bcd-86d7-c70d33ebd41c",
+      "name": "平井大",
+      "artistType": "Person",
+      "aliases": [
+        "Hirai, Dai",
+        "HIRAIDAI",
+        "Hirai Dai"
+      ],
+      "area": "Tokyo",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "1991–",
+      "genres": [
+        "日本流行音乐",
+        "唱作人"
+      ],
+      "albums": [
+        {
+          "title": "Aloha",
+          "year": 2012,
+          "kind": "Album"
+        },
+        {
+          "title": "Dream",
+          "year": 2013,
+          "kind": "Album"
+        },
+        {
+          "title": "ALOOOOHANA!!",
+          "year": 2014,
+          "kind": "Album"
+        },
+        {
+          "title": "Disney Island Music",
+          "year": 2014,
+          "kind": "Album"
+        },
+        {
+          "title": "The Light",
+          "year": 2014,
+          "kind": "Album"
+        },
+        {
+          "title": "Slow & Easy",
+          "year": 2015,
+          "kind": "Album"
+        }
+      ],
+      "intro": "平井大是来自日本的音乐人。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "ini",
+      "mbid": "f7b7ba8b-b0f4-4722-bb50-7a13747bdeb2",
+      "name": "INI",
+      "artistType": "Group",
+      "aliases": [
+        "Aienuai",
+        "アイエヌアイ"
+      ],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2021–",
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "Awakening",
+          "year": 2022,
+          "kind": "Album"
+        },
+        {
+          "title": "MATCH UP",
+          "year": 2024,
+          "kind": "Album"
+        },
+        {
+          "title": "THE ORIGIN",
+          "year": 2025,
+          "kind": "Album"
+        }
+      ],
+      "intro": "INI是来自日本的音乐组合。现有资料收录了3张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
+      "id": "m-lk",
+      "mbid": "c209e6c9-bdc6-41b1-8044-6ccbd5896252",
+      "name": "M!LK",
+      "artistType": "Group",
+      "aliases": [],
+      "area": "Japan",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2014–",
+      "genres": [
+        "日本流行音乐"
+      ],
+      "albums": [
+        {
+          "title": "王様の牛乳",
+          "year": 2017,
+          "kind": "Album"
+        },
+        {
+          "title": "Time Capsule",
+          "year": 2019,
+          "kind": "Album"
+        },
+        {
+          "title": "HOME MADE CHU!?",
+          "year": 2020,
+          "kind": "Album"
+        },
+        {
+          "title": "Juvenilizm-青春主義-",
+          "year": 2020,
+          "kind": "Album"
+        },
+        {
+          "title": "Jewel",
+          "year": 2023,
+          "kind": "Album"
+        },
+        {
+          "title": "M!Ⅹ",
+          "year": 2025,
+          "kind": "Album"
+        }
+      ],
+      "intro": "M!LK是来自日本的音乐组合。现有资料收录了6张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
+    },
+    {
       "id": "number-i",
       "mbid": "126a09d9-04a2-4d06-9cc7-eea581007a0f",
       "name": "Number_i",
@@ -2089,6 +4219,45 @@
       "intro": "Number_i是来自日本的音乐组合。现有资料收录了3张代表专辑或EP。",
       "introLang": "zh",
       "introTemplate": true
+    },
+    {
+      "id": "bad-hop",
+      "mbid": "f618ef38-31d5-403f-9623-2d375270c390",
+      "name": "BAD HOP",
+      "artistType": "Group",
+      "aliases": [],
+      "area": "Kawasaki",
+      "countryCode": "JP",
+      "country": "日本",
+      "years": "2014–2024",
+      "genres": [
+        "嘻哈"
+      ],
+      "albums": [
+        {
+          "title": "Mobb Life",
+          "year": 2017,
+          "kind": "Album"
+        },
+        {
+          "title": "BAD HOP WORLD DELUXE",
+          "year": 2020,
+          "kind": "Album"
+        },
+        {
+          "title": "BAD HOP (THE FINAL Edition)",
+          "year": 2024,
+          "kind": "Album"
+        },
+        {
+          "title": "BAD HOP FOREVER (ALL TIME BEST)",
+          "year": 2024,
+          "kind": "Album"
+        }
+      ],
+      "intro": "BAD HOP是来自日本的音乐组合。现有资料收录了4张代表专辑或EP。",
+      "introLang": "zh",
+      "introTemplate": true
     }
   ],
   "edges": [
@@ -2111,6 +4280,30 @@
     {
       "from": "babymetal",
       "to": "perfume",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "aimer",
+      "to": "yoasobi",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "aimer",
+      "to": "ado",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "aimer",
+      "to": "babymetal",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2158,7 +4351,7 @@
     },
     {
       "from": "ヨルシカ",
-      "to": "bump-of-chicken",
+      "to": "いきものがかり",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2166,7 +4359,7 @@
     },
     {
       "from": "ヨルシカ",
-      "to": "mrs-green-apple",
+      "to": "bump-of-chicken",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2190,7 +4383,7 @@
     },
     {
       "from": "lisa",
-      "to": "mrs-green-apple",
+      "to": "いきものがかり",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2198,7 +4391,7 @@
     },
     {
       "from": "lisa",
-      "to": "bump-of-chicken",
+      "to": "mrs-green-apple",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2221,6 +4414,30 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
+      "from": "xg",
+      "to": "米津玄師",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "xg",
+      "to": "宇多田ヒカル",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "xg",
+      "to": "vaundy",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
       "from": "creepy-nuts",
       "to": "ちゃんみな",
       "type": "scene",
@@ -2230,7 +4447,7 @@
     },
     {
       "from": "creepy-nuts",
-      "to": "vaundy",
+      "to": "lana",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2238,7 +4455,7 @@
     },
     {
       "from": "creepy-nuts",
-      "to": "米津玄師",
+      "to": "bad-hop",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2285,6 +4502,30 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
+      "from": "星街すいせい",
+      "to": "ずっと真夜中でいいのに",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "星街すいせい",
+      "to": "eve",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "星街すいせい",
+      "to": "藤井風",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
       "from": "eve",
       "to": "vaundy",
       "type": "scene",
@@ -2333,6 +4574,30 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
+      "from": "いきものがかり",
+      "to": "bump-of-chicken",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "いきものがかり",
+      "to": "mrs-green-apple",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "いきものがかり",
+      "to": "新しい学校のリーダーズ",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
       "from": "なとり",
       "to": "yama",
       "type": "scene",
@@ -2342,7 +4607,7 @@
     },
     {
       "from": "なとり",
-      "to": "mrs-green-apple",
+      "to": "櫻坂46",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2350,7 +4615,7 @@
     },
     {
       "from": "なとり",
-      "to": "bump-of-chicken",
+      "to": "mrs-green-apple",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2359,6 +4624,14 @@
     {
       "from": "yama",
       "to": "bump-of-chicken",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "yama",
+      "to": "櫻坂46",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2373,8 +4646,24 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "yama",
-      "to": "ずっと真夜中でいいのに",
+      "from": "櫻坂46",
+      "to": "乃木坂46",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "櫻坂46",
+      "to": "fruits-zipper",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "櫻坂46",
+      "to": "babymetal",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2414,6 +4703,14 @@
     },
     {
       "from": "ちゃんみな",
+      "to": "lana",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "ちゃんみな",
       "to": "imase",
       "type": "scene",
       "weight": 0.42,
@@ -2446,7 +4743,15 @@
     },
     {
       "from": "羊文学",
-      "to": "米津玄師",
+      "to": "orange-range",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "新しい学校のリーダーズ",
+      "to": "orange-range",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2455,14 +4760,6 @@
     {
       "from": "新しい学校のリーダーズ",
       "to": "bump-of-chicken",
-      "type": "scene",
-      "weight": 0.42,
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
-    },
-    {
-      "from": "新しい学校のリーダーズ",
-      "to": "アイナ-ジ-エンド",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2478,7 +4775,7 @@
     },
     {
       "from": "tuki",
-      "to": "あいみょん",
+      "to": "乃木坂46",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2486,7 +4783,7 @@
     },
     {
       "from": "tuki",
-      "to": "新しい学校のリーダーズ",
+      "to": "あいみょん",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2509,8 +4806,32 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
+      "from": "乃木坂46",
+      "to": "fruits-zipper",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "乃木坂46",
+      "to": "超ときめき-宣伝部",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
       "from": "あいみょん",
       "to": "imase",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "あいみょん",
+      "to": "aiko",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2525,16 +4846,64 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "あいみょん",
-      "to": "eve",
+      "from": "imase",
+      "to": "akasaki",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "imase",
-      "to": "米津玄師",
+      "from": "orange-range",
+      "to": "bump-of-chicken",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "orange-range",
+      "to": "novelbright",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "niziu",
+      "to": "imase",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "niziu",
+      "to": "ポルノグラフィティ",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "niziu",
+      "to": "あいみょん",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "back-number",
+      "to": "superfly",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "back-number",
+      "to": "orange-range",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2549,16 +4918,72 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "back-number",
-      "to": "mrs-green-apple",
+      "from": "ポルノグラフィティ",
+      "to": "orange-range",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "back-number",
+      "from": "ポルノグラフィティ",
       "to": "bump-of-chicken",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "ポルノグラフィティ",
+      "to": "novelbright",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "嵐",
+      "to": "水曜日のカンパネラ",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "嵐",
+      "to": "be-first",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "嵐",
+      "to": "宇多田ヒカル",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "superfly",
+      "to": "orange-range",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "superfly",
+      "to": "新しい学校のリーダーズ",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "superfly",
+      "to": "novelbright",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2574,7 +4999,7 @@
     },
     {
       "from": "ano",
-      "to": "緑黄色社会",
+      "to": "superfly",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2582,6 +5007,22 @@
     },
     {
       "from": "ano",
+      "to": "幾田りら",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "aiko",
+      "to": "幾田りら",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "aiko",
       "to": "星野源",
       "type": "scene",
       "weight": 0.42,
@@ -2589,8 +5030,32 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "da-ice",
-      "to": "緑黄色社会",
+      "from": "aiko",
+      "to": "akasaki",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "team",
+      "to": "ano",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "team",
+      "to": "aiko",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "team",
+      "to": "superfly",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2598,7 +5063,63 @@
     },
     {
       "from": "da-ice",
+      "to": "幾田りら",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "da-ice",
+      "to": "aiko",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "幾田りら",
       "to": "星野源",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "幾田りら",
+      "to": "akasaki",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "gre4n-boyz",
+      "to": "da-ice",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "gre4n-boyz",
+      "to": "kinki-kids",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "gre4n-boyz",
+      "to": "aiko",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "緑黄色社会",
+      "to": "幾田りら",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2613,8 +5134,24 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "星野源",
-      "to": "imase",
+      "from": "緑黄色社会",
+      "to": "ano",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "kinki-kids",
+      "to": "緑黄色社会",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "kinki-kids",
+      "to": "星野源",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2622,7 +5159,15 @@
     },
     {
       "from": "星野源",
-      "to": "eve",
+      "to": "akasaki",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "omoinotake",
+      "to": "akasaki",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2638,15 +5183,63 @@
     },
     {
       "from": "omoinotake",
-      "to": "星野源",
+      "to": "こっちのけんと",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "omoinotake",
-      "to": "緑黄色社会",
+      "from": "akasaki",
+      "to": "vaundy",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "akasaki",
+      "to": "藤井風",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "こっちのけんと",
+      "to": "akasaki",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "こっちのけんと",
+      "to": "snow-man",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "こっちのけんと",
+      "to": "timelesz",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "snow-man",
+      "to": "timelesz",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "snow-man",
+      "to": "novelbright",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2661,7 +5254,47 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "snow-man",
+      "from": "timelesz",
+      "to": "travis-japan",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "timelesz",
+      "to": "sixtones",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "travis-japan",
+      "to": "sixtones",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "travis-japan",
+      "to": "snow-man",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "love",
+      "to": "novelbright",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "love",
       "to": "優里",
       "type": "scene",
       "weight": 0.42,
@@ -2669,24 +5302,80 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "snow-man",
+      "from": "love",
+      "to": "timelesz",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "sixtones",
+      "to": "love",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "sixtones",
+      "to": "novelbright",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "サザンオールスターズ",
+      "to": "novelbright",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "サザンオールスターズ",
+      "to": "orange-range",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "サザンオールスターズ",
+      "to": "bump-of-chicken",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "novelbright",
+      "to": "bump-of-chicken",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "jo1",
+      "to": "love",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "jo1",
+      "to": "novelbright",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "jo1",
       "to": "be-first",
-      "type": "scene",
-      "weight": 0.42,
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
-    },
-    {
-      "from": "sixtones",
-      "to": "優里",
-      "type": "scene",
-      "weight": 0.42,
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
-    },
-    {
-      "from": "sixtones",
-      "to": "アイナ-ジ-エンド",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2695,6 +5384,14 @@
     {
       "from": "優里",
       "to": "アイナ-ジ-エンド",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "優里",
+      "to": "akasaki",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2703,14 +5400,6 @@
     {
       "from": "優里",
       "to": "imase",
-      "type": "scene",
-      "weight": 0.42,
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
-    },
-    {
-      "from": "優里",
-      "to": "sekai-no-owari",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",
@@ -2733,14 +5422,6 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "be-first",
-      "to": "アイナ-ジ-エンド",
-      "type": "scene",
-      "weight": 0.42,
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
-    },
-    {
       "from": "アイナ-ジ-エンド",
       "to": "bump-of-chicken",
       "type": "scene",
@@ -2757,7 +5438,15 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "マカロニえんぴつ",
+      "from": "クリープハイプ",
+      "to": "mongol800",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "クリープハイプ",
       "to": "fruits-zipper",
       "type": "scene",
       "weight": 0.42,
@@ -2765,55 +5454,7 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "マカロニえんぴつ",
-      "to": "アイナ-ジ-エンド",
-      "type": "scene",
-      "weight": 0.42,
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
-    },
-    {
-      "from": "マカロニえんぴつ",
-      "to": "be-first",
-      "type": "scene",
-      "weight": 0.42,
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
-    },
-    {
-      "from": "fruits-zipper",
-      "to": "babymetal",
-      "type": "scene",
-      "weight": 0.42,
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
-    },
-    {
-      "from": "fruits-zipper",
-      "to": "アイナ-ジ-エンド",
-      "type": "scene",
-      "weight": 0.42,
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
-    },
-    {
-      "from": "fruits-zipper",
-      "to": "優里",
-      "type": "scene",
-      "weight": 0.42,
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
-    },
-    {
-      "from": "saucy-dog",
-      "to": "fruits-zipper",
-      "type": "scene",
-      "weight": 0.42,
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
-    },
-    {
-      "from": "saucy-dog",
+      "from": "クリープハイプ",
       "to": "マカロニえんぴつ",
       "type": "scene",
       "weight": 0.42,
@@ -2821,7 +5462,15 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "saucy-dog",
+      "from": "mongol800",
+      "to": "マカロニえんぴつ",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "mongol800",
       "to": "アイナ-ジ-エンド",
       "type": "scene",
       "weight": 0.42,
@@ -2829,7 +5478,7 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "number-i",
+      "from": "マカロニえんぴつ",
       "to": "fruits-zipper",
       "type": "scene",
       "weight": 0.42,
@@ -2837,7 +5486,191 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
-      "from": "number-i",
+      "from": "マカロニえんぴつ",
+      "to": "hana",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "fruits-zipper",
+      "to": "超ときめき-宣伝部",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "fruits-zipper",
+      "to": "candy-tune",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "fruits-zipper",
+      "to": "cutie-street",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "hana",
+      "to": "清水翔太",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "hana",
+      "to": "fruits-zipper",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "hana",
+      "to": "king-prince",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "king-prince",
+      "to": "なにわ男子",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "king-prince",
+      "to": "清水翔太",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "清水翔太",
+      "to": "菅田将暉",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "清水翔太",
+      "to": "akasaki",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "清水翔太",
+      "to": "平井大",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "なにわ男子",
+      "to": "hana",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "なにわ男子",
+      "to": "清水翔太",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "tani-yuuki",
+      "to": "saucy-dog",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "tani-yuuki",
+      "to": "超ときめき-宣伝部",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "tani-yuuki",
+      "to": "清水翔太",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "saucy-dog",
+      "to": "超ときめき-宣伝部",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "saucy-dog",
+      "to": "菅田将暉",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "菅田将暉",
+      "to": "平井大",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "菅田将暉",
+      "to": "akasaki",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "超ときめき-宣伝部",
+      "to": "candy-tune",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "超ときめき-宣伝部",
+      "to": "cutie-street",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "hy",
       "to": "アイナ-ジ-エンド",
       "type": "scene",
       "weight": 0.42,
@@ -2845,8 +5678,128 @@
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
     },
     {
+      "from": "hy",
+      "to": "novelbright",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "hy",
+      "to": "サザンオールスターズ",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "candy-tune",
+      "to": "cutie-street",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "lana",
+      "to": "アイナ-ジ-エンド",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "lana",
+      "to": "優里",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "平井大",
+      "to": "akasaki",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "ini",
+      "to": "lana",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "ini",
+      "to": "平井大",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "ini",
+      "to": "cutie-street",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "m-lk",
+      "to": "ini",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "m-lk",
+      "to": "number-i",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "m-lk",
+      "to": "平井大",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
       "from": "number-i",
-      "to": "be-first",
+      "to": "ini",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "number-i",
+      "to": "lana",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "bad-hop",
+      "to": "lana",
+      "type": "scene",
+      "weight": 0.42,
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。"
+    },
+    {
+      "from": "bad-hop",
+      "to": "ちゃんみな",
       "type": "scene",
       "weight": 0.42,
       "label": "当代日本推荐",

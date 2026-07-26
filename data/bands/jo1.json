@@ -1,0 +1,119 @@
+{
+  "id": "jo1",
+  "mbid": "331a87af-4abd-494e-9254-c1d66b3260e2",
+  "name": "JO1",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2019–",
+  "genres": [
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "The STAR",
+      "year": 2020,
+      "kind": "Album"
+    },
+    {
+      "title": "KIZUNA",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "EQUINOX",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "TROPICAL NIGHT",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "BE CLASSIC",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "JO1 是在2019日本选秀节目《PRODUCE 101 JAPAN》中，通过由被称为“国民制作人”的观众投票，从101名练习生中选出的11名练习生而组成的男子团体。",
+  "introLang": "zh",
+  "tracks": [
+    "PROTOSTAR",
+    "TROPICAL NIGHT",
+    "CHALLENGER",
+    "STARGAZER",
+    "STRANGER"
+  ],
+  "trackSources": [
+    {
+      "title": "PROTOSTAR"
+    },
+    {
+      "title": "TROPICAL NIGHT"
+    },
+    {
+      "title": "CHALLENGER"
+    },
+    {
+      "title": "STARGAZER"
+    },
+    {
+      "title": "STRANGER"
+    }
+  ],
+  "listens": 11982,
+  "listeners": 442,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/331a87af-4abd-494e-9254-c1d66b3260e2"
+  },
+  "edges": [
+    {
+      "to": "novelbright",
+      "toName": "Novelbright",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "be-first",
+      "toName": "BE:FIRST",
+      "toArea": "日本",
+      "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "love",
+      "toName": "=LOVE",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

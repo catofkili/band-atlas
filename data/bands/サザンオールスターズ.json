@@ -1,0 +1,137 @@
+{
+  "id": "サザンオールスターズ",
+  "mbid": "24d9e513-c215-4901-87ee-b66aa769ab9d",
+  "name": "サザンオールスターズ",
+  "artistType": "Group",
+  "area": "涩谷",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1974–",
+  "genres": [
+    "流行摇滚",
+    "摇滚",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "熱い胸さわぎ",
+      "year": 1978,
+      "kind": "Album"
+    },
+    {
+      "title": "10ナンバーズ・からっと",
+      "year": 1979,
+      "kind": "Album"
+    },
+    {
+      "title": "タイニイ・バブルス",
+      "year": 1980,
+      "kind": "Album"
+    },
+    {
+      "title": "ステレオ太陽族",
+      "year": 1981,
+      "kind": "Album"
+    },
+    {
+      "title": "NUDE MAN",
+      "year": 1982,
+      "kind": "Album"
+    },
+    {
+      "title": "綺麗",
+      "year": 1983,
+      "kind": "Album"
+    }
+  ],
+  "intro": "南方之星，是日本乐团。有着日本国民乐团之称。1978年6月25日以歌曲《任性的辛巴达》出道，团长为主唱及词曲创作人桑田佳祐。 出道至今其职业生涯已超过40年，并持续活跃着。",
+  "introLang": "zh",
+  "tracks": [
+    "海嘯",
+    "EROTICA SEVEN",
+    "LOVE AFFAIR ～秘密約會～",
+    "MANPY的G★SPOT",
+    "MISS BRAND-NEW DAY"
+  ],
+  "trackSources": [
+    {
+      "title": "海嘯"
+    },
+    {
+      "title": "EROTICA SEVEN"
+    },
+    {
+      "title": "LOVE AFFAIR ～秘密約會～"
+    },
+    {
+      "title": "MANPY的G★SPOT"
+    },
+    {
+      "title": "MISS BRAND-NEW DAY"
+    }
+  ],
+  "listens": 12657,
+  "listeners": 451,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/24d9e513-c215-4901-87ee-b66aa769ab9d"
+  },
+  "edges": [
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "hy",
+      "toName": "HY",
+      "toArea": "日本",
+      "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "novelbright",
+      "toName": "Novelbright",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "orange-range",
+      "toName": "ORANGE RANGE",
+      "toArea": "日本",
+      "toYears": "2001–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

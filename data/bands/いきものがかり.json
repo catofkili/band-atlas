@@ -1,0 +1,151 @@
+{
+  "id": "いきものがかり",
+  "mbid": "18191eea-369f-42e8-96ab-c1c24e4d0011",
+  "name": "いきものがかり",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1999–",
+  "genres": [
+    "日本流行音乐",
+    "流行摇滚",
+    "日本流行音樂",
+    "軟式搖滾",
+    "流行搖滾"
+  ],
+  "albums": [
+    {
+      "title": "誠に僭越ながらファーストアルバムを拵えました…",
+      "year": 2003,
+      "kind": "Album"
+    },
+    {
+      "title": "七色こんにゃく",
+      "year": 2004,
+      "kind": "Album"
+    },
+    {
+      "title": "人生すごろくだべ。",
+      "year": 2005,
+      "kind": "Album"
+    },
+    {
+      "title": "桜咲く街物語",
+      "year": 2007,
+      "kind": "Album"
+    },
+    {
+      "title": "My song Your song",
+      "year": 2008,
+      "kind": "Album"
+    },
+    {
+      "title": "ライフアルバム",
+      "year": 2008,
+      "kind": "Album"
+    }
+  ],
+  "intro": "生物股长是日本的音乐团体，于1999年2月组成。所属经纪公司是MOAI，所属唱片公司是EPIC Records。 团名的来历是因为水野良树和山下穗尊两人在小学时期都担任过生物股长，照顾班里饲养的小动物。",
+  "introLang": "zh",
+  "tracks": [
+    "HANABI",
+    "SAKURA",
+    "戀愛少女",
+    "春之歌",
+    "流星奇蹟"
+  ],
+  "trackSources": [
+    {
+      "title": "HANABI"
+    },
+    {
+      "title": "SAKURA"
+    },
+    {
+      "title": "戀愛少女"
+    },
+    {
+      "title": "春之歌"
+    },
+    {
+      "title": "流星奇蹟"
+    }
+  ],
+  "listens": 96376,
+  "listeners": 3409,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/18191eea-369f-42e8-96ab-c1c24e4d0011"
+  },
+  "edges": [
+    {
+      "to": "bump-of-chicken",
+      "toName": "BUMP OF CHICKEN",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "lisa",
+      "toName": "LiSA",
+      "toArea": "日本",
+      "toYears": "1987–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "mrs-green-apple",
+      "toName": "Mrs. GREEN APPLE",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ヨルシカ",
+      "toName": "ヨルシカ",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "新しい学校のリーダーズ",
+      "toName": "新しい学校のリーダーズ",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

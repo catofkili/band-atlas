@@ -1,0 +1,126 @@
+{
+  "id": "菅田将暉",
+  "mbid": "264955bb-3412-4ab5-9ba5-4423a28b3641",
+  "name": "菅田将暉",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1993–",
+  "genres": [
+    "日本流行音乐",
+    "唱作人"
+  ],
+  "albums": [
+    {
+      "title": "PLAY",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "LOVE",
+      "year": 2019,
+      "kind": "Album"
+    },
+    {
+      "title": "COLLAGE",
+      "year": 2022,
+      "kind": "Album"
+    },
+    {
+      "title": "SPIN",
+      "year": 2024,
+      "kind": "Album"
+    }
+  ],
+  "intro": "菅田将晖是日本男艺人，大阪府箕面市出身，所属经纪公司为TOP COAT。亦跨足音乐界向影视歌三栖发展。其妻为演员小松菜奈、其大弟为日本YouTuber兼创作歌手菅生健人。",
+  "introLang": "zh",
+  "tracks": [
+    "見たこともない景色",
+    "Keep On Running",
+    "ラストシーン",
+    "ロングホープ・フィリア",
+    "呼吸"
+  ],
+  "trackSources": [
+    {
+      "title": "見たこともない景色"
+    },
+    {
+      "title": "Keep On Running"
+    },
+    {
+      "title": "ラストシーン"
+    },
+    {
+      "title": "ロングホープ・フィリア"
+    },
+    {
+      "title": "呼吸"
+    }
+  ],
+  "listens": 5836,
+  "listeners": 298,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/264955bb-3412-4ab5-9ba5-4423a28b3641"
+  },
+  "edges": [
+    {
+      "to": "saucy-dog",
+      "toName": "Saucy Dog",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "平井大",
+      "toName": "平井大",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "清水翔太",
+      "toName": "清水翔太",
+      "toArea": "日本",
+      "toYears": "1989–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "akasaki",
+      "toName": "AKASAKI",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

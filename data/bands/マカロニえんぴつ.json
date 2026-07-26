@@ -79,10 +79,10 @@
   },
   "edges": [
     {
-      "to": "saucy-dog",
-      "toName": "Saucy Dog",
+      "to": "mongol800",
+      "toName": "MONGOL800",
       "toArea": "日本",
-      "toYears": "2013–",
+      "toYears": "2000–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -91,22 +91,10 @@
       "sources": []
     },
     {
-      "to": "アイナ-ジ-エンド",
-      "toName": "アイナ・ジ・エンド",
+      "to": "クリープハイプ",
+      "toName": "クリープハイプ",
       "toArea": "日本",
-      "toYears": "1994–",
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
-      "to": "be-first",
-      "toName": "BE:FIRST",
-      "toArea": "日本",
-      "toYears": null,
+      "toYears": "2001–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -119,6 +107,18 @@
       "toName": "FRUITS ZIPPER",
       "toArea": "日本",
       "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "hana",
+      "toName": "HANA",
+      "toArea": "日本",
+      "toYears": "2025–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

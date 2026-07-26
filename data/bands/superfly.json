@@ -1,0 +1,161 @@
+{
+  "id": "superfly",
+  "mbid": "8b55db74-4717-44e1-b799-35f6e1b8fa10",
+  "name": "Superfly",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2004–",
+  "genres": [
+    "日本流行音乐",
+    "流行摇滚",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "Superfly",
+      "year": 2008,
+      "kind": "Album"
+    },
+    {
+      "title": "Box Emotions",
+      "year": 2009,
+      "kind": "Album"
+    },
+    {
+      "title": "Mind Travel",
+      "year": 2011,
+      "kind": "Album"
+    },
+    {
+      "title": "Force",
+      "year": 2012,
+      "kind": "Album"
+    },
+    {
+      "title": "WHITE",
+      "year": 2015,
+      "kind": "Album"
+    },
+    {
+      "title": "0",
+      "year": 2020,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Superfly是一支2007年出道的日本乐团，组成时包括吉他手多保孝一与主唱越智志帆，现时仅有越智一人以单人乐团的形式运作，多保则在离团后继续提供作曲及作词。",
+  "introLang": "zh",
+  "tracks": [
+    "Beep!!/Sunshine Sunshine",
+    "Rollin' Days",
+    "ハロー・ハロー",
+    "啊",
+    "將愛吹入體內"
+  ],
+  "trackSources": [
+    {
+      "title": "Beep!!/Sunshine Sunshine"
+    },
+    {
+      "title": "Rollin' Days"
+    },
+    {
+      "title": "ハロー・ハロー"
+    },
+    {
+      "title": "啊"
+    },
+    {
+      "title": "將愛吹入體內"
+    }
+  ],
+  "listens": 27286,
+  "listeners": 1226,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8b55db74-4717-44e1-b799-35f6e1b8fa10"
+  },
+  "edges": [
+    {
+      "to": "back-number",
+      "toName": "back number",
+      "toArea": "日本",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "novelbright",
+      "toName": "Novelbright",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "orange-range",
+      "toName": "ORANGE RANGE",
+      "toArea": "日本",
+      "toYears": "2001–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "新しい学校のリーダーズ",
+      "toName": "新しい学校のリーダーズ",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "ano",
+      "toName": "ano",
+      "toArea": "日本",
+      "toYears": "????–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "team",
+      "toName": "&TEAM",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

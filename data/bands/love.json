@@ -1,0 +1,123 @@
+{
+  "id": "love",
+  "mbid": "28abfefb-cceb-4605-8330-a53b6d161403",
+  "name": "=LOVE",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2017–",
+  "genres": [
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "全部、内緒。",
+      "year": 2021,
+      "kind": "Album"
+    }
+  ],
+  "intro": "=LOVE是2017年成立的日本女子偶像组合，由指原莉乃担任总制作人，经纪公司为代代木动画学院。简称“等爱”。",
+  "introLang": "zh",
+  "tracks": [
+    "我們的制服聖誕節",
+    "為時已晚的警告",
+    "等於愛",
+    "The 5th",
+    "Want you! Want you!"
+  ],
+  "trackSources": [
+    {
+      "title": "我們的制服聖誕節"
+    },
+    {
+      "title": "為時已晚的警告"
+    },
+    {
+      "title": "等於愛"
+    },
+    {
+      "title": "The 5th"
+    },
+    {
+      "title": "Want you! Want you!"
+    }
+  ],
+  "listens": 12847,
+  "listeners": 295,
+  "quality": {
+    "score": 83,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/28abfefb-cceb-4605-8330-a53b6d161403"
+  },
+  "edges": [
+    {
+      "to": "jo1",
+      "toName": "JO1",
+      "toArea": "日本",
+      "toYears": "2019–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "novelbright",
+      "toName": "Novelbright",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "sixtones",
+      "toName": "SixTONES",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "timelesz",
+      "toName": "timelesz",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "優里",
+      "toName": "優里",
+      "toArea": "日本",
+      "toYears": "1994–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

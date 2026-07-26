@@ -40,6 +40,15 @@ if (!standalone.includes('createNetworkMap') || !standalone.includes('map-band-s
 if (!standalone.includes('map-popular-toggle') || !standalone.includes('POPULAR_LISTEN_FLOOR')) {
   throw new Error('单文件版缺少地图热度筛选');
 }
+if (
+  !/id="popular-toggle"[\s\S]{0,180}aria-pressed="true"/.test(indexHtml) ||
+  !mainJs.includes("stored == null ? true") ||
+  !mainJs.includes("band.edges.filter((edge) => isPopularBand(edge.to))") ||
+  !mainJs.includes("band.id !== exclude && (!popularOnly || isPopularBand(band.id))") ||
+  !mapJs.includes("initialPopularOnly = true")
+) {
+  throw new Error('主页面“隐藏冷门”没有默认开启或没有覆盖关系与随机入口');
+}
 
 const randomPool = index.bands.filter(
   (band) =>
@@ -54,6 +63,10 @@ if (randomPool.some((band) => band.degree < 3 || band.quality?.templateIntro)) {
 const withPopularity = index.bands.filter((band) => Number.isFinite(band.listens)).length;
 if (withPopularity !== index.bands.length) {
   throw new Error(`热度字段缺失：${withPopularity}/${index.bands.length}`);
+}
+const popularBands = index.bands.filter((band) => band.listens >= 1000);
+if (popularBands.length < 450 || popularBands.length >= index.bands.length) {
+  throw new Error(`默认冷门筛选范围异常：${popularBands.length}/${index.bands.length}`);
 }
 const compactSearch = (text) =>
   (text ?? '')
@@ -84,16 +97,28 @@ for (const [query, expected] of [
   ['ふじいかぜ', '藤井風'],
   ['Hikaru Utada', '宇多田ヒカル'],
   ['宇多田光', '宇多田ヒカル'],
+  ['Hoshimachi Suisei', '星街すいせい'],
+  ['GReeeeN', 'GRe4N BOYZ'],
+  ['Ikimonogakari', 'いきものがかり'],
 ]) {
   if (!exactSearch(query).some((band) => band.name === expected)) {
     throw new Error(`全局多文字搜索失效：${query} → ${expected}`);
   }
 }
 const people = index.bands.filter((band) => band.artistType === 'Person');
-if (people.length < 15) throw new Error(`个人音乐人异常减少：${people.length}`);
-for (const name of ['YOASOBI', 'Vaundy', '藤井風', 'Ado', 'なとり', 'BE:FIRST']) {
+if (people.length < 25) throw new Error(`个人音乐人异常减少：${people.length}`);
+for (const name of [
+  'YOASOBI', 'Vaundy', '藤井風', 'Ado', 'なとり', 'BE:FIRST',
+  'Aimer', 'HANA', 'XG', '星街すいせい', '櫻坂46', '乃木坂46', 'いきものがかり',
+]) {
   if (!index.bands.some((band) => band.name === name)) {
     throw new Error(`当代日本名单缺少：${name}`);
+  }
+}
+for (const name of ['Aimer', 'HANA', 'XG', '星街すいせい', '櫻坂46', '乃木坂46']) {
+  const band = index.bands.find((item) => item.name === name);
+  if ((band?.listens ?? 0) < 1000) {
+    throw new Error(`热门增量会被默认冷门筛选隐藏：${name}`);
   }
 }
 const usWithoutAlbums = bands.filter(
@@ -160,7 +185,7 @@ if (content.genres < 580 || content.tracks < 260) {
 }
 console.log(
   `✓ 站点回归通过 · 资源 ${versions[0]} · 随机池 ${randomPool.length} · ` +
-  `热度 ${withPopularity}/${bands.length} · 个人音乐人 ${people.length} · 客串 ${guestEdges}`
+  `默认可见 ${popularBands.length}/${bands.length} · 个人音乐人 ${people.length} · 客串 ${guestEdges}`
 );
 console.log(
   `  内容：模板 ${content.template}，有流派 ${content.genres}，` +

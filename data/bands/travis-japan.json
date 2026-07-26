@@ -1,0 +1,111 @@
+{
+  "id": "travis-japan",
+  "mbid": "b665cecc-e94c-4b3a-9c91-76869fa92b1d",
+  "name": "Travis Japan",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2012–",
+  "genres": [
+    "日本流行音乐",
+    "日本流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "Road to A",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "Road to A (Global Edition)",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "VIIsual",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "VIIsual (Global Edition)",
+      "year": 2024,
+      "kind": "Album"
+    },
+    {
+      "title": "’s travelers",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Travis Japan是星达拓娱乐的7人偶像团体，以舞蹈、表演实力著称，曾3度登上《美国达人秀》，并在全球最大型全舞风赛事“World of Dance”团体组中获得第9名。",
+  "introLang": "zh",
+  "tracks": [
+    "Candy Kiss",
+    "JUST DANCE!",
+    "Moving Pieces"
+  ],
+  "trackSources": [
+    {
+      "title": "Candy Kiss"
+    },
+    {
+      "title": "JUST DANCE!"
+    },
+    {
+      "title": "Moving Pieces"
+    }
+  ],
+  "listens": 13234,
+  "listeners": 155,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b665cecc-e94c-4b3a-9c91-76869fa92b1d"
+  },
+  "edges": [
+    {
+      "to": "sixtones",
+      "toName": "SixTONES",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "snow-man",
+      "toName": "Snow Man",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "timelesz",
+      "toName": "timelesz",
+      "toArea": "日本",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

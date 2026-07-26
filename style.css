@@ -558,6 +558,13 @@ button { font: inherit; color: inherit; }
   transition: border-color 0.2s ease, color 0.2s ease;
 }
 .btn:hover, .btn:focus-visible { border-color: var(--ink-3); outline: none; }
+.btn[aria-pressed="true"] {
+  color: var(--ink);
+  border-color: color-mix(in srgb, var(--rel-guest) 64%, var(--line));
+  background: color-mix(in srgb, var(--rel-guest) 13%, var(--panel));
+}
+.btn--filter { margin-left: auto; white-space: nowrap; }
+.btn--filter + .status { margin-left: 0; }
 
 /* 图例竖排缩在角落里。横着铺开会占满整条底边，
    而那正是下方那几张乐队卡片露头的地方。 */
@@ -718,6 +725,7 @@ button { font: inherit; color: inherit; }
   /* 上边缘的卡片内容贴底排，每多一行就往顶栏顶一分 */
   .peek__label { white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
   .btn { padding: 5px 12px; font-size: 0.72rem; }
+  .btn--filter { padding-inline: 10px; }
   .hud--top { gap: 8px; }
   .network-map__hud { inset:10px 10px auto; gap:7px; font-size:.62rem; }
   .network-map__toolbar { gap:7px; align-items:flex-start; flex-wrap:wrap; }

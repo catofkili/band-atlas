@@ -1,0 +1,174 @@
+{
+  "id": "清水翔太",
+  "mbid": "9262c0e1-c37e-4b87-896f-f394e70515fa",
+  "name": "清水翔太",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1989–",
+  "genres": [
+    "日本流行音乐",
+    "唱作人",
+    "节奏布鲁斯",
+    "當代節奏藍調"
+  ],
+  "albums": [
+    {
+      "title": "Umbrella",
+      "year": 2008,
+      "kind": "Album"
+    },
+    {
+      "title": "Journey",
+      "year": 2010,
+      "kind": "Album"
+    },
+    {
+      "title": "COLORS",
+      "year": 2011,
+      "kind": "Album"
+    },
+    {
+      "title": "MELODY",
+      "year": 2012,
+      "kind": "Album"
+    },
+    {
+      "title": "PROUD",
+      "year": 2016,
+      "kind": "Album"
+    },
+    {
+      "title": "WHITE",
+      "year": 2016,
+      "kind": "Album"
+    }
+  ],
+  "intro": "清水翔太是出身于日本大阪府的R&B歌手、唱作人。属于日本索尼音乐旗下。 2008年2月正式出道。曾于美国纽约市的阿波罗歌剧院演唱。",
+  "introLang": "zh",
+  "tracks": [
+    "Love Forever (加藤ミリヤ×清水翔太の曲)",
+    "FOREVER LOVE (清水翔太・加藤ミリヤの曲)",
+    "BELIEVE",
+    "Diggin' On U",
+    "GOODBYE (清水翔太の曲)"
+  ],
+  "trackSources": [
+    {
+      "title": "Love Forever (加藤ミリヤ×清水翔太の曲)"
+    },
+    {
+      "title": "FOREVER LOVE (清水翔太・加藤ミリヤの曲)"
+    },
+    {
+      "title": "BELIEVE"
+    },
+    {
+      "title": "Diggin' On U"
+    },
+    {
+      "title": "GOODBYE (清水翔太の曲)"
+    }
+  ],
+  "listens": 7546,
+  "listeners": 415,
+  "quality": {
+    "score": 90,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9262c0e1-c37e-4b87-896f-f394e70515fa"
+  },
+  "edges": [
+    {
+      "to": "king-prince",
+      "toName": "King & Prince",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "なにわ男子",
+      "toName": "なにわ男子",
+      "toArea": "日本",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "平井大",
+      "toName": "平井大",
+      "toArea": "日本",
+      "toYears": "1991–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "菅田将暉",
+      "toName": "菅田将暉",
+      "toArea": "日本",
+      "toYears": "1993–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "akasaki",
+      "toName": "AKASAKI",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "tani-yuuki",
+      "toName": "Tani Yuuki",
+      "toArea": "日本",
+      "toYears": "1998–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "hana",
+      "toName": "HANA",
+      "toArea": "日本",
+      "toYears": "2025–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

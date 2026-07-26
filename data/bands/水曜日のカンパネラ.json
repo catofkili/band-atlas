@@ -55,7 +55,7 @@
   "listens": 59281,
   "listeners": 1551,
   "quality": {
-    "score": 89,
+    "score": 90,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -84,6 +84,18 @@
       "toName": "宇多田ヒカル",
       "toArea": "日本",
       "toYears": "1983–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "嵐",
+      "toName": "嵐",
+      "toArea": "日本",
+      "toYears": "1999–2026",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

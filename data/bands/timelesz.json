@@ -1,0 +1,148 @@
+{
+  "id": "timelesz",
+  "mbid": "057927dd-b6bf-4c58-ae51-cceaf1ee58ac",
+  "name": "timelesz",
+  "artistType": "Group",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "2011–",
+  "genres": [
+    "日本流行音乐",
+    "流行音乐"
+  ],
+  "albums": [
+    {
+      "title": "one Sexy Zone",
+      "year": 2012,
+      "kind": "Album"
+    },
+    {
+      "title": "Sexy Second",
+      "year": 2014,
+      "kind": "Album"
+    },
+    {
+      "title": "Sexy Power3",
+      "year": 2015,
+      "kind": "Album"
+    },
+    {
+      "title": "Welcome to Sexy Zone",
+      "year": 2016,
+      "kind": "Album"
+    },
+    {
+      "title": "XYZ=repainting",
+      "year": 2018,
+      "kind": "Album"
+    },
+    {
+      "title": "PAGES",
+      "year": 2019,
+      "kind": "Album"
+    }
+  ],
+  "intro": "timelesz是日本偶像男子音乐组合，隶属于STARTO ENTERTAINMENT，其唱片原由波丽佳音负责发行﹐2020年唱片厂牌移籍至杰尼斯事务所与日本环球音乐合作的“Over The Top”。",
+  "introLang": "zh",
+  "tracks": [
+    "Lady Diamond",
+    "Sexy Zone",
+    "Sexy Summer下雪了",
+    "Real Sexy!/BAD BOYS",
+    "Bye Bye 迪拜 ～See you again～/A MY GIRL FRIEND"
+  ],
+  "trackSources": [
+    {
+      "title": "Lady Diamond"
+    },
+    {
+      "title": "Sexy Zone"
+    },
+    {
+      "title": "Sexy Summer下雪了"
+    },
+    {
+      "title": "Real Sexy!/BAD BOYS"
+    },
+    {
+      "title": "Bye Bye 迪拜 ～See you again～/A MY GIRL FRIEND"
+    }
+  ],
+  "listens": 13664,
+  "listeners": 94,
+  "quality": {
+    "score": 83,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/057927dd-b6bf-4c58-ae51-cceaf1ee58ac"
+  },
+  "edges": [
+    {
+      "to": "sixtones",
+      "toName": "SixTONES",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "snow-man",
+      "toName": "Snow Man",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "travis-japan",
+      "toName": "Travis Japan",
+      "toArea": "日本",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "love",
+      "toName": "=LOVE",
+      "toArea": "日本",
+      "toYears": "2017–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "こっちのけんと",
+      "toName": "こっちのけんと",
+      "toArea": "日本",
+      "toYears": "1996–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}

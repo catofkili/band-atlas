@@ -53,7 +53,7 @@
   "listens": 130078,
   "listeners": 3730,
   "quality": {
-    "score": 89,
+    "score": 90,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -90,18 +90,6 @@
       "sources": []
     },
     {
-      "to": "creepy-nuts",
-      "toName": "Creepy Nuts",
-      "toArea": "日本",
-      "toYears": null,
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
       "to": "ずっと真夜中でいいのに",
       "toName": "ずっと真夜中でいいのに。",
       "toArea": "日本",
@@ -126,10 +114,34 @@
       "sources": []
     },
     {
+      "to": "akasaki",
+      "toName": "AKASAKI",
+      "toArea": "日本",
+      "toYears": "2007–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
       "to": "imase",
       "toName": "imase",
       "toArea": "日本",
       "toYears": "2000–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "xg",
+      "toName": "XG",
+      "toArea": "韩国",
+      "toYears": "2022–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

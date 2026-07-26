@@ -43,7 +43,7 @@
   "listens": 26752,
   "listeners": 1280,
   "quality": {
-    "score": 76,
+    "score": 77,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -68,10 +68,10 @@
       "sources": []
     },
     {
-      "to": "星野源",
-      "toName": "星野源",
+      "to": "superfly",
+      "toName": "Superfly",
       "toArea": "日本",
-      "toYears": "1981–",
+      "toYears": "2004–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -84,6 +84,30 @@
       "toName": "緑黄色社会",
       "toArea": "日本",
       "toYears": "2012–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "team",
+      "toName": "&TEAM",
+      "toArea": "日本",
+      "toYears": "2022–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "幾田りら",
+      "toName": "幾田りら",
+      "toArea": "日本",
+      "toYears": "2000–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

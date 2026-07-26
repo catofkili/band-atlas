@@ -46,18 +46,6 @@
   },
   "edges": [
     {
-      "to": "bump-of-chicken",
-      "toName": "BUMP OF CHICKEN",
-      "toArea": "日本",
-      "toYears": "1994–",
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
       "to": "mrs-green-apple",
       "toName": "Mrs. GREEN APPLE",
       "toArea": "日本",
@@ -74,6 +62,18 @@
       "toName": "yama",
       "toArea": "日本",
       "toYears": null,
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "櫻坂46",
+      "toName": "櫻坂46",
+      "toArea": "日本",
+      "toYears": "2015–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",

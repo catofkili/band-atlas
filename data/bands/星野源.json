@@ -75,7 +75,7 @@
   "listens": 21175,
   "listeners": 761,
   "quality": {
-    "score": 90,
+    "score": 89,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -88,10 +88,10 @@
   },
   "edges": [
     {
-      "to": "da-ice",
-      "toName": "Da‐iCE",
+      "to": "aiko",
+      "toName": "aiko",
       "toArea": "日本",
-      "toYears": "2011–",
+      "toYears": "1975–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -100,10 +100,10 @@
       "sources": []
     },
     {
-      "to": "eve",
-      "toName": "Eve",
+      "to": "kinki-kids",
+      "toName": "KinKi Kids",
       "toArea": "日本",
-      "toYears": "1995–",
+      "toYears": "1992–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -136,10 +136,10 @@
       "sources": []
     },
     {
-      "to": "omoinotake",
-      "toName": "Omoinotake",
+      "to": "akasaki",
+      "toName": "AKASAKI",
       "toArea": "日本",
-      "toYears": "2012–",
+      "toYears": "2007–",
       "type": "scene",
       "label": "当代日本推荐",
       "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
@@ -148,20 +148,8 @@
       "sources": []
     },
     {
-      "to": "ano",
-      "toName": "ano",
-      "toArea": "日本",
-      "toYears": "????–",
-      "type": "scene",
-      "label": "当代日本推荐",
-      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
-      "year": null,
-      "weight": 0.42,
-      "sources": []
-    },
-    {
-      "to": "imase",
-      "toName": "imase",
+      "to": "幾田りら",
+      "toName": "幾田りら",
       "toArea": "日本",
       "toYears": "2000–",
       "type": "scene",

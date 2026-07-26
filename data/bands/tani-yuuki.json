@@ -1,0 +1,94 @@
+{
+  "id": "tani-yuuki",
+  "mbid": "272981dd-20c8-424a-b86a-0d0ebb95f692",
+  "name": "Tani Yuuki",
+  "artistType": "Person",
+  "area": "日本",
+  "countryCode": "JP",
+  "country": "日本",
+  "years": "1998–",
+  "genres": [],
+  "albums": [
+    {
+      "title": "Memories",
+      "year": 2021,
+      "kind": "Album"
+    },
+    {
+      "title": "多面態",
+      "year": 2023,
+      "kind": "Album"
+    },
+    {
+      "title": "航海士",
+      "year": 2025,
+      "kind": "Album"
+    }
+  ],
+  "intro": "Tani Yuuki是一名日本男性创作歌手，于日本神奈川县茅崎市出生。",
+  "introLang": "zh",
+  "tracks": [
+    "W/X/Y",
+    "おかえり"
+  ],
+  "trackSources": [
+    {
+      "title": "W/X/Y"
+    },
+    {
+      "title": "おかえり"
+    }
+  ],
+  "listens": 6375,
+  "listeners": 587,
+  "quality": {
+    "score": 64,
+    "templateIntro": false,
+    "hasGenres": false,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/272981dd-20c8-424a-b86a-0d0ebb95f692"
+  },
+  "edges": [
+    {
+      "to": "saucy-dog",
+      "toName": "Saucy Dog",
+      "toArea": "日本",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "清水翔太",
+      "toName": "清水翔太",
+      "toArea": "日本",
+      "toYears": "1989–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    },
+    {
+      "to": "超ときめき-宣伝部",
+      "toName": "超ときめき♡宣伝部",
+      "toArea": "日本",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "当代日本推荐",
+      "detail": "按 ListenBrainz 热度与 MusicBrainz 流派标签生成的推荐，不表示成员或影响事实。",
+      "year": null,
+      "weight": 0.42,
+      "sources": []
+    }
+  ]
+}
