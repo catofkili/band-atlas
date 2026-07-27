@@ -1,0 +1,100 @@
+{
+  "id": "supper-moment",
+  "mbid": "19361f18-15c7-4ac4-9d12-4c81fe261a17",
+  "name": "Supper Moment",
+  "area": "香港",
+  "countryCode": "HK",
+  "country": "香港",
+  "years": "2006–",
+  "genres": [
+    "粤语摇滚",
+    "流行摇滚",
+    "独立摇滚",
+    "粵語流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "再次心跳",
+      "year": 2011
+    },
+    {
+      "title": "世界变了样",
+      "year": 2014
+    },
+    {
+      "title": "19 Moment",
+      "year": 2019
+    },
+    {
+      "title": "dal segno",
+      "year": 2018
+    }
+  ],
+  "intro": "Sunny、Martin、CK与Hugh组成的香港乐队。从独立场地和小型巡演一路进入主流颁奖礼，作品以完整乐队编曲、向上推进的副歌和关于坚持、友情及生活压力的粤语歌词见长。",
+  "introLang": "zh",
+  "tracks": [
+    "最后晚餐",
+    "无尽",
+    "幸福之歌",
+    "橙海"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/Supper_Moment"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 3206,
+  "listeners": 108,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/19361f18-15c7-4ac4-9d12-4c81fe261a17"
+  },
+  "edges": [
+    {
+      "to": "dear-jane",
+      "toName": "Dear Jane",
+      "toArea": "香港",
+      "toYears": "2003–",
+      "type": "scene",
+      "label": "粤语流行摇滚",
+      "detail": "两支由独立现场进入主流听众的香港乐队。",
+      "year": null,
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "nowhere-boys-hk",
+      "toName": "Nowhere Boys",
+      "toArea": "香港",
+      "toYears": "2014–",
+      "type": "scene",
+      "label": "叙事摇滚",
+      "detail": "从生活励志叙事进入更具电影场景感的摇滚。",
+      "year": null,
+      "weight": 0.74,
+      "sources": []
+    },
+    {
+      "to": "rubberband",
+      "toName": "RubberBand",
+      "toArea": "香港",
+      "toYears": "2008–",
+      "type": "scene",
+      "label": "香港乐队主线",
+      "detail": "从完整乐队编曲与大型粤语副歌继续探索。",
+      "year": null,
+      "weight": 0.88,
+      "sources": []
+    }
+  ]
+}

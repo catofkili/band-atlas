@@ -1,0 +1,98 @@
+{
+  "id": "jiulian-zhenren",
+  "mbid": "91115e46-133f-4061-a652-d6d1e763dccf",
+  "name": "九连真人",
+  "area": "广东连平",
+  "countryCode": "CN",
+  "years": "2018–",
+  "genres": [
+    "民谣摇滚",
+    "另类摇滚",
+    "客家音乐"
+  ],
+  "intro": "来自广东连平的乐队，以客家话演唱，把唢呐、乡土叙事和强烈的摇滚推进放在一起。歌曲常以具体人物和小城处境展开，《莫欺少年穷》与专辑《阿民》构成了连续的成长故事。",
+  "albums": [
+    {
+      "title": "阿民",
+      "year": 2021
+    }
+  ],
+  "tracks": [
+    "莫欺少年穷",
+    "夜游神",
+    "北风",
+    "落水天"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/九连真人"
+    }
+  ],
+  "regionalFeatured": true,
+  "introLang": "zh",
+  "listens": 190,
+  "listeners": 32,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/91115e46-133f-4061-a652-d6d1e763dccf"
+  },
+  "edges": [
+    {
+      "to": "wutiaoren",
+      "toName": "五条人",
+      "toArea": "广东海丰",
+      "toYears": "2008–",
+      "type": "scene",
+      "label": "广东方言写作",
+      "detail": "海丰话与客家话构成两条不同的地方叙事路径。",
+      "year": null,
+      "weight": 0.9,
+      "sources": []
+    },
+    {
+      "to": "mr-sea-turtle",
+      "toName": "海龟先生",
+      "toArea": "广西南宁",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "华南节奏与方言",
+      "detail": "从雷鬼律动进入客家话、唢呐与更强烈的摇滚推进。",
+      "year": null,
+      "weight": 0.78,
+      "sources": []
+    },
+    {
+      "to": "miserable-faith",
+      "toName": "痛仰乐队",
+      "toArea": "北京",
+      "toYears": "1999–",
+      "type": "scene",
+      "label": "民谣摇滚现场",
+      "detail": "从地方叙事进入更强烈的摇滚现场推进。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    },
+    {
+      "to": "omnipotent-youth-society",
+      "toName": "万能青年旅店",
+      "toArea": "石家庄",
+      "toYears": "1996–",
+      "type": "scene",
+      "label": "长篇地域叙事",
+      "detail": "从客家乡镇人物进入北方工业与地貌书写。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    }
+  ]
+}

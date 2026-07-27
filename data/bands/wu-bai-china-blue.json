@@ -1,0 +1,98 @@
+{
+  "id": "wu-bai-china-blue",
+  "mbid": "1f240905-1a42-4150-8c81-141eb198885d",
+  "name": "伍佰 & China Blue",
+  "area": "台湾",
+  "countryCode": "TW",
+  "years": "1992–",
+  "genres": [
+    "摇滚",
+    "蓝调摇滚",
+    "台语流行"
+  ],
+  "intro": "伍佰与朱剑辉、小朱、Dino Zavolta组成的固定乐队编制。蓝调吉他、直接节奏与极具辨识度的国语和台语写作，使他们从Live A Go-Go时期一路成为华语现场文化的重要坐标。",
+  "albums": [
+    {
+      "title": "浪人情歌",
+      "year": 1994
+    },
+    {
+      "title": "爱情的尽头",
+      "year": 1996
+    },
+    {
+      "title": "树枝孤鸟",
+      "year": 1998
+    },
+    {
+      "title": "双面人",
+      "year": 2005
+    }
+  ],
+  "tracks": [
+    "浪人情歌",
+    "挪威的森林",
+    "Last Dance",
+    "世界第一等"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/伍佰"
+    }
+  ],
+  "regionalFeatured": true,
+  "introLang": "zh",
+  "listens": 21656,
+  "listeners": 706,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1f240905-1a42-4150-8c81-141eb198885d"
+  },
+  "edges": [
+    {
+      "to": "mayday",
+      "toName": "五月天",
+      "toArea": "台北",
+      "toYears": "1997–",
+      "type": "scene",
+      "label": "台湾现场摇滚",
+      "detail": "两代台湾大型现场文化的探索入口。",
+      "year": null,
+      "weight": 0.86,
+      "sources": []
+    },
+    {
+      "to": "cosmos-people",
+      "toName": "宇宙人",
+      "toArea": "台北",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "乐队律动传承",
+      "detail": "从蓝调摇滚现场延伸到新一代放克流行乐团。",
+      "year": null,
+      "weight": 0.7,
+      "sources": []
+    },
+    {
+      "to": "蘇打綠",
+      "toName": "蘇打綠",
+      "toArea": "台湾",
+      "toYears": "2001–",
+      "type": "scene",
+      "label": "台湾乐团世代",
+      "detail": "从九十年代现场摇滚延伸到千禧年代的创作乐团。",
+      "year": null,
+      "weight": 0.78,
+      "sources": []
+    }
+  ]
+}

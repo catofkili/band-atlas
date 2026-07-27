@@ -1,0 +1,624 @@
+{
+  "note": "中国大陆、台湾与香港代表乐队精品卡。简介为人工中文稿；scene 边只表示探索推荐，不冒充成员、合作或影响事实。",
+  "bands": [
+    {
+      "id": "omnipotent-youth-society",
+      "mbid": "4cd1ce8c-469e-4ff6-a987-59819b975a85",
+      "name": "万能青年旅店",
+      "aliases": ["萬能青年旅店", "Omnipotent Youth Society", "OYS"],
+      "area": "石家庄",
+      "countryCode": "CN",
+      "years": "1996–",
+      "genres": ["独立摇滚", "前卫摇滚", "民谣摇滚"],
+      "intro": "从石家庄出发的乐队，以董亚千的写作和史立的铜管为辨识度。两张正式专辑都用漫长篇幅描写工业城市、北方地貌与普通人的失重感：第一张锋利直接，《冀西南林路行》则把管乐、长段器乐和地方经验推成更完整的叙事。",
+      "albums": [
+        { "title": "万能青年旅店", "year": 2010 },
+        { "title": "冀西南林路行", "year": 2020 }
+      ],
+      "tracks": ["杀死那个石家庄人", "秦皇岛", "大石碎胸口", "郊眠寺", "泥河"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/万能青年旅店" }
+      ]
+    },
+    {
+      "id": "new-pants",
+      "mbid": "a3d42269-98d7-4b1d-b004-f739cf805cc9",
+      "name": "新裤子",
+      "aliases": ["新褲子", "New Pants"],
+      "area": "北京",
+      "countryCode": "CN",
+      "years": "1996–",
+      "genres": ["新浪潮", "朋克", "合成器流行"],
+      "intro": "彭磊领衔的北京乐队。早期用极简朋克写青年文化，随后把八十年代合成器、迪斯科和夸张舞台美学带进中文摇滚；他们既保留了地下乐队的怪趣味，也写出了能够被大规模合唱的流行副歌。",
+      "albums": [
+        { "title": "新裤子", "year": 1998 },
+        { "title": "龙虎人丹", "year": 2006 },
+        { "title": "野人也有爱", "year": 2008 },
+        { "title": "生命因你而火热", "year": 2016 }
+      ],
+      "tracks": ["没有理想的人不伤心", "你要跳舞吗", "Bye Bye Disco", "生命因你而火热"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/新裤子" }
+      ]
+    },
+    {
+      "id": "miserable-faith",
+      "mbid": "9e45a3c0-0e98-4217-a144-f7e17b12118b",
+      "name": "痛仰乐队",
+      "aliases": ["痛仰", "Miserable Faith"],
+      "area": "北京",
+      "countryCode": "CN",
+      "years": "1999–",
+      "genres": ["另类摇滚", "硬核朋克", "民谣摇滚"],
+      "intro": "从北京地下硬核现场成长起来的长期乐队。高虎的沙哑主唱和反复推进的吉他构成骨架，声音后来从正面冲撞转向公路、远行和更宽阔的民谣摇滚；大型音乐节合唱与独立巡演文化都能在他们身上交会。",
+      "albums": [
+        { "title": "这是个问题", "year": 2001 },
+        { "title": "不", "year": 2006 },
+        { "title": "盛开", "year": 2010 },
+        { "title": "愿爱无忧", "year": 2014 }
+      ],
+      "tracks": ["公路之歌", "西湖", "再见杰克", "不要停止我的音乐"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/痛仰乐队" }
+      ]
+    },
+    {
+      "id": "hedgehog-cn",
+      "mbid": "068dfa29-4ce1-46a8-9647-f612b6750387",
+      "name": "刺猬",
+      "aliases": ["Hedgehog", "Hedgehog Band"],
+      "area": "北京",
+      "countryCode": "CN",
+      "years": "2005–",
+      "genres": ["独立摇滚", "噪音流行", "朋克"],
+      "intro": "子健、朱璇与石璐组成的三人乐队。高速吉他、近乎爆裂的鼓和青春期式直白情绪是核心，但他们也擅长把长篇叙事、噪音段落和突然打开的旋律放进同一首歌。",
+      "albums": [
+        { "title": "白日梦蓝", "year": 2009 },
+        { "title": "甜蜜与杀害", "year": 2011 },
+        { "title": "生之响往", "year": 2018 },
+        { "title": "赤子白仙", "year": 2020 }
+      ],
+      "tracks": ["火车驶向云外，梦安魂于九霄", "白日梦蓝", "24小时摇滚聚会", "生之响往"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/刺猬_(乐队)" }
+      ]
+    },
+    {
+      "id": "dada-cn",
+      "mbid": "2a87fc6e-8e3e-43f7-b150-339bdab274cb",
+      "name": "达达乐队",
+      "aliases": ["達達樂隊", "Dada"],
+      "area": "武汉",
+      "countryCode": "CN",
+      "years": "1996–2005 / 2019–",
+      "genres": ["另类摇滚", "流行摇滚", "英伦摇滚"],
+      "intro": "彭坦担任主唱的武汉乐队，也是较早通过主流唱片体系被全国听众认识的内地新摇滚乐队之一。两张早期专辑在清亮吉他与年轻人的离乡情绪之间找到平衡，重组后则把那套声音带回现场。",
+      "albums": [
+        { "title": "天使", "year": 2000 },
+        { "title": "黄金时代", "year": 2003 }
+      ],
+      "tracks": ["南方", "等待", "黄金时代", "Song F"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/達達樂隊" }
+      ]
+    },
+    {
+      "id": "re-tros",
+      "mbid": "32e69425-f232-48d8-9472-e816f1230b2a",
+      "name": "重塑雕像的权利",
+      "aliases": ["重塑雕像的權利", "Re-TROS"],
+      "area": "北京",
+      "countryCode": "CN",
+      "years": "2003–",
+      "genres": ["后朋克", "哥特摇滚", "另类摇滚"],
+      "intro": "华东领衔的北京后朋克乐队。低音线、机械节拍和克制的英文主唱制造出冷峻秩序，后来逐渐加入电子结构与更强的舞台戏剧性；他们是中国后朋克在国际巡演与大型现场之间的重要连接点。",
+      "albums": [
+        { "title": "Cut Off!", "year": 2005 },
+        { "title": "Watch Out! Climate Has Changed, Fat Mum Rises", "year": 2009 },
+        { "title": "Before the Applause", "year": 2017 }
+      ],
+      "tracks": ["Pigs in the River", "Hailing Drums", "Red Rum Aviv", "At Mosp Here"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/重塑雕像的权利" }
+      ]
+    },
+    {
+      "id": "mr-sea-turtle",
+      "mbid": "04b0f964-d162-4594-823b-71c321aaaab9",
+      "name": "海龟先生",
+      "aliases": ["海龜先生", "Mr. Sea Turtle", "Mr. Chelonian"],
+      "area": "广西南宁",
+      "countryCode": "CN",
+      "years": "2004–",
+      "genres": ["雷鬼摇滚", "独立摇滚", "斯卡"],
+      "intro": "李红旗领衔、从南宁出发的乐队，把雷鬼与斯卡的弹性节奏接到中文摇滚上。轻快律动之下常有关于成长、欲望与自我怀疑的歌词，《男孩别哭》是最直接的入口。",
+      "albums": [
+        { "title": "海龟先生", "year": 2012 },
+        { "title": "Where Are You Going?", "year": 2019 }
+      ],
+      "tracks": ["男孩别哭", "玛卡瑞纳", "蓝色旅馆", "Where Are You Going?"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/海龟先生" }
+      ]
+    },
+    {
+      "id": "queen-sea-big-shark",
+      "mbid": "7178d397-39c9-4389-8d78-e92d2bfb8b42",
+      "name": "后海大鲨鱼",
+      "aliases": ["後海大鯊魚", "Queen Sea Big Shark"],
+      "area": "北京",
+      "countryCode": "CN",
+      "years": "2004–",
+      "genres": ["舞曲朋克", "独立摇滚", "新浪潮"],
+      "intro": "付菡担任主唱的北京乐队。早期把车库摇滚、舞曲朋克和复古电子压进鲜艳的现场，后来加入更宽阔的合成器与流行结构；视觉、服装和舞台动作始终是音乐的一部分。",
+      "albums": [
+        { "title": "Queen Sea Big Shark", "year": 2007 },
+        { "title": "Wave", "year": 2010 },
+        { "title": "心要野", "year": 2016 }
+      ],
+      "tracks": ["超能力", "Glow in the Dark", "心要野", "猛犸"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/后海大鲨鱼" }
+      ]
+    },
+    {
+      "id": "escape-plan-cn",
+      "mbid": "e5926a57-1fc5-4084-8795-81a75fbef270",
+      "name": "逃跑计划",
+      "aliases": ["逃跑計劃", "Escape Plan"],
+      "area": "北京",
+      "countryCode": "CN",
+      "years": "2004–",
+      "genres": ["流行摇滚", "独立摇滚", "英伦摇滚"],
+      "intro": "毛川担任主唱的北京乐队，擅长用延展的吉他、清晰推进的鼓点和直接旋律制造大空间感。《夜空中最亮的星》让他们跨出摇滚现场，但完整专辑里仍保留了早期的英伦摇滚底色。",
+      "albums": [
+        { "title": "世界", "year": 2011 },
+        { "title": "闪光的回忆", "year": 2015 }
+      ],
+      "tracks": ["夜空中最亮的星", "一万次悲伤", "再见，再见", "哪里是你的拥抱"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/逃跑計劃" }
+      ]
+    },
+    {
+      "id": "chinese-football",
+      "mbid": "00155139-0a81-4076-a367-133d8727cf8c",
+      "name": "Chinese Football",
+      "aliases": ["中国足球乐队", "Chinese Football乐队"],
+      "area": "武汉",
+      "countryCode": "CN",
+      "years": "2011–",
+      "genres": ["数学摇滚", "Emo", "独立摇滚"],
+      "intro": "武汉四人乐队，以清脆双吉他、不断变化的拍点和中文emo式叙事建立辨识度。团名向American Football致意，但他们把校园、城市生活与东亚巡演经验写成了自己的青春地图。",
+      "albums": [
+        { "title": "Chinese Football", "year": 2015 },
+        { "title": "Continue?", "year": 2023 }
+      ],
+      "tracks": ["游戏开始", "世界一分为二", "电动少女", "漂流人间"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/Chinese_Football" }
+      ]
+    },
+    {
+      "id": "wutiaoren",
+      "mbid": "ee98bdd5-7b2b-4ca7-9f78-d5572e8b98cd",
+      "name": "五条人",
+      "aliases": ["五條人", "Wutiaoren"],
+      "area": "广东海丰",
+      "countryCode": "CN",
+      "years": "2008–",
+      "genres": ["民谣摇滚", "独立摇滚", "世界音乐"],
+      "intro": "仁科与茂涛从广东海丰的县城经验出发，以海丰话、普通话和充满口语感的人物书写构成歌曲。手风琴、吉他与松散节奏让他们既像街头说唱者，也像记录快速城市化边缘生活的短篇小说家。",
+      "albums": [
+        { "title": "县城记", "year": 2009 },
+        { "title": "一些风景", "year": 2012 },
+        { "title": "梦幻丽莎发廊", "year": 2016 },
+        { "title": "故事会", "year": 2018 }
+      ],
+      "tracks": ["道山靓仔", "阿珍爱上了阿强", "问题出现我再告诉大家", "十年水流东，十年水流西"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/五条人" }
+      ]
+    },
+    {
+      "id": "jiulian-zhenren",
+      "mbid": "91115e46-133f-4061-a652-d6d1e763dccf",
+      "name": "九连真人",
+      "aliases": ["九連真人", "Jiulian Zhenren"],
+      "area": "广东连平",
+      "countryCode": "CN",
+      "years": "2018–",
+      "genres": ["民谣摇滚", "另类摇滚", "客家音乐"],
+      "intro": "来自广东连平的乐队，以客家话演唱，把唢呐、乡土叙事和强烈的摇滚推进放在一起。歌曲常以具体人物和小城处境展开，《莫欺少年穷》与专辑《阿民》构成了连续的成长故事。",
+      "albums": [
+        { "title": "阿民", "year": 2021 }
+      ],
+      "tracks": ["莫欺少年穷", "夜游神", "北风", "落水天"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/九连真人" }
+      ]
+    },
+    {
+      "id": "mayday",
+      "mbid": "e73ed332-bbde-4d69-87a9-250627ae0e29",
+      "name": "五月天",
+      "aliases": ["Mayday"],
+      "area": "台北",
+      "countryCode": "TW",
+      "years": "1997–",
+      "genres": ["流行摇滚", "另类摇滚"],
+      "intro": "由阿信、怪兽、石头、玛莎和冠佑组成的台湾乐团。从校园与Live House起步，逐步把摇滚编制、成长主题与大型演唱会叙事结合起来；他们的作品覆盖青春、离别、亲密关系与成年人重新寻找理想的过程。",
+      "albums": [
+        { "title": "五月天第一张创作专辑", "year": 1999 },
+        { "title": "爱情万岁", "year": 2000 },
+        { "title": "人生海海", "year": 2001 },
+        { "title": "后青春期的诗", "year": 2008 },
+        { "title": "第二人生", "year": 2011 }
+      ],
+      "tracks": ["志明与春娇", "温柔", "倔强", "突然好想你", "如烟"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/五月天" }
+      ]
+    },
+    {
+      "id": "no-party-for-cao-dong",
+      "mbid": "1636f82a-b541-4867-9eb7-e4b224552eef",
+      "name": "草东没有派对",
+      "aliases": ["草東沒有派對", "No Party For Cao Dong"],
+      "area": "台北",
+      "countryCode": "TW",
+      "years": "2012–",
+      "genres": ["独立摇滚", "后朋克", "另类摇滚"],
+      "intro": "从台北草东街一带排练生活中长出的乐团。低沉吉他、克制爆发和带挫败感的中文歌词，使《丑奴儿》成为一代听众的共同入口；《瓦合》则把节奏、音色和叙事进一步收紧。",
+      "albums": [
+        { "title": "丑奴儿", "year": 2016 },
+        { "title": "瓦合", "year": 2023 }
+      ],
+      "tracks": ["山海", "大风吹", "烂泥", "但", "床"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/草東沒有派對" }
+      ]
+    },
+    {
+      "id": "accusefive",
+      "mbid": "9607d222-f506-4106-8131-87a344d732ca",
+      "name": "告五人",
+      "aliases": ["Accusefive"],
+      "area": "宜兰",
+      "countryCode": "TW",
+      "years": "2017–",
+      "genres": ["流行摇滚", "独立流行"],
+      "intro": "犬青、云安与哲谦组成的宜兰乐团，以男女双主唱、宽阔旋律和细密情绪推进见长。他们从独立场景迅速进入大型演唱会，但作品仍保留乐团共同编曲和公路感。",
+      "albums": [
+        { "title": "我肯定在几百年前就说过爱你", "year": 2019 },
+        { "title": "运气来得若有似无", "year": 2020 },
+        { "title": "带你飞", "year": 2023 }
+      ],
+      "tracks": ["爱人错过", "在这座城市遗失了你", "好不容易", "披星戴月的想你"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/告五人" }
+      ]
+    },
+    {
+      "id": "sunset-rollercoaster",
+      "mbid": "75c5edb5-796d-46f3-bac3-9b59da658023",
+      "name": "落日飞车",
+      "aliases": ["落日飛車", "Sunset Rollercoaster"],
+      "area": "台北",
+      "countryCode": "TW",
+      "years": "2009–",
+      "genres": ["迷幻流行", "独立摇滚", "灵魂乐"],
+      "intro": "曾国宏领衔的台北乐团，把柔软的英语主唱、合成器、萨克斯与七十年代灵魂乐质感揉进慢速迷幻流行。频繁的国际巡演让他们成为近年台湾独立音乐向外传播最醒目的名字之一。",
+      "albums": [
+        { "title": "Bossa Nova", "year": 2011 },
+        { "title": "Cassa Nova", "year": 2018 },
+        { "title": "Soft Storm", "year": 2020 }
+      ],
+      "tracks": ["My Jinji", "Burgundy Red", "Summum Bonum", "Candlelight"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/落日飛車" }
+      ]
+    },
+    {
+      "id": "the-chairs",
+      "mbid": "03a25129-3371-4ab4-b30b-f5d9dcfbec7c",
+      "name": "椅子乐团",
+      "aliases": ["椅子樂團", "The Chairs"],
+      "area": "台中",
+      "countryCode": "TW",
+      "years": "2015–",
+      "genres": ["独立流行", "迷幻流行", "民谣摇滚"],
+      "intro": "裘咏靖、陈仲颖与孙伯元组成的台湾三人团。国语、台语与英语自然切换，轻柔和声、复古吉他和带一点迷幻的编曲，使他们的作品同时适合卧室聆听与音乐节现场。",
+      "albums": [
+        { "title": "Cheers!Land", "year": 2018 },
+        { "title": "Lovely Sunday", "year": 2019 },
+        { "title": "Shangri-La Is Calling", "year": 2022 }
+      ],
+      "tracks": ["Rollin' On", "Maybe Maybe", "巴黎德州", "手捧一杯酒"],
+      "introSources": [
+        { "label": "MusicBrainz资料", "url": "https://musicbrainz.org/artist/03a25129-3371-4ab4-b30b-f5d9dcfbec7c" }
+      ]
+    },
+    {
+      "id": "deca-joins",
+      "mbid": "0ec64e22-aa09-48d3-9ec6-2f3f8575554f",
+      "name": "deca joins",
+      "aliases": ["deca joins樂團"],
+      "area": "台北",
+      "countryCode": "TW",
+      "years": "2013–",
+      "genres": ["独立摇滚", "迷幻摇滚", "梦幻流行"],
+      "intro": "从台北地下场景成长起来的乐团，以松弛节拍、带回声的吉他和郑敬儒近乎自言自语的主唱构成气氛。歌曲常把亲密关系、潮湿城市与日常停顿写得模糊又具体。",
+      "albums": [
+        { "title": "浴室", "year": 2017 },
+        { "title": "Go Slow", "year": 2018 },
+        { "title": "鸟鸟鸟", "year": 2021 }
+      ],
+      "tracks": ["浴室", "海浪", "巫赌", "B1"],
+      "introSources": [
+        { "label": "MusicBrainz资料", "url": "https://musicbrainz.org/artist/0ec64e22-aa09-48d3-9ec6-2f3f8575554f" }
+      ]
+    },
+    {
+      "id": "cosmos-people",
+      "mbid": "75fffb0e-184a-403f-8d5d-9dd822a58217",
+      "name": "宇宙人",
+      "aliases": ["Cosmos People", "宇宙人樂團"],
+      "area": "台北",
+      "countryCode": "TW",
+      "years": "2004–",
+      "genres": ["流行摇滚", "放克", "独立流行"],
+      "intro": "小玉、阿奎与方Q组成的台湾乐团，以放克节奏、干净吉他与贴近日常的旋律为核心。作品从年轻人的城市生活一路写到成年后的关系与自我调整，现场则以轻快而扎实的律动见长。",
+      "albums": [
+        { "title": "宇宙人", "year": 2009 },
+        { "title": "地球漫步", "year": 2012 },
+        { "title": "一万小时", "year": 2015 },
+        { "title": "理想状态", "year": 2022 }
+      ],
+      "tracks": ["一起去跑步", "那你呢", "蓝色的你", "如果我们还在一起"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/宇宙人_(台灣樂團)" }
+      ]
+    },
+    {
+      "id": "chthonic",
+      "mbid": "81a344e9-a8b1-49a6-80b2-2b03d8a25650",
+      "name": "闪灵",
+      "aliases": ["閃靈", "Chthonic", "ChthoniC"],
+      "area": "台北",
+      "countryCode": "TW",
+      "years": "1995–",
+      "genres": ["旋律死亡金属", "黑金属", "民谣金属"],
+      "intro": "以Freddy Lim与Doris Yeh为核心的台湾金属乐团。高速极端金属之外，他们把二胡、东方旋律与台湾历史题材放进概念专辑，并通过长期国际巡演建立了跨语言听众。",
+      "albums": [
+        { "title": "Seediq Bale", "year": 2005 },
+        { "title": "Takasago Army", "year": 2011 },
+        { "title": "Bu-Tik", "year": 2013 },
+        { "title": "Battlefields of Asura", "year": 2018 }
+      ],
+      "tracks": ["Takao", "Broken Jade", "Supreme Pain for the Tyrant", "Defenders of Bú-Tik Palace"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/閃靈樂團" }
+      ]
+    },
+    {
+      "id": "wu-bai-china-blue",
+      "mbid": "1f240905-1a42-4150-8c81-141eb198885d",
+      "name": "伍佰 & China Blue",
+      "aliases": ["伍佰與China Blue", "Wu Bai & China Blue"],
+      "area": "台湾",
+      "countryCode": "TW",
+      "years": "1992–",
+      "genres": ["摇滚", "蓝调摇滚", "台语流行"],
+      "intro": "伍佰与朱剑辉、小朱、Dino Zavolta组成的固定乐队编制。蓝调吉他、直接节奏与极具辨识度的国语和台语写作，使他们从Live A Go-Go时期一路成为华语现场文化的重要坐标。",
+      "albums": [
+        { "title": "浪人情歌", "year": 1994 },
+        { "title": "爱情的尽头", "year": 1996 },
+        { "title": "树枝孤鸟", "year": 1998 },
+        { "title": "双面人", "year": 2005 }
+      ],
+      "tracks": ["浪人情歌", "挪威的森林", "Last Dance", "世界第一等"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/伍佰" }
+      ]
+    },
+    {
+      "id": "your-woman-sleep-with-others",
+      "mbid": "52d7718d-fb8e-4bb9-adce-41e7151f847e",
+      "name": "老王乐队",
+      "aliases": ["老王樂隊", "Your Woman Sleep With Others"],
+      "area": "台北",
+      "countryCode": "TW",
+      "years": "2015–",
+      "genres": ["独立摇滚", "民谣摇滚"],
+      "intro": "以张立长的低沉主唱和童伟硕的提琴为显著特征，把青年焦虑、教育压力与失败感写成带民谣色彩的摇滚。歌名常带黑色幽默，编曲却能从低声叙述迅速推向全团爆发。",
+      "albums": [
+        { "title": "吾十有五而志于学", "year": 2017 },
+        { "title": "吾日三省吾身", "year": 2019 },
+        { "title": "黄色的房子映照清晨的天空", "year": 2023 }
+      ],
+      "tracks": ["我还年轻 我还年轻", "安九", "补习班的门口高挂我的黑白照片", "稳定生活多美好 三年五年高普考"],
+      "introSources": [
+        { "label": "MusicBrainz资料", "url": "https://musicbrainz.org/artist/52d7718d-fb8e-4bb9-adce-41e7151f847e" }
+      ]
+    },
+    {
+      "id": "my-little-airport",
+      "mbid": "ea6185ea-0138-4b8c-a81a-e8fb90d7c680",
+      "name": "my little airport",
+      "aliases": ["MLA", "My Little Airport"],
+      "area": "香港",
+      "countryCode": "HK",
+      "years": "2004–",
+      "genres": ["独立流行", "低保真", "粤语流行"],
+      "intro": "阿P与Nicole组成的香港独立组合。极简键盘、低保真吉他和近乎日记的粤语歌词，把恋爱、办公室、租金、街道与公共生活写进短小歌曲；地名和口语让他们的作品成为一部持续更新的香港私人地图。",
+      "albums": [
+        { "title": "The OK Thing to Do on Sunday Afternoon Is to Toddle in the Zoo", "year": 2004 },
+        { "title": "我们在炎热与抑郁的夏天，无法停止抽烟", "year": 2007 },
+        { "title": "香港是个大商场", "year": 2011 },
+        { "title": "适婚的年龄", "year": 2014 }
+      ],
+      "tracks": ["浪漫九龙塘", "介乎法国与旺角的诗意", "西西弗斯之歌", "边一个发明了返工"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/My_Little_Airport" }
+      ]
+    },
+    {
+      "id": "supper-moment",
+      "mbid": "19361f18-15c7-4ac4-9d12-4c81fe261a17",
+      "name": "Supper Moment",
+      "aliases": ["Supper Moment樂隊"],
+      "area": "香港",
+      "countryCode": "HK",
+      "years": "2006–",
+      "genres": ["粤语摇滚", "流行摇滚", "独立摇滚"],
+      "intro": "Sunny、Martin、CK与Hugh组成的香港乐队。从独立场地和小型巡演一路进入主流颁奖礼，作品以完整乐队编曲、向上推进的副歌和关于坚持、友情及生活压力的粤语歌词见长。",
+      "albums": [
+        { "title": "再次心跳", "year": 2011 },
+        { "title": "世界变了样", "year": 2014 },
+        { "title": "19 Moment", "year": 2019 },
+        { "title": "dal segno", "year": 2018 }
+      ],
+      "tracks": ["最后晚餐", "无尽", "幸福之歌", "橙海"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/Supper_Moment" }
+      ]
+    },
+    {
+      "id": "dear-jane",
+      "mbid": "eaaa4d91-a43c-4ab2-82bb-4d740daff201",
+      "name": "Dear Jane",
+      "aliases": ["Dear Jane樂隊"],
+      "area": "香港",
+      "countryCode": "HK",
+      "years": "2003–",
+      "genres": ["粤语摇滚", "流行朋克", "流行摇滚"],
+      "intro": "Tim、Howie、Jackal与Nice组成的香港乐队。早期带有流行朋克速度，后来把双吉他和大副歌转向更成熟的粤语情歌；他们证明主流情歌也可以保持清晰的乐队演奏感。",
+      "albums": [
+        { "title": "100", "year": 2006 },
+        { "title": "XOXO", "year": 2009 },
+        { "title": "Gamma", "year": 2011 },
+        { "title": "Limerence", "year": 2020 }
+      ],
+      "tracks": ["到此为止", "哪里只得我共你", "银河修理员", "不许你注定一人"],
+      "introSources": [
+        { "label": "Wikipedia资料", "url": "https://zh.wikipedia.org/wiki/Dear_Jane" }
+      ]
+    },
+    {
+      "id": "the-hertz-hk",
+      "mbid": "15a57df5-a97f-4197-ba4e-16eee9ab35c3",
+      "name": "The Hertz",
+      "aliases": ["The Hertz樂隊"],
+      "area": "香港",
+      "countryCode": "HK",
+      "years": "2018–",
+      "genres": ["独立摇滚", "粤语摇滚", "放克"],
+      "intro": "Herman、Ricky、Marco、Him与Ray组成的新一代香港乐队。作品把放克律动、电子音色和粤语口语放在一起，题材从城市怪人到青年人的焦虑，保留了独立现场的灵活编曲。",
+      "albums": [
+        { "title": "The Hertz", "year": 2021 }
+      ],
+      "tracks": ["阿丧", "末日快车", "妖", "千世书"],
+      "introSources": [
+        { "label": "MusicBrainz资料", "url": "https://musicbrainz.org/artist/15a57df5-a97f-4197-ba4e-16eee9ab35c3" }
+      ]
+    },
+    {
+      "id": "chochukmo",
+      "mbid": "188bfaf9-3f73-44c6-bb9b-377f518064e7",
+      "name": "Chochukmo",
+      "aliases": ["觸執毛", "触执毛"],
+      "area": "香港",
+      "countryCode": "HK",
+      "years": "2005–2021",
+      "genres": ["独立摇滚", "数学摇滚", "实验摇滚"],
+      "intro": "Jan Curious担任主唱的香港独立乐队。锋利双吉他、快速变拍与夸张舞台动作让他们在现场尤其突出，两张专辑则记录了从紧凑数学摇滚到更开放实验结构的变化。",
+      "albums": [
+        { "title": "The King Lost His Pink", "year": 2009 },
+        { "title": "A Tragedy Your Majesty", "year": 2013 }
+      ],
+      "tracks": ["Head to Toe", "Good Night", "Number One", "Tell Her"],
+      "introSources": [
+        { "label": "MusicBrainz资料", "url": "https://musicbrainz.org/artist/188bfaf9-3f73-44c6-bb9b-377f518064e7" }
+      ]
+    },
+    {
+      "id": "nowhere-boys-hk",
+      "mbid": "c4255804-8b11-48cc-b205-2749345f21a2",
+      "name": "Nowhere Boys",
+      "aliases": ["Nowhere Boys樂隊"],
+      "area": "香港",
+      "countryCode": "HK",
+      "years": "2014–",
+      "genres": ["另类摇滚", "粤语摇滚", "电影摇滚"],
+      "intro": "香港五人乐队，自称以“电影式摇滚”构造歌曲：管弦、电子与标准摇滚编制服务于有场景转折的叙事。作品常从科幻、城市英雄和旅途意象切入，再落回普通人的选择。",
+      "albums": [
+        { "title": "Welcome to Our Hyperreality", "year": 2015 },
+        { "title": "Journey to Nowhere", "year": 2019 }
+      ],
+      "tracks": ["乱世超人", "致旅途中的我", "夕阳武士", "大步走"],
+      "introSources": [
+        { "label": "MusicBrainz资料", "url": "https://musicbrainz.org/artist/c4255804-8b11-48cc-b205-2749345f21a2" }
+      ]
+    }
+  ],
+  "edges": [
+    { "from": "omnipotent-youth-society", "to": "new-pants", "type": "scene", "weight": 0.72, "label": "大陆代表乐队", "detail": "按时代、地区与听感建立的探索推荐，不表示成员或合作事实。" },
+    { "from": "omnipotent-youth-society", "to": "hedgehog-cn", "type": "scene", "weight": 0.82, "label": "北方独立摇滚", "detail": "从北方城市经验与长篇摇滚叙事继续探索。" },
+    { "from": "omnipotent-youth-society", "to": "wutiaoren", "type": "scene", "weight": 0.8, "label": "地方经验写作", "detail": "两支乐队都把具体地域与人物经验写进完整专辑。" },
+    { "from": "new-pants", "to": "queen-sea-big-shark", "type": "scene", "weight": 0.88, "label": "北京舞曲摇滚", "detail": "从朋克、合成器与舞台视觉延伸的北京场景推荐。" },
+    { "from": "new-pants", "to": "re-tros", "type": "scene", "weight": 0.7, "label": "北京新浪潮支线", "detail": "沿北京独立场景探索舞曲朋克与冷峻后朋克的两端。" },
+    { "from": "miserable-faith", "to": "escape-plan-cn", "type": "scene", "weight": 0.76, "label": "现场合唱支线", "detail": "从公路感与大型现场副歌继续探索。" },
+    { "from": "escape-plan-cn", "to": "new-pants", "type": "scene", "weight": 0.7, "label": "北京乐队现场", "detail": "从旋律摇滚进入新浪潮与舞曲朋克的北京支线。" },
+    { "from": "miserable-faith", "to": "mr-sea-turtle", "type": "scene", "weight": 0.72, "label": "南方律动支线", "detail": "从摇滚现场转向雷鬼、斯卡与更松弛的节奏。" },
+    { "from": "hedgehog-cn", "to": "chinese-football", "type": "scene", "weight": 0.86, "label": "青春与emo", "detail": "从高能独立摇滚进入更细密的东亚emo与数学摇滚。" },
+    { "from": "hedgehog-cn", "to": "dada-cn", "type": "scene", "weight": 0.7, "label": "千禧年前后", "detail": "沿中文青年摇滚在不同时期的表达继续探索。" },
+    { "from": "hedgehog-cn", "to": "queen-sea-big-shark", "type": "scene", "weight": 0.72, "label": "北京独立现场", "detail": "从爆裂三人摇滚转向更舞曲化的北京现场。" },
+    { "from": "dada-cn", "to": "escape-plan-cn", "type": "scene", "weight": 0.78, "label": "旋律摇滚", "detail": "两支乐队都以清晰旋律与宽阔吉他进入更大规模听众。" },
+    { "from": "re-tros", "to": "carsick-cars", "type": "scene", "weight": 0.82, "label": "北京地下现场", "detail": "从后朋克与噪音摇滚的北京独立现场继续探索。" },
+    { "from": "re-tros", "to": "queen-sea-big-shark", "type": "scene", "weight": 0.74, "label": "后朋克与舞曲", "detail": "冷峻节拍与舞曲朋克之间的场景推荐。" },
+    { "from": "mr-sea-turtle", "to": "wutiaoren", "type": "scene", "weight": 0.82, "label": "华南地域声音", "detail": "从华南方言、地方生活与世界音乐元素继续探索。" },
+    { "from": "mr-sea-turtle", "to": "jiulian-zhenren", "type": "scene", "weight": 0.78, "label": "华南节奏与方言", "detail": "从雷鬼律动进入客家话、唢呐与更强烈的摇滚推进。" },
+    { "from": "wutiaoren", "to": "jiulian-zhenren", "type": "scene", "weight": 0.9, "label": "广东方言写作", "detail": "海丰话与客家话构成两条不同的地方叙事路径。" },
+    { "from": "jiulian-zhenren", "to": "miserable-faith", "type": "scene", "weight": 0.72, "label": "民谣摇滚现场", "detail": "从地方叙事进入更强烈的摇滚现场推进。" },
+    { "from": "jiulian-zhenren", "to": "omnipotent-youth-society", "type": "scene", "weight": 0.72, "label": "长篇地域叙事", "detail": "从客家乡镇人物进入北方工业与地貌书写。" },
+    { "from": "chinese-football", "to": "dada-cn", "type": "scene", "weight": 0.75, "label": "武汉乐队", "detail": "两支来自武汉、属于不同世代的旋律摇滚乐队。" },
+
+    { "from": "mayday", "to": "蘇打綠", "type": "scene", "weight": 0.88, "label": "台湾乐团主线", "detail": "从大型现场与完整专辑写作探索台湾流行摇滚。" },
+    { "from": "mayday", "to": "wu-bai-china-blue", "type": "scene", "weight": 0.86, "label": "台湾现场摇滚", "detail": "两代台湾大型现场文化的探索入口。" },
+    { "from": "mayday", "to": "accusefive", "type": "scene", "weight": 0.8, "label": "跨世代流行摇滚", "detail": "从千禧年代乐团进入新一代的大型流行摇滚。" },
+    { "from": "no-party-for-cao-dong", "to": "deca-joins", "type": "scene", "weight": 0.9, "label": "台北独立现场", "detail": "从克制爆发转向潮湿、松弛的台北独立摇滚。" },
+    { "from": "no-party-for-cao-dong", "to": "your-woman-sleep-with-others", "type": "scene", "weight": 0.86, "label": "青年焦虑写作", "detail": "两支乐队都把一代人的挫败感写进中文摇滚。" },
+    { "from": "no-party-for-cao-dong", "to": "康士坦的變化球", "type": "scene", "weight": 0.84, "label": "情绪摇滚", "detail": "从低沉叙事进入更强烈的后摇与情绪摇滚推进。" },
+    { "from": "accusefive", "to": "the-chairs", "type": "scene", "weight": 0.74, "label": "新世代台湾乐团", "detail": "从大型旋律转向轻柔复古的独立流行。" },
+    { "from": "accusefive", "to": "cosmos-people", "type": "scene", "weight": 0.76, "label": "流行乐团现场", "detail": "沿明亮旋律与稳定乐团编制继续探索。" },
+    { "from": "sunset-rollercoaster", "to": "the-chairs", "type": "scene", "weight": 0.88, "label": "复古迷幻流行", "detail": "从灵魂乐质感进入更轻盈的复古独立流行。" },
+    { "from": "sunset-rollercoaster", "to": "deca-joins", "type": "scene", "weight": 0.84, "label": "台北迷幻支线", "detail": "两种速度与音色不同的台北迷幻摇滚入口。" },
+    { "from": "sunset-rollercoaster", "to": "大象體操", "type": "scene", "weight": 0.78, "label": "国际巡演支线", "detail": "台湾独立乐团向海外巡演与跨场景听众延伸的推荐。" },
+    { "from": "the-chairs", "to": "cosmos-people", "type": "scene", "weight": 0.72, "label": "轻快乐团编制", "detail": "从复古和声进入更具放克律动的台湾流行乐团。" },
+    { "from": "deca-joins", "to": "your-woman-sleep-with-others", "type": "scene", "weight": 0.8, "label": "台北独立摇滚", "detail": "从松弛迷幻进入带提琴与黑色幽默的青年叙事。" },
+    { "from": "chthonic", "to": "flesh-juicer", "type": "scene", "weight": 0.9, "label": "台湾重型音乐", "detail": "从极端金属与本土题材继续探索台湾重型现场。" },
+    { "from": "chthonic", "to": "滅火器", "type": "scene", "weight": 0.74, "label": "本土语言摇滚", "detail": "从不同风格进入台湾本土语言与社会题材的乐团写作。" },
+    { "from": "chthonic", "to": "no-party-for-cao-dong", "type": "scene", "weight": 0.66, "label": "台湾另类现场", "detail": "从重型概念专辑进入新一代台湾另类摇滚。" },
+    { "from": "wu-bai-china-blue", "to": "cosmos-people", "type": "scene", "weight": 0.7, "label": "乐队律动传承", "detail": "从蓝调摇滚现场延伸到新一代放克流行乐团。" },
+    { "from": "wu-bai-china-blue", "to": "蘇打綠", "type": "scene", "weight": 0.78, "label": "台湾乐团世代", "detail": "从九十年代现场摇滚延伸到千禧年代的创作乐团。" },
+    { "from": "your-woman-sleep-with-others", "to": "the-chairs", "type": "scene", "weight": 0.68, "label": "新世代台湾乐团", "detail": "从低沉青年叙事转向轻盈和声与复古独立流行。" },
+
+    { "from": "my-little-airport", "to": "at17", "type": "scene", "weight": 0.84, "label": "香港独立流行", "detail": "从小型编制、城市日常与粤语写作继续探索。" },
+    { "from": "my-little-airport", "to": "chochukmo", "type": "scene", "weight": 0.8, "label": "香港独立现场", "detail": "从低保真私语进入更锋利的实验摇滚现场。" },
+    { "from": "my-little-airport", "to": "the-hertz-hk", "type": "scene", "weight": 0.76, "label": "粤语城市写作", "detail": "两代香港独立乐队对城市日常的不同记录。" },
+    { "from": "supper-moment", "to": "rubberband", "type": "scene", "weight": 0.88, "label": "香港乐队主线", "detail": "从完整乐队编曲与大型粤语副歌继续探索。" },
+    { "from": "supper-moment", "to": "dear-jane", "type": "scene", "weight": 0.84, "label": "粤语流行摇滚", "detail": "两支由独立现场进入主流听众的香港乐队。" },
+    { "from": "supper-moment", "to": "nowhere-boys-hk", "type": "scene", "weight": 0.74, "label": "叙事摇滚", "detail": "从生活励志叙事进入更具电影场景感的摇滚。" },
+    { "from": "dear-jane", "to": "beyond", "type": "scene", "weight": 0.78, "label": "粤语摇滚传承", "detail": "跨世代探索香港主流听众中的乐队声音。" },
+    { "from": "dear-jane", "to": "the-hertz-hk", "type": "scene", "weight": 0.72, "label": "新旧粤语乐队", "detail": "从成熟流行摇滚进入新一代独立现场。" },
+    { "from": "chochukmo", "to": "the-hertz-hk", "type": "scene", "weight": 0.82, "label": "香港独立摇滚", "detail": "从变拍实验进入放克与粤语口语的新一代支线。" },
+    { "from": "chochukmo", "to": "nowhere-boys-hk", "type": "scene", "weight": 0.76, "label": "舞台叙事支线", "detail": "两支重视现场动作与戏剧结构的香港乐队。" },
+    { "from": "nowhere-boys-hk", "to": "rubberband", "type": "scene", "weight": 0.7, "label": "香港现场乐队", "detail": "从电影式叙事回到扎实的粤语乐队现场。" },
+
+    { "from": "chinese-football", "to": "大象體操", "type": "scene", "weight": 0.88, "label": "东亚数学摇滚", "detail": "连接武汉与高雄的数学摇滚、器乐与国际巡演场景。" },
+    { "from": "wutiaoren", "to": "my-little-airport", "type": "scene", "weight": 0.76, "label": "南方城市叙事", "detail": "方言、街道、小人物与城市生活构成跨地区的写作线索。" },
+    { "from": "sunset-rollercoaster", "to": "my-little-airport", "type": "scene", "weight": 0.7, "label": "华语独立流行", "detail": "从台北迷幻流行进入香港低保真城市写作。" },
+    { "from": "new-pants", "to": "mayday", "type": "scene", "weight": 0.68, "label": "华语乐队跨场景", "detail": "从大陆新浪潮与朋克进入台湾大型流行摇滚。" }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "id": "chochukmo",
+  "mbid": "188bfaf9-3f73-44c6-bb9b-377f518064e7",
+  "name": "Chochukmo",
+  "area": "香港",
+  "countryCode": "HK",
+  "years": "2005–2021",
+  "genres": [
+    "独立摇滚",
+    "数学摇滚",
+    "实验摇滚"
+  ],
+  "intro": "Jan Curious担任主唱的香港独立乐队。锋利双吉他、快速变拍与夸张舞台动作让他们在现场尤其突出，两张专辑则记录了从紧凑数学摇滚到更开放实验结构的变化。",
+  "albums": [
+    {
+      "title": "The King Lost His Pink",
+      "year": 2009
+    },
+    {
+      "title": "A Tragedy Your Majesty",
+      "year": 2013
+    }
+  ],
+  "tracks": [
+    "Head to Toe",
+    "Good Night",
+    "Number One",
+    "Tell Her"
+  ],
+  "introSources": [
+    {
+      "label": "MusicBrainz资料",
+      "url": "https://musicbrainz.org/artist/188bfaf9-3f73-44c6-bb9b-377f518064e7"
+    }
+  ],
+  "regionalFeatured": true,
+  "introLang": "zh",
+  "listens": 442,
+  "listeners": 28,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/188bfaf9-3f73-44c6-bb9b-377f518064e7"
+  },
+  "edges": [
+    {
+      "to": "my-little-airport",
+      "toName": "my little airport",
+      "toArea": "香港",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "香港独立现场",
+      "detail": "从低保真私语进入更锋利的实验摇滚现场。",
+      "year": null,
+      "weight": 0.8,
+      "sources": []
+    },
+    {
+      "to": "the-hertz-hk",
+      "toName": "The Hertz",
+      "toArea": "香港",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "香港独立摇滚",
+      "detail": "从变拍实验进入放克与粤语口语的新一代支线。",
+      "year": null,
+      "weight": 0.82,
+      "sources": []
+    },
+    {
+      "to": "nowhere-boys-hk",
+      "toName": "Nowhere Boys",
+      "toArea": "香港",
+      "toYears": "2014–",
+      "type": "scene",
+      "label": "舞台叙事支线",
+      "detail": "两支重视现场动作与戏剧结构的香港乐队。",
+      "year": null,
+      "weight": 0.76,
+      "sources": []
+    }
+  ]
+}

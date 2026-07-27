@@ -81,6 +81,18 @@
   },
   "edges": [
     {
+      "to": "dear-jane",
+      "toName": "Dear Jane",
+      "toArea": "香港",
+      "toYears": "2003–",
+      "type": "scene",
+      "label": "粤语摇滚传承",
+      "detail": "跨世代探索香港主流听众中的乐队声音。",
+      "year": null,
+      "weight": 0.78,
+      "sources": []
+    },
+    {
       "to": "浮世繪",
       "toName": "浮世繪",
       "toArea": "香港",

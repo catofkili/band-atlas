@@ -1,0 +1,105 @@
+{
+  "id": "omnipotent-youth-society",
+  "mbid": "4cd1ce8c-469e-4ff6-a987-59819b975a85",
+  "name": "万能青年旅店",
+  "area": "石家庄",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "1996–",
+  "genres": [
+    "独立摇滚",
+    "前卫摇滚",
+    "民谣摇滚",
+    "另类摇滚"
+  ],
+  "albums": [
+    {
+      "title": "万能青年旅店",
+      "year": 2010
+    },
+    {
+      "title": "冀西南林路行",
+      "year": 2020
+    }
+  ],
+  "intro": "从石家庄出发的乐队，以董亚千的写作和史立的铜管为辨识度。两张正式专辑都用漫长篇幅描写工业城市、北方地貌与普通人的失重感：第一张锋利直接，《冀西南林路行》则把管乐、长段器乐和地方经验推成更完整的叙事。",
+  "introLang": "zh",
+  "tracks": [
+    "杀死那个石家庄人",
+    "秦皇岛",
+    "大石碎胸口",
+    "郊眠寺",
+    "泥河"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/万能青年旅店"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 26020,
+  "listeners": 850,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4cd1ce8c-469e-4ff6-a987-59819b975a85"
+  },
+  "edges": [
+    {
+      "to": "hedgehog-cn",
+      "toName": "刺猬",
+      "toArea": "北京",
+      "toYears": "2005–",
+      "type": "scene",
+      "label": "北方独立摇滚",
+      "detail": "从北方城市经验与长篇摇滚叙事继续探索。",
+      "year": null,
+      "weight": 0.82,
+      "sources": []
+    },
+    {
+      "to": "wutiaoren",
+      "toName": "五条人",
+      "toArea": "广东海丰",
+      "toYears": "2008–",
+      "type": "scene",
+      "label": "地方经验写作",
+      "detail": "两支乐队都把具体地域与人物经验写进完整专辑。",
+      "year": null,
+      "weight": 0.8,
+      "sources": []
+    },
+    {
+      "to": "new-pants",
+      "toName": "新裤子",
+      "toArea": "北京",
+      "toYears": "1996–",
+      "type": "scene",
+      "label": "大陆代表乐队",
+      "detail": "按时代、地区与听感建立的探索推荐，不表示成员或合作事实。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    },
+    {
+      "to": "jiulian-zhenren",
+      "toName": "九连真人",
+      "toArea": "广东连平",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "长篇地域叙事",
+      "detail": "从客家乡镇人物进入北方工业与地貌书写。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    }
+  ]
+}

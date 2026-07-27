@@ -10,7 +10,17 @@ import {
 
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const read = (file) => readFile(path.join(root, file), 'utf8');
-const [indexHtml, mainJs, mapJs, renderJs, standalone, indexText, graphText, reviewText] = await Promise.all([
+const [
+  indexHtml,
+  mainJs,
+  mapJs,
+  renderJs,
+  standalone,
+  indexText,
+  graphText,
+  reviewText,
+  greaterChinaText,
+] = await Promise.all([
   read('index.html'),
   read('js/main.js'),
   read('js/map.js'),
@@ -19,10 +29,12 @@ const [indexHtml, mainJs, mapJs, renderJs, standalone, indexText, graphText, rev
   read('data/index.json'),
   read('data/graph.json'),
   read('data/review/history-candidates.json'),
+  read('data/source/greater-china.json'),
 ]);
 const index = JSON.parse(indexText);
 const graph = JSON.parse(graphText);
 const review = JSON.parse(reviewText);
+const greaterChina = JSON.parse(greaterChinaText);
 const bandFiles = (await readdir(path.join(root, 'data/bands'))).filter((file) => file.endsWith('.json'));
 const bands = await Promise.all(
   bandFiles.map(async (file) => JSON.parse(await read(`data/bands/${file}`)))
@@ -83,6 +95,33 @@ if (randomPool.length < 40) throw new Error(`高质量随机池过小：${random
 if (randomPool.some((band) => band.degree < 3 || band.quality?.templateIntro)) {
   throw new Error('高质量随机池混入模板卡或死胡同');
 }
+const greaterChinaIds = new Set(greaterChina.bands.map((band) => band.id));
+const greaterChinaBands = bands.filter((band) => greaterChinaIds.has(band.id));
+const greaterChinaIndex = index.bands.filter((band) => greaterChinaIds.has(band.id));
+if (
+  greaterChinaBands.length !== 28 ||
+  greaterChinaIndex.length !== 28 ||
+  greaterChinaBands.some(
+    (band) =>
+      band.quality?.templateIntro ||
+      (band.quality?.score ?? 0) < 80 ||
+      (band.albums?.length ?? 0) < 1 ||
+      (band.tracks?.length ?? 0) < 4 ||
+      !band.introSources?.length ||
+      band.edges.length < 3
+  ) ||
+  greaterChinaIndex.some((band) => !band.regionalFeatured)
+) {
+  throw new Error('华语代表乐队精品卡、关系或地区精选标记不完整');
+}
+const greaterChinaCountries = Object.groupBy(greaterChinaIndex, (band) => band.countryCode);
+if (
+  greaterChinaCountries.CN?.length !== 12 ||
+  greaterChinaCountries.TW?.length !== 10 ||
+  greaterChinaCountries.HK?.length !== 6
+) {
+  throw new Error('华语增量不是大陆 12 / 台湾 10 / 香港 6');
+}
 if (
   RANDOM_REGION_SHARES['east-asia'] !== 0.55 ||
   RANDOM_REGION_SHARES.elsewhere !== 0.45
@@ -101,7 +140,9 @@ const seededRandom = () => {
   randomState ^= randomState + Math.imul(randomState ^ (randomState >>> 7), 61 | randomState);
   return ((randomState ^ (randomState >>> 14)) >>> 0) / 4294967296;
 };
-const defaultRandomPool = randomPool.filter((band) => band.listens >= 1000);
+const defaultRandomPool = randomPool.filter(
+  (band) => band.listens >= 1000 || band.regionalFeatured
+);
 const sampledRegions = { 'east-asia': 0, elsewhere: 0 };
 for (let sample = 0; sample < 30000; sample += 1) {
   const band = chooseRandomBand(defaultRandomPool, { random: seededRandom });
@@ -118,7 +159,9 @@ const withPopularity = index.bands.filter((band) => Number.isFinite(band.listens
 if (withPopularity !== index.bands.length) {
   throw new Error(`热度字段缺失：${withPopularity}/${index.bands.length}`);
 }
-const popularBands = index.bands.filter((band) => band.listens >= 1000);
+const popularBands = index.bands.filter(
+  (band) => band.listens >= 1000 || band.regionalFeatured
+);
 if (popularBands.length < 450 || popularBands.length >= index.bands.length) {
   throw new Error(`默认冷门筛选范围异常：${popularBands.length}/${index.bands.length}`);
 }
@@ -156,6 +199,10 @@ for (const [query, expected] of [
   ['Ikimonogakari', 'いきものがかり'],
   ['Atarayo', 'あたらよ'],
   ['可惜夜', 'あたらよ'],
+  ['萬能青年旅店', '万能青年旅店'],
+  ['No Party For Cao Dong', '草东没有派对'],
+  ['MLA', 'my little airport'],
+  ['觸執毛', 'Chochukmo'],
 ]) {
   if (!exactSearch(query).some((band) => band.name === expected)) {
     throw new Error(`全局多文字搜索失效：${query} → ${expected}`);

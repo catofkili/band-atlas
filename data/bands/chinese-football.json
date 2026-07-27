@@ -1,0 +1,90 @@
+{
+  "id": "chinese-football",
+  "mbid": "00155139-0a81-4076-a367-133d8727cf8c",
+  "name": "Chinese Football",
+  "area": "武汉",
+  "countryCode": "CN",
+  "years": "2011–",
+  "genres": [
+    "数学摇滚",
+    "情绪摇滚",
+    "独立摇滚"
+  ],
+  "intro": "武汉四人乐队，以清脆双吉他、不断变化的拍点和中文emo式叙事建立辨识度。团名向American Football致意，但他们把校园、城市生活与东亚巡演经验写成了自己的青春地图。",
+  "albums": [
+    {
+      "title": "Chinese Football",
+      "year": 2015
+    },
+    {
+      "title": "Continue?",
+      "year": 2023
+    }
+  ],
+  "tracks": [
+    "游戏开始",
+    "世界一分为二",
+    "电动少女",
+    "漂流人间"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/Chinese_Football"
+    }
+  ],
+  "regionalFeatured": true,
+  "introLang": "zh",
+  "listens": 15333,
+  "listeners": 1071,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/00155139-0a81-4076-a367-133d8727cf8c"
+  },
+  "edges": [
+    {
+      "to": "hedgehog-cn",
+      "toName": "刺猬",
+      "toArea": "北京",
+      "toYears": "2005–",
+      "type": "scene",
+      "label": "青春与emo",
+      "detail": "从高能独立摇滚进入更细密的东亚emo与数学摇滚。",
+      "year": null,
+      "weight": 0.86,
+      "sources": []
+    },
+    {
+      "to": "dada-cn",
+      "toName": "达达乐队",
+      "toArea": "武汉",
+      "toYears": "1996–2005 / 2019–",
+      "type": "scene",
+      "label": "武汉乐队",
+      "detail": "两支来自武汉、属于不同世代的旋律摇滚乐队。",
+      "year": null,
+      "weight": 0.75,
+      "sources": []
+    },
+    {
+      "to": "大象體操",
+      "toName": "大象體操",
+      "toArea": "高雄",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "东亚数学摇滚",
+      "detail": "连接武汉与高雄的数学摇滚、器乐与国际巡演场景。",
+      "year": null,
+      "weight": 0.88,
+      "sources": []
+    }
+  ]
+}

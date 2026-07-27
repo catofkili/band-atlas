@@ -1,0 +1,94 @@
+{
+  "id": "re-tros",
+  "mbid": "32e69425-f232-48d8-9472-e816f1230b2a",
+  "name": "重塑雕像的权利",
+  "area": "北京",
+  "countryCode": "CN",
+  "years": "2003–",
+  "genres": [
+    "后朋克",
+    "哥特摇滚",
+    "另类摇滚"
+  ],
+  "intro": "华东领衔的北京后朋克乐队。低音线、机械节拍和克制的英文主唱制造出冷峻秩序，后来逐渐加入电子结构与更强的舞台戏剧性；他们是中国后朋克在国际巡演与大型现场之间的重要连接点。",
+  "albums": [
+    {
+      "title": "Cut Off!",
+      "year": 2005
+    },
+    {
+      "title": "Watch Out! Climate Has Changed, Fat Mum Rises",
+      "year": 2009
+    },
+    {
+      "title": "Before the Applause",
+      "year": 2017
+    }
+  ],
+  "tracks": [
+    "Pigs in the River",
+    "Hailing Drums",
+    "Red Rum Aviv",
+    "At Mosp Here"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/重塑雕像的权利"
+    }
+  ],
+  "regionalFeatured": true,
+  "introLang": "zh",
+  "listens": 3782,
+  "listeners": 241,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/32e69425-f232-48d8-9472-e816f1230b2a"
+  },
+  "edges": [
+    {
+      "to": "queen-sea-big-shark",
+      "toName": "后海大鲨鱼",
+      "toArea": "北京",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "后朋克与舞曲",
+      "detail": "冷峻节拍与舞曲朋克之间的场景推荐。",
+      "year": null,
+      "weight": 0.74,
+      "sources": []
+    },
+    {
+      "to": "new-pants",
+      "toName": "新裤子",
+      "toArea": "北京",
+      "toYears": "1996–",
+      "type": "scene",
+      "label": "北京新浪潮支线",
+      "detail": "沿北京独立场景探索舞曲朋克与冷峻后朋克的两端。",
+      "year": null,
+      "weight": 0.7,
+      "sources": []
+    },
+    {
+      "to": "carsick-cars",
+      "toName": "Carsick Cars",
+      "toArea": "北京",
+      "toYears": "2005–",
+      "type": "scene",
+      "label": "北京地下现场",
+      "detail": "从后朋克与噪音摇滚的北京独立现场继续探索。",
+      "year": null,
+      "weight": 0.82,
+      "sources": []
+    }
+  ]
+}

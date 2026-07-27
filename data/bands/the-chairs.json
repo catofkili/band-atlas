@@ -1,0 +1,107 @@
+{
+  "id": "the-chairs",
+  "mbid": "03a25129-3371-4ab4-b30b-f5d9dcfbec7c",
+  "name": "椅子乐团",
+  "area": "台中",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": "2015–",
+  "genres": [
+    "独立流行",
+    "迷幻流行",
+    "民谣摇滚"
+  ],
+  "albums": [
+    {
+      "title": "Cheers!Land",
+      "year": 2018
+    },
+    {
+      "title": "Lovely Sunday",
+      "year": 2019
+    },
+    {
+      "title": "Shangri-La Is Calling",
+      "year": 2022
+    }
+  ],
+  "intro": "裘咏靖、陈仲颖与孙伯元组成的台湾三人团。国语、台语与英语自然切换，轻柔和声、复古吉他和带一点迷幻的编曲，使他们的作品同时适合卧室聆听与音乐节现场。",
+  "tracks": [
+    "Rollin' On",
+    "Maybe Maybe",
+    "巴黎德州",
+    "手捧一杯酒"
+  ],
+  "introSources": [
+    {
+      "label": "MusicBrainz资料",
+      "url": "https://musicbrainz.org/artist/03a25129-3371-4ab4-b30b-f5d9dcfbec7c"
+    }
+  ],
+  "regionalFeatured": true,
+  "introLang": "zh",
+  "listens": 4481,
+  "listeners": 309,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/03a25129-3371-4ab4-b30b-f5d9dcfbec7c"
+  },
+  "edges": [
+    {
+      "to": "sunset-rollercoaster",
+      "toName": "落日飞车",
+      "toArea": "台北",
+      "toYears": "2009–",
+      "type": "scene",
+      "label": "复古迷幻流行",
+      "detail": "从灵魂乐质感进入更轻盈的复古独立流行。",
+      "year": null,
+      "weight": 0.88,
+      "sources": []
+    },
+    {
+      "to": "accusefive",
+      "toName": "告五人",
+      "toArea": "宜兰",
+      "toYears": "2017–",
+      "type": "scene",
+      "label": "新世代台湾乐团",
+      "detail": "从大型旋律转向轻柔复古的独立流行。",
+      "year": null,
+      "weight": 0.74,
+      "sources": []
+    },
+    {
+      "to": "cosmos-people",
+      "toName": "宇宙人",
+      "toArea": "台北",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "轻快乐团编制",
+      "detail": "从复古和声进入更具放克律动的台湾流行乐团。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    },
+    {
+      "to": "your-woman-sleep-with-others",
+      "toName": "老王乐队",
+      "toArea": "台北",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "新世代台湾乐团",
+      "detail": "从低沉青年叙事转向轻盈和声与复古独立流行。",
+      "year": null,
+      "weight": 0.68,
+      "sources": []
+    }
+  ]
+}

@@ -1,0 +1,87 @@
+{
+  "id": "the-hertz-hk",
+  "mbid": "15a57df5-a97f-4197-ba4e-16eee9ab35c3",
+  "name": "The Hertz",
+  "area": "香港",
+  "countryCode": "HK",
+  "country": "香港",
+  "years": "2018–",
+  "genres": [
+    "独立摇滚",
+    "粤语摇滚",
+    "放克"
+  ],
+  "albums": [
+    {
+      "title": "The Hertz",
+      "year": 2021
+    }
+  ],
+  "intro": "Herman、Ricky、Marco、Him与Ray组成的新一代香港乐队。作品把放克律动、电子音色和粤语口语放在一起，题材从城市怪人到青年人的焦虑，保留了独立现场的灵活编曲。",
+  "introLang": "zh",
+  "tracks": [
+    "阿丧",
+    "末日快车",
+    "妖",
+    "千世书"
+  ],
+  "introSources": [
+    {
+      "label": "MusicBrainz资料",
+      "url": "https://musicbrainz.org/artist/15a57df5-a97f-4197-ba4e-16eee9ab35c3"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 956,
+  "listeners": 58,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/15a57df5-a97f-4197-ba4e-16eee9ab35c3"
+  },
+  "edges": [
+    {
+      "to": "chochukmo",
+      "toName": "Chochukmo",
+      "toArea": "香港",
+      "toYears": "2005–2021",
+      "type": "scene",
+      "label": "香港独立摇滚",
+      "detail": "从变拍实验进入放克与粤语口语的新一代支线。",
+      "year": null,
+      "weight": 0.82,
+      "sources": []
+    },
+    {
+      "to": "my-little-airport",
+      "toName": "my little airport",
+      "toArea": "香港",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "粤语城市写作",
+      "detail": "两代香港独立乐队对城市日常的不同记录。",
+      "year": null,
+      "weight": 0.76,
+      "sources": []
+    },
+    {
+      "to": "dear-jane",
+      "toName": "Dear Jane",
+      "toArea": "香港",
+      "toYears": "2003–",
+      "type": "scene",
+      "label": "新旧粤语乐队",
+      "detail": "从成熟流行摇滚进入新一代独立现场。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    }
+  ]
+}

@@ -20,7 +20,7 @@ const STAGES = [
 const OVERSCAN = 2;
 const MAX_SNAPSHOT_PIXELS = 4_000_000;
 const POPULAR_LISTEN_FLOOR = 1000;
-const GRAPH_VERSION = '7d2d3405aa';
+const GRAPH_VERSION = '7062dc3344';
 
 const hash = (text) => {
   let value = 2166136261;
@@ -122,6 +122,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
     const allowed = (nodeId) =>
       !popularOnly ||
       nodeId === id ||
+      nodes.get(nodeId)?.regionalFeatured ||
       (nodes.get(nodeId)?.listens ?? 0) >= POPULAR_LISTEN_FLOOR;
     if (picker) {
       const fragment = document.createDocumentFragment();
@@ -334,7 +335,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
     if (stats) {
       const shown = stageViews[stageIndex].visible.size;
       stats.textContent = `阶段 ${stageIndex + 1}/4 · 显示 ${shown} / ${nodes.size}`;
-      if (popularOnly) stats.textContent += ` · ≥ ${POPULAR_LISTEN_FLOOR} 次收听`;
+      if (popularOnly) stats.textContent += ` · 隐藏冷门`;
     }
     if (picker) picker.value = focusId;
     applyTransform();

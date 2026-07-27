@@ -43,6 +43,18 @@
   "region": "east-asia",
   "edges": [
     {
+      "to": "no-party-for-cao-dong",
+      "toName": "草东没有派对",
+      "toArea": "台北",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "情绪摇滚",
+      "detail": "从低沉叙事进入更强烈的后摇与情绪摇滚推进。",
+      "year": null,
+      "weight": 0.84,
+      "sources": []
+    },
+    {
       "to": "flesh-juicer",
       "toName": "Flesh Juicer",
       "toArea": "台中",

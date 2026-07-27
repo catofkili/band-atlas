@@ -1,7 +1,7 @@
-import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=7d2d3405aa';
-import { layoutNeighbors } from './layout.js?v=7d2d3405aa';
-import { createNetworkMap } from './map.js?v=7d2d3405aa';
-import { chooseRandomBand } from './random.js?v=7d2d3405aa';
+import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=7062dc3344';
+import { layoutNeighbors } from './layout.js?v=7062dc3344';
+import { createNetworkMap } from './map.js?v=7062dc3344';
+import { chooseRandomBand } from './random.js?v=7062dc3344';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -9,7 +9,7 @@ import {
   buildEdgeLayer,
   buildEdgeLine,
   CANVAS_HALF,
-} from './render.js?v=7d2d3405aa';
+} from './render.js?v=7062dc3344';
 
 const stage = document.getElementById('stage');
 const statusEl = document.getElementById('status');
@@ -362,7 +362,8 @@ function randomId(exclude) {
 }
 
 function isPopularBand(id) {
-  return (indexById.get(id)?.listens ?? 0) >= POPULAR_LISTEN_FLOOR;
+  const band = indexById.get(id);
+  return Boolean(band?.regionalFeatured) || (band?.listens ?? 0) >= POPULAR_LISTEN_FLOOR;
 }
 
 function syncPopularToggle() {

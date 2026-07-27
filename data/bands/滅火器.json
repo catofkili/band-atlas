@@ -57,6 +57,18 @@
   },
   "edges": [
     {
+      "to": "chthonic",
+      "toName": "闪灵",
+      "toArea": "台北",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "本土语言摇滚",
+      "detail": "从不同风格进入台湾本土语言与社会题材的乐团写作。",
+      "year": null,
+      "weight": 0.74,
+      "sources": []
+    },
+    {
       "to": "emptyorio",
       "toName": "EmptyORio",
       "toArea": "台湾",

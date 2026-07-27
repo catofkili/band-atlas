@@ -1,7 +1,7 @@
 {
   "scene": "日本另类摇滚及其源流",
   "note": "M0 原型数据：人工整理，未经 MusicBrainz 校验。M1 阶段由数据管线替换。",
-  "generatedAt": "2026-07-26",
+  "generatedAt": "2026-07-27",
   "bands": [
     {
       "id": "number-girl",
@@ -929,6 +929,985 @@
         "hasGenres": true,
         "hasTracks": true,
         "hasLore": true,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "omnipotent-youth-society",
+      "name": "万能青年旅店",
+      "aliases": [
+        "萬能青年旅店",
+        "Omnipotent Youth Society",
+        "OYS",
+        "万青",
+        "Wànnéng Qīngnián Lǚdiàn"
+      ],
+      "searchKeys": [
+        "万能青年旅店",
+        "萬能青年旅店",
+        "omnipotentyouthsociety",
+        "おmにぽてんtようthそきえty",
+        "オmニポテンtヨウthソキエty",
+        "oys",
+        "おys",
+        "オys",
+        "万青",
+        "wànnéngqīngniánlǚdiàn",
+        "石家庄"
+      ],
+      "artistType": "Group",
+      "area": "石家庄",
+      "years": "1996–",
+      "countryCode": "CN",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 26020,
+      "listeners": 850,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "new-pants",
+      "name": "新裤子",
+      "aliases": [
+        "新褲子",
+        "New Pants"
+      ],
+      "searchKeys": [
+        "新裤子",
+        "新褲子",
+        "newpants",
+        "ねwぱんts",
+        "ネwパンts",
+        "北京"
+      ],
+      "artistType": "Group",
+      "area": "北京",
+      "years": "1996–",
+      "countryCode": "CN",
+      "region": "east-asia",
+      "degree": 5,
+      "listens": 3982,
+      "listeners": 151,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 89,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "miserable-faith",
+      "name": "痛仰乐队",
+      "aliases": [
+        "痛仰",
+        "Miserable Faith",
+        "痛仰樂隊"
+      ],
+      "searchKeys": [
+        "痛仰乐队",
+        "痛仰",
+        "miserablefaith",
+        "みせらbぇふぁいth",
+        "ミセラbェファイth",
+        "痛仰樂隊",
+        "北京"
+      ],
+      "artistType": "Group",
+      "area": "北京",
+      "years": "1999–",
+      "countryCode": "CN",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 2435,
+      "listeners": 191,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "hedgehog-cn",
+      "name": "刺猬",
+      "aliases": [
+        "Hedgehog",
+        "Hedgehog Band",
+        "ciwei",
+        "刺猬乐队",
+        "刺猬樂隊",
+        "刺猬HEDGEHOG"
+      ],
+      "searchKeys": [
+        "刺猬",
+        "hedgehog",
+        "へdげほg",
+        "ヘdゲホg",
+        "hedgehogband",
+        "へdげほgばんd",
+        "ヘdゲホgバンd",
+        "ciwei",
+        "きうぇい",
+        "キウェイ",
+        "刺猬乐队",
+        "刺猬樂隊",
+        "刺猬hedgehog",
+        "北京"
+      ],
+      "artistType": "Group",
+      "area": "北京",
+      "years": "2005–",
+      "countryCode": "CN",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 3845,
+      "listeners": 98,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "dada-cn",
+      "name": "达达乐队",
+      "aliases": [
+        "達達樂隊",
+        "Dada",
+        "THE DADA"
+      ],
+      "searchKeys": [
+        "达达乐队",
+        "達達樂隊",
+        "dada",
+        "だだ",
+        "ダダ",
+        "thedada",
+        "てぇだだ",
+        "テェダダ",
+        "武汉"
+      ],
+      "artistType": "Group",
+      "area": "武汉",
+      "years": "1996–2005 / 2019–",
+      "countryCode": "CN",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 266,
+      "listeners": 20,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "re-tros",
+      "name": "重塑雕像的权利",
+      "aliases": [
+        "重塑雕像的權利",
+        "Re-TROS"
+      ],
+      "searchKeys": [
+        "重塑雕像的权利",
+        "重塑雕像的權利",
+        "retros",
+        "れーtろs",
+        "レーtロs",
+        "北京"
+      ],
+      "artistType": "Group",
+      "area": "北京",
+      "years": "2003–",
+      "countryCode": "CN",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 3782,
+      "listeners": 241,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "mr-sea-turtle",
+      "name": "海龟先生",
+      "aliases": [
+        "海龜先生",
+        "Mr. Sea Turtle",
+        "Mr. Chelonian",
+        "Chelonian, Mr."
+      ],
+      "searchKeys": [
+        "海龟先生",
+        "海龜先生",
+        "mrseaturtle",
+        "mr。せあつrtぇ",
+        "mr。セアツrtェ",
+        "mrchelonian",
+        "mr。ちぇぉにあん",
+        "mr。チェォニアン",
+        "chelonian,mr",
+        "ちぇぉにあん、mr。",
+        "チェォニアン、mr。",
+        "广西南宁"
+      ],
+      "artistType": "Group",
+      "area": "广西南宁",
+      "years": "2004–",
+      "countryCode": "CN",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 1297,
+      "listeners": 138,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "queen-sea-big-shark",
+      "name": "后海大鲨鱼",
+      "aliases": [
+        "後海大鯊魚",
+        "Queen Sea Big Shark",
+        "hòuhǎi dàshāyú",
+        "Queen See Big Shark",
+        "Houhai Sharks"
+      ],
+      "searchKeys": [
+        "后海大鲨鱼",
+        "後海大鯊魚",
+        "queenseabigshark",
+        "くぅええんせあびgしゃrk",
+        "クゥエエンセアビgシャrk",
+        "hòuhǎidàshāyú",
+        "queenseebigshark",
+        "くぅええんせえびgしゃrk",
+        "クゥエエンセエビgシャrk",
+        "houhaisharks",
+        "ほうはいしゃrks",
+        "ホウハイシャrks",
+        "北京"
+      ],
+      "artistType": "Group",
+      "area": "北京",
+      "years": "2004–",
+      "countryCode": "CN",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 3060,
+      "listeners": 146,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "escape-plan-cn",
+      "name": "逃跑计划",
+      "aliases": [
+        "逃跑計劃",
+        "Escape Plan"
+      ],
+      "searchKeys": [
+        "逃跑计划",
+        "逃跑計劃",
+        "escapeplan",
+        "えsかぺpぁん",
+        "エsカペpァン",
+        "北京"
+      ],
+      "artistType": "Group",
+      "area": "北京",
+      "years": "2004–",
+      "countryCode": "CN",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 4071,
+      "listeners": 380,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "chinese-football",
+      "name": "Chinese Football",
+      "aliases": [
+        "中国足球乐队",
+        "Chinese Football乐队"
+      ],
+      "searchKeys": [
+        "chinesefootball",
+        "ちねせふぉおtばll",
+        "チネセフォオtバll",
+        "中国足球乐队",
+        "chinesefootball乐队",
+        "武汉"
+      ],
+      "artistType": "Group",
+      "area": "武汉",
+      "years": "2011–",
+      "countryCode": "CN",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 15333,
+      "listeners": 1071,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "wutiaoren",
+      "name": "五条人",
+      "aliases": [
+        "五條人",
+        "Wutiaoren"
+      ],
+      "searchKeys": [
+        "五条人",
+        "五條人",
+        "wutiaoren",
+        "うちあおれん",
+        "ウチアオレン",
+        "广东海丰"
+      ],
+      "artistType": "Group",
+      "area": "广东海丰",
+      "years": "2008–",
+      "countryCode": "CN",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 3893,
+      "listeners": 157,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "jiulian-zhenren",
+      "name": "九连真人",
+      "aliases": [
+        "九連真人",
+        "Jiulian Zhenren"
+      ],
+      "searchKeys": [
+        "九连真人",
+        "九連真人",
+        "jiulianzhenren",
+        "じうぃあんzへんれん",
+        "ジウィアンzヘンレン",
+        "广东连平"
+      ],
+      "artistType": "Group",
+      "area": "广东连平",
+      "years": "2018–",
+      "countryCode": "CN",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 190,
+      "listeners": 32,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "mayday",
+      "name": "五月天",
+      "aliases": [
+        "Mayday",
+        "¤­¤ë¤Ñ",
+        "五月天乐团",
+        "¤¤ë¤Ñ",
+        "Wu Yue Tian",
+        "五月天樂團"
+      ],
+      "searchKeys": [
+        "五月天",
+        "mayday",
+        "まyだy",
+        "マyダy",
+        "¤­¤ë¤ñ",
+        "五月天乐团",
+        "¤¤ë¤ñ",
+        "wuyuetian",
+        "うゆえちあん",
+        "ウユエチアン",
+        "五月天樂團",
+        "台北"
+      ],
+      "artistType": "Group",
+      "area": "台北",
+      "years": "1997–",
+      "countryCode": "TW",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 37299,
+      "listeners": 903,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "no-party-for-cao-dong",
+      "name": "草东没有派对",
+      "aliases": [
+        "草東沒有派對",
+        "No Party For Cao Dong",
+        "No Party for Cao Dong"
+      ],
+      "searchKeys": [
+        "草东没有派对",
+        "草東沒有派對",
+        "nopartyforcaodong",
+        "のぱrtyふぉrかおどんg",
+        "ノパrtyフォrカオドンg",
+        "台北"
+      ],
+      "artistType": "Group",
+      "area": "台北",
+      "years": "2012–",
+      "countryCode": "TW",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 13717,
+      "listeners": 276,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "accusefive",
+      "name": "告五人",
+      "aliases": [
+        "Accusefive"
+      ],
+      "searchKeys": [
+        "告五人",
+        "accusefive",
+        "あっくせふぃゔぇ",
+        "アックセフィヴェ",
+        "宜兰"
+      ],
+      "artistType": "Group",
+      "area": "宜兰",
+      "years": "2017–",
+      "countryCode": "TW",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 15442,
+      "listeners": 712,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "sunset-rollercoaster",
+      "name": "落日飞车",
+      "aliases": [
+        "落日飛車",
+        "Sunset Rollercoaster",
+        "落日飛車 Sunset Rollercoaster"
+      ],
+      "searchKeys": [
+        "落日飞车",
+        "落日飛車",
+        "sunsetrollercoaster",
+        "すんせtろlぇrこあsてr",
+        "スンセtロlェrコアsテr",
+        "落日飛車sunsetrollercoaster",
+        "台北"
+      ],
+      "artistType": "Group",
+      "area": "台北",
+      "years": "2009–",
+      "countryCode": "TW",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 21350,
+      "listeners": 1512,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "the-chairs",
+      "name": "椅子乐团",
+      "aliases": [
+        "椅子樂團",
+        "The Chairs",
+        "Chairs, The"
+      ],
+      "searchKeys": [
+        "椅子乐团",
+        "椅子樂團",
+        "thechairs",
+        "てぇちゃいrs",
+        "テェチャイrs",
+        "chairs,the",
+        "ちゃいrs、てぇ",
+        "チャイrs、テェ",
+        "台中"
+      ],
+      "artistType": "Group",
+      "area": "台中",
+      "years": "2015–",
+      "countryCode": "TW",
+      "region": "east-asia",
+      "degree": 4,
+      "listens": 4481,
+      "listeners": 309,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "deca-joins",
+      "name": "deca joins",
+      "aliases": [
+        "deca joins樂團"
+      ],
+      "searchKeys": [
+        "decajoins",
+        "でかじょいんs",
+        "デカジョインs",
+        "decajoins樂團",
+        "台北"
+      ],
+      "artistType": "Group",
+      "area": "台北",
+      "years": "2013–",
+      "countryCode": "TW",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 14701,
+      "listeners": 387,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "cosmos-people",
+      "name": "宇宙人",
+      "aliases": [
+        "Cosmos People",
+        "宇宙人樂團"
+      ],
+      "searchKeys": [
+        "宇宙人",
+        "cosmospeople",
+        "こsもsぺおpぇ",
+        "コsモsペオpェ",
+        "宇宙人樂團",
+        "台北"
+      ],
+      "artistType": "Group",
+      "area": "台北",
+      "years": "2004–",
+      "countryCode": "TW",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 1183,
+      "listeners": 90,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "chthonic",
+      "name": "闪灵",
+      "aliases": [
+        "閃靈",
+        "Chthonic",
+        "ChthoniC"
+      ],
+      "searchKeys": [
+        "闪灵",
+        "閃靈",
+        "chthonic",
+        "chてょにc",
+        "chテョニc",
+        "台北"
+      ],
+      "artistType": "Group",
+      "area": "台北",
+      "years": "1995–",
+      "countryCode": "TW",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 40799,
+      "listeners": 742,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "wu-bai-china-blue",
+      "name": "伍佰 & China Blue",
+      "aliases": [
+        "伍佰與China Blue",
+        "Wu Bai & China Blue"
+      ],
+      "searchKeys": [
+        "伍佰&chinablue",
+        "伍佰與chinablue",
+        "wubai&chinablue",
+        "うばい&ちなbぅえ",
+        "ウバイ&チナbゥエ",
+        "台湾"
+      ],
+      "artistType": "Group",
+      "area": "台湾",
+      "years": "1992–",
+      "countryCode": "TW",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 21656,
+      "listeners": 706,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "your-woman-sleep-with-others",
+      "name": "老王乐队",
+      "aliases": [
+        "老王樂隊",
+        "Your Woman Sleep With Others",
+        "Your Woman Sleep with Others"
+      ],
+      "searchKeys": [
+        "老王乐队",
+        "老王樂隊",
+        "yourwomansleepwithothers",
+        "ようrをまんsぇえpうぃthおてぇrs",
+        "ヨウrヲマンsェエpウィthオテェrs",
+        "台北"
+      ],
+      "artistType": "Group",
+      "area": "台北",
+      "years": "2015–",
+      "countryCode": "TW",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 3265,
+      "listeners": 198,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 82,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "my-little-airport",
+      "name": "my little airport",
+      "aliases": [
+        "MLA"
+      ],
+      "searchKeys": [
+        "mylittleairport",
+        "myぃttぇあいrぽrt",
+        "myィttェアイrポrt",
+        "mla",
+        "mぁ",
+        "mァ",
+        "香港"
+      ],
+      "artistType": "Group",
+      "area": "香港",
+      "years": "2004–",
+      "countryCode": "HK",
+      "region": "east-asia",
+      "degree": 5,
+      "listens": 47285,
+      "listeners": 721,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 89,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "supper-moment",
+      "name": "Supper Moment",
+      "aliases": [
+        "Supper Moment樂隊"
+      ],
+      "searchKeys": [
+        "suppermoment",
+        "すっぺrもめんt",
+        "スッペrモメンt",
+        "suppermoment樂隊",
+        "香港"
+      ],
+      "artistType": "Group",
+      "area": "香港",
+      "years": "2006–",
+      "countryCode": "HK",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 3206,
+      "listeners": 108,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "dear-jane",
+      "name": "Dear Jane",
+      "aliases": [
+        "Dear Jane樂隊"
+      ],
+      "searchKeys": [
+        "dearjane",
+        "であrじゃね",
+        "デアrジャネ",
+        "dearjane樂隊",
+        "香港"
+      ],
+      "artistType": "Group",
+      "area": "香港",
+      "years": "2003–",
+      "countryCode": "HK",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 9487,
+      "listeners": 204,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "the-hertz-hk",
+      "name": "The Hertz",
+      "aliases": [
+        "The Hertz樂隊",
+        "Hertz, The"
+      ],
+      "searchKeys": [
+        "thehertz",
+        "てぇへrtz",
+        "テェヘrtz",
+        "thehertz樂隊",
+        "hertz,the",
+        "へrtz、てぇ",
+        "ヘrtz、テェ",
+        "香港"
+      ],
+      "artistType": "Group",
+      "area": "香港",
+      "years": "2018–",
+      "countryCode": "HK",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 956,
+      "listeners": 58,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "chochukmo",
+      "name": "Chochukmo",
+      "aliases": [
+        "觸執毛",
+        "触执毛"
+      ],
+      "searchKeys": [
+        "chochukmo",
+        "ちょちゅkも",
+        "チョチュkモ",
+        "觸執毛",
+        "触执毛",
+        "香港"
+      ],
+      "artistType": "Group",
+      "area": "香港",
+      "years": "2005–2021",
+      "countryCode": "HK",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 442,
+      "listeners": 28,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
+        "hasAlbums": true
+      }
+    },
+    {
+      "id": "nowhere-boys-hk",
+      "name": "Nowhere Boys",
+      "aliases": [
+        "Nowhere Boys樂隊"
+      ],
+      "searchKeys": [
+        "nowhereboys",
+        "のうぇれぼys",
+        "ノウェレボys",
+        "nowhereboys樂隊",
+        "香港"
+      ],
+      "artistType": "Group",
+      "area": "香港",
+      "years": "2014–",
+      "countryCode": "HK",
+      "region": "east-asia",
+      "degree": 3,
+      "listens": 795,
+      "listeners": 22,
+      "regionalFeatured": true,
+      "quality": {
+        "score": 88,
+        "templateIntro": false,
+        "hasGenres": true,
+        "hasTracks": true,
+        "hasLore": false,
         "hasAlbums": true
       }
     },
@@ -2194,11 +3173,11 @@
       "years": "2001–",
       "countryCode": "TW",
       "region": "east-asia",
-      "degree": 1,
+      "degree": 3,
       "listens": 21481,
       "listeners": 472,
       "quality": {
-        "score": 87,
+        "score": 88,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
@@ -2228,11 +3207,11 @@
       "years": "2012–",
       "countryCode": "TW",
       "region": "east-asia",
-      "degree": 3,
+      "degree": 5,
       "listens": 33294,
       "listeners": 1796,
       "quality": {
-        "score": 70,
+        "score": 71,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -2259,7 +3238,7 @@
       "years": "2001–",
       "countryCode": "TW",
       "region": "east-asia",
-      "degree": 1,
+      "degree": 2,
       "listens": 2968,
       "listeners": 55,
       "quality": {
@@ -2368,7 +3347,7 @@
       "years": "2005–",
       "countryCode": "CN",
       "region": "east-asia",
-      "degree": 5,
+      "degree": 6,
       "listens": 7045,
       "listeners": 457,
       "quality": {
@@ -2432,7 +3411,7 @@
       "years": "1983–2005",
       "countryCode": "HK",
       "region": "east-asia",
-      "degree": 1,
+      "degree": 2,
       "listens": 43915,
       "listeners": 1140,
       "quality": {
@@ -2459,11 +3438,11 @@
       "years": "2008–",
       "countryCode": "HK",
       "region": "east-asia",
-      "degree": 1,
+      "degree": 3,
       "listens": 5271,
       "listeners": 100,
       "quality": {
-        "score": 69,
+        "score": 70,
         "templateIntro": false,
         "hasGenres": true,
         "hasTracks": false,
@@ -2488,7 +3467,7 @@
       "years": "2002–2018",
       "countryCode": "HK",
       "region": "east-asia",
-      "degree": 3,
+      "degree": 4,
       "listens": 2161,
       "listeners": 94,
       "quality": {
@@ -3221,7 +4200,7 @@
       "years": "2013–",
       "countryCode": "TW",
       "region": "east-asia",
-      "degree": 1,
+      "degree": 2,
       "listens": 3018,
       "listeners": 176,
       "quality": {
@@ -20345,7 +21324,7 @@
       "years": "2006–",
       "countryCode": "TW",
       "region": "east-asia",
-      "degree": 1,
+      "degree": 2,
       "listens": 1455,
       "listeners": 91,
       "quality": {

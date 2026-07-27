@@ -1,0 +1,90 @@
+{
+  "id": "nowhere-boys-hk",
+  "mbid": "c4255804-8b11-48cc-b205-2749345f21a2",
+  "name": "Nowhere Boys",
+  "area": "香港",
+  "countryCode": "HK",
+  "years": "2014–",
+  "genres": [
+    "另类摇滚",
+    "粤语摇滚",
+    "电影摇滚"
+  ],
+  "intro": "香港五人乐队，自称以“电影式摇滚”构造歌曲：管弦、电子与标准摇滚编制服务于有场景转折的叙事。作品常从科幻、城市英雄和旅途意象切入，再落回普通人的选择。",
+  "albums": [
+    {
+      "title": "Welcome to Our Hyperreality",
+      "year": 2015
+    },
+    {
+      "title": "Journey to Nowhere",
+      "year": 2019
+    }
+  ],
+  "tracks": [
+    "乱世超人",
+    "致旅途中的我",
+    "夕阳武士",
+    "大步走"
+  ],
+  "introSources": [
+    {
+      "label": "MusicBrainz资料",
+      "url": "https://musicbrainz.org/artist/c4255804-8b11-48cc-b205-2749345f21a2"
+    }
+  ],
+  "regionalFeatured": true,
+  "introLang": "zh",
+  "listens": 795,
+  "listeners": 22,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c4255804-8b11-48cc-b205-2749345f21a2"
+  },
+  "edges": [
+    {
+      "to": "supper-moment",
+      "toName": "Supper Moment",
+      "toArea": "香港",
+      "toYears": "2006–",
+      "type": "scene",
+      "label": "叙事摇滚",
+      "detail": "从生活励志叙事进入更具电影场景感的摇滚。",
+      "year": null,
+      "weight": 0.74,
+      "sources": []
+    },
+    {
+      "to": "chochukmo",
+      "toName": "Chochukmo",
+      "toArea": "香港",
+      "toYears": "2005–2021",
+      "type": "scene",
+      "label": "舞台叙事支线",
+      "detail": "两支重视现场动作与戏剧结构的香港乐队。",
+      "year": null,
+      "weight": 0.76,
+      "sources": []
+    },
+    {
+      "to": "rubberband",
+      "toName": "RubberBand",
+      "toArea": "香港",
+      "toYears": "2008–",
+      "type": "scene",
+      "label": "香港现场乐队",
+      "detail": "从电影式叙事回到扎实的粤语乐队现场。",
+      "year": null,
+      "weight": 0.7,
+      "sources": []
+    }
+  ]
+}

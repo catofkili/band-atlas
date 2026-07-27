@@ -1,0 +1,90 @@
+{
+  "id": "escape-plan-cn",
+  "mbid": "e5926a57-1fc5-4084-8795-81a75fbef270",
+  "name": "逃跑计划",
+  "area": "北京",
+  "countryCode": "CN",
+  "years": "2004–",
+  "genres": [
+    "流行摇滚",
+    "独立摇滚",
+    "英伦摇滚"
+  ],
+  "intro": "毛川担任主唱的北京乐队，擅长用延展的吉他、清晰推进的鼓点和直接旋律制造大空间感。《夜空中最亮的星》让他们跨出摇滚现场，但完整专辑里仍保留了早期的英伦摇滚底色。",
+  "albums": [
+    {
+      "title": "世界",
+      "year": 2011
+    },
+    {
+      "title": "闪光的回忆",
+      "year": 2015
+    }
+  ],
+  "tracks": [
+    "夜空中最亮的星",
+    "一万次悲伤",
+    "再见，再见",
+    "哪里是你的拥抱"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/逃跑計劃"
+    }
+  ],
+  "regionalFeatured": true,
+  "introLang": "zh",
+  "listens": 4071,
+  "listeners": 380,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e5926a57-1fc5-4084-8795-81a75fbef270"
+  },
+  "edges": [
+    {
+      "to": "miserable-faith",
+      "toName": "痛仰乐队",
+      "toArea": "北京",
+      "toYears": "1999–",
+      "type": "scene",
+      "label": "现场合唱支线",
+      "detail": "从公路感与大型现场副歌继续探索。",
+      "year": null,
+      "weight": 0.76,
+      "sources": []
+    },
+    {
+      "to": "dada-cn",
+      "toName": "达达乐队",
+      "toArea": "武汉",
+      "toYears": "1996–2005 / 2019–",
+      "type": "scene",
+      "label": "旋律摇滚",
+      "detail": "两支乐队都以清晰旋律与宽阔吉他进入更大规模听众。",
+      "year": null,
+      "weight": 0.78,
+      "sources": []
+    },
+    {
+      "to": "new-pants",
+      "toName": "新裤子",
+      "toArea": "北京",
+      "toYears": "1996–",
+      "type": "scene",
+      "label": "北京乐队现场",
+      "detail": "从旋律摇滚进入新浪潮与舞曲朋克的北京支线。",
+      "year": null,
+      "weight": 0.7,
+      "sources": []
+    }
+  ]
+}

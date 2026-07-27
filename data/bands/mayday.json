@@ -1,0 +1,116 @@
+{
+  "id": "mayday",
+  "mbid": "e73ed332-bbde-4d69-87a9-250627ae0e29",
+  "name": "五月天",
+  "area": "台北",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": "1997–",
+  "genres": [
+    "流行摇滚",
+    "另类摇滚",
+    "中文流行音乐"
+  ],
+  "albums": [
+    {
+      "title": "五月天第一张创作专辑",
+      "year": 1999
+    },
+    {
+      "title": "爱情万岁",
+      "year": 2000
+    },
+    {
+      "title": "人生海海",
+      "year": 2001
+    },
+    {
+      "title": "后青春期的诗",
+      "year": 2008
+    },
+    {
+      "title": "第二人生",
+      "year": 2011
+    }
+  ],
+  "intro": "由阿信、怪兽、石头、玛莎和冠佑组成的台湾乐团。从校园与Live House起步，逐步把摇滚编制、成长主题与大型演唱会叙事结合起来；他们的作品覆盖青春、离别、亲密关系与成年人重新寻找理想的过程。",
+  "introLang": "zh",
+  "tracks": [
+    "志明与春娇",
+    "温柔",
+    "倔强",
+    "突然好想你",
+    "如烟"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/五月天"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 37299,
+  "listeners": 903,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e73ed332-bbde-4d69-87a9-250627ae0e29"
+  },
+  "edges": [
+    {
+      "to": "wu-bai-china-blue",
+      "toName": "伍佰 & China Blue",
+      "toArea": "台湾",
+      "toYears": "1992–",
+      "type": "scene",
+      "label": "台湾现场摇滚",
+      "detail": "两代台湾大型现场文化的探索入口。",
+      "year": null,
+      "weight": 0.86,
+      "sources": []
+    },
+    {
+      "to": "accusefive",
+      "toName": "告五人",
+      "toArea": "宜兰",
+      "toYears": "2017–",
+      "type": "scene",
+      "label": "跨世代流行摇滚",
+      "detail": "从千禧年代乐团进入新一代的大型流行摇滚。",
+      "year": null,
+      "weight": 0.8,
+      "sources": []
+    },
+    {
+      "to": "new-pants",
+      "toName": "新裤子",
+      "toArea": "北京",
+      "toYears": "1996–",
+      "type": "scene",
+      "label": "华语乐队跨场景",
+      "detail": "从大陆新浪潮与朋克进入台湾大型流行摇滚。",
+      "year": null,
+      "weight": 0.68,
+      "sources": []
+    },
+    {
+      "to": "蘇打綠",
+      "toName": "蘇打綠",
+      "toArea": "台湾",
+      "toYears": "2001–",
+      "type": "scene",
+      "label": "台湾乐团主线",
+      "detail": "从大型现场与完整专辑写作探索台湾流行摇滚。",
+      "year": null,
+      "weight": 0.88,
+      "sources": []
+    }
+  ]
+}

@@ -37,7 +37,16 @@ async function readJSON(rel, fallback = null) {
   }
 }
 
-const curated = await readJSON('data/source/scene-jrock.json');
+const sceneJrock = await readJSON('data/source/scene-jrock.json');
+const greaterChina = await readJSON('data/source/greater-china.json', { bands: [], edges: [] });
+const curated = {
+  ...sceneJrock,
+  bands: [
+    ...sceneJrock.bands,
+    ...greaterChina.bands.map((band) => ({ ...band, regionalFeatured: true })),
+  ],
+  edges: [...sceneJrock.edges, ...greaterChina.edges],
+};
 const generatedBase = await readJSON('data/source/generated.json', { bands: [], edges: [] });
 const modernJapan = await readJSON('data/source/modern-japan.json', { bands: [], edges: [] });
 const generated = {
@@ -736,6 +745,7 @@ const index = {
       degree: adjacency.get(b.id).length,
       listens: b.listens ?? 0,
       listeners: b.listeners ?? null,
+      ...(b.regionalFeatured ? { regionalFeatured: true } : {}),
       quality: b.quality,
     };
   }),
@@ -758,6 +768,7 @@ const graphNodes = [...merged.values()].map((b) => ({
   degree: adjacency.get(b.id).length,
   listens: b.listens ?? 0,
   listeners: b.listeners ?? null,
+  ...(b.regionalFeatured ? { regionalFeatured: true } : {}),
   labelWidth: layoutLabelWidth(b.name),
 }));
 const { positions: layoutPositions, metadata: layoutMetadata, milliseconds: layoutMilliseconds } =

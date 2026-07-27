@@ -1,0 +1,91 @@
+{
+  "id": "dada-cn",
+  "mbid": "2a87fc6e-8e3e-43f7-b150-339bdab274cb",
+  "name": "达达乐队",
+  "area": "武汉",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "1996–2005 / 2019–",
+  "genres": [
+    "另类摇滚",
+    "流行摇滚",
+    "英伦摇滚"
+  ],
+  "albums": [
+    {
+      "title": "天使",
+      "year": 2000
+    },
+    {
+      "title": "黄金时代",
+      "year": 2003
+    }
+  ],
+  "intro": "彭坦担任主唱的武汉乐队，也是较早通过主流唱片体系被全国听众认识的内地新摇滚乐队之一。两张早期专辑在清亮吉他与年轻人的离乡情绪之间找到平衡，重组后则把那套声音带回现场。",
+  "introLang": "zh",
+  "tracks": [
+    "南方",
+    "等待",
+    "黄金时代",
+    "Song F"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/達達樂隊"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 266,
+  "listeners": 20,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2a87fc6e-8e3e-43f7-b150-339bdab274cb"
+  },
+  "edges": [
+    {
+      "to": "escape-plan-cn",
+      "toName": "逃跑计划",
+      "toArea": "北京",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "旋律摇滚",
+      "detail": "两支乐队都以清晰旋律与宽阔吉他进入更大规模听众。",
+      "year": null,
+      "weight": 0.78,
+      "sources": []
+    },
+    {
+      "to": "chinese-football",
+      "toName": "Chinese Football",
+      "toArea": "武汉",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "武汉乐队",
+      "detail": "两支来自武汉、属于不同世代的旋律摇滚乐队。",
+      "year": null,
+      "weight": 0.75,
+      "sources": []
+    },
+    {
+      "to": "hedgehog-cn",
+      "toName": "刺猬",
+      "toArea": "北京",
+      "toYears": "2005–",
+      "type": "scene",
+      "label": "千禧年前后",
+      "detail": "沿中文青年摇滚在不同时期的表达继续探索。",
+      "year": null,
+      "weight": 0.7,
+      "sources": []
+    }
+  ]
+}

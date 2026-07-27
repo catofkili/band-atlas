@@ -1,0 +1,98 @@
+{
+  "id": "accusefive",
+  "mbid": "9607d222-f506-4106-8131-87a344d732ca",
+  "name": "告五人",
+  "area": "宜兰",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": "2017–",
+  "genres": [
+    "流行摇滚",
+    "独立流行",
+    "另类摇滚",
+    "独立摇滚",
+    "民谣摇滚",
+    "華語流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "我肯定在几百年前就说过爱你",
+      "year": 2019
+    },
+    {
+      "title": "运气来得若有似无",
+      "year": 2020
+    },
+    {
+      "title": "带你飞",
+      "year": 2023
+    }
+  ],
+  "intro": "犬青、云安与哲谦组成的宜兰乐团，以男女双主唱、宽阔旋律和细密情绪推进见长。他们从独立场景迅速进入大型演唱会，但作品仍保留乐团共同编曲和公路感。",
+  "introLang": "zh",
+  "tracks": [
+    "爱人错过",
+    "在这座城市遗失了你",
+    "好不容易",
+    "披星戴月的想你"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/告五人"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 15442,
+  "listeners": 712,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9607d222-f506-4106-8131-87a344d732ca"
+  },
+  "edges": [
+    {
+      "to": "mayday",
+      "toName": "五月天",
+      "toArea": "台北",
+      "toYears": "1997–",
+      "type": "scene",
+      "label": "跨世代流行摇滚",
+      "detail": "从千禧年代乐团进入新一代的大型流行摇滚。",
+      "year": null,
+      "weight": 0.8,
+      "sources": []
+    },
+    {
+      "to": "cosmos-people",
+      "toName": "宇宙人",
+      "toArea": "台北",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "流行乐团现场",
+      "detail": "沿明亮旋律与稳定乐团编制继续探索。",
+      "year": null,
+      "weight": 0.76,
+      "sources": []
+    },
+    {
+      "to": "the-chairs",
+      "toName": "椅子乐团",
+      "toArea": "台中",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "新世代台湾乐团",
+      "detail": "从大型旋律转向轻柔复古的独立流行。",
+      "year": null,
+      "weight": 0.74,
+      "sources": []
+    }
+  ]
+}

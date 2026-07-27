@@ -53,6 +53,18 @@
   },
   "edges": [
     {
+      "to": "re-tros",
+      "toName": "重塑雕像的权利",
+      "toArea": "北京",
+      "toYears": "2003–",
+      "type": "scene",
+      "label": "北京地下现场",
+      "detail": "从后朋克与噪音摇滚的北京独立现场继续探索。",
+      "year": null,
+      "weight": 0.82,
+      "sources": []
+    },
+    {
       "to": "snapline",
       "toName": "Snapline",
       "toArea": "北京",

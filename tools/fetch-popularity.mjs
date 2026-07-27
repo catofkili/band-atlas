@@ -10,8 +10,14 @@ import path from 'node:path';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const cacheDir = path.join(root, '.cache/listenbrainz-artists');
 const source = JSON.parse(await readFile(path.join(root, 'data/source/generated.json'), 'utf8'));
+const modernJapan = JSON.parse(
+  await readFile(path.join(root, 'data/source/modern-japan.json'), 'utf8')
+);
 const curated = JSON.parse(await readFile(path.join(root, 'data/source/scene-jrock.json'), 'utf8'));
-const bands = [...source.bands, ...curated.bands]
+const greaterChina = JSON.parse(
+  await readFile(path.join(root, 'data/source/greater-china.json'), 'utf8')
+);
+const bands = [...source.bands, ...modernJapan.bands, ...curated.bands, ...greaterChina.bands]
   .filter((band) => band.mbid)
   .sort((a, b) => a.mbid.localeCompare(b.mbid));
 const unique = [...new Map(bands.map((band) => [band.mbid, band])).values()];

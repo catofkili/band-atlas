@@ -1,0 +1,125 @@
+{
+  "id": "my-little-airport",
+  "mbid": "ea6185ea-0138-4b8c-a81a-e8fb90d7c680",
+  "name": "my little airport",
+  "area": "香港",
+  "countryCode": "HK",
+  "country": "香港",
+  "years": "2004–",
+  "genres": [
+    "独立流行",
+    "低保真",
+    "粤语流行",
+    "獨立流行",
+    "香港英語流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "The OK Thing to Do on Sunday Afternoon Is to Toddle in the Zoo",
+      "year": 2004
+    },
+    {
+      "title": "我们在炎热与抑郁的夏天，无法停止抽烟",
+      "year": 2007
+    },
+    {
+      "title": "香港是个大商场",
+      "year": 2011
+    },
+    {
+      "title": "适婚的年龄",
+      "year": 2014
+    }
+  ],
+  "intro": "阿P与Nicole组成的香港独立组合。极简键盘、低保真吉他和近乎日记的粤语歌词，把恋爱、办公室、租金、街道与公共生活写进短小歌曲；地名和口语让他们的作品成为一部持续更新的香港私人地图。",
+  "introLang": "zh",
+  "tracks": [
+    "浪漫九龙塘",
+    "介乎法国与旺角的诗意",
+    "西西弗斯之歌",
+    "边一个发明了返工"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/My_Little_Airport"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 47285,
+  "listeners": 721,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ea6185ea-0138-4b8c-a81a-e8fb90d7c680"
+  },
+  "edges": [
+    {
+      "to": "chochukmo",
+      "toName": "Chochukmo",
+      "toArea": "香港",
+      "toYears": "2005–2021",
+      "type": "scene",
+      "label": "香港独立现场",
+      "detail": "从低保真私语进入更锋利的实验摇滚现场。",
+      "year": null,
+      "weight": 0.8,
+      "sources": []
+    },
+    {
+      "to": "wutiaoren",
+      "toName": "五条人",
+      "toArea": "广东海丰",
+      "toYears": "2008–",
+      "type": "scene",
+      "label": "南方城市叙事",
+      "detail": "方言、街道、小人物与城市生活构成跨地区的写作线索。",
+      "year": null,
+      "weight": 0.76,
+      "sources": []
+    },
+    {
+      "to": "the-hertz-hk",
+      "toName": "The Hertz",
+      "toArea": "香港",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "粤语城市写作",
+      "detail": "两代香港独立乐队对城市日常的不同记录。",
+      "year": null,
+      "weight": 0.76,
+      "sources": []
+    },
+    {
+      "to": "sunset-rollercoaster",
+      "toName": "落日飞车",
+      "toArea": "台北",
+      "toYears": "2009–",
+      "type": "scene",
+      "label": "华语独立流行",
+      "detail": "从台北迷幻流行进入香港低保真城市写作。",
+      "year": null,
+      "weight": 0.7,
+      "sources": []
+    },
+    {
+      "to": "at17",
+      "toName": "at17",
+      "toArea": "香港",
+      "toYears": "2002–2018",
+      "type": "scene",
+      "label": "香港独立流行",
+      "detail": "从小型编制、城市日常与粤语写作继续探索。",
+      "year": null,
+      "weight": 0.84,
+      "sources": []
+    }
+  ]
+}

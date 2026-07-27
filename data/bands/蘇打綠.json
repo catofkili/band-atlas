@@ -67,7 +67,7 @@
   "listens": 21481,
   "listeners": 472,
   "quality": {
-    "score": 87,
+    "score": 88,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
@@ -80,6 +80,18 @@
   },
   "edges": [
     {
+      "to": "mayday",
+      "toName": "五月天",
+      "toArea": "台北",
+      "toYears": "1997–",
+      "type": "scene",
+      "label": "台湾乐团主线",
+      "detail": "从大型现场与完整专辑写作探索台湾流行摇滚。",
+      "year": null,
+      "weight": 0.88,
+      "sources": []
+    },
+    {
       "to": "魚丁糸",
       "toName": "魚丁糸",
       "toArea": "台湾",
@@ -89,6 +101,18 @@
       "detail": "6 位乐手在这两支乐队都待过：史俊威・馨儀・吳青峰・阿龔・何景揚・家凱。",
       "year": 2001,
       "weight": 0.95,
+      "sources": []
+    },
+    {
+      "to": "wu-bai-china-blue",
+      "toName": "伍佰 & China Blue",
+      "toArea": "台湾",
+      "toYears": "1992–",
+      "type": "scene",
+      "label": "台湾乐团世代",
+      "detail": "从九十年代现场摇滚延伸到千禧年代的创作乐团。",
+      "year": null,
+      "weight": 0.78,
       "sources": []
     }
   ]

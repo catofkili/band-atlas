@@ -43,6 +43,18 @@
   },
   "edges": [
     {
+      "to": "chthonic",
+      "toName": "闪灵",
+      "toArea": "台北",
+      "toYears": "1995–",
+      "type": "scene",
+      "label": "台湾重型音乐",
+      "detail": "从极端金属与本土题材继续探索台湾重型现场。",
+      "year": null,
+      "weight": 0.9,
+      "sources": []
+    },
+    {
       "to": "康士坦的變化球",
       "toName": "康士坦的變化球",
       "toArea": "台湾",

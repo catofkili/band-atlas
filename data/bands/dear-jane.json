@@ -1,0 +1,101 @@
+{
+  "id": "dear-jane",
+  "mbid": "eaaa4d91-a43c-4ab2-82bb-4d740daff201",
+  "name": "Dear Jane",
+  "area": "香港",
+  "countryCode": "HK",
+  "country": "香港",
+  "years": "2003–",
+  "genres": [
+    "粤语摇滚",
+    "流行朋克",
+    "流行摇滚",
+    "流行搖滾",
+    "粵語流行音樂"
+  ],
+  "albums": [
+    {
+      "title": "100",
+      "year": 2006
+    },
+    {
+      "title": "XOXO",
+      "year": 2009
+    },
+    {
+      "title": "Gamma",
+      "year": 2011
+    },
+    {
+      "title": "Limerence",
+      "year": 2020
+    }
+  ],
+  "intro": "Tim、Howie、Jackal与Nice组成的香港乐队。早期带有流行朋克速度，后来把双吉他和大副歌转向更成熟的粤语情歌；他们证明主流情歌也可以保持清晰的乐队演奏感。",
+  "introLang": "zh",
+  "tracks": [
+    "到此为止",
+    "哪里只得我共你",
+    "银河修理员",
+    "不许你注定一人"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/Dear_Jane"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 9487,
+  "listeners": 204,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/eaaa4d91-a43c-4ab2-82bb-4d740daff201"
+  },
+  "edges": [
+    {
+      "to": "supper-moment",
+      "toName": "Supper Moment",
+      "toArea": "香港",
+      "toYears": "2006–",
+      "type": "scene",
+      "label": "粤语流行摇滚",
+      "detail": "两支由独立现场进入主流听众的香港乐队。",
+      "year": null,
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "the-hertz-hk",
+      "toName": "The Hertz",
+      "toArea": "香港",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "新旧粤语乐队",
+      "detail": "从成熟流行摇滚进入新一代独立现场。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    },
+    {
+      "to": "beyond",
+      "toName": "Beyond",
+      "toArea": "香港",
+      "toYears": "1983–2005",
+      "type": "scene",
+      "label": "粤语摇滚传承",
+      "detail": "跨世代探索香港主流听众中的乐队声音。",
+      "year": null,
+      "weight": 0.78,
+      "sources": []
+    }
+  ]
+}

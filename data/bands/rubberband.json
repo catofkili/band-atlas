@@ -42,7 +42,7 @@
   "listens": 5271,
   "listeners": 100,
   "quality": {
-    "score": 69,
+    "score": 70,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -54,6 +54,30 @@
     "musicbrainz": "https://musicbrainz.org/artist/74fb2a36-7f55-4f12-a474-36ad65350f86"
   },
   "edges": [
+    {
+      "to": "supper-moment",
+      "toName": "Supper Moment",
+      "toArea": "香港",
+      "toYears": "2006–",
+      "type": "scene",
+      "label": "香港乐队主线",
+      "detail": "从完整乐队编曲与大型粤语副歌继续探索。",
+      "year": null,
+      "weight": 0.88,
+      "sources": []
+    },
+    {
+      "to": "nowhere-boys-hk",
+      "toName": "Nowhere Boys",
+      "toArea": "香港",
+      "toYears": "2014–",
+      "type": "scene",
+      "label": "香港现场乐队",
+      "detail": "从电影式叙事回到扎实的粤语乐队现场。",
+      "year": null,
+      "weight": 0.7,
+      "sources": []
+    },
     {
       "to": "beatbox-金牌一條順",
       "toName": "Beatbox 金牌一條順",

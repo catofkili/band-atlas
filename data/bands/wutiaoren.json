@@ -1,0 +1,110 @@
+{
+  "id": "wutiaoren",
+  "mbid": "ee98bdd5-7b2b-4ca7-9f78-d5572e8b98cd",
+  "name": "五条人",
+  "area": "广东海丰",
+  "countryCode": "CN",
+  "years": "2008–",
+  "genres": [
+    "民谣摇滚",
+    "独立摇滚",
+    "世界音乐"
+  ],
+  "intro": "仁科与茂涛从广东海丰的县城经验出发，以海丰话、普通话和充满口语感的人物书写构成歌曲。手风琴、吉他与松散节奏让他们既像街头说唱者，也像记录快速城市化边缘生活的短篇小说家。",
+  "albums": [
+    {
+      "title": "县城记",
+      "year": 2009
+    },
+    {
+      "title": "一些风景",
+      "year": 2012
+    },
+    {
+      "title": "梦幻丽莎发廊",
+      "year": 2016
+    },
+    {
+      "title": "故事会",
+      "year": 2018
+    }
+  ],
+  "tracks": [
+    "道山靓仔",
+    "阿珍爱上了阿强",
+    "问题出现我再告诉大家",
+    "十年水流东，十年水流西"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/五条人"
+    }
+  ],
+  "regionalFeatured": true,
+  "introLang": "zh",
+  "listens": 3893,
+  "listeners": 157,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ee98bdd5-7b2b-4ca7-9f78-d5572e8b98cd"
+  },
+  "edges": [
+    {
+      "to": "jiulian-zhenren",
+      "toName": "九连真人",
+      "toArea": "广东连平",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "广东方言写作",
+      "detail": "海丰话与客家话构成两条不同的地方叙事路径。",
+      "year": null,
+      "weight": 0.9,
+      "sources": []
+    },
+    {
+      "to": "mr-sea-turtle",
+      "toName": "海龟先生",
+      "toArea": "广西南宁",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "华南地域声音",
+      "detail": "从华南方言、地方生活与世界音乐元素继续探索。",
+      "year": null,
+      "weight": 0.82,
+      "sources": []
+    },
+    {
+      "to": "my-little-airport",
+      "toName": "my little airport",
+      "toArea": "香港",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "南方城市叙事",
+      "detail": "方言、街道、小人物与城市生活构成跨地区的写作线索。",
+      "year": null,
+      "weight": 0.76,
+      "sources": []
+    },
+    {
+      "to": "omnipotent-youth-society",
+      "toName": "万能青年旅店",
+      "toArea": "石家庄",
+      "toYears": "1996–",
+      "type": "scene",
+      "label": "地方经验写作",
+      "detail": "两支乐队都把具体地域与人物经验写进完整专辑。",
+      "year": null,
+      "weight": 0.8,
+      "sources": []
+    }
+  ]
+}

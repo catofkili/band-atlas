@@ -1,0 +1,108 @@
+{
+  "id": "sunset-rollercoaster",
+  "mbid": "75c5edb5-796d-46f3-bac3-9b59da658023",
+  "name": "落日飞车",
+  "area": "台北",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": "2009–",
+  "genres": [
+    "迷幻流行",
+    "独立摇滚",
+    "灵魂乐",
+    "另类摇滚"
+  ],
+  "albums": [
+    {
+      "title": "Bossa Nova",
+      "year": 2011
+    },
+    {
+      "title": "Cassa Nova",
+      "year": 2018
+    },
+    {
+      "title": "Soft Storm",
+      "year": 2020
+    }
+  ],
+  "intro": "曾国宏领衔的台北乐团，把柔软的英语主唱、合成器、萨克斯与七十年代灵魂乐质感揉进慢速迷幻流行。频繁的国际巡演让他们成为近年台湾独立音乐向外传播最醒目的名字之一。",
+  "introLang": "zh",
+  "tracks": [
+    "My Jinji",
+    "Burgundy Red",
+    "Summum Bonum",
+    "Candlelight"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/落日飛車"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 21350,
+  "listeners": 1512,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/75c5edb5-796d-46f3-bac3-9b59da658023"
+  },
+  "edges": [
+    {
+      "to": "the-chairs",
+      "toName": "椅子乐团",
+      "toArea": "台中",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "复古迷幻流行",
+      "detail": "从灵魂乐质感进入更轻盈的复古独立流行。",
+      "year": null,
+      "weight": 0.88,
+      "sources": []
+    },
+    {
+      "to": "deca-joins",
+      "toName": "deca joins",
+      "toArea": "台北",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "台北迷幻支线",
+      "detail": "两种速度与音色不同的台北迷幻摇滚入口。",
+      "year": null,
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "my-little-airport",
+      "toName": "my little airport",
+      "toArea": "香港",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "华语独立流行",
+      "detail": "从台北迷幻流行进入香港低保真城市写作。",
+      "year": null,
+      "weight": 0.7,
+      "sources": []
+    },
+    {
+      "to": "大象體操",
+      "toName": "大象體操",
+      "toArea": "高雄",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "国际巡演支线",
+      "detail": "台湾独立乐团向海外巡演与跨场景听众延伸的推荐。",
+      "year": null,
+      "weight": 0.78,
+      "sources": []
+    }
+  ]
+}

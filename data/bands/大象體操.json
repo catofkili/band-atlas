@@ -37,7 +37,7 @@
   "listens": 33294,
   "listeners": 1796,
   "quality": {
-    "score": 70,
+    "score": 71,
     "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
@@ -49,6 +49,30 @@
     "musicbrainz": "https://musicbrainz.org/artist/9fdc68d1-98ac-463c-a309-181b58c74aed"
   },
   "edges": [
+    {
+      "to": "chinese-football",
+      "toName": "Chinese Football",
+      "toArea": "武汉",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "东亚数学摇滚",
+      "detail": "连接武汉与高雄的数学摇滚、器乐与国际巡演场景。",
+      "year": null,
+      "weight": 0.88,
+      "sources": []
+    },
+    {
+      "to": "sunset-rollercoaster",
+      "toName": "落日飞车",
+      "toArea": "台北",
+      "toYears": "2009–",
+      "type": "scene",
+      "label": "国际巡演支线",
+      "detail": "台湾独立乐团向海外巡演与跨场景听众延伸的推荐。",
+      "year": null,
+      "weight": 0.78,
+      "sources": []
+    },
     {
       "to": "小福氣",
       "toName": "小福氣",

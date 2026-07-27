@@ -1,0 +1,95 @@
+{
+  "id": "deca-joins",
+  "mbid": "0ec64e22-aa09-48d3-9ec6-2f3f8575554f",
+  "name": "deca joins",
+  "area": "台北",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": "2013–",
+  "genres": [
+    "独立摇滚",
+    "迷幻摇滚",
+    "梦幻流行"
+  ],
+  "albums": [
+    {
+      "title": "浴室",
+      "year": 2017
+    },
+    {
+      "title": "Go Slow",
+      "year": 2018
+    },
+    {
+      "title": "鸟鸟鸟",
+      "year": 2021
+    }
+  ],
+  "intro": "从台北地下场景成长起来的乐团，以松弛节拍、带回声的吉他和郑敬儒近乎自言自语的主唱构成气氛。歌曲常把亲密关系、潮湿城市与日常停顿写得模糊又具体。",
+  "introLang": "zh",
+  "tracks": [
+    "浴室",
+    "海浪",
+    "巫赌",
+    "B1"
+  ],
+  "introSources": [
+    {
+      "label": "MusicBrainz资料",
+      "url": "https://musicbrainz.org/artist/0ec64e22-aa09-48d3-9ec6-2f3f8575554f"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 14701,
+  "listeners": 387,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0ec64e22-aa09-48d3-9ec6-2f3f8575554f"
+  },
+  "edges": [
+    {
+      "to": "no-party-for-cao-dong",
+      "toName": "草东没有派对",
+      "toArea": "台北",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "台北独立现场",
+      "detail": "从克制爆发转向潮湿、松弛的台北独立摇滚。",
+      "year": null,
+      "weight": 0.9,
+      "sources": []
+    },
+    {
+      "to": "sunset-rollercoaster",
+      "toName": "落日飞车",
+      "toArea": "台北",
+      "toYears": "2009–",
+      "type": "scene",
+      "label": "台北迷幻支线",
+      "detail": "两种速度与音色不同的台北迷幻摇滚入口。",
+      "year": null,
+      "weight": 0.84,
+      "sources": []
+    },
+    {
+      "to": "your-woman-sleep-with-others",
+      "toName": "老王乐队",
+      "toArea": "台北",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "台北独立摇滚",
+      "detail": "从松弛迷幻进入带提琴与黑色幽默的青年叙事。",
+      "year": null,
+      "weight": 0.8,
+      "sources": []
+    }
+  ]
+}

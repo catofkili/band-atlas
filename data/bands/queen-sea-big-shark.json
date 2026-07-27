@@ -1,0 +1,97 @@
+{
+  "id": "queen-sea-big-shark",
+  "mbid": "7178d397-39c9-4389-8d78-e92d2bfb8b42",
+  "name": "后海大鲨鱼",
+  "area": "北京",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "2004–",
+  "genres": [
+    "舞曲朋克",
+    "独立摇滚",
+    "新浪潮",
+    "獨立流行",
+    "舞蹈朋克"
+  ],
+  "albums": [
+    {
+      "title": "Queen Sea Big Shark",
+      "year": 2007
+    },
+    {
+      "title": "Wave",
+      "year": 2010
+    },
+    {
+      "title": "心要野",
+      "year": 2016
+    }
+  ],
+  "intro": "付菡担任主唱的北京乐队。早期把车库摇滚、舞曲朋克和复古电子压进鲜艳的现场，后来加入更宽阔的合成器与流行结构；视觉、服装和舞台动作始终是音乐的一部分。",
+  "introLang": "zh",
+  "tracks": [
+    "超能力",
+    "Glow in the Dark",
+    "心要野",
+    "猛犸"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/后海大鲨鱼"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 3060,
+  "listeners": 146,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7178d397-39c9-4389-8d78-e92d2bfb8b42"
+  },
+  "edges": [
+    {
+      "to": "new-pants",
+      "toName": "新裤子",
+      "toArea": "北京",
+      "toYears": "1996–",
+      "type": "scene",
+      "label": "北京舞曲摇滚",
+      "detail": "从朋克、合成器与舞台视觉延伸的北京场景推荐。",
+      "year": null,
+      "weight": 0.88,
+      "sources": []
+    },
+    {
+      "to": "hedgehog-cn",
+      "toName": "刺猬",
+      "toArea": "北京",
+      "toYears": "2005–",
+      "type": "scene",
+      "label": "北京独立现场",
+      "detail": "从爆裂三人摇滚转向更舞曲化的北京现场。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    },
+    {
+      "to": "re-tros",
+      "toName": "重塑雕像的权利",
+      "toArea": "北京",
+      "toYears": "2003–",
+      "type": "scene",
+      "label": "后朋克与舞曲",
+      "detail": "冷峻节拍与舞曲朋克之间的场景推荐。",
+      "year": null,
+      "weight": 0.74,
+      "sources": []
+    }
+  ]
+}

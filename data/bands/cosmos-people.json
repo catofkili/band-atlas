@@ -1,0 +1,98 @@
+{
+  "id": "cosmos-people",
+  "mbid": "75fffb0e-184a-403f-8d5d-9dd822a58217",
+  "name": "宇宙人",
+  "area": "台北",
+  "countryCode": "TW",
+  "years": "2004–",
+  "genres": [
+    "流行摇滚",
+    "放克",
+    "独立流行"
+  ],
+  "intro": "小玉、阿奎与方Q组成的台湾乐团，以放克节奏、干净吉他与贴近日常的旋律为核心。作品从年轻人的城市生活一路写到成年后的关系与自我调整，现场则以轻快而扎实的律动见长。",
+  "albums": [
+    {
+      "title": "宇宙人",
+      "year": 2009
+    },
+    {
+      "title": "地球漫步",
+      "year": 2012
+    },
+    {
+      "title": "一万小时",
+      "year": 2015
+    },
+    {
+      "title": "理想状态",
+      "year": 2022
+    }
+  ],
+  "tracks": [
+    "一起去跑步",
+    "那你呢",
+    "蓝色的你",
+    "如果我们还在一起"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/宇宙人_(台灣樂團)"
+    }
+  ],
+  "regionalFeatured": true,
+  "introLang": "zh",
+  "listens": 1183,
+  "listeners": 90,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/75fffb0e-184a-403f-8d5d-9dd822a58217"
+  },
+  "edges": [
+    {
+      "to": "accusefive",
+      "toName": "告五人",
+      "toArea": "宜兰",
+      "toYears": "2017–",
+      "type": "scene",
+      "label": "流行乐团现场",
+      "detail": "沿明亮旋律与稳定乐团编制继续探索。",
+      "year": null,
+      "weight": 0.76,
+      "sources": []
+    },
+    {
+      "to": "the-chairs",
+      "toName": "椅子乐团",
+      "toArea": "台中",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "轻快乐团编制",
+      "detail": "从复古和声进入更具放克律动的台湾流行乐团。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    },
+    {
+      "to": "wu-bai-china-blue",
+      "toName": "伍佰 & China Blue",
+      "toArea": "台湾",
+      "toYears": "1992–",
+      "type": "scene",
+      "label": "乐队律动传承",
+      "detail": "从蓝调摇滚现场延伸到新一代放克流行乐团。",
+      "year": null,
+      "weight": 0.7,
+      "sources": []
+    }
+  ]
+}

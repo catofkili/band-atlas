@@ -1,0 +1,123 @@
+{
+  "id": "new-pants",
+  "mbid": "a3d42269-98d7-4b1d-b004-f739cf805cc9",
+  "name": "新裤子",
+  "area": "北京",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "1996–",
+  "genres": [
+    "新浪潮",
+    "朋克",
+    "合成器流行"
+  ],
+  "albums": [
+    {
+      "title": "新裤子",
+      "year": 1998
+    },
+    {
+      "title": "龙虎人丹",
+      "year": 2006
+    },
+    {
+      "title": "野人也有爱",
+      "year": 2008
+    },
+    {
+      "title": "生命因你而火热",
+      "year": 2016
+    }
+  ],
+  "intro": "彭磊领衔的北京乐队。早期用极简朋克写青年文化，随后把八十年代合成器、迪斯科和夸张舞台美学带进中文摇滚；他们既保留了地下乐队的怪趣味，也写出了能够被大规模合唱的流行副歌。",
+  "introLang": "zh",
+  "tracks": [
+    "没有理想的人不伤心",
+    "你要跳舞吗",
+    "Bye Bye Disco",
+    "生命因你而火热"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/新裤子"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 3982,
+  "listeners": 151,
+  "quality": {
+    "score": 89,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a3d42269-98d7-4b1d-b004-f739cf805cc9"
+  },
+  "edges": [
+    {
+      "to": "queen-sea-big-shark",
+      "toName": "后海大鲨鱼",
+      "toArea": "北京",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "北京舞曲摇滚",
+      "detail": "从朋克、合成器与舞台视觉延伸的北京场景推荐。",
+      "year": null,
+      "weight": 0.88,
+      "sources": []
+    },
+    {
+      "to": "mayday",
+      "toName": "五月天",
+      "toArea": "台北",
+      "toYears": "1997–",
+      "type": "scene",
+      "label": "华语乐队跨场景",
+      "detail": "从大陆新浪潮与朋克进入台湾大型流行摇滚。",
+      "year": null,
+      "weight": 0.68,
+      "sources": []
+    },
+    {
+      "to": "omnipotent-youth-society",
+      "toName": "万能青年旅店",
+      "toArea": "石家庄",
+      "toYears": "1996–",
+      "type": "scene",
+      "label": "大陆代表乐队",
+      "detail": "按时代、地区与听感建立的探索推荐，不表示成员或合作事实。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    },
+    {
+      "to": "re-tros",
+      "toName": "重塑雕像的权利",
+      "toArea": "北京",
+      "toYears": "2003–",
+      "type": "scene",
+      "label": "北京新浪潮支线",
+      "detail": "沿北京独立场景探索舞曲朋克与冷峻后朋克的两端。",
+      "year": null,
+      "weight": 0.7,
+      "sources": []
+    },
+    {
+      "to": "escape-plan-cn",
+      "toName": "逃跑计划",
+      "toArea": "北京",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "北京乐队现场",
+      "detail": "从旋律摇滚进入新浪潮与舞曲朋克的北京支线。",
+      "year": null,
+      "weight": 0.7,
+      "sources": []
+    }
+  ]
+}

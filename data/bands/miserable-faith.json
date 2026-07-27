@@ -1,0 +1,99 @@
+{
+  "id": "miserable-faith",
+  "mbid": "9e45a3c0-0e98-4217-a144-f7e17b12118b",
+  "name": "痛仰乐队",
+  "area": "北京",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "1999–",
+  "genres": [
+    "另类摇滚",
+    "硬核朋克",
+    "民谣摇滚"
+  ],
+  "albums": [
+    {
+      "title": "这是个问题",
+      "year": 2001
+    },
+    {
+      "title": "不",
+      "year": 2006
+    },
+    {
+      "title": "盛开",
+      "year": 2010
+    },
+    {
+      "title": "愿爱无忧",
+      "year": 2014
+    }
+  ],
+  "intro": "从北京地下硬核现场成长起来的长期乐队。高虎的沙哑主唱和反复推进的吉他构成骨架，声音后来从正面冲撞转向公路、远行和更宽阔的民谣摇滚；大型音乐节合唱与独立巡演文化都能在他们身上交会。",
+  "introLang": "zh",
+  "tracks": [
+    "公路之歌",
+    "西湖",
+    "再见杰克",
+    "不要停止我的音乐"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/痛仰乐队"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 2435,
+  "listeners": 191,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9e45a3c0-0e98-4217-a144-f7e17b12118b"
+  },
+  "edges": [
+    {
+      "to": "escape-plan-cn",
+      "toName": "逃跑计划",
+      "toArea": "北京",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "现场合唱支线",
+      "detail": "从公路感与大型现场副歌继续探索。",
+      "year": null,
+      "weight": 0.76,
+      "sources": []
+    },
+    {
+      "to": "mr-sea-turtle",
+      "toName": "海龟先生",
+      "toArea": "广西南宁",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "南方律动支线",
+      "detail": "从摇滚现场转向雷鬼、斯卡与更松弛的节奏。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    },
+    {
+      "to": "jiulian-zhenren",
+      "toName": "九连真人",
+      "toArea": "广东连平",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "民谣摇滚现场",
+      "detail": "从地方叙事进入更强烈的摇滚现场推进。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    }
+  ]
+}

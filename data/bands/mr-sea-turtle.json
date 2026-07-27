@@ -1,0 +1,91 @@
+{
+  "id": "mr-sea-turtle",
+  "mbid": "04b0f964-d162-4594-823b-71c321aaaab9",
+  "name": "海龟先生",
+  "area": "广西南宁",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "2004–",
+  "genres": [
+    "雷鬼摇滚",
+    "独立摇滚",
+    "斯卡"
+  ],
+  "albums": [
+    {
+      "title": "海龟先生",
+      "year": 2012
+    },
+    {
+      "title": "Where Are You Going?",
+      "year": 2019
+    }
+  ],
+  "intro": "李红旗领衔、从南宁出发的乐队，把雷鬼与斯卡的弹性节奏接到中文摇滚上。轻快律动之下常有关于成长、欲望与自我怀疑的歌词，《男孩别哭》是最直接的入口。",
+  "introLang": "zh",
+  "tracks": [
+    "男孩别哭",
+    "玛卡瑞纳",
+    "蓝色旅馆",
+    "Where Are You Going?"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/海龟先生"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 1297,
+  "listeners": 138,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/04b0f964-d162-4594-823b-71c321aaaab9"
+  },
+  "edges": [
+    {
+      "to": "wutiaoren",
+      "toName": "五条人",
+      "toArea": "广东海丰",
+      "toYears": "2008–",
+      "type": "scene",
+      "label": "华南地域声音",
+      "detail": "从华南方言、地方生活与世界音乐元素继续探索。",
+      "year": null,
+      "weight": 0.82,
+      "sources": []
+    },
+    {
+      "to": "jiulian-zhenren",
+      "toName": "九连真人",
+      "toArea": "广东连平",
+      "toYears": "2018–",
+      "type": "scene",
+      "label": "华南节奏与方言",
+      "detail": "从雷鬼律动进入客家话、唢呐与更强烈的摇滚推进。",
+      "year": null,
+      "weight": 0.78,
+      "sources": []
+    },
+    {
+      "to": "miserable-faith",
+      "toName": "痛仰乐队",
+      "toArea": "北京",
+      "toYears": "1999–",
+      "type": "scene",
+      "label": "南方律动支线",
+      "detail": "从摇滚现场转向雷鬼、斯卡与更松弛的节奏。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    }
+  ]
+}

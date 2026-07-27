@@ -1,0 +1,94 @@
+{
+  "id": "your-woman-sleep-with-others",
+  "mbid": "52d7718d-fb8e-4bb9-adce-41e7151f847e",
+  "name": "老王乐队",
+  "area": "台北",
+  "countryCode": "TW",
+  "country": "台湾",
+  "years": "2015–",
+  "genres": [
+    "独立摇滚",
+    "民谣摇滚"
+  ],
+  "albums": [
+    {
+      "title": "吾十有五而志于学",
+      "year": 2017
+    },
+    {
+      "title": "吾日三省吾身",
+      "year": 2019
+    },
+    {
+      "title": "黄色的房子映照清晨的天空",
+      "year": 2023
+    }
+  ],
+  "intro": "以张立长的低沉主唱和童伟硕的提琴为显著特征，把青年焦虑、教育压力与失败感写成带民谣色彩的摇滚。歌名常带黑色幽默，编曲却能从低声叙述迅速推向全团爆发。",
+  "introLang": "zh",
+  "tracks": [
+    "我还年轻 我还年轻",
+    "安九",
+    "补习班的门口高挂我的黑白照片",
+    "稳定生活多美好 三年五年高普考"
+  ],
+  "introSources": [
+    {
+      "label": "MusicBrainz资料",
+      "url": "https://musicbrainz.org/artist/52d7718d-fb8e-4bb9-adce-41e7151f847e"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 3265,
+  "listeners": 198,
+  "quality": {
+    "score": 82,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/52d7718d-fb8e-4bb9-adce-41e7151f847e"
+  },
+  "edges": [
+    {
+      "to": "no-party-for-cao-dong",
+      "toName": "草东没有派对",
+      "toArea": "台北",
+      "toYears": "2012–",
+      "type": "scene",
+      "label": "青年焦虑写作",
+      "detail": "两支乐队都把一代人的挫败感写进中文摇滚。",
+      "year": null,
+      "weight": 0.86,
+      "sources": []
+    },
+    {
+      "to": "deca-joins",
+      "toName": "deca joins",
+      "toArea": "台北",
+      "toYears": "2013–",
+      "type": "scene",
+      "label": "台北独立摇滚",
+      "detail": "从松弛迷幻进入带提琴与黑色幽默的青年叙事。",
+      "year": null,
+      "weight": 0.8,
+      "sources": []
+    },
+    {
+      "to": "the-chairs",
+      "toName": "椅子乐团",
+      "toArea": "台中",
+      "toYears": "2015–",
+      "type": "scene",
+      "label": "新世代台湾乐团",
+      "detail": "从低沉青年叙事转向轻盈和声与复古独立流行。",
+      "year": null,
+      "weight": 0.68,
+      "sources": []
+    }
+  ]
+}

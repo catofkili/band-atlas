@@ -1,0 +1,111 @@
+{
+  "id": "hedgehog-cn",
+  "mbid": "068dfa29-4ce1-46a8-9647-f612b6750387",
+  "name": "刺猬",
+  "area": "北京",
+  "countryCode": "CN",
+  "country": "中国",
+  "years": "2005–",
+  "genres": [
+    "独立摇滚",
+    "噪音流行",
+    "朋克"
+  ],
+  "albums": [
+    {
+      "title": "白日梦蓝",
+      "year": 2009
+    },
+    {
+      "title": "甜蜜与杀害",
+      "year": 2011
+    },
+    {
+      "title": "生之响往",
+      "year": 2018
+    },
+    {
+      "title": "赤子白仙",
+      "year": 2020
+    }
+  ],
+  "intro": "子健、朱璇与石璐组成的三人乐队。高速吉他、近乎爆裂的鼓和青春期式直白情绪是核心，但他们也擅长把长篇叙事、噪音段落和突然打开的旋律放进同一首歌。",
+  "introLang": "zh",
+  "tracks": [
+    "火车驶向云外，梦安魂于九霄",
+    "白日梦蓝",
+    "24小时摇滚聚会",
+    "生之响往"
+  ],
+  "introSources": [
+    {
+      "label": "Wikipedia资料",
+      "url": "https://zh.wikipedia.org/wiki/刺猬_(乐队)"
+    }
+  ],
+  "regionalFeatured": true,
+  "listens": 3845,
+  "listeners": 98,
+  "quality": {
+    "score": 88,
+    "templateIntro": false,
+    "hasGenres": true,
+    "hasTracks": true,
+    "hasLore": false,
+    "hasAlbums": true
+  },
+  "region": "east-asia",
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/068dfa29-4ce1-46a8-9647-f612b6750387"
+  },
+  "edges": [
+    {
+      "to": "chinese-football",
+      "toName": "Chinese Football",
+      "toArea": "武汉",
+      "toYears": "2011–",
+      "type": "scene",
+      "label": "青春与emo",
+      "detail": "从高能独立摇滚进入更细密的东亚emo与数学摇滚。",
+      "year": null,
+      "weight": 0.86,
+      "sources": []
+    },
+    {
+      "to": "omnipotent-youth-society",
+      "toName": "万能青年旅店",
+      "toArea": "石家庄",
+      "toYears": "1996–",
+      "type": "scene",
+      "label": "北方独立摇滚",
+      "detail": "从北方城市经验与长篇摇滚叙事继续探索。",
+      "year": null,
+      "weight": 0.82,
+      "sources": []
+    },
+    {
+      "to": "queen-sea-big-shark",
+      "toName": "后海大鲨鱼",
+      "toArea": "北京",
+      "toYears": "2004–",
+      "type": "scene",
+      "label": "北京独立现场",
+      "detail": "从爆裂三人摇滚转向更舞曲化的北京现场。",
+      "year": null,
+      "weight": 0.72,
+      "sources": []
+    },
+    {
+      "to": "dada-cn",
+      "toName": "达达乐队",
+      "toArea": "武汉",
+      "toYears": "1996–2005 / 2019–",
+      "type": "scene",
+      "label": "千禧年前后",
+      "detail": "沿中文青年摇滚在不同时期的表达继续探索。",
+      "year": null,
+      "weight": 0.7,
+      "sources": []
+    }
+  ]
+}
