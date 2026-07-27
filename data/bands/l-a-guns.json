@@ -49,6 +49,12 @@
       "title": "The Ballad of Jayne"
     }
   ],
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS",
+    "apple": "https://music.apple.com/us/artist/band-atlas/85679",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002t8UcV0pgwVM",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F38170"
+  },
   "listens": 36446,
   "listeners": 1919,
   "quality": {

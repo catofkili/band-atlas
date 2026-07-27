@@ -22,6 +22,10 @@
   ],
   "intro": "Ataxia是由红辣椒乐队的约翰·弗鲁西安特和乔什·克林霍夫，以及Fugazi乐队的乔·拉里组成的三人乐队。",
   "introLang": "zh",
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F46980",
+    "apple": "https://music.apple.com/us/artist/ataxia/20006585"
+  },
   "listens": 11700,
   "listeners": 963,
   "quality": {

@@ -21,22 +21,36 @@
       "year": 2002
     }
   ],
-  "intro": "All Scars是来自华盛顿特区、1997至2003年间活跃的音乐团体。现有唱片目录可从1997年的《All-Scars》一路听到2002年的《Lunar Magus》。理解这个项目的另一条线索是成员关系：Amy Farina的履历把它与The Evens连接起来。从The Evens沿关系网点进来时，《All-Scars》可以作为试听入口。",
+  "intro": "All Scars是1996至2002年前后活跃于华盛顿特区的开放式即兴集体，成员轮换涉及Jerry Busher、Amy Farina、Brendan与James Canty、Chuck Bettis、Dug Birdzell等Dischord人脉。乐队强调“不重复”：作品应在当下生成，甚至同一座城市只演一次某个结构，因此《Early Ambient》《Introduction to Humanity》《Lunar Magus》更像不同阶段的现场实验记录。噪音、后朋克、电子处理和自由合奏在其中没有固定主次，阵容的流动本身就是创作规则。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "All Scars官方Bandcamp与创作原则",
+      "url": "https://allscars.bandcamp.com/"
+    },
+    {
+      "label": "AllMusic乐队介绍",
+      "url": "https://www.allmusic.com/artist/the-all-scars-mn0000742385"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/749cffc2-b310-4556-91b9-9298258361d0"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000Vel1k06csgW",
+    "apple": "https://music.apple.com/us/artist/allscars/1799221951"
+  },
   "listens": 326,
   "listeners": 12,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/749cffc2-b310-4556-91b9-9298258361d0"
-  },
   "edges": [
     {
       "to": "the-evens",

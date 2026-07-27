@@ -11,22 +11,35 @@
     "视觉系"
   ],
   "albums": [],
-  "intro": "ROYAL FORCE是来自日本、2023年至今活跃的音乐团体，现有资料将其归入摇滚、视觉系。理解这个项目的另一条线索是成员关系：KAZUMA的履历把它与SIAM SHADE连接起来。",
+  "intro": "ROYAL FORCE是前SIAM SHADE成员KAZUMA与前JURASSIC主唱YU+KI在2023年正式启动的双主唱娱乐单元，两人分别以“KING”和“PRINCE”形象登台。企划最初用于彼此宣传个人歌曲，因现场反响良好而向歌迷征集团名并转为持续活动；首张双A面单曲《クリスティーナ／Nockin'》的录音还有前SIAM SHADE贝斯手NATCHIN参与。它把视觉系摇滚履历与歌舞、角色设定结合，定位比传统固定器乐乐队更接近舞台表演组合。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "SPICE对双人身份、企划转正与首张单曲的报道",
+      "url": "https://spice.eplus.jp/articles/318641"
+    },
+    {
+      "label": "NATCHIN官网对ROYAL FORCE持续现场活动的记录",
+      "url": "https://www.natchin.com/information/index.php?page=3"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5c7e34da-bd5f-4dbf-9e88-190cd1ad3f34"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002fHOFL2dhUPg"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 13,
-    "templateIntro": true,
+    "score": 55,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5c7e34da-bd5f-4dbf-9e88-190cd1ad3f34"
-  },
   "edges": [
     {
       "to": "siam-shade",

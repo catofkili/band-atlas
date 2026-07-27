@@ -48,6 +48,12 @@
       "title": "Brimful of Asha"
     }
   ],
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/3Kf7VEIRWquxrNIuyJZnfF",
+    "apple": "https://music.apple.com/us/artist/band-atlas/156106",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001nRWYu15dWV7",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F30046"
+  },
   "listens": 67350,
   "listeners": 4891,
   "quality": {

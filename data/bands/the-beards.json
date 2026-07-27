@@ -13,22 +13,36 @@
       "year": 2002
     }
   ],
-  "intro": "The Beards是来自美国、2001年至今活跃的音乐团体。现有唱片目录收录了2002年的《Funtown》。理解这个项目的另一条线索是成员关系：Kim Shattuck的履历把它与Pixies连接起来。从Pixies沿关系网点进来时，《Funtown》可以作为试听入口。",
+  "intro": "The Beards是The Muffs主唱Kim Shattuck、cub的Lisa Marr与Sherri Solinger在2001年前后组成的女性独立摇滚副项目。三人共同写作并轮换演奏，2002年专辑《Funtown》把Shattuck标志性的沙哑高声、Marr偏甜的旋律感和简洁朋克吉他放在一起，形成介于power pop、garage与轻快流行朋克之间的短篇歌曲集。项目没有取代各自主团，也未发展出庞大目录，却记录了三位洛杉矶与温哥华独立音乐人一次平等、随性的合流。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Kim Shattuck项目履历",
+      "url": "https://en.wikipedia.org/wiki/Kim_Shattuck"
+    },
+    {
+      "label": "《Funtown》发行资料",
+      "url": "https://music.amazon.fr/albums/B00777JUP0"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/111344be-b02e-4f46-803e-1c722857325b"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004MhvTo25LObg",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F422166"
+  },
   "listens": 323,
   "listeners": 30,
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/111344be-b02e-4f46-803e-1c722857325b"
-  },
   "edges": [
     {
       "to": "pixies",

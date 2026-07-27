@@ -17,22 +17,29 @@
       "year": 2022
     }
   ],
-  "intro": "Wolfmanhattan Project是来自纽约的音乐团体。现有唱片目录可从2019年的《Blue Gene Stew》一路听到2022年的《Summer Forever And Ever》。理解这个项目的另一条线索是成员关系：Kid Congo Powers的履历把它与Nick Cave & the Bad Seeds连接起来。从Nick Cave & the Bad Seeds沿关系网点进来时，《Blue Gene Stew》可以作为试听入口。",
+  "intro": "Wolfmanhattan Project是三位美国地下摇滚老将组成的车库摇滚组合：The Gories与The Dirtbombs的Mick Collins、The Gun Club与The Cramps旧将Kid Congo Powers，以及曾为Sonic Youth和Pussy Galore打鼓的Bob Bert。2019年的《Blue Gene Stew》由三人轮换主唱并交换吉他、贝斯与鼓，把原始节奏蓝调、no wave噪音和廉价科幻感搅在一起；2022年《Summer Forever and Ever》继续保持即兴般的粗糙火花。它不是明星履历的陈列，而是三位长期DIY乐手以最少修饰继续制造怪异摇滚的工作组。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Forced Exposure乐队与唱片介绍",
+      "url": "https://www.forcedexposure.com/Artists/WOLFMANHATTAN.PROJECT.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e3dc948c-4972-40d5-a038-92749905d2ae"
+  },
+  "musicLinks": {},
   "listens": 529,
   "listeners": 29,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/e3dc948c-4972-40d5-a038-92749905d2ae"
-  },
   "edges": [
     {
       "to": "nick-cave-the-bad-seeds",

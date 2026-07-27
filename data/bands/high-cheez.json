@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "High Cheez是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：亀田誠治的履历把它与東京事変连接起来。",
+  "intro": "High Cheez是國府田マリ子在1999年专辑《やってみよう》中采用的录音乐队名义。國府田担任主唱，西脇辰弥负责键盘，西川進弹吉他，亀田誠治演奏贝斯，倉内充打鼓，井上うに担任声音制作；多首歌以作者姓名加“& High Cheez”署名。阵容用紧实的现场乐队声响，把她原有的声优流行路线推向90年代美国另类摇滚与power pop，但项目主要依附这一张专辑，并非亀田等人长期另组的乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "國府田マリ子访谈中的High Cheez名称与完整编制",
+      "url": "https://www.excite.co.jp/news/article/Lisani_0000367615/"
+    },
+    {
+      "label": "《やってみよう》录音阵容与声音制作资料",
+      "url": "https://onabenchinthepark.hatenablog.com/entry/2013/03/29/235307"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/16d79e0b-1f09-470e-8569-47c5bd9ad3a5"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/16d79e0b-1f09-470e-8569-47c5bd9ad3a5"
-  },
   "edges": [
     {
       "to": "東京事変",

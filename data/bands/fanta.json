@@ -8,22 +8,35 @@
   "years": "2010–2012",
   "genres": [],
   "albums": [],
-  "intro": "FANTA是来自日本、2010至2012年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：Marty Friedman的履历把它与Megadeth连接起来。",
+  "intro": "FANTA是日本可口可乐为芬达广告在2010年组建的明星企划乐队，名称依次取自Friedman、Ayanocozey、Nana、Takamiy与Akebono的首字母。初始阵容由Marty Friedman和高見沢俊彦弹吉他、綾小路翔弹贝斯、谷村奈南主唱、曙太郎担任鼓手，后来广告剧情让くいだおれ太郎接替鼓位。这个组合不只拍摄广告，也公开演出并在2011年配信高見沢作曲的《Fantastic Love》，但本质仍是有明确商业周期的跨界企划。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "音乐Natalie的成团、五人阵容与广告企划报道",
+      "url": "https://natalie.mu/music/news/28819"
+    },
+    {
+      "label": "富士电视台的成员沿革与《Fantastic Love》发行资料",
+      "url": "https://www.fujitv.co.jp/DOMOTO/guest/fanta.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f5a1fd0c-72ad-4264-b0e1-f366d192051d"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=00451ZDx4F7UfR"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f5a1fd0c-72ad-4264-b0e1-f366d192051d"
-  },
   "edges": [
     {
       "to": "megadeth",

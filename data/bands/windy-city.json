@@ -19,22 +19,35 @@
       "year": 2007
     }
   ],
-  "intro": "Windy City是来自韩国、2005年至今活跃的音乐团体，现有资料将其归入雷鬼。现有唱片目录可从2005年的《Love Record》一路听到2007年的《Countryman's Vibration》。理解这个项目的另一条线索是成员关系：김반장、윤갑열的履历把它与Asoto Union连接起来。从Asoto Union沿关系网点进来时，《Love Record》可以作为试听入口。",
+  "intro": "Windy City由Asoto Union解散后的主唱兼鼓手김반장与吉他手윤갑열于2004年前后在首尔组建，早期阵容还包括贝斯手김태국、键盘手조명진与打击乐手정상권。2005年首专《Love Record》仍保留Asoto Union的soul与funk暖色，随后乐队逐渐把根源reggae、dub、非洲与加勒比打击乐同韩国传统长短节奏结合，并以街头演出和跨界合作进入弘大以外的现场。团名向Curtis Mayfield的Windy C厂牌致意，而김반장所称的“清麴酱reggae”则点出他们并非复制牙买加，而是在寻找带有韩国发酵气味的本土律动。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "KBS WORLD乐队阵容与首专介绍",
+      "url": "https://world.kbs.co.kr/service/contents_view.htm?board_code=music_artist&board_seq=233237&menu_cate=artist&page=97"
+    },
+    {
+      "label": "韩国reggae发展与Windy City访谈",
+      "url": "https://jamaicansmusic.com/news/meet-korean-reggae-pioneers-windy-city/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0450bbde-a06e-4355-bc78-5a823ff65d9c"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/6tN20puflYfD17Kkp6ZVrr"
+  },
   "listens": 176,
   "listeners": 38,
   "quality": {
-    "score": 16,
-    "templateIntro": true,
+    "score": 58,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/0450bbde-a06e-4355-bc78-5a823ff65d9c"
-  },
   "edges": [
     {
       "to": "asoto-union",

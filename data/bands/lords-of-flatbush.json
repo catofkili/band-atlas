@@ -8,23 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Lords of Flatbush是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Andy Nicholson的履历把它与Arctic Monkeys连接起来。",
+  "intro": "Lords of Flatbush是约2007年底在Sheffield形成的舞曲摇滚组合，由歌手Steve Edwards与键盘手Phil Jones发起，阵容曾包括前Arctic Monkeys贝斯手Andy Nicholson、前Milburn成员Louis Carnall及吉他手Nicky Burke。歌曲《24 Hours (NiceTightDerriere)》通过多位house制作人的混音进入俱乐部语境，反映乐队把indie现场与dance制作结合的方向；Nicholson随后为专注Mongrel离开，因此这是一段短期项目而非其固定主团。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "乐队成员访谈与2007年成团资料",
+      "url": "https://liamronan.wordpress.com/2008-2/lords-of-flatbush/"
+    },
+    {
+      "label": "Apple Music《24 Hours》混音发行资料",
+      "url": "https://music.apple.com/gb/artist/lords-of-flatbush/284970263"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/829dc052-6f03-42b5-b94f-26ddddf54982"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000v9CTb4WUsur"
+  },
   "listens": 7,
   "listeners": 6,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/829dc052-6f03-42b5-b94f-26ddddf54982"
-  },
   "edges": [
     {
       "to": "arctic-monkeys",

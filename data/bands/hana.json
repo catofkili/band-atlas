@@ -32,6 +32,12 @@
       "title": "Blue Jeans"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1792783458",
+    "spotify": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003fcVrI4ZYc2h",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F97040597"
+  },
   "listens": 8088,
   "listeners": 481,
   "quality": {

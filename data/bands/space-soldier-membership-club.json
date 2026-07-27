@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Space Soldier Membership Club是来自韩国的音乐团体。理解这个项目的另一条线索是成员关系：이선규的履历把它与자우림连接起来。",
+  "intro": "Space Soldier Membership Club是公开资料极少的韩国项目，MusicBrainz把吉他手이선규列为成员，因此节点与자우림、ChocoCream Rolls及Lonely H’s Band相连；但现有同期报道、成员表和早期唱片都不足以还原一段可靠团史。流媒体在2024年出现同名EP《2024》，却没有资料能证明它与이선규参与的旧项目为同一阵容。这个条目目前更适合作为待考的成员关系记录，不应把新近数字发行反推成자우림成员的复出作品。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz旧项目身份与成员关系记录",
+      "url": "https://musicbrainz.org/artist/4fcfce28-f334-49d1-bbde-9006e7e4b2cc"
+    },
+    {
+      "label": "流媒体同名《2024》EP目录",
+      "url": "https://music.apple.com/ca/artist/space-soldier-membership-club/1770218436"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4fcfce28-f334-49d1-bbde-9006e7e4b2cc"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/4fcfce28-f334-49d1-bbde-9006e7e4b2cc"
-  },
   "edges": [
     {
       "to": "자우림",

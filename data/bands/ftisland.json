@@ -64,6 +64,11 @@
       "title": "So today…"
     }
   ],
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ",
+    "apple": "https://music.apple.com/us/artist/band-atlas/424488670",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F126737"
+  },
   "listens": 72854,
   "listeners": 476,
   "quality": {

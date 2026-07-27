@@ -10,22 +10,35 @@
     "流行摇滚"
   ],
   "albums": [],
-  "intro": "The Venus in Furs是来自英国、1998年活跃的音乐团体，现有资料将其归入流行摇滚。理解这个项目的另一条线索是成员关系：Jonny Greenwood、Thom Yorke的履历把它与Radiohead连接起来。",
+  "intro": "The Venus in Furs是为Todd Haynes于1998年执导的华丽摇滚电影《Velvet Goldmine》临时组成的录音室乐队，名称取自片中的虚构乐团。阵容集合Radiohead的Thom Yorke与Jonny Greenwood、前Suede吉他手Bernard Butler、Roxy Music萨克斯手Andy Mackay以及鼓手Craig McClune等人；他们在原声带中重新演绎《2HB》《Ladytron》《Bitter-Sweet》等Roxy Music作品。它没有独立发展的乐队生涯，价值正在于让不同世代英国乐手为一部虚构的70年代乐队制造出可信的声音。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Velvet Goldmine》音乐资料",
+      "url": "https://en.wikipedia.org/wiki/Velvet_Goldmine"
+    },
+    {
+      "label": "BFI电影资料",
+      "url": "https://bfidatadigipres.github.io/big%20screen%20classics/2026/01/14/velvet-goldmine/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0860ed05-2e3a-4872-a44a-8e6d8a7e9696"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F218155"
+  },
   "listens": 2458,
   "listeners": 192,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/0860ed05-2e3a-4872-a44a-8e6d8a7e9696"
-  },
   "edges": [
     {
       "to": "radiohead",

@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "天織堂是来自香港的音乐团体。理解这个项目的另一条线索是成员关系：黎允文的履历把它与小島连接起来。",
+  "intro": "天織堂是作曲家黎允文在小島樂隊之后参与的1990年代香港流行乐队，创作与编曲以他为核心，并采用男女声及器乐曲并置的形式。1995年专辑《搖搖擺擺》收录同名曲、《心痛的感覺》《當我一個人的時候》等作品，随后还有《#2》，歌曲在粤语、国语与社会题材之间移动。黎允文后来以电影配乐闻名，但天織堂并非其配乐署名，而是有专辑、主唱与乐队演奏的独立阶段。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz香港乐队身份与黎允文成员记录",
+      "url": "https://musicbrainz.org/artist/f71e4aaf-b1dd-4f58-a8e8-3be0ba9fd1fb"
+    },
+    {
+      "label": "《搖搖擺擺》发行年份及乐队、主唱资料",
+      "url": "https://www.carousell.com.hk/p/99%EF%BC%85new-%E5%A4%A9%E7%B9%94%E5%A0%82%E4%B8%BB%E5%94%B1-%E2%80%A7%E3%80%90-%E6%90%96%E6%90%96%E6%93%BA%E6%93%BA-%E3%80%91%E5%B0%88%E8%BC%AF-cd-1995%E5%B9%B4%E5%87%BA%E7%89%88-%E9%99%84%E6%9C%89%E5%8E%9F%E8%A3%9D%E5%81%B4%E7%B4%99-%E9%9D%9A%E4%BB%94%E9%BD%8A%E6%96%99-%E7%A2%9F%E5%86%87%E8%8A%B1-%E6%8E%A5%E8%BF%91%E5%85%A8%E6%96%B0-1059820824/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f71e4aaf-b1dd-4f58-a8e8-3be0ba9fd1fb"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f71e4aaf-b1dd-4f58-a8e8-3be0ba9fd1fb"
-  },
   "edges": [
     {
       "to": "小島",

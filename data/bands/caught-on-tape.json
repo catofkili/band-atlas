@@ -17,22 +17,35 @@
       "year": 2015
     }
   ],
-  "intro": "Caught on Tape是音乐团体。2015年的唱片目录包括《Full Bleed》和《Parallelogram》。理解这个项目的另一条线索是成员关系：John Moloney的履历把它与Chelsea Light Moving连接起来。从Chelsea Light Moving沿关系网点进来时，《Full Bleed》可以作为试听入口。",
+  "intro": "Caught on Tape是Sonic Youth吉他手Thurston Moore与Sunburned Hand of the Man鼓手John Moloney组成的自由即兴二人组。2012年欧洲巡演的现场录音先形成同名唱片，随后《Acting the Maggot》《Banjaxed Blues》等小批量发行持续记录两人不设曲目的碰撞；2015年首张正式录音室专辑《Full Bleed》则把噪音、free-rock与黑金属式密度压进吉他和鼓的极简编制。Moore与Moloney也同在Chelsea Light Moving，但这里没有摇滚歌曲骨架，只有音量、速度和即时反应。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Feeding Tube首张现场唱片介绍",
+      "url": "https://www.forcedexposure.com/Catalog/thurston-moore-john-moloney-caught-on-tape-lp/FTR.092LP.html"
+    },
+    {
+      "label": "Pitchfork《Full Bleed》发行报道",
+      "url": "https://pitchfork.com/news/56414-thurston-moore-calls-black-metal-music-made-by-pussies-of-the-lowest-order/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8b60089a-ee47-4f44-9789-999d4a753fe1"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F123764299"
+  },
   "listens": 149,
   "listeners": 38,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/8b60089a-ee47-4f44-9789-999d4a753fe1"
-  },
   "edges": [
     {
       "to": "chelsea-light-moving",

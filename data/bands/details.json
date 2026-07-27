@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Details是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：上田ケンジ的履历把它与the pillows连接起来。",
+  "intro": "Details是前the pillows贝斯手上田ケンジ离队后，与主唱いとうようこ在1990年代中期组成的日本二人单元。上田负责贝斯、编曲与制作，いとう负责歌唱和vibraphone，1994年以《a slave of love》出道；当时现场还会加入鼓、打击乐，把两人的acoustic取向扩成小编制。它也是上田从乐队成员转向制作人期间保留的作者项目，早于他后来的analers与个人活动。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "上田ケンジ官方履历中的Details项目",
+      "url": "https://ueken.uccello.jp/profile.html"
+    },
+    {
+      "label": "1995年Details活动与成员分工记录",
+      "url": "https://sailmusiclab.live-on.net/1995/950826.htm"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c97d6f8b-d324-44da-a130-6b2046df4153"
+  },
+  "musicLinks": {},
   "listens": 8,
   "listeners": 1,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c97d6f8b-d324-44da-a130-6b2046df4153"
-  },
   "edges": [
     {
       "to": "the-pillows",

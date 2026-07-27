@@ -8,22 +8,31 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Dumb Angel是音乐团体。理解这个项目的另一条线索是成员关系：MusicBrainz将它记录为Walt Mink的副项目。",
+  "intro": "这里的Dumb Angel是1990年前后在明尼苏达州活动的三人低保真家庭录音项目，团名取自Beach Boys未完成专辑《Smile》的早期工作标题。Walt Mink成员Jon Kimbrough与Joey Waronker参与演奏，Tim Gartman承担主要人声；磁带《Topflite》把四轨录音、采样、磁带处理和随意的短歌拼贴在一起，气质更接近早期Ween或Sebadoh，而非同名的后来英国乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Topflite》磁带、成员与录音风格资料",
+      "url": "https://wilfullyobscure.blogspot.com/2016/10/dumb-angel-topflite-tape-1993-generator.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0b1327fa-2944-4d53-af01-88871c20d8df"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F33831984"
+  },
   "listens": 43,
   "listeners": 2,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/0b1327fa-2944-4d53-af01-88871c20d8df"
-  },
   "edges": [
     {
       "to": "walt-mink",

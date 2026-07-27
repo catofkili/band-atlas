@@ -20,22 +20,34 @@
       "year": 2017
     }
   ],
-  "intro": "gibkiy gibkiy gibkiy是来自日本、2016年至今活跃的音乐团体，现有资料将其归入另类金属、实验摇滚。现有唱片目录可从2016年的《不条理種劇》一路听到2017年的《In incontinence》。理解这个项目的另一条线索是成员关系：Sakura的履历把它与L’Arc〜en〜Ciel连接起来。从L’Arc〜en〜Ciel沿关系网点进来时，《不条理種劇》可以作为试听入口。",
+  "intro": "gibkiy gibkiy gibkiy是2016年启动的日本暗黑实验摇滚三人组，由deadman吉他手aie、L’Arc〜en〜Ciel前鼓手Sakura与主唱kazuma组成。首作《不条理種劇》和2017年《In incontinence》把visual kei的阴影、后朋克低温、另类金属重量与不规则结构放在一起；kazuma近乎戏剧独白的唱腔与aie尖锐留白的吉他形成核心张力。重复三次的团名强调“柔韧”，音乐也确实不断在静默、噪发和节奏变形之间弯折。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz乐队与发行资料",
+      "url": "https://musicbrainz.org/artist/fe2385a7-5dda-4e67-845b-f09783805b44"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fe2385a7-5dda-4e67-845b-f09783805b44"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1527985856",
+    "spotify": "https://open.spotify.com/artist/4arxiagOpUgEnJkBwP6NhE",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0046OocH4IgLZI",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12165036"
+  },
   "listens": 276,
   "listeners": 20,
   "quality": {
-    "score": 23,
-    "templateIntro": true,
+    "score": 65,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/fe2385a7-5dda-4e67-845b-f09783805b44"
-  },
   "edges": [
     {
       "to": "the-madcap-laughs",

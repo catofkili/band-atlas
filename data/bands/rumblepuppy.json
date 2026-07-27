@@ -13,22 +13,33 @@
       "year": 1992
     }
   ],
-  "intro": "Rumblepuppy是来自马萨诸塞州的音乐团体。现有唱片目录收录了1992年的《Jeez-Ooze》。理解这个项目的另一条线索是成员关系：Colin Sears的履历把它与Fugazi连接起来。从Fugazi沿关系网点进来时，《Jeez-Ooze》可以作为试听入口。",
+  "intro": "Rumblepuppy是美国马萨诸塞州地下朋克圈的一支短命乐队，留下的核心唱片是Selfless Records于1992年发行、由Eli Janney制作的《Jeez-Ooze》。阵容包括后来组建The Marshes的Emil Busler、Steven Wardlaw，以及曾在Dag Nasty和Fugazi演奏的鼓手Colin Sears。专辑以干净、带Dischord气息的吉他和较长的八十年代式朋克段落推进，已经能听见The Marshes后来更急促声音的雏形。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Jeez-Ooze》厂牌、制作人、成员脉络与声音评论",
+      "url": "https://vaguely-offensive.com/listenings/music/rumblepuppy-jeez-ooze/"
+    },
+    {
+      "label": "MusicBrainz乐队身份与成员关系记录",
+      "url": "https://musicbrainz.org/artist/130e5f0d-8e5a-4719-a081-49af9aeb1af6"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/130e5f0d-8e5a-4719-a081-49af9aeb1af6"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/130e5f0d-8e5a-4719-a081-49af9aeb1af6"
-  },
   "edges": [
     {
       "to": "fugazi",

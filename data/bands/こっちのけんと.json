@@ -19,6 +19,11 @@
   ],
   "intro": "菅生健人，艺名こっちのけんと，是一名日本创作歌手，出身于大阪府箕面市，现隶属于blowout Inc。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1639972219",
+    "spotify": "https://open.spotify.com/artist/3qQKrWwcqJlE4OS4e1ox7x",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F53715001"
+  },
   "listens": 15845,
   "listeners": 1455,
   "quality": {

@@ -44,6 +44,11 @@
     "Fender Telecaster"
   ],
   "lore": "向井秀徳把自己的录音室命名为 MATSURI STUDIO，多年来一手包办乐队的录音与混音。",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/6oAUOiOlMM5wvNfu2xikvM",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0004jWyT0gAceG",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F22474"
+  },
   "listens": 19622,
   "listeners": 665,
   "quality": {

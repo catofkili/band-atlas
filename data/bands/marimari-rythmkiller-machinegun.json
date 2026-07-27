@@ -17,22 +17,29 @@
       "year": 2001
     }
   ],
-  "intro": "MariMari Rythmkiller Machinegun是来自日本、1999年至今活跃的音乐团体。现有唱片目录可从2000年的《us》一路听到2001年的《HEAD LIGHT,SUIT CASE〜さすらいの秘密》。理解这个项目的另一条线索是成员关系：茂木欣一、木暮晋也的履历把它与Fishmans+连接起来。从Fishmans+沿关系网点进来时，《us》可以作为试听入口。",
+  "intro": "MariMari Rythmkiller Machinegun是歌手MariMari与前Fishmans鼓手茂木欣一在1999年前后展开的日本乐队项目，现场及录音还汇集吉他手木暮晋也、键盘手沖祐市等熟悉的东京音乐人。2000年《TTAGGG / Since Yesterday》完成主流出道，同年专辑《us》及2001年《HEAD LIGHT, SUIT CASE〜さすらいの秘密》以MariMari轻盈声线连接dub余韵、indie pop与松弛节奏；它也记录了Fishmans解体后茂木欣一走向东京斯卡乐团期间的一段重要过渡。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "CDJournal乐队阵容与出道履历",
+      "url": "https://artist.cdjournal.com/a/marimari-rhythmkiller-machinegun/131065"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9f25abf9-e316-4b1c-afcd-d3e6e7139019"
+  },
+  "musicLinks": {},
   "listens": 71,
   "listeners": 7,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/9f25abf9-e316-4b1c-afcd-d3e6e7139019"
-  },
   "edges": [
     {
       "to": "fishmans",
@@ -48,7 +55,7 @@
     },
     {
       "to": "フィッシュマンズ",
-      "toName": "フィッシュマンズ",
+      "toName": "Fishmans",
       "toArea": "日本",
       "toYears": "1987–",
       "type": "member",

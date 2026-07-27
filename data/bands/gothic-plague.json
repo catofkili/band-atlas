@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Gothic Plague是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Dominic Howard的履历把它与Muse连接起来。",
+  "intro": "Gothic Plague是Muse成名前在英国Teignmouth校园时期使用过的早期团名，最初围绕鼓手Dominic Howard活动，成员流动且时间线因旧访谈说法不一。1991年的青年剧院节目单记录了Dominic随团演奏《Kill Your TV》；Matt Bellamy后来加入，余下核心成员继续磨合，经过Youngblood、Rocket Baby Dolls等名称才定为Muse。它更适合被理解为Muse形成过程中的校园前身，而非与Muse同时存在、另有成熟唱片目录的乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MuseWiki早期阵容、1991年节目单与名称沿革考证",
+      "url": "https://musewiki.org/Gothic_Plague"
+    },
+    {
+      "label": "Muse乐队史中Gothic Plague至Rocket Baby Dolls的衔接",
+      "url": "https://en.wikipedia.org/wiki/Muse_(band)"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d7eceba8-e45b-4b3a-b243-2d6cbf8b3b7b"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d7eceba8-e45b-4b3a-b243-2d6cbf8b3b7b"
-  },
   "edges": [
     {
       "to": "muse",

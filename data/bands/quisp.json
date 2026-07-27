@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Quisp是音乐团体。理解这个项目的另一条线索是成员关系：Colin Brooks、Andy Conrad的履历把它与Numbskulz连接起来。",
+  "intro": "Quisp是美国阿肯色州Little Rock九十年代地下朋克场景中的乐队，成员包括Jason White、Colin Brooks、Andy Conrad与Sam Caplan。现存目录可追到1993年录音《The Censored Sessions》，歌曲《Hillcrest》后来收入2007年地方场景纪录片合辑《Towncraft: Notes From a Local Scene》，2017年《Very Little Rock》也继续保存其旧作。Jason White日后加入Green Day与Pinhead Gunpowder，使这支地方小团获得一条清晰的成员脉络。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Discogs的Little Rock朋克身份、四人阵容与发行目录",
+      "url": "https://www.discogs.com/artist/5654203"
+    },
+    {
+      "label": "MusicBrainz成员关系及《Towncraft》合辑记录",
+      "url": "https://musicbrainz.org/artist/e7bdf685-143c-43c2-adc8-8b9583395528"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e7bdf685-143c-43c2-adc8-8b9583395528"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/e7bdf685-143c-43c2-adc8-8b9583395528"
-  },
   "edges": [
     {
       "to": "numbskulz",

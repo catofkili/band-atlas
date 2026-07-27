@@ -13,22 +13,35 @@
       "year": 1964
     }
   ],
-  "intro": "Lee Curtis & The All Stars是来自英国的音乐团体。现有唱片目录收录了1964年的《It's Lee》。理解这个项目的另一条线索是成员关系：Pete Best的履历把它与The Beatles连接起来。从The Beatles沿关系网点进来时，《It's Lee》可以作为试听入口。",
+  "intro": "Lee Curtis & The All Stars是歌手Peter Flannery以艺名Lee Curtis领衔、1962年在利物浦组建的Merseybeat乐队，早期阵容包括Frank Bowen、Tony Waddington、Wayne Bickerton与刚离开The Beatles的鼓手Pete Best。凭借英国与汉堡演出，他们在1962年底已成为当地热门团体，并在《Mersey Beat》票选中仅次于The Beatles；Decca时期的《Little Girl》《Let’s Stomp》却未能进入榜单。1963年原班乐手离开Curtis并逐步演变为Pete Best Four，Curtis则另组阵容赴德国发展，因此这个名称实际涵盖了数次人员更替。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Pete Best官方网站1962至1963年履历",
+      "url": "https://www.petebest.com/biography-1960/"
+    },
+    {
+      "label": "Apple Music乐队简介与发行历史",
+      "url": "https://music.apple.com/us/artist/lee-curtis-the-all-stars/700057872"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/421c6d88-df82-4148-be27-c67e8fcdd14a"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003wW0nJ2U3XK3"
+  },
   "listens": 193,
   "listeners": 9,
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/421c6d88-df82-4148-be27-c67e8fcdd14a"
-  },
   "edges": [
     {
       "to": "the-pete-best-combo",

@@ -34,6 +34,11 @@
   ],
   "intro": "Telefon Tel Aviv 是一支以伊利诺伊州芝加哥为据点的美国电子音乐组合。最初是由查尔斯·库珀（Charles Cooper）和约书亚·尤斯蒂斯（Joshua Eustis）组成的二人组合，但自2009年库珀去世后，该乐队便作为尤斯蒂斯的个人项目继续活动。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/53N4oJpWtmnB0KGLLserGC",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002mjkSj0Mr4qV",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F78285"
+  },
   "listens": 106251,
   "listeners": 3497,
   "quality": {

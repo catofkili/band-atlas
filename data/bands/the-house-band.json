@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The House Band是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Phil Collins的履历把它与The Crawling King Snakes连接起来。",
+  "intro": "这里的The House Band是2002年6月3日英国女王金禧庆典“Party at the Palace”的现场伴奏阵容，而不是以此名长期发行唱片的普通乐队。Phil Palmer弹吉他、Pino Palladino演奏贝斯、Paul “Wix” Wickens负责键盘，Phil Collins与Ray Cooper组成鼓和打击乐核心，Eric Robinson吹奏萨克斯，Sam Brown、Margo Buchanan与Claudia Fontaine担任和声。乐队在白金汉宫花园为Eric Clapton、Annie Lennox、Joe Cocker等多位嘉宾伴奏，任务随这一晚的大型电视演唱会结束。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "BBC金禧演唱会日期、现场与house band资料",
+      "url": "https://www.bbc.co.uk/pressoffice/pressreleases/stories/2002/02_february/26/palace.shtml"
+    },
+    {
+      "label": "Party at the Palace完整伴奏阵容与演出目录",
+      "url": "https://en.wikipedia.org/wiki/Party_at_the_Palace"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/95500c2d-930e-49ba-be89-3b3d875c1450"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F80114"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/95500c2d-930e-49ba-be89-3b3d875c1450"
-  },
   "edges": [
     {
       "to": "george-s-band",

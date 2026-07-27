@@ -10,22 +10,33 @@
     "副业项目"
   ],
   "albums": [],
-  "intro": "SPIKY BROTHERS是来自东京、2000至2001年间活跃的音乐团体，现有资料将其归入副业项目。理解这个项目的另一条线索是成员关系：山中さわお的履历把它与the pillows连接起来。",
+  "intro": "SPIKY BROTHERS是the pillows主唱山中さわお与居住在小樽的二哥山中英俊于2000至2001年间组成的兄弟二人项目。英俊以钢琴伴奏，さわお负责演唱，两人在东京为主的live house演出，也短途前往仙台、名古屋与大阪；曲目混合原创、the pillows旧作及翻唱，并曾在现场销售自制录音带。它没有发展成正式唱片乐队，价值正在于把山中さわお惯常的电吉他编制拆成近乎家庭聚会的钢琴与人声，让旋律和兄弟间的随性互动站到最前面。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "山中英俊个人网站乐队履历",
+      "url": "https://www3.hp-ez.com/hp/yamanakahidetoshi/page7"
+    },
+    {
+      "label": "2000年兄弟二人现场记录",
+      "url": "https://chinacafe.hatenablog.com/entry/20000621/p1"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5820ce84-0a76-4c69-a649-1574b7132c9c"
+  },
+  "musicLinks": {},
   "listens": 116,
   "listeners": 23,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5820ce84-0a76-4c69-a649-1574b7132c9c"
-  },
   "edges": [
     {
       "to": "the-pillows",

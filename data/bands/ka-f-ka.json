@@ -13,22 +13,33 @@
       "year": 2015
     }
   ],
-  "intro": "KA.F.KA是来自日本、2013至2016年间活跃的音乐团体。现有唱片目录收录了2015年的《Fantome † Noir》。理解这个项目的另一条线索是成员关系：ウエノコウジ的履历把它与thee michelle gun elephant连接起来。从thee michelle gun elephant沿关系网点进来时，《Fantome † Noir》可以作为试听入口。",
+  "intro": "KA.F.KA是土屋昌巳在2013年发起的日本暗色摇滚乐队，固定阵容集结ISSAY、森岡賢、ウエノコウジ与宮上元克。五位成员分别带来一風堂、DER ZIBET、SOFT BALLET、thee michelle gun elephant和THE MAD CAPSULE MARKETS等经历，2015年专辑《Fantôme Noir》把哥特气氛、电子编程、强硬节奏组与土屋的实验吉他结合；森岡賢去世后，乐队也在2016年结束这一阵容。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "音楽ナタリー阵容与首专报道",
+      "url": "https://natalie.mu/music/news/146628"
+    },
+    {
+      "label": "Tower Records《Fantôme Noir》发行资料",
+      "url": "https://tower.jp/item/3860832"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d74acfab-2aea-48ae-9cc2-c0b11e83aacf"
+  },
+  "musicLinks": {},
   "listens": 30,
   "listeners": 3,
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d74acfab-2aea-48ae-9cc2-c0b11e83aacf"
-  },
   "edges": [
     {
       "to": "thee-michelle-gun-elephant",

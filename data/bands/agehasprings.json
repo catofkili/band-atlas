@@ -10,6 +10,11 @@
   "albums": [],
   "intro": "agehasprings是一家以音乐制作和制作人经纪为主的日本创意公司。",
   "introLang": "zh",
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000eJvgS4TziU3",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F47153840",
+    "apple": "https://music.apple.com/jp/artist/agehasprings/495577024"
+  },
   "listens": 6,
   "listeners": 3,
   "quality": {

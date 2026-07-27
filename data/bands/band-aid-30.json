@@ -12,6 +12,11 @@
   "albums": [],
   "intro": "Band Aid 30 是慈善超级乐队 Band Aid 在 2014 年的重组版本。该乐队于 2014 年 11 月 10 日由鲍勃·格尔多夫和米奇·尤尔共同宣布成立，格尔多夫表示他……",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/940786973",
+    "spotify": "https://open.spotify.com/artist/6KfzyefHYuqfWaI5taICaN",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12493662"
+  },
   "listens": 2222,
   "listeners": 644,
   "countryInferred": "member-neighbors",

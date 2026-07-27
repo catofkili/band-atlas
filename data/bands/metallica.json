@@ -72,6 +72,12 @@
       "title": "直到入眠"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/3996865",
+    "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003WnKZm09up2F",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F38851"
+  },
   "listens": 3685079,
   "listeners": 23290,
   "quality": {

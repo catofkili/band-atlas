@@ -67,6 +67,12 @@
       "title": "ハイ・アンド・ドライ"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/657515",
+    "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001p8NfF28OLt8",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F99384"
+  },
   "listens": 7210963,
   "listeners": 28751,
   "quality": {

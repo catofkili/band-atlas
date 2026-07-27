@@ -13,22 +13,33 @@
       "year": 2003
     }
   ],
-  "intro": "odani misako・ta-ta是来自日本、2003年至今活跃的音乐团体。现有唱片目录收录了2003年的《feather》。理解这个项目的另一条线索是成员关系：田渕ひさ子的履历把它与NUMBER GIRL连接起来。从NUMBER GIRL沿关系网点进来时，《feather》可以作为试听入口。",
+  "intro": "odani misako・ta-ta是创作歌手小谷美紗子在2003年召集的五人特别乐队，阵容包括键盘池田貴史、吉他田渕ひさ子、贝斯二宮友和与鼓手玉田豊夢。迷你专辑《feather》没有主打原创，而是以完整乐队重编Jackson Browne、Bill Withers、The Pretenders和荒井由实作品，让小谷的钢琴与强烈歌声同四位个性乐手正面碰撞；成员各自工作繁忙，项目从一开始便以不定期活动为前提。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Tower Records成团、阵容与活动方式报道",
+      "url": "https://tower.jp/article/news/2003/09/11/100001789"
+    },
+    {
+      "label": "小谷美紗子官网《feather》资料",
+      "url": "https://odanimisako.com/discography/feather/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/92eea162-c19a-4437-bdcd-6d9016cd9574"
+  },
+  "musicLinks": {},
   "listens": 4,
   "listeners": 2,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/92eea162-c19a-4437-bdcd-6d9016cd9574"
-  },
   "edges": [
     {
       "to": "bloodthirsty-butchers",

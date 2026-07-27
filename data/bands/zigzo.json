@@ -38,6 +38,9 @@
   ],
   "intro": "ZIGZO是一支日本摇滚乐队。由前MALICE MIZER、BY-SEXUAL和L'Arc〜en〜Ciel的成员组成。乐队成立之初的口号是“本世纪最后的怪物乐队”。",
   "introLang": "zh",
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F22491"
+  },
   "listens": 910,
   "listeners": 119,
   "quality": {

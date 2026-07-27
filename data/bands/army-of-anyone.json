@@ -18,6 +18,12 @@
   ],
   "intro": "Army of Anyone 是一支由 Filter 乐队主唱理查德·帕特里克（Richard Patrick）与摇滚乐队 Stone Temple Pilots 的两名成员共同组建的美国摇滚超级乐队。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/0sWV6JDlCwRVNPeGk4p51c",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0025AIlF2u8zUD",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F47002",
+    "apple": "https://music.apple.com/us/artist/army-of-anyone/199938513"
+  },
   "listens": 8620,
   "listeners": 597,
   "quality": {

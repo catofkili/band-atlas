@@ -8,22 +8,33 @@
   "years": "2017–",
   "genres": [],
   "albums": [],
-  "intro": "178R是来自日本、2017年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：ミヤ的履历把它与MUCC连接起来。",
+  "intro": "178R是2017年新宿LOFT“よかっぺBAR”采用的现场常驻乐队，由THE BACK HORN主唱山田将司、MUCC吉他手MIYA、鼓手KAZI与轮换贝斯手组成。活动由水户LIGHT HOUSE的稲葉茂和山田担任“BAR master”，同时呈现茨城县食饮与多组来宾演出；178R以跨团session形式负责整晚的摇滚骨架，并在MUCC二十周年倒数活动继续出现。它不是175R的成员分支，而是带有戏仿名的水户人脉现场企划。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MUCC官方存档中的よかっぺBAR定位与两套阵容",
+      "url": "https://archive.55-69.com/category/liveall/live/page/2"
+    },
+    {
+      "label": "MUCC二十周年页面中的178R后续阵容",
+      "url": "https://archive.55-69.com/20th/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3bb8fcde-18d4-4401-80e4-81a75b2186ca"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/3bb8fcde-18d4-4401-80e4-81a75b2186ca"
-  },
   "edges": [
     {
       "to": "mucc",

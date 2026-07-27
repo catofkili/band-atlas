@@ -13,23 +13,38 @@
       "year": 2026
     }
   ],
-  "intro": "A Place to Kill是来自美国的音乐团体。现有唱片目录收录了2026年的《APTK》。理解这个项目的另一条线索是成员关系：Richard Patrick的履历把它与Nine Inch Nails连接起来。从Nine Inch Nails沿关系网点进来时，《APTK》可以作为试听入口。",
+  "intro": "A Place to Kill是Filter核心Richard Patrick与There Is No Us主唱、摄影师兼导演Jim Louvau组成的美国工业摇滚二人项目。Patrick在洛杉矶录音室制作七曲首作《APTK》，以《Jet Engine》为入口，把Filter式厚重吉他、电子节拍与更现代的trap、EDM纹理压在一起；项目2023年已释出歌曲，直到2026年才正式完成首张EP，因此也是Patrick在Nine Inch Nails与Filter谱系外的新支线。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "A Place to Kill官方网站项目与首作简介",
+      "url": "https://aplacetokill.com/"
+    },
+    {
+      "label": "ThePRP《APTK》发行报道",
+      "url": "https://www.theprp.com/2026/04/04/news/a-place-to-kill-filter-etc-confirm-june-release-date-for-their-debut-ep-aptk/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8bd05603-f169-47c1-8e34-1c3f9573f822"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004O0WFV3rDKgu",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F123632987",
+    "apple": "https://music.apple.com/us/artist/a-place-to-kill/1888185138"
+  },
   "listens": 3,
   "listeners": 3,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/8bd05603-f169-47c1-8e34-1c3f9573f822"
-  },
   "edges": [
     {
       "to": "filter",

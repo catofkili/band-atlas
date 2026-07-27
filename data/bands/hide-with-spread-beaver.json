@@ -28,6 +28,10 @@
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/e6da0f1b-090e-42c8-9666-69ce8af84548"
   },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001w5YhI02qJBK",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F53283019"
+  },
   "listens": 2533,
   "listeners": 175,
   "quality": {

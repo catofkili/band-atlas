@@ -17,22 +17,33 @@
       "year": 2015
     }
   ],
-  "intro": "THE King ALL STARS是来自日本、2014年至今活跃的音乐团体。现有唱片目录可从2014年的《Rock Fest.》一路听到2015年的《I Simple Say》。理解这个项目的另一条线索是成员关系：ウエノコウジ的履历把它与thee michelle gun elephant连接起来。从thee michelle gun elephant沿关系网点进来时，《Rock Fest.》可以作为试听入口。",
+  "intro": "THE King ALL STARS是加山雄三在2014年率领的大编制跨世代摇滚乐队，成员包括キヨサク、佐藤タイジ、古市コータロー、名越由貴夫、ウエノコウジ、武藤昭平、タブゾンビ与多位键盘手。首专《ROCK FEST.》把加山的旧作、Elvis式rockabilly与年轻成员的新歌放进音乐节型现场编制，随后《I Simple Say》继续创作；它让“若大将”不以怀旧歌手，而以一支当代festival band的主唱身份进入新世代现场。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Mikiki乐队阵容与《ROCK FEST.》专题",
+      "url": "https://mikiki.tokyo.jp/articles/-/2540"
+    },
+    {
+      "label": "CINRA成立与首张单曲报道",
+      "url": "https://www.cinra.net/news/20140327-thekingallstars"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/006d00c0-91d2-4c66-a62d-11a246c1406a"
+  },
+  "musicLinks": {},
   "listens": 39,
   "listeners": 1,
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/006d00c0-91d2-4c66-a62d-11a246c1406a"
-  },
   "edges": [
     {
       "to": "thee-michelle-gun-elephant",

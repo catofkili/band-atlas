@@ -26,6 +26,12 @@
   ],
   "intro": "Ima Robot是一支来自美国加利福尼亚州洛杉矶的乐队，成立于20世纪90年代末。他们发行过多张专辑、EP和单曲，其中最著名的是2003年的《Ima Robot》……",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/3089666",
+    "spotify": "https://open.spotify.com/artist/0JzkAORtxJjXk3XDKvIUcb",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001Qj0wt0SEPVr",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F60399"
+  },
   "listens": 18027,
   "listeners": 1272,
   "quality": {

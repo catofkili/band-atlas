@@ -13,6 +13,7 @@
     "fetch:guests": "node tools/fetch-guest-recordings.mjs",
     "scan:wikipedia-history": "node tools/scan-wikipedia-history.mjs",
     "fetch:wikidata-enrichment": "node tools/fetch-wikidata-enrichment.mjs",
+    "fetch:music-links": "node tools/fetch-music-links.mjs",
     "stamp:assets": "node tools/stamp-assets.mjs",
     "build": "npm run build:data && npm run check:layout && npm run stamp:assets && npm run build:standalone && npm run check:site"
   },

@@ -13,22 +13,36 @@
       "year": 2014
     }
   ],
-  "intro": "Minibus Pimps是2011年至今活跃的音乐团体。现有唱片目录收录了2014年的《Cloud to Ground》。理解这个项目的另一条线索是成员关系：John Paul Jones的履历把它与Led Zeppelin连接起来。从Led Zeppelin沿关系网点进来时，《Cloud to Ground》可以作为试听入口。",
+  "intro": "Minibus Pimps是Led Zeppelin贝斯手兼多乐器演奏者John Paul Jones与挪威电子音乐人Helge Sten（Deathprod、Supersilent）在2011年开始的英挪二人项目。2014年《Cloud to Ground》取材于伦敦、挪威和丹麦的现场录音，两人把吉他、贝斯、小提琴等信号送入Kyma系统，实时变形成低频轰鸣、冰晶般高音与缓慢移动的电子风暴；作品约一半预先构成、一半即兴，和传统意义上的摇滚二重奏相距很远。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Cloud to Ground》官方页面、阵容与制作说明",
+      "url": "https://minibuspimps.bandcamp.com/album/cloud-to-ground"
+    },
+    {
+      "label": "Pitchfork专辑发布报道",
+      "url": "https://pitchfork.com/news/53571-led-zeppelins-john-paul-jones-and-deathprod-are-minibus-pimps-announce-cloud-to-ground/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f5a061bf-f2a1-40dd-8edc-ca81069737f2"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001CrEsG31RKc1",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F986267"
+  },
   "listens": 34,
   "listeners": 9,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f5a061bf-f2a1-40dd-8edc-ca81069737f2"
-  },
   "edges": [
     {
       "to": "led-zeppelin",

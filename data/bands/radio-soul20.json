@@ -8,23 +8,34 @@
   "years": "2009–",
   "genres": [],
   "albums": [],
-  "intro": "RADIO SOUL20是来自日本、2009年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：岸田繁的履历把它与くるり连接起来。",
+  "intro": "RADIO SOUL20是FM802在2009年春季“ACCESS!”活动中组织的一曲限定歌手单元。忌野清志郎为活动写下《Oh! RADIO》，蔦谷好位置负责编曲与声音制作，阿部真央、HY、くるり的岸田繁、スガ シカオ、BONNIE PINK、ROCK’A’TRENCH的山森大輔和TRICERATOPS的和田唱接力演唱。团名只对应这首电台活动歌，并不存在以七位歌手为固定成员的后续乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "FM802历届ACCESS!资料中的歌曲、作者与完整歌手名单",
+      "url": "https://prtimes.jp/main/html/rd/p/000000462.000088611.html"
+    },
+    {
+      "label": "FM802官方历届活动歌回顾",
+      "url": "https://funky802.com/site/blog/94192/0/54"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a9423fad-c1c0-47f6-8d0f-24e260e376f9"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a9423fad-c1c0-47f6-8d0f-24e260e376f9"
-  },
   "edges": [
     {
       "to": "くるり",

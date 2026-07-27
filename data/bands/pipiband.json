@@ -23,22 +23,36 @@
       "year": 1996
     }
   ],
-  "intro": "pipiband是来自韩国、1995至1997年间活跃的音乐团体，现有资料将其归入摇滚乐。现有唱片目录可从1995年的《文化革命》一路听到1996年的《붕어빵》。理解这个项目的另一条线索是成员关系：박현준的履历把它与3호선 버터플라이连接起来。从3호선 버터플라이沿关系网点进来时，《文化革命》可以作为试听入口。",
+  "intro": "Pipi Band（삐삐밴드）是강기영（后来以Dalpalan闻名）、吉他手박현준与主唱이윤정于1995年组成的韩国三人另类摇滚乐队。首专《문화혁명》以故意稚拙、古怪的女声和短促pop-punk、电子趣味讽刺当时主流规范，常被视为韩国较早进入商业发行体系的朋克唱片；1996年《불가능한 작전》与翻唱作《붕어빵》后阵容改变并转名Pippi Longstocking，原三人阶段遂在1997年前后结束。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "京乡新闻《문화혁명》历史评论与阵容",
+      "url": "https://www.khan.co.kr/article/200802281723465"
+    },
+    {
+      "label": "Yes24韩国朋克史专文",
+      "url": "https://ch.yes24.com/article/details/16443"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c9378444-9a5a-48ec-b51b-302166ab247d"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F127418",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003u2cbe11Upl9"
+  },
   "listens": 30,
   "listeners": 6,
   "quality": {
-    "score": 15,
-    "templateIntro": true,
+    "score": 57,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c9378444-9a5a-48ec-b51b-302166ab247d"
-  },
   "edges": [
     {
       "to": "3호선-버터플라이",

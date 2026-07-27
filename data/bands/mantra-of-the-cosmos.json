@@ -8,22 +8,35 @@
   "years": "2023–",
   "genres": [],
   "albums": [],
-  "intro": "Mantra of the Cosmos是来自英国、2023年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：Andy Bell的履历把它与Oasis连接起来。",
+  "intro": "Mantra of the Cosmos是鼓手兼制作人Zak Starkey发起、于2023年公开活动的英国迷幻摇滚组合，阵容还有Happy Mondays的Shaun Ryder与Bez，以及Ride、Oasis吉他手Andy Bell。Starkey把重型节奏和录音框架搭好，Ryder以即兴式超现实念唱制造混乱，Bell则用shoegaze音墙与riff填充空间；《Gorilla Guerilla》《X (Wot You Sayin?)》和Glastonbury首演确立了这种介于Madchester、acid rock与太空噪音之间的声音。四人刻意回避“超级组合”的端正感，项目魅力恰在名团履历被重新搅成一场松散、危险的现场。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Mantra of the Cosmos官方网站成员与项目起源",
+      "url": "https://www.mantraofthecosmos.com/pages/abouttheband"
+    },
+    {
+      "label": "NME成团访谈与首批单曲资料",
+      "url": "https://www.nme.com/news/music/shaun-ryder-and-zak-starkey-on-mantra-of-the-cosmos-do-you-know-what-a-supergroup-means-four-guys-having-a-wank-3480446"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/69594e66-8ac1-4150-b22a-5b5f6d6f8c40"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F56907337"
+  },
   "listens": 140,
   "listeners": 60,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/69594e66-8ac1-4150-b22a-5b5f6d6f8c40"
-  },
   "edges": [
     {
       "to": "oasis",

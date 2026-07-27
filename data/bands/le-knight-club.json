@@ -12,6 +12,9 @@
   "albums": [],
   "intro": "Le Knight Club 是一支法国电子音乐组合，由前法国电子音乐二人组 Daft Punk 的成员 Guy-Manuel de Homem-Christo 以及 Éric Chédeville 于 1997 年共同创立，后者同样……",
   "introLang": "zh",
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F831073"
+  },
   "listens": 7651,
   "listeners": 494,
   "quality": {

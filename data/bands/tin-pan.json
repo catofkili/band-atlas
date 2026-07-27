@@ -33,22 +33,35 @@
       "year": 2016
     }
   ],
-  "intro": "Tin Pan是来自日本、2000年至今活跃的音乐团体。现有唱片目录可从2000年的《Tin Pan》一路听到2016年的《矢野顕子＋TIN PAN PART II さとがえるコンサート》。理解这个项目的另一条线索是成员关系：鈴木茂、林立夫的履历把它与ティン・パン・アレー连接起来。从ティン・パン・アレー沿关系网点进来时，《Tin Pan》可以作为试听入口。",
+  "intro": "Tin Pan是細野晴臣、鈴木茂与林立夫在2000年重新合作时采用的三人名义，可视为1970年代キャラメル・ママ与ティン・パン・アレー的缩编重组。三人同名专辑在相隔约四分之一世纪后再度结合細野的低音与创作、鈴木的吉他和林的鼓，把他们奠定的日本城市流行、乡村摇滚与录音室乐手传统放进更从容的当代制作。该名义后来也为矢野顕子的“さとがえるコンサート”重聚，因此需要与旧团Tin Pan Alley区分。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "林立夫官方履历",
+      "url": "https://tone.jp/musicians/tatsuo-hayashi"
+    },
+    {
+      "label": "Fender鈴木茂访谈",
+      "url": "https://fendernews.jp/cover-2020-shigeru-suzuki-b/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/948d77ca-3862-4d65-8f85-621183dcb827"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F46719031"
+  },
   "listens": 435,
   "listeners": 68,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/948d77ca-3862-4d65-8f85-621183dcb827"
-  },
   "edges": [
     {
       "to": "ティン-パン-アレー",

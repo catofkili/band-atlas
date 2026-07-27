@@ -22,6 +22,11 @@
   ],
   "intro": "Beautiful Creatures（有时简称为 BC）是一支美国硬摇滚乐队，由吉他手 DJ Ashba 和 Bang Tango 乐队的主唱 Joe Lesté 于 1999 年组建。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/3QvsQJzvJ9XPRqeEDWJXFp",
+    "apple": "https://music.apple.com/us/artist/band-atlas/80598047",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12355277"
+  },
   "listens": 3173,
   "listeners": 157,
   "quality": {

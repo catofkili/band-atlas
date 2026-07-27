@@ -9,22 +9,33 @@
   "genres": [],
   "albums": [],
   "countryInferred": "name-script",
-  "intro": "ザ・プールサイド是2016年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：岸田繁的履历把它与くるり连接起来。",
+  "intro": "ザ・プールサイド是2016年JFL五局与TSUTAYA“ACCESS!”活动采用的一曲限定署名。くるり的岸田繁为《Hello Radio》作词作曲，tofubeats编曲，岸田与大橋卓弥、木村カエラ、KREVA、DEAN FUJIOKA、藤原さくら、YONCE七组歌手轮流演唱。作品用广播陪伴新生活的主题连接不同领域的声音，并曾在TSUTAYA限期提供CD租赁；团名只属于这次跨台活动，不是一支自2016年持续经营的乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "音楽ナタリー歌曲、编曲与七组歌手完整资料",
+      "url": "https://natalie.mu/music/news/180558"
+    },
+    {
+      "label": "TSUTAYA运营方一次性特别单元与CD租赁说明",
+      "url": "https://prtimes.jp/main/html/rd/p/000000001.000018760.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c8f02519-3344-436c-8bd2-cf61228e9b24"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c8f02519-3344-436c-8bd2-cf61228e9b24"
-  },
   "edges": [
     {
       "to": "くるり",

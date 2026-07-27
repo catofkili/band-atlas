@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Ka・za・ri是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：Die的履历把它与DIR EN GREY连接起来。",
+  "intro": "Ka・za・ri是DIR EN GREY吉他手Die在进入La:Sadie’s以前，于1995年前后参加的关西visual系乐队。它在尼崎、枚方等live house与Ruby、CHARM等同期团同台，使Die先后结识Shinya、薫、京等后来伙伴；1996年1月举行“活动休止”演出后实际结束。可核实资料只留下演出、照片和《Voiceless Scene》等早期歌曲痕迹，其中一段后来被Die带入La:Sadie’s的《obje×××》，因此这支短命团仍能听见他早期写作的延续。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "1995至1996年演出、成员相识与活动休止年表",
+      "url": "https://degwiki.com/wiki/Dir_En_Grey/Pre"
+    },
+    {
+      "label": "早期歌曲在La:Sadie’s作品中的延续记录",
+      "url": "https://degwiki.com/wiki/Obje%C3%97%C3%97%C3%97"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/eba6158a-aa17-470e-bb33-e69ff2c83043"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000QI3EH0sEaox"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/eba6158a-aa17-470e-bb33-e69ff2c83043"
-  },
   "edges": [
     {
       "to": "dir-en-grey",

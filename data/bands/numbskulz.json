@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Numbskulz是音乐团体。理解这个项目的另一条线索是成员关系：Colin Brooks、Andy Conrad的履历把它与Quisp连接起来。",
+  "intro": "这里的Numbskulz是1980年代末活跃于阿肯色州小石城的青少年朋克乐队，与华盛顿州等地的同名团无关。Andy Conrad尚未满二十岁便带队为The Romantics暖场，鼓手Colin Brooks约十四岁加入，Jason White也在1988年前后参与吉他；他们赢得本地乐手比赛并获得录音与赴SXSW机会，成员后来流向Substance、The Big Cats、Quisp及Green Day相关项目，成为小石城早期朋克网络的一处起点。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Fluke纪念刊中的Andy Conrad与Numbskulz历史",
+      "url": "https://microcosmpublishing.com/catalog/zines/69713"
+    },
+    {
+      "label": "Cal Performances对Colin Brooks早期履历的介绍",
+      "url": "https://calperformances.org/learn/program_notes/2009/pn_zanes.pdf"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f1c8cfff-d0d1-434e-85d8-712773943bc6"
+  },
+  "musicLinks": {},
   "listens": 3,
   "listeners": 3,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f1c8cfff-d0d1-434e-85d8-712773943bc6"
-  },
   "edges": [
     {
       "to": "quisp",

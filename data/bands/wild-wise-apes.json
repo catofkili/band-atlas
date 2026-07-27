@@ -13,22 +13,33 @@
       "year": 2004
     }
   ],
-  "intro": "Wild Wise Apes是来自日本、2004年至今活跃的音乐团体。现有唱片目录收录了2004年的《3rd world》。理解这个项目的另一条线索是成员关系：樋口豊的履历把它与BUCK‐TICK连接起来。从BUCK‐TICK沿关系网点进来时，《3rd world》可以作为试听入口。",
+  "intro": "Wild Wise Apes是BUCK-TICK贝斯手樋口豊与ROGUE主唱奥野敦士在2004年合作的双人单元。两人自行制作、编曲和进行电脑编程，在同年专辑《3rd world》中以坚实的贝斯节奏托住奥野戏剧化的摇滚嗓音；十一曲从器乐《Prologue ~Sunrise~》推进到同名曲，再以日落主题收束。公开目录主要集中于这一张自设WWA Records发行的专辑，所以它应被视作完成度很高的阶段性旁支，而不是BUCK-TICK改名。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "HMV对樋口豊、奥野敦士双人身份与专辑声音的说明",
+      "url": "https://www.hmv.co.jp/artist_Wild-Wise-Apes--Buck-tick-_000000000243088/"
+    },
+    {
+      "label": "《3rd world》发行日期、完整曲目与制作署名",
+      "url": "https://www.bucktickzone.com/releases/project_wildwiseapes.shtml"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/463e1c9e-4d1c-4b98-95ba-2aeeb7224304"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/463e1c9e-4d1c-4b98-95ba-2aeeb7224304"
-  },
   "edges": [
     {
       "to": "buck-tick",

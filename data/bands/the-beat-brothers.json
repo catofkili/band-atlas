@@ -25,22 +25,36 @@
       "title": "My Bonnie / The Saints"
     }
   ],
-  "intro": "The Beat Brothers是来自汉堡、1961年至今活跃的音乐团体。想从歌曲进入，可以先听《My Bonnie / The Saints》。理解这个项目的另一条线索是成员关系：Stuart Sutcliffe、Pete Best、John Lennon、George Harrison的履历把它与The Beatles连接起来。从The Beatles沿关系网点进来时，《My Bonnie / The Saints》可以作为试听入口。",
+  "intro": "The Beat Brothers最著名的用法并非一支长期固定乐队，而是Polydor在1961年为Tony Sheridan伴奏者采用的唱片署名。制作人Bert Kaempfert在汉堡录制《My Bonnie》《The Saints》等歌曲时，伴奏阵容正是尚未成名的The Beatles，包括John Lennon、Paul McCartney、George Harrison与当时鼓手Pete Best；唱片公司因名称在德语市场的联想而改用Beat Brothers。Sheridan后来也让其他伴奏乐手沿用这个称呼，因此并非所有同名录音都由Beatles演奏。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Tony Sheridan资料站录音历史",
+      "url": "https://www.tony-sheridan.de/"
+    },
+    {
+      "label": "The Beatles与Tony Sheridan录音资料",
+      "url": "https://www.beatlesbible.com/people/tony-sheridan/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bb85b2d0-7c62-4389-8564-5eeadacd09bb"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/7AnTMZGYp9ygRKlD2EfVTl",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003PSu9215z0ji"
+  },
   "listens": 959,
   "listeners": 191,
   "quality": {
-    "score": 18,
-    "templateIntro": true,
+    "score": 60,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": true,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/bb85b2d0-7c62-4389-8564-5eeadacd09bb"
-  },
   "edges": [
     {
       "to": "the-beatles",

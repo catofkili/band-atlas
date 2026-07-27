@@ -39,6 +39,12 @@
   ],
   "intro": "Redd Kross 是一支来自加利福尼亚州霍桑的美国摇滚乐队，其前身是 1978 年由杰夫和史蒂夫·麦克唐纳兄弟创立的朋克摇滚乐队“The Tourists”，当时史蒂夫还是一名初中生。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/5893797",
+    "spotify": "https://open.spotify.com/artist/1USc9u5yL4tUaQKhGWNuvj",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000Wcabp44IczE",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F72940"
+  },
   "listens": 22935,
   "listeners": 1117,
   "quality": {

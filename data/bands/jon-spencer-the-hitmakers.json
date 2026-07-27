@@ -13,22 +13,35 @@
       "year": 2022
     }
   ],
-  "intro": "Jon Spencer & the HITmakers是音乐团体。现有唱片目录收录了2022年的《Spencer Gets It Lit》。理解这个项目的另一条线索是成员关系：Jon Spencer的履历把它与Pussy Galore连接起来。从Pussy Galore沿关系网点进来时，《Spencer Gets It Lit》可以作为试听入口。",
+  "intro": "Jon Spencer & the HITmakers是Jon Spencer在Blues Explosion停止活动后建立的新乐队形态。2022年《Spencer Gets It Lit》时期的阵容由Spencer负责主唱与吉他，Quasi的Sam Coomes演奏合成器，M. Sord打鼓，Pussy Galore旧友Bob Bert则用金属废料制造打击声。它保留Spencer一贯粗粝的车库摇滚与夸张喊唱，却用模拟电子、工业噪音和拆解式节奏取代传统布鲁斯三人组；“trash”在这里既是音色，也是把废弃物重新变成摇滚乐器的现场方法。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "HITmakers阵容与专辑公告",
+      "url": "https://pitchfork.com/news/jon-spencer-and-the-hitmakers-announce-new-album-share-video-for-new-song-watch/"
+    },
+    {
+      "label": "HITmakers艺人简介",
+      "url": "https://www.allmusic.com/artist/jon-spencer-the-hitmakers-mn0004196949"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a9bc1e6d-3a17-4838-b608-61a9d2bfcf07"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F61548951"
+  },
   "listens": 1038,
   "listeners": 124,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a9bc1e6d-3a17-4838-b608-61a9d2bfcf07"
-  },
   "edges": [
     {
       "to": "pussy-galore",

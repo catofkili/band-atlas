@@ -13,22 +13,36 @@
       "year": 2009
     }
   ],
-  "intro": "Gordon Gano & The Ryans是来自纽约的音乐团体。现有唱片目录收录了2009年的《Under the Sun》。理解这个项目的另一条线索是成员关系：Frank Ferrer的履历把它与Guns N' Roses连接起来。从Guns N' Roses沿关系网点进来时，《Under the Sun》可以作为试听入口。",
+  "intro": "Gordon Gano & The Ryans由Violent Femmes主唱Gordon Gano与The Bogmen兄弟Billy、Brendan Ryan组成。三人2001年前后在纽约相识，Ryan兄弟先把器乐草稿交给Gano补写歌词与旋律，这套跨邮箱、延续数年的合作最终形成2009年专辑《Under the Sun》。唱片仍能听见Gano尖细而极具辨识度的歌声与宗教、家庭主题，却由两兄弟的吉他、键盘和更饱满的另类摇滚编排取代Violent Femmes的裸露folk-punk；它是一套围绕共同写作建立的三人组，而非临时伴奏名单。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Yep Roc官方成团与写作历史",
+      "url": "https://www.yeproc.com/artists/gordon-gano-the-ryans/"
+    },
+    {
+      "label": "《Under the Sun》同期评论",
+      "url": "https://boingboing.net/2009/07/07/under-the-sun-gordon.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a5522774-29b6-422f-b751-19c5b7c67d06"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003R7pwV3vSKKh",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F15218449"
+  },
   "listens": 161,
   "listeners": 22,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a5522774-29b6-422f-b751-19c5b7c67d06"
-  },
   "edges": [
     {
       "to": "guns-n-roses",

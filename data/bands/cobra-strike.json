@@ -17,23 +17,36 @@
       "year": 2000
     }
   ],
-  "intro": "Cobra Strike是来自美国的音乐团体。现有唱片目录可从1999年的《The 13th Scroll》一路听到2000年的《Cobra Strike II: Y,Y+B,X+Y<hold>←》。理解这个项目的另一条线索是成员关系：DJ Disk的履历把它与Primus连接起来。从Primus沿关系网点进来时，《The 13th Scroll》可以作为试听入口。",
+  "intro": "Cobra Strike是Buckethead在1999至2000年间组织的两张专辑项目。首作《The 13th Scroll》由Buckethead负责吉他与贝斯，Pinchface打鼓，Brain与DJ Disk提供循环和编程；次作继续扩大电子制作比重。音乐把前卫金属、turntablism、鼓机、游戏采样与短小过场剪接在一起，听感像一张不断切换关卡的虚构动作游戏原声。这个名字没有发展成长期巡演乐队，却准确记录了Buckethead在世纪之交把吉他奇技与湾区DJ文化接合的阶段。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《The 13th Scroll》资料",
+      "url": "https://en.wikipedia.org/wiki/The_13th_Scroll"
+    },
+    {
+      "label": "Buckethead项目资料",
+      "url": "https://en.wikipedia.org/wiki/Buckethead"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/10ce1c49-1fc6-469a-b1c4-bc80cc91f6d6"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F90308"
+  },
   "listens": 1760,
   "listeners": 64,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 12,
-    "templateIntro": true,
+    "score": 54,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/10ce1c49-1fc6-469a-b1c4-bc80cc91f6d6"
-  },
   "edges": [
     {
       "to": "cornbugs",

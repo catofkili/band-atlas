@@ -21,22 +21,33 @@
       "year": 2024
     }
   ],
-  "intro": "大鬼众是来自中国、2021年至今活跃的音乐团体。现有唱片目录可从2023年的《苦痛 Kvvvlt/ooong》一路听到2024年的《鬼之冥想 Ghost Meditation》。理解这个项目的另一条线索是成员关系：李青、李维思的履历把它与Carsick Cars连接起来。从Carsick Cars沿关系网点进来时，《苦痛 Kvvvlt/ooong》可以作为试听入口。",
+  "intro": "大鬼众（Ghostmass）是2021年在北京发起的开放式即兴重型音乐单元，现阵容由李维思弹贝斯、李青打鼓，颜峻与羊库库负责电子和人声。来自Carsick Cars、Snapline、Soviet Pop及实验声音现场的经验，在这里汇入drone、doom metal、硬件噪音和free improvisation；2024年的《鬼之冥想》与《大抱散》用四十分钟级长篇录音展示同一阵容既能缓慢嗡鸣，也能突然冲向近乎free jazz的失控状态。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Dusty Ballz官方Bandcamp阵容、理念与录音说明",
+      "url": "https://dustyballz.bandcamp.com/album/improvisation-for-dusty-ballz"
+    },
+    {
+      "label": "Apple Music《鬼之冥想》发行资料",
+      "url": "https://music.apple.com/us/album/%E9%AC%BC-%E4%B9%8B-%E5%86%A5-%E6%83%B3/1784171169"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ccf6963f-c23a-4934-84b3-e2e1b89054e9"
+  },
+  "musicLinks": {},
   "listens": 3,
   "listeners": 3,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/ccf6963f-c23a-4934-84b3-e2e1b89054e9"
-  },
   "edges": [
     {
       "to": "carsick-cars",

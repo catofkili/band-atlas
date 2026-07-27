@@ -13,22 +13,36 @@
       "year": 1997
     }
   ],
-  "intro": "Hankshaw是来自美国的音乐团体。现有唱片目录收录了1997年的《Nothing Personal》。理解这个项目的另一条线索是成员关系：Justin Meldal‐Johnsen的履历把它与Nine Inch Nails连接起来。从Nine Inch Nails沿关系网点进来时，《Nothing Personal》可以作为试听入口。",
+  "intro": "Hankshaw是1994年在佛罗里达州Tampa成立的旋律型emo／独立摇滚乐队。1997年唯一全长《Nothing Personal》由Harold Hasselback极高而柔韧的男声、清亮双吉他与紧凑节奏组构成，明快推进下却写满失落、距离和自我怀疑；乐队曾与Hot Water Music、Elliott、Ann Beretta等团巡演。后续单曲和EP未形成第二张专辑，2021年的重制版及合辑《Something Personal》才把这支短命乐队的主要录音重新整理完整。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Hankshaw官方Bandcamp与乐队历史",
+      "url": "https://hankshaw.bandcamp.com/album/nothing-personal"
+    },
+    {
+      "label": "重制版专辑回顾",
+      "url": "https://www.punkrocktheory.com/music_reviews/hankshaw-nothing-personalsomething-personal"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6ad5da01-2ba5-46e7-ba8b-5cdd267c5e4b"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003XAOZi0K9yEs",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F147664"
+  },
   "listens": 435,
   "listeners": 26,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6ad5da01-2ba5-46e7-ba8b-5cdd267c5e4b"
-  },
   "edges": [
     {
       "to": "nine-inch-nails",

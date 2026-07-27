@@ -13,22 +13,32 @@
       "year": 2009
     }
   ],
-  "intro": "Ourself Beside Me是来自中国、2003年至今活跃的音乐团体。现有唱片目录收录了2009年的《Ourself Beside Me》。理解这个项目的另一条线索是成员关系：张守望的履历把它与Carsick Cars连接起来。从Carsick Cars沿关系网点进来时，《Ourself Beside Me》可以作为试听入口。",
+  "intro": "Ourself Beside Me由前挂在盒子上吉他手杨帆于2003年在北京发起，阵容多次变化后与贝斯手谢晗、日籍鼓手Emi组成三人形态。她们从Velvet Underground、Can、The Fall与纽约no wave吸收灵感，却用中国式旋律迂回和北京现场的直接感重新组织，形成冷峻吉他、原始节拍与女性声线并存的声音。杨海崧制作的2009年同名专辑由兵马司发行，是D-22场景中极具辨识度的一张女性实验摇滚唱片。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "兵马司官方乐队介绍",
+      "url": "https://www.maybemars.com/artists/ourself-beside-me/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c738a64b-d643-43e3-a06b-fef2bba087ff"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003GiI421H27RE",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12508"
+  },
   "listens": 425,
   "listeners": 48,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c738a64b-d643-43e3-a06b-fef2bba087ff"
-  },
   "edges": [
     {
       "to": "carsick-cars",

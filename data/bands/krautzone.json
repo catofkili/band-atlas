@@ -23,22 +23,29 @@
       "year": 2015
     }
   ],
-  "intro": "Krautzone是来自德国、2011年至今活跃的音乐团体，现有资料将其归入迷幻摇滚。现有唱片目录可从2013年的《Kosmische Rituale》一路听到2015年的《Spiritual Retreat》。理解这个项目的另一条线索是成员关系：Rainer Neeff、Komet Lulu、Sula Bassana的履历把它与Zone Six连接起来。从Zone Six沿关系网点进来时，《Kosmische Rituale》可以作为试听入口。",
+  "intro": "Krautzone是2011年成立的德国即兴宇宙摇滚组合，成员包括Sula Bassana、Komet Lulu、Modulfix、Rainer Neeff与Onkel Kaktus，多人与Zone Six、Electric Moon等团相连。2013年《Kosmische Rituale》从合成器漂流、shaman式鼓点与效果吉他出发，随后《Superkraut》《Spiritual Retreat》继续以现场即兴而非预写歌曲生成长篇结构。团名直白地点出方向：它不是复刻某支70年代乐队，而是让Krautrock的重复、偶然与宇宙感继续发生。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Krautzone官方Bandcamp",
+      "url": "https://krautzone.bandcamp.com/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/815a1812-e87a-44b5-a77c-0c604ceda72b"
+  },
+  "musicLinks": {},
   "listens": 285,
   "listeners": 23,
   "quality": {
-    "score": 16,
-    "templateIntro": true,
+    "score": 58,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/815a1812-e87a-44b5-a77c-0c604ceda72b"
-  },
   "edges": [
     {
       "to": "zone-six",

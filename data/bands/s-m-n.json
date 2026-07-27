@@ -33,22 +33,36 @@
       "year": 2010
     }
   ],
-  "intro": "S.M.N.是来自日本、2001年至今活跃的音乐团体。现有唱片目录可从2006年的《How about it?》一路听到2010年的《リペイント・イット・ニュー》。理解这个项目的另一条线索是成员关系：横山裕章的履历把它与サニーデイ・サービス连接起来。从サニーデイ・サービス沿关系网点进来时，《How about it?》可以作为试听入口。",
+  "intro": "S.M.N.是2001年由福冈三位高中同学组成的三人旋律朋克乐队，成员为吉他兼主唱横山裕章、贝斯兼主唱西村浩介和鼓手マー坊。2006年翻唱迷你专辑《Knocking My Soul》从NOFX、Descendents、Toy Dolls等影响出发，随即以《How About It?》《What Is Bad To Be Fun!!》建立高速、欢闹而重旋律的原创风格；2010年作品还邀请Less Than Jake的Roger Manganelli制作、Descendents的Stephen Egerton混音。它把90年代美式melodic punk的速度和福冈现场文化结合，并通过欧洲巡演把这套“三个人全速前进”的声音带出日本。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "S.M.N.官方网站履历",
+      "url": "https://www.smnjp.com/biography"
+    },
+    {
+      "label": "A-FILES乐队访谈",
+      "url": "https://a-files.jp/s-m-n-interview.html?PageSpeed=noscript"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cc28ca6b-353f-4b79-805d-275f4eec7ea9"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001Sboix3L0vpM",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12301079"
+  },
   "listens": 182,
   "listeners": 36,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/cc28ca6b-353f-4b79-805d-275f4eec7ea9"
-  },
   "edges": [
     {
       "to": "サニーデイ-サービス",

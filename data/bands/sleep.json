@@ -35,6 +35,10 @@
   ],
   "intro": "Sleep是一支来自美国加利福尼亚州的斯通纳·杜姆乐队。创始成员包括OM乐队的阿尔·西斯内罗斯、克里斯·哈基亚斯以及High on Fire乐队的马特·派克。该乐队与Kyuss并列，是斯通纳摇滚乐的代表性乐队。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/4Mt6w4tDGiPgV5q6JWPlrI",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F44208"
+  },
   "listens": 135085,
   "listeners": 4190,
   "quality": {

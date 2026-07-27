@@ -13,22 +13,36 @@
       "year": 1998
     }
   ],
-  "intro": "The Pancakes是来自巴登-符腾堡州、1995年至今活跃的音乐团体。现有唱片目录收录了1998年的《Brainshaker》。理解这个项目的另一条线索是成员关系：Rainer Neeff的履历把它与Zone Six连接起来。从Zone Six沿关系网点进来时，《Brainshaker》可以作为试听入口。",
+  "intro": "这里的The Pancakes是Daniela与Rainer Neeff兄妹于1995年在德国组建的psychedelic rock乐队，与香港同名单人项目无关。1998年首专《Brainshaker》保存早期受Screaming Trees、Mudhoney和Sonic Youth影响的粗糙吉他，之后又不断吸收Guru Guru式krautrock、Hawkwind式space rock、surf与garage；现阵容由Daniela担任贝斯主唱、Rainer负责吉他和“UFO sounds”、Tristan Reiling打鼓。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "The Pancakes官方网站现阵容与曲风",
+      "url": "https://www.thepancakes-germany.com/"
+    },
+    {
+      "label": "乐队长篇访谈、成团与首专历史",
+      "url": "https://www.psychedelicbabymag.com/2020/05/the-pancakes-interview.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/acfb3235-1a9a-4e2f-a329-b9ac720b78d2"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002EQs8L2wC8oJ",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F101998"
+  },
   "listens": 16,
   "listeners": 4,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/acfb3235-1a9a-4e2f-a329-b9ac720b78d2"
-  },
   "edges": [
     {
       "to": "zone-six",

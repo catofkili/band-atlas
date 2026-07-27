@@ -8,22 +8,33 @@
   "years": "2012–",
   "genres": [],
   "albums": [],
-  "intro": "Sensational Space Shifters是来自英国、2012年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：Justin Adams、John Baggott、Billy Fuller、Liam Tyson的履历把它与Robert Plant and the Strange Sensation连接起来。",
+  "intro": "Sensational Space Shifters是Robert Plant在2012年WOMAD前后组建的探索型根源音乐乐队，由Strange Sensation旧成员Justin Adams、Liam “Skin” Tyson、John Baggott、Billy Fuller等人与西非音乐家Juldeh Camara、鼓手Dave Smith组成。乐队一面把《Whole Lotta Love》等旧作拆成布鲁斯、电子与非洲节奏的新版本，一面参与《lullaby and… The Ceaseless Roar》和《Carry Fire》两张原创专辑。它延续Plant拒绝复制Led Zeppelin的路线，让英国民谣、密西西比布鲁斯与冈比亚传统在同一套现场编制中流动。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "乐队现场与器材介绍",
+      "url": "https://www.premierguitar.com/robert-plant-and-the-sensational-space-shifters"
+    },
+    {
+      "label": "Robert Plant时期资料",
+      "url": "https://en.wikipedia.org/wiki/Robert_Plant"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/43a22c65-a104-4dc0-a501-419d11ebcf63"
+  },
+  "musicLinks": {},
   "listens": 947,
   "listeners": 87,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/43a22c65-a104-4dc0-a501-419d11ebcf63"
-  },
   "edges": [
     {
       "to": "robert-plant-and-the-strange-sensation",

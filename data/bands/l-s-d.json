@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "L.S.D.是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：佐野紀代己、射守矢雄的履历把它与bloodthirsty butchers连接起来。",
+  "intro": "L.S.D.是活跃于1980年代中期日本地下场景的hardcore punk项目，与同名欧美艺人无关。1983年的《Destroy》和1986年的《Jast Last》两张短篇唱片以沙哑怒吼、薄而尖锐的吉他失真和突然爆发的高速段落形成极端粗粝的声音；后者由札幌朋克团畜生担任伴奏，而畜生随后发展为bloodthirsty butchers。2005年合集《1983–2005 Hate》补齐散落录音，使这支发行极少的团体在日本早期hardcore谱系中重新可见。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Maximum Rocknroll同期唱片评论档案",
+      "url": "https://www.maximumrocknroll.com/band/lsd/"
+    },
+    {
+      "label": "《Jast Last》版本与畜生伴奏资料",
+      "url": "https://timebomb.co.jp/products/510202561056pm2l"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/22326d4f-f68a-487a-9467-aca645c60154"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003HPbq82oiWd0"
+  },
   "listens": 94,
   "listeners": 30,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/22326d4f-f68a-487a-9467-aca645c60154"
-  },
   "edges": [
     {
       "to": "bloodthirsty-butchers",

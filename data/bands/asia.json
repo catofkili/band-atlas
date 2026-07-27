@@ -63,6 +63,11 @@
       "title": "Days Like These"
     }
   ],
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej",
+    "apple": "https://music.apple.com/us/artist/band-atlas/110894",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F85745"
+  },
   "listens": 110296,
   "listeners": 5841,
   "quality": {

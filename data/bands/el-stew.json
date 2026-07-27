@@ -25,23 +25,37 @@
       "year": 2011
     }
   ],
-  "intro": "El Stew是来自美国的音乐团体。现有唱片目录可从1999年的《El Stew》一路听到2011年的《Rehearsal #2. 13.0.0.0.0: The Dark Night of a Million Stains》。理解这个项目的另一条线索是成员关系：DJ Disk的履历把它与Primus连接起来。从Primus沿关系网点进来时，《El Stew》可以作为试听入口。",
+  "intro": "El Stew是1999年前后由湾区turntablist DJ Disk、鼓手Brain、吉他手Buckethead以及DJ Eddie Def、制作人Extrakd等人组成的实验组合。它把唱盘刮擦当作乐队乐器，与现场鼓、低音、怪异吉他和电子剪辑并排，1999年的《No Hesitation》及后续《The Rehearsal》听起来介于抽象嘻哈、即兴放克与前卫电子之间。成员各自项目繁多，令El Stew更像一间短暂开放的节奏实验室；其关键不是传统主唱，而是几位节奏制造者如何互相打断和接力。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "DJ Disk资料",
+      "url": "https://en.wikipedia.org/wiki/DJ_Disk"
+    },
+    {
+      "label": "El Stew阵容资料",
+      "url": "https://www.bingeandgrab.com/bonusbodies.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4887e0e9-ff5b-4dff-8dd7-d9841d40d53f"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004MRPU94UEkiu",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F31708597"
+  },
   "listens": 1248,
   "listeners": 112,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/4887e0e9-ff5b-4dff-8dd7-d9841d40d53f"
-  },
   "edges": [
     {
       "to": "gonervill",

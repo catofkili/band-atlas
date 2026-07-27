@@ -21,22 +21,37 @@
       "year": 2024
     }
   ],
-  "intro": "The WAEVE是来自英国的音乐团体，现有资料将其归入另类摇滚、独立摇滚。现有唱片目录可从2023年的《The WAEVE》一路听到2024年的《City Lights》。理解这个项目的另一条线索是成员关系：Graham Coxon的履历把它与Blur连接起来。从Blur沿关系网点进来时，《The WAEVE》可以作为试听入口。",
+  "intro": "The WAEVE由Blur吉他手Graham Coxon与前The Pipettes成员Rose Elinor Dougall在2021年于伦敦组成。两人轮流主唱并交换吉他、键盘和萨克斯等乐器，把英国民谣的叙事、后朋克的棱角、Krautrock式推进与自由即兴放进长篇编曲；2023年的同名首专和2024年的《City Lights》记录了这套语言从幽暗、电影感逐渐走向更强的乐队冲击。它的吸引力不在名团成员相加，而在Coxon粗粝的音色与Dougall冷静旋律之间持续拉扯。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "The WAEVE资料页",
+      "url": "https://en.wikipedia.org/wiki/The_Waeve"
+    },
+    {
+      "label": "Graham Coxon与Rose Elinor Dougall访谈",
+      "url": "https://www.nme.com/news/music/graham-coxon-rose-elinor-dougall-interview-debut-album-the-waeve-blur-reunion-3304889"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e6e16ae8-4867-49f4-a877-30ade1ba58cd"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/20QMfH6fgt9vssg2s5xww6",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000UQOxe0zaHQD",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F52317730"
+  },
   "listens": 7245,
   "listeners": 621,
   "quality": {
-    "score": 28,
-    "templateIntro": true,
+    "score": 70,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/e6e16ae8-4867-49f4-a877-30ade1ba58cd"
-  },
   "edges": [
     {
       "to": "blur",

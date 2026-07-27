@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Holly and The Ivy’s是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：David Gilmour的履历把它与Pink Floyd连接起来。",
+  "intro": "Holly and The Ivy’s并非长期存在的英国乐队，而是The Dream Academy的Nick Laird-Clowes为1981年圣诞单曲临时建立的录音化名。唯一作品《Christmas on 45》借当时流行的medley形式串联圣诞旋律，Pink Floyd吉他手David Gilmour受邀参与吉他录音，B面为《Have Mercy on the Child》；这次小型合作因Gilmour的客席经历进入乐队关系谱，但没有发展出固定阵容。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Pink Floyd Archives单曲与Gilmour客席目录",
+      "url": "https://pinkfloydarchives.com/DUK45ses.htm"
+    },
+    {
+      "label": "Holly and The Ivy’s单曲背景资料",
+      "url": "https://ernienotbert.blogspot.com/2022/12/the-last-saturday-part-26.html?m=0"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5346afba-3bf4-458c-9aa3-50a9061826b2"
+  },
+  "musicLinks": {},
   "listens": 3,
   "listeners": 3,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5346afba-3bf4-458c-9aa3-50a9061826b2"
-  },
   "edges": [
     {
       "to": "pink-floyd",

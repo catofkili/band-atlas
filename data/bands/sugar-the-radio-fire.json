@@ -8,23 +8,34 @@
   "years": "2015–",
   "genres": [],
   "albums": [],
-  "intro": "Sugar & The Radio Fire是来自日本、2015年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：谷口鮪的履历把它与KANA-BOON连接起来。",
+  "intro": "Sugar & The Radio Fire是FM802为2015年春季ACCESS!活动组织的一曲限定歌唱单元。スガ シカオ创作、制作《Music Train ～春の魔術師～》，并与大原櫻子、川上洋平、斎藤宏介、谷口鮪、HARUNA、光村龍哉、山村隆太七位歌手轮流接唱；横山裕章负责编曲，另有白根賢一、根岸孝旨、長田進等录音乐手。署名只服务于这首电台活动歌，不代表八位歌手另组常设乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "音楽ナタリー完整歌手、制作与乐手名单",
+      "url": "https://natalie.mu/music/news/141313"
+    },
+    {
+      "label": "FM802历年ACCESS!官方档案",
+      "url": "https://funky802.com/access/2023/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/273c4ed0-4fd3-4e23-b234-cfa1fd63591a"
+  },
+  "musicLinks": {},
   "listens": 2,
   "listeners": 1,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/273c4ed0-4fd3-4e23-b234-cfa1fd63591a"
-  },
   "edges": [
     {
       "to": "possession-80-2-por-cento",

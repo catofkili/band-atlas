@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "VIVA LA J-ROCK ANTHEMS是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：伊澤一葉、亀田誠治的履历把它与東京事変连接起来。",
+  "intro": "VIVA LA J-ROCK ANTHEMS是VIVA LA ROCK音乐节自2015年起设置的限定house band，任务是在音乐节现场由不同主唱重唱日本摇滚名曲。乐队以制作人兼贝斯手亀田誠治为中心，典型阵容包括加藤隆志、津野米咲、伊澤一葉与ピエール中野，每届再邀请尾崎世界観、スガ シカオ、斎藤宏介等来宾领唱。它不是拥有自有曲库的常规乐队，而是一套会随年份调整成员、专为“J-rock anthem”现场接力而存在的演出机制。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Fanplus Music限定性质、固定乐手与企划说明",
+      "url": "https://music.fanplus.co.jp/news/201604072868e50ba"
+    },
+    {
+      "label": "Skream 2016年客席主唱报道",
+      "url": "https://skream.jp/news/2016/05/viva-la--rock-2016_viva-la-j-rock-anthems.php"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/53350289-5b36-4df0-8015-f27a07a95fac"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/53350289-5b36-4df0-8015-f27a07a95fac"
-  },
   "edges": [
     {
       "to": "東京事変",

@@ -41,6 +41,12 @@
       "title": "POD"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1166315",
+    "spotify": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001LTg241cQdHH",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F44328"
+  },
   "listens": 522575,
   "listeners": 9623,
   "quality": {

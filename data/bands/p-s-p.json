@@ -12,22 +12,35 @@
     "爵士摇滚"
   ],
   "albums": [],
-  "intro": "P.S.P.是音乐团体，现有资料将其归入融合爵士、爵士融合。理解这个项目的另一条线索是成员关系：Simon Phillips的履历把它与Deep End连接起来。",
+  "intro": "P.S.P.是键盘手Philippe Saisse、鼓手Simon Phillips与贝斯手Pino Palladino三人姓氏首字母组成的器乐超级三重奏。三位长期录音室乐手在2008年日本Billboard Live演出中形成组合，随后以《PSP Live》及2009至2011年的欧洲巡演展示默契；音乐以jazz fusion为轴，同时吸收funk、rock、pop与古典写法，没有主唱，也没有用炫技掩盖三人之间快速的节奏应答。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Philippe Saisse官网P.S.P.阵容与曲风介绍",
+      "url": "https://philippesaisse.com/music"
+    },
+    {
+      "label": "New Morning演出与成团资料",
+      "url": "https://www.newmorning.com/20110324-136-p-s-p-.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6f8212b8-153d-4c20-8394-c2c0d9a8966b"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F37501373"
+  },
   "listens": 27,
   "listeners": 9,
   "quality": {
-    "score": 19,
-    "templateIntro": true,
+    "score": 61,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6f8212b8-153d-4c20-8394-c2c0d9a8966b"
-  },
   "edges": [
     {
       "to": "deep-end",

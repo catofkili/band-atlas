@@ -64,6 +64,11 @@
       "title": "Special Kiss"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1758080234",
+    "spotify": "https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F50504214"
+  },
   "listens": 6697,
   "listeners": 39,
   "quality": {

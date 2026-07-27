@@ -63,6 +63,11 @@
       "title": "零"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/256908529",
+    "spotify": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F18705"
+  },
   "listens": 85361,
   "listeners": 2566,
   "quality": {

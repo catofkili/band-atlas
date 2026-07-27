@@ -15,22 +15,37 @@
       "year": 2013
     }
   ],
-  "intro": "Jazz-Iz-Christ是来自美国、2012年至今活跃的音乐团体，现有资料将其归入爵士乐。现有唱片目录收录了2013年的《Jazz‐Iz‐Christ》。理解这个项目的另一条线索是成员关系：Serj Tankian的履历把它与System of a Down连接起来。从System of a Down沿关系网点进来时，《Jazz‐Iz‐Christ》可以作为试听入口。",
+  "intro": "Jazz-Iz-Christ是System of a Down主唱Serj Tankian在2012年前后发起的爵士合作项目。2013年同名专辑汇集钢琴家Tigran Hamasyan、长笛手Valeri Tolstov、小号手Tom Duprey，以及Stewart Copeland等客席乐手；十五首作品大多为器乐曲，Tankian只在其中四首演唱。音乐从现代爵士出发，穿过亚美尼亚与中东色彩、前卫摇滚和电子制作，显示Tankian在重金属主唱身份之外更偏作曲与策划的一面。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Serj Tankian官方网站项目介绍",
+      "url": "https://serjtankian.com/pages/jazz-iz-christ"
+    },
+    {
+      "label": "Jazz-Iz-Christ资料",
+      "url": "https://en.wikipedia.org/wiki/Jazz-Iz-Christ"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c1babec3-803e-4601-8822-9c8a30bc9d9b"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/0q9cWNr6imU4Nl2X6F9Z2M",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004fWJd21q7puG",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F49889769"
+  },
   "listens": 787,
   "listeners": 97,
   "quality": {
-    "score": 16,
-    "templateIntro": true,
+    "score": 58,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c1babec3-803e-4601-8822-9c8a30bc9d9b"
-  },
   "edges": [
     {
       "to": "system-of-a-down",

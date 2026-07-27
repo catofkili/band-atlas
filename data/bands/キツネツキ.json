@@ -12,6 +12,10 @@
   "albums": [],
   "intro": "Kitsune Tsuki是日本的一支双人音乐组合。自称“超级独立乐队”",
   "introLang": "zh",
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001bDP4g2142JP",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F13497829"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {

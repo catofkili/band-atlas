@@ -17,22 +17,33 @@
       "year": 2009
     }
   ],
-  "intro": "Hawk是来自洛杉矶、1984年至今活跃的音乐团体。现有唱片目录可从1986年的《Hawk》一路听到2009年的《Let the Metal Live》。理解这个项目的另一条线索是成员关系：Lonnie Vencent、Marq Torien、Charlie Wayne Morrill的履历把它与BulletBoys连接起来。从BulletBoys沿关系网点进来时，《Hawk》可以作为试听入口。",
+  "intro": "Hawk是1984年前后活跃于洛杉矶Sunset Strip场景的重金属乐队，吉他手Doug Marks是核心人物，阵容曾有后来加入BulletBoys的Lonnie Vencent与Marq Torien等人。1986年同名专辑以双吉他、尖亮主唱和竞技场式副歌连接传统美式金属与即将兴盛的glam metal。乐队未获得同时代大团的商业突破，Marks后来以Metal Method吉他教学闻名；2009年《Let the Metal Live》则整理并延续了这段旧录音历史。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz乐队与发行资料",
+      "url": "https://musicbrainz.org/artist/3eccd071-157b-4776-afd3-4c6f82cc8036"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3eccd071-157b-4776-afd3-4c6f82cc8036"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/1grAxBZN8Yp0YOQN9vFffJ",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000a2ooB09KPYP",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F37182231"
+  },
   "listens": 281,
   "listeners": 36,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/3eccd071-157b-4776-afd3-4c6f82cc8036"
-  },
   "edges": [
     {
       "to": "bulletboys",

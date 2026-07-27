@@ -8,22 +8,29 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Beatbox 金牌一條順是来自香港的音乐团体。理解这个项目的另一条线索是成员关系：6號的履历把它与RubberBand连接起来。",
+  "intro": "Beatbox 金牌一條順是2008年为歌曲《年年有今日》集合的香港一次性人声组合，主体由同属金牌娱乐的古巨基、侧田、方力申、小肥与RubberBand主唱“6号”缪浩昌组成，并邀请beatbox歌手INK参与。录音不用常规乐器，而以人声模仿节奏和伴奏，小肥负责弦乐声部与和音；它更接近一首歌限定的a cappella企划，而不是持续发行、巡演的固定乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "小肥履历中的金牌一條順阵容与录音方式",
+      "url": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%82%A5"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bacf9116-2f48-4af4-a056-c2b49dedda03"
+  },
+  "musicLinks": {},
   "listens": 4,
   "listeners": 3,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/bacf9116-2f48-4af4-a056-c2b49dedda03"
-  },
   "edges": [
     {
       "to": "rubberband",

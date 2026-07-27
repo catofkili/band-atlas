@@ -17,22 +17,35 @@
       "year": 2021
     }
   ],
-  "intro": "Dee Gees是来自美国的音乐团体，现有资料将其归入迪斯科、流行音乐。现有唱片目录收录了2021年的《Hail Satin》。理解这个项目的另一条线索是成员关系：Pat Smear、Nate Mendel、Rami Jaffee的履历把它与Foo Fighters连接起来。从Foo Fighters沿关系网点进来时，《Hail Satin》可以作为试听入口。",
+  "intro": "Dee Gees是Foo Fighters在2021年启用的迪斯科化身，团名既戏仿Bee Gees，也借用了Dave Grohl姓名首字母。为唱片店日发行的《Hail Satin》一面收录四首Bee Gees作品和一首Andy Gibb作品的翻唱，Grohl以高假声进入《You Should Be Dancing》等歌曲；另一面则放入Foo Fighters《Medicine at Midnight》的现场版本。这个短期项目不是另组阵容，而是同一支乐队用录音室乐趣和舞台化幽默向Gibb兄弟及70年代迪斯科致敬。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Sony Music《Hail Satin》公告",
+      "url": "https://www.sonymusic.ca/press_release/the-dee-gees-present-hail-satin"
+    },
+    {
+      "label": "《Hail Satin》资料",
+      "url": "https://en.wikipedia.org/wiki/Hail_Satin"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d4bac396-867c-431d-8cec-ef508eee0204"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/0mCTPQ5oa1lbPvbw4kc0eX"
+  },
   "listens": 5461,
   "listeners": 850,
   "quality": {
-    "score": 30,
-    "templateIntro": true,
+    "score": 72,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d4bac396-867c-431d-8cec-ef508eee0204"
-  },
   "edges": [
     {
       "to": "foo-fighters",

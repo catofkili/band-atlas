@@ -8,22 +8,35 @@
   "years": "1986–1990",
   "genres": [],
   "albums": [],
-  "intro": "Lunacy是来自日本、1986至1990年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：INORAN、J、河村隆一、真矢的履历把它与LUNA SEA连接起来。",
+  "intro": "LUNACY是LUNA SEA在正式采用现名之前的早期名称。J与INORAN从1986年开始组队，1989年RYUICHI、SUGIZO和真矢加入后形成此后长期不变的五人阵容，并以町田Play House为据点发展；1990年改名LUNA SEA、翌年获Extasy Records签约。后来五人仍多次在“黑服限定GIG”等特殊场合恢复LUNACY名义，所以这里记录的是同一支乐队的地下时期，而不是另一个旁支团体。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "LUNA SEA官方网站早期历史",
+      "url": "https://www.lunasea.jp/biography"
+    },
+    {
+      "label": "Extasy Records签约与改名资料",
+      "url": "https://en.wikipedia.org/wiki/Extasy_Records"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/97e8202a-5a4f-490c-b678-aabad8d8f8e2"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F48278927"
+  },
   "listens": 5,
   "listeners": 2,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/97e8202a-5a4f-490c-b678-aabad8d8f8e2"
-  },
   "edges": [
     {
       "to": "luna-sea",

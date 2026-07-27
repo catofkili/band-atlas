@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Raw Dog是音乐团体。理解这个项目的另一条线索是成员关系：Dave Ogilvie的履历把它与Nine Inch Nails连接起来。",
+  "intro": "Raw Dog是Skinny Puppy主唱Nivek Ogre与长期制作人Dave “Rave” Ogilvie合作的短命工业音乐旁支，现存资料显示Ogilvie的伴侣Rosie也参与了录音。项目没有发展出完整的常规乐队生涯，流传的同名素材延续了Skinny Puppy体系里的电子噪音、采样和受处理人声，却把重心放在少数成员的录音室试验上；它应被视为Ogre与Ogilvie合作网络中的小型支线，而非Skinny Puppy正式专辑时期的替代阵容。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Raw Dog录音与成员线索",
+      "url": "https://www.reddit.com/r/industrialmusic/comments/1s3lfno/raw_dog_raw_dog/"
+    },
+    {
+      "label": "Dave Ogilvie制作人与合作履历",
+      "url": "https://en.wikipedia.org/wiki/Dave_Ogilvie"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/87b35fa8-a602-4a8c-abc1-5a46fb85d8f8"
+  },
+  "musicLinks": {},
   "listens": 22,
   "listeners": 11,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/87b35fa8-a602-4a8c-abc1-5a46fb85d8f8"
-  },
   "edges": [
     {
       "to": "nine-inch-nails",

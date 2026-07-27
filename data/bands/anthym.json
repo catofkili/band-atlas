@@ -13,22 +13,35 @@
       "year": 2002
     }
   ],
-  "intro": "Anthym是来自加拿大的音乐团体。现有唱片目录收录了2002年的《Masks of Sanity》。理解这个项目的另一条线索是成员关系：Jack Irons的履历把它与Red Hot Chili Peppers连接起来。从Red Hot Chili Peppers沿关系网点进来时，《Masks of Sanity》可以作为试听入口。",
+  "intro": "Anthym是Alain Johannes、Hillel Slovak与Jack Irons在洛杉矶Fairfax High School时期组建的少年乐队，前身名为Chain Reaction，Todd Strassman离开后由刚开始学贝斯的Flea接替。乐队从翻唱Kiss、Queen逐步转向原创，并在1978年校内Battle of the Bands取得第二名；约1980年又改名What Is This?，因此Anthym本身没有正式专辑，现存《Paradox》等盒式demo记录的是Red Hot Chili Peppers与Eleven核心音乐人尚未分流前的共同起点。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Guitar World早期demo、成员与改名历史",
+      "url": "https://www.guitarworld.com/news/alain-johannes-anthym"
+    },
+    {
+      "label": "Jack Irons访谈与校内比赛历史",
+      "url": "https://drummagazine.com/jack-irons-alt-rock-anti-hero/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/eb952463-8a4b-4475-8a73-cb31f755d3e6"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F49374829"
+  },
   "listens": 37,
   "listeners": 9,
   "quality": {
-    "score": 12,
-    "templateIntro": true,
+    "score": 54,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/eb952463-8a4b-4475-8a73-cb31f755d3e6"
-  },
   "edges": [
     {
       "to": "eleven",

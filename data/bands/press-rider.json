@@ -13,23 +13,30 @@
       "year": 1986
     }
   ],
-  "intro": "PRESS RIDER是来自日本的音乐团体。现有唱片目录收录了1986年的《ペリカンロード～クラブ・カルーチャ～ 音楽集》。理解这个项目的另一条线索是成员关系：松本孝弘的履历把它与B’z连接起来。从B’z沿关系网点进来时，《ペリカンロード～クラブ・カルーチャ～ 音楽集》可以作为试听入口。",
+  "intro": "PRESS RIDER是1980年代为五十嵐浩一漫画《ペリカンロード》相关唱片集结的日本录音室乐手组合，而非固定巡演乐队。参加者横跨松原秀樹、和泉宏隆、角田順、笹路正徳、西村麻聡、江口信夫、松本孝弘、土方隆行等一线session musicians；不同阵容先后录制《ペリカンロードII》《III》及1986年《クラブ・カルーチャ 音楽集》。这些image album以fusion、摇滚和器乐流行描绘漫画的摩托车世界，也留下多位乐手成名前后的交叉节点。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "VGMdb完整参与成员与《ペリカンロード》唱片记录",
+      "url": "https://vgmdb.net/artist/14038"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bab6ba42-16d4-4d14-9e61-eaf6b211de55"
+  },
+  "musicLinks": {},
   "listens": 1,
   "listeners": 1,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/bab6ba42-16d4-4d14-9e61-eaf6b211de55"
-  },
   "edges": [
     {
       "to": "b-z",

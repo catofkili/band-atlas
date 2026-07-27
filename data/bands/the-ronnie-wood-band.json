@@ -16,6 +16,10 @@
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/f80bf66a-c771-48ef-b1d3-ed76c433675a"
   },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001fTRPv403seg",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F48285790"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {

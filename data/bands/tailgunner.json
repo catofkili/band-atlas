@@ -13,22 +13,33 @@
       "year": 2000
     }
   ],
-  "intro": "Tailgunner是来自英国、2000年至今活跃的音乐团体。现有唱片目录收录了2000年的《Tailgunner》。理解这个项目的另一条线索是成员关系：Noel Gallagher的履历把它与Oasis连接起来。从Oasis沿关系网点进来时，《Tailgunner》可以作为试听入口。",
+  "intro": "这里的Tailgunner是Oasis早期制作人兼现场音响师Mark Coyle在2000年前后组建的英国摇滚乐队，与后来同名重金属团无关。Noel Gallagher为2000年同名专辑录制鼓，但在正式现场活动前离开；Coyle担任主唱并把厚重、直接的pub rock与迷幻制作带上舞台。名人客席令它常被当作Gallagher副项目，实际核心始终是Coyle第一次从控制台走到台前建立自己的乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "The Guardian同期乐队评论",
+      "url": "https://www.theguardian.com/culture/2000/sep/22/artsfeatures1"
+    },
+    {
+      "label": "NME首演报道",
+      "url": "https://www.nme.com/news/music/tailgunner-1394590"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2c3cbf70-da1f-4abe-a905-011e717f96bb"
+  },
+  "musicLinks": {},
   "listens": 61,
   "listeners": 12,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/2c3cbf70-da1f-4abe-a905-011e717f96bb"
-  },
   "edges": [
     {
       "to": "oasis",

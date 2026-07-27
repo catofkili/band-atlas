@@ -64,6 +64,10 @@
       "title": "飛魚"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/345954909",
+    "spotify": "https://open.spotify.com/artist/3WYT2b8pOLsLsqSaoWYr7U"
+  },
   "listens": 21481,
   "listeners": 472,
   "quality": {

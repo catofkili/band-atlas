@@ -8,22 +8,29 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "ねらわれた学園是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：向井秀徳的履历把它与NUMBER GIRL连接起来。",
+  "intro": "ねらわれた学園是ZAZEN BOYS的向井秀徳与銀杏BOYZ的峯田和伸为2009年电影《少年メリケンサック》临时组成的双人单元。两人翻唱松任谷由实《守ってあげたい》作为片尾曲，并与电影中的虚构乐队少年メリケンサック做成split single；团名借用同名科幻小说和电影的文化记忆，实际只服务于这次翻唱与宣传，是两位不同时代日本另类摇滚作者的一次短暂交会。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "音楽ナタリー组合、翻唱与电影资料",
+      "url": "https://natalie.mu/music/news/13699"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4370e72d-6bec-45c8-932e-8629a38cceb9"
+  },
+  "musicLinks": {},
   "listens": 3,
   "listeners": 2,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/4370e72d-6bec-45c8-932e-8629a38cceb9"
-  },
   "edges": [
     {
       "to": "zazen-boys",

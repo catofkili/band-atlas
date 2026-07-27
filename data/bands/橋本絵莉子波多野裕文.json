@@ -13,22 +13,35 @@
       "year": 2017
     }
   ],
-  "intro": "橋本絵莉子波多野裕文是来自日本、2016年至今活跃的音乐团体。现有唱片目录收录了2017年的《橋本絵莉子波多野裕文》。理解这个项目的另一条线索是成员关系：波多野裕文的履历把它与People In The Box连接起来。从People In The Box沿关系网点进来时，《橋本絵莉子波多野裕文》可以作为试听入口。",
+  "intro": "橋本絵莉子波多野裕文是チャットモンチー的橋本絵莉子与People In The Box主唱波多野裕文在2016年前后组成的二人合作。2017年同名专辑让两人交换作词与作曲：極其私人的文字被交给对方谱曲，再由两种声线、吉他、钢琴与克制编曲重新解释，故意离开各自主团熟悉的写歌反射。项目名称直接并列两人姓名，也准确说明其核心不是固定乐队人格，而是两位创作者互换视角的实验。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "二人项目官方网站",
+      "url": "https://www.yabaiojisan.com/sp/"
+    },
+    {
+      "label": "Tower Records专辑介绍",
+      "url": "https://tower.jp/item/4496601"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4aa637c3-7bf2-4e30-8484-5271c9aca634"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12379054"
+  },
   "listens": 301,
   "listeners": 9,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/4aa637c3-7bf2-4e30-8484-5271c9aca634"
-  },
   "edges": [
     {
       "to": "people-in-the-box",

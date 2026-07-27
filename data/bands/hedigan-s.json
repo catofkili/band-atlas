@@ -8,22 +8,35 @@
   "years": "2024–",
   "genres": [],
   "albums": [],
-  "intro": "Hedigan's是来自日本、2024年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：YONCE的履历把它与Suchmos连接起来。",
+  "intro": "Hedigan's是Suchmos主唱兼吉他手河西“YONCE”洋介另行组建的五人乐队，成员还包括吉他手栗田将治、键盘手栗田祐輔、贝斯手本村拓磨与鼓手大内岳。2024年发行首张EP《2000JPY》、登上FUJI ROCK等音乐节，并于11月推出十曲首专《Chance》；2025年又完成首次全国单独巡演。它让YONCE以更松弛、可共同即兴的编制探索摇滚与灵魂律动，是持续发展的新团，而不是Suchmos休止期的临时替名。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Sony Music官方五人阵容、首专与巡演履历",
+      "url": "https://www.sonymusic.co.jp/artist/Hedigans/profile/"
+    },
+    {
+      "label": "NiEW对成团过程与共同演奏方式的专访",
+      "url": "https://niewmedia.com/en/artists/hedigans/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/99d74e46-7d40-4cff-8fbf-90db8132e7ba"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F59062763"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/99d74e46-7d40-4cff-8fbf-90db8132e7ba"
-  },
   "edges": [
     {
       "to": "suchmos",

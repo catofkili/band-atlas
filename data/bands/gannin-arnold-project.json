@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Gannin Arnold Project是音乐团体。理解这个项目的另一条线索是成员关系：Gannin Arnold的履历把它与Taylor Hawkins & The Coattail Riders连接起来。",
+  "intro": "Gannin Arnold Project是吉他手Gannin Arnold与Drum Channel合作的器乐演奏及教学项目。Arnold联同贝斯手Tim Landers、兼奏吉他与贝斯的Billy Mohler录制同一批jazz-rock／fusion曲目，再分别邀请Taylor Hawkins、Jimmy Chamberlin、Terry Bozzio、Gary Novak与Simon Phillips打鼓；2011年双DVD《5 World Class Drummers》让五人都演奏《Not from Here》。项目的核心不是固定鼓手阵容，而是直观展示不同鼓手如何改变同一首歌的重心、音色与时间感。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Drum Channel五位鼓手与同曲比较说明",
+      "url": "https://www.drumchannel.com/thecourses/listen-learn-and-play-with-5-world-class-drummers/"
+    },
+    {
+      "label": "Modern Drummer双DVD内容与演奏评论",
+      "url": "https://www.moderndrummer.com/2011/10/gannin-arnold-project5-world-class-drummers/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b1bf128a-0806-420d-817b-e8e29e4b8262"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/b1bf128a-0806-420d-817b-e8e29e4b8262"
-  },
   "edges": [
     {
       "to": "taylor-hawkins-the-coattail-riders",

@@ -8,22 +8,33 @@
   "years": "1987–1990",
   "genres": [],
   "albums": [],
-  "intro": "Emperor是来自日本、1987至1990年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：高井寿、宇高光的履历把它与X JAPAN连接起来。",
+  "intro": "这里的Emperor是1987至1990年前后活动的日本地下重金属乐队，与挪威同名黑金属乐队无关。高井寿、B-HIKARU（宇高光）、大谷慎吾等成员在此交会，留下收录《The Passage to Hade’s》《Dead or Alive》的两曲demo，却没有发展到正式专辑阶段；有限的现场与录音资料，使它今天主要作为X JAPAN、UNITED及Dementia相关音乐人早期履历中的一条短支线被追溯。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "日本地下金属演出与成员资料",
+      "url": "https://plaza.rakuten.co.jp/japameta/diary/202208070007/"
+    },
+    {
+      "label": "高井寿履历与Emperor demo资料",
+      "url": "https://www.metal-archives.com/artists/Hisashi_Takai/36473"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9789915d-d16a-4ce8-80d3-63eda0b44e67"
+  },
+  "musicLinks": {},
   "listens": 51,
   "listeners": 10,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/9789915d-d16a-4ce8-80d3-63eda0b44e67"
-  },
   "edges": [
     {
       "to": "x-japan",

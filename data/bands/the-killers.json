@@ -63,6 +63,12 @@
       "title": "年少輕狂"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/6483093",
+    "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000knqnm1Gggj0",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F101991"
+  },
   "listens": 1791716,
   "listeners": 21676,
   "quality": {

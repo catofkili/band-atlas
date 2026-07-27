@@ -8,22 +8,33 @@
   "years": "2017–",
   "genres": [],
   "albums": [],
-  "intro": "コーンsuginAmi是来自日本、2017年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：ミヤ的履历把它与MUCC连接起来。",
+  "intro": "コーンsuginAmi是MUCC的ミヤ为跨团session活动组织的Korn翻唱乐队，属于他持续使用“杉並”后缀的重型摇滚致敬系列。2017年PARTY ZOO阵容由ROACH的taama主唱，ミヤ与アルルカン的奈緒弹吉他，DEZERT的Sacchan和SORA负责贝斯、鼓；五人借原团的低沉riff、节奏冲击与舞台形象完成一次限定复刻。这个名称并非Korn官方日本支部，也没有独立原创唱片目录。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MUCC官方存档PARTY ZOO完整阵容",
+      "url": "https://archive.55-69.com/category/news"
+    },
+    {
+      "label": "音楽ナタリー跨团session阵容报道",
+      "url": "https://natalie.mu/music/news/246154"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f047d705-0445-4c0c-995a-199124430ee7"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f047d705-0445-4c0c-995a-199124430ee7"
-  },
   "edges": [
     {
       "to": "mucc",

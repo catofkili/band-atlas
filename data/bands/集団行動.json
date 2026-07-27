@@ -25,6 +25,11 @@
   ],
   "intro": "“集体行动”是一支成立于2017年的日本乐队。所属厂牌是维克多娱乐旗下的CONNECTONE。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1247357522",
+    "spotify": "https://open.spotify.com/artist/3LVi8iTjILUg2YZDvJcqCW",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12504169"
+  },
   "listens": 1199,
   "listeners": 38,
   "quality": {

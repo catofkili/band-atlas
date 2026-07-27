@@ -13,22 +13,36 @@
       "year": 2003
     }
   ],
-  "intro": "Asoto Union是来自韩国、2001至2005年间活跃的音乐团体。现有唱片目录收录了2003年的《Sound Renovates a Structure》。理解这个项目的另一条线索是成员关系：김반장、윤갑열的履历把它与Windy City连接起来。从Windy City沿关系网点进来时，《Sound Renovates a Structure》可以作为试听入口。",
+  "intro": "Asoto Union是2001至2005年活跃的韩国funk与soul乐队，以主唱兼鼓手김반장为核心。唯一专辑《Sound Renovates a Structure》于2003年发行，把70年代温暖录音质感、舞动低音、铜管、scat与即兴结合，乐队自称这种声音为“DAZZ”，即danceable jazz；《Think About’chu》后来成为韩国neo-soul的重要代表作。解散后，김반장与部分成员组成Windy City，使这张独作也成为韩国本土reggae、funk发展的一处关键前史。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "KBS WORLD专辑介绍",
+      "url": "https://world.kbs.co.kr/service/contents_view.htm?board_seq=391209&id=&lang=j&menu_cate=music&page=1"
+    },
+    {
+      "label": "专辑发行与声音介绍",
+      "url": "https://m.yes24.com/Goods/Detail/412700"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b71a2d29-d52f-4bd3-8311-1144837509ec"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F126225",
+    "apple": "https://music.apple.com/kr/artist/%EC%95%84%EC%86%8C%ED%86%A0-%EC%9C%A0%EB%8B%88%EC%98%A8/1593806198"
+  },
   "listens": 265,
   "listeners": 48,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/b71a2d29-d52f-4bd3-8311-1144837509ec"
-  },
   "edges": [
     {
       "to": "windy-city",

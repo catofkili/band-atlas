@@ -40,6 +40,12 @@
   ],
   "intro": "Samiam（发音为“sam-I-am”）是一支来自加利福尼亚州伯克利的美国朋克摇滚乐队，自1988年起活跃至今。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/4620142",
+    "spotify": "https://open.spotify.com/artist/7eNSfWxOEWP2B2QQgHGBoo",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001o9eEv3B4WFX",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F75398"
+  },
   "listens": 41291,
   "listeners": 1187,
   "quality": {

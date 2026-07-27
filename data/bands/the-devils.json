@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Devils是来自韩国的音乐团体。理解这个项目的另一条线索是成员关系：손경호的履历把它与3호선 버터플라이连接起来。",
+  "intro": "这里的The Devils是为2008年韩国电影《고고70》（《Go Go 70s》）组成并实际演奏的银幕乐队，不是同名欧美团体。曹承佑担任主唱，车承佑弹吉他，孙京镐打鼓，另有贝斯、萨克斯与小号，演员和职业乐手为避免假弹对嘴提前数月排练，并以“曹承佑与The Devils”发行电影宣传单曲。项目重现1970年代韩国夜总会的灵魂、放克与go-go现场，也让电影角色乐队获得了可独立查证的录音身份。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "韩国电影资料馆《Go Go 70s》角色与完整乐队阵容",
+      "url": "https://www.koreafilm.or.kr/library/search/video/00063535"
+    },
+    {
+      "label": "体育京乡对六人编制、现场排练与数字单曲的报道",
+      "url": "https://sports.khan.co.kr/article/200808192155376"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d45cb0dc-b795-4fb1-aec0-a469ae2f317b"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F54381"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d45cb0dc-b795-4fb1-aec0-a469ae2f317b"
-  },
   "edges": [
     {
       "to": "3호선-버터플라이",

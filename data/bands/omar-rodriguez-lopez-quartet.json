@@ -13,23 +13,34 @@
       "year": 2010
     }
   ],
-  "intro": "Omar Rodriguez‐Lopez Quartet是来自美国的音乐团体。现有唱片目录收录了2010年的《Sepulcros de miel》。理解这个项目的另一条线索是成员关系：John Frusciante、Omar Rodríguez‐López、Juan Alderete、Marcel Rodriguez‐Lopez的履历把它与The Mars Volta连接起来。从The Mars Volta沿关系网点进来时，《Sepulcros de miel》可以作为试听入口。",
+  "intro": "Omar Rodriguez‐Lopez Quartet是Omar Rodríguez-López围绕The Mars Volta人脉组织的一次录音阵容，成员包括贝斯手Juan Alderete、鼓手Marcel Rodríguez-López和吉他手John Frusciante。2010年的唯一专辑《Sepulcros de miel》由长段即兴录音构成，几乎不依赖传统主歌副歌，而让两把吉他在噪音、延迟与旋律碎片之间追逐，节奏组则持续改变重心。它既像Omar庞大个人唱片目录中的一间实验室，也保留了The Mars Volta现场最自由、最不受歌曲结构约束的一面。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Sepulcros de Miel》资料",
+      "url": "https://en.wikipedia.org/wiki/Sepulcros_de_Miel"
+    },
+    {
+      "label": "Omar Rodríguez-López作品发行资料",
+      "url": "https://axis.wmg.com/h/sellsheets/ADA_11224_11924.pdf"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/41e755a6-acf2-42d5-a043-c792112b5df4"
+  },
+  "musicLinks": {},
   "listens": 2840,
   "listeners": 87,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/41e755a6-acf2-42d5-a043-c792112b5df4"
-  },
   "edges": [
     {
       "to": "the-mars-volta",

@@ -8,22 +8,33 @@
   "years": "1985–",
   "genres": [],
   "albums": [],
-  "intro": "Mick Jagger & The Brothers of Sodom是来自伦敦、1985年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：Lisa Fischer的履历把它与Nine Inch Nails连接起来。",
+  "intro": "Mick Jagger & The Brothers of Sodom是Mick Jagger在1988年个人巡演期间用于秘密暖场演出的化名，而非自1985年起独立发展的另一支乐队。Jagger与吉他手Joe Satriani、Jimmy Rip、贝斯手Doug Wimbish、鼓手Simon Phillips等巡演成员，在澳大利亚小型场地以此名演奏Rolling Stones旧作与blues翻唱；键盘、和声阵容还包括Phil Ashley、Richard Cottle、Bernard Fowler和Lisa Fischer。化名让体育场级巡演班底回到酒吧环境即兴热身，演出结束后便随巡演告终。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Universal Music Mick Jagger 1988年巡演完整阵容",
+      "url": "https://www.universal-music.co.jp/mick-jagger/biography/"
+    },
+    {
+      "label": "Guitar World Brothers of Sodom化名与核心阵容说明",
+      "url": "https://www.guitarworld.com/artists/forgotten-guitar-joe-satriani-and-mick-jagger-play-little-red-rooster-bar-1988-video"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/319500d8-9807-49a6-9b97-8f4db9dbfb80"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/319500d8-9807-49a6-9b97-8f4db9dbfb80"
-  },
   "edges": [
     {
       "to": "change",

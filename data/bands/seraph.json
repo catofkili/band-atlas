@@ -11,22 +11,35 @@
     "视觉系"
   ],
   "albums": [],
-  "intro": "SERAPH是来自日本、2017年至今活跃的音乐团体，现有资料将其归入独奏、视觉系。理解这个项目的另一条线索是成员关系：Shinya的履历把它与DIR EN GREY连接起来。",
+  "intro": "SERAPH是DIR EN GREY鼓手Shinya与钢琴兼主唱Moa于2017年公开的日本二人项目。出道单曲《Génesi》以钢琴、交响编排、清澈女声和Shinya精密而克制的鼓组成幻想性声音，后来《Kreis》又成为手塚治虫《火之鸟》主题解谜企划音乐；项目以年度音乐会和影像叙事持续发展，和DIR EN GREY的重型五人编制保持清楚距离。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "SERAPH官方网站阵容、作品与活动年表",
+      "url": "https://seraph-official.com/"
+    },
+    {
+      "label": "音楽ナタリー二人组公开报道",
+      "url": "https://natalie.mu/music/news/231473"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d1624165-fab1-45c9-98f0-b1e956adc1c9"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F432125"
+  },
   "listens": 25,
   "listeners": 6,
   "quality": {
-    "score": 14,
-    "templateIntro": true,
+    "score": 56,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d1624165-fab1-45c9-98f0-b1e956adc1c9"
-  },
   "edges": [
     {
       "to": "dir-en-grey",

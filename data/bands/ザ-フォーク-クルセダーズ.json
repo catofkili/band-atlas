@@ -52,6 +52,12 @@
       "title": "水虫の唄"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/905949108",
+    "spotify": "https://open.spotify.com/artist/1HWfI9faTvARWB1e14Dn8b",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001lTPjL0DThDI",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F21505"
+  },
   "listens": 84,
   "listeners": 15,
   "quality": {

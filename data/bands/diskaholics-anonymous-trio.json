@@ -17,22 +17,36 @@
       "year": 2006
     }
   ],
-  "intro": "Diskaholics Anonymous Trio是音乐团体。现有唱片目录可从2001年的《Diskaholics Anonymous Trio》一路听到2006年的《Weapons of Ass Destruction》。理解这个项目的另一条线索是成员关系：Mats Gustafsson的履历把它与Original Silence连接起来。从Original Silence沿关系网点进来时，《Diskaholics Anonymous Trio》可以作为试听入口。",
+  "intro": "Diskaholics Anonymous Trio由三位著名唱片收藏者兼即兴音乐人组成：Thurston Moore弹吉他，Jim O’Rourke操作合成器与电脑，Mats Gustafsson演奏萨克斯及多种簧管。2000年瑞典Ystad的现场形成2001年同名专辑，随后日本巡演录音《Weapons of Ass Destruction》继续让电吉他反馈、电子纹理与自由吹奏在长篇结构中彼此让位。团名戏称三人对唱片的共同痴迷，音乐却并非收藏趣味的拼贴，而是以控制音量、耐心留白和瞬间爆发取得异常平衡的free-improv三角。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Mats Gustafsson官方Bandcamp阵容与录音资料",
+      "url": "https://gustafsson1.bandcamp.com/album/diskaholics-anonymous-trio"
+    },
+    {
+      "label": "Pitchfork《Weapons of Ass Destruction》评论",
+      "url": "https://pitchfork.com/reviews/albums/11726-weapons-of-ass-destruction-live-in-japan-v1/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f37c738e-a2dc-45ce-8a7c-385fd1535d03"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003bY3sa0ft3qU",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F688565"
+  },
   "listens": 50,
   "listeners": 20,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f37c738e-a2dc-45ce-8a7c-385fd1535d03"
-  },
   "edges": [
     {
       "to": "original-silence",

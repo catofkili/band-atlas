@@ -8,23 +8,34 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Midwest Vikings是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：チバユウスケ的履历把它与thee michelle gun elephant连接起来。",
+  "intro": "THE MIDWEST VIKINGS是チバユウスケ与クハラカズユキ等人在2005年为J联赛FC东京组建的覆面应援摇滚项目，成员以LACOSTE、HANG TEN等服装品牌式化名出现。唯一单曲《VAMOS TOKYO!》收录两首garage／rockabilly取向的原创应援歌及球场合唱《You’ll Never Walk Alone》的翻唱；它把THEE MICHELLE GUN ELEPHANT、ROSSO的人脉与足球看台文化短暂接通，完成这张唱片后便没有按普通乐队路线继续。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Tower Records《VAMOS TOKYO!》发行与曲风报道",
+      "url": "https://tower.jp/article/news/2005/10/11/100005883"
+    },
+    {
+      "label": "THEE MICHELLE GUN ELEPHANT成员支线资料",
+      "url": "https://en.wikipedia.org/wiki/Thee_Michelle_Gun_Elephant"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d8160c1a-bca5-41b4-8e33-30a71abd017c"
+  },
+  "musicLinks": {},
   "listens": 38,
   "listeners": 2,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d8160c1a-bca5-41b4-8e33-30a71abd017c"
-  },
   "edges": [
     {
       "to": "thee-michelle-gun-elephant",

@@ -21,22 +21,36 @@
       "year": 2005
     }
   ],
-  "intro": "暮良文王是来自中国、2002年至今活跃的音乐团体。现有唱片目录可从2003年的《暮良文王》一路听到2005年的《祭然品气国》。理解这个项目的另一条线索是成员关系：窦唯的履历把它与黑豹连接起来。从黑豹沿关系网点进来时，《暮良文王》可以作为试听入口。",
+  "intro": "暮良文王是窦唯在2002年前后与键盘手文斌、扬琴兼人声王晓芳展开的实验音乐组合，名称由三人的名字与创作关系组合而来。2003年的同名作品及随后《相相生》《祭然品气国》等录音弱化传统歌曲结构，以扬琴、键盘、人声和即兴织出带中国民乐气息的环境音乐；它也是窦唯从摇滚歌曲进一步转向器乐、即兴与声音景观的重要阶段。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "凤凰文化窦唯合作与音乐风格回顾",
+      "url": "https://culture.ifeng.com/c/7pkgMR2gvxd"
+    },
+    {
+      "label": "Sub Jam中国独立音乐档案",
+      "url": "https://www.subjam.org/wp-content/uploads/2014/12/animal_archives-v1.pdf"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/96ec223b-7915-43c8-b5e5-a84cf366b6db"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0040lTVA31Y10m",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F705006"
+  },
   "listens": 102,
   "listeners": 3,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/96ec223b-7915-43c8-b5e5-a84cf366b6db"
-  },
   "edges": [
     {
       "to": "黑豹",

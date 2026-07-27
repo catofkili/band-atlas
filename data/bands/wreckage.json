@@ -8,22 +8,33 @@
   "years": "1969–1969",
   "genres": [],
   "albums": [],
-  "intro": "Wreckage是来自英国、1969年活跃的音乐团体。理解这个项目的另一条线索是成员关系：Freddie Mercury的履历把它与Queen连接起来。",
+  "intro": "Wreckage是利物浦乐队Ibex在Freddie Bulsara加入后于1969年秋短暂采用的名称；Bulsara后来以Freddie Mercury闻名。现存最重要的声音记录是1969年10月在他Ferry Road住处完成的排练录音，其中包括原创曲《Green》，而乐队在同年11月已告解散；Mercury随后转入Sour Milk Sea，因此Wreckage更像Ibex末期的数周改名，而不是Queen之前一支拥有独立唱片生涯的成熟乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "QueenVault Wreckage历史与录音资料",
+      "url": "https://www.queenvault.com/Wreckage/"
+    },
+    {
+      "label": "Queen官方站Wreckage历史专题",
+      "url": "https://www.queenonline.com/features/a-mystery-in-the-wreckage-fan-feature-by-patrick-lemieux"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/993ea29c-cb1e-4c0f-94d0-c6bd4bd23a72"
+  },
+  "musicLinks": {},
   "listens": 30,
   "listeners": 10,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/993ea29c-cb1e-4c0f-94d0-c6bd4bd23a72"
-  },
   "edges": [
     {
       "to": "queen",

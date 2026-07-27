@@ -8,22 +8,33 @@
   "years": "1985–1986",
   "genres": [],
   "albums": [],
-  "intro": "小島是来自香港、1985至1986年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：黎允文、區新明的履历把它与小島樂隊连接起来。",
+  "intro": "这里的“小島”指1985年成立的香港第一代小島樂隊，由黎允文、商业电台DJ区新明与黄守发组成。三人自行包办相当部分曲、词与编曲，以《小島傳說》《她的心》《種籽》等作品参与开启八十年代中后期香港乐队潮；《她的心》也成为较早打入中文歌曲龙虎榜的本地乐队作品。第一代在1986年《黎明》后因意见分歧结束，黎允文随后另组第二代，因此本条特指最初三人时期。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "小島樂隊第一代阵容与作品资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%B3%B6%E6%A8%82%E9%9A%8A"
+    },
+    {
+      "label": "香港八十年代乐队潮历史回顾",
+      "url": "https://comebacktolove.blogspot.com/2006/08/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a6d9f7f5-9b98-48c6-88c1-d2f9c91a1734"
+  },
+  "musicLinks": {},
   "listens": 9,
   "listeners": 3,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a6d9f7f5-9b98-48c6-88c1-d2f9c91a1734"
-  },
   "edges": [
     {
       "to": "小島樂隊",

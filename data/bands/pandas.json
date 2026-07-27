@@ -8,22 +8,33 @@
   "years": "2017–",
   "genres": [],
   "albums": [],
-  "intro": "PANDAS是来自日本、2017年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：TK的履历把它与凛として時雨连接起来。",
+  "intro": "PANDAS是BOOM BOOM SATELLITES的中野雅之与凛として時雨主唱兼吉他手TK在2017年组成的新项目。两人都深度参与各自乐队的作曲、录音和声音工程，因此这个组合把中野的电子制作与TK尖锐的吉他、歌声放进同一套现场系统。项目先后登上RISING SUN ROCK FESTIVAL与SONICMANIA 2017；现有公开记录主要集中在这两场八月演出，理解它时更适合作为一次明确署名的合作企划，而不是作品众多的常规乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "TK官网两场2017年音乐节与双人署名资料",
+      "url": "https://tkofficial.jp/s/n150/news/list?ct=information&ima=0000&link=ROBO004&page=39"
+    },
+    {
+      "label": "RISING SUN官方项目介绍与两人制作背景",
+      "url": "https://rsr.wess.co.jp/2017/artists/lineup/profile/83"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/adc32825-123a-4e1b-adb1-ffd093a26917"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/adc32825-123a-4e1b-adb1-ffd093a26917"
-  },
   "edges": [
     {
       "to": "ling-tosite-sigure",

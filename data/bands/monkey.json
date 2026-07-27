@@ -13,23 +13,36 @@
       "year": 2008
     }
   ],
-  "intro": "Monkey是来自英国的音乐团体。现有唱片目录收录了2008年的《Journey to the West》。理解这个项目的另一条线索是成员关系：Damon Albarn的履历把它与Blur连接起来。从Blur沿关系网点进来时，《Journey to the West》可以作为试听入口。",
+  "intro": "Monkey是舞台作品《Monkey: Journey to the West》的演奏与唱片项目，由导演陈士争、作曲人Damon Albarn和视觉艺术家Jamie Hewlett共同构思，以《西游记》为蓝本连接杂技、动画、戏剧和音乐。2008年的同名专辑由Albarn制作，集合中国与欧洲的歌手、传统乐器演奏者和现代乐手；声音从五声音阶、锣鼓和吟唱延伸到电子节拍与管弦编排。它与Blur或Gorillaz的联系来自Albarn与Hewlett，但核心是一部跨文化舞台作品，而不是两支乐队的普通旁支。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Journey to the West》官方唱片介绍",
+      "url": "https://www.monkeyjourneytothewest.com/the-album/"
+    },
+    {
+      "label": "Damon Albarn人物报道",
+      "url": "https://time.com/2826278/the-hardest-working-man-in-rock/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/46160439-9999-42b7-b6aa-a8fbdb468282"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001MqIho3Y2YuO"
+  },
   "listens": 8916,
   "listeners": 535,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 12,
-    "templateIntro": true,
+    "score": 54,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/46160439-9999-42b7-b6aa-a8fbdb468282"
-  },
   "edges": [
     {
       "to": "blur",

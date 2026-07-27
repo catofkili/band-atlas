@@ -17,22 +17,36 @@
       "year": 1996
     }
   ],
-  "intro": "Les Claypool and the Holy Mackerel是来自伯克利、1996年活跃的音乐团体，现有资料将其归入实验音乐、放克。现有唱片目录收录了1996年的《Highball With the Devil》。理解这个项目的另一条线索是成员关系：Les Claypool的履历把它与Primus连接起来。从Primus沿关系网点进来时，《Highball With the Devil》可以作为试听入口。",
+  "intro": "Les Claypool and the Holy Mackerel是Primus贝斯手Les Claypool在1996年推出的第一套正式个人乐队名义。专辑《Highball With the Devil》由Claypool主导写作、制作并演奏多种乐器，伙伴们则把贝斯驱动的放克、乡野怪谈式歌词、实验摇滚和即兴段落扩展成一场松散的怪诞歌舞。它只留下这一张核心专辑，却确立了Claypool后来诸多项目的工作方式：阵容可以更换，低音贝斯与人物叙事始终站在音乐正中央。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Les Claypool官方网站作品目录",
+      "url": "https://lesclaypool.com/"
+    },
+    {
+      "label": "《Highball with the Devil》资料",
+      "url": "https://en.wikipedia.org/wiki/Highball_with_the_Devil"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3dd83e1a-7de2-45fe-ae02-e152a077ccfc"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001JZfqw4E7s5I",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F122707367"
+  },
   "listens": 6217,
   "listeners": 489,
   "quality": {
-    "score": 28,
-    "templateIntro": true,
+    "score": 70,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/3dd83e1a-7de2-45fe-ae02-e152a077ccfc"
-  },
   "edges": [
     {
       "to": "primus",

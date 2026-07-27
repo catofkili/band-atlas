@@ -8,23 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Radio Happy Willows是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：TERU的履历把它与GLAY连接起来。",
+  "intro": "Radio Happy Willows是FM802为2024年春季ACCESS!活动组织的一曲限定歌唱单元。SUPER BEAVER的柳沢亮太为《はなむけ》作词作曲，アイナ・ジ・エンド、大橋卓弥、岡野昭仁、片岡健太、サイトウタクヤ、TERU、TOMOO与ヤマサキセイヤ八位歌手接力演唱；トオミヨウ编曲，玉田豊夢、安達貴史、石成正人等完成伴奏。团名只用于这首开局35周年活动歌，并不表示这些主唱组成了常设乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "FM802官方2024 ACCESS!歌曲、歌手与录音乐手名单",
+      "url": "https://funky802.com/access/2024/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cdcfa52e-97ad-4daf-a0d0-9097ec7b05b0"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0039j0Hh0Aj4oz",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F61483767"
+  },
   "listens": 1,
   "listeners": 1,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/cdcfa52e-97ad-4daf-a0d0-9097ec7b05b0"
-  },
   "edges": [
     {
       "to": "glay",

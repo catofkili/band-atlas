@@ -21,6 +21,12 @@ import { layoutGraphOffline } from './lib/layout-graph.mjs';
 const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const OUT_DIR = path.join(root, 'data/bands');
 const TYPES = new Set(['member', 'guest', 'influence', 'feud', 'scene']);
+const MUSIC_LINK_PATTERNS = {
+  qq: /^https:\/\/i\.y\.qq\.com\/n2\/m\/share\/details\/singer\.html\?ADTAG=newyqq\.singer&singermid=[A-Za-z0-9]+$/,
+  netease: /^https:\/\/music\.163\.com\/m\/applink\/\?scheme=orpheus%3A%2F%2Fartist%2F\d+$/,
+  apple: /^https:\/\/music\.apple\.com\/[a-z]{2}\/artist\/[^/]+\/\d+$/,
+  spotify: /^https:\/\/open\.spotify\.com\/artist\/[A-Za-z0-9]+$/,
+};
 const EAST_ASIA = new Set(['JP', 'KR', 'KP', 'CN', 'TW', 'HK', 'MO', 'MN']);
 const WESTERN = new Set([
   'US', 'GB', 'IE', 'CA', 'AU', 'NZ', 'DE', 'FR', 'SE', 'NO', 'DK', 'FI', 'IS', 'NL', 'BE', 'ES',
@@ -61,10 +67,12 @@ const translationsZh = await readJSON('data/source/translations-zh.json', {
   genres: {},
 });
 const zhOverrides = await readJSON('data/source/zh-overrides.json', {
+  names: {},
   intros: {},
   introSources: {},
   links: {},
 });
+const musicLinks = await readJSON('data/source/music-links.json', { artists: {} });
 const { edges: influenceEdges } = await readJSON('data/source/influences.json', { edges: [] });
 const { edges: guestEdges } = await readJSON('data/source/guest-edges.json', { edges: [] });
 const popularityData = await readJSON('data/source/popularity.json', { artists: {} });
@@ -154,6 +162,17 @@ for (const band of generated.bands) {
   merged.set(band.id, band);
 }
 
+for (const [id, links] of Object.entries(musicLinks.artists ?? {})) {
+  if (!merged.has(id)) throw new Error(`流媒体链接指向不存在的乐队：${id}`);
+  for (const [platform, url] of Object.entries(links)) {
+    const pattern = MUSIC_LINK_PATTERNS[platform];
+    if (!pattern) throw new Error(`流媒体链接使用未知平台：${id}.${platform}`);
+    if (typeof url !== 'string' || !pattern.test(url)) {
+      throw new Error(`流媒体艺人主页格式不正确：${id}.${platform} = ${url}`);
+    }
+  }
+}
+
 // 审核单是唯一入口：只有明确改成 approved 的中文稿和关系边才会进入站点。
 // pending / needs-more-sources / rejected 在构建时全部忽略。
 for (const candidate of approvedHistory) {
@@ -224,6 +243,11 @@ for (const band of merged.values()) {
       ...(band.aliases ?? []),
       ...(artistAliases.artists?.[band.mbid] ?? []),
     ].filter(Boolean))];
+  }
+  const preferredName = zhOverrides.names?.[band.id];
+  if (preferredName && norm(preferredName) !== norm(band.name)) {
+    band.aliases = [...new Set([...(band.aliases ?? []), band.name])];
+    band.name = preferredName;
   }
   const introTranslation = band.mbid && translationsZh.intros?.[band.mbid];
   if (
@@ -300,6 +324,8 @@ for (const band of merged.values()) {
       ...(zhOverrides.links?.[band.id] ?? {}),
     };
   }
+  const verifiedMusicLinks = musicLinks.artists?.[band.id];
+  band.musicLinks = verifiedMusicLinks ? { ...verifiedMusicLinks } : {};
   const popularity = band.mbid ? popularityByMbid.get(band.mbid) : null;
   band.listens = popularity?.listens ?? 0;
   band.listeners = popularity?.listeners ?? null;

@@ -21,22 +21,33 @@
       "year": 2023
     }
   ],
-  "intro": "賽是来自日本的音乐团体。现有唱片目录可从2022年的《Family》一路听到2023年的《YELLOW》。理解这个项目的另一条线索是成员关系：TAIHEI的履历把它与Suchmos连接起来。从Suchmos沿关系网点进来时，《Family》可以作为试听入口。",
+  "intro": "賽（SAI）是Suchmos键盘手TAIHEI在2021年与小号手佐瀬悠輔、贝斯手岩見継吾成立的爵士取向乐队，最初刻意采用无鼓三人编制。早期《Family》《The Bottle》让钢琴、小号与低音在爵士即兴、hip-hop式律动和日常氛围之间留出大量空间；鼓手松浦千昇加入后，四人于2023年完成首张全长《YELLOW》，节奏变得更立体，也保留了不急于炫技的松弛感。TAIHEI把它视作可以渗入生活的音乐，而不是Suchmos声音的简单支线。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "TAIHEI与賽专访",
+      "url": "https://spice.eplus.jp/articles/324355"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/32cab2ff-104e-45b6-a792-b0333593661f"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1636870529",
+    "spotify": "https://open.spotify.com/artist/4SnEXsyTXJi4auNP46cr7b",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F47036064"
+  },
   "listens": 512,
   "listeners": 153,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/32cab2ff-104e-45b6-a792-b0333593661f"
-  },
   "edges": [
     {
       "to": "suchmos",

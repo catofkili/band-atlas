@@ -17,22 +17,35 @@
       "year": 2019
     }
   ],
-  "intro": "A/N【eɪ-ɛn】是来自日本、2018年至今活跃的音乐团体。现有唱片目录可从2018年的《素描集Ⅰ》一路听到2019年的《素描集Ⅱ》。理解这个项目的另一条线索是成员关系：Atsuo、Takeshi的履历把它与Boris连接起来。从Boris沿关系网点进来时，《素描集Ⅰ》可以作为试听入口。",
+  "intro": "A/N【eɪ-ɛn】是2018年由Z.O.A的森川誠一郎、黒木真司与Boris的Takeshi、Atsuo组成的日本四人collective。成员不固定分工，而在双吉他、双贝斯与三重人声之间自由换位，以日本语短句、静态张力和沉重音色挑战一般“乐队”编制；首演同步发行《素描集I》，2019年《素描集II》收录第二次公演前后的作品，项目明确自称长期集合体而非一次性合作。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "A/N官方网站阵容、理念与成团经过",
+      "url": "https://arashuiandanonno.com/profile.html"
+    },
+    {
+      "label": "Tower Records两张《素描集》发行资料",
+      "url": "https://tower.jp/artist/2719410"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d1c2c6a4-7a74-4d30-a981-7b76df525cee"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F98587165"
+  },
   "listens": 91,
   "listeners": 6,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d1c2c6a4-7a74-4d30-a981-7b76df525cee"
-  },
   "edges": [
     {
       "to": "鬼-o-n-i",

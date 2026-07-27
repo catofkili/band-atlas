@@ -21,22 +21,31 @@
       "year": 2012
     }
   ],
-  "intro": "The Gaddabouts是来自纽约、2010年至今活跃的音乐团体，现有资料将其归入另类流行、爵士乐。现有唱片目录可从2011年的《The Gaddabouts》一路听到2012年的《Look Out Now!》。理解这个项目的另一条线索是成员关系：Andy Fairweather‐Low的履历把它与Rock Therapy连接起来。从Rock Therapy沿关系网点进来时，《The Gaddabouts》可以作为试听入口。",
+  "intro": "The Gaddabouts是鼓手Steve Gadd发起的四人录音乐队，由Edie Brickell主唱并弹少量吉他，Andy Fairweather Low负责吉他与和声，Pino Palladino演奏贝斯和吉他。Brickell与Gadd约在2000年开始demo合作，随后扩充成完整阵容，2011年同名首专及2012年双碟《Look Out Now!》把她自然松弛的唱作放进顶尖录音室乐手克制的爵士、灵魂与folk-rock groove。Joey DeFrancesco、Gil Goldstein等客席进一步丰富编制，但歌曲始终避免变成技巧展示。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Steve Gadd官方网站乐队介绍",
+      "url": "https://www.drstevegadd.com/the-gaddabouts"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d708a7b6-0658-43de-993e-092077955680"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/02tsU6EiemySMDlPkqWNk0"
+  },
   "listens": 324,
   "listeners": 139,
   "quality": {
-    "score": 27,
-    "templateIntro": true,
+    "score": 69,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d708a7b6-0658-43de-993e-092077955680"
-  },
   "edges": [
     {
       "to": "george-s-band",

@@ -13,23 +13,30 @@
       "year": 2024
     }
   ],
-  "intro": "Infrared Hologram是来自德国的音乐团体。现有唱片目录收录了2024年的《Exploding Flowers》。理解这个项目的另一条线索是成员关系：Rainer Neeff的履历把它与Zone Six连接起来。从Zone Six沿关系网点进来时，《Exploding Flowers》可以作为试听入口。",
+  "intro": "Infrared Hologram是德国吉他手Rainer Neeff与鼓手Norbert Jaensch合作的迷幻／Krautrock录音项目。2024年唯一专辑《Exploding Flowers》由Neeff混音与母带处理，他的吉他和所谓“Atlantic wave sounds”与Jaensch的鼓构成长篇器乐流动，Shane Beck的诗歌则为作品提供文字层。它沿用Neeff在Zone Six、Krautzone等即兴团体中的宇宙摇滚方法，但以更小的双人核心完成一张独立唱片。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "厂牌页《Exploding Flowers》完整演奏与制作署名",
+      "url": "https://kerntonschallrecords.bandcamp.com/album/infrared-hologram-exploding-flowers"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/90e6ab93-96d8-44ad-bcb3-53c9c781c93d"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/90e6ab93-96d8-44ad-bcb3-53c9c781c93d"
-  },
   "edges": [
     {
       "to": "zone-six",

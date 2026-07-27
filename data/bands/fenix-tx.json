@@ -26,6 +26,12 @@
   ],
   "intro": "Fenix TX（标注为 Fenix*TX）是一支美国流行朋克乐队。该乐队最初于1995年在德克萨斯州休斯顿以“Riverfenix”之名成立。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/64628",
+    "spotify": "https://open.spotify.com/artist/074c96SFGJ7WfW7ykczDHr",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002DqM1i3K72Q1",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F56936"
+  },
   "listens": 20096,
   "listeners": 1439,
   "quality": {

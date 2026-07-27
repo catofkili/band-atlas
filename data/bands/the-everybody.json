@@ -13,22 +13,36 @@
       "year": 2010
     }
   ],
-  "intro": "The Everybody是来自美国、2012年至今活跃的音乐团体。现有唱片目录收录了2010年的《Avatar》。理解这个项目的另一条线索是成员关系：Dave Lovering、Joey Santiago的履历把它与Pixies连接起来。从Pixies沿关系网点进来时，《Avatar》可以作为试听入口。",
+  "intro": "The Everybody是Pixies吉他手Joey Santiago与鼓手David Lovering在主团之外建立的器乐实验项目，两人以吉他、鼓和录音室处理为核心，避开Pixies惯用的主唱结构。首张《Avatar》在2009年前后出现，后来与制作人Eddie Kramer合作的《Marooned》继续把切分节奏、迷幻质感和电影配乐式空间并置；它更像两位老搭档的声音实验室，而不是Pixies的缩小版。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "La Dépêche项目重启与《Marooned》制作报道",
+      "url": "https://www.ladepeche.fr/article/2011/11/23/1222703-pixies-joey-santiago-et-david-lovering-reactivent-the-everybody.html"
+    },
+    {
+      "label": "Spill Magazine乐队背景与作品评论",
+      "url": "https://spillmagazine.com/album-review-the-everybody-marooned-demon-oar/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4d640098-bd30-40d6-9ca3-703ebef3681e"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001sFI6A1wn3cS",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F97257945"
+  },
   "listens": 6,
   "listeners": 4,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/4d640098-bd30-40d6-9ca3-703ebef3681e"
-  },
   "edges": [
     {
       "to": "pixies",

@@ -64,6 +64,11 @@
       "title": "INCUBUS"
     }
   ],
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/71LKcHW1wWN6dbYWvsbQRh",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F18358",
+    "apple": "https://music.apple.com/jp/artist/acid-black-cherry/291835175"
+  },
   "listens": 20509,
   "listeners": 278,
   "quality": {

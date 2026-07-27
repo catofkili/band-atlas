@@ -8,23 +8,34 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Nicky James Movement是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：John Bonham的履历把它与Led Zeppelin连接起来。",
+  "intro": "The Nicky James Movement是伯明翰歌手、吉他手Nicky James在1960年代中期领导的beat／R&B乐队。项目成员轮换频繁，曾先后包括后来进入The Move／ELO的Bev Bevan、The Moody Blues的Mike Pinder、The Move的Roy Wood，以及接替鼓手位置的John Bonham；Tony Clarkson也曾担任贝斯手。乐队于1965年以翻唱《Stagger Lee》出道，既是James个人唱片事业的起点，也成为多位伯明翰音乐人在成名前共享的一处训练场。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "AllMusic成团、轮换成员与Nicky James履历",
+      "url": "https://www.allmusic.com/artist/nicky-james-mn0000405703"
+    },
+    {
+      "label": "John Bonham资料站早期乐队说明",
+      "url": "https://mikedolbear.com/groovers-and-shakers/john-bonham/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/426f3d4a-d7f0-469b-87e8-d248e39297e4"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/426f3d4a-d7f0-469b-87e8-d248e39297e4"
-  },
   "edges": [
     {
       "to": "led-zeppelin",

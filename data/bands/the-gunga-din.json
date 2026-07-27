@@ -19,6 +19,9 @@
   ],
   "intro": "The Gunga Din 是一支于 1998 年在纽约市成立的美国摇滚乐队。乐队成员包括主唱 Siobhan Duffy、吉他手兼主唱 Bill Bronson、贝斯手 Chris Pravdica、鼓手 Jim Sclavunos 以及键盘手 Maria Zastrow。",
   "introLang": "zh",
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F49187420"
+  },
   "listens": 19,
   "listeners": 7,
   "quality": {

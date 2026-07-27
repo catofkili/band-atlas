@@ -8,22 +8,33 @@
   "years": "1994–1996",
   "genres": [],
   "albums": [],
-  "intro": "CHARM是来自兵库、1994至1996年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：薫的履历把它与DIR EN GREY连接起来。",
+  "intro": "CHARM是薫加入La:Sadie’s及组建DIR EN GREY以前，在兵库、阪神地区活动的visual系乐队，约在1994年成立。末期阵容由KEN主唱，KAORU与YOSHIKI弹吉他，TAKESHI演奏贝斯，YASUTAKA打鼓；他们在难波、尼崎和大阪多次登台，也留下《CRANE》demo与现场VHS。1996年2月14日最后演出后解散，薫随即接替La:Sadie’s吉他手位置，使CHARM成为DIR EN GREY成形前关西live house网络的重要一环。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "CHARM完整阵容、演出与demo资料",
+      "url": "https://www.degwiki.com/wiki/CHARM"
+    },
+    {
+      "label": "La:Sadie’s履历中的薫加入与前团关系",
+      "url": "https://www.jrock.gy/artists/la-sadies/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c32cb576-51b8-403c-a07d-b11740f67fd7"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c32cb576-51b8-403c-a07d-b11740f67fd7"
-  },
   "edges": [
     {
       "to": "dir-en-grey",

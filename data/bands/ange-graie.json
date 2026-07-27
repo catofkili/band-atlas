@@ -8,22 +8,33 @@
   "years": "1992–2020",
   "genres": [],
   "albums": [],
-  "intro": "Ange∞Graie是来自大阪、1992至2020年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：hiro的履历把它与L’Arc〜en〜Ciel连接起来。",
+  "intro": "Ange∞Graie是L’Arc-en-Ciel两位初代成员hiro与pero在1992年先后离队后共同建立的大阪系视觉摇滚项目。它承接两人在L’Arc早期形成的人脉，却没有沿用后者的发展路线；hiro负责吉他、pero负责鼓，之后两人又延伸到FEED等乐队。Ange∞Graie留下的公开唱片资料很少，活动也并非连续进行，但2014年曾以限定方式重组，因此更适合被理解为两位早期成员之间反复回返的地下项目。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "L’Arc-en-Ciel早期成员乐队履历",
+      "url": "https://grassthread.com/larcenciel/"
+    },
+    {
+      "label": "Ange∞Graie限定重组记录",
+      "url": "https://evergreen-xp.sakura.ne.jp/Others/TV_Music/larc/indies.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/94ecc26c-50b4-4838-aafb-0abae8dbc7c1"
+  },
+  "musicLinks": {},
   "listens": 14,
   "listeners": 3,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/94ecc26c-50b4-4838-aafb-0abae8dbc7c1"
-  },
   "edges": [
     {
       "to": "l-arc-en-ciel",

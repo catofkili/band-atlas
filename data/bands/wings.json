@@ -65,6 +65,11 @@
       "title": "ミセス・ヴァンデビルト"
     }
   ],
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m",
+    "apple": "https://music.apple.com/us/artist/band-atlas/137835370",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F84094"
+  },
   "listens": 293975,
   "listeners": 10043,
   "quality": {

@@ -39,6 +39,11 @@
   ],
   "intro": "The Muffs 是一支美国摇滚乐队。该乐队成立于1991年，以洛杉矶为据点，在经历数次暂停活动后，一直持续进行音乐活动。 2019年10月2日，主唱金·沙塔克因肌萎缩性侧索硬化症的并发症去世，乐队因此解散。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/4FYk4moRCGHdXIK3AMcelO",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001q10NC0Qyrbn",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F78992"
+  },
   "listens": 25217,
   "listeners": 1577,
   "quality": {

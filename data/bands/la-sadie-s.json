@@ -14,6 +14,9 @@
   "albums": [],
   "intro": "La:Sadie's是一支日本视觉系乐队。",
   "introLang": "zh",
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F160904"
+  },
   "listens": 621,
   "listeners": 24,
   "quality": {

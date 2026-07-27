@@ -67,6 +67,12 @@
       "title": "12:51"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/560289",
+    "spotify": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0040dQ1s3TJmaq",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F102015"
+  },
   "listens": 1963132,
   "listeners": 19294,
   "quality": {

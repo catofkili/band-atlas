@@ -21,6 +21,10 @@
   ],
   "intro": "TOSHI with T-EARTH是一支日本摇滚乐队。成立于2008年6月11日。其音乐理念为“ECO HARD ROCK”。制作人为MASAYA。2010年1月18日，Toshl宣布与MASAYA分道扬镳，乐队随之自然解散。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/288783160",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F21973"
+  },
   "listens": 250,
   "listeners": 7,
   "quality": {

@@ -29,6 +29,11 @@
   ],
   "intro": "Portable Rock是活跃于1980年代的日本音乐组合。该组合由1981年以个人身份出道的野宫真贵，与其在出道演唱会上担任伴奏的中原信雄、铃木智文三人于1982年共同组建。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/472265093",
+    "spotify": "https://open.spotify.com/artist/1vKnlXAnuztfdvpAsZ3yDg",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F711044"
+  },
   "listens": 729,
   "listeners": 70,
   "quality": {

@@ -8,22 +8,35 @@
   "years": "1983–1984",
   "genres": [],
   "albums": [],
-  "intro": "Trash是来自日本、1983至1984年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：TAIJI的履历把它与X JAPAN连接起来。",
+  "intro": "这里的Trash是TAIJI在1982至1984年前后与同学组建的日本少年乐队，与欧美同名团体无关。TAIJI当时担任吉他和主导角色，未来LADIES ROOM主唱百太郎也在成员之列；其他同伴仍在上学时，他靠招牌制作兼职收入支付排练室费用。乐队约一年后解散，TAIJI随即转弹贝斯并以Ray之名加入Dementia，因此Trash留下的主要不是唱片，而是他从校园乐手进入东京地下metal场景的起点。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "TAIJI生平中的Trash成立、成员与解散经过",
+      "url": "https://en.wikipedia.org/wiki/Taiji_(musician)"
+    },
+    {
+      "label": "TAIJI早期活动年表",
+      "url": "https://riumetal.com/archives/remenber-taiji.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/53e00ee1-9db4-4505-aa80-1318f76d6513"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F13132"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/53e00ee1-9db4-4505-aa80-1318f76d6513"
-  },
   "edges": [
     {
       "to": "loudness",

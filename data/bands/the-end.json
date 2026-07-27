@@ -8,22 +8,35 @@
   "years": "2015–",
   "genres": [],
   "albums": [],
-  "intro": "the End是来自日本、2015年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：高田雄一的履历把它与ELLEGARDEN连接起来。",
+  "intro": "这里的the End是前BiS、モルヒネ東京成员ナカヤマユキコ在2015年底发起的日本摇滚乐队。她负责主唱，セニョール山野弹吉他，ELLEGARDEN的高田雄一以“高田メタル”名义演奏贝斯，BiS《nerve》作曲者miifuu负责键盘、制作与编曲；乐队在2016年每月配信新歌，并把十二首作品装入USB形式的首张专辑。活动休止后四人于2024年缓慢复活并发行《RAISE》，所以它不是一段已终止的短期企划。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "TuneCore当前阵容、2015年成立与2024年复活资料",
+      "url": "https://www.tunecore.co.jp/artists/the_End_2024"
+    },
+    {
+      "label": "OTOTOY首次现场、成员分工与逐月配信记录",
+      "url": "https://ototoy.jp/news/83393"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e157f2ea-922c-49b2-997d-f403eabaa835"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F45048"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/e157f2ea-922c-49b2-997d-f403eabaa835"
-  },
   "edges": [
     {
       "to": "ellegarden",

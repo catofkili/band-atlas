@@ -66,6 +66,12 @@
       "title": "Fluorescent Adolescent"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/62820413",
+    "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002NinmA2HZV5W",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F85508"
+  },
   "listens": 3270619,
   "listeners": 24338,
   "quality": {

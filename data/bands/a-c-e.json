@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "A.C.E.是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：鹿島達也的履历把它与the pillows连接起来。",
+  "intro": "A.C.E.是堂島孝平为2012年专辑《A.C.E.》组建的乐队化创作与现场班底，正式演出时常以“堂島孝平×A.C.E.”署名。最初核心成员是堂島、小松シゲル（鼓）、鹿島達也（贝斯）和奥田健介（吉他），四人从排练与共同制作中塑造出紧凑明亮的流行摇滚声响；后续现场也出现sugarbeans等成员。它不是与堂島无关的独立同名团体，而是其个人作品由录音阵容发展出的持续演奏项目。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "音乐Natalie对新乐队成立与四人录音阵容的报道",
+      "url": "https://natalie.mu/music/news/63647"
+    },
+    {
+      "label": "Tower Records访谈中的共同制作与乐队声音说明",
+      "url": "https://tower.jp/article/interview/2012/03/21/b308"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6d50894b-5bdd-42c3-ab33-5c9a956dd01e"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001NxkML2O5qOR"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6d50894b-5bdd-42c3-ab33-5c9a956dd01e"
-  },
   "edges": [
     {
       "to": "the-pillows",

@@ -37,6 +37,11 @@
   ],
   "intro": "Kid Dakota 是达伦·杰克逊（Darren Jackson）的艺名，有时会在现场演出或录音室录制时由不同的乐队成员伴奏。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/3JcR6CNZ9T6YSBoJngBQ7p",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004BI9SS0kCSZY",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F63366"
+  },
   "listens": 6533,
   "listeners": 324,
   "quality": {

@@ -20,7 +20,7 @@ const STAGES = [
 const OVERSCAN = 2;
 const MAX_SNAPSHOT_PIXELS = 4_000_000;
 const POPULAR_LISTEN_FLOOR = 1000;
-const GRAPH_VERSION = '7062dc3344';
+const GRAPH_VERSION = 'c426179865';
 
 const hash = (text) => {
   let value = 2166136261;

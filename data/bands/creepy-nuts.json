@@ -55,6 +55,11 @@
       "title": "高校デビュー、大学デビュー、全部失敗したけどメジャーデビュー。"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/678140651",
+    "spotify": "https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12279198"
+  },
   "listens": 176934,
   "listeners": 5177,
   "quality": {

@@ -8,22 +8,36 @@
   "years": "1962–1963",
   "genres": [],
   "albums": [],
-  "intro": "The Ramblers是来自英国、1962至1963年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：David Gilmour的履历把它与Pink Floyd连接起来。",
+  "intro": "这里的The Ramblers是1962至1963年前后活跃于剑桥的本地乐队，与荷兰同名广播大乐团无关。其阵容以Chris Marriott主唱、Mervyn Marriott等弹吉他、Clive Welham打鼓，少年David Gilmour只在少数场次加入吉他；演出地点包括Free Church Hall、Victoria Ballroom和周边村镇礼堂。它没有留下商业录音，却是Gilmour加入Jokers Wild、进而进入Pink Floyd以前最早可追溯的舞台实践。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "剑桥Ramblers阵容与1962至1963年演出记录",
+      "url": "https://www.neptunepinkfloyd.co.uk/forum/viewtopic.php?t=14489"
+    },
+    {
+      "label": "David Gilmour加入场次与后续早期乐队沿革",
+      "url": "https://www.neptunepinkfloyd.co.uk/before-they-were-pink-floyd-a-history-of-the-band-pre-floyd"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/da1fdd02-2173-4c3d-9a1b-50a514439864"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001WW4iW3jptNB",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F157415"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/da1fdd02-2173-4c3d-9a1b-50a514439864"
-  },
   "edges": [
     {
       "to": "pink-floyd",

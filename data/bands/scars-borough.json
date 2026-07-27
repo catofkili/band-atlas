@@ -17,22 +17,36 @@
       "year": 2011
     }
   ],
-  "intro": "Scars Borough是来自日本的音乐团体。现有唱片目录可从2010年的《Stroke》一路听到2011年的《Which one?》。理解这个项目的另一条线索是成员关系：高橋宏貴的履历把它与ELLEGARDEN连接起来。从ELLEGARDEN沿关系网点进来时，《Stroke》可以作为试听入口。",
+  "intro": "Scars Borough由主唱Kyoko、吉他手本郷信、贝斯手MARCH与ELLEGARDEN鼓手高橋宏貴于2008年组成。四位成员在各自主团暂停活动后经排练迅速固定阵容，2009年同名迷你专辑之后以四十场全国巡演磨合，继而推出《Stroke》《which one?》《Nineteen Percent》和《音紋》。乐队以女性主唱的锋利旋律为前景，背后则是硬朗而强调现场推进的日式另类摇滚合奏。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Scars Borough乐队简介",
+      "url": "https://iflyer.tv/en/ScarsBorough/"
+    },
+    {
+      "label": "Tower Records结成报道",
+      "url": "https://www.lc.tower.jp/article/news/2009/01/29/100017095"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5ef4abac-eaa0-4b83-9f65-d653a6f74f8b"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002ccFH814gDiD",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F21550"
+  },
   "listens": 608,
   "listeners": 16,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5ef4abac-eaa0-4b83-9f65-d653a6f74f8b"
-  },
   "edges": [
     {
       "to": "ellegarden",

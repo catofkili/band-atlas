@@ -13,23 +13,34 @@
       "year": 2017
     }
   ],
-  "intro": "Delivery Health是来自日本的音乐团体。现有唱片目录收录了2017年的《Hard Off》。理解这个项目的另一条线索是成员关系：山本達久、Giovanni di Domenico的履历把它与Bonjintan连接起来。从Bonjintan沿关系网点进来时，《Hard Off》可以作为试听入口。",
+  "intro": "Delivery Health是钢琴手Giovanni Di Domenico、吉他手Jim O’Rourke与鼓手、电子乐手山本達久组成的即兴三重奏。三人在东京GOK Sound于2012至2013年录下素材，2015年首作原本以三位姓名发行，随后把Delivery Health变成团名；2017年《Hard Off》只用两首约二十分钟的长篇，在钢琴、Rhodes、电吉他、鼓、kalimba和电子声之间缓慢塑形，比传统jazz trio更接近细密的自由即兴与实验室内乐。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Silent Water官方Bandcamp阵容、录音与唱片说明",
+      "url": "https://silentwater.bandcamp.com/album/hard-off"
+    },
+    {
+      "label": "Tiny Mix Tapes《Hard Off》发行报道",
+      "url": "https://www.tinymixtapes.com/news/delivery-health-jim-orourke-giovanni-di-domenico-tatsushisa-yamamoto-announce-second-album-hard"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2379fc01-5de4-40c4-b647-a25dccdb03fe"
+  },
+  "musicLinks": {},
   "listens": 8,
   "listeners": 2,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/2379fc01-5de4-40c4-b647-a25dccdb03fe"
-  },
   "edges": [
     {
       "to": "bonjintan",

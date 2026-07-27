@@ -8,22 +8,29 @@
   "years": "2017–",
   "genres": [],
   "albums": [],
-  "intro": "ZiNG是来自日本、2017年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：ピエール中野的履历把它与凛として時雨连接起来。",
+  "intro": "ZiNG是凛として時雨鼓手ピエール中野与作曲、编曲人ANCHOR在2017年发起的日本音乐制作单元，另有MY FIRST STORY贝斯手Nob与9mm Parabellum Bullet吉他手滝善充加入。四人不把自己限定为传统乐队，而以编曲、声音制作和演奏团队的方式为歌手、动画及游戏项目工作；从绪方惠美的动画歌翻编开始，ZiNG也逐渐成为连接重型吉他、电子制作与动漫歌曲的幕后节点。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "音楽ナタリー成立、阵容与制作定位报道",
+      "url": "https://natalie.mu/music/news/246690"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/104ada9b-3f51-41bf-b01b-4a951f0a3117"
+  },
+  "musicLinks": {},
   "listens": 3,
   "listeners": 3,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/104ada9b-3f51-41bf-b01b-4a951f0a3117"
-  },
   "edges": [
     {
       "to": "ling-tosite-sigure",

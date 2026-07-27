@@ -21,22 +21,36 @@
       "year": 2009
     }
   ],
-  "intro": "13Steps是来自清州、2000年至今活跃的音乐团体。现有唱片目录可从2005年的《This Is The Reality That We Confront》一路听到2009年的《Existence》。理解这个项目的另一条线索是成员关系：이일우的履历把它与잠비나이连接起来。从잠비나이沿关系网点进来时，《This Is The Reality That We Confront》可以作为试听入口。",
+  "intro": "13Steps于2000年5月由主唱DOKYO 13与吉他手HYUL在清州组建，是把首尔以外地方场景推入韩国hardcore版图的重要乐队。三张“Chung Ju City Hardcore”时期demo之后，2005年《This Is the Reality That We Confront》以old-school hardcore的短促冲撞、群吼和反抗社会不公的文字获得韩国音乐大奖最佳摇滚专辑提名；《The Curse Upon Liars》与《Existence》又把速度放缓、重量和阴暗感加深。成员이일우后来在49 Morphines、Jambinai等项目中继续连接韩国硬核与实验音乐。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Bugs首专与成团资料",
+      "url": "https://music.bugs.co.kr/album/8020912"
+    },
+    {
+      "label": "Bugs《Existence》介绍",
+      "url": "https://music.bugs.co.kr/album/195963"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0f3907a4-ac12-49df-a3c3-705a1e95b254"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F127822",
+    "apple": "https://music.apple.com/kr/artist/13steps/334482673"
+  },
   "listens": 47,
   "listeners": 20,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/0f3907a4-ac12-49df-a3c3-705a1e95b254"
-  },
   "edges": [
     {
       "to": "잠비나이",

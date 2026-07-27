@@ -8,22 +8,29 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "池田高田是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：高田雄一的履历把它与ELLEGARDEN连接起来。",
+  "intro": "池田高田是日本动画歌手池田彩在2019年启动“池田○○”跨界合作企划时，与ELLEGARDEN贝斯手高田雄一组成的一曲限定单元。池田为《全弦開放（イーマイナーイレブン）》作词并演唱，高田负责作曲、演奏与和声，作品随后收录进街机音乐游戏《GITADORA》；团名直接拼合两人的姓，也说明它不是另建一支常设乐队，而是企划第一轮合作的署名。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Billboard Japan合作企划、分工与歌曲报道",
+      "url": "https://www.billboard-japan.com/d_news/detail/77964/2"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/095983fb-17ca-4bc5-bdaa-44b20aaee8af"
+  },
+  "musicLinks": {},
   "listens": 3,
   "listeners": 3,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/095983fb-17ca-4bc5-bdaa-44b20aaee8af"
-  },
   "edges": [
     {
       "to": "ellegarden",

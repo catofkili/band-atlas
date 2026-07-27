@@ -17,22 +17,36 @@
       "year": 2015
     }
   ],
-  "intro": "Decahedron是来自美国、2002年至今活跃的音乐团体。现有唱片目录可从2004年的《Disconnection Imminent》一路听到2015年的《Origins & Deconstruction (2003-2005) + Live @ WPRK (02/09/2004)》。理解这个项目的另一条线索是成员关系：Joe Lally的履历把它与Fugazi连接起来。从Fugazi沿关系网点进来时，《Disconnection Imminent》可以作为试听入口。",
+  "intro": "Decahedron起源于前Frodus成员Shelby Cinca与Jason Hamacher在2001年展开的远程合作，Fugazi贝斯手Joe Lally加入后，三人先以The Black Sea名义发行EP，随后因名称问题改为Decahedron。2004年的《Disconnection Imminent》以Lally富有弹性的低音、Hamacher紧密的鼓和Cinca锋利的吉他构成政治性很强的后硬核；Lally离开后由Unwed Sailor的Jonathan Ford接替。它延续了华盛顿特区朋克的纪律与批判意识，却用更冷峻、机械的结构处理新世纪的不安。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Decahedron官方Bandcamp介绍",
+      "url": "https://decahedron.bandcamp.com/album/disconnection-imminent"
+    },
+    {
+      "label": "Joe Lally艺人资料",
+      "url": "https://www.allmusic.com/artist/joe-lally-mn0000590032"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c23d24ea-3a57-4902-84bc-78f6f9440b31"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000R8oVK4PQL2s",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F54040"
+  },
   "listens": 1473,
   "listeners": 40,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c23d24ea-3a57-4902-84bc-78f6f9440b31"
-  },
   "edges": [
     {
       "to": "fugazi",

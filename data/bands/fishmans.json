@@ -19,6 +19,7 @@
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/dc436953-1dc3-437d-9656-da401a0e9134"
   },
+  "musicLinks": {},
   "listens": 12850,
   "listeners": 1275,
   "quality": {
@@ -33,7 +34,7 @@
   "edges": [
     {
       "to": "フィッシュマンズ",
-      "toName": "フィッシュマンズ",
+      "toName": "Fishmans",
       "toArea": "日本",
       "toYears": "1987–",
       "type": "member",
@@ -81,7 +82,7 @@
     },
     {
       "to": "フィッシュマンズ",
-      "toName": "フィッシュマンズ",
+      "toName": "Fishmans",
       "toArea": "日本",
       "toYears": "1987–",
       "type": "guest",

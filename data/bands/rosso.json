@@ -37,6 +37,11 @@
       "title": "バニラ (ROSSOの曲)"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/76063213",
+    "spotify": "https://open.spotify.com/artist/6ulAMqPIBL323GeRBYG2ZD",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F21167"
+  },
   "listens": 1373,
   "listeners": 61,
   "quality": {

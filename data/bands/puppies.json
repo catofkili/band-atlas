@@ -19,22 +19,35 @@
       "year": 2011
     }
   ],
-  "intro": "Puppies是来自牛津的音乐团体，现有资料将其归入摇滚。现有唱片目录可从2007年的《Sick Machine》一路听到2011年的《War and Reconstruction》。理解这个项目的另一条线索是成员关系：Christopher McGuire的履历把它与くるり连接起来。从くるり沿关系网点进来时，《Sick Machine》可以作为试听入口。",
+  "intro": "Puppies是来自俄亥俄州Oxford的美国独立摇滚乐队，核心作品为2007年的《Sick Machine》和2011年的《War & Reconstruction》。前12 Rods及くるり鼓手Christopher McGuire在第二张专辑录制阶段加入，以力度鲜明的鼓推动乐队原本偏旋律化的现代摇滚写作；歌词反复触及局外人、太空意象、失重与重建。它在2000年代中期的美国独立比赛和地区演出中积累关注，也曾与Canton Symphony Orchestra同台，以摇滚编制和管弦乐的异同作为演出主题。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Christopher McGuire履历与作品",
+      "url": "https://en.wikipedia.org/wiki/Christopher_McGuire"
+    },
+    {
+      "label": "Puppies唱片目录",
+      "url": "https://music.apple.com/us/artist/puppies/251289375"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5e8c5405-0369-4384-bad7-aa89d3cabc5a"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F14732487"
+  },
   "listens": 511,
   "listeners": 4,
   "quality": {
-    "score": 16,
-    "templateIntro": true,
+    "score": 58,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5e8c5405-0369-4384-bad7-aa89d3cabc5a"
-  },
   "edges": [
     {
       "to": "12-rods",

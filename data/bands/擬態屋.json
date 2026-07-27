@@ -13,22 +13,35 @@
       "year": 2021
     }
   ],
-  "intro": "擬態屋是来自东京、2020年至今活跃的音乐团体。现有唱片目录收录了2021年的《DORAYAKI》。理解这个项目的另一条线索是成员关系：曽我部恵一的履历把它与サニーデイ・サービス连接起来。从サニーデイ・サービス沿关系网点进来时，《DORAYAKI》可以作为试听入口。",
+  "intro": "擬態屋是摄影家佐内正史与音乐人曽我部恵一组成的双人单元，把佐内的诗与声音、曽我部的演奏和制作并置。两人于2021年10月先配信首张专辑《DORAYAKI》，同年11月由ROSE RECORDS发行九曲CD，作品以语言、噪声与松散的另类歌曲结构展开。它既不是曽我部恵一BAND的旁支名称，也不只是摄影配乐，而是两位作者共同署名并实际登台的声音项目。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "曽我部恵一官网双人身份、首专日期与完整曲目",
+      "url": "https://www.sokabekeiichi.com/news/11241stdorayaki.php"
+    },
+    {
+      "label": "音乐Natalie对首张音源与双人单元的报道",
+      "url": "https://natalie.mu/music/news/451317"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e88c64dc-e8f7-4da9-9f53-4854a8b240c9"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F50121713"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/e88c64dc-e8f7-4da9-9f53-4854a8b240c9"
-  },
   "edges": [
     {
       "to": "サニーデイ-サービス",

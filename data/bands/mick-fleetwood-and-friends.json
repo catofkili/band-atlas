@@ -8,22 +8,32 @@
   "years": "2020–2020",
   "genres": [],
   "albums": [],
-  "intro": "Mick Fleetwood and Friends是2020年活跃的音乐团体。理解这个项目的另一条线索是成员关系：Kirk Hammett的履历把它与Metallica连接起来。",
+  "intro": "Mick Fleetwood and Friends是Mick Fleetwood为致敬Fleetwood Mac创始人Peter Green及乐队早期蓝调时期而组织的一次性全明星演出名义。音乐会于2020年2月25日在London Palladium举行，固定伴奏组由Fleetwood、Rick Vito、Andy Fairweather Low、Dave Bronze和Ricky Peterson组成，嘉宾包括David Gilmour、Kirk Hammett、Pete Townshend、Christine McVie、Noel Gallagher、Billy Gibbons等。演出后来发行电影和现场专辑；它不是一支持续活动的超级乐队，而是一晚围绕Green作品建立的纪念性合奏。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Peter Green致敬演出官方网站",
+      "url": "https://mickfleetwoodandfriends.com/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7b4a9621-17d8-4eb3-b2b3-48a1ab0b2fb2"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004IS55v00NlcJ",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F37579676"
+  },
   "listens": 516,
   "listeners": 112,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/7b4a9621-17d8-4eb3-b2b3-48a1ab0b2fb2"
-  },
   "edges": [
     {
       "to": "oasis",

@@ -20,22 +20,36 @@
       "year": 2017
     }
   ],
-  "intro": "Gunash是来自意大利、2003年至今活跃的音乐团体，现有资料将其归入拉米·贾菲、摇滚乐。现有唱片目录可从2014年的《Same Old Nightmare》一路听到2017年的《Great Expectations》。理解这个项目的另一条线索是成员关系：Rami Jaffee的履历把它与Foo Fighters连接起来。从Foo Fighters沿关系网点进来时，《Same Old Nightmare》可以作为试听入口。",
+  "intro": "Gunash是2003年成立于意大利北部的alternative rock乐队，长期核心为歌手兼吉他手Ivano L. Zorč与鼓手Alessandro “Piacio” Picollo。2014年概念专辑《Same Old Nightmare》围绕失落的不同面貌展开，Foo Fighters与The Wallflowers键盘手Rami Jaffee在洛杉矶录下Hammond B3；他又参与制作2017年《Great Expectations》，使乐队的grunge底色获得更宽的键盘与美式摇滚层次。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Go Down Records官方乐队履历与Jaffee合作资料",
+      "url": "https://www.godownrecords.com/gunash"
+    },
+    {
+      "label": "乐队官网《Same Old Nightmare》说明",
+      "url": "https://gunashband.wixsite.com/gunash/store"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/85a9cf46-ce52-498b-a339-1ef24b9216a3"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002Lg62L1V8C0q",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F14493653"
+  },
   "listens": 14,
   "listeners": 5,
   "quality": {
-    "score": 22,
-    "templateIntro": true,
+    "score": 64,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/85a9cf46-ce52-498b-a339-1ef24b9216a3"
-  },
   "edges": [
     {
       "to": "foo-fighters",

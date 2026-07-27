@@ -13,22 +13,37 @@
       "year": 2024
     }
   ],
-  "intro": "Wink Music Service是来自日本、2023年至今活跃的音乐团体。现有唱片目录收录了2024年的《It Girls》。理解这个项目的另一条线索是成员关系：高浪慶太郎的履历把它与Pizzicato Five连接起来。从Pizzicato Five沿关系网点进来时，《It Girls》可以作为试听入口。",
+  "intro": "Wink Music Service是贝斯手兼制作人サリー久保田邀请前Pizzicato Five成员高浪慶太郎组成的日本流行音乐项目，目标是制作讲究旋律、编曲与视觉包装的“至高流行乐”。项目常为每次作品邀请不同女声，久保田统筹音乐与设计，高浪负责作曲、演唱及和声；2023年从《ローマでチャオ》起步，2024年首专《It Girls》把六十年代girl-pop、city pop和轻巧的复古管弦编曲连成一体。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "日本コロムビア官方成员简介",
+      "url": "https://columbia.jp/artist-info/winkmusicservice/prof.html"
+    },
+    {
+      "label": "TuneCore Japan项目沿革与发行资料",
+      "url": "https://www.tunecore.co.jp/artists?id=1038091&lang=en"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a778a11c-04f0-40ec-a129-4f7b6e29c71c"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1677086886",
+    "spotify": "https://open.spotify.com/artist/3UpCS81WDmBOmCO95xpCOO",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F56117981"
+  },
   "listens": 11,
   "listeners": 3,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a778a11c-04f0-40ec-a129-4f7b6e29c71c"
-  },
   "edges": [
     {
       "to": "pizzicato-five",

@@ -13,22 +13,36 @@
       "year": 1996
     }
   ],
-  "intro": "Giant Robot是音乐团体。现有唱片目录收录了1996年的《Giant Robot》。理解这个项目的另一条线索是成员关系：Pete Scaturro的履历把它与Limbomaniacs连接起来。从Limbomaniacs沿关系网点进来时，《Giant Robot》可以作为试听入口。",
+  "intro": "Giant Robot是Buckethead、鼓手Bryan “Brain” Mantia与键盘手Pete Scaturro在1990年代中期组成的短期录音项目，与Buckethead早期同名个人专辑及后来现场阵容需要区分。三人在1996年的同名唱片中把高速吉他、合成器、鼓机与游戏音效式片段拼成一套器乐实验，既有金属和放克的技巧展示，也保留卡通、科幻与游乐园般的怪诞叙事。它只留下很小的目录，却是Buckethead与Brain长期合作网络中的关键早期节点。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Buckethead作品目录",
+      "url": "https://en.wikipedia.org/wiki/Buckethead_discography"
+    },
+    {
+      "label": "Buckethead项目历史",
+      "url": "https://www.natternet.com/buckethead-bands"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d320f0cd-cc12-4bf4-b51f-c8e94fe0ca24"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001tHUA54dLmTs",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F139267"
+  },
   "listens": 1845,
   "listeners": 60,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d320f0cd-cc12-4bf4-b51f-c8e94fe0ca24"
-  },
   "edges": [
     {
       "to": "limbomaniacs",

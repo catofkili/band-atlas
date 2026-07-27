@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "YOUNG ODEON是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：小西康陽的履历把它与Pizzicato Five连接起来。",
+  "intro": "YOUNG ODEON是小西康陽在Pizzicato Five成名前使用的早期new wave／宅录项目之一，并曾与戸川京子合作。1986年独立合辑《別天地》收录其《黒い十人の女》，标题直接取自小西长期钟爱的市川昆电影；有限的发行量和拼贴、电影趣味让它更像小西日后采样美学与“涉猎型流行音乐”观念的草图，而不是一支持续巡演的固定乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《別天地》参与者与项目背景资料",
+      "url": "https://silenciamusicstore.net/?pid=146525561"
+    },
+    {
+      "label": "CINEMORE《黒い十人の女》录音资料",
+      "url": "https://cinemore.jp/jp/erudition/41/article_43_p2.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/950884aa-f385-4ee6-89da-ef65577dd249"
+  },
+  "musicLinks": {},
   "listens": 3,
   "listeners": 1,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/950884aa-f385-4ee6-89da-ef65577dd249"
-  },
   "edges": [
     {
       "to": "pizzicato-five",

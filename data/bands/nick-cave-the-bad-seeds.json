@@ -66,6 +66,12 @@
       "title": "租庇利街"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1698460",
+    "spotify": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000uN65q2Z3u2I",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F69321"
+  },
   "listens": 1007090,
   "listeners": 10907,
   "quality": {

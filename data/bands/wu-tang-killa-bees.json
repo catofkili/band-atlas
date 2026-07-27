@@ -23,22 +23,36 @@
       "year": 2022
     }
   ],
-  "intro": "Wu‐Tang Killa Bees是来自美国的音乐团体，现有资料将其归入嘻哈。现有唱片目录可从2002年的《The Sting》一路听到2022年的《Brotherhood of the Wulf, Vol. II: Beta》。理解这个项目的另一条线索是成员关系：MusicBrainz将它记录为AcHoZeN的副项目。从AcHoZeN沿关系网点进来时，《The Sting》可以作为试听入口。",
+  "intro": "Wu‐Tang Killa Bees并非固定阵容的单一乐队，而是Wu-Tang Clan庞大外围成员与合作团体的集合称呼，范围包括Sunz of Man、Killarmy、Royal Fam、Cappadonna以及多位制作人和MC。1998年的合辑《The Swarm》把核心成员的新作与这些“Wu-Family”支线集中在一张唱片中，2002年的《The Sting》继续这一模式。理解这个条目时，与其寻找唯一成员表，不如把它看成Wu-Tang把共同的武侠意象、阴冷采样和制作人网络扩展成音乐生态的方式。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Wu-Tang官方音乐时间线",
+      "url": "https://thewutangclan.com/en-gb/pages/music-timeline"
+    },
+    {
+      "label": "Wu-Tang外围成员资料",
+      "url": "https://en.wikipedia.org/wiki/List_of_Wu-Tang_Clan_affiliates"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/244f660e-5e68-47d7-8184-46dc204ee326"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002tdzD429P7um",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F84134"
+  },
   "listens": 2222,
   "listeners": 246,
   "quality": {
-    "score": 15,
-    "templateIntro": true,
+    "score": 57,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/244f660e-5e68-47d7-8184-46dc204ee326"
-  },
   "edges": [
     {
       "to": "achozen",

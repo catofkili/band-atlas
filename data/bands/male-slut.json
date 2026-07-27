@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Male Slut是音乐团体。理解这个项目的另一条线索是成员关系：Tim Foljahn的履历把它与Mosquito连接起来。",
+  "intro": "Male Slut是围绕Sonic Youth吉他手Thurston Moore形成的纽约地下即兴与现场化名，参与者曾包括Tim Foljahn、Steve Shelley和Jim O’Rourke。项目留下的正式目录极少，既有实验噪音7英寸，也曾在2001年以四人阵容演奏Moore《Psychic Hearts》时期歌曲和The Weirdos翻唱；它不是稳定巡演乐队，更像Moore在不同朋友阵容间测试噪音与garage rock的松散容器。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Two Dollar Guitar履历中的Male Slut合作线索",
+      "url": "https://music.apple.com/ca/artist/two-dollar-guitar/53369187"
+    },
+    {
+      "label": "2001年Male Slut现场阵容记录",
+      "url": "https://www.reddit.com/r/sonicyouth/comments/fb3ao7"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/03b30313-e7b7-4c2f-b440-5e0f3a4b6751"
+  },
+  "musicLinks": {},
   "listens": 18,
   "listeners": 4,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/03b30313-e7b7-4c2f-b440-5e0f3a4b6751"
-  },
   "edges": [
     {
       "to": "mosquito",

@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Fart Sandwich Posse是音乐团体。理解这个项目的另一条线索是成员关系：Mike Bordin的履历把它与Black Sabbath连接起来。",
+  "intro": "Fart Sandwich Posse并不是一支排练、巡演并独立出唱片的固定乐队，而是Primus在1990年专辑《Frizzle Fry》内页给一群朋友与客串者使用的集体署名。名单包括Faith No More鼓手Mike Bordin、Brain Mantia、早期Primus鼓手Flapjax Libby及乐队工作人员；Bordin还在《John the Fisherman》和《Sathington Willoby》中提供客串喊声。图谱中的Black Sabbath关系来自Bordin后来的代打经历，不应反推成这个“Posse”曾与Black Sabbath合作。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Primus旧FAQ的集体署名性质与完整名单",
+      "url": "https://vodacom.oocities.org/sunsetstrip/7207/faq.html"
+    },
+    {
+      "label": "Mike Bordin履历中的两曲客串与署名说明",
+      "url": "https://en.wikipedia.org/wiki/Mike_Bordin"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c93f9319-fb59-434f-906f-c019f27c0823"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c93f9319-fb59-434f-906f-c019f27c0823"
-  },
   "edges": [
     {
       "to": "black-sabbath",

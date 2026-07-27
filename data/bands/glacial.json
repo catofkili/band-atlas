@@ -13,22 +13,35 @@
       "year": 2012
     }
   ],
-  "intro": "Glacial是来自纽约的音乐团体。现有唱片目录收录了2012年的《On Jones Beach》。理解这个项目的另一条线索是成员关系：David Watson的履历把它与Afternoon Saints连接起来。从Afternoon Saints沿关系网点进来时，《On Jones Beach》可以作为试听入口。",
+  "intro": "Glacial是Lee Ranaldo、The Necks鼓手Tony Buck与新西兰风笛兼吉他手David Watson组成的纽约自由即兴三重奏。2005年录制、2012年发行的《On Jones Beach》以一段近48分钟长篇为主体，让Ranaldo反馈、Buck金属质感打击与Watson经过持续呼吸和效果处理的风笛缓慢堆成噪音、drone与free jazz之间的巨大声块。风笛在这里不是民俗装饰，而像另一组失真簧管，使乐队拥有与常见吉他即兴团体完全不同的低鸣。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Tony Buck官方项目介绍",
+      "url": "https://tony-buck.com/glacial/"
+    },
+    {
+      "label": "Pitchfork专辑评论",
+      "url": "https://pitchfork.com/reviews/albums/16895-on-jones-beach/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ac0f79b4-3ac9-4146-ba1c-cd9ee21dd3f8"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F34499"
+  },
   "listens": 61,
   "listeners": 15,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/ac0f79b4-3ac9-4146-ba1c-cd9ee21dd3f8"
-  },
   "edges": [
     {
       "to": "afternoon-saints",

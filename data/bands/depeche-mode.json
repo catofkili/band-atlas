@@ -68,6 +68,12 @@
       "title": "Little 15"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/148377",
+    "spotify": "https://open.spotify.com/artist/762310PdDnwsDxAQxzQkfX",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004G2jei22aJfu",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F31198"
+  },
   "listens": 2379785,
   "listeners": 19524,
   "quality": {

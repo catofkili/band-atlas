@@ -8,23 +8,34 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Heavy Seas是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Damon Albarn的履历把它与Blur连接起来。",
+  "intro": "The Heavy Seas是Damon Albarn为2014年首张个人专辑《Everyday Robots》巡演命名的现场乐队。阵容包括键盘手Mike Smith、吉他手Jeff Wootton、兼奏贝斯与吉他的Seye Adelekan，以及鼓手Pauli the PSM；他们不仅演奏个人专辑，也重新编排Blur、Gorillaz和The Good, the Bad & the Queen作品。Royal Albert Hall演出后来以《Live at the De De De Der》发行，保留了Graham Coxon、Brian Eno、De La Soul等客席；因此它更像整合Albarn多条创作线索的舞台班底。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "NME乐队命名报道",
+      "url": "https://www.nme.com/news/music/damon-albarn-61-1230960"
+    },
+    {
+      "label": "Royal Albert Hall现场专辑资料",
+      "url": "https://en.wikipedia.org/wiki/Live_at_the_De_De_De_Der"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2b6131a1-4de1-4b05-93b9-40a8bcab7ad3"
+  },
+  "musicLinks": {},
   "listens": 442,
   "listeners": 32,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/2b6131a1-4de1-4b05-93b9-40a8bcab7ad3"
-  },
   "edges": [
     {
       "to": "blur",

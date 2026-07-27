@@ -13,22 +13,33 @@
       "year": 1998
     }
   ],
-  "intro": "The Methodists是来自西雅图、1995至1998年间活跃的音乐团体。现有唱片目录收录了1998年的《Cookie》。理解这个项目的另一条线索是成员关系：Chad Channing的履历把它与Nirvana连接起来。从Nirvana沿关系网点进来时，《Cookie》可以作为试听入口。",
+  "intro": "The Methodists是前Nirvana鼓手Chad Channing在西雅图时期参与的短命摇滚乐队，与他在Fire Ants合作过的贝斯手Dan McDonald再次会合，并由John Hurd、Erik Spicer组成四人阵容。乐队在1998年留下唯一专辑《Cookie》，十三首短歌以紧凑吉他、直接旋律和带地下质感的alternative rock为主；项目没有延续，却连接了Channing离开Nirvana后的Fire Ants阶段与后来由他担任主唱的Before Cars。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Chad Channing后Nirvana乐队履历",
+      "url": "https://en.wikipedia.org/wiki/Chad_Channing"
+    },
+    {
+      "label": "Apple Music《Cookie》曲目与发行资料",
+      "url": "https://music.apple.com/us/album/cookie/1783767464"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2bfe8ede-40fa-4f45-8b4e-2f540783efbe"
+  },
+  "musicLinks": {},
   "listens": 6,
   "listeners": 3,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/2bfe8ede-40fa-4f45-8b4e-2f540783efbe"
-  },
   "edges": [
     {
       "to": "nirvana",

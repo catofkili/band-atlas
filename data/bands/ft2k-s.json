@@ -8,22 +8,33 @@
   "years": "2002–2002",
   "genres": [],
   "albums": [],
-  "intro": "FT2K'S是来自日本、2002年活跃的音乐团体。理解这个项目的另一条线索是成员关系：田中和将、亀井亨的履历把它与GRAPEVINE连接起来。",
+  "intro": "FT2K'S由吉他手藤井謙二、GRAPEVINE的田中和将与亀井亨，以及John Brief的金戸覚组成。四人最早可核验的正式录音是2002年THE COLLECTORS致敬专辑《BEAT OFFENDERS》中的《TEENAGE FRANKENSTEIN》翻唱；此后仍以乐队形式活动，并改用FTK&K这一写法。它不是临时拼在曲目表上的匿名伴奏团，而是把藤井的吉他与GRAPEVINE两位成员节奏、创作关系延伸出来的小型项目。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Tower Records致敬专辑曲目与FT2K'S完整阵容",
+      "url": "https://tower.jp/article/news/2002/10/17/100000612"
+    },
+    {
+      "label": "rockin'on对后续活动、FTK&K改名与成员履历的报道",
+      "url": "https://rockinon.com/news/detail/46100"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fc0ae50e-c51a-49fe-9e1f-171094b9135c"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/fc0ae50e-c51a-49fe-9e1f-171094b9135c"
-  },
   "edges": [
     {
       "to": "grapevine",

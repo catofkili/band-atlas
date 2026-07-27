@@ -13,22 +13,33 @@
       "year": 2016
     }
   ],
-  "intro": "Eiko Ishibashi Trio是来自日本的音乐团体。现有唱片目录收录了2016年的《6 Feet Under》。理解这个项目的另一条线索是成员关系：須藤俊明的履历把它与Melt‐Banana连接起来。从Melt‐Banana沿关系网点进来时，《6 Feet Under》可以作为试听入口。",
+  "intro": "Eiko Ishibashi Trio是石桥英子以钢琴为中心、与贝斯手须藤俊明和鼓手山本达久组成的三重奏。三人于2016年自行推出数字专辑《Six Feet Under》，让石桥英子在歌曲写作、电子实验和电影配乐之外，集中呈现钢琴、低音与鼓之间开放而克制的即兴对话。这个署名主要对应这一张私发行作品，规模虽小，却清楚保存了她与两位长期活跃于日本实验音乐现场的节奏乐手之间的默契。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "石桥英子艺人履历与三重奏专辑资料",
+      "url": "https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7"
+    },
+    {
+      "label": "AllMusic石桥英子作品履历",
+      "url": "https://www.allmusic.com/artist/eiko-ishibashi-mn0002804441"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c8b2f191-0bb4-4ee5-a38f-7d3ce8564504"
+  },
+  "musicLinks": {},
   "listens": 236,
   "listeners": 21,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c8b2f191-0bb4-4ee5-a38f-7d3ce8564504"
-  },
   "edges": [
     {
       "to": "kafka-s-ibiki",

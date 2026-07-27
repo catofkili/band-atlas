@@ -12,6 +12,10 @@
   "albums": [],
   "intro": "Deep End 是一支短命的超级乐队，由“谁人乐队”（The Who）的吉他手皮特·汤森（Pete Townshend）创立，成员中包括“平克·弗洛伊德”（Pink Floyd）的大卫·吉尔摩（David Gilmour）。",
   "introLang": "zh",
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004UFA9p0JECL6",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F540927"
+  },
   "listens": 82,
   "listeners": 5,
   "quality": {

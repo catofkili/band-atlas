@@ -8,22 +8,32 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "ProjeKct Six是音乐团体。理解这个项目的另一条线索是成员关系：Robert Fripp的履历把它与King Crimson连接起来。",
+  "intro": "ProjeKct Six是King Crimson“ProjeKcts”实验支线在2006年的二人形态，由Robert Fripp弹吉他，Adrian Belew改演V-Drums电子鼓。两人作为Porcupine Tree美国东岸巡演的开场阵容，在没有传统主唱、贝斯或固定曲目的情况下，让Fripp的Soundscapes与持续音同Belew可变形的电子节奏即时组合；《East Coast Live》记录了这段演出。编号刻意跳过尚未实现的Five，也强调它不是缩编版King Crimson，而是以最少成员测试即兴互动的一次独立实验。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "ProjeKcts阵容与发行资料",
+      "url": "https://en.wikipedia.org/wiki/ProjeKcts"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7e2466e5-b279-452d-ad01-b5875361d4dd"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004NR1vd1GQRG5",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F122774353"
+  },
   "listens": 235,
   "listeners": 14,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/7e2466e5-b279-452d-ad01-b5875361d4dd"
-  },
   "edges": [
     {
       "to": "king-crimson",

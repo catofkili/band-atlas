@@ -8,22 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Special Assembly是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Graham Coxon的履历把它与Blur连接起来。",
+  "intro": "The Special Assembly是为2006年英格兰世界杯歌曲《Hurry Up England – The People’s Anthem》临时使用的集体署名，核心演奏者包括Graham Coxon、Owen Thomas、Stephen Gilchrist与Toby Macfarlaine，并与Sham 69主唱Jimmy Pursey合作。歌曲把Sham 69的1978年作品《Hurry Up Harry》改写成足球助威歌，由Virgin Radio听众投票选出并由Stephen Street制作，发行后进入英国单曲榜前十。这个名称没有后续专辑或巡演生涯，准确说是一首公众广播企划催生的临时乐队，而非Coxon在Blur之外的长期新团。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Hurry Up England》发行与榜单资料",
+      "url": "https://en.wikipedia.org/wiki/Hurry_Up_England"
+    },
+    {
+      "label": "TheAudioDB项目阵容资料",
+      "url": "https://www.theaudiodb.com/artist/154984-The-Special-Assembly"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d9bb7ca8-3411-4732-8237-a40cc0cd8cbe"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0033s2E013RZFo",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F27912144"
+  },
   "listens": 50,
   "listeners": 29,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d9bb7ca8-3411-4732-8237-a40cc0cd8cbe"
-  },
   "edges": [
     {
       "to": "blur",

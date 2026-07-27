@@ -28,6 +28,12 @@
       "title": "New Fang"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/337312823",
+    "spotify": "https://open.spotify.com/artist/4zYQWYmtimAEmI6WWEzGfO",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003FUPJ01LVDTN",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F102549"
+  },
   "listens": 187785,
   "listeners": 5622,
   "quality": {

@@ -8,23 +8,37 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "the LOW-ATUS是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：細美武士的履历把它与ELLEGARDEN连接起来。",
+  "intro": "the LOW-ATUS是細美武士与BRAHMAN／OAU主唱TOSHI-LOW组成的双人乐队。2011年东日本大地震后，两人在持续支援灾区的过程中经常同台，逐渐以木吉他、双主唱和大量谈话演出反战歌、社会歌及彼此作品；2021年首张《旅鳥小唄 / Songbirds of Passage》才第一次集中发表原创歌曲。与ELLEGARDEN或BRAHMAN的电声冲击相比，这里更接近两位老友在民谣、幽默与公共议题之间展开的长谈。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "乐队官网成团、赈灾活动与首张专辑说明",
+      "url": "https://www.thelowatus.com/"
+    },
+    {
+      "label": "Tower Records首张专辑与双人背景资料",
+      "url": "https://prtimes.jp/a/?c=25445&f=d25445-728-pdf-0.pdf&r=728"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4c574459-b742-47d2-8c95-4e35e6dc416e"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004UJ1fQ1WRC26",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12024289"
+  },
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/4c574459-b742-47d2-8c95-4e35e6dc416e"
-  },
   "edges": [
     {
       "to": "ellegarden",

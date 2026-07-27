@@ -12,6 +12,7 @@ const root = path.resolve(path.dirname(fileURLToPath(import.meta.url)), '..');
 const read = (file) => readFile(path.join(root, file), 'utf8');
 const [
   indexHtml,
+  styleText,
   mainJs,
   mapJs,
   renderJs,
@@ -20,8 +21,10 @@ const [
   graphText,
   reviewText,
   greaterChinaText,
+  musicLinksText,
 ] = await Promise.all([
   read('index.html'),
+  read('style.css'),
   read('js/main.js'),
   read('js/map.js'),
   read('js/render.js'),
@@ -30,15 +33,131 @@ const [
   read('data/graph.json'),
   read('data/review/history-candidates.json'),
   read('data/source/greater-china.json'),
+  read('data/source/music-links.json'),
 ]);
 const index = JSON.parse(indexText);
 const graph = JSON.parse(graphText);
 const review = JSON.parse(reviewText);
 const greaterChina = JSON.parse(greaterChinaText);
+const musicLinks = JSON.parse(musicLinksText);
 const bandFiles = (await readdir(path.join(root, 'data/bands'))).filter((file) => file.endsWith('.json'));
 const bands = await Promise.all(
   bandFiles.map(async (file) => JSON.parse(await read(`data/bands/${file}`)))
 );
+
+const musicLinkPatterns = {
+  qq: /^https:\/\/i\.y\.qq\.com\/n2\/m\/share\/details\/singer\.html\?ADTAG=newyqq\.singer&singermid=[A-Za-z0-9]+$/,
+  netease: /^https:\/\/music\.163\.com\/m\/applink\/\?scheme=orpheus%3A%2F%2Fartist%2F\d+$/,
+  apple: /^https:\/\/music\.apple\.com\/[a-z]{2}\/artist\/[^/]+\/\d+$/,
+  spotify: /^https:\/\/open\.spotify\.com\/artist\/[A-Za-z0-9]+$/,
+};
+const verifiedMusicArtists = Object.entries(musicLinks.artists ?? {});
+if (musicLinks.coverage?.total !== bands.length || verifiedMusicArtists.length < 800) {
+  throw new Error(
+    `流媒体主页没有覆盖全量数据集：组件目标 ${bands.length}，有链接 ${verifiedMusicArtists.length}`
+  );
+}
+const computedCoverage = {
+  total: bands.length,
+  any: 0,
+  all: 0,
+  qq: 0,
+  netease: 0,
+  apple: 0,
+  spotify: 0,
+};
+const ownedUrls = new Map();
+for (const [id, links] of verifiedMusicArtists) {
+  const band = bands.find((item) => item.id === id);
+  if (!band) throw new Error(`流媒体链接没有对应乐队：${id}`);
+  if (!Object.keys(links).length) throw new Error(`流媒体链接为空：${id}`);
+  computedCoverage.any += 1;
+  if (Object.keys(musicLinkPatterns).every((platform) => links[platform])) {
+    computedCoverage.all += 1;
+  }
+  for (const [platform, url] of Object.entries(links)) {
+    if (!musicLinkPatterns[platform]?.test(url)) {
+      throw new Error(`流媒体艺人主页格式错误：${id}.${platform}`);
+    }
+    if (!musicLinks.evidence?.[id]?.[platform]) {
+      throw new Error(`流媒体艺人主页缺少证据类型：${id}.${platform}`);
+    }
+    if (band.musicLinks?.[platform] !== url) {
+      throw new Error(`流媒体艺人主页没有进入卡片数据：${id}.${platform}`);
+    }
+    computedCoverage[platform] += 1;
+    const ownershipKey = `${platform}:${url}`;
+    if (ownedUrls.has(ownershipKey)) {
+      throw new Error(
+        `两个乐队错误共用同一主页：${ownedUrls.get(ownershipKey)} / ${id} (${platform})`
+      );
+    }
+    ownedUrls.set(ownershipKey, id);
+  }
+}
+if (JSON.stringify(computedCoverage) !== JSON.stringify(musicLinks.coverage)) {
+  throw new Error(
+    `流媒体覆盖统计与实际链接不一致：${JSON.stringify(computedCoverage)}`
+  );
+}
+const reviewKeys = new Set(
+  (musicLinks.review ?? []).map((item) => `${item.bandId}:${item.platform}`)
+);
+for (const band of bands) {
+  if (!band.musicLinks || typeof band.musicLinks !== 'object') {
+    throw new Error(`卡片缺少 musicLinks 数据槽：${band.id}`);
+  }
+  for (const platform of Object.keys(musicLinkPatterns)) {
+    const key = `${band.id}:${platform}`;
+    const hasLink = Boolean(musicLinks.artists?.[band.id]?.[platform]);
+    if (hasLink === reviewKeys.has(key)) {
+      throw new Error(`流媒体待复核清单与链接状态冲突：${key}`);
+    }
+  }
+}
+const completeFirstBatch = [
+  'radwimps',
+  'x-japan',
+  'babymetal',
+  'yoasobi',
+  'mrs-green-apple',
+  'l-arc-en-ciel',
+  'フィッシュマンズ',
+  'beyond',
+  'omnipotent-youth-society',
+  'no-party-for-cao-dong',
+];
+for (const id of completeFirstBatch) {
+  for (const platform of Object.keys(musicLinkPatterns)) {
+    if (!musicLinks.artists?.[id]?.[platform]) {
+      throw new Error(`首批流媒体艺人主页缺失：${id}.${platform}`);
+    }
+  }
+}
+if (
+  !renderJs.includes("el('details', 'listen')") ||
+  !renderJs.includes("el('summary', 'listen__summary')") ||
+  !renderJs.includes("summary.setAttribute('aria-expanded'") ||
+  !renderJs.includes("event.key !== 'Enter' && event.key !== ' '") ||
+  !renderJs.includes("'未找到主页'") ||
+  !renderJs.includes("'去听听'") ||
+  !styleText.includes('.listen__links') ||
+  !mainJs.includes('.card__body, .listen, .search') ||
+  !standalone.includes('"musicLinks"') ||
+  !standalone.includes("'去听听'")
+) {
+  throw new Error('“去听听”折叠组件、手势保护、样式或单文件数据不完整');
+}
+
+const fishmans = index.bands.find((band) => band.id === 'フィッシュマンズ');
+const fishmansPlus = index.bands.find((band) => band.id === 'fishmans');
+if (
+  fishmans?.name !== 'Fishmans' ||
+  !fishmans.aliases?.includes('フィッシュマンズ') ||
+  fishmansPlus?.name !== 'Fishmans+'
+) {
+  throw new Error('Fishmans 主显示名、日文别名或 Fishmans+ 区分不正确');
+}
 
 const versions = [
   indexHtml.match(/style\.css\?v=([a-zA-Z0-9._-]+)/)?.[1],

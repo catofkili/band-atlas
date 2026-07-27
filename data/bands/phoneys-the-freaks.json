@@ -8,23 +8,37 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Phoneys & the Freaks是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Paul Arthurs的履历把它与Oasis连接起来。",
+  "intro": "Phoneys & the Freaks是前Oasis吉他手Paul “Bonehead” Arthurs与Somerset唱作人Alex Lipinski在2010年代初组成的英国双人核心项目。2014年同名四曲EP由Cherry Red发行，以Lipinski带Richard Ashcroft气质的主唱配合Bonehead宽阔、粗粝的吉他，并在现场翻唱Oasis的《Fade In-Out》；它比Bonehead其他曼彻斯特合作更精简，核心是两代音乐人的直接歌曲写作。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "同名EP评论、成员与声音介绍",
+      "url": "https://www.gigslutz.co.uk/album-review-phoneys-freaks-phoneys-freaks-ep/"
+    },
+    {
+      "label": "Alex Lipinski访谈与项目履历",
+      "url": "https://hifiplus.com/articles/music-interview-alex-lipinski/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/385f372d-9d91-48a7-947c-0258c08d0063"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000ZaWDp2V4stz",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F13106943"
+  },
   "listens": 14,
   "listeners": 5,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/385f372d-9d91-48a7-947c-0258c08d0063"
-  },
   "edges": [
     {
       "to": "oasis",

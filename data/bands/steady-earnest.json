@@ -17,22 +17,38 @@
       "year": 1994
     }
   ],
-  "intro": "Steady Earnest是来自美国的音乐团体。现有唱片目录可从1993年的《Out of Line》一路听到1994年的《Take It! Take It! Take It!》。理解这个项目的另一条线索是成员关系：Jack Sherman的履历把它与Red Hot Chili Peppers连接起来。从Red Hot Chili Peppers沿关系网点进来时，《Out of Line》可以作为试听入口。",
+  "intro": "Steady Earnest是Bim Skala Bim主唱Dan Vitale在1990年代初召集的波士顿九人ska组合，成员来自当地The Prophets、Ska’d for Life、The Allstonians等多个团体，前Red Hot Chili Peppers吉他手Jack Sherman也参与其中。1993年前后的同名录音带与《Out of Line》把牙买加rocksteady、two-tone铜管、朋克冲劲和美式R&B放进同一套大编制，后来《Take It! Take It! Take It!》与《Dr. Earnest’s Nerve Steadying Spirits》延续其目录。多位成员轮流演唱与演奏铜管，使它更像波士顿ska场景的一次全明星合班，而不是围绕单一主唱运转的乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "乐队阵容与《Out of Line》历史",
+      "url": "https://www.fishpond.com.au/Music/Out-of-Line-Steady-Earnest/0029303200924"
+    },
+    {
+      "label": "Shazam乐队与发行简介",
+      "url": "https://www.shazam.com/artist/steady-earnest/78440653"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9d7a4c72-2013-41ed-9a91-2cb4032cb5cc"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/78440653",
+    "spotify": "https://open.spotify.com/artist/7xsCqWAm19HgjoRGJ7roOH",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002KRLcG0XMUkd",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F75051"
+  },
   "listens": 108,
   "listeners": 22,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/9d7a4c72-2013-41ed-9a91-2cb4032cb5cc"
-  },
   "edges": [
     {
       "to": "red-hot-chili-peppers",

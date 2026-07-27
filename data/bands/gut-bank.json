@@ -13,22 +13,35 @@
       "year": 1986
     }
   ],
-  "intro": "Gut Bank是来自霍博肯、1984年至今活跃的音乐团体。现有唱片目录收录了1986年的《The Dark Ages》。理解这个项目的另一条线索是成员关系：Tia Sprocket的履历把它与Ministry连接起来。从Ministry沿关系网点进来时，《The Dark Ages》可以作为试听入口。",
+  "intro": "Gut Bank是Karyn Kuhl于1984年在新泽西Hoboken组建的post-punk／noise-rock乐队。初代鼓手Bob Bert在首演前返回Sonic Youth，随后由Tia Palmisano（Tia Sprocket）接替，与贝斯手Alice Genese和吉他手Mike Korman形成录音阵容。Roger Miller参与制作的唯一专辑《The Dark Ages》于1986年发行，以高能现场、噪音吉他和Patti Smith式根源摇滚写法著称；乐队活动至1989年，Kuhl与Genese后来把这条线延续到Sexpod。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Karyn Kuhl官方介绍中的阵容、活动期与专辑资料",
+      "url": "https://lpr.com/lpr_artists/karyn-kuhl-band/"
+    },
+    {
+      "label": "Trouser Press《The Dark Ages》同期风格评述",
+      "url": "https://trouserpress.com/reviews/gut-bank/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a64a9e29-1d2b-4492-827b-285321244547"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F48646174"
+  },
   "listens": 1,
   "listeners": 1,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a64a9e29-1d2b-4492-827b-285321244547"
-  },
   "edges": [
     {
       "to": "ministry",

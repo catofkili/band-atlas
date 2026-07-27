@@ -8,23 +8,34 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Architectural Abdabs是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Richard Wright、Roger Waters、Nick Mason的履历把它与Pink Floyd连接起来。",
+  "intro": "Architectural Abdabs常被列作Pink Floyd的早期团名，但它更接近围绕同一批Regent Street Polytechnic学生流传的名称变体，而非另有唱片目录的独立乐队。Roger Waters、Nick Mason与Richard Wright最初在Sigma 6演奏R&B翻唱，Clive Metcalfe、Keith与Sheilagh Noble等人随阵容进出，团名又曾写作The Abdabs、Screaming Abdabs、Tea Set等；Bob Klose与Syd Barrett加入后才逐步走向The Pink Floyd Sound。理解这个节点的关键是早期人员连续性，而不是把每个名称虚构成一支完整新团。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Pink Floyd早期Sigma 6阵容与多个名称沿革",
+      "url": "https://en.wikipedia.org/wiki/Pink_Floyd"
+    },
+    {
+      "label": "Bob Klose履历中的早期R&B阵容与名称记录",
+      "url": "https://en.wikipedia.org/wiki/Bob_Klose"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/278a7bc9-670c-4f70-b356-626d8627620c"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/278a7bc9-670c-4f70-b356-626d8627620c"
-  },
   "edges": [
     {
       "to": "pink-floyd",

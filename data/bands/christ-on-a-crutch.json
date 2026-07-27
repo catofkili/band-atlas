@@ -24,22 +24,37 @@
       "year": 1998
     }
   ],
-  "intro": "Christ on a Crutch是来自里奇兰、1983至1993年间活跃的音乐团体，现有资料将其归入硬核朋克、朋克。现有唱片目录可从1991年的《Crime Pays When Pigs Die》一路听到1998年的《Spread Your Filth, the Doughnut and Bourbon Years》。理解这个项目的另一条线索是成员关系：Nate Mendel的履历把它与Foo Fighters连接起来。从Foo Fighters沿关系网点进来时，《Crime Pays When Pigs Die》可以作为试听入口。",
+  "intro": "Christ on a Crutch是1980年代在华盛顿州里奇兰成立、后来进入西雅图场景的政治硬核朋克乐队。短促高速的歌曲、齐声和声与讽刺宗教和社会权威的歌词，集中体现在1991年的《Crime Pays When Pigs Die》；贝斯手Nate Mendel在团期间同时参与Sunny Day Real Estate的前身，并在欧洲巡演后转向后者，后来加入Foo Fighters。乐队因此常被当作名人履历注脚，但它本身代表了西北地区straight edge与DIY朋克网络中更尖锐的一支。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Nate Mendel朋克时期访谈",
+      "url": "https://www.musicradar.com/news/guitars/foo-fighters-nate-mendel-fights-and-sunny-day-real-estate-571438"
+    },
+    {
+      "label": "Nate Mendel乐队履历",
+      "url": "https://en.wikipedia.org/wiki/Nate_Mendel"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5c8c891c-04b5-49d1-94c2-2ed242a93df0"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/1Sm3XQbyWK5BZ6avNBz7zB",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000WRlnG06zJpU",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F52377"
+  },
   "listens": 952,
   "listeners": 72,
   "quality": {
-    "score": 23,
-    "templateIntro": true,
+    "score": 65,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5c8c891c-04b5-49d1-94c2-2ed242a93df0"
-  },
   "edges": [
     {
       "to": "juno",

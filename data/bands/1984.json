@@ -8,22 +8,35 @@
   "years": "1964–1968",
   "genres": [],
   "albums": [],
-  "intro": "1984是来自英国、1964至1968年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：Tim Staffell的履历把它与Smile连接起来。",
+  "intro": "1984是Brian May与Tim Staffell等Hampton Grammar School同学在1964年组建的伦敦学生乐队，团名取自George Orwell的同名小说；稳定成员还包括Dave Dilloway、John Garnham与Richard Thompson。乐队在教堂礼堂、学校和Imperial College演奏R&B、soul与当代流行翻唱，也写下May与Staffell合作的《Step on Me》，并曾与Jimi Hendrix同场。May和Staffell于1968年前后离开后共同组成Smile，因此1984不是Queen的直接旧名，却是May从自制吉他、翻唱乐队走向原创重型摇滚的关键起点。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Christie’s早期录音、阵容与曲目说明",
+      "url": "https://www.christies.com/lot/lot-654806"
+    },
+    {
+      "label": "Brian May官网Tim Staffell访谈",
+      "url": "https://brianmay.com/queen-news/2021/06/on-the-spot-tim-staffell/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d70c6faa-9fb7-470f-8250-c36f05a76d6b"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F52436507"
+  },
   "listens": 219,
   "listeners": 14,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d70c6faa-9fb7-470f-8250-c36f05a76d6b"
-  },
   "edges": [
     {
       "to": "black-sabbath",

@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "M・A・S・S是来自东京的音乐团体。理解这个项目的另一条线索是成员关系：INORAN、J的履历把它与LUNA SEA连接起来。",
+  "intro": "M・A・S・S是hide与LUNA SEA成员J、INORAN在1993年使用的一次性电子摇滚单元。三人分别身处洛杉矶和东京，以电脑制作与远程交换素材完成《Frozen Bug》，收入实验／工业合辑《DANCE 2 NOISE 004》；hide后来在首张个人专辑《HIDE YOUR FACE》中把它重混为《FROZEN BUG ’93》。项目没有继续发行，却记录了hide刚开始深入电脑编曲、并与LUNA SEA人脉交叉的关键节点。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "hide履历中的M・A・S・S与《Frozen Bug》资料",
+      "url": "https://en.wikipedia.org/wiki/Hide_(musician)"
+    },
+    {
+      "label": "《HIDE YOUR FACE》歌曲版本资料",
+      "url": "https://en.wikipedia.org/wiki/Hide_Your_Face"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fc49ba68-81ff-4450-8142-ce2b897a5b37"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002OsnbG38uBbS"
+  },
   "listens": 2,
   "listeners": 2,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/fc49ba68-81ff-4450-8142-ce2b897a5b37"
-  },
   "edges": [
     {
       "to": "luna-sea",

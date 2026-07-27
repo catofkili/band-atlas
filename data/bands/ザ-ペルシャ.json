@@ -13,22 +13,33 @@
       "year": 1990
     }
   ],
-  "intro": "ザ・ペルシャ是来自北海道、1984年至今活跃的音乐团体。现有唱片目录收录了1990年的《~風に吹かれて~》。理解这个项目的另一条线索是成员关系：Yoshiaki Manabe的履历把它与the pillows连接起来。从the pillows沿关系网点进来时，《~風に吹かれて~》可以作为试听入口。",
+  "intro": "ザ・ペルシャ（Persia）是1984年起在北海道活动的华丽硬摇滚乐队，阵容包括主唱徳光公継、吉他手真鍋吉明、贝斯手薩摩剛、键盘手坪岡淳一与鼓手墓田博人。乐队以《ロンリーボーイ》《アウトサイダー》等歌登上NHK北海道现场节目，并在1990年留下《～風に吹かれて～》。真鍋后来参与组建the pillows，因此两团通过他相连；ペルシャ本身则属于札幌八十年代金属／硬摇滚场景，而非the pillows的早期名称。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "札幌场景档案中的五人阵容、现场曲目与NHK影像",
+      "url": "https://sapporofreakshowdyky.zohosites.jp/"
+    },
+    {
+      "label": "the pillows口述史中真鍋吉明加入新团的经过",
+      "url": "https://diskgarage.com/digaonline/column/123753"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/547d48b7-fd6c-42e7-ae09-59c2fffdf2bd"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/547d48b7-fd6c-42e7-ae09-59c2fffdf2bd"
-  },
   "edges": [
     {
       "to": "the-pillows",

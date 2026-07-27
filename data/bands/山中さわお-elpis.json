@@ -14,22 +14,35 @@
     }
   ],
   "countryInferred": "name-script",
-  "intro": "山中さわお&ELPIS是音乐团体。现有唱片目录收录了2026年的《Daydream again》。理解这个项目的另一条线索是成员关系：山中さわお的履历把它与the pillows连接起来。从the pillows沿关系网点进来时，《Daydream again》可以作为试听入口。",
+  "intro": "山中さわお&ELPIS是the pillows结束活动后，山中さわお在2025至2026年间建立的新乐队。阵容由山中主唱、木村祐介弹吉他、楠部真也打鼓，贝斯由安西卓丸与関根史織分担，奥村大担任制作；早期演出先以山中个人名义展开，制作专辑时才正式定名。2026年《Daydream again》延续他擅长的旋律型alternative rock，也把原本的支援乐手关系明确转成新的共同体。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "山中さわお官网《Daydream again》阵容与制作资料",
+      "url": "https://yamanakasawao.com/y/discography/daydream-again"
+    },
+    {
+      "label": "音楽ナタリー新乐队成立背景专访",
+      "url": "https://natalie.mu/music/pp/yamanakasawaoandelpis"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5dcd7e90-11ad-488c-880d-5c3a6325840d"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F123839148"
+  },
   "listens": 1,
   "listeners": 1,
   "quality": {
-    "score": 12,
-    "templateIntro": true,
+    "score": 54,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5dcd7e90-11ad-488c-880d-5c3a6325840d"
-  },
   "edges": [
     {
       "to": "the-pillows",

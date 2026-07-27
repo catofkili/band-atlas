@@ -13,22 +13,33 @@
       "year": 1982
     }
   ],
-  "intro": "Jools Holland and His Millionaires是音乐团体。现有唱片目录收录了1982年的《Jools Holland And His Millionaires》。理解这个项目的另一条线索是成员关系：Jools Holland的履历把它与George's Band连接起来。从George's Band沿关系网点进来时，《Jools Holland And His Millionaires》可以作为试听入口。",
+  "intro": "Jools Holland and His Millionaires是Jools Holland离开Squeeze初期组建的英国六人乐队，也是他从团体键盘手转向领衔歌手与钢琴手的一次过渡。1982年唯一同名专辑由Pino Palladino、Martin Deegan、Mike Paice等参与，Glyn Johns与Pete Wingfield负责制作，把boogie-woogie钢琴、节奏布鲁斯、灵魂乐和八十年代流行制作放在一起；项目虽短暂，却预示了Holland后来长期经营的大乐队路线。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "On A&M Records专辑阵容与制作资料",
+      "url": "https://www.onamrecords.com/artists/jools-holland/discography/united-states/i-r-s-records/sp-70602/jools-holland-and-his-millionaires"
+    },
+    {
+      "label": "AllMusic Jools Holland生涯资料",
+      "url": "https://www.allmusic.com/artist/jools-holland-mn0000257274"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/83462985-b204-4bf5-91ee-a8278b8d35fc"
+  },
+  "musicLinks": {},
   "listens": 24,
   "listeners": 3,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/83462985-b204-4bf5-91ee-a8278b8d35fc"
-  },
   "edges": [
     {
       "to": "george-s-band",

@@ -13,22 +13,33 @@
       "year": 2016
     }
   ],
-  "intro": "Speak Chinese or Die是来自武汉的音乐团体。现有唱片目录收录了2016年的《Speak Chinese or Die》。理解这个项目的另一条线索是成员关系：张守望的履历把它与Carsick Cars连接起来。从Carsick Cars沿关系网点进来时，《Speak Chinese or Die》可以作为试听入口。",
+  "intro": "这里的Speak Chinese or Die（S.C.O.D.）是来自武汉的fastcore／grindcore乐队，名称戏仿S.O.D.的《Speak English or Die》。2014年录制、后来以盒式带及黑胶流通的同名作品用17首极短曲、尖叫与低吼双声部和高速鼓点呈现中国地下极端朋克；它与张守望、王旭、Simon Frank曾在北京D-22使用的同名实验三人组并非同一团，资料库中的Carsick Cars等成员关系属于同名合并。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "武汉S.C.O.D.首作与曲风资料",
+      "url": "https://punx.exblog.jp/26363784/"
+    },
+    {
+      "label": "张守望同名实验组合访谈，用于区分身份",
+      "url": "https://www.smartshanghai.com/articles/community/culture-bureau-zhang-shouwang"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/00727d07-a1d9-4be5-8653-e5ce1acf8cbe"
+  },
+  "musicLinks": {},
   "listens": 164,
   "listeners": 5,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/00727d07-a1d9-4be5-8653-e5ce1acf8cbe"
-  },
   "edges": [
     {
       "to": "carsick-cars",

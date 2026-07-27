@@ -8,22 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Pete Best Combo是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Pete Best的履历把它与The Beatles连接起来。",
+  "intro": "The Pete Best Combo是Pete Best Four扩充编制、于1960年代中期赴美国发展的后续形态，核心仍包括鼓手Pete Best、创作兼演唱搭档Wayne Bickerton与Tony Waddington。团体在纽约为Bob Gallo及Cameo等小厂牌录制原创和50年代翻唱，并以美国、加拿大巡演维持活动；1966年专辑《Best of the Beatles》利用Best姓氏制造双关，却也让听众误以为是Beatles合辑。真正的音乐重心是Bickerton与Waddington写下的Merseybeat、garage和纽约流行混合物，Best于1968年退出职业音乐后项目结束。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Pete Best官方网站履历",
+      "url": "https://www.petebest.com/biography-1960/"
+    },
+    {
+      "label": "AllMusic合辑资料",
+      "url": "https://www.allmusic.com/album/beyond-the-beatles-1964-1966-mw0000189657"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4bf05cf1-556a-48bb-b659-7f8164850b72"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000hTXbK3JO87l",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F14508326"
+  },
   "listens": 163,
   "listeners": 15,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/4bf05cf1-556a-48bb-b659-7f8164850b72"
-  },
   "edges": [
     {
       "to": "lee-curtis-the-all-stars",

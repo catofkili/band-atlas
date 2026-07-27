@@ -21,22 +21,35 @@
       "year": 2020
     }
   ],
-  "intro": "Casablanca是来自日本的音乐团体。现有唱片目录可从2016年的《Another Story》一路听到2020年的《CRIMSON CITY》。理解这个项目的另一条线索是成员关系：山中さわお的履历把它与the pillows连接起来。从the pillows沿关系网点进来时，《Another Story》可以作为试听入口。",
+  "intro": "这里的Casablanca是2016年由the pillows的山中さわお、noodles的yoko与Radio Caroline鼓手楠部真也组成的日本三人乐队。两把吉他与鼓构成无贝斯编制，山中和yoko轮流或交错演唱，大量英语歌词把alternative rock、country与干燥rock ’n’ roll放在比各自主团更松弛的空间里；《Another Story》《BREAK AN IMAGE》《CRIMSON CITY》连续记录了这套稳定三人阵容。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "山中さわお官网首专与阵容资料",
+      "url": "https://yamanakasawao.com/y/discography/casablanca-another-story"
+    },
+    {
+      "label": "ぴあ成团与无贝斯编制报道",
+      "url": "https://ure.pia.co.jp/articles/-/61094"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a4bb1de2-1ff0-454d-a42c-e846a8538343"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F228291"
+  },
   "listens": 171,
   "listeners": 6,
   "quality": {
-    "score": 12,
-    "templateIntro": true,
+    "score": 54,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a4bb1de2-1ff0-454d-a42c-e846a8538343"
-  },
   "edges": [
     {
       "to": "the-pillows",

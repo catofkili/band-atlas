@@ -61,6 +61,11 @@
       "title": "クリスマスイブ"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1489331027",
+    "spotify": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F36723470"
+  },
   "listens": 11938,
   "listeners": 499,
   "quality": {

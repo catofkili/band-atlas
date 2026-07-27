@@ -13,22 +13,37 @@
       "year": 2022
     }
   ],
-  "intro": "SHAG是来自日本、2002年至今活跃的音乐团体。现有唱片目录收录了2022年的《THE PROTEST JAM》。理解这个项目的另一条线索是成员关系：松浦千昇的履历把它与賽连接起来。从賽沿关系网点进来时，《THE PROTEST JAM》可以作为试听入口。",
+  "intro": "SHAG是SUGIZO在2002年前后发起、以现场即兴为核心的迷幻jam band，沉寂后于2020年重新启动。复活阵容以SUGIZO的吉他、小提琴与电子声为轴，集合トランペット手類家心平等六位乐手，把jazz、funk、punk、ambient、dub与噪音放进不预设终点的合奏。2022年首张专辑《THE PROTEST JAM》把这种现场方法录成作品，并以反战、和平主题让自由即兴获得明确的社会指向。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "SUGIZO官网SHAG定位、复活与首张专辑说明",
+      "url": "https://sugizo.com/contents/100332"
+    },
+    {
+      "label": "Universal Music现场及成员报道",
+      "url": "https://www.universal-music.co.jp/sugizo/news/2022-12-05/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8157c593-7738-4f53-ac95-6e7f9db2cf39"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1115774254",
+    "spotify": "https://open.spotify.com/artist/17U22DPItNCNWhdLuTX6xW",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F43997"
+  },
   "listens": 2,
   "listeners": 1,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/8157c593-7738-4f53-ac95-6e7f9db2cf39"
-  },
   "edges": [
     {
       "to": "賽",

@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Galactic Abyss是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：亀川千代的履历把它与ゆらゆら帝国连接起来。",
+  "intro": "Galactic Abyss是2016年前后开始活动的日本地下即兴四重奏，由前ゆらゆら帝国贝斯手亀川千代、长谷川静男的内田静男，以及ASTRO的Hiroshi Hasegawa与Rohco组成。亀川的重复低音、内田经效果处理的提琴／吉他和ASTRO电子噪音没有固定主唱或歌曲结构，而在现场缓慢堆成宇宙音乐、drone与迷幻噪音。这个项目连接日本psych rock与noise两个传统，公开记录也主要是SuperDeluxe、Forestlimit等实验场地的现场活动。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "SuperDeluxe四人阵容、成立年份与项目说明",
+      "url": "https://super-deluxe.com/events/%E6%B7%B1%E9%81%A0%E3%81%AB%E3%81%97%E3%81%A6%E6%B7%B1%E6%B7%B5%E3%81%AA%E3%82%8B%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0/"
+    },
+    {
+      "label": "Mikiki亀川千代履历中的Galactic Abyss关系",
+      "url": "https://mikiki.tokyo.jp/articles/-/37347"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/11e22d21-7861-4c04-bea7-0169e71b41d7"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/11e22d21-7861-4c04-bea7-0169e71b41d7"
-  },
   "edges": [
     {
       "to": "ゆらゆら帝国",

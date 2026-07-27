@@ -17,22 +17,33 @@
       "year": 1997
     }
   ],
-  "intro": "Spasm是来自芝加哥的音乐团体。现有唱片目录可从1995年的《Spasm》一路听到1997年的《Smear》。理解这个项目的另一条线索是成员关系：Curse Mackey、Eric Pounder、Mark Spybey的履历把它与Pigface连接起来。从Pigface沿关系网点进来时，《Spasm》可以作为试听入口。",
+  "intro": "Spasm是1990年代中期围绕Invisible Records形成的工业实验组合，成员连接多个跨国项目：Evil Mothers主唱Curse Mackey、Lab Report的Eric Pounder、Dead Voices on Air的Mark Spybey，以及Pigface核心Martin Atkins。1995年同名作与1997年《Smear》把循环节拍、采样拼贴、噪音、口语和长篇即兴压在一起，结构比普通工业摇滚更松散。《Smear》由Atkins制作混音，也因此像Pigface开放合作模式的一条更抽象、更阴暗的旁支。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "AllMusic《Smear》资料",
+      "url": "https://www.allmusic.com/album/smear-mw0000665109"
+    },
+    {
+      "label": "Curse Mackey同期访谈",
+      "url": "https://sonic-boom.com/interview/evil.mothers-1.interview.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/61b21c03-acbd-450e-a167-7850bfa42c31"
+  },
+  "musicLinks": {},
   "listens": 366,
   "listeners": 78,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/61b21c03-acbd-450e-a167-7850bfa42c31"
-  },
   "edges": [
     {
       "to": "pigface",

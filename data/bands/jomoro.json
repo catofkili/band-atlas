@@ -13,22 +13,36 @@
       "year": 2021
     }
   ],
-  "intro": "Jomoro是来自美国、2021年至今活跃的音乐团体。现有唱片目录收录了2021年的《Blue Marble Sky》。理解这个项目的另一条线索是成员关系：Mauro Refosco的履历把它与Atoms for Peace连接起来。从Atoms for Peace沿关系网点进来时，《Blue Marble Sky》可以作为试听入口。",
+  "intro": "Jomoro是鼓手Joey Waronker与巴西打击乐手Mauro Refosco在2021年组成的二人项目；两人此前都曾在Atoms for Peace合作。首张《Blue Marble Sky》由二人在疫情期间远程交换录音完成，以电子节拍和有机打击乐为轴，连接巴西节奏、另类摇滚、氛围与实验音乐；Sharon Van Etten、Lucius、Karina Buhr和Brandon Markell Holmes等人提供客席演唱。项目的主角始终是节奏，两位鼓手先建立会呼吸的底层，再让不同歌手进入其中。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Sony Music官方项目介绍",
+      "url": "https://www.sonymusic.ca/press_release/joey-waronker-mauro-refosco-are-jomoro-debut-album-blue-marble-sky-out-june-4-via-sony-music-masterworks"
+    },
+    {
+      "label": "Echoes访谈介绍",
+      "url": "https://echoes.org/2021/07/30/echoes-podcast-jomoro-percussion-duo/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d5d0a571-5b0f-4476-aff1-66404bf71bef"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0018Mfb72dtKTq",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F47107306"
+  },
   "listens": 713,
   "listeners": 263,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d5d0a571-5b0f-4476-aff1-66404bf71bef"
-  },
   "edges": [
     {
       "to": "atoms-for-peace",

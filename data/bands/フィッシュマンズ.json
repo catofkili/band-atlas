@@ -1,7 +1,7 @@
 {
   "id": "フィッシュマンズ",
   "mbid": "d0f25f16-7782-42e8-8047-c16a1cb2b450",
-  "name": "フィッシュマンズ",
+  "name": "Fishmans",
   "area": "日本",
   "countryCode": "JP",
   "country": "日本",
@@ -73,6 +73,12 @@
       "title": "Walkin'"
     }
   ],
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0006RSRd1vahb1",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F19430",
+    "apple": "https://music.apple.com/us/artist/fishmans/304929223",
+    "spotify": "https://open.spotify.com/artist/1g8HCTiMwBtFtpRR9JXAZR"
+  },
   "listens": 116600,
   "listeners": 3247,
   "quality": {

@@ -55,6 +55,11 @@
       "title": "LOVE&VICE"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/977044086",
+    "spotify": "https://open.spotify.com/artist/0O0hxUrO2PKxZknken3R24",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F1063047"
+  },
   "listens": 17005,
   "listeners": 1000,
   "quality": {

@@ -22,6 +22,10 @@
   ],
   "intro": "12 Rounds 是一支由阿提库斯·罗斯（Atticus Ross）和歌手克劳迪娅·萨恩（Claudia Sarne）——两人是夫妻——组建的英国摇滚乐队。首张专辑《Jitter Juice》发行后，他们曾与 Sneaker Pimps 乐队一同巡演。",
   "introLang": "zh",
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F85314",
+    "apple": "https://music.apple.com/us/artist/12-rounds/3450245"
+  },
   "listens": 5890,
   "listeners": 192,
   "quality": {

@@ -39,6 +39,11 @@
   ],
   "intro": "MONO是一支成立于1999年的日本东京四人后摇滚/器乐摇滚乐队。MONO的音乐风格融合了管弦乐、瞪鞋摇滚和吉他噪音元素。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/53LVoipNTQ4lvUSJ61XKU3",
+    "apple": "https://music.apple.com/us/artist/band-atlas/172989390",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F20452"
+  },
   "listens": 292675,
   "listeners": 4558,
   "quality": {

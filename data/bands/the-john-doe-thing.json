@@ -21,22 +21,36 @@
       "year": 2006
     }
   ],
-  "intro": "The John Doe Thing是来自洛杉矶的音乐团体。现有唱片目录可从1995年的《Kissingsohard》一路听到2006年的《For The Best Of Us》。理解这个项目的另一条线索是成员关系：Charlie Quintana的履历把它与Izzy Stradlin and the Ju Ju Hounds连接起来。从Izzy Stradlin and the Ju Ju Hounds沿关系网点进来时，《Kissingsohard》可以作为试听入口。",
+  "intro": "The John Doe Thing是洛杉矶朋克乐队X的主唱兼贝斯手John Doe在1990年代中后期用于个人乐队作品的名义。1995年的《Kissingsohard》重新靠近X的摇滚冲击，2000年的《Freedom Is...》则让他低沉的声线在独立摇滚、根源摇滚、乡村与内省唱作之间自由移动；合作乐手包括Smokey Hormel、Charlie Quintana等。这个名称没有固定到永恒阵容，更像Doe强调“这是乐队演奏的个人作品”时使用的阶段性招牌。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Los Angeles Times同期专访",
+      "url": "https://www.latimes.com/archives/la-xpm-1995-10-27-ca-61946-story.html"
+    },
+    {
+      "label": "《Freedom Is...》资料与评论",
+      "url": "https://www.allmusic.com/album/freedom-is-mw0000447031"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9b6521b9-d689-4ffc-ba3e-9f61ad557d41"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003alsSc1bprCq",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F636594"
+  },
   "listens": 424,
   "listeners": 39,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/9b6521b9-d689-4ffc-ba3e-9f61ad557d41"
-  },
   "edges": [
     {
       "to": "izzy-stradlin-and-the-ju-ju-hounds",

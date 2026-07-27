@@ -21,22 +21,36 @@
       "year": 2009
     }
   ],
-  "intro": "曽我部恵一BAND是来自日本的音乐团体。现有唱片目录可从2005年的《Live》一路听到2009年的《ハピネス！》。理解这个项目的另一条线索是成员关系：曽我部恵一的履历把它与サニーデイ・サービス连接起来。从サニーデイ・サービス沿关系网点进来时，《Live》可以作为试听入口。",
+  "intro": "曽我部恵一BAND是Sunny Day Service主唱曽我部恵一把个人创作重新放进固定摇滚阵容的项目，成员包括吉他手上野智文、贝斯手大塚謙一郎与鼓手オータコージ。乐队在2000年代中后期以高密度现场活动建立名声，《キラキラ！》《ハピネス！》把曽我部原本细腻的城市与爱情叙事，转化成更直接、汗水充足、带朋克冲劲的合奏。它与曽我部的个人名义并行：歌曲作者相同，但BAND强调四个人在舞台上共同把旋律推向高潮的力量。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "ORICON乐队简介",
+      "url": "https://www.oricon.co.jp/prof/380446/"
+    },
+    {
+      "label": "富士电视台FACTORY乐队简介",
+      "url": "https://www.fujitv.co.jp/FACTORY/CS0159/0004pro.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f77e4438-2602-4587-b4f1-32baaab1e146"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001Kvo8q3LGVpw",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F21442"
+  },
   "listens": 1423,
   "listeners": 19,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f77e4438-2602-4587-b4f1-32baaab1e146"
-  },
   "edges": [
     {
       "to": "サニーデイ-サービス",

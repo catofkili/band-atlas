@@ -17,23 +17,34 @@
       "year": 2000
     }
   ],
-  "intro": "No Forcefield是来自美国的音乐团体。2000年的唱片目录包括《God Is an Excuse》和《Lee's Oriental Massage 415-626-1837》。理解这个项目的另一条线索是成员关系：DJ Disk、Larry LaLonde的履历把它与Primus连接起来。从Primus沿关系网点进来时，《God Is an Excuse》可以作为试听入口。",
+  "intro": "No Forcefield是2000年前后活跃于旧金山湾区的实验组合，核心包括制作人Extrakd、艺术家Adam “The Filthy Ape” Gates、Primus吉他手Larry “Ler” LaLonde与鼓手Bryan “Brain” Mantia，DJ Disk和DJ Flare也参与唱盘。两张唱片《Lee’s Oriental Massage 415-626-1837》和《God Is an Excuse》把现场鼓、重型吉他、刮碟、采样与荒诞对白拼成难以归类的funk、hip-hop和实验摇滚；项目约在2001年后停止演出，部分素材及人脉又与Gonervill等湾区合作相接。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "No Forcefield成员、现场与唱片资料汇编",
+      "url": "https://www.thespentpoets.com/No_Forcefield.html"
+    },
+    {
+      "label": "AllMusic《God Is an Excuse》发行资料",
+      "url": "https://www.allmusic.com/album/release/god-is-an-excuse-mr0000281784"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4a4df54a-5878-455f-abdb-2919a0cf650a"
+  },
+  "musicLinks": {},
   "listens": 99,
   "listeners": 9,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/4a4df54a-5878-455f-abdb-2919a0cf650a"
-  },
   "edges": [
     {
       "to": "primus",

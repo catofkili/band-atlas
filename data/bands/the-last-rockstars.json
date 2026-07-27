@@ -14,6 +14,12 @@
   "albums": [],
   "intro": "The Last Rockstars是由X JAPAN团长YOSHIKI、L'Arc-en-Ciel主唱HYDE、LUNA SEA与X JAPAN的吉他手SUGIZO、国际音乐人MIYAVI于2022年11月11日联合组成的乐团。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1659606311",
+    "spotify": "https://open.spotify.com/artist/4tCAdCQzODk8RI5LvTfujz",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003uBmra4X4K9h",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F54992676"
+  },
   "listens": 1300,
   "listeners": 66,
   "quality": {

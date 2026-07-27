@@ -8,23 +8,34 @@
   "years": "1985–1985",
   "genres": [],
   "albums": [],
-  "intro": "The Singing Rebels’ Band是来自英国、1985年活跃的音乐团体。理解这个项目的另一条线索是成员关系：George Harrison、Ringo Starr的履历把它与The Beatles连接起来。",
+  "intro": "The Singing Rebels’ Band是1985年英国讽刺喜剧电影《Water》结尾出现的虚构兼一次性明星乐队。电影为联合国演出的《Freedom》由Billy Connolly与Chris Tummings领唱，伴奏阵容集合George Harrison、Ringo Starr、Eric Clapton、Jon Lord、Ray Cooper、Mike Moran和Chris Stainton等人；歌曲也以电影原声单曲发行。成员在银幕中以自己身份客串，但这一团名只属于影片情境，并没有独立延续的乐队生涯。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Water》完整演职员表与乐队客串阵容",
+      "url": "https://www.imdb.com/title/tt0090297/fullcredits/"
+    },
+    {
+      "label": "电影原声《Freedom》演唱署名与单曲记录",
+      "url": "https://www.soundtrackcollector.com/title/41416/Water"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fe6bd6fb-dcc3-4091-b97d-8b0097702bd2"
+  },
+  "musicLinks": {},
   "listens": 1,
   "listeners": 1,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/fe6bd6fb-dcc3-4091-b97d-8b0097702bd2"
-  },
   "edges": [
     {
       "to": "george-s-band",

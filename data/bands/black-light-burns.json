@@ -36,6 +36,12 @@
       "title": "Lie"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/250394929",
+    "spotify": "https://open.spotify.com/artist/481O9YRYc0ifnh00ZS6no6",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002oTvCe28er3i",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F29835"
+  },
   "listens": 70379,
   "listeners": 1992,
   "quality": {

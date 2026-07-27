@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Butterfly Launches From Spar Pole是音乐团体。理解这个项目的另一条线索是成员关系：Ray Prestegard的履历把它与Giants in the Trees连接起来。",
+  "intro": "Butterfly Launches From Spar Pole由自然作家、鳞翅目学者Robert Michael Pyle与前Nirvana贝斯手Krist Novoselić在2010年为当地Grange活动开始合作，之后加入多乐器手Ray Prestegard。Pyle朗诵诗歌，Novoselić写作并演奏原声音乐，Prestegard补入吉他、提琴与mandocello；十一曲同名专辑最终于2023年发行。作品从美国西北部森林、河流和生物出发讨论演化、气候与死亡，定位是民谣化的自然写作和口述音乐，而不是另一支grunge乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "项目官网对2010年起源、三人加入顺序与自然主题的介绍",
+      "url": "https://www.butterflylaunch.com/about.html"
+    },
+    {
+      "label": "华盛顿州立大学杂志的专辑形式、创作过程与主题访谈",
+      "url": "https://magazine.wsu.edu/2020/04/26/consider-the-butterfly/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1e33e92d-956e-4623-8b19-96f2cfdbd559"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/1e33e92d-956e-4623-8b19-96f2cfdbd559"
-  },
   "edges": [
     {
       "to": "giants-in-the-trees",

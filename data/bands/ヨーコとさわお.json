@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "ヨーコとさわお是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：山中さわお的履历把它与the pillows连接起来。",
+  "intro": "ヨーコとさわお是noodles主唱兼吉他手yoko与山中さわお使用的双人现场名义。两人长期通过山中主宰的DELICIOUS LABEL合作，后来又与楠部真也组成Casablanca；在这个更小的编制里，他们以歌声和吉他呈现各自作品，2024年还以两人署名巡演大阪、名古屋与下北泽。公开资料没有显示该名义发行过独立唱片，因此它应视为两位老搭档的acoustic／joint live单元，而不是Casablanca之外另建的常设全编制乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "ぴあ两人署名、巡演日期与会场资料",
+      "url": "https://lp.p.pia.jp/event/music/353002/index.html"
+    },
+    {
+      "label": "音楽ナタリー两人与Casablanca合作背景",
+      "url": "https://natalie.mu/owarai/artist/118408"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a3feea23-241b-4dfe-acc9-cea1112b65fd"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a3feea23-241b-4dfe-acc9-cea1112b65fd"
-  },
   "edges": [
     {
       "to": "the-pillows",

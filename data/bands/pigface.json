@@ -41,6 +41,11 @@
   ],
   "intro": "Pigface 是一支美国工业摇滚超级乐队，由马丁·阿特金斯（Martin Atkins）和威廉·里夫林（William Rieflin）于 1990 年组建。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/44134173",
+    "spotify": "https://open.spotify.com/artist/64mGp5QFpsekCRHe6RqDYz",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F98590"
+  },
   "listens": 39671,
   "listeners": 1040,
   "quality": {

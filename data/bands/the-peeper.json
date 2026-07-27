@@ -13,23 +13,30 @@
       "year": 2008
     }
   ],
-  "intro": "The Peeper是来自美国的音乐团体。现有唱片目录收录了2008年的《Time Machine》。理解这个项目的另一条线索是成员关系：John Moloney的履历把它与Chelsea Light Moving连接起来。从Chelsea Light Moving沿关系网点进来时，《Time Machine》可以作为试听入口。",
+  "intro": "The Peeper是2008年在马萨诸塞州Easthampton只演出一晚的自由即兴组合，由Matt Krefting、John Moloney、Gene Moore、Thurston Moore与Bill Nace组成。五人在短命唱片店Time Machine制造了一段约三十一分钟的迷幻噪音爆发，现场录音后来以同名单曲发行；资料中的《Time Machine》实际指向演出地点而非正规录音室专辑。它把Sunburned Hand of the Man、Body/Head和Chelsea Light Moving等人脉临时交叠，却从未作为固定乐队延续。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Sunburned Hand of the Man官方Bandcamp阵容、演出地点与录音说明",
+      "url": "https://sunburnedhandoftheman.bandcamp.com/album/the-peeper"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6335489e-3312-41a0-a304-ed6a520251d6"
+  },
+  "musicLinks": {},
   "listens": 1,
   "listeners": 1,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6335489e-3312-41a0-a304-ed6a520251d6"
-  },
   "edges": [
     {
       "to": "body-head",

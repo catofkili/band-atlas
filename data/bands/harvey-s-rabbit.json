@@ -13,22 +13,36 @@
       "year": 1998
     }
   ],
-  "intro": "Harvey's Rabbit是来自曼彻斯特的音乐团体。现有唱片目录收录了1998年的《The New Spiritual Vacuum》。理解这个项目的另一条线索是成员关系：Andy Bell、Loz Colbert、Steve Queralt的履历把它与Ride连接起来。从Ride沿关系网点进来时，《The New Spiritual Vacuum》可以作为试听入口。",
+  "intro": "Harvey’s Rabbit是约1992年成立于曼彻斯特的独立摇滚乐队，与资料库中偶见的Ride成员关联并非同一项目。乐队以DIY方式演出和发行，1994年录音带《A Place for Beginners》之后为John Peel录制过一次session，也曾为The Fall暖场并翻唱Robert Forster的《Is This What You Call Change?》；1998年专辑《The New Spiritual Vacuum》和同年秋季最后一场演出为早期阶段收尾，部分成员后来以The Harveys名义延续活动。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "The Harveys官方厂牌历史与发行资料",
+      "url": "https://germanshepherdrecords.wordpress.com/artists/the-harveys/"
+    },
+    {
+      "label": "John Peel session与早期活动回顾",
+      "url": "https://festive50.wordpress.com/2009/01/25/five-bunny-hops/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6fc16f58-4562-47e6-a364-b03011e5f1ea"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000P4Hse3BII5n",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F13842447"
+  },
   "listens": 21,
   "listeners": 11,
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6fc16f58-4562-47e6-a364-b03011e5f1ea"
-  },
   "edges": [
     {
       "to": "ride",

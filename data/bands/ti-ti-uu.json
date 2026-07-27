@@ -8,22 +8,37 @@
   "years": "2016–",
   "genres": [],
   "albums": [],
-  "intro": "ti-ti.uu是来自日本、2016年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：345的履历把它与凛として時雨连接起来。",
+  "intro": "ti-ti.uu是凛として時雨、geek sleep sheep的345与もらん吉他手なるけしんご组成的日本原声二人组。两人以345更轻柔贴近的歌声、木吉他和极少量配器，刻意离开主团的高压失真与复杂节拍；2016年首张CD《tone》及同年首次单独巡演确立了项目，2018年迷你专辑《door》又由凛として時雨的TK担任录音工程，使两条音乐人脉在幕后重新交会。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "音楽ナタリー首张CD与巡演报道",
+      "url": "https://natalie.mu/music/news/168518"
+    },
+    {
+      "label": "Billboard Japan《door》与TK录音报道",
+      "url": "https://www.billboard-japan.com/artists/detail/195190"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/534ecdc4-9063-4aa1-8b28-1526f1920776"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/6xSrUiMiPCGT1lw4lbAMyk",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003y1fK20H5QuO",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F30109229"
+  },
   "listens": 33,
   "listeners": 9,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/534ecdc4-9063-4aa1-8b28-1526f1920776"
-  },
   "edges": [
     {
       "to": "ling-tosite-sigure",

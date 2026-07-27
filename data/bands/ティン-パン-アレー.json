@@ -37,6 +37,11 @@
   ],
   "intro": "Tin Pan Alley 是一支成立于1973年的日本乐队。所属经纪公司为桑原事务所。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/291626762",
+    "spotify": "https://open.spotify.com/artist/1hpng1qlmNyaCQZLdZpbfQ",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F45253"
+  },
   "listens": 675,
   "listeners": 120,
   "quality": {

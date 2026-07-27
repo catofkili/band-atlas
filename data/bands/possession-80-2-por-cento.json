@@ -8,23 +8,34 @@
   "years": "2014–",
   "genres": [],
   "albums": [],
-  "intro": "POSSESSION=80.2 POR CENTO是来自日本、2014年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：谷口鮪的履历把它与KANA-BOON连接起来。",
+  "intro": "POSSESSION=80.2 POR CENTO是FM802为2014年开局25周年ACCESS!活动组织的一曲限定单元。桜井和寿与GAKU-MC组成的ウカスカジー创作、制作《春の歌》，KREVA追加歌词，并与蒼山幸子、阿部真央、岡野昭仁、川上洋平、谷口鮪、秦基博、槇原敬之等十一组歌手接唱；KAN、スキマスイッチ、吉井和哉等另参加合唱。这个长团名只服务于电台活动及该曲署名，之后由ウカスカジー另行自我翻唱。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Skream完整演唱、合唱与录音乐手名单",
+      "url": "https://skream.jp/news/2014/02/fm802_access_harunouta.php"
+    },
+    {
+      "label": "FM802历年活动中的2014年歌曲记录",
+      "url": "https://funky802.com/access/hanabi/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6c25ac2f-2c9f-4cbb-82b8-8018c39777d3"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6c25ac2f-2c9f-4cbb-82b8-8018c39777d3"
-  },
   "edges": [
     {
       "to": "sugar-the-radio-fire",

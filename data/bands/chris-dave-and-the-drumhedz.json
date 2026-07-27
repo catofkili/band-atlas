@@ -13,22 +13,36 @@
       "year": 2018
     }
   ],
-  "intro": "Chris Dave and The Drumhedz是来自美国的音乐团体。现有唱片目录收录了2018年的《Chris Dave and The Drumhedz》。理解这个项目的另一条线索是成员关系：Chris Dave的履历把它与The Vanguard连接起来。从The Vanguard沿关系网点进来时，《Chris Dave and The Drumhedz》可以作为试听入口。",
+  "intro": "Chris Dave and The Drumhedz是鼓手Chris Dave把多年录音与巡演伙伴组织起来的开放式乐手集合。Dave曾与D’Angelo、Robert Glasper、Erykah Badu等人合作，2013年的免费《Drumhedz Mixtape》先把这些圈子里的爵士、嘻哈、福音与新灵魂乐连接起来，2018年再由Blue Note发行同名首张正式专辑。乐队没有永久封闭的阵容，辨识度来自Dave对拍点的处理：鼓声会故意落后、切碎或突然留白，让复杂节奏仍然保持可以点头跟随的groove。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Blue Note官方艺人简介",
+      "url": "https://www.bluenote.com/artist/chris-dave-and-the-drumhedz/"
+    },
+    {
+      "label": "Universal Music艺人简介",
+      "url": "https://www.universal-music.co.jp/chris-dave/biography/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/87e23315-d32b-4bfd-9116-afe8beafe6de"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003gFMJ018R2BP",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12977344"
+  },
   "listens": 2694,
   "listeners": 528,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/87e23315-d32b-4bfd-9116-afe8beafe6de"
-  },
   "edges": [
     {
       "to": "the-vanguard",

@@ -22,6 +22,12 @@
   ],
   "intro": "imase是日本男性创作歌手，岐阜县出身。现所属唱片公司为维京音乐。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1598758503",
+    "spotify": "https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003o2vm21NeSNX",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F50901152"
+  },
   "listens": 43900,
   "listeners": 2853,
   "quality": {

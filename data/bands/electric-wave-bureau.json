@@ -8,23 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Electric Wave Bureau是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Damon Albarn的履历把它与Blur连接起来。",
+  "intro": "Electric Wave Bureau是Damon Albarn与长期音乐总监Mike Smith等伙伴组成的电影配乐集体，工作重点是为影像共同作曲和制作，而非按唱片周期活动。2012年Rufus Norris执导的《Broken》是其最明确的早期项目，声音以钢琴、细碎电子音色和片中少女演唱的歌曲连接家庭创伤与童年视角；团队后来也参与《The Kid Who Would Be King》等电影。它与Albarn其他乐队的区别在于没有固定舞台人格，成员以声音设计和叙事功能为先。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Broken》官方媒体资料",
+      "url": "https://filmmovement.com/userFiles/uploads/films/broken/broken_presskit.pdf"
+    },
+    {
+      "label": "《Broken》配乐资料",
+      "url": "https://www.imdb.com/title/tt1441940/soundtrack/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/faf397af-1ab2-44a2-86a5-6f88da701a4a"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F858178"
+  },
   "listens": 475,
   "listeners": 28,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/faf397af-1ab2-44a2-86a5-6f88da701a4a"
-  },
   "edges": [
     {
       "to": "blur",

@@ -62,6 +62,7 @@ data/
     popularity.json     现有乐队的 ListenBrainz 历史收听与听众数
     wikidata-enrichment.json 现有乐队的流派与代表作品候选
     guest-edges.json    MusicBrainz 录音层客串 / 合作（勿手改）
+    music-links.json    四个平台艺人主页、证据类型与待复核候选
     scene-jrock.json    人工整理，覆盖层：中文简介、轶事、恩怨
     greater-china.json  大陆、台湾、香港代表乐队精品卡与探索关系
   review/
@@ -91,6 +92,10 @@ tools/
   build-standalone.mjs  压成一个自包含 HTML
   lib/mb.mjs            限速、落盘缓存、重试
 ```
+
+流媒体艺人主页单独保存在 `data/source/music-links.json`。人工链接与 Wikidata /
+MusicBrainz 外部 ID 优先；平台搜索只有在名称唯一精确匹配，或同名候选能用已有专辑、
+曲目唯一核对时才会写入。未能确认的平台会在卡片中标成“未找到主页”。
 
 ## 数据管线
 

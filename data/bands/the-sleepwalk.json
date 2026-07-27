@@ -29,22 +29,32 @@
       "year": 2010
     }
   ],
-  "intro": "The Sleepwalk是来自日本的音乐团体。现有唱片目录可从2007年的《Phantasmagoria III》一路听到2010年的《Phantasmagoria II》。理解这个项目的另一条线索是成员关系：大島昌樹的履历把它与Melt‐Banana连接起来。从Melt‐Banana沿关系网点进来时，《Phantasmagoria III》可以作为试听入口。",
+  "intro": "The Sleepwalk是1991年在札幌成立、由WATCHMAN主导的日本电子迷幻项目，后来以旭川为据点活动。早期录音把shoegaze的朦胧吉他、dream pop旋律、合成器和采样叠成带有游戏与幻想色彩的声音，1997年还曾为PlayStation游戏《moon》提供音乐。项目后来逐渐成为WATCHMAN的个人形态；《Phantasmagoria》系列则整理了1993至2007年间的demo与旧录音，是进入这支“electro-shoegaze”先行项目最完整的路径。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "The Sleepwalk官方Bandcamp简介",
+      "url": "https://thesleepwalk1.bandcamp.com/album/phantasmagoria-iii"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/12782f3a-dfe7-4d27-8bff-7a5513b59ce3"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0012baIT43eD6t",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F57204641"
+  },
   "listens": 3437,
   "listeners": 112,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/12782f3a-dfe7-4d27-8bff-7a5513b59ce3"
-  },
   "edges": [
     {
       "to": "melt-banana",

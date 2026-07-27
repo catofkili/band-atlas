@@ -8,22 +8,36 @@
   "years": "2017–2019",
   "genres": [],
   "albums": [],
-  "intro": "怪物舞踏団是来自日本、2017至2019年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：KenKen的履历把它与SHAG连接起来。",
+  "intro": "怪物舞踏団是为百事J-Cola广告在2018年3月至2019年3月组成的五人“怪物乐队”。演歌歌手石川さゆり担任主唱，SUGIZO弹吉他、KenKen弹贝斯，青森吉祥物鼓手にゃんごすたー与世界DJ冠军DJ RENA分别负责鼓和唱盘。组合围绕广告曲及公开舞台把演歌唱腔、重型吉他、强节奏与DJ表演并置；成员与活动期均由唱片公司明确公布，因此它是有限期商业企划，但并非只有合成画面的虚构乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Universal Music官方活动期、五人阵容与角色分工",
+      "url": "https://www.universal-music.co.jp/kaibutsu/biography/"
+    },
+    {
+      "label": "活动报告中的百事企划与现场演出记录",
+      "url": "https://www.domatsuri.com/2018/fes/report/20th_report.pdf"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c02c0273-e363-41a4-8ae5-0d44975d56aa"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0041OlgY4WOjhz",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F28085403"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c02c0273-e363-41a4-8ae5-0d44975d56aa"
-  },
   "edges": [
     {
       "to": "shag",

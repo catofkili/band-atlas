@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Xavier是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：ZAK、大野由美子的履历把它与Fishmans+连接起来。",
+  "intro": "Xavier是吉他手兼制作人石井マサユキ、录音工程师ZAK与Buffalo Daughter成员大野由美子组成的合作项目。三人不设固定主唱，而以制作团队的方式邀请chelmico、羊文学的塩塚モエカ等新一代音乐人加入；2021年的双A面单曲《Call In Sick / 球体》把80年代舞曲质感、电子音色与现场乐手的放克节奏接在一起。这个名字的重点不是某位“Xavier”，而是三位幕后型音乐人共同搭建、再交给客席歌手改变形状的声音平台。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Xavier与chelmico合作报道",
+      "url": "https://lp.p.pia.jp/article/news/198250/index.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4f015985-cc45-4cc8-abce-bcc1764d56d2"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1583735974",
+    "spotify": "https://open.spotify.com/artist/5TZTT8z0kSBR94dpkZMwiA",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003ZY0sN1xGBch"
+  },
   "listens": 816,
   "listeners": 90,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/4f015985-cc45-4cc8-abce-bcc1764d56d2"
-  },
   "edges": [
     {
       "to": "fishmans",

@@ -53,6 +53,11 @@
       "title": "Budweiser"
     }
   ],
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/0hPU1czS0JdstuT8VRtBPS",
+    "apple": "https://music.apple.com/us/artist/band-atlas/45099030",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F47212795"
+  },
   "listens": 29241,
   "listeners": 1732,
   "quality": {

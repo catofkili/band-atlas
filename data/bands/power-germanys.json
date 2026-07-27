@@ -11,22 +11,33 @@
     "说唱金属"
   ],
   "albums": [],
-  "intro": "POWER GERMANYS是来自日本、2002年活跃的音乐团体，现有资料将其归入另类金属、说唱金属。理解这个项目的另一条线索是成员关系：吉田良文、大谷慎吾、横山明裕、中村雄介、湯浅正俊的履历把它与UNITED连接起来。",
+  "intro": "POWER GERMANYS是日本thrash metal乐队UNITED在2002年与前ヌンチャク双主唱向達郎、クニ合作时使用的限定名义。UNITED当时的吉田良文、大谷慎吾、横山明裕、中村雄介与湯浅正俊构成重型节奏和双吉他基础，两位客席主唱加入三人交错的嘶吼；四曲EP《大地鬼殺しを呑む》还收录House of Pain作品的改编。它记录的是两个日本loud rock世代的一次碰撞，作品后来收进UNITED全集，但没有发展成持续发行的独立团体。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "UNITED官网2002年合作、EP与演出沿革",
+      "url": "https://united-official.com/pc/bio_1.html"
+    },
+    {
+      "label": "Tower Records四曲EP发行与合作说明",
+      "url": "https://tower.jp/item/839737"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fdd015b7-8d2f-4835-bcf5-7e3f3b66a178"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 14,
-    "templateIntro": true,
+    "score": 56,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/fdd015b7-8d2f-4835-bcf5-7e3f3b66a178"
-  },
   "edges": [
     {
       "to": "united",

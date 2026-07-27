@@ -13,22 +13,32 @@
       "year": 2015
     }
   ],
-  "intro": "Exovex是音乐团体。现有唱片目录收录了2015年的《Radio Silence》。理解这个项目的另一条线索是成员关系：Gavin Harrison的履历把它与King Crimson连接起来。从King Crimson沿关系网点进来时，《Radio Silence》可以作为试听入口。",
+  "intro": "Exovex是美国创作人兼多乐器演奏者Dale Simmons主导的前卫摇滚录音项目。2015年唯一专辑《Radio Silence》中，Simmons包办人声、吉他、贝斯与键盘，再按歌曲邀请Keith Carlock、Josh Freese、Gavin Harrison打鼓，Richard Barbieri演奏键盘，Nicole Neely叠加弦乐；六首长篇作品因此在厚重riff、氛围摇滚与精细节拍间更换性格。它不是这些名鼓手共同组成的固定乐队，而是一位作者以客席阵容完成的完整概念唱片。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Radio Silence》阵容与专辑评论",
+      "url": "https://www.progwereld.org/recensie/exovex-radio-silence/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6fdccc63-06c3-411e-aaed-a676eb5dbbd0"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000ZlHoc3MGv1Q",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F34008487"
+  },
   "listens": 156,
   "listeners": 19,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6fdccc63-06c3-411e-aaed-a676eb5dbbd0"
-  },
   "edges": [
     {
       "to": "king-crimson",

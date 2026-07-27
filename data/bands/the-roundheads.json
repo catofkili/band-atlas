@@ -8,23 +8,37 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Roundheads是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Ringo Starr的履历把它与The Beatles连接起来。",
+  "intro": "The Roundheads是Ringo Starr自1998年《Vertical Man》时期起使用的录音与现场伴奏乐队名称，核心来自制作人Mark Hudson的合作班底。Steve Dudas、Gary Burr、Matt Bissonette、Mark Hart与Gregg Bissonette等人随时期参加，既在VH1《Storytellers》中演奏Beatles及Ringo旧作，也参与《Ringo Rama》宣传和2005年Soundstage演出。它与轮换明星各唱代表作的All-Starr Band不同，更接近围绕Ringo本人作品工作的稳定house band。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Ringo Starr官网Roundheads合作与演出沿革",
+      "url": "https://www.ringostarr.com/home/"
+    },
+    {
+      "label": "Soundstage现场阵容与录音资料",
+      "url": "https://en.wikipedia.org/wiki/Ringo_Starr%3A_Live_at_Soundstage"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4afe3d01-67d4-4a2b-a0e7-5c9685658d51"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003dhDZf21ldfc",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F59485218"
+  },
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/4afe3d01-67d4-4a2b-a0e7-5c9685658d51"
-  },
   "edges": [
     {
       "to": "ringo-starr-his-all-starr-band",

@@ -22,6 +22,11 @@
   ],
   "intro": "The Lookouts 是一支美国朋克摇滚乐队，成立于1985年，1990年解散，活动于加利福尼亚州莱顿维尔市郊外一个偏远的山村社区——铁峰（Iron Peak）。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/3KKIo5xiCejwTmrn6npGVC",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002PK8D61gm2o8",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F15213126"
+  },
   "listens": 1070,
   "listeners": 77,
   "quality": {

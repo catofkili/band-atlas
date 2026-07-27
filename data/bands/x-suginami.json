@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "X SUGINAMI是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：ミヤ的履历把它与MUCC连接起来。",
+  "intro": "X SUGINAMI是以MUCC吉他手ミヤ为核心的X JAPAN翻唱乐队，也是“杉並”session系列中活动最早、最频繁的一支。常见阵容由NoGoD的団長主唱，ミヤ与MERRY的結生或A9的ヒロト弹吉他，Akane或Masa担任贝斯，Daisuke等打鼓；他们曾在新宿LOFT主办TRUE NIGHT，并登上2016年VISUAL JAPAN SUMMIT。团名与表演建立在致敬和夸张模仿上，并不是X JAPAN的正式衍生团。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MUCC官方存档VISUAL JAPAN SUMMIT阵容",
+      "url": "https://archive.55-69.com/date/2016/10/page/2"
+    },
+    {
+      "label": "MUCC官方存档TRUE NIGHT阵容与活动记录",
+      "url": "https://archive.55-69.com/category/liveall/page/11"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a3c9e997-5c65-4b06-95bf-e6d54f6444a7"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a3c9e997-5c65-4b06-95bf-e6d54f6444a7"
-  },
   "edges": [
     {
       "to": "mucc",

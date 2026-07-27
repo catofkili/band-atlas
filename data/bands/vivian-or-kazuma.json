@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Vivian or Kazuma是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：KAZUMA的履历把它与SIAM SHADE连接起来。",
+  "intro": "Vivian or Kazuma是徐若瑄与SIAM SHADE主唱兼吉他手遠藤一馬在2002年底组成的一次性双主唱组合。前REBECCA成员土橋安騎夫担任制作并作曲，两位歌手共同填词的《moment》于2003年成为动画《机动战士GUNDAM SEED》第二首片头曲；团名中的“or”意在表达两人都是主角、可以互换前景的双卡司关系。项目主要围绕这一首单曲及其混音展开，却因旋律鲜明的男女对唱成为两人各自目录中最广为人知的交点。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Sony Music官方组合介绍",
+      "url": "https://www.sonymusic.co.jp/artist/VivianorKazuma/info/20943"
+    },
+    {
+      "label": "Sunrise《moment》发行资料",
+      "url": "https://www.sunrise-inc.co.jp/work/news.php?id=109"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6de8b0ce-bbbb-4307-99de-e96789fac2c9"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F22251"
+  },
   "listens": 2120,
   "listeners": 113,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6de8b0ce-bbbb-4307-99de-e96789fac2c9"
-  },
   "edges": [
     {
       "to": "siam-shade",

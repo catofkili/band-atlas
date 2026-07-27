@@ -30,6 +30,9 @@
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/855c04c5-2e03-4c3e-ab18-bfb4ee34ca84"
   },
+  "musicLinks": {
+    "apple": "https://music.apple.com/kr/artist/49-morphines/286928257"
+  },
   "listens": 1351,
   "listeners": 62,
   "quality": {

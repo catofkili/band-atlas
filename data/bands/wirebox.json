@@ -13,22 +13,31 @@
       "year": 2003
     }
   ],
-  "intro": "wirebox是音乐团体。现有唱片目录收录了2003年的《Prison Cell》。理解这个项目的另一条线索是成员关系：Russ Simms的履历把它与Project Tru连接起来。从Project Tru沿关系网点进来时，《Prison Cell》可以作为试听入口。",
+  "intro": "wirebox是制作人Russ Simms参与的美国电子音乐项目，与其Project Tru合作网络相连。2003年由Tru One Records发行的唯一专辑《Prison Cell》包含12首作品，以编程节拍、合成器和录音室拼贴为主要语言；除此之外几乎没有可核实的演出或固定阵容资料，因此更接近Simms主导的一次完整唱片计划，而非持续巡演的传统乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Apple Music《Prison Cell》发行与曲目资料",
+      "url": "https://music.apple.com/us/album/prison-cell/53451161"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6f6f4f2e-c0c5-4bb8-9962-482e65fa35e9"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F36147131"
+  },
   "listens": 16,
   "listeners": 9,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6f6f4f2e-c0c5-4bb8-9962-482e65fa35e9"
-  },
   "edges": [
     {
       "to": "project-tru",

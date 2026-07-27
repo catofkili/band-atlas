@@ -13,23 +13,38 @@
       "year": 2009
     }
   ],
-  "intro": "Afternoon Saints是来自美国的音乐团体。现有唱片目录收录了2009年的《The Shirley Jangle》。理解这个项目的另一条线索是成员关系：David Watson的履历把它与Glacial连接起来。从Glacial沿关系网点进来时，《The Shirley Jangle》可以作为试听入口。",
+  "intro": "Afternoon Saints是Lee Ranaldo、声音艺术家Christian Marclay、打击乐手Günter Müller与吉他兼风笛手David Watson组成的实验即兴组合。四人在纽约Echo Canyon录制《The Shirley Jangle》，由Jim O'Rourke剪辑混音，作品于2009年数字发行、2010年制成三面音乐加一面Ranaldo蚀刻画的双LP。唱盘、打击乐、双吉他与风笛被组织成声音拼贴、自由爵士式无人声长篇，它更像一次完整的电声合奏，而非传统歌曲乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Boomkat的四人阵容、乐器分工、混音与声音说明",
+      "url": "https://boomkat.com/products/the-shirley-jangle"
+    },
+    {
+      "label": "Forced Exposure的录音室、双LP结构与发行资料",
+      "url": "https://www.forcedexposure.com/Catalog/afternoon-saints-the-shirley-jangle-2lp/KED.005LP.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9509e36d-610f-4fe4-8009-2fbee3f55793"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0006lEaq0aHGD3",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F49981980",
+    "apple": "https://music.apple.com/us/artist/afternoon-saints/348447897"
+  },
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/9509e36d-610f-4fe4-8009-2fbee3f55793"
-  },
   "edges": [
     {
       "to": "glacial",

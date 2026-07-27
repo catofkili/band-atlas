@@ -13,22 +13,36 @@
       "year": 2013
     }
   ],
-  "intro": "Deathfix是来自华盛顿特区、2009年至今活跃的音乐团体。现有唱片目录收录了2013年的《Deathfix》。理解这个项目的另一条线索是成员关系：Jerry Busher的履历把它与All Scars连接起来。从All Scars沿关系网点进来时，《Deathfix》可以作为试听入口。",
+  "intro": "Deathfix由Fugazi鼓手Brendan Canty与电子音乐人Rich Morel在Bob Mould巡演团共事后于2009年发起，Mark Cisneros与Devin Ocampo随后加入节奏组，Jerry Busher后来接替Ocampo。两位核心成员共同喜爱1972年前后的华丽摇滚与前卫摇滚，因此2013年同名专辑刻意远离各自最知名的硬核和俱乐部背景，转向钢琴、和声、长篇吉他与松弛groove。它是Dischord目录里少见的经典摇滚侧写，却仍保留华盛顿音乐人直接合奏的质感。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Dischord官方乐队介绍",
+      "url": "https://dischord.com/band/deathfix"
+    },
+    {
+      "label": "Pitchfork同名专辑评论",
+      "url": "https://pitchfork.com/reviews/albums/17809-deathfix-deathfix/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/db0e5c06-c091-46d4-bd42-5ba2ee299123"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000yci9w07bp2y",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F55677122"
+  },
   "listens": 369,
   "listeners": 56,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/db0e5c06-c091-46d4-bd42-5ba2ee299123"
-  },
   "edges": [
     {
       "to": "all-scars",

@@ -25,6 +25,12 @@
   ],
   "intro": "&TEAM是韩国HYBE旗下日本公司YX LABELS透过选秀节目《&AUDITION》推出的九人男子团体，由七位日本成员K、FUMA、YUMA、JO、HARUA、TAKI、MAKI，一位韩国成员EJ，以及一位台湾成员NICHOLAS组成，并由EJ担任队长以及FUMA担任副队长。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1654437478",
+    "spotify": "https://open.spotify.com/artist/2xfxRiKxoHl5tI0MKyvqV7",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0042gpL9421UGP",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F54777598"
+  },
   "listens": 26213,
   "listeners": 762,
   "quality": {

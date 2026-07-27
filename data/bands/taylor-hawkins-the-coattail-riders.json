@@ -25,22 +25,36 @@
       "year": 2019
     }
   ],
-  "intro": "Taylor Hawkins & The Coattail Riders是来自加利福尼亚州、2004至2022年间活跃的音乐团体，现有资料将其归入另类摇滚、流行音乐。现有唱片目录可从2006年的《Taylor Hawkins & The Coattail Riders》一路听到2019年的《Get the Money》。理解这个项目的另一条线索是成员关系：Gannin Arnold的履历把它与Gannin Arnold Project连接起来。从Gannin Arnold Project沿关系网点进来时，《Taylor Hawkins & The Coattail Riders》可以作为试听入口。",
+  "intro": "Taylor Hawkins & The Coattail Riders是Foo Fighters鼓手Taylor Hawkins在2004年成立的个人乐队，他在这里同时担任主唱和鼓手，常见阵容还包括吉他手Gannin Arnold、Nate Wood与贝斯手Chris Chaney。三张专辑从2006年的同名作、2010年的《Red Light Fever》延伸到2019年的《Get the Money》，把Hawkins喜爱的Queen、70年代竞技场摇滚、华丽摇滚和硬摇滚写进更直接的歌曲。随着Hawkins于2022年去世，乐队结束活动；这套目录也因此成为理解他在Foo Fighters鼓手身份之外的写作与演唱能力的主要入口。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Taylor Hawkins官方网站作品页",
+      "url": "https://taylorhawkins.com/taylor-hawkins-the-coattail-riders/"
+    },
+    {
+      "label": "乐队资料页",
+      "url": "https://en.wikipedia.org/wiki/Taylor_Hawkins_and_the_Coattail_Riders"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/397cd952-ae9c-40cb-a504-fd0ef47ec120"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F28414467",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000u94tF3feAjx"
+  },
   "listens": 6644,
   "listeners": 709,
   "quality": {
-    "score": 27,
-    "templateIntro": true,
+    "score": 69,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/397cd952-ae9c-40cb-a504-fd0ef47ec120"
-  },
   "edges": [
     {
       "to": "gannin-arnold-project",

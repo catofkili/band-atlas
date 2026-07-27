@@ -17,22 +17,32 @@
       "year": 2018
     }
   ],
-  "intro": "浅井健一 & THE INTERCHANGE KILLS是来自日本、2016年至今活跃的音乐团体。现有唱片目录可从2017年的《METEO》一路听到2018年的《Sugar》。理解这个项目的另一条线索是成员关系：中尾憲太郎的履历把它与NUMBER GIRL连接起来。从NUMBER GIRL沿关系网点进来时，《METEO》可以作为试听入口。",
+  "intro": "浅井健一 & THE INTERCHANGE KILLS是BLANKEY JET CITY旧将浅井健一在2016年组建的三人乐队，由浅井负责主唱与吉他，NUMBER GIRL前贝斯手中尾憲太郎和鼓手小林瞳组成节奏组。2017年《METEO》与次年《Sugar》把浅井惯有的街头人物、汽车与危险浪漫压进简洁编制，中尾粗壮的低音和小林灵活的鼓让歌曲比大编制项目更紧迫。它既延续浅井个人写作，也是一次刻意回到三人摇滚最直接互动方式的选择。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Oricon《METEO》与阵容资料",
+      "url": "https://www.oricon.co.jp/prof/681532/products/1215815/1/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ed7af7a0-88ba-4779-b20a-6a53129711e6"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1296122892",
+    "spotify": "https://open.spotify.com/artist/7xCHsljGzMqjkBfUFWYSKr"
+  },
   "listens": 399,
   "listeners": 35,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/ed7af7a0-88ba-4779-b20a-6a53129711e6"
-  },
   "edges": [
     {
       "to": "number-girl",

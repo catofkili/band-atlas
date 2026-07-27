@@ -21,22 +21,36 @@
       "year": 1993
     }
   ],
-  "intro": "Amboog-a-Lard是来自科拉尔斯普林斯、1987至1997年间活跃的音乐团体，现有资料将其归入前卫前卫金属、鞭击金属。现有唱片目录可从1991年的《Pro Demo》一路听到1993年的《A New Hope》。理解这个项目的另一条线索是成员关系：Jeordie White的履历把它与Nine Inch Nails连接起来。从Nine Inch Nails沿关系网点进来时，《Pro Demo》可以作为试听入口。",
+  "intro": "Amboog-a-Lard是1987年在佛罗里达州Coral Springs成立的前卫鞭击金属乐队，由鼓手Dan Fontana发起并长期维持。后来以Twiggy Ramirez闻名的Jeordie White在加入Marilyn Manson前曾担任吉他手，参与写作并转任1993年唯一正式专辑《A New Hope》的贝斯与和声；唱片把鞭击金属速度、复杂结构和当时兴起的groove metal重量放在一起。乐队始终停留在南佛罗里达地下场景，White离开后逐渐失去动力，最终于1990年代中后期解散。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Jeordie White个人履历",
+      "url": "https://www.basetendencies.com/Biography.html"
+    },
+    {
+      "label": "Metal Archives专辑资料",
+      "url": "https://www.metal-archives.com/albums/Amboog-a-Lard/A_New_Hope/600877"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f2b32ea0-8983-4b30-b706-5840ad083350"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004VK0474fvp4m",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F87043"
+  },
   "listens": 530,
   "listeners": 18,
   "quality": {
-    "score": 29,
-    "templateIntro": true,
+    "score": 71,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f2b32ea0-8983-4b30-b706-5840ad083350"
-  },
   "edges": [
     {
       "to": "marilyn-manson",

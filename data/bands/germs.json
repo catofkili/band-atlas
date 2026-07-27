@@ -28,6 +28,12 @@
       "title": "Forming"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/41456743",
+    "spotify": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001Li7NF0veRrh",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F78829"
+  },
   "listens": 40176,
   "listeners": 1915,
   "quality": {

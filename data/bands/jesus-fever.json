@@ -17,23 +17,32 @@
       "year": 2010
     }
   ],
-  "intro": "JESUS FEVER是来自日本的音乐团体。现有唱片目录可从1998年的《Dozens of Great Views》一路听到2010年的《lemniscate》。理解这个项目的另一条线索是成员关系：西浦真奈的履历把它与少年ナイフ连接起来。从少年ナイフ沿关系网点进来时，《Dozens of Great Views》可以作为试听入口。",
+  "intro": "JESUS FEVER于1993年秋在京都形成：主唱兼吉他NON与噪音吉他手Okazawa在西部講堂前演出时，被路过的鼓手“China”西浦真奈看到，三人由此固定阵容。1998年首专《DOZENS OF GREAT VIEWS》常被归入关西shoegaze，但缓慢重复、留白与持续噪音同样深受Neu!等Krautrock启发；2000至2002年的录音在沉睡八年后整理为《lemniscate 1》。乐队2004年停止活动，西浦随后在DMBQ美国巡演事故中去世，这两张唱片也成为她以极少音符推动巨大空间感的重要记录。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "OTOTOY乐队历史与《lemniscate 1》专访",
+      "url": "https://ototoy.jp/feature/20100429"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f38d2f08-1e5d-49df-8d95-06c70e468ad0"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F820197"
+  },
   "listens": 103,
   "listeners": 21,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f38d2f08-1e5d-49df-8d95-06c70e468ad0"
-  },
   "edges": [
     {
       "to": "dmbq",

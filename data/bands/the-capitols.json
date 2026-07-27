@@ -8,22 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Capitols是来自荷兰的音乐团体。理解这个项目的另一条线索是成员关系：录音资料记录了它与Radiohead的合作联系。",
+  "intro": "图谱中的The Capitols来自一条自称1980年成立于荷兰的MusicBrainz记录，但其资料可靠性很低：没有可核验唱片，所谓2020年为Radiohead、Johnny Cash、Willie Nelson等担任伴奏的关系彼此矛盾，其中Johnny Cash早已于2003年去世。该条目与The Poops还共用同一WordPress页面，现阶段不能据此确认真实阵容或音乐风格。因此这里保留说明用于揭示来源问题，不把那些关系当作乐队史实。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz原始条目及相互矛盾的伴奏关系",
+      "url": "https://musicbrainz.org/artist/0cf97acb-7b9e-4587-a760-d4e80381fd35"
+    },
+    {
+      "label": "条目共用但缺乏可验证乐队资料的网页",
+      "url": "https://majorqotrunrecords.wordpress.com/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0cf97acb-7b9e-4587-a760-d4e80381fd35"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003tNc741aYFNU",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F79858"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/0cf97acb-7b9e-4587-a760-d4e80381fd35"
-  },
   "edges": [
     {
       "to": "radiohead",

@@ -13,23 +13,30 @@
       "year": 2020
     }
   ],
-  "intro": "Fuktronic是来自美国的音乐团体。现有唱片目录收录了2020年的《Fuktronic》。理解这个项目的另一条线索是成员关系：Serj Tankian的履历把它与System of a Down连接起来。从System of a Down沿关系网点进来时，《Fuktronic》可以作为试听入口。",
+  "intro": "Fuktronic是System of a Down主唱Serj Tankian与Mindless Self Indulgence主脑Jimmy Urine共同创作的电子叙事专辑项目。两人自行编写对白、配音并制作音乐，把虚构Manchester小混混George的失败犯罪经历写成一部不存在的英国黑帮电影；2020年同名专辑用十二段工业电子、追逐节拍和角色对话依次推进情节。它不是以舞台演奏为目标的固定乐队，更像一张有完整人物和场景的“无电影原声带”。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Serj Tankian官网项目概念、发行与完整曲目",
+      "url": "https://serjtankian.com/pages/fuktronic"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/49b7b7ce-bc72-4e51-9eef-aa1408804d25"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/49b7b7ce-bc72-4e51-9eef-aa1408804d25"
-  },
   "edges": [
     {
       "to": "system-of-a-down",

@@ -13,22 +13,36 @@
       "year": 2011
     }
   ],
-  "intro": "The Silver Beatles是来自利物浦、1960年活跃的音乐团体。现有唱片目录收录了2011年的《Silver Beatles at Home 1960》。理解这个项目的另一条线索是成员关系：Stuart Sutcliffe、Tommy Moore、Norman Chapman、John Lennon、George Harrison的履历把它与The Beatles连接起来。从The Beatles沿关系网点进来时，《Silver Beatles at Home 1960》可以作为试听入口。",
+  "intro": "The Silver Beatles是John Lennon、Paul McCartney、George Harrison与Stuart Sutcliffe在1960年短暂使用的过渡团名，处于The Quarrymen之后、The Beatles正式定名之前，鼓手位置则由Tommy Moore、Norman Chapman等人短期填补。这个名字为参加Larry Parnes的伴奏乐队选拔而采用；他们虽未获Billy Fury的工作，却得到为Johnny Gentle进行苏格兰巡演的机会，随后在利物浦与Wirral连续驻演。到同年8月赴汉堡前，“Silver”被去掉并由Pete Best加入，因此它不是另一支旁系乐队，而是Beatles第一次巡演、建立职业纪律时的一段真实旧名。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "The Beatles Story团名与1960年活动史",
+      "url": "https://www.beatlesstory.com/blog/the-beatles-name/"
+    },
+    {
+      "label": "The Beatles Story早期选拔与Billy Fury资料",
+      "url": "https://www.beatlesstory.com/blog/billy-fury-and-the-beatles/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b06f5860-ce8f-4d8f-92ee-6c6f165ef8ef"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0035NfD22nLsSb",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F29062793"
+  },
   "listens": 105,
   "listeners": 31,
   "quality": {
-    "score": 12,
-    "templateIntro": true,
+    "score": 54,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/b06f5860-ce8f-4d8f-92ee-6c6f165ef8ef"
-  },
   "edges": [
     {
       "to": "the-beatles",

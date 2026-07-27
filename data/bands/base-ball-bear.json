@@ -73,6 +73,11 @@
       "title": "changes"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/111133857",
+    "spotify": "https://open.spotify.com/artist/3RkPaFeTMrHIsB5HMEUdNt",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F18703"
+  },
   "listens": 29570,
   "listeners": 932,
   "quality": {

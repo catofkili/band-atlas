@@ -28,22 +28,35 @@
       "year": 1998
     }
   ],
-  "intro": "Divination是来自美国的音乐团体，现有资料将其归入氛围音乐、氛围配乐 Dub。现有唱片目录可从1993年的《Ambient Dub, Volume I》一路听到1998年的《Sacrifice》。理解这个项目的另一条线索是成员关系：Bill Laswell、Jah Wobble的履历把它与Public Image Ltd连接起来。从Public Image Ltd沿关系网点进来时，《Ambient Dub, Volume I》可以作为试听入口。",
+  "intro": "Divination是制作人兼贝斯手Bill Laswell在1990年代使用的环境dub项目名，阵容随每张唱片变化，因此更接近开放式录音框架而非固定乐队。1993年的《Ambient Dub Volume I》由Jeff Bova、Nicky Skopelitis、刘索拉、Buckethead和Robert Musso等人参与，把低频dub、house脉冲与漂浮音景放在一起；后续《Dead Slow》《Akasha》《Distill》逐渐减少明确节拍，转向更黑暗的氛围与声音拼贴。它浓缩了Laswell所谓“碰撞音乐”的方法：让不同背景的乐手在录音室里共享同一片低频空间。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Divination艺人介绍",
+      "url": "https://music.apple.com/gb/artist/divination/7434021"
+    },
+    {
+      "label": "Bill Laswell官方Bandcamp",
+      "url": "https://billlaswell.bandcamp.com/album/ambient-dub-volume-i"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/54d1fad0-569f-4eab-9d1e-d88c285312ee"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F54469"
+  },
   "listens": 1900,
   "listeners": 222,
   "quality": {
-    "score": 24,
-    "templateIntro": true,
+    "score": 66,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/54d1fad0-569f-4eab-9d1e-d88c285312ee"
-  },
   "edges": [
     {
       "to": "material",

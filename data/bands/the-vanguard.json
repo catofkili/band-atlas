@@ -13,22 +13,35 @@
       "year": 2014
     }
   ],
-  "intro": "The Vanguard是来自美国的音乐团体。现有唱片目录收录了2014年的《Black Messiah》。理解这个项目的另一条线索是成员关系：Chris Dave的履历把它与Chris Dave and The Drumhedz连接起来。从Chris Dave and The Drumhedz沿关系网点进来时，《Black Messiah》可以作为试听入口。",
+  "intro": "The Vanguard是D’Angelo在《Black Messiah》时期使用的乐队署名，而不是与他分离活动的普通团体。2014年的专辑把Pino Palladino的贝斯、Chris Dave的鼓、Jesse Johnson与Isaiah Sharkey的吉他、Kendra Foster的和声等音乐人组织成一套松动却精密的节奏系统，在放克、灵魂乐、摇滚和爵士之间不断变形。这个名字也强调《Black Messiah》并非单纯的个人回归作，而是一张由长期合作者共同塑造、并在舞台上继续生长的乐队唱片。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Black Messiah》资料",
+      "url": "https://en.wikipedia.org/wiki/Black_Messiah_(album)"
+    },
+    {
+      "label": "AP乐队与作品回顾",
+      "url": "https://apnews.com/article/a4ddd12fed68e3c5db9053201978da12"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/06c744b8-328d-46a3-96ea-7b98055c702f"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F524730"
+  },
   "listens": 27074,
   "listeners": 1164,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/06c744b8-328d-46a3-96ea-7b98055c702f"
-  },
   "edges": [
     {
       "to": "chris-dave-and-the-drumhedz",

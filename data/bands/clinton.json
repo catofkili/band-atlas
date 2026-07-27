@@ -13,22 +13,36 @@
       "year": 1999
     }
   ],
-  "intro": "Clinton是来自英国的音乐团体。现有唱片目录收录了1999年的《Disco and the Halfway to Discontent》。理解这个项目的另一条线索是成员关系：MusicBrainz将它记录为Cornershop的副项目。从Cornershop沿关系网点进来时，《Disco and the Halfway to Discontent》可以作为试听入口。",
+  "intro": "Clinton是Cornershop核心成员Tjinder Singh与Ben Ayres在主团巡演暂停期间成立的舞曲副项目。1999年的单曲《Buttoned Down Disco》和随后专辑《Disco and the Halfway to Discontent》弱化吉他乐队结构，把迪斯科、放克、嘻哈、电子节拍、雷鬼与旁遮普音乐采样混成一场带政治口号的全球派对，《People Power in the Disco Hour》最能概括其方向。它只留下一个主要专辑周期，却让两人把Cornershop已有的文化拼贴彻底转向舞池。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Clinton专辑与成员资料",
+      "url": "https://www.metacritic.com/music/disco-and-the-half-way-to-discontent/clinton"
+    },
+    {
+      "label": "Clinton同期专访",
+      "url": "https://www.metroactive.com/papers/cruz/01.26.00/clinton-0004.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/521257",
+    "spotify": "https://open.spotify.com/artist/0kEZTiAxUemQeqP06npWMG"
+  },
   "listens": 598,
   "listeners": 87,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/89ac338b-98a4-4e8c-815c-f3c987c9ee96"
-  },
   "edges": [
     {
       "to": "cornershop",

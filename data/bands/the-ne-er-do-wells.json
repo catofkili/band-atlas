@@ -13,22 +13,33 @@
       "year": 1993
     }
   ],
-  "intro": "The Ne’er Do Wells是来自美国的音乐团体。现有唱片目录收录了1993年的《Gift of Knowledge》。理解这个项目的另一条线索是成员关系：John Kiffmeyer的履历把它与Green Day连接起来。从Green Day沿关系网点进来时，《Gift of Knowledge》可以作为试听入口。",
+  "intro": "The Ne’er Do Wells是约1991至1993年活跃于加州Arcata的地下garage-punk乐队，由John Denery、Chris Imlay、贝斯手Jess Hilliard与离开Green Day后的鼓手John “Al Sobrante” Kiffmeyer组成。1993年Lookout!发行的六曲7英寸甚至让唱片两面采用不同转速，同年与Judy & the Loadies的split CD《Gift of Knowledge》保存更多早期录音；Kiffmeyer离开后，其余成员经Thee Shatners逐步发展成The Hi-Fives。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Old Thumb Records官方成员、活动与唱片历史",
+      "url": "https://www.oldthumbrecords.com/the-neer-do-wells"
+    },
+    {
+      "label": "Lookout!唱片目录",
+      "url": "https://www.45cat.com/label/lookout"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1b25c8f1-0a9a-4305-94c7-1d554e2fef0a"
+  },
+  "musicLinks": {},
   "listens": 16,
   "listeners": 5,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/1b25c8f1-0a9a-4305-94c7-1d554e2fef0a"
-  },
   "edges": [
     {
       "to": "thee-shatners",

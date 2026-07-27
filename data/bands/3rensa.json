@@ -17,22 +17,37 @@
       "year": 2020
     }
   ],
-  "intro": "3RENSA是来自日本的音乐团体。现有唱片目录可从2018年的《REDRUM》一路听到2020年的《Another World》。理解这个项目的另一条线索是成员关系：中村弘二的履历把它与SUPERCAR连接起来。从SUPERCAR沿关系网点进来时，《REDRUM》可以作为试听入口。",
+  "intro": "3RENSA是Merzbow、福冈电子音乐人duenn与中村弘二的电子别名NYANTORA组成的自由电子即兴三人组，名称取自三者2017年的首次合作唱片。2018年《REDRUM》中Merzbow负责鼓与电子、duenn负责电子、NYANTORA负责吉他与电子，同一次session再由三人分别混音成不同视角；《Another World》及与大野松雄的现场合作继续让noise、drone、ambient和节拍保持流动，而不收束成唯一版本。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "音楽ナタリー成员、分工与《REDRUM》制作报道",
+      "url": "https://natalie.mu/music/news/300613"
+    },
+    {
+      "label": "Koji Nakamura官网《REDRUM》版本说明",
+      "url": "https://kojinakamura.jp/works-cat/analog-record/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0ccbe20b-d465-458f-83b3-28e4e7efcd4c"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001YvTx82bsa4u",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F34628399",
+    "apple": "https://music.apple.com/jp/artist/3rensa/1501813598"
+  },
   "listens": 20,
   "listeners": 7,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/0ccbe20b-d465-458f-83b3-28e4e7efcd4c"
-  },
   "edges": [
     {
       "to": "supercar",

@@ -17,6 +17,9 @@
   ],
   "intro": "Science Faxtion 是一支美国实验金属乐队，于 2007 年在加利福尼亚州成立。乐队成员包括多乐器演奏家兼主唱 Bootsy Collins、主唱兼吉他手 Greg……",
   "introLang": "zh",
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F50882507"
+  },
   "listens": 1164,
   "listeners": 43,
   "countryInferred": "member-neighbors",

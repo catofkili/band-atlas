@@ -8,22 +8,33 @@
   "years": "2017–",
   "genres": [],
   "albums": [],
-  "intro": "Thurston Moore Group是来自伦敦、2017年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：Debbie Googe的履历把它与My Bloody Valentine连接起来。",
+  "intro": "Thurston Moore Group是Thurston Moore在Sonic Youth之后用于录音和巡演的固定四人编制：他与James Sedwards演奏双吉他，My Bloody Valentine的Debbie Googe负责贝斯与和声，Sonic Youth旧搭档Steve Shelley打鼓。核心阵容从2014年《The Best Day》时期开始合作，2017年以该团名巡演《Rock n Roll Consciousness》。五首长篇作品把噪音吉他、即兴延展和稳定律动连在一起，所以它既是Moore个人创作的载体，也有清晰的乐队化合奏身份。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "WFUV的2017年阵容、专辑与五首长篇作品说明",
+      "url": "https://wfuv.org/content/thurston-moore-2017"
+    },
+    {
+      "label": "Pitchfork对阵容延续与专辑声音的评论",
+      "url": "https://pitchfork.com/reviews/albums/23150-rock-n-roll-consciousness/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8221912e-6c34-4b6e-9cf6-93e7084efd30"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/8221912e-6c34-4b6e-9cf6-93e7084efd30"
-  },
   "edges": [
     {
       "to": "my-bloody-valentine",

@@ -21,22 +21,33 @@
       "year": 2026
     }
   ],
-  "intro": "EmptyORio是来自台湾的音乐团体。现有唱片目录可从2018年的《EmptyORio》一路听到2026年的《ALL THE BEST》。理解这个项目的另一条线索是成员关系：鄭宇辰、柯光的履历把它与滅火器连接起来。从滅火器沿关系网点进来时，《EmptyORio》可以作为试听入口。",
+  "intro": "EmptyORio是来自台湾的四人摇滚乐队，现由主唱宇辰、吉他手牧、贝斯手雷誰与鼓手柯光组成。乐队从2018年同名作品出发，在2021年《莫相信袂變卦》中把台语演唱、庞克冲劲与贴近生活的叙事结合起来，随后继续以高强度现场累积听众；宇辰和柯光也参与滅火器，使两团之间形成直接的人脉联系。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "火氣音樂官方乐队介绍",
+      "url": "https://www.fireonmusic.com.tw/emptyorio/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b4959dda-26fa-4c34-b52a-5610c913a59f"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1382512328",
+    "spotify": "https://open.spotify.com/artist/5XuYYh7VssmjmETxEBUF2M",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F50747872"
+  },
   "listens": 87,
   "listeners": 11,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/b4959dda-26fa-4c34-b52a-5610c913a59f"
-  },
   "edges": [
     {
       "to": "滅火器",

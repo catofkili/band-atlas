@@ -39,6 +39,11 @@
   ],
   "intro": "Exodus是一支来自美国的鞭击金属乐队。作为旧金山鞭击金属“湾区鞭击”的代表乐队之一，该乐队自该流派草创期便开始活跃，虽曾获得业界高度评价，但一度解散，后于2000年代初重新开始活动。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/209763908",
+    "spotify": "https://open.spotify.com/artist/76S65NHJHrNy4JTrXHP2BH",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F91749"
+  },
   "listens": 206484,
   "listeners": 3209,
   "quality": {

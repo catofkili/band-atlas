@@ -15,6 +15,11 @@
   ],
   "intro": "The Longshot 是一支美国摇滚乐队，由绿日乐队（Green Day）主唱比利·乔·阿姆斯特朗（Billie Joe Armstrong）于 2018 年在加利福尼亚州奥克兰市组建。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/6MBlO0toUKQKFi5g0z4u3O",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002sXMj44IQSTL",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F13870545"
+  },
   "listens": 7345,
   "listeners": 586,
   "quality": {

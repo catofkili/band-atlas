@@ -8,23 +8,34 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "R.A.D.D. (Recording Artists Against Drunk Driving)是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Ringo Starr的履历把它与The Beatles连接起来。",
+  "intro": "R.A.D.D.是Recording Artists Against Drunk Driving的缩写，本质上是1980年代发起的反酒驾公益倡议，而非按固定阵容活动的英国乐队。它邀请大量艺人录制广播、电视公益短片，并在1993至1994年前后以The Beatles《Drive My Car》作为“指定驾驶员”主题歌；Ringo Starr参与监督重录，影像还集合Phil Collins、Little Richard、Melissa Etheridge、Trisha Yearwood等。数据库中的成员关系反映这次群星公益录音，不应理解为所有人长期同团。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Los Angeles Times 1988年R.A.D.D.公益短片与参与者报道",
+      "url": "https://www.latimes.com/archives/la-xpm-1988-12-09-ca-1609-story.html"
+    },
+    {
+      "label": "Los Angeles Times《Drive My Car》公益录音报道",
+      "url": "https://www.latimes.com/archives/la-xpm-1993-12-20-ca-3787-story.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1400bb71-35c3-4610-9818-eeba54665cd7"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/1400bb71-35c3-4610-9818-eeba54665cd7"
-  },
   "edges": [
     {
       "to": "plastic-ono-band",

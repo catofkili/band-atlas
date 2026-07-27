@@ -17,22 +17,35 @@
       "year": 1999
     }
   ],
-  "intro": "Thunderbox是来自雷东多海滩的音乐团体，现有资料将其归入乡村音乐、乡村摇滚。现有唱片目录收录了1999年的《Thunderbox》。理解这个项目的另一条线索是成员关系：Jack Sherman的履历把它与Red Hot Chili Peppers连接起来。从Red Hot Chili Peppers沿关系网点进来时，《Thunderbox》可以作为试听入口。",
+  "intro": "这里的Thunderbox是来自加州Redondo Beach的country rock／folk rock乐队，与Humble Pie的同名专辑无关。1999年同名唱片由Swingomatic Records发行，曲目包括《She Spins Around》《Hermosa Avenue》《Banks of Mystery》等，前Red Hot Chili Peppers吉他手Jack Sherman参与这支乐队；其南湾海岸题材和较温和的根源摇滚声音，也与Sherman更知名的早期funk-rock经历形成反差。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz地区与曲风资料",
+      "url": "https://musicbrainz.org/artist/65004947-cdea-47cf-8812-9faf47ebd6c1"
+    },
+    {
+      "label": "Jack Sherman后续乐队履历",
+      "url": "https://www.plasticosydecibelios.com/muere-jack-sherman-ex-guitarrista-de-red-hot-chili-peppers/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/65004947-cdea-47cf-8812-9faf47ebd6c1"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F35710497"
+  },
   "listens": 9,
   "listeners": 1,
   "quality": {
-    "score": 27,
-    "templateIntro": true,
+    "score": 69,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/65004947-cdea-47cf-8812-9faf47ebd6c1"
-  },
   "edges": [
     {
       "to": "red-hot-chili-peppers",

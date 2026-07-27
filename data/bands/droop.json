@@ -17,22 +17,35 @@
       "year": 1997
     }
   ],
-  "intro": "Droop是来自日本的音乐团体。现有唱片目录可从1994年的《Loye Loye》一路听到1997年的《PUNISH PUNGENT WORLD》。理解这个项目的另一条线索是成员关系：西浦真奈的履历把它与少年ナイフ连接起来。从少年ナイフ沿关系网点进来时，《Loye Loye》可以作为试听入口。",
+  "intro": "Droop是1992年前后成立的日本女性地下朋克乐队，鼓手西浦真奈后来也参与JESUS FEVER、羅針盤、少年ナイフ与DMBQ。1994年《Loye Loye》和1997年《PUNISH PUNGENT WORLD》以粗糙吉他、紧迫鼓点和不加修饰的女声连接garage punk、alternative rock与日本90年代独立场景。正式资料稀少，却正因两张唱片与西浦广泛的人脉，成为理解她在知名合作之外早期乐队经验的一块拼图。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Droop乐队与唱片资料",
+      "url": "https://www.sputnikmusic.com/bands/Droop/48191/"
+    },
+    {
+      "label": "西浦真奈履历",
+      "url": "https://en.wikipedia.org/wiki/Mana_Nishiura"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c874b8c7-268b-491a-943b-d0e6d6907593"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004QLGnr36GkhG"
+  },
   "listens": 89,
   "listeners": 13,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c874b8c7-268b-491a-943b-d0e6d6907593"
-  },
   "edges": [
     {
       "to": "dmbq",

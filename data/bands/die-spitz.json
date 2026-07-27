@@ -20,6 +20,12 @@
   ],
   "intro": "Die Spitz 是一支来自德克萨斯州奥斯汀的美国摇滚乐队，成员包括吉他手/主唱/鼓手 Ava Schrobilgen、吉他手/主唱 Eleanor Livingston、贝斯手 Kate Halter 以及鼓手/主唱/吉他手 Chloe de St.",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1545875931",
+    "spotify": "https://open.spotify.com/artist/0zfZmpHTu0MlkkNr5KHeXE",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002M7zqx4OxBma",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F46363033"
+  },
   "listens": 25800,
   "listeners": 1349,
   "quality": {

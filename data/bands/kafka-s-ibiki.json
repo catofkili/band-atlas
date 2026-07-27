@@ -17,22 +17,31 @@
       "year": 2014
     }
   ],
-  "intro": "Kafka’s Ibiki是来自日本的音乐团体。现有唱片目录可从2013年的《Kafka’s Ibiki/カフカ鼾》一路听到2014年的《Okite》。理解这个项目的另一条线索是成员关系：石橋英子、山本達久的履历把它与Eiko Ishibashi Trio连接起来。从Eiko Ishibashi Trio沿关系网点进来时，《Kafka’s Ibiki/カフカ鼾》可以作为试听入口。",
+  "intro": "Kafka’s Ibiki是居住在东京的Jim O’Rourke与石橋英子、鼓手山本達久组成的器乐即兴三重奏。首张现场作《Okite》让长篇演奏在爵士、ambient、minimalism和实验摇滚之间缓慢移动；2016年《Nemutte》则由O’Rourke把多次录音室即兴彻底剪接重组，连另外两位成员都一度听不出自己的原始演奏，从“醒着”的现场反应转向近似梦境的后期构作。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "The Japan Times三重奏访谈与《Nemutte》制作解析",
+      "url": "https://www.japantimes.co.jp/culture/2016/10/09/music/hive-sonic-activity-stirs-kafkas-ibiki-release/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/da85b991-7a08-410d-8e5e-86504b175feb"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F98649320"
+  },
   "listens": 33,
   "listeners": 9,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/da85b991-7a08-410d-8e5e-86504b175feb"
-  },
   "edges": [
     {
       "to": "eiko-ishibashi-trio",

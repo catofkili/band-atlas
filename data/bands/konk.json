@@ -25,6 +25,9 @@
   ],
   "intro": "KONK是一支美国乐队，于1980年在纽约市成立，活跃至1988年，其成名时期正值后朋克/新浪潮和迪斯科音乐风靡一时的时代。",
   "introLang": "zh",
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F63578"
+  },
   "listens": 2072,
   "listeners": 425,
   "quality": {

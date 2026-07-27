@@ -39,6 +39,11 @@
   ],
   "intro": "Material是一支由音乐制作人兼贝斯手比尔·拉兹韦尔领军的美国流行乐队，成立于1979年，活动持续至1999年。 该乐队最初由拉兹韦尔、迈克尔·拜恩霍恩、弗雷德·马尔、克利夫·卡特雷利、克雷默等人，作为专为大卫·艾伦等来自欧洲的音乐人服务的驻场乐队而活动。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/7yegFhKemMedsme3entsAW",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000KDosa0A6eig",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F66931"
+  },
   "listens": 11520,
   "listeners": 1041,
   "quality": {

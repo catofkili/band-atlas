@@ -23,6 +23,12 @@
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/5a936f9a-0b59-4d6e-90fc-3aaca24f5717"
   },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1256161621",
+    "spotify": "https://open.spotify.com/artist/6CPRNvNZxQq4thYYQVijUH",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002Brt8v3cUPHc",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F37393583"
+  },
   "listens": 1164,
   "listeners": 128,
   "quality": {

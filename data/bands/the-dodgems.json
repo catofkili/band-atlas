@@ -8,22 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Dodgems是来自谢菲尔德的音乐团体。理解这个项目的另一条线索是成员关系：Nick O’Malley的履历把它与Arctic Monkeys连接起来。",
+  "intro": "The Dodgems是2000年代初在谢菲尔德活动的四人rock and roll／indie rock乐队，由Phil Goodwin主唱兼吉他、Tom Goodwin弹键盘，节奏组阵容则经历变动。乐队曾获Alan McGee签约，2005年发行《It’s Alright》，之后又推出《You’re Not What You Used to Be》《Candlewax》等单曲；早期贝斯手Nick O’Malley在2006年受邀替补Arctic Monkeys并最终正式加入，使The Dodgems成为谢菲尔德乐队谱系中的一条直接支线。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Irish Times关于Nick O’Malley转入Arctic Monkeys的报道",
+      "url": "https://www.irishtimes.com/culture/primates-of-all-england-1.1202742"
+    },
+    {
+      "label": "The Dodgems阵容与单曲资料存档",
+      "url": "https://en-academic.com/dic.nsf/enwiki/1155231/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1669f2de-de78-417b-9b79-4f0fde601fc7"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000GHUoM3ptY1u",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F473874"
+  },
   "listens": 9,
   "listeners": 3,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/1669f2de-de78-417b-9b79-4f0fde601fc7"
-  },
   "edges": [
     {
       "to": "arctic-monkeys",

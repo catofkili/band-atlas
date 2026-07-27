@@ -26,6 +26,12 @@
     "official": "https://fzmz.jp/",
     "musicbrainz": "https://musicbrainz.org/artist/e10a7d73-546b-4961-8390-2a9171beaa7a"
   },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000g0LTS1e1gt0",
+    "spotify": "https://open.spotify.com/artist/0RrQBLmeSCUkYFs0vncrhb",
+    "apple": "https://music.apple.com/us/artist/band-atlas/1705665721",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F58387247"
+  },
   "listens": 6456,
   "listeners": 621,
   "quality": {

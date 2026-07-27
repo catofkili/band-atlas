@@ -229,6 +229,121 @@ button { font: inherit; color: inherit; }
   margin: 7px 0 0;
 }
 
+.listen {
+  flex: none;
+  margin-top: 14px;
+  border: 1px solid color-mix(in srgb, var(--ink) 15%, var(--line));
+  border-radius: 10px;
+  background: rgba(255, 255, 255, 0.035);
+  overflow: clip;
+}
+
+.listen__summary {
+  min-height: 40px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 11px;
+  cursor: pointer;
+  list-style: none;
+  color: var(--ink);
+  user-select: none;
+}
+.listen__summary::-webkit-details-marker { display: none; }
+.listen__summary::after {
+  content: '⌄';
+  margin-left: 2px;
+  color: var(--ink-3);
+  transition: transform 0.18s ease;
+}
+.listen[open] .listen__summary::after { transform: rotate(180deg); }
+.listen__summary:hover,
+.listen__summary:focus-visible { background: rgba(255, 255, 255, 0.05); }
+.listen__summary:focus-visible {
+  outline: 2px solid color-mix(in srgb, var(--ink) 55%, transparent);
+  outline-offset: -2px;
+}
+.listen__icon {
+  width: 24px;
+  height: 24px;
+  display: inline-grid;
+  place-items: center;
+  border-radius: 50%;
+  background: var(--ink);
+  color: var(--panel);
+  font-family: var(--display);
+  font-size: 0.9rem;
+  font-weight: 800;
+}
+.listen__title {
+  font-size: 0.82rem;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+}
+.listen__hint {
+  margin-left: auto;
+  font-family: var(--mono);
+  font-size: 0.62rem;
+  color: var(--ink-3);
+}
+.listen__links {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 1px;
+  padding: 1px;
+  border-top: 1px solid var(--line-soft);
+  background: var(--line-soft);
+}
+.listen__link {
+  min-height: 36px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 7px 10px;
+  background: var(--panel);
+  color: var(--ink-2);
+  font-size: 0.7rem;
+  text-decoration: none;
+  white-space: nowrap;
+}
+.listen__link:hover,
+.listen__link:focus-visible {
+  background: var(--panel-2);
+  color: var(--ink);
+}
+.listen__link:focus-visible {
+  outline: 2px solid color-mix(in srgb, currentColor 45%, transparent);
+  outline-offset: -2px;
+}
+.listen__platform {
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.listen__arrow {
+  margin-left: auto;
+  color: var(--ink-3);
+}
+.listen__link--missing {
+  pointer-events: none;
+  cursor: default;
+  opacity: 0.42;
+  filter: grayscale(1);
+  background: color-mix(in srgb, var(--panel) 88%, var(--line));
+  color: var(--ink-3);
+}
+.listen__link--missing:hover,
+.listen__link--missing:focus-visible {
+  background: color-mix(in srgb, var(--panel) 88%, var(--line));
+  color: var(--ink-3);
+  outline: none;
+}
+.listen__missing {
+  margin-left: auto;
+  font-family: var(--mono);
+  font-size: 0.55rem;
+  color: var(--ink-3);
+}
+
 .card__body {
   overflow-y: auto;
   overscroll-behavior: contain;

@@ -8,23 +8,34 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Moondog One是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Mike Joyce、Andy Rourke的履历把它与The Smiths连接起来。",
+  "intro": "Moondog One是前Oasis吉他手Paul “Bonehead” Arthurs在2001年前后于曼彻斯特组建的短命项目，核心阵容还包括The Smiths节奏组Andy Rourke、Mike Joyce及主唱Johnny Evans。成员在Bonehead家中录制了四首demo，并邀请Aziz Ibrahim和Rowetta客席，原计划以《Moondog》白标宣传后正式发行；项目最终没有继续。团名借意The Beatles早期名称Johnny and the Moondogs，也让Oasis与The Smiths两代曼城人脉短暂合流。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Andy Rourke官方履历中的Moondog One阵容",
+      "url": "https://www.andyrourke.com/biography"
+    },
+    {
+      "label": "2001年成团、四首demo与客席资料报道",
+      "url": "https://drownedinsound.com/news/2809-bonehead-is-back-damn"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/28727722-a59b-4819-829f-3d6d1c73c16e"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/28727722-a59b-4819-829f-3d6d1c73c16e"
-  },
   "edges": [
     {
       "to": "the-smiths",

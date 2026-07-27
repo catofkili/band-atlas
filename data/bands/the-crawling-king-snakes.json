@@ -8,23 +8,30 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Crawling King Snakes是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Dave Edmunds的履历把它与Ringo Starr & His All Starr Band连接起来。",
+  "intro": "The Crawling King Snakes是Dave Edmunds为1985年电影《Porky’s Revenge!》原声带临时组织的录音室组合，成员为Robert Plant、贝斯手Paul Martinez、鼓手Phil Collins与Edmunds本人。四人只以该名义翻唱并发行50年代R&B歌曲《Philadelphia Baby》，用复古摇滚编制配合电影的怀旧语境；团名又借用了Plant在60年代早期使用过的旧乐队名称。它没有独立巡演或专辑生涯，本质是一首原声带歌曲留下的全明星化名。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Phil Collins录音档案",
+      "url": "https://www.genesis-news.com/article/phil-collins-recording-compendium-part-5-1984-1987/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7a60ad9e-e5be-47c5-be59-82ff68e2bf1b"
+  },
+  "musicLinks": {},
   "listens": 21,
   "listeners": 16,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/7a60ad9e-e5be-47c5-be59-82ff68e2bf1b"
-  },
   "edges": [
     {
       "to": "r-a-d-d-recording-artists-against-drunk-driving",

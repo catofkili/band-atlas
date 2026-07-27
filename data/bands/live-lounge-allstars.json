@@ -8,22 +8,31 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Live Lounge Allstars是音乐团体。理解这个项目的另一条线索是成员关系：Ellie Goulding、Rita Ora的履历把它与Band Aid 30连接起来。",
+  "intro": "Live Lounge Allstars是BBC Radio 1在2020年新冠疫情封锁期间组织的一次性慈善录音名义。Dave Grohl与Taylor Hawkins和Dua Lipa、Chris Martin、Royal Blood、HAIM、Biffy Clyro、Rag’n’Bone Man等多地音乐人分别在家录制Foo Fighters《Times Like These》，制作人Fraser T. Smith再将片段拼合。单曲登上英国榜首，收益支持BBC Children in Need、Comic Relief与世界卫生组织基金；因此它不是可巡演的超级乐队，而是一首远程合唱所需要的集体署名。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Sony Music UK慈善单曲公告",
+      "url": "https://www.sonymusic.co.uk/bbc-radio-1s-live-lounge-allstars-single-times-like-these-hits-no-1-in-the-uk-chart/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b2da3820-3d19-4817-b370-0c89042ce870"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F34948669"
+  },
   "listens": 859,
   "listeners": 214,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/b2da3820-3d19-4817-b370-0c89042ce870"
-  },
   "edges": [
     {
       "to": "band-aid-30",

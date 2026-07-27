@@ -15,22 +15,35 @@
       "year": 2012
     }
   ],
-  "intro": "Rocket Juice & the Moon是来自英国、2008年至今活跃的音乐团体，现有资料将其归入放克。现有唱片目录收录了2012年的《Rocket Juice & the Moon》。理解这个项目的另一条线索是成员关系：Damon Albarn、Tony Allen的履历把它与The Good, the Bad & the Queen连接起来。从The Good, the Bad & the Queen沿关系网点进来时，《Rocket Juice & the Moon》可以作为试听入口。",
+  "intro": "Rocket Juice & the Moon是Damon Albarn、Red Hot Chili Peppers贝斯手Flea与Afrobeat鼓手Tony Allen组成的一次性超级组合。三人2008年前往拉各斯参与Africa Express时相识，随后把Allen循环推进的鼓、Flea弹性的贝斯和Albarn的键盘与制作拼成2012年的同名专辑；Erykah Badu、Fatoumata Diawara、M.anifest和Thundercat等客席进一步扩大了声音范围。它不是主唱居中的摇滚乐队，真正的主角是三个人围绕Afrobeat与放克建立的节奏对话。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Rocket Juice & the Moon艺人简介",
+      "url": "https://www.allmusic.com/artist/rocket-juice-the-moon-mn0002877941"
+    },
+    {
+      "label": "Damon Albarn人物报道",
+      "url": "https://time.com/2826278/the-hardest-working-man-in-rock/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6dd0c24f-da12-49e6-b27e-4f98500c357f"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001uaYBR4aLRed"
+  },
   "listens": 8315,
   "listeners": 900,
   "quality": {
-    "score": 18,
-    "templateIntro": true,
+    "score": 60,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6dd0c24f-da12-49e6-b27e-4f98500c357f"
-  },
   "edges": [
     {
       "to": "blur",

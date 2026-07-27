@@ -25,6 +25,11 @@
       "title": "Johnny Delusional"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/202301088",
+    "spotify": "https://open.spotify.com/artist/0OnPrsDBROxkpC3qbFnL6L",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F13269671"
+  },
   "listens": 29785,
   "listeners": 1269,
   "quality": {

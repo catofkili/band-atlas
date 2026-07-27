@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Lam Family是来自香港的音乐团体。理解这个项目的另一条线索是成员关系：林二汶的履历把它与at17连接起来。",
+  "intro": "Lam Family是林一峰、林二汶与父母林爸爸、林妈妈共同使用的家庭演出名义。MusicBrainz的成员关系明确把四人列在同一项目下，因此它连接了林一峰的个人创作、林二汶在at17及个人时期的履历，也对应兄妹演唱会中反复出现的家庭合唱场景。这个名称更接近真实家庭在特定舞台上的合演单位，而不是另有固定唱片目录的香港流行乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz四位家庭成员关系记录",
+      "url": "https://musicbrainz.org/artist/470ded69-da50-41e4-8c6e-6b458c433c6d"
+    },
+    {
+      "label": "兄妹演唱会中父母参与及家庭表演场景记录",
+      "url": "https://leungjass.blogspot.com/2010/10/201020100929.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/470ded69-da50-41e4-8c6e-6b458c433c6d"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/470ded69-da50-41e4-8c6e-6b458c433c6d"
-  },
   "edges": [
     {
       "to": "3p",

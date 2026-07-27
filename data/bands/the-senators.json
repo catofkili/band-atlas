@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Senators是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：John Bonham的履历把它与Led Zeppelin连接起来。",
+  "intro": "The Senators是1960年代中期活跃于伯明翰与Coventry一带的beat乐队，由Bobby Child主唱，Trevor McGowan、Graham Dennis、Bill Ford与鼓手John Bonham等组成。乐队驻演Navigation Inn，并为1964年地方合辑《Brum Beat》录制《She’s a Mod》；关于发行版本的具体鼓手仍有资料分歧，但Bonham确曾随团演出、唱和声。这个短暂阶段位于他加入A Way of Life、Band of Joy和Led Zeppelin之前，记录了伯明翰Brum Beat场景的一条早期支线。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "John Bonham资料站阵容、驻演与《She’s a Mod》记录",
+      "url": "https://johnbonham.co.uk/biography/pre-ledzeppelin-bands.html"
+    },
+    {
+      "label": "《She’s a Mod》鼓手身份争议资料",
+      "url": "https://sladestory.blogspot.com/1971/01/the-senators-1964.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ddb71592-108d-4e21-9077-d96e11d86572"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002YHXzs06uPKw"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/ddb71592-108d-4e21-9077-d96e11d86572"
-  },
   "edges": [
     {
       "to": "led-zeppelin",

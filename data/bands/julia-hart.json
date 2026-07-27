@@ -23,22 +23,35 @@
       "year": 2007
     }
   ],
-  "intro": "Julia Hart是来自韩国、2000年至今活跃的音乐团体，现有资料将其归入現代搖滾。现有唱片目录可从2001年的《가벼운 숨결》一路听到2007年的《Hot Music》。理解这个项目的另一条线索是成员关系：정대욱的履历把它与언니네 이발관连接起来。从언니네 이발관沿关系网点进来时，《가벼운 숨결》可以作为试听入口。",
+  "intro": "Julia Hart是前언니네 이발관吉他手정바비（早期资料亦用정대욱）在2000年组建的韩国吉他流行乐队。2002年《가벼운 숨결》以清澈吉他、轻柔和声和少年少女式爱情叙事确立气质，《영원의 단면》获得韩国大众音乐奖现代摇滚专辑提名，随后《당신은 울기 위해 태어난 사람》《Hot Music》继续在甜美旋律中加入细小讽刺与成长阴影。《오르골》《Miss Chocolate》等歌进入电影或广告，让这支独立乐队的青春感走出地下场景。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Bugs艺人履历与唱片目录",
+      "url": "https://music.bugs.co.kr/artist/32602"
+    },
+    {
+      "label": "Bugs首张专辑介绍",
+      "url": "https://music.bugs.co.kr/album/22842"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a3f30765-6739-49ea-8f5a-cb3d04d79cdd"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F126989"
+  },
   "listens": 382,
   "listeners": 7,
   "quality": {
-    "score": 15,
-    "templateIntro": true,
+    "score": 57,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a3f30765-6739-49ea-8f5a-cb3d04d79cdd"
-  },
   "edges": [
     {
       "to": "언니네-이발관",

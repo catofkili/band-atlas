@@ -46,6 +46,11 @@
     }
   ],
   "regionalFeatured": true,
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/254621878",
+    "spotify": "https://open.spotify.com/artist/3yfDRplDZh03Y0fEeCd6B0",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F59777061"
+  },
   "listens": 47285,
   "listeners": 721,
   "quality": {

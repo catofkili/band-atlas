@@ -1,6 +1,191 @@
 {
-  "note": "机器翻译或维基摘要明显失真时的人工中文覆盖；键为最终乐队 id。introSources 保存公开资料来源。",
+  "note": "机器翻译或维基摘要明显失真时的人工中文覆盖；键为最终乐队 id。names 保存首选显示名，原名称自动保留为搜索别名；introSources 保存公开资料来源。",
+  "names": {
+    "フィッシュマンズ": "Fishmans"
+  },
   "intros": {
+    "slash-featuring-myles-kennedy-and-the-conspirato": "Slash featuring Myles Kennedy and the Conspirators源于Slash在2010年个人专辑之后组织的巡演班底：Alter Bridge主唱Myles Kennedy负责主唱，Todd Kerns担任贝斯与和声，Brent Fitz负责鼓，Frank Sidoris后来固定担任节奏吉他。2012年的《Apocalyptic Love》第一次以这套名称正式发行，此后的《World on Fire》《Living the Dream》和《4》让它从明星吉他手的伴奏组发展成阵容稳定的硬摇滚乐队；Slash的长篇吉他独奏、Kennedy高亢而清晰的声线和现场录制感，是理解它的三个入口。",
+    "the-vanguard": "The Vanguard是D’Angelo在《Black Messiah》时期使用的乐队署名，而不是与他分离活动的普通团体。2014年的专辑把Pino Palladino的贝斯、Chris Dave的鼓、Jesse Johnson与Isaiah Sharkey的吉他、Kendra Foster的和声等音乐人组织成一套松动却精密的节奏系统，在放克、灵魂乐、摇滚和爵士之间不断变形。这个名字也强调《Black Messiah》并非单纯的个人回归作，而是一张由长期合作者共同塑造、并在舞台上继续生长的乐队唱片。",
+    "the-rh-factor": "The RH Factor是小号手Roy Hargrove在2000年代初发起的跨界乐队。经历D’Angelo《Voodoo》巡演和Erykah Badu《Mama’s Gun》的合作后，Hargrove把硬博普即兴放进新灵魂乐、放克与嘻哈的节奏框架；2003年首张《Hard Groove》邀请D’Angelo、Erykah Badu、Common、Q-Tip和Meshell Ndegeocello等人参与，随后还有《Strength》和《Distractions》。它最重要的不是“爵士加说唱”的表面拼接，而是让小号、键盘与多层节奏组像一支真正的groove乐队那样互相推动。",
+    "monkey": "Monkey是舞台作品《Monkey: Journey to the West》的演奏与唱片项目，由导演陈士争、作曲人Damon Albarn和视觉艺术家Jamie Hewlett共同构思，以《西游记》为蓝本连接杂技、动画、戏剧和音乐。2008年的同名专辑由Albarn制作，集合中国与欧洲的歌手、传统乐器演奏者和现代乐手；声音从五声音阶、锣鼓和吟唱延伸到电子节拍与管弦编排。它与Blur或Gorillaz的联系来自Albarn与Hewlett，但核心是一部跨文化舞台作品，而不是两支乐队的普通旁支。",
+    "rocket-juice-the-moon": "Rocket Juice & the Moon是Damon Albarn、Red Hot Chili Peppers贝斯手Flea与Afrobeat鼓手Tony Allen组成的一次性超级组合。三人2008年前往拉各斯参与Africa Express时相识，随后把Allen循环推进的鼓、Flea弹性的贝斯和Albarn的键盘与制作拼成2012年的同名专辑；Erykah Badu、Fatoumata Diawara、M.anifest和Thundercat等客席进一步扩大了声音范围。它不是主唱居中的摇滚乐队，真正的主角是三个人围绕Afrobeat与放克建立的节奏对话。",
+    "robert-plant-and-the-strange-sensation": "Robert Plant and the Strange Sensation是Robert Plant在2000年代初组建的巡演与录音乐队，成员包括Justin Adams、John Baggott、Billy Fuller、Liam “Skin” Tyson和Clive Deamer等来自世界音乐、Portishead及英国摇滚圈的乐手。2005年的《Mighty ReArranger》把硬摇滚的重量与北非节奏、迷幻民谣、电子纹理放在一起，《Shine It All Around》最能体现这种更新。相比重演Led Zeppelin，这支乐队更像Plant重新寻找当代声音的实验室，其核心成员后来也延续到Sensational Space Shifters。",
+    "the-waeve": "The WAEVE由Blur吉他手Graham Coxon与前The Pipettes成员Rose Elinor Dougall在2021年于伦敦组成。两人轮流主唱并交换吉他、键盘和萨克斯等乐器，把英国民谣的叙事、后朋克的棱角、Krautrock式推进与自由即兴放进长篇编曲；2023年的同名首专和2024年的《City Lights》记录了这套语言从幽暗、电影感逐渐走向更强的乐队冲击。它的吸引力不在名团成员相加，而在Coxon粗粝的音色与Dougall冷静旋律之间持续拉扯。",
+    "taylor-hawkins-the-coattail-riders": "Taylor Hawkins & The Coattail Riders是Foo Fighters鼓手Taylor Hawkins在2004年成立的个人乐队，他在这里同时担任主唱和鼓手，常见阵容还包括吉他手Gannin Arnold、Nate Wood与贝斯手Chris Chaney。三张专辑从2006年的同名作、2010年的《Red Light Fever》延伸到2019年的《Get the Money》，把Hawkins喜爱的Queen、70年代竞技场摇滚、华丽摇滚和硬摇滚写进更直接的歌曲。随着Hawkins于2022年去世，乐队结束活动；这套目录也因此成为理解他在Foo Fighters鼓手身份之外的写作与演唱能力的主要入口。",
+    "les-claypool-and-the-holy-mackerel": "Les Claypool and the Holy Mackerel是Primus贝斯手Les Claypool在1996年推出的第一套正式个人乐队名义。专辑《Highball With the Devil》由Claypool主导写作、制作并演奏多种乐器，伙伴们则把贝斯驱动的放克、乡野怪谈式歌词、实验摇滚和即兴段落扩展成一场松散的怪诞歌舞。它只留下这一张核心专辑，却确立了Claypool后来诸多项目的工作方式：阵容可以更换，低音贝斯与人物叙事始终站在音乐正中央。",
+    "serart": "Serart是System of a Down主唱Serj Tankian与亚美尼亚多乐器演奏家Arto Tunçboyacıyan组成的二人项目，名称直接取自Serj与Arto。2003年的同名专辑以即兴为基础，把亚美尼亚与中东民间旋律、手鼓和自制打击乐、电子采样、爵士与实验人声混合在一起；Tankian在这里刻意离开金属乐框架，Tunçboyacıyan则让节奏与口传传统成为作品骨架。它更像一次跨文化声音旅行，也是Tankian自办厂牌Serjical Strike早期最能说明其审美边界的发行之一。",
+    "dee-gees": "Dee Gees是Foo Fighters在2021年启用的迪斯科化身，团名既戏仿Bee Gees，也借用了Dave Grohl姓名首字母。为唱片店日发行的《Hail Satin》一面收录四首Bee Gees作品和一首Andy Gibb作品的翻唱，Grohl以高假声进入《You Should Be Dancing》等歌曲；另一面则放入Foo Fighters《Medicine at Midnight》的现场版本。这个短期项目不是另组阵容，而是同一支乐队用录音室乐趣和舞台化幽默向Gibb兄弟及70年代迪斯科致敬。",
+    "izzy-stradlin-and-the-ju-ju-hounds": "Izzy Stradlin and the Ju Ju Hounds是Izzy Stradlin离开Guns N’ Roses后在1992年组建的短期乐队，阵容包括Georgia Satellites吉他手Rick Richards、贝斯手Jimmy Ashhurst和鼓手Charlie Quintana。唯一的同名录音室专辑放下Guns N’ Roses的大型制作，转向更松弛的滚石式摇滚、布鲁斯与酒吧乐队律动，《Shuffle It All》和《Somebody Knockin’》成为电台歌曲。它只维持一个专辑与巡演周期，却清楚呈现了Stradlin作为节奏吉他手和歌曲作者更朴素的一面。",
+    "the-entrance-band": "The Entrance Band由创作人Guy Blakeslee的个人化名Entrance发展而来；他与贝斯兼小提琴手Paz Lenchantin、鼓手Derek James在2006年前后于洛杉矶固定为三人阵容。2009年的同名专辑和2013年的《Face the Sun》把Blakeslee早期阴郁的迷幻民谣放大成更有压迫感的电声即兴：模糊吉他、持续低音、部落式鼓点与Lenchantin的弦乐共同制造出近乎催眠的现场张力。它也是理解Lenchantin加入Pixies之前创作轨迹的重要一站。",
+    "the-sleepwalk": "The Sleepwalk是1991年在札幌成立、由WATCHMAN主导的日本电子迷幻项目，后来以旭川为据点活动。早期录音把shoegaze的朦胧吉他、dream pop旋律、合成器和采样叠成带有游戏与幻想色彩的声音，1997年还曾为PlayStation游戏《moon》提供音乐。项目后来逐渐成为WATCHMAN的个人形态；《Phantasmagoria》系列则整理了1993至2007年间的demo与旧录音，是进入这支“electro-shoegaze”先行项目最完整的路径。",
+    "omar-rodriguez-lopez-quartet": "Omar Rodriguez‐Lopez Quartet是Omar Rodríguez-López围绕The Mars Volta人脉组织的一次录音阵容，成员包括贝斯手Juan Alderete、鼓手Marcel Rodríguez-López和吉他手John Frusciante。2010年的唯一专辑《Sepulcros de miel》由长段即兴录音构成，几乎不依赖传统主歌副歌，而让两把吉他在噪音、延迟与旋律碎片之间追逐，节奏组则持续改变重心。它既像Omar庞大个人唱片目录中的一间实验室，也保留了The Mars Volta现场最自由、最不受歌曲结构约束的一面。",
+    "zone-six": "Zone Six由Dave Schmidt（Sula Bassana）与Liquid Visions伙伴Hans-Peter Ringholz、Claus Bühler于1997年在德国成立，是90年代Krautrock复兴中较早坚持即兴创作的团体之一。乐队很少用固定歌曲框架，常从贝斯与鼓的循环出发，让吉他、合成器和效果器把演奏推成长篇太空摇滚；阵容多年间不断变化，如今仍围绕Sula Bassana延续。现场录音在其目录中占据核心，因为即兴过程而非可复制的成品，才是Zone Six真正的作品。",
+    "chris-dave-and-the-drumhedz": "Chris Dave and The Drumhedz是鼓手Chris Dave把多年录音与巡演伙伴组织起来的开放式乐手集合。Dave曾与D’Angelo、Robert Glasper、Erykah Badu等人合作，2013年的免费《Drumhedz Mixtape》先把这些圈子里的爵士、嘻哈、福音与新灵魂乐连接起来，2018年再由Blue Note发行同名首张正式专辑。乐队没有永久封闭的阵容，辨识度来自Dave对拍点的处理：鼓声会故意落后、切碎或突然留白，让复杂节奏仍然保持可以点头跟随的groove。",
+    "the-venus-in-furs": "The Venus in Furs是为Todd Haynes于1998年执导的华丽摇滚电影《Velvet Goldmine》临时组成的录音室乐队，名称取自片中的虚构乐团。阵容集合Radiohead的Thom Yorke与Jonny Greenwood、前Suede吉他手Bernard Butler、Roxy Music萨克斯手Andy Mackay以及鼓手Craig McClune等人；他们在原声带中重新演绎《2HB》《Ladytron》《Bitter-Sweet》等Roxy Music作品。它没有独立发展的乐队生涯，价值正在于让不同世代英国乐手为一部虚构的70年代乐队制造出可信的声音。",
+    "projekct-two": "ProjeKct Two是King Crimson在1997至1998年“分形化”实验期间产生的三人支队，由Robert Fripp弹吉他、Trey Gunn演奏Warr Guitar，Adrian Belew则放下常用吉他改用V-Drums电子鼓。1998年的《Space Groove》来自即兴录音，电子节拍、低音触弦与Fripp的持续音不断重组，像是在为后来King Crimson更机械、更互锁的节奏语言做压力测试。与其他主要留下现场唱片的ProjeKct不同，它拥有一张完整录音室专辑，因此是理解整个ProjeKcts计划最直接的入口之一。",
+    "声音碎片": "声音碎片于2000年代初在北京成形，核心创作者是主唱马玉龙、吉他手李伟与键盘手刘光蕊。2002年的《世界是噪音的花园》以低沉克制的演奏、富于内省的歌词和逐层展开的编曲建立了乐队气质，随后《优美的低于生活》《把光芒洒向更开阔的地方》让声音从阴郁的地下摇滚逐渐走向更辽阔、明亮的表达。马玉龙带有诗歌感的写作和略沙哑的声线始终是中心，而键盘与吉他之间保留的大量空间，使他们在中国独立摇滚中拥有很难混淆的从容感。",
+    "wu-tang-killa-bees": "Wu‐Tang Killa Bees并非固定阵容的单一乐队，而是Wu-Tang Clan庞大外围成员与合作团体的集合称呼，范围包括Sunz of Man、Killarmy、Royal Fam、Cappadonna以及多位制作人和MC。1998年的合辑《The Swarm》把核心成员的新作与这些“Wu-Family”支线集中在一张唱片中，2002年的《The Sting》继续这一模式。理解这个条目时，与其寻找唯一成员表，不如把它看成Wu-Tang把共同的武侠意象、阴冷采样和制作人网络扩展成音乐生态的方式。",
+    "vivian-or-kazuma": "Vivian or Kazuma是徐若瑄与SIAM SHADE主唱兼吉他手遠藤一馬在2002年底组成的一次性双主唱组合。前REBECCA成员土橋安騎夫担任制作并作曲，两位歌手共同填词的《moment》于2003年成为动画《机动战士GUNDAM SEED》第二首片头曲；团名中的“or”意在表达两人都是主角、可以互换前景的双卡司关系。项目主要围绕这一首单曲及其混音展开，却因旋律鲜明的男女对唱成为两人各自目录中最广为人知的交点。",
+    "divination": "Divination是制作人兼贝斯手Bill Laswell在1990年代使用的环境dub项目名，阵容随每张唱片变化，因此更接近开放式录音框架而非固定乐队。1993年的《Ambient Dub Volume I》由Jeff Bova、Nicky Skopelitis、刘索拉、Buckethead和Robert Musso等人参与，把低频dub、house脉冲与漂浮音景放在一起；后续《Dead Slow》《Akasha》《Distill》逐渐减少明确节拍，转向更黑暗的氛围与声音拼贴。它浓缩了Laswell所谓“碰撞音乐”的方法：让不同背景的乐手在录音室里共享同一片低频空间。",
+    "giant-robot": "Giant Robot是Buckethead、鼓手Bryan “Brain” Mantia与键盘手Pete Scaturro在1990年代中期组成的短期录音项目，与Buckethead早期同名个人专辑及后来现场阵容需要区分。三人在1996年的同名唱片中把高速吉他、合成器、鼓机与游戏音效式片段拼成一套器乐实验，既有金属和放克的技巧展示，也保留卡通、科幻与游乐园般的怪诞叙事。它只留下很小的目录，却是Buckethead与Brain长期合作网络中的关键早期节点。",
+    "cyco-miko": "Cyco Miko并非传统意义上的独立乐队，而是Suicidal Tendencies主唱Mike Muir使用的个人化名。1995年的《Lost My Brain! (Once Again)》诞生于Suicidal Tendencies暂停活动时期，Adam Siegel等Infectious Grooves伙伴参与演奏，让Muir把硬核朋克、滑板文化式讽刺和更松动的放克金属写法放到主团之外；此后《Schizophrenic Born Again Problem Child》及《The Mad Mad Muir Musical Tour》继续沿用这一名字。它的价值在于把Muir本人而非某个固定阵容置于中心。",
+    "cobra-strike": "Cobra Strike是Buckethead在1999至2000年间组织的两张专辑项目。首作《The 13th Scroll》由Buckethead负责吉他与贝斯，Pinchface打鼓，Brain与DJ Disk提供循环和编程；次作继续扩大电子制作比重。音乐把前卫金属、turntablism、鼓机、游戏采样与短小过场剪接在一起，听感像一张不断切换关卡的虚构动作游戏原声。这个名字没有发展成长期巡演乐队，却准确记录了Buckethead在世纪之交把吉他奇技与湾区DJ文化接合的阶段。",
+    "やくしまるえつこメトロオーケストラ": "やくしまるえつこメトロオーケストラ是相対性理論主唱やくしまるえつこ在需要更大规模编制时使用的项目名，并非成员永久固定的管弦乐团。作品常以她轻盈、近乎无重力的声线为中心，再加入弦乐、铜管、电子音色与层叠人声；为动画《回转企鹅罐》演唱的《ノルニル》和《少年よ我に帰れ》最能体现这种既童话又不安的编排。相比相対性理論的精简乐队声响，Metro Orchestra更接近她把流行歌曲、科学概念与大型声音装置连接起来的创作平台。",
+    "decahedron": "Decahedron起源于前Frodus成员Shelby Cinca与Jason Hamacher在2001年展开的远程合作，Fugazi贝斯手Joe Lally加入后，三人先以The Black Sea名义发行EP，随后因名称问题改为Decahedron。2004年的《Disconnection Imminent》以Lally富有弹性的低音、Hamacher紧密的鼓和Cinca锋利的吉他构成政治性很强的后硬核；Lally离开后由Unwed Sailor的Jonathan Ford接替。它延续了华盛顿特区朋克的纪律与批判意识，却用更冷峻、机械的结构处理新世纪的不安。",
+    "projekct-four": "ProjeKct Four是King Crimson在1998年进行“分形化”研发时组成的四人支队，阵容为Robert Fripp、Trey Gunn、Tony Levin与Pat Mastelotto。它在美国西海岸短期巡演，没有预设完整曲目，而让Fripp的吉他持续音、Gunn与Levin的低音乐器以及Mastelotto的电子节奏现场生成结构；《West Coast Live》和《The Roar of P4》保存了这些即兴。与偏电子室内实验的其他ProjeKct相比，Four的低频更厚，也更直接预示King Crimson随后“双二重奏”时期的节奏设计。",
+    "曽我部恵一band": "曽我部恵一BAND是Sunny Day Service主唱曽我部恵一把个人创作重新放进固定摇滚阵容的项目，成员包括吉他手上野智文、贝斯手大塚謙一郎与鼓手オータコージ。乐队在2000年代中后期以高密度现场活动建立名声，《キラキラ！》《ハピネス！》把曽我部原本细腻的城市与爱情叙事，转化成更直接、汗水充足、带朋克冲劲的合奏。它与曽我部的个人名义并行：歌曲作者相同，但BAND强调四个人在舞台上共同把旋律推向高潮的力量。",
+    "el-stew": "El Stew是1999年前后由湾区turntablist DJ Disk、鼓手Brain、吉他手Buckethead以及DJ Eddie Def、制作人Extrakd等人组成的实验组合。它把唱盘刮擦当作乐队乐器，与现场鼓、低音、怪异吉他和电子剪辑并排，1999年的《No Hesitation》及后续《The Rehearsal》听起来介于抽象嘻哈、即兴放克与前卫电子之间。成员各自项目繁多，令El Stew更像一间短暂开放的节奏实验室；其关键不是传统主唱，而是几位节奏制造者如何互相打断和接力。",
+    "valis": "VALIS由Screaming Trees贝斯手Van Conner在1996年西雅图乐坛转折期组建，他改任主唱与吉他，并与弟弟Patrick Conner、TAD贝斯手Kurt Danielson、Mudhoney鼓手Dan Peters组成早期阵容。团名取自Philip K. Dick小说《VALIS》，声音则把西北另类摇滚的粗粝、70年代重型riff与太空迷幻结合起来；《Vast Active Living Intelligence System》《Head Full of Pills》等唱片逐步确立这套科幻硬摇滚。它让长期站在Screaming Trees节奏组中的Van Conner第一次成为乐队正面人物。",
+    "jon-spencer-the-hitmakers": "Jon Spencer & the HITmakers是Jon Spencer在Blues Explosion停止活动后建立的新乐队形态。2022年《Spencer Gets It Lit》时期的阵容由Spencer负责主唱与吉他，Quasi的Sam Coomes演奏合成器，M. Sord打鼓，Pussy Galore旧友Bob Bert则用金属废料制造打击声。它保留Spencer一贯粗粝的车库摇滚与夸张喊唱，却用模拟电子、工业噪音和拆解式节奏取代传统布鲁斯三人组；“trash”在这里既是音色，也是把废弃物重新变成摇滚乐器的现场方法。",
+    "妖精たち": "妖精たち是2013年围绕青葉市子特别录音组成的明星乐手集合，完整署名常写作“青葉市子と妖精たち”。所谓“妖精”包括細野晴臣、Cornelius小山田圭吾、tabla演奏者U-zhaan与坂本龍一；几人最初在NHK-FM《坂本龍一 ニューイヤー・スペシャル》中即兴合作，节目反响促成专辑《ラヂヲ》。他们以极轻的合奏衬托青葉的古典吉他与歌声，并重新演绎各自旧作；这不是长期巡演乐队，而是一场跨世代日本音乐人围绕广播现场留下的珍贵会合。",
+    "地縛少年バンド": "地縛少年バンド是为2020年动画《地縛少年花子くん》片头曲《No.7》专门组成的限定组合，由PENGUIN RESEARCH主唱生田鷹司、创作歌手オーイシマサヨシ与制作团队ZiNG合作。歌曲用急促的摇滚节奏、多人轮唱和带有怪谈口吻的台词式段落，对应作品中校园七大不可思议的设定。这个名字主要服务于单曲而非长期乐队活动，理解它的重点是三方分工：生田提供锋利主唱，オーイシ参与演唱与写作，ZiNG完成整体声音制作。",
+    "the-beat-brothers": "The Beat Brothers最著名的用法并非一支长期固定乐队，而是Polydor在1961年为Tony Sheridan伴奏者采用的唱片署名。制作人Bert Kaempfert在汉堡录制《My Bonnie》《The Saints》等歌曲时，伴奏阵容正是尚未成名的The Beatles，包括John Lennon、Paul McCartney、George Harrison与当时鼓手Pete Best；唱片公司因名称在德语市场的联想而改用Beat Brothers。Sheridan后来也让其他伴奏乐手沿用这个称呼，因此并非所有同名录音都由Beatles演奏。",
+    "christ-on-a-crutch": "Christ on a Crutch是1980年代在华盛顿州里奇兰成立、后来进入西雅图场景的政治硬核朋克乐队。短促高速的歌曲、齐声和声与讽刺宗教和社会权威的歌词，集中体现在1991年的《Crime Pays When Pigs Die》；贝斯手Nate Mendel在团期间同时参与Sunny Day Real Estate的前身，并在欧洲巡演后转向后者，后来加入Foo Fighters。乐队因此常被当作名人履历注脚，但它本身代表了西北地区straight edge与DIY朋克网络中更尖锐的一支。",
+    "sensational-space-shifters": "Sensational Space Shifters是Robert Plant在2012年WOMAD前后组建的探索型根源音乐乐队，由Strange Sensation旧成员Justin Adams、Liam “Skin” Tyson、John Baggott、Billy Fuller等人与西非音乐家Juldeh Camara、鼓手Dave Smith组成。乐队一面把《Whole Lotta Love》等旧作拆成布鲁斯、电子与非洲节奏的新版本，一面参与《lullaby and… The Ceaseless Roar》和《Carry Fire》两张原创专辑。它延续Plant拒绝复制Led Zeppelin的路线，让英国民谣、密西西比布鲁斯与冈比亚传统在同一套现场编制中流动。",
+    "ロケットマン": "ロケットマン最初是搞笑艺人ふかわりょう与Pizzicato Five制作人小西康陽在1990年代末合作的音乐与短剧组合，后来逐渐成为ふかわ个人的DJ及制作人名义。小西负责音乐、ふかわ负责喜剧段落的早期分工，发展成以house为中心、强调明亮旋律与派对感的俱乐部项目；他也长期主持《ROCKETMAN SHOW!!》并参与音乐节与电影配乐。理解这个名字需要区分两个阶段：它先是一组双人概念，2000年代以后则主要指ふかわりょう本人。",
+    "13-13": "13.13是Lydia Lunch在1981至1982年前后使用的乐队与专辑名义，核心阵容来自洛杉矶第一代朋克团The Weirdos：Dix Denney与Greg Williams负责吉他和贝斯，后来成为Red Hot Chili Peppers早期鼓手的Cliff Martinez负责鼓。1982年同名专辑由Lunch主唱并与乐手共同写作，音乐比Teenage Jesus and the Jerks的极简噪音更有摇滚推进，却仍保留她冷硬、挑衅的叙述。它只存在短暂阶段，本质上是Lunch从纽约no wave走向更完整歌曲结构的一次过渡。",
+    "on-a-friday": "On a Friday是Radiohead在签约前使用的原始团名。Thom Yorke、Colin Greenwood、Ed O’Brien与Philip Selway于1985年在牛津郡Abingdon School组队，名称来自他们通常只能在周五使用学校音乐教室排练；Jonny Greenwood后来从口琴和键盘位置加入。成员上大学后曾分散，1991年重聚并以demo《Manic Hedgehog》获得EMI合约，随后按唱片公司要求取Talking Heads歌曲《Radio Head》之名改称Radiohead。它不是旁支，而是同一套五人阵容的学生时代。",
+    "live-lounge-allstars": "Live Lounge Allstars是BBC Radio 1在2020年新冠疫情封锁期间组织的一次性慈善录音名义。Dave Grohl与Taylor Hawkins和Dua Lipa、Chris Martin、Royal Blood、HAIM、Biffy Clyro、Rag’n’Bone Man等多地音乐人分别在家录制Foo Fighters《Times Like These》，制作人Fraser T. Smith再将片段拼合。单曲登上英国榜首，收益支持BBC Children in Need、Comic Relief与世界卫生组织基金；因此它不是可巡演的超级乐队，而是一首远程合唱所需要的集体署名。",
+    "crydajam": "Crydajam是法国厂牌Crydamoure在2002年使用的一次性集体名义，参与者来自厂牌核心圈，包括共同经营厂牌与Le Knight Club的Guy-Manuel de Homem-Christo和Éric Chédeville。项目只发行三曲12英寸单曲《If You Give Me the Love I Want / Playground / Loaded》，随后三首歌也进入合辑《Waves II》。切碎的迪斯科采样、滤波循环和温暖的放克律动，使它成为French Touch鼎盛期一张目录很小却颇具代表性的厂牌合奏。",
+    "xavier": "Xavier是吉他手兼制作人石井マサユキ、录音工程师ZAK与Buffalo Daughter成员大野由美子组成的合作项目。三人不设固定主唱，而以制作团队的方式邀请chelmico、羊文学的塩塚モエカ等新一代音乐人加入；2021年的双A面单曲《Call In Sick / 球体》把80年代舞曲质感、电子音色与现场乐手的放克节奏接在一起。这个名字的重点不是某位“Xavier”，而是三位幕后型音乐人共同搭建、再交给客席歌手改变形状的声音平台。",
+    "jazz-iz-christ": "Jazz-Iz-Christ是System of a Down主唱Serj Tankian在2012年前后发起的爵士合作项目。2013年同名专辑汇集钢琴家Tigran Hamasyan、长笛手Valeri Tolstov、小号手Tom Duprey，以及Stewart Copeland等客席乐手；十五首作品大多为器乐曲，Tankian只在其中四首演唱。音乐从现代爵士出发，穿过亚美尼亚与中东色彩、前卫摇滚和电子制作，显示Tankian在重金属主唱身份之外更偏作曲与策划的一面。",
+    "los-unidades": "Los Unidades是Coldplay在2018年参与慈善唱片《Global Citizen EP 1》时采用的化名，而非另行招募成员的长期乐队。Chris Martin策划这张四曲EP，Los Unidades在《E-Lo》《Timbuktu》《Voodoo》中与Pharrell Williams、Stormzy、Wizkid、Tiwa Savage、David Guetta等音乐人合作，把流行摇滚放进非洲流行、电子舞曲与跨国合唱的语境。发行收益用于Global Citizen反贫困倡议，因此这个名义主要标记一项一次性的全球合作行动。",
+    "mosquito": "Mosquito是1990年代初由Half Japanese的Jad Fair、Sonic Youth鼓手Steve Shelley、吉他手Tim Foljahn与Yo La Tengo贝斯手James McNew组成的地下摇滚项目。1993年的《Time Was》和《U.F.O. Catcher》以松散即兴、短促噪音、原始摇滚节拍和Fair近乎口语的怪诞叙事构成，听起来刻意保留排练室般的毛边。它没有发展成稳定巡演乐队，却把纽约独立音乐圈几条重要人脉压缩进一组自由、顽皮而不修饰的录音。",
+    "jomoro": "Jomoro是鼓手Joey Waronker与巴西打击乐手Mauro Refosco在2021年组成的二人项目；两人此前都曾在Atoms for Peace合作。首张《Blue Marble Sky》由二人在疫情期间远程交换录音完成，以电子节拍和有机打击乐为轴，连接巴西节奏、另类摇滚、氛围与实验音乐；Sharon Van Etten、Lucius、Karina Buhr和Brandon Markell Holmes等人提供客席演唱。项目的主角始终是节奏，两位鼓手先建立会呼吸的底层，再让不同歌手进入其中。",
+    "nearly": "nearLY是前Nine Inch Nails鼓手Jerome Dillon在离团前后主导的个人项目，名称虽以乐队方式呈现，录音核心却是Dillon本人。2005年的首张《Reminder》中，他包办主唱、鼓、吉他、键盘、弦乐编排与大量制作工作，并邀请Claudia Sarne等伙伴参与；音乐把工业摇滚的暗色纹理与钢琴、弦乐、环境声和更内向的歌曲写作相连。它让长期担任鼓手的Dillon转到创作中心，也是他后来进入电影配乐工作的自然过渡。",
+    "scars-borough": "Scars Borough由主唱Kyoko、吉他手本郷信、贝斯手MARCH与ELLEGARDEN鼓手高橋宏貴于2008年组成。四位成员在各自主团暂停活动后经排练迅速固定阵容，2009年同名迷你专辑之后以四十场全国巡演磨合，继而推出《Stroke》《which one?》《Nineteen Percent》和《音紋》。乐队以女性主唱的锋利旋律为前景，背后则是硬朗而强调现场推进的日式另类摇滚合奏。",
+    "clinton": "Clinton是Cornershop核心成员Tjinder Singh与Ben Ayres在主团巡演暂停期间成立的舞曲副项目。1999年的单曲《Buttoned Down Disco》和随后专辑《Disco and the Halfway to Discontent》弱化吉他乐队结构，把迪斯科、放克、嘻哈、电子节拍、雷鬼与旁遮普音乐采样混成一场带政治口号的全球派对，《People Power in the Disco Hour》最能概括其方向。它只留下一个主要专辑周期，却让两人把Cornershop已有的文化拼贴彻底转向舞池。",
+    "orcutt-shelley-miller": "Orcutt Shelley Miller是吉他手Bill Orcutt、Sonic Youth鼓手Steve Shelley与Howlin’ Rain、Comets on Fire成员Ethan Miller组成的前卫摇滚三人组。三人在2024年4月于洛杉矶Zebulon首次同台，并直接把现场录音做成2025年的同名首专：五段器乐从明确riff出发，再靠即兴不断拆解和重组。Orcutt尖锐的吉他、Shelley稳定而灵活的鼓与Miller改任贝斯形成一支介于自由爵士方法、迷幻摇滚和噪音朋克之间的power trio。",
+    "anatakikou": "ANATAKIKOU是2002年前后在大阪结成的三人流行乐队。2005年首张《sweet montage A》以复杂却不显拥挤的编曲、抓耳旋律、密集和声与富于画面感的日语歌词建立风格；唱片自称“post-pop”，声音既有旧式歌谣与软摇滚的怀旧感，也常用突然转折和幽默表演破坏规整。其后《Message Pie》《YELLOW MATADOR》继续这条古怪而精细的路线，长时间沉寂后又以《3.2.1.O》恢复完整专辑创作。",
+    "amboog-a-lard": "Amboog-a-Lard是1987年在佛罗里达州Coral Springs成立的前卫鞭击金属乐队，由鼓手Dan Fontana发起并长期维持。后来以Twiggy Ramirez闻名的Jeordie White在加入Marilyn Manson前曾担任吉他手，参与写作并转任1993年唯一正式专辑《A New Hope》的贝斯与和声；唱片把鞭击金属速度、复杂结构和当时兴起的groove metal重量放在一起。乐队始终停留在南佛罗里达地下场景，White离开后逐渐失去动力，最终于1990年代中后期解散。",
+    "wolfmanhattan-project": "Wolfmanhattan Project是三位美国地下摇滚老将组成的车库摇滚组合：The Gories与The Dirtbombs的Mick Collins、The Gun Club与The Cramps旧将Kid Congo Powers，以及曾为Sonic Youth和Pussy Galore打鼓的Bob Bert。2019年的《Blue Gene Stew》由三人轮换主唱并交换吉他、贝斯与鼓，把原始节奏蓝调、no wave噪音和廉价科幻感搅在一起；2022年《Summer Forever and Ever》继续保持即兴般的粗糙火花。它不是明星履历的陈列，而是三位长期DIY乐手以最少修饰继续制造怪异摇滚的工作组。",
+    "mick-fleetwood-and-friends": "Mick Fleetwood and Friends是Mick Fleetwood为致敬Fleetwood Mac创始人Peter Green及乐队早期蓝调时期而组织的一次性全明星演出名义。音乐会于2020年2月25日在London Palladium举行，固定伴奏组由Fleetwood、Rick Vito、Andy Fairweather Low、Dave Bronze和Ricky Peterson组成，嘉宾包括David Gilmour、Kirk Hammett、Pete Townshend、Christine McVie、Noel Gallagher、Billy Gibbons等。演出后来发行电影和现场专辑；它不是一支持续活动的超级乐队，而是一晚围绕Green作品建立的纪念性合奏。",
+    "賽": "賽（SAI）是Suchmos键盘手TAIHEI在2021年与小号手佐瀬悠輔、贝斯手岩見継吾成立的爵士取向乐队，最初刻意采用无鼓三人编制。早期《Family》《The Bottle》让钢琴、小号与低音在爵士即兴、hip-hop式律动和日常氛围之间留出大量空间；鼓手松浦千昇加入后，四人于2023年完成首张全长《YELLOW》，节奏变得更立体，也保留了不急于炫技的松弛感。TAIHEI把它视作可以渗入生活的音乐，而不是Suchmos声音的简单支线。",
+    "puppies": "Puppies是来自俄亥俄州Oxford的美国独立摇滚乐队，核心作品为2007年的《Sick Machine》和2011年的《War & Reconstruction》。前12 Rods及くるり鼓手Christopher McGuire在第二张专辑录制阶段加入，以力度鲜明的鼓推动乐队原本偏旋律化的现代摇滚写作；歌词反复触及局外人、太空意象、失重与重建。它在2000年代中期的美国独立比赛和地区演出中积累关注，也曾与Canton Symphony Orchestra同台，以摇滚编制和管弦乐的异同作为演出主题。",
+    "axiom-funk": "Axiom Funk是制作人兼贝斯手Bill Laswell为1995年双CD《Funkcronomicon》设立的开放式超级组合名义，而非阵容固定的巡演乐队。项目召回George Clinton体系中的Bootsy Collins、Bernie Worrell、Eddie Hazel、Blackbyrd McKnight等P-Funk乐手，同时加入Herbie Hancock、Sly Stone、Buckethead、The Last Poets与Laswell长期伙伴。作品从经典P-Funk出发，吸收dub、电子、嘻哈与实验摇滚；其中还保存了Eddie Hazel去世前最后一批录音，使它既是一次更新，也是对整个放克家族的档案式重组。",
+    "electric-wave-bureau": "Electric Wave Bureau是Damon Albarn与长期音乐总监Mike Smith等伙伴组成的电影配乐集体，工作重点是为影像共同作曲和制作，而非按唱片周期活动。2012年Rufus Norris执导的《Broken》是其最明确的早期项目，声音以钢琴、细碎电子音色和片中少女演唱的歌曲连接家庭创伤与童年视角；团队后来也参与《The Kid Who Would Be King》等电影。它与Albarn其他乐队的区别在于没有固定舞台人格，成员以声音设计和叙事功能为先。",
+    "the-heavy-seas": "The Heavy Seas是Damon Albarn为2014年首张个人专辑《Everyday Robots》巡演命名的现场乐队。阵容包括键盘手Mike Smith、吉他手Jeff Wootton、兼奏贝斯与吉他的Seye Adelekan，以及鼓手Pauli the PSM；他们不仅演奏个人专辑，也重新编排Blur、Gorillaz和The Good, the Bad & the Queen作品。Royal Albert Hall演出后来以《Live at the De De De Der》发行，保留了Graham Coxon、Brian Eno、De La Soul等客席；因此它更像整合Albarn多条创作线索的舞台班底。",
+    "the-stars": "THE STARS是WHITE HEAVEN主唱兼吉他手石原洋在1999年前后成立的日本迷幻摇滚乐队，主要阵容还包括WHITE HEAVEN吉他手栗原ミチオ、ゆらゆら帝国贝斯手亀川千代与鼓手荒川康伸。两张核心专辑《Will》和《Perfect Place to Hideaway》从厚重硬摇滚逐渐转向更幽暗、绵长的宇宙迷幻：反复低音与稳定鼓点托住栗原延展的吉他，石原则以低沉歌声控制张力。2005年的第二张也是最后一张录音室专辑，后来重制版补入几首接近完成的未发表母带。",
+    "qubit": "QUBIT是2023年启动的日本五人乐队，由Daoko主唱，相対性理論与TESTSET吉他手永井聖一、LITTLE CREATURES贝斯手鈴木正人、作曲家兼键盘手網守将平和鼓手大井一彌组成。首张《9BIT》以完整现场合奏承接Daoko的说唱与轻声旋律，在复杂节拍、电子处理、爵士和另类流行之间频繁转向。它不是歌手加伴奏团的配置：五位成员都参与声音设计，精密演奏与Daoko富有角色感的语言同样处于前景。",
+    "tin-pan": "Tin Pan是細野晴臣、鈴木茂与林立夫在2000年重新合作时采用的三人名义，可视为1970年代キャラメル・ママ与ティン・パン・アレー的缩编重组。三人同名专辑在相隔约四分之一世纪后再度结合細野的低音与创作、鈴木的吉他和林的鼓，把他们奠定的日本城市流行、乡村摇滚与录音室乐手传统放进更从容的当代制作。该名义后来也为矢野顕子的“さとがえるコンサート”重聚，因此需要与旧团Tin Pan Alley区分。",
+    "hankshaw": "Hankshaw是1994年在佛罗里达州Tampa成立的旋律型emo／独立摇滚乐队。1997年唯一全长《Nothing Personal》由Harold Hasselback极高而柔韧的男声、清亮双吉他与紧凑节奏组构成，明快推进下却写满失落、距离和自我怀疑；乐队曾与Hot Water Music、Elliott、Ann Beretta等团巡演。后续单曲和EP未形成第二张专辑，2021年的重制版及合辑《Something Personal》才把这支短命乐队的主要录音重新整理完整。",
+    "ourself-beside-me": "Ourself Beside Me由前挂在盒子上吉他手杨帆于2003年在北京发起，阵容多次变化后与贝斯手谢晗、日籍鼓手Emi组成三人形态。她们从Velvet Underground、Can、The Fall与纽约no wave吸收灵感，却用中国式旋律迂回和北京现场的直接感重新组织，形成冷峻吉他、原始节拍与女性声线并存的声音。杨海崧制作的2009年同名专辑由兵马司发行，是D-22场景中极具辨识度的一张女性实验摇滚唱片。",
+    "the-john-doe-thing": "The John Doe Thing是洛杉矶朋克乐队X的主唱兼贝斯手John Doe在1990年代中后期用于个人乐队作品的名义。1995年的《Kissingsohard》重新靠近X的摇滚冲击，2000年的《Freedom Is...》则让他低沉的声线在独立摇滚、根源摇滚、乡村与内省唱作之间自由移动；合作乐手包括Smokey Hormel、Charlie Quintana等。这个名称没有固定到永恒阵容，更像Doe强调“这是乐队演奏的个人作品”时使用的阶段性招牌。",
+    "decays": "DECAYS是DIR EN GREY吉他手Die与MOON CHILD鼓手兼制作人樫山圭于2015年发起的日本摇滚组合。后续六人阵容加入创作歌手中村中、提琴手Ayasa、贝斯手寺沢リョータ与舞者チドニー，Die和中村中的双主唱令90年代式抓耳旋律带上更妖艳的戏剧张力，小提琴和电子层则拓宽了传统乐队声场。《Red or Maryam》与2016年《Baby who wanders》记录了项目从短期尝试变成完整多媒体编制的过程。",
+    "浅井健一-the-interchange-kills": "浅井健一 & THE INTERCHANGE KILLS是BLANKEY JET CITY旧将浅井健一在2016年组建的三人乐队，由浅井负责主唱与吉他，NUMBER GIRL前贝斯手中尾憲太郎和鼓手小林瞳组成节奏组。2017年《METEO》与次年《Sugar》把浅井惯有的街头人物、汽车与危险浪漫压进简洁编制，中尾粗壮的低音和小林灵活的鼓让歌曲比大编制项目更紧迫。它既延续浅井个人写作，也是一次刻意回到三人摇滚最直接互动方式的选择。",
+    "shin-e": "Shin.e（发行资料中也常写作Shine）是声音拼贴者Shin Terai与制作人Bill Laswell圈子合作的实验dub项目。2004年的《Heaven and Hell》由1999年《Unison》录音素材重新拆解而成，Buckethead、Nicky Skopelitis的吉他、Bernie Worrell键盘与Laswell深沉贝斯被重混为七段无标题“Movement”；2007年《Lightyears》延续其漂浮、低频主导的空间感。它更接近以录音室重构为创作本体的组合，而不是排练固定曲目的现场乐队。",
+    "julia-hart": "Julia Hart是前언니네 이발관吉他手정바비（早期资料亦用정대욱）在2000年组建的韩国吉他流行乐队。2002年《가벼운 숨결》以清澈吉他、轻柔和声和少年少女式爱情叙事确立气质，《영원의 단면》获得韩国大众音乐奖现代摇滚专辑提名，随后《당신은 울기 위해 태어난 사람》《Hot Music》继续在甜美旋律中加入细小讽刺与成长阴影。《오르골》《Miss Chocolate》等歌进入电影或广告，让这支独立乐队的青春感走出地下场景。",
+    "the-coolies": "The Coolies是Kim Shattuck、Melanie Vammen与Palmyra Delran在2019年组成的女性power pop／朋克三人组；前两人曾同在The Pandoras和The Muffs，Delran则来自The Friggs。六曲EP《Uh Oh! It’s… The Coolies》由三人远程交换素材并轮换吉他、贝斯、鼓与主唱，融合British Invasion、garage、bubblegum和短促朋克。全部收益捐给ALS研究；Shattuck当时已患病却未公开，EP也成为她去世前最后一批录音之一，使这个欢乐项目同时带有明确的互助意义。",
+    "deathfix": "Deathfix由Fugazi鼓手Brendan Canty与电子音乐人Rich Morel在Bob Mould巡演团共事后于2009年发起，Mark Cisneros与Devin Ocampo随后加入节奏组，Jerry Busher后来接替Ocampo。两位核心成员共同喜爱1972年前后的华丽摇滚与前卫摇滚，因此2013年同名专辑刻意远离各自最知名的硬核和俱乐部背景，转向钢琴、和声、长篇吉他与松弛groove。它是Dischord目录里少见的经典摇滚侧写，却仍保留华盛顿音乐人直接合奏的质感。",
+    "spasm": "Spasm是1990年代中期围绕Invisible Records形成的工业实验组合，成员连接多个跨国项目：Evil Mothers主唱Curse Mackey、Lab Report的Eric Pounder、Dead Voices on Air的Mark Spybey，以及Pigface核心Martin Atkins。1995年同名作与1997年《Smear》把循环节拍、采样拼贴、噪音、口语和长篇即兴压在一起，结构比普通工业摇滚更松散。《Smear》由Atkins制作混音，也因此像Pigface开放合作模式的一条更抽象、更阴暗的旁支。",
+    "look-outside-your-window": "Look Outside Your Window是Corey Taylor、Jim Root、Shawn “Clown” Crahan与Sid Wilson四位Slipknot成员在2008年《All Hope Is Gone》录音期间另行完成的实验项目。四人在农舍另一间工作室自由即兴，以柔和歌声、风琴、抽象吉他、细小鼓循环和虫鸣等环境采样，走出与Slipknot金属声响完全不同的慢热另类摇滚。作品封存十八年后于2026年以同名独立项目正式发行，而不是冠以Slipknot专辑之名。",
+    "thee-shatners": "Thee Shatners是1990年代初旧金山湾区的一次性主题车库乐队，由The Ne’er Do Wells成员延伸而来，阵容包括Green Day早期鼓手John Kiffmeyer。1994年同名专辑把《Star Trek》角色、对白与太空意象写进简陋而高速的garage punk和冲浪摇滚，团名则直接戏仿饰演Captain Kirk的William Shatner。它的目录虽只有一张核心专辑，却完整保留了湾区朋克把低成本科幻、幽默和复古摇滚做成概念唱片的趣味。",
+    "white": "WHITE由Carsick Cars主唱张守望与前挂在盒子上鼓手沈静（Shenggy）于2006年在北京组成，是“No Beijing”场景中最重要的实验二人组之一。张守望使用吉他、风琴、玩具与模拟效果，沈静以鼓、采样、磁带和人声回应，声音从Glenn Branca式噪音墙、Steve Reich相位循环延伸到工业打击与中国古筝观念。Einstürzende Neubauten的Blixa Bargeld在柏林制作了2008年同名专辑；此后张守望以White+延续更电子化的方向。",
+    "peligro": "Peligro是Dead Kennedys鼓手D.H. Peligro在1990年代转到台前后建立的个人乐队名义，他在这里负责主唱和吉他。1995年同名专辑由Jello Biafra的Alternative Tentacles发行，把硬核朋克的速度与Peligro从Red Hot Chili Peppers经历中吸收的放克、重金属和雷鬼节奏并置；后续还有《Welcome to America》和《Sum of Our Surroundings》。项目让他不再只是著名鼓手，也直接呈现一位黑人朋克音乐人的写作、政治表达与跨风格身份。",
+    "mark-knopfler-s-guitar-heroes": "Mark Knopfler’s Guitar Heroes是为2024年慈善单曲重新录制《Going Home (Theme From Local Hero)》而设立的一次性集体署名。Knopfler与制作人Guy Fletcher把Jeff Beck生前最后录音之一放在开头，再让Eric Clapton、David Gilmour、Brian May、Slash、Tom Morello、Nile Rodgers、Steve Vai、Bruce Springsteen等数十位乐手依次接力，Ringo Starr与Zak Starkey负责节奏。收益支持Teenage Cancer Trust与Teen Cancer America，因此它不是可巡演的超级乐队，而是一首器乐曲容纳多代吉他史的公益工程。",
+    "all-scars": "All Scars是1996至2002年前后活跃于华盛顿特区的开放式即兴集体，成员轮换涉及Jerry Busher、Amy Farina、Brendan与James Canty、Chuck Bettis、Dug Birdzell等Dischord人脉。乐队强调“不重复”：作品应在当下生成，甚至同一座城市只演一次某个结构，因此《Early Ambient》《Introduction to Humanity》《Lunar Magus》更像不同阶段的现场实验记录。噪音、后朋克、电子处理和自由合奏在其中没有固定主次，阵容的流动本身就是创作规则。",
+    "the-gaddabouts": "The Gaddabouts是鼓手Steve Gadd发起的四人录音乐队，由Edie Brickell主唱并弹少量吉他，Andy Fairweather Low负责吉他与和声，Pino Palladino演奏贝斯和吉他。Brickell与Gadd约在2000年开始demo合作，随后扩充成完整阵容，2011年同名首专及2012年双碟《Look Out Now!》把她自然松弛的唱作放进顶尖录音室乐手克制的爵士、灵魂与folk-rock groove。Joey DeFrancesco、Gil Goldstein等客席进一步丰富编制，但歌曲始终避免变成技巧展示。",
+    "the-beards": "The Beards是The Muffs主唱Kim Shattuck、cub的Lisa Marr与Sherri Solinger在2001年前后组成的女性独立摇滚副项目。三人共同写作并轮换演奏，2002年专辑《Funtown》把Shattuck标志性的沙哑高声、Marr偏甜的旋律感和简洁朋克吉他放在一起，形成介于power pop、garage与轻快流行朋克之间的短篇歌曲集。项目没有取代各自主团，也未发展出庞大目录，却记录了三位洛杉矶与温哥华独立音乐人一次平等、随性的合流。",
+    "sloth-love-chunks": "SLOTH LOVE CHUNKS由NUMBER GIRL解散后的贝斯手中尾憲太郎于2002年组建，成员还包括前BELTERS★主唱兼吉他佳世、前LAUGHIN’ NOSE鼓手KENJI与前KIWIROLL吉他手og。2006年唯一全长《四角いVISION》以90年代美国独立摇滚与grunge为底，加入new wave的干涩节奏、lo-fi流行感和佳世略带怪异张力的声线。四位经验丰富的乐手没有复制旧团，反而做出一套介于硬朗与轻盈之间的短命四人摇滚。",
+    "seymour": "Seymour是Blur四位成员在签约Food Records前短暂使用的团名。Damon Albarn、Graham Coxon、Alex James与Dave Rowntree于1989年前后固定阵容，名称取自J. D. Salinger笔下人物Seymour Glass；他们以此名制作demo并在伦敦演出。唱片公司认为名称不够合适，成员从备选词中选择Blur，于1990年完成改名，因此Seymour不是旁支，而是同一支乐队从学生阶段走向职业发行的最后一个旧名。",
+    "a-n-jell": "A.N.JELL是2009年SBS韩剧《原来是美男》中的虚构偶像乐队，成员由张根硕饰演的黄泰京、郑容和饰演的姜新禹、李洪基饰演的Jeremy，以及朴信惠女扮男装饰演的高美男组成。角色在剧情中演奏《Promise》《Still》等歌，演员也以该名义登台并进入原声带目录。它并非现实中长期经营的K-pop团体，却把CNBLUE与FTISLAND成员、演员和剧中叙事连接成一支可在戏外被收听的“真实虚构乐队”。",
+    "橋本絵莉子波多野裕文": "橋本絵莉子波多野裕文是チャットモンチー的橋本絵莉子与People In The Box主唱波多野裕文在2016年前后组成的二人合作。2017年同名专辑让两人交换作词与作曲：極其私人的文字被交给对方谱曲，再由两种声线、吉他、钢琴与克制编曲重新解释，故意离开各自主团熟悉的写歌反射。项目名称直接并列两人姓名，也准确说明其核心不是固定乐队人格，而是两位创作者互换视角的实验。",
+    "lord-sutch-heavy-friends": "Lord Sutch & Heavy Friends是Screaming Lord Sutch为1970年同名专辑召集的全明星录音阵容。Jimmy Page担任制作并弹吉他，John Bonham、Jeff Beck、Noel Redding、Nicky Hopkins等人参与，把Sutch夸张的恐怖舞台人格放进粗砺蓝调与早期重型摇滚。豪华名单与松散成品之间的反差使它后来常被列入“最差专辑”榜单，但这张唱片也保存了Led Zeppelin成名初期与英国60年代R&B人脉一次古怪的交会。",
+    "krautzone": "Krautzone是2011年成立的德国即兴宇宙摇滚组合，成员包括Sula Bassana、Komet Lulu、Modulfix、Rainer Neeff与Onkel Kaktus，多人与Zone Six、Electric Moon等团相连。2013年《Kosmische Rituale》从合成器漂流、shaman式鼓点与效果吉他出发，随后《Superkraut》《Spiritual Retreat》继续以现场即兴而非预写歌曲生成长篇结构。团名直白地点出方向：它不是复刻某支70年代乐队，而是让Krautrock的重复、偶然与宇宙感继续发生。",
+    "hawk": "Hawk是1984年前后活跃于洛杉矶Sunset Strip场景的重金属乐队，吉他手Doug Marks是核心人物，阵容曾有后来加入BulletBoys的Lonnie Vencent与Marq Torien等人。1986年同名专辑以双吉他、尖亮主唱和竞技场式副歌连接传统美式金属与即将兴盛的glam metal。乐队未获得同时代大团的商业突破，Marks后来以Metal Method吉他教学闻名；2009年《Let the Metal Live》则整理并延续了这段旧录音历史。",
+    "gibkiy-gibkiy-gibkiy": "gibkiy gibkiy gibkiy是2016年启动的日本暗黑实验摇滚三人组，由deadman吉他手aie、L’Arc〜en〜Ciel前鼓手Sakura与主唱kazuma组成。首作《不条理種劇》和2017年《In incontinence》把visual kei的阴影、后朋克低温、另类金属重量与不规则结构放在一起；kazuma近乎戏剧独白的唱腔与aie尖锐留白的吉他形成核心张力。重复三次的团名强调“柔韧”，音乐也确实不断在静默、噪发和节奏变形之间弯折。",
+    "combative-post": "Combative Post是韩国吉他手이일우在13Steps、49 Morphines与Jambinai等经历之外推进的重型项目。2020年《Whiteout》以金属化吉他、硬核节奏和阴郁氛围为中心，既保留他早期韩国硬核场景的直接冲击，也能听到后来处理传统乐器与后摇结构时形成的空间意识。它不是Jambinai的缩小版，而是이일우把更尖锐、对抗性的riff写作集中存放的一条个人支线。",
+    "asoto-union": "Asoto Union是2001至2005年活跃的韩国funk与soul乐队，以主唱兼鼓手김반장为核心。唯一专辑《Sound Renovates a Structure》于2003年发行，把70年代温暖录音质感、舞动低音、铜管、scat与即兴结合，乐队自称这种声音为“DAZZ”，即danceable jazz；《Think About’chu》后来成为韩国neo-soul的重要代表作。解散后，김반장与部分成员组成Windy City，使这张独作也成为韩国本土reggae、funk发展的一处关键前史。",
+    "original-silence": "Original Silence是萨克斯手Mats Gustafsson为连接自由即兴与高能量摇滚而召集的六人团体，阵容还包括Thurston Moore、Terrie Ex、Jim O’Rourke、Massimo Pupillo与Paal Nilssen-Love。六人2005年在意大利进行四场不预设结构的演出，随后由现场录音形成《The First Original Silence》和《The Second Original Silence》；失真吉他、电子噪音与自由爵士吹奏始终被强硬的贝斯鼓组向前推动。它并非明星乐手轮流独奏的拼盘，而是一支以集体碰撞和现场音量塑造结构的free-rock乐队。",
+    "ibex": "Ibex是Freddie Mercury尚使用Freddie Bulsara姓名时，于1969年加入的一支利物浦短命摇滚乐队；其余成员为吉他手Mike Bersin、贝斯手John Taylor与鼓手Mick Smith。乐队以重型蓝调和翻唱曲为主，Mercury加入后迅速介入舞台与创作，并推动团名改为Wreckage；从8月首演到同年末解散，整个阶段只有少量现场及家庭排练录音留存。它的重要性不只在“Queen之前”，更在于这是Mercury第一次以摇滚主唱身份密集登台并开始改造一支乐队。",
+    "eiko-ishibashi-trio": "Eiko Ishibashi Trio是石桥英子以钢琴为中心、与贝斯手须藤俊明和鼓手山本达久组成的三重奏。三人于2016年自行推出数字专辑《Six Feet Under》，让石桥英子在歌曲写作、电子实验和电影配乐之外，集中呈现钢琴、低音与鼓之间开放而克制的即兴对话。这个署名主要对应这一张私发行作品，规模虽小，却清楚保存了她与两位长期活跃于日本实验音乐现场的节奏乐手之间的默契。",
+    "projekct-six": "ProjeKct Six是King Crimson“ProjeKcts”实验支线在2006年的二人形态，由Robert Fripp弹吉他，Adrian Belew改演V-Drums电子鼓。两人作为Porcupine Tree美国东岸巡演的开场阵容，在没有传统主唱、贝斯或固定曲目的情况下，让Fripp的Soundscapes与持续音同Belew可变形的电子节奏即时组合；《East Coast Live》记录了这段演出。编号刻意跳过尚未实现的Five，也强调它不是缩编版King Crimson，而是以最少成员测试即兴互动的一次独立实验。",
+    "da-mongoloids": "Da Mongoloids是1990年代中后期围绕纽约与欧洲house场景形成的松散DJ、制作人集体，相关成员包括Armand Van Helden、Thomas Bangalter、Junior Sanchez、DJ Sneak、Roger Sanchez、Todd Terry、Ian Pooley、Laidback Luke、Basement Jaxx与Rhythm Masters等。该名义最明确的正式发行是Van Helden创作、1996年由Strictly Rhythm推出的《Spark da Meth》，此后成员更多通过共同演出、互相混音与客串维持联系。它没有稳定阵容或完整专辑，准确理解方式是一张跨城市house人脉网，而不是Daft Punk式固定组合。",
+    "vicky-cryer": "Vicky Cryer是Louis XIV解散后由主唱Jason Hill于2011年发起的洛杉矶超级组合，参与阵容随场合变化，包括Alex Carapetis、Muse鼓手Dominic Howard、The Killers的Mark Stoermer、前Jamiroquai贝斯手Nick Fyffe与键盘手Jeff Kite等。2013年专辑《The Synthetic Love of Emotional Engineering》把Hill熟悉的放纵摇滚姿态扩展到华丽摇滚、太空放克、迪斯科与电子质感，Sam Gendel和Ray Suen等客席也为编曲增加萨克斯与弦乐。它更像围绕Hill录音室开放的音乐人俱乐部，而非六位名人永久固定的巡演乐队。",
+    "1984": "1984是Brian May与Tim Staffell等Hampton Grammar School同学在1964年组建的伦敦学生乐队，团名取自George Orwell的同名小说；稳定成员还包括Dave Dilloway、John Garnham与Richard Thompson。乐队在教堂礼堂、学校和Imperial College演奏R&B、soul与当代流行翻唱，也写下May与Staffell合作的《Step on Me》，并曾与Jimi Hendrix同场。May和Staffell于1968年前后离开后共同组成Smile，因此1984不是Queen的直接旧名，却是May从自制吉他、翻唱乐队走向原创重型摇滚的关键起点。",
+    "lee-curtis-the-all-stars": "Lee Curtis & The All Stars是歌手Peter Flannery以艺名Lee Curtis领衔、1962年在利物浦组建的Merseybeat乐队，早期阵容包括Frank Bowen、Tony Waddington、Wayne Bickerton与刚离开The Beatles的鼓手Pete Best。凭借英国与汉堡演出，他们在1962年底已成为当地热门团体，并在《Mersey Beat》票选中仅次于The Beatles；Decca时期的《Little Girl》《Let’s Stomp》却未能进入榜单。1963年原班乐手离开Curtis并逐步演变为Pete Best Four，Curtis则另组阵容赴德国发展，因此这个名称实际涵盖了数次人员更替。",
+    "limbomaniacs": "Limbomaniacs是1982年成立于旧金山湾区的四人融合摇滚乐队，由贝斯兼主唱Anthony “Butthouse” Chaba、吉他手Mark “Mirv” Haggard、键盘手Pete Scaturro与鼓手Bryan “Brain” Mantia组成。唯一专辑《Stinky Grooves》于1990年由Bill Laswell制作，把重金属riff、放克低频、嘻哈口语与夸张幽默揉在一起，并邀Bootsy Collins、Maceo Parker等人客串。它与Primus、Buckethead及后来Praxis的人脉彼此交叉，是湾区在“funk metal”成为标签前后最怪诞、也最重groove的一条支线。",
+    "s-m-n": "S.M.N.是2001年由福冈三位高中同学组成的三人旋律朋克乐队，成员为吉他兼主唱横山裕章、贝斯兼主唱西村浩介和鼓手マー坊。2006年翻唱迷你专辑《Knocking My Soul》从NOFX、Descendents、Toy Dolls等影响出发，随即以《How About It?》《What Is Bad To Be Fun!!》建立高速、欢闹而重旋律的原创风格；2010年作品还邀请Less Than Jake的Roger Manganelli制作、Descendents的Stephen Egerton混音。它把90年代美式melodic punk的速度和福冈现场文化结合，并通过欧洲巡演把这套“三个人全速前进”的声音带出日本。",
+    "mantra-of-the-cosmos": "Mantra of the Cosmos是鼓手兼制作人Zak Starkey发起、于2023年公开活动的英国迷幻摇滚组合，阵容还有Happy Mondays的Shaun Ryder与Bez，以及Ride、Oasis吉他手Andy Bell。Starkey把重型节奏和录音框架搭好，Ryder以即兴式超现实念唱制造混乱，Bell则用shoegaze音墙与riff填充空间；《Gorilla Guerilla》《X (Wot You Sayin?)》和Glastonbury首演确立了这种介于Madchester、acid rock与太空噪音之间的声音。四人刻意回避“超级组合”的端正感，项目魅力恰在名团履历被重新搅成一场松散、危险的现场。",
+    "elements-of-life": "Elements of Life是纽约house制作人Louie Vega从同名歌曲与2004年个人专辑发展出来的现场乐队，而非阵容封闭的普通组合。项目以Vega为指挥与制作核心，长期伙伴包括歌手Josh Milan、Anané、Raúl Midón，打击乐手Luisito Quintero及多位爵士、拉丁与soul乐手；深情house的电子底盘由钢琴、铜管、手鼓和多层人声在舞台上重新演奏。2013年的《Eclipse》继续扩展这套语言，Elements of Life也因此成为Vega把DJ文化、纽约波多黎各传统、Afro-Latin节奏和大型现场合奏连起来的主要载体。",
+    "caught-on-tape": "Caught on Tape是Sonic Youth吉他手Thurston Moore与Sunburned Hand of the Man鼓手John Moloney组成的自由即兴二人组。2012年欧洲巡演的现场录音先形成同名唱片，随后《Acting the Maggot》《Banjaxed Blues》等小批量发行持续记录两人不设曲目的碰撞；2015年首张正式录音室专辑《Full Bleed》则把噪音、free-rock与黑金属式密度压进吉他和鼓的极简编制。Moore与Moloney也同在Chelsea Light Moving，但这里没有摇滚歌曲骨架，只有音量、速度和即时反应。",
+    "windy-city": "Windy City由Asoto Union解散后的主唱兼鼓手김반장与吉他手윤갑열于2004年前后在首尔组建，早期阵容还包括贝斯手김태국、键盘手조명진与打击乐手정상권。2005年首专《Love Record》仍保留Asoto Union的soul与funk暖色，随后乐队逐渐把根源reggae、dub、非洲与加勒比打击乐同韩国传统长短节奏结合，并以街头演出和跨界合作进入弘大以外的现场。团名向Curtis Mayfield的Windy C厂牌致意，而김반장所称的“清麴酱reggae”则点出他们并非复制牙买加，而是在寻找带有韩国发酵气味的本土律动。",
+    "the-silver-beatles": "The Silver Beatles是John Lennon、Paul McCartney、George Harrison与Stuart Sutcliffe在1960年短暂使用的过渡团名，处于The Quarrymen之后、The Beatles正式定名之前，鼓手位置则由Tommy Moore、Norman Chapman等人短期填补。这个名字为参加Larry Parnes的伴奏乐队选拔而采用；他们虽未获Billy Fury的工作，却得到为Johnny Gentle进行苏格兰巡演的机会，随后在利物浦与Wirral连续驻演。到同年8月赴汉堡前，“Silver”被去掉并由Pete Best加入，因此它不是另一支旁系乐队，而是Beatles第一次巡演、建立职业纪律时的一段真实旧名。",
+    "digital-noise-academy": "Digital Noise Academy是由Failure的Ken Andrews发起、通过远程传输音轨进行创作的六人录音项目，成员还有Charlotte Martin、Sharky Laguana、Jordon Zadorozny、Fernando Sanchez与Justin Meldal-Johnsen。几位制作人、独立音乐人和职业乐手不必同时身处一间录音室，而是轮流添加、编辑和重构彼此的素材；众筹完成的2013年专辑《Synemy》把另类摇滚旋律、电子编程与精细录音制作汇合成最终版本。项目的“学院”不是学校，而是一套早于远程协作普及年代便把互联网当作共同录音室的工作方法。",
+    "l-s-d": "L.S.D.是活跃于1980年代中期日本地下场景的hardcore punk项目，与同名欧美艺人无关。1983年的《Destroy》和1986年的《Jast Last》两张短篇唱片以沙哑怒吼、薄而尖锐的吉他失真和突然爆发的高速段落形成极端粗粝的声音；后者由札幌朋克团畜生担任伴奏，而畜生随后发展为bloodthirsty butchers。2005年合集《1983–2005 Hate》补齐散落录音，使这支发行极少的团体在日本早期hardcore谱系中重新可见。",
+    "the-special-assembly": "The Special Assembly是为2006年英格兰世界杯歌曲《Hurry Up England – The People’s Anthem》临时使用的集体署名，核心演奏者包括Graham Coxon、Owen Thomas、Stephen Gilchrist与Toby Macfarlaine，并与Sham 69主唱Jimmy Pursey合作。歌曲把Sham 69的1978年作品《Hurry Up Harry》改写成足球助威歌，由Virgin Radio听众投票选出并由Stephen Street制作，发行后进入英国单曲榜前十。这个名称没有后续专辑或巡演生涯，准确说是一首公众广播企划催生的临时乐队，而非Coxon在Blur之外的长期新团。",
+    "rory-storm-and-the-hurricanes": "Rory Storm and the Hurricanes由利物浦歌手Alan Caldwell在1950年代末从skiffle团体逐步发展而来，他改名Rory Storm后，以夸张服装、舞台动作和高强度翻唱成为早期Merseybeat现场最受欢迎的领队之一。Richard Starkey于1959年前后加入并在这里采用Ringo Starr艺名，乐队随后驻演Butlin’s假日营及汉堡Kaiserkeller，直到他在1962年转投The Beatles。Hurricanes的本地声望远大于薄弱的正式唱片目录；Ringo离开后发行的《Dr. Feelgood》《America》未能复制现场热度，却留下了Beatles成名前利物浦职业乐队生态的重要切面。",
+    "cyril-davies-his-rhythm-blues-all-stars": "Cyril Davies & His Rhythm & Blues All Stars是口琴手兼歌手Cyril Davies于1962年离开Alexis Korner’s Blues Incorporated后组建的英国电声蓝调乐队。Davies追求更纯粹的Chicago blues，早期从Screaming Lord Sutch的Savages吸收Nicky Hopkins、Carlo Little与Ricky Fenson，并加入吉他手Bernie Watson、歌手Long John Baldry及和声组The Velvettes；1963年单曲《Country Line Special / Chicago Calling》以凶猛口琴和紧凑节奏成为代表。Davies于1964年突然去世后，Baldry接手成员并发展为Hoochie Coochie Men，使这支短命团体成为英国blues boom向Rod Stewart等下一代传递人脉的关键节点。",
+    "gorgone": "Gorgone是Buckethead、键盘手兼录音师Travis Dickerson与鼓手Pinchface在制作《Population Override》期间自然形成的三人即兴项目。三人让录音带持续运转，把没有预写结构、又不适合归入原专辑的长篇jam整理成2005年同名唱片；Buckethead在吉他与贝斯之间切换，Dickerson以风琴和合成器回应，Pinchface则维持松动而怪异的groove。三首曲目几乎保留现场原貌，因此它与其说是常规乐队，不如说是一次把录音室玩笑、70年代器乐即兴与三人默契完整保存下来的会合。",
+    "swarm-s-arm": "Swarm’s Arm由主唱兼吉他手塩谷祐策与后来加入toddle的小林愛于1997年组成，最初只用多把吉他、廉价节奏机和男女双声部制作松弛的lo-fi pop。1998年同名首专之后，乐队曾与Silver Scooter进行美国split tour，也与Modest Mouse、Jad Fair等团同台；2004年前后加入moools鼓手内野正登与采样手舘山裕之，声音才从卧室式编程转向完整合奏。相隔九年的第二张《3285D》由bloodthirsty butchers的吉村秀樹制作，保留Pavement、The Pastels式歪斜轻盈，同时让节奏拥有更清楚的身体感。",
+    "spiky-brothers": "SPIKY BROTHERS是the pillows主唱山中さわお与居住在小樽的二哥山中英俊于2000至2001年间组成的兄弟二人项目。英俊以钢琴伴奏，さわお负责演唱，两人在东京为主的live house演出，也短途前往仙台、名古屋与大阪；曲目混合原创、the pillows旧作及翻唱，并曾在现场销售自制录音带。它没有发展成正式唱片乐队，价值正在于把山中さわお惯常的电吉他编制拆成近乎家庭聚会的钢琴与人声，让旋律和兄弟间的随性互动站到最前面。",
+    "봉제인간": "봉제인간（Bongjeingan，意为“缝制人”）是由Parasol、Sultan of the Disco的지윤해、Hyukoh吉他手임현제与前장기하와 얼굴들鼓手전일준组成的韩国三人乐队。2023年首张《12가지 말들》以三位成员各自主团之外的即兴碰撞为起点，把坚硬吉他riff、机械而有弹性的节奏、迷幻噪音与近似spoken word的歌声缝在一起；《꾸부렁 할머니》《비틀어》等曲目在粗野爆发和细小重复之间转换。团名所指的“缝合”也是创作方法：三段已很鲜明的音乐履历没有被磨平，而是保留接缝形成新的怪异身体。",
+    "gordon-gano-the-ryans": "Gordon Gano & The Ryans由Violent Femmes主唱Gordon Gano与The Bogmen兄弟Billy、Brendan Ryan组成。三人2001年前后在纽约相识，Ryan兄弟先把器乐草稿交给Gano补写歌词与旋律，这套跨邮箱、延续数年的合作最终形成2009年专辑《Under the Sun》。唱片仍能听见Gano尖细而极具辨识度的歌声与宗教、家庭主题，却由两兄弟的吉他、键盘和更饱满的另类摇滚编排取代Violent Femmes的裸露folk-punk；它是一套围绕共同写作建立的三人组，而非临时伴奏名单。",
+    "steady-earnest": "Steady Earnest是Bim Skala Bim主唱Dan Vitale在1990年代初召集的波士顿九人ska组合，成员来自当地The Prophets、Ska’d for Life、The Allstonians等多个团体，前Red Hot Chili Peppers吉他手Jack Sherman也参与其中。1993年前后的同名录音带与《Out of Line》把牙买加rocksteady、two-tone铜管、朋克冲劲和美式R&B放进同一套大编制，后来《Take It! Take It! Take It!》与《Dr. Earnest’s Nerve Steadying Spirits》延续其目录。多位成员轮流演唱与演奏铜管，使它更像波士顿ska场景的一次全明星合班，而不是围绕单一主唱运转的乐队。",
+    "jesus-fever": "JESUS FEVER于1993年秋在京都形成：主唱兼吉他NON与噪音吉他手Okazawa在西部講堂前演出时，被路过的鼓手“China”西浦真奈看到，三人由此固定阵容。1998年首专《DOZENS OF GREAT VIEWS》常被归入关西shoegaze，但缓慢重复、留白与持续噪音同样深受Neu!等Krautrock启发；2000至2002年的录音在沉睡八年后整理为《lemniscate 1》。乐队2004年停止活动，西浦随后在DMBQ美国巡演事故中去世，这两张唱片也成为她以极少音符推动巨大空间感的重要记录。",
+    "sticky-blood": "Sticky Blood是前Arctic Monkeys贝斯手Andy Nicholson与制作人Jamie Shield在谢菲尔德组成的制作二人组。两人原先同在hip-hop团体Clubs & Spades，2014年前后转为共同制作，并在2015年EP《I.D.》中邀请Ajay Carter、Snowy、Hekky等MC和歌手参与；沉重低频、UK hip-hop鼓组、grime棱角与阴暗电子音色取代传统吉他乐队框架。Nicholson和Shield仍亲自演奏鼓、吉他、贝斯与键盘，但项目核心是为不同声音塑造节拍和空间，因此更接近开放式制作搭档而非固定主唱乐队。",
+    "the-pete-best-four": "The Pete Best Four是Lee Curtis与The All-Stars于1963年分裂后，由鼓手Pete Best、Wayne Bickerton、Tony Waddington等原成员改组而成的Merseybeat乐队，名称由Decca为突出Best的前Beatles身份而采用。1964年唯一英国单曲《I’m Gonna Knock on Your Door / Why Did I Fall in Love with You》未获商业成功，Best也只负责鼓而不担任主唱，真正的写作与演唱重心逐渐落在Bickerton和Waddington身上。此后团体扩编为Pete Best Combo并赴美国录音，因此“四人组”准确指向从Curtis伴奏班底到美国时期之间短暂的一年。",
+    "diskaholics-anonymous-trio": "Diskaholics Anonymous Trio由三位著名唱片收藏者兼即兴音乐人组成：Thurston Moore弹吉他，Jim O’Rourke操作合成器与电脑，Mats Gustafsson演奏萨克斯及多种簧管。2000年瑞典Ystad的现场形成2001年同名专辑，随后日本巡演录音《Weapons of Ass Destruction》继续让电吉他反馈、电子纹理与自由吹奏在长篇结构中彼此让位。团名戏称三人对唱片的共同痴迷，音乐却并非收藏趣味的拼贴，而是以控制音量、耐心留白和瞬间爆发取得异常平衡的free-improv三角。",
+    "13steps": "13Steps于2000年5月由主唱DOKYO 13与吉他手HYUL在清州组建，是把首尔以外地方场景推入韩国hardcore版图的重要乐队。三张“Chung Ju City Hardcore”时期demo之后，2005年《This Is the Reality That We Confront》以old-school hardcore的短促冲撞、群吼和反抗社会不公的文字获得韩国音乐大奖最佳摇滚专辑提名；《The Curse Upon Liars》与《Existence》又把速度放缓、重量和阴暗感加深。成员이일우后来在49 Morphines、Jambinai等项目中继续连接韩国硬核与实验音乐。",
+    "exovex": "Exovex是美国创作人兼多乐器演奏者Dale Simmons主导的前卫摇滚录音项目。2015年唯一专辑《Radio Silence》中，Simmons包办人声、吉他、贝斯与键盘，再按歌曲邀请Keith Carlock、Josh Freese、Gavin Harrison打鼓，Richard Barbieri演奏键盘，Nicole Neely叠加弦乐；六首长篇作品因此在厚重riff、氛围摇滚与精细节拍间更换性格。它不是这些名鼓手共同组成的固定乐队，而是一位作者以客席阵容完成的完整概念唱片。",
+    "parlour-flames": "Parlour Flames是前Oasis节奏吉他手Paul “Bonehead” Arthurs与Salford唱作诗人Vinny Peculiar组成的曼彻斯特二人项目。2013年同名专辑也是Bonehead离开Oasis后的首张完整唱片，两人把迷幻art rock、英式旋律和关于英格兰北部生活的叙事放在铜管、长笛与完整巡演乐队中。Bonehead提供宽厚而朴素的吉他底色，Peculiar负责人物化歌词，使项目既有曼城摇滚血缘，又没有复制Oasis。",
+    "the-crawling-king-snakes": "The Crawling King Snakes是Dave Edmunds为1985年电影《Porky’s Revenge!》原声带临时组织的录音室组合，成员为Robert Plant、贝斯手Paul Martinez、鼓手Phil Collins与Edmunds本人。四人只以该名义翻唱并发行50年代R&B歌曲《Philadelphia Baby》，用复古摇滚编制配合电影的怀旧语境；团名又借用了Plant在60年代早期使用过的旧乐队名称。它没有独立巡演或专辑生涯，本质是一首原声带歌曲留下的全明星化名。",
+    "the-pete-best-combo": "The Pete Best Combo是Pete Best Four扩充编制、于1960年代中期赴美国发展的后续形态，核心仍包括鼓手Pete Best、创作兼演唱搭档Wayne Bickerton与Tony Waddington。团体在纽约为Bob Gallo及Cameo等小厂牌录制原创和50年代翻唱，并以美国、加拿大巡演维持活动；1966年专辑《Best of the Beatles》利用Best姓氏制造双关，却也让听众误以为是Beatles合辑。真正的音乐重心是Bickerton与Waddington写下的Merseybeat、garage和纽约流行混合物，Best于1968年退出职业音乐后项目结束。",
+    "glacial": "Glacial是Lee Ranaldo、The Necks鼓手Tony Buck与新西兰风笛兼吉他手David Watson组成的纽约自由即兴三重奏。2005年录制、2012年发行的《On Jones Beach》以一段近48分钟长篇为主体，让Ranaldo反馈、Buck金属质感打击与Watson经过持续呼吸和效果处理的风笛缓慢堆成噪音、drone与free jazz之间的巨大声块。风笛在这里不是民俗装饰，而像另一组失真簧管，使乐队拥有与常见吉他即兴团体完全不同的低鸣。",
+    "cowboys-in-the-campfire": "Cowboys in the Campfire是The Replacements贝斯手Tommy Stinson与费城吉他手Chip Roberts自2017年前后共同巡演形成的精简二人组。2023年首专《Wronger》放下Stinson在Guns N’ Roses与Bash & Pop中的大音量，以原声吉他、尤克里里、baritone guitar和偶尔出现的铜管演奏诙谐又疲惫的Americana与classic country；X乐队的John Doe等朋友客串。项目名像篝火民谣，歌曲却仍保留Replacements式自嘲、破损感和对长期音乐生活的执着。",
+    "droop": "Droop是1992年前后成立的日本女性地下朋克乐队，鼓手西浦真奈后来也参与JESUS FEVER、羅針盤、少年ナイフ与DMBQ。1994年《Loye Loye》和1997年《PUNISH PUNGENT WORLD》以粗糙吉他、紧迫鼓点和不加修饰的女声连接garage punk、alternative rock与日本90年代独立场景。正式资料稀少，却正因两张唱片与西浦广泛的人脉，成为理解她在知名合作之外早期乐队经验的一块拼图。",
+    "tailgunner": "这里的Tailgunner是Oasis早期制作人兼现场音响师Mark Coyle在2000年前后组建的英国摇滚乐队，与后来同名重金属团无关。Noel Gallagher为2000年同名专辑录制鼓，但在正式现场活动前离开；Coyle担任主唱并把厚重、直接的pub rock与迷幻制作带上舞台。名人客席令它常被当作Gallagher副项目，实际核心始终是Coyle第一次从控制台走到台前建立自己的乐队。",
+    "gonervill": "Gonervill是Bill Laswell构想并制作的实验hip-hop三人组，由鼓手Bryan “Brain” Mantia与两位湾区turntablist DJ Eddie Def、Extrakd组成。2001年同名专辑把Brain稳定而有弹性的现场breakbeat置于中心，让两台唱盘进行密集刮擦与采样切割，Buckethead、M.I.R.V.等客席吉他再加入迷幻、dub和怪诞放克色彩。它与El Stew共享成员，却以“鼓手加双唱盘”的明确编制，把DJ技术真正当成乐队合奏而非歌曲装饰。",
+    "emptyorio": "EmptyORio是来自台湾的四人摇滚乐队，现由主唱宇辰、吉他手牧、贝斯手雷誰与鼓手柯光组成。乐队从2018年同名作品出发，在2021年《莫相信袂變卦》中把台语演唱、庞克冲劲与贴近生活的叙事结合起来，随后继续以高强度现场累积听众；宇辰和柯光也参与滅火器，使两团之间形成直接的人脉联系。",
+    "i-and-i-djangdan": "I and I Djangdan是Windy City的Kim Ban-jang与法国雷鬼音乐人François “Hoarang” Rialland共同发起的韩国dub乐队，2008年以《Culture Tree》开始发表作品。2010年专辑《Guidance》把牙买加reggae、现场dub处理、盘索里唱腔与韩国传统长短节奏放进同一套合奏，并由Janggun、Jun Beck、Smiley等成员扩充人声、键盘、贝斯与打击乐；它不是Windy City的简单改名，而是一次明确面向韩式节奏语言的跨国实验。",
+    "bonjintan": "Bonjintan是由日本萨克斯与单簧管演奏家坂田明、Jim O’Rourke、意大利钢琴家Giovanni Di Domenico及鼓手山本達久组成的自由即兴四重奏。2017年同名专辑和随后录制的《Dental Kafka》以几乎占满唱片单面的长篇演奏展开，让坂田明的吼唱与猛烈吹奏、钢琴簇音、低音提琴和鼓组不断改变密度；四人的重点不是固定主题，而是在free jazz的高压碰撞中即时重组空间。",
+    "xtra-large": "Xtra Large是美国吉他手兼词曲作者Warren Fitzgerald早期参与的朋克乐队，1992年留下专辑《NOWiEATthem》。唱片以速度、讽刺感和粗糙的南加州朋克编排为核心，已经能听见Fitzgerald后来在The Vandals中进一步发展的夸张吉他与幽默写法；乐队活动和发行都很有限，因此更适合作为他加入The Vandals前的一段早期履历来理解。",
+    "raw-dog": "Raw Dog是Skinny Puppy主唱Nivek Ogre与长期制作人Dave “Rave” Ogilvie合作的短命工业音乐旁支，现存资料显示Ogilvie的伴侣Rosie也参与了录音。项目没有发展出完整的常规乐队生涯，流传的同名素材延续了Skinny Puppy体系里的电子噪音、采样和受处理人声，却把重心放在少数成员的录音室试验上；它应被视为Ogre与Ogilvie合作网络中的小型支线，而非Skinny Puppy正式专辑时期的替代阵容。",
+    "harvey-s-rabbit": "Harvey’s Rabbit是约1992年成立于曼彻斯特的独立摇滚乐队，与资料库中偶见的Ride成员关联并非同一项目。乐队以DIY方式演出和发行，1994年录音带《A Place for Beginners》之后为John Peel录制过一次session，也曾为The Fall暖场并翻唱Robert Forster的《Is This What You Call Change?》；1998年专辑《The New Spiritual Vacuum》和同年秋季最后一场演出为早期阶段收尾，部分成员后来以The Harveys名义延续活动。",
+    "artists-united-for-nature": "Artists United for Nature是制作人Harold Faltermeyer为热带雨林保护行动召集的国际慈善音乐人集合体，1989年发行单曲《Yes We Can》。Ian Anderson、Herbie Hancock、Chaka Khan、Joe Cocker、Brian May、Michael McDonald、Jennifer Rush、Sandra等人分段演唱或演奏，以明星接力方式为环保筹款和宣传；这个名称对应一次明确的公益录音企划，并不是拥有固定阵容和长期巡演的超级乐队。",
+    "emperor": "这里的Emperor是1987至1990年前后活动的日本地下重金属乐队，与挪威同名黑金属乐队无关。高井寿、B-HIKARU（宇高光）、大谷慎吾等成员在此交会，留下收录《The Passage to Hade’s》《Dead or Alive》的两曲demo，却没有发展到正式专辑阶段；有限的现场与录音资料，使它今天主要作为X JAPAN、UNITED及Dementia相关音乐人早期履历中的一条短支线被追溯。",
+    "wreckage": "Wreckage是利物浦乐队Ibex在Freddie Bulsara加入后于1969年秋短暂采用的名称；Bulsara后来以Freddie Mercury闻名。现存最重要的声音记录是1969年10月在他Ferry Road住处完成的排练录音，其中包括原创曲《Green》，而乐队在同年11月已告解散；Mercury随后转入Sour Milk Sea，因此Wreckage更像Ibex末期的数周改名，而不是Queen之前一支拥有独立唱片生涯的成熟乐队。",
+    "rockestra": "Rockestra是Paul McCartney为Wings专辑《Back to the Egg》召集的大型全明星录音阵容。约三十位乐手于1978年10月3日在Abbey Road录制《Rockestra Theme》和《So Glad to See You Here》，成员包括Wings、John Bonham、John Paul Jones、David Gilmour、Pete Townshend、Kenney Jones、Ronnie Lane与Hank Marvin等；阵容又在1979年12月柬埔寨人民音乐会压轴重聚，演出《Rockestra Theme》《Let It Be》和《Lucille》，此后并未作为固定乐队延续。",
+    "no-forcefield": "No Forcefield是2000年前后活跃于旧金山湾区的实验组合，核心包括制作人Extrakd、艺术家Adam “The Filthy Ape” Gates、Primus吉他手Larry “Ler” LaLonde与鼓手Bryan “Brain” Mantia，DJ Disk和DJ Flare也参与唱盘。两张唱片《Lee’s Oriental Massage 415-626-1837》和《God Is an Excuse》把现场鼓、重型吉他、刮碟、采样与荒诞对白拼成难以归类的funk、hip-hop和实验摇滚；项目约在2001年后停止演出，部分素材及人脉又与Gonervill等湾区合作相接。",
+    "before-cars": "Before Cars是前Nirvana鼓手Chad Channing在2000年代中期把个人创作发展成的乐队，他在这里走到台前演唱、弹吉他或贝斯，而不是继续扮演伴奏鼓手。2006年《Old Chair》EP和2009年首专《Walk Back》收纳了Channing横跨加入Nirvana之前、期间及之后写下的歌曲，以朴素旋律和classic pop取代grunge的重量；2013年《How We Run》延续了这条更私人、更松弛的创作线。",
+    "oh-no-fiasco": "Oh No Fiasco是2010年前后成立于田纳西州Knoxville的女声dance-rock乐队，由Lindsey Stamey担任主唱，多乐器演奏者Colin Brittain参与创作与制作。2011年同名作品和2013年EP《No One’s Gotta Know》以明亮合成器、流行朋克吉他和适合现场跳舞的副歌构成声音核心；Brittain后来成为制作人并于2024年加入Linkin Park，使这支活动不长的地方乐队获得一条意外的后续连接。",
+    "anthym": "Anthym是Alain Johannes、Hillel Slovak与Jack Irons在洛杉矶Fairfax High School时期组建的少年乐队，前身名为Chain Reaction，Todd Strassman离开后由刚开始学贝斯的Flea接替。乐队从翻唱Kiss、Queen逐步转向原创，并在1978年校内Battle of the Bands取得第二名；约1980年又改名What Is This?，因此Anthym本身没有正式专辑，现存《Paradox》等盒式demo记录的是Red Hot Chili Peppers与Eleven核心音乐人尚未分流前的共同起点。",
+    "minibus-pimps": "Minibus Pimps是Led Zeppelin贝斯手兼多乐器演奏者John Paul Jones与挪威电子音乐人Helge Sten（Deathprod、Supersilent）在2011年开始的英挪二人项目。2014年《Cloud to Ground》取材于伦敦、挪威和丹麦的现场录音，两人把吉他、贝斯、小提琴等信号送入Kyma系统，实时变形成低频轰鸣、冰晶般高音与缓慢移动的电子风暴；作品约一半预先构成、一半即兴，和传统意义上的摇滚二重奏相距很远。",
+    "ti-ti-uu": "ti-ti.uu是凛として時雨、geek sleep sheep的345与もらん吉他手なるけしんご组成的日本原声二人组。两人以345更轻柔贴近的歌声、木吉他和极少量配器，刻意离开主团的高压失真与复杂节拍；2016年首张CD《tone》及同年首次单独巡演确立了项目，2018年迷你专辑《door》又由凛として時雨的TK担任录音工程，使两条音乐人脉在幕后重新交会。",
+    "kafka-s-ibiki": "Kafka’s Ibiki是居住在东京的Jim O’Rourke与石橋英子、鼓手山本達久组成的器乐即兴三重奏。首张现场作《Okite》让长篇演奏在爵士、ambient、minimalism和实验摇滚之间缓慢移动；2016年《Nemutte》则由O’Rourke把多次录音室即兴彻底剪接重组，连另外两位成员都一度听不出自己的原始演奏，从“醒着”的现场反应转向近似梦境的后期构作。",
+    "loser": "这里的Loser不是Beck后来热门单曲《Loser》的固定伴奏乐队，而是他1991年自制盒式录音《Bek’s a Loser》中部分曲目采用的松散署名。磁带把《Backwash Mother》《Falling Off a Cliff》《The Fucking Train》等Loser名下录音与Beck个人片段交错编排，先于1993年那首同名成名单曲；它缺少可核实的稳定阵容和独立活动史，因此资料库里由同名合并产生的广泛成员关系不宜当成真实乐队谱系。",
+    "p-s-p": "P.S.P.是键盘手Philippe Saisse、鼓手Simon Phillips与贝斯手Pino Palladino三人姓氏首字母组成的器乐超级三重奏。三位长期录音室乐手在2008年日本Billboard Live演出中形成组合，随后以《PSP Live》及2009至2011年的欧洲巡演展示默契；音乐以jazz fusion为轴，同时吸收funk、rock、pop与古典写法，没有主唱，也没有用炫技掩盖三人之间快速的节奏应答。",
+    "socialybrium": "SociaLybrium是Parliament-Funkadelic键盘手Bernie Worrell与吉他手Blackbyrd McKnight、贝斯手Melvin Gibbs及鼓手J.T. Lewis组成的四人funk乐队。2010年唯一专辑《For You – For Us – For All》让Worrell的钢琴与合成器置于由厚重贝斯、灵活现场鼓和尖锐吉他支撑的集体即兴中，把P-Funk血缘推向jazz fusion与器乐摇滚；它不是Worrell个人唱片换名，而是四位成员共同推进groove的完整合奏。",
+    "wirebox": "wirebox是制作人Russ Simms参与的美国电子音乐项目，与其Project Tru合作网络相连。2003年由Tru One Records发行的唯一专辑《Prison Cell》包含12首作品，以编程节拍、合成器和录音室拼贴为主要语言；除此之外几乎没有可核实的演出或固定阵容资料，因此更接近Simms主导的一次完整唱片计划，而非持续巡演的传统乐队。",
+    "muddy-apes": "Muddy Apes是2012年启动的跨国摇滚项目，由LUNA SEA的INORAN、Feeder贝斯手Taka Hirose、Feeder巡演吉他手Dean Tidey与8otto主唱MAESON组成。四人以“离开各自主团、随心做摇滚”为出发点，在《Crush It》《Fairy Dirt No.5》中结合日英另类摇滚的直接riff与英语演唱，并于2013年登上Fuji Rock；2016年《Faraway So Close》标志着转投Warner后的重启。",
+    "gerry-levene-the-avengers": "Gerry Levene & the Avengers是1959至1964年前后活跃于伯明翰及英格兰中部舞厅的早期rock ’n’ roll乐队，由歌手Gerry Levene领衔。尚在求学的John Bonham约于1962至1963年短暂为其打鼓，这是他进入Terry Webb and the Spiders、Band of Joy乃至Led Zeppelin之前最早的一段乐队经验；团体以现场翻唱为主，未留下成熟专辑目录，历史价值主要在当时地方舞厅网络与Bonham的起步阶段。",
+    "col-parker": "Col. Parker是前Guns N’ Roses吉他手Gilby Clarke、Stray Cats鼓手Slim Jim Phantom、键盘手Teddy “Zig Zag” Andreadis与贝斯兼歌手Muddy Stardust组成的美国roots-rock四人组。2001年唯一专辑《Rock N’ Roll Music》在Clarke与Stardust轮流演唱之间，把Memphis摇滚、blues、garage与Beggars Banquet时期Rolling Stones式松散感揉成一张酒吧乐队唱片；项目没有追求长期超级乐队规模，重点就是四位老练乐手对成长年代摇滚语言的一次回访。",
+    "marimari-rythmkiller-machinegun": "MariMari Rythmkiller Machinegun是歌手MariMari与前Fishmans鼓手茂木欣一在1999年前后展开的日本乐队项目，现场及录音还汇集吉他手木暮晋也、键盘手沖祐市等熟悉的东京音乐人。2000年《TTAGGG / Since Yesterday》完成主流出道，同年专辑《us》及2001年《HEAD LIGHT, SUIT CASE〜さすらいの秘密》以MariMari轻盈声线连接dub余韵、indie pop与松弛节奏；它也记录了Fishmans解体后茂木欣一走向东京斯卡乐团期间的一段重要过渡。",
+    "铁风筝": "铁风筝是1993年由主唱兼吉他手虞洋在北京组建的另类摇滚乐队。1995年收录于《中国火II》的《这个夏天》以倦怠、低沉的唱腔和缓慢累积的吉他成为代表作，此后《进化之日》等单曲继续散见于合辑；直到组队近十年后，乐队才在Badhead于2002年发行首张专辑《这是我们的秘密》，把北京摇滚黄金年代之后更内向、日常化的一面集中保存下来。",
+    "3rensa": "3RENSA是Merzbow、福冈电子音乐人duenn与中村弘二的电子别名NYANTORA组成的自由电子即兴三人组，名称取自三者2017年的首次合作唱片。2018年《REDRUM》中Merzbow负责鼓与电子、duenn负责电子、NYANTORA负责吉他与电子，同一次session再由三人分别混音成不同视角；《Another World》及与大野松雄的现场合作继续让noise、drone、ambient和节拍保持流动，而不收束成唯一版本。",
+    "絕命青年": "絕命青年是香港乐队雞蛋蒸肉餅的Soni Cheng与Soft Liu于2021年移居台湾后组成的双人乐队，团名灵感来自末日求生游戏《絕體絕命都市》。Soni包办吉他及主要器乐，Soft负责主唱，两人在2022年首专《來一場冒險》中用indie pop、电子音色和生活采样书写迁移、时代不安与重新开始；这张高度自主制作的七曲专辑随后入围第34届金曲奖最佳演唱组合。",
+    "casablanca": "这里的Casablanca是2016年由the pillows的山中さわお、noodles的yoko与Radio Caroline鼓手楠部真也组成的日本三人乐队。两把吉他与鼓构成无贝斯编制，山中和yoko轮流或交错演唱，大量英语歌词把alternative rock、country与干燥rock ’n’ roll放在比各自主团更松弛的空间里；《Another Story》《BREAK AN IMAGE》《CRIMSON CITY》连续记录了这套稳定三人阵容。",
+    "京阪girl": "京阪GIRL是由京都女高中生有カリン与大阪上班族マリリン组成的日本女子双人摇滚组合，地域与身份反差直接写进团名。2002年迷你专辑《京阪ロック》以自写自演的短篇歌曲结合少女pop、punk速度与漫画般角色感，2003年《さよならサンダーバード》继续扩展目录；组合于2004年3月结束活动，成员種田律子后来加入少年ナイフ，使这段关西小型乐队经历延伸到更广的女子摇滚谱系。",
+    "blackbird-angels": "Blackbird Angels是L.A. Guns吉他手Tracii Guns与Slash巡演乐队贝斯手兼歌手Todd Kerns共同建立的硬摇滚二人核心项目，鼓手Adam Hamilton参与首专录音。2023年《Solsorte》源于Guns想直接回到少年时期喜爱的70年代摇滚，以Bad Company、Led Zeppelin式厚重riff、双吉他层次和Kerns的高亢主唱为重点；它与L.A. Guns同期运作，却刻意避开后者既有写法，成为两位成员更私人化的classic-rock出口。",
+    "a-n-eɪ-ɛn": "A/N【eɪ-ɛn】是2018年由Z.O.A的森川誠一郎、黒木真司与Boris的Takeshi、Atsuo组成的日本四人collective。成员不固定分工，而在双吉他、双贝斯与三重人声之间自由换位，以日本语短句、静态张力和沉重音色挑战一般“乐队”编制；首演同步发行《素描集I》，2019年《素描集II》收录第二次公演前后的作品，项目明确自称长期集合体而非一次性合作。",
+    "da-googie": "da Googie是My Bloody Valentine贝斯手Debbie Googe在2023年开始使用的个人演出与创作名义。她以经过效果器处理的贝斯、循环和无人声织体独自构筑低频drone，延伸了在Thurston Moore Group等合作中积累的噪音经验；2025年首张《The Golden Thread》把这种现场方法整理为长篇器乐作品，因此它虽以项目名出现，本质仍是Googe一人的声音实验。",
+    "pipiband": "Pipi Band（삐삐밴드）是강기영（后来以Dalpalan闻名）、吉他手박현준与主唱이윤정于1995年组成的韩国三人另类摇滚乐队。首专《문화혁명》以故意稚拙、古怪的女声和短促pop-punk、电子趣味讽刺当时主流规范，常被视为韩国较早进入商业发行体系的朋克唱片；1996年《불가능한 작전》与翻唱作《붕어빵》后阵容改变并转名Pippi Longstocking，原三人阶段遂在1997年前后结束。",
+    "seraph": "SERAPH是DIR EN GREY鼓手Shinya与钢琴兼主唱Moa于2017年公开的日本二人项目。出道单曲《Génesi》以钢琴、交响编排、清澈女声和Shinya精密而克制的鼓组成幻想性声音，后来《Kreis》又成为手塚治虫《火之鸟》主题解谜企划音乐；项目以年度音乐会和影像叙事持续发展，和DIR EN GREY的重型五人编制保持清楚距离。",
+    "lords-of-flatbush": "Lords of Flatbush是约2007年底在Sheffield形成的舞曲摇滚组合，由歌手Steve Edwards与键盘手Phil Jones发起，阵容曾包括前Arctic Monkeys贝斯手Andy Nicholson、前Milburn成员Louis Carnall及吉他手Nicky Burke。歌曲《24 Hours (NiceTightDerriere)》通过多位house制作人的混音进入俱乐部语境，反映乐队把indie现场与dance制作结合的方向；Nicholson随后为专注Mongrel离开，因此这是一段短期项目而非其固定主团。",
+    "speak-chinese-or-die": "这里的Speak Chinese or Die（S.C.O.D.）是来自武汉的fastcore／grindcore乐队，名称戏仿S.O.D.的《Speak English or Die》。2014年录制、后来以盒式带及黑胶流通的同名作品用17首极短曲、尖叫与低吼双声部和高速鼓点呈现中国地下极端朋克；它与张守望、王旭、Simon Frank曾在北京D-22使用的同名实验三人组并非同一团，资料库中的Carsick Cars等成员关系属于同名合并。",
+    "the-madcap-laughs": "THE MADCAP LAUGHS是前L’Arc-en-Ciel鼓手sakura于2012年与deadman吉他兼歌手aie、女性贝斯兼歌手清组成的日本三人乐队，团名借自Syd Barrett的首张个人专辑。两位声线在暗色alternative rock与后朋克式吉他之间交替，sakura则用富有层次的鼓把松散阴影收紧；前两张预发行EP之后，2014年首专《THE MIDNIGHT LOVE》及16城巡演构成其最完整的活动阶段。",
+    "the-ne-er-do-wells": "The Ne’er Do Wells是约1991至1993年活跃于加州Arcata的地下garage-punk乐队，由John Denery、Chris Imlay、贝斯手Jess Hilliard与离开Green Day后的鼓手John “Al Sobrante” Kiffmeyer组成。1993年Lookout!发行的六曲7英寸甚至让唱片两面采用不同转速，同年与Judy & the Loadies的split CD《Gift of Knowledge》保存更多早期录音；Kiffmeyer离开后，其余成员经Thee Shatners逐步发展成The Hi-Fives。",
+    "phoneys-the-freaks": "Phoneys & the Freaks是前Oasis吉他手Paul “Bonehead” Arthurs与Somerset唱作人Alex Lipinski在2010年代初组成的英国双人核心项目。2014年同名四曲EP由Cherry Red发行，以Lipinski带Richard Ashcroft气质的主唱配合Bonehead宽阔、粗粝的吉他，并在现场翻唱Oasis的《Fade In-Out》；它比Bonehead其他曼彻斯特合作更精简，核心是两代音乐人的直接歌曲写作。",
+    "gunash": "Gunash是2003年成立于意大利北部的alternative rock乐队，长期核心为歌手兼吉他手Ivano L. Zorč与鼓手Alessandro “Piacio” Picollo。2014年概念专辑《Same Old Nightmare》围绕失落的不同面貌展开，Foo Fighters与The Wallflowers键盘手Rami Jaffee在洛杉矶录下Hammond B3；他又参与制作2017年《Great Expectations》，使乐队的grunge底色获得更宽的键盘与美式摇滚层次。",
+    "like-an-angel": "Like-an-Angel是L’Arc-en-Ciel队长兼贝斯手TETSUYA于2023年发起的官方致敬乐队，最初目的是用另一套阵容重新演奏L’Arc-en-Ciel曲库。项目从少见曲目和不同歌手诠释出发，逐步由演出企划转成持续活动的完整乐队，并在2025年发表首支原创曲《Angel Beside You》；因此它既不是L’Arc-en-Ciel改名，也不再只是一次性的cover show。",
+    "mad-for-the-racket": "Mad for the Racket是MC5吉他手Wayne Kramer与The Damned创团吉他手Brian James在2000年前后组织的临时全明星朋克项目，唱片也以The Racketeers之名发行。唯一专辑《The Racketeers》由两人轮流写歌、演唱和solo，Duff McKagan贯穿全碟弹贝斯，Stewart Copeland、Clem Burke与Brock Avery分担鼓组；声音把Detroit proto-punk、英国朋克与粗粝blues rock并置，没有发展成固定阵容。",
+    "crypt-city": "CRYPT CITY是东京四人alternative rock乐队，首张时期由Dean Kessler主唱、戸高賢史弹吉他、中尾憲太郎弹贝斯、前bloodthirsty butchers鼓手小松正宏组成。2011年同名专辑以双语碎片、尖锐吉他和密集节奏建立紧张感，之后《Defect》《Chant》继续在noise rock、post-punk与迷幻重复之间推进；四位成员的经验让它听起来粗暴，却不是单纯复制butchers。",
+    "the-immortals": "这里的The Immortals是Queen贝斯手John Deacon、吉他手Robert Ahwai与歌手Lenny Zakatek为1986年电影《Biggles》临时组成的三人录音项目。Deacon与Ahwai共同创作、制作唯一单曲《No Turning Back》，合成器驱动的电影摇滚由Zakatek主唱，宣传MV还成为Peter Cushing最后一次银幕露面；单曲未上榜，三人也没有继续活动，因此这是Deacon极少数Queen之外署名作品之一。",
+    "サンガツ": "サンガツ（Sangatsu）于1997年在东京成立，以研究声音的形状、运动及其与空间和身体的关系为目标。Jim O’Rourke制作的2000年同名首专之后，《波》成为奥原浩志电影配乐，《静かな生活》《5つのコンポジション》则逐步从器乐乐队转向规则、表演与场域；他们还与戏剧、舞蹈和美术合作，并于2012年宣布放弃此后作品五年的著作权，把音乐如何被共同传递本身也变成创作。",
+    "male-slut": "Male Slut是围绕Sonic Youth吉他手Thurston Moore形成的纽约地下即兴与现场化名，参与者曾包括Tim Foljahn、Steve Shelley和Jim O’Rourke。项目留下的正式目录极少，既有实验噪音7英寸，也曾在2001年以四人阵容演奏Moore《Psychic Hearts》时期歌曲和The Weirdos翻唱；它不是稳定巡演乐队，更像Moore在不同朋友阵容间测试噪音与garage rock的松散容器。",
+    "さわおとしおり": "さわおとしおり是the pillows主唱山中さわお与Base Ball Bear贝斯手関根史織组成的双主唱合作项目，鼓手山﨑聖之参与录音和现场。2023年七曲CD《Private loophole》以山中的干脆吉他流行写法配合関根兼具旋律性的贝斯与歌声，仅在巡演会场和通販发行；2025年《リンビック システム》延续这套小编制，使项目从一次合作成长为两位作者持续交换歌曲的出口。",
+    "the-pancakes": "这里的The Pancakes是Daniela与Rainer Neeff兄妹于1995年在德国组建的psychedelic rock乐队，与香港同名单人项目无关。1998年首专《Brainshaker》保存早期受Screaming Trees、Mudhoney和Sonic Youth影响的粗糙吉他，之后又不断吸收Guru Guru式krautrock、Hawkwind式space rock、surf与garage；现阵容由Daniela担任贝斯主唱、Rainer负责吉他和“UFO sounds”、Tristan Reiling打鼓。",
+    "黒猫同盟": "黒猫同盟是小泉今日子与贝斯手兼制作人上田ケンジ在2021年组成的日本二人音乐项目，两人都收养黑猫，团名也寄托推广保育猫的想法。项目最初为小泉的podcast制作主题音乐，首专《Un chat noir》继而把法式chanson、轻爵士和带猫视角的日常歌词组合起来；2024年《ムーランルージュの黒猫》继续扩展这套幽默、成熟又带社会关怀的成人流行。",
     "adoy": "ADOY是2017年在首尔正式出道的四人合成器独立流行乐队，由Juhwan Oh、Zee、Geunchang Park和Dayoung Jeong组成。团名来自Juhwan的猫Yoda，将名字倒过来便成为ADOY；他们把城市流行、八十年代浪漫流行、独立摇滚与梦幻流行揉进以合成器为核心的声音，首张EP《CATNIP》是最直接的入口。",
     "fishmans": "Fishmans+是2011年前后围绕Fishmans作品成立的纪念性音乐人集合体，既有茂木欣一、柏原譲、HAKASE-SUN等原成员，也汇集UA、原田郁子、ハナレグミ、やくしまるえつこ、Cornelius等不同世代的乐手。这个项目的重要线索是重新完成并演绎佐藤伸治留下的《A Piece of Future》，更像一场不断换阵容的传承现场，而不是普通的新乐队。",
     "fzmz": "FZMZ是2023年出现的五人覆面乐队，五位与游戏、VR等数字文化关系密切的音乐人以海洋生物化身组成阵容：MAQUMA负责主唱，GAVI担任吉他，HONNWAKA 88担任贝斯，JACK负责说唱，KAMATA担任鼓手。虚拟身份不是装饰，而是这个项目把重型乐队、说唱和数字世界放进同一套视觉叙事的方法。",
@@ -13,6 +198,146 @@
     "vooid": "VOOID是洪申豪在2016年于台北组成的四人乐队，阵容由主唱兼吉他洪申豪、吉他连震堂、贝斯吴峻宇和鼓手卢之轩构成。首张同名专辑把爽朗的独立摇滚、低保真质感和更深的迷幻结构放在一起；2025年的《Vooid 2025》则让这个从透明杂志人脉延伸出来的项目重新进入完整专辑状态。",
     "49-morphines": "49 Morphines是2001年成立的韩国硬核朋克乐队，最初由中学、高中时期的同学李一雨与成始荣发起，再经招募组成阵容。EP《The Most Important Value》和专辑《Partial Eclipse》记录了他们的主要阶段；吉他手李一雨后来参与13Steps、Combative Post与Jambinai，使这支乐队成为理解韩国硬核与实验音乐人脉的一条早期支线。",
     "パーランマウム": "パーランマウム并不是按通常方式长期活动的乐队，而是2005年电影《琳达！琳达！琳达！》中的四人女子乐队，由裴斗娜、前田亚季、香椎由宇与Base Ball Bear的关根史织饰演并实际演奏。她们在片中翻唱THE BLUE HEARTS的《リンダ リンダ》《僕の右手》《終わらない歌》，电影之外也以《we are PARANMAUM》留下正式唱片，因此是一支从虚构故事走进真实音乐目录的乐队。",
+    "the-everybody": "The Everybody是Pixies吉他手Joey Santiago与鼓手David Lovering在主团之外建立的器乐实验项目，两人以吉他、鼓和录音室处理为核心，避开Pixies惯用的主唱结构。首张《Avatar》在2009年前后出现，后来与制作人Eddie Kramer合作的《Marooned》继续把切分节奏、迷幻质感和电影配乐式空间并置；它更像两位老搭档的声音实验室，而不是Pixies的缩小版。",
+    "暮良文王": "暮良文王是窦唯在2002年前后与键盘手文斌、扬琴兼人声王晓芳展开的实验音乐组合，名称由三人的名字与创作关系组合而来。2003年的同名作品及随后《相相生》《祭然品气国》等录音弱化传统歌曲结构，以扬琴、键盘、人声和即兴织出带中国民乐气息的环境音乐；它也是窦唯从摇滚歌曲进一步转向器乐、即兴与声音景观的重要阶段。",
+    "ka-f-ka": "KA.F.KA是土屋昌巳在2013年发起的日本暗色摇滚乐队，固定阵容集结ISSAY、森岡賢、ウエノコウジ与宮上元克。五位成员分别带来一風堂、DER ZIBET、SOFT BALLET、thee michelle gun elephant和THE MAD CAPSULE MARKETS等经历，2015年专辑《Fantôme Noir》把哥特气氛、电子编程、强硬节奏组与土屋的实验吉他结合；森岡賢去世后，乐队也在2016年结束这一阵容。",
+    "jools-holland-and-his-millionaires": "Jools Holland and His Millionaires是Jools Holland离开Squeeze初期组建的英国六人乐队，也是他从团体键盘手转向领衔歌手与钢琴手的一次过渡。1982年唯一同名专辑由Pino Palladino、Martin Deegan、Mike Paice等参与，Glyn Johns与Pete Wingfield负责制作，把boogie-woogie钢琴、节奏布鲁斯、灵魂乐和八十年代流行制作放在一起；项目虽短暂，却预示了Holland后来长期经营的大乐队路线。",
+    "鬼-o-n-i": "鬼 -O.N.I-是围绕日本地下摇滚先驱YBO²作品展开的致敬录音项目，而不是一支拥有长期固定阵容的普通乐队。Boris的Atsuo与Takeshi参与演奏，并由原YBO²主唱森川誠一郎等相关音乐人串联，2019年前后的《Parsley, Sage, Rosemary, and Thyme》把旧作重新放进更厚重、噪响而仪式化的声音中；这个项目随后也促成Atsuo与森川继续合作A/N。",
+    "ange-graie": "Ange∞Graie是L’Arc-en-Ciel两位初代成员hiro与pero在1992年先后离队后共同建立的大阪系视觉摇滚项目。它承接两人在L’Arc早期形成的人脉，却没有沿用后者的发展路线；hiro负责吉他、pero负责鼓，之后两人又延伸到FEED等乐队。Ange∞Graie留下的公开唱片资料很少，活动也并非连续进行，但2014年曾以限定方式重组，因此更适合被理解为两位早期成员之间反复回返的地下项目。",
+    "wink-music-service": "Wink Music Service是贝斯手兼制作人サリー久保田邀请前Pizzicato Five成员高浪慶太郎组成的日本流行音乐项目，目标是制作讲究旋律、编曲与视觉包装的“至高流行乐”。项目常为每次作品邀请不同女声，久保田统筹音乐与设计，高浪负责作曲、演唱及和声；2023年从《ローマでチャオ》起步，2024年首专《It Girls》把六十年代girl-pop、city pop和轻巧的复古管弦编曲连成一体。",
+    "小島": "这里的“小島”指1985年成立的香港第一代小島樂隊，由黎允文、商业电台DJ区新明与黄守发组成。三人自行包办相当部分曲、词与编曲，以《小島傳說》《她的心》《種籽》等作品参与开启八十年代中后期香港乐队潮；《她的心》也成为较早打入中文歌曲龙虎榜的本地乐队作品。第一代在1986年《黎明》后因意见分歧结束，黎允文随后另组第二代，因此本条特指最初三人时期。",
+    "the-dodgems": "The Dodgems是2000年代初在谢菲尔德活动的四人rock and roll／indie rock乐队，由Phil Goodwin主唱兼吉他、Tom Goodwin弹键盘，节奏组阵容则经历变动。乐队曾获Alan McGee签约，2005年发行《It’s Alright》，之后又推出《You’re Not What You Used to Be》《Candlewax》等单曲；早期贝斯手Nick O’Malley在2006年受邀替补Arctic Monkeys并最终正式加入，使The Dodgems成为谢菲尔德乐队谱系中的一条直接支线。",
+    "the-methodists": "The Methodists是前Nirvana鼓手Chad Channing在西雅图时期参与的短命摇滚乐队，与他在Fire Ants合作过的贝斯手Dan McDonald再次会合，并由John Hurd、Erik Spicer组成四人阵容。乐队在1998年留下唯一专辑《Cookie》，十三首短歌以紧凑吉他、直接旋律和带地下质感的alternative rock为主；项目没有延续，却连接了Channing离开Nirvana后的Fire Ants阶段与后来由他担任主唱的Before Cars。",
+    "fear-of-blue": "Fear of Blue是Lucky Pierre与Prick核心Kevin McMahon和制作人、吉他手Rae DiLeo在1989年前后合作的电子摇滚录音项目。两人在DiLeo的好莱坞录音室完成素材，声音比McMahon其他吉他乐队更依赖合成器、采样与冷硬节拍；这些录音长期没有正式面世，直到2009年才以同名专辑完整发行，因此唱片年份并不等于项目真正发生的年代。",
+    "beatbox-金牌一條順": "Beatbox 金牌一條順是2008年为歌曲《年年有今日》集合的香港一次性人声组合，主体由同属金牌娱乐的古巨基、侧田、方力申、小肥与RubberBand主唱“6号”缪浩昌组成，并邀请beatbox歌手INK参与。录音不用常规乐器，而以人声模仿节奏和伴奏，小肥负责弦乐声部与和音；它更接近一首歌限定的a cappella企划，而不是持续发行、巡演的固定乐队。",
+    "zing": "ZiNG是凛として時雨鼓手ピエール中野与作曲、编曲人ANCHOR在2017年发起的日本音乐制作单元，另有MY FIRST STORY贝斯手Nob与9mm Parabellum Bullet吉他手滝善充加入。四人不把自己限定为传统乐队，而以编曲、声音制作和演奏团队的方式为歌手、动画及游戏项目工作；从绪方惠美的动画歌翻编开始，ZiNG也逐渐成为连接重型吉他、电子制作与动漫歌曲的幕后节点。",
+    "holly-and-the-ivy-s": "Holly and The Ivy’s并非长期存在的英国乐队，而是The Dream Academy的Nick Laird-Clowes为1981年圣诞单曲临时建立的录音化名。唯一作品《Christmas on 45》借当时流行的medley形式串联圣诞旋律，Pink Floyd吉他手David Gilmour受邀参与吉他录音，B面为《Have Mercy on the Child》；这次小型合作因Gilmour的客席经历进入乐队关系谱，但没有发展出固定阵容。",
+    "a-place-to-kill": "A Place to Kill是Filter核心Richard Patrick与There Is No Us主唱、摄影师兼导演Jim Louvau组成的美国工业摇滚二人项目。Patrick在洛杉矶录音室制作七曲首作《APTK》，以《Jet Engine》为入口，把Filter式厚重吉他、电子节拍与更现代的trap、EDM纹理压在一起；项目2023年已释出歌曲，直到2026年才正式完成首张EP，因此也是Patrick在Nine Inch Nails与Filter谱系外的新支线。",
+    "numbskulz": "这里的Numbskulz是1980年代末活跃于阿肯色州小石城的青少年朋克乐队，与华盛顿州等地的同名团无关。Andy Conrad尚未满二十岁便带队为The Romantics暖场，鼓手Colin Brooks约十四岁加入，Jason White也在1988年前后参与吉他；他们赢得本地乐手比赛并获得录音与赴SXSW机会，成员后来流向Substance、The Big Cats、Quisp及Green Day相关项目，成为小石城早期朋克网络的一处起点。",
+    "大鬼众": "大鬼众（Ghostmass）是2021年在北京发起的开放式即兴重型音乐单元，现阵容由李维思弹贝斯、李青打鼓，颜峻与羊库库负责电子和人声。来自Carsick Cars、Snapline、Soviet Pop及实验声音现场的经验，在这里汇入drone、doom metal、硬件噪音和free improvisation；2024年的《鬼之冥想》与《大抱散》用四十分钟级长篇录音展示同一阵容既能缓慢嗡鸣，也能突然冲向近乎free jazz的失控状态。",
+    "池田高田": "池田高田是日本动画歌手池田彩在2019年启动“池田○○”跨界合作企划时，与ELLEGARDEN贝斯手高田雄一组成的一曲限定单元。池田为《全弦開放（イーマイナーイレブン）》作词并演唱，高田负责作曲、演奏与和声，作品随后收录进街机音乐游戏《GITADORA》；团名直接拼合两人的姓，也说明它不是另建一支常设乐队，而是企划第一轮合作的署名。",
+    "dumb-angel": "这里的Dumb Angel是1990年前后在明尼苏达州活动的三人低保真家庭录音项目，团名取自Beach Boys未完成专辑《Smile》的早期工作标题。Walt Mink成员Jon Kimbrough与Joey Waronker参与演奏，Tim Gartman承担主要人声；磁带《Topflite》把四轨录音、采样、磁带处理和随意的短歌拼贴在一起，气质更接近早期Ween或Sebadoh，而非同名的后来英国乐队。",
+    "the-midwest-vikings": "THE MIDWEST VIKINGS是チバユウスケ与クハラカズユキ等人在2005年为J联赛FC东京组建的覆面应援摇滚项目，成员以LACOSTE、HANG TEN等服装品牌式化名出现。唯一单曲《VAMOS TOKYO!》收录两首garage／rockabilly取向的原创应援歌及球场合唱《You’ll Never Walk Alone》的翻唱；它把THEE MICHELLE GUN ELEPHANT、ROSSO的人脉与足球看台文化短暂接通，完成这张唱片后便没有按普通乐队路线继续。",
+    "キャラメル-ママ": "キャラメル・ママ是はっぴいえんど解散后，细野晴臣与铃木茂在1973年前后联合林立夫、松任谷正隆组成的日本录音室乐手集团。四人一面为荒井由实、小坂忠等歌手提供精细伴奏，一面吸收美国西海岸摇滚、funk、爵士与日本歌谣的编曲经验；后来改名ティン・パン・アレー并发行《キャラメル・ママ》，其意义不只是一支乐队，更在于把幕后伴奏与制作本身推到日本流行音乐革新的中心。",
+    "銀杏boyzと壊れたバイブレーターズ": "銀杏BOYZと壊れたバイブレーターズ是銀杏BOYZ为剧作家三浦大辅的舞台《母に欲す》相关音乐采用的限定署名，核心仍是峯田和伸及銀杏BOYZ录音。2010年《SEX CITY 〜セックスしたい〜》从两百多段为舞台创作的素材中整理成十八曲摇滚组曲，包含主歌《ピンクローター》、短小器乐、现场片段和Eccy的remix；因此“壊れたバイブレーターズ”不是另一支长期并行的乐队，而是这套剧伴世界的临时化身。",
+    "朝简": "朝简是窦唯在2020年前后与李杰及不同合作乐手持续展开的开放式录音项目，首批作品包括回应疫情的《后疫》与《百家姓・三字经》。项目延续“不一定”时期成员与编制随作品变化的方式，以氛围电子、民族器乐、即兴和吟诵重新处理《百家姓》《三字经》《离骚》《宋词》等传统文本；何锋、文智湧等乐手在不同录音中加入，使“朝简”更像一个不断扩张的作品系列而非固定四人乐队。",
+    "delivery-health": "Delivery Health是钢琴手Giovanni Di Domenico、吉他手Jim O’Rourke与鼓手、电子乐手山本達久组成的即兴三重奏。三人在东京GOK Sound于2012至2013年录下素材，2015年首作原本以三位姓名发行，随后把Delivery Health变成团名；2017年《Hard Off》只用两首约二十分钟的长篇，在钢琴、Rhodes、电吉他、鼓、kalimba和电子声之间缓慢塑形，比传统jazz trio更接近细密的自由即兴与实验室内乐。",
+    "lunacy": "LUNACY是LUNA SEA在正式采用现名之前的早期名称。J与INORAN从1986年开始组队，1989年RYUICHI、SUGIZO和真矢加入后形成此后长期不变的五人阵容，并以町田Play House为据点发展；1990年改名LUNA SEA、翌年获Extasy Records签约。后来五人仍多次在“黑服限定GIG”等特殊场合恢复LUNACY名义，所以这里记录的是同一支乐队的地下时期，而不是另一个旁支团体。",
+    "odani-misako-ta-ta": "odani misako・ta-ta是创作歌手小谷美紗子在2003年召集的五人特别乐队，阵容包括键盘池田貴史、吉他田渕ひさ子、贝斯二宮友和与鼓手玉田豊夢。迷你专辑《feather》没有主打原创，而是以完整乐队重编Jackson Browne、Bill Withers、The Pretenders和荒井由实作品，让小谷的钢琴与强烈歌声同四位个性乐手正面碰撞；成员各自工作繁忙，项目从一开始便以不定期活动为前提。",
+    "ねらわれた学園": "ねらわれた学園是ZAZEN BOYS的向井秀徳与銀杏BOYZ的峯田和伸为2009年电影《少年メリケンサック》临时组成的双人单元。两人翻唱松任谷由实《守ってあげたい》作为片尾曲，并与电影中的虚构乐队少年メリケンサック做成split single；团名借用同名科幻小说和电影的文化记忆，实际只服务于这次翻唱与宣传，是两位不同时代日本另类摇滚作者的一次短暂交会。",
+    "inaba-salas": "INABA／SALAS是B’z主唱稻叶浩志与美籍吉他手Stevie Salas组成的跨国摇滚合作项目。两人共同制作2017年《CHUBBY GROOVE》，把稻叶的日语旋律和Salas擅长的funk rock、dance-rock吉他结合，巡演阵容还包括Matt Sherrod、Amp Fiddler与Stuart Zender；项目并非一次性客席，之后继续发行《Maximum Huavo》并在2025年以《ATOMIC CHIHUAHUA》重启。",
+    "churn": "这里的Churn是制作人、音乐人Barrett Jones在西雅图经营的个人化soft pop／alternative rock项目，与同名硬核乐队无关。1996年《This Way to the Other Side》由Jones主导创作和制作，以钢琴、旋律吉他、平稳节奏组与内省人声为中心，在《So Sweet》等歌里刻意收起西雅图当时最醒目的grunge噪响；专辑由Laundry Room Records发行，构成Jones大量幕后制作工作之外较少见的主唱作品。",
+    "ft-triple": "FT.triple是韩国乐队FTISLAND在2009年推出的三人子团，由崔钟训、李在真与崔敏焕组成。主唱李洪基拍摄电视剧、宋承炫暂停活动期间，三人用这个编制继续宣传：李在真从贝斯转为主唱兼吉他，崔钟训弹钢琴并和声，崔敏焕继续打鼓。项目原拟名A3，因为三人都是A型血，最终以《Love Letter》及收在《Double Date》第二碟《Two Date》中的三首歌留下记录。",
+    "m-a-s-s": "M・A・S・S是hide与LUNA SEA成员J、INORAN在1993年使用的一次性电子摇滚单元。三人分别身处洛杉矶和东京，以电脑制作与远程交换素材完成《Frozen Bug》，收入实验／工业合辑《DANCE 2 NOISE 004》；hide后来在首张个人专辑《HIDE YOUR FACE》中把它重混为《FROZEN BUG ’93》。项目没有继续发行，却记录了hide刚开始深入电脑编曲、并与LUNA SEA人脉交叉的关键节点。",
+    "the-king-all-stars": "THE King ALL STARS是加山雄三在2014年率领的大编制跨世代摇滚乐队，成员包括キヨサク、佐藤タイジ、古市コータロー、名越由貴夫、ウエノコウジ、武藤昭平、タブゾンビ与多位键盘手。首专《ROCK FEST.》把加山的旧作、Elvis式rockabilly与年轻成员的新歌放进音乐节型现场编制，随后《I Simple Say》继续创作；它让“若大将”不以怀旧歌手，而以一支当代festival band的主唱身份进入新世代现场。",
+    "the-freak-brothers": "这里的The Freak Brothers是旧金山湾区turntablism与实验hip-hop圈的一次录音组合，由El Stew／No Forcefield成员Extrakd、Brain和DJ Flare等参与。2001年前后的《Gonervill Presents: The Freak Brothers》以真实乐器录音切片、beats和唱盘技法重组出怪异的器乐hip-hop，和Brain、Extrakd参与的Gonervill、El Stew共享人员；它并非漫画《The Fabulous Furry Freak Brothers》的虚构乐队。",
+    "thunderbox": "这里的Thunderbox是来自加州Redondo Beach的country rock／folk rock乐队，与Humble Pie的同名专辑无关。1999年同名唱片由Swingomatic Records发行，曲目包括《She Spins Around》《Hermosa Avenue》《Banks of Mystery》等，前Red Hot Chili Peppers吉他手Jack Sherman参与这支乐队；其南湾海岸题材和较温和的根源摇滚声音，也与Sherman更知名的早期funk-rock经历形成反差。",
+    "details": "Details是前the pillows贝斯手上田ケンジ离队后，与主唱いとうようこ在1990年代中期组成的日本二人单元。上田负责贝斯、编曲与制作，いとう负责歌唱和vibraphone，1994年以《a slave of love》出道；当时现场还会加入鼓、打击乐，把两人的acoustic取向扩成小编制。它也是上田从乐队成员转向制作人期间保留的作者项目，早于他后来的analers与个人活动。",
+    "the-illiterate-hands": "The Illiterate Hands是Jonny Greenwood在牛津Abingdon School求学时参加的少年乐队，成立时间早于他正式进入On a Friday／Radiohead。阵容由Matt Hawkesworth弹吉他、Jonny负责键盘与口琴、Thom Yorke的弟弟Andy主唱、Simon Newton弹贝斯；他们在卧室排练，也借学校关系到牛津附近录音室录过作品并参加校内、本地演出，但没有留下正式商业唱片。",
+    "i-m-on-marz": "I’M ON MARZ是2000年代在神奈川地下现场活动的乐队，公开资料把其声音归在electronica、reggae与rock之间，并以“chill out and play hard”概括现场取向。现存目录以《DEMO》及短曲《Drown》等零散记录为主，成员关系后来通向SiM；因此它更适合作为神奈川loud／reggae-rock场景中的早期人脉节点，而不是拥有完整专辑史的成熟项目。",
+    "moools": "moools是酒井泰明、内野正登、有泉充浩在东京大学时期结识后，于1997至1998年前后组成的日本indie rock乐队，后来加入吉他兼钢琴手浜本亮。乐队以松散、可即兴伸缩的现场和诙谐歌词见长，早期为Modest Mouse日本巡演暖场，随后与K Records及美国西北独立圈建立长期往来；他们还为The Microphones的2003年日本巡演伴奏，并与Calvin Johnson合作，使本土小型现场和Olympia网络真正接通。",
+    "young-odeon": "YOUNG ODEON是小西康陽在Pizzicato Five成名前使用的早期new wave／宅录项目之一，并曾与戸川京子合作。1986年独立合辑《別天地》收录其《黒い十人の女》，标题直接取自小西长期钟爱的市川昆电影；有限的发行量和拼贴、电影趣味让它更像小西日后采样美学与“涉猎型流行音乐”观念的草图，而不是一支持续巡演的固定乐队。",
+    "sugar-the-radio-fire": "Sugar & The Radio Fire是FM802为2015年春季ACCESS!活动组织的一曲限定歌唱单元。スガ シカオ创作、制作《Music Train ～春の魔術師～》，并与大原櫻子、川上洋平、斎藤宏介、谷口鮪、HARUNA、光村龍哉、山村隆太七位歌手轮流接唱；横山裕章负责编曲，另有白根賢一、根岸孝旨、長田進等录音乐手。署名只服务于这首电台活动歌，不代表八位歌手另组常设乐队。",
+    "カオティック-スピードキング": "カオティック・スピードキング是由about tess吉他手takuto、凛として時雨鼓手ピエール中野与LITE贝斯手井澤惇组成的日本即兴乐队。三人不依靠固定曲目推进现场，而以高速节奏、重型riff和临场交流制造刻意失控的“混沌”；录音曲《SORA》曾邀请KYONO主唱，演出也会加入KAZI等客席形成双鼓。2016年サクライケンタ加入后，乐队还为Maison book girl现场伴奏，显示其编制会随合作对象继续变形。",
+    "lonely-h-s-band": "Lonely H’s Band是Hot Potato的김C与Jaurim的이선규在韩国组建的限定项目，两人在此前的Peppermint Club合作约三年后再次会合，并邀请Omega 3键盘手고경천参与。团名和视觉向The Beatles的《Sgt. Pepper’s Lonely Hearts Club Band》致意；2010年他们为环保主题合辑《Life》录制《고향에 살어리랏다》，以复古乐队编制承载回到故乡生活的想象，没有另行发展成长篇唱片企划。",
+    "shag": "SHAG是SUGIZO在2002年前后发起、以现场即兴为核心的迷幻jam band，沉寂后于2020年重新启动。复活阵容以SUGIZO的吉他、小提琴与电子声为轴，集合トランペット手類家心平等六位乐手，把jazz、funk、punk、ambient、dub与噪音放进不预设终点的合奏。2022年首张专辑《THE PROTEST JAM》把这种现场方法录成作品，并以反战、和平主题让自由即兴获得明确的社会指向。",
+    "project-tru": "Project Tru是来自加州Anaheim的十二人funk-rock大编制，由Robert Trujillo主导制作与创作。1999年专辑《A Twelve Piece Band》把完整铜管组、摇滚吉他、拉丁打击乐和slap bass叠在一起，再由男声、女声与说唱轮番领唱；它以现场乐队的密度连接funk、Latin与当时的rap-rock，而不是同名音乐人的个人唱片。项目也与Trujillo后来参与的Wirebox共享创作人脉。",
+    "plastic-palace-people": "Plastic Palace People是德国实验音乐人Christoph Heemann与美国音乐人Jim O’Rourke采用的二人合作名义。两人2013年8月在东京录下长篇即兴，直到2020年才以《From the Host of Latecomers》发行；唱片仅有两首各约十九分钟的作品，在持续音、电子处理、器乐纹理与近乎静止的空间感之间缓慢演化。这个名字因此对应一次延迟多年面世的具体录音合作，而非持续巡演的固定双人组。",
+    "the-singing-rebels-band": "The Singing Rebels’ Band是1985年英国讽刺喜剧电影《Water》结尾出现的虚构兼一次性明星乐队。电影为联合国演出的《Freedom》由Billy Connolly与Chris Tummings领唱，伴奏阵容集合George Harrison、Ringo Starr、Eric Clapton、Jon Lord、Ray Cooper、Mike Moran和Chris Stainton等人；歌曲也以电影原声单曲发行。成员在银幕中以自己身份客串，但这一团名只属于影片情境，并没有独立延续的乐队生涯。",
+    "山中さわお-elpis": "山中さわお&ELPIS是the pillows结束活动后，山中さわお在2025至2026年间建立的新乐队。阵容由山中主唱、木村祐介弹吉他、楠部真也打鼓，贝斯由安西卓丸与関根史織分担，奥村大担任制作；早期演出先以山中个人名义展开，制作专辑时才正式定名。2026年《Daydream again》延续他擅长的旋律型alternative rock，也把原本的支援乐手关系明确转成新的共同体。",
+    "press-rider": "PRESS RIDER是1980年代为五十嵐浩一漫画《ペリカンロード》相关唱片集结的日本录音室乐手组合，而非固定巡演乐队。参加者横跨松原秀樹、和泉宏隆、角田順、笹路正徳、西村麻聡、江口信夫、松本孝弘、土方隆行等一线session musicians；不同阵容先后录制《ペリカンロードII》《III》及1986年《クラブ・カルーチャ 音楽集》。这些image album以fusion、摇滚和器乐流行描绘漫画的摩托车世界，也留下多位乐手成名前后的交叉节点。",
+    "southern-fly": "Southern Fly是1990年代末活跃的英国乐队，成员包括Carwyn Ellis、Terry Kirkbride、Michael Rosenberg、Ashley Higgins与Simon Scott。乐队先后发行《Monkey Tale》《For Real》EP和《Maybe It’s the Right Time》，并在London Records于2000年推出专辑《High》；声音位于当时英式indie rock、迷幻流行与较松弛的groove之间。其商业活动虽短，后来成为多乐器手Ellis进入Colorama及大量跨团合作之前的重要履历。",
+    "radio-happy-willows": "Radio Happy Willows是FM802为2024年春季ACCESS!活动组织的一曲限定歌唱单元。SUPER BEAVER的柳沢亮太为《はなむけ》作词作曲，アイナ・ジ・エンド、大橋卓弥、岡野昭仁、片岡健太、サイトウタクヤ、TERU、TOMOO与ヤマサキセイヤ八位歌手接力演唱；トオミヨウ编曲，玉田豊夢、安達貴史、石成正人等完成伴奏。团名只用于这首开局35周年活动歌，并不表示这些主唱组成了常设乐队。",
+    "the-peeper": "The Peeper是2008年在马萨诸塞州Easthampton只演出一晚的自由即兴组合，由Matt Krefting、John Moloney、Gene Moore、Thurston Moore与Bill Nace组成。五人在短命唱片店Time Machine制造了一段约三十一分钟的迷幻噪音爆发，现场录音后来以同名单曲发行；资料中的《Time Machine》实际指向演出地点而非正规录音室专辑。它把Sunburned Hand of the Man、Body/Head和Chelsea Light Moving等人脉临时交叠，却从未作为固定乐队延续。",
+    "crisis-party": "Crisis Party是1984年在西雅图成立的硬摇滚乐队，最初由主唱Kenny Gordon、吉他手Tommy Hansen与刚离开The Fartz的Duff McKagan等人组建。McKagan很快离队，Kevin Whitworth等成员又转入Love Battery；余下阵容在Metal Blade旗下录制了Terry Date制作的《Rude Awakening》。1989年专辑把hard rock和当时正在成形的西雅图迷幻、pre-grunge气质混在一起，乐队于1990年前后解散，只留下这一张完整专辑。",
+    "寺子屋": "寺子屋是2010年为告别EMI Music Japan录音室studio TERRA而组成的一曲限定项目。发起人野田洋次郎得知这座使用二十三年的录音室将关闭后，邀请RADWIMPS、ACIDMAN、the telephones、フジファブリック、ホリエアツシ、西川進与吉井和哉共同录制《EMI》；野田作曲，并与吉井共同作词。歌曲在TERRA营业最后阶段完成并赠予工作人员，后来以配信形式公开，因此团名是这场集体致谢的署名，而非新成立的常设乐队。",
+    "gut-bank": "Gut Bank是Karyn Kuhl于1984年在新泽西Hoboken组建的post-punk／noise-rock乐队。初代鼓手Bob Bert在首演前返回Sonic Youth，随后由Tia Palmisano（Tia Sprocket）接替，与贝斯手Alice Genese和吉他手Mike Korman形成录音阵容。Roger Miller参与制作的唯一专辑《The Dark Ages》于1986年发行，以高能现场、噪音吉他和Patti Smith式根源摇滚写法著称；乐队活动至1989年，Kuhl与Genese后来把这条线延续到Sexpod。",
+    "possession-80-2-por-cento": "POSSESSION=80.2 POR CENTO是FM802为2014年开局25周年ACCESS!活动组织的一曲限定单元。桜井和寿与GAKU-MC组成的ウカスカジー创作、制作《春の歌》，KREVA追加歌词，并与蒼山幸子、阿部真央、岡野昭仁、川上洋平、谷口鮪、秦基博、槇原敬之等十一组歌手接唱；KAN、スキマスイッチ、吉井和哉等另参加合唱。这个长团名只服务于电台活动及该曲署名，之后由ウカスカジー另行自我翻唱。",
+    "dead-wire": "Dead Wire是TAIJI在正式回到X之前、1986年前后构想的短命日本heavy metal项目。关于它是否形成完整固定阵容的记录并不一致：TAIJI自传称只写成一曲并由友人Tetsu所在的横須賀SAVER TIGER演奏，其他履历则把Tetsu与主唱kyo列为成员。无论采用哪种说法，它都没有留下正式商业唱片，却把后来进入X、D’ERLANGER、ZI:KILL与DIE IN CRIES的三条早期人脉短暂连接在一起。",
+    "dementia": "Dementia是1980年代中期活跃于日本地下metal场景的乐队，也是TAIJI从吉他转为贝斯后的第一个重要团体。他以Ray之名加入，与吉他手吉田“Hally”良文等人共事，并在约一年的活动中留下1985年的现场作品《Dementia Live!》；随后TAIJI辗转Prowler、Dead Wire并正式加入X，Hally则进入UNITED。有限的录音和成员流动，使Dementia更像日本早期thrash／heavy metal网络的一处孵化节点。",
+    "viva-la-j-rock-anthems": "VIVA LA J-ROCK ANTHEMS是VIVA LA ROCK音乐节自2015年起设置的限定house band，任务是在音乐节现场由不同主唱重唱日本摇滚名曲。乐队以制作人兼贝斯手亀田誠治为中心，典型阵容包括加藤隆志、津野米咲、伊澤一葉与ピエール中野，每届再邀请尾崎世界観、スガ シカオ、斎藤宏介等来宾领唱。它不是拥有自有曲库的常规乐队，而是一套会随年份调整成员、专为“J-rock anthem”现场接力而存在的演出机制。",
+    "boøwy杉並": "BOØWY杉並是MUCC吉他手ミヤ参与组织的BOØWY翻唱乐队，出现在他推动的跨团“杉並”session系列中。2017年新宿LOFT的BOØWY tribute night阵容由KAN∀BUN、西村ひよこちゃんX与リトル氷室轮流主唱，ミヤ、フクスケ、KAZU和武井誠组成乐队；活动也明确说明BOØWY原成员并不出演。这个戏仿式团名强调的是一次现场致敬，和X SUGINAMI、コーン杉並等同属临时翻唱企划。",
+    "r-a-d-d-recording-artists-against-drunk-driving": "R.A.D.D.是Recording Artists Against Drunk Driving的缩写，本质上是1980年代发起的反酒驾公益倡议，而非按固定阵容活动的英国乐队。它邀请大量艺人录制广播、电视公益短片，并在1993至1994年前后以The Beatles《Drive My Car》作为“指定驾驶员”主题歌；Ringo Starr参与监督重录，影像还集合Phil Collins、Little Richard、Melissa Etheridge、Trisha Yearwood等。数据库中的成员关系反映这次群星公益录音，不应理解为所有人长期同团。",
+    "ザ-プールサイド": "ザ・プールサイド是2016年JFL五局与TSUTAYA“ACCESS!”活动采用的一曲限定署名。くるり的岸田繁为《Hello Radio》作词作曲，tofubeats编曲，岸田与大橋卓弥、木村カエラ、KREVA、DEAN FUJIOKA、藤原さくら、YONCE七组歌手轮流演唱。作品用广播陪伴新生活的主题连接不同领域的声音，并曾在TSUTAYA限期提供CD租赁；团名只属于这次跨台活动，不是一支自2016年持续经营的乐队。",
+    "178r": "178R是2017年新宿LOFT“よかっぺBAR”采用的现场常驻乐队，由THE BACK HORN主唱山田将司、MUCC吉他手MIYA、鼓手KAZI与轮换贝斯手组成。活动由水户LIGHT HOUSE的稲葉茂和山田担任“BAR master”，同时呈现茨城县食饮与多组来宾演出；178R以跨团session形式负责整晚的摇滚骨架，并在MUCC二十周年倒数活动继续出现。它不是175R的成员分支，而是带有戏仿名的水户人脉现场企划。",
+    "コーンsuginami": "コーンsuginAmi是MUCC的ミヤ为跨团session活动组织的Korn翻唱乐队，属于他持续使用“杉並”后缀的重型摇滚致敬系列。2017年PARTY ZOO阵容由ROACH的taama主唱，ミヤ与アルルカン的奈緒弹吉他，DEZERT的Sacchan和SORA负责贝斯、鼓；五人借原团的低沉riff、节奏冲击与舞台形象完成一次限定复刻。这个名称并非Korn官方日本支部，也没有独立原创唱片目录。",
+    "moondog-one": "Moondog One是前Oasis吉他手Paul “Bonehead” Arthurs在2001年前后于曼彻斯特组建的短命项目，核心阵容还包括The Smiths节奏组Andy Rourke、Mike Joyce及主唱Johnny Evans。成员在Bonehead家中录制了四首demo，并邀请Aziz Ibrahim和Rowetta客席，原计划以《Moondog》白标宣传后正式发行；项目最终没有继续。团名借意The Beatles早期名称Johnny and the Moondogs，也让Oasis与The Smiths两代曼城人脉短暂合流。",
+    "slipknot杉並": "Slipknot杉並是ミヤ参与的Slipknot限定翻唱乐队，2016年以“スリップノット杉並 from COMMUNE”名义登上新宿LOFT深夜PARTY ZOO。阵容由NOCTURNAL BLOODLUST的尋主唱、Cazqui与ミヤ弹吉他、アルルカン的祥平弹贝斯、TYRANT OF MARY的Allen打鼓；他们以年轻一代日本loud／visual系乐手重现Slipknot的重型曲目。团名中的“杉並”延续同一批恶搞翻唱session，并不表示原版Slipknot成员参与。",
+    "the-mad-capsule-market-s-杉並": "THE MAD CAPSULE MARKET’S 杉並是2018年前后出现的THE MAD CAPSULE MARKETS致敬乐队，也是ミヤ主导的“杉並”翻唱session网络之一。公开目录明确将其标作tribute band，而成员关系又把它与Slipknot杉並等项目中的ミヤ、Allen连接；其作用是在限定现场复刻原团融合digital hardcore、punk与industrial rock的高速曲目。它没有以原创团体身份发行唱片，也不等同于2006年停止活动的原乐队复活。",
+    "the-rd-crusaders": "The RD Crusaders是The Who主唱Roger Daltrey与报业出版人Richard Desmond在2003年发起的英国慈善超级乐队，名称也取两人姓名首字母。阵容随募款演出变化，曾集合Lulu、Gary Moore、Greg Lake、Gary Brooker、Russ Ballard、Simon Townshend、Zoot Money等；首演在Ronnie Scott’s为Teenage Cancer Trust筹款，后来又支持Evelina儿童医院与Norwood。它的延续方式是群星慈善演出，而非固定成员录制常规专辑。",
+    "the-roundheads": "The Roundheads是Ringo Starr自1998年《Vertical Man》时期起使用的录音与现场伴奏乐队名称，核心来自制作人Mark Hudson的合作班底。Steve Dudas、Gary Burr、Matt Bissonette、Mark Hart与Gregg Bissonette等人随时期参加，既在VH1《Storytellers》中演奏Beatles及Ringo旧作，也参与《Ringo Rama》宣传和2005年Soundstage演出。它与轮换明星各唱代表作的All-Starr Band不同，更接近围绕Ringo本人作品工作的稳定house band。",
+    "x-suginami": "X SUGINAMI是以MUCC吉他手ミヤ为核心的X JAPAN翻唱乐队，也是“杉並”session系列中活动最早、最频繁的一支。常见阵容由NoGoD的団長主唱，ミヤ与MERRY的結生或A9的ヒロト弹吉他，Akane或Masa担任贝斯，Daisuke等打鼓；他们曾在新宿LOFT主办TRUE NIGHT，并登上2016年VISUAL JAPAN SUMMIT。团名与表演建立在致敬和夸张模仿上，并不是X JAPAN的正式衍生团。",
+    "さわおとケンジ": "さわおとケンジ是the pillows的山中さわお与The Birthday吉他手フジイケンジ在2024年重新启用的双人合作名义。两人早在1998年前后就以玩票乐队共同演出、录音，二十六年后因偶遇而再合作；山中写下三首歌，经历录音延期后完成EP《再会モノローグ》。山中主唱、弹吉他，藤井除吉他外深度参与编曲构想，贝斯与鼓由支援乐手补足，使项目成为两位旧友关系的具体作品记录。",
+    "ヨーコとさわお": "ヨーコとさわお是noodles主唱兼吉他手yoko与山中さわお使用的双人现场名义。两人长期通过山中主宰的DELICIOUS LABEL合作，后来又与楠部真也组成Casablanca；在这个更小的编制里，他们以歌声和吉他呈现各自作品，2024年还以两人署名巡演大阪、名古屋与下北泽。公开资料没有显示该名义发行过独立唱片，因此它应视为两位老搭档的acoustic／joint live单元，而不是Casablanca之外另建的常设全编制乐队。",
+    "guerrilla": "GUERRILLA是yukihiro在加入ZI:KILL以前参与的日本hardcore乐队，也是他职业履历中最早被持续记录的团体之一。资料显示他在学生时期与后来组建TOKYO YANKEES的UME、NORI共同活动，随后才进入ZI:KILL、OPTIC NERVE与DIE IN CRIES；这种早期地下经历也解释了他后来偏好的工业、电子与强硬节奏。GUERRILLA没有留下可核实的正式唱片目录，其意义主要在于连接yukihiro与1980年代末东京heavy／visual系人脉。",
+    "mick-jagger-the-brothers-of-sodom": "Mick Jagger & The Brothers of Sodom是Mick Jagger在1988年个人巡演期间用于秘密暖场演出的化名，而非自1985年起独立发展的另一支乐队。Jagger与吉他手Joe Satriani、Jimmy Rip、贝斯手Doug Wimbish、鼓手Simon Phillips等巡演成员，在澳大利亚小型场地以此名演奏Rolling Stones旧作与blues翻唱；键盘、和声阵容还包括Phil Ashley、Richard Cottle、Bernard Fowler和Lisa Fischer。化名让体育场级巡演班底回到酒吧环境即兴热身，演出结束后便随巡演告终。",
+    "the-nicky-james-movement": "The Nicky James Movement是伯明翰歌手、吉他手Nicky James在1960年代中期领导的beat／R&B乐队。项目成员轮换频繁，曾先后包括后来进入The Move／ELO的Bev Bevan、The Moody Blues的Mike Pinder、The Move的Roy Wood，以及接替鼓手位置的John Bonham；Tony Clarkson也曾担任贝斯手。乐队于1965年以翻唱《Stagger Lee》出道，既是James个人唱片事业的起点，也成为多位伯明翰音乐人在成名前共享的一处训练场。",
+    "the-ramblers": "这里的The Ramblers是1962至1963年前后活跃于剑桥的本地乐队，与荷兰同名广播大乐团无关。其阵容以Chris Marriott主唱、Mervyn Marriott等弹吉他、Clive Welham打鼓，少年David Gilmour只在少数场次加入吉他；演出地点包括Free Church Hall、Victoria Ballroom和周边村镇礼堂。它没有留下商业录音，却是Gilmour加入Jokers Wild、进而进入Pink Floyd以前最早可追溯的舞台实践。",
+    "the-senators": "The Senators是1960年代中期活跃于伯明翰与Coventry一带的beat乐队，由Bobby Child主唱，Trevor McGowan、Graham Dennis、Bill Ford与鼓手John Bonham等组成。乐队驻演Navigation Inn，并为1964年地方合辑《Brum Beat》录制《She’s a Mod》；关于发行版本的具体鼓手仍有资料分歧，但Bonham确曾随团演出、唱和声。这个短暂阶段位于他加入A Way of Life、Band of Joy和Led Zeppelin之前，记录了伯明翰Brum Beat场景的一条早期支线。",
+    "trash": "这里的Trash是TAIJI在1982至1984年前后与同学组建的日本少年乐队，与欧美同名团体无关。TAIJI当时担任吉他和主导角色，未来LADIES ROOM主唱百太郎也在成员之列；其他同伴仍在上学时，他靠招牌制作兼职收入支付排练室费用。乐队约一年后解散，TAIJI随即转弹贝斯并以Ray之名加入Dementia，因此Trash留下的主要不是唱片，而是他从校园乐手进入东京地下metal场景的起点。",
+    "フォークデュオ": "フォークデュオ是集団行動的真部脩一与西浦謙助在2018年前后采用的戏仿型二人单元，两人以“长得很像本人”的SHU和KEN身份出现。2019年首张专辑《若草》最初只在集団行動“SUPER MUSIC TOUR”会场出售，以木吉他、歌声和复古民谣包装延续两位前相対性理論成员一贯的文字游戏与概念幽默。它既是真部、西浦的实际合作作品，也故意把作者身份藏进一个过分普通的团名里。",
+    "apple": "这里的Apple是MusicBrainz用来归纳John Lennon、Yoko Ono与Phil Spector合作关系的侧项目条目，不是Apple Records，也不是另有固定阵容的英国乐队。三人在1969至1971年前后的实验录音、Plastic Ono Band作品及制作工作确有大量交集，但可核实目录中没有以“Apple”作为艺人名独立发行的唱片。因而这个节点更适合解释为资料库中的合作分组；理解其音乐时，应回到Lennon／Ono共同作品与Plastic Ono Band，而不应虚构一支同名团史。",
+    "radio-darlings": "Radio Darlings是FM802为2019年开局30周年“ACCESS!”活动组织的一曲限定单元。aiko为《メロンソーダ》作词作曲，トオミヨウ编曲，并与上白石萌歌、谷口鮪、橋本絵莉子、はっとり、藤原聡六位歌手接力演唱，KAN与秦基博加入合唱。作品曾制作全员出演的MV，并以TSUTAYA限期租赁CD发行；这个名字只承载当年春季电台企划，八位参加者并未据此组成持续活动的乐队。",
+    "radio-soul20": "RADIO SOUL20是FM802在2009年春季“ACCESS!”活动中组织的一曲限定歌手单元。忌野清志郎为活动写下《Oh! RADIO》，蔦谷好位置负责编曲与声音制作，阿部真央、HY、くるり的岸田繁、スガ シカオ、BONNIE PINK、ROCK’A’TRENCH的山森大輔和TRICERATOPS的和田唱接力演唱。团名只对应这首电台活动歌，并不存在以七位歌手为固定成员的后续乐队。",
+    "the-complex": "The Complex是Kevin Shields与Colm Ó Cíosóig在组成My Bloody Valentine以前，于1979年前后参加的都柏林少年朋克乐队。阵容还有后来成立Hothouse Flowers的Liam Ó Maonlaí，以及只留下名字Mark的少年贝斯手；他们排练Sex Pistols、Ramones等团的歌曲，只举行过少量演出。乐队约在1981年随Ó Maonlaí离开而结束，却让Shields与Ó Cíosóig建立了此后数十年的音乐搭档关系。",
+    "the-pink-spiders": "THE PINK SPIDERS是2013年hide致敬专辑《hide TRIBUTE VII -Rock SPIRITS-》中的一次性录音组合。hide with Spread Beaver成员I.N.A、CHIROLYN与JOE，联同X JAPAN吉他手PATA和Ravecraft主唱Shame，重新演奏hide的代表作《ピンク スパイダー》，组合名也由歌名变化而来。公开目录只记录这一首合作曲，因此它不是hide旧乐队的正式重组，也没有独立发展的团史。",
+    "the-vortex": "The Vortex是2000年代后期活跃于Manchester现场的英式摇滚乐队，John Mackie主唱，Maz Behdjet与前Oasis成员Paul “Bonehead” Arthurs弹吉他，Nick Repton、Sean O’Donnell和和声歌手Jaxx组成其余阵容。Bonehead先以客席身份登台，约在2008年圣诞加入；乐队把双吉他摇滚与soul、采样和Manchester舞曲传统并置，并在小型场地与Alan McGee的Death Disco活动中积累关注。它是Bonehead离开Oasis后的正式合作之一，而不是Oasis的改名或重组。",
+    "古都の夕べ": "古都の夕べ最初是“進行方向別通行区分”的田中与前相対性理論贝斯手真部脩一组成的双人单元。两人以歌声和吉他延续田中荒诞、无情又带社会观察的写作，2013至2014年密集留下《飛脚は良い線までいった》《いないいないナイト》《黒艦につぐ黒艦》等短篇作品；最初宣布“最后演出”后，田中仍以流动阵容继续活动。真部退出后，高野京介等乐手加入并逐渐形成较固定的乐队形态，所以这个名称同时涵盖早期二人组与后来的扩编阶段。",
+    "beefeater": "这里的BEEFEATER是为2002年The Collectors致敬专辑《BEAT OFFENDERS》临时组成的录音单元，与美国同名hardcore乐队无关。LOW IQ 01、FOE／EL-MALO的會田茂一、Hi-STANDARD鼓手恒岡章与Neil & Iraiza键盘手堀江博久共同翻唱《TOO MUCH ROMANTIC!》，把四人各自的朋克、另类摇滚与键盘经验汇入一首歌。公开资料没有该阵容此后的独立发行或持续活动，因此应视为致敬唱片限定合作。",
+    "high-cheez": "High Cheez是國府田マリ子在1999年专辑《やってみよう》中采用的录音乐队名义。國府田担任主唱，西脇辰弥负责键盘，西川進弹吉他，亀田誠治演奏贝斯，倉内充打鼓，井上うに担任声音制作；多首歌以作者姓名加“& High Cheez”署名。阵容用紧实的现场乐队声响，把她原有的声优流行路线推向90年代美国另类摇滚与power pop，但项目主要依附这一张专辑，并非亀田等人长期另组的乐队。",
+    "power-germanys": "POWER GERMANYS是日本thrash metal乐队UNITED在2002年与前ヌンチャク双主唱向達郎、クニ合作时使用的限定名义。UNITED当时的吉田良文、大谷慎吾、横山明裕、中村雄介与湯浅正俊构成重型节奏和双吉他基础，两位客席主唱加入三人交错的嘶吼；四曲EP《大地鬼殺しを呑む》还收录House of Pain作品的改编。它记录的是两个日本loud rock世代的一次碰撞，作品后来收进UNITED全集，但没有发展成持续发行的独立团体。",
+    "sour-milk-sea": "Sour Milk Sea是1969至1970年短暂活动于英国Oxford一带的heavy blues／hard rock乐队，团名取自George Harrison同名歌曲。Chris Dummett、Jeremy Gallop、Paul Milne与鼓手Rob Tyrrell先组成阵容，Freddie Bulsara在Wreckage结束后于1970年初加入主唱，演出过他尚未成为Queen作品的早期歌曲《Lover》等；数周后乐队解散，他随即加入Smile并推动其改名Queen。现有可靠成员资料并不包括The Cure鼓手Boris Williams，数据库中的这条关系应属同名项目混淆。",
+    "the-house-band": "这里的The House Band是2002年6月3日英国女王金禧庆典“Party at the Palace”的现场伴奏阵容，而不是以此名长期发行唱片的普通乐队。Phil Palmer弹吉他、Pino Palladino演奏贝斯、Paul “Wix” Wickens负责键盘，Phil Collins与Ray Cooper组成鼓和打击乐核心，Eric Robinson吹奏萨克斯，Sam Brown、Margo Buchanan与Claudia Fontaine担任和声。乐队在白金汉宫花园为Eric Clapton、Annie Lennox、Joe Cocker等多位嘉宾伴奏，任务随这一晚的大型电视演唱会结束。",
+    "the-low-atus": "the LOW-ATUS是細美武士与BRAHMAN／OAU主唱TOSHI-LOW组成的双人乐队。2011年东日本大地震后，两人在持续支援灾区的过程中经常同台，逐渐以木吉他、双主唱和大量谈话演出反战歌、社会歌及彼此作品；2021年首张《旅鳥小唄 / Songbirds of Passage》才第一次集中发表原创歌曲。与ELLEGARDEN或BRAHMAN的电声冲击相比，这里更接近两位老友在民谣、幽默与公共议题之间展开的长谈。",
+    "sextapes": "SexTapes是Guns N’ Roses键盘手兼多乐器演奏者Chris Pitman在2000年代中期于Hollywood组建的另类硬摇滚乐队。Pitman负责主唱与guitar synth，创始搭档Kelly Wheeler弹吉他，Marko Fox演奏贝斯，Ryan Brown打鼓；2008年同名首专由Pitman共同写作和制作，把厚重riff与朋克速度、迷幻电子纹理和抓耳旋律结合。它不是Guns N’ Roses的旁支阵容，而是Pitman少见地站到主唱位置、完整塑造歌曲的个人乐队。",
+    "コンフィデンス": "コンフィデンス是THE ALFEE正式出道前的高中民谣组合。桜井賢约在1970年与明治学院高中同学三宅康夫、高橋志郎成团，演唱Simon & Garfunkel等人的歌；1972年在Victor民谣比赛获胜时结识坂崎幸之助，坂崎随后加入。组合曾为小室等主持的广播剧原声《愛よこんにちは》录制歌曲，高見沢俊彦后来加入，团名则在职业出道前改为Alfie；因此它不是THE ALFEE的旁支，而是其和声与木吉他传统的直接前身。",
+    "3minutes": "3minutes是2012年为《ぱちんこウルトラマンタロウ 戦え!!ウルトラ6兄弟》音乐企划推出的五人覆面乐队，名称呼应奥特曼在地球活动三分钟的设定。成员以01至05编号：河村隆一主唱，葉山拓亮弹钢琴，JIGEN演奏贝斯，福田真一朗弹吉他，山崎慶打鼓；四曲单曲《7colors》收录同名主题歌、《Mother Earth》等作品。项目曾以蒙面形象在新机展示会演出，但没有发展成长线活动，核心是一套为特摄主题机器制作的完整pop-rock歌曲。",
+    "ka-za-ri": "Ka・za・ri是DIR EN GREY吉他手Die在进入La:Sadie’s以前，于1995年前后参加的关西visual系乐队。它在尼崎、枚方等live house与Ruby、CHARM等同期团同台，使Die先后结识Shinya、薫、京等后来伙伴；1996年1月举行“活动休止”演出后实际结束。可核实资料只留下演出、照片和《Voiceless Scene》等早期歌曲痕迹，其中一段后来被Die带入La:Sadie’s的《obje×××》，因此这支短命团仍能听见他早期写作的延续。",
+    "charm": "CHARM是薫加入La:Sadie’s及组建DIR EN GREY以前，在兵库、阪神地区活动的visual系乐队，约在1994年成立。末期阵容由KEN主唱，KAORU与YOSHIKI弹吉他，TAKESHI演奏贝斯，YASUTAKA打鼓；他们在难波、尼崎和大阪多次登台，也留下《CRANE》demo与现场VHS。1996年2月14日最后演出后解散，薫随即接替La:Sadie’s吉他手位置，使CHARM成为DIR EN GREY成形前关西live house网络的重要一环。",
+    "ttt": "TTT是2015年12月由多位日本摇滚乐手组成的THE MAD CAPSULE MARKETS翻唱乐队，缩写来自“Tora Tora Tora”：成员大多生肖属虎。KOJI与兼任VJ、主持的BOO使用Mr.T T T名义主唱，DIR EN GREY的薫和LM.C的Aiji弹吉他，The BONEZ／Pay money To my Pain的T$UYO$HI演奏贝斯，UZMK的DUTTCH打鼓。项目只在特定年份举行玩票式现场，没有正式原创发行，其价值在于用重型跨团阵容重现一支日本数字hardcore先驱的现场冲击。",
+    "廃人黒薔薇族": "廃人黒薔薇族是KISAKI与京在1995年秋组织的关西session／翻唱乐队。早期阵容由京主唱，#4与Seine弹吉他，KISAKI演奏贝斯，鼓手Atsushi很快由Shinya接替；他们在难波、心斋桥与大阪城一带演出黒夢、LUNA SEA和D’ERLANGER作品，没有正式发行，只流传少量现场影像。团体在同年末结束后，京、KISAKI与Shinya立即成为La:Sadie’s核心，因此它是DIR EN GREY前史中的人员汇合点，而非后来的正式重组。",
+    "hi5": "这里的Hi5是秦基博出道初期使用的录音与现场伴奏乐队名义，不应与奥地利爵士团或后来同名电子艺人混淆。其合作圈以吉他手山本タカシ、贝斯手鹿島達也等人为核心，演奏刻意克制，让秦的木吉他、歌声与旋律保持在正中央；2008年单曲《虹が消えた日》中的《Baby, I miss you》明确由Hi5编曲。这个名称主要标记秦与固定乐手共同塑造的早期band sound，而不是脱离歌手单独经营唱片目录的团体。",
+    "galactic-abyss": "Galactic Abyss是2016年前后开始活动的日本地下即兴四重奏，由前ゆらゆら帝国贝斯手亀川千代、长谷川静男的内田静男，以及ASTRO的Hiroshi Hasegawa与Rohco组成。亀川的重复低音、内田经效果处理的提琴／吉他和ASTRO电子噪音没有固定主唱或歌曲结构，而在现场缓慢堆成宇宙音乐、drone与迷幻噪音。这个项目连接日本psych rock与noise两个传统，公开记录也主要是SuperDeluxe、Forestlimit等实验场地的现场活动。",
+    "hakaiders": "HAKAIDERS于1989年夏在东京成立，HARA负责吉他与主唱、H.K演奏贝斯并演唱，美术家加藤泉和后来组建Boris的Atsuo形成罕见的双鼓阵容。乐队以原始hardcore、重型噪音和反复riff在地下场地活动，1996年后淡出；旧demo于2021年被重新整理，成员随后复活演出。2025年《SATAN SATAN》成为成团三十六年后的首张录音室专辑，既保留早期十三首歌，也把Atsuo后来的录音制作经验带回这支前Boris乐队。",
+    "chococream-rolls": "ChocoCream Rolls源自자우림成团前由吉他手이선규与贝斯手김진만使用过的乐队名。자우림在2000年代初短暂分开活动时，两人与Funny Powder出身的鼓手이승복把这个名称重新启用为三人组，2003年发行唯一同名专辑；强硬吉他、直线节拍与幽默感让两位长期站在김윤아身后的乐手成为主角。它既保存자우림早期男性成员的共同历史，也是主团休整期一次明确的朋克／摇滚侧行。",
+    "space-soldier-membership-club": "Space Soldier Membership Club是公开资料极少的韩国项目，MusicBrainz把吉他手이선규列为成员，因此节点与자우림、ChocoCream Rolls及Lonely H’s Band相连；但现有同期报道、成员表和早期唱片都不足以还原一段可靠团史。流媒体在2024年出现同名EP《2024》，却没有资料能证明它与이선규参与的旧项目为同一阵容。这个条目目前更适合作为待考的成员关系记录，不应把新近数字发行反推成자우림成员的复出作品。",
+    "做梦": "做梦乐队是窦唯1991年离开黑豹后在北京组建的短命乐队。早期成员包括贝斯手陈劲、吉他手吴珂、键盘手陈小虎，鼓手余伟民后来由赵牧阳接替，白方林等人也在阵容变化中加入；乐队把黑豹式硬摇滚转向new wave、gothic、氛围键盘与更内向的写作。它只活动到1992年，却在现场完成《高级动物》《悲伤的梦》等雏形，多首作品后来进入窦唯1994年首张个人专辑《黑梦》，因此两者在创作上不可分割。",
+    "infrared-hologram": "Infrared Hologram是德国吉他手Rainer Neeff与鼓手Norbert Jaensch合作的迷幻／Krautrock录音项目。2024年唯一专辑《Exploding Flowers》由Neeff混音与母带处理，他的吉他和所谓“Atlantic wave sounds”与Jaensch的鼓构成长篇器乐流动，Shane Beck的诗歌则为作品提供文字层。它沿用Neeff在Zone Six、Krautzone等即兴团体中的宇宙摇滚方法，但以更小的双人核心完成一张独立唱片。",
+    "architectural-abdabs": "Architectural Abdabs常被列作Pink Floyd的早期团名，但它更接近围绕同一批Regent Street Polytechnic学生流传的名称变体，而非另有唱片目录的独立乐队。Roger Waters、Nick Mason与Richard Wright最初在Sigma 6演奏R&B翻唱，Clive Metcalfe、Keith与Sheilagh Noble等人随阵容进出，团名又曾写作The Abdabs、Screaming Abdabs、Tea Set等；Bob Klose与Syd Barrett加入后才逐步走向The Pink Floyd Sound。理解这个节点的关键是早期人员连续性，而不是把每个名称虚构成一支完整新团。",
+    "jc-001-dj-d-zire": "JC-001 & DJ D-Zire是西伦敦说唱歌手Jonathan Chandra Pandy与DJ／制作人Darren Galea在1990年代初组成的hip-house二人组。1993年专辑《Ride the Break》把JC-001极高速而咬字清楚的rap，与D-Zire的breakbeat、electro、reggae和俱乐部低音结合，《Sea of MC’s》《Eternity》等也以单曲发行。D-Zire后来参与Jamiroquai现场并进入Spacemonkeyz，令这张唱片成为英国说唱、acid jazz人脉与日后Gorillaz remix圈之间的一处早期交点。",
+    "fuktronic": "Fuktronic是System of a Down主唱Serj Tankian与Mindless Self Indulgence主脑Jimmy Urine共同创作的电子叙事专辑项目。两人自行编写对白、配音并制作音乐，把虚构Manchester小混混George的失败犯罪经历写成一部不存在的英国黑帮电影；2020年同名专辑用十二段工业电子、追逐节拍和角色对话依次推进情节。它不是以舞台演奏为目标的固定乐队，更像一张有完整人物和场景的“无电影原声带”。",
+    "gannin-arnold-project": "Gannin Arnold Project是吉他手Gannin Arnold与Drum Channel合作的器乐演奏及教学项目。Arnold联同贝斯手Tim Landers、兼奏吉他与贝斯的Billy Mohler录制同一批jazz-rock／fusion曲目，再分别邀请Taylor Hawkins、Jimmy Chamberlin、Terry Bozzio、Gary Novak与Simon Phillips打鼓；2011年双DVD《5 World Class Drummers》让五人都演奏《Not from Here》。项目的核心不是固定鼓手阵容，而是直观展示不同鼓手如何改变同一首歌的重心、音色与时间感。",
+    "the-end": "这里的the End是前BiS、モルヒネ東京成员ナカヤマユキコ在2015年底发起的日本摇滚乐队。她负责主唱，セニョール山野弹吉他，ELLEGARDEN的高田雄一以“高田メタル”名义演奏贝斯，BiS《nerve》作曲者miifuu负责键盘、制作与编曲；乐队在2016年每月配信新歌，并把十二首作品装入USB形式的首张专辑。活动休止后四人于2024年缓慢复活并发行《RAISE》，所以它不是一段已终止的短期企划。",
+    "pandas": "PANDAS是BOOM BOOM SATELLITES的中野雅之与凛として時雨主唱兼吉他手TK在2017年组成的新项目。两人都深度参与各自乐队的作曲、录音和声音工程，因此这个组合把中野的电子制作与TK尖锐的吉他、歌声放进同一套现场系统。项目先后登上RISING SUN ROCK FESTIVAL与SONICMANIA 2017；现有公开记录主要集中在这两场八月演出，理解它时更适合作为一次明确署名的合作企划，而不是作品众多的常规乐队。",
+    "thurston-moore-group": "Thurston Moore Group是Thurston Moore在Sonic Youth之后用于录音和巡演的固定四人编制：他与James Sedwards演奏双吉他，My Bloody Valentine的Debbie Googe负责贝斯与和声，Sonic Youth旧搭档Steve Shelley打鼓。核心阵容从2014年《The Best Day》时期开始合作，2017年以该团名巡演《Rock n Roll Consciousness》。五首长篇作品把噪音吉他、即兴延展和稳定律动连在一起，所以它既是Moore个人创作的载体，也有清晰的乐队化合奏身份。",
+    "rumblepuppy": "Rumblepuppy是美国马萨诸塞州地下朋克圈的一支短命乐队，留下的核心唱片是Selfless Records于1992年发行、由Eli Janney制作的《Jeez-Ooze》。阵容包括后来组建The Marshes的Emil Busler、Steven Wardlaw，以及曾在Dag Nasty和Fugazi演奏的鼓手Colin Sears。专辑以干净、带Dischord气息的吉他和较长的八十年代式朋克段落推进，已经能听见The Marshes后来更急促声音的雏形。",
+    "fractured-mirror": "这里的Fractured Mirror指MusicBrainz收录的日本乐队条目，目前能够可靠确认的成员是贝斯手宇高光。关系资料把宇高光此前参与X JAPAN、挪威黑金属乐队Emperor相关演出的经历连接到这个项目，但公开目录尚不足以支持更具体的成立年份、固定阵容或风格判断。因此本图谱保留其成员关系，同时不把流媒体上其他同名乐队的作品误并到这里。",
+    "fanta": "FANTA是日本可口可乐为芬达广告在2010年组建的明星企划乐队，名称依次取自Friedman、Ayanocozey、Nana、Takamiy与Akebono的首字母。初始阵容由Marty Friedman和高見沢俊彦弹吉他、綾小路翔弹贝斯、谷村奈南主唱、曙太郎担任鼓手，后来广告剧情让くいだおれ太郎接替鼓位。这个组合不只拍摄广告，也公开演出并在2011年配信高見沢作曲的《Fantastic Love》，但本质仍是有明确商业周期的跨界企划。",
+    "a-c-e": "A.C.E.是堂島孝平为2012年专辑《A.C.E.》组建的乐队化创作与现场班底，正式演出时常以“堂島孝平×A.C.E.”署名。最初核心成员是堂島、小松シゲル（鼓）、鹿島達也（贝斯）和奥田健介（吉他），四人从排练与共同制作中塑造出紧凑明亮的流行摇滚声响；后续现场也出现sugarbeans等成员。它不是与堂島无关的独立同名团体，而是其个人作品由录音阵容发展出的持续演奏项目。",
+    "高浪慶太郎となんがさきふぁいぶ": "高浪慶太郎となんがさきふぁいぶ是前Pizzicato Five成员高浪慶太郎2009年移居长崎后发起的地方主题项目。2010年的《龍馬のハナ唄》赤、青两盘以月琴、明清乐和异国情调的休闲流行为坂本龙马时代的长崎重新配乐，2011年《ドレミの大航海 ナガサキ洋楽事始め》继续追溯西洋音乐传入当地的历史。它把高浪精巧的流行编曲与长崎史、在地演奏者结合，是有连续唱片和现场活动的地区性乐团，而非Pizzicato Five的改名。",
+    "lam-family": "Lam Family是林一峰、林二汶与父母林爸爸、林妈妈共同使用的家庭演出名义。MusicBrainz的成员关系明确把四人列在同一项目下，因此它连接了林一峰的个人创作、林二汶在at17及个人时期的履历，也对应兄妹演唱会中反复出现的家庭合唱场景。这个名称更接近真实家庭在特定舞台上的合演单位，而不是另有固定唱片目录的香港流行乐队。",
+    "擬態屋": "擬態屋是摄影家佐内正史与音乐人曽我部恵一组成的双人单元，把佐内的诗与声音、曽我部的演奏和制作并置。两人于2021年10月先配信首张专辑《DORAYAKI》，同年11月由ROSE RECORDS发行九曲CD，作品以语言、噪声与松散的另类歌曲结构展开。它既不是曽我部恵一BAND的旁支名称，也不只是摄影配乐，而是两位作者共同署名并实际登台的声音项目。",
+    "ft2k-s": "FT2K'S由吉他手藤井謙二、GRAPEVINE的田中和将与亀井亨，以及John Brief的金戸覚组成。四人最早可核验的正式录音是2002年THE COLLECTORS致敬专辑《BEAT OFFENDERS》中的《TEENAGE FRANKENSTEIN》翻唱；此后仍以乐队形式活动，并改用FTK&K这一写法。它不是临时拼在曲目表上的匿名伴奏团，而是把藤井的吉他与GRAPEVINE两位成员节奏、创作关系延伸出来的小型项目。",
+    "hedigan-s": "Hedigan's是Suchmos主唱兼吉他手河西“YONCE”洋介另行组建的五人乐队，成员还包括吉他手栗田将治、键盘手栗田祐輔、贝斯手本村拓磨与鼓手大内岳。2024年发行首张EP《2000JPY》、登上FUJI ROCK等音乐节，并于11月推出十曲首专《Chance》；2025年又完成首次全国单独巡演。它让YONCE以更松弛、可共同即兴的编制探索摇滚与灵魂律动，是持续发展的新团，而不是Suchmos休止期的临时替名。",
+    "royal-force": "ROYAL FORCE是前SIAM SHADE成员KAZUMA与前JURASSIC主唱YU+KI在2023年正式启动的双主唱娱乐单元，两人分别以“KING”和“PRINCE”形象登台。企划最初用于彼此宣传个人歌曲，因现场反响良好而向歌迷征集团名并转为持续活动；首张双A面单曲《クリスティーナ／Nockin'》的录音还有前SIAM SHADE贝斯手NATCHIN参与。它把视觉系摇滚履历与歌舞、角色设定结合，定位比传统固定器乐乐队更接近舞台表演组合。",
+    "the-devils": "这里的The Devils是为2008年韩国电影《고고70》（《Go Go 70s》）组成并实际演奏的银幕乐队，不是同名欧美团体。曹承佑担任主唱，车承佑弹吉他，孙京镐打鼓，另有贝斯、萨克斯与小号，演员和职业乐手为避免假弹对嘴提前数月排练，并以“曹承佑与The Devils”发行电影宣传单曲。项目重现1970年代韩国夜总会的灵魂、放克与go-go现场，也让电影角色乐队获得了可独立查证的录音身份。",
+    "天織堂": "天織堂是作曲家黎允文在小島樂隊之后参与的1990年代香港流行乐队，创作与编曲以他为核心，并采用男女声及器乐曲并置的形式。1995年专辑《搖搖擺擺》收录同名曲、《心痛的感覺》《當我一個人的時候》等作品，随后还有《#2》，歌曲在粤语、国语与社会题材之间移动。黎允文后来以电影配乐闻名，但天織堂并非其配乐署名，而是有专辑、主唱与乐队演奏的独立阶段。",
+    "凡風": "凡風是小島樂隊第一代阵容拆分后，區新明与崔炎德于1986年组成的香港双人乐队。首张专辑《奇想》由區新明承担大部分曲词，以《中國飯店》写移民、《奇想》谈环境污染、《廿五》观察人生，清新的流行编曲带有鲜明的本地作者意识；后期《風中奔馳》《紫色夏日》则更靠近市场化情歌。它延续了小島樂隊的原创路线，却不是旧团改名，而是两位成员重新建立的创作组合。",
+    "the-earth": "这里的The Earth是1968年前后在伦敦活动的蓝调摇滚乐队，阵容为主唱Ian Harris、吉他手Alan Parsons、风琴手Roy Quilley、贝斯手Barry Mitchell与鼓手Phil Brockton。五人在Regent Sound录下《Miseducation》和《Song for Katherine》，但当时没有形成正式发行，录音多年后才以限量七英寸唱片整理面世。它与Queen的连接来自后来短暂为Queen演奏贝斯的Barry Mitchell，并不是Black Sabbath早期同名阶段。",
+    "gothic-plague": "Gothic Plague是Muse成名前在英国Teignmouth校园时期使用过的早期团名，最初围绕鼓手Dominic Howard活动，成员流动且时间线因旧访谈说法不一。1991年的青年剧院节目单记录了Dominic随团演奏《Kill Your TV》；Matt Bellamy后来加入，余下核心成员继续磨合，经过Youngblood、Rocket Baby Dolls等名称才定为Muse。它更适合被理解为Muse形成过程中的校园前身，而非与Muse同时存在、另有成熟唱片目录的乐队。",
+    "quisp": "Quisp是美国阿肯色州Little Rock九十年代地下朋克场景中的乐队，成员包括Jason White、Colin Brooks、Andy Conrad与Sam Caplan。现存目录可追到1993年录音《The Censored Sessions》，歌曲《Hillcrest》后来收入2007年地方场景纪录片合辑《Towncraft: Notes From a Local Scene》，2017年《Very Little Rock》也继续保存其旧作。Jason White日后加入Green Day与Pinhead Gunpowder，使这支地方小团获得一条清晰的成员脉络。",
+    "the-capitols": "图谱中的The Capitols来自一条自称1980年成立于荷兰的MusicBrainz记录，但其资料可靠性很低：没有可核验唱片，所谓2020年为Radiohead、Johnny Cash、Willie Nelson等担任伴奏的关系彼此矛盾，其中Johnny Cash早已于2003年去世。该条目与The Poops还共用同一WordPress页面，现阶段不能据此确认真实阵容或音乐风格。因此这里保留说明用于揭示来源问题，不把那些关系当作乐队史实。",
+    "the-poops": "The Poops同样是一个缺乏可靠唱片与成员证据的MusicBrainz条目，页面把它标成欧洲团体，却声称在2020年先后为Johnny Cash、Elton John、Willie Nelson、Radiohead和t.A.T.u.伴奏。日期与艺人生平明显冲突，且它与The Capitols共用一个内容不足的“Major Qotrun Records”网页，不能支持真实合作关系。这个卡片目前应视为待清理的数据污染记录，而不是可据此推荐作品的已验证乐队。",
+    "glassmaps": "GLASSMAPS是Howling Bells吉他手Joel Stein展开的个人创作项目，而不是The Killers成员另组的乐队。2017年首张专辑《Strangely Addicted》由Stein包办主要写作、演奏、录音与制作，在The Killers贝斯手Mark Stoermer位于拉斯维加斯的家庭录音室完成；Stoermer也为部分歌曲唱和声，并在《Summer Rain》中弹贝斯。项目把强劲另类摇滚、电子与有机乐器、迷幻声场结合，后来还曾以现场阵容为The Killers暖场。",
+    "afternoon-saints": "Afternoon Saints是Lee Ranaldo、声音艺术家Christian Marclay、打击乐手Günter Müller与吉他兼风笛手David Watson组成的实验即兴组合。四人在纽约Echo Canyon录制《The Shirley Jangle》，由Jim O'Rourke剪辑混音，作品于2009年数字发行、2010年制成三面音乐加一面Ranaldo蚀刻画的双LP。唱盘、打击乐、双吉他与风笛被组织成声音拼贴、自由爵士式无人声长篇，它更像一次完整的电声合奏，而非传统歌曲乐队。",
+    "butterfly-launches-from-spar-pole": "Butterfly Launches From Spar Pole由自然作家、鳞翅目学者Robert Michael Pyle与前Nirvana贝斯手Krist Novoselić在2010年为当地Grange活动开始合作，之后加入多乐器手Ray Prestegard。Pyle朗诵诗歌，Novoselić写作并演奏原声音乐，Prestegard补入吉他、提琴与mandocello；十一曲同名专辑最终于2023年发行。作品从美国西北部森林、河流和生物出发讨论演化、气候与死亡，定位是民谣化的自然写作和口述音乐，而不是另一支grunge乐队。",
+    "fart-sandwich-posse": "Fart Sandwich Posse并不是一支排练、巡演并独立出唱片的固定乐队，而是Primus在1990年专辑《Frizzle Fry》内页给一群朋友与客串者使用的集体署名。名单包括Faith No More鼓手Mike Bordin、Brain Mantia、早期Primus鼓手Flapjax Libby及乐队工作人员；Bordin还在《John the Fisherman》和《Sathington Willoby》中提供客串喊声。图谱中的Black Sabbath关系来自Bordin后来的代打经历，不应反推成这个“Posse”曾与Black Sabbath合作。",
+    "dr-ドラゴン-サウンド-オブ-アラブ": "Dr.ドラゴン&サウンド・オブ・アラブ是作曲家筒美京平为岩崎宏美1978年专辑《パンドラの小箱》设置的迪斯科录音企划：筒美以“Dr.ドラゴン”署名，伴奏班底则采用“サウンド・オブ・アラブ”之名。阵容汇集坂本龍一、佐藤準、渋井博等键盘手，林立夫与松原正樹、後藤次利、斉藤ノヴ也分别负责鼓、吉他、贝斯和打击乐。它以费城灵魂、放克和双鼓十六拍重塑昭和歌谣，是专辑概念下的明星录音组，而非长期活动的独立乐队。",
+    "怪物舞踏団": "怪物舞踏団是为百事J-Cola广告在2018年3月至2019年3月组成的五人“怪物乐队”。演歌歌手石川さゆり担任主唱，SUGIZO弹吉他、KenKen弹贝斯，青森吉祥物鼓手にゃんごすたー与世界DJ冠军DJ RENA分别负责鼓和唱盘。组合围绕广告曲及公开舞台把演歌唱腔、重型吉他、强节奏与DJ表演并置；成员与活动期均由唱片公司明确公布，因此它是有限期商业企划，但并非只有合成画面的虚构乐队。",
+    "wild-wise-apes": "Wild Wise Apes是BUCK-TICK贝斯手樋口豊与ROGUE主唱奥野敦士在2004年合作的双人单元。两人自行制作、编曲和进行电脑编程，在同年专辑《3rd world》中以坚实的贝斯节奏托住奥野戏剧化的摇滚嗓音；十一曲从器乐《Prologue ~Sunrise~》推进到同名曲，再以日落主题收束。公开目录主要集中于这一张自设WWA Records发行的专辑，所以它应被视作完成度很高的阶段性旁支，而不是BUCK-TICK改名。",
+    "gosick": "GOSICK是1990年代中期以长野为据点活动的视觉系乐队，也是Toshiya加入DIR EN GREY前的倒数第二支团。末期阵容为主唱JUNYA、吉他手ムーニャ、鼓手MIYAZI与支援贝斯Toshiya；后者先做roadie，约在1996年6月接替KOHTAROU，并随团巡演至10月23日最后一场。乐队没有留下成熟商业唱片，但有可核验的现场年表；ムーニャ1999年去世后，DIR EN GREY还以《アクロの丘》现场向他致意。",
+    "ザ-ペルシャ": "ザ・ペルシャ（Persia）是1984年起在北海道活动的华丽硬摇滚乐队，阵容包括主唱徳光公継、吉他手真鍋吉明、贝斯手薩摩剛、键盘手坪岡淳一与鼓手墓田博人。乐队以《ロンリーボーイ》《アウトサイダー》等歌登上NHK北海道现场节目，并在1990年留下《～風に吹かれて～》。真鍋后来参与组建the pillows，因此两团通过他相连；ペルシャ本身则属于札幌八十年代金属／硬摇滚场景，而非the pillows的早期名称。",
+    "crystal-wars": "CRYSTAL WARS是日本Being体系在1992年前后推出的四人女子摇滚乐队，成员为主唱井上留美子、吉他手玉井邦子、贝斯手國西萌与鼓手村上弥生。她们先发行同名作品，1993年7月由Teichiku推出迷你专辑《BLUE》，其中《共犯者》《All or Nothing》等歌体现九十年代硬朗而旋律化的女性乐队路线。國西萌后来参与MONO，使图谱产生成员连接；这支团与后来的器乐后摇声音并无直接风格继承。",
     "contraband": "Contraband是一支活跃于1990年代初的摇滚超级乐队，成员来自多支1980年代硬摇滚乐队。",
     "whom-gods-destroy": "Whom Gods Destroy是一支2023年成立的美国前卫金属乐队。",
     "scar-the-martyr": "Scar the Martyr是一支2013年成立的美国工业金属与另类金属乐队。",
@@ -23,6 +348,533 @@
     "康士坦的變化球": "康士坦的变化球是2013年成立的台湾乐团，团名取自“唯一不变的是变化本身”。"
   },
   "introSources": {
+    "slash-featuring-myles-kennedy-and-the-conspirato": [
+      { "label": "Slash官方网站简介", "url": "https://www.slashonline.com/bio/" },
+      { "label": "Warner Music Japan艺人简介", "url": "https://wmg.jp/slash/profile/" }
+    ],
+    "the-vanguard": [
+      { "label": "《Black Messiah》资料", "url": "https://en.wikipedia.org/wiki/Black_Messiah_(album)" },
+      { "label": "AP乐队与作品回顾", "url": "https://apnews.com/article/a4ddd12fed68e3c5db9053201978da12" }
+    ],
+    "the-rh-factor": [
+      { "label": "The RH Factor艺人介绍", "url": "https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr" },
+      { "label": "Roy Hargrove资料页", "url": "https://en.wikipedia.org/wiki/Roy_Hargrove" }
+    ],
+    "monkey": [
+      { "label": "《Journey to the West》官方唱片介绍", "url": "https://www.monkeyjourneytothewest.com/the-album/" },
+      { "label": "Damon Albarn人物报道", "url": "https://time.com/2826278/the-hardest-working-man-in-rock/" }
+    ],
+    "rocket-juice-the-moon": [
+      { "label": "Rocket Juice & the Moon艺人简介", "url": "https://www.allmusic.com/artist/rocket-juice-the-moon-mn0002877941" },
+      { "label": "Damon Albarn人物报道", "url": "https://time.com/2826278/the-hardest-working-man-in-rock/" }
+    ],
+    "robert-plant-and-the-strange-sensation": [
+      { "label": "NPR《Mighty ReArranger》介绍", "url": "https://www.wprl.org/npr-music/2005-12-26/robert-plant-mighty-rearranger" },
+      { "label": "《Mighty ReArranger》资料", "url": "https://en.wikipedia.org/wiki/Mighty_ReArranger" }
+    ],
+    "the-waeve": [
+      { "label": "The WAEVE资料页", "url": "https://en.wikipedia.org/wiki/The_Waeve" },
+      { "label": "Graham Coxon与Rose Elinor Dougall访谈", "url": "https://www.nme.com/news/music/graham-coxon-rose-elinor-dougall-interview-debut-album-the-waeve-blur-reunion-3304889" }
+    ],
+    "taylor-hawkins-the-coattail-riders": [
+      { "label": "Taylor Hawkins官方网站作品页", "url": "https://taylorhawkins.com/taylor-hawkins-the-coattail-riders/" },
+      { "label": "乐队资料页", "url": "https://en.wikipedia.org/wiki/Taylor_Hawkins_and_the_Coattail_Riders" }
+    ],
+    "les-claypool-and-the-holy-mackerel": [
+      { "label": "Les Claypool官方网站作品目录", "url": "https://lesclaypool.com/" },
+      { "label": "《Highball with the Devil》资料", "url": "https://en.wikipedia.org/wiki/Highball_with_the_Devil" }
+    ],
+    "serart": [
+      { "label": "Serj Tankian官方网站访谈", "url": "https://serjtankian.com/blogs/music-news/75700740-ny-rock-interviews-serj-about-serart" },
+      { "label": "Serart资料页", "url": "https://en.wikipedia.org/wiki/Serart" }
+    ],
+    "dee-gees": [
+      { "label": "Sony Music《Hail Satin》公告", "url": "https://www.sonymusic.ca/press_release/the-dee-gees-present-hail-satin" },
+      { "label": "《Hail Satin》资料", "url": "https://en.wikipedia.org/wiki/Hail_Satin" }
+    ],
+    "izzy-stradlin-and-the-ju-ju-hounds": [
+      { "label": "乐队与阵容资料", "url": "https://en.wikipedia.org/wiki/Izzy_Stradlin" },
+      { "label": "同名专辑资料", "url": "https://en.wikipedia.org/wiki/Izzy_Stradlin_and_the_Ju_Ju_Hounds_(album)" }
+    ],
+    "the-entrance-band": [
+      { "label": "The Entrance Band艺人简介", "url": "https://www.allmusic.com/artist/the-entrance-band-mn0001083821" },
+      { "label": "乐队资料页", "url": "https://en.wikipedia.org/wiki/The_Entrance_Band" }
+    ],
+    "the-sleepwalk": [
+      { "label": "The Sleepwalk官方Bandcamp简介", "url": "https://thesleepwalk1.bandcamp.com/album/phantasmagoria-iii" }
+    ],
+    "omar-rodriguez-lopez-quartet": [
+      { "label": "《Sepulcros de Miel》资料", "url": "https://en.wikipedia.org/wiki/Sepulcros_de_Miel" },
+      { "label": "Omar Rodríguez-López作品发行资料", "url": "https://axis.wmg.com/h/sellsheets/ADA_11224_11924.pdf" }
+    ],
+    "zone-six": [
+      { "label": "Zone Six官方Bandcamp简介", "url": "https://zonesix.bandcamp.com/" },
+      { "label": "Zone Six访谈", "url": "https://www.psychedelicbabymag.com/2024/12/zone-six-interview-new-album-full-mental-jacket.html" }
+    ],
+    "chris-dave-and-the-drumhedz": [
+      { "label": "Blue Note官方艺人简介", "url": "https://www.bluenote.com/artist/chris-dave-and-the-drumhedz/" },
+      { "label": "Universal Music艺人简介", "url": "https://www.universal-music.co.jp/chris-dave/biography/" }
+    ],
+    "the-venus-in-furs": [
+      { "label": "《Velvet Goldmine》音乐资料", "url": "https://en.wikipedia.org/wiki/Velvet_Goldmine" },
+      { "label": "BFI电影资料", "url": "https://bfidatadigipres.github.io/big%20screen%20classics/2026/01/14/velvet-goldmine/" }
+    ],
+    "projekct-two": [
+      { "label": "《Space Groove》资料", "url": "https://en.wikipedia.org/wiki/Space_Groove" },
+      { "label": "ProjeKcts计划资料", "url": "https://en.wikipedia.org/wiki/ProjeKcts" }
+    ],
+    "声音碎片": [
+      { "label": "声音碎片乐队专访", "url": "https://www.weibo.com/ttarticle/p/show?id=2309634329762876182909" },
+      { "label": "《世界是噪音的花园》资料", "url": "https://music.douban.com/subject/1428734/" }
+    ],
+    "wu-tang-killa-bees": [
+      { "label": "Wu-Tang官方音乐时间线", "url": "https://thewutangclan.com/en-gb/pages/music-timeline" },
+      { "label": "Wu-Tang外围成员资料", "url": "https://en.wikipedia.org/wiki/List_of_Wu-Tang_Clan_affiliates" }
+    ],
+    "vivian-or-kazuma": [
+      { "label": "Sony Music官方组合介绍", "url": "https://www.sonymusic.co.jp/artist/VivianorKazuma/info/20943" },
+      { "label": "Sunrise《moment》发行资料", "url": "https://www.sunrise-inc.co.jp/work/news.php?id=109" }
+    ],
+    "divination": [
+      { "label": "Divination艺人介绍", "url": "https://music.apple.com/gb/artist/divination/7434021" },
+      { "label": "Bill Laswell官方Bandcamp", "url": "https://billlaswell.bandcamp.com/album/ambient-dub-volume-i" }
+    ],
+    "giant-robot": [
+      { "label": "Buckethead作品目录", "url": "https://en.wikipedia.org/wiki/Buckethead_discography" },
+      { "label": "Buckethead项目历史", "url": "https://www.natternet.com/buckethead-bands" }
+    ],
+    "cyco-miko": [
+      { "label": "Mike Muir资料", "url": "https://www.imdb.com/name/nm0611386/bio/" },
+      { "label": "《Lost My Brain》时期报道", "url": "https://www.worldradiohistory.com/Archive-All-Music/Cash-Box/90s/1996/CB-1996-02-03.pdf" }
+    ],
+    "cobra-strike": [
+      { "label": "《The 13th Scroll》资料", "url": "https://en.wikipedia.org/wiki/The_13th_Scroll" },
+      { "label": "Buckethead项目资料", "url": "https://en.wikipedia.org/wiki/Buckethead" }
+    ],
+    "やくしまるえつこメトロオーケストラ": [
+      { "label": "やくしまるえつこ艺人目录", "url": "https://open.spotify.com/intl-ja/artist/6h32A03szyWpPmQCZSJ4Mi" },
+      { "label": "やくしまるえつこ官方网站", "url": "https://yakushimaruetsuko.com/" }
+    ],
+    "decahedron": [
+      { "label": "Decahedron官方Bandcamp介绍", "url": "https://decahedron.bandcamp.com/album/disconnection-imminent" },
+      { "label": "Joe Lally艺人资料", "url": "https://www.allmusic.com/artist/joe-lally-mn0000590032" }
+    ],
+    "projekct-four": [
+      { "label": "《West Coast Live》资料", "url": "https://www.allmusic.com/album/west-coast-live-mw0000771387" },
+      { "label": "ProjeKcts计划资料", "url": "https://en.wikipedia.org/wiki/ProjeKcts" }
+    ],
+    "曽我部恵一band": [
+      { "label": "ORICON乐队简介", "url": "https://www.oricon.co.jp/prof/380446/" },
+      { "label": "富士电视台FACTORY乐队简介", "url": "https://www.fujitv.co.jp/FACTORY/CS0159/0004pro.html" }
+    ],
+    "el-stew": [
+      { "label": "DJ Disk资料", "url": "https://en.wikipedia.org/wiki/DJ_Disk" },
+      { "label": "El Stew阵容资料", "url": "https://www.bingeandgrab.com/bonusbodies.html" }
+    ],
+    "valis": [
+      { "label": "Small Stone Records官方简介", "url": "https://smallstone.com/artist/valis/" },
+      { "label": "Van Conner官方Bandcamp", "url": "https://vanconner.bandcamp.com/" }
+    ],
+    "jon-spencer-the-hitmakers": [
+      { "label": "HITmakers阵容与专辑公告", "url": "https://pitchfork.com/news/jon-spencer-and-the-hitmakers-announce-new-album-share-video-for-new-song-watch/" },
+      { "label": "HITmakers艺人简介", "url": "https://www.allmusic.com/artist/jon-spencer-the-hitmakers-mn0004196949" }
+    ],
+    "妖精たち": [
+      { "label": "Tower Records组合与录音介绍", "url": "https://tower.jp/nomusicnolife/2013/14" },
+      { "label": "《ラヂヲ》作品资料", "url": "https://tower.jp/item/3266135" }
+    ],
+    "地縛少年バンド": [
+      { "label": "Pony Canyon官方组合公告", "url": "https://news.ponycanyon.co.jp/2020/02/36921" }
+    ],
+    "the-beat-brothers": [
+      { "label": "Tony Sheridan资料站录音历史", "url": "https://www.tony-sheridan.de/" },
+      { "label": "The Beatles与Tony Sheridan录音资料", "url": "https://www.beatlesbible.com/people/tony-sheridan/" }
+    ],
+    "christ-on-a-crutch": [
+      { "label": "Nate Mendel朋克时期访谈", "url": "https://www.musicradar.com/news/guitars/foo-fighters-nate-mendel-fights-and-sunny-day-real-estate-571438" },
+      { "label": "Nate Mendel乐队履历", "url": "https://en.wikipedia.org/wiki/Nate_Mendel" }
+    ],
+    "sensational-space-shifters": [
+      { "label": "乐队现场与器材介绍", "url": "https://www.premierguitar.com/robert-plant-and-the-sensational-space-shifters" },
+      { "label": "Robert Plant时期资料", "url": "https://en.wikipedia.org/wiki/Robert_Plant" }
+    ],
+    "ロケットマン": [
+      { "label": "日本Columbia官方简介", "url": "https://columbia.jp/artist-info/rocketman/prof.html" },
+      { "label": "ふかわりょう音乐制作访谈", "url": "https://plugplus.rittor-music.co.jp/learning/interview/rocketman/" }
+    ],
+    "13-13": [
+      { "label": "Lydia Lunch官方Bandcamp版本说明", "url": "https://lydialunch.bandcamp.com/album/1313" },
+      { "label": "《13.13》作品资料", "url": "https://en.wikipedia.org/wiki/13.13" }
+    ],
+    "on-a-friday": [
+      { "label": "Abingdon School校史资料", "url": "https://archives.abingdon.org.uk/content/uncategorized/radiohead" },
+      { "label": "Radiohead成团资料", "url": "https://en.wikipedia.org/wiki/Radiohead" }
+    ],
+    "live-lounge-allstars": [
+      { "label": "Sony Music UK慈善单曲公告", "url": "https://www.sonymusic.co.uk/bbc-radio-1s-live-lounge-allstars-single-times-like-these-hits-no-1-in-the-uk-chart/" }
+    ],
+    "crydajam": [
+      { "label": "MusicBrainz单曲资料", "url": "https://musicbrainz.org/release/78f0c469-ba5c-476f-9008-e30c5e5456d2" },
+      { "label": "Crydamoure厂牌回顾", "url": "https://buttondown.com/Linenoise/archive/crydamoure-painting-a-filter-house-smile-on-the/" }
+    ],
+    "xavier": [
+      { "label": "Xavier与chelmico合作报道", "url": "https://lp.p.pia.jp/article/news/198250/index.html" }
+    ],
+    "jazz-iz-christ": [
+      { "label": "Serj Tankian官方网站项目介绍", "url": "https://serjtankian.com/pages/jazz-iz-christ" },
+      { "label": "Jazz-Iz-Christ资料", "url": "https://en.wikipedia.org/wiki/Jazz-Iz-Christ" }
+    ],
+    "los-unidades": [
+      { "label": "Coldplay官方网站EP公告", "url": "https://www.coldplay.com/chris-curates-new-global-citizen-ep-1/" },
+      { "label": "Global Citizen EP 1项目页", "url": "https://www.globalcitizen.org/es/projects/global-citizen-ep-1/" }
+    ],
+    "mosquito": [
+      { "label": "Jad Fair作品目录", "url": "https://www.underwaternow.com/ihearstrangemusic/bands/jadfair.htm" },
+      { "label": "《U.F.O. Catcher》发行介绍", "url": "https://boomkat.com/products/u-f-o-catcher" }
+    ],
+    "jomoro": [
+      { "label": "Sony Music官方项目介绍", "url": "https://www.sonymusic.ca/press_release/joey-waronker-mauro-refosco-are-jomoro-debut-album-blue-marble-sky-out-june-4-via-sony-music-masterworks" },
+      { "label": "Echoes访谈介绍", "url": "https://echoes.org/2021/07/30/echoes-podcast-jomoro-percussion-duo/" }
+    ],
+    "nearly": [
+      { "label": "nearLY官方Bandcamp", "url": "https://nearly.bandcamp.com/" },
+      { "label": "Jerome Dillon作品资料", "url": "https://www.allmusic.com/artist/jerome-dillon-mn0001791541" }
+    ],
+    "scars-borough": [
+      { "label": "Scars Borough乐队简介", "url": "https://iflyer.tv/en/ScarsBorough/" },
+      { "label": "Tower Records结成报道", "url": "https://www.lc.tower.jp/article/news/2009/01/29/100017095" }
+    ],
+    "clinton": [
+      { "label": "Clinton专辑与成员资料", "url": "https://www.metacritic.com/music/disco-and-the-half-way-to-discontent/clinton" },
+      { "label": "Clinton同期专访", "url": "https://www.metroactive.com/papers/cruz/01.26.00/clinton-0004.html" }
+    ],
+    "orcutt-shelley-miller": [
+      { "label": "乐队官方Bandcamp与唱片资料", "url": "https://orcuttshelleymiller.bandcamp.com/album/orcutt-shelley-miller" },
+      { "label": "Pitchfork专辑评论", "url": "https://pitchfork.com/reviews/albums/orcutt-shelley-miller-orcutt-shelley-miller/" }
+    ],
+    "anatakikou": [
+      { "label": "Victor Entertainment专辑介绍", "url": "https://www.jvcmusic.co.jp/-/Discography/A019423/VICB-60001.html" },
+      { "label": "Tower Records乐队访谈", "url": "https://tower.jp/article/interview/2005/01/20/100039342" }
+    ],
+    "amboog-a-lard": [
+      { "label": "Jeordie White个人履历", "url": "https://www.basetendencies.com/Biography.html" },
+      { "label": "Metal Archives专辑资料", "url": "https://www.metal-archives.com/albums/Amboog-a-Lard/A_New_Hope/600877" }
+    ],
+    "wolfmanhattan-project": [
+      { "label": "Forced Exposure乐队与唱片介绍", "url": "https://www.forcedexposure.com/Artists/WOLFMANHATTAN.PROJECT.html" }
+    ],
+    "mick-fleetwood-and-friends": [
+      { "label": "Peter Green致敬演出官方网站", "url": "https://mickfleetwoodandfriends.com/" }
+    ],
+    "賽": [
+      { "label": "TAIHEI与賽专访", "url": "https://spice.eplus.jp/articles/324355" }
+    ],
+    "puppies": [
+      { "label": "Christopher McGuire履历与作品", "url": "https://en.wikipedia.org/wiki/Christopher_McGuire" },
+      { "label": "Puppies唱片目录", "url": "https://music.apple.com/us/artist/puppies/251289375" }
+    ],
+    "axiom-funk": [
+      { "label": "Bill Laswell官方Bandcamp专辑页", "url": "https://billlaswell.bandcamp.com/album/funkcronomicon" },
+      { "label": "AllMusic项目与专辑介绍", "url": "https://www.allmusic.com/album/funkcronomicon-mw0000177082" }
+    ],
+    "electric-wave-bureau": [
+      { "label": "《Broken》官方媒体资料", "url": "https://filmmovement.com/userFiles/uploads/films/broken/broken_presskit.pdf" },
+      { "label": "《Broken》配乐资料", "url": "https://www.imdb.com/title/tt1441940/soundtrack/" }
+    ],
+    "the-heavy-seas": [
+      { "label": "NME乐队命名报道", "url": "https://www.nme.com/news/music/damon-albarn-61-1230960" },
+      { "label": "Royal Albert Hall现场专辑资料", "url": "https://en.wikipedia.org/wiki/Live_at_the_De_De_De_Der" }
+    ],
+    "the-stars": [
+      { "label": "Pedal Records官方重制版资料", "url": "https://pedalrecords.bandcamp.com/album/perfect-place-to-hideaway-2024-remastered" },
+      { "label": "Tower Records乐队访谈", "url": "https://tower.jp/article/interview/2005/12/08/100039754" }
+    ],
+    "qubit": [
+      { "label": "Sony Music Artists官方介绍", "url": "https://www.sma.co.jp/s/sma/news/detail/104287" }
+    ],
+    "tin-pan": [
+      { "label": "林立夫官方履历", "url": "https://tone.jp/musicians/tatsuo-hayashi" },
+      { "label": "Fender鈴木茂访谈", "url": "https://fendernews.jp/cover-2020-shigeru-suzuki-b/" }
+    ],
+    "hankshaw": [
+      { "label": "Hankshaw官方Bandcamp与乐队历史", "url": "https://hankshaw.bandcamp.com/album/nothing-personal" },
+      { "label": "重制版专辑回顾", "url": "https://www.punkrocktheory.com/music_reviews/hankshaw-nothing-personalsomething-personal" }
+    ],
+    "ourself-beside-me": [
+      { "label": "兵马司官方乐队介绍", "url": "https://www.maybemars.com/artists/ourself-beside-me/" }
+    ],
+    "the-john-doe-thing": [
+      { "label": "Los Angeles Times同期专访", "url": "https://www.latimes.com/archives/la-xpm-1995-10-27-ca-61946-story.html" },
+      { "label": "《Freedom Is...》资料与评论", "url": "https://www.allmusic.com/album/freedom-is-mw0000447031" }
+    ],
+    "decays": [
+      { "label": "Dreamusic官方乐队简介", "url": "https://dreamusic.co.jp/artist/decays/profile/" }
+    ],
+    "浅井健一-the-interchange-kills": [
+      { "label": "Oricon《METEO》与阵容资料", "url": "https://www.oricon.co.jp/prof/681532/products/1215815/1/" }
+    ],
+    "shin-e": [
+      { "label": "JazzTimes《Heaven and Hell》评论", "url": "https://www.jazztimes.com/archives/shine-heaven-and-hell/" },
+      { "label": "AllMusic专辑与人员资料", "url": "https://www.allmusic.com/album/heaven-and-hell-mw0000328212" }
+    ],
+    "julia-hart": [
+      { "label": "Bugs艺人履历与唱片目录", "url": "https://music.bugs.co.kr/artist/32602" },
+      { "label": "Bugs首张专辑介绍", "url": "https://music.bugs.co.kr/album/22842" }
+    ],
+    "the-coolies": [
+      { "label": "The Coolies三人访谈", "url": "https://preludepress.com/interviews/2019/07/19/interview-with-the-coolies/" },
+      { "label": "慈善EP发行回顾", "url": "https://bigtakeover.com/recordings/TheCooliesUhOhItsTheCooliesWickedCoolRecords" }
+    ],
+    "deathfix": [
+      { "label": "Dischord官方乐队介绍", "url": "https://dischord.com/band/deathfix" },
+      { "label": "Pitchfork同名专辑评论", "url": "https://pitchfork.com/reviews/albums/17809-deathfix-deathfix/" }
+    ],
+    "spasm": [
+      { "label": "AllMusic《Smear》资料", "url": "https://www.allmusic.com/album/smear-mw0000665109" },
+      { "label": "Curse Mackey同期访谈", "url": "https://sonic-boom.com/interview/evil.mothers-1.interview.html" }
+    ],
+    "look-outside-your-window": [
+      { "label": "项目发行与创作历史", "url": "https://www.loudersound.com/bands-artists/long-awaited-slipknot-project-look-outside-your-window-is-finally-being-released" },
+      { "label": "NME正式发行报道", "url": "https://www.nme.com/news/music/full-release-announced-for-slipknots-look-outside-your-window-3946064" }
+    ],
+    "thee-shatners": [
+      { "label": "MusicBrainz艺人与发行资料", "url": "https://musicbrainz.org/artist/4245d894-85af-4ee8-820e-9e46a52d899e" },
+      { "label": "John Kiffmeyer项目履历", "url": "https://en.wikipedia.org/wiki/John_Kiffmeyer" }
+    ],
+    "white": [
+      { "label": "兵马司官方乐队介绍", "url": "https://www.maybemars.com/artists/white/" },
+      { "label": "张守望访谈", "url": "https://www.smartshanghai.com/articles/community/culture-bureau-zhang-shouwang" }
+    ],
+    "peligro": [
+      { "label": "D.H. Peligro履历", "url": "https://en.wikipedia.org/wiki/D._H._Peligro" },
+      { "label": "1995年同名专辑评论", "url": "https://lollipopmagazine.com/1995/07/peligro-review/" }
+    ],
+    "mark-knopfler-s-guitar-heroes": [
+      { "label": "Mark Knopfler官方网站项目公告", "url": "https://www.markknopfler.com/news/mark-knopflers-guitar-heroes/" }
+    ],
+    "all-scars": [
+      { "label": "All Scars官方Bandcamp与创作原则", "url": "https://allscars.bandcamp.com/" },
+      { "label": "AllMusic乐队介绍", "url": "https://www.allmusic.com/artist/the-all-scars-mn0000742385" }
+    ],
+    "the-gaddabouts": [
+      { "label": "Steve Gadd官方网站乐队介绍", "url": "https://www.drstevegadd.com/the-gaddabouts" }
+    ],
+    "the-beards": [
+      { "label": "Kim Shattuck项目履历", "url": "https://en.wikipedia.org/wiki/Kim_Shattuck" },
+      { "label": "《Funtown》发行资料", "url": "https://music.amazon.fr/albums/B00777JUP0" }
+    ],
+    "sloth-love-chunks": [
+      { "label": "Tower Records乐队与专辑介绍", "url": "https://tower.jp/article/news/2005/12/06/100006283" },
+      { "label": "乐队同期访谈", "url": "https://tower.jp/article/interview/2006/03/09/100039813" }
+    ],
+    "seymour": [
+      { "label": "Blur成团历史", "url": "https://en.wikipedia.org/wiki/Blur_(band)" }
+    ],
+    "a-n-jell": [
+      { "label": "SBS《原来是美男》官方网站", "url": "https://programs.sbs.co.kr/drama/angell/main" },
+      { "label": "剧集与虚构乐队资料", "url": "https://en.wikipedia.org/wiki/You%27re_Beautiful_(TV_series)" }
+    ],
+    "橋本絵莉子波多野裕文": [
+      { "label": "二人项目官方网站", "url": "https://www.yabaiojisan.com/sp/" },
+      { "label": "Tower Records专辑介绍", "url": "https://tower.jp/item/4496601" }
+    ],
+    "lord-sutch-heavy-friends": [
+      { "label": "Record Collector专辑与阵容回顾", "url": "https://recordcollectormag.com/articles/sutchs-life" },
+      { "label": "AllMusic专辑资料", "url": "https://www.allmusic.com/album/lord-sutch-and-heavy-friends-mw0000459757" }
+    ],
+    "krautzone": [
+      { "label": "Krautzone官方Bandcamp", "url": "https://krautzone.bandcamp.com/" }
+    ],
+    "hawk": [
+      { "label": "MusicBrainz乐队与发行资料", "url": "https://musicbrainz.org/artist/3eccd071-157b-4776-afd3-4c6f82cc8036" }
+    ],
+    "gibkiy-gibkiy-gibkiy": [
+      { "label": "MusicBrainz乐队与发行资料", "url": "https://musicbrainz.org/artist/fe2385a7-5dda-4e67-845b-f09783805b44" }
+    ],
+    "combative-post": [
+      { "label": "MusicBrainz乐队与发行资料", "url": "https://musicbrainz.org/artist/74cebc28-457d-4a02-b734-e888087ebc12" }
+    ],
+    "asoto-union": [
+      { "label": "KBS WORLD专辑介绍", "url": "https://world.kbs.co.kr/service/contents_view.htm?board_seq=391209&id=&lang=j&menu_cate=music&page=1" },
+      { "label": "专辑发行与声音介绍", "url": "https://m.yes24.com/Goods/Detail/412700" }
+    ],
+    "original-silence": [
+      { "label": "Pitchfork首张现场专辑与阵容回顾", "url": "https://pitchfork.com/reviews/albums/10145-the-first-original-silence/" },
+      { "label": "Mats Gustafsson谈项目起源与演出方式", "url": "https://pennyblackmusic.co.uk/Home/Details?id=14756" }
+    ],
+    "ibex": [
+      { "label": "Queen Vault乐队阵容与现场资料", "url": "https://www.queenvault.com/ibex.html" },
+      { "label": "Queen Vault改名Wreckage资料", "url": "https://www.queenvault.com/Wreckage/" }
+    ],
+    "eiko-ishibashi-trio": [
+      { "label": "石桥英子艺人履历与三重奏专辑资料", "url": "https://open.spotify.com/artist/0E2zPwLuNlSFdSI5wmqox7" },
+      { "label": "AllMusic石桥英子作品履历", "url": "https://www.allmusic.com/artist/eiko-ishibashi-mn0002804441" }
+    ],
+    "projekct-six": [
+      { "label": "ProjeKcts阵容与发行资料", "url": "https://en.wikipedia.org/wiki/ProjeKcts" }
+    ],
+    "da-mongoloids": [
+      { "label": "《Spark da Meth》发行与创作资料", "url": "https://www.shazam.com/song/1437605724/spark-da-meth-bid-beats" },
+      { "label": "DJ Sneak访谈中的Da Mongoloids成员回顾", "url": "https://www.insomniac.com/music/dj-sneak-all-over-my-face/" }
+    ],
+    "vicky-cryer": [
+      { "label": "San Diego Reader乐队成员资料", "url": "https://www.sandiegoreader.com/bands/vicky-cryer/" },
+      { "label": "AllMusic首张专辑评论", "url": "https://www.allmusic.com/album/the-synthetic-love-of-emotional-engineering-mw0002493210" }
+    ],
+    "1984": [
+      { "label": "Christie’s早期录音、阵容与曲目说明", "url": "https://www.christies.com/lot/lot-654806" },
+      { "label": "Brian May官网Tim Staffell访谈", "url": "https://brianmay.com/queen-news/2021/06/on-the-spot-tim-staffell/" }
+    ],
+    "lee-curtis-the-all-stars": [
+      { "label": "Pete Best官方网站1962至1963年履历", "url": "https://www.petebest.com/biography-1960/" },
+      { "label": "Apple Music乐队简介与发行历史", "url": "https://music.apple.com/us/artist/lee-curtis-the-all-stars/700057872" }
+    ],
+    "limbomaniacs": [
+      { "label": "Limbomaniacs阵容与专辑资料", "url": "https://de.wikipedia.org/wiki/Limbomaniacs" },
+      { "label": "TheAudioDB乐队历史", "url": "https://www.theaudiodb.com/artist/134532-Limbomaniacs" }
+    ],
+    "s-m-n": [
+      { "label": "S.M.N.官方网站履历", "url": "https://www.smnjp.com/biography" },
+      { "label": "A-FILES乐队访谈", "url": "https://a-files.jp/s-m-n-interview.html?PageSpeed=noscript" }
+    ],
+    "mantra-of-the-cosmos": [
+      { "label": "Mantra of the Cosmos官方网站成员与项目起源", "url": "https://www.mantraofthecosmos.com/pages/abouttheband" },
+      { "label": "NME成团访谈与首批单曲资料", "url": "https://www.nme.com/news/music/shaun-ryder-and-zak-starkey-on-mantra-of-the-cosmos-do-you-know-what-a-supergroup-means-four-guys-having-a-wank-3480446" }
+    ],
+    "elements-of-life": [
+      { "label": "DJ Mag Louie Vega专访与乐队形成史", "url": "https://djmag.com/features/louie-vega-masters-at-work-nuyorican-soul-interview" },
+      { "label": "AllMusic《Elements of Life》专辑与演奏人员资料", "url": "https://www.allmusic.com/album/elements-of-life-mw0000696176" }
+    ],
+    "caught-on-tape": [
+      { "label": "Feeding Tube首张现场唱片介绍", "url": "https://www.forcedexposure.com/Catalog/thurston-moore-john-moloney-caught-on-tape-lp/FTR.092LP.html" },
+      { "label": "Pitchfork《Full Bleed》发行报道", "url": "https://pitchfork.com/news/56414-thurston-moore-calls-black-metal-music-made-by-pussies-of-the-lowest-order/" }
+    ],
+    "windy-city": [
+      { "label": "KBS WORLD乐队阵容与首专介绍", "url": "https://world.kbs.co.kr/service/contents_view.htm?board_code=music_artist&board_seq=233237&menu_cate=artist&page=97" },
+      { "label": "韩国reggae发展与Windy City访谈", "url": "https://jamaicansmusic.com/news/meet-korean-reggae-pioneers-windy-city/" }
+    ],
+    "the-silver-beatles": [
+      { "label": "The Beatles Story团名与1960年活动史", "url": "https://www.beatlesstory.com/blog/the-beatles-name/" },
+      { "label": "The Beatles Story早期选拔与Billy Fury资料", "url": "https://www.beatlesstory.com/blog/billy-fury-and-the-beatles/" }
+    ],
+    "digital-noise-academy": [
+      { "label": "Digital Noise Academy官方Bandcamp成员资料", "url": "https://digitalnoiseacademy.bandcamp.com/" },
+      { "label": "《Synemy》发行与远程合作介绍", "url": "https://music.mxdwn.com/2013/06/12/news/digital-noise-academys-new-album-synemy-is-available-now/" }
+    ],
+    "l-s-d": [
+      { "label": "Maximum Rocknroll同期唱片评论档案", "url": "https://www.maximumrocknroll.com/band/lsd/" },
+      { "label": "《Jast Last》版本与畜生伴奏资料", "url": "https://timebomb.co.jp/products/510202561056pm2l" }
+    ],
+    "the-special-assembly": [
+      { "label": "《Hurry Up England》发行与榜单资料", "url": "https://en.wikipedia.org/wiki/Hurry_Up_England" },
+      { "label": "TheAudioDB项目阵容资料", "url": "https://www.theaudiodb.com/artist/154984-The-Special-Assembly" }
+    ],
+    "rory-storm-and-the-hurricanes": [
+      { "label": "AllMusic乐队形成与阵容简介", "url": "https://www.allmusic.com/artist/rory-storm-the-hurricanes-mn0001385081" },
+      { "label": "Beatles Liverpool关于Ringo与Hurricanes的历史", "url": "https://www.beatlesliverpool.info/ringo-starr-sentimental-journey/" }
+    ],
+    "cyril-davies-his-rhythm-blues-all-stars": [
+      { "label": "Cyril Davies生平与All-Stars录音史", "url": "https://www.allaboutbluesmusic.com/cyril-davies/" },
+      { "label": "Earlyblues英国蓝调人物史", "url": "https://earlyblues.org/british-blues-biographies-cyril-davies/" }
+    ],
+    "gorgone": [
+      { "label": "Travis Dickerson官方网站项目说明", "url": "https://travisdickerson.com/travis.html" },
+      { "label": "TDRS官方Bandcamp阵容与曲目", "url": "https://tdrsmusic.bandcamp.com/album/gorgone" }
+    ],
+    "swarm-s-arm": [
+      { "label": "OTOTOY乐队历史与《3285D》介绍", "url": "https://ototoy.jp/newreleases/20150528" },
+      { "label": "Tower Records成员项目回顾", "url": "https://tower.jp/article/interview/2011/07/28/80525/80529" }
+    ],
+    "spiky-brothers": [
+      { "label": "山中英俊个人网站乐队履历", "url": "https://www3.hp-ez.com/hp/yamanakahidetoshi/page7" },
+      { "label": "2000年兄弟二人现场记录", "url": "https://chinacafe.hatenablog.com/entry/20000621/p1" }
+    ],
+    "봉제인간": [
+      { "label": "纽西斯首张专辑、成员与歌曲介绍", "url": "https://www.newsis.com/view/NISX20231003_0002470022" }
+    ],
+    "gordon-gano-the-ryans": [
+      { "label": "Yep Roc官方成团与写作历史", "url": "https://www.yeproc.com/artists/gordon-gano-the-ryans/" },
+      { "label": "《Under the Sun》同期评论", "url": "https://boingboing.net/2009/07/07/under-the-sun-gordon.html" }
+    ],
+    "steady-earnest": [
+      { "label": "乐队阵容与《Out of Line》历史", "url": "https://www.fishpond.com.au/Music/Out-of-Line-Steady-Earnest/0029303200924" },
+      { "label": "Shazam乐队与发行简介", "url": "https://www.shazam.com/artist/steady-earnest/78440653" }
+    ],
+    "jesus-fever": [
+      { "label": "OTOTOY乐队历史与《lemniscate 1》专访", "url": "https://ototoy.jp/feature/20100429" }
+    ],
+    "sticky-blood": [
+      { "label": "Wonderland二人组访谈与《I.D.》介绍", "url": "https://www.wonderlandmagazine.com/2015/08/12/new-noise-sticky-blood/" },
+      { "label": "首张EP先行曲与成员资料", "url": "https://diffuser.fm/listen-to-former-arctic-monkeys-bassist-andy-nicholsons-new-sticky-blood-song-professional/" }
+    ],
+    "the-pete-best-four": [
+      { "label": "AllMusic Pete Best与四人组历史", "url": "https://www.allmusic.com/artist/pete-best-mn0000312692" },
+      { "label": "Pete Best官方网站1960年代履历", "url": "https://www.petebest.com/biography-1960/" }
+    ],
+    "diskaholics-anonymous-trio": [
+      { "label": "Mats Gustafsson官方Bandcamp阵容与录音资料", "url": "https://gustafsson1.bandcamp.com/album/diskaholics-anonymous-trio" },
+      { "label": "Pitchfork《Weapons of Ass Destruction》评论", "url": "https://pitchfork.com/reviews/albums/11726-weapons-of-ass-destruction-live-in-japan-v1/" }
+    ],
+    "13steps": [{ "label": "Bugs首专与成团资料", "url": "https://music.bugs.co.kr/album/8020912" }, { "label": "Bugs《Existence》介绍", "url": "https://music.bugs.co.kr/album/195963" }],
+    "exovex": [{ "label": "《Radio Silence》阵容与专辑评论", "url": "https://www.progwereld.org/recensie/exovex-radio-silence/" }],
+    "parlour-flames": [{ "label": "NME成团与专辑报道", "url": "https://www.nme.com/news/music/oasis-126-1255490" }],
+    "the-crawling-king-snakes": [{ "label": "Phil Collins录音档案", "url": "https://www.genesis-news.com/article/phil-collins-recording-compendium-part-5-1984-1987/" }],
+    "the-pete-best-combo": [{ "label": "Pete Best官方网站履历", "url": "https://www.petebest.com/biography-1960/" }, { "label": "AllMusic合辑资料", "url": "https://www.allmusic.com/album/beyond-the-beatles-1964-1966-mw0000189657" }],
+    "glacial": [{ "label": "Tony Buck官方项目介绍", "url": "https://tony-buck.com/glacial/" }, { "label": "Pitchfork专辑评论", "url": "https://pitchfork.com/reviews/albums/16895-on-jones-beach/" }],
+    "cowboys-in-the-campfire": [{ "label": "Tommy Stinson官方网站项目回顾", "url": "https://www.tommystinson.com/illinois-entertainer/" }, { "label": "Forbes二人组访谈", "url": "https://www.forbes.com/sites/jimryan1/2023/06/08/tommy-stinson-on-cowboys-in-the-campfire-debut-economic-benefit-of-unconventional-touring/" }],
+    "droop": [{ "label": "Droop乐队与唱片资料", "url": "https://www.sputnikmusic.com/bands/Droop/48191/" }, { "label": "西浦真奈履历", "url": "https://en.wikipedia.org/wiki/Mana_Nishiura" }],
+    "tailgunner": [{ "label": "The Guardian同期乐队评论", "url": "https://www.theguardian.com/culture/2000/sep/22/artsfeatures1" }, { "label": "NME首演报道", "url": "https://www.nme.com/news/music/tailgunner-1394590" }],
+    "gonervill": [{ "label": "Qobuz阵容与专辑介绍", "url": "https://www.qobuz.com/ca-en/album/gonervill-gonervill/h3aw2jhf9qhew" }],
+    "emptyorio": [{ "label": "火氣音樂官方乐队介绍", "url": "https://www.fireonmusic.com.tw/emptyorio/" }],
+    "i-and-i-djangdan": [{ "label": "Bugs艺人履历", "url": "https://music.bugs.co.kr/artist/80045680" }, { "label": "Bugs《Guidance》专辑与阵容介绍", "url": "https://music.bugs.co.kr/album/225051" }],
+    "bonjintan": [{ "label": "JazzMessengers《Dental Kafka》阵容与录音介绍", "url": "https://www.jazzmessengers.com/en/83304/bonjintan/dentalkafka" }],
+    "xtra-large": [{ "label": "Warren Fitzgerald乐队履历", "url": "https://en.wikipedia.org/wiki/Warren_Fitzgerald" }],
+    "raw-dog": [{ "label": "Raw Dog录音与成员线索", "url": "https://www.reddit.com/r/industrialmusic/comments/1s3lfno/raw_dog_raw_dog/" }, { "label": "Dave Ogilvie制作人与合作履历", "url": "https://en.wikipedia.org/wiki/Dave_Ogilvie" }],
+    "harvey-s-rabbit": [{ "label": "The Harveys官方厂牌历史与发行资料", "url": "https://germanshepherdrecords.wordpress.com/artists/the-harveys/" }, { "label": "John Peel session与早期活动回顾", "url": "https://festive50.wordpress.com/2009/01/25/five-bunny-hops/" }],
+    "artists-united-for-nature": [{ "label": "Chaka Khan官网《Yes We Can》演出名单", "url": "https://chakakhanmusicwebsite.com/discography/yes-we-can-remix/" }, { "label": "项目发起与环保筹款背景", "url": "https://www.musikansich.de/review.php?id=16844" }],
+    "emperor": [{ "label": "日本地下金属演出与成员资料", "url": "https://plaza.rakuten.co.jp/japameta/diary/202208070007/" }, { "label": "高井寿履历与Emperor demo资料", "url": "https://www.metal-archives.com/artists/Hisashi_Takai/36473" }],
+    "wreckage": [{ "label": "QueenVault Wreckage历史与录音资料", "url": "https://www.queenvault.com/Wreckage/" }, { "label": "Queen官方站Wreckage历史专题", "url": "https://www.queenonline.com/features/a-mystery-in-the-wreckage-fan-feature-by-patrick-lemieux" }],
+    "rockestra": [{ "label": "Paul McCartney Project 1979年音乐会与阵容", "url": "https://www.the-paulmccartney-project.com/concert/1979-12-29/" }, { "label": "《Rockestra Theme》录音资料", "url": "https://en.wikipedia.org/wiki/Rockestra_Theme" }],
+    "no-forcefield": [{ "label": "No Forcefield成员、现场与唱片资料汇编", "url": "https://www.thespentpoets.com/No_Forcefield.html" }, { "label": "AllMusic《God Is an Excuse》发行资料", "url": "https://www.allmusic.com/album/release/god-is-an-excuse-mr0000281784" }],
+    "before-cars": [{ "label": "Seattle Weekly对Chad Channing与《Walk Back》的报道", "url": "https://www.seattleweekly.com/music/chad-channing-center-and-his-band-before-cars-play-lounge-acts-a/" }, { "label": "Chad Channing访谈与乐队沿革", "url": "https://www.goldenplec.com/chad-channing-interview/" }],
+    "oh-no-fiasco": [{ "label": "乐队访谈与成团、曲风资料", "url": "https://www.davesontour.com/fiveanddime/ohnofiasco.html" }, { "label": "《No One’s Gotta Know》同期评论", "url": "https://thecatalystnews.com/2013/10/04/oh-no-fiasco/" }],
+    "anthym": [{ "label": "Guitar World早期demo、成员与改名历史", "url": "https://www.guitarworld.com/news/alain-johannes-anthym" }, { "label": "Jack Irons访谈与校内比赛历史", "url": "https://drummagazine.com/jack-irons-alt-rock-anti-hero/" }],
+    "minibus-pimps": [{ "label": "《Cloud to Ground》官方页面、阵容与制作说明", "url": "https://minibuspimps.bandcamp.com/album/cloud-to-ground" }, { "label": "Pitchfork专辑发布报道", "url": "https://pitchfork.com/news/53571-led-zeppelins-john-paul-jones-and-deathprod-are-minibus-pimps-announce-cloud-to-ground/" }],
+    "ti-ti-uu": [{ "label": "音楽ナタリー首张CD与巡演报道", "url": "https://natalie.mu/music/news/168518" }, { "label": "Billboard Japan《door》与TK录音报道", "url": "https://www.billboard-japan.com/artists/detail/195190" }],
+    "kafka-s-ibiki": [{ "label": "The Japan Times三重奏访谈与《Nemutte》制作解析", "url": "https://www.japantimes.co.jp/culture/2016/10/09/music/hive-sonic-activity-stirs-kafkas-ibiki-release/" }],
+    "loser": [{ "label": "MusicBrainz《Bek’s a Loser》曲目与署名资料", "url": "https://musicbrainz.org/release/59910868-0ffc-4321-874b-d6b5fd5c7685" }],
+    "p-s-p": [{ "label": "Philippe Saisse官网P.S.P.阵容与曲风介绍", "url": "https://philippesaisse.com/music" }, { "label": "New Morning演出与成团资料", "url": "https://www.newmorning.com/20110324-136-p-s-p-.html" }],
+    "socialybrium": [{ "label": "Jambands《For You – For Us – For All》乐评与完整阵容", "url": "https://jambands.com/reviews/cds/2010/02/01/socialybrum-for-you-for-us-for-all/" }],
+    "wirebox": [{ "label": "Apple Music《Prison Cell》发行与曲目资料", "url": "https://music.apple.com/us/album/prison-cell/53451161" }],
+    "muddy-apes": [{ "label": "Warner Music Japan官方阵容与乐队履历", "url": "https://wmg.jp/muddy-apes/profile/" }, { "label": "Skream!成员访谈与成团经过", "url": "https://skream.jp/interview/2013/06/muddy_apes.php" }],
+    "gerry-levene-the-avengers": [{ "label": "John Bonham早期乐队履历", "url": "https://en.wikipedia.org/wiki/John_Bonham" }, { "label": "1963年Record Mirror同期报道", "url": "https://www.worldradiohistory.com/UK/Record-Mirror/60s/63/Record-Mirror-1963-06-08-S-OCR.pdf" }],
+    "col-parker": [{ "label": "Phoenix New Times专辑评论与完整阵容", "url": "https://www.phoenixnewtimes.com/music/col-parker-6413806/" }, { "label": "Modern Drummer对Slim Jim Phantom与Col. Parker的报道", "url": "https://www.moderndrummer.com/2004/05/slim-jim-phantom/" }],
+    "marimari-rythmkiller-machinegun": [{ "label": "CDJournal乐队阵容与出道履历", "url": "https://artist.cdjournal.com/a/marimari-rhythmkiller-machinegun/131065" }],
+    "铁风筝": [{ "label": "新浪2002年首专与乐队历史报道", "url": "https://ent.sina.com.cn/p/i/2002-06-19/88007.html" }, { "label": "乐队网成团与唱片资料", "url": "https://bandchina.com/portal/article/index.html?cid=8&id=684" }],
+    "3rensa": [{ "label": "音楽ナタリー成员、分工与《REDRUM》制作报道", "url": "https://natalie.mu/music/news/300613" }, { "label": "Koji Nakamura官网《REDRUM》版本说明", "url": "https://kojinakamura.jp/works-cat/analog-record/" }],
+    "絕命青年": [{ "label": "火氣音樂乐队命名、迁移与首专专访", "url": "https://www.fireonmusic.com.tw/2512/" }, { "label": "cacao成员与创作访谈", "url": "https://cacaomag.co/running-youth/" }],
+    "casablanca": [{ "label": "山中さわお官网首专与阵容资料", "url": "https://yamanakasawao.com/y/discography/casablanca-another-story" }, { "label": "ぴあ成团与无贝斯编制报道", "url": "https://ure.pia.co.jp/articles/-/61094" }],
+    "京阪girl": [{ "label": "Tower Records《京阪ロック》发行与曲目资料", "url": "https://tower.jp/item/933883" }, { "label": "组合身份、解散与重聚回顾", "url": "https://newnikki20.hatenablog.com/entry/2024/03/18/110346" }],
+    "blackbird-angels": [{ "label": "Frontiers官方成团背景、阵容与首专资料", "url": "https://www.frontiers.it/news/11541" }, { "label": "Tracii Guns访谈中的创作定位", "url": "https://www.classicrockhistory.com/tracii-guns-of-l-a-guns-the-classicrockhistory-com-interview/" }],
+    "a-n-eɪ-ɛn": [{ "label": "A/N官方网站阵容、理念与成团经过", "url": "https://arashuiandanonno.com/profile.html" }, { "label": "Tower Records两张《素描集》发行资料", "url": "https://tower.jp/artist/2719410" }],
+    "da-googie": [{ "label": "Debbie Googe个人项目与首专资料", "url": "https://en.wikipedia.org/wiki/Debbie_Googe" }],
+    "pipiband": [{ "label": "京乡新闻《문화혁명》历史评论与阵容", "url": "https://www.khan.co.kr/article/200802281723465" }, { "label": "Yes24韩国朋克史专文", "url": "https://ch.yes24.com/article/details/16443" }],
+    "seraph": [{ "label": "SERAPH官方网站阵容、作品与活动年表", "url": "https://seraph-official.com/" }, { "label": "音楽ナタリー二人组公开报道", "url": "https://natalie.mu/music/news/231473" }],
+    "lords-of-flatbush": [{ "label": "乐队成员访谈与2007年成团资料", "url": "https://liamronan.wordpress.com/2008-2/lords-of-flatbush/" }, { "label": "Apple Music《24 Hours》混音发行资料", "url": "https://music.apple.com/gb/artist/lords-of-flatbush/284970263" }],
+    "speak-chinese-or-die": [{ "label": "武汉S.C.O.D.首作与曲风资料", "url": "https://punx.exblog.jp/26363784/" }, { "label": "张守望同名实验组合访谈，用于区分身份", "url": "https://www.smartshanghai.com/articles/community/culture-bureau-zhang-shouwang" }],
+    "the-madcap-laughs": [{ "label": "BARKS三人阵容与现场报道", "url": "https://barks.jp/news/858885" }, { "label": "Sakura乐队履历", "url": "https://en.wikipedia.org/wiki/Sakura_(musician)" }],
+    "the-ne-er-do-wells": [{ "label": "Old Thumb Records官方成员、活动与唱片历史", "url": "https://www.oldthumbrecords.com/the-neer-do-wells" }, { "label": "Lookout!唱片目录", "url": "https://www.45cat.com/label/lookout" }],
+    "phoneys-the-freaks": [{ "label": "同名EP评论、成员与声音介绍", "url": "https://www.gigslutz.co.uk/album-review-phoneys-freaks-phoneys-freaks-ep/" }, { "label": "Alex Lipinski访谈与项目履历", "url": "https://hifiplus.com/articles/music-interview-alex-lipinski/" }],
+    "gunash": [{ "label": "Go Down Records官方乐队履历与Jaffee合作资料", "url": "https://www.godownrecords.com/gunash" }, { "label": "乐队官网《Same Old Nightmare》说明", "url": "https://gunashband.wixsite.com/gunash/store" }],
+    "like-an-angel": [{ "label": "TETSUYA履历与项目成立资料", "url": "https://en.wikipedia.org/wiki/Tetsuya_(musician)" }, { "label": "TETSUYA官网Like-an-Angel新闻档案", "url": "https://www.tetsuya.uk.com/contents/news/like-an-angel" }],
+    "mad-for-the-racket": [{ "label": "AllMusic专辑评论、阵容与分工", "url": "https://www.allmusic.com/album/the-racketeers-mw0000001146" }, { "label": "NME成团及发行同期报道", "url": "https://www.nme.com/news/music/wayne-kramer-2-1385579" }],
+    "crypt-city": [{ "label": "乐队官方Bandcamp首专阵容与曲目", "url": "https://cryptcity.bandcamp.com/album/crypt-city" }],
+    "the-immortals": [{ "label": "《Biggles》原声与《No Turning Back》资料", "url": "https://en.wikipedia.org/wiki/Biggles_(film)" }, { "label": "The Immortals完整阵容与单曲资料", "url": "https://queenfrancefanclub.fr/no-turning-back" }],
+    "サンガツ": [{ "label": "サンガツ官方网站历史、阵容与创作理念", "url": "https://www.sangatsu.com/about/" }],
+    "male-slut": [{ "label": "Two Dollar Guitar履历中的Male Slut合作线索", "url": "https://music.apple.com/ca/artist/two-dollar-guitar/53369187" }, { "label": "2001年Male Slut现场阵容记录", "url": "https://www.reddit.com/r/sonicyouth/comments/fb3ao7" }],
+    "さわおとしおり": [{ "label": "山中さわお官网《Private loophole》阵容与发行资料", "url": "https://yamanakasawao.com/y/discography/private-loophole" }],
+    "the-pancakes": [{ "label": "The Pancakes官方网站现阵容与曲风", "url": "https://www.thepancakes-germany.com/" }, { "label": "乐队长篇访谈、成团与首专历史", "url": "https://www.psychedelicbabymag.com/2020/05/the-pancakes-interview.html" }],
+    "黒猫同盟": [{ "label": "黒猫同盟成团与创作访谈", "url": "https://donutroll.tokyo/wd/20210929_kuroneko.html" }, { "label": "ぴあ首专与2021年启动报道", "url": "https://lp.p.pia.jp/article/news/203155/index.html?detail=true" }],
     "adoy": [
       { "label": "ADOY资料页", "url": "https://en.wikipedia.org/wiki/Adoy" },
       { "label": "KBS WORLD艺人介绍", "url": "https://world.kbs.co.kr/service/contents_view.htm?board_seq=409589&lang=j" }
@@ -66,6 +918,548 @@
     "パーランマウム": [
       { "label": "《琳达！琳达！琳达！》资料", "url": "https://en.wikipedia.org/wiki/Linda_Linda_Linda" },
       { "label": "MusicBrainz发行资料", "url": "https://musicbrainz.org/artist/8d98bc7d-f4aa-492d-8647-6de748a7236a/releases?va=1" }
+    ],
+    "the-everybody": [
+      { "label": "La Dépêche项目重启与《Marooned》制作报道", "url": "https://www.ladepeche.fr/article/2011/11/23/1222703-pixies-joey-santiago-et-david-lovering-reactivent-the-everybody.html" },
+      { "label": "Spill Magazine乐队背景与作品评论", "url": "https://spillmagazine.com/album-review-the-everybody-marooned-demon-oar/" }
+    ],
+    "暮良文王": [
+      { "label": "凤凰文化窦唯合作与音乐风格回顾", "url": "https://culture.ifeng.com/c/7pkgMR2gvxd" },
+      { "label": "Sub Jam中国独立音乐档案", "url": "https://www.subjam.org/wp-content/uploads/2014/12/animal_archives-v1.pdf" }
+    ],
+    "ka-f-ka": [
+      { "label": "音楽ナタリー阵容与首专报道", "url": "https://natalie.mu/music/news/146628" },
+      { "label": "Tower Records《Fantôme Noir》发行资料", "url": "https://tower.jp/item/3860832" }
+    ],
+    "jools-holland-and-his-millionaires": [
+      { "label": "On A&M Records专辑阵容与制作资料", "url": "https://www.onamrecords.com/artists/jools-holland/discography/united-states/i-r-s-records/sp-70602/jools-holland-and-his-millionaires" },
+      { "label": "AllMusic Jools Holland生涯资料", "url": "https://www.allmusic.com/artist/jools-holland-mn0000257274" }
+    ],
+    "鬼-o-n-i": [
+      { "label": "HMV项目唱片资料", "url": "https://www.hmv.co.jp/artist_%E9%AC%BC--O-N-I-_000000000843350/item_Parsly--Sage--Rosemary--and-Thyme_11082788" },
+      { "label": "A/N官网关于鬼O.N.I录音与合作缘起的说明", "url": "https://arashuiandanonno.com/profile.html" }
+    ],
+    "ange-graie": [
+      { "label": "L’Arc-en-Ciel早期成员乐队履历", "url": "https://grassthread.com/larcenciel/" },
+      { "label": "Ange∞Graie限定重组记录", "url": "https://evergreen-xp.sakura.ne.jp/Others/TV_Music/larc/indies.html" }
+    ],
+    "wink-music-service": [
+      { "label": "日本コロムビア官方成员简介", "url": "https://columbia.jp/artist-info/winkmusicservice/prof.html" },
+      { "label": "TuneCore Japan项目沿革与发行资料", "url": "https://www.tunecore.co.jp/artists?id=1038091&lang=en" }
+    ],
+    "小島": [
+      { "label": "小島樂隊第一代阵容与作品资料", "url": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E5%B3%B6%E6%A8%82%E9%9A%8A" },
+      { "label": "香港八十年代乐队潮历史回顾", "url": "https://comebacktolove.blogspot.com/2006/08/" }
+    ],
+    "the-dodgems": [
+      { "label": "Irish Times关于Nick O’Malley转入Arctic Monkeys的报道", "url": "https://www.irishtimes.com/culture/primates-of-all-england-1.1202742" },
+      { "label": "The Dodgems阵容与单曲资料存档", "url": "https://en-academic.com/dic.nsf/enwiki/1155231/" }
+    ],
+    "the-methodists": [
+      { "label": "Chad Channing后Nirvana乐队履历", "url": "https://en.wikipedia.org/wiki/Chad_Channing" },
+      { "label": "Apple Music《Cookie》曲目与发行资料", "url": "https://music.apple.com/us/album/cookie/1783767464" }
+    ],
+    "fear-of-blue": [
+      { "label": "Fear of Blue项目档案与录音沿革", "url": "https://luckyprick.net/bio.php?band=Fear+Of+Blue" },
+      { "label": "Kevin McMahon作品年表", "url": "https://en.wikipedia.org/wiki/Kevin_McMahon_(musician)" }
+    ],
+    "beatbox-金牌一條順": [
+      { "label": "小肥履历中的金牌一條順阵容与录音方式", "url": "https://zh.wikipedia.org/wiki/%E5%B0%8F%E8%82%A5" }
+    ],
+    "zing": [
+      { "label": "音楽ナタリー成立、阵容与制作定位报道", "url": "https://natalie.mu/music/news/246690" }
+    ],
+    "holly-and-the-ivy-s": [
+      { "label": "Pink Floyd Archives单曲与Gilmour客席目录", "url": "https://pinkfloydarchives.com/DUK45ses.htm" },
+      { "label": "Holly and The Ivy’s单曲背景资料", "url": "https://ernienotbert.blogspot.com/2022/12/the-last-saturday-part-26.html?m=0" }
+    ],
+    "a-place-to-kill": [
+      { "label": "A Place to Kill官方网站项目与首作简介", "url": "https://aplacetokill.com/" },
+      { "label": "ThePRP《APTK》发行报道", "url": "https://www.theprp.com/2026/04/04/news/a-place-to-kill-filter-etc-confirm-june-release-date-for-their-debut-ep-aptk/" }
+    ],
+    "numbskulz": [
+      { "label": "Fluke纪念刊中的Andy Conrad与Numbskulz历史", "url": "https://microcosmpublishing.com/catalog/zines/69713" },
+      { "label": "Cal Performances对Colin Brooks早期履历的介绍", "url": "https://calperformances.org/learn/program_notes/2009/pn_zanes.pdf" }
+    ],
+    "大鬼众": [
+      { "label": "Dusty Ballz官方Bandcamp阵容、理念与录音说明", "url": "https://dustyballz.bandcamp.com/album/improvisation-for-dusty-ballz" },
+      { "label": "Apple Music《鬼之冥想》发行资料", "url": "https://music.apple.com/us/album/%E9%AC%BC-%E4%B9%8B-%E5%86%A5-%E6%83%B3/1784171169" }
+    ],
+    "池田高田": [
+      { "label": "Billboard Japan合作企划、分工与歌曲报道", "url": "https://www.billboard-japan.com/d_news/detail/77964/2" }
+    ],
+    "dumb-angel": [
+      { "label": "《Topflite》磁带、成员与录音风格资料", "url": "https://wilfullyobscure.blogspot.com/2016/10/dumb-angel-topflite-tape-1993-generator.html" }
+    ],
+    "the-midwest-vikings": [
+      { "label": "Tower Records《VAMOS TOKYO!》发行与曲风报道", "url": "https://tower.jp/article/news/2005/10/11/100005883" },
+      { "label": "THEE MICHELLE GUN ELEPHANT成员支线资料", "url": "https://en.wikipedia.org/wiki/Thee_Michelle_Gun_Elephant" }
+    ],
+    "キャラメル-ママ": [
+      { "label": "Tower Records成团、改名与录音史专题", "url": "https://tower.jp/article/series/2011/02/22/75512" },
+      { "label": "JVC铃木茂官方履历", "url": "https://www.jvcmusic.co.jp/guitarist/artist5.html" }
+    ],
+    "銀杏boyzと壊れたバイブレーターズ": [
+      { "label": "Tower Records《SEX CITY》剧伴背景与曲目资料", "url": "https://tower.jp/article/feature_item/2010/07/23/67947" },
+      { "label": "音楽ナタリー发行报道", "url": "https://natalie.mu/music/news/35405" }
+    ],
+    "朝简": [
+      { "label": "窦唯与朝简合作及首批作品资料", "url": "https://zh.wikipedia.org/wiki/%E7%AA%A6%E5%94%AF" },
+      { "label": "朝简作品、成员与录音沿革", "url": "https://www2.kugou.kugou.com/yueku/2019/singer/home/949537-1-3-c.html" }
+    ],
+    "delivery-health": [
+      { "label": "Silent Water官方Bandcamp阵容、录音与唱片说明", "url": "https://silentwater.bandcamp.com/album/hard-off" },
+      { "label": "Tiny Mix Tapes《Hard Off》发行报道", "url": "https://www.tinymixtapes.com/news/delivery-health-jim-orourke-giovanni-di-domenico-tatsushisa-yamamoto-announce-second-album-hard" }
+    ],
+    "lunacy": [
+      { "label": "LUNA SEA官方网站早期历史", "url": "https://www.lunasea.jp/biography" },
+      { "label": "Extasy Records签约与改名资料", "url": "https://en.wikipedia.org/wiki/Extasy_Records" }
+    ],
+    "odani-misako-ta-ta": [
+      { "label": "Tower Records成团、阵容与活动方式报道", "url": "https://tower.jp/article/news/2003/09/11/100001789" },
+      { "label": "小谷美紗子官网《feather》资料", "url": "https://odanimisako.com/discography/feather/" }
+    ],
+    "ねらわれた学園": [
+      { "label": "音楽ナタリー组合、翻唱与电影资料", "url": "https://natalie.mu/music/news/13699" }
+    ],
+    "inaba-salas": [
+      { "label": "Stevie Salas官网《CHUBBY GROOVE》合作与巡演资料", "url": "https://www.steviesalas.com/music/chubby-groove/" },
+      { "label": "《Chubby Groove》发行与曲风资料", "url": "https://en.wikipedia.org/wiki/Chubby_Groove" }
+    ],
+    "churn": [
+      { "label": "In Music We Trust专辑评论与项目身份", "url": "https://www.inmusicwetrust.com/articles/01r08.html" },
+      { "label": "AllMusic专辑风格与发行资料", "url": "https://www.allmusic.com/album/this-way-to-other-side-mw0000022066" }
+    ],
+    "ft-triple": [
+      { "label": "FTISLAND资料页中的子团阵容与分工", "url": "https://en.wikipedia.org/wiki/F.T._Island" },
+      { "label": "FTISLAND France子团沿革与发行资料", "url": "https://ftislandfrance.fr/le-groupe/" }
+    ],
+    "m-a-s-s": [
+      { "label": "hide履历中的M・A・S・S与《Frozen Bug》资料", "url": "https://en.wikipedia.org/wiki/Hide_(musician)" },
+      { "label": "《HIDE YOUR FACE》歌曲版本资料", "url": "https://en.wikipedia.org/wiki/Hide_Your_Face" }
+    ],
+    "the-king-all-stars": [
+      { "label": "Mikiki乐队阵容与《ROCK FEST.》专题", "url": "https://mikiki.tokyo.jp/articles/-/2540" },
+      { "label": "CINRA成立与首张单曲报道", "url": "https://www.cinra.net/news/20140327-thekingallstars" }
+    ],
+    "the-freak-brothers": [
+      { "label": "Impact Press专辑阵容与录音方式评论", "url": "https://www.impactpress.com/articles/junjul01/musicr60701.html" },
+      { "label": "Gonervill成员资料", "url": "https://www.last.fm/music/Gonervill" }
+    ],
+    "thunderbox": [
+      { "label": "MusicBrainz地区与曲风资料", "url": "https://musicbrainz.org/artist/65004947-cdea-47cf-8812-9faf47ebd6c1" },
+      { "label": "Jack Sherman后续乐队履历", "url": "https://www.plasticosydecibelios.com/muere-jack-sherman-ex-guitarrista-de-red-hot-chili-peppers/" }
+    ],
+    "details": [
+      { "label": "上田ケンジ官方履历中的Details项目", "url": "https://ueken.uccello.jp/profile.html" },
+      { "label": "1995年Details活动与成员分工记录", "url": "https://sailmusiclab.live-on.net/1995/950826.htm" }
+    ],
+    "the-illiterate-hands": [
+      { "label": "The Illiterate Hands阵容与早期录音回忆", "url": "https://www.radiohead.fr/the-illiterate-hands/" },
+      { "label": "Jonny Greenwood早期乐队履历", "url": "https://www.radiohead.fr/jonny-greenwood/" }
+    ],
+    "i-m-on-marz": [
+      { "label": "Audioleaf地区与曲风资料存档", "url": "https://www.audioleaf.com/search/artist/result?p=474" },
+      { "label": "《Drown》发行记录", "url": "https://www.senscritique.com/morceau/drown/136716018" }
+    ],
+    "moools": [
+      { "label": "P-VINE官方成员与乐队介绍", "url": "https://p-vine.jp/artists/moools?view_type=pc" },
+      { "label": "Apple Music成团、海外合作与唱片履历", "url": "https://music.apple.com/us/artist/moools/272250070" }
+    ],
+    "young-odeon": [
+      { "label": "《別天地》参与者与项目背景资料", "url": "https://silenciamusicstore.net/?pid=146525561" },
+      { "label": "CINEMORE《黒い十人の女》录音资料", "url": "https://cinemore.jp/jp/erudition/41/article_43_p2.html" }
+    ],
+    "sugar-the-radio-fire": [
+      { "label": "音楽ナタリー完整歌手、制作与乐手名单", "url": "https://natalie.mu/music/news/141313" },
+      { "label": "FM802历年ACCESS!官方档案", "url": "https://funky802.com/access/2023/" }
+    ],
+    "カオティック-スピードキング": [
+      { "label": "音楽ナタリー三人阵容、即兴定位与客席现场报道", "url": "https://natalie.mu/music/news/122222" },
+      { "label": "Billboard JAPAN四人阵容与Maison book girl合作报道", "url": "https://www.billboard-japan.com/d_news/detail/36524/2" }
+    ],
+    "lonely-h-s-band": [
+      { "label": "Genie两位核心成员、企划由来与歌曲说明", "url": "https://www.genie.co.kr/detail/albumInfo?axnm=80136873" },
+      { "label": "Bugs艺人页与《Life》合辑收录记录", "url": "https://music.bugs.co.kr/artist/8014224" }
+    ],
+    "shag": [
+      { "label": "SUGIZO官网SHAG定位、复活与首张专辑说明", "url": "https://sugizo.com/contents/100332" },
+      { "label": "Universal Music现场及成员报道", "url": "https://www.universal-music.co.jp/sugizo/news/2022-12-05/" }
+    ],
+    "project-tru": [
+      { "label": "Project Tru官方Bandcamp阵容、风格与专辑资料", "url": "https://projecttru.bandcamp.com/album/a-twelve-piece-band" }
+    ],
+    "plastic-palace-people": [
+      { "label": "Christoph Heemann官方Bandcamp二人阵容、录音与发行资料", "url": "https://christophheemann.bandcamp.com/album/from-the-host-of-latecomers" }
+    ],
+    "the-singing-rebels-band": [
+      { "label": "《Water》完整演职员表与乐队客串阵容", "url": "https://www.imdb.com/title/tt0090297/fullcredits/" },
+      { "label": "电影原声《Freedom》演唱署名与单曲记录", "url": "https://www.soundtrackcollector.com/title/41416/Water" }
+    ],
+    "山中さわお-elpis": [
+      { "label": "山中さわお官网《Daydream again》阵容与制作资料", "url": "https://yamanakasawao.com/y/discography/daydream-again" },
+      { "label": "音楽ナタリー新乐队成立背景专访", "url": "https://natalie.mu/music/pp/yamanakasawaoandelpis" }
+    ],
+    "press-rider": [
+      { "label": "VGMdb完整参与成员与《ペリカンロード》唱片记录", "url": "https://vgmdb.net/artist/14038" }
+    ],
+    "southern-fly": [
+      { "label": "Southern Fly成员与唱片目录", "url": "https://www.musicstack.com/records-cds/southern%2Bfly" },
+      { "label": "NME《High》同期评论", "url": "https://www.nme.com/reviews/reviews-nme-2062-341600" }
+    ],
+    "radio-happy-willows": [
+      { "label": "FM802官方2024 ACCESS!歌曲、歌手与录音乐手名单", "url": "https://funky802.com/access/2024/" }
+    ],
+    "the-peeper": [
+      { "label": "Sunburned Hand of the Man官方Bandcamp阵容、演出地点与录音说明", "url": "https://sunburnedhandoftheman.bandcamp.com/album/the-peeper" }
+    ],
+    "crisis-party": [
+      { "label": "Crisis Party成立、成员流动与专辑沿革", "url": "https://www.musicstack.com/records-cds/crisis%2Bparty" },
+      { "label": "《Rude Awakening》阵容、曲目与制作资料", "url": "https://vinyl-records.nl/hard-rock/crisis-party-rude-awakening-usa-pressing-metal-blade-records-lp-vinyl-album.html" }
+    ],
+    "寺子屋": [
+      { "label": "Universal Music官方成立缘由、阵容与录音日志", "url": "https://www.universal-music.co.jp/terrakoya/biography/" },
+      { "label": "音楽ナタリー《EMI》创作与发行报道", "url": "https://natalie.mu/music/news/40166" }
+    ],
+    "gut-bank": [
+      { "label": "Karyn Kuhl官方介绍中的阵容、活动期与专辑资料", "url": "https://lpr.com/lpr_artists/karyn-kuhl-band/" },
+      { "label": "Trouser Press《The Dark Ages》同期风格评述", "url": "https://trouserpress.com/reviews/gut-bank/" }
+    ],
+    "possession-80-2-por-cento": [
+      { "label": "Skream完整演唱、合唱与录音乐手名单", "url": "https://skream.jp/news/2014/02/fm802_access_harunouta.php" },
+      { "label": "FM802历年活动中的2014年歌曲记录", "url": "https://funky802.com/access/hanabi/" }
+    ],
+    "dead-wire": [
+      { "label": "TAIJI生平中关于Dead Wire的自传说法与不同阵容记录", "url": "https://en.wikipedia.org/wiki/Taiji_(musician)" },
+      { "label": "乐队履历数据库中的菊地哲参与记录", "url": "https://band-db.geo.jp/band/craze" }
+    ],
+    "dementia": [
+      { "label": "TAIJI早期经历与《Dementia Live!》资料", "url": "https://en.wikipedia.org/wiki/Taiji_(musician)" },
+      { "label": "日本地下金属场景及Dementia成员资料", "url": "https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%87%8D%E9%87%91%E5%B1%9E" }
+    ],
+    "viva-la-j-rock-anthems": [
+      { "label": "Fanplus Music限定性质、固定乐手与企划说明", "url": "https://music.fanplus.co.jp/news/201604072868e50ba" },
+      { "label": "Skream 2016年客席主唱报道", "url": "https://skream.jp/news/2016/05/viva-la--rock-2016_viva-la-j-rock-anthems.php" }
+    ],
+    "boøwy杉並": [
+      { "label": "MUCC官方存档中的完整阵容与BOØWY致敬活动说明", "url": "https://archive.55-69.com/category/news" }
+    ],
+    "r-a-d-d-recording-artists-against-drunk-driving": [
+      { "label": "Los Angeles Times 1988年R.A.D.D.公益短片与参与者报道", "url": "https://www.latimes.com/archives/la-xpm-1988-12-09-ca-1609-story.html" },
+      { "label": "Los Angeles Times《Drive My Car》公益录音报道", "url": "https://www.latimes.com/archives/la-xpm-1993-12-20-ca-3787-story.html" }
+    ],
+    "ザ-プールサイド": [
+      { "label": "音楽ナタリー歌曲、编曲与七组歌手完整资料", "url": "https://natalie.mu/music/news/180558" },
+      { "label": "TSUTAYA运营方一次性特别单元与CD租赁说明", "url": "https://prtimes.jp/main/html/rd/p/000000001.000018760.html" }
+    ],
+    "178r": [
+      { "label": "MUCC官方存档中的よかっぺBAR定位与两套阵容", "url": "https://archive.55-69.com/category/liveall/live/page/2" },
+      { "label": "MUCC二十周年页面中的178R后续阵容", "url": "https://archive.55-69.com/20th/" }
+    ],
+    "コーンsuginami": [
+      { "label": "MUCC官方存档PARTY ZOO完整阵容", "url": "https://archive.55-69.com/category/news" },
+      { "label": "音楽ナタリー跨团session阵容报道", "url": "https://natalie.mu/music/news/246154" }
+    ],
+    "moondog-one": [
+      { "label": "Andy Rourke官方履历中的Moondog One阵容", "url": "https://www.andyrourke.com/biography" },
+      { "label": "2001年成团、四首demo与客席资料报道", "url": "https://drownedinsound.com/news/2809-bonehead-is-back-damn" }
+    ],
+    "slipknot杉並": [
+      { "label": "MUCC官方存档中的完整阵容与演出资料", "url": "https://archive.55-69.com/date/2016/11" },
+      { "label": "BARKS对谈中对Slipknot翻唱乐队的回顾", "url": "https://barks.jp/news/961797/" }
+    ],
+    "the-mad-capsule-market-s-杉並": [
+      { "label": "MusicBrainz成立年份与tribute band性质记录", "url": "https://musicbrainz.org/artist/cde10718-4856-43a9-8571-a2e0dfeb40bd/details" }
+    ],
+    "the-rd-crusaders": [
+      { "label": "RD Crusaders成立、慈善对象与历次阵容资料", "url": "https://en.wikipedia.org/wiki/The_RD_Crusaders" },
+      { "label": "Roger Daltrey履历中的演出与参与者目录", "url": "https://en.wikipedia.org/wiki/Roger_Daltrey" }
+    ],
+    "the-roundheads": [
+      { "label": "Ringo Starr官网Roundheads合作与演出沿革", "url": "https://www.ringostarr.com/home/" },
+      { "label": "Soundstage现场阵容与录音资料", "url": "https://en.wikipedia.org/wiki/Ringo_Starr%3A_Live_at_Soundstage" }
+    ],
+    "x-suginami": [
+      { "label": "MUCC官方存档VISUAL JAPAN SUMMIT阵容", "url": "https://archive.55-69.com/date/2016/10/page/2" },
+      { "label": "MUCC官方存档TRUE NIGHT阵容与活动记录", "url": "https://archive.55-69.com/category/liveall/page/11" }
+    ],
+    "さわおとケンジ": [
+      { "label": "山中さわお官网EP曲目、阵容与发行资料", "url": "https://yamanakasawao.com/y/?p=4068" },
+      { "label": "Tower Records两位成员对26年前合作与重聚的说明", "url": "https://tower.jp/article/feature_item/2024/02/27/0701" }
+    ],
+    "ヨーコとさわお": [
+      { "label": "ぴあ两人署名、巡演日期与会场资料", "url": "https://lp.p.pia.jp/event/music/353002/index.html" },
+      { "label": "音楽ナタリー两人与Casablanca合作背景", "url": "https://natalie.mu/owarai/artist/118408" }
+    ],
+    "guerrilla": [
+      { "label": "yukihiro早期GUERRILLA至ZI:KILL履历", "url": "https://www.vkdb.jp/yukihiro.html" },
+      { "label": "ZI:KILL成员数据库中的GUERRILLA关系记录", "url": "https://band-db.geo.jp/band/zikill" }
+    ],
+    "mick-jagger-the-brothers-of-sodom": [
+      { "label": "Universal Music Mick Jagger 1988年巡演完整阵容", "url": "https://www.universal-music.co.jp/mick-jagger/biography/" },
+      { "label": "Guitar World Brothers of Sodom化名与核心阵容说明", "url": "https://www.guitarworld.com/artists/forgotten-guitar-joe-satriani-and-mick-jagger-play-little-red-rooster-bar-1988-video" }
+    ],
+    "the-nicky-james-movement": [
+      { "label": "AllMusic成团、轮换成员与Nicky James履历", "url": "https://www.allmusic.com/artist/nicky-james-mn0000405703" },
+      { "label": "John Bonham资料站早期乐队说明", "url": "https://mikedolbear.com/groovers-and-shakers/john-bonham/" }
+    ],
+    "the-ramblers": [
+      { "label": "剑桥Ramblers阵容与1962至1963年演出记录", "url": "https://www.neptunepinkfloyd.co.uk/forum/viewtopic.php?t=14489" },
+      { "label": "David Gilmour加入场次与后续早期乐队沿革", "url": "https://www.neptunepinkfloyd.co.uk/before-they-were-pink-floyd-a-history-of-the-band-pre-floyd" }
+    ],
+    "the-senators": [
+      { "label": "John Bonham资料站阵容、驻演与《She’s a Mod》记录", "url": "https://johnbonham.co.uk/biography/pre-ledzeppelin-bands.html" },
+      { "label": "《She’s a Mod》鼓手身份争议资料", "url": "https://sladestory.blogspot.com/1971/01/the-senators-1964.html" }
+    ],
+    "trash": [
+      { "label": "TAIJI生平中的Trash成立、成员与解散经过", "url": "https://en.wikipedia.org/wiki/Taiji_(musician)" },
+      { "label": "TAIJI早期活动年表", "url": "https://riumetal.com/archives/remenber-taiji.html" }
+    ],
+    "フォークデュオ": [
+      { "label": "Mikiki《若草》身份设定与会场限定发行资料", "url": "https://mikiki.tokyo.jp/articles/-/21370" }
+    ],
+    "apple": [
+      { "label": "MusicBrainz Apple侧项目身份与成员关系", "url": "https://musicbrainz.org/artist/3dba35e6-28f4-4926-aae3-ff82ad934aa8" },
+      { "label": "John Lennon官网Plastic Ono Band非固定阵容说明", "url": "https://www.johnlennon.com/music/albums/john-lennon-plastic-ono-band/" }
+    ],
+    "radio-darlings": [
+      { "label": "aiko官方团队完整歌手、合唱、制作与发行资料", "url": "https://sp.aiko.pcan.us/news/news.php?news_category_id=&news_id=1177" },
+      { "label": "Sony Music桥本絵莉子参与及歌手名单", "url": "https://www.sonymusic.co.jp/artist/chatmonchy/info/505860" }
+    ],
+    "radio-soul20": [
+      { "label": "FM802历届ACCESS!资料中的歌曲、作者与完整歌手名单", "url": "https://prtimes.jp/main/html/rd/p/000000462.000088611.html" },
+      { "label": "FM802官方历届活动歌回顾", "url": "https://funky802.com/site/blog/94192/0/54" }
+    ],
+    "the-complex": [
+      { "label": "Kevin Shields履历中的成团、演出与后续关系", "url": "https://pitchfork.com/features/interview/9192-kevin-shields/" },
+      { "label": "The Complex阵容与1979至1981年沿革", "url": "https://en.wikipedia.org/wiki/The_Complex_(band)" }
+    ],
+    "the-pink-spiders": [
+      { "label": "Apple Music曲目页的完整艺人署名", "url": "https://music.apple.com/jp/song/773006199" },
+      { "label": "致敬专辑、参与成员与翻唱版本资料", "url": "https://en.wikipedia.org/wiki/Pink_Spider" }
+    ],
+    "the-vortex": [
+      { "label": "Band on the Wall演出页的阵容、录音与Bonehead说明", "url": "https://bandonthewall.org/events/the-vortex-last-orders-the-hype/" },
+      { "label": "Bonehead访谈中的加入经过与乐队声音说明", "url": "https://www.live4ever.uk.com/a-chat-with-paul-bonehead-arthur/" }
+    ],
+    "古都の夕べ": [
+      { "label": "OTOTOY对田中、真部二人单元及2013年演出的报道", "url": "https://ototoy.jp/news/75138" },
+      { "label": "阵容变化与主要作品目录", "url": "https://ja.everybodywiki.com/%E5%8F%A4%E9%83%BD%E3%81%AE%E5%A4%95%E3%81%B9" }
+    ],
+    "beefeater": [
+      { "label": "Tower Records致敬专辑曲目与BEEFEATER完整阵容", "url": "https://tower.jp/article/news/2002/10/17/100000612" }
+    ],
+    "high-cheez": [
+      { "label": "國府田マリ子访谈中的High Cheez名称与完整编制", "url": "https://www.excite.co.jp/news/article/Lisani_0000367615/" },
+      { "label": "《やってみよう》录音阵容与声音制作资料", "url": "https://onabenchinthepark.hatenablog.com/entry/2013/03/29/235307" }
+    ],
+    "power-germanys": [
+      { "label": "UNITED官网2002年合作、EP与演出沿革", "url": "https://united-official.com/pc/bio_1.html" },
+      { "label": "Tower Records四曲EP发行与合作说明", "url": "https://tower.jp/item/839737" }
+    ],
+    "sour-milk-sea": [
+      { "label": "Sour Milk Sea成团、Freddie加入与完整成员资料", "url": "https://en.wikipedia.org/wiki/Sour_Milk_Sea_(band)" },
+      { "label": "Freddie Mercury履历中的Ibex、Sour Milk Sea与Smile衔接", "url": "https://www.allmusic.com/artist/freddie-mercury-mn0000130028/biography" }
+    ],
+    "the-house-band": [
+      { "label": "BBC金禧演唱会日期、现场与house band资料", "url": "https://www.bbc.co.uk/pressoffice/pressreleases/stories/2002/02_february/26/palace.shtml" },
+      { "label": "Party at the Palace完整伴奏阵容与演出目录", "url": "https://en.wikipedia.org/wiki/Party_at_the_Palace" }
+    ],
+    "the-low-atus": [
+      { "label": "乐队官网成团、赈灾活动与首张专辑说明", "url": "https://www.thelowatus.com/" },
+      { "label": "Tower Records首张专辑与双人背景资料", "url": "https://prtimes.jp/a/?c=25445&f=d25445-728-pdf-0.pdf&r=728" }
+    ],
+    "sextapes": [
+      { "label": "首张专辑发行、完整阵容与声音说明", "url": "https://blabbermouth.net/news/guns-n-roses-keyboardist-chris-pitman-releases-sextapes" },
+      { "label": "同名专辑年份与演奏名单", "url": "https://sleazeroxx.com/reviews/sextapes-sextapes/" }
+    ],
+    "コンフィデンス": [
+      { "label": "坂崎幸之助官方电台资料中的原声曲与主唱", "url": "https://jfn-pods.com/program/7477/article/P53ZGVBG4S" },
+      { "label": "坂崎官方简介中的加入经过", "url": "https://www.interfm.co.jp/dj/dj-detail/219" }
+    ],
+    "3minutes": [
+      { "label": "《7colors》发行、四首曲目与覆面企划资料", "url": "https://news.utamap.com/music/119900/" },
+      { "label": "五位编号成员与乐器分工记录", "url": "https://ameblo.jp/tona-sea/entry-11299555115.html" }
+    ],
+    "ka-za-ri": [
+      { "label": "1995至1996年演出、成员相识与活动休止年表", "url": "https://degwiki.com/wiki/Dir_En_Grey/Pre" },
+      { "label": "早期歌曲在La:Sadie’s作品中的延续记录", "url": "https://degwiki.com/wiki/Obje%C3%97%C3%97%C3%97" }
+    ],
+    "charm": [
+      { "label": "CHARM完整阵容、演出与demo资料", "url": "https://www.degwiki.com/wiki/CHARM" },
+      { "label": "La:Sadie’s履历中的薫加入与前团关系", "url": "https://www.jrock.gy/artists/la-sadies/" }
+    ],
+    "ttt": [
+      { "label": "TTT成团由来、完整阵容与演出记录", "url": "https://degwiki.com/wiki/TTT" }
+    ],
+    "廃人黒薔薇族": [
+      { "label": "KISAKI官网1995年首演与现场档案", "url": "https://kisaki-official.jp/history/livearchive" },
+      { "label": "阵容、翻唱曲、演出与解散考证", "url": "https://degwiki.com/wiki/%E5%BB%83%E4%BA%BA%E9%BB%92%E8%96%94%E8%96%87%E6%97%8F" }
+    ],
+    "hi5": [
+      { "label": "《Baby, I miss you》Hi5编曲署名与发行资料", "url": "https://tower.jp/item/2397525" },
+      { "label": "早期现场乐队演奏取向及成员访谈记录", "url": "https://sorasofa.blog.fc2.com/blog-date-201001.html" }
+    ],
+    "galactic-abyss": [
+      { "label": "SuperDeluxe四人阵容、成立年份与项目说明", "url": "https://super-deluxe.com/events/%E6%B7%B1%E9%81%A0%E3%81%AB%E3%81%97%E3%81%A6%E6%B7%B1%E6%B7%B5%E3%81%AA%E3%82%8B%E4%B8%8D%E5%8F%AF%E6%80%9D%E8%AD%B0/" },
+      { "label": "Mikiki亀川千代履历中的Galactic Abyss关系", "url": "https://mikiki.tokyo.jp/articles/-/37347" }
+    ],
+    "hakaiders": [
+      { "label": "银座蔦屋对成团、双鼓阵容、停顿与复活的介绍", "url": "https://store.tsite.jp/ginza/event/art/25353-1220510310.html" },
+      { "label": "首张录音室专辑完整阵容、曲目与录制资料", "url": "https://nydcollection.com/en/products/hakaiders-satan-tape" }
+    ],
+    "chococream-rolls": [
+      { "label": "Cine21成团、早期名称与三人阵容报道", "url": "https://cine21.com/news/view/?mag_id=18945" },
+      { "label": "KBS World项目与자우림关系说明", "url": "https://world.kbs.co.kr/service/contents_view.htm?board_seq=159663&id=&lang=e&menu_cate=enternews" }
+    ],
+    "space-soldier-membership-club": [
+      { "label": "MusicBrainz旧项目身份与成员关系记录", "url": "https://musicbrainz.org/artist/4fcfce28-f334-49d1-bbde-9006e7e4b2cc" },
+      { "label": "流媒体同名《2024》EP目录", "url": "https://music.apple.com/ca/artist/space-soldier-membership-club/1770218436" }
+    ],
+    "做梦": [
+      { "label": "乐队网1991年成团与最初成员资料", "url": "https://www.bandchina.com/portal/article/index.html?cid=8&id=473" },
+      { "label": "界面影像资料中的首演及《黑梦》作品延续", "url": "https://en.jiemian.com/article/1355675.html" }
+    ],
+    "infrared-hologram": [
+      { "label": "厂牌页《Exploding Flowers》完整演奏与制作署名", "url": "https://kerntonschallrecords.bandcamp.com/album/infrared-hologram-exploding-flowers" }
+    ],
+    "architectural-abdabs": [
+      { "label": "Pink Floyd早期Sigma 6阵容与多个名称沿革", "url": "https://en.wikipedia.org/wiki/Pink_Floyd" },
+      { "label": "Bob Klose履历中的早期R&B阵容与名称记录", "url": "https://en.wikipedia.org/wiki/Bob_Klose" }
+    ],
+    "jc-001-dj-d-zire": [
+      { "label": "《Ride the Break》发行日期、成员与完整曲目", "url": "https://www.bol.com/nl/nl/p/ride-the-break/9200000029764721/" },
+      { "label": "JC-001身份与二人单曲目录", "url": "https://www.musicstack.com/records-cds/jc-001%2B_apz_%2Bdj%2Bd-zire" }
+    ],
+    "fuktronic": [
+      { "label": "Serj Tankian官网项目概念、发行与完整曲目", "url": "https://serjtankian.com/pages/fuktronic" }
+    ],
+    "gannin-arnold-project": [
+      { "label": "Drum Channel五位鼓手与同曲比较说明", "url": "https://www.drumchannel.com/thecourses/listen-learn-and-play-with-5-world-class-drummers/" },
+      { "label": "Modern Drummer双DVD内容与演奏评论", "url": "https://www.moderndrummer.com/2011/10/gannin-arnold-project5-world-class-drummers/" }
+    ],
+    "the-end": [
+      { "label": "TuneCore当前阵容、2015年成立与2024年复活资料", "url": "https://www.tunecore.co.jp/artists/the_End_2024" },
+      { "label": "OTOTOY首次现场、成员分工与逐月配信记录", "url": "https://ototoy.jp/news/83393" }
+    ],
+    "pandas": [
+      { "label": "TK官网两场2017年音乐节与双人署名资料", "url": "https://tkofficial.jp/s/n150/news/list?ct=information&ima=0000&link=ROBO004&page=39" },
+      { "label": "RISING SUN官方项目介绍与两人制作背景", "url": "https://rsr.wess.co.jp/2017/artists/lineup/profile/83" }
+    ],
+    "thurston-moore-group": [
+      { "label": "WFUV的2017年阵容、专辑与五首长篇作品说明", "url": "https://wfuv.org/content/thurston-moore-2017" },
+      { "label": "Pitchfork对阵容延续与专辑声音的评论", "url": "https://pitchfork.com/reviews/albums/23150-rock-n-roll-consciousness/" }
+    ],
+    "rumblepuppy": [
+      { "label": "《Jeez-Ooze》厂牌、制作人、成员脉络与声音评论", "url": "https://vaguely-offensive.com/listenings/music/rumblepuppy-jeez-ooze/" },
+      { "label": "MusicBrainz乐队身份与成员关系记录", "url": "https://musicbrainz.org/artist/130e5f0d-8e5a-4719-a081-49af9aeb1af6" }
+    ],
+    "fractured-mirror": [
+      { "label": "MusicBrainz日本乐队条目与宇高光成员关系", "url": "https://musicbrainz.org/artist/d5a00516-3dc3-4001-824a-970b55651921" }
+    ],
+    "fanta": [
+      { "label": "音乐Natalie的成团、五人阵容与广告企划报道", "url": "https://natalie.mu/music/news/28819" },
+      { "label": "富士电视台的成员沿革与《Fantastic Love》发行资料", "url": "https://www.fujitv.co.jp/DOMOTO/guest/fanta.html" }
+    ],
+    "a-c-e": [
+      { "label": "音乐Natalie对新乐队成立与四人录音阵容的报道", "url": "https://natalie.mu/music/news/63647" },
+      { "label": "Tower Records访谈中的共同制作与乐队声音说明", "url": "https://tower.jp/article/interview/2012/03/21/b308" }
+    ],
+    "高浪慶太郎となんがさきふぁいぶ": [
+      { "label": "高浪慶太郎履历中的长崎迁居、项目成立与活动说明", "url": "https://www.tunecore.co.jp/artists?id=1038113" },
+      { "label": "VIVID SOUND《龍馬のハナ唄》发行与月琴主题资料", "url": "https://www.vividsound.co.jp/item.php?lid=4540399312170" }
+    ],
+    "lam-family": [
+      { "label": "MusicBrainz四位家庭成员关系记录", "url": "https://musicbrainz.org/artist/470ded69-da50-41e4-8c6e-6b458c433c6d" },
+      { "label": "兄妹演唱会中父母参与及家庭表演场景记录", "url": "https://leungjass.blogspot.com/2010/10/201020100929.html" }
+    ],
+    "擬態屋": [
+      { "label": "曽我部恵一官网双人身份、首专日期与完整曲目", "url": "https://www.sokabekeiichi.com/news/11241stdorayaki.php" },
+      { "label": "音乐Natalie对首张音源与双人单元的报道", "url": "https://natalie.mu/music/news/451317" }
+    ],
+    "ft2k-s": [
+      { "label": "Tower Records致敬专辑曲目与FT2K'S完整阵容", "url": "https://tower.jp/article/news/2002/10/17/100000612" },
+      { "label": "rockin'on对后续活动、FTK&K改名与成员履历的报道", "url": "https://rockinon.com/news/detail/46100" }
+    ],
+    "hedigan-s": [
+      { "label": "Sony Music官方五人阵容、首专与巡演履历", "url": "https://www.sonymusic.co.jp/artist/Hedigans/profile/" },
+      { "label": "NiEW对成团过程与共同演奏方式的专访", "url": "https://niewmedia.com/en/artists/hedigans/" }
+    ],
+    "royal-force": [
+      { "label": "SPICE对双人身份、企划转正与首张单曲的报道", "url": "https://spice.eplus.jp/articles/318641" },
+      { "label": "NATCHIN官网对ROYAL FORCE持续现场活动的记录", "url": "https://www.natchin.com/information/index.php?page=3" }
+    ],
+    "the-devils": [
+      { "label": "韩国电影资料馆《Go Go 70s》角色与完整乐队阵容", "url": "https://www.koreafilm.or.kr/library/search/video/00063535" },
+      { "label": "体育京乡对六人编制、现场排练与数字单曲的报道", "url": "https://sports.khan.co.kr/article/200808192155376" }
+    ],
+    "天織堂": [
+      { "label": "MusicBrainz香港乐队身份与黎允文成员记录", "url": "https://musicbrainz.org/artist/f71e4aaf-b1dd-4f58-a8e8-3be0ba9fd1fb" },
+      { "label": "《搖搖擺擺》发行年份及乐队、主唱资料", "url": "https://www.carousell.com.hk/p/99%EF%BC%85new-%E5%A4%A9%E7%B9%94%E5%A0%82%E4%B8%BB%E5%94%B1-%E2%80%A7%E3%80%90-%E6%90%96%E6%90%96%E6%93%BA%E6%93%BA-%E3%80%91%E5%B0%88%E8%BC%AF-cd-1995%E5%B9%B4%E5%87%BA%E7%89%88-%E9%99%84%E6%9C%89%E5%8E%9F%E8%A3%9D%E5%81%B4%E7%B4%99-%E9%9D%9A%E4%BB%94%E9%BD%8A%E6%96%99-%E7%A2%9F%E5%86%87%E8%8A%B1-%E6%8E%A5%E8%BF%91%E5%85%A8%E6%96%B0-1059820824/" }
+    ],
+    "凡風": [
+      { "label": "JOOX双人阵容、1986年成立、专辑主题与风格沿革", "url": "https://www.joox.com/hk/artist/s1n0gvUbJ3OqN_uaZ2uZTw%3D%3D" },
+      { "label": "香港电影资料馆对凡風来源与电影原创音乐的说明", "url": "https://www.filmarchive.gov.hk/documents/18995340/19057015/ebook_chi_03.pdf" }
+    ],
+    "the-earth": [
+      { "label": "OM Swagger对1968年录音、完整阵容与限量发行的说明", "url": "https://www.omswaggermusic.com/releases/sample-album-02-wav" },
+      { "label": "MusicBrainz伦敦乐队与Barry Mitchell关系记录", "url": "https://musicbrainz.org/artist/2df94caf-b447-41f4-b2be-828f60f66d57" }
+    ],
+    "gothic-plague": [
+      { "label": "MuseWiki早期阵容、1991年节目单与名称沿革考证", "url": "https://musewiki.org/Gothic_Plague" },
+      { "label": "Muse乐队史中Gothic Plague至Rocket Baby Dolls的衔接", "url": "https://en.wikipedia.org/wiki/Muse_(band)" }
+    ],
+    "quisp": [
+      { "label": "Discogs的Little Rock朋克身份、四人阵容与发行目录", "url": "https://www.discogs.com/artist/5654203" },
+      { "label": "MusicBrainz成员关系及《Towncraft》合辑记录", "url": "https://musicbrainz.org/artist/e7bdf685-143c-43c2-adc8-8b9583395528" }
+    ],
+    "the-capitols": [
+      { "label": "MusicBrainz原始条目及相互矛盾的伴奏关系", "url": "https://musicbrainz.org/artist/0cf97acb-7b9e-4587-a760-d4e80381fd35" },
+      { "label": "条目共用但缺乏可验证乐队资料的网页", "url": "https://majorqotrunrecords.wordpress.com/" }
+    ],
+    "the-poops": [
+      { "label": "MusicBrainz原始条目及不可信的2020年关系列表", "url": "https://musicbrainz.org/artist/7aeccb42-1128-4f6e-afbe-dda4c39e2d5d" },
+      { "label": "与The Capitols共用的低信息量网页", "url": "https://majorqotrunrecords.wordpress.com/" }
+    ],
+    "glassmaps": [
+      { "label": "Lost in the Manor对Joel Stein个人项目、首专与录音地点的介绍", "url": "https://www.lostinthemanor.co.uk/lost-in-the-manor/2017/5/31/glassmaps" },
+      { "label": "Joel Stein访谈中的包办演奏及Mark Stoermer客串细节", "url": "https://musicmusingsandsuch.wordpress.com/2017/06/22/interview-glassmaps/" }
+    ],
+    "afternoon-saints": [
+      { "label": "Boomkat的四人阵容、乐器分工、混音与声音说明", "url": "https://boomkat.com/products/the-shirley-jangle" },
+      { "label": "Forced Exposure的录音室、双LP结构与发行资料", "url": "https://www.forcedexposure.com/Catalog/afternoon-saints-the-shirley-jangle-2lp/KED.005LP.html" }
+    ],
+    "butterfly-launches-from-spar-pole": [
+      { "label": "项目官网对2010年起源、三人加入顺序与自然主题的介绍", "url": "https://www.butterflylaunch.com/about.html" },
+      { "label": "华盛顿州立大学杂志的专辑形式、创作过程与主题访谈", "url": "https://magazine.wsu.edu/2020/04/26/consider-the-butterfly/" }
+    ],
+    "fart-sandwich-posse": [
+      { "label": "Primus旧FAQ的集体署名性质与完整名单", "url": "https://vodacom.oocities.org/sunsetstrip/7207/faq.html" },
+      { "label": "Mike Bordin履历中的两曲客串与署名说明", "url": "https://en.wikipedia.org/wiki/Mike_Bordin" }
+    ],
+    "dr-ドラゴン-サウンド-オブ-アラブ": [
+      { "label": "Tower Records再版资料中的项目定义、完整阵容与双鼓说明", "url": "https://cdfront.tower.jp/~/media/Files/Company/PressRelease/2019/10/191011iwasakihiromi_SACD.pdf" },
+      { "label": "日本放送对筒美京平化名、企划概念与声音来源的回顾", "url": "https://news.1242.com/article/180672" }
+    ],
+    "怪物舞踏団": [
+      { "label": "Universal Music官方活动期、五人阵容与角色分工", "url": "https://www.universal-music.co.jp/kaibutsu/biography/" },
+      { "label": "活动报告中的百事企划与现场演出记录", "url": "https://www.domatsuri.com/2018/fes/report/20th_report.pdf" }
+    ],
+    "wild-wise-apes": [
+      { "label": "HMV对樋口豊、奥野敦士双人身份与专辑声音的说明", "url": "https://www.hmv.co.jp/artist_Wild-Wise-Apes--Buck-tick-_000000000243088/" },
+      { "label": "《3rd world》发行日期、完整曲目与制作署名", "url": "https://www.bucktickzone.com/releases/project_wildwiseapes.shtml" }
+    ],
+    "gosick": [
+      { "label": "DEGwiki的末期阵容、Toshiya加入过程与完整现场年表", "url": "https://www.degwiki.com/wiki/GOSICK" },
+      { "label": "DIR EN GREY官网对Toshiya乐器与长野出身的确认", "url": "https://direngrey.co.jp/lang_en/bio/bio-band/toshiya/" }
+    ],
+    "ザ-ペルシャ": [
+      { "label": "札幌场景档案中的五人阵容、现场曲目与NHK影像", "url": "https://sapporofreakshowdyky.zohosites.jp/" },
+      { "label": "the pillows口述史中真鍋吉明加入新团的经过", "url": "https://diskgarage.com/digaonline/column/123753" }
+    ],
+    "crystal-wars": [
+      { "label": "《BLUE》唱片署名、四人阵容与作品评论", "url": "https://music.gucchie-talk.net/?p=692" },
+      { "label": "Oricon的《BLUE》发行日期、厂牌与编号资料", "url": "https://www.oricon.co.jp/prof/4546/products/246173/1/" }
     ]
   },
   "links": {

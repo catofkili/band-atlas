@@ -13,22 +13,33 @@
       "year": 2023
     }
   ],
-  "intro": "QUBIT是来自日本、2023年至今活跃的音乐团体。现有唱片目录收录了2023年的《9BIT》。理解这个项目的另一条线索是成员关系：永井聖一的履历把它与相対性理論连接起来。从相対性理論沿关系网点进来时，《9BIT》可以作为试听入口。",
+  "intro": "QUBIT是2023年启动的日本五人乐队，由Daoko主唱，相対性理論与TESTSET吉他手永井聖一、LITTLE CREATURES贝斯手鈴木正人、作曲家兼键盘手網守将平和鼓手大井一彌组成。首张《9BIT》以完整现场合奏承接Daoko的说唱与轻声旋律，在复杂节拍、电子处理、爵士和另类流行之间频繁转向。它不是歌手加伴奏团的配置：五位成员都参与声音设计，精密演奏与Daoko富有角色感的语言同样处于前景。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Sony Music Artists官方介绍",
+      "url": "https://www.sma.co.jp/s/sma/news/detail/104287"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8496b5fa-8f1b-4d34-9933-47a0c98f4e8c"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1690362884",
+    "spotify": "https://open.spotify.com/artist/02Xm23NCqdYlyFnpcTfdmI",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F57124274"
+  },
   "listens": 436,
   "listeners": 58,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/8496b5fa-8f1b-4d34-9933-47a0c98f4e8c"
-  },
   "edges": [
     {
       "to": "相対性理論",

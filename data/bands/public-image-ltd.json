@@ -65,6 +65,12 @@
       "title": "Memories"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/20942761",
+    "spotify": "https://open.spotify.com/artist/70MMkLXtue3Edj3RJhJkYp",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001UBXJm2Zb9tw",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F98560"
+  },
   "listens": 141894,
   "listeners": 4952,
   "quality": {

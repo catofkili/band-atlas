@@ -21,22 +21,36 @@
       "year": 2016
     }
   ],
-  "intro": "Muddy Apes是来自日本、2012年至今活跃的音乐团体。现有唱片目录可从2012年的《Crush It》一路听到2016年的《Faraway So Close》。理解这个项目的另一条线索是成员关系：INORAN的履历把它与LUNA SEA连接起来。从LUNA SEA沿关系网点进来时，《Crush It》可以作为试听入口。",
+  "intro": "Muddy Apes是2012年启动的跨国摇滚项目，由LUNA SEA的INORAN、Feeder贝斯手Taka Hirose、Feeder巡演吉他手Dean Tidey与8otto主唱MAESON组成。四人以“离开各自主团、随心做摇滚”为出发点，在《Crush It》《Fairy Dirt No.5》中结合日英另类摇滚的直接riff与英语演唱，并于2013年登上Fuji Rock；2016年《Faraway So Close》标志着转投Warner后的重启。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Warner Music Japan官方阵容与乐队履历",
+      "url": "https://wmg.jp/muddy-apes/profile/"
+    },
+    {
+      "label": "Skream!成员访谈与成团经过",
+      "url": "https://skream.jp/interview/2013/06/muddy_apes.php"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b56a5b22-a559-444d-b26c-7c6c7a16dd49"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001Jdym71Ot3CF",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F159817"
+  },
   "listens": 52,
   "listeners": 8,
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/b56a5b22-a559-444d-b26c-7c6c7a16dd49"
-  },
   "edges": [
     {
       "to": "fake",

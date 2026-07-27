@@ -13,23 +13,34 @@
       "year": 1982
     }
   ],
-  "intro": "13.13是来自美国的音乐团体。现有唱片目录收录了1982年的《13.13》。理解这个项目的另一条线索是成员关系：Cliff Martinez的履历把它与Red Hot Chili Peppers连接起来。从Red Hot Chili Peppers沿关系网点进来时，《13.13》可以作为试听入口。",
+  "intro": "13.13是Lydia Lunch在1981至1982年前后使用的乐队与专辑名义，核心阵容来自洛杉矶第一代朋克团The Weirdos：Dix Denney与Greg Williams负责吉他和贝斯，后来成为Red Hot Chili Peppers早期鼓手的Cliff Martinez负责鼓。1982年同名专辑由Lunch主唱并与乐手共同写作，音乐比Teenage Jesus and the Jerks的极简噪音更有摇滚推进，却仍保留她冷硬、挑衅的叙述。它只存在短暂阶段，本质上是Lunch从纽约no wave走向更完整歌曲结构的一次过渡。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Lydia Lunch官方Bandcamp版本说明",
+      "url": "https://lydialunch.bandcamp.com/album/1313"
+    },
+    {
+      "label": "《13.13》作品资料",
+      "url": "https://en.wikipedia.org/wiki/13.13"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/dfd81ae0-8a7b-4a15-b837-15de1d6da868"
+  },
+  "musicLinks": {},
   "listens": 909,
   "listeners": 142,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 12,
-    "templateIntro": true,
+    "score": 54,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/dfd81ae0-8a7b-4a15-b837-15de1d6da868"
-  },
   "edges": [
     {
       "to": "the-weirdos",

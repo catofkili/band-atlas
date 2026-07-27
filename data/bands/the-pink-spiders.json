@@ -8,22 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "THE PINK SPIDERS是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：I.N.A、CHIROLYN、宮脇“JOE”知史的履历把它与hide with Spread Beaver连接起来。",
+  "intro": "THE PINK SPIDERS是2013年hide致敬专辑《hide TRIBUTE VII -Rock SPIRITS-》中的一次性录音组合。hide with Spread Beaver成员I.N.A、CHIROLYN与JOE，联同X JAPAN吉他手PATA和Ravecraft主唱Shame，重新演奏hide的代表作《ピンク スパイダー》，组合名也由歌名变化而来。公开目录只记录这一首合作曲，因此它不是hide旧乐队的正式重组，也没有独立发展的团史。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Apple Music曲目页的完整艺人署名",
+      "url": "https://music.apple.com/jp/song/773006199"
+    },
+    {
+      "label": "致敬专辑、参与成员与翻唱版本资料",
+      "url": "https://en.wikipedia.org/wiki/Pink_Spider"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0e150c5d-9624-4940-8cc0-a85fb984dab8"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003h7Zaz1q9v5v",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F80285"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/0e150c5d-9624-4940-8cc0-a85fb984dab8"
-  },
   "edges": [
     {
       "to": "hide-with-spread-beaver",

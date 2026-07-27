@@ -17,22 +17,33 @@
       "year": 2003
     }
   ],
-  "intro": "京阪GIRL是来自日本的音乐团体。现有唱片目录可从2002年的《京阪ロック》一路听到2003年的《さよならサンダーバード》。理解这个项目的另一条线索是成员关系：種田律子的履历把它与少年ナイフ连接起来。从少年ナイフ沿关系网点进来时，《京阪ロック》可以作为试听入口。",
+  "intro": "京阪GIRL是由京都女高中生有カリン与大阪上班族マリリン组成的日本女子双人摇滚组合，地域与身份反差直接写进团名。2002年迷你专辑《京阪ロック》以自写自演的短篇歌曲结合少女pop、punk速度与漫画般角色感，2003年《さよならサンダーバード》继续扩展目录；组合于2004年3月结束活动，成员種田律子后来加入少年ナイフ，使这段关西小型乐队经历延伸到更广的女子摇滚谱系。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Tower Records《京阪ロック》发行与曲目资料",
+      "url": "https://tower.jp/item/933883"
+    },
+    {
+      "label": "组合身份、解散与重聚回顾",
+      "url": "https://newnikki20.hatenablog.com/entry/2024/03/18/110346"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a58a1b9a-57ce-40ac-a9df-bb6d75e3b816"
+  },
+  "musicLinks": {},
   "listens": 165,
   "listeners": 6,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a58a1b9a-57ce-40ac-a9df-bb6d75e3b816"
-  },
   "edges": [
     {
       "to": "少年ナイフ",

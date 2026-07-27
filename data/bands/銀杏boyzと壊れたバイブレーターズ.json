@@ -14,22 +14,35 @@
     }
   ],
   "countryInferred": "name-script",
-  "intro": "銀杏BOYZと壊れたバイブレーターズ是音乐团体。现有唱片目录收录了2010年的《SEX CITY 〜セックスしたい〜》。理解这个项目的另一条线索是成员关系：MusicBrainz将它记录为銀杏BOYZ的副项目。从銀杏BOYZ沿关系网点进来时，《SEX CITY 〜セックスしたい〜》可以作为试听入口。",
+  "intro": "銀杏BOYZと壊れたバイブレーターズ是銀杏BOYZ为剧作家三浦大辅的舞台《母に欲す》相关音乐采用的限定署名，核心仍是峯田和伸及銀杏BOYZ录音。2010年《SEX CITY 〜セックスしたい〜》从两百多段为舞台创作的素材中整理成十八曲摇滚组曲，包含主歌《ピンクローター》、短小器乐、现场片段和Eccy的remix；因此“壊れたバイブレーターズ”不是另一支长期并行的乐队，而是这套剧伴世界的临时化身。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Tower Records《SEX CITY》剧伴背景与曲目资料",
+      "url": "https://tower.jp/article/feature_item/2010/07/23/67947"
+    },
+    {
+      "label": "音楽ナタリー发行报道",
+      "url": "https://natalie.mu/music/news/35405"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d55947fc-5f1a-40f6-ac24-7b3d0679ccf4"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002L1oF14URqXv"
+  },
   "listens": 20,
   "listeners": 2,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d55947fc-5f1a-40f6-ac24-7b3d0679ccf4"
-  },
   "edges": [
     {
       "to": "銀杏boyz",

@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "妖精たち是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：Cornelius的履历把它与Fishmans+连接起来。",
+  "intro": "妖精たち是2013年围绕青葉市子特别录音组成的明星乐手集合，完整署名常写作“青葉市子と妖精たち”。所谓“妖精”包括細野晴臣、Cornelius小山田圭吾、tabla演奏者U-zhaan与坂本龍一；几人最初在NHK-FM《坂本龍一 ニューイヤー・スペシャル》中即兴合作，节目反响促成专辑《ラヂヲ》。他们以极轻的合奏衬托青葉的古典吉他与歌声，并重新演绎各自旧作；这不是长期巡演乐队，而是一场跨世代日本音乐人围绕广播现场留下的珍贵会合。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Tower Records组合与录音介绍",
+      "url": "https://tower.jp/nomusicnolife/2013/14"
+    },
+    {
+      "label": "《ラヂヲ》作品资料",
+      "url": "https://tower.jp/item/3266135"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d48c3c04-3bd9-41af-82c7-ccc223b790f2"
+  },
+  "musicLinks": {},
   "listens": 992,
   "listeners": 21,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d48c3c04-3bd9-41af-82c7-ccc223b790f2"
-  },
   "edges": [
     {
       "to": "くるり",

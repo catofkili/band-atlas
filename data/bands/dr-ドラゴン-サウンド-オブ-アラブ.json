@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Dr.ドラゴン&サウンド・オブ・アラブ是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：後藤次利的履历把它与サディスティックス连接起来。",
+  "intro": "Dr.ドラゴン&サウンド・オブ・アラブ是作曲家筒美京平为岩崎宏美1978年专辑《パンドラの小箱》设置的迪斯科录音企划：筒美以“Dr.ドラゴン”署名，伴奏班底则采用“サウンド・オブ・アラブ”之名。阵容汇集坂本龍一、佐藤準、渋井博等键盘手，林立夫与松原正樹、後藤次利、斉藤ノヴ也分别负责鼓、吉他、贝斯和打击乐。它以费城灵魂、放克和双鼓十六拍重塑昭和歌谣，是专辑概念下的明星录音组，而非长期活动的独立乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Tower Records再版资料中的项目定义、完整阵容与双鼓说明",
+      "url": "https://cdfront.tower.jp/~/media/Files/Company/PressRelease/2019/10/191011iwasakihiromi_SACD.pdf"
+    },
+    {
+      "label": "日本放送对筒美京平化名、企划概念与声音来源的回顾",
+      "url": "https://news.1242.com/article/180672"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/825a4cbb-5490-44b3-be3f-0bff62bb53fd"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/825a4cbb-5490-44b3-be3f-0bff62bb53fd"
-  },
   "edges": [
     {
       "to": "サディスティックス",

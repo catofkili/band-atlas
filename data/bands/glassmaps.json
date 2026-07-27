@@ -8,22 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "GLASSMAPS是音乐团体。理解这个项目的另一条线索是成员关系：录音资料记录了它与The Killers的合作联系。",
+  "intro": "GLASSMAPS是Howling Bells吉他手Joel Stein展开的个人创作项目，而不是The Killers成员另组的乐队。2017年首张专辑《Strangely Addicted》由Stein包办主要写作、演奏、录音与制作，在The Killers贝斯手Mark Stoermer位于拉斯维加斯的家庭录音室完成；Stoermer也为部分歌曲唱和声，并在《Summer Rain》中弹贝斯。项目把强劲另类摇滚、电子与有机乐器、迷幻声场结合，后来还曾以现场阵容为The Killers暖场。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Lost in the Manor对Joel Stein个人项目、首专与录音地点的介绍",
+      "url": "https://www.lostinthemanor.co.uk/lost-in-the-manor/2017/5/31/glassmaps"
+    },
+    {
+      "label": "Joel Stein访谈中的包办演奏及Mark Stoermer客串细节",
+      "url": "https://musicmusingsandsuch.wordpress.com/2017/06/22/interview-glassmaps/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/30860a89-b4d6-49b5-91b7-0d266bd85e45"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004YX8Ik021CfG",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12390084"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/30860a89-b4d6-49b5-91b7-0d266bd85e45"
-  },
   "edges": [
     {
       "to": "the-killers",

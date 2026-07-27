@@ -8,22 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Freak Brothers是音乐团体。理解这个项目的另一条线索是成员关系：Extrakd的履历把它与El Stew连接起来。",
+  "intro": "这里的The Freak Brothers是旧金山湾区turntablism与实验hip-hop圈的一次录音组合，由El Stew／No Forcefield成员Extrakd、Brain和DJ Flare等参与。2001年前后的《Gonervill Presents: The Freak Brothers》以真实乐器录音切片、beats和唱盘技法重组出怪异的器乐hip-hop，和Brain、Extrakd参与的Gonervill、El Stew共享人员；它并非漫画《The Fabulous Furry Freak Brothers》的虚构乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Impact Press专辑阵容与录音方式评论",
+      "url": "https://www.impactpress.com/articles/junjul01/musicr60701.html"
+    },
+    {
+      "label": "Gonervill成员资料",
+      "url": "https://www.last.fm/music/Gonervill"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5c93ecb4-9976-4b18-bb57-92f834e2d726"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=00421dEu3U9nqA",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F1100069"
+  },
   "listens": 10,
   "listeners": 1,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5c93ecb4-9976-4b18-bb57-92f834e2d726"
-  },
   "edges": [
     {
       "to": "el-stew",

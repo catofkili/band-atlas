@@ -37,6 +37,12 @@
   ],
   "intro": "DMBQ是一支日本摇滚乐队。乐队名称是“Dynamite Masters Blues Quartet”的缩写，由乐队成立时的成员各自挑选一个词组成。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/5sPayYOd3qYZzvMWdmGfog",
+    "apple": "https://music.apple.com/us/artist/band-atlas/80092642",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F136442",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001BNYCA3wh1Il"
+  },
   "listens": 1158,
   "listeners": 124,
   "quality": {

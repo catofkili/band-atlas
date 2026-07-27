@@ -17,22 +17,33 @@
       "year": 2007
     }
   ],
-  "intro": "Swarm's Arm是音乐团体。现有唱片目录可从1998年的《Swarm's Arm》一路听到2007年的《3285D》。理解这个项目的另一条线索是成员关系：小林愛的履历把它与toddle连接起来。从toddle沿关系网点进来时，《Swarm's Arm》可以作为试听入口。",
+  "intro": "Swarm’s Arm由主唱兼吉他手塩谷祐策与后来加入toddle的小林愛于1997年组成，最初只用多把吉他、廉价节奏机和男女双声部制作松弛的lo-fi pop。1998年同名首专之后，乐队曾与Silver Scooter进行美国split tour，也与Modest Mouse、Jad Fair等团同台；2004年前后加入moools鼓手内野正登与采样手舘山裕之，声音才从卧室式编程转向完整合奏。相隔九年的第二张《3285D》由bloodthirsty butchers的吉村秀樹制作，保留Pavement、The Pastels式歪斜轻盈，同时让节奏拥有更清楚的身体感。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "OTOTOY乐队历史与《3285D》介绍",
+      "url": "https://ototoy.jp/newreleases/20150528"
+    },
+    {
+      "label": "Tower Records成员项目回顾",
+      "url": "https://tower.jp/article/interview/2011/07/28/80525/80529"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a46f7006-3ad0-43fe-b51c-872560488061"
+  },
+  "musicLinks": {},
   "listens": 75,
   "listeners": 25,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a46f7006-3ad0-43fe-b51c-872560488061"
-  },
   "edges": [
     {
       "to": "toddle",

@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Dementia是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：TAIJI、吉田良文的履历把它与X JAPAN连接起来。",
+  "intro": "Dementia是1980年代中期活跃于日本地下metal场景的乐队，也是TAIJI从吉他转为贝斯后的第一个重要团体。他以Ray之名加入，与吉他手吉田“Hally”良文等人共事，并在约一年的活动中留下1985年的现场作品《Dementia Live!》；随后TAIJI辗转Prowler、Dead Wire并正式加入X，Hally则进入UNITED。有限的录音和成员流动，使Dementia更像日本早期thrash／heavy metal网络的一处孵化节点。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "TAIJI早期经历与《Dementia Live!》资料",
+      "url": "https://en.wikipedia.org/wiki/Taiji_(musician)"
+    },
+    {
+      "label": "日本地下金属场景及Dementia成员资料",
+      "url": "https://zh.wikipedia.org/wiki/%E6%97%A5%E6%9C%AC%E9%87%8D%E9%87%91%E5%B1%9E"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d407f94c-b369-4234-8356-c8eef68e3eb4"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d407f94c-b369-4234-8356-c8eef68e3eb4"
-  },
   "edges": [
     {
       "to": "x-japan",

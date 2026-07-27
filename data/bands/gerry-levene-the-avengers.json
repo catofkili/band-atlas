@@ -8,22 +8,35 @@
   "years": "1959–1964",
   "genres": [],
   "albums": [],
-  "intro": "Gerry Levene & the Avengers是来自伯明翰、1959至1964年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：John Bonham的履历把它与Led Zeppelin连接起来。",
+  "intro": "Gerry Levene & the Avengers是1959至1964年前后活跃于伯明翰及英格兰中部舞厅的早期rock ’n’ roll乐队，由歌手Gerry Levene领衔。尚在求学的John Bonham约于1962至1963年短暂为其打鼓，这是他进入Terry Webb and the Spiders、Band of Joy乃至Led Zeppelin之前最早的一段乐队经验；团体以现场翻唱为主，未留下成熟专辑目录，历史价值主要在当时地方舞厅网络与Bonham的起步阶段。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "John Bonham早期乐队履历",
+      "url": "https://en.wikipedia.org/wiki/John_Bonham"
+    },
+    {
+      "label": "1963年Record Mirror同期报道",
+      "url": "https://www.worldradiohistory.com/UK/Record-Mirror/60s/63/Record-Mirror-1963-06-08-S-OCR.pdf"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6d0d4632-1225-47c9-8119-5dcdf4f5fbd5"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004arsza2Vz1fh"
+  },
   "listens": 15,
   "listeners": 8,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6d0d4632-1225-47c9-8119-5dcdf4f5fbd5"
-  },
   "edges": [
     {
       "to": "led-zeppelin",

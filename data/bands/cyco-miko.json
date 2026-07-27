@@ -25,22 +25,38 @@
       "year": 2011
     }
   ],
-  "intro": "Cyco Miko是来自威尼斯、1994年至今活跃的音乐团体，现有资料将其归入鞭击金属、硬核朋克。现有唱片目录可从1995年的《Lost My Brain! (Once Again)》一路听到2011年的《The Mad Mad Muir Musical Tour (Part One)》。理解这个项目的另一条线索是成员关系：Mike Muir、Adam Siegel的履历把它与Infectious Grooves连接起来。从Infectious Grooves沿关系网点进来时，《Lost My Brain! (Once Again)》可以作为试听入口。",
+  "intro": "Cyco Miko并非传统意义上的独立乐队，而是Suicidal Tendencies主唱Mike Muir使用的个人化名。1995年的《Lost My Brain! (Once Again)》诞生于Suicidal Tendencies暂停活动时期，Adam Siegel等Infectious Grooves伙伴参与演奏，让Muir把硬核朋克、滑板文化式讽刺和更松动的放克金属写法放到主团之外；此后《Schizophrenic Born Again Problem Child》及《The Mad Mad Muir Musical Tour》继续沿用这一名字。它的价值在于把Muir本人而非某个固定阵容置于中心。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Mike Muir资料",
+      "url": "https://www.imdb.com/name/nm0611386/bio/"
+    },
+    {
+      "label": "《Lost My Brain》时期报道",
+      "url": "https://www.worldradiohistory.com/Archive-All-Music/Cash-Box/90s/1996/CB-1996-02-03.pdf"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d4fe1194-6dd2-4a5d-bdaf-b2c481e79434"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/178795938",
+    "spotify": "https://open.spotify.com/artist/3aWWBMNS7AmKYNxXofw9Z0",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004HhKQg0A03pD",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F136454"
+  },
   "listens": 1783,
   "listeners": 150,
   "quality": {
-    "score": 27,
-    "templateIntro": true,
+    "score": 69,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d4fe1194-6dd2-4a5d-bdaf-b2c481e79434"
-  },
   "edges": [
     {
       "to": "infectious-grooves",

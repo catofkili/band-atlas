@@ -8,23 +8,30 @@
   "years": "2018–",
   "genres": [],
   "albums": [],
-  "intro": "THE MAD CAPSULE MARKET'S 杉並是来自日本、2018年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：ミヤ的履历把它与MUCC连接起来。",
+  "intro": "THE MAD CAPSULE MARKET’S 杉並是2018年前后出现的THE MAD CAPSULE MARKETS致敬乐队，也是ミヤ主导的“杉並”翻唱session网络之一。公开目录明确将其标作tribute band，而成员关系又把它与Slipknot杉並等项目中的ミヤ、Allen连接；其作用是在限定现场复刻原团融合digital hardcore、punk与industrial rock的高速曲目。它没有以原创团体身份发行唱片，也不等同于2006年停止活动的原乐队复活。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz成立年份与tribute band性质记录",
+      "url": "https://musicbrainz.org/artist/cde10718-4856-43a9-8571-a2e0dfeb40bd/details"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cde10718-4856-43a9-8571-a2e0dfeb40bd"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/cde10718-4856-43a9-8571-a2e0dfeb40bd"
-  },
   "edges": [
     {
       "to": "slipknot杉並",

@@ -8,22 +8,33 @@
   "years": "1973–",
   "genres": [],
   "albums": [],
-  "intro": "キャラメル・ママ是来自日本、1973年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：鈴木茂、林立夫的履历把它与ティン・パン・アレー连接起来。",
+  "intro": "キャラメル・ママ是はっぴいえんど解散后，细野晴臣与铃木茂在1973年前后联合林立夫、松任谷正隆组成的日本录音室乐手集团。四人一面为荒井由实、小坂忠等歌手提供精细伴奏，一面吸收美国西海岸摇滚、funk、爵士与日本歌谣的编曲经验；后来改名ティン・パン・アレー并发行《キャラメル・ママ》，其意义不只是一支乐队，更在于把幕后伴奏与制作本身推到日本流行音乐革新的中心。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Tower Records成团、改名与录音史专题",
+      "url": "https://tower.jp/article/series/2011/02/22/75512"
+    },
+    {
+      "label": "JVC铃木茂官方履历",
+      "url": "https://www.jvcmusic.co.jp/guitarist/artist5.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7513da43-3b98-4da9-812d-2388ad5efaa7"
+  },
+  "musicLinks": {},
   "listens": 26,
   "listeners": 2,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/7513da43-3b98-4da9-812d-2388ad5efaa7"
-  },
   "edges": [
     {
       "to": "tin-pan",

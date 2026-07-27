@@ -8,22 +8,31 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Fractured Mirror是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：宇高光的履历把它与X JAPAN连接起来。",
+  "intro": "这里的Fractured Mirror指MusicBrainz收录的日本乐队条目，目前能够可靠确认的成员是贝斯手宇高光。关系资料把宇高光此前参与X JAPAN、挪威黑金属乐队Emperor相关演出的经历连接到这个项目，但公开目录尚不足以支持更具体的成立年份、固定阵容或风格判断。因此本图谱保留其成员关系，同时不把流媒体上其他同名乐队的作品误并到这里。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz日本乐队条目与宇高光成员关系",
+      "url": "https://musicbrainz.org/artist/d5a00516-3dc3-4001-824a-970b55651921"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d5a00516-3dc3-4001-824a-970b55651921"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F52084039"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d5a00516-3dc3-4001-824a-970b55651921"
-  },
   "edges": [
     {
       "to": "x-japan",

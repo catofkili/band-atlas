@@ -21,6 +21,12 @@
   ],
   "intro": "METAFIVE是日本的一支超级乐队。2014年，作为仅限一夜的组合“高桥幸宏&METAFIVE”成立，2015年更名为METAFIVE。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/911328176",
+    "spotify": "https://open.spotify.com/artist/5bIZrkukT53Jqrc4Vl4dvI",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0048hXPu3v0etE",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F11987067"
+  },
   "listens": 4572,
   "listeners": 374,
   "quality": {

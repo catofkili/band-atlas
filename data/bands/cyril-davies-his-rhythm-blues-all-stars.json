@@ -8,23 +8,34 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Cyril Davies & His Rhythm & Blues All Stars是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Cyril Davies、Dick Heckstall‐Smith、Long John Baldry的履历把它与Alexis Korner’s Blues Incorporated连接起来。",
+  "intro": "Cyril Davies & His Rhythm & Blues All Stars是口琴手兼歌手Cyril Davies于1962年离开Alexis Korner’s Blues Incorporated后组建的英国电声蓝调乐队。Davies追求更纯粹的Chicago blues，早期从Screaming Lord Sutch的Savages吸收Nicky Hopkins、Carlo Little与Ricky Fenson，并加入吉他手Bernie Watson、歌手Long John Baldry及和声组The Velvettes；1963年单曲《Country Line Special / Chicago Calling》以凶猛口琴和紧凑节奏成为代表。Davies于1964年突然去世后，Baldry接手成员并发展为Hoochie Coochie Men，使这支短命团体成为英国blues boom向Rod Stewart等下一代传递人脉的关键节点。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Cyril Davies生平与All-Stars录音史",
+      "url": "https://www.allaboutbluesmusic.com/cyril-davies/"
+    },
+    {
+      "label": "Earlyblues英国蓝调人物史",
+      "url": "https://earlyblues.org/british-blues-biographies-cyril-davies/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/bdb71ec1-1b6c-4333-89f1-5d9d1f7a9560"
+  },
+  "musicLinks": {},
   "listens": 44,
   "listeners": 26,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/bdb71ec1-1b6c-4333-89f1-5d9d1f7a9560"
-  },
   "edges": [
     {
       "to": "alexis-korner-s-blues-incorporated",

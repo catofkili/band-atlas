@@ -8,22 +8,35 @@
   "years": "1972–1973",
   "genres": [],
   "albums": [],
-  "intro": "コンフィデンス是来自日本、1972至1973年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：三宅康夫、坂崎幸之助、桜井賢的履历把它与THE ALFEE连接起来。",
+  "intro": "コンフィデンス是THE ALFEE正式出道前的高中民谣组合。桜井賢约在1970年与明治学院高中同学三宅康夫、高橋志郎成团，演唱Simon & Garfunkel等人的歌；1972年在Victor民谣比赛获胜时结识坂崎幸之助，坂崎随后加入。组合曾为小室等主持的广播剧原声《愛よこんにちは》录制歌曲，高見沢俊彦后来加入，团名则在职业出道前改为Alfie；因此它不是THE ALFEE的旁支，而是其和声与木吉他传统的直接前身。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "坂崎幸之助官方电台资料中的原声曲与主唱",
+      "url": "https://jfn-pods.com/program/7477/article/P53ZGVBG4S"
+    },
+    {
+      "label": "坂崎官方简介中的加入经过",
+      "url": "https://www.interfm.co.jp/dj/dj-detail/219"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/52587764-b2ab-4c5a-8eb4-28d427687cb5"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F637889"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/52587764-b2ab-4c5a-8eb4-28d427687cb5"
-  },
   "edges": [
     {
       "to": "the-alfee",

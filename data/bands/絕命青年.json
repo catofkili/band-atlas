@@ -13,22 +13,35 @@
       "year": 2022
     }
   ],
-  "intro": "絕命青年是来自台湾、2021年至今活跃的音乐团体。现有唱片目录收录了2022年的《來一場冒險》。理解这个项目的另一条线索是成员关系：Soni Cheng、Soft Liu的履历把它与GDJYB连接起来。从GDJYB沿关系网点进来时，《來一場冒險》可以作为试听入口。",
+  "intro": "絕命青年是香港乐队雞蛋蒸肉餅的Soni Cheng与Soft Liu于2021年移居台湾后组成的双人乐队，团名灵感来自末日求生游戏《絕體絕命都市》。Soni包办吉他及主要器乐，Soft负责主唱，两人在2022年首专《來一場冒險》中用indie pop、电子音色和生活采样书写迁移、时代不安与重新开始；这张高度自主制作的七曲专辑随后入围第34届金曲奖最佳演唱组合。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "火氣音樂乐队命名、迁移与首专专访",
+      "url": "https://www.fireonmusic.com.tw/2512/"
+    },
+    {
+      "label": "cacao成员与创作访谈",
+      "url": "https://cacaomag.co/running-youth/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/15242e2f-01a6-41e6-8466-1a5eee571ffa"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/0bghT9sR5oyjqmdpUfSvrU"
+  },
   "listens": 18,
   "listeners": 7,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/15242e2f-01a6-41e6-8466-1a5eee571ffa"
-  },
   "edges": [
     {
       "to": "gdjyb",

@@ -39,6 +39,12 @@
   ],
   "regionalFeatured": true,
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/708069022",
+    "spotify": "https://open.spotify.com/artist/3iW4UAZQOJEXLW7L3H04gm",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000Tejbr4f8mxc",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F11234"
+  },
   "listens": 3782,
   "listeners": 241,
   "quality": {

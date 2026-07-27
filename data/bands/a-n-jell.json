@@ -8,22 +8,35 @@
   "years": "2009–2009",
   "genres": [],
   "albums": [],
-  "intro": "A.N.JELL是来自首尔、2009年活跃的音乐团体。理解这个项目的另一条线索是成员关系：이홍기的履历把它与FTISLAND连接起来。",
+  "intro": "A.N.JELL是2009年SBS韩剧《原来是美男》中的虚构偶像乐队，成员由张根硕饰演的黄泰京、郑容和饰演的姜新禹、李洪基饰演的Jeremy，以及朴信惠女扮男装饰演的高美男组成。角色在剧情中演奏《Promise》《Still》等歌，演员也以该名义登台并进入原声带目录。它并非现实中长期经营的K-pop团体，却把CNBLUE与FTISLAND成员、演员和剧中叙事连接成一支可在戏外被收听的“真实虚构乐队”。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "SBS《原来是美男》官方网站",
+      "url": "https://programs.sbs.co.kr/drama/angell/main"
+    },
+    {
+      "label": "剧集与虚构乐队资料",
+      "url": "https://en.wikipedia.org/wiki/You%27re_Beautiful_(TV_series)"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3a2429ae-a36e-4ed2-8ec7-9acce01c506e"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F126247"
+  },
   "listens": 310,
   "listeners": 55,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/3a2429ae-a36e-4ed2-8ec7-9acce01c506e"
-  },
   "edges": [
     {
       "to": "cnblue",

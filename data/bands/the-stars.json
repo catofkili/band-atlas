@@ -21,22 +21,36 @@
       "year": 2005
     }
   ],
-  "intro": "The Stars是来自日本、1999至2009年间活跃的音乐团体。现有唱片目录可从2004年的《Will》一路听到2005年的《Vangelis (Cover Version)》。理解这个项目的另一条线索是成员关系：亀川千代的履历把它与ゆらゆら帝国连接起来。从ゆらゆら帝国沿关系网点进来时，《Will》可以作为试听入口。",
+  "intro": "THE STARS是WHITE HEAVEN主唱兼吉他手石原洋在1999年前后成立的日本迷幻摇滚乐队，主要阵容还包括WHITE HEAVEN吉他手栗原ミチオ、ゆらゆら帝国贝斯手亀川千代与鼓手荒川康伸。两张核心专辑《Will》和《Perfect Place to Hideaway》从厚重硬摇滚逐渐转向更幽暗、绵长的宇宙迷幻：反复低音与稳定鼓点托住栗原延展的吉他，石原则以低沉歌声控制张力。2005年的第二张也是最后一张录音室专辑，后来重制版补入几首接近完成的未发表母带。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Pedal Records官方重制版资料",
+      "url": "https://pedalrecords.bandcamp.com/album/perfect-place-to-hideaway-2024-remastered"
+    },
+    {
+      "label": "Tower Records乐队访谈",
+      "url": "https://tower.jp/article/interview/2005/12/08/100039754"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ecc5c994-d417-4e94-8a80-8079d9a2c3b9"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0044C4oa1A5V4D",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F97122013"
+  },
   "listens": 436,
   "listeners": 60,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/ecc5c994-d417-4e94-8a80-8079d9a2c3b9"
-  },
   "edges": [
     {
       "to": "boris",

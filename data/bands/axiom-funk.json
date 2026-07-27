@@ -15,23 +15,38 @@
       "year": 1995
     }
   ],
-  "intro": "Axiom Funk是来自美国的音乐团体，现有资料将其归入放克。现有唱片目录收录了1995年的《Funkcronomicon》。理解这个项目的另一条线索是成员关系：Bill Laswell、Nicky Skopelitis的履历把它与Material连接起来。从Material沿关系网点进来时，《Funkcronomicon》可以作为试听入口。",
+  "intro": "Axiom Funk是制作人兼贝斯手Bill Laswell为1995年双CD《Funkcronomicon》设立的开放式超级组合名义，而非阵容固定的巡演乐队。项目召回George Clinton体系中的Bootsy Collins、Bernie Worrell、Eddie Hazel、Blackbyrd McKnight等P-Funk乐手，同时加入Herbie Hancock、Sly Stone、Buckethead、The Last Poets与Laswell长期伙伴。作品从经典P-Funk出发，吸收dub、电子、嘻哈与实验摇滚；其中还保存了Eddie Hazel去世前最后一批录音，使它既是一次更新，也是对整个放克家族的档案式重组。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Bill Laswell官方Bandcamp专辑页",
+      "url": "https://billlaswell.bandcamp.com/album/funkcronomicon"
+    },
+    {
+      "label": "AllMusic项目与专辑介绍",
+      "url": "https://www.allmusic.com/album/funkcronomicon-mw0000177082"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/975c829a-644d-4fd0-9843-043428f4ee1e"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002h5tHe1syD1P",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F87986",
+    "apple": "https://music.apple.com/us/artist/axiom-funk/741248392"
+  },
   "listens": 508,
   "listeners": 82,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 17,
-    "templateIntro": true,
+    "score": 59,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/975c829a-644d-4fd0-9843-043428f4ee1e"
-  },
   "edges": [
     {
       "to": "material",

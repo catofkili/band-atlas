@@ -11,22 +11,38 @@
     "太空摇滚"
   ],
   "albums": [],
-  "intro": "Orcutt Shelley Miller是音乐团体，现有资料将其归入迷幻摇滚、太空摇滚。理解这个项目的另一条线索是成员关系：Ethan Miller的履历把它与Anywhere连接起来。",
+  "intro": "Orcutt Shelley Miller是吉他手Bill Orcutt、Sonic Youth鼓手Steve Shelley与Howlin’ Rain、Comets on Fire成员Ethan Miller组成的前卫摇滚三人组。三人在2024年4月于洛杉矶Zebulon首次同台，并直接把现场录音做成2025年的同名首专：五段器乐从明确riff出发，再靠即兴不断拆解和重组。Orcutt尖锐的吉他、Shelley稳定而灵活的鼓与Miller改任贝斯形成一支介于自由爵士方法、迷幻摇滚和噪音朋克之间的power trio。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "乐队官方Bandcamp与唱片资料",
+      "url": "https://orcuttshelleymiller.bandcamp.com/album/orcutt-shelley-miller"
+    },
+    {
+      "label": "Pitchfork专辑评论",
+      "url": "https://pitchfork.com/reviews/albums/orcutt-shelley-miller-orcutt-shelley-miller/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7994fd50-cd4d-4366-9848-53afd8827b8d"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1818996995",
+    "spotify": "https://open.spotify.com/artist/0m2UovS6OpaxRZ3e30plk1",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003786OF13kJhV",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F98787787"
+  },
   "listens": 586,
   "listeners": 112,
   "quality": {
-    "score": 13,
-    "templateIntro": true,
+    "score": 55,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/7994fd50-cd4d-4366-9848-53afd8827b8d"
-  },
   "edges": [
     {
       "to": "anywhere",

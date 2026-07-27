@@ -10,22 +10,35 @@
     "摇滚乐"
   ],
   "albums": [],
-  "intro": "The Immortals是来自伦敦、1986年活跃的音乐团体，现有资料将其归入摇滚乐。理解这个项目的另一条线索是成员关系：John Deacon的履历把它与Queen连接起来。",
+  "intro": "这里的The Immortals是Queen贝斯手John Deacon、吉他手Robert Ahwai与歌手Lenny Zakatek为1986年电影《Biggles》临时组成的三人录音项目。Deacon与Ahwai共同创作、制作唯一单曲《No Turning Back》，合成器驱动的电影摇滚由Zakatek主唱，宣传MV还成为Peter Cushing最后一次银幕露面；单曲未上榜，三人也没有继续活动，因此这是Deacon极少数Queen之外署名作品之一。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Biggles》原声与《No Turning Back》资料",
+      "url": "https://en.wikipedia.org/wiki/Biggles_(film)"
+    },
+    {
+      "label": "The Immortals完整阵容与单曲资料",
+      "url": "https://queenfrancefanclub.fr/no-turning-back"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b927d6c9-9549-4c76-aa67-530bd0a127f0"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000n9esA2GUcZi"
+  },
   "listens": 31,
   "listeners": 4,
   "quality": {
-    "score": 7,
-    "templateIntro": true,
+    "score": 49,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/b927d6c9-9549-4c76-aa67-530bd0a127f0"
-  },
   "edges": [
     {
       "to": "queen",

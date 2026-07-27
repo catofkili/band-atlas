@@ -13,23 +13,39 @@
       "year": 2023
     }
   ],
-  "intro": "Blackbird Angels是来自美国的音乐团体。现有唱片目录收录了2023年的《Solsorte》。理解这个项目的另一条线索是成员关系：Tracii Guns的履历把它与Guns N' Roses连接起来。从Guns N' Roses沿关系网点进来时，《Solsorte》可以作为试听入口。",
+  "intro": "Blackbird Angels是L.A. Guns吉他手Tracii Guns与Slash巡演乐队贝斯手兼歌手Todd Kerns共同建立的硬摇滚二人核心项目，鼓手Adam Hamilton参与首专录音。2023年《Solsorte》源于Guns想直接回到少年时期喜爱的70年代摇滚，以Bad Company、Led Zeppelin式厚重riff、双吉他层次和Kerns的高亢主唱为重点；它与L.A. Guns同期运作，却刻意避开后者既有写法，成为两位成员更私人化的classic-rock出口。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Frontiers官方成团背景、阵容与首专资料",
+      "url": "https://www.frontiers.it/news/11541"
+    },
+    {
+      "label": "Tracii Guns访谈中的创作定位",
+      "url": "https://www.classicrockhistory.com/tracii-guns-of-l-a-guns-the-classicrockhistory-com-interview/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ee3c259e-1a6f-43ed-a5a8-9e4c6a819e5b"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/2Qhb0BX8YcT8NsGKHn8unc",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004Jiz1n0MQbFb",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F57079882",
+    "apple": "https://music.apple.com/us/artist/blackbird-angels/1690211775"
+  },
   "listens": 113,
   "listeners": 6,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/ee3c259e-1a6f-43ed-a5a8-9e4c6a819e5b"
-  },
   "edges": [
     {
       "to": "guns-n-roses",

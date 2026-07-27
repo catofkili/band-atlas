@@ -22,22 +22,35 @@
     }
   ],
   "countryInferred": "name-script",
-  "intro": "高浪慶太郎となんがさきふぁいぶ是音乐团体。现有唱片目录可从2010年的《龍馬のハナ唄 赤盤》一路听到2011年的《ドレミの大航海 ナガサキ洋楽事始め》。理解这个项目的另一条线索是成员关系：高浪慶太郎的履历把它与Pizzicato Five连接起来。从Pizzicato Five沿关系网点进来时，《龍馬のハナ唄 赤盤》可以作为试听入口。",
+  "intro": "高浪慶太郎となんがさきふぁいぶ是前Pizzicato Five成员高浪慶太郎2009年移居长崎后发起的地方主题项目。2010年的《龍馬のハナ唄》赤、青两盘以月琴、明清乐和异国情调的休闲流行为坂本龙马时代的长崎重新配乐，2011年《ドレミの大航海 ナガサキ洋楽事始め》继续追溯西洋音乐传入当地的历史。它把高浪精巧的流行编曲与长崎史、在地演奏者结合，是有连续唱片和现场活动的地区性乐团，而非Pizzicato Five的改名。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "高浪慶太郎履历中的长崎迁居、项目成立与活动说明",
+      "url": "https://www.tunecore.co.jp/artists?id=1038113"
+    },
+    {
+      "label": "VIVID SOUND《龍馬のハナ唄》发行与月琴主题资料",
+      "url": "https://www.vividsound.co.jp/item.php?lid=4540399312170"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/284a0755-f402-4ceb-8a9c-0bcc86ad3bdf"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F162112"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/284a0755-f402-4ceb-8a9c-0bcc86ad3bdf"
-  },
   "edges": [
     {
       "to": "pizzicato-five",

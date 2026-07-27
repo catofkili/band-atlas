@@ -33,22 +33,36 @@
       "year": 2022
     }
   ],
-  "intro": "声音碎片是来自中国的音乐团体。现有唱片目录可从2002年的《世界是噪音的花园》一路听到2022年的《有限身 无穷念》。理解这个项目的另一条线索是成员关系：曹操的履历把它与木马连接起来。从木马沿关系网点进来时，《世界是噪音的花园》可以作为试听入口。",
+  "intro": "声音碎片于2000年代初在北京成形，核心创作者是主唱马玉龙、吉他手李伟与键盘手刘光蕊。2002年的《世界是噪音的花园》以低沉克制的演奏、富于内省的歌词和逐层展开的编曲建立了乐队气质，随后《优美的低于生活》《把光芒洒向更开阔的地方》让声音从阴郁的地下摇滚逐渐走向更辽阔、明亮的表达。马玉龙带有诗歌感的写作和略沙哑的声线始终是中心，而键盘与吉他之间保留的大量空间，使他们在中国独立摇滚中拥有很难混淆的从容感。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "声音碎片乐队专访",
+      "url": "https://www.weibo.com/ttarticle/p/show?id=2309634329762876182909"
+    },
+    {
+      "label": "《世界是噪音的花园》资料",
+      "url": "https://music.douban.com/subject/1428734/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c458e9c5-6d39-4d4e-856c-8c861f707182"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000prI7X45Ow8W",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F34752411"
+  },
   "listens": 2380,
   "listeners": 83,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c458e9c5-6d39-4d4e-856c-8c861f707182"
-  },
   "edges": [
     {
       "to": "木马",

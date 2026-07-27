@@ -10,22 +10,33 @@
     "摇滚"
   ],
   "albums": [],
-  "intro": "The Illiterate Hands是来自牛津的音乐团体，现有资料将其归入摇滚。理解这个项目的另一条线索是成员关系：Jonny Greenwood的履历把它与Radiohead连接起来。",
+  "intro": "The Illiterate Hands是Jonny Greenwood在牛津Abingdon School求学时参加的少年乐队，成立时间早于他正式进入On a Friday／Radiohead。阵容由Matt Hawkesworth弹吉他、Jonny负责键盘与口琴、Thom Yorke的弟弟Andy主唱、Simon Newton弹贝斯；他们在卧室排练，也借学校关系到牛津附近录音室录过作品并参加校内、本地演出，但没有留下正式商业唱片。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "The Illiterate Hands阵容与早期录音回忆",
+      "url": "https://www.radiohead.fr/the-illiterate-hands/"
+    },
+    {
+      "label": "Jonny Greenwood早期乐队履历",
+      "url": "https://www.radiohead.fr/jonny-greenwood/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8d289273-27fc-41d9-8978-7d469b154413"
+  },
+  "musicLinks": {},
   "listens": 5,
   "listeners": 1,
   "quality": {
-    "score": 8,
-    "templateIntro": true,
+    "score": 50,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/8d289273-27fc-41d9-8978-7d469b154413"
-  },
   "edges": [
     {
       "to": "radiohead",

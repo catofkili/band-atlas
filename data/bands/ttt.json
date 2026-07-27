@@ -8,22 +8,31 @@
   "years": "2015–",
   "genres": [],
   "albums": [],
-  "intro": "TTT是来自日本、2015年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：薫的履历把它与DIR EN GREY连接起来。",
+  "intro": "TTT是2015年12月由多位日本摇滚乐手组成的THE MAD CAPSULE MARKETS翻唱乐队，缩写来自“Tora Tora Tora”：成员大多生肖属虎。KOJI与兼任VJ、主持的BOO使用Mr.T T T名义主唱，DIR EN GREY的薫和LM.C的Aiji弹吉他，The BONEZ／Pay money To my Pain的T$UYO$HI演奏贝斯，UZMK的DUTTCH打鼓。项目只在特定年份举行玩票式现场，没有正式原创发行，其价值在于用重型跨团阵容重现一支日本数字hardcore先驱的现场冲击。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "TTT成团由来、完整阵容与演出记录",
+      "url": "https://degwiki.com/wiki/TTT"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2e5b4b47-f083-43c1-9708-ec8aba7df887"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F34576244"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/2e5b4b47-f083-43c1-9708-ec8aba7df887"
-  },
   "edges": [
     {
       "to": "dir-en-grey",

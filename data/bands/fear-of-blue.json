@@ -13,22 +13,35 @@
       "year": 2009
     }
   ],
-  "intro": "Fear of Blue是来自美国的音乐团体。现有唱片目录收录了2009年的《Fear of Blue》。理解这个项目的另一条线索是成员关系：Kevin McMahon的履历把它与Nine Inch Nails连接起来。从Nine Inch Nails沿关系网点进来时，《Fear of Blue》可以作为试听入口。",
+  "intro": "Fear of Blue是Lucky Pierre与Prick核心Kevin McMahon和制作人、吉他手Rae DiLeo在1989年前后合作的电子摇滚录音项目。两人在DiLeo的好莱坞录音室完成素材，声音比McMahon其他吉他乐队更依赖合成器、采样与冷硬节拍；这些录音长期没有正式面世，直到2009年才以同名专辑完整发行，因此唱片年份并不等于项目真正发生的年代。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Fear of Blue项目档案与录音沿革",
+      "url": "https://luckyprick.net/bio.php?band=Fear+Of+Blue"
+    },
+    {
+      "label": "Kevin McMahon作品年表",
+      "url": "https://en.wikipedia.org/wiki/Kevin_McMahon_(musician)"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f35abb3a-6eb9-46d7-aaa9-d06b321f64dd"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003KwSlS43HKjc"
+  },
   "listens": 6,
   "listeners": 3,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f35abb3a-6eb9-46d7-aaa9-d06b321f64dd"
-  },
   "edges": [
     {
       "to": "nine-inch-nails",

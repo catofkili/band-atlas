@@ -37,6 +37,11 @@
     "ROCKSTEADY",
     "KILLER TUNE"
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/78903713",
+    "spotify": "https://open.spotify.com/artist/4q5fHrf0Q0R6imQ3etjXEG",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F21336"
+  },
   "listens": 15946,
   "listeners": 676,
   "quality": {

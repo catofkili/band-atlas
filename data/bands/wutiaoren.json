@@ -43,6 +43,12 @@
   ],
   "regionalFeatured": true,
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/998448938",
+    "spotify": "https://open.spotify.com/artist/6NQwuxgsebzIzixLkAHDCT",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001pxv2v4Olrcg",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F938017"
+  },
   "listens": 3893,
   "listeners": 157,
   "quality": {

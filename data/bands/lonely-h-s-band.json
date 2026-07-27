@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Lonely H's Band是来自韩国的音乐团体。理解这个项目的另一条线索是成员关系：이선규的履历把它与자우림连接起来。",
+  "intro": "Lonely H’s Band是Hot Potato的김C与Jaurim的이선규在韩国组建的限定项目，两人在此前的Peppermint Club合作约三年后再次会合，并邀请Omega 3键盘手고경천参与。团名和视觉向The Beatles的《Sgt. Pepper’s Lonely Hearts Club Band》致意；2010年他们为环保主题合辑《Life》录制《고향에 살어리랏다》，以复古乐队编制承载回到故乡生活的想象，没有另行发展成长篇唱片企划。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Genie两位核心成员、企划由来与歌曲说明",
+      "url": "https://www.genie.co.kr/detail/albumInfo?axnm=80136873"
+    },
+    {
+      "label": "Bugs艺人页与《Life》合辑收录记录",
+      "url": "https://music.bugs.co.kr/artist/8014224"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/64c76808-e12c-49e5-aabf-30d5f3e6556e"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003kQYf73b3WLF"
+  },
   "listens": 2,
   "listeners": 1,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/64c76808-e12c-49e5-aabf-30d5f3e6556e"
-  },
   "edges": [
     {
       "to": "자우림",

@@ -17,22 +17,36 @@
       "year": 2018
     }
   ],
-  "intro": "Elements of Life是来自美国的音乐团体。现有唱片目录可从2013年的《Eclipse》一路听到2018年的《Into My Life (You Brought The Sunshine)》。理解这个项目的另一条线索是成员关系：Lisa Fischer的履历把它与Nine Inch Nails连接起来。从Nine Inch Nails沿关系网点进来时，《Eclipse》可以作为试听入口。",
+  "intro": "Elements of Life是纽约house制作人Louie Vega从同名歌曲与2004年个人专辑发展出来的现场乐队，而非阵容封闭的普通组合。项目以Vega为指挥与制作核心，长期伙伴包括歌手Josh Milan、Anané、Raúl Midón，打击乐手Luisito Quintero及多位爵士、拉丁与soul乐手；深情house的电子底盘由钢琴、铜管、手鼓和多层人声在舞台上重新演奏。2013年的《Eclipse》继续扩展这套语言，Elements of Life也因此成为Vega把DJ文化、纽约波多黎各传统、Afro-Latin节奏和大型现场合奏连起来的主要载体。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "DJ Mag Louie Vega专访与乐队形成史",
+      "url": "https://djmag.com/features/louie-vega-masters-at-work-nuyorican-soul-interview"
+    },
+    {
+      "label": "AllMusic《Elements of Life》专辑与演奏人员资料",
+      "url": "https://www.allmusic.com/album/elements-of-life-mw0000696176"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2a4929b0-3056-48ed-90f7-a0b58ab42329"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/7uMlQA2qyNSJTbnqp1rbNY",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F776802"
+  },
   "listens": 176,
   "listeners": 51,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/2a4929b0-3056-48ed-90f7-a0b58ab42329"
-  },
   "edges": [
     {
       "to": "change",

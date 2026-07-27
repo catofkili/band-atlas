@@ -30,6 +30,10 @@
   "links": {
     "musicbrainz": "https://musicbrainz.org/artist/cff696d7-d383-4654-b4a7-078e1a321842"
   },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1185455717",
+    "spotify": "https://open.spotify.com/artist/4fmdz90I7bCk35iK6GZ9fK"
+  },
   "listens": 3018,
   "listeners": 176,
   "quality": {

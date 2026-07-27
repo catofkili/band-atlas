@@ -1,8 +1,14 @@
-import { REL } from './data.js?v=7062dc3344';
+import { REL } from './data.js?v=c426179865';
 
 const SVG_NS = 'http://www.w3.org/2000/svg';
 /** 连线层用一张固定大小的画布，原点摆在正中，省掉 viewBox 的负坐标换算。 */
 export const CANVAS_HALF = 4000;
+const MUSIC_PLATFORMS = [
+  ['qq', 'QQ 音乐'],
+  ['netease', '网易云音乐'],
+  ['apple', 'Apple Music'],
+  ['spotify', 'Spotify'],
+];
 
 function el(tag, className, text) {
   const node = document.createElement(tag);
@@ -29,6 +35,9 @@ export function buildFocusCard(band) {
     head.append(tags);
   }
   card.append(head);
+
+  const listen = buildListenPanel(band);
+  if (listen) card.append(listen);
 
   const body = el('div', 'card__body');
 
@@ -139,6 +148,51 @@ export function buildFocusCard(band) {
   card.append(foot);
 
   return card;
+}
+
+function buildListenPanel(band) {
+  const available = MUSIC_PLATFORMS.filter(([key]) => band.musicLinks?.[key]);
+
+  const details = el('details', 'listen');
+  const summary = el('summary', 'listen__summary');
+  summary.setAttribute('role', 'button');
+  summary.setAttribute('aria-expanded', 'false');
+  summary.append(el('span', 'listen__icon', '♪'));
+  summary.append(el('span', 'listen__title', '去听听'));
+  summary.append(
+    el('span', 'listen__hint', available.length ? `${available.length} 个平台` : '暂未匹配')
+  );
+  summary.addEventListener('keydown', (event) => {
+    if (event.key !== 'Enter' && event.key !== ' ') return;
+    event.preventDefault();
+    details.open = !details.open;
+  });
+  details.addEventListener('toggle', () => {
+    summary.setAttribute('aria-expanded', String(details.open));
+  });
+  details.append(summary);
+
+  const links = el('div', 'listen__links');
+  for (const [key, label] of MUSIC_PLATFORMS) {
+    if (!band.musicLinks?.[key]) {
+      const missing = el('span', `listen__link listen__link--${key} listen__link--missing`);
+      missing.setAttribute('aria-disabled', 'true');
+      missing.append(el('span', 'listen__platform', label));
+      missing.append(el('span', 'listen__missing', '未找到主页'));
+      links.append(missing);
+      continue;
+    }
+    const link = el('a', `listen__link listen__link--${key}`);
+    link.href = band.musicLinks[key];
+    link.target = '_blank';
+    link.rel = 'noopener noreferrer';
+    link.setAttribute('aria-label', `在 ${label} 打开 ${band.name} 的艺人主页（新窗口）`);
+    link.append(el('span', 'listen__platform', label));
+    link.append(el('span', 'listen__arrow', '↗'));
+    links.append(link);
+  }
+  details.append(links);
+  return details;
 }
 
 function section(title) {

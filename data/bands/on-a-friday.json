@@ -16,22 +16,36 @@
       "year": 1987
     }
   ],
-  "intro": "On a Friday是来自泰晤士河畔阿宾顿、1985至1991年间活跃的音乐团体，现有资料将其归入独立流行乐、牛津。现有唱片目录收录了1987年的《Medicinal Sounds》。理解这个项目的另一条线索是成员关系：Colin Greenwood、Jonny Greenwood、Ed O’Brien、Philip Selway、Thom Yorke的履历把它与Radiohead连接起来。从Radiohead沿关系网点进来时，《Medicinal Sounds》可以作为试听入口。",
+  "intro": "On a Friday是Radiohead在签约前使用的原始团名。Thom Yorke、Colin Greenwood、Ed O’Brien与Philip Selway于1985年在牛津郡Abingdon School组队，名称来自他们通常只能在周五使用学校音乐教室排练；Jonny Greenwood后来从口琴和键盘位置加入。成员上大学后曾分散，1991年重聚并以demo《Manic Hedgehog》获得EMI合约，随后按唱片公司要求取Talking Heads歌曲《Radio Head》之名改称Radiohead。它不是旁支，而是同一套五人阵容的学生时代。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Abingdon School校史资料",
+      "url": "https://archives.abingdon.org.uk/content/uncategorized/radiohead"
+    },
+    {
+      "label": "Radiohead成团资料",
+      "url": "https://en.wikipedia.org/wiki/Radiohead"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c74f4726-2671-4011-81b6-f70da905c05a"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0049OVdx0H4Ncr",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F98424"
+  },
   "listens": 884,
   "listeners": 101,
   "quality": {
-    "score": 24,
-    "templateIntro": true,
+    "score": 66,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c74f4726-2671-4011-81b6-f70da905c05a"
-  },
   "edges": [
     {
       "to": "radiohead",

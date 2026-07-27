@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "凡風是来自香港的音乐团体。理解这个项目的另一条线索是成员关系：區新明的履历把它与小島连接起来。",
+  "intro": "凡風是小島樂隊第一代阵容拆分后，區新明与崔炎德于1986年组成的香港双人乐队。首张专辑《奇想》由區新明承担大部分曲词，以《中國飯店》写移民、《奇想》谈环境污染、《廿五》观察人生，清新的流行编曲带有鲜明的本地作者意识；后期《風中奔馳》《紫色夏日》则更靠近市场化情歌。它延续了小島樂隊的原创路线，却不是旧团改名，而是两位成员重新建立的创作组合。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "JOOX双人阵容、1986年成立、专辑主题与风格沿革",
+      "url": "https://www.joox.com/hk/artist/s1n0gvUbJ3OqN_uaZ2uZTw%3D%3D"
+    },
+    {
+      "label": "香港电影资料馆对凡風来源与电影原创音乐的说明",
+      "url": "https://www.filmarchive.gov.hk/documents/18995340/19057015/ebook_chi_03.pdf"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/b8b6d7cb-3900-47f0-aba4-74ecc8443b08"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/b8b6d7cb-3900-47f0-aba4-74ecc8443b08"
-  },
   "edges": [
     {
       "to": "小島",

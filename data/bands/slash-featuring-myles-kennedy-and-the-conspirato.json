@@ -45,22 +45,38 @@
       "title": "Bad Rain"
     }
   ],
-  "intro": "Slash featuring Myles Kennedy and the Conspirators是来自美国、2010年至今活跃的音乐团体，现有资料将其归入硬摇滚、摇滚。想从歌曲进入，可以先听《You're a Lie》、《World on Fire》、《Bad Rain》。理解这个项目的另一条线索是成员关系：Brent Fitz的履历把它与BulletBoys连接起来。从BulletBoys沿关系网点进来时，《You're a Lie》可以作为试听入口。",
+  "intro": "Slash featuring Myles Kennedy and the Conspirators源于Slash在2010年个人专辑之后组织的巡演班底：Alter Bridge主唱Myles Kennedy负责主唱，Todd Kerns担任贝斯与和声，Brent Fitz负责鼓，Frank Sidoris后来固定担任节奏吉他。2012年的《Apocalyptic Love》第一次以这套名称正式发行，此后的《World on Fire》《Living the Dream》和《4》让它从明星吉他手的伴奏组发展成阵容稳定的硬摇滚乐队；Slash的长篇吉他独奏、Kennedy高亢而清晰的声线和现场录制感，是理解它的三个入口。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Slash官方网站简介",
+      "url": "https://www.slashonline.com/bio/"
+    },
+    {
+      "label": "Warner Music Japan艺人简介",
+      "url": "https://wmg.jp/slash/profile/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/7ce51ba7-91f4-46aa-a030-1e22aaa7510d"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1001742690",
+    "spotify": "https://open.spotify.com/artist/2InxuNbggJRrU3sORD4Dzc",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003GNtLn1WRgdD",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F28646010"
+  },
   "listens": 103171,
   "listeners": 2947,
   "quality": {
-    "score": 45,
-    "templateIntro": true,
+    "score": 87,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/7ce51ba7-91f4-46aa-a030-1e22aaa7510d"
-  },
   "edges": [
     {
       "to": "bulletboys",

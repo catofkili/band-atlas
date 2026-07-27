@@ -8,22 +8,34 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Mark Knopfler’s Guitar Heroes是音乐团体。理解这个项目的另一条线索是成员关系：Pete Townshend、Zak Starkey、Roger Daltrey的履历把它与The Who连接起来。",
+  "intro": "Mark Knopfler’s Guitar Heroes是为2024年慈善单曲重新录制《Going Home (Theme From Local Hero)》而设立的一次性集体署名。Knopfler与制作人Guy Fletcher把Jeff Beck生前最后录音之一放在开头，再让Eric Clapton、David Gilmour、Brian May、Slash、Tom Morello、Nile Rodgers、Steve Vai、Bruce Springsteen等数十位乐手依次接力，Ringo Starr与Zak Starkey负责节奏。收益支持Teenage Cancer Trust与Teen Cancer America，因此它不是可巡演的超级乐队，而是一首器乐曲容纳多代吉他史的公益工程。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Mark Knopfler官方网站项目公告",
+      "url": "https://www.markknopfler.com/news/mark-knopflers-guitar-heroes/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6d1c3698-6ef2-4f67-b626-fa16e2c69c8e"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1721348252",
+    "spotify": "https://open.spotify.com/artist/3aLx50ZvKUfjooPUJu3zKS",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002m9X971Gm4s4",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F60763084"
+  },
   "listens": 326,
   "listeners": 63,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6d1c3698-6ef2-4f67-b626-fa16e2c69c8e"
-  },
   "edges": [
     {
       "to": "delaney-bonnie",

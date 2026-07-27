@@ -33,6 +33,11 @@
     "official": "https://adoyofficial.com/",
     "musicbrainz": "https://musicbrainz.org/artist/2a0d8d44-5089-4e9a-aa41-360ac67c9385"
   },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002yKQJs0Oh00B",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F15259115",
+    "apple": "https://music.apple.com/kr/artist/adoy/1245962396"
+  },
   "listens": 15920,
   "listeners": 695,
   "quality": {

@@ -13,23 +13,34 @@
       "year": 2000
     }
   ],
-  "intro": "Southern Fly是来自英国的音乐团体。现有唱片目录收录了2000年的《High》。理解这个项目的另一条线索是成员关系：Gem Archer的履历把它与Oasis连接起来。从Oasis沿关系网点进来时，《High》可以作为试听入口。",
+  "intro": "Southern Fly是1990年代末活跃的英国乐队，成员包括Carwyn Ellis、Terry Kirkbride、Michael Rosenberg、Ashley Higgins与Simon Scott。乐队先后发行《Monkey Tale》《For Real》EP和《Maybe It’s the Right Time》，并在London Records于2000年推出专辑《High》；声音位于当时英式indie rock、迷幻流行与较松弛的groove之间。其商业活动虽短，后来成为多乐器手Ellis进入Colorama及大量跨团合作之前的重要履历。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Southern Fly成员与唱片目录",
+      "url": "https://www.musicstack.com/records-cds/southern%2Bfly"
+    },
+    {
+      "label": "NME《High》同期评论",
+      "url": "https://www.nme.com/reviews/reviews-nme-2062-341600"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8515f3fc-d9d1-4c97-8513-849a1ee31369"
+  },
+  "musicLinks": {},
   "listens": 1,
   "listeners": 1,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/8515f3fc-d9d1-4c97-8513-849a1ee31369"
-  },
   "edges": [
     {
       "to": "oasis",

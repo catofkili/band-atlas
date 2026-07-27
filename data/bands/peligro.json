@@ -13,22 +13,33 @@
       "year": 1995
     }
   ],
-  "intro": "Peligro是来自美国的音乐团体。现有唱片目录收录了1995年的《Peligro》。理解这个项目的另一条线索是成员关系：D.H. Peligro的履历把它与Red Hot Chili Peppers连接起来。从Red Hot Chili Peppers沿关系网点进来时，《Peligro》可以作为试听入口。",
+  "intro": "Peligro是Dead Kennedys鼓手D.H. Peligro在1990年代转到台前后建立的个人乐队名义，他在这里负责主唱和吉他。1995年同名专辑由Jello Biafra的Alternative Tentacles发行，把硬核朋克的速度与Peligro从Red Hot Chili Peppers经历中吸收的放克、重金属和雷鬼节奏并置；后续还有《Welcome to America》和《Sum of Our Surroundings》。项目让他不再只是著名鼓手，也直接呈现一位黑人朋克音乐人的写作、政治表达与跨风格身份。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "D.H. Peligro履历",
+      "url": "https://en.wikipedia.org/wiki/D._H._Peligro"
+    },
+    {
+      "label": "1995年同名专辑评论",
+      "url": "https://lollipopmagazine.com/1995/07/peligro-review/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d1a65402-9e71-4392-ac85-9b57d05a6844"
+  },
+  "musicLinks": {},
   "listens": 331,
   "listeners": 8,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d1a65402-9e71-4392-ac85-9b57d05a6844"
-  },
   "edges": [
     {
       "to": "dead-kennedys",

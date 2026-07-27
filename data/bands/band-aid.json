@@ -20,6 +20,11 @@
       "title": "Do They Know It's Christmas? / Feed the World"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/725044408",
+    "spotify": "https://open.spotify.com/artist/35S20clEkkSNUo23ViaslZ",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F211250"
+  },
   "listens": 25701,
   "listeners": 4620,
   "quality": {

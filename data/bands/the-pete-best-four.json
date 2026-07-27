@@ -8,22 +8,35 @@
   "years": "1963–1964",
   "genres": [],
   "albums": [],
-  "intro": "The Pete Best Four是来自英国、1963至1964年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：Pete Best的履历把它与The Beatles连接起来。",
+  "intro": "The Pete Best Four是Lee Curtis与The All-Stars于1963年分裂后，由鼓手Pete Best、Wayne Bickerton、Tony Waddington等原成员改组而成的Merseybeat乐队，名称由Decca为突出Best的前Beatles身份而采用。1964年唯一英国单曲《I’m Gonna Knock on Your Door / Why Did I Fall in Love with You》未获商业成功，Best也只负责鼓而不担任主唱，真正的写作与演唱重心逐渐落在Bickerton和Waddington身上。此后团体扩编为Pete Best Combo并赴美国录音，因此“四人组”准确指向从Curtis伴奏班底到美国时期之间短暂的一年。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "AllMusic Pete Best与四人组历史",
+      "url": "https://www.allmusic.com/artist/pete-best-mn0000312692"
+    },
+    {
+      "label": "Pete Best官方网站1960年代履历",
+      "url": "https://www.petebest.com/biography-1960/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/fe89039d-2167-453e-8e03-b2ab5656b84b"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004CiqNb0Q2pUj"
+  },
   "listens": 29,
   "listeners": 21,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/fe89039d-2167-453e-8e03-b2ab5656b84b"
-  },
   "edges": [
     {
       "to": "lee-curtis-the-all-stars",

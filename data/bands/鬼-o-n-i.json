@@ -13,22 +13,35 @@
       "year": 2019
     }
   ],
-  "intro": "鬼 -O.N.I-是来自日本的音乐团体。现有唱片目录收录了2019年的《Parsley, Sage, Rosemary, and Thyme》。理解这个项目的另一条线索是成员关系：Atsuo、Takeshi的履历把它与Boris连接起来。从Boris沿关系网点进来时，《Parsley, Sage, Rosemary, and Thyme》可以作为试听入口。",
+  "intro": "鬼 -O.N.I-是围绕日本地下摇滚先驱YBO²作品展开的致敬录音项目，而不是一支拥有长期固定阵容的普通乐队。Boris的Atsuo与Takeshi参与演奏，并由原YBO²主唱森川誠一郎等相关音乐人串联，2019年前后的《Parsley, Sage, Rosemary, and Thyme》把旧作重新放进更厚重、噪响而仪式化的声音中；这个项目随后也促成Atsuo与森川继续合作A/N。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "HMV项目唱片资料",
+      "url": "https://www.hmv.co.jp/artist_%E9%AC%BC--O-N-I-_000000000843350/item_Parsly--Sage--Rosemary--and-Thyme_11082788"
+    },
+    {
+      "label": "A/N官网关于鬼O.N.I录音与合作缘起的说明",
+      "url": "https://arashuiandanonno.com/profile.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/107adced-ab32-404f-828d-50470f4ac723"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F54636320"
+  },
   "listens": 17,
   "listeners": 3,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/107adced-ab32-404f-828d-50470f4ac723"
-  },
   "edges": [
     {
       "to": "a-n-eɪ-ɛn",

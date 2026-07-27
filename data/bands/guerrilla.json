@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "GUERRILLA是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：yukihiro的履历把它与L’Arc〜en〜Ciel连接起来。",
+  "intro": "GUERRILLA是yukihiro在加入ZI:KILL以前参与的日本hardcore乐队，也是他职业履历中最早被持续记录的团体之一。资料显示他在学生时期与后来组建TOKYO YANKEES的UME、NORI共同活动，随后才进入ZI:KILL、OPTIC NERVE与DIE IN CRIES；这种早期地下经历也解释了他后来偏好的工业、电子与强硬节奏。GUERRILLA没有留下可核实的正式唱片目录，其意义主要在于连接yukihiro与1980年代末东京heavy／visual系人脉。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "yukihiro早期GUERRILLA至ZI:KILL履历",
+      "url": "https://www.vkdb.jp/yukihiro.html"
+    },
+    {
+      "label": "ZI:KILL成员数据库中的GUERRILLA关系记录",
+      "url": "https://band-db.geo.jp/band/zikill"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8710c59b-8249-4cbd-873c-2839dc7ec31f"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/8710c59b-8249-4cbd-873c-2839dc7ec31f"
-  },
   "edges": [
     {
       "to": "acid-android",

@@ -8,23 +8,34 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The RD Crusaders是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Roger Daltrey、Simon Townshend的履历把它与The Who连接起来。",
+  "intro": "The RD Crusaders是The Who主唱Roger Daltrey与报业出版人Richard Desmond在2003年发起的英国慈善超级乐队，名称也取两人姓名首字母。阵容随募款演出变化，曾集合Lulu、Gary Moore、Greg Lake、Gary Brooker、Russ Ballard、Simon Townshend、Zoot Money等；首演在Ronnie Scott’s为Teenage Cancer Trust筹款，后来又支持Evelina儿童医院与Norwood。它的延续方式是群星慈善演出，而非固定成员录制常规专辑。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "RD Crusaders成立、慈善对象与历次阵容资料",
+      "url": "https://en.wikipedia.org/wiki/The_RD_Crusaders"
+    },
+    {
+      "label": "Roger Daltrey履历中的演出与参与者目录",
+      "url": "https://en.wikipedia.org/wiki/Roger_Daltrey"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5e4fd5fa-936f-43bf-b54d-5287978a3059"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5e4fd5fa-936f-43bf-b54d-5287978a3059"
-  },
   "edges": [
     {
       "to": "the-who",

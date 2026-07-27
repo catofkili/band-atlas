@@ -8,22 +8,35 @@
   "years": "2013–",
   "genres": [],
   "albums": [],
-  "intro": "Sticky Blood是来自谢菲尔德、2013年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：Andy Nicholson的履历把它与Arctic Monkeys连接起来。",
+  "intro": "Sticky Blood是前Arctic Monkeys贝斯手Andy Nicholson与制作人Jamie Shield在谢菲尔德组成的制作二人组。两人原先同在hip-hop团体Clubs & Spades，2014年前后转为共同制作，并在2015年EP《I.D.》中邀请Ajay Carter、Snowy、Hekky等MC和歌手参与；沉重低频、UK hip-hop鼓组、grime棱角与阴暗电子音色取代传统吉他乐队框架。Nicholson和Shield仍亲自演奏鼓、吉他、贝斯与键盘，但项目核心是为不同声音塑造节拍和空间，因此更接近开放式制作搭档而非固定主唱乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Wonderland二人组访谈与《I.D.》介绍",
+      "url": "https://www.wonderlandmagazine.com/2015/08/12/new-noise-sticky-blood/"
+    },
+    {
+      "label": "首张EP先行曲与成员资料",
+      "url": "https://diffuser.fm/listen-to-former-arctic-monkeys-bassist-andy-nicholsons-new-sticky-blood-song-professional/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/857d05c4-ad27-4153-a23d-2ae44e3e2b4a"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002lsFD42czK2w"
+  },
   "listens": 86,
   "listeners": 21,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/857d05c4-ad27-4153-a23d-2ae44e3e2b4a"
-  },
   "edges": [
     {
       "to": "arctic-monkeys",

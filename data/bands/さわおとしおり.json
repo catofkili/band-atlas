@@ -18,22 +18,29 @@
     }
   ],
   "countryInferred": "name-script",
-  "intro": "さわおとしおり是音乐团体。现有唱片目录可从2023年的《Private loophole》一路听到2025年的《リンビック システム》。理解这个项目的另一条线索是成员关系：山中さわお的履历把它与the pillows连接起来。从the pillows沿关系网点进来时，《Private loophole》可以作为试听入口。",
+  "intro": "さわおとしおり是the pillows主唱山中さわお与Base Ball Bear贝斯手関根史織组成的双主唱合作项目，鼓手山﨑聖之参与录音和现场。2023年七曲CD《Private loophole》以山中的干脆吉他流行写法配合関根兼具旋律性的贝斯与歌声，仅在巡演会场和通販发行；2025年《リンビック システム》延续这套小编制，使项目从一次合作成长为两位作者持续交换歌曲的出口。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "山中さわお官网《Private loophole》阵容与发行资料",
+      "url": "https://yamanakasawao.com/y/discography/private-loophole"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/884f4e23-7f4b-4f69-ae43-37f0116ac426"
+  },
+  "musicLinks": {},
   "listens": 17,
   "listeners": 4,
   "quality": {
-    "score": 12,
-    "templateIntro": true,
+    "score": 54,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/884f4e23-7f4b-4f69-ae43-37f0116ac426"
-  },
   "edges": [
     {
       "to": "the-pillows",

@@ -17,22 +17,33 @@
       "year": 2024
     }
   ],
-  "intro": "Gorgone是来自法国的音乐团体。现有唱片目录可从2005年的《Gorgone》一路听到2024年的《Barminam》。理解这个项目的另一条线索是成员关系：Pinchface、Travis Dickerson的履历把它与Cornbugs连接起来。从Cornbugs沿关系网点进来时，《Gorgone》可以作为试听入口。",
+  "intro": "Gorgone是Buckethead、键盘手兼录音师Travis Dickerson与鼓手Pinchface在制作《Population Override》期间自然形成的三人即兴项目。三人让录音带持续运转，把没有预写结构、又不适合归入原专辑的长篇jam整理成2005年同名唱片；Buckethead在吉他与贝斯之间切换，Dickerson以风琴和合成器回应，Pinchface则维持松动而怪异的groove。三首曲目几乎保留现场原貌，因此它与其说是常规乐队，不如说是一次把录音室玩笑、70年代器乐即兴与三人默契完整保存下来的会合。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Travis Dickerson官方网站项目说明",
+      "url": "https://travisdickerson.com/travis.html"
+    },
+    {
+      "label": "TDRS官方Bandcamp阵容与曲目",
+      "url": "https://tdrsmusic.bandcamp.com/album/gorgone"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f6d0eb56-ece2-47fe-9716-81fc6c1ddea5"
+  },
+  "musicLinks": {},
   "listens": 141,
   "listeners": 25,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f6d0eb56-ece2-47fe-9716-81fc6c1ddea5"
-  },
   "edges": [
     {
       "to": "cornbugs",

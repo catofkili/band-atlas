@@ -19,6 +19,11 @@
   ],
   "intro": "MD.45 是一支美国重金属/朋克摇滚乐队，由 Megadeth 乐队吉他手兼主唱戴夫·马斯泰恩（Dave Mustaine）和 Fear 乐队主唱李·文（Lee Ving）作为副业项目组建而成。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/17237166",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002A93jI27pWyJ",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F97501"
+  },
   "listens": 7049,
   "listeners": 451,
   "quality": {

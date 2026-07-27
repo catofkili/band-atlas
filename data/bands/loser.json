@@ -15,23 +15,30 @@
       "year": 1991
     }
   ],
-  "intro": "Loser是来自美国的音乐团体，现有资料将其归入摇滚。现有唱片目录收录了1991年的《Bek's a Loser》。理解这个项目的另一条线索是成员关系：Justin Meldal‐Johnsen的履历把它与Nine Inch Nails连接起来。从Nine Inch Nails沿关系网点进来时，《Bek's a Loser》可以作为试听入口。",
+  "intro": "这里的Loser不是Beck后来热门单曲《Loser》的固定伴奏乐队，而是他1991年自制盒式录音《Bek’s a Loser》中部分曲目采用的松散署名。磁带把《Backwash Mother》《Falling Off a Cliff》《The Fucking Train》等Loser名下录音与Beck个人片段交错编排，先于1993年那首同名成名单曲；它缺少可核实的稳定阵容和独立活动史，因此资料库里由同名合并产生的广泛成员关系不宜当成真实乐队谱系。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz《Bek’s a Loser》曲目与署名资料",
+      "url": "https://musicbrainz.org/release/59910868-0ffc-4321-874b-d6b5fd5c7685"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/577758f9-73db-44cb-9cb6-8508a842db77"
+  },
+  "musicLinks": {},
   "listens": 31,
   "listeners": 9,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 18,
-    "templateIntro": true,
+    "score": 60,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/577758f9-73db-44cb-9cb6-8508a842db77"
-  },
   "edges": [
     {
       "to": "record-club",

@@ -36,6 +36,10 @@
   ],
   "intro": "Cornbugs 是一支成立于 1995 年的美国前卫金属乐队。乐队成员包括主唱 Bill “Choptop” Moseley、吉他手 Buckethead、鼓手 Pinchface 以及键盘手 Travis……",
   "introLang": "zh",
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002LwvNr1zGRuz",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F90307"
+  },
   "listens": 2249,
   "listeners": 119,
   "quality": {

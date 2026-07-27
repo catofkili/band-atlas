@@ -15,23 +15,36 @@
       "year": 1970
     }
   ],
-  "intro": "Lord Sutch & Heavy Friends是来自英国的音乐团体，现有资料将其归入迷幻摇滚。现有唱片目录收录了1970年的《Lord Sutch and Heavy Friends》。理解这个项目的另一条线索是成员关系：John Bonham的履历把它与Led Zeppelin连接起来。从Led Zeppelin沿关系网点进来时，《Lord Sutch and Heavy Friends》可以作为试听入口。",
+  "intro": "Lord Sutch & Heavy Friends是Screaming Lord Sutch为1970年同名专辑召集的全明星录音阵容。Jimmy Page担任制作并弹吉他，John Bonham、Jeff Beck、Noel Redding、Nicky Hopkins等人参与，把Sutch夸张的恐怖舞台人格放进粗砺蓝调与早期重型摇滚。豪华名单与松散成品之间的反差使它后来常被列入“最差专辑”榜单，但这张唱片也保存了Led Zeppelin成名初期与英国60年代R&B人脉一次古怪的交会。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Record Collector专辑与阵容回顾",
+      "url": "https://recordcollectormag.com/articles/sutchs-life"
+    },
+    {
+      "label": "AllMusic专辑资料",
+      "url": "https://www.allmusic.com/album/lord-sutch-and-heavy-friends-mw0000459757"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/05b1427d-e344-4932-ae42-8a3f096c2119"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F31138482"
+  },
   "listens": 297,
   "listeners": 38,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 18,
-    "templateIntro": true,
+    "score": 60,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/05b1427d-e344-4932-ae42-8a3f096c2119"
-  },
   "edges": [
     {
       "to": "cyril-davies-his-rhythm-blues-all-stars",

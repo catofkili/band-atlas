@@ -8,23 +8,37 @@
   "years": "1969–1970",
   "genres": [],
   "albums": [],
-  "intro": "Sour Milk Sea是来自英国、1969至1970年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：Freddie Mercury的履历把它与Queen连接起来。",
+  "intro": "Sour Milk Sea是1969至1970年短暂活动于英国Oxford一带的heavy blues／hard rock乐队，团名取自George Harrison同名歌曲。Chris Dummett、Jeremy Gallop、Paul Milne与鼓手Rob Tyrrell先组成阵容，Freddie Bulsara在Wreckage结束后于1970年初加入主唱，演出过他尚未成为Queen作品的早期歌曲《Lover》等；数周后乐队解散，他随即加入Smile并推动其改名Queen。现有可靠成员资料并不包括The Cure鼓手Boris Williams，数据库中的这条关系应属同名项目混淆。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Sour Milk Sea成团、Freddie加入与完整成员资料",
+      "url": "https://en.wikipedia.org/wiki/Sour_Milk_Sea_(band)"
+    },
+    {
+      "label": "Freddie Mercury履历中的Ibex、Sour Milk Sea与Smile衔接",
+      "url": "https://www.allmusic.com/artist/freddie-mercury-mn0000130028/biography"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f25910c3-e986-406e-8b00-82ed581fcee5"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002ckCKv3RSbyD",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F47169713"
+  },
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f25910c3-e986-406e-8b00-82ed581fcee5"
-  },
   "edges": [
     {
       "to": "queen",

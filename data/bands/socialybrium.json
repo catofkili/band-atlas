@@ -13,22 +13,31 @@
       "year": 2010
     }
   ],
-  "intro": "SociaLybrium是2009年至今活跃的音乐团体。现有唱片目录收录了2010年的《For You - For Us - For All》。理解这个项目的另一条线索是成员关系：J.T. Lewis的履历把它与Material连接起来。从Material沿关系网点进来时，《For You - For Us - For All》可以作为试听入口。",
+  "intro": "SociaLybrium是Parliament-Funkadelic键盘手Bernie Worrell与吉他手Blackbyrd McKnight、贝斯手Melvin Gibbs及鼓手J.T. Lewis组成的四人funk乐队。2010年唯一专辑《For You – For Us – For All》让Worrell的钢琴与合成器置于由厚重贝斯、灵活现场鼓和尖锐吉他支撑的集体即兴中，把P-Funk血缘推向jazz fusion与器乐摇滚；它不是Worrell个人唱片换名，而是四位成员共同推进groove的完整合奏。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Jambands《For You – For Us – For All》乐评与完整阵容",
+      "url": "https://jambands.com/reviews/cds/2010/02/01/socialybrum-for-you-for-us-for-all/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a5a8bf09-1de9-46eb-a2c3-d198bc4c45f7"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001yIeJd2EZkwK"
+  },
   "listens": 23,
   "listeners": 9,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a5a8bf09-1de9-46eb-a2c3-d198bc4c45f7"
-  },
   "edges": [
     {
       "to": "material",

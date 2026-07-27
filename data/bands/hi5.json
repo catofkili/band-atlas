@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Hi5是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：鹿島達也的履历把它与the pillows连接起来。",
+  "intro": "这里的Hi5是秦基博出道初期使用的录音与现场伴奏乐队名义，不应与奥地利爵士团或后来同名电子艺人混淆。其合作圈以吉他手山本タカシ、贝斯手鹿島達也等人为核心，演奏刻意克制，让秦的木吉他、歌声与旋律保持在正中央；2008年单曲《虹が消えた日》中的《Baby, I miss you》明确由Hi5编曲。这个名称主要标记秦与固定乐手共同塑造的早期band sound，而不是脱离歌手单独经营唱片目录的团体。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Baby, I miss you》Hi5编曲署名与发行资料",
+      "url": "https://tower.jp/item/2397525"
+    },
+    {
+      "label": "早期现场乐队演奏取向及成员访谈记录",
+      "url": "https://sorasofa.blog.fc2.com/blog-date-201001.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5f8f6e63-b615-43ea-b5ab-16a36ce3d85b"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5f8f6e63-b615-43ea-b5ab-16a36ce3d85b"
-  },
   "edges": [
     {
       "to": "the-pillows",

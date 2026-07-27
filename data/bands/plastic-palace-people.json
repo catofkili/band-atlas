@@ -13,22 +13,29 @@
       "year": 2020
     }
   ],
-  "intro": "Plastic Palace People是音乐团体。现有唱片目录收录了2020年的《From the Host of Latecomers》。理解这个项目的另一条线索是成员关系：Christoph Heemann的履历把它与Mimir连接起来。从Mimir沿关系网点进来时，《From the Host of Latecomers》可以作为试听入口。",
+  "intro": "Plastic Palace People是德国实验音乐人Christoph Heemann与美国音乐人Jim O’Rourke采用的二人合作名义。两人2013年8月在东京录下长篇即兴，直到2020年才以《From the Host of Latecomers》发行；唱片仅有两首各约十九分钟的作品，在持续音、电子处理、器乐纹理与近乎静止的空间感之间缓慢演化。这个名字因此对应一次延迟多年面世的具体录音合作，而非持续巡演的固定双人组。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Christoph Heemann官方Bandcamp二人阵容、录音与发行资料",
+      "url": "https://christophheemann.bandcamp.com/album/from-the-host-of-latecomers"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/464e2a4d-a7b2-4768-91fd-7db54dab4bbe"
+  },
+  "musicLinks": {},
   "listens": 2,
   "listeners": 1,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/464e2a4d-a7b2-4768-91fd-7db54dab4bbe"
-  },
   "edges": [
     {
       "to": "mimir",

@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "廃人黒薔薇族是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：Shinya的履历把它与DIR EN GREY连接起来。",
+  "intro": "廃人黒薔薇族是KISAKI与京在1995年秋组织的关西session／翻唱乐队。早期阵容由京主唱，#4与Seine弹吉他，KISAKI演奏贝斯，鼓手Atsushi很快由Shinya接替；他们在难波、心斋桥与大阪城一带演出黒夢、LUNA SEA和D’ERLANGER作品，没有正式发行，只流传少量现场影像。团体在同年末结束后，京、KISAKI与Shinya立即成为La:Sadie’s核心，因此它是DIR EN GREY前史中的人员汇合点，而非后来的正式重组。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "KISAKI官网1995年首演与现场档案",
+      "url": "https://kisaki-official.jp/history/livearchive"
+    },
+    {
+      "label": "阵容、翻唱曲、演出与解散考证",
+      "url": "https://degwiki.com/wiki/%E5%BB%83%E4%BA%BA%E9%BB%92%E8%96%94%E8%96%87%E6%97%8F"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ae5688b9-5fe2-4f34-827e-80fe6762efa5"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/ae5688b9-5fe2-4f34-827e-80fe6762efa5"
-  },
   "edges": [
     {
       "to": "la-sadie-s",

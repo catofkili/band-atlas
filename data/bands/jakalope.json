@@ -27,6 +27,11 @@
   ],
   "intro": "Jakalope 是一支加拿大独立流行/摇滚乐队。他们成立于 2003 年，乐队名称源自神话生物“杰克洛普”（jackalope）。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/4SChTKHzTukwIqHR2ruHLj",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002XpICI3Quo9Y",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F61033"
+  },
   "listens": 23448,
   "listeners": 407,
   "quality": {

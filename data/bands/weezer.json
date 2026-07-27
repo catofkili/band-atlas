@@ -68,6 +68,11 @@
       "title": "豬肉和豆子"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/115234",
+    "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F45837"
+  },
   "listens": 2024961,
   "listeners": 20619,
   "quality": {

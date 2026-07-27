@@ -41,6 +41,12 @@
   ],
   "intro": "Melt-Banana 是一支日本摇滚乐队。他们在美国和欧洲的朋克摇滚乐迷中获得的支持，甚至超过了在祖国日本。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/1aDpQ3bo57IlYWmsG5sdlp",
+    "apple": "https://music.apple.com/us/artist/band-atlas/18870597",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F827723",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002eE6R34a5dZT"
+  },
   "listens": 149330,
   "listeners": 3097,
   "quality": {

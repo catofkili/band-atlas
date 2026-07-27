@@ -17,6 +17,12 @@
   ],
   "intro": "Boogie Box High 是 1980 年代末由安德罗斯·乔治欧（Andros Georgiou）领衔的英国流行音乐项目，该项目汇聚了众多合作者，包括乔治·迈克尔（George Michael）、吉他手尼克……",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/373053242",
+    "spotify": "https://open.spotify.com/artist/5lMtzRRfeeoV6TctGGsyAF",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003zGYHF0g8Jsx",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F31570340"
+  },
   "listens": 210,
   "listeners": 75,
   "quality": {

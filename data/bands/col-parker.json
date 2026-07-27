@@ -13,23 +13,34 @@
       "year": 2001
     }
   ],
-  "intro": "Col. Parker是来自美国的音乐团体。现有唱片目录收录了2001年的《Rock'n'Roll Music》。理解这个项目的另一条线索是成员关系：Mark \"Muddy\" Dutton的履历把它与L.A. Guns连接起来。从L.A. Guns沿关系网点进来时，《Rock'n'Roll Music》可以作为试听入口。",
+  "intro": "Col. Parker是前Guns N’ Roses吉他手Gilby Clarke、Stray Cats鼓手Slim Jim Phantom、键盘手Teddy “Zig Zag” Andreadis与贝斯兼歌手Muddy Stardust组成的美国roots-rock四人组。2001年唯一专辑《Rock N’ Roll Music》在Clarke与Stardust轮流演唱之间，把Memphis摇滚、blues、garage与Beggars Banquet时期Rolling Stones式松散感揉成一张酒吧乐队唱片；项目没有追求长期超级乐队规模，重点就是四位老练乐手对成长年代摇滚语言的一次回访。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Phoenix New Times专辑评论与完整阵容",
+      "url": "https://www.phoenixnewtimes.com/music/col-parker-6413806/"
+    },
+    {
+      "label": "Modern Drummer对Slim Jim Phantom与Col. Parker的报道",
+      "url": "https://www.moderndrummer.com/2004/05/slim-jim-phantom/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/cf53fd12-9abf-4115-a099-65a9d7160c00"
+  },
+  "musicLinks": {},
   "listens": 78,
   "listeners": 7,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/cf53fd12-9abf-4115-a099-65a9d7160c00"
-  },
   "edges": [
     {
       "to": "l-a-guns",

@@ -17,22 +17,32 @@
       "year": 2001
     }
   ],
-  "intro": "Gonervill是音乐团体。2001年的唱片目录包括《Gonervill》和《The Freak Brothers》。理解这个项目的另一条线索是成员关系：DJ Eddie Def、Extrakd的履历把它与El Stew连接起来。从El Stew沿关系网点进来时，《Gonervill》可以作为试听入口。",
+  "intro": "Gonervill是Bill Laswell构想并制作的实验hip-hop三人组，由鼓手Bryan “Brain” Mantia与两位湾区turntablist DJ Eddie Def、Extrakd组成。2001年同名专辑把Brain稳定而有弹性的现场breakbeat置于中心，让两台唱盘进行密集刮擦与采样切割，Buckethead、M.I.R.V.等客席吉他再加入迷幻、dub和怪诞放克色彩。它与El Stew共享成员，却以“鼓手加双唱盘”的明确编制，把DJ技术真正当成乐队合奏而非歌曲装饰。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Qobuz阵容与专辑介绍",
+      "url": "https://www.qobuz.com/ca-en/album/gonervill-gonervill/h3aw2jhf9qhew"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d8da300b-4961-47a4-bdb5-f2795bf28b0c"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001XeyVK4IXnd2",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F32716164"
+  },
   "listens": 88,
   "listeners": 11,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d8da300b-4961-47a4-bdb5-f2795bf28b0c"
-  },
   "edges": [
     {
       "to": "el-stew",

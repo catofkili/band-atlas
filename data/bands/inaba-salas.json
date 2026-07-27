@@ -17,22 +17,36 @@
       "year": 2025
     }
   ],
-  "intro": "Inaba/Salas是2017年至今活跃的音乐团体。现有唱片目录可从2017年的《Chubby Groove》一路听到2025年的《ATOMIC CHIHUAHUA》。理解这个项目的另一条线索是成员关系：稲葉浩志的履历把它与B’z连接起来。从B’z沿关系网点进来时，《Chubby Groove》可以作为试听入口。",
+  "intro": "INABA／SALAS是B’z主唱稻叶浩志与美籍吉他手Stevie Salas组成的跨国摇滚合作项目。两人共同制作2017年《CHUBBY GROOVE》，把稻叶的日语旋律和Salas擅长的funk rock、dance-rock吉他结合，巡演阵容还包括Matt Sherrod、Amp Fiddler与Stuart Zender；项目并非一次性客席，之后继续发行《Maximum Huavo》并在2025年以《ATOMIC CHIHUAHUA》重启。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Stevie Salas官网《CHUBBY GROOVE》合作与巡演资料",
+      "url": "https://www.steviesalas.com/music/chubby-groove/"
+    },
+    {
+      "label": "《Chubby Groove》发行与曲风资料",
+      "url": "https://en.wikipedia.org/wiki/Chubby_Groove"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/09019044-116c-4099-b123-69149b5f045f"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12279291",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000audJF4Ri6qr"
+  },
   "listens": 3,
   "listeners": 2,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/09019044-116c-4099-b123-69149b5f045f"
-  },
   "edges": [
     {
       "to": "b-z",

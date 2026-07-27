@@ -44,6 +44,11 @@
     "Storywriter",
     "White Surf style 5."
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/343892346",
+    "spotify": "https://open.spotify.com/artist/4g59G9OEAMkD8pd8oiEqx0",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F159031"
+  },
   "listens": 170349,
   "listeners": 1067,
   "quality": {

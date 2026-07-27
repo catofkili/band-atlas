@@ -8,23 +8,36 @@
   "years": "2019–",
   "genres": [],
   "albums": [],
-  "intro": "Radio Darlings是来自日本、2019年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：谷口鮪的履历把它与KANA-BOON连接起来。",
+  "intro": "Radio Darlings是FM802为2019年开局30周年“ACCESS!”活动组织的一曲限定单元。aiko为《メロンソーダ》作词作曲，トオミヨウ编曲，并与上白石萌歌、谷口鮪、橋本絵莉子、はっとり、藤原聡六位歌手接力演唱，KAN与秦基博加入合唱。作品曾制作全员出演的MV，并以TSUTAYA限期租赁CD发行；这个名字只承载当年春季电台企划，八位参加者并未据此组成持续活动的乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "aiko官方团队完整歌手、合唱、制作与发行资料",
+      "url": "https://sp.aiko.pcan.us/news/news.php?news_category_id=&news_id=1177"
+    },
+    {
+      "label": "Sony Music桥本絵莉子参与及歌手名单",
+      "url": "https://www.sonymusic.co.jp/artist/chatmonchy/info/505860"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/23c50eb0-d6c6-41c9-8ada-b869744d4c0b"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004RBINu4cHjWi"
+  },
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/23c50eb0-d6c6-41c9-8ada-b869744d4c0b"
-  },
   "edges": [
     {
       "to": "kana-boon",

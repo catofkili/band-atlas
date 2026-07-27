@@ -21,6 +21,12 @@
   ],
   "intro": "geek sleep sheep是一支来自日本的三人摇滚乐队。该乐队于2012年由L'Arc〜en〜Ciel的鼓手yukihiro发起组建，成员包括MO'SOME TONEBENDER的主唱兼吉他手百々和宏，以及凛として時雨的主唱兼贝斯手345。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/716550629",
+    "spotify": "https://open.spotify.com/artist/3brCzJhhVf2baakmAlkPNU",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001M3yJ54ZVYz6",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F839957"
+  },
   "listens": 635,
   "listeners": 49,
   "quality": {

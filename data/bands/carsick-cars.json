@@ -37,6 +37,11 @@
       "url": "https://zh.wikipedia.org/wiki/Carsick_Cars"
     }
   ],
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001d43mp2xHYTR",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F11233",
+    "apple": "https://music.apple.com/cn/artist/carsick-cars/262217466"
+  },
   "listens": 7045,
   "listeners": 457,
   "quality": {

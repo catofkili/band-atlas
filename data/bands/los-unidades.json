@@ -8,22 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Los Unidades是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：MusicBrainz将它记录为Coldplay的副项目。",
+  "intro": "Los Unidades是Coldplay在2018年参与慈善唱片《Global Citizen EP 1》时采用的化名，而非另行招募成员的长期乐队。Chris Martin策划这张四曲EP，Los Unidades在《E-Lo》《Timbuktu》《Voodoo》中与Pharrell Williams、Stormzy、Wizkid、Tiwa Savage、David Guetta等音乐人合作，把流行摇滚放进非洲流行、电子舞曲与跨国合唱的语境。发行收益用于Global Citizen反贫困倡议，因此这个名义主要标记一项一次性的全球合作行动。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Coldplay官方网站EP公告",
+      "url": "https://www.coldplay.com/chris-curates-new-global-citizen-ep-1/"
+    },
+    {
+      "label": "Global Citizen EP 1项目页",
+      "url": "https://www.globalcitizen.org/es/projects/global-citizen-ep-1/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e5c9b9b3-9629-43c4-9f05-19e02b8deba1"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/6VoRokuki5Bj7BEB2gZ3BF",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F30871255"
+  },
   "listens": 764,
   "listeners": 129,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/e5c9b9b3-9629-43c4-9f05-19e02b8deba1"
-  },
   "edges": [
     {
       "to": "coldplay",

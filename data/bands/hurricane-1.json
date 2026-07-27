@@ -45,6 +45,11 @@
       "title": "Step into My World"
     }
   ],
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/6vMDsKUbY5Rs1oG27dAUIi",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0009gAWA4XpLAx",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F34556"
+  },
   "listens": 4869,
   "listeners": 459,
   "quality": {

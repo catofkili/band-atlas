@@ -28,6 +28,12 @@
   ],
   "intro": "The Black Queen 是一支于 2015 年在洛杉矶成立的美国电子音乐超级乐队。该乐队由主唱格雷格·普西亚托（来自 The Dillinger Escape Plan 乐队）、键盘手以及……",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/998761928",
+    "spotify": "https://open.spotify.com/artist/3j2DZTwQle72CWyB19B5Mq",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000MJSip1Go0yh",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12717552"
+  },
   "listens": 27168,
   "listeners": 1486,
   "quality": {

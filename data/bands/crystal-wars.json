@@ -17,22 +17,33 @@
       "year": 1993
     }
   ],
-  "intro": "CRYSTAL WARS是来自日本的音乐团体。现有唱片目录可从1992年的《CRYSTAL WARS》一路听到1993年的《BLUE》。理解这个项目的另一条线索是成员关系：Tamaki Kunishi的履历把它与MONO连接起来。从MONO沿关系网点进来时，《CRYSTAL WARS》可以作为试听入口。",
+  "intro": "CRYSTAL WARS是日本Being体系在1992年前后推出的四人女子摇滚乐队，成员为主唱井上留美子、吉他手玉井邦子、贝斯手國西萌与鼓手村上弥生。她们先发行同名作品，1993年7月由Teichiku推出迷你专辑《BLUE》，其中《共犯者》《All or Nothing》等歌体现九十年代硬朗而旋律化的女性乐队路线。國西萌后来参与MONO，使图谱产生成员连接；这支团与后来的器乐后摇声音并无直接风格继承。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《BLUE》唱片署名、四人阵容与作品评论",
+      "url": "https://music.gucchie-talk.net/?p=692"
+    },
+    {
+      "label": "Oricon的《BLUE》发行日期、厂牌与编号资料",
+      "url": "https://www.oricon.co.jp/prof/4546/products/246173/1/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f34d9248-3e5d-4d45-afef-65bdad8b6548"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f34d9248-3e5d-4d45-afef-65bdad8b6548"
-  },
   "edges": [
     {
       "to": "mono",

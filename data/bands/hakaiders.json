@@ -13,22 +13,33 @@
       "year": 2025
     }
   ],
-  "intro": "Hakaiders是来自日本、1989至1996年间活跃的音乐团体。现有唱片目录收录了2025年的《\"SATAN SATAN\"》。理解这个项目的另一条线索是成员关系：Atsuo的履历把它与Boris连接起来。从Boris沿关系网点进来时，《\"SATAN SATAN\"》可以作为试听入口。",
+  "intro": "HAKAIDERS于1989年夏在东京成立，HARA负责吉他与主唱、H.K演奏贝斯并演唱，美术家加藤泉和后来组建Boris的Atsuo形成罕见的双鼓阵容。乐队以原始hardcore、重型噪音和反复riff在地下场地活动，1996年后淡出；旧demo于2021年被重新整理，成员随后复活演出。2025年《SATAN SATAN》成为成团三十六年后的首张录音室专辑，既保留早期十三首歌，也把Atsuo后来的录音制作经验带回这支前Boris乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "银座蔦屋对成团、双鼓阵容、停顿与复活的介绍",
+      "url": "https://store.tsite.jp/ginza/event/art/25353-1220510310.html"
+    },
+    {
+      "label": "首张录音室专辑完整阵容、曲目与录制资料",
+      "url": "https://nydcollection.com/en/products/hakaiders-satan-tape"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8a37afe1-0e1f-413c-a817-ff80ddfd9406"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/8a37afe1-0e1f-413c-a817-ff80ddfd9406"
-  },
   "edges": [
     {
       "to": "boris",

@@ -18,22 +18,35 @@
       "year": 1998
     }
   ],
-  "intro": "ProjeKct Two是1997至1998年间活跃的音乐团体，现有资料将其归入前卫摇滚、兼收并蓄的前卫摇滚。现有唱片目录收录了1998年的《Space Groove》。理解这个项目的另一条线索是成员关系：Robert Fripp、Trey Gunn的履历把它与King Crimson连接起来。从King Crimson沿关系网点进来时，《Space Groove》可以作为试听入口。",
+  "intro": "ProjeKct Two是King Crimson在1997至1998年“分形化”实验期间产生的三人支队，由Robert Fripp弹吉他、Trey Gunn演奏Warr Guitar，Adrian Belew则放下常用吉他改用V-Drums电子鼓。1998年的《Space Groove》来自即兴录音，电子节拍、低音触弦与Fripp的持续音不断重组，像是在为后来King Crimson更机械、更互锁的节奏语言做压力测试。与其他主要留下现场唱片的ProjeKct不同，它拥有一张完整录音室专辑，因此是理解整个ProjeKcts计划最直接的入口之一。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Space Groove》资料",
+      "url": "https://en.wikipedia.org/wiki/Space_Groove"
+    },
+    {
+      "label": "ProjeKcts计划资料",
+      "url": "https://en.wikipedia.org/wiki/ProjeKcts"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/74a2ff82-992b-4696-b603-c6f747bec2b7"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F71428"
+  },
   "listens": 2383,
   "listeners": 119,
   "quality": {
-    "score": 27,
-    "templateIntro": true,
+    "score": 69,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/74a2ff82-992b-4696-b603-c6f747bec2b7"
-  },
   "edges": [
     {
       "to": "king-crimson",

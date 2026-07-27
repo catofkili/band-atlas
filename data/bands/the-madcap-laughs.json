@@ -15,22 +15,37 @@
       "year": 2014
     }
   ],
-  "intro": "THE MADCAP LAUGHS是来自日本、2012年至今活跃的音乐团体，现有资料将其归入摇滚。现有唱片目录收录了2014年的《THE MIDNIGHT LOVE》。理解这个项目的另一条线索是成员关系：Sakura的履历把它与L’Arc〜en〜Ciel连接起来。从L’Arc〜en〜Ciel沿关系网点进来时，《THE MIDNIGHT LOVE》可以作为试听入口。",
+  "intro": "THE MADCAP LAUGHS是前L’Arc-en-Ciel鼓手sakura于2012年与deadman吉他兼歌手aie、女性贝斯兼歌手清组成的日本三人乐队，团名借自Syd Barrett的首张个人专辑。两位声线在暗色alternative rock与后朋克式吉他之间交替，sakura则用富有层次的鼓把松散阴影收紧；前两张预发行EP之后，2014年首专《THE MIDNIGHT LOVE》及16城巡演构成其最完整的活动阶段。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "BARKS三人阵容与现场报道",
+      "url": "https://barks.jp/news/858885"
+    },
+    {
+      "label": "Sakura乐队履历",
+      "url": "https://en.wikipedia.org/wiki/Sakura_(musician)"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/117debe3-74c1-4bdf-aad4-6ca5099f4706"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/906612248",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003TsrXf1NUzpo",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F56133406"
+  },
   "listens": 42,
   "listeners": 5,
   "quality": {
-    "score": 17,
-    "templateIntro": true,
+    "score": 59,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/117debe3-74c1-4bdf-aad4-6ca5099f4706"
-  },
   "edges": [
     {
       "to": "gibkiy-gibkiy-gibkiy",

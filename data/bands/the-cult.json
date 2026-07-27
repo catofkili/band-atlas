@@ -66,6 +66,12 @@
       "title": "Love Removal Machine"
     }
   ],
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/49DW3KvkyjHO35mK1JnSyS",
+    "apple": "https://music.apple.com/us/artist/band-atlas/150548",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003QphQm4Pm2hm",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F78316"
+  },
   "listens": 207892,
   "listeners": 6861,
   "quality": {

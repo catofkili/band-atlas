@@ -1,7 +1,7 @@
-import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=7062dc3344';
-import { layoutNeighbors } from './layout.js?v=7062dc3344';
-import { createNetworkMap } from './map.js?v=7062dc3344';
-import { chooseRandomBand } from './random.js?v=7062dc3344';
+import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=c426179865';
+import { layoutNeighbors } from './layout.js?v=c426179865';
+import { createNetworkMap } from './map.js?v=c426179865';
+import { chooseRandomBand } from './random.js?v=c426179865';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -9,7 +9,7 @@ import {
   buildEdgeLayer,
   buildEdgeLine,
   CANVAS_HALF,
-} from './render.js?v=7062dc3344';
+} from './render.js?v=c426179865';
 
 const stage = document.getElementById('stage');
 const statusEl = document.getElementById('status');
@@ -508,7 +508,7 @@ stage.addEventListener(
       }
     }
     // 焦点卡片正文自己要滚动，别把它的竖划抢走
-    if (ev.target.closest('.card__body, .search')) return;
+    if (ev.target.closest('.card__body, .listen, .search')) return;
     // 接住这根手指直到松开。否则手指划出舞台边缘时收不到 pointerup，
     // 下一次触摸会带着上一次的拖动状态继续，画面就像卡住了一样。
     stage.setPointerCapture?.(ev.pointerId);

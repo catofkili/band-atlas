@@ -13,22 +13,37 @@
       "year": 2023
     }
   ],
-  "intro": "Cowboys in the Campfire是来自美国、2017年至今活跃的音乐团体。现有唱片目录收录了2023年的《Wronger》。理解这个项目的另一条线索是成员关系：Tommy Stinson的履历把它与Guns N' Roses连接起来。从Guns N' Roses沿关系网点进来时，《Wronger》可以作为试听入口。",
+  "intro": "Cowboys in the Campfire是The Replacements贝斯手Tommy Stinson与费城吉他手Chip Roberts自2017年前后共同巡演形成的精简二人组。2023年首专《Wronger》放下Stinson在Guns N’ Roses与Bash & Pop中的大音量，以原声吉他、尤克里里、baritone guitar和偶尔出现的铜管演奏诙谐又疲惫的Americana与classic country；X乐队的John Doe等朋友客串。项目名像篝火民谣，歌曲却仍保留Replacements式自嘲、破损感和对长期音乐生活的执着。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Tommy Stinson官方网站项目回顾",
+      "url": "https://www.tommystinson.com/illinois-entertainer/"
+    },
+    {
+      "label": "Forbes二人组访谈",
+      "url": "https://www.forbes.com/sites/jimryan1/2023/06/08/tommy-stinson-on-cowboys-in-the-campfire-debut-economic-benefit-of-unconventional-touring/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2d7af8b7-eddd-4cd3-939e-de6aa28ace82"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/29vmalGiYfCGM7HzZDqopE",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001jrTml0eXy50",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F55933628"
+  },
   "listens": 94,
   "listeners": 13,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/2d7af8b7-eddd-4cd3-939e-de6aa28ace82"
-  },
   "edges": [
     {
       "to": "guns-n-roses",

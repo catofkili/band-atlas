@@ -53,6 +53,12 @@
       "title": "ソワレ"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1503670948",
+    "spotify": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F47665851",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002Ct90Q33zZbT"
+  },
   "listens": 110489,
   "listeners": 1996,
   "quality": {

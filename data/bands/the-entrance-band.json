@@ -19,22 +19,36 @@
       "year": 2013
     }
   ],
-  "intro": "The Entrance Band是来自芝加哥、2006年至今活跃的音乐团体，现有资料将其归入迷幻摇滚。现有唱片目录可从2009年的《The Entrance Band》一路听到2013年的《Face the Sun》。理解这个项目的另一条线索是成员关系：Paz Lenchantin的履历把它与Pixies连接起来。从Pixies沿关系网点进来时，《The Entrance Band》可以作为试听入口。",
+  "intro": "The Entrance Band由创作人Guy Blakeslee的个人化名Entrance发展而来；他与贝斯兼小提琴手Paz Lenchantin、鼓手Derek James在2006年前后于洛杉矶固定为三人阵容。2009年的同名专辑和2013年的《Face the Sun》把Blakeslee早期阴郁的迷幻民谣放大成更有压迫感的电声即兴：模糊吉他、持续低音、部落式鼓点与Lenchantin的弦乐共同制造出近乎催眠的现场张力。它也是理解Lenchantin加入Pixies之前创作轨迹的重要一站。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "The Entrance Band艺人简介",
+      "url": "https://www.allmusic.com/artist/the-entrance-band-mn0001083821"
+    },
+    {
+      "label": "乐队资料页",
+      "url": "https://en.wikipedia.org/wiki/The_Entrance_Band"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a287546f-46b7-4f59-9ea3-1b34de4e951c"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000BogVT21Q8QL",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F102410"
+  },
   "listens": 3502,
   "listeners": 416,
   "quality": {
-    "score": 16,
-    "templateIntro": true,
+    "score": 58,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a287546f-46b7-4f59-9ea3-1b34de4e951c"
-  },
   "edges": [
     {
       "to": "pixies",

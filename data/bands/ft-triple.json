@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "FT.triple是来自韩国的音乐团体。理解这个项目的另一条线索是成员关系：최종훈、최민환、이재진的履历把它与FTISLAND连接起来。",
+  "intro": "FT.triple是韩国乐队FTISLAND在2009年推出的三人子团，由崔钟训、李在真与崔敏焕组成。主唱李洪基拍摄电视剧、宋承炫暂停活动期间，三人用这个编制继续宣传：李在真从贝斯转为主唱兼吉他，崔钟训弹钢琴并和声，崔敏焕继续打鼓。项目原拟名A3，因为三人都是A型血，最终以《Love Letter》及收在《Double Date》第二碟《Two Date》中的三首歌留下记录。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "FTISLAND资料页中的子团阵容与分工",
+      "url": "https://en.wikipedia.org/wiki/F.T._Island"
+    },
+    {
+      "label": "FTISLAND France子团沿革与发行资料",
+      "url": "https://ftislandfrance.fr/le-groupe/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5161da96-f881-4852-9ecd-ac5c0e7ba3cb"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002YQ04t1MptR4"
+  },
   "listens": 3,
   "listeners": 2,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5161da96-f881-4852-9ecd-ac5c0e7ba3cb"
-  },
   "edges": [
     {
       "to": "ftisland",

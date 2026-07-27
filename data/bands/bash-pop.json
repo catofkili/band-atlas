@@ -22,6 +22,12 @@
   ],
   "intro": "Bash & Pop 是一支美国另类摇滚乐队，由汤米·斯廷森（Tommy Stinson）于 1992 年在明尼苏达州明尼阿波利斯市组建，此前“Replacements”乐队刚刚解散。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/2xoDN5GlMYE7ebaMKrx0Lv",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004LEtFV2ZAsAR",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F50313",
+    "apple": "https://music.apple.com/us/artist/bash-pop/193012962"
+  },
   "listens": 3248,
   "listeners": 297,
   "quality": {

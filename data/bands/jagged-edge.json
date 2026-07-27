@@ -61,6 +61,12 @@
       "title": "Thank You"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/472400",
+    "spotify": "https://open.spotify.com/artist/7Aq8lpLMSt1Zxu56pe9bmp",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004bi6qW2QvO1P",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F94974"
+  },
   "listens": 31174,
   "listeners": 3062,
   "quality": {

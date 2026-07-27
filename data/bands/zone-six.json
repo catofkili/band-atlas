@@ -36,22 +36,36 @@
       "year": 2018
     }
   ],
-  "intro": "Zone Six是来自柏林、1997年至今活跃的音乐团体，现有资料将其归入迷幻摇滚、太空摇滚。现有唱片目录可从1998年的《Zone Six》一路听到2018年的《Arc of Ascent / Zone Six》。理解这个项目的另一条线索是成员关系：Rainer Neeff、Komet Lulu、Sula Bassana的履历把它与Krautzone连接起来。从Krautzone沿关系网点进来时，《Zone Six》可以作为试听入口。",
+  "intro": "Zone Six由Dave Schmidt（Sula Bassana）与Liquid Visions伙伴Hans-Peter Ringholz、Claus Bühler于1997年在德国成立，是90年代Krautrock复兴中较早坚持即兴创作的团体之一。乐队很少用固定歌曲框架，常从贝斯与鼓的循环出发，让吉他、合成器和效果器把演奏推成长篇太空摇滚；阵容多年间不断变化，如今仍围绕Sula Bassana延续。现场录音在其目录中占据核心，因为即兴过程而非可复制的成品，才是Zone Six真正的作品。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Zone Six官方Bandcamp简介",
+      "url": "https://zonesix.bandcamp.com/"
+    },
+    {
+      "label": "Zone Six访谈",
+      "url": "https://www.psychedelicbabymag.com/2024/12/zone-six-interview-new-album-full-mental-jacket.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/affe5285-5333-426c-9ee6-aafb13c63f1c"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/7h2xePEX8hNMZeOTM8pQhA",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12833662"
+  },
   "listens": 2720,
   "listeners": 119,
   "quality": {
-    "score": 22,
-    "templateIntro": true,
+    "score": 64,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/affe5285-5333-426c-9ee6-aafb13c63f1c"
-  },
   "edges": [
     {
       "to": "krautzone",

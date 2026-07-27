@@ -8,23 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Crydajam是来自法国的音乐团体。理解这个项目的另一条线索是成员关系：Guy‐Manuel de Homem‐Christo的履历把它与Daft Punk连接起来。",
+  "intro": "Crydajam是法国厂牌Crydamoure在2002年使用的一次性集体名义，参与者来自厂牌核心圈，包括共同经营厂牌与Le Knight Club的Guy-Manuel de Homem-Christo和Éric Chédeville。项目只发行三曲12英寸单曲《If You Give Me the Love I Want / Playground / Loaded》，随后三首歌也进入合辑《Waves II》。切碎的迪斯科采样、滤波循环和温暖的放克律动，使它成为French Touch鼎盛期一张目录很小却颇具代表性的厂牌合奏。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz单曲资料",
+      "url": "https://musicbrainz.org/release/78f0c469-ba5c-476f-9008-e30c5e5456d2"
+    },
+    {
+      "label": "Crydamoure厂牌回顾",
+      "url": "https://buttondown.com/Linenoise/archive/crydamoure-painting-a-filter-house-smile-on-the/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ed13185d-a540-4ab4-ab04-0033c1e0d1b0"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0034D4Fr3t2F9S"
+  },
   "listens": 821,
   "listeners": 107,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/ed13185d-a540-4ab4-ab04-0033c1e0d1b0"
-  },
   "edges": [
     {
       "to": "le-knight-club",

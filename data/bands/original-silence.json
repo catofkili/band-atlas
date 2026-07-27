@@ -17,22 +17,36 @@
       "year": 2008
     }
   ],
-  "intro": "Original Silence是音乐团体。现有唱片目录可从2007年的《The First Original Silence》一路听到2008年的《The Second Original Silence》。理解这个项目的另一条线索是成员关系：Mats Gustafsson的履历把它与Diskaholics Anonymous Trio连接起来。从Diskaholics Anonymous Trio沿关系网点进来时，《The First Original Silence》可以作为试听入口。",
+  "intro": "Original Silence是萨克斯手Mats Gustafsson为连接自由即兴与高能量摇滚而召集的六人团体，阵容还包括Thurston Moore、Terrie Ex、Jim O’Rourke、Massimo Pupillo与Paal Nilssen-Love。六人2005年在意大利进行四场不预设结构的演出，随后由现场录音形成《The First Original Silence》和《The Second Original Silence》；失真吉他、电子噪音与自由爵士吹奏始终被强硬的贝斯鼓组向前推动。它并非明星乐手轮流独奏的拼盘，而是一支以集体碰撞和现场音量塑造结构的free-rock乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Pitchfork首张现场专辑与阵容回顾",
+      "url": "https://pitchfork.com/reviews/albums/10145-the-first-original-silence/"
+    },
+    {
+      "label": "Mats Gustafsson谈项目起源与演出方式",
+      "url": "https://pennyblackmusic.co.uk/Home/Details?id=14756"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/da677331-37f7-40b8-b5c2-793ff0d856f7"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004aceir1zexis",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F98184"
+  },
   "listens": 241,
   "listeners": 42,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/da677331-37f7-40b8-b5c2-793ff0d856f7"
-  },
   "edges": [
     {
       "to": "diskaholics-anonymous-trio",

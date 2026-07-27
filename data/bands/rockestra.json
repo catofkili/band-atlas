@@ -8,23 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Rockestra是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：John Bonham、John Paul Jones的履历把它与Led Zeppelin连接起来。",
+  "intro": "Rockestra是Paul McCartney为Wings专辑《Back to the Egg》召集的大型全明星录音阵容。约三十位乐手于1978年10月3日在Abbey Road录制《Rockestra Theme》和《So Glad to See You Here》，成员包括Wings、John Bonham、John Paul Jones、David Gilmour、Pete Townshend、Kenney Jones、Ronnie Lane与Hank Marvin等；阵容又在1979年12月柬埔寨人民音乐会压轴重聚，演出《Rockestra Theme》《Let It Be》和《Lucille》，此后并未作为固定乐队延续。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Paul McCartney Project 1979年音乐会与阵容",
+      "url": "https://www.the-paulmccartney-project.com/concert/1979-12-29/"
+    },
+    {
+      "label": "《Rockestra Theme》录音资料",
+      "url": "https://en.wikipedia.org/wiki/Rockestra_Theme"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/74c2a2c5-5337-4e98-ab16-1f6463b77478"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F49944069"
+  },
   "listens": 26,
   "listeners": 10,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/74c2a2c5-5337-4e98-ab16-1f6463b77478"
-  },
   "edges": [
     {
       "to": "wings",

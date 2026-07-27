@@ -10,22 +10,36 @@
     "前衛搖滾"
   ],
   "albums": [],
-  "intro": "ProjeKct Four是来自英国的音乐团体，现有资料将其归入前衛搖滾。理解这个项目的另一条线索是成员关系：MusicBrainz将它记录为King Crimson的副项目。",
+  "intro": "ProjeKct Four是King Crimson在1998年进行“分形化”研发时组成的四人支队，阵容为Robert Fripp、Trey Gunn、Tony Levin与Pat Mastelotto。它在美国西海岸短期巡演，没有预设完整曲目，而让Fripp的吉他持续音、Gunn与Levin的低音乐器以及Mastelotto的电子节奏现场生成结构；《West Coast Live》和《The Roar of P4》保存了这些即兴。与偏电子室内实验的其他ProjeKct相比，Four的低频更厚，也更直接预示King Crimson随后“双二重奏”时期的节奏设计。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《West Coast Live》资料",
+      "url": "https://www.allmusic.com/album/west-coast-live-mw0000771387"
+    },
+    {
+      "label": "ProjeKcts计划资料",
+      "url": "https://en.wikipedia.org/wiki/ProjeKcts"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/75e06a90-dcaf-4bc2-9bc5-abe6a300dfdc"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003yuUha1QVTMS",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F122774359"
+  },
   "listens": 1437,
   "listeners": 73,
   "quality": {
-    "score": 7,
-    "templateIntro": true,
+    "score": 49,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/75e06a90-dcaf-4bc2-9bc5-abe6a300dfdc"
-  },
   "edges": [
     {
       "to": "king-crimson",

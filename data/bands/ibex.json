@@ -10,22 +10,33 @@
     "前衛搖滾"
   ],
   "albums": [],
-  "intro": "Ibex是来自英国、1969年活跃的音乐团体，现有资料将其归入前衛搖滾。理解这个项目的另一条线索是成员关系：Freddie Mercury的履历把它与Queen连接起来。",
+  "intro": "Ibex是Freddie Mercury尚使用Freddie Bulsara姓名时，于1969年加入的一支利物浦短命摇滚乐队；其余成员为吉他手Mike Bersin、贝斯手John Taylor与鼓手Mick Smith。乐队以重型蓝调和翻唱曲为主，Mercury加入后迅速介入舞台与创作，并推动团名改为Wreckage；从8月首演到同年末解散，整个阶段只有少量现场及家庭排练录音留存。它的重要性不只在“Queen之前”，更在于这是Mercury第一次以摇滚主唱身份密集登台并开始改造一支乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Queen Vault乐队阵容与现场资料",
+      "url": "https://www.queenvault.com/ibex.html"
+    },
+    {
+      "label": "Queen Vault改名Wreckage资料",
+      "url": "https://www.queenvault.com/Wreckage/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/99fb8de2-33cc-4e82-9e88-08aeb4e1e6da"
+  },
+  "musicLinks": {},
   "listens": 237,
   "listeners": 25,
   "quality": {
-    "score": 8,
-    "templateIntro": true,
+    "score": 50,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/99fb8de2-33cc-4e82-9e88-08aeb4e1e6da"
-  },
   "edges": [
     {
       "to": "queen",

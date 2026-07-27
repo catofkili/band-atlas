@@ -8,22 +8,29 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "地縛少年バンド是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：录音资料记录了它与ZiNG的合作联系。",
+  "intro": "地縛少年バンド是为2020年动画《地縛少年花子くん》片头曲《No.7》专门组成的限定组合，由PENGUIN RESEARCH主唱生田鷹司、创作歌手オーイシマサヨシ与制作团队ZiNG合作。歌曲用急促的摇滚节奏、多人轮唱和带有怪谈口吻的台词式段落，对应作品中校园七大不可思议的设定。这个名字主要服务于单曲而非长期乐队活动，理解它的重点是三方分工：生田提供锋利主唱，オーイシ参与演唱与写作，ZiNG完成整体声音制作。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Pony Canyon官方组合公告",
+      "url": "https://news.ponycanyon.co.jp/2020/02/36921"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/9f3b8a34-e506-4ca7-a383-fd51ba581b64"
+  },
+  "musicLinks": {},
   "listens": 974,
   "listeners": 97,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/9f3b8a34-e506-4ca7-a383-fd51ba581b64"
-  },
   "edges": [
     {
       "to": "zing",

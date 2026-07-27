@@ -33,22 +33,33 @@
       "year": 2014
     }
   ],
-  "intro": "古都の夕べ是来自东京、2013年至今活跃的音乐团体。现有唱片目录可从2013年的《いないいないナイト》一路听到2014年的《黒艦につぐ黒艦》。理解这个项目的另一条线索是成员关系：真部脩一的履历把它与相対性理論连接起来。从相対性理論沿关系网点进来时，《いないいないナイト》可以作为试听入口。",
+  "intro": "古都の夕べ最初是“進行方向別通行区分”的田中与前相対性理論贝斯手真部脩一组成的双人单元。两人以歌声和吉他延续田中荒诞、无情又带社会观察的写作，2013至2014年密集留下《飛脚は良い線までいった》《いないいないナイト》《黒艦につぐ黒艦》等短篇作品；最初宣布“最后演出”后，田中仍以流动阵容继续活动。真部退出后，高野京介等乐手加入并逐渐形成较固定的乐队形态，所以这个名称同时涵盖早期二人组与后来的扩编阶段。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "OTOTOY对田中、真部二人单元及2013年演出的报道",
+      "url": "https://ototoy.jp/news/75138"
+    },
+    {
+      "label": "阵容变化与主要作品目录",
+      "url": "https://ja.everybodywiki.com/%E5%8F%A4%E9%83%BD%E3%81%AE%E5%A4%95%E3%81%B9"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/213e3919-874d-4c32-ad5c-52efbd623d2a"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/213e3919-874d-4c32-ad5c-52efbd623d2a"
-  },
   "edges": [
     {
       "to": "vampillia",

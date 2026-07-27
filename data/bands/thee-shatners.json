@@ -17,22 +17,33 @@
       "year": 1994
     }
   ],
-  "intro": "Thee Shatners是来自旧金山的音乐团体，现有资料将其归入车库朋克、《星际迷航》。现有唱片目录收录了1994年的《Thee Shatners》。理解这个项目的另一条线索是成员关系：John Kiffmeyer的履历把它与Green Day连接起来。从Green Day沿关系网点进来时，《Thee Shatners》可以作为试听入口。",
+  "intro": "Thee Shatners是1990年代初旧金山湾区的一次性主题车库乐队，由The Ne’er Do Wells成员延伸而来，阵容包括Green Day早期鼓手John Kiffmeyer。1994年同名专辑把《Star Trek》角色、对白与太空意象写进简陋而高速的garage punk和冲浪摇滚，团名则直接戏仿饰演Captain Kirk的William Shatner。它的目录虽只有一张核心专辑，却完整保留了湾区朋克把低成本科幻、幽默和复古摇滚做成概念唱片的趣味。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz艺人与发行资料",
+      "url": "https://musicbrainz.org/artist/4245d894-85af-4ee8-820e-9e46a52d899e"
+    },
+    {
+      "label": "John Kiffmeyer项目履历",
+      "url": "https://en.wikipedia.org/wiki/John_Kiffmeyer"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4245d894-85af-4ee8-820e-9e46a52d899e"
+  },
+  "musicLinks": {},
   "listens": 347,
   "listeners": 7,
   "quality": {
-    "score": 27,
-    "templateIntro": true,
+    "score": 69,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/4245d894-85af-4ee8-820e-9e46a52d899e"
-  },
   "edges": [
     {
       "to": "the-ne-er-do-wells",

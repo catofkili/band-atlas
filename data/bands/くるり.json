@@ -61,6 +61,11 @@
       "title": "言葉はさんかく こころは四角"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/105025123",
+    "spotify": "https://open.spotify.com/artist/26WuprsX7JRG69T0PXkze4",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F20049"
+  },
   "listens": 25660,
   "listeners": 849,
   "quality": {

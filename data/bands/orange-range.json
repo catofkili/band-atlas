@@ -75,6 +75,11 @@
       "title": "羈絆"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/73789696",
+    "spotify": "https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F20880"
+  },
   "listens": 41629,
   "listeners": 1706,
   "quality": {

@@ -16,22 +16,38 @@
       "year": 2019
     }
   ],
-  "intro": "The Coolies是来自美国的音乐团体，现有资料将其归入流行朋克、朋克摇滚。现有唱片目录收录了2019年的《Uh Oh! It’s… The Coolies》。理解这个项目的另一条线索是成员关系：Kim Shattuck的履历把它与Pixies连接起来。从Pixies沿关系网点进来时，《Uh Oh! It’s… The Coolies》可以作为试听入口。",
+  "intro": "The Coolies是Kim Shattuck、Melanie Vammen与Palmyra Delran在2019年组成的女性power pop／朋克三人组；前两人曾同在The Pandoras和The Muffs，Delran则来自The Friggs。六曲EP《Uh Oh! It’s… The Coolies》由三人远程交换素材并轮换吉他、贝斯、鼓与主唱，融合British Invasion、garage、bubblegum和短促朋克。全部收益捐给ALS研究；Shattuck当时已患病却未公开，EP也成为她去世前最后一批录音之一，使这个欢乐项目同时带有明确的互助意义。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "The Coolies三人访谈",
+      "url": "https://preludepress.com/interviews/2019/07/19/interview-with-the-coolies/"
+    },
+    {
+      "label": "慈善EP发行回顾",
+      "url": "https://bigtakeover.com/recordings/TheCooliesUhOhItsTheCooliesWickedCoolRecords"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6ea382ed-af48-4cf2-9004-a842992a1e22"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/152020554",
+    "spotify": "https://open.spotify.com/artist/1UId6OSe1lf3bsW44aWi8R",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003vYmYJ28ZPGL",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F14663856"
+  },
   "listens": 377,
   "listeners": 34,
   "quality": {
-    "score": 23,
-    "templateIntro": true,
+    "score": 65,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6ea382ed-af48-4cf2-9004-a842992a1e22"
-  },
   "edges": [
     {
       "to": "pixies",

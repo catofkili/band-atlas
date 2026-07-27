@@ -8,22 +8,35 @@
   "years": "1968–1969",
   "genres": [],
   "albums": [],
-  "intro": "The Earth是来自伦敦、1968至1969年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：Barry Mitchell的履历把它与Queen连接起来。",
+  "intro": "这里的The Earth是1968年前后在伦敦活动的蓝调摇滚乐队，阵容为主唱Ian Harris、吉他手Alan Parsons、风琴手Roy Quilley、贝斯手Barry Mitchell与鼓手Phil Brockton。五人在Regent Sound录下《Miseducation》和《Song for Katherine》，但当时没有形成正式发行，录音多年后才以限量七英寸唱片整理面世。它与Queen的连接来自后来短暂为Queen演奏贝斯的Barry Mitchell，并不是Black Sabbath早期同名阶段。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "OM Swagger对1968年录音、完整阵容与限量发行的说明",
+      "url": "https://www.omswaggermusic.com/releases/sample-album-02-wav"
+    },
+    {
+      "label": "MusicBrainz伦敦乐队与Barry Mitchell关系记录",
+      "url": "https://musicbrainz.org/artist/2df94caf-b447-41f4-b2be-828f60f66d57"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2df94caf-b447-41f4-b2be-828f60f66d57"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F91745"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/2df94caf-b447-41f4-b2be-828f60f66d57"
-  },
   "edges": [
     {
       "to": "queen",

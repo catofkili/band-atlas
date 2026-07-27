@@ -8,23 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Apple是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：John Lennon的履历把它与The Beatles连接起来。",
+  "intro": "这里的Apple是MusicBrainz用来归纳John Lennon、Yoko Ono与Phil Spector合作关系的侧项目条目，不是Apple Records，也不是另有固定阵容的英国乐队。三人在1969至1971年前后的实验录音、Plastic Ono Band作品及制作工作确有大量交集，但可核实目录中没有以“Apple”作为艺人名独立发行的唱片。因而这个节点更适合解释为资料库中的合作分组；理解其音乐时，应回到Lennon／Ono共同作品与Plastic Ono Band，而不应虚构一支同名团史。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz Apple侧项目身份与成员关系",
+      "url": "https://musicbrainz.org/artist/3dba35e6-28f4-4926-aae3-ff82ad934aa8"
+    },
+    {
+      "label": "John Lennon官网Plastic Ono Band非固定阵容说明",
+      "url": "https://www.johnlennon.com/music/albums/john-lennon-plastic-ono-band/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3dba35e6-28f4-4926-aae3-ff82ad934aa8"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004JBuo41N9FmP"
+  },
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/3dba35e6-28f4-4926-aae3-ff82ad934aa8"
-  },
   "edges": [
     {
       "to": "plastic-ono-band",

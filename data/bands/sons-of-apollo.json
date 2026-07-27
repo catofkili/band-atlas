@@ -48,6 +48,12 @@
       "title": "Fall to Ascend"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/348367792",
+    "spotify": "https://open.spotify.com/artist/3oBGGy1VOs6IHOa1ZdUx2f",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001lAkMH33LqWK",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12560636"
+  },
   "listens": 20570,
   "listeners": 872,
   "quality": {

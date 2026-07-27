@@ -9,22 +9,31 @@
   "genres": [],
   "albums": [],
   "countryInferred": "name-script",
-  "intro": "フォークデュオ是2018年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：真部脩一、西浦謙助的履历把它与相対性理論连接起来。",
+  "intro": "フォークデュオ是集団行動的真部脩一与西浦謙助在2018年前后采用的戏仿型二人单元，两人以“长得很像本人”的SHU和KEN身份出现。2019年首张专辑《若草》最初只在集団行動“SUPER MUSIC TOUR”会场出售，以木吉他、歌声和复古民谣包装延续两位前相対性理論成员一贯的文字游戏与概念幽默。它既是真部、西浦的实际合作作品，也故意把作者身份藏进一个过分普通的团名里。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Mikiki《若草》身份设定与会场限定发行资料",
+      "url": "https://mikiki.tokyo.jp/articles/-/21370"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/14fba9aa-07b1-4050-8496-b0264980a218"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F96146082"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/14fba9aa-07b1-4050-8496-b0264980a218"
-  },
   "edges": [
     {
       "to": "相対性理論",

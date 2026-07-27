@@ -8,22 +8,29 @@
   "years": "2018–",
   "genres": [],
   "albums": [],
-  "intro": "BOØWY杉並是来自日本、2018年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：ミヤ的履历把它与MUCC连接起来。",
+  "intro": "BOØWY杉並是MUCC吉他手ミヤ参与组织的BOØWY翻唱乐队，出现在他推动的跨团“杉並”session系列中。2017年新宿LOFT的BOØWY tribute night阵容由KAN∀BUN、西村ひよこちゃんX与リトル氷室轮流主唱，ミヤ、フクスケ、KAZU和武井誠组成乐队；活动也明确说明BOØWY原成员并不出演。这个戏仿式团名强调的是一次现场致敬，和X SUGINAMI、コーン杉並等同属临时翻唱企划。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MUCC官方存档中的完整阵容与BOØWY致敬活动说明",
+      "url": "https://archive.55-69.com/category/news"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/d9dbcb5e-d167-470f-a0f2-657c79bb364f"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/d9dbcb5e-d167-470f-a0f2-657c79bb364f"
-  },
   "edges": [
     {
       "to": "mucc",

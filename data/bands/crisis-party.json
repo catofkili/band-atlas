@@ -13,23 +13,37 @@
       "year": 1989
     }
   ],
-  "intro": "Crisis Party是来自美国的音乐团体。现有唱片目录收录了1989年的《Rude Awakening》。理解这个项目的另一条线索是成员关系：Kevin Whitworth的履历把它与Love Battery连接起来。从Love Battery沿关系网点进来时，《Rude Awakening》可以作为试听入口。",
+  "intro": "Crisis Party是1984年在西雅图成立的硬摇滚乐队，最初由主唱Kenny Gordon、吉他手Tommy Hansen与刚离开The Fartz的Duff McKagan等人组建。McKagan很快离队，Kevin Whitworth等成员又转入Love Battery；余下阵容在Metal Blade旗下录制了Terry Date制作的《Rude Awakening》。1989年专辑把hard rock和当时正在成形的西雅图迷幻、pre-grunge气质混在一起，乐队于1990年前后解散，只留下这一张完整专辑。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Crisis Party成立、成员流动与专辑沿革",
+      "url": "https://www.musicstack.com/records-cds/crisis%2Bparty"
+    },
+    {
+      "label": "《Rude Awakening》阵容、曲目与制作资料",
+      "url": "https://vinyl-records.nl/hard-rock/crisis-party-rude-awakening-usa-pressing-metal-blade-records-lp-vinyl-album.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/72d2d3a9-c370-4329-9191-bfbb1da64fb4"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001BO1lo062xOs",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F53719221"
+  },
   "listens": 1,
   "listeners": 1,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/72d2d3a9-c370-4329-9191-bfbb1da64fb4"
-  },
   "edges": [
     {
       "to": "love-battery",

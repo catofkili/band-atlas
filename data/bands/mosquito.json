@@ -32,22 +32,36 @@
       "year": 2024
     }
   ],
-  "intro": "Mosquito是来自美国、1992年至今活跃的音乐团体，现有资料将其归入摇滚、摇滚乐。现有唱片目录可从1993年的《Oh No!》一路听到2024年的《Deep Slumber》。理解这个项目的另一条线索是成员关系：Tim Foljahn的履历把它与Male Slut连接起来。从Male Slut沿关系网点进来时，《Oh No!》可以作为试听入口。",
+  "intro": "Mosquito是1990年代初由Half Japanese的Jad Fair、Sonic Youth鼓手Steve Shelley、吉他手Tim Foljahn与Yo La Tengo贝斯手James McNew组成的地下摇滚项目。1993年的《Time Was》和《U.F.O. Catcher》以松散即兴、短促噪音、原始摇滚节拍和Fair近乎口语的怪诞叙事构成，听起来刻意保留排练室般的毛边。它没有发展成稳定巡演乐队，却把纽约独立音乐圈几条重要人脉压缩进一组自由、顽皮而不修饰的录音。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Jad Fair作品目录",
+      "url": "https://www.underwaternow.com/ihearstrangemusic/bands/jadfair.htm"
+    },
+    {
+      "label": "《U.F.O. Catcher》发行介绍",
+      "url": "https://boomkat.com/products/u-f-o-catcher"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/2d30afab-d504-4a9c-9679-3a28bb1f9405"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/6PAUlghrGdG1dM4qh1y2WX",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F66698"
+  },
   "listens": 751,
   "listeners": 110,
   "quality": {
-    "score": 21,
-    "templateIntro": true,
+    "score": 63,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/2d30afab-d504-4a9c-9679-3a28bb1f9405"
-  },
   "edges": [
     {
       "to": "male-slut",

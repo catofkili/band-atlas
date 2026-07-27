@@ -8,23 +8,36 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "JC-001 & DJ D-Zire是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：DJ D-Zire的履历把它与Gorillaz连接起来。",
+  "intro": "JC-001 & DJ D-Zire是西伦敦说唱歌手Jonathan Chandra Pandy与DJ／制作人Darren Galea在1990年代初组成的hip-house二人组。1993年专辑《Ride the Break》把JC-001极高速而咬字清楚的rap，与D-Zire的breakbeat、electro、reggae和俱乐部低音结合，《Sea of MC’s》《Eternity》等也以单曲发行。D-Zire后来参与Jamiroquai现场并进入Spacemonkeyz，令这张唱片成为英国说唱、acid jazz人脉与日后Gorillaz remix圈之间的一处早期交点。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《Ride the Break》发行日期、成员与完整曲目",
+      "url": "https://www.bol.com/nl/nl/p/ride-the-break/9200000029764721/"
+    },
+    {
+      "label": "JC-001身份与二人单曲目录",
+      "url": "https://www.musicstack.com/records-cds/jc-001%2B_apz_%2Bdj%2Bd-zire"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/168ab817-9594-4d78-a863-61e7777a672c"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F98676871"
+  },
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/168ab817-9594-4d78-a863-61e7777a672c"
-  },
   "edges": [
     {
       "to": "gorillaz",

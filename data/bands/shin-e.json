@@ -17,23 +17,34 @@
       "year": 2007
     }
   ],
-  "intro": "Shin.e是来自美国的音乐团体。现有唱片目录可从2004年的《Heaven and Hell》一路听到2007年的《Lightyears》。理解这个项目的另一条线索是成员关系：Bill Laswell、Nicky Skopelitis的履历把它与Material连接起来。从Material沿关系网点进来时，《Heaven and Hell》可以作为试听入口。",
+  "intro": "Shin.e（发行资料中也常写作Shine）是声音拼贴者Shin Terai与制作人Bill Laswell圈子合作的实验dub项目。2004年的《Heaven and Hell》由1999年《Unison》录音素材重新拆解而成，Buckethead、Nicky Skopelitis的吉他、Bernie Worrell键盘与Laswell深沉贝斯被重混为七段无标题“Movement”；2007年《Lightyears》延续其漂浮、低频主导的空间感。它更接近以录音室重构为创作本体的组合，而不是排练固定曲目的现场乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "JazzTimes《Heaven and Hell》评论",
+      "url": "https://www.jazztimes.com/archives/shine-heaven-and-hell/"
+    },
+    {
+      "label": "AllMusic专辑与人员资料",
+      "url": "https://www.allmusic.com/album/heaven-and-hell-mw0000328212"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/832176ab-dfca-40b1-9f47-5b7fe5d1552b"
+  },
+  "musicLinks": {},
   "listens": 398,
   "listeners": 37,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 11,
-    "templateIntro": true,
+    "score": 53,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/832176ab-dfca-40b1-9f47-5b7fe5d1552b"
-  },
   "edges": [
     {
       "to": "material",

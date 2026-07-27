@@ -16,22 +16,36 @@
       "year": 2000
     }
   ],
-  "intro": "Mad for the Racket是音乐团体，现有资料将其归入朋克搖滾、摇滚乐。现有唱片目录收录了2000年的《The Racketeers》。理解这个项目的另一条线索是成员关系：Stewart Copeland的履历把它与Gizmodrome连接起来。从Gizmodrome沿关系网点进来时，《The Racketeers》可以作为试听入口。",
+  "intro": "Mad for the Racket是MC5吉他手Wayne Kramer与The Damned创团吉他手Brian James在2000年前后组织的临时全明星朋克项目，唱片也以The Racketeers之名发行。唯一专辑《The Racketeers》由两人轮流写歌、演唱和solo，Duff McKagan贯穿全碟弹贝斯，Stewart Copeland、Clem Burke与Brock Avery分担鼓组；声音把Detroit proto-punk、英国朋克与粗粝blues rock并置，没有发展成固定阵容。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "AllMusic专辑评论、阵容与分工",
+      "url": "https://www.allmusic.com/album/the-racketeers-mw0000001146"
+    },
+    {
+      "label": "NME成团及发行同期报道",
+      "url": "https://www.nme.com/news/music/wayne-kramer-2-1385579"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/477490d6-3e98-41b2-9c24-b465e8ee74dc"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001SR08j1LVx0S",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F13131053"
+  },
   "listens": 135,
   "listeners": 4,
   "quality": {
-    "score": 21,
-    "templateIntro": true,
+    "score": 63,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/477490d6-3e98-41b2-9c24-b465e8ee74dc"
-  },
   "edges": [
     {
       "to": "gizmodrome",

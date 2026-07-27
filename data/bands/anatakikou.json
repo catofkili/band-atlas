@@ -25,22 +25,37 @@
       "year": 2017
     }
   ],
-  "intro": "ANATAKIKOU是来自大阪、2001年至今活跃的音乐团体。现有唱片目录可从2005年的《sweet montage A》一路听到2017年的《3.2.1.O》。理解这个项目的另一条线索是成员关系：松浦匡希的履历把它与Official髭男dism连接起来。从Official髭男dism沿关系网点进来时，《sweet montage A》可以作为试听入口。",
+  "intro": "ANATAKIKOU是2002年前后在大阪结成的三人流行乐队。2005年首张《sweet montage A》以复杂却不显拥挤的编曲、抓耳旋律、密集和声与富于画面感的日语歌词建立风格；唱片自称“post-pop”，声音既有旧式歌谣与软摇滚的怀旧感，也常用突然转折和幽默表演破坏规整。其后《Message Pie》《YELLOW MATADOR》继续这条古怪而精细的路线，长时间沉寂后又以《3.2.1.O》恢复完整专辑创作。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Victor Entertainment专辑介绍",
+      "url": "https://www.jvcmusic.co.jp/-/Discography/A019423/VICB-60001.html"
+    },
+    {
+      "label": "Tower Records乐队访谈",
+      "url": "https://tower.jp/article/interview/2005/01/20/100039342"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ce54d048-b971-4132-a8da-2a3305a53402"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/121939903",
+    "spotify": "https://open.spotify.com/artist/3o6YQ2ljKZMRTWrkhfiSng",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F18521"
+  },
   "listens": 574,
   "listeners": 29,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/ce54d048-b971-4132-a8da-2a3305a53402"
-  },
   "edges": [
     {
       "to": "official髭男dism",

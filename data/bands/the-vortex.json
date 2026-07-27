@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Vortex是来自曼彻斯特的音乐团体。理解这个项目的另一条线索是成员关系：Paul Arthurs的履历把它与Oasis连接起来。",
+  "intro": "The Vortex是2000年代后期活跃于Manchester现场的英式摇滚乐队，John Mackie主唱，Maz Behdjet与前Oasis成员Paul “Bonehead” Arthurs弹吉他，Nick Repton、Sean O’Donnell和和声歌手Jaxx组成其余阵容。Bonehead先以客席身份登台，约在2008年圣诞加入；乐队把双吉他摇滚与soul、采样和Manchester舞曲传统并置，并在小型场地与Alan McGee的Death Disco活动中积累关注。它是Bonehead离开Oasis后的正式合作之一，而不是Oasis的改名或重组。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Band on the Wall演出页的阵容、录音与Bonehead说明",
+      "url": "https://bandonthewall.org/events/the-vortex-last-orders-the-hype/"
+    },
+    {
+      "label": "Bonehead访谈中的加入经过与乐队声音说明",
+      "url": "https://www.live4ever.uk.com/a-chat-with-paul-bonehead-arthur/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/38a1d9e8-461c-4037-90dd-ab87745096ba"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F13121273"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 3,
-    "templateIntro": true,
+    "score": 45,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/38a1d9e8-461c-4037-90dd-ab87745096ba"
-  },
   "edges": [
     {
       "to": "oasis",

@@ -15,22 +15,36 @@
       "year": 2002
     }
   ],
-  "intro": "铁风筝是来自北京、1993年至今活跃的音乐团体，现有资料将其归入独立摇滚。现有唱片目录收录了2002年的《这是我们的秘密》。理解这个项目的另一条线索是成员关系：虞洋的履历把它与唐朝连接起来。从唐朝沿关系网点进来时，《这是我们的秘密》可以作为试听入口。",
+  "intro": "铁风筝是1993年由主唱兼吉他手虞洋在北京组建的另类摇滚乐队。1995年收录于《中国火II》的《这个夏天》以倦怠、低沉的唱腔和缓慢累积的吉他成为代表作，此后《进化之日》等单曲继续散见于合辑；直到组队近十年后，乐队才在Badhead于2002年发行首张专辑《这是我们的秘密》，把北京摇滚黄金年代之后更内向、日常化的一面集中保存下来。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "新浪2002年首专与乐队历史报道",
+      "url": "https://ent.sina.com.cn/p/i/2002-06-19/88007.html"
+    },
+    {
+      "label": "乐队网成团与唱片资料",
+      "url": "https://bandchina.com/portal/article/index.html?cid=8&id=684"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e7973631-58b2-44ee-be0b-9fe1a8fd7ffa"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002WEmz84Ik3qy",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12990"
+  },
   "listens": 39,
   "listeners": 7,
   "quality": {
-    "score": 15,
-    "templateIntro": true,
+    "score": 57,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/e7973631-58b2-44ee-be0b-9fe1a8fd7ffa"
-  },
   "edges": [
     {
       "to": "唐朝",

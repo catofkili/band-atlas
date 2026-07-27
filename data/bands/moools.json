@@ -13,22 +13,35 @@
       "year": 2003
     }
   ],
-  "intro": "moools是1998年至今活跃的音乐团体。现有唱片目录收录了2003年的《moools》。理解这个项目的另一条线索是成员关系：内野正登的履历把它与toddle连接起来。从toddle沿关系网点进来时，《moools》可以作为试听入口。",
+  "intro": "moools是酒井泰明、内野正登、有泉充浩在东京大学时期结识后，于1997至1998年前后组成的日本indie rock乐队，后来加入吉他兼钢琴手浜本亮。乐队以松散、可即兴伸缩的现场和诙谐歌词见长，早期为Modest Mouse日本巡演暖场，随后与K Records及美国西北独立圈建立长期往来；他们还为The Microphones的2003年日本巡演伴奏，并与Calvin Johnson合作，使本土小型现场和Olympia网络真正接通。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "P-VINE官方成员与乐队介绍",
+      "url": "https://p-vine.jp/artists/moools?view_type=pc"
+    },
+    {
+      "label": "Apple Music成团、海外合作与唱片履历",
+      "url": "https://music.apple.com/us/artist/moools/272250070"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c19bd467-25ec-4687-963b-a0931a41a04d"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F20511"
+  },
   "listens": 4,
   "listeners": 1,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c19bd467-25ec-4687-963b-a0931a41a04d"
-  },
   "edges": [
     {
       "to": "toddle",

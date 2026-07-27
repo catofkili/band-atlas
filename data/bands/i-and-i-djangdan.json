@@ -13,22 +13,36 @@
       "year": 2010
     }
   ],
-  "intro": "I and I Djangdan是来自韩国、2008年至今活跃的音乐团体。现有唱片目录收录了2010年的《Guidance》。理解这个项目的另一条线索是成员关系：김반장、François Rialland的履历把它与Windy City连接起来。从Windy City沿关系网点进来时，《Guidance》可以作为试听入口。",
+  "intro": "I and I Djangdan是Windy City的Kim Ban-jang与法国雷鬼音乐人François “Hoarang” Rialland共同发起的韩国dub乐队，2008年以《Culture Tree》开始发表作品。2010年专辑《Guidance》把牙买加reggae、现场dub处理、盘索里唱腔与韩国传统长短节奏放进同一套合奏，并由Janggun、Jun Beck、Smiley等成员扩充人声、键盘、贝斯与打击乐；它不是Windy City的简单改名，而是一次明确面向韩式节奏语言的跨国实验。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Bugs艺人履历",
+      "url": "https://music.bugs.co.kr/artist/80045680"
+    },
+    {
+      "label": "Bugs《Guidance》专辑与阵容介绍",
+      "url": "https://music.bugs.co.kr/album/225051"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/75a66f67-4d2a-448e-acdf-3000268af6d1"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003cVCdl2RA105",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F57968305"
+  },
   "listens": 72,
   "listeners": 11,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/75a66f67-4d2a-448e-acdf-3000268af6d1"
-  },
   "edges": [
     {
       "to": "windy-city",

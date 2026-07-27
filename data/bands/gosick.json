@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "GOSICK是来自长野的音乐团体。理解这个项目的另一条线索是成员关系：Toshiya的履历把它与DIR EN GREY连接起来。",
+  "intro": "GOSICK是1990年代中期以长野为据点活动的视觉系乐队，也是Toshiya加入DIR EN GREY前的倒数第二支团。末期阵容为主唱JUNYA、吉他手ムーニャ、鼓手MIYAZI与支援贝斯Toshiya；后者先做roadie，约在1996年6月接替KOHTAROU，并随团巡演至10月23日最后一场。乐队没有留下成熟商业唱片，但有可核验的现场年表；ムーニャ1999年去世后，DIR EN GREY还以《アクロの丘》现场向他致意。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "DEGwiki的末期阵容、Toshiya加入过程与完整现场年表",
+      "url": "https://www.degwiki.com/wiki/GOSICK"
+    },
+    {
+      "label": "DIR EN GREY官网对Toshiya乐器与长野出身的确认",
+      "url": "https://direngrey.co.jp/lang_en/bio/bio-band/toshiya/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/09aa53c7-369f-4fe5-b35c-c0349b46edf5"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F29810756"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/09aa53c7-369f-4fe5-b35c-c0349b46edf5"
-  },
   "edges": [
     {
       "to": "dir-en-grey",

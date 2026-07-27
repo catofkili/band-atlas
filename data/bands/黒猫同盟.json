@@ -17,22 +17,37 @@
       "year": 2024
     }
   ],
-  "intro": "黒猫同盟是来自日本的音乐团体。现有唱片目录可从2021年的《Un chat noir》一路听到2024年的《ムーランルージュの黒猫》。理解这个项目的另一条线索是成员关系：上田ケンジ的履历把它与the pillows连接起来。从the pillows沿关系网点进来时，《Un chat noir》可以作为试听入口。",
+  "intro": "黒猫同盟是小泉今日子与贝斯手兼制作人上田ケンジ在2021年组成的日本二人音乐项目，两人都收养黑猫，团名也寄托推广保育猫的想法。项目最初为小泉的podcast制作主题音乐，首专《Un chat noir》继而把法式chanson、轻爵士和带猫视角的日常歌词组合起来；2024年《ムーランルージュの黒猫》继续扩展这套幽默、成熟又带社会关怀的成人流行。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "黒猫同盟成团与创作访谈",
+      "url": "https://donutroll.tokyo/wd/20210929_kuroneko.html"
+    },
+    {
+      "label": "ぴあ首专与2021年启动报道",
+      "url": "https://lp.p.pia.jp/article/news/203155/index.html?detail=true"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/80c3801d-ee57-402b-986a-bf725a884d62"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1570075264",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000VlKzu1kpr1S",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F48707830"
+  },
   "listens": 16,
   "listeners": 4,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/80c3801d-ee57-402b-986a-bf725a884d62"
-  },
   "edges": [
     {
       "to": "the-pillows",

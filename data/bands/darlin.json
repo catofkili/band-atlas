@@ -12,6 +12,9 @@
   "albums": [],
   "intro": "Darlin'是一支法国摇滚乐队，由洛朗·布兰科维茨、托马斯·本高特和盖-马努尔·德霍曼-克里斯托于1992年创立。该乐队在英国前卫流行乐队立体声实验室的Duophonic唱片公司发行了他们的歌曲。乐队成员后来加入了蠢朋克和凤凰乐队。",
   "introLang": "zh",
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F51614163"
+  },
   "listens": 377,
   "listeners": 86,
   "quality": {

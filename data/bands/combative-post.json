@@ -13,22 +13,32 @@
       "year": 2020
     }
   ],
-  "intro": "Combative Post是来自首尔的音乐团体。现有唱片目录收录了2020年的《Whiteout》。理解这个项目的另一条线索是成员关系：이일우的履历把它与잠비나이连接起来。从잠비나이沿关系网点进来时，《Whiteout》可以作为试听入口。",
+  "intro": "Combative Post是韩国吉他手이일우在13Steps、49 Morphines与Jambinai等经历之外推进的重型项目。2020年《Whiteout》以金属化吉他、硬核节奏和阴郁氛围为中心，既保留他早期韩国硬核场景的直接冲击，也能听到后来处理传统乐器与后摇结构时形成的空间意识。它不是Jambinai的缩小版，而是이일우把更尖锐、对抗性的riff写作集中存放的一条个人支线。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz乐队与发行资料",
+      "url": "https://musicbrainz.org/artist/74cebc28-457d-4a02-b734-e888087ebc12"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/74cebc28-457d-4a02-b734-e888087ebc12"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002M5sSd0qEUVJ",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12607179"
+  },
   "listens": 272,
   "listeners": 14,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/74cebc28-457d-4a02-b734-e888087ebc12"
-  },
   "edges": [
     {
       "to": "13steps",

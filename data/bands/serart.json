@@ -16,22 +16,37 @@
       "year": 2003
     }
   ],
-  "intro": "Serart是来自洛杉矶、2000年至今活跃的音乐团体，现有资料将其归入实验音乐、民谣。现有唱片目录收录了2003年的《Serart》。理解这个项目的另一条线索是成员关系：Serj Tankian的履历把它与System of a Down连接起来。从System of a Down沿关系网点进来时，《Serart》可以作为试听入口。",
+  "intro": "Serart是System of a Down主唱Serj Tankian与亚美尼亚多乐器演奏家Arto Tunçboyacıyan组成的二人项目，名称直接取自Serj与Arto。2003年的同名专辑以即兴为基础，把亚美尼亚与中东民间旋律、手鼓和自制打击乐、电子采样、爵士与实验人声混合在一起；Tankian在这里刻意离开金属乐框架，Tunçboyacıyan则让节奏与口传传统成为作品骨架。它更像一次跨文化声音旅行，也是Tankian自办厂牌Serjical Strike早期最能说明其审美边界的发行之一。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Serj Tankian官方网站访谈",
+      "url": "https://serjtankian.com/blogs/music-news/75700740-ny-rock-interviews-serj-about-serart"
+    },
+    {
+      "label": "Serart资料页",
+      "url": "https://en.wikipedia.org/wiki/Serart"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/3c80bbf8-4cc6-41b4-88cf-6eb1c7587345"
+  },
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/5KcAXbeH3b692beV9FSWzy",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002WXEFQ3LvnDh",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12647073"
+  },
   "listens": 6033,
   "listeners": 347,
   "quality": {
-    "score": 22,
-    "templateIntro": true,
+    "score": 64,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/3c80bbf8-4cc6-41b4-88cf-6eb1c7587345"
-  },
   "edges": [
     {
       "to": "system-of-a-down",

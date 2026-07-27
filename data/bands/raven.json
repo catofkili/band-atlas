@@ -17,6 +17,9 @@
   ],
   "intro": "RAVEN是日本音乐人照井利幸的个人音乐项目。该项目于2004年ROSSO暂停活动期间以限定形式发行了一张专辑。",
   "introLang": "zh",
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1437554199"
+  },
   "listens": 122,
   "listeners": 23,
   "quality": {

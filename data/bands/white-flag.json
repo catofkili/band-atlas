@@ -38,6 +38,10 @@
   ],
   "intro": "White Flag 是一支美国朋克摇滚乐队，目前驻扎在洛杉矶。乐队现有的阵容包括主唱 Mike Mess（吉他）、Jello B. Afro（贝斯）和 Trace Element（鼓手）。",
   "introLang": "zh",
+  "musicLinks": {
+    "spotify": "https://open.spotify.com/artist/7EfjlUkmDeit4BHiUNgmxK",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12893321"
+  },
   "listens": 1155,
   "listeners": 188,
   "quality": {

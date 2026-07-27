@@ -8,22 +8,33 @@
   "years": "2013–",
   "genres": [],
   "albums": [],
-  "intro": "カオティック・スピードキング是来自日本、2013年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：ピエール中野的履历把它与凛として時雨连接起来。",
+  "intro": "カオティック・スピードキング是由about tess吉他手takuto、凛として時雨鼓手ピエール中野与LITE贝斯手井澤惇组成的日本即兴乐队。三人不依靠固定曲目推进现场，而以高速节奏、重型riff和临场交流制造刻意失控的“混沌”；录音曲《SORA》曾邀请KYONO主唱，演出也会加入KAZI等客席形成双鼓。2016年サクライケンタ加入后，乐队还为Maison book girl现场伴奏，显示其编制会随合作对象继续变形。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "音楽ナタリー三人阵容、即兴定位与客席现场报道",
+      "url": "https://natalie.mu/music/news/122222"
+    },
+    {
+      "label": "Billboard JAPAN四人阵容与Maison book girl合作报道",
+      "url": "https://www.billboard-japan.com/d_news/detail/36524/2"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/83a5ab00-9539-4257-a21c-44853773ccdc"
+  },
+  "musicLinks": {},
   "listens": 2,
   "listeners": 1,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/83a5ab00-9539-4257-a21c-44853773ccdc"
-  },
   "edges": [
     {
       "to": "ling-tosite-sigure",

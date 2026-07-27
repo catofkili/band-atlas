@@ -10,22 +10,33 @@
     "朋克搖滾"
   ],
   "albums": [],
-  "intro": "The Complex是音乐团体，现有资料将其归入朋克搖滾。理解这个项目的另一条线索是成员关系：Colm Ó Cíosóig、Kevin Shields的履历把它与My Bloody Valentine连接起来。",
+  "intro": "The Complex是Kevin Shields与Colm Ó Cíosóig在组成My Bloody Valentine以前，于1979年前后参加的都柏林少年朋克乐队。阵容还有后来成立Hothouse Flowers的Liam Ó Maonlaí，以及只留下名字Mark的少年贝斯手；他们排练Sex Pistols、Ramones等团的歌曲，只举行过少量演出。乐队约在1981年随Ó Maonlaí离开而结束，却让Shields与Ó Cíosóig建立了此后数十年的音乐搭档关系。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Kevin Shields履历中的成团、演出与后续关系",
+      "url": "https://pitchfork.com/features/interview/9192-kevin-shields/"
+    },
+    {
+      "label": "The Complex阵容与1979至1981年沿革",
+      "url": "https://en.wikipedia.org/wiki/The_Complex_(band)"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c4d7f1d8-cd5f-4f94-9fb3-915fdee10dd7"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c4d7f1d8-cd5f-4f94-9fb3-915fdee10dd7"
-  },
   "edges": [
     {
       "to": "my-bloody-valentine",

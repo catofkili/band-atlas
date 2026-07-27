@@ -13,22 +13,35 @@
       "year": 1996
     }
   ],
-  "intro": "Churn是来自阿灵顿县、1989年至今活跃的音乐团体。现有唱片目录收录了1996年的《This Way to the Other Side》。理解这个项目的另一条线索是成员关系：本站按原关系链、流派与热度把它和Boris放在同一条推荐路径上（不表示合作或影响）。从Boris沿关系网点进来时，《This Way to the Other Side》可以作为试听入口。",
+  "intro": "这里的Churn是制作人、音乐人Barrett Jones在西雅图经营的个人化soft pop／alternative rock项目，与同名硬核乐队无关。1996年《This Way to the Other Side》由Jones主导创作和制作，以钢琴、旋律吉他、平稳节奏组与内省人声为中心，在《So Sweet》等歌里刻意收起西雅图当时最醒目的grunge噪响；专辑由Laundry Room Records发行，构成Jones大量幕后制作工作之外较少见的主唱作品。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "In Music We Trust专辑评论与项目身份",
+      "url": "https://www.inmusicwetrust.com/articles/01r08.html"
+    },
+    {
+      "label": "AllMusic专辑风格与发行资料",
+      "url": "https://www.allmusic.com/album/this-way-to-other-side-mw0000022066"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/63d26065-2133-4385-b87e-167c9bd593d4"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F13954147"
+  },
   "listens": 3,
   "listeners": 2,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/63d26065-2133-4385-b87e-167c9bd593d4"
-  },
   "edges": [
     {
       "to": "boris",

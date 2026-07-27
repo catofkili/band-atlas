@@ -8,22 +8,33 @@
   "years": "1991–",
   "genres": [],
   "albums": [],
-  "intro": "做梦是来自中国、1991年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：窦唯的履历把它与黑豹连接起来。",
+  "intro": "做梦乐队是窦唯1991年离开黑豹后在北京组建的短命乐队。早期成员包括贝斯手陈劲、吉他手吴珂、键盘手陈小虎，鼓手余伟民后来由赵牧阳接替，白方林等人也在阵容变化中加入；乐队把黑豹式硬摇滚转向new wave、gothic、氛围键盘与更内向的写作。它只活动到1992年，却在现场完成《高级动物》《悲伤的梦》等雏形，多首作品后来进入窦唯1994年首张个人专辑《黑梦》，因此两者在创作上不可分割。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "乐队网1991年成团与最初成员资料",
+      "url": "https://www.bandchina.com/portal/article/index.html?cid=8&id=473"
+    },
+    {
+      "label": "界面影像资料中的首演及《黑梦》作品延续",
+      "url": "https://en.jiemian.com/article/1355675.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/8cc5122b-ca5c-4ae1-9816-18f0bee865c7"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/8cc5122b-ca5c-4ae1-9816-18f0bee865c7"
-  },
   "edges": [
     {
       "to": "黑豹",

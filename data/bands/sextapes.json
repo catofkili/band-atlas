@@ -13,23 +13,36 @@
       "year": 2008
     }
   ],
-  "intro": "SexTapes是来自美国的音乐团体。现有唱片目录收录了2008年的《SexTapes》。理解这个项目的另一条线索是成员关系：Chris Pitman的履历把它与Guns N' Roses连接起来。从Guns N' Roses沿关系网点进来时，《SexTapes》可以作为试听入口。",
+  "intro": "SexTapes是Guns N’ Roses键盘手兼多乐器演奏者Chris Pitman在2000年代中期于Hollywood组建的另类硬摇滚乐队。Pitman负责主唱与guitar synth，创始搭档Kelly Wheeler弹吉他，Marko Fox演奏贝斯，Ryan Brown打鼓；2008年同名首专由Pitman共同写作和制作，把厚重riff与朋克速度、迷幻电子纹理和抓耳旋律结合。它不是Guns N’ Roses的旁支阵容，而是Pitman少见地站到主唱位置、完整塑造歌曲的个人乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "首张专辑发行、完整阵容与声音说明",
+      "url": "https://blabbermouth.net/news/guns-n-roses-keyboardist-chris-pitman-releases-sextapes"
+    },
+    {
+      "label": "同名专辑年份与演奏名单",
+      "url": "https://sleazeroxx.com/reviews/sextapes-sextapes/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/374e1126-0a04-4f6d-9363-1f41b833798f"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F48328095"
+  },
   "listens": 0,
   "listeners": 0,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/374e1126-0a04-4f6d-9363-1f41b833798f"
-  },
   "edges": [
     {
       "to": "guns-n-roses",

@@ -8,22 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "3minutes是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：河村隆一的履历把它与LUNA SEA连接起来。",
+  "intro": "3minutes是2012年为《ぱちんこウルトラマンタロウ 戦え!!ウルトラ6兄弟》音乐企划推出的五人覆面乐队，名称呼应奥特曼在地球活动三分钟的设定。成员以01至05编号：河村隆一主唱，葉山拓亮弹钢琴，JIGEN演奏贝斯，福田真一朗弹吉他，山崎慶打鼓；四曲单曲《7colors》收录同名主题歌、《Mother Earth》等作品。项目曾以蒙面形象在新机展示会演出，但没有发展成长线活动，核心是一套为特摄主题机器制作的完整pop-rock歌曲。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "《7colors》发行、四首曲目与覆面企划资料",
+      "url": "https://news.utamap.com/music/119900/"
+    },
+    {
+      "label": "五位编号成员与乐器分工记录",
+      "url": "https://ameblo.jp/tona-sea/entry-11299555115.html"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/01630d13-9b90-4e71-8f38-928ddccbd503"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/535353451"
+  },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/01630d13-9b90-4e71-8f38-928ddccbd503"
-  },
   "edges": [
     {
       "to": "luna-sea",

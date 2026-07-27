@@ -25,22 +25,38 @@
       "year": 2006
     }
   ],
-  "intro": "The RH Factor是来自美国的音乐团体，现有资料将其归入当代爵士乐、爵士乐。现有唱片目录可从2003年的《Hard Groove》一路听到2006年的《Distractions》。理解这个项目的另一条线索是成员关系：Roy Hargrove、James Poyser、Spanky的履历把它与The Soultronics连接起来。从The Soultronics沿关系网点进来时，《Hard Groove》可以作为试听入口。",
+  "intro": "The RH Factor是小号手Roy Hargrove在2000年代初发起的跨界乐队。经历D’Angelo《Voodoo》巡演和Erykah Badu《Mama’s Gun》的合作后，Hargrove把硬博普即兴放进新灵魂乐、放克与嘻哈的节奏框架；2003年首张《Hard Groove》邀请D’Angelo、Erykah Badu、Common、Q-Tip和Meshell Ndegeocello等人参与，随后还有《Strength》和《Distractions》。它最重要的不是“爵士加说唱”的表面拼接，而是让小号、键盘与多层节奏组像一支真正的groove乐队那样互相推动。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "The RH Factor艺人介绍",
+      "url": "https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr"
+    },
+    {
+      "label": "Roy Hargrove资料页",
+      "url": "https://en.wikipedia.org/wiki/Roy_Hargrove"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/27decac7-06de-4a04-ab45-d214dfae5d19"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1118585",
+    "spotify": "https://open.spotify.com/artist/3m7Ej9zfNto7JOsjKsYhEr",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001fV49Q3Npagt",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F150073"
+  },
   "listens": 17957,
   "listeners": 1534,
   "quality": {
-    "score": 27,
-    "templateIntro": true,
+    "score": 69,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/27decac7-06de-4a04-ab45-d214dfae5d19"
-  },
   "edges": [
     {
       "to": "the-soultronics",

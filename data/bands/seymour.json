@@ -8,22 +8,29 @@
   "years": "1989–1990",
   "genres": [],
   "albums": [],
-  "intro": "Seymour是来自科尔切斯特、1989至1990年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：Damon Albarn、Graham Coxon、Alex James、Dave Rowntree的履历把它与Blur连接起来。",
+  "intro": "Seymour是Blur四位成员在签约Food Records前短暂使用的团名。Damon Albarn、Graham Coxon、Alex James与Dave Rowntree于1989年前后固定阵容，名称取自J. D. Salinger笔下人物Seymour Glass；他们以此名制作demo并在伦敦演出。唱片公司认为名称不够合适，成员从备选词中选择Blur，于1990年完成改名，因此Seymour不是旁支，而是同一支乐队从学生阶段走向职业发行的最后一个旧名。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Blur成团历史",
+      "url": "https://en.wikipedia.org/wiki/Blur_(band)"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/594493b9-50df-4efb-9aed-9b5c867b4753"
+  },
+  "musicLinks": {},
   "listens": 314,
   "listeners": 47,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/594493b9-50df-4efb-9aed-9b5c867b4753"
-  },
   "edges": [
     {
       "to": "blur",

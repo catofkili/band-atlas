@@ -17,22 +17,36 @@
       "year": 1992
     }
   ],
-  "intro": "Izzy Stradlin and the Ju Ju Hounds是来自加利福尼亚州、1992年至今活跃的音乐团体。1992年的唱片目录包括《Guns Without Roses》和《Izzy Stradlin and the Ju Ju Hounds》。理解这个项目的另一条线索是成员关系：Izzy Stradlin的履历把它与Guns N' Roses连接起来。从Guns N' Roses沿关系网点进来时，《Guns Without Roses》可以作为试听入口。",
+  "intro": "Izzy Stradlin and the Ju Ju Hounds是Izzy Stradlin离开Guns N’ Roses后在1992年组建的短期乐队，阵容包括Georgia Satellites吉他手Rick Richards、贝斯手Jimmy Ashhurst和鼓手Charlie Quintana。唯一的同名录音室专辑放下Guns N’ Roses的大型制作，转向更松弛的滚石式摇滚、布鲁斯与酒吧乐队律动，《Shuffle It All》和《Somebody Knockin’》成为电台歌曲。它只维持一个专辑与巡演周期，却清楚呈现了Stradlin作为节奏吉他手和歌曲作者更朴素的一面。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "乐队与阵容资料",
+      "url": "https://en.wikipedia.org/wiki/Izzy_Stradlin"
+    },
+    {
+      "label": "同名专辑资料",
+      "url": "https://en.wikipedia.org/wiki/Izzy_Stradlin_and_the_Ju_Ju_Hounds_(album)"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/97e8fb6a-4272-46f4-8c22-e74c038195b6"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000FZmSR2obH1c",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F149284"
+  },
   "listens": 3579,
   "listeners": 290,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/97e8fb6a-4272-46f4-8c22-e74c038195b6"
-  },
   "edges": [
     {
       "to": "guns-n-roses",

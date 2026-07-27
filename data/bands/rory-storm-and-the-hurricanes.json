@@ -8,22 +8,38 @@
   "years": "1957–1967",
   "genres": [],
   "albums": [],
-  "intro": "Rory Storm and the Hurricanes是来自利物浦、1957至1967年间活跃的音乐团体。理解这个项目的另一条线索是成员关系：Ringo Starr的履历把它与The Beatles连接起来。",
+  "intro": "Rory Storm and the Hurricanes由利物浦歌手Alan Caldwell在1950年代末从skiffle团体逐步发展而来，他改名Rory Storm后，以夸张服装、舞台动作和高强度翻唱成为早期Merseybeat现场最受欢迎的领队之一。Richard Starkey于1959年前后加入并在这里采用Ringo Starr艺名，乐队随后驻演Butlin’s假日营及汉堡Kaiserkeller，直到他在1962年转投The Beatles。Hurricanes的本地声望远大于薄弱的正式唱片目录；Ringo离开后发行的《Dr. Feelgood》《America》未能复制现场热度，却留下了Beatles成名前利物浦职业乐队生态的重要切面。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "AllMusic乐队形成与阵容简介",
+      "url": "https://www.allmusic.com/artist/rory-storm-the-hurricanes-mn0001385081"
+    },
+    {
+      "label": "Beatles Liverpool关于Ringo与Hurricanes的历史",
+      "url": "https://www.beatlesliverpool.info/ringo-starr-sentimental-journey/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/de74e49a-d4f0-4551-ab8b-62b291e132bb"
+  },
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/264298037",
+    "spotify": "https://open.spotify.com/artist/2PM79iaCa7uADUjwWo5eMM",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0029v4ju1irLwU",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12844773"
+  },
   "listens": 85,
   "listeners": 26,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/de74e49a-d4f0-4551-ab8b-62b291e132bb"
-  },
   "edges": [
     {
       "to": "plastic-ono-band",

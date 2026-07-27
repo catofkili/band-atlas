@@ -17,23 +17,38 @@
       "year": 2013
     }
   ],
-  "intro": "Before Cars是来自美国的音乐团体。现有唱片目录可从2009年的《Walk Back》一路听到2013年的《How We Run》。理解这个项目的另一条线索是成员关系：Chad Channing的履历把它与Nirvana连接起来。从Nirvana沿关系网点进来时，《Walk Back》可以作为试听入口。",
+  "intro": "Before Cars是前Nirvana鼓手Chad Channing在2000年代中期把个人创作发展成的乐队，他在这里走到台前演唱、弹吉他或贝斯，而不是继续扮演伴奏鼓手。2006年《Old Chair》EP和2009年首专《Walk Back》收纳了Channing横跨加入Nirvana之前、期间及之后写下的歌曲，以朴素旋律和classic pop取代grunge的重量；2013年《How We Run》延续了这条更私人、更松弛的创作线。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Seattle Weekly对Chad Channing与《Walk Back》的报道",
+      "url": "https://www.seattleweekly.com/music/chad-channing-center-and-his-band-before-cars-play-lounge-acts-a/"
+    },
+    {
+      "label": "Chad Channing访谈与乐队沿革",
+      "url": "https://www.goldenplec.com/chad-channing-interview/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/0cd44b95-7fa3-4fb3-9c87-646cf83a9a6b"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0023FQGa1gCT3Q",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F32666258",
+    "apple": "https://music.apple.com/us/artist/before-cars/328254877"
+  },
   "listens": 86,
   "listeners": 9,
   "countryInferred": "member-neighbors",
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/0cd44b95-7fa3-4fb3-9c87-646cf83a9a6b"
-  },
   "edges": [
     {
       "to": "nirvana",

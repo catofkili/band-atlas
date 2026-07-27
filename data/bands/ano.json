@@ -40,6 +40,12 @@
       "title": "絶絶絶絶対聖域"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/1529999013",
+    "spotify": "https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F34827796",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000jrtCB3HbGlC"
+  },
   "listens": 26752,
   "listeners": 1280,
   "quality": {

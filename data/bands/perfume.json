@@ -73,6 +73,11 @@
       "title": "Spending all my time"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/351343399",
+    "spotify": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F20965"
+  },
   "listens": 433370,
   "listeners": 3570,
   "quality": {

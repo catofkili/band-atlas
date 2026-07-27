@@ -13,22 +13,31 @@
       "year": 2023
     }
   ],
-  "intro": "봉제인간是来自韩国、2022年至今活跃的音乐团体。现有唱片目录收录了2023年的《12가지 말들》。理解这个项目的另一条线索是成员关系：임현제的履历把它与혁오连接起来。从혁오沿关系网点进来时，《12가지 말들》可以作为试听入口。",
+  "intro": "봉제인간（Bongjeingan，意为“缝制人”）是由Parasol、Sultan of the Disco的지윤해、Hyukoh吉他手임현제与前장기하와 얼굴들鼓手전일준组成的韩国三人乐队。2023年首张《12가지 말들》以三位成员各自主团之外的即兴碰撞为起点，把坚硬吉他riff、机械而有弹性的节奏、迷幻噪音与近似spoken word的歌声缝在一起；《꾸부렁 할머니》《비틀어》等曲目在粗野爆发和细小重复之间转换。团名所指的“缝合”也是创作方法：三段已很鲜明的音乐履历没有被磨平，而是保留接缝形成新的怪异身体。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "纽西斯首张专辑、成员与歌曲介绍",
+      "url": "https://www.newsis.com/view/NISX20231003_0002470022"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1cfcf85c-fb75-4f0e-ab37-747f9d99e7c6"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F54994236"
+  },
   "listens": 78,
   "listeners": 23,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/1cfcf85c-fb75-4f0e-ab37-747f9d99e7c6"
-  },
   "edges": [
     {
       "to": "혁오",

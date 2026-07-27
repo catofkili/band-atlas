@@ -25,22 +25,31 @@
       "year": 2010
     }
   ],
-  "intro": "サンガツ是来自日本的音乐团体。现有唱片目录可从2000年的《サンガツ》一路听到2010年的《5つのコンポジション》。理解这个项目的另一条线索是成员关系：田中 佑司的履历把它与くるり连接起来。从くるり沿关系网点进来时，《サンガツ》可以作为试听入口。",
+  "intro": "サンガツ（Sangatsu）于1997年在东京成立，以研究声音的形状、运动及其与空间和身体的关系为目标。Jim O’Rourke制作的2000年同名首专之后，《波》成为奥原浩志电影配乐，《静かな生活》《5つのコンポジション》则逐步从器乐乐队转向规则、表演与场域；他们还与戏剧、舞蹈和美术合作，并于2012年宣布放弃此后作品五年的著作权，把音乐如何被共同传递本身也变成创作。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "サンガツ官方网站历史、阵容与创作理念",
+      "url": "https://www.sangatsu.com/about/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/51983b80-a95e-4a5d-9c5d-4108d957ce5c"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F13847034"
+  },
   "listens": 30,
   "listeners": 4,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/51983b80-a95e-4a5d-9c5d-4108d957ce5c"
-  },
   "edges": [
     {
       "to": "くるり",

@@ -34,22 +34,33 @@
     }
   ],
   "countryInferred": "name-script",
-  "intro": "ロケットマン是音乐团体。现有唱片目录可从1998年的《フライング・ロケットマン》一路听到2010年的《ROCKETMAN SHOW!!》。理解这个项目的另一条线索是成员关系：小西康陽的履历把它与Pizzicato Five连接起来。从Pizzicato Five沿关系网点进来时，《フライング・ロケットマン》可以作为试听入口。",
+  "intro": "ロケットマン最初是搞笑艺人ふかわりょう与Pizzicato Five制作人小西康陽在1990年代末合作的音乐与短剧组合，后来逐渐成为ふかわ个人的DJ及制作人名义。小西负责音乐、ふかわ负责喜剧段落的早期分工，发展成以house为中心、强调明亮旋律与派对感的俱乐部项目；他也长期主持《ROCKETMAN SHOW!!》并参与音乐节与电影配乐。理解这个名字需要区分两个阶段：它先是一组双人概念，2000年代以后则主要指ふかわりょう本人。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "日本Columbia官方简介",
+      "url": "https://columbia.jp/artist-info/rocketman/prof.html"
+    },
+    {
+      "label": "ふかわりょう音乐制作访谈",
+      "url": "https://plugplus.rittor-music.co.jp/learning/interview/rocketman/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/94c66791-f6df-4623-b7d5-ac10e200db32"
+  },
+  "musicLinks": {},
   "listens": 933,
   "listeners": 49,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/94c66791-f6df-4623-b7d5-ac10e200db32"
-  },
   "edges": [
     {
       "to": "pizzicato-five",

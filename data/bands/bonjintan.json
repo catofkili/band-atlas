@@ -17,22 +17,32 @@
       "year": 2020
     }
   ],
-  "intro": "Bonjintan是来自日本的音乐团体。现有唱片目录可从2017年的《Bonjin Tan》一路听到2020年的《Dental Kafka》。理解这个项目的另一条线索是成员关系：山本達久、Giovanni di Domenico的履历把它与Delivery Health连接起来。从Delivery Health沿关系网点进来时，《Bonjin Tan》可以作为试听入口。",
+  "intro": "Bonjintan是由日本萨克斯与单簧管演奏家坂田明、Jim O’Rourke、意大利钢琴家Giovanni Di Domenico及鼓手山本達久组成的自由即兴四重奏。2017年同名专辑和随后录制的《Dental Kafka》以几乎占满唱片单面的长篇演奏展开，让坂田明的吼唱与猛烈吹奏、钢琴簇音、低音提琴和鼓组不断改变密度；四人的重点不是固定主题，而是在free jazz的高压碰撞中即时重组空间。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "JazzMessengers《Dental Kafka》阵容与录音介绍",
+      "url": "https://www.jazzmessengers.com/en/83304/bonjintan/dentalkafka"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/823f8b5a-a1eb-4dad-b417-8d5696d97243"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F56949623",
+    "apple": "https://music.apple.com/jp/artist/bonjintan/1517112444"
+  },
   "listens": 43,
   "listeners": 11,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/823f8b5a-a1eb-4dad-b417-8d5696d97243"
-  },
   "edges": [
     {
       "to": "delivery-health",

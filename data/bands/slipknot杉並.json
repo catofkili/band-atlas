@@ -8,22 +8,33 @@
   "years": "2016–",
   "genres": [],
   "albums": [],
-  "intro": "Slipknot杉並是来自日本、2016年至今活跃的音乐团体。理解这个项目的另一条线索是成员关系：ミヤ的履历把它与MUCC连接起来。",
+  "intro": "Slipknot杉並是ミヤ参与的Slipknot限定翻唱乐队，2016年以“スリップノット杉並 from COMMUNE”名义登上新宿LOFT深夜PARTY ZOO。阵容由NOCTURNAL BLOODLUST的尋主唱、Cazqui与ミヤ弹吉他、アルルカン的祥平弹贝斯、TYRANT OF MARY的Allen打鼓；他们以年轻一代日本loud／visual系乐手重现Slipknot的重型曲目。团名中的“杉並”延续同一批恶搞翻唱session，并不表示原版Slipknot成员参与。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MUCC官方存档中的完整阵容与演出资料",
+      "url": "https://archive.55-69.com/date/2016/11"
+    },
+    {
+      "label": "BARKS对谈中对Slipknot翻唱乐队的回顾",
+      "url": "https://barks.jp/news/961797/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/1a7a3506-7f87-48e7-82d1-5f6e001587fb"
+  },
+  "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 4,
-    "templateIntro": true,
+    "score": 46,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/1a7a3506-7f87-48e7-82d1-5f6e001587fb"
-  },
   "edges": [
     {
       "to": "the-mad-capsule-market-s-杉並",

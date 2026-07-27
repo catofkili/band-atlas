@@ -17,22 +17,32 @@
       "year": 2016
     }
   ],
-  "intro": "DECAYS是来自日本、2015年至今活跃的音乐团体。现有唱片目录可从2015年的《Red Or Maryam》一路听到2016年的《Baby who wanders》。理解这个项目的另一条线索是成员关系：Die的履历把它与DIR EN GREY连接起来。从DIR EN GREY沿关系网点进来时，《Red Or Maryam》可以作为试听入口。",
+  "intro": "DECAYS是DIR EN GREY吉他手Die与MOON CHILD鼓手兼制作人樫山圭于2015年发起的日本摇滚组合。后续六人阵容加入创作歌手中村中、提琴手Ayasa、贝斯手寺沢リョータ与舞者チドニー，Die和中村中的双主唱令90年代式抓耳旋律带上更妖艳的戏剧张力，小提琴和电子层则拓宽了传统乐队声场。《Red or Maryam》与2016年《Baby who wanders》记录了项目从短期尝试变成完整多媒体编制的过程。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Dreamusic官方乐队简介",
+      "url": "https://dreamusic.co.jp/artist/decays/profile/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e9886313-dfe4-4bbd-bc6d-6e978eeb2e34"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0000ccEP0Vleeg",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F12029127"
+  },
   "listens": 407,
   "listeners": 21,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/e9886313-dfe4-4bbd-bc6d-6e978eeb2e34"
-  },
   "edges": [
     {
       "to": "dir-en-grey",

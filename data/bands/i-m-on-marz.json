@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "I'M ON MARZ是来自神奈川的音乐团体。理解这个项目的另一条线索是成员关系：MAH的履历把它与SiM连接起来。",
+  "intro": "I’M ON MARZ是2000年代在神奈川地下现场活动的乐队，公开资料把其声音归在electronica、reggae与rock之间，并以“chill out and play hard”概括现场取向。现存目录以《DEMO》及短曲《Drown》等零散记录为主，成员关系后来通向SiM；因此它更适合作为神奈川loud／reggae-rock场景中的早期人脉节点，而不是拥有完整专辑史的成熟项目。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Audioleaf地区与曲风资料存档",
+      "url": "https://www.audioleaf.com/search/artist/result?p=474"
+    },
+    {
+      "label": "《Drown》发行记录",
+      "url": "https://www.senscritique.com/morceau/drown/136716018"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/6b5caa6c-6e42-4f84-b800-1ab7b8d7dcfc"
+  },
+  "musicLinks": {},
   "listens": 5,
   "listeners": 1,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/6b5caa6c-6e42-4f84-b800-1ab7b8d7dcfc"
-  },
   "edges": [
     {
       "to": "sim",

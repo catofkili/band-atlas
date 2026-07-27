@@ -21,22 +21,29 @@
       "year": 2016
     }
   ],
-  "intro": "CRYPT CITY是音乐团体。现有唱片目录可从2011年的《Crypt City》一路听到2016年的《Chant》。理解这个项目的另一条线索是成员关系：小松正宏的履历把它与bloodthirsty butchers连接起来。从bloodthirsty butchers沿关系网点进来时，《Crypt City》可以作为试听入口。",
+  "intro": "CRYPT CITY是东京四人alternative rock乐队，首张时期由Dean Kessler主唱、戸高賢史弹吉他、中尾憲太郎弹贝斯、前bloodthirsty butchers鼓手小松正宏组成。2011年同名专辑以双语碎片、尖锐吉他和密集节奏建立紧张感，之后《Defect》《Chant》继续在noise rock、post-punk与迷幻重复之间推进；四位成员的经验让它听起来粗暴，却不是单纯复制butchers。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "乐队官方Bandcamp首专阵容与曲目",
+      "url": "https://cryptcity.bandcamp.com/album/crypt-city"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/c20b7d7c-3d7b-4613-9165-3cdf824d78c6"
+  },
+  "musicLinks": {},
   "listens": 32,
   "listeners": 4,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/c20b7d7c-3d7b-4613-9165-3cdf824d78c6"
-  },
   "edges": [
     {
       "to": "bloodthirsty-butchers",

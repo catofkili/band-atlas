@@ -13,22 +13,35 @@
       "year": 2005
     }
   ],
-  "intro": "nearLY是来自洛杉矶、1999年至今活跃的音乐团体。现有唱片目录收录了2005年的《Reminder》。理解这个项目的另一条线索是成员关系：Keith Hillebrandt、Jerome Dillon的履历把它与Nine Inch Nails连接起来。从Nine Inch Nails沿关系网点进来时，《Reminder》可以作为试听入口。",
+  "intro": "nearLY是前Nine Inch Nails鼓手Jerome Dillon在离团前后主导的个人项目，名称虽以乐队方式呈现，录音核心却是Dillon本人。2005年的首张《Reminder》中，他包办主唱、鼓、吉他、键盘、弦乐编排与大量制作工作，并邀请Claudia Sarne等伙伴参与；音乐把工业摇滚的暗色纹理与钢琴、弦乐、环境声和更内向的歌曲写作相连。它让长期担任鼓手的Dillon转到创作中心，也是他后来进入电影配乐工作的自然过渡。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "nearLY官方Bandcamp",
+      "url": "https://nearly.bandcamp.com/"
+    },
+    {
+      "label": "Jerome Dillon作品资料",
+      "url": "https://www.allmusic.com/artist/jerome-dillon-mn0001791541"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/ef6acfcb-2c12-419d-bfcf-4ffaac9f3e8d"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F69605"
+  },
   "listens": 649,
   "listeners": 69,
   "quality": {
-    "score": 10,
-    "templateIntro": true,
+    "score": 52,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/ef6acfcb-2c12-419d-bfcf-4ffaac9f3e8d"
-  },
   "edges": [
     {
       "to": "nine-inch-nails",

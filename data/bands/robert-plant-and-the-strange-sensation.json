@@ -25,22 +25,36 @@
       "title": "Shine It All Around"
     }
   ],
-  "intro": "Robert Plant and the Strange Sensation是来自英国、2001至2007年间活跃的音乐团体，现有资料将其归入跨界前卫摇滚、摇滚。想从歌曲进入，可以先听《Shine It All Around》。理解这个项目的另一条线索是成员关系：Justin Adams、John Baggott、Billy Fuller、Liam Tyson的履历把它与Sensational Space Shifters连接起来。从Sensational Space Shifters沿关系网点进来时，《Shine It All Around》可以作为试听入口。",
+  "intro": "Robert Plant and the Strange Sensation是Robert Plant在2000年代初组建的巡演与录音乐队，成员包括Justin Adams、John Baggott、Billy Fuller、Liam “Skin” Tyson和Clive Deamer等来自世界音乐、Portishead及英国摇滚圈的乐手。2005年的《Mighty ReArranger》把硬摇滚的重量与北非节奏、迷幻民谣、电子纹理放在一起，《Shine It All Around》最能体现这种更新。相比重演Led Zeppelin，这支乐队更像Plant重新寻找当代声音的实验室，其核心成员后来也延续到Sensational Space Shifters。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "NPR《Mighty ReArranger》介绍",
+      "url": "https://www.wprl.org/npr-music/2005-12-26/robert-plant-mighty-rearranger"
+    },
+    {
+      "label": "《Mighty ReArranger》资料",
+      "url": "https://en.wikipedia.org/wiki/Mighty_ReArranger"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a527e4cb-64be-4960-8ef5-edb02ff7d48e"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001du4J724lAfu",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F29721936"
+  },
   "listens": 7658,
   "listeners": 427,
   "quality": {
-    "score": 33,
-    "templateIntro": true,
+    "score": 75,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a527e4cb-64be-4960-8ef5-edb02ff7d48e"
-  },
   "edges": [
     {
       "to": "sensational-space-shifters",

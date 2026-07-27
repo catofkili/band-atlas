@@ -8,22 +8,32 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Project Tru是音乐团体。理解这个项目的另一条线索是成员关系：Russ Simms的履历把它与wirebox连接起来。",
+  "intro": "Project Tru是来自加州Anaheim的十二人funk-rock大编制，由Robert Trujillo主导制作与创作。1999年专辑《A Twelve Piece Band》把完整铜管组、摇滚吉他、拉丁打击乐和slap bass叠在一起，再由男声、女声与说唱轮番领唱；它以现场乐队的密度连接funk、Latin与当时的rap-rock，而不是同名音乐人的个人唱片。项目也与Trujillo后来参与的Wirebox共享创作人脉。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Project Tru官方Bandcamp阵容、风格与专辑资料",
+      "url": "https://projecttru.bandcamp.com/album/a-twelve-piece-band"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/12a63055-7849-4073-9199-a76b067635df"
+  },
+  "musicLinks": {
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002kyyhh3o5hw9",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F71924"
+  },
   "listens": 2,
   "listeners": 1,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/12a63055-7849-4073-9199-a76b067635df"
-  },
   "edges": [
     {
       "to": "wirebox",

@@ -67,6 +67,12 @@
       "title": "Rock the House"
     }
   ],
+  "musicLinks": {
+    "apple": "https://music.apple.com/us/artist/band-atlas/567072",
+    "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ",
+    "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002WKatH4IAyfa",
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F93185"
+  },
   "listens": 3445526,
   "listeners": 27666,
   "quality": {

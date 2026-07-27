@@ -13,22 +13,35 @@
       "year": 2011
     }
   ],
-  "intro": "Oh No Fiasco是来自美国、2010年至今活跃的音乐团体。现有唱片目录收录了2011年的《Oh No Fiasco》。理解这个项目的另一条线索是成员关系：Colin Brittain的履历把它与Linkin Park连接起来。从Linkin Park沿关系网点进来时，《Oh No Fiasco》可以作为试听入口。",
+  "intro": "Oh No Fiasco是2010年前后成立于田纳西州Knoxville的女声dance-rock乐队，由Lindsey Stamey担任主唱，多乐器演奏者Colin Brittain参与创作与制作。2011年同名作品和2013年EP《No One’s Gotta Know》以明亮合成器、流行朋克吉他和适合现场跳舞的副歌构成声音核心；Brittain后来成为制作人并于2024年加入Linkin Park，使这支活动不长的地方乐队获得一条意外的后续连接。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "乐队访谈与成团、曲风资料",
+      "url": "https://www.davesontour.com/fiveanddime/ohnofiasco.html"
+    },
+    {
+      "label": "《No One’s Gotta Know》同期评论",
+      "url": "https://thecatalystnews.com/2013/10/04/oh-no-fiasco/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a6ceb290-460f-4fdd-b65c-3bcd2cc88f3a"
+  },
+  "musicLinks": {
+    "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F827707"
+  },
   "listens": 40,
   "listeners": 9,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a6ceb290-460f-4fdd-b65c-3bcd2cc88f3a"
-  },
   "edges": [
     {
       "to": "linkin-park",

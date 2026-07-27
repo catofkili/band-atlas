@@ -8,22 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Artists United for Nature是音乐团体。理解这个项目的另一条线索是成员关系：Herbie Hancock的履历把它与The Headhunters连接起来。",
+  "intro": "Artists United for Nature是制作人Harold Faltermeyer为热带雨林保护行动召集的国际慈善音乐人集合体，1989年发行单曲《Yes We Can》。Ian Anderson、Herbie Hancock、Chaka Khan、Joe Cocker、Brian May、Michael McDonald、Jennifer Rush、Sandra等人分段演唱或演奏，以明星接力方式为环保筹款和宣传；这个名称对应一次明确的公益录音企划，并不是拥有固定阵容和长期巡演的超级乐队。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Chaka Khan官网《Yes We Can》演出名单",
+      "url": "https://chakakhanmusicwebsite.com/discography/yes-we-can-remix/"
+    },
+    {
+      "label": "项目发起与环保筹款背景",
+      "url": "https://www.musikansich.de/review.php?id=16844"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/817c0792-e06d-44ce-870f-40b8ec6a54d8"
+  },
+  "musicLinks": {},
   "listens": 55,
   "listeners": 10,
   "quality": {
-    "score": 2,
-    "templateIntro": true,
+    "score": 44,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/817c0792-e06d-44ce-870f-40b8ec6a54d8"
-  },
   "edges": [
     {
       "to": "the-headhunters",
