@@ -20,7 +20,10 @@ const STAGES = [
 const MAX_CANVAS_PIXELS = 16_000_000;
 const MAX_PIXEL_RATIO = 2;
 const MAP_POPULAR_LISTEN_FLOOR = 1000;
-const GRAPH_VERSION = 'fc240e768f';
+const LABEL_LIMITS_PER_MEGAPIXEL = [Infinity, Infinity, 92, 42];
+const LABEL_LIMIT_FLOORS = [9, 22, 26, 13];
+const LABEL_GAPS = [4, 5, 6, 7];
+const GRAPH_VERSION = 'e2c74de47a';
 
 const hash = (text) => {
   let value = 2166136261;
@@ -59,6 +62,9 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
   let pinch = null;
   let popularOnly = initialPopularOnly;
   let renderFrame = 0;
+  let snapOnNextRender = false;
+  let renderedLabels = new Set();
+  let renderedMetrics = new Map();
   const pointers = new Map();
   const ctx = canvas.getContext('2d', { alpha: false });
   const surface = canvas.parentElement;
@@ -114,7 +120,6 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
     if (picker) {
       const fragment = document.createDocumentFragment();
       for (const node of [...nodes.values()]
-        .filter((node) => allowed(node.id))
         .sort((a, b) => a.name.localeCompare(b.name, 'zh-CN'))) {
         const option = document.createElement('option');
         option.value = node.id;
@@ -139,7 +144,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
       return (nodes.get(b)?.degree || 0) - (nodes.get(a)?.degree || 0) || hash(a) - hash(b);
     });
 
-    primaryIds = [...(adjacency.get(id) || [])].filter(allowed).sort((a, b) => {
+    primaryIds = [...(adjacency.get(id) || [])].sort((a, b) => {
       const degreeDifference = (nodes.get(b)?.degree || 0) - (nodes.get(a)?.degree || 0);
       return degreeDifference || hash(a) - hash(b);
     });
@@ -150,8 +155,8 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
         index === 0
           ? [focusId, ...primaryIds.slice(0, 8)]
           : index === STAGES.length - 1
-            ? [...nodes.keys()].filter(allowed)
-            : rankedHops.filter(([nodeId]) => allowed(nodeId)).slice(0, stage.count).map(([nodeId]) => nodeId);
+            ? allowedIds
+            : rankedHops.slice(0, stage.count).map(([nodeId]) => nodeId);
       const visible = new Set(ids);
       return {
         visible,
@@ -166,7 +171,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
   function prepareViewportStages(screenX = viewportWidth / 2, screenY = viewportHeight / 2) {
     const centerX = (screenX - viewportWidth / 2 - offsetX) / scale;
     const centerY = (screenY - viewportHeight / 2 - offsetY) / scale;
-    const nearestIds = allowedIds
+    const nearestIds = [...nodes.keys()]
       .map((id) => {
         const point = positions.get(id);
         const dx = point.x - centerX;
@@ -216,6 +221,93 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
     return Math.min(tx, ty);
   }
 
+  function nodeImportance(node) {
+    if (node.id === focusId) return Number.POSITIVE_INFINITY;
+    const listenScore = Math.log10((node.listens ?? 0) + 1) * 24;
+    const listenerScore = Math.log10((node.listeners ?? 0) + 1) * 7;
+    const relationScore = Math.log2((node.degree ?? 0) + 1) * 12;
+    const regionalScore = node.regionalFeatured ? 28 : 0;
+    return listenScore + listenerScore + relationScore + regionalScore;
+  }
+
+  function chooseRenderedLabels(view, display, displayMetrics, stageIndex) {
+    const areaInMegapixels = viewportWidth * viewportHeight / 1_000_000;
+    const configuredLimit = LABEL_LIMITS_PER_MEGAPIXEL[stageIndex];
+    const limit = Number.isFinite(configuredLimit)
+      ? Math.max(
+          LABEL_LIMIT_FLOORS[stageIndex],
+          Math.round(areaInMegapixels * configuredLimit)
+        )
+      : view.points.length;
+    const gap = LABEL_GAPS[stageIndex];
+    const candidates = [];
+
+    for (const point of view.points) {
+      const at = display.get(point.node.id);
+      const metrics = displayMetrics(point.node);
+      if (
+        at.screenX - metrics.widthScreen / 2 < 3 ||
+        at.screenX + metrics.widthScreen / 2 > viewportWidth - 3 ||
+        at.screenY - metrics.heightScreen / 2 < 3 ||
+        at.screenY + metrics.heightScreen / 2 > viewportHeight - 3
+      ) continue;
+      candidates.push({
+        id: point.node.id,
+        metrics,
+        priority: nodeImportance(point.node),
+        box: {
+          left: at.screenX - metrics.widthScreen / 2 - gap,
+          right: at.screenX + metrics.widthScreen / 2 + gap,
+          top: at.screenY - metrics.heightScreen / 2 - gap,
+          bottom: at.screenY + metrics.heightScreen / 2 + gap,
+        },
+      });
+    }
+    candidates.sort(
+      (a, b) => b.priority - a.priority || hash(a.id) - hash(b.id)
+    );
+
+    const cellSize = 96;
+    const grid = new Map();
+    const labels = new Set();
+    const metricsById = new Map();
+    for (const candidate of candidates) {
+      if (labels.size >= limit) break;
+      const minX = Math.floor(candidate.box.left / cellSize);
+      const maxX = Math.floor(candidate.box.right / cellSize);
+      const minY = Math.floor(candidate.box.top / cellSize);
+      const maxY = Math.floor(candidate.box.bottom / cellSize);
+      let collides = false;
+      for (let x = minX; x <= maxX && !collides; x += 1) {
+        for (let y = minY; y <= maxY && !collides; y += 1) {
+          for (const other of grid.get(`${x}:${y}`) || []) {
+            if (
+              candidate.box.left < other.right &&
+              candidate.box.right > other.left &&
+              candidate.box.top < other.bottom &&
+              candidate.box.bottom > other.top
+            ) {
+              collides = true;
+              break;
+            }
+          }
+        }
+      }
+      if (collides) continue;
+      labels.add(candidate.id);
+      metricsById.set(candidate.id, candidate.metrics);
+      for (let x = minX; x <= maxX; x += 1) {
+        for (let y = minY; y <= maxY; y += 1) {
+          const key = `${x}:${y}`;
+          const bucket = grid.get(key) || [];
+          bucket.push(candidate.box);
+          grid.set(key, bucket);
+        }
+      }
+    }
+    return { labels, metricsById };
+  }
+
   function render(stageIndex = activeStage) {
     renderFrame = 0;
     const stage = STAGES[stageIndex];
@@ -223,24 +315,63 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
     if (!view) return;
     activeStage = stageIndex;
     const zoomRatio = scale / stage.scale;
-    const display = new Map(
-      view.points.map((point) => [
-        point.node.id,
-        {
-          ...point,
-          screenX: viewportWidth / 2 + offsetX + point.x * scale,
-          screenY: viewportHeight / 2 + offsetY + point.y * scale,
-        },
-      ])
-    );
+    const strokeRatio = clamp(zoomRatio, 0.72, 1.35);
+    const buildDisplay = () =>
+      new Map(
+        view.points.map((point) => [
+          point.node.id,
+          {
+            ...point,
+            screenX: viewportWidth / 2 + offsetX + point.x * scale,
+            screenY: viewportHeight / 2 + offsetY + point.y * scale,
+          },
+        ])
+      );
+    let display = buildDisplay();
+    if (
+      snapOnNextRender &&
+      view.points.length &&
+      ![...display.values()].some(
+        (point) =>
+          point.screenX >= 0 &&
+          point.screenX <= viewportWidth &&
+          point.screenY >= 0 &&
+          point.screenY <= viewportHeight
+      )
+    ) {
+      const nearest = [...display.values()].sort((a, b) => {
+        const distanceA =
+          (a.screenX - viewportWidth / 2) ** 2 +
+          (a.screenY - viewportHeight / 2) ** 2;
+        const distanceB =
+          (b.screenX - viewportWidth / 2) ** 2 +
+          (b.screenY - viewportHeight / 2) ** 2;
+        return distanceA - distanceB;
+      })[0];
+      offsetX = -nearest.x * scale;
+      offsetY = -nearest.y * scale;
+      display = buildDisplay();
+    }
+    snapOnNextRender = false;
     const displayMetrics = (node) => {
       const metrics = labelMetrics(node, stage.scale);
+      const minimumFont = stageIndex >= 2 ? 8.4 : 8.8;
+      const fontScreen = clamp(metrics.fontScreen * zoomRatio, minimumFont, 14);
+      const sizeRatio = fontScreen / metrics.fontScreen;
       return {
-        fontScreen: metrics.fontScreen * zoomRatio,
-        widthScreen: metrics.widthScreen * zoomRatio,
-        heightScreen: metrics.heightScreen * zoomRatio,
+        fontScreen,
+        widthScreen: metrics.widthScreen * sizeRatio,
+        heightScreen: metrics.heightScreen * sizeRatio,
       };
     };
+    const labelSelection = chooseRenderedLabels(
+      view,
+      display,
+      displayMetrics,
+      stageIndex
+    );
+    renderedLabels = labelSelection.labels;
+    renderedMetrics = labelSelection.metricsById;
 
     ctx.setTransform(pixelRatio, 0, 0, pixelRatio, 0, 0);
     ctx.fillStyle = '#0d1014';
@@ -258,12 +389,12 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
       const weightBucket = Number(bucketText);
       ctx.strokeStyle = EDGE_COLORS[type] || '#96a4b4';
       ctx.globalAlpha = type === 'scene' ? 0.42 : 0.56;
-      ctx.lineWidth = (0.75 + weightBucket * 0.34) * zoomRatio;
+      ctx.lineWidth = (0.75 + weightBucket * 0.34) * strokeRatio;
       ctx.setLineDash(
         type === 'feud'
-          ? [6 * zoomRatio, 4 * zoomRatio]
+          ? [6 * strokeRatio, 4 * strokeRatio]
           : type === 'scene'
-            ? [1.5 * zoomRatio, 4 * zoomRatio]
+            ? [1.5 * strokeRatio, 4 * strokeRatio]
             : []
       );
       ctx.beginPath();
@@ -283,8 +414,16 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
         ) continue;
         const ux = dx / distance;
         const uy = dy / distance;
-        const from = boundaryDistance(displayMetrics(a.node), ux, uy);
-        const to = boundaryDistance(displayMetrics(b.node), ux, uy);
+        const fromMetrics = renderedMetrics.get(a.node.id) || {
+          widthScreen: 7,
+          heightScreen: 7,
+        };
+        const toMetrics = renderedMetrics.get(b.node.id) || {
+          widthScreen: 7,
+          heightScreen: 7,
+        };
+        const from = boundaryDistance(fromMetrics, ux, uy);
+        const to = boundaryDistance(toMetrics, ux, uy);
         if (distance <= from + to) continue;
         ctx.moveTo(ap.screenX + ux * from, ap.screenY + uy * from);
         ctx.lineTo(bp.screenX - ux * to, bp.screenY - uy * to);
@@ -296,7 +435,33 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
 
     for (const point of view.points) {
       const at = display.get(point.node.id);
-      const metrics = displayMetrics(point.node);
+      if (renderedLabels.has(point.node.id)) continue;
+      const dotRadius = clamp(
+        1.7 + Math.log2((point.node.degree ?? 0) + 1) * 0.28,
+        1.7,
+        3.8
+      );
+      if (
+        at.screenX + dotRadius < 0 ||
+        at.screenX - dotRadius > viewportWidth ||
+        at.screenY + dotRadius < 0 ||
+        at.screenY - dotRadius > viewportHeight
+      ) continue;
+      const color = COLORS[point.node.region] || COLORS.unknown;
+      ctx.beginPath();
+      ctx.arc(at.screenX, at.screenY, dotRadius, 0, Math.PI * 2);
+      ctx.fillStyle = color;
+      ctx.globalAlpha = popularOnly && (point.node.listens ?? 0) < MAP_POPULAR_LISTEN_FLOOR
+        ? 0.34
+        : 0.72;
+      ctx.fill();
+    }
+    ctx.globalAlpha = 1;
+
+    for (const point of view.points) {
+      if (!renderedLabels.has(point.node.id)) continue;
+      const at = display.get(point.node.id);
+      const metrics = renderedMetrics.get(point.node.id);
       if (
         at.screenX + metrics.widthScreen / 2 < -4 ||
         at.screenX - metrics.widthScreen / 2 > viewportWidth + 4 ||
@@ -311,12 +476,12 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
         at.screenY - metrics.heightScreen / 2,
         metrics.widthScreen,
         metrics.heightScreen,
-        8 * zoomRatio
+        clamp(8 * zoomRatio, 6, 11)
       );
       ctx.fillStyle = selected ? color : 'rgba(19,24,31,.94)';
       ctx.fill();
       ctx.strokeStyle = selected ? '#f3efe4' : color;
-      ctx.lineWidth = (selected ? 2.2 : 1.15) * zoomRatio;
+      ctx.lineWidth = (selected ? 2.2 : 1.15) * strokeRatio;
       ctx.stroke();
       ctx.fillStyle = selected ? '#101419' : '#ece8df';
       ctx.font = `${selected ? 650 : 520} ${metrics.fontScreen}px system-ui, sans-serif`;
@@ -326,14 +491,31 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
         point.node.name,
         at.screenX,
         at.screenY,
-        metrics.widthScreen - 10 * zoomRatio
+        metrics.widthScreen - 10 * strokeRatio
       );
     }
     if (stats) {
       const shown = view.visible.size;
-      stats.textContent = `阶段 ${stageIndex + 1}/4 · 显示 ${shown} / ${nodes.size}`;
-      if (popularOnly) stats.textContent += ` · 隐藏冷门`;
+      stats.textContent =
+        `阶段 ${stageIndex + 1}/4 · 节点 ${shown} · 名称 ${renderedLabels.size}`;
+      if (popularOnly && stageIndex === STAGES.length - 1) {
+        stats.textContent += ` · 远景隐藏冷门`;
+      }
     }
+    canvas.dataset.visibleNodes = String(view.visible.size);
+    canvas.dataset.visibleLabels = String(renderedLabels.size);
+    canvas.dataset.coldNodes = String(
+      view.points.filter(
+        (point) => (point.node.listens ?? 0) < MAP_POPULAR_LISTEN_FLOOR
+      ).length
+    );
+    canvas.dataset.coldLabels = String(
+      view.points.filter(
+        (point) =>
+          renderedLabels.has(point.node.id) &&
+          (point.node.listens ?? 0) < MAP_POPULAR_LISTEN_FLOOR
+      ).length
+    );
     if (picker) picker.value = focusId;
   }
 
@@ -380,21 +562,24 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
   function zoomAt(nextScale, screenX, screenY) {
     const worldX = (screenX - viewportWidth / 2 - offsetX) / scale;
     const worldY = (screenY - viewportHeight / 2 - offsetY) / scale;
-    scale = clamp(nextScale, 0.14, 1.5);
+    scale = clamp(nextScale, 0.14, 4);
     offsetX = screenX - viewportWidth / 2 - worldX * scale;
     offsetY = screenY - viewportHeight / 2 - worldY * scale;
+    snapOnNextRender = true;
   }
 
   function hit(screenX, screenY) {
-    const stageScale = STAGES[activeStage].scale;
     for (const point of [...stageViews[activeStage].points].reverse()) {
-      const metrics = labelMetrics(point.node, stageScale);
       const x = viewportWidth / 2 + offsetX + point.x * scale;
       const y = viewportHeight / 2 + offsetY + point.y * scale;
-      const sizeRatio = scale / stageScale;
+      const metrics = renderedMetrics.get(point.node.id);
+      if (!metrics) {
+        if (Math.hypot(screenX - x, screenY - y) <= 9) return point.node;
+        continue;
+      }
       if (
-        Math.abs(screenX - x) <= metrics.widthScreen * sizeRatio / 2 + 4 &&
-        Math.abs(screenY - y) <= metrics.heightScreen * sizeRatio / 2 + 4
+        Math.abs(screenX - x) <= metrics.widthScreen / 2 + 4 &&
+        Math.abs(screenY - y) <= metrics.heightScreen / 2 + 4
       ) return point.node;
     }
     return null;
@@ -451,6 +636,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
       return;
     }
     if (drag) {
+      snapOnNextRender = false;
       offsetX += point.x - drag.x;
       offsetY += point.y - drag.y;
       drag.x = point.x;
@@ -532,7 +718,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
     const changed = next !== popularOnly;
     popularOnly = next;
     popularToggle?.setAttribute('aria-pressed', String(popularOnly));
-    if (popularToggle) popularToggle.textContent = `隐藏冷门：${popularOnly ? '开' : '关'}`;
+    if (popularToggle) popularToggle.textContent = `远景精简：${popularOnly ? '开' : '关'}`;
     if (!focusId || !changed || !rebuild) return;
     prepareFocus(focusId);
     wantedStage = stageForScale(scale);

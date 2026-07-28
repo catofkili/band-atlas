@@ -235,9 +235,10 @@ if (!standalone.includes('简介资料：') || !standalone.includes('introSource
 if (
   !standalone.includes('map-popular-toggle') ||
   !standalone.includes('MAP_POPULAR_LISTEN_FLOOR') ||
-  !standalone.includes('prepareViewportStages')
+  !standalone.includes('prepareViewportStages') ||
+  !standalone.includes('chooseRenderedLabels')
 ) {
-  throw new Error('单文件版缺少地图热度筛选或动态阶段视图');
+  throw new Error('单文件版缺少地图热度筛选、动态阶段视图或标签去冲突');
 }
 if (
   !/id="popular-toggle"[\s\S]{0,180}aria-pressed="true"/.test(indexHtml) ||
