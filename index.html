@@ -11,7 +11,7 @@
 <meta property="og:url" content="https://catofkili.github.io/band-atlas/">
 <meta property="og:image" content="https://catofkili.github.io/band-atlas/og.png">
 <meta name="twitter:card" content="summary_large_image">
-<link rel="stylesheet" href="style.css?v=738581052c">
+<link rel="stylesheet" href="style.css?v=c7970409e3">
 </head>
 <body>
 
@@ -33,33 +33,56 @@
   <div class="network-map__hud">
     <div class="network-map__toolbar">
       <button id="map-close" class="btn" type="button">返回卡片</button>
+      <button id="map-home" class="btn" type="button" title="回到当前焦点及其邻居">回到焦点</button>
       <button id="map-popular-toggle" class="btn" type="button" aria-pressed="false"
               title="最远视图优先显示知名乐队，放大后仍会出现冷门乐队">远景精简</button>
-      <span id="map-help">滚轮或双指缩放 · 放大显示更多名称 · 拖动地图 · 点名称进入</span>
+      <span id="map-help">拖动或双指滑动平移 · ⌘/Ctrl+滚轮、双指捏合缩放 · 点节点看简介 · 双击进入</span>
       <b id="map-stats" role="status"></b>
     </div>
     <div id="map-error" class="network-map__error" hidden>
       <span>地图数据加载失败。</span>
       <button id="map-retry" class="btn" type="button">重试</button>
     </div>
-    <div class="network-map__legends" aria-label="地图图例">
-      <ul class="map-legend map-legend--regions" aria-label="名称边框颜色">
-        <li><i style="--key:#ef9f5a"></i>东亚</li>
-        <li><i style="--key:#79aefc"></i>欧美</li>
-        <li><i style="--key:#a891d7"></i>其他</li>
-        <li><i style="--key:#737b87"></i>地区未知</li>
-      </ul>
-      <ul class="map-legend map-legend--relations" aria-label="关系线颜色">
-        <li><i style="--key:#58a6ff"></i>成员</li>
-        <li><i style="--key:#45c58c"></i>合作</li>
-        <li><i style="--key:#b98cff"></i>影响</li>
-        <li><i style="--key:#ff6b5e"></i>恩怨</li>
-        <li><i style="--key:#d9ac5a"></i>场景/推荐</li>
-      </ul>
+  </div>
+
+  <div id="map-preview" class="map-preview" role="dialog" aria-label="乐队速览" hidden>
+    <button id="map-preview-close" class="map-preview__close" type="button" aria-label="关闭速览">×</button>
+    <p id="map-preview-name" class="map-preview__name"></p>
+    <p id="map-preview-meta" class="map-preview__meta"></p>
+    <p id="map-preview-counts" class="map-preview__counts"></p>
+    <div class="map-preview__actions">
+      <button id="map-preview-enter" class="btn" type="button">进入卡片</button>
+      <button id="map-preview-center" class="btn" type="button">以此为中心</button>
     </div>
+  </div>
+
+  <div class="network-map__foot">
+    <details id="map-legend-box" class="map-legend-box" open>
+      <summary>图例</summary>
+      <div class="network-map__legends" aria-label="地图图例">
+        <ul class="map-legend map-legend--regions" aria-label="名称边框颜色">
+          <li><i style="--key:#ef9f5a"></i>东亚</li>
+          <li><i style="--key:#79aefc"></i>欧美</li>
+          <li><i style="--key:#a891d7"></i>其他</li>
+          <li><i style="--key:#737b87"></i>地区未知</li>
+        </ul>
+        <ul class="map-legend map-legend--relations" aria-label="关系线颜色">
+          <li><i style="--key:#58a6ff"></i>成员</li>
+          <li><i style="--key:#45c58c"></i>合作</li>
+          <li><i style="--key:#b98cff"></i>影响</li>
+          <li><i style="--key:#ff6b5e"></i>恩怨</li>
+          <li><i style="--key:#d9ac5a"></i>场景/推荐</li>
+        </ul>
+      </div>
+    </details>
     <label class="map-picker">键盘选择
       <select id="map-band-select" aria-label="从地图选择乐队"></select>
     </label>
+  </div>
+
+  <div class="network-map__zoom">
+    <button id="map-zoom-in" class="btn btn--round" type="button" aria-label="放大">＋</button>
+    <button id="map-zoom-out" class="btn btn--round" type="button" aria-label="缩小">−</button>
   </div>
 </section>
 
@@ -78,6 +101,6 @@
   <p class="status" id="status" role="status">载入中…</p>
 </footer>
 
-<script type="module" src="js/main.js?v=738581052c"></script>
+<script type="module" src="js/main.js?v=c7970409e3"></script>
 </body>
 </html>

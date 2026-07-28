@@ -1,7 +1,7 @@
-import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=738581052c';
-import { layoutNeighbors } from './layout.js?v=738581052c';
-import { createNetworkMap } from './map.js?v=738581052c';
-import { chooseRandomBand } from './random.js?v=738581052c';
+import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=c7970409e3';
+import { layoutNeighbors } from './layout.js?v=c7970409e3';
+import { createNetworkMap } from './map.js?v=c7970409e3';
+import { chooseRandomBand } from './random.js?v=c7970409e3';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -9,7 +9,7 @@ import {
   buildEdgeLayer,
   buildEdgeLine,
   CANVAS_HALF,
-} from './render.js?v=738581052c';
+} from './render.js?v=c7970409e3';
 
 const stage = document.getElementById('stage');
 const statusEl = document.getElementById('status');
@@ -53,7 +53,16 @@ const networkMap = createNetworkMap({
   onPopularChange: (enabled) => setPopularOnly(enabled, { fromMap: true }),
   onChoose: (id, detail) => landOnBandFromMap(id, detail),
   onGestureChoose: (id, detail) => landOnBandFromMap(id, detail),
+  // 地图里的速览浮层要写地区和活动年代，这些只有 index.json 有。
+  describe: (id) => indexById.get(id),
 });
+
+// 地图自己会在没有报错时清掉状态栏，加个标记让错误文案留住。
+function setMapStatus(text) {
+  mapStats.textContent = text;
+  if (text) mapStats.dataset.sticky = '1';
+  else delete mapStats.dataset.sticky;
+}
 
 function setMorphRect(element, rect) {
   element.style.left = `${rect.left}px`;
@@ -165,7 +174,7 @@ async function showNetworkMap({ trigger = mapOpenButton, preservePointers = fals
   mapEl.setAttribute('aria-busy', 'true');
   mapEl.hidden = false;
   mapError.hidden = true;
-  mapStats.textContent = '';
+  setMapStatus('');
   if (!preservePointers) networkMap.cancelPointers();
   try {
     await networkMap.setPopularOnly(popularOnly);
@@ -189,7 +198,7 @@ async function showNetworkMap({ trigger = mapOpenButton, preservePointers = fals
     mapEl.classList.remove('is-entering', 'is-morphing');
     document.body.classList.add('map-active');
     mapEl.setAttribute('aria-busy', 'false');
-    mapStats.textContent = '地图不可用';
+    setMapStatus('地图不可用');
     mapError.hidden = false;
   }
 }
@@ -205,7 +214,7 @@ async function landOnBandFromMap(id, { originRect } = {}) {
     if (!reduceMotion.matches) await wait(MAP_MORPH_MS);
   } catch (error) {
     console.error(error);
-    mapStats.textContent = '载入卡片失败';
+    setMapStatus('载入卡片失败');
   } finally {
     busy = false;
   }

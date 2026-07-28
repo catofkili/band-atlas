@@ -236,6 +236,109 @@ body.map-active > .hud {
   border-radius:8px;
   background:var(--panel);
 }
+
+/* 图例、键盘选择挪到左下角，不再压着地图左上那块最常看的区域。 */
+.network-map__foot {
+  position:absolute;
+  inset:auto auto 16px 16px;
+  display:grid;
+  justify-items:start;
+  gap:8px;
+  color:var(--ink-2);
+  font-size:.72rem;
+  pointer-events:none;
+}
+.map-legend-box { pointer-events:auto; }
+.map-legend-box > summary {
+  width:max-content;
+  padding:4px 10px;
+  border:1px solid var(--line-soft);
+  border-radius:999px;
+  background:color-mix(in srgb, var(--ground) 78%, transparent);
+  backdrop-filter:blur(8px);
+  cursor:pointer;
+  list-style:none;
+  user-select:none;
+}
+.map-legend-box > summary::-webkit-details-marker { display:none; }
+.map-legend-box[open] > summary { margin-bottom:8px; }
+.map-legend-box > summary::after { content:' ▾'; opacity:.6; }
+.map-legend-box[open] > summary::after { content:' ▴'; }
+
+.network-map__zoom {
+  position:absolute;
+  inset:auto 16px 16px auto;
+  display:grid;
+  gap:8px;
+  pointer-events:none;
+}
+.network-map__zoom .btn { pointer-events:auto; }
+.btn--round {
+  width:34px;
+  height:34px;
+  padding:0;
+  display:grid;
+  place-items:center;
+  border-radius:999px;
+  font-size:.95rem;
+  line-height:1;
+}
+
+/* 地图内速览：点一下先看清是谁，不用为了确认一支乐队就退出地图。 */
+.map-preview {
+  position:absolute;
+  z-index:3;
+  width:max-content;
+  max-width:min(280px, 76vw);
+  padding:11px 13px 11px;
+  border:1px solid var(--line);
+  border-radius:13px;
+  background:color-mix(in srgb, var(--panel) 96%, transparent);
+  backdrop-filter:blur(10px);
+  box-shadow:0 14px 34px rgb(0 0 0 / .45);
+  pointer-events:auto;
+  animation:map-preview-in .16s ease-out;
+}
+.map-preview[hidden] { display:none; }
+@keyframes map-preview-in {
+  from { opacity:0; transform:translateY(4px); }
+  to { opacity:1; transform:none; }
+}
+.map-preview--below { animation-name:map-preview-in-below; }
+@keyframes map-preview-in-below {
+  from { opacity:0; transform:translateY(-4px); }
+  to { opacity:1; transform:none; }
+}
+.map-preview__close {
+  position:absolute;
+  top:5px;
+  right:7px;
+  padding:0 4px;
+  color:var(--ink-2);
+  border:0;
+  background:none;
+  font-size:.95rem;
+  line-height:1;
+  cursor:pointer;
+}
+.map-preview__close:hover { color:var(--ink); }
+.map-preview__name {
+  margin:0 18px 3px 0;
+  color:var(--ink);
+  font-size:.94rem;
+  font-weight:650;
+}
+.map-preview__meta,
+.map-preview__counts {
+  margin:0;
+  color:var(--ink-2);
+  font-size:.7rem;
+}
+.map-preview__meta[hidden] { display:none; }
+.map-preview__counts { margin-top:2px; }
+.map-preview__actions { display:flex; gap:8px; margin-top:10px; }
+.map-preview__actions .btn { font-size:.72rem; padding:5px 11px; }
+
 #network-canvas:focus-visible { outline:2px solid var(--rel-member); outline-offset:-4px; }
 @media (prefers-reduced-motion: reduce) {
   .network-map,
@@ -1003,9 +1106,12 @@ body.map-active > .hud {
   .network-map__hud { inset:10px 10px auto; gap:7px; font-size:.62rem; }
   .network-map__toolbar { gap:7px; align-items:flex-start; flex-wrap:wrap; }
   .network-map__toolbar span { order:3; flex-basis:100%; }
+  .network-map__foot { inset:auto auto 10px 10px; gap:6px; font-size:.62rem; }
+  .network-map__zoom { inset:auto 10px 10px auto; }
   .network-map__legends { gap:8px; padding:6px 8px; }
   .map-legend { gap:3px 7px; max-width:170px; }
   .map-picker { font-size:.62rem; }
+  .map-picker select { max-width:min(200px, 52vw); }
   /* 副标题和图例都让位给卡片：关系类型每张卡片上本来就写着 */
   .wordmark__scene { display: none; }
   .legend { display: none; }
@@ -1031,33 +1137,56 @@ body.map-active > .hud {
   <div class="network-map__hud">
     <div class="network-map__toolbar">
       <button id="map-close" class="btn" type="button">返回卡片</button>
+      <button id="map-home" class="btn" type="button" title="回到当前焦点及其邻居">回到焦点</button>
       <button id="map-popular-toggle" class="btn" type="button" aria-pressed="false"
               title="最远视图优先显示知名乐队，放大后仍会出现冷门乐队">远景精简</button>
-      <span id="map-help">滚轮或双指缩放 · 放大显示更多名称 · 拖动地图 · 点名称进入</span>
+      <span id="map-help">拖动或双指滑动平移 · ⌘/Ctrl+滚轮、双指捏合缩放 · 点节点看简介 · 双击进入</span>
       <b id="map-stats" role="status"></b>
     </div>
     <div id="map-error" class="network-map__error" hidden>
       <span>地图数据加载失败。</span>
       <button id="map-retry" class="btn" type="button">重试</button>
     </div>
-    <div class="network-map__legends" aria-label="地图图例">
-      <ul class="map-legend map-legend--regions" aria-label="名称边框颜色">
-        <li><i style="--key:#ef9f5a"></i>东亚</li>
-        <li><i style="--key:#79aefc"></i>欧美</li>
-        <li><i style="--key:#a891d7"></i>其他</li>
-        <li><i style="--key:#737b87"></i>地区未知</li>
-      </ul>
-      <ul class="map-legend map-legend--relations" aria-label="关系线颜色">
-        <li><i style="--key:#58a6ff"></i>成员</li>
-        <li><i style="--key:#45c58c"></i>合作</li>
-        <li><i style="--key:#b98cff"></i>影响</li>
-        <li><i style="--key:#ff6b5e"></i>恩怨</li>
-        <li><i style="--key:#d9ac5a"></i>场景/推荐</li>
-      </ul>
+  </div>
+
+  <div id="map-preview" class="map-preview" role="dialog" aria-label="乐队速览" hidden>
+    <button id="map-preview-close" class="map-preview__close" type="button" aria-label="关闭速览">×</button>
+    <p id="map-preview-name" class="map-preview__name"></p>
+    <p id="map-preview-meta" class="map-preview__meta"></p>
+    <p id="map-preview-counts" class="map-preview__counts"></p>
+    <div class="map-preview__actions">
+      <button id="map-preview-enter" class="btn" type="button">进入卡片</button>
+      <button id="map-preview-center" class="btn" type="button">以此为中心</button>
     </div>
+  </div>
+
+  <div class="network-map__foot">
+    <details id="map-legend-box" class="map-legend-box" open>
+      <summary>图例</summary>
+      <div class="network-map__legends" aria-label="地图图例">
+        <ul class="map-legend map-legend--regions" aria-label="名称边框颜色">
+          <li><i style="--key:#ef9f5a"></i>东亚</li>
+          <li><i style="--key:#79aefc"></i>欧美</li>
+          <li><i style="--key:#a891d7"></i>其他</li>
+          <li><i style="--key:#737b87"></i>地区未知</li>
+        </ul>
+        <ul class="map-legend map-legend--relations" aria-label="关系线颜色">
+          <li><i style="--key:#58a6ff"></i>成员</li>
+          <li><i style="--key:#45c58c"></i>合作</li>
+          <li><i style="--key:#b98cff"></i>影响</li>
+          <li><i style="--key:#ff6b5e"></i>恩怨</li>
+          <li><i style="--key:#d9ac5a"></i>场景/推荐</li>
+        </ul>
+      </div>
+    </details>
     <label class="map-picker">键盘选择
       <select id="map-band-select" aria-label="从地图选择乐队"></select>
     </label>
+  </div>
+
+  <div class="network-map__zoom">
+    <button id="map-zoom-in" class="btn btn--round" type="button" aria-label="放大">＋</button>
+    <button id="map-zoom-out" class="btn btn--round" type="button" aria-label="缩小">−</button>
   </div>
 </section>
 
@@ -1609,13 +1738,42 @@ const STAGES = [
   { scale: 0.42, count: 160 },
   { scale: 0.21, count: Infinity },
 ];
+// 阶段分界带滞回：已经退到粗阶段时要多放大一点才回到细阶段，
+// 否则在阈值上抖一下，整批节点就闪进闪出。
+const STAGE_THRESHOLDS = [0.82, 0.55, 0.38];
+const STAGE_HYSTERESIS = 0.08;
+const STAGE_FADE_MS = 220;
 const MAX_CANVAS_PIXELS = 16_000_000;
 const MAX_PIXEL_RATIO = 2;
 const MAP_POPULAR_LISTEN_FLOOR = 1000;
-const LABEL_LIMITS_PER_MEGAPIXEL = [Infinity, Infinity, 92, 42];
+// 每级实际画多少个点，按视口面积算。原来是固定 9 / 40 / 160，
+// 在桌面尺寸上近景永远只有焦点那一小撮，四周全黑——「地图很空」就是这么来的。
+const FILL_PER_MEGAPIXEL = [46, 120, 300];
+const LABEL_LIMITS_PER_MEGAPIXEL = [Infinity, 100, 92, 42];
 const LABEL_LIMIT_FLOORS = [9, 22, 26, 13];
 const LABEL_GAPS = [4, 5, 6, 7];
-const GRAPH_VERSION = '738581052c';
+// CJK 要显式点名字体，光靠 system-ui 在部分机器上会落到宽度完全不同的后备字体，
+// 于是测出来的宽度和画出来的字对不上。
+const LABEL_FONT = 'system-ui, -apple-system, "PingFang SC", "Hiragino Sans", "Noto Sans CJK SC", sans-serif';
+const LABEL_MAX_TEXT = 168;
+const LABEL_MIN_WIDTH = 42;
+const LABEL_MAX_WIDTH = 188;
+const LABEL_PAD = 20;
+// 上一帧已经显示的标签带一点优先级加成，新标签要明显更重要才顶得掉它。
+// 没有这个迟滞，轻轻一拖两个互相冲突的标签就会来回换人闪烁。
+const LABEL_KEEP_BONUS = 1.3;
+// 缩小的下限不是固定值，而是「整张图刚好铺满屏幕」再留一点余量。
+// 原来固定 0.14，在桌面尺寸上等于允许一直缩到全图只剩屏幕中央一小团。
+const MIN_SCALE_SLACK = 0.94;
+const MAX_SCALE = 4;
+const CAMERA_MS = 130;
+const HIT_PAD_MOUSE = 14;
+const HIT_PAD_TOUCH = 22;
+// 拖出世界边界后的阻尼与最大越界距离，松手回弹。
+const RUBBER_DAMP = 0.35;
+const RUBBER_MAX = 150;
+const FIT_PADDING = 120;
+const GRAPH_VERSION = 'c7970409e3';
 
 const hash = (text) => {
   let value = 2166136261;
@@ -1623,8 +1781,6 @@ const hash = (text) => {
   return value >>> 0;
 };
 const clamp = (value, min, max) => Math.max(min, Math.min(max, value));
-const textUnits = (text) =>
-  [...text].reduce((sum, char) => sum + (char.codePointAt(0) > 255 ? 1 : 0.62), 0);
 
 function roundedRect(ctx, x, y, width, height, radius) {
   ctx.beginPath();
@@ -1637,38 +1793,75 @@ function createNetworkMap({
   onGestureChoose,
   popularOnly: initialPopularOnly = true,
   onPopularChange,
+  describe,
 }) {
   let graph;
   let nodes;
   let positions;
   let links;
   let adjacency;
+  let worldBounds = null;
   let rankedHops = [];
   let primaryIds = [];
   let allowedIds = [];
   let stageViews = [];
+  let stageAnchor = null;
   let activeStage = 0;
   let wantedStage = 0;
   let pixelRatio = 1;
   let viewportWidth = 1;
   let viewportHeight = 1;
-  let focusId;
+  let cardId; // 卡片视图当前打开的乐队，返回时的形变起点
+  let focusId; // 地图里当前被当作中心的乐队，可以在地图内改
+  let hoverId = null;
+  let previewId = null;
+
+  // 相机分「当前」与「目标」两套：手指拖动直接写当前值（必须跟手），
+  // 缩放、回到焦点、回弹都只写目标值，由 rAF 补间追上去。
   let scale = 1;
   let offsetX = 0;
   let offsetY = 0;
+  let targetScale = 1;
+  let targetOffsetX = 0;
+  let targetOffsetY = 0;
+  let zoomAnchor = null;
+  let lastFrameTime = 0;
+
+  // 地图的视图记忆：关掉再开回到原处，否则每次进出都被打回初始 9 个节点，
+  // 地图就只能用来跳一步，没法真的逛。
+  let savedView = null;
+
   let drag = null;
   let pinch = null;
   let popularOnly = initialPopularOnly;
   let renderFrame = 0;
-  let snapOnNextRender = false;
   let renderedLabels = new Set();
   let renderedMetrics = new Map();
+  let fadeInIds = new Set();
+  let fadeOutPoints = [];
+  let fadeStart = 0;
+  let pickerBuilt = false;
+  let pendingFit = null;
+  const measureCache = new Map();
+  const labelCache = new Map();
   const pointers = new Map();
   const ctx = canvas.getContext('2d', { alpha: false });
   const surface = canvas.parentElement;
   const stats = document.getElementById('map-stats');
   const picker = document.getElementById('map-band-select');
   const popularToggle = document.getElementById('map-popular-toggle');
+  const homeButton = document.getElementById('map-home');
+  const zoomInButton = document.getElementById('map-zoom-in');
+  const zoomOutButton = document.getElementById('map-zoom-out');
+  const legendBox = document.getElementById('map-legend-box');
+  const preview = document.getElementById('map-preview');
+  const previewName = document.getElementById('map-preview-name');
+  const previewMeta = document.getElementById('map-preview-meta');
+  const previewCounts = document.getElementById('map-preview-counts');
+  const previewEnter = document.getElementById('map-preview-enter');
+  const previewCenter = document.getElementById('map-preview-center');
+  const previewClose = document.getElementById('map-preview-close');
+  const debug = new URLSearchParams(location.search).has('mapdebug');
 
   async function load() {
     if (graph) return;
@@ -1684,15 +1877,7 @@ function createNetworkMap({
       graph = null;
       throw new Error('地图数据格式错误');
     }
-    nodes = new Map(
-      graph.nodes.map((node) => [
-        node.id,
-        {
-          ...node,
-          labelWidth: node.labelWidth ?? clamp(textUnits(node.name) * 11 + 18, 42, 188),
-        },
-      ])
-    );
+    nodes = new Map(graph.nodes.map((node) => [node.id, { ...node }]));
     positions = new Map(
       [...nodes.values()].map((node) => [
         node.id,
@@ -1707,25 +1892,80 @@ function createNetworkMap({
       adjacency.get(a.node.id).push(b.node.id);
       adjacency.get(b.node.id).push(a.node.id);
     }
+    const xs = [...positions.values()].map((point) => point.x);
+    const ys = [...positions.values()].map((point) => point.y);
+    worldBounds = {
+      minX: Math.min(...xs),
+      maxX: Math.max(...xs),
+      minY: Math.min(...ys),
+      maxY: Math.max(...ys),
+    };
+  }
+
+  /* ---------------------------------------------------------------- 文本 */
+
+  // 标签宽度必须用 measureText 实测。原来按字符数估算，估窄了就会触发
+  // fillText 的 maxWidth，而 canvas 的 maxWidth 是把字**横向压扁**而不是截断，
+  // 长名字于是全糊成一团——这是「显示不对劲」最主要的一处。
+  function measure(text) {
+    let width = measureCache.get(text);
+    if (width == null) {
+      ctx.font = `520 11px ${LABEL_FONT}`;
+      width = ctx.measureText(text).width;
+      measureCache.set(text, width);
+    }
+    return width;
+  }
+
+  function labelOf(node) {
+    let cached = labelCache.get(node.id);
+    if (cached) return cached;
+    let text = node.name;
+    if (measure(text) > LABEL_MAX_TEXT) {
+      // 宁可截短加省略号，也不要把字压扁。
+      const chars = [...text];
+      let low = 1;
+      let high = chars.length;
+      while (low < high) {
+        const mid = (low + high + 1) >> 1;
+        if (measure(`${chars.slice(0, mid).join('')}…`) <= LABEL_MAX_TEXT) low = mid;
+        else high = mid - 1;
+      }
+      text = `${chars.slice(0, low).join('')}…`;
+    }
+    cached = {
+      text,
+      width: clamp(measure(text) + LABEL_PAD, LABEL_MIN_WIDTH, LABEL_MAX_WIDTH),
+    };
+    labelCache.set(node.id, cached);
+    return cached;
+  }
+
+  /* ---------------------------------------------------------------- 视图集合 */
+
+  function buildPicker() {
+    if (!picker || pickerBuilt) return;
+    const fragment = document.createDocumentFragment();
+    for (const node of [...nodes.values()].sort((a, b) =>
+      a.name.localeCompare(b.name, 'zh-CN')
+    )) {
+      const option = document.createElement('option');
+      option.value = node.id;
+      option.textContent = `${node.name}${node.region === 'east-asia' ? ' · 东亚' : ''}`;
+      fragment.append(option);
+    }
+    picker.replaceChildren(fragment);
+    pickerBuilt = true;
   }
 
   function prepareFocus(id) {
+    buildPicker();
     const allowed = (nodeId) =>
       !popularOnly ||
       nodeId === id ||
       nodes.get(nodeId)?.regionalFeatured ||
       (nodes.get(nodeId)?.listens ?? 0) >= MAP_POPULAR_LISTEN_FLOOR;
-    if (picker) {
-      const fragment = document.createDocumentFragment();
-      for (const node of [...nodes.values()]
-        .sort((a, b) => a.name.localeCompare(b.name, 'zh-CN'))) {
-        const option = document.createElement('option');
-        option.value = node.id;
-        option.textContent = `${node.name}${node.region === 'east-asia' ? ' · 东亚' : ''}`;
-        fragment.append(option);
-      }
-      picker.replaceChildren(fragment);
-    }
+
     const hops = new Map([[id, 0]]);
     const queue = [id];
     for (let cursor = 0; cursor < queue.length; cursor += 1) {
@@ -1747,28 +1987,20 @@ function createNetworkMap({
       return degreeDifference || hash(a) - hash(b);
     });
     allowedIds = [...nodes.keys()].filter(allowed);
-
-    stageViews = STAGES.map((stage, index) => {
-      const ids =
-        index === 0
-          ? [focusId, ...primaryIds.slice(0, 8)]
-          : index === STAGES.length - 1
-            ? allowedIds
-            : rankedHops.slice(0, stage.count).map(([nodeId]) => nodeId);
-      const visible = new Set(ids);
-      return {
-        visible,
-        points: [...positions.values()]
-          .filter((point) => visible.has(point.node.id))
-          .sort((a, b) => (a.node.id === focusId ? 1 : 0) - (b.node.id === focusId ? 1 : 0)),
-        links: links.filter(({ a, b }) => visible.has(a.node.id) && visible.has(b.node.id)),
-      };
-    });
+    prepareViewportStages();
   }
 
+  /**
+   * 按「当前视口中心附近」重建四级视图。
+   *
+   * 原来只在缩小时重建，于是在近景平移出去就是一片纯黑——那一级里压根只存在
+   * 焦点和它的 8 个邻居。现在只要视口中心挪得够远就重建，并且始终把焦点与它的
+   * 一跳邻居并进去，保证关系上下文不会因为镜头挪开就消失。
+   */
   function prepareViewportStages(screenX = viewportWidth / 2, screenY = viewportHeight / 2) {
     const centerX = (screenX - viewportWidth / 2 - offsetX) / scale;
     const centerY = (screenY - viewportHeight / 2 - offsetY) / scale;
+    stageAnchor = { x: centerX, y: centerY };
     const nearestIds = [...nodes.keys()]
       .map((id) => {
         const point = positions.get(id);
@@ -1779,12 +2011,22 @@ function createNetworkMap({
       .sort((a, b) => a.distance - b.distance || hash(a.id) - hash(b.id))
       .map(({ id }) => id);
 
+    const megapixels = (viewportWidth * viewportHeight) / 1_000_000;
     stageViews = STAGES.map((stage, index) => {
-      const ids =
-        index === STAGES.length - 1
-          ? allowedIds
-          : nearestIds.slice(0, stage.count);
-      const visible = new Set(ids);
+      let ids;
+      if (index === STAGES.length - 1) {
+        ids = allowedIds;
+      } else {
+        const anchors = index === 0
+          ? [focusId, ...primaryIds.slice(0, 8)]
+          : [focusId, ...primaryIds];
+        const fill = Math.max(
+          stage.count,
+          Math.round(FILL_PER_MEGAPIXEL[index] * megapixels)
+        );
+        ids = [...new Set([...anchors, ...nearestIds.slice(0, fill)])];
+      }
+      const visible = new Set(ids.filter((id) => positions.has(id)));
       return {
         visible,
         points: [...positions.values()]
@@ -1795,18 +2037,233 @@ function createNetworkMap({
     });
   }
 
-  function stageForScale(value) {
-    if (value >= 0.82) return 0;
-    if (value >= 0.55) return 1;
-    if (value >= 0.32) return 2;
-    return 3;
+  function maybeRebuildStages(force = false) {
+    if (!stageViews.length) return;
+    const centerX = -offsetX / scale;
+    const centerY = -offsetY / scale;
+    const threshold = (Math.min(viewportWidth, viewportHeight) * 0.3) / scale;
+    if (
+      !force &&
+      stageAnchor &&
+      Math.hypot(centerX - stageAnchor.x, centerY - stageAnchor.y) < threshold
+    ) return;
+    prepareViewportStages();
   }
+
+  function stageForScale(value, current = activeStage) {
+    for (let index = 0; index < STAGE_THRESHOLDS.length; index += 1) {
+      const bias = current > index ? 1 + STAGE_HYSTERESIS : 1 - STAGE_HYSTERESIS;
+      if (value >= STAGE_THRESHOLDS[index] * bias) return index;
+    }
+    return STAGES.length - 1;
+  }
+
+  function setStage(next) {
+    if (next === activeStage) return;
+    const previous = stageViews[activeStage];
+    const upcoming = stageViews[next];
+    if (previous && upcoming) {
+      // 阶段切换时让离场的点淡出、入场的点淡入，而不是整批硬切。
+      fadeOutPoints = previous.points.filter((point) => !upcoming.visible.has(point.node.id));
+      fadeInIds = new Set(
+        [...upcoming.visible].filter((id) => !previous.visible.has(id))
+      );
+      fadeStart = performance.now();
+    }
+    activeStage = next;
+  }
+
+  /* ---------------------------------------------------------------- 相机 */
+
+  function minScale() {
+    if (!worldBounds) return 0.14;
+    const spanX = Math.max(1, worldBounds.maxX - worldBounds.minX);
+    const spanY = Math.max(1, worldBounds.maxY - worldBounds.minY);
+    return Math.min(viewportWidth / spanX, viewportHeight / spanY) * MIN_SCALE_SLACK;
+  }
+
+  /**
+   * 平移边界：图比屏幕大时不许把图拖出屏幕外（屏幕永远被图盖满），
+   * 图比屏幕小时整张图必须留在屏幕里。两种情况都保证屏幕上不会只剩黑。
+   */
+  function offsetRange(min, max, viewport, atScale) {
+    const spanScreen = (max - min) * atScale;
+    if (spanScreen <= viewport) {
+      return {
+        lower: -viewport / 2 - min * atScale,
+        upper: viewport / 2 - max * atScale,
+      };
+    }
+    return {
+      lower: viewport / 2 - max * atScale,
+      upper: -viewport / 2 - min * atScale,
+    };
+  }
+
+  function clampOffsetX(value, atScale = scale) {
+    if (!worldBounds) return value;
+    const { lower, upper } = offsetRange(
+      worldBounds.minX, worldBounds.maxX, viewportWidth, atScale
+    );
+    return clamp(value, lower, upper);
+  }
+
+  function clampOffsetY(value, atScale = scale) {
+    if (!worldBounds) return value;
+    const { lower, upper } = offsetRange(
+      worldBounds.minY, worldBounds.maxY, viewportHeight, atScale
+    );
+    return clamp(value, lower, upper);
+  }
+
+  // 拖过界不是硬停，而是带阻尼地跟一点点，松手回弹——这样才知道「到头了」。
+  function rubber(value, clamped) {
+    if (value === clamped) return value;
+    const overshoot = value - clamped;
+    const damped = Math.sign(overshoot) *
+      Math.min(RUBBER_MAX, Math.abs(overshoot) * RUBBER_DAMP);
+    return clamped + damped;
+  }
+
+  function settleCamera() {
+    // 视口变了下限也会变，先把缩放收回合法区间，再回弹越界的平移。
+    targetScale = clamp(targetScale, minScale(), MAX_SCALE);
+    targetOffsetX = clampOffsetX(targetOffsetX, targetScale);
+    targetOffsetY = clampOffsetY(targetOffsetY, targetScale);
+    requestRender();
+  }
+
+  function advanceCamera(now) {
+    const delta = Math.min(64, now - (lastFrameTime || now));
+    lastFrameTime = now;
+    const k = 1 - Math.pow(0.001, delta / CAMERA_MS);
+    let moving = false;
+    if (Math.abs(Math.log(targetScale / scale)) > 0.0004) {
+      scale = Math.exp(Math.log(scale) + (Math.log(targetScale) - Math.log(scale)) * k);
+      moving = true;
+    } else {
+      scale = targetScale;
+    }
+    if (zoomAnchor) {
+      // 缩放过程中把锚点世界坐标钉死在光标下，画面才不会从手底下滑走。
+      offsetX = clampOffsetX(
+        zoomAnchor.screenX - viewportWidth / 2 - zoomAnchor.worldX * scale
+      );
+      offsetY = clampOffsetY(
+        zoomAnchor.screenY - viewportHeight / 2 - zoomAnchor.worldY * scale
+      );
+      targetOffsetX = offsetX;
+      targetOffsetY = offsetY;
+      if (!moving) zoomAnchor = null;
+    } else if (
+      Math.abs(targetOffsetX - offsetX) > 0.25 ||
+      Math.abs(targetOffsetY - offsetY) > 0.25
+    ) {
+      offsetX += (targetOffsetX - offsetX) * k;
+      offsetY += (targetOffsetY - offsetY) * k;
+      moving = true;
+    } else {
+      offsetX = targetOffsetX;
+      offsetY = targetOffsetY;
+    }
+    return moving;
+  }
+
+  function zoomAt(nextScale, screenX, screenY) {
+    const worldX = (screenX - viewportWidth / 2 - targetOffsetX) / targetScale;
+    const worldY = (screenY - viewportHeight / 2 - targetOffsetY) / targetScale;
+    targetScale = clamp(nextScale, minScale(), MAX_SCALE);
+    zoomAnchor = { worldX, worldY, screenX, screenY };
+    targetOffsetX = clampOffsetX(
+      screenX - viewportWidth / 2 - worldX * targetScale, targetScale
+    );
+    targetOffsetY = clampOffsetY(
+      screenY - viewportHeight / 2 - worldY * targetScale, targetScale
+    );
+    chooseStage(screenX, screenY);
+  }
+
+  function panBy(dx, dy) {
+    zoomAnchor = null;
+    targetOffsetX = clampOffsetX(targetOffsetX + dx, targetScale);
+    targetOffsetY = clampOffsetY(targetOffsetY + dy, targetScale);
+    requestRender();
+  }
+
+  function flyTo(worldX, worldY, nextScale = targetScale, { instant = false } = {}) {
+    zoomAnchor = null;
+    targetScale = clamp(nextScale, minScale(), MAX_SCALE);
+    targetOffsetX = clampOffsetX(-worldX * targetScale, targetScale);
+    targetOffsetY = clampOffsetY(-worldY * targetScale, targetScale);
+    if (instant) {
+      scale = targetScale;
+      offsetX = targetOffsetX;
+      offsetY = targetOffsetY;
+    }
+    wantedStage = stageForScale(targetScale);
+    setStage(wantedStage);
+    requestRender();
+  }
+
+  function fitBounds(bounds, { instant = false, maxScale = 1.6, floor = 0 } = {}) {
+    const width = Math.max(1, bounds.maxX - bounds.minX);
+    const height = Math.max(1, bounds.maxY - bounds.minY);
+    const fitted = Math.min(
+      (viewportWidth - FIT_PADDING) / width,
+      (viewportHeight - FIT_PADDING) / height
+    );
+    flyTo(
+      (bounds.minX + bounds.maxX) / 2,
+      (bounds.minY + bounds.maxY) / 2,
+      clamp(Math.max(fitted, floor), minScale(), maxScale),
+      { instant }
+    );
+  }
+
+  /**
+   * 进站时按「焦点 + 一跳邻居」撑满屏幕。原来固定 scale=1，9 个点缩在正中
+   * 一小块，四周全是黑的。
+   *
+   * 包围盒要掐掉最远的四分之一邻居：影响关系常常连到布局上极远的乐队，
+   * 一个离群点就能把镜头拉成全网远景，反倒看不清眼前这一圈。
+   */
+  function fitNeighborhood(id, { instant = false } = {}) {
+    const focus = positions.get(id);
+    const neighbors = (adjacency.get(id) || [])
+      .map((nodeId) => positions.get(nodeId))
+      .filter(Boolean)
+      .sort(
+        (a, b) =>
+          Math.hypot(a.x - focus.x, a.y - focus.y) - Math.hypot(b.x - focus.x, b.y - focus.y)
+      );
+    if (!neighbors.length) {
+      flyTo(focus.x, focus.y, 1, { instant });
+      return;
+    }
+    const kept = neighbors.slice(0, Math.max(3, Math.ceil(neighbors.length * 0.75)));
+    const points = [focus, ...kept];
+    fitBounds(
+      {
+        minX: Math.min(...points.map((point) => point.x)),
+        maxX: Math.max(...points.map((point) => point.x)),
+        minY: Math.min(...points.map((point) => point.y)),
+        maxY: Math.max(...points.map((point) => point.y)),
+      },
+      { instant, maxScale: 1.15, floor: 0.5 }
+    );
+  }
+
+  function rememberView() {
+    savedView = { scale: targetScale, offsetX: targetOffsetX, offsetY: targetOffsetY };
+  }
+
+  /* ---------------------------------------------------------------- 标签 */
 
   function labelMetrics(node, renderScale) {
     const fontScreen = clamp(11 * Math.sqrt(renderScale), 7.2, 12);
     return {
       fontScreen,
-      widthScreen: node.labelWidth * (fontScreen / 11),
+      widthScreen: labelOf(node).width * (fontScreen / 11),
       heightScreen: clamp(22 * Math.sqrt(renderScale), 14, 25),
     };
   }
@@ -1821,6 +2278,7 @@ function createNetworkMap({
 
   function nodeImportance(node) {
     if (node.id === focusId) return Number.POSITIVE_INFINITY;
+    if (node.id === previewId || node.id === hoverId) return Number.MAX_SAFE_INTEGER;
     const listenScore = Math.log10((node.listens ?? 0) + 1) * 24;
     const listenerScore = Math.log10((node.listeners ?? 0) + 1) * 7;
     const relationScore = Math.log2((node.degree ?? 0) + 1) * 12;
@@ -1843,16 +2301,19 @@ function createNetworkMap({
     for (const point of view.points) {
       const at = display.get(point.node.id);
       const metrics = displayMetrics(point.node);
+      // 只剔除完全出屏的。原来是「碰到屏幕边 3px 就整块不画」，
+      // 于是平移时边缘的名字是凭空闪没而不是滑出去。画布本来就会裁剪。
       if (
-        at.screenX - metrics.widthScreen / 2 < 3 ||
-        at.screenX + metrics.widthScreen / 2 > viewportWidth - 3 ||
-        at.screenY - metrics.heightScreen / 2 < 3 ||
-        at.screenY + metrics.heightScreen / 2 > viewportHeight - 3
+        at.screenX + metrics.widthScreen / 2 < -8 ||
+        at.screenX - metrics.widthScreen / 2 > viewportWidth + 8 ||
+        at.screenY + metrics.heightScreen / 2 < -8 ||
+        at.screenY - metrics.heightScreen / 2 > viewportHeight + 8
       ) continue;
+      const base = nodeImportance(point.node);
       candidates.push({
         id: point.node.id,
         metrics,
-        priority: nodeImportance(point.node),
+        priority: renderedLabels.has(point.node.id) ? base * LABEL_KEEP_BONUS : base,
         box: {
           left: at.screenX - metrics.widthScreen / 2 - gap,
           right: at.screenX + metrics.widthScreen / 2 + gap,
@@ -1906,51 +2367,32 @@ function createNetworkMap({
     return { labels, metricsById };
   }
 
-  function render(stageIndex = activeStage) {
-    renderFrame = 0;
+  /* ---------------------------------------------------------------- 绘制 */
+
+  function dotRadiusOf(node) {
+    return clamp(1.9 + Math.log2((node.degree ?? 0) + 1) * 0.28, 1.9, 4);
+  }
+
+  function render() {
+    const stageIndex = activeStage;
     const stage = STAGES[stageIndex];
     const view = stageViews[stageIndex];
     if (!view) return;
-    activeStage = stageIndex;
+    const fade = fadeStart
+      ? clamp((performance.now() - fadeStart) / STAGE_FADE_MS, 0, 1)
+      : 1;
     const zoomRatio = scale / stage.scale;
     const strokeRatio = clamp(zoomRatio, 0.72, 1.35);
-    const buildDisplay = () =>
-      new Map(
-        view.points.map((point) => [
-          point.node.id,
-          {
-            ...point,
-            screenX: viewportWidth / 2 + offsetX + point.x * scale,
-            screenY: viewportHeight / 2 + offsetY + point.y * scale,
-          },
-        ])
-      );
-    let display = buildDisplay();
-    if (
-      snapOnNextRender &&
-      view.points.length &&
-      ![...display.values()].some(
-        (point) =>
-          point.screenX >= 0 &&
-          point.screenX <= viewportWidth &&
-          point.screenY >= 0 &&
-          point.screenY <= viewportHeight
-      )
-    ) {
-      const nearest = [...display.values()].sort((a, b) => {
-        const distanceA =
-          (a.screenX - viewportWidth / 2) ** 2 +
-          (a.screenY - viewportHeight / 2) ** 2;
-        const distanceB =
-          (b.screenX - viewportWidth / 2) ** 2 +
-          (b.screenY - viewportHeight / 2) ** 2;
-        return distanceA - distanceB;
-      })[0];
-      offsetX = -nearest.x * scale;
-      offsetY = -nearest.y * scale;
-      display = buildDisplay();
-    }
-    snapOnNextRender = false;
+    const display = new Map(
+      view.points.map((point) => [
+        point.node.id,
+        {
+          ...point,
+          screenX: viewportWidth / 2 + offsetX + point.x * scale,
+          screenY: viewportHeight / 2 + offsetY + point.y * scale,
+        },
+      ])
+    );
     const displayMetrics = (node) => {
       const metrics = labelMetrics(node, stage.scale);
       const minimumFont = stageIndex >= 2 ? 8.4 : 8.8;
@@ -1962,32 +2404,41 @@ function createNetworkMap({
         heightScreen: metrics.heightScreen * sizeRatio,
       };
     };
-    const labelSelection = chooseRenderedLabels(
-      view,
-      display,
-      displayMetrics,
-      stageIndex
-    );
+    const labelSelection = chooseRenderedLabels(view, display, displayMetrics, stageIndex);
     renderedLabels = labelSelection.labels;
     renderedMetrics = labelSelection.metricsById;
+
+    const spotlight = previewId ?? hoverId;
+    const spotlightNeighbors = spotlight
+      ? new Set([spotlight, ...(adjacency.get(spotlight) || [])])
+      : null;
 
     ctx.setTransform(pixelRatio, 0, 0, pixelRatio, 0, 0);
     ctx.fillStyle = '#0d1014';
     ctx.fillRect(0, 0, viewportWidth, viewportHeight);
+
+    /* 关系线 */
     const linkGroups = new Map();
     for (const link of view.links) {
       const weightBucket = Math.round(clamp(link.edge.weight ?? 0.5, 0, 1) * 3);
-      const key = `${link.edge.type}:${weightBucket}`;
+      const lit = spotlightNeighbors
+        ? spotlightNeighbors.has(link.a.node.id) && spotlightNeighbors.has(link.b.node.id)
+        : false;
+      const key = `${link.edge.type}:${weightBucket}:${lit ? 1 : 0}`;
       const group = linkGroups.get(key) || [];
       group.push(link);
       linkGroups.set(key, group);
     }
+    // 远景上千条线叠在一起会糊成雾，按阶段压一点透明度。
+    const baseAlpha = stageIndex >= 3 ? 0.3 : stageIndex === 2 ? 0.42 : 0.56;
     for (const [key, group] of linkGroups) {
-      const [type, bucketText] = key.split(':');
+      const [type, bucketText, litText] = key.split(':');
       const weightBucket = Number(bucketText);
+      const lit = litText === '1';
       ctx.strokeStyle = EDGE_COLORS[type] || '#96a4b4';
-      ctx.globalAlpha = type === 'scene' ? 0.42 : 0.56;
-      ctx.lineWidth = (0.75 + weightBucket * 0.34) * strokeRatio;
+      const typeAlpha = type === 'scene' ? baseAlpha * 0.75 : baseAlpha;
+      ctx.globalAlpha = lit ? 0.95 : spotlightNeighbors ? typeAlpha * 0.4 : typeAlpha;
+      ctx.lineWidth = (0.75 + weightBucket * 0.34) * strokeRatio * (lit ? 1.7 : 1);
       ctx.setLineDash(
         type === 'feud'
           ? [6 * strokeRatio, 4 * strokeRatio]
@@ -2031,43 +2482,77 @@ function createNetworkMap({
     ctx.globalAlpha = 1;
     ctx.setLineDash([]);
 
+    /* 离场的点淡出 */
+    if (fade < 1) {
+      for (const point of fadeOutPoints) {
+        const screenX = viewportWidth / 2 + offsetX + point.x * scale;
+        const screenY = viewportHeight / 2 + offsetY + point.y * scale;
+        if (
+          screenX < -8 || screenX > viewportWidth + 8 ||
+          screenY < -8 || screenY > viewportHeight + 8
+        ) continue;
+        ctx.beginPath();
+        ctx.arc(screenX, screenY, dotRadiusOf(point.node), 0, Math.PI * 2);
+        ctx.fillStyle = COLORS[point.node.region] || COLORS.unknown;
+        ctx.globalAlpha = (1 - fade) * 0.6;
+        ctx.fill();
+      }
+      ctx.globalAlpha = 1;
+    }
+
+    /* 没轮到标签的点 */
     for (const point of view.points) {
       const at = display.get(point.node.id);
       if (renderedLabels.has(point.node.id)) continue;
-      const dotRadius = clamp(
-        1.7 + Math.log2((point.node.degree ?? 0) + 1) * 0.28,
-        1.7,
-        3.8
-      );
+      const dotRadius = dotRadiusOf(point.node);
       if (
         at.screenX + dotRadius < 0 ||
         at.screenX - dotRadius > viewportWidth ||
         at.screenY + dotRadius < 0 ||
         at.screenY - dotRadius > viewportHeight
       ) continue;
-      const color = COLORS[point.node.region] || COLORS.unknown;
+      const cold = popularOnly && (point.node.listens ?? 0) < MAP_POPULAR_LISTEN_FLOOR;
+      const dim = spotlightNeighbors && !spotlightNeighbors.has(point.node.id);
       ctx.beginPath();
       ctx.arc(at.screenX, at.screenY, dotRadius, 0, Math.PI * 2);
-      ctx.fillStyle = color;
-      ctx.globalAlpha = popularOnly && (point.node.listens ?? 0) < MAP_POPULAR_LISTEN_FLOOR
-        ? 0.34
-        : 0.72;
+      ctx.fillStyle = COLORS[point.node.region] || COLORS.unknown;
+      ctx.globalAlpha =
+        (cold ? 0.34 : 0.72) *
+        (dim ? 0.45 : 1) *
+        (fadeInIds.has(point.node.id) ? fade : 1);
       ctx.fill();
     }
     ctx.globalAlpha = 1;
 
+    /* 标签 */
     for (const point of view.points) {
       if (!renderedLabels.has(point.node.id)) continue;
       const at = display.get(point.node.id);
       const metrics = renderedMetrics.get(point.node.id);
-      if (
-        at.screenX + metrics.widthScreen / 2 < -4 ||
-        at.screenX - metrics.widthScreen / 2 > viewportWidth + 4 ||
-        at.screenY + metrics.heightScreen / 2 < -4 ||
-        at.screenY - metrics.heightScreen / 2 > viewportHeight + 4
-      ) continue;
       const selected = point.node.id === focusId;
+      const lit = point.node.id === spotlight;
+      const dim = spotlightNeighbors && !spotlightNeighbors.has(point.node.id);
       const color = COLORS[point.node.region] || COLORS.unknown;
+      ctx.globalAlpha = (dim ? 0.5 : 1) * (fadeInIds.has(point.node.id) ? fade : 1);
+
+      if (selected || lit) {
+        // 焦点和悬停的节点给一圈光晕，一眼能找到自己在哪。
+        ctx.save();
+        ctx.shadowColor = color;
+        ctx.shadowBlur = selected ? 18 : 12;
+        roundedRect(
+          ctx,
+          at.screenX - metrics.widthScreen / 2,
+          at.screenY - metrics.heightScreen / 2,
+          metrics.widthScreen,
+          metrics.heightScreen,
+          clamp(8 * zoomRatio, 6, 11)
+        );
+        ctx.fillStyle = selected ? color : 'rgba(19,24,31,.98)';
+        ctx.fill();
+        ctx.restore();
+      }
+
       roundedRect(
         ctx,
         at.screenX - metrics.widthScreen / 2,
@@ -2079,25 +2564,24 @@ function createNetworkMap({
       ctx.fillStyle = selected ? color : 'rgba(19,24,31,.94)';
       ctx.fill();
       ctx.strokeStyle = selected ? '#f3efe4' : color;
-      ctx.lineWidth = (selected ? 2.2 : 1.15) * strokeRatio;
+      ctx.lineWidth = (selected ? 2.2 : lit ? 1.9 : 1.15) * strokeRatio;
       ctx.stroke();
       ctx.fillStyle = selected ? '#101419' : '#ece8df';
-      ctx.font = `${selected ? 650 : 520} ${metrics.fontScreen}px system-ui, sans-serif`;
+      ctx.font = `${selected ? 650 : 520} ${metrics.fontScreen}px ${LABEL_FONT}`;
       ctx.textAlign = 'center';
       ctx.textBaseline = 'middle';
-      ctx.fillText(
-        point.node.name,
-        at.screenX,
-        at.screenY,
-        metrics.widthScreen - 10 * strokeRatio
-      );
+      // 不传 maxWidth：宽度已经按实测算准，长名字在 labelOf 里就截断了。
+      ctx.fillText(labelOf(point.node).text, at.screenX, at.screenY);
     }
+    ctx.globalAlpha = 1;
+
     if (stats) {
-      const shown = view.visible.size;
-      stats.textContent =
-        `阶段 ${stageIndex + 1}/4 · 节点 ${shown} · 名称 ${renderedLabels.size}`;
-      if (popularOnly && stageIndex === STAGES.length - 1) {
-        stats.textContent += ` · 远景隐藏冷门`;
+      if (debug) {
+        stats.textContent =
+          `阶段 ${stageIndex + 1}/4 · 节点 ${view.visible.size} · 名称 ${renderedLabels.size}` +
+          (popularOnly && stageIndex === STAGES.length - 1 ? ' · 远景隐藏冷门' : '');
+      } else if (!stats.dataset.sticky) {
+        stats.textContent = '';
       }
     }
     canvas.dataset.visibleNodes = String(view.visible.size);
@@ -2114,7 +2598,21 @@ function createNetworkMap({
           (point.node.listens ?? 0) < MAP_POPULAR_LISTEN_FLOOR
       ).length
     );
-    if (picker) picker.value = focusId;
+    if (picker && picker.value !== focusId) picker.value = focusId;
+    positionPreview();
+    return fade < 1;
+  }
+
+  function frame(now) {
+    renderFrame = 0;
+    const moving = advanceCamera(now);
+    const fading = render();
+    if (moving || fading) requestRender();
+    else lastFrameTime = 0;
+  }
+
+  function requestRender() {
+    if (!renderFrame) renderFrame = requestAnimationFrame(frame);
   }
 
   function sizeCanvas() {
@@ -2135,56 +2633,61 @@ function createNetworkMap({
     canvas.height = Math.round(viewportHeight * pixelRatio);
   }
 
-  function requestRender() {
-    if (!renderFrame) renderFrame = requestAnimationFrame(() => render(activeStage));
-  }
-
-  function chooseStage(screenX, screenY) {
-    wantedStage = stageForScale(scale);
-    if (wantedStage < activeStage) prepareViewportStages(screenX, screenY);
-    activeStage = wantedStage;
+  function chooseStage(screenX = viewportWidth / 2, screenY = viewportHeight / 2) {
+    wantedStage = stageForScale(targetScale);
+    if (wantedStage !== activeStage) {
+      if (wantedStage < activeStage) prepareViewportStages(screenX, screenY);
+      setStage(wantedStage);
+    }
     requestRender();
   }
 
-  async function preloadStages() {
-    sizeCanvas();
-    activeStage = stageForScale(scale);
-    render(activeStage);
-  }
+  /* ---------------------------------------------------------------- 命中 */
 
   function screenPoint(event) {
     const rect = surface.getBoundingClientRect();
     return { x: event.clientX - rect.left, y: event.clientY - rect.top };
   }
 
-  function zoomAt(nextScale, screenX, screenY) {
-    const worldX = (screenX - viewportWidth / 2 - offsetX) / scale;
-    const worldY = (screenY - viewportHeight / 2 - offsetY) / scale;
-    scale = clamp(nextScale, 0.14, 4);
-    offsetX = screenX - viewportWidth / 2 - worldX * scale;
-    offsetY = screenY - viewportHeight / 2 - worldY * scale;
-    snapOnNextRender = true;
-  }
-
-  function hit(screenX, screenY) {
-    for (const point of [...stageViews[activeStage].points].reverse()) {
+  /**
+   * 命中优先级：写着名字的气泡永远赢过旁边裸着的点。
+   * 光比距离的话，点在名字上却选中压在名字底下的小点，手感很莫名。
+   * 没标签的点原来只有 9px 命中半径，而点本身才画 2–4px，触屏上基本点不中。
+   */
+  function hit(screenX, screenY, pad = HIT_PAD_MOUSE) {
+    const view = stageViews[activeStage];
+    if (!view) return null;
+    let labelled = null;
+    let labelledDistance = Infinity;
+    let bare = null;
+    let bareDistance = Infinity;
+    for (const point of view.points) {
       const x = viewportWidth / 2 + offsetX + point.x * scale;
       const y = viewportHeight / 2 + offsetY + point.y * scale;
+      const distance = Math.hypot(screenX - x, screenY - y);
       const metrics = renderedMetrics.get(point.node.id);
-      if (!metrics) {
-        if (Math.hypot(screenX - x, screenY - y) <= 9) return point.node;
-        continue;
+      if (metrics) {
+        if (
+          Math.abs(screenX - x) <= metrics.widthScreen / 2 + 4 &&
+          Math.abs(screenY - y) <= metrics.heightScreen / 2 + 4 &&
+          distance < labelledDistance
+        ) {
+          labelledDistance = distance;
+          labelled = point.node;
+        }
+      } else if (
+        distance <= Math.max(pad, dotRadiusOf(point.node) + pad * 0.5) &&
+        distance < bareDistance
+      ) {
+        bareDistance = distance;
+        bare = point.node;
       }
-      if (
-        Math.abs(screenX - x) <= metrics.widthScreen / 2 + 4 &&
-        Math.abs(screenY - y) <= metrics.heightScreen / 2 + 4
-      ) return point.node;
     }
-    return null;
+    return labelled ?? bare;
   }
 
   function nodeScreenRect(id) {
-    const point = positions.get(id);
+    const point = positions?.get(id);
     if (!point) return null;
     const surfaceRect = surface.getBoundingClientRect();
     const x = viewportWidth / 2 + offsetX + point.x * scale;
@@ -2199,7 +2702,7 @@ function createNetworkMap({
   }
 
   function gestureTarget(screenX, screenY) {
-    const direct = hit(screenX, screenY);
+    const direct = hit(screenX, screenY, HIT_PAD_TOUCH);
     if (direct) return direct;
     let nearest = null;
     let nearestDistance = 86;
@@ -2215,10 +2718,66 @@ function createNetworkMap({
     return nearest;
   }
 
+  /* ---------------------------------------------------------------- 预览 */
+
+  function positionPreview() {
+    if (!preview || preview.hidden || !previewId) return;
+    const point = positions.get(previewId);
+    if (!point) return;
+    const x = viewportWidth / 2 + offsetX + point.x * scale;
+    const y = viewportHeight / 2 + offsetY + point.y * scale;
+    const width = preview.offsetWidth || 240;
+    const height = preview.offsetHeight || 120;
+    const above = y - height - 22 > 8;
+    preview.style.left = `${clamp(x - width / 2, 10, Math.max(10, viewportWidth - width - 10))}px`;
+    preview.style.top = `${above ? y - height - 18 : Math.min(y + 20, viewportHeight - height - 10)}px`;
+    preview.classList.toggle('map-preview--below', !above);
+  }
+
+  function showPreview(id) {
+    if (!preview) {
+      onChoose(id, { originRect: nodeScreenRect(id) });
+      return;
+    }
+    previewId = id;
+    const node = nodes.get(id);
+    const band = describe?.(id);
+    previewName.textContent = node?.name ?? id;
+    const meta = [band?.area, band?.years].filter(Boolean).join(' · ');
+    previewMeta.textContent = meta || (node?.region === 'east-asia' ? '东亚' : '');
+    previewMeta.hidden = !previewMeta.textContent;
+    const degree = node?.degree ?? (adjacency.get(id) || []).length;
+    const listens = node?.listens ?? 0;
+    previewCounts.textContent =
+      `${degree} 条关系` + (listens ? ` · ${listens.toLocaleString('zh-CN')} 次收听` : '');
+    preview.hidden = false;
+    positionPreview();
+    requestRender();
+  }
+
+  function hidePreview() {
+    if (!preview || preview.hidden) return;
+    preview.hidden = true;
+    previewId = null;
+    requestRender();
+  }
+
+  /* ---------------------------------------------------------------- 指针 */
+
   function beginPointer(event) {
     const point = screenPoint(event);
     pointers.set(event.pointerId, point);
-    if (pointers.size === 1) drag = { ...point, moved: false };
+    if (pointers.size === 1) {
+      drag = {
+        ...point,
+        rawX: targetOffsetX,
+        rawY: targetOffsetY,
+        moved: false,
+        touch: event.pointerType === 'touch',
+      };
+      zoomAnchor = null;
+      surface.style.cursor = 'grabbing';
+    }
     if (pointers.size === 2) {
       const [a, b] = [...pointers.values()];
       pinch = {
@@ -2239,7 +2798,9 @@ function createNetworkMap({
       pointers.set(entry.id, { x: entry.clientX - rect.left, y: entry.clientY - rect.top });
     }
     const values = [...pointers.values()];
-    drag = values.length ? { ...values[0], moved: values.length > 1 } : null;
+    drag = values.length
+      ? { ...values[0], rawX: targetOffsetX, rawY: targetOffsetY, moved: values.length > 1, touch: true }
+      : null;
     if (values.length === 2) {
       const [a, b] = values;
       pinch = {
@@ -2253,7 +2814,10 @@ function createNetworkMap({
   }
 
   function movePointer(event) {
-    if (!pointers.has(event.pointerId)) return;
+    if (!pointers.has(event.pointerId)) {
+      if (!drag && !pinch) updateHover(event);
+      return;
+    }
     const point = screenPoint(event);
     pointers.set(event.pointerId, point);
     if (pointers.size === 2) {
@@ -2274,91 +2838,209 @@ function createNetworkMap({
           return;
         }
       }
-      if (pinch?.distance) zoomAt(scale * distance / pinch.distance, pinch.midX, pinch.midY);
-      offsetX += midX - (pinch?.midX ?? midX);
-      offsetY += midY - (pinch?.midY ?? midY);
+      if (pinch?.distance) {
+        // 双指同时缩放和平移：缩放钉在两指中点，平移跟中点走。
+        targetScale = clamp(targetScale * distance / pinch.distance, minScale(), MAX_SCALE);
+        scale = targetScale;
+      }
+      const worldX = ((pinch?.midX ?? midX) - viewportWidth / 2 - offsetX) / scale;
+      const worldY = ((pinch?.midY ?? midY) - viewportHeight / 2 - offsetY) / scale;
+      offsetX = midX - viewportWidth / 2 - worldX * scale;
+      offsetY = midY - viewportHeight / 2 - worldY * scale;
+      targetOffsetX = offsetX;
+      targetOffsetY = offsetY;
+      zoomAnchor = null;
       pinch = { distance, midX, midY, startDistance, allowReturn };
       if (drag) drag.moved = true;
       chooseStage(midX, midY);
       return;
     }
     if (drag) {
-      snapOnNextRender = false;
-      offsetX += point.x - drag.x;
-      offsetY += point.y - drag.y;
+      drag.rawX += point.x - drag.x;
+      drag.rawY += point.y - drag.y;
       drag.x = point.x;
       drag.y = point.y;
+      if (!drag.moved && Math.hypot(drag.rawX - targetOffsetX, drag.rawY - targetOffsetY) < 4) {
+        return;
+      }
       drag.moved = true;
+      offsetX = rubber(drag.rawX, clampOffsetX(drag.rawX));
+      offsetY = rubber(drag.rawY, clampOffsetY(drag.rawY));
+      targetOffsetX = offsetX;
+      targetOffsetY = offsetY;
+      maybeRebuildStages();
       requestRender();
     }
+  }
+
+  function updateHover(event) {
+    if (!stageViews[activeStage]) return;
+    const point = screenPoint(event);
+    const node = hit(point.x, point.y, HIT_PAD_MOUSE);
+    const nextId = node?.id ?? null;
+    surface.style.cursor = nextId ? 'pointer' : 'grab';
+    if (nextId === hoverId) return;
+    hoverId = nextId;
+    requestRender();
   }
 
   function endPointer(event) {
     const point = screenPoint(event);
     pointers.delete(event.pointerId);
+    const tapped = Boolean(!pointers.size && drag && !drag.moved);
     let chosen = null;
-    if (!pointers.size && drag && !drag.moved) chosen = hit(point.x, point.y);
+    if (tapped) {
+      chosen = hit(point.x, point.y, drag.touch ? HIT_PAD_TOUCH : HIT_PAD_MOUSE);
+    }
     if (pointers.size === 1) {
       const remaining = [...pointers.values()][0];
-      drag = { ...remaining, moved: true };
+      drag = { ...remaining, rawX: targetOffsetX, rawY: targetOffsetY, moved: true, touch: drag?.touch };
     } else if (!pointers.size) {
       drag = null;
+      surface.style.cursor = hoverId ? 'pointer' : 'grab';
+      settleCamera(); // 越界的部分回弹
+      maybeRebuildStages();
     }
     pinch = null;
-    if (chosen) onChoose(chosen.id, { originRect: nodeScreenRect(chosen.id) });
+    if (chosen) showPreview(chosen.id);
+    else if (tapped && event.type === 'pointerup') hidePreview();
+    rememberView();
   }
 
+  /* ---------------------------------------------------------------- 事件 */
+
   surface.addEventListener('pointerdown', (event) => {
-    if (event.target.closest?.('.network-map__hud')) return;
+    if (event.target.closest?.('.network-map__hud, .map-preview, .network-map__foot')) return;
     surface.setPointerCapture(event.pointerId);
     beginPointer(event);
   });
   surface.addEventListener('pointermove', movePointer);
   surface.addEventListener('pointerup', endPointer);
   surface.addEventListener('pointercancel', endPointer);
+  surface.addEventListener('pointerleave', () => {
+    if (hoverId) {
+      hoverId = null;
+      requestRender();
+    }
+  });
+
+  /**
+   * 滚轮语义。
+   *
+   * 原来是「任何 wheel 事件都缩放」，于是 Mac 触控板两指一滑就是疯狂缩放——
+   * 触控板上两指滑动是平移，捏合才是缩放（浏览器把捏合报成 ctrlKey+wheel）。
+   * 剩下的鼠标滚轮按老规矩缩放：真滚轮的 deltaY 是 100/120 这种大整数且没有横向分量，
+   * 用这个区分触控板和滚轮。
+   */
   surface.addEventListener(
     'wheel',
     (event) => {
+      if (event.target.closest?.('.network-map__hud, .map-preview, .network-map__foot')) return;
       event.preventDefault();
       const point = screenPoint(event);
-      zoomAt(scale * (event.deltaY > 0 ? 0.94 : 1.065), point.x, point.y);
-      chooseStage(point.x, point.y);
+      const unit = event.deltaMode === 1 ? 16 : event.deltaMode === 2 ? viewportHeight : 1;
+      const deltaX = event.deltaX * unit;
+      const deltaY = event.deltaY * unit;
+      const wheelLike =
+        deltaX === 0 && Math.abs(deltaY) >= 100 && Number.isInteger(event.deltaY);
+      if (event.ctrlKey || event.metaKey || wheelLike) {
+        zoomAt(targetScale * Math.exp(-deltaY * 0.0022), point.x, point.y);
+      } else {
+        panBy(-deltaX, -deltaY);
+        maybeRebuildStages();
+      }
+      rememberView();
     },
     { passive: false }
   );
+
+  surface.addEventListener('dblclick', (event) => {
+    if (event.target.closest?.('.network-map__hud, .map-preview, .network-map__foot')) return;
+    const point = screenPoint(event);
+    const node = hit(point.x, point.y, HIT_PAD_MOUSE);
+    if (node) {
+      hidePreview();
+      onChoose(node.id, { originRect: nodeScreenRect(node.id) });
+    } else if (worldBounds) {
+      hidePreview();
+      fitBounds(worldBounds, { maxScale: 1 });
+      prepareViewportStages();
+    }
+  });
+
   canvas.addEventListener('keydown', (event) => {
-    const move = 64;
-    if (event.key === 'ArrowLeft') offsetX += move;
-    else if (event.key === 'ArrowRight') offsetX -= move;
-    else if (event.key === 'ArrowUp') offsetY += move;
-    else if (event.key === 'ArrowDown') offsetY -= move;
+    const move = 96;
+    if (event.key === 'ArrowLeft') panBy(move, 0);
+    else if (event.key === 'ArrowRight') panBy(-move, 0);
+    else if (event.key === 'ArrowUp') panBy(0, move);
+    else if (event.key === 'ArrowDown') panBy(0, -move);
     else if (event.key === '+' || event.key === '=') {
-      zoomAt(scale * 1.15, viewportWidth / 2, viewportHeight / 2);
-      chooseStage(viewportWidth / 2, viewportHeight / 2);
-      event.preventDefault();
-      return;
+      zoomAt(targetScale * 1.28, viewportWidth / 2, viewportHeight / 2);
     } else if (event.key === '-' || event.key === '_') {
-      zoomAt(scale / 1.15, viewportWidth / 2, viewportHeight / 2);
-      chooseStage(viewportWidth / 2, viewportHeight / 2);
-      event.preventDefault();
-      return;
+      zoomAt(targetScale / 1.28, viewportWidth / 2, viewportHeight / 2);
+    } else if (event.key === 'Enter' && previewId) {
+      onChoose(previewId, { originRect: nodeScreenRect(previewId) });
     } else if (event.key === 'Escape') {
-      document.getElementById('map-close')?.click();
+      if (previewId) hidePreview();
+      else document.getElementById('map-close')?.click();
       return;
+    } else if (event.key === 'Home') {
+      goHome();
     } else {
       return;
     }
-    requestRender();
+    maybeRebuildStages();
+    rememberView();
     event.preventDefault();
   });
+
   picker?.addEventListener('change', () => {
-    if (picker.value) onChoose(picker.value);
+    if (picker.value) recenter(picker.value);
   });
   popularToggle?.addEventListener('click', async () => {
     await setPopularOnly(!popularOnly);
     onPopularChange?.(popularOnly);
     canvas.focus();
   });
+  homeButton?.addEventListener('click', () => {
+    goHome();
+    canvas.focus();
+  });
+  zoomInButton?.addEventListener('click', () => {
+    zoomAt(targetScale * 1.4, viewportWidth / 2, viewportHeight / 2);
+    rememberView();
+  });
+  zoomOutButton?.addEventListener('click', () => {
+    zoomAt(targetScale / 1.4, viewportWidth / 2, viewportHeight / 2);
+    rememberView();
+  });
+  previewEnter?.addEventListener('click', () => {
+    if (previewId) onChoose(previewId, { originRect: nodeScreenRect(previewId) });
+  });
+  previewCenter?.addEventListener('click', () => {
+    if (previewId) recenter(previewId);
+  });
+  previewClose?.addEventListener('click', hidePreview);
+
+  function goHome() {
+    const anchor = positions.get(focusId) || positions.get(cardId);
+    if (!anchor) return;
+    hidePreview();
+    fitNeighborhood(focusId ?? cardId);
+    prepareViewportStages();
+    rememberView();
+  }
+
+  // 在地图里换中心：不离开地图，只是把注意力挪过去，方便一路走下去。
+  function recenter(id) {
+    if (!positions.has(id)) return;
+    focusId = id;
+    hidePreview();
+    prepareFocus(id);
+    fitNeighborhood(id);
+    prepareViewportStages();
+    rememberView();
+  }
 
   async function setPopularOnly(enabled, { rebuild = true } = {}) {
     const next = Boolean(enabled);
@@ -2368,28 +3050,85 @@ function createNetworkMap({
     if (popularToggle) popularToggle.textContent = `远景精简：${popularOnly ? '开' : '关'}`;
     if (!focusId || !changed || !rebuild) return;
     prepareFocus(focusId);
-    wantedStage = stageForScale(scale);
-    await preloadStages();
+    sizeCanvas();
+    requestRender();
   }
+
+  function handleResize() {
+    if (!focusId) return;
+    sizeCanvas();
+    if (pendingFit && viewportWidth > 1 && viewportHeight > 1) {
+      const id = pendingFit;
+      pendingFit = null;
+      fitNeighborhood(id, { instant: true });
+      activeStage = stageForScale(targetScale, 0);
+      wantedStage = activeStage;
+    }
+    settleCamera();
+    prepareViewportStages();
+    render();
+  }
+
+  // 窗口 resize 不覆盖「地图在尺寸为 0 时被打开」这一类情况，直接盯住画布本身。
+  new ResizeObserver(handleResize).observe(surface);
+
+  if (legendBox && window.innerWidth < 760) legendBox.open = false;
 
   return {
     async open(id) {
       await load();
+      cardId = id;
       focusId = id;
-      prepareFocus(id);
-      scale = 1;
+      hidePreview();
+      hoverId = null;
+      sizeCanvas();
+      // 后台标签页或刚恢复的窗口里 clientWidth 会是 0，这时候算出来的取景是废的。
+      // 记下来，等 ResizeObserver 报出真实尺寸再补一次。
+      pendingFit = viewportWidth < 2 || viewportHeight < 2 ? id : null;
       const focus = positions.get(id);
-      offsetX = -focus.x;
-      offsetY = -focus.y;
-      wantedStage = 0;
-      await preloadStages();
+      if (savedView) {
+        // 回到上次离开时的视野；焦点要是不在屏内，保持缩放级别把它挪进来。
+        targetScale = clamp(savedView.scale, minScale(), MAX_SCALE);
+        scale = targetScale;
+        offsetX = targetOffsetX = clampOffsetX(savedView.offsetX, scale);
+        offsetY = targetOffsetY = clampOffsetY(savedView.offsetY, scale);
+        const screenX = viewportWidth / 2 + offsetX + focus.x * scale;
+        const screenY = viewportHeight / 2 + offsetY + focus.y * scale;
+        const insetX = viewportWidth * 0.12;
+        const insetY = viewportHeight * 0.12;
+        if (
+          screenX < insetX || screenX > viewportWidth - insetX ||
+          screenY < insetY || screenY > viewportHeight - insetY
+        ) {
+          flyTo(focus.x, focus.y, targetScale, { instant: true });
+        }
+      } else {
+        fitNeighborhood(id, { instant: true });
+      }
+      zoomAnchor = null;
+      activeStage = stageForScale(targetScale, 0);
+      wantedStage = activeStage;
+      fadeStart = 0;
+      fadeInIds = new Set();
+      fadeOutPoints = [];
+      prepareFocus(id);
+      rememberView();
+      surface.style.cursor = 'grab';
+      render();
     },
-    resize() {
-      if (focusId) preloadStages();
-    },
+    resize: handleResize,
     setPopularOnly,
     getFocusRect() {
-      return focusId ? nodeScreenRect(focusId) : null;
+      if (!cardId) return null;
+      const rect = nodeScreenRect(cardId);
+      if (!rect) return null;
+      const surfaceRect = surface.getBoundingClientRect();
+      const inside =
+        rect.left > surfaceRect.left - rect.width &&
+        rect.left < surfaceRect.right &&
+        rect.top > surfaceRect.top - rect.height &&
+        rect.top < surfaceRect.bottom;
+      return inside ? rect : null;
     },
     adoptPointers,
     moveAdoptedPointer: movePointer,
@@ -2546,7 +3285,16 @@ const networkMap = createNetworkMap({
   onPopularChange: (enabled) => setPopularOnly(enabled, { fromMap: true }),
   onChoose: (id, detail) => landOnBandFromMap(id, detail),
   onGestureChoose: (id, detail) => landOnBandFromMap(id, detail),
+  // 地图里的速览浮层要写地区和活动年代，这些只有 index.json 有。
+  describe: (id) => indexById.get(id),
 });
+
+// 地图自己会在没有报错时清掉状态栏，加个标记让错误文案留住。
+function setMapStatus(text) {
+  mapStats.textContent = text;
+  if (text) mapStats.dataset.sticky = '1';
+  else delete mapStats.dataset.sticky;
+}
 
 function setMorphRect(element, rect) {
   element.style.left = `${rect.left}px`;
@@ -2658,7 +3406,7 @@ async function showNetworkMap({ trigger = mapOpenButton, preservePointers = fals
   mapEl.setAttribute('aria-busy', 'true');
   mapEl.hidden = false;
   mapError.hidden = true;
-  mapStats.textContent = '';
+  setMapStatus('');
   if (!preservePointers) networkMap.cancelPointers();
   try {
     await networkMap.setPopularOnly(popularOnly);
@@ -2682,7 +3430,7 @@ async function showNetworkMap({ trigger = mapOpenButton, preservePointers = fals
     mapEl.classList.remove('is-entering', 'is-morphing');
     document.body.classList.add('map-active');
     mapEl.setAttribute('aria-busy', 'false');
-    mapStats.textContent = '地图不可用';
+    setMapStatus('地图不可用');
     mapError.hidden = false;
   }
 }
@@ -2698,7 +3446,7 @@ async function landOnBandFromMap(id, { originRect } = {}) {
     if (!reduceMotion.matches) await wait(MAP_MORPH_MS);
   } catch (error) {
     console.error(error);
-    mapStats.textContent = '载入卡片失败';
+    setMapStatus('载入卡片失败');
   } finally {
     busy = false;
   }
