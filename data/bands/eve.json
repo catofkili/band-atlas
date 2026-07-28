@@ -50,18 +50,18 @@
   "intro": "Eve是日本的创作歌手。2009年以网络为中心展开活动。唱片公司为TOY'S FACTORY。",
   "introLang": "zh",
   "tracks": [
-    "迴迴奇譚",
-    "皆大欢喜_(Eve歌曲)",
+    "廻廻奇譚",
+    "お気に召すまま (Eveの曲)",
     "Bubble",
     "アヴァン",
     "あの娘シークレット"
   ],
   "trackSources": [
     {
-      "title": "迴迴奇譚"
+      "title": "廻廻奇譚"
     },
     {
-      "title": "皆大欢喜_(Eve歌曲)"
+      "title": "お気に召すまま (Eveの曲)"
     },
     {
       "title": "Bubble"
@@ -75,7 +75,7 @@
   ],
   "musicLinks": {
     "spotify": "https://open.spotify.com/artist/58oPVy7oihAEXE0Ott6JOf",
-    "apple": "https://music.apple.com/us/artist/band-atlas/1080967231",
+    "apple": "https://music.apple.com/cn/artist/eve/1080967231",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001cS5zQ4DHqit",
     "netease": "https://y.music.163.com/m/artist?id=1075075"
   },

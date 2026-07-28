@@ -39,7 +39,7 @@
   "intro": "爆轰乐团是日本摇滚乐团，1998年成立于日本东京。",
   "introLang": "zh",
   "tracks": [
-    "你在等待著",
+    "あなたが待ってる",
     "With You",
     "カオスダイバー",
     "キズナソング",
@@ -47,7 +47,7 @@
   ],
   "trackSources": [
     {
-      "title": "你在等待著"
+      "title": "あなたが待ってる"
     },
     {
       "title": "With You"
@@ -63,7 +63,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/129406978",
+    "apple": "https://music.apple.com/cn/artist/the-back-horn/129406978",
     "spotify": "https://open.spotify.com/artist/34d8V2nUwp937CmL9pQ6xV",
     "netease": "https://y.music.163.com/m/artist?id=21824"
   },

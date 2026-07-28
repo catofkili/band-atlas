@@ -38,18 +38,18 @@
   "intro": "TLC是美国著名女子音乐组合，1991年创立于亚特兰大，三名成员为缇盎·瓦特金斯，艺名\"T-Boz\"、丽莎·洛佩兹，艺名\"Left Eye\"、罗藏达·托马斯，艺名\"Chilli\"。从1990年代初起发行过四张唱片，其中包含了《Creep》、《Waterfalls》、《No Scrubs》、《Unpretty》等多首知名歌曲。",
   "introLang": "zh",
   "tracks": [
-    "ウォーターフォールズ",
-    "クリープ (TLCの曲)",
+    "Waterfalls",
+    "Creep",
     "Ain't 2 Proud 2 Beg",
     "Baby-Baby-Baby",
-    "アンプリティ"
+    "Unpretty"
   ],
   "trackSources": [
     {
-      "title": "ウォーターフォールズ"
+      "title": "Waterfalls"
     },
     {
-      "title": "クリープ (TLCの曲)"
+      "title": "Creep"
     },
     {
       "title": "Ain't 2 Proud 2 Beg"
@@ -58,11 +58,11 @@
       "title": "Baby-Baby-Baby"
     },
     {
-      "title": "アンプリティ"
+      "title": "Unpretty"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/17360",
+    "apple": "https://music.apple.com/cn/artist/tlc/17360",
     "spotify": "https://open.spotify.com/artist/0TImkz4nPqjegtVSMZnMRq",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001d25Dh3BzKtG",
     "netease": "https://y.music.163.com/m/artist?id=78229"

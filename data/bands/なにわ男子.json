@@ -43,8 +43,8 @@
   "tracks": [
     "Doki it",
     "HARD WORK",
-    "I Wish (浪花男子單曲)",
-    "Make Up Day／Missing",
+    "I Wish",
+    "Make Up Day/Missing",
     "Special Kiss"
   ],
   "trackSources": [
@@ -55,17 +55,17 @@
       "title": "HARD WORK"
     },
     {
-      "title": "I Wish (浪花男子單曲)"
+      "title": "I Wish"
     },
     {
-      "title": "Make Up Day／Missing"
+      "title": "Make Up Day/Missing"
     },
     {
       "title": "Special Kiss"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1758080234",
+    "apple": "https://music.apple.com/cn/artist/%E3%81%AA%E3%81%AB%E3%82%8F%E7%94%B7%E5%AD%90/1758080234",
     "spotify": "https://open.spotify.com/artist/5V0oa9WaeYkBszHV6ItVD6",
     "netease": "https://y.music.163.com/m/artist?id=50504214"
   },

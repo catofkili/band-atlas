@@ -49,9 +49,9 @@
   "tracks": [
     "Beep!!/Sunshine Sunshine",
     "Rollin' Days",
+    "あぁ",
     "ハロー・ハロー",
-    "啊",
-    "將愛吹入體內"
+    "愛をからだに吹き込んで"
   ],
   "trackSources": [
     {
@@ -61,17 +61,17 @@
       "title": "Rollin' Days"
     },
     {
+      "title": "あぁ"
+    },
+    {
       "title": "ハロー・ハロー"
     },
     {
-      "title": "啊"
-    },
-    {
-      "title": "將愛吹入體內"
+      "title": "愛をからだに吹き込んで"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/150974880",
+    "apple": "https://music.apple.com/cn/artist/superfly/150974880",
     "spotify": "https://open.spotify.com/artist/5M8AXrOifBT8elkLKbGPQZ",
     "netease": "https://y.music.163.com/m/artist?id=21315"
   },

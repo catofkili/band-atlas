@@ -40,10 +40,10 @@
       "year": 2018
     }
   ],
-  "intro": "北极猴子是组来自英国谢菲尔德的另类摇滚乐团。乐团成立于2002年，团员有主唱兼吉他手 Alex Turner、吉他手Jamie Cook、贝斯手Nick O'Malley与鼓手Matt Helders。 北极猴子以第二张单曲《I Bet You Look Good on the Dancefloor》登上英国单曲榜冠军，成功赢得众人注目。",
+  "intro": "Arctic Monkeys是组来自英国谢菲尔德的另类摇滚乐团。乐团成立于2002年，团员有主唱兼吉他手 Alex Turner、吉他手Jamie Cook、贝斯手Nick O'Malley与鼓手Matt Helders。 北极猴子以第二张单曲《I Bet You Look Good on the Dancefloor》登上英国单曲榜冠军，成功赢得众人注目。",
   "introLang": "zh",
   "tracks": [
-    "アイ・ベット・ユー・ルック・グッド・オン・ザ・ダンスフロア",
+    "I Bet You Look Good on the Dancefloor",
     "Do I Wanna Know?",
     "Five Minutes with Arctic Monkeys",
     "Why'd You Only Call Me When You're High?",
@@ -51,7 +51,7 @@
   ],
   "trackSources": [
     {
-      "title": "アイ・ベット・ユー・ルック・グッド・オン・ザ・ダンスフロア"
+      "title": "I Bet You Look Good on the Dancefloor"
     },
     {
       "title": "Do I Wanna Know?"
@@ -67,7 +67,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/62820413",
+    "apple": "https://music.apple.com/cn/artist/arctic-monkeys/62820413",
     "spotify": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002NinmA2HZV5W",
     "netease": "https://y.music.163.com/m/artist?id=85508"

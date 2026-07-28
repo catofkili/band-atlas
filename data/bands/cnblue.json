@@ -51,7 +51,7 @@
   "tracks": [
     "Come on",
     "In My Head",
-    "Where you are",
+    "Where You Are",
     "RE-MAINTENANCE",
     "Robot"
   ],
@@ -63,7 +63,7 @@
       "title": "In My Head"
     },
     {
-      "title": "Where you are"
+      "title": "Where You Are"
     },
     {
       "title": "RE-MAINTENANCE"
@@ -74,7 +74,7 @@
   ],
   "musicLinks": {
     "spotify": "https://open.spotify.com/artist/6dCz3spfpIvqqqsIoP6wXi",
-    "apple": "https://music.apple.com/us/artist/band-atlas/469864779",
+    "apple": "https://music.apple.com/cn/artist/cnblue/469864779",
     "netease": "https://y.music.163.com/m/artist?id=126524"
   },
   "listens": 26444,

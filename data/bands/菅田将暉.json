@@ -38,9 +38,9 @@
   "tracks": [
     "見たこともない景色",
     "Keep On Running",
-    "ラストシーン",
-    "ロングホープ・フィリア",
-    "呼吸"
+    "さよならエレジー",
+    "まちがいさがし",
+    "ラストシーン"
   ],
   "trackSources": [
     {
@@ -50,17 +50,17 @@
       "title": "Keep On Running"
     },
     {
+      "title": "さよならエレジー"
+    },
+    {
+      "title": "まちがいさがし"
+    },
+    {
       "title": "ラストシーン"
-    },
-    {
-      "title": "ロングホープ・フィリア"
-    },
-    {
-      "title": "呼吸"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1213690168",
+    "apple": "https://music.apple.com/cn/artist/%E8%8F%85%E7%94%B0%E5%B0%86%E6%99%96/1213690168",
     "spotify": "https://open.spotify.com/artist/6n4SsAp5VjvIBg3s9QCcPX",
     "netease": "https://y.music.163.com/m/artist?id=12334348"
   },

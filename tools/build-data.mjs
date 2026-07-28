@@ -24,7 +24,7 @@ const TYPES = new Set(['member', 'guest', 'influence', 'feud', 'scene']);
 const MUSIC_LINK_PATTERNS = {
   qq: /^https:\/\/i\.y\.qq\.com\/n2\/m\/share\/details\/singer\.html\?ADTAG=newyqq\.singer&singermid=[A-Za-z0-9]+$/,
   netease: /^https:\/\/y\.music\.163\.com\/m\/artist\?id=\d+$/,
-  apple: /^https:\/\/music\.apple\.com\/[a-z]{2}\/artist\/[^/]+\/\d+$/,
+  apple: /^https:\/\/music\.apple\.com\/cn\/artist\/(?!band-atlas\/|id-\d+\/)[^/]+\/\d+$/,
   spotify: /^https:\/\/open\.spotify\.com\/artist\/[A-Za-z0-9]+$/,
 };
 const EAST_ASIA = new Set(['JP', 'KR', 'KP', 'CN', 'TW', 'HK', 'MO', 'MN']);
@@ -69,6 +69,7 @@ const translationsZh = await readJSON('data/source/translations-zh.json', {
 const zhOverrides = await readJSON('data/source/zh-overrides.json', {
   names: {},
   intros: {},
+  introReplacements: {},
   introSources: {},
   links: {},
 });
@@ -197,6 +198,39 @@ for (const candidate of approvedHistory) {
 /* ---------------------------------------------------------- 全站中文化 */
 
 const hasHan = (text) => /[\u3400-\u9fff]/.test(text ?? '');
+function preserveWesternArtistName(band) {
+  if (
+    !WESTERN.has(band.countryCode) ||
+    !/[A-Za-z]/.test(band.name ?? '') ||
+    !band.intro ||
+    band.intro.includes(band.name)
+  ) return;
+
+  const subjectLead = band.intro.match(
+    /^([^。！？!?]{1,50}?)([，,]?)是(?=(?:一(?:支|组|个|队)|组来自|支(?:美国|英国)|一个|一组|一队|来自|(?:美国|英国|法国|澳大利亚|加拿大)[^。！？!?]{0,24}(?:乐队|乐团|组合|团体|二人)|由|创立|成立|于|\d{4}年|提名|乐团|前))/u
+  );
+  if (subjectLead && hasHan(subjectLead[1])) {
+    band.intro =
+      `${band.name}${subjectLead[2]}是` +
+      band.intro.slice(subjectLead[0].length);
+    return;
+  }
+
+  const countryLead = band.intro.match(
+    /^([^，,]{1,30})([，,])(?=(?:美国|英国|法国|澳大利亚|加拿大).{0,24}(?:乐队|乐团|组合))/u
+  );
+  if (countryLead && hasHan(countryLead[1])) {
+    band.intro =
+      `${band.name}${countryLead[2]}` +
+      band.intro.slice(countryLead[0].length);
+    return;
+  }
+
+  const originLead = band.intro.match(/^(.{1,30}?)出身于美国是/u);
+  if (originLead && hasHan(originLead[1])) {
+    band.intro = `${band.name}是` + band.intro.slice(originLead[0].length);
+  }
+}
 const countryFallback = {
   JP: '日本', KR: '韩国', KP: '朝鲜', CN: '中国', TW: '台湾', HK: '香港', MO: '澳门', MN: '蒙古',
   US: '美国', GB: '英国', IE: '爱尔兰', CA: '加拿大', AU: '澳大利亚', NZ: '新西兰',
@@ -323,6 +357,10 @@ for (const band of merged.values()) {
       ...(band.links ?? {}),
       ...(zhOverrides.links?.[band.id] ?? {}),
     };
+  }
+  preserveWesternArtistName(band);
+  for (const [from, to] of Object.entries(zhOverrides.introReplacements?.[band.id] ?? {})) {
+    band.intro = band.intro.split(from).join(to);
   }
   const verifiedMusicLinks = musicLinks.artists?.[band.id];
   band.musicLinks = verifiedMusicLinks ? { ...verifiedMusicLinks } : {};

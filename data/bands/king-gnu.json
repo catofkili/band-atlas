@@ -39,8 +39,8 @@
   "tracks": [
     "白日",
     "SPECIALZ",
-    "一途 / 逆夢",
-    "變色龍",
+    "カメレオン",
+    "一途／逆夢",
     "TWILIGHT!!!"
   ],
   "trackSources": [
@@ -51,17 +51,17 @@
       "title": "SPECIALZ"
     },
     {
-      "title": "一途 / 逆夢"
+      "title": "カメレオン"
     },
     {
-      "title": "變色龍"
+      "title": "一途／逆夢"
     },
     {
       "title": "TWILIGHT!!!"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1258439196",
+    "apple": "https://music.apple.com/cn/artist/king-gnu/1258439196",
     "spotify": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001rW6kH1UoQbp",
     "netease": "https://y.music.163.com/m/artist?id=12551173"

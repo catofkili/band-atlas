@@ -39,34 +39,34 @@
       "year": 2007
     }
   ],
-  "intro": "喷火战机乐队是一支来自美国华盛顿州西雅图的摇滚乐队，由涅槃乐队前鼓手戴夫·格罗尔于1994年创建，目前阵容包括格罗尔、奈特·孟德尔、克里斯·沙弗利特和帕特·斯密尔、拉米·杰菲和乔什·弗里兹。鼓手威廉·戈德史密斯和泰勒·霍金斯以及吉他手弗朗兹·斯塔尔都是乐队的前成员。",
+  "intro": "Foo Fighters是一支来自美国华盛顿州西雅图的摇滚乐队，由涅槃乐队前鼓手戴夫·格罗尔于1994年创建，目前阵容包括格罗尔、奈特·孟德尔、克里斯·沙弗利特和帕特·斯密尔、拉米·杰菲和乔什·弗里兹。鼓手威廉·戈德史密斯和泰勒·霍金斯以及吉他手弗朗兹·斯塔尔都是乐队的前成员。",
   "introLang": "zh",
   "tracks": [
-    "ウォーク",
-    "エヴァーロング",
+    "Everlong",
+    "Walk",
+    "Learn to Fly",
     "The Pretender",
-    "學會飛",
     "Best of You"
   ],
   "trackSources": [
     {
-      "title": "ウォーク"
+      "title": "Everlong"
     },
     {
-      "title": "エヴァーロング"
+      "title": "Walk"
+    },
+    {
+      "title": "Learn to Fly"
     },
     {
       "title": "The Pretender"
-    },
-    {
-      "title": "學會飛"
     },
     {
       "title": "Best of You"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/6906197",
+    "apple": "https://music.apple.com/cn/artist/foo-fighters/6906197",
     "spotify": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=00327QrC3bqOW6",
     "netease": "https://y.music.163.com/m/artist?id=56781"

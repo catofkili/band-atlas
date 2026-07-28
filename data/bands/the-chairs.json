@@ -41,9 +41,9 @@
   "regionalFeatured": true,
   "introLang": "zh",
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1096054130",
     "spotify": "https://open.spotify.com/artist/4IlxI05VmVDx8ShdgKEnLK",
-    "netease": "https://y.music.163.com/m/artist?id=448336"
+    "netease": "https://y.music.163.com/m/artist?id=448336",
+    "apple": "https://music.apple.com/cn/artist/the-chairs/294798018"
   },
   "listens": 4481,
   "listeners": 309,

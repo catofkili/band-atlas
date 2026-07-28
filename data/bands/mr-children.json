@@ -41,15 +41,15 @@
   "intro": "Mr.Children是日本当代最著名的摇滚乐团之一，成员有四人，包括主唱樱井和寿、吉他手田原健一 、贝斯手中川敬辅，和鼓手铃木英哉。所属经纪事务所是乌龙舍，所属唱片公司是TOY'S FACTORY。 在高中时期，樱井和寿与中川敬辅已经在轻音乐社结识并且计划组团，樱井和寿又游说原为棒球社社员的田原健一加入。",
   "introLang": "zh",
   "tracks": [
-    "CROSS ROAD (Mr.Children單曲)",
+    "CROSS ROAD",
     "innocent world",
     "Tomorrow never knows",
-    "【es】 ～Theme of es～",
-    "Everybody goes -向沒有秩序的現代Drop Kick-"
+    "【es】 〜Theme of es〜",
+    "everybody goes -秩序のない現代にドロップキック-"
   ],
   "trackSources": [
     {
-      "title": "CROSS ROAD (Mr.Children單曲)"
+      "title": "CROSS ROAD"
     },
     {
       "title": "innocent world"
@@ -58,14 +58,14 @@
       "title": "Tomorrow never knows"
     },
     {
-      "title": "【es】 ～Theme of es～"
+      "title": "【es】 〜Theme of es〜"
     },
     {
-      "title": "Everybody goes -向沒有秩序的現代Drop Kick-"
+      "title": "everybody goes -秩序のない現代にドロップキック-"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/428909573",
+    "apple": "https://music.apple.com/cn/artist/mr-children/428909573",
     "spotify": "https://open.spotify.com/artist/1qma7XhwZotCAucL7NHVLY",
     "netease": "https://y.music.163.com/m/artist?id=20455"
   },

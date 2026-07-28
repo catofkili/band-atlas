@@ -42,34 +42,34 @@
       "year": 1964
     }
   ],
-  "intro": "披头士乐队是1960年在利物浦组建的一支英国摇滚乐队，华文亦称“披头四乐队”、“甲壳虫乐队”等，成员包括约翰·列侬、保罗·麦卡特尼、乔治·哈里森和林戈·斯塔尔。披头士作为人类史上最伟大的乐团、摇滚乐手、流行音乐家、音乐艺人的地位得到广泛认可，对现代音乐的影响极其深远。",
+  "intro": "The Beatles是1960年在利物浦组建的一支英国摇滚乐队，华文亦称“披头四乐队”、“甲壳虫乐队”等，成员包括约翰·列侬、保罗·麦卡特尼、乔治·哈里森和林戈·斯塔尔。披头士作为人类史上最伟大的乐团、摇滚乐手、流行音乐家、音乐艺人的地位得到广泛认可，对现代音乐的影响极其深远。",
   "introLang": "zh",
   "tracks": [
-    "如果我倒下",
-    "披頭四電影混合曲",
-    "來吧給我你的手／她愛你",
-    "寶貝，如果你愛我",
+    "If I Fell",
+    "The Beatles' Movie Medley",
+    "Komm, gib mir deine Hand / Sie liebt dich",
+    "If You Love Me",
     "Love Me Do / P.S. I Love You"
   ],
   "trackSources": [
     {
-      "title": "如果我倒下"
+      "title": "If I Fell"
     },
     {
-      "title": "披頭四電影混合曲"
+      "title": "The Beatles' Movie Medley"
     },
     {
-      "title": "來吧給我你的手／她愛你"
+      "title": "Komm, gib mir deine Hand / Sie liebt dich"
     },
     {
-      "title": "寶貝，如果你愛我"
+      "title": "If You Love Me"
     },
     {
       "title": "Love Me Do / P.S. I Love You"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/136975",
+    "apple": "https://music.apple.com/cn/artist/the-beatles/136975",
     "spotify": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001gy2OU2BXAZ2",
     "netease": "https://y.music.163.com/m/artist?id=101988"

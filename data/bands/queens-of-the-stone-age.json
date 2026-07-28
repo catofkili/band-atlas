@@ -39,10 +39,10 @@
       "year": 2013
     }
   ],
-  "intro": "石器时代女王是一个美国的摇滚乐队，成立于1996年的西雅图，由主唱和吉他手Josh Homme领衔，他是乐队唯一的常驻成员。乐队的音乐风格受到了蓝调、德国摇滚和电子音乐的影响，以其富有节奏感和力量感的硬摇滚和Homme独特的假声而闻名。乐队曾经获得过七次格莱美奖提名，并且发行了七张录音室专辑。",
+  "intro": "Queens of the Stone Age是一个美国的摇滚乐队，成立于1996年的西雅图，由主唱和吉他手Josh Homme领衔，他是乐队唯一的常驻成员。乐队的音乐风格受到了蓝调、德国摇滚和电子音乐的影响，以其富有节奏感和力量感的硬摇滚和Homme独特的假声而闻名。乐队曾经获得过七次格莱美奖提名，并且发行了七张录音室专辑。",
   "introLang": "zh",
   "tracks": [
-    "ノー・ワン・ノウズ",
+    "No One Knows",
     "Make It wit Chu",
     "3's & 7's",
     "Little Sister",
@@ -50,7 +50,7 @@
   ],
   "trackSources": [
     {
-      "title": "ノー・ワン・ノウズ"
+      "title": "No One Knows"
     },
     {
       "title": "Make It wit Chu"
@@ -66,7 +66,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/857919",
+    "apple": "https://music.apple.com/cn/artist/queens-of-the-stone-age/857919",
     "spotify": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001eXjGm2HLE0m",
     "netease": "https://y.music.163.com/m/artist?id=72630"

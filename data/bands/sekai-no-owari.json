@@ -52,7 +52,7 @@
   "tracks": [
     "Habit",
     "RAIN",
-    "RPG (單曲)",
+    "RPG",
     "スターライトパレード",
     "スノーマジックファンタジー"
   ],
@@ -64,7 +64,7 @@
       "title": "RAIN"
     },
     {
-      "title": "RPG (單曲)"
+      "title": "RPG"
     },
     {
       "title": "スターライトパレード"
@@ -74,7 +74,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/454694621",
+    "apple": "https://music.apple.com/cn/artist/sekai-no-owari/454694621",
     "spotify": "https://open.spotify.com/artist/7HwzlRPa9Ad0I8rK0FPzzK",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003va6ln3ruqsB",
     "netease": "https://y.music.163.com/m/artist?id=21463"

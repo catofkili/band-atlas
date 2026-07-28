@@ -30,14 +30,14 @@
       "year": 2023
     }
   ],
-  "intro": "诺尔加拉格的高飞小鸟是前英国绿洲乐队 (Oasis) 的作曲家兼吉他手诺尔·加拉格 (Noel Gallagher) 在离开绿洲后另组的摇滚乐队。高飞鸟的现任成员包括前绿洲乐队的吉他手甘姆·阿彻 (Gem Archer) 、前绿洲乐队的鼓手Chris Sharrock、键盘手Mike Rowe、贝斯手Russell Pritchard等。",
+  "intro": "Noel Gallagher’s High Flying Birds是前英国绿洲乐队 (Oasis) 的作曲家兼吉他手诺尔·加拉格 (Noel Gallagher) 在离开绿洲后另组的摇滚乐队。高飞鸟的现任成员包括前绿洲乐队的吉他手甘姆·阿彻 (Gem Archer) 、前绿洲乐队的鼓手Chris Sharrock、键盘手Mike Rowe、贝斯手Russell Pritchard等。",
   "introLang": "zh",
   "tracks": [
     "AKA... What a Life!",
     "If I Had a Gun...",
     "The Death of You and Me",
-    "Everybody's on the Run",
-    "ドリーム・オン (ノエル・ギャラガーの曲)"
+    "Ballad of the Mighty I",
+    "Dream On"
   ],
   "trackSources": [
     {
@@ -50,14 +50,14 @@
       "title": "The Death of You and Me"
     },
     {
-      "title": "Everybody's on the Run"
+      "title": "Ballad of the Mighty I"
     },
     {
-      "title": "ドリーム・オン (ノエル・ギャラガーの曲)"
+      "title": "Dream On"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/450757148",
+    "apple": "https://music.apple.com/cn/artist/noel-gallaghers-high-flying-birds/450757148",
     "spotify": "https://open.spotify.com/artist/7sjttK1WcZeyLPn3IsQ62L",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004XF3jS1uClls",
     "netease": "https://y.music.163.com/m/artist?id=297258"

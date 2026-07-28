@@ -39,18 +39,18 @@
       "year": 2005
     }
   ],
-  "intro": "后街男孩是一支美国流行音乐团体，1993年于美国佛罗里达州奥兰多市成立，其成员分别为：尼克·卡特、豪儿·多罗夫、布莱恩·莱特尔、A·J·迈克林和凯文·理查德森，成立之初五位成员都不过十几岁。至今为止他们已经在美国销售了3800万张唱片，全球销量超过1亿3000万张，名列史上最畅销男子组合。2013年被选入好莱坞星光大道，以纪念他们对音乐业的贡献。",
+  "intro": "Backstreet Boys是一支美国流行音乐团体，1993年于美国佛罗里达州奥兰多市成立，其成员分别为：尼克·卡特、豪儿·多罗夫、布莱恩·莱特尔、A·J·迈克林和凯文·理查德森，成立之初五位成员都不过十几岁。至今为止他们已经在美国销售了3800万张唱片，全球销量超过1亿3000万张，名列史上最畅销男子组合。2013年被选入好莱坞星光大道，以纪念他们对音乐业的贡献。",
   "introLang": "zh",
   "tracks": [
-    "Quit Playin' Games",
+    "Quit Playing Games (With My Heart)",
     "Show Me the Meaning of Being Lonely",
     "We've Got It Goin' On",
-    "Get Down",
+    "Get Down (You're the One for Me)",
     "Incomplete"
   ],
   "trackSources": [
     {
-      "title": "Quit Playin' Games"
+      "title": "Quit Playing Games (With My Heart)"
     },
     {
       "title": "Show Me the Meaning of Being Lonely"
@@ -59,14 +59,14 @@
       "title": "We've Got It Goin' On"
     },
     {
-      "title": "Get Down"
+      "title": "Get Down (You're the One for Me)"
     },
     {
       "title": "Incomplete"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/217039",
+    "apple": "https://music.apple.com/cn/artist/backstreet-boys/217039",
     "spotify": "https://open.spotify.com/artist/5rSXSAkZ67PYJSvpUpkOr7",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002FPYov3I2f9q",
     "netease": "https://y.music.163.com/m/artist?id=88148"

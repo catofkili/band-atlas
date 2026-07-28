@@ -40,10 +40,10 @@
       "year": 1974
     }
   ],
-  "intro": "绯红之王共同组建了新的乐队———King Crimson (绯红之王)。他们的首张专辑《在猩红之王的宫廷里(In the Court of the Crimson King)》至今仍然是他们最成功且最具影响力的专辑，作为世界上第一张前卫摇滚专辑，乐队成员开创性地将爵士乐的复杂节拍和即兴和古典音乐的乐章结构同摇滚乐融合在一起。",
+  "intro": "绯红之王共同组建了新的乐队———King Crimson (绯红之王)。他们的首张专辑《In the Court of the Crimson King》至今仍然是他们最成功且最具影响力的专辑，作为世界上第一张前卫摇滚专辑，乐队成员开创性地将爵士乐的复杂节拍和即兴和古典音乐的乐章结构同摇滚乐融合在一起。",
   "introLang": "zh",
   "tracks": [
-    "請稍等一下",
+    "Matte Kudasai",
     "Heartbeat",
     "Thela Hun Ginjeet",
     "Sex Sleep Eat Drink Dream",
@@ -51,7 +51,7 @@
   ],
   "trackSources": [
     {
-      "title": "請稍等一下"
+      "title": "Matte Kudasai"
     },
     {
       "title": "Heartbeat"
@@ -67,7 +67,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/627204",
+    "apple": "https://music.apple.com/cn/artist/king-crimson/627204",
     "spotify": "https://open.spotify.com/artist/7M1FPw29m5FbicYzS2xdpi",
     "netease": "https://y.music.163.com/m/artist?id=95285"
   },

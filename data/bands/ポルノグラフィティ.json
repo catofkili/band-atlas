@@ -50,17 +50,17 @@
   "introLang": "zh",
   "tracks": [
     "アニマロッサ",
-    "哦！勁敵",
+    "オー!リバル",
     "2012Spark",
     "EXIT (ポルノグラフィティの曲)",
-    "Link (色情塗鴉的歌曲)"
+    "Love,too Death,too"
   ],
   "trackSources": [
     {
       "title": "アニマロッサ"
     },
     {
-      "title": "哦！勁敵"
+      "title": "オー!リバル"
     },
     {
       "title": "2012Spark"
@@ -69,11 +69,11 @@
       "title": "EXIT (ポルノグラフィティの曲)"
     },
     {
-      "title": "Link (色情塗鴉的歌曲)"
+      "title": "Love,too Death,too"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/546978158",
+    "apple": "https://music.apple.com/cn/artist/porno-graffitti/546978158",
     "spotify": "https://open.spotify.com/artist/5jQa0f5MIMPEK7udL7UpI6",
     "netease": "https://y.music.163.com/m/artist?id=20975"
   },

@@ -51,9 +51,9 @@
   "tracks": [
     "HANABI",
     "SAKURA",
-    "戀愛少女",
-    "春之歌",
-    "流星奇蹟"
+    "コイスルオトメ",
+    "ハルウタ",
+    "ブルーバード"
   ],
   "trackSources": [
     {
@@ -63,17 +63,17 @@
       "title": "SAKURA"
     },
     {
-      "title": "戀愛少女"
+      "title": "コイスルオトメ"
     },
     {
-      "title": "春之歌"
+      "title": "ハルウタ"
     },
     {
-      "title": "流星奇蹟"
+      "title": "ブルーバード"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/550412714",
+    "apple": "https://music.apple.com/cn/artist/%E7%94%9F%E7%89%A9%E8%82%A1%E9%95%BF/550412714",
     "spotify": "https://open.spotify.com/artist/5YneEA2nLtAhkD5t2769lZ",
     "netease": "https://y.music.163.com/m/artist?id=19270"
   },

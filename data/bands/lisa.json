@@ -52,8 +52,8 @@
   "tracks": [
     "紅蓮華",
     "炎",
-    "Crossing field",
-    "Oath sign",
+    "crossing field",
+    "oath sign",
     "Unlasting"
   ],
   "trackSources": [
@@ -64,17 +64,17 @@
       "title": "炎"
     },
     {
-      "title": "Crossing field"
+      "title": "crossing field"
     },
     {
-      "title": "Oath sign"
+      "title": "oath sign"
     },
     {
       "title": "Unlasting"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/573943518",
+    "apple": "https://music.apple.com/cn/artist/lisa/573943518",
     "spotify": "https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0033JjKO4MI0N2",
     "netease": "https://y.music.163.com/m/artist?id=16995"

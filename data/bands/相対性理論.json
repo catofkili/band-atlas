@@ -39,12 +39,12 @@
   "intro": "相对性理论，是来自日本东京的乐队，成立于2006年九月。自称“Youtube影像时代的流行艺术家”，积极进行LIVE活动与音乐合作。",
   "introLang": "zh",
   "tracks": [
-    "暴亂與待機",
+    "乱暴と待機",
     "アワーミュージック"
   ],
   "trackSources": [
     {
-      "title": "暴亂與待機"
+      "title": "乱暴と待機"
     },
     {
       "title": "アワーミュージック"
@@ -52,7 +52,7 @@
   ],
   "musicLinks": {
     "spotify": "https://open.spotify.com/artist/1bj13qFAwnyM3ILOiFnn1Y",
-    "apple": "https://music.apple.com/us/artist/band-atlas/345438295",
+    "apple": "https://music.apple.com/cn/artist/soutaiseiriron/345438295",
     "netease": "https://y.music.163.com/m/artist?id=21319"
   },
   "listens": 71269,

@@ -38,15 +38,15 @@
   "intro": "藤井风是一名日本创作歌手，出生于冈山县浅口郡里庄町。童年时因父亲影响而接触音乐，三岁开始学钢琴，并从中学开始在YouTube上传翻弹钢琴与翻唱欧美流行歌曲的影片，拍摄地点在自家的咖啡店。在获得音乐界人士发掘后，藤井风于2019年赴往东京正式出道，并在2020年发行首张专辑《HELP EVER HURT NEVER》。",
   "introLang": "zh",
   "tracks": [
-    "我寧可去死",
+    "死ぬのがいいわ",
     "Grace",
     "Workin' Hard",
-    "閃耀",
-    "燃燒吧"
+    "きらり (曲)",
+    "燃えよ"
   ],
   "trackSources": [
     {
-      "title": "我寧可去死"
+      "title": "死ぬのがいいわ"
     },
     {
       "title": "Grace"
@@ -55,14 +55,14 @@
       "title": "Workin' Hard"
     },
     {
-      "title": "閃耀"
+      "title": "きらり (曲)"
     },
     {
-      "title": "燃燒吧"
+      "title": "燃えよ"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1486113150",
+    "apple": "https://music.apple.com/cn/artist/%E8%97%A4%E4%BA%95%E9%A3%8E/1486113150",
     "spotify": "https://open.spotify.com/artist/6bDWAcdtVR3WHz2xtiIPUi",
     "netease": "https://y.music.163.com/m/artist?id=33760539"
   },

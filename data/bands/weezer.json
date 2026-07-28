@@ -42,34 +42,34 @@
       "year": 2008
     }
   ],
-  "intro": "威瑟乐团是一组来自美国加州洛杉矶的另类摇滚乐团，于1992年组成。乐团在最早是由瑞弗斯·柯摩、帕特里克·威尔森、麦特·夏普和杰森·科普组成。杰森·科普在不久后被布赖恩·贝尔取代。接着麦特·夏普被麦奇·威尔许取代，之后斯科特·夏瑞纳接替了威尔许的位子。",
+  "intro": "Weezer是一组来自美国加州洛杉矶的另类摇滚乐团，于1992年组成。乐团在最早是由瑞弗斯·柯摩、帕特里克·威尔森、麦特·夏普和杰森·科普组成。杰森·科普在不久后被布赖恩·贝尔取代。接着麦特·夏普被麦奇·威尔许取代，之后斯科特·夏瑞纳接替了威尔许的位子。",
   "introLang": "zh",
   "tracks": [
+    "Buddy Holly",
     "Island in the Sun",
-    "バディ・ホリー",
     "Say It Ain't So",
-    "Undone – The Sweater Song",
-    "豬肉和豆子"
+    "Pork and Beans",
+    "Undone – The Sweater Song"
   ],
   "trackSources": [
     {
-      "title": "Island in the Sun"
+      "title": "Buddy Holly"
     },
     {
-      "title": "バディ・ホリー"
+      "title": "Island in the Sun"
     },
     {
       "title": "Say It Ain't So"
     },
     {
-      "title": "Undone – The Sweater Song"
+      "title": "Pork and Beans"
     },
     {
-      "title": "豬肉和豆子"
+      "title": "Undone – The Sweater Song"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/115234",
+    "apple": "https://music.apple.com/cn/artist/weezer/115234",
     "spotify": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu",
     "netease": "https://y.music.163.com/m/artist?id=45837"
   },

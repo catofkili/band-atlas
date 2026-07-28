@@ -46,24 +46,24 @@
   "intro": "BABYMETAL是一个在2010年结成的日本少女偶像暨重金属乐团。由Amuse公司的制作室长之一、同时是重金属音乐爱好者的小林启担任制作人。他以主唱中元铃香为中心，水野由结和菊地最爱为双翼辅佐，创立了BABYMETAL。",
   "introLang": "zh",
   "tracks": [
-    "BABYMETAL × Kiba of Akiba",
-    "HeadBanger!!",
-    "欺凌、絕對、不行",
-    "狐狸假面",
+    "BABYMETAL × キバオブアキバ",
+    "イジメ、ダメ、ゼッタイ",
+    "ヘドバンギャー!!",
+    "メギツネ",
     "Road of Resistance"
   ],
   "trackSources": [
     {
-      "title": "BABYMETAL × Kiba of Akiba"
+      "title": "BABYMETAL × キバオブアキバ"
     },
     {
-      "title": "HeadBanger!!"
+      "title": "イジメ、ダメ、ゼッタイ"
     },
     {
-      "title": "欺凌、絕對、不行"
+      "title": "ヘドバンギャー!!"
     },
     {
-      "title": "狐狸假面"
+      "title": "メギツネ"
     },
     {
       "title": "Road of Resistance"
@@ -72,7 +72,7 @@
   "musicLinks": {
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004CVq363rdLQk",
     "netease": "https://y.music.163.com/m/artist?id=18850",
-    "apple": "https://music.apple.com/us/artist/babymetal/477101776",
+    "apple": "https://music.apple.com/cn/artist/babymetal/477101776",
     "spotify": "https://open.spotify.com/artist/630wzNP2OL7fl4Xl0GnMWq"
   },
   "listens": 1091821,

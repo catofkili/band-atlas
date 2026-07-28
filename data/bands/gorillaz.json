@@ -41,21 +41,21 @@
       "year": 2010
     }
   ],
-  "intro": "街头霸王是一支虚拟乐团，由四个虚拟动画角色组成，分别是：阿D、小面、洛胖、魔头。 乐团是由英国模糊主唱—戴蒙·亚邦和漫画家吉米·何力特共同创造。他们的风格都是十分“另类”，但是也受到其他方面大量的影响。 与其他成功的虚拟乐团不同，他们的歌曲并不是针对特定风格的诙谐调侃，也不是针对儿童市场所设计乐团），大多数的歌迷都是被街头霸王的音乐吸引，更胜于他们对于那些卡通人物的支持。",
+  "intro": "Gorillaz是一支虚拟乐团，由四个虚拟动画角色组成，分别是：阿D、小面、洛胖、魔头。 乐团是由英国模糊主唱—戴蒙·亚邦和漫画家吉米·何力特共同创造。他们的风格都是十分“另类”，但是也受到其他方面大量的影响。 与其他成功的虚拟乐团不同，他们的歌曲并不是针对特定风格的诙谐调侃，也不是针对儿童市场所设计乐团），大多数的歌迷都是被街头霸王的音乐吸引，更胜于他们对于那些卡通人物的支持。",
   "introLang": "zh",
   "tracks": [
-    "快樂企業",
-    "Clint Eastwood (歌曲)",
+    "Feel Good Inc.",
+    "Clint Eastwood",
     "19-2000",
     "On Melancholy Hill",
     "Rock the House"
   ],
   "trackSources": [
     {
-      "title": "快樂企業"
+      "title": "Feel Good Inc."
     },
     {
-      "title": "Clint Eastwood (歌曲)"
+      "title": "Clint Eastwood"
     },
     {
       "title": "19-2000"
@@ -68,7 +68,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/567072",
+    "apple": "https://music.apple.com/cn/artist/gorillaz/567072",
     "spotify": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002WKatH4IAyfa",
     "netease": "https://y.music.163.com/m/artist?id=93185"

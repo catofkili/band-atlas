@@ -41,18 +41,18 @@
   "intro": "东京事变，日本乐团，成立于2003年，2012年解散、2020年复出。成员共有5人，分别为椎名林檎、龟田诚治、浮云、刃田缀色、伊泽一叶。",
   "introLang": "zh",
   "tracks": [
+    "空が鳴っている/女の子は誰でも",
     "能動的三分間",
-    "迴響天空／每個女孩子啊",
     "Onna no Ko wa Dare Demo",
     "緑酒",
-    "赤之同盟"
+    "赤の同盟"
   ],
   "trackSources": [
     {
-      "title": "能動的三分間"
+      "title": "空が鳴っている/女の子は誰でも"
     },
     {
-      "title": "迴響天空／每個女孩子啊"
+      "title": "能動的三分間"
     },
     {
       "title": "Onna no Ko wa Dare Demo"
@@ -61,11 +61,10 @@
       "title": "緑酒"
     },
     {
-      "title": "赤之同盟"
+      "title": "赤の同盟"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/553103555",
     "spotify": "https://open.spotify.com/artist/6KQWWzFLPQbqomJrieHAW5",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004F82Fn2nsEY0",
     "netease": "https://y.music.163.com/m/artist?id=21821"

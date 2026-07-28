@@ -38,10 +38,10 @@
       "year": 2010
     }
   ],
-  "intro": "盲音合唱团是一支美国的另类金属乐队，1988年成立于加利福尼亚州沙加缅度。该乐队被认为是另类金属乐队中最深入实验金属的一支乐队，有时评论界会称其为“金属音乐界的电台司令”。",
+  "intro": "Deftones是一支美国的另类金属乐队，1988年成立于加利福尼亚州沙加缅度。该乐队被认为是另类金属乐队中最深入实验金属的一支乐队，有时评论界会称其为“金属音乐界的电台司令”。",
   "introLang": "zh",
   "tracks": [
-    "Change",
+    "Change (In the House of Flies)",
     "Be Quiet and Drive",
     "My Own Summer (Shove It)",
     "Back to School (Mini Maggit)",
@@ -49,7 +49,7 @@
   ],
   "trackSources": [
     {
-      "title": "Change"
+      "title": "Change (In the House of Flies)"
     },
     {
       "title": "Be Quiet and Drive"
@@ -65,7 +65,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1092903",
+    "apple": "https://music.apple.com/cn/artist/deftones/1092903",
     "spotify": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000L3Vad4CzVI7",
     "netease": "https://y.music.163.com/m/artist?id=53256"

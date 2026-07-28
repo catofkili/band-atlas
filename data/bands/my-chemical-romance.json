@@ -37,34 +37,34 @@
       "year": 2013
     }
   ],
-  "intro": "我的化学浪漫是一组来自美国新泽西的摇滚乐团，成立于2001年，解散于2013年，后于2019年10月31日宣布回归。在乐队的大部分时间，乐队由杰洛德·威、麦基·威、弗兰克·伊罗、雷·托罗和鲍伯·布莱亚五人组成。乐团成员大多来自新泽西，只有鼓手鲍伯·布莱亚来自芝加哥。",
+  "intro": "My Chemical Romance是一组来自美国新泽西的摇滚乐团，成立于2001年，解散于2013年，后于2019年10月31日宣布回归。在乐队的大部分时间，乐队由杰洛德·威、麦基·威、弗兰克·伊罗、雷·托罗和鲍伯·布莱亚五人组成。乐团成员大多来自新泽西，只有鼓手鲍伯·布莱亚来自芝加哥。",
   "introLang": "zh",
   "tracks": [
-    "ウェルカム・トゥ・ザ・ブラック・パレード",
-    "青年",
-    "Helena (마이 케미컬 로맨스의 노래)",
-    "アイ・ドント・ラヴ・ユー",
+    "Welcome to the Black Parade",
+    "Teenagers",
+    "Helena",
+    "I Don't Love You",
     "The Ghost of You"
   ],
   "trackSources": [
     {
-      "title": "ウェルカム・トゥ・ザ・ブラック・パレード"
+      "title": "Welcome to the Black Parade"
     },
     {
-      "title": "青年"
+      "title": "Teenagers"
     },
     {
-      "title": "Helena (마이 케미컬 로맨스의 노래)"
+      "title": "Helena"
     },
     {
-      "title": "アイ・ドント・ラヴ・ユー"
+      "title": "I Don't Love You"
     },
     {
       "title": "The Ghost of You"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/14748659",
+    "apple": "https://music.apple.com/cn/artist/my-chemical-romance/14748659",
     "spotify": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003Zy3Hb0Oqn4d",
     "netease": "https://y.music.163.com/m/artist?id=38850"

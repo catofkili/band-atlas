@@ -40,7 +40,7 @@
   "intro": "Stone Temple Pilots是一支来自美国圣地亚哥的摇滚乐队。简称STP。自1992年出道以来，该乐队连续四张专辑销量均突破百万，作为另类摇滚乐队在20世纪90年代取得了巨大成功。",
   "introLang": "zh",
   "tracks": [
-    "絲絨 (石廟嚮導歌曲)",
+    "Plush",
     "Creep",
     "Sex Type Thing",
     "Down",
@@ -48,7 +48,7 @@
   ],
   "trackSources": [
     {
-      "title": "絲絨 (石廟嚮導歌曲)"
+      "title": "Plush"
     },
     {
       "title": "Creep"
@@ -64,7 +64,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/889772",
+    "apple": "https://music.apple.com/cn/artist/stone-temple-pilots/889772",
     "spotify": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003ZvtwZ4JgKVB",
     "netease": "https://y.music.163.com/m/artist?id=74704"

@@ -47,30 +47,30 @@
   "introLang": "zh",
   "tracks": [
     "I promise",
-    "Life goes on / We are young",
+    "Koi-wazurai",
+    "Life goes on/We are young",
     "lovin' you/踊るように人生を。",
-    "Magic Touch / Beating Hearts",
-    "Mazy Night"
+    "Magic Touch/Beating Hearts"
   ],
   "trackSources": [
     {
       "title": "I promise"
     },
     {
-      "title": "Life goes on / We are young"
+      "title": "Koi-wazurai"
+    },
+    {
+      "title": "Life goes on/We are young"
     },
     {
       "title": "lovin' you/踊るように人生を。"
     },
     {
-      "title": "Magic Touch / Beating Hearts"
-    },
-    {
-      "title": "Mazy Night"
+      "title": "Magic Touch/Beating Hearts"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1745727874",
+    "apple": "https://music.apple.com/cn/artist/king-prince/1745727874",
     "spotify": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003CEwu13qV4Pd",
     "netease": "https://y.music.163.com/m/artist?id=13934044"

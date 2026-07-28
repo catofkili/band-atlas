@@ -45,31 +45,31 @@
   "intro": "GRe4N BOYZ，原名GReeeeN，成立于日本福岛县郡山市，属于宝丽多唱片旗下的4人组创作团体。2024年3月19日，宣布离开原事务所，团名称更改为“GRe4N BOYZ”。",
   "introLang": "zh",
   "tracks": [
-    "奇蹟",
-    "愛歌",
-    "伊卡洛斯",
-    "刹那 (單曲)",
-    "強忍淚水，總有一天"
+    "キセキ",
+    "愛唄",
+    "イカロス",
+    "オレンジ",
+    "ミセナイナミダハ、きっといつか"
   ],
   "trackSources": [
     {
-      "title": "奇蹟"
+      "title": "キセキ"
     },
     {
-      "title": "愛歌"
+      "title": "愛唄"
     },
     {
-      "title": "伊卡洛斯"
+      "title": "イカロス"
     },
     {
-      "title": "刹那 (單曲)"
+      "title": "オレンジ"
     },
     {
-      "title": "強忍淚水，總有一天"
+      "title": "ミセナイナミダハ、きっといつか"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/218171255",
+    "apple": "https://music.apple.com/cn/artist/greeeen/218171255",
     "spotify": "https://open.spotify.com/artist/14T8NkbwXVZgbOvwnuGV89",
     "netease": "https://y.music.163.com/m/artist?id=19550"
   },

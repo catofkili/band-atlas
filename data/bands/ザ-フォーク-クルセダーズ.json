@@ -33,17 +33,17 @@
   "intro": "The Folk Crusaders是一支于20世纪60年代后期出道的乐队，也被称为“Folkru”。有时也被写作“The Folk Crusaders”。",
   "introLang": "zh",
   "tracks": [
-    "临津江",
-    "歸來的醉漢",
+    "イムジン河",
+    "帰って来たヨッパライ",
     "悲しくてやりきれない",
     "水虫の唄"
   ],
   "trackSources": [
     {
-      "title": "临津江"
+      "title": "イムジン河"
     },
     {
-      "title": "歸來的醉漢"
+      "title": "帰って来たヨッパライ"
     },
     {
       "title": "悲しくてやりきれない"
@@ -53,7 +53,6 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/905949108",
     "spotify": "https://open.spotify.com/artist/1HWfI9faTvARWB1e14Dn8b",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001lTPjL0DThDI",
     "netease": "https://y.music.163.com/m/artist?id=21505"

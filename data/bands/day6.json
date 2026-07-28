@@ -38,13 +38,13 @@
   "intro": "DAY6是韩国JYP娱乐旗下部门Studio J于2015年推出乐团，经成员变动后由晟镇、Young K、元弼及度云等4位成员组成并由晟镇担任队长。2016年2月27日，原成员晙赫退出DAY6并与JYP娱乐终止合约，自此DAY6成为五人乐团。",
   "introLang": "zh",
   "tracks": [
-    "If～倘若再次相逢～",
+    "If -Mata Aetara-",
     "Dream Bus",
     "Lovin' the Christmas"
   ],
   "trackSources": [
     {
-      "title": "If～倘若再次相逢～"
+      "title": "If -Mata Aetara-"
     },
     {
       "title": "Dream Bus"
@@ -54,7 +54,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1037939997",
+    "apple": "https://music.apple.com/cn/artist/day6/1037939997",
     "spotify": "https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc",
     "netease": "https://y.music.163.com/m/artist?id=1146052"
   },

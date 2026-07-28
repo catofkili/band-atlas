@@ -50,31 +50,31 @@
   "intro": "Perfume是一个出身于日本广岛县的女子流行电子音乐组合，所属唱片公司为环球音乐旗下宝丽多唱片，全部成员均为 AMUSE 经纪公司属下。 Perfume 最初于 1999 年由 3 名成员组成，发展至今已经成为日本最具知名度的电子音乐组合。",
   "introLang": "zh",
   "tracks": [
-    "SPICE",
-    "One Room Disco",
+    "スパイス",
+    "ワンルーム・ディスコ",
     "Cling Cling",
-    "Love the world",
+    "love the world",
     "Spending all my time"
   ],
   "trackSources": [
     {
-      "title": "SPICE"
+      "title": "スパイス"
     },
     {
-      "title": "One Room Disco"
+      "title": "ワンルーム・ディスコ"
     },
     {
       "title": "Cling Cling"
     },
     {
-      "title": "Love the world"
+      "title": "love the world"
     },
     {
       "title": "Spending all my time"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/351343399",
+    "apple": "https://music.apple.com/cn/artist/%E7%94%B5%E9%9F%B3%E9%A6%99%E6%B0%B4/351343399",
     "spotify": "https://open.spotify.com/artist/2XMxWKPKCxoLkSdpCViCnr",
     "netease": "https://y.music.163.com/m/artist?id=20965"
   },

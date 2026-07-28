@@ -39,7 +39,7 @@
       "year": 1996
     }
   ],
-  "intro": "金属乐队是美国殿堂级重金属乐队，也是世界上第一支敲击金属乐队，1981年10月28日成立于美国加州洛杉矶。起源是鼓手拉尔斯·乌尔里希在当地报纸刊登招募成员的广告，前去应征的是主唱兼吉他手詹姆斯·海特菲尔德。金属乐队目前的阵容共计四人，包括两位创始成员詹姆斯·海特菲尔德和拉尔斯·乌尔里希、长期吉他手柯克·哈米特，以及贝斯手罗伯特·特鲁希略。",
+  "intro": "Metallica是美国殿堂级重金属乐队，也是世界上第一支敲击金属乐队，1981年10月28日成立于美国加州洛杉矶。起源是鼓手拉尔斯·乌尔里希在当地报纸刊登招募成员的广告，前去应征的是主唱兼吉他手詹姆斯·海特菲尔德。金属乐队目前的阵容共计四人，包括两位创始成员詹姆斯·海特菲尔德和拉尔斯·乌尔里希、长期吉他手柯克·哈米特，以及贝斯手罗伯特·特鲁希略。",
   "introLang": "zh",
   "lore": "1983年，Dave Mustaine因酗酒、药物及与成员的冲突被Metallica开除，随后组建Megadeth，并公开表示要做出更快、更重的音乐。双方围绕开除方式与早期歌曲署名的紧张关系延续多年，后来也曾共同参加Big Four演出。",
   "loreSources": [
@@ -49,31 +49,31 @@
     }
   ],
   "tracks": [
-    "無關緊要",
-    "睡魔入侵",
-    "孤寂",
-    "喪鐘為誰而鳴注 (金屬製品的歌曲)",
-    "直到入眠"
+    "Nothing Else Matters",
+    "Enter Sandman",
+    "One",
+    "Fade to Black",
+    "For Whom the Bell Tolls"
   ],
   "trackSources": [
     {
-      "title": "無關緊要"
+      "title": "Nothing Else Matters"
     },
     {
-      "title": "睡魔入侵"
+      "title": "Enter Sandman"
     },
     {
-      "title": "孤寂"
+      "title": "One"
     },
     {
-      "title": "喪鐘為誰而鳴注 (金屬製品的歌曲)"
+      "title": "Fade to Black"
     },
     {
-      "title": "直到入眠"
+      "title": "For Whom the Bell Tolls"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/3996865",
+    "apple": "https://music.apple.com/cn/artist/metallica/3996865",
     "spotify": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003WnKZm09up2F",
     "netease": "https://y.music.163.com/m/artist?id=38851"

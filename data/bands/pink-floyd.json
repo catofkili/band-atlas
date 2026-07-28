@@ -43,34 +43,34 @@
       "year": 1973
     }
   ],
-  "intro": "平克·弗洛伊德是一支于伦敦成立的英国摇滚乐队，他们最初以迷幻摇滚与太空摇滚音乐赢得知名度，而后逐渐发展为前卫摇滚乐队，并获得国际声誉。平克·弗洛伊德以哲学的歌词、音速试验、创新的专辑封面艺术与精致的现场表演闻名。他们是流行音乐史上最具商业成功与音乐影响力的摇滚乐队之一，在全球坐拥超过2.5亿的唱片销售量，仅美国就有7450万。",
+  "intro": "Pink Floyd是一支于伦敦成立的英国摇滚乐队，他们最初以迷幻摇滚与太空摇滚音乐赢得知名度，而后逐渐发展为前卫摇滚乐队，并获得国际声誉。平克·弗洛伊德以哲学的歌词、音速试验、创新的专辑封面艺术与精致的现场表演闻名。他们是流行音乐史上最具商业成功与音乐影响力的摇滚乐队之一，在全球坐拥超过2.5亿的唱片销售量，仅美国就有7450万。",
   "introLang": "zh",
   "tracks": [
-    "アーノルド・レーン",
+    "Arnold Layne",
     "Have a Cigar",
-    "吹けよ風、呼べよ嵐",
+    "One of These Days",
     "Free Four",
-    "シーマスのブルース"
+    "Seamus"
   ],
   "trackSources": [
     {
-      "title": "アーノルド・レーン"
+      "title": "Arnold Layne"
     },
     {
       "title": "Have a Cigar"
     },
     {
-      "title": "吹けよ風、呼べよ嵐"
+      "title": "One of These Days"
     },
     {
       "title": "Free Four"
     },
     {
-      "title": "シーマスのブルース"
+      "title": "Seamus"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/487143",
+    "apple": "https://music.apple.com/cn/artist/pink-floyd/487143",
     "spotify": "https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0003JU6A2qkt9w",
     "netease": "https://y.music.163.com/m/artist?id=98541"

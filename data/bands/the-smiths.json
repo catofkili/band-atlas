@@ -41,7 +41,7 @@
       "year": 1991
     }
   ],
-  "intro": "史密斯乐队是一支1982年在曼彻斯特成立的英国摇滚乐队，由主唱莫里西、吉他手约翰尼·马尔、贝斯手安迪·鲁尔克和鼓手迈克·乔伊斯组成，其中莫里西和马尔合作进行音乐创作。史密斯乐队被认为是20世纪80年代英国独立音乐界最重要的乐队之一，代表着当时的青年文化与反建制风潮，并使以吉他为主的音乐重回英国主流市场。",
+  "intro": "The Smiths是一支1982年在曼彻斯特成立的英国摇滚乐队，由主唱莫里西、吉他手约翰尼·马尔、贝斯手安迪·鲁尔克和鼓手迈克·乔伊斯组成，其中莫里西和马尔合作进行音乐创作。史密斯乐队被认为是20世纪80年代英国独立音乐界最重要的乐队之一，代表着当时的青年文化与反建制风潮，并使以吉他为主的音乐重回英国主流市场。",
   "introLang": "zh",
   "lore": "The Smiths内部关系持续紧张，并于1987年解散；此后成员间的版税争议进入法院。多名成员后来都表示不愿重组，使这场分裂成为乐队历史的一部分。",
   "loreSources": [
@@ -51,31 +51,31 @@
     }
   ],
   "tracks": [
-    "ディス・チャーミング・マン",
-    "ゼア・イズ・ア・ライト",
+    "This Charming Man",
+    "There Is a Light That Never Goes Out",
     "Bigmouth Strikes Again",
-    "パニック",
-    "ハンド・イン・グローブ"
+    "Hand in Glove",
+    "Panic"
   ],
   "trackSources": [
     {
-      "title": "ディス・チャーミング・マン"
+      "title": "This Charming Man"
     },
     {
-      "title": "ゼア・イズ・ア・ライト"
+      "title": "There Is a Light That Never Goes Out"
     },
     {
       "title": "Bigmouth Strikes Again"
     },
     {
-      "title": "パニック"
+      "title": "Hand in Glove"
     },
     {
-      "title": "ハンド・イン・グローブ"
+      "title": "Panic"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/829538",
+    "apple": "https://music.apple.com/cn/artist/the-smiths/829538",
     "spotify": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000NnQy236e9HH",
     "netease": "https://y.music.163.com/m/artist?id=102018"

@@ -42,34 +42,34 @@
       "year": 1973
     }
   ],
-  "intro": "谁人乐队是一支英国摇滚乐队，他们在1964年成军。乐队后来成为一直以来最受高评和最受欢迎的摇滚艺术家之一，其现场演出尤其被推崇备至，被形容为“可能是史上最佳的现场演出乐团”。破坏乐器，包括砸吉他、打破鼓组、甩麦克风、吉他大风车等经典舞台动作都是由他们开创的。",
+  "intro": "The Who是一支英国摇滚乐队，他们在1964年成军。乐队后来成为一直以来最受高评和最受欢迎的摇滚艺术家之一，其现场演出尤其被推崇备至，被形容为“可能是史上最佳的现场演出乐团”。破坏乐器，包括砸吉他、打破鼓组、甩麦克风、吉他大风车等经典舞台动作都是由他们开创的。",
   "introLang": "zh",
   "tracks": [
-    "ユー・ベター・ユー・ベット",
-    "愛，統治我",
-    "蜘蛛戰士",
-    "The Acid Queen",
-    "クイック・ワン"
+    "Love, Reign o'er Me",
+    "You Better You Bet",
+    "Boris the Spider",
+    "A Quick One, While He's Away",
+    "The Acid Queen"
   ],
   "trackSources": [
     {
-      "title": "ユー・ベター・ユー・ベット"
+      "title": "Love, Reign o'er Me"
     },
     {
-      "title": "愛，統治我"
+      "title": "You Better You Bet"
     },
     {
-      "title": "蜘蛛戰士"
+      "title": "Boris the Spider"
+    },
+    {
+      "title": "A Quick One, While He's Away"
     },
     {
       "title": "The Acid Queen"
-    },
-    {
-      "title": "クイック・ワン"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/61499",
+    "apple": "https://music.apple.com/cn/artist/the-who/61499",
     "spotify": "https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002wghUd2C13yV",
     "netease": "https://y.music.163.com/m/artist?id=102004"

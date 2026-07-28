@@ -41,34 +41,34 @@
       "year": 2005
     }
   ],
-  "intro": "杰米罗奎是一支来自伦敦的英国放克和酸爵士乐队。该乐队成立于1992年，由主唱杰·凯领军，并在1990年代的伦敦放克和酸爵士运动中占据重要地位。他们在早期发行的作品中延续酸爵士的风格，后来又从摇滚、迪斯科、电子音乐和拉丁音乐中吸取灵感。",
+  "intro": "Jamiroquai是一支来自伦敦的英国放克和酸爵士乐队。该乐队成立于1992年，由主唱杰·凯领军，并在1990年代的伦敦放克和酸爵士运动中占据重要地位。他们在早期发行的作品中延续酸爵士的风格，后来又从摇滚、迪斯科、电子音乐和拉丁音乐中吸取灵感。",
   "introLang": "zh",
   "tracks": [
-    "虛幻的瘋狂",
-    "オールライト (ジャミロクワイの曲)",
-    "コズミック・ガール",
-    "リトル・エル",
-    "罐頭熱"
+    "Virtual Insanity",
+    "Alright",
+    "Cosmic Girl",
+    "Canned Heat",
+    "Little L"
   ],
   "trackSources": [
     {
-      "title": "虛幻的瘋狂"
+      "title": "Virtual Insanity"
     },
     {
-      "title": "オールライト (ジャミロクワイの曲)"
+      "title": "Alright"
     },
     {
-      "title": "コズミック・ガール"
+      "title": "Cosmic Girl"
     },
     {
-      "title": "リトル・エル"
+      "title": "Canned Heat"
     },
     {
-      "title": "罐頭熱"
+      "title": "Little L"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/475902",
+    "apple": "https://music.apple.com/cn/artist/jamiroquai/475902",
     "spotify": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000tq0zY0A7G3l",
     "netease": "https://y.music.163.com/m/artist?id=60935"

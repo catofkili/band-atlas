@@ -40,30 +40,30 @@
   "introLang": "zh",
   "tracks": [
     "Happy Birthday",
-    "WORLD QUEST/拍拍肚子咕嚕叫",
-    "愛的嘉卡芭娜",
+    "WORLD QUEST/ポコポンペコーリャ",
+    "チャンカパーナ",
     "Fighting Man",
-    "KAGUYA (NewS 單曲 2015)"
+    "KAGUYA"
   ],
   "trackSources": [
     {
       "title": "Happy Birthday"
     },
     {
-      "title": "WORLD QUEST/拍拍肚子咕嚕叫"
+      "title": "WORLD QUEST/ポコポンペコーリャ"
     },
     {
-      "title": "愛的嘉卡芭娜"
+      "title": "チャンカパーナ"
     },
     {
       "title": "Fighting Man"
     },
     {
-      "title": "KAGUYA (NewS 單曲 2015)"
+      "title": "KAGUYA"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1765474507",
+    "apple": "https://music.apple.com/cn/artist/news/1765474507",
     "spotify": "https://open.spotify.com/artist/2Sw8snRnez7gVPNd9UU07o",
     "netease": "https://y.music.163.com/m/artist?id=20731"
   },

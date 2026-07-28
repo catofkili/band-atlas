@@ -42,34 +42,34 @@
       "year": 1977
     }
   ],
-  "intro": "皇后乐队是英国摇滚乐乐队，成立于1970年，成员包括主唱弗雷迪·默丘里、吉他手布赖恩·梅、鼓手罗杰·泰勒、贝斯手约翰·迪肯，乐队最初期的作品受到前卫摇滚、硬摇滚和重金属音乐的影响，后来逐渐尝试往传统和电台广播的作品迈进，将其他风格像歌剧、民谣、艺术摇滚、竞技场摇滚和流行摇滚融入音乐中，对世界乐坛留下深远影响。",
+  "intro": "Queen是英国摇滚乐乐队，成立于1970年，成员包括主唱弗雷迪·默丘里、吉他手布赖恩·梅、鼓手罗杰·泰勒、贝斯手约翰·迪肯，乐队最初期的作品受到前卫摇滚、硬摇滚和重金属音乐的影响，后来逐渐尝试往传统和电台广播的作品迈进，将其他风格像歌剧、民谣、艺术摇滚、竞技场摇滚和流行摇滚融入音乐中，对世界乐坛留下深远影响。",
   "introLang": "zh",
   "tracks": [
-    "表演必须继续",
-    "Somebody to Love (皇后乐队歌曲)",
-    "又掛了一個",
-    "Killer Queen (歌曲)",
+    "The Show Must Go On",
+    "Somebody to Love",
+    "Another One Bites the Dust",
+    "Killer Queen",
     "I Want It All"
   ],
   "trackSources": [
     {
-      "title": "表演必须继续"
+      "title": "The Show Must Go On"
     },
     {
-      "title": "Somebody to Love (皇后乐队歌曲)"
+      "title": "Somebody to Love"
     },
     {
-      "title": "又掛了一個"
+      "title": "Another One Bites the Dust"
     },
     {
-      "title": "Killer Queen (歌曲)"
+      "title": "Killer Queen"
     },
     {
       "title": "I Want It All"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/3296287",
+    "apple": "https://music.apple.com/cn/artist/queen/3296287",
     "spotify": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002KTnqQ0l2975",
     "netease": "https://y.music.163.com/m/artist?id=41906"

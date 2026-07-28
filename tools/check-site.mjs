@@ -48,7 +48,7 @@ const bands = await Promise.all(
 const musicLinkPatterns = {
   qq: /^https:\/\/i\.y\.qq\.com\/n2\/m\/share\/details\/singer\.html\?ADTAG=newyqq\.singer&singermid=[A-Za-z0-9]+$/,
   netease: /^https:\/\/y\.music\.163\.com\/m\/artist\?id=\d+$/,
-  apple: /^https:\/\/music\.apple\.com\/[a-z]{2}\/artist\/[^/]+\/\d+$/,
+  apple: /^https:\/\/music\.apple\.com\/cn\/artist\/(?!band-atlas\/|id-\d+\/)[^/]+\/\d+$/,
   spotify: /^https:\/\/open\.spotify\.com\/artist\/[A-Za-z0-9]+$/,
 };
 const verifiedMusicArtists = Object.entries(musicLinks.artists ?? {});
@@ -157,6 +157,47 @@ if (
   fishmansPlus?.name !== 'Fishmans+'
 ) {
   throw new Error('Fishmans 主显示名、日文别名或 Fishmans+ 区分不正确');
+}
+
+const tenaciousD = bands.find((band) => band.id === 'tenacious-d');
+if (
+  tenaciousD?.musicLinks?.apple !==
+    'https://music.apple.com/cn/artist/tenacious-d/1166315' ||
+  !tenaciousD.intro?.startsWith('Tenacious D') ||
+  /顽强的D|摇滚之神|浴火重生/.test(tenaciousD.intro ?? '')
+) {
+  throw new Error('Tenacious D 的 Apple Music 主页或原文专名回退');
+}
+const radiohead = bands.find((band) => band.id === 'radiohead');
+if (
+  !['Creep', 'Karma Police', 'Paranoid Android'].every((title) =>
+    radiohead?.tracks?.includes(title)
+  ) ||
+  /电台司令|亲爱的派伯诺/.test(radiohead?.intro ?? '')
+) {
+  throw new Error('西方艺人的代表曲重新使用中文或日文译名');
+}
+const originalNameRegressions = [
+  ['a-perfect-circle', /名之海|第十三阶|情绪渲染|工具乐团/],
+  ['king-crimson', /在猩红之王的宫廷里/],
+  ['fort-minor', /火线同盟|林肯公园/],
+  ['the-yardbirds', /为了你的爱/],
+  ['dead-by-sunrise', /黑暗曙光|破土重生/],
+  ['metallica', /重Metallica|敲击Metallica/],
+];
+for (const [id, translated] of originalNameRegressions) {
+  const band = bands.find((item) => item.id === id);
+  if (!band?.intro?.includes(band.name) || translated.test(band.intro)) {
+    throw new Error(`简介中的乐队、专辑或歌曲原名回退：${id}`);
+  }
+}
+const rancid = bands.find((band) => band.id === 'rancid');
+const peteBestBand = bands.find((band) => band.id === 'the-pete-best-band');
+if (
+  !rancid?.intro?.includes('于1991年成立') ||
+  peteBestBand?.intro?.startsWith('The Pete Best Band是英国鼓手')
+) {
+  throw new Error('句中“也是”或人物传记被误当成乐队译名');
 }
 
 const versions = [

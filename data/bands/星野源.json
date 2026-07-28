@@ -50,8 +50,8 @@
   "introLang": "zh",
   "tracks": [
     "恋",
-    "多啦A夢",
-    "Crazy Crazy/櫻花森林",
+    "ドラえもん",
+    "Crazy Crazy/桜の森",
     "Cube",
     "Eureka"
   ],
@@ -60,10 +60,10 @@
       "title": "恋"
     },
     {
-      "title": "多啦A夢"
+      "title": "ドラえもん"
     },
     {
-      "title": "Crazy Crazy/櫻花森林"
+      "title": "Crazy Crazy/桜の森"
     },
     {
       "title": "Cube"
@@ -73,7 +73,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/269598403",
+    "apple": "https://music.apple.com/cn/artist/%E6%98%9F%E9%87%8E%E6%BA%90/269598403",
     "spotify": "https://open.spotify.com/artist/1S2S00lgLYLGHWA44qGEUs",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004JLZ9l0LMAPl",
     "netease": "https://y.music.163.com/m/artist?id=14242"

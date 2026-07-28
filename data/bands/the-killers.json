@@ -40,15 +40,15 @@
   "intro": "杀手乐队 (The Killers)是一个来自美国内华达州拉斯维加斯的乐团。在2001年由Brandon Flowers (主唱、键盘、贝斯) 以及Dave Keuning (主音吉他、合音) 组成。Mark Stoermer (贝斯、节奏吉他、合音) 和Ronnie Vannucci Jr.(鼓手) 在2002年加入，组成了现在的成员组合。",
   "introLang": "zh",
   "tracks": [
-    "ミスター・ブライトサイド",
+    "Mr. Brightside",
     "Somebody Told Me",
     "Human",
     "All These Things That I've Done",
-    "年少輕狂"
+    "When You Were Young"
   ],
   "trackSources": [
     {
-      "title": "ミスター・ブライトサイド"
+      "title": "Mr. Brightside"
     },
     {
       "title": "Somebody Told Me"
@@ -60,11 +60,11 @@
       "title": "All These Things That I've Done"
     },
     {
-      "title": "年少輕狂"
+      "title": "When You Were Young"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/6483093",
+    "apple": "https://music.apple.com/cn/artist/the-killers/6483093",
     "spotify": "https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000knqnm1Gggj0",
     "netease": "https://y.music.163.com/m/artist?id=101991"

@@ -38,7 +38,7 @@
   "intro": "优里是一位日本创作男歌手、YouTuber。所属经纪公司为日本索尼音乐娱乐，唱片公司为旗下的Ariola Japan。",
   "introLang": "zh",
   "tracks": [
-    "乾燥花",
+    "ドライフラワー",
     "インフィニティ",
     "うぉ",
     "おにごっこ",
@@ -46,7 +46,7 @@
   ],
   "trackSources": [
     {
-      "title": "乾燥花"
+      "title": "ドライフラワー"
     },
     {
       "title": "インフィニティ"
@@ -62,7 +62,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1489331027",
+    "apple": "https://music.apple.com/cn/artist/yuuri/1489331027",
     "spotify": "https://open.spotify.com/artist/0ixzjrK1wkN2zWBXt3VW3W",
     "netease": "https://y.music.163.com/m/artist?id=36723470"
   },

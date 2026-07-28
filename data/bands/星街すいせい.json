@@ -30,18 +30,18 @@
   "intro": "星街彗星，是日本的虚拟YouTuber、虚拟偶像、歌手。所属事务所为hololive。同时为TOY'S FACTORY所属音乐组合Midnight Grand Orchestra成员，在组合中担任主唱与部分歌曲作词。",
   "introLang": "zh",
   "tracks": [
-    "I don't care",
-    "瞄準月亮",
+    "もうどうなってもいいや",
+    "月に向かって撃て",
     "GHOST",
     "NEXT COLOR PLANET",
     "ソワレ"
   ],
   "trackSources": [
     {
-      "title": "I don't care"
+      "title": "もうどうなってもいいや"
     },
     {
-      "title": "瞄準月亮"
+      "title": "月に向かって撃て"
     },
     {
       "title": "GHOST"
@@ -54,7 +54,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1503670948",
+    "apple": "https://music.apple.com/cn/artist/hoshimachi-suisei/1503670948",
     "spotify": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX",
     "netease": "https://y.music.163.com/m/artist?id=47665851",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002Ct90Q33zZbT"

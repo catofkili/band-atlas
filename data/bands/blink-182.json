@@ -38,34 +38,34 @@
       "year": 2001
     }
   ],
-  "intro": "眨眼182出身于美国是加利福尼亚州的摇滚三重唱乐队，擅长玩流行朋克及朋克摇滚。该乐队于1992年由主音暨吉他手汤姆·德朗、低音马克·霍普斯成立。",
+  "intro": "blink‐182是加利福尼亚州的摇滚三重唱乐队，擅长玩流行朋克及朋克摇滚。该乐队于1992年由主音暨吉他手汤姆·德朗、低音马克·霍普斯成立。",
   "introLang": "zh",
   "tracks": [
-    "ホワッツ・マイ・エイジ・アゲイン?",
-    "I Miss You (블링크-182의 노래)",
+    "What's My Age Again?",
+    "I Miss You",
+    "Adam's Song",
     "Feeling This",
-    "アダムズ・ソング",
-    "ファースト・デイト"
+    "First Date"
   ],
   "trackSources": [
     {
-      "title": "ホワッツ・マイ・エイジ・アゲイン?"
+      "title": "What's My Age Again?"
     },
     {
-      "title": "I Miss You (블링크-182의 노래)"
+      "title": "I Miss You"
+    },
+    {
+      "title": "Adam's Song"
     },
     {
       "title": "Feeling This"
     },
     {
-      "title": "アダムズ・ソング"
-    },
-    {
-      "title": "ファースト・デイト"
+      "title": "First Date"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/116851",
+    "apple": "https://music.apple.com/cn/artist/blink-182/116851",
     "spotify": "https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0001obLs1uriIJ",
     "netease": "https://y.music.163.com/m/artist?id=88156"

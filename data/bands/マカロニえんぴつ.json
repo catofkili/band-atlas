@@ -41,14 +41,17 @@
   "introLang": "zh",
   "tracks": [
     "たましいの居場所",
+    "なんでもないよ、",
     "はしりがき",
     "メレンゲ",
-    "恋人ごっこ",
-    "沒什麼"
+    "恋人ごっこ"
   ],
   "trackSources": [
     {
       "title": "たましいの居場所"
+    },
+    {
+      "title": "なんでもないよ、"
     },
     {
       "title": "はしりがき"
@@ -58,13 +61,10 @@
     },
     {
       "title": "恋人ごっこ"
-    },
-    {
-      "title": "沒什麼"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/956011835",
+    "apple": "https://music.apple.com/cn/artist/macaroni-empitsu/956011835",
     "spotify": "https://open.spotify.com/artist/1t17z3vfuc82cxSDMrvryJ",
     "netease": "https://y.music.163.com/m/artist?id=31209094"
   },

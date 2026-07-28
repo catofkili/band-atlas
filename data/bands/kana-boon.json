@@ -40,24 +40,24 @@
   "intro": "KANA-BOON是日本的摇滚乐队，于2008年结成。唱片公司为Ki/oon Music。",
   "introLang": "zh",
   "tracks": [
-    "Starmarker",
-    "剪影",
-    "Diver",
+    "スターマーカー",
+    "シルエット (曲)",
     "Torch of Liberty",
+    "ダイバー",
     "バトンロード"
   ],
   "trackSources": [
     {
-      "title": "Starmarker"
+      "title": "スターマーカー"
     },
     {
-      "title": "剪影"
-    },
-    {
-      "title": "Diver"
+      "title": "シルエット (曲)"
     },
     {
       "title": "Torch of Liberty"
+    },
+    {
+      "title": "ダイバー"
     },
     {
       "title": "バトンロード"
@@ -65,7 +65,7 @@
   ],
   "musicLinks": {
     "spotify": "https://open.spotify.com/artist/3PWp9R5HvbQgxI5KBx5kVd",
-    "apple": "https://music.apple.com/us/artist/band-atlas/633973271",
+    "apple": "https://music.apple.com/cn/artist/kana-boon/633973271",
     "netease": "https://y.music.163.com/m/artist?id=731025"
   },
   "listens": 88869,

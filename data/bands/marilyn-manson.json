@@ -39,18 +39,18 @@
       "year": 2000
     }
   ],
-  "intro": "玛丽莲·曼森是美国工业摇滚的音乐团体，以主唱的艺名命名。它的乐风属于歌德式工业金属曲风，从1994年到2009年也有不同的变化。",
+  "intro": "Marilyn Manson是美国工业摇滚的音乐团体，以主唱的艺名命名。它的乐风属于歌德式工业金属曲风，从1994年到2009年也有不同的变化。",
   "introLang": "zh",
   "tracks": [
-    "美丽人民",
+    "The Beautiful People",
     "Coma White",
     "Heart-Shaped Glasses (When the Heart Guides the Hand)",
-    "ディス・イズ・ザ・ニュー・シット",
+    "This Is the New Shit",
     "Disposable Teens"
   ],
   "trackSources": [
     {
-      "title": "美丽人民"
+      "title": "The Beautiful People"
     },
     {
       "title": "Coma White"
@@ -59,7 +59,7 @@
       "title": "Heart-Shaped Glasses (When the Heart Guides the Hand)"
     },
     {
-      "title": "ディス・イズ・ザ・ニュー・シット"
+      "title": "This Is the New Shit"
     },
     {
       "title": "Disposable Teens"
@@ -67,7 +67,7 @@
   ],
   "musicLinks": {
     "spotify": "https://open.spotify.com/artist/2VYQTNDsvvKN9wmU5W7xpj",
-    "apple": "https://music.apple.com/us/artist/band-atlas/251375",
+    "apple": "https://music.apple.com/cn/artist/marilyn-manson/251375",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004OeRtl02fK3q",
     "netease": "https://y.music.163.com/m/artist?id=96268"
   },

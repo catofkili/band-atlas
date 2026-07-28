@@ -21,10 +21,10 @@
       "year": 2005
     }
   ],
-  "intro": "黑暗堡垒是乐团林肯公园的主要MC迈克尔·篠田于2005年以单飞不解散名义创立的新的说唱组合，并发行他自己所创立此团的首张专辑《火线同盟》。 篠田为此团首脑，还有来自美国知名的地下嘻哈团体Style Of Beyond的三位成员加入此团，且他们占此团重要性和专辑不可或缺的嘻哈狂潮力量，也在他们专辑中可以看见和听见他们的演出声影。",
+  "intro": "Fort Minor是乐团Linkin Park的主要MC迈克尔·篠田于2005年以单飞不解散名义创立的新的说唱组合，并发行他自己所创立此团的首张专辑《The Rising Tied》。 篠田为此团首脑，还有来自美国知名的地下嘻哈团体Style Of Beyond的三位成员加入此团，且他们占此团重要性和专辑不可或缺的嘻哈狂潮力量，也在他们专辑中可以看见和听见他们的演出声影。",
   "introLang": "zh",
   "tracks": [
-    "Believe Me (포트 마이너의 노래)",
+    "Believe Me",
     "Welcome",
     "Where'd You Go",
     "S.C.O.M. / Dolla / Get It / Spraypaint & Ink Pens",
@@ -32,7 +32,7 @@
   ],
   "trackSources": [
     {
-      "title": "Believe Me (포트 마이너의 노래)"
+      "title": "Believe Me"
     },
     {
       "title": "Welcome"
@@ -49,7 +49,7 @@
   ],
   "musicLinks": {
     "spotify": "https://open.spotify.com/artist/7dWYWUbO68rXJOcyA7SpJk",
-    "apple": "https://music.apple.com/us/artist/band-atlas/80800060",
+    "apple": "https://music.apple.com/cn/artist/fort-minor/80800060",
     "netease": "https://y.music.163.com/m/artist?id=33358",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004IPRqr2thYg4"
   },

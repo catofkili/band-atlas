@@ -41,27 +41,27 @@
   "intro": "塑胶小野乐队是约翰·蓝侬和小野洋子宣告的乐队概念，在1969年披头士乐队解散前成立。",
   "introLang": "zh",
   "tracks": [
-    "給和平一個機會",
-    "パワー・トゥ・ザ・ピープル",
-    "戒断反应",
+    "Give Peace a Chance",
+    "Cold Turkey",
+    "Power to the People",
     "Open Your Box",
-    "京子ちゃん心配しないで"
+    "Don't Worry Kyoko (Mummy's Only Looking for Her Hand in the Snow)"
   ],
   "trackSources": [
     {
-      "title": "給和平一個機會"
+      "title": "Give Peace a Chance"
     },
     {
-      "title": "パワー・トゥ・ザ・ピープル"
+      "title": "Cold Turkey"
     },
     {
-      "title": "戒断反应"
+      "title": "Power to the People"
     },
     {
       "title": "Open Your Box"
     },
     {
-      "title": "京子ちゃん心配しないで"
+      "title": "Don't Worry Kyoko (Mummy's Only Looking for Her Hand in the Snow)"
     }
   ],
   "musicLinks": {

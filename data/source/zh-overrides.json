@@ -3,7 +3,35 @@
   "names": {
     "フィッシュマンズ": "Fishmans"
   },
+  "introReplacements": {
+    "radiohead": {
+      "电台司令": "Radiohead",
+      "《亲爱的派伯诺》": "《Pablo Honey》"
+    },
+    "a-perfect-circle": {
+      "工具乐团": "Tool",
+      "《名之海》": "《Mer de noms》",
+      "《第十三阶》": "《Thirteenth Step》",
+      "《情绪渲染》": "《eMOTIVe》"
+    },
+    "king-crimson": {
+      "《在猩红之王的宫廷里(In the Court of the Crimson King)》": "《In the Court of the Crimson King》"
+    },
+    "fort-minor": {
+      "林肯公园": "Linkin Park",
+      "《火线同盟》": "《The Rising Tied》"
+    },
+    "the-yardbirds": {
+      "《为了你的爱》": "《For Your Love》"
+    },
+    "rancid": {
+      "腐臭乐队": "Rancid"
+    }
+  },
   "intros": {
+    "tenacious-d": "Tenacious D是Jack Black与Kyle Gass于1994年在洛杉矶组成的喜剧摇滚二人组。三张核心录音室专辑是《Tenacious D》《The Pick of Destiny》和《Rize of the Fenix》；现场扩编时，John Konesky与John Spiker等乐手会加入阵容。乐队把硬摇滚演奏、夸张角色表演和喜剧叙事结合在一起，《Tribute》《Wonderboy》和《Kickapoo》是理解这种风格最直接的作品。",
+    "dead-by-sunrise": "Dead by Sunrise是Chester Bennington在Linkin Park之外发展的摇滚项目，固定合作成员包括Amir Derakh、Ryan Shuck、Brandon Belsky、Elias Andra与Anthony Valcic。2009年唯一的录音室专辑《Out of Ashes》把Bennington更阴郁、直接的写作放进另类摇滚与电子摇滚编曲；《Crawl Back In》《Let Down》和《Fire》是这套声音的主要入口。",
+    "the-pete-best-band": "The Pete Best Band是Pete Best围绕个人演出与早期The Beatles曲目组织的巡演乐队，而不是Pete Best本人的传记条目。乐队以Best的鼓手经历为核心，在现场重访The Beatles正式出道前的Liverpool与Hamburg时期，也演奏后来发行的个人作品；其意义主要在于把早期成员历史转化成持续的现场项目。",
     "slash-featuring-myles-kennedy-and-the-conspirato": "Slash featuring Myles Kennedy and the Conspirators源于Slash在2010年个人专辑之后组织的巡演班底：Alter Bridge主唱Myles Kennedy负责主唱，Todd Kerns担任贝斯与和声，Brent Fitz负责鼓，Frank Sidoris后来固定担任节奏吉他。2012年的《Apocalyptic Love》第一次以这套名称正式发行，此后的《World on Fire》《Living the Dream》和《4》让它从明星吉他手的伴奏组发展成阵容稳定的硬摇滚乐队；Slash的长篇吉他独奏、Kennedy高亢而清晰的声线和现场录制感，是理解它的三个入口。",
     "the-vanguard": "The Vanguard是D’Angelo在《Black Messiah》时期使用的乐队署名，而不是与他分离活动的普通团体。2014年的专辑把Pino Palladino的贝斯、Chris Dave的鼓、Jesse Johnson与Isaiah Sharkey的吉他、Kendra Foster的和声等音乐人组织成一套松动却精密的节奏系统，在放克、灵魂乐、摇滚和爵士之间不断变形。这个名字也强调《Black Messiah》并非单纯的个人回归作，而是一张由长期合作者共同塑造、并在舞台上继续生长的乐队唱片。",
     "the-rh-factor": "The RH Factor是小号手Roy Hargrove在2000年代初发起的跨界乐队。经历D’Angelo《Voodoo》巡演和Erykah Badu《Mama’s Gun》的合作后，Hargrove把硬博普即兴放进新灵魂乐、放克与嘻哈的节奏框架；2003年首张《Hard Groove》邀请D’Angelo、Erykah Badu、Common、Q-Tip和Meshell Ndegeocello等人参与，随后还有《Strength》和《Distractions》。它最重要的不是“爵士加说唱”的表面拼接，而是让小号、键盘与多层节奏组像一支真正的groove乐队那样互相推动。",
@@ -358,6 +386,10 @@
     "zavalaz": "Zavalaz是Cedric Bixler-Zavala在The Mars Volta暂停活动前后发展出的洛杉矶摇滚乐队，2013年正式公布的阵容包括吉他手Dan Elkan、贝斯手Juan Alderete与鼓手Gregory Rogove。音乐源自Cedric较柔和的个人创作，以70年代南加州电台流行、民谣摇滚和多声部和声为参照，刻意避开The Mars Volta的高密度前卫摇滚。乐队完成短期巡演，但计划中的《All Those Nights We Never Met》未正式发行，项目在2014年后搁置。"
   },
   "introSources": {
+    "tenacious-d": [
+      { "label": "Tenacious D官方站", "url": "https://www.tenaciousd.com/" },
+      { "label": "Apple Music艺人页", "url": "https://music.apple.com/cn/artist/tenacious-d/1166315" }
+    ],
     "slash-featuring-myles-kennedy-and-the-conspirato": [
       { "label": "Slash官方网站简介", "url": "https://www.slashonline.com/bio/" },
       { "label": "Warner Music Japan艺人简介", "url": "https://wmg.jp/slash/profile/" }

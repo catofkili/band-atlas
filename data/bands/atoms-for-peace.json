@@ -18,22 +18,22 @@
       "year": 2013
     }
   ],
-  "intro": "原子和平是一个英美超级乐团，成员包括电台司令词曲作家与主唱汤姆·约克、呛辣红椒吉他手Flea、电台司令制作人尼杰尔·歌德里希、贝克、R.E.M.鼓手Joey Waronker与Forro in the Dark打击乐手Mauro Refosco。",
+  "intro": "Atoms for Peace是一个英美超级乐团，成员包括电台司令词曲作家与主唱汤姆·约克、呛辣红椒吉他手Flea、电台司令制作人尼杰尔·歌德里希、贝克、R.E.M.鼓手Joey Waronker与Forro in the Dark打击乐手Mauro Refosco。",
   "introLang": "zh",
   "tracks": [
-    "Judge, Jury and Executioner",
-    "デフォルト"
+    "Default",
+    "Judge, Jury and Executioner"
   ],
   "trackSources": [
     {
-      "title": "Judge, Jury and Executioner"
+      "title": "Default"
     },
     {
-      "title": "デフォルト"
+      "title": "Judge, Jury and Executioner"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/547192558",
+    "apple": "https://music.apple.com/cn/artist/%E5%8E%9F%E5%AD%90%E5%92%8C%E5%B9%B3%E4%B9%90%E9%98%9F/547192558",
     "spotify": "https://open.spotify.com/artist/7tA9Eeeb68kkiG9Nrvuzmi",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002cQyrR1R3DeX",
     "netease": "https://y.music.163.com/m/artist?id=123140201"

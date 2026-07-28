@@ -39,24 +39,24 @@
       "year": 2015
     }
   ],
-  "intro": "打倒男孩是一支流行朋克、另类摇滚曲风的乐团，他们来自美国伊利诺伊州的芝加哥，在2001年组成。乐团成员包括派崔克·史坦普、彼特·温兹乔·特洛曼、安迪·赫里。",
+  "intro": "Fall Out Boy是一支流行朋克、另类摇滚曲风的乐团，他们来自美国伊利诺伊州的芝加哥，在2001年组成。乐团成员包括派崔克·史坦普、彼特·温兹乔·特洛曼、安迪·赫里。",
   "introLang": "zh",
   "tracks": [
+    "Dance Dance",
+    "Sugar, We're Goin Down",
     "Thnks fr th Mmrs",
-    "シュガー、ウィアー・ゴーイン・ダウン",
-    "ダンス、ダンス",
     "My Songs Know What You Did in the Dark",
     "This Ain't a Scene, It's an Arms Race"
   ],
   "trackSources": [
     {
+      "title": "Dance Dance"
+    },
+    {
+      "title": "Sugar, We're Goin Down"
+    },
+    {
       "title": "Thnks fr th Mmrs"
-    },
-    {
-      "title": "シュガー、ウィアー・ゴーイン・ダウン"
-    },
-    {
-      "title": "ダンス、ダンス"
     },
     {
       "title": "My Songs Know What You Did in the Dark"
@@ -66,7 +66,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/28673423",
+    "apple": "https://music.apple.com/cn/artist/fall-out-boy/28673423",
     "spotify": "https://open.spotify.com/artist/4UXqAaa6dQYAk18Lv7PEgX",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003CKb192ggBqi",
     "netease": "https://y.music.163.com/m/artist?id=56782"

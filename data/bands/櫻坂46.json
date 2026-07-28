@@ -32,31 +32,31 @@
   "intro": "樱坂46是日本大型女子偶像团体，为继乃木坂46之后成立的第2个“坂道系列”团体，成立于2015年8月21日，原暂名为“鸟居坂46”，结成时定名为“榉坂46”，2020年10月14日起改为现名，总制作人为秋元康。目前有31名成员，队长由松田里奈担任、副队长由山﨑天担任。",
   "introLang": "zh",
   "tracks": [
-    "兩人季節",
-    "沉默的多數",
-    "不协和音",
-    "就算風吹",
-    "打破玻璃！"
+    "サイレントマジョリティー",
+    "二人セゾン",
+    "ガラスを割れ!",
+    "不協和音",
+    "世界には愛しかない"
   ],
   "trackSources": [
     {
-      "title": "兩人季節"
+      "title": "サイレントマジョリティー"
     },
     {
-      "title": "沉默的多數"
+      "title": "二人セゾン"
     },
     {
-      "title": "不协和音"
+      "title": "ガラスを割れ!"
     },
     {
-      "title": "就算風吹"
+      "title": "不協和音"
     },
     {
-      "title": "打破玻璃！"
+      "title": "世界には愛しかない"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1096512501",
+    "apple": "https://music.apple.com/cn/artist/keyakizaka46/1096512501",
     "spotify": "https://open.spotify.com/artist/03E7w8NrBr4lNCK33TQyil",
     "netease": "https://y.music.163.com/m/artist?id=36908026"
   },

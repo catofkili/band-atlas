@@ -35,35 +35,35 @@
       "year": 2003
     }
   ],
-  "intro": "雏鸟乐团是一支英国摇滚乐队，在1960年代中期作有一系列热门歌曲，包括《为了你的爱》、《Over Under Sideways Down》和《Heart Full of Soul》。 乐队闻名于三名摇滚乐坛最著名的主音吉他手：埃里克·克莱普顿、吉米·佩奇和杰夫·贝克，三人都是经由这支乐队开始各自的音乐事业，并入选了《滚石杂志》“最伟大的100位吉他手”榜单中的前5位。",
+  "intro": "The Yardbirds是一支英国摇滚乐队，在1960年代中期作有一系列热门歌曲，包括《For Your Love》、《Over Under Sideways Down》和《Heart Full of Soul》。 乐队闻名于三名摇滚乐坛最著名的主音吉他手：埃里克·克莱普顿、吉米·佩奇和杰夫·贝克，三人都是经由这支乐队开始各自的音乐事业，并入选了《滚石杂志》“最伟大的100位吉他手”榜单中的前5位。",
   "introLang": "zh",
   "tracks": [
-    "為了你的愛",
-    "ハートせつなく (ヤードバーズの曲)",
-    "いたずらっ娘",
-    "幻の10年",
-    "サイドウェイズ・ダウン"
+    "For Your Love",
+    "Heart Full of Soul",
+    "Evil Hearted You",
+    "Happenings Ten Years Time Ago",
+    "Over Under Sideways Down"
   ],
   "trackSources": [
     {
-      "title": "為了你的愛"
+      "title": "For Your Love"
     },
     {
-      "title": "ハートせつなく (ヤードバーズの曲)"
+      "title": "Heart Full of Soul"
     },
     {
-      "title": "いたずらっ娘"
+      "title": "Evil Hearted You"
     },
     {
-      "title": "幻の10年"
+      "title": "Happenings Ten Years Time Ago"
     },
     {
-      "title": "サイドウェイズ・ダウン"
+      "title": "Over Under Sideways Down"
     }
   ],
   "musicLinks": {
     "spotify": "https://open.spotify.com/artist/2lxX1ivRYp26soIavdG9bX",
-    "apple": "https://music.apple.com/us/artist/band-atlas/535787",
+    "apple": "https://music.apple.com/cn/artist/the-yardbirds/535787",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000U69Qy4FrYXj",
     "netease": "https://y.music.163.com/m/artist?id=102089"
   },

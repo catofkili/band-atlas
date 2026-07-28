@@ -42,34 +42,34 @@
       "year": 1995
     }
   ],
-  "intro": "红辣椒乐队是1982年成立于加州洛杉矶的美国另类摇滚乐队，现由主唱安东尼·基德斯、吉他手约翰·伏许安、贝斯手“跳蚤”麦可·巴札里及鼓手查德·史密斯组成。乐队音乐风格多变，主要由传统放克融合另类摇滚、朋克摇滚、迷幻摇滚等元素。",
+  "intro": "Red Hot Chili Peppers是1982年成立于加州洛杉矶的美国另类摇滚乐队，现由主唱安东尼·基德斯、吉他手约翰·伏许安、贝斯手“跳蚤”麦可·巴札里及鼓手查德·史密斯组成。乐队音乐风格多变，主要由传统放克融合另类摇滚、朋克摇滚、迷幻摇滚等元素。",
   "introLang": "zh",
   "tracks": [
-    "ギヴ・イット・アウェイ",
-    "アンダー・ザ・ブリッジ",
-    "Scar Tissue",
-    "ダニー・カリフォルニア",
-    "加利福尼亞化"
+    "Give It Away",
+    "Under the Bridge",
+    "Californication",
+    "Dani California",
+    "Scar Tissue"
   ],
   "trackSources": [
     {
-      "title": "ギヴ・イット・アウェイ"
+      "title": "Give It Away"
     },
     {
-      "title": "アンダー・ザ・ブリッジ"
+      "title": "Under the Bridge"
+    },
+    {
+      "title": "Californication"
+    },
+    {
+      "title": "Dani California"
     },
     {
       "title": "Scar Tissue"
-    },
-    {
-      "title": "ダニー・カリフォルニア"
-    },
-    {
-      "title": "加利福尼亞化"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/889780",
+    "apple": "https://music.apple.com/cn/artist/red-hot-chili-peppers/889780",
     "spotify": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000Wke7V2PVLjv",
     "netease": "https://y.music.163.com/m/artist?id=41927"

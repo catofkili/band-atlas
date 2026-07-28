@@ -52,31 +52,31 @@
   "intro": "ORANGE RANGE，是一队来自日本冲绳县的五人男子组合乐团。2003年凭一曲“上海HONEY”知名度大升，2004年凭多首优秀作品迅速走红。",
   "introLang": "zh",
   "tracks": [
-    "＊〜米字鍵〜",
-    "愛的大行進",
-    "冠軍之歌",
-    "太陽無用",
-    "羈絆"
+    "* 〜アスタリスク〜",
+    "ラヴ・パレード",
+    "イケナイ太陽",
+    "キズナ",
+    "チャンピオーネ"
   ],
   "trackSources": [
     {
-      "title": "＊〜米字鍵〜"
+      "title": "* 〜アスタリスク〜"
     },
     {
-      "title": "愛的大行進"
+      "title": "ラヴ・パレード"
     },
     {
-      "title": "冠軍之歌"
+      "title": "イケナイ太陽"
     },
     {
-      "title": "太陽無用"
+      "title": "キズナ"
     },
     {
-      "title": "羈絆"
+      "title": "チャンピオーネ"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/73789696",
+    "apple": "https://music.apple.com/cn/artist/%E6%A9%98%E5%AD%90%E6%96%B0%E4%B9%90%E5%9B%A2/73789696",
     "spotify": "https://open.spotify.com/artist/4upiYMjsFfLRieGo8RVRzD",
     "netease": "https://y.music.163.com/m/artist?id=20880"
   },

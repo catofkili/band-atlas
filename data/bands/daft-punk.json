@@ -33,34 +33,34 @@
       "year": 2013
     }
   ],
-  "intro": "蠢朋克是创立于法国巴黎的电子音乐团队，由托马斯·本高特和盖-马努尔·德奥梅姆-克里斯托两位DJ于1992年组成。他们将浩室与流行电音结合，在1990年代晚期浩室流行时逐渐成名，在法国1990年代的浩室浪潮中产生了非常大的影响，其所创作的音乐在法国浩室中扮演着重要的角色。",
+  "intro": "Daft Punk是创立于法国巴黎的电子音乐团队，由托马斯·本高特和盖-马努尔·德奥梅姆-克里斯托两位DJ于1992年组成。他们将浩室与流行电音结合，在1990年代晚期浩室流行时逐渐成名，在法国1990年代的浩室浪潮中产生了非常大的影响，其所创作的音乐在法国浩室中扮演着重要的角色。",
   "introLang": "zh",
   "tracks": [
-    "幸运儿 (蠢朋克歌曲)",
-    "星闻人物",
+    "Get Lucky",
+    "Starboy",
     "One More Time",
-    "感觉对了",
+    "I Feel It Coming",
     "Around the World"
   ],
   "trackSources": [
     {
-      "title": "幸运儿 (蠢朋克歌曲)"
+      "title": "Get Lucky"
     },
     {
-      "title": "星闻人物"
+      "title": "Starboy"
     },
     {
       "title": "One More Time"
     },
     {
-      "title": "感觉对了"
+      "title": "I Feel It Coming"
     },
     {
       "title": "Around the World"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/5468295",
+    "apple": "https://music.apple.com/cn/artist/daft-punk/5468295",
     "spotify": "https://open.spotify.com/artist/4tZwfgrHOc3mvqYlEYSvVi",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001jDJNV4ISof5",
     "netease": "https://y.music.163.com/m/artist?id=90513"

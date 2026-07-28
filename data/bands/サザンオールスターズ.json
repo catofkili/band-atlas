@@ -47,31 +47,31 @@
   "intro": "南方之星，是日本乐团。有着日本国民乐团之称。1978年6月25日以歌曲《任性的辛巴达》出道，团长为主唱及词曲创作人桑田佳祐。 出道至今其职业生涯已超过40年，并持续活跃着。南方之星是日本乐史上影响力最大的乐团之一，是日本的国民天团，唱片总销售量也以约4800万张居日本史上第四。",
   "introLang": "zh",
   "tracks": [
-    "海嘯",
-    "EROTICA SEVEN",
-    "LOVE AFFAIR ～秘密約會～",
-    "MANPY的G★SPOT",
-    "MISS BRAND-NEW DAY"
+    "TSUNAMI",
+    "I AM YOUR SINGER",
+    "LOVE AFFAIR 〜秘密のデート",
+    "あなただけを 〜Summer Heartbreak〜",
+    "いとしのエリー"
   ],
   "trackSources": [
     {
-      "title": "海嘯"
+      "title": "TSUNAMI"
     },
     {
-      "title": "EROTICA SEVEN"
+      "title": "I AM YOUR SINGER"
     },
     {
-      "title": "LOVE AFFAIR ～秘密約會～"
+      "title": "LOVE AFFAIR 〜秘密のデート"
     },
     {
-      "title": "MANPY的G★SPOT"
+      "title": "あなただけを 〜Summer Heartbreak〜"
     },
     {
-      "title": "MISS BRAND-NEW DAY"
+      "title": "いとしのエリー"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/671759255",
+    "apple": "https://music.apple.com/cn/artist/%E5%8D%97%E5%A4%A9%E7%BE%A4%E6%98%9F/671759255",
     "spotify": "https://open.spotify.com/artist/79nkC8XZ5ohEVU0Xlf5Ael",
     "netease": "https://y.music.163.com/m/artist?id=21310"
   },

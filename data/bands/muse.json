@@ -42,34 +42,34 @@
       "year": 2009
     }
   ],
-  "intro": "缪斯是一支英国摇滚乐队，于1994年在英国德文郡的泰格茅斯镇创立。乐风融合了独立摇滚、前卫摇滚、重金属音乐、古典音乐与电音。乐团以主唱马修·贝拉米对各种阴谋论、外星生物、神学以及末世预言等的怪异兴趣著称。三位成员分别为：马修·贝拉米、多明尼克·霍华德以及克里斯·沃斯坦荷姆。",
+  "intro": "Muse是一支英国摇滚乐队，于1994年在英国德文郡的泰格茅斯镇创立。乐风融合了独立摇滚、前卫摇滚、重金属音乐、古典音乐与电音。乐团以主唱马修·贝拉米对各种阴谋论、外星生物、神学以及末世预言等的怪异兴趣著称。三位成员分别为：马修·贝拉米、多明尼克·霍华德以及克里斯·沃斯坦荷姆。",
   "introLang": "zh",
   "tracks": [
-    "プラグ・イン・ベイビー",
-    "Uprising (노래)",
-    "ウノ",
-    "Cave (노래)",
-    "Neutron Star Collision"
+    "Plug in Baby",
+    "Uno",
+    "Uprising",
+    "Cave",
+    "Neutron Star Collision (Love Is Forever)"
   ],
   "trackSources": [
     {
-      "title": "プラグ・イン・ベイビー"
+      "title": "Plug in Baby"
     },
     {
-      "title": "Uprising (노래)"
+      "title": "Uno"
     },
     {
-      "title": "ウノ"
+      "title": "Uprising"
     },
     {
-      "title": "Cave (노래)"
+      "title": "Cave"
     },
     {
-      "title": "Neutron Star Collision"
+      "title": "Neutron Star Collision (Love Is Forever)"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1093360",
+    "apple": "https://music.apple.com/cn/artist/muse/1093360",
     "spotify": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0034gAQr2Z8jsi",
     "netease": "https://y.music.163.com/m/artist?id=96267"

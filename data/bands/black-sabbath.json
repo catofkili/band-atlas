@@ -41,34 +41,34 @@
       "year": 1975
     }
   ],
-  "intro": "黑色安息日是英国的硬式摇滚／重金属乐团，1968年成立于英国伯明翰，截至2017年共发行十九张录音室专辑。它的主要成员有奥茲·奥斯本，托尼·艾欧密，吉泽·巴特勒和比尔·沃德。乐团经历了多次阵容变化，托尼·艾欧密是其唯一不变的成员。",
+  "intro": "Black Sabbath是英国的硬式摇滚／重金属乐团，1968年成立于英国伯明翰，截至2017年共发行十九张录音室专辑。它的主要成员有奥茲·奥斯本，托尼·艾欧密，吉泽·巴特勒和比尔·沃德。乐团经历了多次阵容变化，托尼·艾欧密是其唯一不变的成员。",
   "introLang": "zh",
   "tracks": [
-    "墳墓之子",
-    "上帝已死？ (黑色安息日的歌曲)",
-    "血腥安息日 (歌曲)",
-    "N.I.B.",
-    "Neon Knights"
+    "Children of the Grave",
+    "God Is Dead?",
+    "Sabbath Bloody Sabbath",
+    "Into the Void",
+    "N.I.B."
   ],
   "trackSources": [
     {
-      "title": "墳墓之子"
+      "title": "Children of the Grave"
     },
     {
-      "title": "上帝已死？ (黑色安息日的歌曲)"
+      "title": "God Is Dead?"
     },
     {
-      "title": "血腥安息日 (歌曲)"
+      "title": "Sabbath Bloody Sabbath"
+    },
+    {
+      "title": "Into the Void"
     },
     {
       "title": "N.I.B."
-    },
-    {
-      "title": "Neon Knights"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/165907",
+    "apple": "https://music.apple.com/cn/artist/black-sabbath/165907",
     "spotify": "https://open.spotify.com/artist/5M52tdBnJaKSvOpJGz8mfZ",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001mfRNe0Qy5Di",
     "netease": "https://y.music.163.com/m/artist?id=88160"

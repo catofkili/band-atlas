@@ -41,32 +41,32 @@
   "intro": "FTISLAND，韩国流行摇滚乐团。是FNC娱乐公司旗下首支乐团，也是韩国流行音乐中第一个偶像乐团。现任成员有主唱李洪基、贝斯手李在真和鼓手崔敏焕。",
   "introLang": "zh",
   "tracks": [
-    "SATISFACTION (FTISLAND單曲)",
-    "Distance (FTIsland單曲)",
-    "Let it go! (FTIsland單曲)",
-    "NEVERLAND (單曲)",
-    "So today…"
+    "새티스팩션",
+    "Distance",
+    "Let It Go!",
+    "Neverland",
+    "So Today..."
   ],
   "trackSources": [
     {
-      "title": "SATISFACTION (FTISLAND單曲)"
+      "title": "새티스팩션"
     },
     {
-      "title": "Distance (FTIsland單曲)"
+      "title": "Distance"
     },
     {
-      "title": "Let it go! (FTIsland單曲)"
+      "title": "Let It Go!"
     },
     {
-      "title": "NEVERLAND (單曲)"
+      "title": "Neverland"
     },
     {
-      "title": "So today…"
+      "title": "So Today..."
     }
   ],
   "musicLinks": {
     "spotify": "https://open.spotify.com/artist/6KhH771vq2X2Aom91nNzpZ",
-    "apple": "https://music.apple.com/us/artist/band-atlas/424488670",
+    "apple": "https://music.apple.com/cn/artist/ftisland/424488670",
     "netease": "https://y.music.163.com/m/artist?id=126737"
   },
   "listens": 72854,

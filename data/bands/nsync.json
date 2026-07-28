@@ -29,21 +29,21 @@
       "year": 2001
     }
   ],
-  "intro": "超级男孩是美国一组已解散的流行男子演唱组合，来自佛罗里达州奥兰多。由兰斯·贝斯、杰西·契西、乔伊·费敦、克里斯·克帕特里克、贾斯汀·汀布莱克组成。超级男孩解散后仅有贾斯汀和杰西发行过个人专辑，尤其贾斯汀更成为风靡全球的超级巨星，坐拥10座格莱美奖。",
+  "intro": "*NSYNC是美国一组已解散的流行男子演唱组合，来自佛罗里达州奥兰多。由兰斯·贝斯、杰西·契西、乔伊·费敦、克里斯·克帕特里克、贾斯汀·汀布莱克组成。超级男孩解散后仅有贾斯汀和杰西发行过个人专辑，尤其贾斯汀更成为风靡全球的超级巨星，坐拥10座格莱美奖。",
   "introLang": "zh",
   "tracks": [
     "Tearin' Up My Heart",
-    "這就是我",
+    "It's Gonna Be Me",
     "I Want You Back",
     "I'll Never Stop",
-    "ミュージック・オブ・マイ・ハート"
+    "Music of My Heart"
   ],
   "trackSources": [
     {
       "title": "Tearin' Up My Heart"
     },
     {
-      "title": "這就是我"
+      "title": "It's Gonna Be Me"
     },
     {
       "title": "I Want You Back"
@@ -52,12 +52,12 @@
       "title": "I'll Never Stop"
     },
     {
-      "title": "ミュージック・オブ・マイ・ハート"
+      "title": "Music of My Heart"
     }
   ],
   "musicLinks": {
     "spotify": "https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o",
-    "apple": "https://music.apple.com/us/artist/band-atlas/398120",
+    "apple": "https://music.apple.com/cn/artist/%E8%B6%85%E7%BA%A7%E7%94%B7%E5%AD%A9/398120",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001Jgpv82NWKNN",
     "netease": "https://y.music.163.com/m/artist?id=69322"
   },

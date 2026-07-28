@@ -37,7 +37,7 @@
   "intro": "永远是深夜有多好。又称ZUTOMAYO，是源自日本的音乐团体。其作词作曲均由担任主唱的 ACAね独自或与他人合作完成。粉丝爱称为“ずとまろ” 团体特色为主唱ACAね不曾公开露出面容，即便电视演出或演唱会也是如此。影像作品中镜头会巧妙地避开脸部。",
   "introLang": "zh",
   "tracks": [
-    "那些家伙们的校友会",
+    "あいつら全員同窓会",
     "Dear. Mr「F」",
     "MILABO",
     "こんなこと騒動",
@@ -45,7 +45,7 @@
   ],
   "trackSources": [
     {
-      "title": "那些家伙们的校友会"
+      "title": "あいつら全員同窓会"
     },
     {
       "title": "Dear. Mr「F」"
@@ -61,7 +61,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1428083875",
+    "apple": "https://music.apple.com/cn/artist/zutomayo/1428083875",
     "spotify": "https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj",
     "netease": "https://y.music.163.com/m/artist?id=15021101"
   },

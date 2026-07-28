@@ -41,34 +41,34 @@
       "year": 2001
     }
   ],
-  "intro": "电台司令是一支来自英国牛津郡阿宾顿的另类摇滚乐队，组建于1985年。乐队由汤姆·约克，强尼·格林伍德，艾德·欧布莱恩，科林·格林伍德，与菲利普·塞尔韦组成。 1992年，电台司令发行了他们的首张单曲《Creep》，虽然最初发行时成绩不佳，但在发行了首张专辑《亲爱的派伯诺》之后的几个月，“Creep”迅速成为了国际范围内的火热单曲。",
+  "intro": "Radiohead是一支来自英国牛津郡阿宾顿的另类摇滚乐队，组建于1985年。乐队由汤姆·约克，强尼·格林伍德，艾德·欧布莱恩，科林·格林伍德，与菲利普·塞尔韦组成。 1992年，Radiohead发行了他们的首张单曲《Creep》，虽然最初发行时成绩不佳，但在发行了首张专辑《Pablo Honey》之后的几个月，“Creep”迅速成为了国际范围内的火热单曲。",
   "introLang": "zh",
   "tracks": [
-    "怪胎",
-    "カーマ・ポリス",
-    "偏执狂机器人",
+    "Creep",
+    "Karma Police",
+    "Paranoid Android",
     "No Surprises",
-    "ハイ・アンド・ドライ"
+    "Fake Plastic Trees"
   ],
   "trackSources": [
     {
-      "title": "怪胎"
+      "title": "Creep"
     },
     {
-      "title": "カーマ・ポリス"
+      "title": "Karma Police"
     },
     {
-      "title": "偏执狂机器人"
+      "title": "Paranoid Android"
     },
     {
       "title": "No Surprises"
     },
     {
-      "title": "ハイ・アンド・ドライ"
+      "title": "Fake Plastic Trees"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/657515",
+    "apple": "https://music.apple.com/cn/artist/radiohead/657515",
     "spotify": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001p8NfF28OLt8",
     "netease": "https://y.music.163.com/m/artist?id=99384"

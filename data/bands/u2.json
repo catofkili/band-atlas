@@ -45,31 +45,31 @@
   "intro": "U2是一支在1976年成立于都柏林的爱尔兰四人制摇滚乐乐团，自1980年代窜起走红之后，一直到了21世纪的今天，仍活跃于全球流行乐坛。音乐风格上，除了传统的流行硬式摇滚之外，U2在1990年代也曾尝试过一阵子较为实验性的电子音乐作品。",
   "introLang": "zh",
   "tracks": [
-    "ワン",
-    "ウィズ・オア・ウィズアウト・ユー",
-    "ビューティフル・デイ",
-    "終わりなき旅",
-    "ニュー・イヤーズ・デイ"
+    "One",
+    "Beautiful Day",
+    "With or Without You",
+    "I Still Haven't Found What I'm Looking For",
+    "New Year's Day"
   ],
   "trackSources": [
     {
-      "title": "ワン"
+      "title": "One"
     },
     {
-      "title": "ウィズ・オア・ウィズアウト・ユー"
+      "title": "Beautiful Day"
     },
     {
-      "title": "ビューティフル・デイ"
+      "title": "With or Without You"
     },
     {
-      "title": "終わりなき旅"
+      "title": "I Still Haven't Found What I'm Looking For"
     },
     {
-      "title": "ニュー・イヤーズ・デイ"
+      "title": "New Year's Day"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/78500",
+    "apple": "https://music.apple.com/cn/artist/u2/78500",
     "spotify": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0039J4V3135y62",
     "netease": "https://y.music.163.com/m/artist?id=104493"

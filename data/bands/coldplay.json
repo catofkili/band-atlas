@@ -37,34 +37,34 @@
       "year": 2009
     }
   ],
-  "intro": "酷玩乐队是成立于1997年，来自英国英格兰伦敦的另类摇滚乐团。团员包括克里斯·马丁、强尼·巴克兰、盖伊·贝里曼及威尔·钱皮恩。乐团最早成形于马丁与巴克兰就读于伦敦大学学院时期。马丁与巴克兰组成了Pectoralz乐团之后，贝里曼加入乐团作为贝斯手，他们更名为海星乐团。",
+  "intro": "Coldplay是成立于1997年，来自英国英格兰伦敦的另类摇滚乐团。团员包括克里斯·马丁、强尼·巴克兰、盖伊·贝里曼及威尔·钱皮恩。乐团最早成形于马丁与巴克兰就读于伦敦大学学院时期。马丁与巴克兰组成了Pectoralz乐团之后，贝里曼加入乐团作为贝斯手，他们更名为海星乐团。",
   "introLang": "zh",
   "tracks": [
     "Yellow",
-    "時鐘（歌曲）",
-    "科學家",
-    "如此而已",
-    "填滿你的心"
+    "Clocks",
+    "The Scientist",
+    "Something Just Like This",
+    "Every Teardrop Is a Waterfall"
   ],
   "trackSources": [
     {
       "title": "Yellow"
     },
     {
-      "title": "時鐘（歌曲）"
+      "title": "Clocks"
     },
     {
-      "title": "科學家"
+      "title": "The Scientist"
     },
     {
-      "title": "如此而已"
+      "title": "Something Just Like This"
     },
     {
-      "title": "填滿你的心"
+      "title": "Every Teardrop Is a Waterfall"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/471744",
+    "apple": "https://music.apple.com/cn/artist/coldplay/471744",
     "spotify": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001MXQUi1tlLon",
     "netease": "https://y.music.163.com/m/artist?id=89365"

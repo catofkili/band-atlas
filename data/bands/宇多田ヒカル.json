@@ -54,8 +54,8 @@
   "introLang": "zh",
   "tracks": [
     "First Love",
-    "Come Back To Me",
     "Flavor Of Life",
+    "カム・バック・トゥ・ミー",
     "Addicted To You",
     "Automatic/time will tell"
   ],
@@ -64,10 +64,10 @@
       "title": "First Love"
     },
     {
-      "title": "Come Back To Me"
+      "title": "Flavor Of Life"
     },
     {
-      "title": "Flavor Of Life"
+      "title": "カム・バック・トゥ・ミー"
     },
     {
       "title": "Addicted To You"
@@ -77,7 +77,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/18756224",
+    "apple": "https://music.apple.com/cn/artist/utada/18756224",
     "spotify": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002EYRv00c5FOK",
     "netease": "https://y.music.163.com/m/artist?id=18122"

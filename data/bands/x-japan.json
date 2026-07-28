@@ -40,7 +40,7 @@
   "tracks": [
     "ENDLESS RAIN",
     "Say Anything",
-    "Week End",
+    "WEEK END",
     "紅",
     "Silent Jealousy"
   ],
@@ -52,7 +52,7 @@
       "title": "Say Anything"
     },
     {
-      "title": "Week End"
+      "title": "WEEK END"
     },
     {
       "title": "紅"
@@ -64,7 +64,7 @@
   "musicLinks": {
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000dbZ4m1BcQCp",
     "netease": "https://y.music.163.com/m/artist?id=161765",
-    "apple": "https://music.apple.com/us/artist/x-japan/254545979",
+    "apple": "https://music.apple.com/cn/artist/x-japan/254545979",
     "spotify": "https://open.spotify.com/artist/4VrqQQy6X0hlMtqY5gp6Wx"
   },
   "listens": 84025,

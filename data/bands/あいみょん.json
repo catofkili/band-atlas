@@ -41,31 +41,31 @@
   "intro": "爱缪是日本女性创作歌手，出生于兵库县西宫市，所属经纪公司为ENS Entertainment。",
   "introLang": "zh",
   "tracks": [
-    "萬壽菊",
-    "在懂愛之前／落櫻繽紛的夜",
-    "春日",
-    "今夜就这样",
-    "仲夏夜的味道"
+    "マリーゴールド",
+    "ハルノヒ",
+    "愛を知るまでは/桜が降る夜は",
+    "今夜このまま",
+    "君はロックを聴かない"
   ],
   "trackSources": [
     {
-      "title": "萬壽菊"
+      "title": "マリーゴールド"
     },
     {
-      "title": "在懂愛之前／落櫻繽紛的夜"
+      "title": "ハルノヒ"
     },
     {
-      "title": "春日"
+      "title": "愛を知るまでは/桜が降る夜は"
     },
     {
-      "title": "今夜就这样"
+      "title": "今夜このまま"
     },
     {
-      "title": "仲夏夜的味道"
+      "title": "君はロックを聴かない"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1165017710",
+    "apple": "https://music.apple.com/cn/artist/%E7%88%B1%E7%BC%AA/1165017710",
     "spotify": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6",
     "netease": "https://y.music.163.com/m/artist?id=1053279"
   },

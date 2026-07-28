@@ -1,6 +1,6 @@
 {
   "note": "现有乐队的 Wikidata 流派与作品候选。作品按 sitelink 数排序，不等同于实际收听量。",
-  "generatedAt": "2026-07-26T01:45:29.057Z",
+  "generatedAt": "2026-07-28T05:09:16.354Z",
   "genres": {
     "09037f07-42bc-46ac-a1ee-37f834451fee": [
       "直刃族",
@@ -2622,26 +2622,26 @@
   "tracks": {
     "084308bd-1654-436f-ba03-df6697104e19": [
       {
-        "qid": "Q1751842",
-        "title": "九月結束時叫醒我",
-        "sitelinks": 28,
-        "source": "http://www.wikidata.org/entity/Q1751842"
-      },
-      {
         "qid": "Q1641812",
-        "title": "夢碎大道",
+        "title": "Boulevard of Broken Dreams",
         "sitelinks": 28,
         "source": "http://www.wikidata.org/entity/Q1641812"
       },
       {
+        "qid": "Q1751842",
+        "title": "Wake Me Up When September Ends",
+        "sitelinks": 28,
+        "source": "http://www.wikidata.org/entity/Q1751842"
+      },
+      {
         "qid": "Q241339",
-        "title": "アメリカン・イディオット",
+        "title": "American Idiot",
         "sitelinks": 26,
         "source": "http://www.wikidata.org/entity/Q241339"
       },
       {
         "qid": "Q1750952",
-        "title": "神经衰弱",
+        "title": "Basket Case",
         "sitelinks": 26,
         "source": "http://www.wikidata.org/entity/Q1750952"
       },
@@ -2655,25 +2655,25 @@
     "01830cc1-8a04-4dfb-9e4a-d557dfda6a93": [
       {
         "qid": "Q132820388",
-        "title": "怪兽",
+        "title": "怪獣",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q132820388"
       },
       {
         "qid": "Q17012876",
-        "title": "Identity (魚韻單曲)",
+        "title": "アイデンティティ",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q17012876"
       },
       {
         "qid": "Q219338",
-        "title": "四处游走",
+        "title": "アルクアラウンド",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q219338"
       },
       {
         "qid": "Q11387490",
-        "title": "我与花",
+        "title": "僕と花",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q11387490"
       },
@@ -2687,25 +2687,25 @@
     "0383dadf-2a4e-4d10-a46a-e9e041da8eb3": [
       {
         "qid": "Q517591",
-        "title": "表演必须继续",
+        "title": "The Show Must Go On",
         "sitelinks": 41,
         "source": "http://www.wikidata.org/entity/Q517591"
       },
       {
         "qid": "Q744564",
-        "title": "Somebody to Love (皇后乐队歌曲)",
+        "title": "Somebody to Love",
         "sitelinks": 39,
         "source": "http://www.wikidata.org/entity/Q744564"
       },
       {
         "qid": "Q568065",
-        "title": "又掛了一個",
+        "title": "Another One Bites the Dust",
         "sitelinks": 38,
         "source": "http://www.wikidata.org/entity/Q568065"
       },
       {
         "qid": "Q829960",
-        "title": "Killer Queen (歌曲)",
+        "title": "Killer Queen",
         "sitelinks": 37,
         "source": "http://www.wikidata.org/entity/Q829960"
       },
@@ -2719,7 +2719,7 @@
     "057927dd-b6bf-4c58-ae51-cceaf1ee58ac": [
       {
         "qid": "Q3381920",
-        "title": "Lady Diamond",
+        "title": "Lady ダイヤモンド",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q3381920"
       },
@@ -2731,7 +2731,7 @@
       },
       {
         "qid": "Q2650171",
-        "title": "Sexy Summer下雪了",
+        "title": "Sexy Summerに雪が降る",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q2650171"
       },
@@ -2742,16 +2742,16 @@
         "source": "http://www.wikidata.org/entity/Q15059244"
       },
       {
-        "qid": "Q15410304",
-        "title": "Bye Bye 迪拜 ～See you again～/A MY GIRL FRIEND",
+        "qid": "Q16743827",
+        "title": "King & Queen & Joker",
         "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q15410304"
+        "source": "http://www.wikidata.org/entity/Q16743827"
       }
     ],
     "012151a8-0f9a-44c9-997f-ebd68b5389f9": [
       {
         "qid": "Q7281218",
-        "title": "Radioactive (謎幻樂團歌曲)",
+        "title": "Radioactive",
         "sitelinks": 24,
         "source": "http://www.wikidata.org/entity/Q7281218"
       },
@@ -2762,20 +2762,20 @@
         "source": "http://www.wikidata.org/entity/Q55749861"
       },
       {
-        "qid": "Q29883870",
-        "title": "不顧一切 (歌曲)",
-        "sitelinks": 16,
-        "source": "http://www.wikidata.org/entity/Q29883870"
-      },
-      {
         "qid": "Q5256282",
-        "title": "惡魔",
+        "title": "Demons",
         "sitelinks": 16,
         "source": "http://www.wikidata.org/entity/Q5256282"
       },
       {
+        "qid": "Q29883870",
+        "title": "Whatever It Takes",
+        "sitelinks": 16,
+        "source": "http://www.wikidata.org/entity/Q29883870"
+      },
+      {
         "qid": "Q7091181",
-        "title": "世界頂端",
+        "title": "On Top of the World",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q7091181"
       }
@@ -2791,13 +2791,13 @@
     "056e4f3e-d505-4dad-8ec1-d04f521cbb56": [
       {
         "qid": "Q11510350",
-        "title": "幸运儿 (蠢朋克歌曲)",
+        "title": "Get Lucky",
         "sitelinks": 26,
         "source": "http://www.wikidata.org/entity/Q11510350"
       },
       {
         "qid": "Q27000439",
-        "title": "星闻人物",
+        "title": "Starboy",
         "sitelinks": 23,
         "source": "http://www.wikidata.org/entity/Q27000439"
       },
@@ -2809,7 +2809,7 @@
       },
       {
         "qid": "Q27934809",
-        "title": "感觉对了",
+        "title": "I Feel It Coming",
         "sitelinks": 17,
         "source": "http://www.wikidata.org/entity/Q27934809"
       },
@@ -2823,15 +2823,21 @@
     "0743b15a-3c32-48c8-ad58-cb325350befa": [
       {
         "qid": "Q2122509",
-        "title": "ホワッツ・マイ・エイジ・アゲイン?",
+        "title": "What's My Age Again?",
         "sitelinks": 12,
         "source": "http://www.wikidata.org/entity/Q2122509"
       },
       {
         "qid": "Q2739062",
-        "title": "I Miss You (블링크-182의 노래)",
+        "title": "I Miss You",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q2739062"
+      },
+      {
+        "qid": "Q2630356",
+        "title": "Adam's Song",
+        "sitelinks": 10,
+        "source": "http://www.wikidata.org/entity/Q2630356"
       },
       {
         "qid": "Q2738818",
@@ -2840,14 +2846,8 @@
         "source": "http://www.wikidata.org/entity/Q2738818"
       },
       {
-        "qid": "Q2630356",
-        "title": "アダムズ・ソング",
-        "sitelinks": 10,
-        "source": "http://www.wikidata.org/entity/Q2630356"
-      },
-      {
         "qid": "Q629831",
-        "title": "ファースト・デイト",
+        "title": "First Date",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q629831"
       }
@@ -2872,16 +2872,16 @@
         "source": "http://www.wikidata.org/entity/Q4386745"
       },
       {
-        "qid": "Q11488192",
-        "title": "“Modern…”的她",
-        "sitelinks": 3,
-        "source": "http://www.wikidata.org/entity/Q11488192"
-      },
-      {
         "qid": "Q10748946",
         "title": "BE WITH YOU",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q10748946"
+      },
+      {
+        "qid": "Q8245989",
+        "title": "BELOVED",
+        "sitelinks": 3,
+        "source": "http://www.wikidata.org/entity/Q8245989"
       }
     ],
     "078a9376-3c04-4280-b7d7-b20e158f345d": [
@@ -3013,7 +3013,7 @@
     "05f4fbf4-d01f-4dac-bd66-9613e4db8044": [
       {
         "qid": "Q38278468",
-        "title": "你在等待著",
+        "title": "あなたが待ってる",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q38278468"
       },
@@ -3045,7 +3045,7 @@
     "04ea0489-0643-4b49-a7c7-aec63680646d": [
       {
         "qid": "Q110684109",
-        "title": "地鳴 (歌曲)",
+        "title": "The Rumbling",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q110684109"
       }
@@ -3060,34 +3060,34 @@
     ],
     "0ba820db-bb50-4650-a515-d9ba80bf6d34": [
       {
-        "qid": "Q27881764",
-        "title": "兩人季節",
-        "sitelinks": 7,
-        "source": "http://www.wikidata.org/entity/Q27881764"
-      },
-      {
         "qid": "Q23680682",
-        "title": "沉默的多數",
+        "title": "サイレントマジョリティー",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q23680682"
       },
       {
+        "qid": "Q27881764",
+        "title": "二人セゾン",
+        "sitelinks": 7,
+        "source": "http://www.wikidata.org/entity/Q27881764"
+      },
+      {
+        "qid": "Q48764680",
+        "title": "ガラスを割れ!",
+        "sitelinks": 6,
+        "source": "http://www.wikidata.org/entity/Q48764680"
+      },
+      {
         "qid": "Q28936850",
-        "title": "不协和音",
+        "title": "不協和音",
         "sitelinks": 6,
         "source": "http://www.wikidata.org/entity/Q28936850"
       },
       {
-        "qid": "Q42433531",
-        "title": "就算風吹",
+        "qid": "Q24765063",
+        "title": "世界には愛しかない",
         "sitelinks": 6,
-        "source": "http://www.wikidata.org/entity/Q42433531"
-      },
-      {
-        "qid": "Q48764680",
-        "title": "打破玻璃！",
-        "sitelinks": 6,
-        "source": "http://www.wikidata.org/entity/Q48764680"
+        "source": "http://www.wikidata.org/entity/Q24765063"
       }
     ],
     "0d79fe8e-ba27-4859-bb8c-2f255f346853": [
@@ -3099,33 +3099,33 @@
       },
       {
         "qid": "Q56247953",
-        "title": "偶像",
+        "title": "IDOL",
         "sitelinks": 20,
         "source": "http://www.wikidata.org/entity/Q56247953"
       },
       {
         "qid": "Q19939191",
-        "title": "I NEED U (防彈少年團歌曲)",
+        "title": "I NEED U",
         "sitelinks": 16,
         "source": "http://www.wikidata.org/entity/Q19939191"
       },
       {
-        "qid": "Q62989745",
-        "title": "敬微小事物的詩",
-        "sitelinks": 16,
-        "source": "http://www.wikidata.org/entity/Q62989745"
-      },
-      {
         "qid": "Q96384656",
-        "title": "蠻橫的愛",
+        "title": "Savage Love (Laxed – Siren Beat)",
         "sitelinks": 16,
         "source": "http://www.wikidata.org/entity/Q96384656"
+      },
+      {
+        "qid": "Q62989745",
+        "title": "작은 것들을 위한 시 (Boy With Luv)",
+        "sitelinks": 16,
+        "source": "http://www.wikidata.org/entity/Q62989745"
       }
     ],
     "0f718079-e5ea-4cfb-b512-b2d04da66901": [
       {
         "qid": "Q5652445",
-        "title": "HAPPY (BUMP OF CHICKEN單曲)",
+        "title": "HAPPY (BUMP OF CHICKENの曲)",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q5652445"
       },
@@ -3136,22 +3136,22 @@
         "source": "http://www.wikidata.org/entity/Q4802026"
       },
       {
+        "qid": "Q8069484",
+        "title": "ゼロ (BUMP OF CHICKENの曲)",
+        "sitelinks": 3,
+        "source": "http://www.wikidata.org/entity/Q8069484"
+      },
+      {
         "qid": "Q29332",
-        "title": "天體觀測",
+        "title": "天体観測",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q29332"
       },
       {
         "qid": "Q5646801",
-        "title": "花之名",
+        "title": "花の名",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q5646801"
-      },
-      {
-        "qid": "Q8069484",
-        "title": "零",
-        "sitelinks": 3,
-        "source": "http://www.wikidata.org/entity/Q8069484"
       }
     ],
     "0f211bfc-8c69-4cb7-9165-acbe4353cb0a": [
@@ -3215,7 +3215,7 @@
       },
       {
         "qid": "Q30938178",
-        "title": "Peace Sign",
+        "title": "ピースサイン",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q30938178"
       },
@@ -3279,7 +3279,7 @@
     "1008b912-cbb1-4e4c-bd4d-b9adf6937e8e": [
       {
         "qid": "Q2700203",
-        "title": "A·RA·SHI",
+        "title": "A・RA・SHI",
         "sitelinks": 9,
         "source": "http://www.wikidata.org/entity/Q2700203"
       },
@@ -3297,7 +3297,7 @@
       },
       {
         "qid": "Q1073331",
-        "title": "Believe/烏雲散去，天氣晴",
+        "title": "Believe/曇りのち、快晴",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q1073331"
       },
@@ -3343,7 +3343,7 @@
     "11ae9fbb-f3d7-4a47-936f-4c0a04d3b3b5": [
       {
         "qid": "Q1420378",
-        "title": "七國聯軍",
+        "title": "Seven Nation Army",
         "sitelinks": 30,
         "source": "http://www.wikidata.org/entity/Q1420378"
       },
@@ -3374,34 +3374,34 @@
     ],
     "14e410f5-97f2-48ba-b1f7-a3a44cbea05c": [
       {
+        "qid": "Q1155374",
+        "title": "アフターダーク",
+        "sitelinks": 8,
+        "source": "http://www.wikidata.org/entity/Q1155374"
+      },
+      {
         "qid": "Q3234395",
-        "title": "警笛",
+        "title": "サイレン",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q3234395"
       },
       {
         "qid": "Q3274454",
-        "title": "重寫",
+        "title": "リライト",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q3274454"
       },
       {
-        "qid": "Q1155374",
-        "title": "黑夜之後",
-        "sitelinks": 8,
-        "source": "http://www.wikidata.org/entity/Q1155374"
-      },
-      {
         "qid": "Q3274475",
-        "title": "Blue Train",
+        "title": "ブルートレイン",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q3274475"
       },
       {
-        "qid": "Q3272761",
-        "title": "以你為名的花",
+        "qid": "Q3274502",
+        "title": "ループ&ループ",
         "sitelinks": 7,
-        "source": "http://www.wikidata.org/entity/Q3272761"
+        "source": "http://www.wikidata.org/entity/Q3274502"
       }
     ],
     "13df2a46-f72f-40e7-aa63-26fcf62c7048": [
@@ -3515,7 +3515,7 @@
       },
       {
         "qid": "Q119344801",
-        "title": "怪獸的花歌",
+        "title": "怪獣の花唄",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q119344801"
       },
@@ -3535,7 +3535,7 @@
     "1359dfb8-8220-4ebe-aeb9-b759ed737c41": [
       {
         "qid": "Q124483271",
-        "title": "晚餐歌",
+        "title": "晩餐歌",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q124483271"
       }
@@ -3585,7 +3585,7 @@
     "10a0bbc1-4236-4de2-b827-f9fc25f3655c": [
       {
         "qid": "Q2234203",
-        "title": "找回自我",
+        "title": "Crawl Back In",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q2234203"
       },
@@ -3642,12 +3642,6 @@
         "source": "http://www.wikidata.org/entity/Q85865757"
       },
       {
-        "qid": "Q111495073",
-        "title": "Brother Beat",
-        "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q111495073"
-      },
-      {
         "qid": "Q105297098",
         "title": "Grandeur",
         "sitelinks": 2,
@@ -3664,12 +3658,18 @@
         "title": "KISSIN'MY LIPS/Stories",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q97636112"
+      },
+      {
+        "qid": "Q110149468",
+        "title": "Secret Touch",
+        "sitelinks": 2,
+        "source": "http://www.wikidata.org/entity/Q110149468"
       }
     ],
     "14d2a235-30e2-489f-b490-f9dc7d2c0861": [
       {
         "qid": "Q109594408",
-        "title": "那些家伙们的校友会",
+        "title": "あいつら全員同窓会",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q109594408"
       },
@@ -3701,7 +3701,7 @@
     "16a6ff18-4875-4851-94b6-f4f831e73fa7": [
       {
         "qid": "Q12603900",
-        "title": "时代遗憾",
+        "title": "시대유감 (싱글)",
         "sitelinks": 1,
         "source": "http://www.wikidata.org/entity/Q12603900"
       }
@@ -3729,21 +3729,21 @@
       },
       {
         "qid": "Q5846344",
-        "title": "戀愛少女",
+        "title": "コイスルオトメ",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q5846344"
       },
       {
         "qid": "Q3783561",
-        "title": "春之歌",
+        "title": "ハルウタ",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q3783561"
       },
       {
-        "qid": "Q7385638",
-        "title": "流星奇蹟",
+        "qid": "Q706329",
+        "title": "ブルーバード",
         "sitelinks": 5,
-        "source": "http://www.wikidata.org/entity/Q7385638"
+        "source": "http://www.wikidata.org/entity/Q706329"
       }
     ],
     "1a07eeb3-bc0c-48c7-ad15-8cbf879c412e": [
@@ -3755,19 +3755,19 @@
       },
       {
         "qid": "Q5099113",
-        "title": "Family ～讓我們在一起",
+        "title": "Family 〜ひとつになること",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q5099113"
       },
       {
         "qid": "Q3013227",
-        "title": "Hey!大家好嗎?",
+        "title": "Hey! みんな元気かい?",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q3013227"
       },
       {
         "qid": "Q10852522",
-        "title": "Secret Code",
+        "title": "Secret Code (KinKi Kidsの曲)",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q10852522"
       },
@@ -3787,13 +3787,13 @@
       },
       {
         "qid": "Q5564248",
-        "title": "極限chop",
+        "title": "ギリギリchop",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q5564248"
       },
       {
         "qid": "Q11626340",
-        "title": "衝動 (B'z單曲)",
+        "title": "衝動",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q11626340"
       },
@@ -3805,7 +3805,7 @@
       },
       {
         "qid": "Q1085431",
-        "title": "愛的爆彈",
+        "title": "愛のバクダン",
         "sitelinks": 6,
         "source": "http://www.wikidata.org/entity/Q1085431"
       }
@@ -3813,7 +3813,7 @@
     "172e1f1a-504d-4488-b053-6344ba63e6d0": [
       {
         "qid": "Q900790",
-        "title": "野薔薇",
+        "title": "Where the Wild Roses Grow",
         "sitelinks": 25,
         "source": "http://www.wikidata.org/entity/Q900790"
       },
@@ -3830,16 +3830,16 @@
         "source": "http://www.wikidata.org/entity/Q2876236"
       },
       {
+        "qid": "Q6301911",
+        "title": "Jubilee Street (song)",
+        "sitelinks": 4,
+        "source": "http://www.wikidata.org/entity/Q6301911"
+      },
+      {
         "qid": "Q4177752",
         "title": "Loverman",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q4177752"
-      },
-      {
-        "qid": "Q6301911",
-        "title": "租庇利街",
-        "sitelinks": 4,
-        "source": "http://www.wikidata.org/entity/Q6301911"
       }
     ],
     "20883363-1ea4-4d72-ad72-c0e767038f3e": [
@@ -3877,31 +3877,31 @@
     "191de76f-a224-445d-b041-54df16d65bf7": [
       {
         "qid": "Q1002788",
-        "title": "為了你的愛",
+        "title": "For Your Love",
         "sitelinks": 13,
         "source": "http://www.wikidata.org/entity/Q1002788"
       },
       {
         "qid": "Q5692002",
-        "title": "ハートせつなく (ヤードバーズの曲)",
+        "title": "Heart Full of Soul",
         "sitelinks": 6,
         "source": "http://www.wikidata.org/entity/Q5692002"
       },
       {
         "qid": "Q5418433",
-        "title": "いたずらっ娘",
+        "title": "Evil Hearted You",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q5418433"
       },
       {
         "qid": "Q5652234",
-        "title": "幻の10年",
+        "title": "Happenings Ten Years Time Ago",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q5652234"
       },
       {
         "qid": "Q7113433",
-        "title": "サイドウェイズ・ダウン",
+        "title": "Over Under Sideways Down",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q7113433"
       }
@@ -3993,7 +3993,7 @@
     "27f0af0e-4d1f-4808-a58b-090e400dcc43": [
       {
         "qid": "Q3698661",
-        "title": "CROSS ROAD (Mr.Children單曲)",
+        "title": "CROSS ROAD",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q3698661"
       },
@@ -4011,13 +4011,13 @@
       },
       {
         "qid": "Q5396615",
-        "title": "【es】 ～Theme of es～",
+        "title": "【es】 〜Theme of es〜",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q5396615"
       },
       {
         "qid": "Q307018",
-        "title": "Everybody goes -向沒有秩序的現代Drop Kick-",
+        "title": "everybody goes -秩序のない現代にドロップキック-",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q307018"
       }
@@ -4025,7 +4025,7 @@
     "23a03e33-a603-404e-bcbf-2c00159d7067": [
       {
         "qid": "Q2082791",
-        "title": "プリティ・フライ",
+        "title": "Pretty Fly (for a White Guy)",
         "sitelinks": 18,
         "source": "http://www.wikidata.org/entity/Q2082791"
       },
@@ -4042,36 +4042,36 @@
         "source": "http://www.wikidata.org/entity/Q2417725"
       },
       {
+        "qid": "Q2499845",
+        "title": "All I Want",
+        "sitelinks": 14,
+        "source": "http://www.wikidata.org/entity/Q2499845"
+      },
+      {
         "qid": "Q2722036",
         "title": "Why Don't You Get a Job?",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q2722036"
-      },
-      {
-        "qid": "Q2499845",
-        "title": "オール・アイ・ウォント",
-        "sitelinks": 14,
-        "source": "http://www.wikidata.org/entity/Q2499845"
       }
     ],
     "28abfefb-cceb-4605-8330-a53b6d161403": [
       {
+        "qid": "Q36597832",
+        "title": "=LOVE",
+        "sitelinks": 4,
+        "source": "http://www.wikidata.org/entity/Q36597832"
+      },
+      {
         "qid": "Q45423195",
-        "title": "我們的制服聖誕節",
+        "title": "僕らの制服クリスマス",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q45423195"
       },
       {
         "qid": "Q54359575",
-        "title": "為時已晚的警告",
+        "title": "手遅れcaution",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q54359575"
-      },
-      {
-        "qid": "Q36597832",
-        "title": "等於愛",
-        "sitelinks": 4,
-        "source": "http://www.wikidata.org/entity/Q36597832"
       },
       {
         "qid": "Q109711876",
@@ -4089,25 +4089,25 @@
     "27e2997f-f7a1-4353-bcc4-57b9274fa9a4": [
       {
         "qid": "Q15149202",
-        "title": "BABYMETAL × Kiba of Akiba",
+        "title": "BABYMETAL × キバオブアキバ",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q15149202"
       },
       {
-        "qid": "Q15149203",
-        "title": "HeadBanger!!",
-        "sitelinks": 11,
-        "source": "http://www.wikidata.org/entity/Q15149203"
-      },
-      {
         "qid": "Q15149204",
-        "title": "欺凌、絕對、不行",
+        "title": "イジメ、ダメ、ゼッタイ",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q15149204"
       },
       {
+        "qid": "Q15149203",
+        "title": "ヘドバンギャー!!",
+        "sitelinks": 11,
+        "source": "http://www.wikidata.org/entity/Q15149203"
+      },
+      {
         "qid": "Q15149205",
-        "title": "狐狸假面",
+        "title": "メギツネ",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q15149205"
       },
@@ -4121,33 +4121,33 @@
     "24d9e513-c215-4901-87ee-b66aa769ab9d": [
       {
         "qid": "Q1037889",
-        "title": "海嘯",
+        "title": "TSUNAMI",
         "sitelinks": 6,
         "source": "http://www.wikidata.org/entity/Q1037889"
       },
       {
-        "qid": "Q10847020",
-        "title": "EROTICA SEVEN",
+        "qid": "Q11074856",
+        "title": "I AM YOUR SINGER",
         "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q10847020"
+        "source": "http://www.wikidata.org/entity/Q11074856"
       },
       {
         "qid": "Q10851371",
-        "title": "LOVE AFFAIR ～秘密約會～",
+        "title": "LOVE AFFAIR 〜秘密のデート",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q10851371"
       },
       {
-        "qid": "Q10851521",
-        "title": "MANPY的G★SPOT",
+        "qid": "Q10913689",
+        "title": "あなただけを 〜Summer Heartbreak〜",
         "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q10851521"
+        "source": "http://www.wikidata.org/entity/Q10913689"
       },
       {
-        "qid": "Q10851548",
-        "title": "MISS BRAND-NEW DAY",
+        "qid": "Q11072096",
+        "title": "いとしのエリー",
         "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q10851548"
+        "source": "http://www.wikidata.org/entity/Q11072096"
       }
     ],
     "29b34cc3-b362-4f0b-ab02-e6ccaf8cafc2": [
@@ -4165,7 +4165,7 @@
       },
       {
         "qid": "Q133286955",
-        "title": "我最可愛的地方",
+        "title": "わたしの一番かわいいところ",
         "sitelinks": 1,
         "source": "http://www.wikidata.org/entity/Q133286955"
       },
@@ -4178,6 +4178,12 @@
     ],
     "252c9f8a-be04-4146-b73e-a24696b2f5ed": [
       {
+        "qid": "Q11248487",
+        "title": "さよならリグレット",
+        "sitelinks": 2,
+        "source": "http://www.wikidata.org/entity/Q11248487"
+      },
+      {
         "qid": "Q11325968",
         "title": "ハイウェイ (曲)",
         "sitelinks": 2,
@@ -4188,12 +4194,6 @@
         "title": "三日月",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q11242452"
-      },
-      {
-        "qid": "Q11248487",
-        "title": "再見遺憾",
-        "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q11248487"
       },
       {
         "qid": "Q10855743",
@@ -4314,22 +4314,22 @@
         "source": "http://www.wikidata.org/entity/Q116181810"
       },
       {
+        "qid": "Q55524684",
+        "title": "さよならエレジー",
+        "sitelinks": 1,
+        "source": "http://www.wikidata.org/entity/Q55524684"
+      },
+      {
+        "qid": "Q64399313",
+        "title": "まちがいさがし",
+        "sitelinks": 1,
+        "source": "http://www.wikidata.org/entity/Q64399313"
+      },
+      {
         "qid": "Q119344199",
         "title": "ラストシーン",
         "sitelinks": 1,
         "source": "http://www.wikidata.org/entity/Q119344199"
-      },
-      {
-        "qid": "Q60986977",
-        "title": "ロングホープ・フィリア",
-        "sitelinks": 1,
-        "source": "http://www.wikidata.org/entity/Q60986977"
-      },
-      {
-        "qid": "Q38279421",
-        "title": "呼吸",
-        "sitelinks": 1,
-        "source": "http://www.wikidata.org/entity/Q38279421"
       }
     ],
     "272981dd-20c8-424a-b86a-0d0ebb95f692": [
@@ -4349,7 +4349,7 @@
     "2f569e60-0a1b-4fb9-95a4-3dc1525d1aad": [
       {
         "qid": "Q2454853",
-        "title": "Quit Playin' Games",
+        "title": "Quit Playing Games (With My Heart)",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q2454853"
       },
@@ -4367,7 +4367,7 @@
       },
       {
         "qid": "Q2454908",
-        "title": "Get Down",
+        "title": "Get Down (You're the One for Me)",
         "sitelinks": 12,
         "source": "http://www.wikidata.org/entity/Q2454908"
       },
@@ -4381,21 +4381,21 @@
     "3798b104-01cb-484c-a3b0-56adc6399b80": [
       {
         "qid": "Q1129215",
-        "title": "キリング・イン・ザ・ネーム",
+        "title": "Killing in the Name",
         "sitelinks": 24,
         "source": "http://www.wikidata.org/entity/Q1129215"
+      },
+      {
+        "qid": "Q2292763",
+        "title": "Bombtrack",
+        "sitelinks": 13,
+        "source": "http://www.wikidata.org/entity/Q2292763"
       },
       {
         "qid": "Q2167393",
         "title": "Bulls on Parade",
         "sitelinks": 13,
         "source": "http://www.wikidata.org/entity/Q2167393"
-      },
-      {
-        "qid": "Q2292763",
-        "title": "ボムトラック",
-        "sitelinks": 13,
-        "source": "http://www.wikidata.org/entity/Q2292763"
       },
       {
         "qid": "Q2179280",
@@ -4413,7 +4413,7 @@
     "37c78aeb-d196-42b5-b991-6afb4fc9bc2e": [
       {
         "qid": "Q1768307",
-        "title": "ナチ・パンクス・ファック・オフ",
+        "title": "Nazi Punks Fuck Off",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q1768307"
       },
@@ -4445,27 +4445,27 @@
     "33ff8a92-2f3b-4cac-8ea0-5eebfa995626": [
       {
         "qid": "Q85871851",
-        "title": "Starmarker",
+        "title": "スターマーカー",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q85871851"
       },
       {
         "qid": "Q19860778",
-        "title": "剪影",
+        "title": "シルエット (曲)",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q19860778"
-      },
-      {
-        "qid": "Q22123980",
-        "title": "Diver",
-        "sitelinks": 3,
-        "source": "http://www.wikidata.org/entity/Q22123980"
       },
       {
         "qid": "Q105352372",
         "title": "Torch of Liberty",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q105352372"
+      },
+      {
+        "qid": "Q22123980",
+        "title": "ダイバー",
+        "sitelinks": 3,
+        "source": "http://www.wikidata.org/entity/Q22123980"
       },
       {
         "qid": "Q43417296",
@@ -4515,13 +4515,13 @@
       },
       {
         "qid": "Q47764814",
-        "title": "多啦A夢",
+        "title": "ドラえもん",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q47764814"
       },
       {
         "qid": "Q20044077",
-        "title": "Crazy Crazy/櫻花森林",
+        "title": "Crazy Crazy/桜の森",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q20044077"
       },
@@ -4558,16 +4558,16 @@
         "source": "http://www.wikidata.org/entity/Q54083004"
       },
       {
+        "qid": "Q5196650",
+        "title": "Cut Your Hair",
+        "sitelinks": 2,
+        "source": "http://www.wikidata.org/entity/Q5196650"
+      },
+      {
         "qid": "Q5578854",
         "title": "Gold Soundz",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q5578854"
-      },
-      {
-        "qid": "Q7292675",
-        "title": "Range Life",
-        "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q7292675"
       }
     ],
     "3089d713-c323-4e66-ab02-b5b911929564": [
@@ -4592,16 +4592,16 @@
         "source": "http://www.wikidata.org/entity/Q122233762"
       },
       {
-        "qid": "Q111302311",
-        "title": "一途 / 逆夢",
-        "sitelinks": 3,
-        "source": "http://www.wikidata.org/entity/Q111302311"
-      },
-      {
         "qid": "Q111329378",
-        "title": "變色龍",
+        "title": "カメレオン",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q111329378"
+      },
+      {
+        "qid": "Q111302311",
+        "title": "一途／逆夢",
+        "sitelinks": 3,
+        "source": "http://www.wikidata.org/entity/Q111302311"
       },
       {
         "qid": "Q136203374",
@@ -4717,25 +4717,25 @@
     "39ab1aed-75e0-4140-bd47-540276886b60": [
       {
         "qid": "Q769355",
-        "title": "リヴ・フォーエヴァー",
+        "title": "Live Forever",
         "sitelinks": 21,
         "source": "http://www.wikidata.org/entity/Q769355"
       },
       {
-        "qid": "Q1351488",
-        "title": "スーパーソニック",
-        "sitelinks": 16,
-        "source": "http://www.wikidata.org/entity/Q1351488"
-      },
-      {
         "qid": "Q2721583",
-        "title": "別再哭得那麼難過了",
+        "title": "Stop Crying Your Heart Out",
         "sitelinks": 16,
         "source": "http://www.wikidata.org/entity/Q2721583"
       },
       {
+        "qid": "Q1351488",
+        "title": "Supersonic",
+        "sitelinks": 16,
+        "source": "http://www.wikidata.org/entity/Q1351488"
+      },
+      {
         "qid": "Q1533387",
-        "title": "ゴー・レット・イット・アウト!",
+        "title": "Go Let It Out",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q1533387"
       },
@@ -4761,7 +4761,7 @@
       },
       {
         "qid": "Q259008",
-        "title": "Week End",
+        "title": "WEEK END",
         "sitelinks": 12,
         "source": "http://www.wikidata.org/entity/Q259008"
       },
@@ -4781,13 +4781,13 @@
     "40f5d9e4-2de7-4f2d-ad41-e31a9a9fea27": [
       {
         "qid": "Q2640904",
-        "title": "ディス・チャーミング・マン",
+        "title": "This Charming Man",
         "sitelinks": 13,
         "source": "http://www.wikidata.org/entity/Q2640904"
       },
       {
         "qid": "Q539672",
-        "title": "ゼア・イズ・ア・ライト",
+        "title": "There Is a Light That Never Goes Out",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q539672"
       },
@@ -4798,16 +4798,16 @@
         "source": "http://www.wikidata.org/entity/Q2017611"
       },
       {
-        "qid": "Q2474596",
-        "title": "パニック",
-        "sitelinks": 9,
-        "source": "http://www.wikidata.org/entity/Q2474596"
-      },
-      {
         "qid": "Q2705605",
-        "title": "ハンド・イン・グローブ",
+        "title": "Hand in Glove",
         "sitelinks": 9,
         "source": "http://www.wikidata.org/entity/Q2705605"
+      },
+      {
+        "qid": "Q2474596",
+        "title": "Panic",
+        "sitelinks": 9,
+        "source": "http://www.wikidata.org/entity/Q2474596"
       }
     ],
     "3d693ab2-7c33-4b69-87bc-c105b5bbf547": [
@@ -4919,7 +4919,7 @@
       },
       {
         "qid": "Q121367761",
-        "title": "Summer Time Cinderella",
+        "title": "サマータイムシンデレラ",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q121367761"
       },
@@ -4947,7 +4947,7 @@
     "4337f1a5-9e02-4b46-98c3-e3c28683a9b5": [
       {
         "qid": "Q105352416",
-        "title": "乾燥花",
+        "title": "ドライフラワー",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q105352416"
       },
@@ -5105,7 +5105,7 @@
       },
       {
         "qid": "Q18457973",
-        "title": "寢癖",
+        "title": "寝癖",
         "sitelinks": 1,
         "source": "http://www.wikidata.org/entity/Q18457973"
       }
@@ -5121,45 +5121,45 @@
     "466f7b0a-a3e6-435d-8326-b4ef825a609d": [
       {
         "qid": "Q187244",
-        "title": "來吧香波",
+        "title": "おいでシャンプー",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q187244"
       },
       {
-        "qid": "Q185286",
-        "title": "制服模特兒",
-        "sitelinks": 7,
-        "source": "http://www.wikidata.org/entity/Q185286"
-      },
-      {
         "qid": "Q13476323",
-        "title": "女生規則",
+        "title": "ガールズルール",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q13476323"
       },
       {
         "qid": "Q1115844",
-        "title": "窗簾圍繞",
+        "title": "ぐるぐるカーテン",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q1115844"
       },
       {
-        "qid": "Q15924152",
-        "title": "觉察已是单相思",
+        "qid": "Q15143121",
+        "title": "バレッタ (乃木坂46の曲)",
         "sitelinks": 7,
-        "source": "http://www.wikidata.org/entity/Q15924152"
+        "source": "http://www.wikidata.org/entity/Q15143121"
+      },
+      {
+        "qid": "Q185286",
+        "title": "制服のマネキン",
+        "sitelinks": 7,
+        "source": "http://www.wikidata.org/entity/Q185286"
       }
     ],
     "486067ad-56d6-48b5-957b-d6cfe3e1af73": [
       {
         "qid": "Q1101086",
-        "title": "SPICE",
+        "title": "スパイス",
         "sitelinks": 9,
         "source": "http://www.wikidata.org/entity/Q1101086"
       },
       {
         "qid": "Q2436181",
-        "title": "One Room Disco",
+        "title": "ワンルーム・ディスコ",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q2436181"
       },
@@ -5171,7 +5171,7 @@
       },
       {
         "qid": "Q307134",
-        "title": "Love the world",
+        "title": "love the world",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q307134"
       },
@@ -5185,13 +5185,13 @@
     "4a4ee089-93b1-4470-af9a-6ff575d32704": [
       {
         "qid": "Q371487",
-        "title": "スマック・マイ・ビッチ・アップ",
+        "title": "Smack My Bitch Up",
         "sitelinks": 17,
         "source": "http://www.wikidata.org/entity/Q371487"
       },
       {
         "qid": "Q2454651",
-        "title": "ブリーズ",
+        "title": "Breathe",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q2454651"
       },
@@ -5266,16 +5266,16 @@
         "source": "http://www.wikidata.org/entity/Q2075882"
       },
       {
+        "qid": "Q2333379",
+        "title": "Pressure",
+        "sitelinks": 13,
+        "source": "http://www.wikidata.org/entity/Q2333379"
+      },
+      {
         "qid": "Q2076476",
         "title": "That's What You Get",
         "sitelinks": 13,
         "source": "http://www.wikidata.org/entity/Q2076476"
-      },
-      {
-        "qid": "Q2333379",
-        "title": "プレッシャー",
-        "sitelinks": 13,
-        "source": "http://www.wikidata.org/entity/Q2333379"
       }
     ],
     "45dc44ab-ebd5-48ed-9fc9-6f8de561656d": [
@@ -5295,7 +5295,7 @@
       },
       {
         "qid": "Q97205313",
-        "title": "NAVIGATOR (SixTONES)",
+        "title": "NAVIGATOR",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q97205313"
       },
@@ -5391,39 +5391,39 @@
     "5182c1d9-c7d2-4dad-afa0-ccfeada921a8": [
       {
         "qid": "Q860604",
-        "title": "墳墓之子",
+        "title": "Children of the Grave",
         "sitelinks": 16,
         "source": "http://www.wikidata.org/entity/Q860604"
       },
       {
         "qid": "Q11688409",
-        "title": "上帝已死？ (黑色安息日的歌曲)",
+        "title": "God Is Dead?",
         "sitelinks": 13,
         "source": "http://www.wikidata.org/entity/Q11688409"
       },
       {
         "qid": "Q782143",
-        "title": "血腥安息日 (歌曲)",
+        "title": "Sabbath Bloody Sabbath",
         "sitelinks": 12,
         "source": "http://www.wikidata.org/entity/Q782143"
+      },
+      {
+        "qid": "Q2634977",
+        "title": "Into the Void",
+        "sitelinks": 10,
+        "source": "http://www.wikidata.org/entity/Q2634977"
       },
       {
         "qid": "Q2083951",
         "title": "N.I.B.",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q2083951"
-      },
-      {
-        "qid": "Q3561182",
-        "title": "Neon Knights",
-        "sitelinks": 10,
-        "source": "http://www.wikidata.org/entity/Q3561182"
       }
     ],
     "55e42264-ef27-49d8-93fd-29f930dc96e4": [
       {
         "qid": "Q133927901",
-        "title": "百花缭乱 (几田莉拉歌曲)",
+        "title": "百花繚乱",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q133927901"
       },
@@ -5443,13 +5443,13 @@
       },
       {
         "qid": "Q3183648",
-        "title": "WORLD QUEST/拍拍肚子咕嚕叫",
+        "title": "WORLD QUEST/ポコポンペコーリャ",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q3183648"
       },
       {
         "qid": "Q2897941",
-        "title": "愛的嘉卡芭娜",
+        "title": "チャンカパーナ",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q2897941"
       },
@@ -5461,7 +5461,7 @@
       },
       {
         "qid": "Q18648083",
-        "title": "KAGUYA (NewS 單曲 2015)",
+        "title": "KAGUYA",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q18648083"
       }
@@ -5481,7 +5481,7 @@
       },
       {
         "qid": "Q487149",
-        "title": "Where you are",
+        "title": "Where You Are",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q487149"
       },
@@ -5500,22 +5500,22 @@
     ],
     "516cef4d-0718-4007-9939-f9b38af3f784": [
       {
-        "qid": "Q2609005",
-        "title": "Thnks fr th Mmrs",
+        "qid": "Q2551151",
+        "title": "Dance Dance",
         "sitelinks": 11,
-        "source": "http://www.wikidata.org/entity/Q2609005"
+        "source": "http://www.wikidata.org/entity/Q2551151"
       },
       {
         "qid": "Q2449704",
-        "title": "シュガー、ウィアー・ゴーイン・ダウン",
+        "title": "Sugar, We're Goin Down",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q2449704"
       },
       {
-        "qid": "Q2551151",
-        "title": "ダンス、ダンス",
+        "qid": "Q2609005",
+        "title": "Thnks fr th Mmrs",
         "sitelinks": 11,
-        "source": "http://www.wikidata.org/entity/Q2551151"
+        "source": "http://www.wikidata.org/entity/Q2609005"
       },
       {
         "qid": "Q4312732",
@@ -5564,16 +5564,16 @@
     ],
     "53e90c12-6ad0-4d1e-ad5b-f2e5d0059946": [
       {
-        "qid": "Q5367800",
-        "title": "沒有星星的世界/側臉",
-        "sitelinks": 3,
-        "source": "http://www.wikidata.org/entity/Q5367800"
-      },
-      {
         "qid": "Q5367377",
-        "title": "無法挽回的明日",
+        "title": "戻れない明日",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q5367377"
+      },
+      {
+        "qid": "Q5367800",
+        "title": "星のない世界/横顔",
+        "sitelinks": 3,
+        "source": "http://www.wikidata.org/entity/Q5367800"
       },
       {
         "qid": "Q126959389",
@@ -5582,16 +5582,16 @@
         "source": "http://www.wikidata.org/entity/Q126959389"
       },
       {
-        "qid": "Q10846632",
-        "title": "Boy Friend (aiko單曲)",
+        "qid": "Q10851313",
+        "title": "KissHug",
         "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q10846632"
+        "source": "http://www.wikidata.org/entity/Q10851313"
       },
       {
-        "qid": "Q100706130",
-        "title": "Honey Memory",
+        "qid": "Q14272414",
+        "title": "Loveletter/4月の雨",
         "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q100706130"
+        "source": "http://www.wikidata.org/entity/Q14272414"
       }
     ],
     "513b6df2-f44c-4484-b99d-97f79266cb4a": [
@@ -5611,13 +5611,13 @@
     "55704c38-224f-4b75-b29f-d43653f8bc9a": [
       {
         "qid": "Q6663331",
-        "title": "ローデッド",
+        "title": "Loaded",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q6663331"
       },
       {
         "qid": "Q25206763",
-        "title": "カム・トゥゲザー",
+        "title": "Come Together",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q25206763"
       },
@@ -5634,10 +5634,10 @@
         "source": "http://www.wikidata.org/entity/Q16155565"
       },
       {
-        "qid": "Q5177304",
-        "title": "Country Girl",
+        "qid": "Q5028898",
+        "title": "Can't Go Back",
         "sitelinks": 1,
-        "source": "http://www.wikidata.org/entity/Q5177304"
+        "source": "http://www.wikidata.org/entity/Q5028898"
       }
     ],
     "552f7965-a23a-4e2f-9ef2-ac2989dea9f0": [
@@ -5713,7 +5713,7 @@
     "54c982d5-f078-46f3-a7ce-f9d63433ffbe": [
       {
         "qid": "Q7111580",
-        "title": "我心深處／聖水",
+        "title": "Out of My Mind / Holy Water",
         "sitelinks": 1,
         "source": "http://www.wikidata.org/entity/Q7111580"
       }
@@ -5729,7 +5729,7 @@
     "5dfdca28-9ddc-4853-933c-8bc97d87beec": [
       {
         "qid": "Q3985840",
-        "title": "美丽人民",
+        "title": "The Beautiful People",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q3985840"
       },
@@ -5747,7 +5747,7 @@
       },
       {
         "qid": "Q2298911",
-        "title": "ディス・イズ・ザ・ニュー・シット",
+        "title": "This Is the New Shit",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q2298911"
       },
@@ -5761,25 +5761,25 @@
     "5b11f4ce-a62d-471e-81fc-a69a8278c7da": [
       {
         "qid": "Q910487",
-        "title": "以一如以往的你前來",
+        "title": "Come as You Are",
         "sitelinks": 29,
         "source": "http://www.wikidata.org/entity/Q910487"
       },
       {
         "qid": "Q869706",
-        "title": "ハート・シェイプト・ボックス",
+        "title": "Heart-Shaped Box",
         "sitelinks": 24,
         "source": "http://www.wikidata.org/entity/Q869706"
       },
       {
         "qid": "Q1418630",
-        "title": "ユー・ノウ・ユーアー・ライト",
+        "title": "You Know You're Right",
         "sitelinks": 20,
         "source": "http://www.wikidata.org/entity/Q1418630"
       },
       {
         "qid": "Q1773384",
-        "title": "ペニーロイヤル・ティー",
+        "title": "Pennyroyal Tea",
         "sitelinks": 19,
         "source": "http://www.wikidata.org/entity/Q1773384"
       },
@@ -5799,7 +5799,7 @@
       },
       {
         "qid": "Q1403526",
-        "title": "這就是我",
+        "title": "It's Gonna Be Me",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q1403526"
       },
@@ -5817,7 +5817,7 @@
       },
       {
         "qid": "Q6942197",
-        "title": "ミュージック・オブ・マイ・ハート",
+        "title": "Music of My Heart",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q6942197"
       }
@@ -5867,7 +5867,7 @@
     "5b9aa76f-bf0f-41ff-8986-fd0401c18bb4": [
       {
         "qid": "Q1034691",
-        "title": "每個人的天堂",
+        "title": "Heaven for Everyone",
         "sitelinks": 24,
         "source": "http://www.wikidata.org/entity/Q1034691"
       }
@@ -5875,7 +5875,7 @@
     "5c6acb91-4b9b-4245-b92f-e817295c4ed0": [
       {
         "qid": "Q1176275",
-        "title": "金屬萬歲",
+        "title": "Metal Health (Bang Your Head)",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q1176275"
       }
@@ -6014,28 +6014,28 @@
     ],
     "67f66c07-6e61-4026-ade5-7e782fad3a5d": [
       {
+        "qid": "Q163226",
+        "title": "Everlong",
+        "sitelinks": 17,
+        "source": "http://www.wikidata.org/entity/Q163226"
+      },
+      {
         "qid": "Q2302617",
-        "title": "ウォーク",
+        "title": "Walk",
         "sitelinks": 17,
         "source": "http://www.wikidata.org/entity/Q2302617"
       },
       {
-        "qid": "Q163226",
-        "title": "エヴァーロング",
-        "sitelinks": 17,
-        "source": "http://www.wikidata.org/entity/Q163226"
+        "qid": "Q2454549",
+        "title": "Learn to Fly",
+        "sitelinks": 16,
+        "source": "http://www.wikidata.org/entity/Q2454549"
       },
       {
         "qid": "Q512557",
         "title": "The Pretender",
         "sitelinks": 16,
         "source": "http://www.wikidata.org/entity/Q512557"
-      },
-      {
-        "qid": "Q2454549",
-        "title": "學會飛",
-        "sitelinks": 16,
-        "source": "http://www.wikidata.org/entity/Q2454549"
       },
       {
         "qid": "Q830365",
@@ -6059,7 +6059,7 @@
       },
       {
         "qid": "Q2062769",
-        "title": "Winter fall",
+        "title": "winter fall",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q2062769"
       },
@@ -6111,33 +6111,33 @@
     "65f4f0c5-ef9e-490c-aee3-909e7ae6b2ab": [
       {
         "qid": "Q66057506",
-        "title": "無關緊要",
+        "title": "Nothing Else Matters",
         "sitelinks": 36,
         "source": "http://www.wikidata.org/entity/Q66057506"
       },
       {
         "qid": "Q66057605",
-        "title": "睡魔入侵",
+        "title": "Enter Sandman",
         "sitelinks": 34,
         "source": "http://www.wikidata.org/entity/Q66057605"
       },
       {
         "qid": "Q938656",
-        "title": "孤寂",
+        "title": "One",
         "sitelinks": 31,
         "source": "http://www.wikidata.org/entity/Q938656"
       },
       {
-        "qid": "Q1129368",
-        "title": "喪鐘為誰而鳴注 (金屬製品的歌曲)",
+        "qid": "Q1752956",
+        "title": "Fade to Black",
         "sitelinks": 25,
-        "source": "http://www.wikidata.org/entity/Q1129368"
+        "source": "http://www.wikidata.org/entity/Q1752956"
       },
       {
-        "qid": "Q432262",
-        "title": "直到入眠",
+        "qid": "Q1129368",
+        "title": "For Whom the Bell Tolls",
         "sitelinks": 25,
-        "source": "http://www.wikidata.org/entity/Q432262"
+        "source": "http://www.wikidata.org/entity/Q1129368"
       }
     ],
     "678d88b2-87b0-403b-b63d-5da7465aecc3": [
@@ -6149,25 +6149,25 @@
       },
       {
         "qid": "Q861706",
-        "title": "デジャ・メイク・ハー",
+        "title": "D'yer Mak'er",
         "sitelinks": 20,
         "source": "http://www.wikidata.org/entity/Q861706"
       },
       {
         "qid": "Q2331674",
-        "title": "搖滾樂",
+        "title": "Rock and Roll",
         "sitelinks": 19,
         "source": "http://www.wikidata.org/entity/Q2331674"
       },
       {
         "qid": "Q2335831",
-        "title": "丘のむこうに",
+        "title": "Over the Hills and Far Away",
         "sitelinks": 16,
         "source": "http://www.wikidata.org/entity/Q2335831"
       },
       {
         "qid": "Q523149",
-        "title": "無情踐踏",
+        "title": "Trampled Under Foot",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q523149"
       }
@@ -6207,31 +6207,31 @@
     "66c662b6-6e2f-4930-8610-912e24c63ed1": [
       {
         "qid": "Q2430003",
-        "title": "如遭雷擊 (歌曲)",
+        "title": "Thunderstruck",
         "sitelinks": 23,
         "source": "http://www.wikidata.org/entity/Q2430003"
       },
       {
         "qid": "Q1512224",
-        "title": "地獄鐘聲 (歌曲)",
+        "title": "Hells Bells",
         "sitelinks": 22,
         "source": "http://www.wikidata.org/entity/Q1512224"
       },
       {
         "qid": "Q2466691",
-        "title": "回到黑暗",
+        "title": "Back in Black",
         "sitelinks": 20,
         "source": "http://www.wikidata.org/entity/Q2466691"
       },
       {
         "qid": "Q2697436",
-        "title": "悪事と地獄",
+        "title": "Dirty Deeds Done Dirt Cheap",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q2697436"
       },
       {
         "qid": "Q2160601",
-        "title": "搖滾列車 (歌曲)",
+        "title": "Rock 'N Roll Train",
         "sitelinks": 13,
         "source": "http://www.wikidata.org/entity/Q2160601"
       }
@@ -6271,7 +6271,7 @@
     "667e856e-f3a7-42e9-8244-95422ef31321": [
       {
         "qid": "Q5032812",
-        "title": "キャノンボール",
+        "title": "Cannonball",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q5032812"
       },
@@ -6461,13 +6461,13 @@
     "66bdd1c9-d1c5-40b7-a487-5061fffbd87d": [
       {
         "qid": "Q105352451",
-        "title": "迴迴奇譚",
+        "title": "廻廻奇譚",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q105352451"
       },
       {
         "qid": "Q123129362",
-        "title": "皆大欢喜_(Eve歌曲)",
+        "title": "お気に召すまま (Eveの曲)",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q123129362"
       },
@@ -6506,16 +6506,16 @@
     ],
     "6fe07aa5-fec0-4eca-a456-f29bff451b04": [
       {
+        "qid": "Q578498",
+        "title": "Buddy Holly",
+        "sitelinks": 12,
+        "source": "http://www.wikidata.org/entity/Q578498"
+      },
+      {
         "qid": "Q2724785",
         "title": "Island in the Sun",
         "sitelinks": 12,
         "source": "http://www.wikidata.org/entity/Q2724785"
-      },
-      {
-        "qid": "Q578498",
-        "title": "バディ・ホリー",
-        "sitelinks": 12,
-        "source": "http://www.wikidata.org/entity/Q578498"
       },
       {
         "qid": "Q2551080",
@@ -6524,16 +6524,16 @@
         "source": "http://www.wikidata.org/entity/Q2551080"
       },
       {
+        "qid": "Q2535952",
+        "title": "Pork and Beans",
+        "sitelinks": 8,
+        "source": "http://www.wikidata.org/entity/Q2535952"
+      },
+      {
         "qid": "Q2551041",
         "title": "Undone – The Sweater Song",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q2551041"
-      },
-      {
-        "qid": "Q2535952",
-        "title": "豬肉和豆子",
-        "sitelinks": 8,
-        "source": "http://www.wikidata.org/entity/Q2535952"
       }
     ],
     "6f500293-7396-4903-b4fd-118127d06f9e": [
@@ -6571,7 +6571,7 @@
     "6ef00829-fa94-4fee-a5a6-b28e1208e96a": [
       {
         "qid": "Q11250681",
-        "title": "The Beginning (ONE OK ROCK單曲)",
+        "title": "The Beginning",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q11250681"
       },
@@ -6595,7 +6595,7 @@
       },
       {
         "qid": "Q15946418",
-        "title": "Answer is near",
+        "title": "アンサイズニア",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q15946418"
       }
@@ -6603,7 +6603,7 @@
     "70dc28e6-c597-49d4-90c7-e6b75509849e": [
       {
         "qid": "Q11242706",
-        "title": "SCREAM (GLAY×EXILE)",
+        "title": "SCREAM (GLAY×EXILEの曲)",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q11242706"
       }
@@ -6611,13 +6611,13 @@
     "6dddd7a2-5583-49d0-a8b2-9ee46d04f27e": [
       {
         "qid": "Q110321532",
-        "title": "Cry Baby (Official髭男dism歌曲)",
+        "title": "Cry Baby",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q110321532"
       },
       {
         "qid": "Q108576782",
-        "title": "115萬公里的底片",
+        "title": "115万キロのフィルム",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q108576782"
       },
@@ -6643,7 +6643,7 @@
     "7dc8f5bd-9d0b-4087-9f73-dc164950bbd8": [
       {
         "qid": "Q3877506",
-        "title": "ノー・ワン・ノウズ",
+        "title": "No One Knows",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q3877506"
       },
@@ -6707,7 +6707,7 @@
     "7527f6c2-d762-4b88-b5e2-9244f1e34c46": [
       {
         "qid": "Q2405383",
-        "title": "Change",
+        "title": "Change (In the House of Flies)",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q2405383"
       },
@@ -6783,7 +6783,7 @@
     "77191d5f-1045-4b3b-ad7f-12ea398db929": [
       {
         "qid": "Q51269362",
-        "title": "If～倘若再次相逢～",
+        "title": "If -Mata Aetara-",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q51269362"
       },
@@ -6808,8 +6808,14 @@
         "source": "http://www.wikidata.org/entity/Q104525154"
       },
       {
+        "qid": "Q85865971",
+        "title": "Koi-wazurai",
+        "sitelinks": 2,
+        "source": "http://www.wikidata.org/entity/Q85865971"
+      },
+      {
         "qid": "Q117841533",
-        "title": "Life goes on / We are young",
+        "title": "Life goes on/We are young",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q117841533"
       },
@@ -6821,15 +6827,9 @@
       },
       {
         "qid": "Q107015785",
-        "title": "Magic Touch / Beating Hearts",
+        "title": "Magic Touch/Beating Hearts",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q107015785"
-      },
-      {
-        "qid": "Q97216599",
-        "title": "Mazy Night",
-        "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q97216599"
       }
     ],
     "7974fd3f-b3e7-4607-a1ad-9d85c07ac3b9": [
@@ -6847,7 +6847,7 @@
       },
       {
         "qid": "Q30934898",
-        "title": "狂亂 Hey Kids!!",
+        "title": "狂乱 Hey Kids!!",
         "sitelinks": 1,
         "source": "http://www.wikidata.org/entity/Q30934898"
       },
@@ -6885,7 +6885,7 @@
       },
       {
         "qid": "Q105193614",
-        "title": "Take a picture／Poppin' Shakin'",
+        "title": "Take a picture / Poppin' Shakin'",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q105193614"
       }
@@ -6929,7 +6929,7 @@
     "8538e728-ca0b-4321-b7e5-cff6565dd4c0": [
       {
         "qid": "Q279097",
-        "title": "エンジョイ・ザ・サイレンス",
+        "title": "Enjoy the Silence",
         "sitelinks": 27,
         "source": "http://www.wikidata.org/entity/Q279097"
       },
@@ -6967,7 +6967,7 @@
       },
       {
         "qid": "Q1461284",
-        "title": "アライヴ",
+        "title": "Alive",
         "sitelinks": 17,
         "source": "http://www.wikidata.org/entity/Q1461284"
       },
@@ -7005,13 +7005,13 @@
       },
       {
         "qid": "Q11195020",
-        "title": "Crossing field",
+        "title": "crossing field",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q11195020"
       },
       {
         "qid": "Q10851995",
-        "title": "Oath sign",
+        "title": "oath sign",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q10851995"
       },
@@ -7025,7 +7025,7 @@
     "83d91898-7763-47d7-b03b-b92132375c47": [
       {
         "qid": "Q830073",
-        "title": "アーノルド・レーン",
+        "title": "Arnold Layne",
         "sitelinks": 29,
         "source": "http://www.wikidata.org/entity/Q830073"
       },
@@ -7037,7 +7037,7 @@
       },
       {
         "qid": "Q957641",
-        "title": "吹けよ風、呼べよ嵐",
+        "title": "One of These Days",
         "sitelinks": 23,
         "source": "http://www.wikidata.org/entity/Q957641"
       },
@@ -7049,7 +7049,7 @@
       },
       {
         "qid": "Q194231",
-        "title": "シーマスのブルース",
+        "title": "Seamus",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q194231"
       }
@@ -7129,21 +7129,21 @@
     "84f81b32-8b3a-4914-9cff-017a52f9d16b": [
       {
         "qid": "Q836681",
-        "title": "給和平一個機會",
+        "title": "Give Peace a Chance",
         "sitelinks": 29,
         "source": "http://www.wikidata.org/entity/Q836681"
       },
       {
-        "qid": "Q2608169",
-        "title": "パワー・トゥ・ザ・ピープル",
-        "sitelinks": 15,
-        "source": "http://www.wikidata.org/entity/Q2608169"
-      },
-      {
         "qid": "Q868240",
-        "title": "戒断反应",
+        "title": "Cold Turkey",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q868240"
+      },
+      {
+        "qid": "Q2608169",
+        "title": "Power to the People",
+        "sitelinks": 15,
+        "source": "http://www.wikidata.org/entity/Q2608169"
       },
       {
         "qid": "Q7096297",
@@ -7153,7 +7153,7 @@
       },
       {
         "qid": "Q5292070",
-        "title": "京子ちゃん心配しないで",
+        "title": "Don't Worry Kyoko (Mummy's Only Looking for Her Hand in the Snow)",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q5292070"
       }
@@ -7187,39 +7187,39 @@
     "8bfac288-ccc5-448d-9573-c33ea2aa5c30": [
       {
         "qid": "Q523345",
-        "title": "ギヴ・イット・アウェイ",
+        "title": "Give It Away",
         "sitelinks": 22,
         "source": "http://www.wikidata.org/entity/Q523345"
       },
       {
         "qid": "Q970993",
-        "title": "アンダー・ザ・ブリッジ",
+        "title": "Under the Bridge",
         "sitelinks": 21,
         "source": "http://www.wikidata.org/entity/Q970993"
+      },
+      {
+        "qid": "Q2087371",
+        "title": "Californication",
+        "sitelinks": 20,
+        "source": "http://www.wikidata.org/entity/Q2087371"
+      },
+      {
+        "qid": "Q729815",
+        "title": "Dani California",
+        "sitelinks": 20,
+        "source": "http://www.wikidata.org/entity/Q729815"
       },
       {
         "qid": "Q1764046",
         "title": "Scar Tissue",
         "sitelinks": 20,
         "source": "http://www.wikidata.org/entity/Q1764046"
-      },
-      {
-        "qid": "Q729815",
-        "title": "ダニー・カリフォルニア",
-        "sitelinks": 20,
-        "source": "http://www.wikidata.org/entity/Q729815"
-      },
-      {
-        "qid": "Q2087371",
-        "title": "加利福尼亞化",
-        "sitelinks": 20,
-        "source": "http://www.wikidata.org/entity/Q2087371"
       }
     ],
     "8c32bb01-58a3-453b-8050-8c0620edb0e5": [
       {
         "qid": "Q2013829",
-        "title": "絲絨 (石廟嚮導歌曲)",
+        "title": "Plush",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q2013829"
       },
@@ -7251,13 +7251,13 @@
     "8f695099-c714-4ad0-8888-36eca37fee84": [
       {
         "qid": "Q10294126",
-        "title": "ヒート・オブ・ザ・モーメント",
+        "title": "Heat of the Moment",
         "sitelinks": 12,
         "source": "http://www.wikidata.org/entity/Q10294126"
       },
       {
         "qid": "Q615535",
-        "title": "時へのロマン",
+        "title": "Only Time Will Tell",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q615535"
       },
@@ -7269,7 +7269,7 @@
       },
       {
         "qid": "Q7557467",
-        "title": "孤独のサヴァイヴァー",
+        "title": "Sole Survivor",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q7557467"
       },
@@ -7422,20 +7422,20 @@
         "source": "http://www.wikidata.org/entity/Q871039"
       },
       {
+        "qid": "Q869406",
+        "title": "あぁ",
+        "sitelinks": 4,
+        "source": "http://www.wikidata.org/entity/Q869406"
+      },
+      {
         "qid": "Q16842834",
         "title": "ハロー・ハロー",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q16842834"
       },
       {
-        "qid": "Q869406",
-        "title": "啊",
-        "sitelinks": 4,
-        "source": "http://www.wikidata.org/entity/Q869406"
-      },
-      {
         "qid": "Q18636030",
-        "title": "將愛吹入體內",
+        "title": "愛をからだに吹き込んで",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q18636030"
       }
@@ -7469,13 +7469,13 @@
       },
       {
         "qid": "Q130530422",
-        "title": "I Wish (浪花男子單曲)",
+        "title": "I Wish",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q130530422"
       },
       {
         "qid": "Q132731069",
-        "title": "Make Up Day／Missing",
+        "title": "Make Up Day/Missing",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q132731069"
       },
@@ -7489,13 +7489,13 @@
     "8eeb59f4-0071-4261-b1f8-91d8294622d2": [
       {
         "qid": "Q135010929",
-        "title": "I don't care",
+        "title": "もうどうなってもいいや",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q135010929"
       },
       {
         "qid": "Q137858623",
-        "title": "瞄準月亮",
+        "title": "月に向かって撃て",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q137858623"
       },
@@ -7601,33 +7601,33 @@
     "908d9ac2-5187-4b9e-b281-601c6afb0791": [
       {
         "qid": "Q56348793",
-        "title": "萬壽菊",
+        "title": "マリーゴールド",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q56348793"
       },
       {
-        "qid": "Q109599652",
-        "title": "在懂愛之前／落櫻繽紛的夜",
-        "sitelinks": 3,
-        "source": "http://www.wikidata.org/entity/Q109599652"
-      },
-      {
         "qid": "Q63349422",
-        "title": "春日",
+        "title": "ハルノヒ",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q63349422"
       },
       {
+        "qid": "Q109599652",
+        "title": "愛を知るまでは/桜が降る夜は",
+        "sitelinks": 3,
+        "source": "http://www.wikidata.org/entity/Q109599652"
+      },
+      {
         "qid": "Q60455926",
-        "title": "今夜就这样",
+        "title": "今夜このまま",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q60455926"
       },
       {
-        "qid": "Q66360668",
-        "title": "仲夏夜的味道",
+        "qid": "Q38279150",
+        "title": "君はロックを聴かない",
         "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q66360668"
+        "source": "http://www.wikidata.org/entity/Q38279150"
       }
     ],
     "9055fca5-69bc-4d47-b569-ab2012a19565": [
@@ -7761,13 +7761,13 @@
     "99790314-885a-4975-8614-9c5bc890364d": [
       {
         "qid": "Q1121052",
-        "title": "ウォーターフォールズ",
+        "title": "Waterfalls",
         "sitelinks": 17,
         "source": "http://www.wikidata.org/entity/Q1121052"
       },
       {
         "qid": "Q1408525",
-        "title": "クリープ (TLCの曲)",
+        "title": "Creep",
         "sitelinks": 12,
         "source": "http://www.wikidata.org/entity/Q1408525"
       },
@@ -7785,7 +7785,7 @@
       },
       {
         "qid": "Q1407660",
-        "title": "アンプリティ",
+        "title": "Unpretty",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q1407660"
       }
@@ -7825,31 +7825,31 @@
     "9c492c6c-ef67-48e7-b347-a410993b3274": [
       {
         "qid": "Q1073620",
-        "title": "奇蹟",
+        "title": "キセキ",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q1073620"
       },
       {
         "qid": "Q11073778",
-        "title": "愛歌",
+        "title": "愛唄",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q11073778"
       },
       {
         "qid": "Q11286362",
-        "title": "伊卡洛斯",
+        "title": "イカロス",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q11286362"
       },
       {
-        "qid": "Q10898491",
-        "title": "刹那 (單曲)",
+        "qid": "Q11122006",
+        "title": "オレンジ",
         "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q10898491"
+        "source": "http://www.wikidata.org/entity/Q11122006"
       },
       {
         "qid": "Q11069299",
-        "title": "強忍淚水，總有一天",
+        "title": "ミセナイナミダハ、きっといつか",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q11069299"
       }
@@ -7857,7 +7857,7 @@
     "95e1ead9-4d31-4808-a7ac-32c3614c116b": [
       {
         "qid": "Q1999714",
-        "title": "ミスター・ブライトサイド",
+        "title": "Mr. Brightside",
         "sitelinks": 22,
         "source": "http://www.wikidata.org/entity/Q1999714"
       },
@@ -7881,7 +7881,7 @@
       },
       {
         "qid": "Q1961595",
-        "title": "年少輕狂",
+        "title": "When You Were Young",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q1961595"
       }
@@ -7889,13 +7889,13 @@
     "9388cee2-7d57-4598-905f-106019b267d3": [
       {
         "qid": "Q110156723",
-        "title": "殘響散歌 / 早晨來了",
+        "title": "残響散歌/朝が来る",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q110156723"
       },
       {
         "qid": "Q43417743",
-        "title": "ONE/花之歌/六等星之夜 Magic Blue ver.",
+        "title": "ONE/花の唄/六等星の夜 Magic Blue ver.",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q43417743"
       },
@@ -7927,7 +7927,7 @@
       },
       {
         "qid": "Q19824861",
-        "title": "哦！勁敵",
+        "title": "オー!リバル",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q19824861"
       },
@@ -7944,10 +7944,10 @@
         "source": "http://www.wikidata.org/entity/Q11197992"
       },
       {
-        "qid": "Q11348607",
-        "title": "Link (色情塗鴉的歌曲)",
+        "qid": "Q11230420",
+        "title": "Love,too Death,too",
         "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q11348607"
+        "source": "http://www.wikidata.org/entity/Q11230420"
       }
     ],
     "9b137ab6-5987-4606-989b-183cdb2d3e50": [
@@ -7979,7 +7979,7 @@
       },
       {
         "qid": "Q3472816",
-        "title": "Santeria (歌曲)",
+        "title": "Santeria",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q3472816"
       },
@@ -8029,31 +8029,31 @@
     "9c9f1380-2516-4fc9-a3e6-f9f61941d090": [
       {
         "qid": "Q374156",
-        "title": "プラグ・イン・ベイビー",
+        "title": "Plug in Baby",
         "sitelinks": 25,
         "source": "http://www.wikidata.org/entity/Q374156"
       },
       {
-        "qid": "Q198725",
-        "title": "Uprising (노래)",
-        "sitelinks": 21,
-        "source": "http://www.wikidata.org/entity/Q198725"
-      },
-      {
         "qid": "Q1628696",
-        "title": "ウノ",
+        "title": "Uno",
         "sitelinks": 21,
         "source": "http://www.wikidata.org/entity/Q1628696"
       },
       {
+        "qid": "Q198725",
+        "title": "Uprising",
+        "sitelinks": 21,
+        "source": "http://www.wikidata.org/entity/Q198725"
+      },
+      {
         "qid": "Q736010",
-        "title": "Cave (노래)",
+        "title": "Cave",
         "sitelinks": 20,
         "source": "http://www.wikidata.org/entity/Q736010"
       },
       {
         "qid": "Q960179",
-        "title": "Neutron Star Collision",
+        "title": "Neutron Star Collision (Love Is Forever)",
         "sitelinks": 20,
         "source": "http://www.wikidata.org/entity/Q960179"
       }
@@ -8073,7 +8073,7 @@
       },
       {
         "qid": "Q550204",
-        "title": "Duality (노래)",
+        "title": "Duality",
         "sitelinks": 18,
         "source": "http://www.wikidata.org/entity/Q550204"
       },
@@ -8085,7 +8085,7 @@
       },
       {
         "qid": "Q929774",
-        "title": "ウェイト・アンド・ブリード",
+        "title": "Wait and Bleed",
         "sitelinks": 17,
         "source": "http://www.wikidata.org/entity/Q929774"
       }
@@ -8093,65 +8093,65 @@
     "a3cb23fc-acd3-4ce0-8f36-1e5aa6a18432": [
       {
         "qid": "Q1165194",
-        "title": "ワン",
+        "title": "One",
         "sitelinks": 26,
         "source": "http://www.wikidata.org/entity/Q1165194"
       },
       {
-        "qid": "Q1131812",
-        "title": "ウィズ・オア・ウィズアウト・ユー",
-        "sitelinks": 24,
-        "source": "http://www.wikidata.org/entity/Q1131812"
-      },
-      {
         "qid": "Q926435",
-        "title": "ビューティフル・デイ",
+        "title": "Beautiful Day",
         "sitelinks": 24,
         "source": "http://www.wikidata.org/entity/Q926435"
       },
       {
+        "qid": "Q1131812",
+        "title": "With or Without You",
+        "sitelinks": 24,
+        "source": "http://www.wikidata.org/entity/Q1131812"
+      },
+      {
         "qid": "Q1060948",
-        "title": "終わりなき旅",
+        "title": "I Still Haven't Found What I'm Looking For",
         "sitelinks": 23,
         "source": "http://www.wikidata.org/entity/Q1060948"
       },
       {
         "qid": "Q2237444",
-        "title": "ニュー・イヤーズ・デイ",
+        "title": "New Year's Day",
         "sitelinks": 19,
         "source": "http://www.wikidata.org/entity/Q2237444"
       }
     ],
     "9fdaa16b-a6c4-4831-b87c-bc9ca8ce7eaa": [
       {
-        "qid": "Q2654150",
-        "title": "ユー・ベター・ユー・ベット",
-        "sitelinks": 9,
-        "source": "http://www.wikidata.org/entity/Q2654150"
-      },
-      {
         "qid": "Q2531425",
-        "title": "愛，統治我",
+        "title": "Love, Reign o'er Me",
         "sitelinks": 9,
         "source": "http://www.wikidata.org/entity/Q2531425"
       },
       {
+        "qid": "Q2654150",
+        "title": "You Better You Bet",
+        "sitelinks": 9,
+        "source": "http://www.wikidata.org/entity/Q2654150"
+      },
+      {
         "qid": "Q2911069",
-        "title": "蜘蛛戰士",
+        "title": "Boris the Spider",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q2911069"
+      },
+      {
+        "qid": "Q1974873",
+        "title": "A Quick One, While He's Away",
+        "sitelinks": 7,
+        "source": "http://www.wikidata.org/entity/Q1974873"
       },
       {
         "qid": "Q1828351",
         "title": "The Acid Queen",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q1828351"
-      },
-      {
-        "qid": "Q1974873",
-        "title": "クイック・ワン",
-        "sitelinks": 7,
-        "source": "http://www.wikidata.org/entity/Q1974873"
       }
     ],
     "a0e10984-0eca-4920-a171-5fd7a62ee069": [
@@ -8189,13 +8189,13 @@
     "9dcffd99-eca6-4a09-8dbd-c6c4ed2f20fd": [
       {
         "qid": "Q855993",
-        "title": "C-レブリティ",
+        "title": "C-lebrity",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q855993"
       },
       {
         "qid": "Q1077895",
-        "title": "セイ・イッツ・ノット・トゥルー",
+        "title": "Say It's Not True",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q1077895"
       },
@@ -8227,41 +8227,41 @@
       },
       {
         "qid": "Q128853601",
-        "title": "紫丁香",
+        "title": "ライラック",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q128853601"
       },
       {
         "qid": "Q65248919",
-        "title": "關於我 (Mrs. GREEN APPLE歌曲)",
+        "title": "僕のこと",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q65248919"
       },
       {
-        "qid": "Q134475124",
-        "title": "Darling (Mrs. GREEN APPLE歌曲)",
-        "sitelinks": 2,
-        "source": "http://www.wikidata.org/entity/Q134475124"
-      },
-      {
         "qid": "Q136409649",
-        "title": "GOOD DAY (Mrs. GREEN APPLE歌曲)",
+        "title": "GOOD DAY",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q136409649"
+      },
+      {
+        "qid": "Q137768152",
+        "title": "Lulu.",
+        "sitelinks": 2,
+        "source": "http://www.wikidata.org/entity/Q137768152"
       }
     ],
     "9e299bee-d7e2-49f3-8cd7-d6b28ab204d1": [
+      {
+        "qid": "Q5251084",
+        "title": "Default",
+        "sitelinks": 1,
+        "source": "http://www.wikidata.org/entity/Q5251084"
+      },
       {
         "qid": "Q6302446",
         "title": "Judge, Jury and Executioner",
         "sitelinks": 1,
         "source": "http://www.wikidata.org/entity/Q6302446"
-      },
-      {
-        "qid": "Q5251084",
-        "title": "デフォルト",
-        "sitelinks": 1,
-        "source": "http://www.wikidata.org/entity/Q5251084"
       }
     ],
     "a33ecf1b-a4ed-43e4-b6ab-26623b40cfad": [
@@ -8397,7 +8397,7 @@
     "a38222d9-cc8e-4c93-8832-908290666215": [
       {
         "qid": "Q17216086",
-        "title": "Great escape",
+        "title": "great escape",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q17216086"
       },
@@ -8474,26 +8474,26 @@
         "source": "http://www.wikidata.org/entity/Q149443"
       },
       {
-        "qid": "Q149099",
-        "title": "サヴァイヴァー",
-        "sitelinks": 18,
-        "source": "http://www.wikidata.org/entity/Q149099"
-      },
-      {
         "qid": "Q149244",
-        "title": "独立女人",
+        "title": "Independent Women Part I",
         "sitelinks": 18,
         "source": "http://www.wikidata.org/entity/Q149244"
       },
       {
+        "qid": "Q149099",
+        "title": "Survivor",
+        "sitelinks": 18,
+        "source": "http://www.wikidata.org/entity/Q149099"
+      },
+      {
         "qid": "Q149513",
-        "title": "ビルズ、ビルズ、ビルズ",
+        "title": "Bills, Bills",
         "sitelinks": 17,
         "source": "http://www.wikidata.org/entity/Q149513"
       },
       {
         "qid": "Q149510",
-        "title": "ブーティリシャス",
+        "title": "Bootylicious",
         "sitelinks": 16,
         "source": "http://www.wikidata.org/entity/Q149510"
       }
@@ -8501,19 +8501,19 @@
     "a9044915-8be3-4c7e-b11f-9e2d2ea0a91e": [
       {
         "qid": "Q30874",
-        "title": "聖戰…替天行道",
+        "title": "Holy Wars... The Punishment Due",
         "sitelinks": 19,
         "source": "http://www.wikidata.org/entity/Q30874"
       },
       {
         "qid": "Q2277543",
-        "title": "狂乱のシンフォニー",
+        "title": "Symphony of Destruction",
         "sitelinks": 18,
         "source": "http://www.wikidata.org/entity/Q2277543"
       },
       {
         "qid": "Q279384",
-        "title": "給全世界",
+        "title": "A Tout le Monde",
         "sitelinks": 16,
         "source": "http://www.wikidata.org/entity/Q279384"
       },
@@ -8525,7 +8525,7 @@
       },
       {
         "qid": "Q34151",
-        "title": "十八號機棚",
+        "title": "Hangar 18",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q34151"
       }
@@ -8533,19 +8533,19 @@
     "a6c6897a-7415-4f8d-b5a5-3a5e05f3be67": [
       {
         "qid": "Q24664844",
-        "title": "异类 (歌曲)",
+        "title": "Heathens",
         "sitelinks": 21,
         "source": "http://www.wikidata.org/entity/Q24664844"
       },
       {
         "qid": "Q19851006",
-        "title": "辗转难眠",
+        "title": "Stressed Out",
         "sitelinks": 20,
         "source": "http://www.wikidata.org/entity/Q19851006"
       },
       {
         "qid": "Q19961764",
-        "title": "旅程",
+        "title": "Ride",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q19961764"
       },
@@ -8557,7 +8557,7 @@
       },
       {
         "qid": "Q19816690",
-        "title": "心中有淚",
+        "title": "Tear in My Heart",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q19816690"
       }
@@ -8565,19 +8565,19 @@
     "a74b1b7f-71a5-4011-9441-d0b5e4122711": [
       {
         "qid": "Q863433",
-        "title": "怪胎",
+        "title": "Creep",
         "sitelinks": 29,
         "source": "http://www.wikidata.org/entity/Q863433"
       },
       {
         "qid": "Q1750699",
-        "title": "カーマ・ポリス",
+        "title": "Karma Police",
         "sitelinks": 23,
         "source": "http://www.wikidata.org/entity/Q1750699"
       },
       {
         "qid": "Q1751357",
-        "title": "偏执狂机器人",
+        "title": "Paranoid Android",
         "sitelinks": 23,
         "source": "http://www.wikidata.org/entity/Q1751357"
       },
@@ -8588,10 +8588,10 @@
         "source": "http://www.wikidata.org/entity/Q1990047"
       },
       {
-        "qid": "Q2469634",
-        "title": "ハイ・アンド・ドライ",
+        "qid": "Q2086905",
+        "title": "Fake Plastic Trees",
         "sitelinks": 19,
-        "source": "http://www.wikidata.org/entity/Q2469634"
+        "source": "http://www.wikidata.org/entity/Q2086905"
       }
     ],
     "a70fca82-889a-4f70-98bb-39f7ec968566": [
@@ -8673,7 +8673,7 @@
       },
       {
         "qid": "Q11346403",
-        "title": "雷電",
+        "title": "ライディーン",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q11346403"
       },
@@ -8693,7 +8693,7 @@
     "ada7a83c-e3e1-40f1-93f9-3e73dbc9298a": [
       {
         "qid": "Q2030955",
-        "title": "アイ・ベット・ユー・ルック・グッド・オン・ザ・ダンスフロア",
+        "title": "I Bet You Look Good on the Dancefloor",
         "sitelinks": 21,
         "source": "http://www.wikidata.org/entity/Q2030955"
       },
@@ -8741,13 +8741,13 @@
     "a9d1c0f3-269f-436f-b163-41d6fd9ebf13": [
       {
         "qid": "Q11238626",
-        "title": "临津江",
+        "title": "イムジン河",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q11238626"
       },
       {
         "qid": "Q11481230",
-        "title": "歸來的醉漢",
+        "title": "帰って来たヨッパライ",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q11481230"
       },
@@ -8921,7 +8921,7 @@
       },
       {
         "qid": "Q3324944",
-        "title": "ギガンティック",
+        "title": "Gigantic",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q3324944"
       },
@@ -8935,7 +8935,7 @@
     "b38225b8-8e5f-42aa-bcdc-7bae5b5bdab3": [
       {
         "qid": "Q2576532",
-        "title": "請稍等一下",
+        "title": "Matte Kudasai",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q2576532"
       },
@@ -8972,16 +8972,16 @@
         "source": "http://www.wikidata.org/entity/Q654173"
       },
       {
+        "qid": "Q239076",
+        "title": "Closer",
+        "sitelinks": 14,
+        "source": "http://www.wikidata.org/entity/Q239076"
+      },
+      {
         "qid": "Q2020816",
         "title": "The Perfect Drug",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q2020816"
-      },
-      {
-        "qid": "Q239076",
-        "title": "クローサー",
-        "sitelinks": 14,
-        "source": "http://www.wikidata.org/entity/Q239076"
       },
       {
         "qid": "Q45228",
@@ -8999,31 +8999,31 @@
     "b071f9fa-14b0-4217-8e97-eb41da73f598": [
       {
         "qid": "Q1046717",
-        "title": "黒くぬれ!",
+        "title": "Paint It Black",
         "sitelinks": 31,
         "source": "http://www.wikidata.org/entity/Q1046717"
       },
       {
         "qid": "Q3505390",
-        "title": "エニバディ・シーン・マイ・ベイビー?",
+        "title": "Anybody Seen My Baby?",
         "sitelinks": 19,
         "source": "http://www.wikidata.org/entity/Q3505390"
       },
       {
         "qid": "Q991121",
-        "title": "ブラウン・シュガー",
+        "title": "Brown Sugar",
         "sitelinks": 19,
         "source": "http://www.wikidata.org/entity/Q991121"
       },
       {
         "qid": "Q2312462",
-        "title": "想念你",
+        "title": "Miss You",
         "sitelinks": 16,
         "source": "http://www.wikidata.org/entity/Q2312462"
       },
       {
         "qid": "Q2071495",
-        "title": "一人ぼっちの世界",
+        "title": "Get Off of My Cloud",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q2071495"
       }
@@ -9036,16 +9036,16 @@
         "source": "http://www.wikidata.org/entity/Q1406941"
       },
       {
-        "qid": "Q2699188",
-        "title": "Come Back To Me",
-        "sitelinks": 8,
-        "source": "http://www.wikidata.org/entity/Q2699188"
-      },
-      {
         "qid": "Q2699279",
         "title": "Flavor Of Life",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q2699279"
+      },
+      {
+        "qid": "Q2699188",
+        "title": "カム・バック・トゥ・ミー",
+        "sitelinks": 8,
+        "source": "http://www.wikidata.org/entity/Q2699188"
       },
       {
         "qid": "Q2700210",
@@ -9103,25 +9103,25 @@
     "b10bbbfc-cf9e-42e0-be17-e2c3e1d2600d": [
       {
         "qid": "Q1753591",
-        "title": "如果我倒下",
+        "title": "If I Fell",
         "sitelinks": 20,
         "source": "http://www.wikidata.org/entity/Q1753591"
       },
       {
         "qid": "Q2276606",
-        "title": "披頭四電影混合曲",
+        "title": "The Beatles' Movie Medley",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q2276606"
       },
       {
         "qid": "Q60617759",
-        "title": "來吧給我你的手／她愛你",
+        "title": "Komm, gib mir deine Hand / Sie liebt dich",
         "sitelinks": 9,
         "source": "http://www.wikidata.org/entity/Q60617759"
       },
       {
         "qid": "Q3208116",
-        "title": "寶貝，如果你愛我",
+        "title": "If You Love Me",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q3208116"
       },
@@ -9134,16 +9134,16 @@
     ],
     "b3d0f168-cb34-47c6-8529-fc05d1fce3ee": [
       {
+        "qid": "Q11224573",
+        "title": "空が鳴っている/女の子は誰でも",
+        "sitelinks": 3,
+        "source": "http://www.wikidata.org/entity/Q11224573"
+      },
+      {
         "qid": "Q5968326",
         "title": "能動的三分間",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q5968326"
-      },
-      {
-        "qid": "Q11224573",
-        "title": "迴響天空／每個女孩子啊",
-        "sitelinks": 3,
-        "source": "http://www.wikidata.org/entity/Q11224573"
       },
       {
         "qid": "Q18128978",
@@ -9159,7 +9159,7 @@
       },
       {
         "qid": "Q105352496",
-        "title": "赤之同盟",
+        "title": "赤の同盟",
         "sitelinks": 1,
         "source": "http://www.wikidata.org/entity/Q105352496"
       }
@@ -9193,7 +9193,7 @@
     "b58ac34f-e412-4316-8ad3-a721ce598ac3": [
       {
         "qid": "Q1952783",
-        "title": "1/3純情的感情#FLOW的單曲",
+        "title": "1/3の純情な感情",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q1952783"
       },
@@ -9289,7 +9289,7 @@
     "b1e5a313-b558-4f9a-a0c5-87611d10c770": [
       {
         "qid": "Q97174191",
-        "title": "微笑 (Twenty★Twenty單曲)",
+        "title": "smile",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q97174191"
       }
@@ -9325,63 +9325,63 @@
     "ba853904-ae25-4ebb-89d6-c44cfbd71bd2": [
       {
         "qid": "Q85357",
-        "title": "ソング2",
+        "title": "Song 2",
         "sitelinks": 26,
         "source": "http://www.wikidata.org/entity/Q85357"
       },
       {
         "qid": "Q2484305",
-        "title": "コーヒー&TV",
+        "title": "Coffee & TV",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q2484305"
       },
       {
+        "qid": "Q80111",
+        "title": "Beetlebum",
+        "sitelinks": 12,
+        "source": "http://www.wikidata.org/entity/Q80111"
+      },
+      {
         "qid": "Q2713436",
-        "title": "ガールズ&ボーイズ",
+        "title": "Girls & Boys",
         "sitelinks": 12,
         "source": "http://www.wikidata.org/entity/Q2713436"
       },
       {
         "qid": "Q85353",
-        "title": "テンダー",
+        "title": "Tender",
         "sitelinks": 12,
         "source": "http://www.wikidata.org/entity/Q85353"
-      },
-      {
-        "qid": "Q80111",
-        "title": "ビートルバム",
-        "sitelinks": 12,
-        "source": "http://www.wikidata.org/entity/Q80111"
       }
     ],
     "bd13909f-1c29-4c27-a874-d4aaf27c5b1a": [
       {
         "qid": "Q959036",
-        "title": "来安农",
+        "title": "Rhiannon",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q959036"
       },
       {
-        "qid": "Q7080555",
-        "title": "オー・ウェル",
-        "sitelinks": 10,
-        "source": "http://www.wikidata.org/entity/Q7080555"
-      },
-      {
-        "qid": "Q676207",
-        "title": "リトル・ライズ",
-        "sitelinks": 10,
-        "source": "http://www.wikidata.org/entity/Q676207"
-      },
-      {
         "qid": "Q5625317",
-        "title": "愛のジプシー",
+        "title": "Gypsy",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q5625317"
       },
       {
+        "qid": "Q676207",
+        "title": "Little Lies",
+        "sitelinks": 10,
+        "source": "http://www.wikidata.org/entity/Q676207"
+      },
+      {
+        "qid": "Q7080555",
+        "title": "Oh Well",
+        "sitelinks": 10,
+        "source": "http://www.wikidata.org/entity/Q7080555"
+      },
+      {
         "qid": "Q1809189",
-        "title": "アルバトロス (あほうどり)",
+        "title": "Albatross",
         "sitelinks": 9,
         "source": "http://www.wikidata.org/entity/Q1809189"
       }
@@ -9389,7 +9389,7 @@
     "c3a4aeca-8f02-4d22-b1ff-693434ab09a8": [
       {
         "qid": "Q115099302",
-        "title": "我寧可去死",
+        "title": "死ぬのがいいわ",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q115099302"
       },
@@ -9407,13 +9407,13 @@
       },
       {
         "qid": "Q116939464",
-        "title": "閃耀",
+        "title": "きらり (曲)",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q116939464"
       },
       {
         "qid": "Q108418470",
-        "title": "燃燒吧",
+        "title": "燃えよ",
         "sitelinks": 1,
         "source": "http://www.wikidata.org/entity/Q108418470"
       }
@@ -9453,9 +9453,15 @@
     "bdbd48f5-abf3-4a4f-9a21-4551dbc3fde9": [
       {
         "qid": "Q3635151",
-        "title": "梭子魚（曲名）",
+        "title": "Barracuda",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q3635151"
+      },
+      {
+        "qid": "Q923924",
+        "title": "Crazy on You",
+        "sitelinks": 8,
+        "source": "http://www.wikidata.org/entity/Q923924"
       },
       {
         "qid": "Q571776",
@@ -9464,46 +9470,40 @@
         "source": "http://www.wikidata.org/entity/Q571776"
       },
       {
-        "qid": "Q923924",
-        "title": "クレイジー・オン・ユー",
-        "sitelinks": 8,
-        "source": "http://www.wikidata.org/entity/Q923924"
+        "qid": "Q6730763",
+        "title": "Magic Man",
+        "sitelinks": 7,
+        "source": "http://www.wikidata.org/entity/Q6730763"
       },
       {
         "qid": "Q4178055",
         "title": "What About Love",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q4178055"
-      },
-      {
-        "qid": "Q6730763",
-        "title": "マジック・マン",
-        "sitelinks": 7,
-        "source": "http://www.wikidata.org/entity/Q6730763"
       }
     ],
     "c07f0676-9143-4217-8a9f-4c26bd636f13": [
       {
         "qid": "Q2068199",
-        "title": "ウェルカム・トゥ・ザ・ブラック・パレード",
+        "title": "Welcome to the Black Parade",
         "sitelinks": 21,
         "source": "http://www.wikidata.org/entity/Q2068199"
       },
       {
         "qid": "Q2360547",
-        "title": "青年",
+        "title": "Teenagers",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q2360547"
       },
       {
         "qid": "Q2454199",
-        "title": "Helena (마이 케미컬 로맨스의 노래)",
+        "title": "Helena",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q2454199"
       },
       {
         "qid": "Q2324211",
-        "title": "アイ・ドント・ラヴ・ユー",
+        "title": "I Don't Love You",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q2324211"
       },
@@ -9555,9 +9555,15 @@
       },
       {
         "qid": "Q2758957",
-        "title": "今天",
+        "title": "Today",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q2758957"
+      },
+      {
+        "qid": "Q2744279",
+        "title": "Bullet with Butterfly Wings",
+        "sitelinks": 13,
+        "source": "http://www.wikidata.org/entity/Q2744279"
       },
       {
         "qid": "Q3045412",
@@ -9570,12 +9576,6 @@
         "title": "Tonight, Tonight",
         "sitelinks": 13,
         "source": "http://www.wikidata.org/entity/Q2527634"
-      },
-      {
-        "qid": "Q2744279",
-        "title": "有蝴蝶翅膀的子彈",
-        "sitelinks": 13,
-        "source": "http://www.wikidata.org/entity/Q2744279"
       }
     ],
     "c0eee88b-47f2-4cd2-ac48-a045e902a432": [
@@ -9707,57 +9707,57 @@
       },
       {
         "qid": "Q615063",
-        "title": "時鐘（歌曲）",
+        "title": "Clocks",
         "sitelinks": 25,
         "source": "http://www.wikidata.org/entity/Q615063"
       },
       {
         "qid": "Q1991424",
-        "title": "科學家",
+        "title": "The Scientist",
         "sitelinks": 25,
         "source": "http://www.wikidata.org/entity/Q1991424"
       },
       {
         "qid": "Q28824109",
-        "title": "如此而已",
+        "title": "Something Just Like This",
         "sitelinks": 24,
         "source": "http://www.wikidata.org/entity/Q28824109"
       },
       {
-        "qid": "Q1991309",
-        "title": "填滿你的心",
+        "qid": "Q1768200",
+        "title": "Every Teardrop Is a Waterfall",
         "sitelinks": 23,
-        "source": "http://www.wikidata.org/entity/Q1991309"
+        "source": "http://www.wikidata.org/entity/Q1768200"
       }
     ],
     "ca891d65-d9b0-4258-89f7-e6ba29d83767": [
       {
         "qid": "Q961842",
-        "title": "亡命山丘",
+        "title": "Run to the Hills",
         "sitelinks": 24,
         "source": "http://www.wikidata.org/entity/Q961842"
       },
       {
         "qid": "Q1995116",
-        "title": "騎兵 (鐵娘子歌曲)",
+        "title": "The Trooper",
         "sitelinks": 22,
         "source": "http://www.wikidata.org/entity/Q1995116"
       },
       {
         "qid": "Q1990567",
-        "title": "午夜兩分前",
+        "title": "2 Minutes to Midnight",
         "sitelinks": 21,
         "source": "http://www.wikidata.org/entity/Q1990567"
       },
       {
         "qid": "Q627362",
-        "title": "蹉跎歲月 (鐵娘子歌曲)",
+        "title": "Wasted Years",
         "sitelinks": 20,
         "source": "http://www.wikidata.org/entity/Q627362"
       },
       {
         "qid": "Q2082133",
-        "title": "致命快感 (鐵娘子歌曲)",
+        "title": "Be Quick or Be Dead",
         "sitelinks": 19,
         "source": "http://www.wikidata.org/entity/Q2082133"
       }
@@ -9831,7 +9831,7 @@
     "c48d4327-8122-4286-af66-05e1ee6ac4d8": [
       {
         "qid": "Q5429181",
-        "title": "フェード・イントゥ・ユー",
+        "title": "Fade into You",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q5429181"
       },
@@ -9908,6 +9908,12 @@
         "source": "http://www.wikidata.org/entity/Q119344552"
       },
       {
+        "qid": "Q119344200",
+        "title": "なんでもないよ、",
+        "sitelinks": 1,
+        "source": "http://www.wikidata.org/entity/Q119344200"
+      },
+      {
         "qid": "Q122802437",
         "title": "はしりがき",
         "sitelinks": 1,
@@ -9924,12 +9930,6 @@
         "title": "恋人ごっこ",
         "sitelinks": 1,
         "source": "http://www.wikidata.org/entity/Q109361546"
-      },
-      {
-        "qid": "Q119344200",
-        "title": "沒什麼",
-        "sitelinks": 1,
-        "source": "http://www.wikidata.org/entity/Q119344200"
       }
     ],
     "d5f54887-117b-42a1-9aee-8780b84ebaba": [
@@ -9952,14 +9952,14 @@
         "source": "http://www.wikidata.org/entity/Q2472253"
       },
       {
-        "qid": "Q2075628",
-        "title": "Everybody's on the Run",
+        "qid": "Q18758135",
+        "title": "Ballad of the Mighty I",
         "sitelinks": 5,
-        "source": "http://www.wikidata.org/entity/Q2075628"
+        "source": "http://www.wikidata.org/entity/Q18758135"
       },
       {
         "qid": "Q5306420",
-        "title": "ドリーム・オン (ノエル・ギャラガーの曲)",
+        "title": "Dream On",
         "sitelinks": 5,
         "source": "http://www.wikidata.org/entity/Q5306420"
       }
@@ -9967,7 +9967,7 @@
     "d1947987-9614-49ae-bd36-8000e6b6f7d0": [
       {
         "qid": "Q5457531",
-        "title": "フラッシュ・ライト",
+        "title": "Flash Light",
         "sitelinks": 6,
         "source": "http://www.wikidata.org/entity/Q5457531"
       },
@@ -9985,7 +9985,7 @@
       },
       {
         "qid": "Q15956549",
-        "title": "パーティ・ピープル",
+        "title": "Party People",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q15956549"
       },
@@ -10063,7 +10063,7 @@
     "d1c5a553-1fd0-43ca-a66a-da94c9f15570": [
       {
         "qid": "Q119853289",
-        "title": "羈絆的奇蹟/熱戀不已",
+        "title": "Koi Kogare",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q119853289"
       },
@@ -10081,13 +10081,13 @@
       },
       {
         "qid": "Q22123663",
-        "title": "Emotions (MAN WITH A MISSION單曲)",
+        "title": "Emotions",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q22123663"
       },
       {
         "qid": "Q113496502",
-        "title": "Merry-Go-Round (MAN WITH A MISSION單曲)",
+        "title": "Merry-Go-Round (MAN WITH A MISSIONの曲)",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q113496502"
       }
@@ -10146,32 +10146,32 @@
     ],
     "d922d727-240a-4432-9a88-05a7cf9bc403": [
       {
-        "qid": "Q2112698",
-        "title": "心のラヴ・ソング",
-        "sitelinks": 14,
-        "source": "http://www.wikidata.org/entity/Q2112698"
-      },
-      {
         "qid": "Q1952215",
-        "title": "金泰爾角",
+        "title": "Mull of Kintyre",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q1952215"
       },
       {
+        "qid": "Q2112698",
+        "title": "Silly Love Songs",
+        "sitelinks": 14,
+        "source": "http://www.wikidata.org/entity/Q2112698"
+      },
+      {
         "qid": "Q2716030",
-        "title": "アイルランドに平和を",
+        "title": "Give Ireland Back to the Irish",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q2716030"
       },
       {
         "qid": "Q2439448",
-        "title": "あの娘におせっかい",
+        "title": "Listen to What the Man Said",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q2439448"
       },
       {
         "qid": "Q2459417",
-        "title": "ミセス・ヴァンデビルト",
+        "title": "Mrs Vandebilt",
         "sitelinks": 11,
         "source": "http://www.wikidata.org/entity/Q2459417"
       }
@@ -10211,31 +10211,31 @@
     "dea836e0-66dd-4285-9cab-2272bcda93b8": [
       {
         "qid": "Q7426248",
-        "title": "SATISFACTION (FTISLAND單曲)",
+        "title": "새티스팩션",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q7426248"
       },
       {
         "qid": "Q2647827",
-        "title": "Distance (FTIsland單曲)",
+        "title": "Distance",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q2647827"
       },
       {
         "qid": "Q2228590",
-        "title": "Let it go! (FTIsland單曲)",
+        "title": "Let It Go!",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q2228590"
       },
       {
         "qid": "Q7004405",
-        "title": "NEVERLAND (單曲)",
+        "title": "Neverland",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q7004405"
       },
       {
         "qid": "Q1970573",
-        "title": "So today…",
+        "title": "So Today...",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q1970573"
       }
@@ -10243,7 +10243,7 @@
     "df6c619f-4334-43e2-8b6a-4a32af1e4f85": [
       {
         "qid": "Q96955416",
-        "title": "向夜晚奔去",
+        "title": "夜に駆ける",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q96955416"
       },
@@ -10255,7 +10255,7 @@
       },
       {
         "qid": "Q97122977",
-        "title": "重現夢境",
+        "title": "あの夢をなぞって",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q97122977"
       },
@@ -10267,7 +10267,7 @@
       },
       {
         "qid": "Q97590089",
-        "title": "或許",
+        "title": "たぶん",
         "sitelinks": 6,
         "source": "http://www.wikidata.org/entity/Q97590089"
       }
@@ -10295,7 +10295,7 @@
       },
       {
         "qid": "Q11241269",
-        "title": "RPG (單曲)",
+        "title": "RPG",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q11241269"
       },
@@ -10315,15 +10315,15 @@
     "dfc6a151-3792-4695-8fda-f64723eaa788": [
       {
         "qid": "Q124483314",
-        "title": "放晴",
+        "title": "晴る",
         "sitelinks": 6,
         "source": "http://www.wikidata.org/entity/Q124483314"
       },
       {
-        "qid": "Q105352500",
-        "title": "吞食清風",
+        "qid": "Q133397916",
+        "title": "へび",
         "sitelinks": 3,
-        "source": "http://www.wikidata.org/entity/Q105352500"
+        "source": "http://www.wikidata.org/entity/Q133397916"
       },
       {
         "qid": "Q97312133",
@@ -10333,13 +10333,13 @@
       },
       {
         "qid": "Q106926154",
-        "title": "春竊賊",
+        "title": "春泥棒",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q106926154"
       },
       {
         "qid": "Q97207976",
-        "title": "花上的亡靈",
+        "title": "花に亡霊",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q97207976"
       }
@@ -10557,7 +10557,7 @@
     "e7ab70fc-ae7b-4321-a9d1-4c2e9440e0f5": [
       {
         "qid": "Q307024",
-        "title": "Gravity",
+        "title": "gravity",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q307024"
       },
@@ -10589,19 +10589,19 @@
     "e5db18cb-4b1f-496d-a308-548b611090d3": [
       {
         "qid": "Q486421",
-        "title": "英國無政府狀態",
+        "title": "Anarchy in the U.K.",
         "sitelinks": 23,
         "source": "http://www.wikidata.org/entity/Q486421"
       },
       {
         "qid": "Q2603413",
-        "title": "プリティ・ヴェイカント",
+        "title": "Pretty Vacant",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q2603413"
       },
       {
         "qid": "Q2398159",
-        "title": "陽光下的假日",
+        "title": "Holidays in the Sun",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q2398159"
       },
@@ -10621,13 +10621,13 @@
     "e21857d5-3256-4547-afb3-4b6ded592596": [
       {
         "qid": "Q2061766",
-        "title": "快樂企業",
+        "title": "Feel Good Inc.",
         "sitelinks": 19,
         "source": "http://www.wikidata.org/entity/Q2061766"
       },
       {
         "qid": "Q770786",
-        "title": "Clint Eastwood (歌曲)",
+        "title": "Clint Eastwood",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q770786"
       },
@@ -10653,7 +10653,7 @@
     "e1564e98-978b-4947-8698-f6fd6f8b0181": [
       {
         "qid": "Q1827628",
-        "title": "Believe Me (포트 마이너의 노래)",
+        "title": "Believe Me",
         "sitelinks": 12,
         "source": "http://www.wikidata.org/entity/Q1827628"
       },
@@ -10890,16 +10890,22 @@
     ],
     "e134b52f-2e9e-4734-9bc3-bea9648d1fa1": [
       {
+        "qid": "Q138507604",
+        "title": "ビバリウム",
+        "sitelinks": 4,
+        "source": "http://www.wikidata.org/entity/Q138507604"
+      },
+      {
         "qid": "Q113112549",
         "title": "レディメイド(楽曲)",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q113112549"
       },
       {
-        "qid": "Q138507604",
-        "title": "生態箱 (歌曲)",
-        "sitelinks": 4,
-        "source": "http://www.wikidata.org/entity/Q138507604"
+        "qid": "Q108276803",
+        "title": "ギラギラ",
+        "sitelinks": 3,
+        "source": "http://www.wikidata.org/entity/Q108276803"
       },
       {
         "qid": "Q123408351",
@@ -10909,15 +10915,9 @@
       },
       {
         "qid": "Q112914165",
-        "title": "我最強 (Ado歌曲)",
+        "title": "私は最強",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q112914165"
-      },
-      {
-        "qid": "Q113112471",
-        "title": "逆光 (Ado歌曲)",
-        "sitelinks": 3,
-        "source": "http://www.wikidata.org/entity/Q113112471"
       }
     ],
     "e5e045da-59a3-4b65-8bb4-3c7f3ac9a529": [
@@ -10995,33 +10995,33 @@
     "eeb1195b-f213-4ce1-b28c-8565211f8e43": [
       {
         "qid": "Q533205",
-        "title": "イストレインジド",
+        "title": "Estranged",
         "sitelinks": 18,
         "source": "http://www.wikidata.org/entity/Q533205"
       },
       {
         "qid": "Q633376",
-        "title": "イッツ・ソー・イージー",
+        "title": "It's So Easy",
         "sitelinks": 16,
         "source": "http://www.wikidata.org/entity/Q633376"
       },
       {
         "qid": "Q1592145",
-        "title": "ペイシェンス",
+        "title": "Patience",
         "sitelinks": 15,
         "source": "http://www.wikidata.org/entity/Q1592145"
       },
       {
-        "qid": "Q1062047",
-        "title": "Yesterdays (건스 앤 로지스의 노래)",
-        "sitelinks": 14,
-        "source": "http://www.wikidata.org/entity/Q1062047"
-      },
-      {
         "qid": "Q2455351",
-        "title": "チャイニーズ・デモクラシー",
+        "title": "Chinese Democracy",
         "sitelinks": 14,
         "source": "http://www.wikidata.org/entity/Q2455351"
+      },
+      {
+        "qid": "Q1062047",
+        "title": "Yesterdays",
+        "sitelinks": 14,
+        "source": "http://www.wikidata.org/entity/Q1062047"
       }
     ],
     "ee94b47c-db73-4135-b3d6-deced74b94ba": [
@@ -11123,7 +11123,7 @@
     "ef6e2e49-aa93-41bd-89b0-8c7d2f260a83": [
       {
         "qid": "Q1796837",
-        "title": "Rooftops",
+        "title": "Rooftops (A Liberation Broadcast)",
         "sitelinks": 9,
         "source": "http://www.wikidata.org/entity/Q1796837"
       },
@@ -11169,13 +11169,13 @@
     "f181961b-20f7-459e-89de-920ef03c7ed0": [
       {
         "qid": "Q676313",
-        "title": "ラスト・ナイト",
+        "title": "Last Nite",
         "sitelinks": 12,
         "source": "http://www.wikidata.org/entity/Q676313"
       },
       {
         "qid": "Q2252184",
-        "title": "难予解说",
+        "title": "Hard to Explain",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q2252184"
       },
@@ -11187,13 +11187,13 @@
       },
       {
         "qid": "Q767792",
-        "title": "什么都要试一下",
+        "title": "You Only Live Once",
         "sitelinks": 8,
         "source": "http://www.wikidata.org/entity/Q767792"
       },
       {
         "qid": "Q3597304",
-        "title": "12:51",
+        "title": "12:51 (The Strokes song)",
         "sitelinks": 7,
         "source": "http://www.wikidata.org/entity/Q3597304"
       }
@@ -11285,7 +11285,7 @@
     "ebb4513e-4aab-4ac9-a949-14e77bb7b836": [
       {
         "qid": "Q120484479",
-        "title": "吻的多樣性",
+        "title": "ちゅ、多様性。",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q120484479"
       },
@@ -11319,7 +11319,7 @@
     "ead227f6-7689-46b6-9fd2-3f6a37acbdc1": [
       {
         "qid": "Q10856047",
-        "title": "暴亂與待機",
+        "title": "乱暴と待機",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q10856047"
       },
@@ -11333,9 +11333,15 @@
     "f59c5520-5f46-4d2c-b2c4-822eabf53419": [
       {
         "qid": "Q20003",
-        "title": "結果到頭來",
+        "title": "In the End",
         "sitelinks": 38,
         "source": "http://www.wikidata.org/entity/Q20003"
+      },
+      {
+        "qid": "Q108368458",
+        "title": "Crawling",
+        "sitelinks": 33,
+        "source": "http://www.wikidata.org/entity/Q108368458"
       },
       {
         "qid": "Q19995",
@@ -11344,20 +11350,14 @@
         "source": "http://www.wikidata.org/entity/Q19995"
       },
       {
-        "qid": "Q108368458",
-        "title": "伺機而動",
-        "sitelinks": 33,
-        "source": "http://www.wikidata.org/entity/Q108368458"
-      },
-      {
         "qid": "Q19973",
-        "title": "渾然不覺",
+        "title": "Numb",
         "sitelinks": 32,
         "source": "http://www.wikidata.org/entity/Q19973"
       },
       {
         "qid": "Q19980",
-        "title": "過去的我",
+        "title": "What I've Done",
         "sitelinks": 32,
         "source": "http://www.wikidata.org/entity/Q19980"
       }
@@ -11365,39 +11365,39 @@
     "f4857fb9-e255-4dc6-bd01-e4ca7cc68544": [
       {
         "qid": "Q2567858",
-        "title": "虛幻的瘋狂",
+        "title": "Virtual Insanity",
         "sitelinks": 12,
         "source": "http://www.wikidata.org/entity/Q2567858"
       },
       {
         "qid": "Q936139",
-        "title": "オールライト (ジャミロクワイの曲)",
+        "title": "Alright",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q936139"
       },
       {
         "qid": "Q2567912",
-        "title": "コズミック・ガール",
+        "title": "Cosmic Girl",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q2567912"
       },
       {
-        "qid": "Q2328281",
-        "title": "リトル・エル",
-        "sitelinks": 9,
-        "source": "http://www.wikidata.org/entity/Q2328281"
-      },
-      {
         "qid": "Q1448275",
-        "title": "罐頭熱",
+        "title": "Canned Heat",
         "sitelinks": 9,
         "source": "http://www.wikidata.org/entity/Q1448275"
+      },
+      {
+        "qid": "Q2328281",
+        "title": "Little L",
+        "sitelinks": 9,
+        "source": "http://www.wikidata.org/entity/Q2328281"
       }
     ],
     "fb01635c-51fc-4cad-b71f-62e18bb3433b": [
       {
         "qid": "Q2077590",
-        "title": "吵吵…吵吵…吵‥吵吵……吵吵",
+        "title": "ざわ…ざわ…ざ‥ざわ……ざわ",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q2077590"
       },
@@ -11415,13 +11415,13 @@
       },
       {
         "qid": "Q3776252",
-        "title": "GREATEST THE HITS 2011～2011",
+        "title": "グレイテスト・ザ・ヒッツ 2011〜2011",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q3776252"
       },
       {
         "qid": "Q939755",
-        "title": "菜刀·剪刀·美工刀·刀·匕·錐/靈靈靈靈靈靈靈靈魔魔魔魔魔魔魔魔",
+        "title": "包丁・ハサミ・カッター・ナイフ・ドス・キリ/霊霊霊霊霊霊霊霊魔魔魔魔魔魔魔魔",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q939755"
       }
@@ -11429,7 +11429,7 @@
     "f319b57a-a494-40f6-a467-3d196d3484e6": [
       {
         "qid": "Q2043575",
-        "title": "這個城市對我倆而言不夠大",
+        "title": "This Town Ain't Big Enough for Both of Us",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q2043575"
       },
@@ -11493,7 +11493,7 @@
     "f5aca88c-e3c1-4bc2-af33-68a9a9f7b56a": [
       {
         "qid": "Q4043217",
-        "title": "ラヴ・ライク・ブラッド",
+        "title": "Love Like Blood",
         "sitelinks": 10,
         "source": "http://www.wikidata.org/entity/Q4043217"
       },
@@ -11561,13 +11561,13 @@
     "f35bfbe2-d30e-402c-9ac1-fa5f90b72ec2": [
       {
         "qid": "Q31271013",
-        "title": "Christmas Song",
+        "title": "クリスマスソング",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q31271013"
       },
       {
         "qid": "Q17232141",
-        "title": "Fish (back number單曲)",
+        "title": "fish",
         "sitelinks": 1,
         "source": "http://www.wikidata.org/entity/Q17232141"
       },
@@ -11593,13 +11593,13 @@
     "f7b7ba8b-b0f4-4722-bb50-7a13747bdeb2": [
       {
         "qid": "Q109349042",
-        "title": "A (INI单曲)",
+        "title": "A",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q109349042"
       },
       {
         "qid": "Q119344478",
-        "title": "I (INI单曲)",
+        "title": "I",
         "sitelinks": 2,
         "source": "http://www.wikidata.org/entity/Q119344478"
       },
@@ -11659,33 +11659,33 @@
     "fee8e811-a2dc-4c09-8484-3c2aca38c3f9": [
       {
         "qid": "Q779107",
-        "title": "＊〜米字鍵〜",
+        "title": "* 〜アスタリスク〜",
         "sitelinks": 6,
         "source": "http://www.wikidata.org/entity/Q779107"
       },
       {
         "qid": "Q1045377",
-        "title": "愛的大行進",
+        "title": "ラヴ・パレード",
         "sitelinks": 4,
         "source": "http://www.wikidata.org/entity/Q1045377"
       },
       {
-        "qid": "Q2948698",
-        "title": "冠軍之歌",
-        "sitelinks": 3,
-        "source": "http://www.wikidata.org/entity/Q2948698"
-      },
-      {
         "qid": "Q1085399",
-        "title": "太陽無用",
+        "title": "イケナイ太陽",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q1085399"
       },
       {
         "qid": "Q1085324",
-        "title": "羈絆",
+        "title": "キズナ",
         "sitelinks": 3,
         "source": "http://www.wikidata.org/entity/Q1085324"
+      },
+      {
+        "qid": "Q2948698",
+        "title": "チャンピオーネ",
+        "sitelinks": 3,
+        "source": "http://www.wikidata.org/entity/Q2948698"
       }
     ],
     "fb57da84-d2fd-415e-84fa-2d47b6d0423b": [

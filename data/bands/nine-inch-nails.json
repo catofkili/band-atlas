@@ -42,12 +42,12 @@
       "year": 2008
     }
   ],
-  "intro": "九吋钉是美国的工业金属乐团，由特伦特·雷泽诺在1988年成立于美国俄亥俄州克里夫兰市。作为它的主要制作人、歌手、作曲家和演奏家， 雷泽诺是九吋钉唯一且保持全权负责乐团方向的正式成员。九吋钉的音乐横跨并揉合多种风格。通常在录制完一张新专辑后，雷泽诺会征招一组乐团与他进行现场表演。",
+  "intro": "Nine Inch Nails是美国的工业金属乐团，由特伦特·雷泽诺在1988年成立于美国俄亥俄州克里夫兰市。作为它的主要制作人、歌手、作曲家和演奏家， 雷泽诺是九吋钉唯一且保持全权负责乐团方向的正式成员。九吋钉的音乐横跨并揉合多种风格。通常在录制完一张新专辑后，雷泽诺会征招一组乐团与他进行现场表演。",
   "introLang": "zh",
   "tracks": [
     "Down in It",
+    "Closer",
     "The Perfect Drug",
-    "クローサー",
     "March of the Pigs",
     "Survivalism"
   ],
@@ -56,10 +56,10 @@
       "title": "Down in It"
     },
     {
-      "title": "The Perfect Drug"
+      "title": "Closer"
     },
     {
-      "title": "クローサー"
+      "title": "The Perfect Drug"
     },
     {
       "title": "March of the Pigs"
@@ -69,7 +69,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/107917",
+    "apple": "https://music.apple.com/cn/artist/nine-inch-nails/107917",
     "spotify": "https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002eZkeR0lI4ya",
     "netease": "https://y.music.163.com/m/artist?id=40428"

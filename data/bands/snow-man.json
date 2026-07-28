@@ -42,17 +42,14 @@
   "introLang": "zh",
   "tracks": [
     "Imitation Rain/D.D.",
-    "Brother Beat",
     "Grandeur",
     "HELLO HELLO",
-    "KISSIN'MY LIPS/Stories"
+    "KISSIN'MY LIPS/Stories",
+    "Secret Touch"
   ],
   "trackSources": [
     {
       "title": "Imitation Rain/D.D."
-    },
-    {
-      "title": "Brother Beat"
     },
     {
       "title": "Grandeur"
@@ -62,10 +59,13 @@
     },
     {
       "title": "KISSIN'MY LIPS/Stories"
+    },
+    {
+      "title": "Secret Touch"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/81532087",
+    "apple": "https://music.apple.com/cn/artist/snowman/81532087",
     "spotify": "https://open.spotify.com/artist/7ckkyI6l5ha83ra9w7VWV5",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0007w4GB29AfOD",
     "netease": "https://y.music.163.com/m/artist?id=37140943"

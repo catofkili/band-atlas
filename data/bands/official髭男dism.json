@@ -39,18 +39,18 @@
   "intro": "Official髭男dism是在日本岛根县结成的流行摇滚乐团，于2012年组成。所属经纪公司为Lastrum Music Entertainment，所属唱片公司为波丽佳音内的IRORI Records。官方歌迷俱乐部称为“BROTHERS”“Stand By You”。",
   "introLang": "zh",
   "tracks": [
-    "Cry Baby (Official髭男dism歌曲)",
-    "115萬公里的底片",
+    "Cry Baby",
+    "115万キロのフィルム",
     "ミックスナッツ",
     "Pretender",
     "SOULSOUP"
   ],
   "trackSources": [
     {
-      "title": "Cry Baby (Official髭男dism歌曲)"
+      "title": "Cry Baby"
     },
     {
-      "title": "115萬公里的底片"
+      "title": "115万キロのフィルム"
     },
     {
       "title": "ミックスナッツ"
@@ -63,7 +63,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/960568308",
+    "apple": "https://music.apple.com/cn/artist/official%E8%83%A1%E5%AD%90%E7%94%B7dism/960568308",
     "spotify": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj",
     "netease": "https://y.music.163.com/m/artist?id=1064050"
   },

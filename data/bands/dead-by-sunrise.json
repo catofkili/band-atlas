@@ -20,16 +20,16 @@
       "year": 2009
     }
   ],
-  "intro": "黑暗曙光乐团是已故主唱查斯特·班宁顿暂时跳脱林肯公园当家主唱所成立的自组团体。 第一张专辑《破土重生》已在2009年10月13日全球发行。2010年1月30日，在台北华山艺文特区举办的演唱会发行 “破土重生” 全球独家CD+DVD影音珍藏版专辑。",
+  "intro": "Dead by Sunrise是Chester Bennington在Linkin Park之外发展的摇滚项目，固定合作成员包括Amir Derakh、Ryan Shuck、Brandon Belsky、Elias Andra与Anthony Valcic。2009年唯一的录音室专辑《Out of Ashes》把Bennington更阴郁、直接的写作放进另类摇滚与电子摇滚编曲；《Crawl Back In》《Let Down》和《Fire》是这套声音的主要入口。",
   "introLang": "zh",
   "tracks": [
-    "找回自我",
+    "Crawl Back In",
     "Let Down",
     "Fire"
   ],
   "trackSources": [
     {
-      "title": "找回自我"
+      "title": "Crawl Back In"
     },
     {
       "title": "Let Down"
@@ -38,6 +38,10 @@
       "title": "Fire"
     }
   ],
+  "introSources": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/10a0bbc1-4236-4de2-b827-f9fc25f3655c"
+  },
   "musicLinks": {
     "netease": "https://y.music.163.com/m/artist?id=31966",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002J7Wsb24BlbT"
@@ -53,9 +57,6 @@
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/10a0bbc1-4236-4de2-b827-f9fc25f3655c"
-  },
   "edges": [
     {
       "to": "linkin-park",

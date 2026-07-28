@@ -33,13 +33,13 @@
   "intro": "Maggie Star是由主唱霍普·桑多瓦尔（Hope Sandoval）和吉他手大卫·罗巴克（David Roback）于1989年组建的乐队。",
   "introLang": "zh",
   "tracks": [
-    "フェード・イントゥ・ユー",
+    "Fade into You",
     "Flowers in December",
     "Common Burn/Lay Myself Down"
   ],
   "trackSources": [
     {
-      "title": "フェード・イントゥ・ユー"
+      "title": "Fade into You"
     },
     {
       "title": "Flowers in December"
@@ -49,7 +49,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/532997",
+    "apple": "https://music.apple.com/cn/artist/mazzy-star/532997",
     "spotify": "https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002dirDj1otYAZ",
     "netease": "https://y.music.163.com/m/artist?id=96264"

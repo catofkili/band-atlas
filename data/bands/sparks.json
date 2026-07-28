@@ -45,7 +45,7 @@
   "intro": "Sparks是一支来自美国的摇滚与流行乐队。1970年由罗恩和拉塞尔·梅尔兄弟组建。最初的乐队名称是Half Nelson。",
   "introLang": "zh",
   "tracks": [
-    "這個城市對我倆而言不夠大",
+    "This Town Ain't Big Enough for Both of Us",
     "When I'm with You",
     "Amateur Hour",
     "Never Turn Your Back on Mother Earth",
@@ -53,7 +53,7 @@
   ],
   "trackSources": [
     {
-      "title": "這個城市對我倆而言不夠大"
+      "title": "This Town Ain't Big Enough for Both of Us"
     },
     {
       "title": "When I'm with You"
@@ -69,7 +69,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/218206",
+    "apple": "https://music.apple.com/cn/artist/sparks/218206",
     "spotify": "https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003IRcNC1oShgd",
     "netease": "https://y.music.163.com/m/artist?id=100092"

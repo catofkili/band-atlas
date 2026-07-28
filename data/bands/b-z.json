@@ -43,30 +43,30 @@
   "introLang": "zh",
   "tracks": [
     "Don't Wanna Lie",
-    "極限chop",
-    "衝動 (B'z單曲)",
+    "ギリギリchop",
+    "衝動",
     "MY LONELY TOWN",
-    "愛的爆彈"
+    "愛のバクダン"
   ],
   "trackSources": [
     {
       "title": "Don't Wanna Lie"
     },
     {
-      "title": "極限chop"
+      "title": "ギリギリchop"
     },
     {
-      "title": "衝動 (B'z單曲)"
+      "title": "衝動"
     },
     {
       "title": "MY LONELY TOWN"
     },
     {
-      "title": "愛的爆彈"
+      "title": "愛のバクダン"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/74931253",
+    "apple": "https://music.apple.com/cn/artist/bz/74931253",
     "spotify": "https://open.spotify.com/artist/7i9bNUSGORP5MIgrii3cJc",
     "netease": "https://y.music.163.com/m/artist?id=18708"
   },

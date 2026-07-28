@@ -44,31 +44,31 @@
   "intro": "鱼韵是日本摇滚乐团，2005年于北海道札幌市结合而成。其乐风综合了另类摇滚、电子音乐、新浪潮、Pop等等，很难将其归类为其中之一。",
   "introLang": "zh",
   "tracks": [
-    "怪兽",
-    "Identity (魚韻單曲)",
-    "四处游走",
-    "我与花",
+    "怪獣",
+    "アイデンティティ",
+    "アルクアラウンド",
+    "僕と花",
     "『バッハの旋律を夜に聴いたせいです。』"
   ],
   "trackSources": [
     {
-      "title": "怪兽"
+      "title": "怪獣"
     },
     {
-      "title": "Identity (魚韻單曲)"
+      "title": "アイデンティティ"
     },
     {
-      "title": "四处游走"
+      "title": "アルクアラウンド"
     },
     {
-      "title": "我与花"
+      "title": "僕と花"
     },
     {
       "title": "『バッハの旋律を夜に聴いたせいです。』"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/252312257",
+    "apple": "https://music.apple.com/cn/artist/%E9%B1%BC%E9%9F%B5/252312257",
     "spotify": "https://open.spotify.com/artist/0hCWVMGGQnRVfDgmhwLIxq",
     "netease": "https://y.music.163.com/m/artist?id=21377"
   },

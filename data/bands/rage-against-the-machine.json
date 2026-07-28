@@ -37,24 +37,24 @@
       "year": 2000
     }
   ],
-  "intro": "讨伐体制乐团是美国的一个重金属乐团，创办于1991年的加州。成立以来，该乐团阵容有些许改变，现今乐团主要成员有：主唱扎克·德·拉·罗查、吉他手汤姆·莫雷洛、贝斯手蒂姆·科姆佛德及鼓手的布拉德添·威尔克。 1992年，讨伐体制乐团发行了首张同名专辑，在商业和乐评上都取得了成功，并在1993年的Lollapalooza音乐节上获得了一个名额；2003年，这张专辑在《滚石》杂志有史以来500张最伟大的专辑中排名第368位。",
+  "intro": "Rage Against the Machine是美国的一个重金属乐团，创办于1991年的加州。成立以来，该乐团阵容有些许改变，现今乐团主要成员有：主唱扎克·德·拉·罗查、吉他手汤姆·莫雷洛、贝斯手蒂姆·科姆佛德及鼓手的布拉德添·威尔克。 1992年，讨伐体制乐团发行了首张同名专辑，在商业和乐评上都取得了成功，并在1993年的Lollapalooza音乐节上获得了一个名额；2003年，这张专辑在《滚石》杂志有史以来500张最伟大的专辑中排名第368位。",
   "introLang": "zh",
   "tracks": [
-    "キリング・イン・ザ・ネーム",
+    "Killing in the Name",
+    "Bombtrack",
     "Bulls on Parade",
-    "ボムトラック",
     "Bullet in the Head",
     "Freedom"
   ],
   "trackSources": [
     {
-      "title": "キリング・イン・ザ・ネーム"
+      "title": "Killing in the Name"
+    },
+    {
+      "title": "Bombtrack"
     },
     {
       "title": "Bulls on Parade"
-    },
-    {
-      "title": "ボムトラック"
     },
     {
       "title": "Bullet in the Head"
@@ -64,7 +64,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/899409",
+    "apple": "https://music.apple.com/cn/artist/rage-against-the-machine/899409",
     "spotify": "https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001G00mT18H9mm",
     "netease": "https://y.music.163.com/m/artist?id=99379"

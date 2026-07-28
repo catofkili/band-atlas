@@ -39,34 +39,34 @@
       "year": 1986
     }
   ],
-  "intro": "铁娘子是一个出身于英国东伦敦的重金属乐队，由原吉普赛之吻与微笑者的贝斯手史提夫·哈里斯于1975年成立。截至2015年已发行16张录音室专辑、11张现场专辑、4张迷你专辑和7张精选辑。 身为英国重金属新浪潮的先驱，铁娘子在80年代早期开始取得商业上的成功。",
+  "intro": "Iron Maiden是一个出身于英国东伦敦的重金属乐队，由原吉普赛之吻与微笑者的贝斯手史提夫·哈里斯于1975年成立。截至2015年已发行16张录音室专辑、11张现场专辑、4张迷你专辑和7张精选辑。 身为英国重金属新浪潮的先驱，铁娘子在80年代早期开始取得商业上的成功。",
   "introLang": "zh",
   "tracks": [
-    "亡命山丘",
-    "騎兵 (鐵娘子歌曲)",
-    "午夜兩分前",
-    "蹉跎歲月 (鐵娘子歌曲)",
-    "致命快感 (鐵娘子歌曲)"
+    "Run to the Hills",
+    "The Trooper",
+    "2 Minutes to Midnight",
+    "Wasted Years",
+    "Be Quick or Be Dead"
   ],
   "trackSources": [
     {
-      "title": "亡命山丘"
+      "title": "Run to the Hills"
     },
     {
-      "title": "騎兵 (鐵娘子歌曲)"
+      "title": "The Trooper"
     },
     {
-      "title": "午夜兩分前"
+      "title": "2 Minutes to Midnight"
     },
     {
-      "title": "蹉跎歲月 (鐵娘子歌曲)"
+      "title": "Wasted Years"
     },
     {
-      "title": "致命快感 (鐵娘子歌曲)"
+      "title": "Be Quick or Be Dead"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/546381",
+    "apple": "https://music.apple.com/cn/artist/iron-maiden/546381",
     "spotify": "https://open.spotify.com/artist/6mdiAmATAx73kdxrNrnlao",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004HCUGm247W0d",
     "netease": "https://y.music.163.com/m/artist?id=35050"

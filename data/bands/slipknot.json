@@ -39,14 +39,14 @@
       "year": 2019
     }
   ],
-  "intro": "活结乐队是来自美国爱荷华州狄蒙的重金属乐队。乐队成立于1995年。经过早期的几次成员变化，目前乐团的固定阵容为八名成员。创团贝斯手保罗·格雷于2010年逝世。2013年创团鼓手乔伊·乔迪森与采样员克雷格·琼斯离队。至此乐队目前阵容与最初阵容已经大不同。",
+  "intro": "Slipknot是来自美国爱荷华州狄蒙的重金属乐队。乐队成立于1995年。经过早期的几次成员变化，目前乐团的固定阵容为八名成员。创团贝斯手保罗·格雷于2010年逝世。2013年创团鼓手乔伊·乔迪森与采样员克雷格·琼斯离队。至此乐队目前阵容与最初阵容已经大不同。",
   "introLang": "zh",
   "tracks": [
     "Before I Forget",
     "Psychosocial",
-    "Duality (노래)",
+    "Duality",
     "My Plague",
-    "ウェイト・アンド・ブリード"
+    "Wait and Bleed"
   ],
   "trackSources": [
     {
@@ -56,17 +56,17 @@
       "title": "Psychosocial"
     },
     {
-      "title": "Duality (노래)"
+      "title": "Duality"
     },
     {
       "title": "My Plague"
     },
     {
-      "title": "ウェイト・アンド・ブリード"
+      "title": "Wait and Bleed"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/6907568",
+    "apple": "https://music.apple.com/cn/artist/slipknot/6907568",
     "spotify": "https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002VTOl13CRKiO",
     "netease": "https://y.music.163.com/m/artist?id=42941"

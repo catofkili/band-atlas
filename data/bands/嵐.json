@@ -50,15 +50,15 @@
   "intro": "岚是日本男子偶像团体，由大野智、樱井翔、相叶雅纪、二宫和也、松本润，由杰尼斯事务所推出。于1999年11月3日发行首张单曲正式出道，所属唱片公司为J Storm。 岚是目前oricon排行榜中荣获最多人气单曲冠军的歌手，且自2010年起7度获得日本金唱片大奖，其中2010年获颁第24回日本金唱片大赏“年度最优秀歌手”等10个奖项，成为史上首个十冠王。",
   "introLang": "zh",
   "tracks": [
-    "A·RA·SHI",
+    "A・RA・SHI",
     "One Love",
     "Beautiful days",
-    "Believe/烏雲散去，天氣晴",
+    "Believe/曇りのち、快晴",
     "Happiness"
   ],
   "trackSources": [
     {
-      "title": "A·RA·SHI"
+      "title": "A・RA・SHI"
     },
     {
       "title": "One Love"
@@ -67,14 +67,14 @@
       "title": "Beautiful days"
     },
     {
-      "title": "Believe/烏雲散去，天氣晴"
+      "title": "Believe/曇りのち、快晴"
     },
     {
       "title": "Happiness"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/548185047",
+    "apple": "https://music.apple.com/cn/artist/%E5%B2%9A/548185047",
     "spotify": "https://open.spotify.com/artist/1XYuC1vxinTjHCNd5clB8C",
     "netease": "https://y.music.163.com/m/artist?id=20292"
   },

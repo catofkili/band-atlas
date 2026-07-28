@@ -47,18 +47,18 @@
   "intro": "back number是一个日本强力三重奏乐队，属环球音乐唱片公司旗下，官方粉丝团名为“one room”。 乐队名称“back number”在日本可以解作“杂志的旧刊”，例如9月期的杂志到了10月份就成为了“back number”；此名由主唱清水依与吏所取，而取这名字是因为自己和乐队成员被女生甩掉后，就会成为她们的“back number”，变成没用的东西。",
   "introLang": "zh",
   "tracks": [
-    "Christmas Song",
-    "Fish (back number單曲)",
+    "クリスマスソング",
+    "fish",
     "HAPPY BIRTHDAY",
     "SISTER",
     "アイラブユー (back numberの曲)"
   ],
   "trackSources": [
     {
-      "title": "Christmas Song"
+      "title": "クリスマスソング"
     },
     {
-      "title": "Fish (back number單曲)"
+      "title": "fish"
     },
     {
       "title": "HAPPY BIRTHDAY"
@@ -71,7 +71,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/302361237",
+    "apple": "https://music.apple.com/cn/artist/back-number/302361237",
     "spotify": "https://open.spotify.com/artist/6rs1KAoQnFalSqSU4LTh8g",
     "netease": "https://y.music.163.com/m/artist?id=18771"
   },

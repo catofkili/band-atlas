@@ -29,31 +29,31 @@
   "intro": "Ado是日本女歌手和音乐制作人，唱见出身，所属经纪公司为Cloud Nine。2020年于日本环球音乐旗下的厂牌维珍音乐出道。本人的样貌从未公诸于世，为2010年代后期日本乐坛开始窜起的“覆面系歌手”之一。",
   "introLang": "zh",
   "tracks": [
+    "ビバリウム",
     "レディメイド(楽曲)",
-    "生態箱 (歌曲)",
+    "ギラギラ",
     "唱",
-    "我最強 (Ado歌曲)",
-    "逆光 (Ado歌曲)"
+    "私は最強"
   ],
   "trackSources": [
+    {
+      "title": "ビバリウム"
+    },
     {
       "title": "レディメイド(楽曲)"
     },
     {
-      "title": "生態箱 (歌曲)"
+      "title": "ギラギラ"
     },
     {
       "title": "唱"
     },
     {
-      "title": "我最強 (Ado歌曲)"
-    },
-    {
-      "title": "逆光 (Ado歌曲)"
+      "title": "私は最強"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1492604670",
+    "apple": "https://music.apple.com/cn/artist/ado/1492604670",
     "spotify": "https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002D5FGW4Ckwyy",
     "netease": "https://y.music.163.com/m/artist?id=37231059"

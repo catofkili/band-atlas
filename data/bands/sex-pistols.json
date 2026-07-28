@@ -34,21 +34,21 @@
   "intro": "性手枪是一支英国朋克摇滚乐队，于1975年在伦敦组建。尽管只存在了两年半时间，仅发行了四首单曲和一张录音室专辑《Never Mind the Bollocks, Here's the Sex Pistols》，但性手枪却被视为流行乐史上最有影响力的乐队之一，引发了英国的朋克运动，启发了许多后来的朋克和另类摇滚音乐人。",
   "introLang": "zh",
   "tracks": [
-    "英國無政府狀態",
-    "プリティ・ヴェイカント",
-    "陽光下的假日",
+    "Anarchy in the U.K.",
+    "Pretty Vacant",
+    "Holidays in the Sun",
     "No One Is Innocent",
     "Silly Thing"
   ],
   "trackSources": [
     {
-      "title": "英國無政府狀態"
+      "title": "Anarchy in the U.K."
     },
     {
-      "title": "プリティ・ヴェイカント"
+      "title": "Pretty Vacant"
     },
     {
-      "title": "陽光下的假日"
+      "title": "Holidays in the Sun"
     },
     {
       "title": "No One Is Innocent"
@@ -58,7 +58,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/3184277",
+    "apple": "https://music.apple.com/cn/artist/sex-pistols/3184277",
     "spotify": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002hGrut12gD7r",
     "netease": "https://y.music.163.com/m/artist?id=129269"

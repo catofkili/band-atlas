@@ -42,34 +42,34 @@
       "year": 2014
     }
   ],
-  "intro": "林肯公园是来自美国加利福尼亚州阿古拉山的摇滚乐团，于1996年成立。乐团成员包括主唱/节奏吉他手/键盘手麦克·篠田、主音吉他手布莱德·达尔森、贝斯手戴夫·法雷尔、DJ兼音效操作员乔瑟夫·韩、鼓手科林·布里坦及联合主唱艾米莉·阿姆斯壮。",
+  "intro": "Linkin Park是来自美国加利福尼亚州阿古拉山的摇滚乐团，于1996年成立。乐团成员包括主唱/节奏吉他手/键盘手麦克·篠田、主音吉他手布莱德·达尔森、贝斯手戴夫·法雷尔、DJ兼音效操作员乔瑟夫·韩、鼓手科林·布里坦及联合主唱艾米莉·阿姆斯壮。",
   "introLang": "zh",
   "tracks": [
-    "結果到頭來",
+    "In the End",
+    "Crawling",
     "One Step Closer",
-    "伺機而動",
-    "渾然不覺",
-    "過去的我"
+    "Numb",
+    "What I've Done"
   ],
   "trackSources": [
     {
-      "title": "結果到頭來"
+      "title": "In the End"
+    },
+    {
+      "title": "Crawling"
     },
     {
       "title": "One Step Closer"
     },
     {
-      "title": "伺機而動"
+      "title": "Numb"
     },
     {
-      "title": "渾然不覺"
-    },
-    {
-      "title": "過去的我"
+      "title": "What I've Done"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/148662",
+    "apple": "https://music.apple.com/cn/artist/linkin-park/148662",
     "spotify": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003wI8vE3k8cTY",
     "netease": "https://y.music.163.com/m/artist?id=95439"

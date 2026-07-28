@@ -46,9 +46,9 @@
   "introLang": "zh",
   "tracks": [
     "Anniversary",
-    "Family ～讓我們在一起",
-    "Hey!大家好嗎?",
-    "Secret Code",
+    "Family 〜ひとつになること",
+    "Hey! みんな元気かい?",
+    "Secret Code (KinKi Kidsの曲)",
     "SNOW! SNOW! SNOW!"
   ],
   "trackSources": [
@@ -56,13 +56,13 @@
       "title": "Anniversary"
     },
     {
-      "title": "Family ～讓我們在一起"
+      "title": "Family 〜ひとつになること"
     },
     {
-      "title": "Hey!大家好嗎?"
+      "title": "Hey! みんな元気かい?"
     },
     {
-      "title": "Secret Code"
+      "title": "Secret Code (KinKi Kidsの曲)"
     },
     {
       "title": "SNOW! SNOW! SNOW!"

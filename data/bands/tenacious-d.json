@@ -23,7 +23,7 @@
       "year": 2012
     }
   ],
-  "intro": "顽强的D是一支由杰克·布莱克和凯尔·盖斯于1994年在加利福尼亚州洛杉矶组成的二人喜剧摇滚乐队，共发行了三张专辑，即《顽强的D》、《摇滚之神》和《浴火重生》。 在现场演奏时的完整乐队阵容还要加上吉他手约翰·科内斯基和贝斯手约翰·斯派克。",
+  "intro": "Tenacious D是Jack Black与Kyle Gass于1994年在洛杉矶组成的喜剧摇滚二人组。三张核心录音室专辑是《Tenacious D》《The Pick of Destiny》和《Rize of the Fenix》；现场扩编时，John Konesky与John Spiker等乐手会加入阵容。乐队把硬摇滚演奏、夸张角色表演和喜剧叙事结合在一起，《Tribute》《Wonderboy》和《Kickapoo》是理解这种风格最直接的作品。",
   "introLang": "zh",
   "tracks": [
     "Tribute",
@@ -41,8 +41,21 @@
       "title": "POD"
     }
   ],
+  "introSources": [
+    {
+      "label": "Tenacious D官方站",
+      "url": "https://www.tenaciousd.com/"
+    },
+    {
+      "label": "Apple Music艺人页",
+      "url": "https://music.apple.com/cn/artist/tenacious-d/1166315"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/148ddea2-6839-4354-8e2c-5dfadf136b7f"
+  },
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1166315",
+    "apple": "https://music.apple.com/cn/artist/tenacious-d/1166315",
     "spotify": "https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001LTg241cQdHH",
     "netease": "https://y.music.163.com/m/artist?id=44328"
@@ -58,9 +71,6 @@
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/148ddea2-6839-4354-8e2c-5dfadf136b7f"
-  },
   "edges": [
     {
       "to": "filter",

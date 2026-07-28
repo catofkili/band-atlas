@@ -41,18 +41,18 @@
       "year": 2000
     }
   ],
-  "intro": "后裔是一个美国摇滚乐团，1984年成立于加利福尼亚州。主要成员包括德克斯特·霍兰德、凯文·魏瑟曼的歌曲，第一首是同年年中达成的You're Gonna Go Far Kid。",
+  "intro": "The Offspring是一个美国摇滚乐团，1984年成立于加利福尼亚州。主要成员包括德克斯特·霍兰德、凯文·魏瑟曼的歌曲，第一首是同年年中达成的You're Gonna Go Far Kid。",
   "introLang": "zh",
   "tracks": [
-    "プリティ・フライ",
+    "Pretty Fly (for a White Guy)",
     "Self Esteem",
     "The Kids Aren't Alright",
-    "Why Don't You Get a Job?",
-    "オール・アイ・ウォント"
+    "All I Want",
+    "Why Don't You Get a Job?"
   ],
   "trackSources": [
     {
-      "title": "プリティ・フライ"
+      "title": "Pretty Fly (for a White Guy)"
     },
     {
       "title": "Self Esteem"
@@ -61,14 +61,14 @@
       "title": "The Kids Aren't Alright"
     },
     {
-      "title": "Why Don't You Get a Job?"
+      "title": "All I Want"
     },
     {
-      "title": "オール・アイ・ウォント"
+      "title": "Why Don't You Get a Job?"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/2820865",
+    "apple": "https://music.apple.com/cn/artist/the-offspring/2820865",
     "spotify": "https://open.spotify.com/artist/5LfGQac0EIXyAN8aUwmNAQ",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=004KU7p81n3Nvt",
     "netease": "https://y.music.163.com/m/artist?id=101992"

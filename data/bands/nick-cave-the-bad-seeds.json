@@ -40,18 +40,18 @@
       "year": 1990
     }
   ],
-  "intro": "尼克·凯夫与坏种子乐队（Nick Cave and the Bad Seeds）是一支澳大利亚摇滚乐队，由主唱尼克·凯夫、多乐器演奏家米克·哈维以及德国吉他手兼主唱布利克萨·巴格尔德于1983年在墨尔本组建。",
+  "intro": "Nick Cave & the Bad Seeds是一支澳大利亚摇滚乐队，由主唱尼克·凯夫、多乐器演奏家米克·哈维以及德国吉他手兼主唱布利克萨·巴格尔德于1983年在墨尔本组建。",
   "introLang": "zh",
   "tracks": [
-    "野薔薇",
+    "Where the Wild Roses Grow",
     "Red Right Hand",
     "(Are You) The One That I've Been Waiting For",
-    "Loverman",
-    "租庇利街"
+    "Jubilee Street (song)",
+    "Loverman"
   ],
   "trackSources": [
     {
-      "title": "野薔薇"
+      "title": "Where the Wild Roses Grow"
     },
     {
       "title": "Red Right Hand"
@@ -60,14 +60,14 @@
       "title": "(Are You) The One That I've Been Waiting For"
     },
     {
-      "title": "Loverman"
+      "title": "Jubilee Street (song)"
     },
     {
-      "title": "租庇利街"
+      "title": "Loverman"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1698460",
+    "apple": "https://music.apple.com/cn/artist/nick-cave-the-bad-seeds/1698460",
     "spotify": "https://open.spotify.com/artist/4UXJsSlnKd7ltsrHebV79Q",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000uN65q2Z3u2I",
     "netease": "https://y.music.163.com/m/artist?id=69321"

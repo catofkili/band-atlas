@@ -40,24 +40,24 @@
   "intro": "Asia是一支来自英格兰的前卫摇滚乐队。该乐队兼具“超级乐队”的一面，汇聚了前卫摇滚等领域的众多艺术家，其活动历史已超过35年。",
   "introLang": "zh",
   "tracks": [
-    "ヒート・オブ・ザ・モーメント",
-    "時へのロマン",
+    "Heat of the Moment",
+    "Only Time Will Tell",
     "Don't Cry",
-    "孤独のサヴァイヴァー",
+    "Sole Survivor",
     "Days Like These"
   ],
   "trackSources": [
     {
-      "title": "ヒート・オブ・ザ・モーメント"
+      "title": "Heat of the Moment"
     },
     {
-      "title": "時へのロマン"
+      "title": "Only Time Will Tell"
     },
     {
       "title": "Don't Cry"
     },
     {
-      "title": "孤独のサヴァイヴァー"
+      "title": "Sole Survivor"
     },
     {
       "title": "Days Like These"
@@ -65,7 +65,7 @@
   ],
   "musicLinks": {
     "spotify": "https://open.spotify.com/artist/1bdytLV3FPjyhfrb6BhMej",
-    "apple": "https://music.apple.com/us/artist/band-atlas/110894",
+    "apple": "https://music.apple.com/cn/artist/asia/110894",
     "netease": "https://y.music.163.com/m/artist?id=85745"
   },
   "listens": 110296,

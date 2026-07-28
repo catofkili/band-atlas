@@ -44,13 +44,13 @@
   "intro": "Killing Joke是一支来自英格兰的摇滚乐队。作为工业摇滚的代表性乐队而闻名。作为后朋克乐队，他们不断融入实验性元素并持续发展，其音乐风格对1990年代以来的另类摇滚以及各类流派的艺术家都产生了深远影响。",
   "introLang": "zh",
   "tracks": [
-    "ラヴ・ライク・ブラッド",
+    "Love Like Blood",
     "Pandemonium",
     "Wardance / Pssyche"
   ],
   "trackSources": [
     {
-      "title": "ラヴ・ライク・ブラッド"
+      "title": "Love Like Blood"
     },
     {
       "title": "Pandemonium"
@@ -60,7 +60,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/14548963",
+    "apple": "https://music.apple.com/cn/artist/killing-joke/14548963",
     "spotify": "https://open.spotify.com/artist/0Zy4ncr8h1jd7Nzr9946fD",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001E4NhA2FBGEi",
     "netease": "https://y.music.163.com/m/artist?id=95289"

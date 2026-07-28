@@ -32,7 +32,7 @@
   "introLang": "zh",
   "tracks": [
     "Doin' Time",
-    "Santeria (歌曲)",
+    "Santeria",
     "What I Got",
     "Wrong Way",
     "Badfish"
@@ -42,7 +42,7 @@
       "title": "Doin' Time"
     },
     {
-      "title": "Santeria (歌曲)"
+      "title": "Santeria"
     },
     {
       "title": "What I Got"
@@ -55,7 +55,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/63480",
+    "apple": "https://music.apple.com/cn/artist/sublime/63480",
     "spotify": "https://open.spotify.com/artist/0EdvGhlC1FkGItLOWQzG4J",
     "netease": "https://y.music.163.com/m/artist?id=74702"
   },

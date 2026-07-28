@@ -39,34 +39,34 @@
       "year": 2000
     }
   ],
-  "intro": "绿日乐队是美国著名摇滚乐队。1986年创立，是90年代美国朋克音乐的重要乐队之一，也是90年代以后最受欢迎的乐队之一。成员包括主唱/吉他手比利·乔·阿姆斯特朗，贝斯手麦克·德恩特以及鼓手崔·库尔。他们深受70年代朋克音乐时期经典乐队如The Clash等影响，以充满力道的流畅旋律见长。",
+  "intro": "Green Day是美国著名摇滚乐队。1986年创立，是90年代美国朋克音乐的重要乐队之一，也是90年代以后最受欢迎的乐队之一。成员包括主唱/吉他手比利·乔·阿姆斯特朗，贝斯手麦克·德恩特以及鼓手崔·库尔。他们深受70年代朋克音乐时期经典乐队如The Clash等影响，以充满力道的流畅旋律见长。",
   "introLang": "zh",
   "tracks": [
-    "九月結束時叫醒我",
-    "夢碎大道",
-    "アメリカン・イディオット",
-    "神经衰弱",
+    "Boulevard of Broken Dreams",
+    "Wake Me Up When September Ends",
+    "American Idiot",
+    "Basket Case",
     "21 Guns"
   ],
   "trackSources": [
     {
-      "title": "九月結束時叫醒我"
+      "title": "Boulevard of Broken Dreams"
     },
     {
-      "title": "夢碎大道"
+      "title": "Wake Me Up When September Ends"
     },
     {
-      "title": "アメリカン・イディオット"
+      "title": "American Idiot"
     },
     {
-      "title": "神经衰弱"
+      "title": "Basket Case"
     },
     {
       "title": "21 Guns"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/954266",
+    "apple": "https://music.apple.com/cn/artist/green-day/954266",
     "spotify": "https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000YbRkV0mlSRq",
     "netease": "https://y.music.163.com/m/artist?id=93187"

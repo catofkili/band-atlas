@@ -47,33 +47,33 @@
   "intro": "YOASOBI是2019年结成的日本音乐组合，由使用VOCALOID作曲的作曲家Ayase与本业为创作歌手的几田莉拉在此以ikura之名和其他团员组成。其特色为将在日本索尼音乐娱乐所经营的小说及插画网站“monogatary.com”中的原作“小说音乐化”。",
   "introLang": "zh",
   "tracks": [
-    "向夜晚奔去",
+    "夜に駆ける",
     "勇者",
-    "重現夢境",
+    "あの夢をなぞって",
     "Watch me!",
-    "或許"
+    "たぶん"
   ],
   "trackSources": [
     {
-      "title": "向夜晚奔去"
+      "title": "夜に駆ける"
     },
     {
       "title": "勇者"
     },
     {
-      "title": "重現夢境"
+      "title": "あの夢をなぞって"
     },
     {
       "title": "Watch me!"
     },
     {
-      "title": "或許"
+      "title": "たぶん"
     }
   ],
   "musicLinks": {
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001Erp1x1jDOoQ",
     "netease": "https://y.music.163.com/m/artist?id=33927412",
-    "apple": "https://music.apple.com/us/artist/yoasobi/1490256993",
+    "apple": "https://music.apple.com/cn/artist/yoasobi/1490256993",
     "spotify": "https://open.spotify.com/artist/64tJ2EAv1R6UaZqc4iOCyj"
   },
   "listens": 612930,

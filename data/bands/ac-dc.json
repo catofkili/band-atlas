@@ -44,31 +44,31 @@
   "intro": "AC/DC是澳大利亚摇滚乐团，1973年由马尔科姆·杨和安格斯·杨兄弟两人在悉尼组成。音乐风格主要被归类为硬式摇滚和蓝调摇滚，在1970年代至1980年代期间，他们被美国权威音乐杂志《滚石》和其他不同的媒体归类为重金属音乐，也是将硬式摇滚和重金属音乐结合起来的宗师。",
   "introLang": "zh",
   "tracks": [
-    "如遭雷擊 (歌曲)",
-    "地獄鐘聲 (歌曲)",
-    "回到黑暗",
-    "悪事と地獄",
-    "搖滾列車 (歌曲)"
+    "Thunderstruck",
+    "Hells Bells",
+    "Back in Black",
+    "Dirty Deeds Done Dirt Cheap",
+    "Rock 'N Roll Train"
   ],
   "trackSources": [
     {
-      "title": "如遭雷擊 (歌曲)"
+      "title": "Thunderstruck"
     },
     {
-      "title": "地獄鐘聲 (歌曲)"
+      "title": "Hells Bells"
     },
     {
-      "title": "回到黑暗"
+      "title": "Back in Black"
     },
     {
-      "title": "悪事と地獄"
+      "title": "Dirty Deeds Done Dirt Cheap"
     },
     {
-      "title": "搖滾列車 (歌曲)"
+      "title": "Rock 'N Roll Train"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/5040714",
+    "apple": "https://music.apple.com/cn/artist/ac-dc/5040714",
     "spotify": "https://open.spotify.com/artist/711MCceyCBcFnzjGY4Q7Un",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0032vFuN45QYoW",
     "netease": "https://y.music.163.com/m/artist?id=85502"

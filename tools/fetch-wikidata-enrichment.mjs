@@ -19,9 +19,27 @@ const chunks = (items, size) =>
   );
 const genreNames = new Map();
 const works = new Map();
+const countryByMbid = new Map(
+  [...generated.bands, ...modern.bands]
+    .filter((band) => band.mbid)
+    .map((band) => [band.mbid, band.countryCode])
+);
 
-function firstLabel(row) {
+function genreLabel(row) {
   return row.zh?.value ?? row.ja?.value ?? row.ko?.value ?? row.en?.value ?? null;
+}
+
+function workLabel(row, countryCode) {
+  if (countryCode === 'JP') {
+    return row.ja?.value ?? row.en?.value ?? row.zh?.value ?? row.ko?.value ?? null;
+  }
+  if (countryCode === 'KR' || countryCode === 'KP') {
+    return row.ko?.value ?? row.en?.value ?? row.zh?.value ?? row.ja?.value ?? null;
+  }
+  if (['CN', 'TW', 'HK', 'MO'].includes(countryCode)) {
+    return row.zh?.value ?? row.en?.value ?? row.ja?.value ?? row.ko?.value ?? null;
+  }
+  return row.en?.value ?? row.ja?.value ?? row.ko?.value ?? row.zh?.value ?? null;
 }
 
 for (const [index, batch] of chunks(mbids, 70).entries()) {
@@ -36,7 +54,7 @@ for (const [index, batch] of chunks(mbids, 70).entries()) {
       OPTIONAL { ?genre rdfs:label ?en FILTER(LANG(?en) = "en") }
     }`);
   for (const row of rows) {
-    const label = firstLabel(row);
+    const label = genreLabel(row);
     if (!label) continue;
     const list = genreNames.get(row.mbid.value) || [];
     if (!list.includes(label)) list.push(label);
@@ -59,7 +77,7 @@ for (const [index, batch] of chunks(mbids, 45).entries()) {
       OPTIONAL { ?work rdfs:label ?en FILTER(LANG(?en) = "en") }
     }`);
   for (const row of rows) {
-    const title = firstLabel(row);
+    const title = workLabel(row, countryByMbid.get(row.mbid.value));
     if (!title) continue;
     const list = works.get(row.mbid.value) || [];
     const qid = row.work.value.split('/').pop();

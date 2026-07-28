@@ -40,15 +40,15 @@
   "intro": "Parliament 是一支美国放克乐队，其前身是1955年由当时年仅14岁的乔治·克林顿组建的都瓦普组合“The Parliaments”。",
   "introLang": "zh",
   "tracks": [
-    "フラッシュ・ライト",
+    "Flash Light",
     "Give Up the Funk (Tear the Roof off the Sucker)",
     "Do That Stuff",
-    "パーティ・ピープル",
+    "Party People",
     "Aqua Boogie (A Psychoalphadiscobetabioaquadoloop)"
   ],
   "trackSources": [
     {
-      "title": "フラッシュ・ライト"
+      "title": "Flash Light"
     },
     {
       "title": "Give Up the Funk (Tear the Roof off the Sucker)"
@@ -57,14 +57,14 @@
       "title": "Do That Stuff"
     },
     {
-      "title": "パーティ・ピープル"
+      "title": "Party People"
     },
     {
       "title": "Aqua Boogie (A Psychoalphadiscobetabioaquadoloop)"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/79943",
+    "apple": "https://music.apple.com/cn/artist/parliament/79943",
     "spotify": "https://open.spotify.com/artist/5SMVzTJyKFJ7TUb46DglcH",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=003vG65s0tnJCQ",
     "netease": "https://y.music.163.com/m/artist?id=98573"

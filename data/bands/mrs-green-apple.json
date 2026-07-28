@@ -44,32 +44,32 @@
   "introLang": "zh",
   "tracks": [
     "Soranji",
-    "紫丁香",
-    "關於我 (Mrs. GREEN APPLE歌曲)",
-    "Darling (Mrs. GREEN APPLE歌曲)",
-    "GOOD DAY (Mrs. GREEN APPLE歌曲)"
+    "ライラック",
+    "僕のこと",
+    "GOOD DAY",
+    "Lulu."
   ],
   "trackSources": [
     {
       "title": "Soranji"
     },
     {
-      "title": "紫丁香"
+      "title": "ライラック"
     },
     {
-      "title": "關於我 (Mrs. GREEN APPLE歌曲)"
+      "title": "僕のこと"
     },
     {
-      "title": "Darling (Mrs. GREEN APPLE歌曲)"
+      "title": "GOOD DAY"
     },
     {
-      "title": "GOOD DAY (Mrs. GREEN APPLE歌曲)"
+      "title": "Lulu."
     }
   ],
   "musicLinks": {
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001ts1ue1BCvPP",
     "netease": "https://y.music.163.com/m/artist?id=1087614",
-    "apple": "https://music.apple.com/us/artist/mrs-green-apple/962221033",
+    "apple": "https://music.apple.com/cn/artist/mrs-green-apple/962221033",
     "spotify": "https://open.spotify.com/artist/4QvgGvpgzgyUOo8Yp8LDm9"
   },
   "listens": 81223,

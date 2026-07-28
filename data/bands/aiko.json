@@ -47,31 +47,31 @@
   "intro": "aiko是日本的女性创作歌手，出身于大阪府吹田市。作曲及作词皆精通，擅长细腻的情歌以及女性心理的描写。代表作有《烟火》、《独角仙》、《亮晶晶》等。 aiko的国民度和好感度甚高。日本知名娱乐服务公司Oricon针对20,000个订户所作的最受欢迎歌手调查结果显示，aiko在2005年及2006年皆高居榜首。",
   "introLang": "zh",
   "tracks": [
-    "沒有星星的世界/側臉",
-    "無法挽回的明日",
+    "戻れない明日",
+    "星のない世界/横顔",
     "相思相愛",
-    "Boy Friend (aiko單曲)",
-    "Honey Memory"
+    "KissHug",
+    "Loveletter/4月の雨"
   ],
   "trackSources": [
     {
-      "title": "沒有星星的世界/側臉"
+      "title": "戻れない明日"
     },
     {
-      "title": "無法挽回的明日"
+      "title": "星のない世界/横顔"
     },
     {
       "title": "相思相愛"
     },
     {
-      "title": "Boy Friend (aiko單曲)"
+      "title": "KissHug"
     },
     {
-      "title": "Honey Memory"
+      "title": "Loveletter/4月の雨"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/635154255",
+    "apple": "https://music.apple.com/cn/artist/aiko/635154255",
     "spotify": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK",
     "netease": "https://y.music.163.com/m/artist?id=15987"
   },

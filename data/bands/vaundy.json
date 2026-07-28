@@ -29,7 +29,7 @@
   "tracks": [
     "タイムパラドックス",
     "トドメの一撃",
-    "怪獸的花歌",
+    "怪獣の花唄",
     "Life hack",
     "ホムンクルス/Gift"
   ],
@@ -41,7 +41,7 @@
       "title": "トドメの一撃"
     },
     {
-      "title": "怪獸的花歌"
+      "title": "怪獣の花唄"
     },
     {
       "title": "Life hack"
@@ -51,7 +51,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1487570516",
+    "apple": "https://music.apple.com/cn/artist/vaundy/1487570516",
     "spotify": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru",
     "netease": "https://y.music.163.com/m/artist?id=34343313"
   },

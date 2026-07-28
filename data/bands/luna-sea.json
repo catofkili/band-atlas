@@ -42,7 +42,7 @@
   "intro": "月之海是1986年在日本神奈川县组成的视觉系摇滚乐团，由于在职业生涯早期使用化妆和华丽服饰，广受大众欢迎，是视觉系运动中是最成功和最有影响力的乐团之一。在1990年代后期，他们的化妆程度开始减少。经过1997年各自单飞的时期后，乐团音乐风格转变为更主流的另类摇滚，舞台上的视觉系装束也不复见。",
   "introLang": "zh",
   "tracks": [
-    "Gravity",
+    "gravity",
     "I for You",
     "BELIEVE (LUNA SEAの曲)",
     "DESIRE (LUNA SEAの曲)",
@@ -50,7 +50,7 @@
   ],
   "trackSources": [
     {
-      "title": "Gravity"
+      "title": "gravity"
     },
     {
       "title": "I for You"
@@ -66,7 +66,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/76035150",
+    "apple": "https://music.apple.com/cn/artist/%E6%9C%88%E4%B9%8B%E6%B5%B7/76035150",
     "spotify": "https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS",
     "netease": "https://y.music.163.com/m/artist?id=22391"
   },

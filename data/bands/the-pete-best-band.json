@@ -17,8 +17,12 @@
       "year": 2008
     }
   ],
-  "intro": "兰道夫·彼得·贝斯特是英国鼓手。由于在正式出道前曾是披头士乐队成员，因此被称为“第五位披头士”。",
+  "intro": "The Pete Best Band是Pete Best围绕个人演出与早期The Beatles曲目组织的巡演乐队，而不是Pete Best本人的传记条目。乐队以Best的鼓手经历为核心，在现场重访The Beatles正式出道前的Liverpool与Hamburg时期，也演奏后来发行的个人作品；其意义主要在于把早期成员历史转化成持续的现场项目。",
   "introLang": "zh",
+  "introSources": [],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f7f024fc-1b17-4a1c-b70c-7c783ec09500"
+  },
   "musicLinks": {
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002VMMVq3hZ1sG",
     "netease": "https://y.music.163.com/m/artist?id=158096"
@@ -34,9 +38,6 @@
     "hasAlbums": true
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f7f024fc-1b17-4a1c-b70c-7c783ec09500"
-  },
   "edges": [
     {
       "to": "the-beatles",

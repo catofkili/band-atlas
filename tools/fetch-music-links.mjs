@@ -113,7 +113,9 @@ function urlsFromIds(ids) {
     // 官方移动分享地址可尝试唤起 App，并能在未安装客户端时回落到歌手网页。
     out.netease = `https://y.music.163.com/m/artist?id=${ids.netease}`;
   }
-  if (ids.apple) out.apple = `https://music.apple.com/us/artist/band-atlas/${ids.apple}`;
+  // 这里只保留 Apple Music 的资源 ID 占位。脚本末尾会通过 iTunes Lookup
+  // 取得当前中国区的官方分享 URL；不能伪造路径 slug，否则 App 会落到首页。
+  if (ids.apple) out.apple = `https://music.apple.com/cn/artist/id-${ids.apple}/${ids.apple}`;
   if (ids.spotify) out.spotify = `https://open.spotify.com/artist/${ids.spotify}`;
   return out;
 }
@@ -627,11 +629,63 @@ function sanitizeSearchMatches() {
   );
 }
 
+async function canonicalizeAppleLinks() {
+  const targets = bands.flatMap((band) => {
+    const url = artists[band.id]?.apple;
+    const appleId = url?.match(/\/(\d+)(?:\?.*)?$/)?.[1];
+    return appleId ? [{ band, appleId }] : [];
+  });
+  const resolved = new Map();
+  const batchSize = 80;
+
+  for (let offset = 0; offset < targets.length; offset += batchSize) {
+    const batch = targets.slice(offset, offset + batchSize);
+    const url = new URL('https://itunes.apple.com/lookup');
+    url.searchParams.set('id', unique(batch.map(({ appleId }) => appleId)).join(','));
+    url.searchParams.set('entity', 'musicArtist');
+    url.searchParams.set('country', 'cn');
+    const data = await fetchJSON(url);
+    for (const item of data.results ?? []) {
+      if (item.wrapperType !== 'artist' || !item.artistId || !item.artistLinkUrl) continue;
+      resolved.set(String(item.artistId), item);
+    }
+    console.log(`  Apple Music 官方地址 ${Math.min(offset + batchSize, targets.length)}/${targets.length}`);
+    await sleep(120);
+  }
+
+  let updated = 0;
+  let removedMissing = 0;
+  let removedMismatch = 0;
+  for (const { band, appleId } of targets) {
+    const item = resolved.get(appleId);
+    const exactName = item && isStrongExactName(band, item.artistName);
+    if (!item || !exactName) {
+      delete artists[band.id]?.apple;
+      delete evidence[band.id]?.apple;
+      if (!item) removedMissing += 1;
+      else removedMismatch += 1;
+      continue;
+    }
+    const canonical = item.artistLinkUrl.replace(/\?.*$/, '');
+    if (artists[band.id].apple !== canonical) updated += 1;
+    artists[band.id].apple = canonical;
+  }
+  for (const id of Object.keys(artists)) {
+    if (!Object.keys(artists[id]).length) delete artists[id];
+    if (!Object.keys(evidence[id] ?? {}).length) delete evidence[id];
+  }
+  console.log(
+    `✓ Apple Music 中国区官方地址 · 更新 ${updated} · ` +
+    `无主页移除 ${removedMissing} · 名称不符移除 ${removedMismatch}`
+  );
+}
+
 await fetchWikidata();
 await fetchMusicBrainz();
 for (const platform of ['qq', 'netease', 'apple']) await searchMissing(platform);
 await resolveAmbiguousMatches();
 sanitizeSearchMatches();
+await canonicalizeAppleLinks();
 
 const sortedArtists = Object.fromEntries(
   Object.keys(artists).sort((a, b) => a.localeCompare(b, 'en')).map((id) => [id, artists[id]])

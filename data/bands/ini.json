@@ -32,18 +32,18 @@
   "intro": "INI是在2021年日本选秀节目《PRODUCE 101 JAPAN 第二季》中，通过由被称为“国民制作人”的观众投票，从101名练习生中选出的11名练习生而组成的男子组合。成员包括木村柾哉、高塚大梦、田岛将吾、藤牧京介、尾崎匠海、西洸人、松田迅、许丰凡、池崎理人、佐野雄大及后藤威尊。",
   "introLang": "zh",
   "tracks": [
-    "A (INI单曲)",
-    "I (INI单曲)",
+    "A",
+    "I",
     "DROP That",
     "M",
     "TAG ME"
   ],
   "trackSources": [
     {
-      "title": "A (INI单曲)"
+      "title": "A"
     },
     {
-      "title": "I (INI单曲)"
+      "title": "I"
     },
     {
       "title": "DROP That"
@@ -56,7 +56,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/1587161346",
+    "apple": "https://music.apple.com/cn/artist/ini/1587161346",
     "spotify": "https://open.spotify.com/artist/73kxDUq2Hl7Upy4o0yFxXv",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0033pPO23A7WCc",
     "netease": "https://y.music.163.com/m/artist?id=49903888"

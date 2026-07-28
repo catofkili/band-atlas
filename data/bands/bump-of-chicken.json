@@ -40,31 +40,30 @@
   "intro": "BUMP OF CHICKEN是日本摇滚乐队，简称バンプ、BUMP、BOC、棒棒鸡，于1994年组成，1999年在主流歌坛出道。所属唱片公司为TOY'S FACTORY，事务所为LONGFELLOW。团名有“弱者的反击”之意。",
   "introLang": "zh",
   "tracks": [
-    "HAPPY (BUMP OF CHICKEN單曲)",
+    "HAPPY (BUMP OF CHICKENの曲)",
     "アルエ",
-    "天體觀測",
-    "花之名",
-    "零"
+    "ゼロ (BUMP OF CHICKENの曲)",
+    "天体観測",
+    "花の名"
   ],
   "trackSources": [
     {
-      "title": "HAPPY (BUMP OF CHICKEN單曲)"
+      "title": "HAPPY (BUMP OF CHICKENの曲)"
     },
     {
       "title": "アルエ"
     },
     {
-      "title": "天體觀測"
+      "title": "ゼロ (BUMP OF CHICKENの曲)"
     },
     {
-      "title": "花之名"
+      "title": "天体観測"
     },
     {
-      "title": "零"
+      "title": "花の名"
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/256908529",
     "spotify": "https://open.spotify.com/artist/0hSFeqPehe7FtCNWuQ6Bsy",
     "netease": "https://y.music.163.com/m/artist?id=18705"
   },

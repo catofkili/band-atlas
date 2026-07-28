@@ -39,35 +39,35 @@
       "year": 1976
     }
   ],
-  "intro": "羽翼乐队又称为保罗·麦卡特尼与羽翼乐队，是一队英国摇滚乐团。1971年乐队由前披头士成员保罗·麦卡特尼与其妻琳达·麦卡特尼、鼓手丹尼·斯威尔及前忧郁布鲁斯乐队吉他手丹尼·莱恩组成。羽翼乐队的阵容有频繁的人事变动，亦获得商业上的成功，乐团前成员有三位吉他手和四位鼓手。然而，麦卡特尼夫妇和莱恩是乐团的核心三人组，由乐团的成立至解散依然存在。",
+  "intro": "Wings，是一队英国摇滚乐团。1971年乐队由前披头士成员保罗·麦卡特尼与其妻琳达·麦卡特尼、鼓手丹尼·斯威尔及前忧郁布鲁斯乐队吉他手丹尼·莱恩组成。羽翼乐队的阵容有频繁的人事变动，亦获得商业上的成功，乐团前成员有三位吉他手和四位鼓手。然而，麦卡特尼夫妇和莱恩是乐团的核心三人组，由乐团的成立至解散依然存在。",
   "introLang": "zh",
   "tracks": [
-    "心のラヴ・ソング",
-    "金泰爾角",
-    "アイルランドに平和を",
-    "あの娘におせっかい",
-    "ミセス・ヴァンデビルト"
+    "Mull of Kintyre",
+    "Silly Love Songs",
+    "Give Ireland Back to the Irish",
+    "Listen to What the Man Said",
+    "Mrs Vandebilt"
   ],
   "trackSources": [
     {
-      "title": "心のラヴ・ソング"
+      "title": "Mull of Kintyre"
     },
     {
-      "title": "金泰爾角"
+      "title": "Silly Love Songs"
     },
     {
-      "title": "アイルランドに平和を"
+      "title": "Give Ireland Back to the Irish"
     },
     {
-      "title": "あの娘におせっかい"
+      "title": "Listen to What the Man Said"
     },
     {
-      "title": "ミセス・ヴァンデビルト"
+      "title": "Mrs Vandebilt"
     }
   ],
   "musicLinks": {
     "spotify": "https://open.spotify.com/artist/3sFhA6G1N0gG1pszb6kk1m",
-    "apple": "https://music.apple.com/us/artist/band-atlas/137835370",
+    "apple": "https://music.apple.com/cn/artist/wings/137835370",
     "netease": "https://y.music.163.com/m/artist?id=84094"
   },
   "listens": 293975,

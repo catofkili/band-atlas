@@ -42,32 +42,32 @@
   "intro": "Yorushika（日语：ヨルシカ，罗马化：Yorushika，可译作夜鹿) 是由作曲家n-buna与歌手suis组成的日本摇滚乐团。于2017年组成，出道时所属的音乐厂牌为Dwango旗下的U&R records，其目前所属的音乐厂牌为日本环球音乐。",
   "introLang": "zh",
   "tracks": [
-    "放晴",
-    "吞食清風",
+    "晴る",
+    "へび",
     "夜行",
-    "春竊賊",
-    "花上的亡靈"
+    "春泥棒",
+    "花に亡霊"
   ],
   "trackSources": [
     {
-      "title": "放晴"
+      "title": "晴る"
     },
     {
-      "title": "吞食清風"
+      "title": "へび"
     },
     {
       "title": "夜行"
     },
     {
-      "title": "春竊賊"
+      "title": "春泥棒"
     },
     {
-      "title": "花上的亡靈"
+      "title": "花に亡霊"
     }
   ],
   "musicLinks": {
     "spotify": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik",
-    "apple": "https://music.apple.com/us/artist/band-atlas/1250709916",
+    "apple": "https://music.apple.com/cn/artist/yorushika/1250709916",
     "netease": "https://y.music.163.com/m/artist?id=12390232"
   },
   "listens": 471333,

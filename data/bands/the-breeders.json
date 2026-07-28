@@ -35,7 +35,7 @@
   "intro": "The Breeders 是一支成立于1988年的美国摇滚乐队。",
   "introLang": "zh",
   "tracks": [
-    "キャノンボール",
+    "Cannonball",
     "Divine Hammer",
     "Off You",
     "Saints",
@@ -43,7 +43,7 @@
   ],
   "trackSources": [
     {
-      "title": "キャノンボール"
+      "title": "Cannonball"
     },
     {
       "title": "Divine Hammer"
@@ -59,7 +59,7 @@
     }
   ],
   "musicLinks": {
-    "apple": "https://music.apple.com/us/artist/band-atlas/790125",
+    "apple": "https://music.apple.com/cn/artist/the-breeders/790125",
     "spotify": "https://open.spotify.com/artist/1xgFexIwrf2QjbU0buCNnp",
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=0035MIIq0F0bNf",
     "netease": "https://y.music.163.com/m/artist?id=78236"
