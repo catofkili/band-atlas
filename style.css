@@ -74,36 +74,41 @@ button { font: inherit; color: inherit; }
   touch-action:none;
   transform-origin:center;
   transition:
-    opacity .42s ease,
-    transform .56s cubic-bezier(.2,.76,.2,1),
-    filter .48s ease;
+    opacity .52s ease,
+    transform .72s cubic-bezier(.16,.76,.18,1),
+    filter .58s ease;
 }
 .network-map[hidden] { display:none; }
 .network-map.is-entering {
   opacity:0;
-  transform:scale(1.045);
-  filter:blur(8px);
+  transform:perspective(1000px) translateZ(150px) scale(1.16);
+  filter:blur(4px);
   pointer-events:none;
 }
 .network-map.is-leaving {
   opacity:0;
-  transform:scale(1.035);
-  filter:blur(7px);
+  transform:perspective(1000px) translateZ(120px) scale(1.12);
+  filter:blur(4px);
   pointer-events:none;
 }
+.network-map.is-morphing { pointer-events:none; }
 body.map-transition-enabled > .stage,
 body.map-transition-enabled > .hud {
   transform-origin:center;
   transition:
-    opacity .42s ease,
-    transform .56s cubic-bezier(.2,.76,.2,1),
-    filter .48s ease;
+    opacity .5s ease,
+    transform .72s cubic-bezier(.16,.76,.18,1),
+    filter .58s ease;
 }
-body.map-active > .stage,
+body.map-active > .stage {
+  opacity:.04;
+  transform:perspective(900px) rotateX(11deg) scale3d(.6,.24,1) translateY(-4vh);
+  filter:blur(3px) saturate(.72);
+}
 body.map-active > .hud {
-  opacity:.34;
-  transform:scale(.965);
-  filter:blur(2.5px);
+  opacity:0;
+  transform:scale(.82);
+  filter:blur(2px);
 }
 #network-canvas {
   width:100%;
@@ -111,53 +116,48 @@ body.map-active > .hud {
   display:block;
   contain:strict;
 }
-.network-map__loader {
-  position:absolute;
-  top:50%;
-  left:50%;
-  width:104px;
-  height:104px;
-  opacity:0;
-  transform:translate(-50%, -50%) scale(.8);
-  transition:opacity .2s ease, transform .3s ease;
+.map-morph {
+  position:fixed;
+  z-index:70;
+  overflow:hidden;
+  box-sizing:border-box;
+  border:1px solid var(--line);
+  border-radius:22px;
+  background:var(--panel);
+  box-shadow:0 24px 70px rgba(0,0,0,.38);
   pointer-events:none;
+  transform-origin:top left;
+  transition:
+    left .72s cubic-bezier(.16,.76,.18,1),
+    top .72s cubic-bezier(.16,.76,.18,1),
+    width .72s cubic-bezier(.16,.76,.18,1),
+    height .72s cubic-bezier(.16,.76,.18,1),
+    border-radius .72s cubic-bezier(.16,.76,.18,1),
+    opacity .64s ease;
 }
-.network-map__loader::after {
-  content:"";
+.map-morph__card {
   position:absolute;
-  top:50%;
-  left:50%;
-  width:9px;
-  height:9px;
-  border:2px solid var(--ground);
-  border-radius:50%;
-  background:var(--rel-member);
-  box-shadow:0 0 0 5px color-mix(in srgb, var(--rel-member) 18%, transparent), 0 0 22px var(--rel-member);
-  transform:translate(-50%, -50%);
-  animation:map-loader-core .9s ease-in-out infinite alternate;
+  top:0;
+  left:0;
+  max-width:none;
+  max-height:none;
+  margin:0;
+  transform-origin:top left;
+  transition:transform .72s cubic-bezier(.16,.76,.18,1), opacity .42s ease .2s;
 }
-.network-map.is-loading .network-map__loader {
-  opacity:1;
-  transform:translate(-50%, -50%) scale(1);
-}
-.network-map__loader i {
-  position:absolute;
-  inset:0;
-  border:1.5px solid color-mix(in srgb, var(--rel-member) 88%, transparent);
-  border-radius:50%;
-  opacity:0;
-  animation:map-loader-pulse 1.35s cubic-bezier(.18,.62,.3,1) infinite;
-}
-.network-map__loader i:nth-child(2) { animation-delay:.3s; }
-.network-map__loader i:nth-child(3) { animation-delay:.6s; }
-@keyframes map-loader-pulse {
-  0% { opacity:0; transform:scale(.28); }
-  20% { opacity:.78; }
-  100% { opacity:0; transform:scale(1.34); }
-}
-@keyframes map-loader-core {
-  from { opacity:.68; transform:translate(-50%, -50%) scale(.84); }
-  to { opacity:1; transform:translate(-50%, -50%) scale(1.12); }
+.map-morph__node {
+  display:flex;
+  width:100%;
+  height:100%;
+  align-items:center;
+  justify-content:center;
+  padding:0 8px;
+  box-sizing:border-box;
+  color:var(--ink);
+  font:650 11px system-ui,sans-serif;
+  white-space:nowrap;
+  transform-origin:center;
+  transition:transform .72s cubic-bezier(.16,.76,.18,1), opacity .34s ease .18s;
 }
 .network-map__hud {
   position:absolute;
@@ -237,7 +237,7 @@ body.map-active > .hud {
   .network-map,
   body.map-transition-enabled > .stage,
   body.map-transition-enabled > .hud,
-  .network-map__loader {
+  .map-morph {
     transition:none;
   }
   .network-map.is-entering,
@@ -247,8 +247,6 @@ body.map-active > .hud {
     transform:none;
     filter:none;
   }
-  .network-map__loader i,
-  .network-map__loader::after { animation:none; }
 }
 /* 但焦点卡片正文得留给它自己滚 */
 .card__body { touch-action: pan-y; }

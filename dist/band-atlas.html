@@ -78,36 +78,41 @@ button { font: inherit; color: inherit; }
   touch-action:none;
   transform-origin:center;
   transition:
-    opacity .42s ease,
-    transform .56s cubic-bezier(.2,.76,.2,1),
-    filter .48s ease;
+    opacity .52s ease,
+    transform .72s cubic-bezier(.16,.76,.18,1),
+    filter .58s ease;
 }
 .network-map[hidden] { display:none; }
 .network-map.is-entering {
   opacity:0;
-  transform:scale(1.045);
-  filter:blur(8px);
+  transform:perspective(1000px) translateZ(150px) scale(1.16);
+  filter:blur(4px);
   pointer-events:none;
 }
 .network-map.is-leaving {
   opacity:0;
-  transform:scale(1.035);
-  filter:blur(7px);
+  transform:perspective(1000px) translateZ(120px) scale(1.12);
+  filter:blur(4px);
   pointer-events:none;
 }
+.network-map.is-morphing { pointer-events:none; }
 body.map-transition-enabled > .stage,
 body.map-transition-enabled > .hud {
   transform-origin:center;
   transition:
-    opacity .42s ease,
-    transform .56s cubic-bezier(.2,.76,.2,1),
-    filter .48s ease;
+    opacity .5s ease,
+    transform .72s cubic-bezier(.16,.76,.18,1),
+    filter .58s ease;
 }
-body.map-active > .stage,
+body.map-active > .stage {
+  opacity:.04;
+  transform:perspective(900px) rotateX(11deg) scale3d(.6,.24,1) translateY(-4vh);
+  filter:blur(3px) saturate(.72);
+}
 body.map-active > .hud {
-  opacity:.34;
-  transform:scale(.965);
-  filter:blur(2.5px);
+  opacity:0;
+  transform:scale(.82);
+  filter:blur(2px);
 }
 #network-canvas {
   width:100%;
@@ -115,53 +120,48 @@ body.map-active > .hud {
   display:block;
   contain:strict;
 }
-.network-map__loader {
-  position:absolute;
-  top:50%;
-  left:50%;
-  width:104px;
-  height:104px;
-  opacity:0;
-  transform:translate(-50%, -50%) scale(.8);
-  transition:opacity .2s ease, transform .3s ease;
+.map-morph {
+  position:fixed;
+  z-index:70;
+  overflow:hidden;
+  box-sizing:border-box;
+  border:1px solid var(--line);
+  border-radius:22px;
+  background:var(--panel);
+  box-shadow:0 24px 70px rgba(0,0,0,.38);
   pointer-events:none;
+  transform-origin:top left;
+  transition:
+    left .72s cubic-bezier(.16,.76,.18,1),
+    top .72s cubic-bezier(.16,.76,.18,1),
+    width .72s cubic-bezier(.16,.76,.18,1),
+    height .72s cubic-bezier(.16,.76,.18,1),
+    border-radius .72s cubic-bezier(.16,.76,.18,1),
+    opacity .64s ease;
 }
-.network-map__loader::after {
-  content:"";
+.map-morph__card {
   position:absolute;
-  top:50%;
-  left:50%;
-  width:9px;
-  height:9px;
-  border:2px solid var(--ground);
-  border-radius:50%;
-  background:var(--rel-member);
-  box-shadow:0 0 0 5px color-mix(in srgb, var(--rel-member) 18%, transparent), 0 0 22px var(--rel-member);
-  transform:translate(-50%, -50%);
-  animation:map-loader-core .9s ease-in-out infinite alternate;
+  top:0;
+  left:0;
+  max-width:none;
+  max-height:none;
+  margin:0;
+  transform-origin:top left;
+  transition:transform .72s cubic-bezier(.16,.76,.18,1), opacity .42s ease .2s;
 }
-.network-map.is-loading .network-map__loader {
-  opacity:1;
-  transform:translate(-50%, -50%) scale(1);
-}
-.network-map__loader i {
-  position:absolute;
-  inset:0;
-  border:1.5px solid color-mix(in srgb, var(--rel-member) 88%, transparent);
-  border-radius:50%;
-  opacity:0;
-  animation:map-loader-pulse 1.35s cubic-bezier(.18,.62,.3,1) infinite;
-}
-.network-map__loader i:nth-child(2) { animation-delay:.3s; }
-.network-map__loader i:nth-child(3) { animation-delay:.6s; }
-@keyframes map-loader-pulse {
-  0% { opacity:0; transform:scale(.28); }
-  20% { opacity:.78; }
-  100% { opacity:0; transform:scale(1.34); }
-}
-@keyframes map-loader-core {
-  from { opacity:.68; transform:translate(-50%, -50%) scale(.84); }
-  to { opacity:1; transform:translate(-50%, -50%) scale(1.12); }
+.map-morph__node {
+  display:flex;
+  width:100%;
+  height:100%;
+  align-items:center;
+  justify-content:center;
+  padding:0 8px;
+  box-sizing:border-box;
+  color:var(--ink);
+  font:650 11px system-ui,sans-serif;
+  white-space:nowrap;
+  transform-origin:center;
+  transition:transform .72s cubic-bezier(.16,.76,.18,1), opacity .34s ease .18s;
 }
 .network-map__hud {
   position:absolute;
@@ -241,7 +241,7 @@ body.map-active > .hud {
   .network-map,
   body.map-transition-enabled > .stage,
   body.map-transition-enabled > .hud,
-  .network-map__loader {
+  .map-morph {
     transition:none;
   }
   .network-map.is-entering,
@@ -251,8 +251,6 @@ body.map-active > .hud {
     transform:none;
     filter:none;
   }
-  .network-map__loader i,
-  .network-map__loader::after { animation:none; }
 }
 /* 但焦点卡片正文得留给它自己滚 */
 .card__body { touch-action: pan-y; }
@@ -1030,9 +1028,6 @@ body.map-active > .hud {
 <section id="network-map" class="network-map" hidden role="dialog" aria-modal="true"
          aria-label="乐队关系地图" aria-describedby="map-help">
   <canvas id="network-canvas" tabindex="0" aria-label="可缩放的乐队关系地图"></canvas>
-  <div class="network-map__loader" aria-hidden="true">
-    <i></i><i></i><i></i>
-  </div>
   <div class="network-map__hud">
     <div class="network-map__toolbar">
       <button id="map-close" class="btn" type="button">返回卡片</button>
@@ -1620,7 +1615,7 @@ const MAP_POPULAR_LISTEN_FLOOR = 1000;
 const LABEL_LIMITS_PER_MEGAPIXEL = [Infinity, Infinity, 92, 42];
 const LABEL_LIMIT_FLOORS = [9, 22, 26, 13];
 const LABEL_GAPS = [4, 5, 6, 7];
-const GRAPH_VERSION = 'e2c74de47a';
+const GRAPH_VERSION = '738581052c';
 
 const hash = (text) => {
   let value = 2166136261;
@@ -1636,7 +1631,13 @@ function roundedRect(ctx, x, y, width, height, radius) {
   ctx.roundRect(x, y, width, height, Math.min(radius, width / 2, height / 2));
 }
 
-function createNetworkMap({ canvas, onChoose, popularOnly: initialPopularOnly = true, onPopularChange }) {
+function createNetworkMap({
+  canvas,
+  onChoose,
+  onGestureChoose,
+  popularOnly: initialPopularOnly = true,
+  onPopularChange,
+}) {
   let graph;
   let nodes;
   let positions;
@@ -2182,6 +2183,38 @@ function createNetworkMap({ canvas, onChoose, popularOnly: initialPopularOnly = 
     return null;
   }
 
+  function nodeScreenRect(id) {
+    const point = positions.get(id);
+    if (!point) return null;
+    const surfaceRect = surface.getBoundingClientRect();
+    const x = viewportWidth / 2 + offsetX + point.x * scale;
+    const y = viewportHeight / 2 + offsetY + point.y * scale;
+    const metrics = renderedMetrics.get(id) || { widthScreen: 16, heightScreen: 16 };
+    return {
+      left: surfaceRect.left + x - metrics.widthScreen / 2,
+      top: surfaceRect.top + y - metrics.heightScreen / 2,
+      width: metrics.widthScreen,
+      height: metrics.heightScreen,
+    };
+  }
+
+  function gestureTarget(screenX, screenY) {
+    const direct = hit(screenX, screenY);
+    if (direct) return direct;
+    let nearest = null;
+    let nearestDistance = 86;
+    for (const point of stageViews[activeStage].points) {
+      const x = viewportWidth / 2 + offsetX + point.x * scale;
+      const y = viewportHeight / 2 + offsetY + point.y * scale;
+      const distance = Math.hypot(screenX - x, screenY - y);
+      if (distance < nearestDistance) {
+        nearestDistance = distance;
+        nearest = point.node;
+      }
+    }
+    return nearest;
+  }
+
   function beginPointer(event) {
     const point = screenPoint(event);
     pointers.set(event.pointerId, point);
@@ -2192,6 +2225,8 @@ function createNetworkMap({ canvas, onChoose, popularOnly: initialPopularOnly = 
         distance: Math.hypot(a.x - b.x, a.y - b.y),
         midX: (a.x + b.x) / 2,
         midY: (a.y + b.y) / 2,
+        startDistance: Math.hypot(a.x - b.x, a.y - b.y),
+        allowReturn: true,
       };
       if (drag) drag.moved = true;
     }
@@ -2211,6 +2246,8 @@ function createNetworkMap({ canvas, onChoose, popularOnly: initialPopularOnly = 
         distance: Math.hypot(a.x - b.x, a.y - b.y),
         midX: (a.x + b.x) / 2,
         midY: (a.y + b.y) / 2,
+        startDistance: Math.hypot(a.x - b.x, a.y - b.y),
+        allowReturn: false,
       };
     }
   }
@@ -2224,10 +2261,23 @@ function createNetworkMap({ canvas, onChoose, popularOnly: initialPopularOnly = 
       const distance = Math.hypot(a.x - b.x, a.y - b.y);
       const midX = (a.x + b.x) / 2;
       const midY = (a.y + b.y) / 2;
+      const startDistance = pinch?.startDistance ?? distance;
+      const allowReturn = pinch?.allowReturn ?? false;
+      if (allowReturn && distance / startDistance >= 1.55) {
+        const target = gestureTarget(midX, midY);
+        if (target) {
+          const originRect = nodeScreenRect(target.id);
+          pointers.clear();
+          drag = null;
+          pinch = null;
+          onGestureChoose?.(target.id, { originRect, screenX: midX, screenY: midY });
+          return;
+        }
+      }
       if (pinch?.distance) zoomAt(scale * distance / pinch.distance, pinch.midX, pinch.midY);
       offsetX += midX - (pinch?.midX ?? midX);
       offsetY += midY - (pinch?.midY ?? midY);
-      pinch = { distance, midX, midY };
+      pinch = { distance, midX, midY, startDistance, allowReturn };
       if (drag) drag.moved = true;
       chooseStage(midX, midY);
       return;
@@ -2255,7 +2305,7 @@ function createNetworkMap({ canvas, onChoose, popularOnly: initialPopularOnly = 
       drag = null;
     }
     pinch = null;
-    if (chosen) onChoose(chosen.id);
+    if (chosen) onChoose(chosen.id, { originRect: nodeScreenRect(chosen.id) });
   }
 
   surface.addEventListener('pointerdown', (event) => {
@@ -2338,6 +2388,9 @@ function createNetworkMap({ canvas, onChoose, popularOnly: initialPopularOnly = 
       if (focusId) preloadStages();
     },
     setPopularOnly,
+    getFocusRect() {
+      return focusId ? nodeScreenRect(focusId) : null;
+    },
     adoptPointers,
     moveAdoptedPointer: movePointer,
     endAdoptedPointer: endPointer,
@@ -2486,77 +2539,168 @@ const mapOpenButton = document.getElementById('map-open');
 const popularToggle = document.getElementById('popular-toggle');
 let mapReturnFocus = null;
 let mapTransitionToken = 0;
+const MAP_MORPH_MS = 720;
 const networkMap = createNetworkMap({
   canvas: mapCanvas,
   popularOnly,
   onPopularChange: (enabled) => setPopularOnly(enabled, { fromMap: true }),
-  onChoose: (id) => {
-    hideNetworkMap();
-    jumpTo(id);
-  },
+  onChoose: (id, detail) => landOnBandFromMap(id, detail),
+  onGestureChoose: (id, detail) => landOnBandFromMap(id, detail),
 });
 
-function hideNetworkMap({ restoreFocus = true } = {}) {
+function setMorphRect(element, rect) {
+  element.style.left = `${rect.left}px`;
+  element.style.top = `${rect.top}px`;
+  element.style.width = `${rect.width}px`;
+  element.style.height = `${rect.height}px`;
+}
+
+function focusCardTargetRect() {
+  const card = stage.querySelector('.node--focus .card--focus');
+  if (!card) return null;
+  const stageRect = stage.getBoundingClientRect();
+  return {
+    left: stageRect.left + (stageRect.width - card.offsetWidth) / 2,
+    top: stageRect.top + (stageRect.height - card.offsetHeight) / 2,
+    width: card.offsetWidth,
+    height: card.offsetHeight,
+  };
+}
+
+function runMapMorph({ fromRect, toRect, sourceCard, label, expanding = false }) {
+  if (reduceMotion.matches || !fromRect || !toRect) return Promise.resolve();
+  const shell = document.createElement('div');
+  shell.className = `map-morph ${expanding ? 'map-morph--expanding' : 'map-morph--contracting'}`;
+  shell.setAttribute('aria-hidden', 'true');
+  setMorphRect(shell, fromRect);
+
+  if (sourceCard) {
+    const clone = sourceCard.cloneNode(true);
+    clone.classList.add('map-morph__card');
+    clone.inert = true;
+    clone.style.width = `${fromRect.width}px`;
+    clone.style.height = `${fromRect.height}px`;
+    shell.append(clone);
+    nextFrame(() => {
+      clone.style.transform =
+        `scale(${toRect.width / fromRect.width}, ${toRect.height / fromRect.height})`;
+      clone.style.opacity = '0';
+    });
+  } else {
+    const node = document.createElement('span');
+    node.className = 'map-morph__node';
+    node.textContent = label ?? '';
+    shell.append(node);
+    nextFrame(() => {
+      node.style.transform =
+        `scale(${toRect.width / fromRect.width}, ${toRect.height / fromRect.height})`;
+      node.style.opacity = '0';
+    });
+  }
+
+  document.body.append(shell);
+  // 先让浏览器记录起始矩形，再把同一个容器压到目标矩形，形成真正的共享元素变换。
+  shell.getBoundingClientRect();
+  nextFrame(() => {
+    setMorphRect(shell, toRect);
+    shell.style.borderRadius = expanding ? '22px' : '12px';
+    shell.style.opacity = expanding ? '0.18' : '0.72';
+  });
+  return new Promise((resolve) => {
+    setTimeout(() => {
+      shell.remove();
+      resolve();
+    }, MAP_MORPH_MS + 60);
+  });
+}
+
+function hideNetworkMap({
+  restoreFocus = true,
+  originRect = networkMap.getFocusRect(),
+  label = current?.name,
+} = {}) {
   if (mapEl.hidden) return;
   const token = ++mapTransitionToken;
+  const destinationRect = focusCardTargetRect();
   stageTouches.clear();
   mapGestureActive = false;
   networkMap.cancelPointers();
-  mapEl.classList.remove('is-entering', 'is-loading');
-  mapEl.classList.add('is-leaving');
+  mapEl.classList.remove('is-entering');
+  mapEl.classList.add('is-leaving', 'is-morphing');
   mapEl.setAttribute('aria-busy', 'false');
   document.body.classList.remove('map-active');
+  runMapMorph({
+    fromRect: originRect,
+    toRect: destinationRect,
+    label,
+    expanding: true,
+  });
   const finish = () => {
     if (token !== mapTransitionToken) return;
     mapEl.hidden = true;
-    mapEl.classList.remove('is-leaving');
+    mapEl.classList.remove('is-leaving', 'is-morphing');
     if (restoreFocus) mapReturnFocus?.focus();
   };
   if (reduceMotion.matches) finish();
-  else setTimeout(finish, 520);
+  else setTimeout(finish, MAP_MORPH_MS);
 }
 
 async function showNetworkMap({ trigger = mapOpenButton, preservePointers = false } = {}) {
   if (!current) return;
   const token = ++mapTransitionToken;
+  const sourceCard = stage.querySelector('.node--focus .card--focus');
+  const sourceRect = sourceCard?.getBoundingClientRect();
   mapReturnFocus = trigger;
   document.body.classList.add('map-transition-enabled');
   document.body.classList.remove('map-active');
   mapEl.classList.remove('is-leaving');
-  mapEl.classList.add('is-entering', 'is-loading');
+  mapEl.classList.add('is-entering', 'is-morphing');
   mapEl.setAttribute('aria-busy', 'true');
   mapEl.hidden = false;
   mapError.hidden = true;
   mapStats.textContent = '';
-  const loaderFloor = reduceMotion.matches
-    ? Promise.resolve()
-    : new Promise((resolve) => setTimeout(resolve, 620));
   if (!preservePointers) networkMap.cancelPointers();
-  if (reduceMotion.matches) {
-    mapEl.classList.remove('is-entering');
-    document.body.classList.add('map-active');
-  } else {
+  try {
+    await networkMap.setPopularOnly(popularOnly);
+    await networkMap.open(current.id);
+    if (token !== mapTransitionToken) return;
+    const targetRect = networkMap.getFocusRect();
+    runMapMorph({ fromRect: sourceRect, toRect: targetRect, sourceCard });
     nextFrame(() => {
       if (token !== mapTransitionToken) return;
       mapEl.classList.remove('is-entering');
       document.body.classList.add('map-active');
     });
-  }
-  try {
-    await networkMap.setPopularOnly(popularOnly);
-    await networkMap.open(current.id);
-    await loaderFloor;
-    if (token !== mapTransitionToken) return;
-    mapEl.classList.remove('is-loading');
+    setTimeout(() => {
+      if (token === mapTransitionToken) mapEl.classList.remove('is-morphing');
+    }, MAP_MORPH_MS);
     mapEl.setAttribute('aria-busy', 'false');
     if (!preservePointers) mapCanvas.focus();
   } catch (error) {
     if (token !== mapTransitionToken) return;
     console.error(error);
-    mapEl.classList.remove('is-loading');
+    mapEl.classList.remove('is-entering', 'is-morphing');
+    document.body.classList.add('map-active');
     mapEl.setAttribute('aria-busy', 'false');
     mapStats.textContent = '地图不可用';
     mapError.hidden = false;
+  }
+}
+
+async function landOnBandFromMap(id, { originRect } = {}) {
+  if (busy) return;
+  busy = true;
+  try {
+    const band = await loadBand(id);
+    setRoute(band.id);
+    render(band, { animate: false });
+    hideNetworkMap({ restoreFocus: false, originRect, label: band.name });
+    if (!reduceMotion.matches) await wait(MAP_MORPH_MS);
+  } catch (error) {
+    console.error(error);
+    mapStats.textContent = '载入卡片失败';
+  } finally {
+    busy = false;
   }
 }
 
@@ -2950,10 +3094,7 @@ function openMapFromGesture() {
   if (mapEl.hidden) {
     drag = null;
     mapGestureActive = true;
-    mapEl.hidden = false;
     mapReturnFocus = null;
-    mapError.hidden = true;
-    mapStats.textContent = '载入地图…';
     networkMap.adoptPointers(
       [...stageTouches.entries()].map(([id, point]) => ({ id, ...point }))
     );

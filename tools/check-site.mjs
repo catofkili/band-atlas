@@ -241,6 +241,13 @@ if (
   throw new Error('单文件版缺少地图热度筛选、动态阶段视图或标签去冲突');
 }
 if (
+  !standalone.includes('map-morph') ||
+  !standalone.includes('onGestureChoose') ||
+  standalone.includes('network-map__loader')
+) {
+  throw new Error('单文件版缺少双向卡片地图形变，或仍残留雷达加载动画');
+}
+if (
   !/id="popular-toggle"[\s\S]{0,180}aria-pressed="true"/.test(indexHtml) ||
   !mainJs.includes("stored == null ? true") ||
   !mainJs.includes("band.edges.filter((edge) => isPopularBand(edge.to))") ||

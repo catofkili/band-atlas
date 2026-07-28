@@ -23,7 +23,7 @@ const MAP_POPULAR_LISTEN_FLOOR = 1000;
 const LABEL_LIMITS_PER_MEGAPIXEL = [Infinity, Infinity, 92, 42];
 const LABEL_LIMIT_FLOORS = [9, 22, 26, 13];
 const LABEL_GAPS = [4, 5, 6, 7];
-const GRAPH_VERSION = 'e2c74de47a';
+const GRAPH_VERSION = '738581052c';
 
 const hash = (text) => {
   let value = 2166136261;
@@ -39,7 +39,13 @@ function roundedRect(ctx, x, y, width, height, radius) {
   ctx.roundRect(x, y, width, height, Math.min(radius, width / 2, height / 2));
 }
 
-export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopularOnly = true, onPopularChange }) {
+export function createNetworkMap({
+  canvas,
+  onChoose,
+  onGestureChoose,
+  popularOnly: initialPopularOnly = true,
+  onPopularChange,
+}) {
   let graph;
   let nodes;
   let positions;
@@ -585,6 +591,38 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
     return null;
   }
 
+  function nodeScreenRect(id) {
+    const point = positions.get(id);
+    if (!point) return null;
+    const surfaceRect = surface.getBoundingClientRect();
+    const x = viewportWidth / 2 + offsetX + point.x * scale;
+    const y = viewportHeight / 2 + offsetY + point.y * scale;
+    const metrics = renderedMetrics.get(id) || { widthScreen: 16, heightScreen: 16 };
+    return {
+      left: surfaceRect.left + x - metrics.widthScreen / 2,
+      top: surfaceRect.top + y - metrics.heightScreen / 2,
+      width: metrics.widthScreen,
+      height: metrics.heightScreen,
+    };
+  }
+
+  function gestureTarget(screenX, screenY) {
+    const direct = hit(screenX, screenY);
+    if (direct) return direct;
+    let nearest = null;
+    let nearestDistance = 86;
+    for (const point of stageViews[activeStage].points) {
+      const x = viewportWidth / 2 + offsetX + point.x * scale;
+      const y = viewportHeight / 2 + offsetY + point.y * scale;
+      const distance = Math.hypot(screenX - x, screenY - y);
+      if (distance < nearestDistance) {
+        nearestDistance = distance;
+        nearest = point.node;
+      }
+    }
+    return nearest;
+  }
+
   function beginPointer(event) {
     const point = screenPoint(event);
     pointers.set(event.pointerId, point);
@@ -595,6 +633,8 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
         distance: Math.hypot(a.x - b.x, a.y - b.y),
         midX: (a.x + b.x) / 2,
         midY: (a.y + b.y) / 2,
+        startDistance: Math.hypot(a.x - b.x, a.y - b.y),
+        allowReturn: true,
       };
       if (drag) drag.moved = true;
     }
@@ -614,6 +654,8 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
         distance: Math.hypot(a.x - b.x, a.y - b.y),
         midX: (a.x + b.x) / 2,
         midY: (a.y + b.y) / 2,
+        startDistance: Math.hypot(a.x - b.x, a.y - b.y),
+        allowReturn: false,
       };
     }
   }
@@ -627,10 +669,23 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
       const distance = Math.hypot(a.x - b.x, a.y - b.y);
       const midX = (a.x + b.x) / 2;
       const midY = (a.y + b.y) / 2;
+      const startDistance = pinch?.startDistance ?? distance;
+      const allowReturn = pinch?.allowReturn ?? false;
+      if (allowReturn && distance / startDistance >= 1.55) {
+        const target = gestureTarget(midX, midY);
+        if (target) {
+          const originRect = nodeScreenRect(target.id);
+          pointers.clear();
+          drag = null;
+          pinch = null;
+          onGestureChoose?.(target.id, { originRect, screenX: midX, screenY: midY });
+          return;
+        }
+      }
       if (pinch?.distance) zoomAt(scale * distance / pinch.distance, pinch.midX, pinch.midY);
       offsetX += midX - (pinch?.midX ?? midX);
       offsetY += midY - (pinch?.midY ?? midY);
-      pinch = { distance, midX, midY };
+      pinch = { distance, midX, midY, startDistance, allowReturn };
       if (drag) drag.moved = true;
       chooseStage(midX, midY);
       return;
@@ -658,7 +713,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
       drag = null;
     }
     pinch = null;
-    if (chosen) onChoose(chosen.id);
+    if (chosen) onChoose(chosen.id, { originRect: nodeScreenRect(chosen.id) });
   }
 
   surface.addEventListener('pointerdown', (event) => {
@@ -741,6 +796,9 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
       if (focusId) preloadStages();
     },
     setPopularOnly,
+    getFocusRect() {
+      return focusId ? nodeScreenRect(focusId) : null;
+    },
     adoptPointers,
     moveAdoptedPointer: movePointer,
     endAdoptedPointer: endPointer,

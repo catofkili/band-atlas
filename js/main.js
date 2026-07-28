@@ -1,7 +1,7 @@
-import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=e2c74de47a';
-import { layoutNeighbors } from './layout.js?v=e2c74de47a';
-import { createNetworkMap } from './map.js?v=e2c74de47a';
-import { chooseRandomBand } from './random.js?v=e2c74de47a';
+import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=738581052c';
+import { layoutNeighbors } from './layout.js?v=738581052c';
+import { createNetworkMap } from './map.js?v=738581052c';
+import { chooseRandomBand } from './random.js?v=738581052c';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -9,7 +9,7 @@ import {
   buildEdgeLayer,
   buildEdgeLine,
   CANVAS_HALF,
-} from './render.js?v=e2c74de47a';
+} from './render.js?v=738581052c';
 
 const stage = document.getElementById('stage');
 const statusEl = document.getElementById('status');
@@ -46,77 +46,168 @@ const mapOpenButton = document.getElementById('map-open');
 const popularToggle = document.getElementById('popular-toggle');
 let mapReturnFocus = null;
 let mapTransitionToken = 0;
+const MAP_MORPH_MS = 720;
 const networkMap = createNetworkMap({
   canvas: mapCanvas,
   popularOnly,
   onPopularChange: (enabled) => setPopularOnly(enabled, { fromMap: true }),
-  onChoose: (id) => {
-    hideNetworkMap();
-    jumpTo(id);
-  },
+  onChoose: (id, detail) => landOnBandFromMap(id, detail),
+  onGestureChoose: (id, detail) => landOnBandFromMap(id, detail),
 });
 
-function hideNetworkMap({ restoreFocus = true } = {}) {
+function setMorphRect(element, rect) {
+  element.style.left = `${rect.left}px`;
+  element.style.top = `${rect.top}px`;
+  element.style.width = `${rect.width}px`;
+  element.style.height = `${rect.height}px`;
+}
+
+function focusCardTargetRect() {
+  const card = stage.querySelector('.node--focus .card--focus');
+  if (!card) return null;
+  const stageRect = stage.getBoundingClientRect();
+  return {
+    left: stageRect.left + (stageRect.width - card.offsetWidth) / 2,
+    top: stageRect.top + (stageRect.height - card.offsetHeight) / 2,
+    width: card.offsetWidth,
+    height: card.offsetHeight,
+  };
+}
+
+function runMapMorph({ fromRect, toRect, sourceCard, label, expanding = false }) {
+  if (reduceMotion.matches || !fromRect || !toRect) return Promise.resolve();
+  const shell = document.createElement('div');
+  shell.className = `map-morph ${expanding ? 'map-morph--expanding' : 'map-morph--contracting'}`;
+  shell.setAttribute('aria-hidden', 'true');
+  setMorphRect(shell, fromRect);
+
+  if (sourceCard) {
+    const clone = sourceCard.cloneNode(true);
+    clone.classList.add('map-morph__card');
+    clone.inert = true;
+    clone.style.width = `${fromRect.width}px`;
+    clone.style.height = `${fromRect.height}px`;
+    shell.append(clone);
+    nextFrame(() => {
+      clone.style.transform =
+        `scale(${toRect.width / fromRect.width}, ${toRect.height / fromRect.height})`;
+      clone.style.opacity = '0';
+    });
+  } else {
+    const node = document.createElement('span');
+    node.className = 'map-morph__node';
+    node.textContent = label ?? '';
+    shell.append(node);
+    nextFrame(() => {
+      node.style.transform =
+        `scale(${toRect.width / fromRect.width}, ${toRect.height / fromRect.height})`;
+      node.style.opacity = '0';
+    });
+  }
+
+  document.body.append(shell);
+  // 先让浏览器记录起始矩形，再把同一个容器压到目标矩形，形成真正的共享元素变换。
+  shell.getBoundingClientRect();
+  nextFrame(() => {
+    setMorphRect(shell, toRect);
+    shell.style.borderRadius = expanding ? '22px' : '12px';
+    shell.style.opacity = expanding ? '0.18' : '0.72';
+  });
+  return new Promise((resolve) => {
+    setTimeout(() => {
+      shell.remove();
+      resolve();
+    }, MAP_MORPH_MS + 60);
+  });
+}
+
+function hideNetworkMap({
+  restoreFocus = true,
+  originRect = networkMap.getFocusRect(),
+  label = current?.name,
+} = {}) {
   if (mapEl.hidden) return;
   const token = ++mapTransitionToken;
+  const destinationRect = focusCardTargetRect();
   stageTouches.clear();
   mapGestureActive = false;
   networkMap.cancelPointers();
-  mapEl.classList.remove('is-entering', 'is-loading');
-  mapEl.classList.add('is-leaving');
+  mapEl.classList.remove('is-entering');
+  mapEl.classList.add('is-leaving', 'is-morphing');
   mapEl.setAttribute('aria-busy', 'false');
   document.body.classList.remove('map-active');
+  runMapMorph({
+    fromRect: originRect,
+    toRect: destinationRect,
+    label,
+    expanding: true,
+  });
   const finish = () => {
     if (token !== mapTransitionToken) return;
     mapEl.hidden = true;
-    mapEl.classList.remove('is-leaving');
+    mapEl.classList.remove('is-leaving', 'is-morphing');
     if (restoreFocus) mapReturnFocus?.focus();
   };
   if (reduceMotion.matches) finish();
-  else setTimeout(finish, 520);
+  else setTimeout(finish, MAP_MORPH_MS);
 }
 
 async function showNetworkMap({ trigger = mapOpenButton, preservePointers = false } = {}) {
   if (!current) return;
   const token = ++mapTransitionToken;
+  const sourceCard = stage.querySelector('.node--focus .card--focus');
+  const sourceRect = sourceCard?.getBoundingClientRect();
   mapReturnFocus = trigger;
   document.body.classList.add('map-transition-enabled');
   document.body.classList.remove('map-active');
   mapEl.classList.remove('is-leaving');
-  mapEl.classList.add('is-entering', 'is-loading');
+  mapEl.classList.add('is-entering', 'is-morphing');
   mapEl.setAttribute('aria-busy', 'true');
   mapEl.hidden = false;
   mapError.hidden = true;
   mapStats.textContent = '';
-  const loaderFloor = reduceMotion.matches
-    ? Promise.resolve()
-    : new Promise((resolve) => setTimeout(resolve, 620));
   if (!preservePointers) networkMap.cancelPointers();
-  if (reduceMotion.matches) {
-    mapEl.classList.remove('is-entering');
-    document.body.classList.add('map-active');
-  } else {
+  try {
+    await networkMap.setPopularOnly(popularOnly);
+    await networkMap.open(current.id);
+    if (token !== mapTransitionToken) return;
+    const targetRect = networkMap.getFocusRect();
+    runMapMorph({ fromRect: sourceRect, toRect: targetRect, sourceCard });
     nextFrame(() => {
       if (token !== mapTransitionToken) return;
       mapEl.classList.remove('is-entering');
       document.body.classList.add('map-active');
     });
-  }
-  try {
-    await networkMap.setPopularOnly(popularOnly);
-    await networkMap.open(current.id);
-    await loaderFloor;
-    if (token !== mapTransitionToken) return;
-    mapEl.classList.remove('is-loading');
+    setTimeout(() => {
+      if (token === mapTransitionToken) mapEl.classList.remove('is-morphing');
+    }, MAP_MORPH_MS);
     mapEl.setAttribute('aria-busy', 'false');
     if (!preservePointers) mapCanvas.focus();
   } catch (error) {
     if (token !== mapTransitionToken) return;
     console.error(error);
-    mapEl.classList.remove('is-loading');
+    mapEl.classList.remove('is-entering', 'is-morphing');
+    document.body.classList.add('map-active');
     mapEl.setAttribute('aria-busy', 'false');
     mapStats.textContent = '地图不可用';
     mapError.hidden = false;
+  }
+}
+
+async function landOnBandFromMap(id, { originRect } = {}) {
+  if (busy) return;
+  busy = true;
+  try {
+    const band = await loadBand(id);
+    setRoute(band.id);
+    render(band, { animate: false });
+    hideNetworkMap({ restoreFocus: false, originRect, label: band.name });
+    if (!reduceMotion.matches) await wait(MAP_MORPH_MS);
+  } catch (error) {
+    console.error(error);
+    mapStats.textContent = '载入卡片失败';
+  } finally {
+    busy = false;
   }
 }
 
@@ -510,10 +601,7 @@ function openMapFromGesture() {
   if (mapEl.hidden) {
     drag = null;
     mapGestureActive = true;
-    mapEl.hidden = false;
     mapReturnFocus = null;
-    mapError.hidden = true;
-    mapStats.textContent = '载入地图…';
     networkMap.adoptPointers(
       [...stageTouches.entries()].map(([id, point]) => ({ id, ...point }))
     );
