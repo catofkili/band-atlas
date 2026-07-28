@@ -8,8 +8,21 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Storm of Void是来自东京的音乐团体。理解这个项目的另一条线索是成员关系：Dairoku Seki的履历把它与envy连接起来。",
+  "intro": "Storm of Void是东京的双人重型摇滚乐队，由曾参与bluebeard、NAHT与TURTLE ISLAND的八弦吉他手George Bodman，以及envy鼓手Dairoku Seki组成。2017年首张专辑《War Inside You》以低沉厚重的吉他、复杂鼓点和渐进式展开为骨架，并邀请Napalm Death主唱Mark “Barney” Greenway与Jawbox／Burning Airlines的J. Robbins献声；这张唱片最能说明他们如何用两个人制造接近整支后金属乐队的规模感。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "BARKS对双人阵容、首张专辑与声音构成的专访",
+      "url": "https://barks.jp/news/800689/"
+    },
+    {
+      "label": "Storm of Void官方Bandcamp",
+      "url": "https://stormofvoid.bandcamp.com/"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/e33c71f3-7de9-4daf-9615-2f117e7dff16"
+  },
   "musicLinks": {
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=000XQZSJ1Yx7RH",
     "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F52446393"
@@ -17,17 +30,14 @@
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/e33c71f3-7de9-4daf-9615-2f117e7dff16"
-  },
   "edges": [
     {
       "to": "envy",

@@ -1,7 +1,7 @@
-import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=c426179865';
-import { layoutNeighbors } from './layout.js?v=c426179865';
-import { createNetworkMap } from './map.js?v=c426179865';
-import { chooseRandomBand } from './random.js?v=c426179865';
+import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=78aa1c5e47';
+import { layoutNeighbors } from './layout.js?v=78aa1c5e47';
+import { createNetworkMap } from './map.js?v=78aa1c5e47';
+import { chooseRandomBand } from './random.js?v=78aa1c5e47';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -9,7 +9,7 @@ import {
   buildEdgeLayer,
   buildEdgeLine,
   CANVAS_HALF,
-} from './render.js?v=c426179865';
+} from './render.js?v=78aa1c5e47';
 
 const stage = document.getElementById('stage');
 const statusEl = document.getElementById('status');

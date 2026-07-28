@@ -18,25 +18,35 @@
       "title": "I love you & I need you ふくしま"
     }
   ],
-  "intro": "猪苗代湖ズ是来自日本、2010年至今活跃的音乐团体，现有资料将其归入日本流行音樂。想从歌曲进入，可以先听《I love you & I need you ふくしま》。理解这个项目的另一条线索是成员关系：松田晋二的履历把它与THE BACK HORN连接起来。从THE BACK HORN沿关系网点进来时，《I love you & I need you ふくしま》可以作为试听入口。",
+  "intro": "猪苗代湖ズ由四位福岛县出身者在2010年组成：THE BACK HORN鼓手松田晋二、创意人兼吉他手箭内道彦、サンボマスター主唱山口隆，以及TOKYO No.1 SOUL SET的渡边俊美。东日本大地震后，他们录制《I love you & I need you ふくしま》为家乡募款，并在2011年NHK红白歌合战现场演出。此后乐队持续在福岛活动，惯例是在秋分前后于猪苗代湖畔举行专场并发表新歌。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Fuji Rock官方艺人页的成员、成团与福岛活动记录",
+      "url": "https://21.fujirockfestival.com/artist/detail/5707"
+    },
+    {
+      "label": "Tower Records对赈灾单曲发行目的的新闻稿",
+      "url": "https://tower.jp/~/media/Files/x/Company/PressRelease/pdf/110415inawashirokos_cd.pdf"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/92fe6bdc-465c-49ce-99f0-9070bd61ecbf"
+  },
   "musicLinks": {
     "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F19802"
   },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 13,
-    "templateIntro": true,
+    "score": 55,
+    "templateIntro": false,
     "hasGenres": true,
     "hasTracks": true,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/92fe6bdc-465c-49ce-99f0-9070bd61ecbf"
-  },
   "edges": [
     {
       "to": "the-back-horn",

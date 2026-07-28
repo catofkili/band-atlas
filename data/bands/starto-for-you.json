@@ -8,25 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "STARTO for you是来自日本的音乐团体。理解这个项目的另一条线索是成员关系：录音资料记录了它与NEWS的合作联系。",
+  "intro": "STARTO for you是STARTO ENTERTAINMENT为2024年大型演出“WE ARE! Let's get the party STARTO!!”组织的限定慈善项目。NEWS、SUPER EIGHT、Hey! Say! JUMP、King & Prince、SixTONES、Snow Man等14组共75名艺人共同演唱单曲《WE ARE》；歌曲于4月10日数字发行，CD在7月24日推出。它不是固定阵容的新偶像团体，而是以一次联合录音连接公司旗下艺人的集体署名。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "STARTO ENTERTAINMENT官方《WE ARE》发行资料",
+      "url": "https://starto.jp/s/p/discography/20240612_1?artist=15"
+    },
+    {
+      "label": "Universal Music对14组75人慈善项目的完整说明",
+      "url": "https://store.universal-music.co.jp/products/upcj90002"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/4c6c0c28-959f-4975-bf71-57a33dfc57da"
+  },
   "musicLinks": {
     "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F61235082"
   },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/4c6c0c28-959f-4975-bf71-57a33dfc57da"
-  },
   "edges": [
     {
       "to": "news",

@@ -8,23 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "北京摇滚群星是来自中国的音乐团体。理解这个项目的另一条线索是成员关系：秦勇的履历把它与黑豹连接起来。",
+  "intro": "北京摇滚群星不是长期活动的固定乐队，而是吴彤、秦勇、臧天朔与郑钧为1995年邓丽君纪念合辑《告别的摇滚》使用的一次性联合署名。四人在合辑中共同演唱《夜色》，把原曲改写进当时北京摇滚音乐人的集体语境；理解这个条目时，应把它看成一首合作录音的表演者名称，而不是拥有独立唱片生涯的常设团体。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz的四位联合表演者与录音资料",
+      "url": "https://musicbrainz.org/artist/03c32674-968a-4a96-929d-f7e57e75e59b?all=1&va=1"
+    },
+    {
+      "label": "《告别的摇滚》合辑背景与曲目资料",
+      "url": "https://zh.wikipedia.org/wiki/%E5%91%8A%E5%88%AB%E7%9A%84%E6%91%87%E6%BB%9A"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/03c32674-968a-4a96-929d-f7e57e75e59b"
+  },
   "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/03c32674-968a-4a96-929d-f7e57e75e59b"
-  },
   "edges": [
     {
       "to": "黑豹",

@@ -8,8 +8,21 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Bad Seeds是来自澳大利亚的音乐团体。理解这个项目的另一条线索是成员关系：MusicBrainz将它记录为Nick Cave & the Bad Seeds的副项目。",
+  "intro": "这里单列的The Bad Seeds并不是另一支拥有独立唱片目录的澳大利亚同名乐队，而是音乐资料库对Nick Cave伴奏团成员关系使用的简写条目。Nick Cave在The Birthday Party解散后于1983年组织新班底，并在1984年正式采用Nick Cave & the Bad Seeds之名、发行首张《From Her to Eternity》；因此这个节点应与完整乐队条目合并理解，而不应把两者的成员与作品重复计算。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz对The Bad Seeds与Nick Cave完整团名的关系记录",
+      "url": "https://musicbrainz.org/artist/eb2a8edc-5670-4896-82be-87db38de9583"
+    },
+    {
+      "label": "西澳大利亚博物馆的Nick Cave与The Bad Seeds历史",
+      "url": "https://museum.wa.gov.au/whats-on/nick-cave/history"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/eb2a8edc-5670-4896-82be-87db38de9583"
+  },
   "musicLinks": {
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=001tcerh21zPoA",
     "netease": "https://music.163.com/m/applink/?scheme=orpheus%3A%2F%2Fartist%2F79640"
@@ -17,17 +30,14 @@
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/eb2a8edc-5670-4896-82be-87db38de9583"
-  },
   "edges": [
     {
       "to": "nick-cave-the-bad-seeds",

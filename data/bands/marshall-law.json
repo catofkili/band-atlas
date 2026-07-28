@@ -8,25 +8,35 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Marshall Law是音乐团体。理解这个项目的另一条线索是成员关系：Arik Marshall的履历把它与Red Hot Chili Peppers连接起来。",
+  "intro": "这里的Marshall Law是Arik Marshall与贝斯手兄长Lonnie Marshall于1988年在洛杉矶组成的放克摇滚乐队，并非同名的英国重金属团体。乐队曾与Island Records签下发展合约，但其混合放克、摇滚、雷鬼与其他黑人音乐传统的声音未能通过厂牌筛选，早期只在《Ska Parade》合辑留下两首歌便解散；两兄弟后来于2006年重组并发行《Another X-cuse》。Arik随后短暂加入Red Hot Chili Peppers，Lonnie则由此发展出Weapon of Choice。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Lonnie Marshall访谈中的成团、厂牌合约与解散经过",
+      "url": "https://www.furious.com/perfect/weaponofchoice.html"
+    },
+    {
+      "label": "MusicBrainz对Arik、Lonnie与James Gray阵容的记录",
+      "url": "https://musicbrainz.org/artist/a7931ef7-7c40-4f45-ae4e-af99bc60690e"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/a7931ef7-7c40-4f45-ae4e-af99bc60690e"
+  },
   "musicLinks": {
     "qq": "https://i.y.qq.com/n2/m/share/details/singer.html?ADTAG=newyqq.singer&singermid=002uyBVj3NHaCr"
   },
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/a7931ef7-7c40-4f45-ae4e-af99bc60690e"
-  },
   "edges": [
     {
       "to": "red-hot-chili-peppers",

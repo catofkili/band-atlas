@@ -1,7 +1,7 @@
 {
   "scene": "日本另类摇滚及其源流",
   "note": "M0 原型数据：人工整理，未经 MusicBrainz 校验。M1 阶段由数据管线替换。",
-  "generatedAt": "2026-07-27",
+  "generatedAt": "2026-07-28",
   "bands": [
     {
       "id": "number-girl",
@@ -18756,8 +18756,8 @@
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 1,
-        "templateIntro": true,
+        "score": 43,
+        "templateIntro": false,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
@@ -19368,8 +19368,8 @@
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 9,
-        "templateIntro": true,
+        "score": 51,
+        "templateIntro": false,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
@@ -19550,8 +19550,8 @@
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 1,
-        "templateIntro": true,
+        "score": 43,
+        "templateIntro": false,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
@@ -20339,8 +20339,8 @@
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 13,
-        "templateIntro": true,
+        "score": 55,
+        "templateIntro": false,
         "hasGenres": true,
         "hasTracks": true,
         "hasLore": false,
@@ -24020,8 +24020,8 @@
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 1,
-        "templateIntro": true,
+        "score": 43,
+        "templateIntro": false,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
@@ -24259,8 +24259,8 @@
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 1,
-        "templateIntro": true,
+        "score": 43,
+        "templateIntro": false,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
@@ -24556,8 +24556,8 @@
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 1,
-        "templateIntro": true,
+        "score": 43,
+        "templateIntro": false,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
@@ -28832,8 +28832,8 @@
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 1,
-        "templateIntro": true,
+        "score": 43,
+        "templateIntro": false,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
@@ -28999,8 +28999,8 @@
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 1,
-        "templateIntro": true,
+        "score": 43,
+        "templateIntro": false,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,
@@ -29308,8 +29308,8 @@
       "listens": 0,
       "listeners": 0,
       "quality": {
-        "score": 1,
-        "templateIntro": true,
+        "score": 43,
+        "templateIntro": false,
         "hasGenres": false,
         "hasTracks": false,
         "hasLore": false,

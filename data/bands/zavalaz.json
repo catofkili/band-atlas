@@ -8,23 +8,33 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "Zavalaz是音乐团体。理解这个项目的另一条线索是成员关系：录音资料记录了它与Dot Hacker的合作联系。",
+  "intro": "Zavalaz是Cedric Bixler-Zavala在The Mars Volta暂停活动前后发展出的洛杉矶摇滚乐队，2013年正式公布的阵容包括吉他手Dan Elkan、贝斯手Juan Alderete与鼓手Gregory Rogove。音乐源自Cedric较柔和的个人创作，以70年代南加州电台流行、民谣摇滚和多声部和声为参照，刻意避开The Mars Volta的高密度前卫摇滚。乐队完成短期巡演，但计划中的《All Those Nights We Never Met》未正式发行，项目在2014年后搁置。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "Cedric Bixler-Zavala对Zavalaz成团与声音方向的专访",
+      "url": "https://www.independent.com/2013/06/13/getting-know-zavalaz/"
+    },
+    {
+      "label": "Zavalaz阵容、巡演与未发行专辑资料",
+      "url": "https://en.wikipedia.org/wiki/Zavalaz"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/f407a25b-7341-4411-bd73-ab73e4c2536d"
+  },
   "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "unknown",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/f407a25b-7341-4411-bd73-ab73e4c2536d"
-  },
   "edges": [
     {
       "to": "dot-hacker",

@@ -13,23 +13,33 @@
       "year": 2015
     }
   ],
-  "intro": "小福氣是来自台湾的音乐团体。现有唱片目录收录了2015年的《一個籮筐的討厭鬼》。理解这个项目的另一条线索是成员关系：張凱婷的履历把它与大象體操连接起来。从大象體操沿关系网点进来时，《一個籮筐的討厭鬼》可以作为试听入口。",
+  "intro": "小福氣是2015年在台湾组成的期间限定乐团，成员来自大象体操、猛虎巧克力、巨大的轰鸣与橙草等独立乐队。成员不固定守着一种乐器，而是在主唱、鼓、合成器和即兴说唱之间交换位置；唯一专辑《一個籮筐的討厭鬼》由1976的大麻制作，以九个角色串起卡通想象、噪音、电子节拍与无厘头叙事。乐团在发片巡演后结束活动，因此这张2015年的专辑也是其完整的核心记录。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "吹音乐对成团方式、专辑制作与发片后告别演出的报道",
+      "url": "https://blow.streetvoice.com/15187/"
+    },
+    {
+      "label": "《报道者》对专辑声音与郑宜农创作变化的记录",
+      "url": "https://www.twreporter.org/a/2015witch-house-indie"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/5f0904c0-b031-4006-8c49-738b74350e01"
+  },
   "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 9,
-    "templateIntro": true,
+    "score": 51,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": true
   },
   "region": "east-asia",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/5f0904c0-b031-4006-8c49-738b74350e01"
-  },
   "edges": [
     {
       "to": "大象體操",

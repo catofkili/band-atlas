@@ -8,23 +8,29 @@
   "years": null,
   "genres": [],
   "albums": [],
-  "intro": "The Old Day是来自英国的音乐团体。理解这个项目的另一条线索是成员关系：Christopher Wolstenholme的履历把它与Muse连接起来。",
+  "intro": "The Old Day是一支公开资料极少的英国乐队，现存音乐档案主要确认Muse贝斯手Christopher Wolstenholme曾是成员，却没有可靠的发行目录、活动年份或完整阵容可供展开。它在图谱中的意义因此不是一条成熟的副项目唱片线，而是一段由成员履历保留下来的早期乐队关系；在出现新的可核实资料前，不把Muse的风格与经历反推给这个团体。",
   "introLang": "zh",
+  "introSources": [
+    {
+      "label": "MusicBrainz的英国团体与Christopher Wolstenholme成员关系",
+      "url": "https://musicbrainz.org/artist/92e33d87-52dc-4fde-adaa-61722fda620f"
+    }
+  ],
+  "links": {
+    "musicbrainz": "https://musicbrainz.org/artist/92e33d87-52dc-4fde-adaa-61722fda620f"
+  },
   "musicLinks": {},
   "listens": 0,
   "listeners": 0,
   "quality": {
-    "score": 1,
-    "templateIntro": true,
+    "score": 43,
+    "templateIntro": false,
     "hasGenres": false,
     "hasTracks": false,
     "hasLore": false,
     "hasAlbums": false
   },
   "region": "western",
-  "links": {
-    "musicbrainz": "https://musicbrainz.org/artist/92e33d87-52dc-4fde-adaa-61722fda620f"
-  },
   "edges": [
     {
       "to": "muse",
