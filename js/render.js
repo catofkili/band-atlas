@@ -1,4 +1,4 @@
-import { REL } from './data.js?v=78aa1c5e47';
+import { REL } from './data.js?v=ae26424110';
 
 const SVG_NS = 'http://www.w3.org/2000/svg';
 /** 连线层用一张固定大小的画布，原点摆在正中，省掉 viewBox 的负坐标换算。 */
@@ -27,17 +27,21 @@ export function buildFocusCard(band) {
   card.dataset.id = band.id;
 
   const head = el('header', 'card__head');
-  head.append(el('h1', 'card__name', band.name));
-  head.append(el('p', 'card__meta', metaLine(band)));
   if (band.genres?.length) {
     const tags = el('ul', 'taglist');
     for (const g of band.genres) tags.append(el('li', 'tag', g));
     head.append(tags);
   }
-  card.append(head);
 
+  const headRow = el('div', 'card__head-row');
+  const identity = el('div', 'card__identity');
+  identity.append(el('h1', 'card__name', band.name));
+  identity.append(el('p', 'card__meta', metaLine(band)));
+  headRow.append(identity);
   const listen = buildListenPanel(band);
-  if (listen) card.append(listen);
+  if (listen) headRow.append(listen);
+  head.append(headRow);
+  card.append(head);
 
   const body = el('div', 'card__body');
 
@@ -137,9 +141,14 @@ export function buildFocusCard(band) {
   }
   foot.append(summary);
 
-  for (const [key, label] of [['official', '官方网站 ↗'], ['musicbrainz', 'MusicBrainz ↗']]) {
+  for (const [key, label, accessibleLabel] of [
+    ['official', '官网 ↗', '官方网站'],
+    ['musicbrainz', 'MB ↗', 'MusicBrainz'],
+  ]) {
     if (!band.links?.[key]) continue;
     const link = el('a', 'card__link', label);
+    link.setAttribute('aria-label', accessibleLabel);
+    link.title = accessibleLabel;
     link.href = band.links[key];
     link.target = '_blank';
     link.rel = 'noopener noreferrer';
