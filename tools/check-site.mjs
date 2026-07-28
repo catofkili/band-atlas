@@ -47,7 +47,7 @@ const bands = await Promise.all(
 
 const musicLinkPatterns = {
   qq: /^https:\/\/i\.y\.qq\.com\/n2\/m\/share\/details\/singer\.html\?ADTAG=newyqq\.singer&singermid=[A-Za-z0-9]+$/,
-  netease: /^https:\/\/music\.163\.com\/m\/applink\/\?scheme=orpheus%3A%2F%2Fartist%2F\d+$/,
+  netease: /^https:\/\/y\.music\.163\.com\/m\/artist\?id=\d+$/,
   apple: /^https:\/\/music\.apple\.com\/[a-z]{2}\/artist\/[^/]+\/\d+$/,
   spotify: /^https:\/\/open\.spotify\.com\/artist\/[A-Za-z0-9]+$/,
 };

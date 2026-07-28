@@ -109,9 +109,9 @@ function urlsFromIds(ids) {
       `ADTAG=newyqq.singer&singermid=${ids.qq}`;
   }
   if (ids.netease) {
-    out.netease =
-      'https://music.163.com/m/applink/?' +
-      `scheme=orpheus%3A%2F%2Fartist%2F${ids.netease}`;
+    // 网易旧的 /m/applink 中转页会降级到 HTTP，部分浏览器直接落到 404。
+    // 官方移动分享地址可尝试唤起 App，并能在未安装客户端时回落到歌手网页。
+    out.netease = `https://y.music.163.com/m/artist?id=${ids.netease}`;
   }
   if (ids.apple) out.apple = `https://music.apple.com/us/artist/band-atlas/${ids.apple}`;
   if (ids.spotify) out.spotify = `https://open.spotify.com/artist/${ids.spotify}`;
