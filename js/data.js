@@ -7,6 +7,7 @@ const inflight = new Map();
  * 那一个 HTML 双击就能开。没有嵌入数据时照常按需 fetch。
  */
 const EMBEDDED = globalThis.BAND_ATLAS_DATA ?? null;
+const EMBEDDED_INDEX = globalThis.BAND_ATLAS_INDEX ?? null;
 
 export const REL = {
   member: { name: '成员流动', short: '成员' },
@@ -18,6 +19,7 @@ export const REL = {
 
 export async function loadIndex() {
   if (EMBEDDED) return EMBEDDED.index;
+  if (EMBEDDED_INDEX) return EMBEDDED_INDEX;
   const res = await fetch('data/index.json');
   if (!res.ok) throw new Error('索引加载失败');
   return res.json();

@@ -816,6 +816,24 @@ const index = {
 };
 await writeFile(path.join(root, 'data/index.json'), JSON.stringify(index, null, 2) + '\n');
 
+// 搜索必须从首页可交互的第一刻就覆盖全部乐队。把压缩后的轻量索引直接写进
+// index.html；详情卡仍保留按需加载，不会把一千多份完整 JSON 一起塞进首页。
+const indexHtmlPath = path.join(root, 'index.html');
+const indexHtml = await readFile(indexHtmlPath, 'utf8');
+const embeddedIndex = JSON.stringify(index)
+  .replace(/</g, '\\u003c')
+  .replace(/\u2028/g, '\\u2028')
+  .replace(/\u2029/g, '\\u2029');
+const embeddedIndexPattern =
+  /(\/\* BAND_ATLAS_SEARCH_INDEX_START \*\/\s*)[\s\S]*?(\s*\/\* BAND_ATLAS_SEARCH_INDEX_END \*\/)/;
+if (!embeddedIndexPattern.test(indexHtml)) {
+  throw new Error('index.html 缺少搜索索引嵌入标记');
+}
+await writeFile(
+  indexHtmlPath,
+  indexHtml.replace(embeddedIndexPattern, `$1${embeddedIndex}$2`)
+);
+
 /** 关系地图的位置在构建期由 ForceAtlas2 与防碰撞布局一次算好。 */
 const layoutTextUnits = (text) =>
   [...text].reduce((sum, char) => sum + (char.codePointAt(0) > 255 ? 1 : 0.62), 0);

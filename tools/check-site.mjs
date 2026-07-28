@@ -45,6 +45,20 @@ const bands = await Promise.all(
   bandFiles.map(async (file) => JSON.parse(await read(`data/bands/${file}`)))
 );
 
+const embeddedIndexMatch = indexHtml.match(
+  /\/\* BAND_ATLAS_SEARCH_INDEX_START \*\/\s*([\s\S]*?)\s*\/\* BAND_ATLAS_SEARCH_INDEX_END \*\//
+);
+if (!embeddedIndexMatch || embeddedIndexMatch[1].trim() === 'null') {
+  throw new Error('首页没有嵌入全量搜索索引');
+}
+const embeddedIndex = JSON.parse(embeddedIndexMatch[1]);
+if (
+  embeddedIndex.generatedAt !== index.generatedAt ||
+  embeddedIndex.bands.length !== index.bands.length
+) {
+  throw new Error('首页嵌入的搜索索引与 data/index.json 不一致');
+}
+
 const musicLinkPatterns = {
   qq: /^https:\/\/i\.y\.qq\.com\/n2\/m\/share\/details\/singer\.html\?ADTAG=newyqq\.singer&singermid=[A-Za-z0-9]+$/,
   netease: /^https:\/\/y\.music\.163\.com\/m\/artist\?id=\d+$/,
@@ -358,6 +372,8 @@ const exactSearch = (query) => {
   );
 };
 for (const [query, expected] of [
+  ['Beatles', 'The Beatles'],
+  ['披头士', 'The Beatles'],
   ['YOASOBI', 'YOASOBI'],
   ['ヨアソビ', 'YOASOBI'],
   ['よあそび', 'YOASOBI'],

@@ -1,7 +1,7 @@
-import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=c7970409e3';
-import { layoutNeighbors } from './layout.js?v=c7970409e3';
-import { createNetworkMap } from './map.js?v=c7970409e3';
-import { chooseRandomBand } from './random.js?v=c7970409e3';
+import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=361f7b767d';
+import { layoutNeighbors } from './layout.js?v=361f7b767d';
+import { createNetworkMap } from './map.js?v=361f7b767d';
+import { chooseRandomBand } from './random.js?v=361f7b767d';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -9,7 +9,7 @@ import {
   buildEdgeLayer,
   buildEdgeLine,
   CANVAS_HALF,
-} from './render.js?v=c7970409e3';
+} from './render.js?v=361f7b767d';
 
 const stage = document.getElementById('stage');
 const statusEl = document.getElementById('status');
@@ -728,15 +728,30 @@ document.getElementById('shuffle').addEventListener('click', () => {
 /* -------------------------------------------------------------- 搜索 */
 
 const searchEl = document.getElementById('search');
+const searchOpenButton = document.getElementById('search-open');
 const searchInput = document.getElementById('search-input');
 const searchResults = document.getElementById('search-results');
 let hits = [];
 let cursor = 0;
+let searchReady = false;
+let searchFailed = false;
+
+function renderSearchMessage(message) {
+  hits = [];
+  cursor = 0;
+  searchResults.replaceChildren();
+  const li = document.createElement('li');
+  li.className = 'search__empty';
+  li.textContent = message;
+  searchResults.append(li);
+}
 
 function openSearch() {
   searchEl.hidden = false;
   searchInput.value = '';
-  runSearch('');
+  if (searchReady) runSearch('');
+  else if (searchFailed) renderSearchMessage('搜索数据加载失败，请刷新页面重试');
+  else renderSearchMessage('正在加载全部乐队索引…');
   searchInput.focus();
 }
 
@@ -763,6 +778,12 @@ const katakanaToHiragana = (text) =>
  * 输入为空时按关系密度与收听热度给出入口。
  */
 function runSearch(raw) {
+  if (!searchReady) {
+    renderSearchMessage(
+      searchFailed ? '搜索数据加载失败，请刷新页面重试' : '正在加载全部乐队索引…'
+    );
+    return;
+  }
   const q = compactSearch(raw);
   const qKana = katakanaToHiragana(q);
   const pool = (index?.bands ?? []).filter(
@@ -840,7 +861,7 @@ function moveCursor(delta) {
   options[cursor]?.scrollIntoView({ block: 'nearest' });
 }
 
-document.getElementById('search-open').addEventListener('click', openSearch);
+searchOpenButton.addEventListener('click', openSearch);
 searchInput.addEventListener('input', () => runSearch(searchInput.value));
 
 searchEl.addEventListener('click', (ev) => {
@@ -903,6 +924,8 @@ new ResizeObserver(() => {
   try {
     index = await loadIndex();
     indexById = new Map(index.bands.map((band) => [band.id, band]));
+    searchReady = true;
+    if (!searchEl.hidden) runSearch(searchInput.value);
     sceneEl.textContent = index.scene;
     const legend = document.getElementById('legend');
     for (const [type, meta] of Object.entries(REL)) {
@@ -917,6 +940,10 @@ new ResizeObserver(() => {
     render(band);
   } catch (err) {
     console.error(err);
+    if (!searchReady) {
+      searchFailed = true;
+      if (!searchEl.hidden) renderSearchMessage('搜索数据加载失败，请刷新页面重试');
+    }
     statusEl.textContent = '数据加载失败：请先运行 node tools/build-data.mjs';
   }
 })();

@@ -1389,6 +1389,7 @@ const inflight = new Map();
  * 那一个 HTML 双击就能开。没有嵌入数据时照常按需 fetch。
  */
 const EMBEDDED = globalThis.BAND_ATLAS_DATA ?? null;
+const EMBEDDED_INDEX = globalThis.BAND_ATLAS_INDEX ?? null;
 
 const REL = {
   member: { name: '成员流动', short: '成员' },
@@ -1400,6 +1401,7 @@ const REL = {
 
 async function loadIndex() {
   if (EMBEDDED) return EMBEDDED.index;
+  if (EMBEDDED_INDEX) return EMBEDDED_INDEX;
   const res = await fetch('data/index.json');
   if (!res.ok) throw new Error('索引加载失败');
   return res.json();
@@ -1773,7 +1775,7 @@ const HIT_PAD_TOUCH = 22;
 const RUBBER_DAMP = 0.35;
 const RUBBER_MAX = 150;
 const FIT_PADDING = 120;
-const GRAPH_VERSION = 'c7970409e3';
+const GRAPH_VERSION = '361f7b767d';
 
 const hash = (text) => {
   let value = 2166136261;
@@ -3960,15 +3962,30 @@ document.getElementById('shuffle').addEventListener('click', () => {
 /* -------------------------------------------------------------- 搜索 */
 
 const searchEl = document.getElementById('search');
+const searchOpenButton = document.getElementById('search-open');
 const searchInput = document.getElementById('search-input');
 const searchResults = document.getElementById('search-results');
 let hits = [];
 let cursor = 0;
+let searchReady = false;
+let searchFailed = false;
+
+function renderSearchMessage(message) {
+  hits = [];
+  cursor = 0;
+  searchResults.replaceChildren();
+  const li = document.createElement('li');
+  li.className = 'search__empty';
+  li.textContent = message;
+  searchResults.append(li);
+}
 
 function openSearch() {
   searchEl.hidden = false;
   searchInput.value = '';
-  runSearch('');
+  if (searchReady) runSearch('');
+  else if (searchFailed) renderSearchMessage('搜索数据加载失败，请刷新页面重试');
+  else renderSearchMessage('正在加载全部乐队索引…');
   searchInput.focus();
 }
 
@@ -3995,6 +4012,12 @@ const katakanaToHiragana = (text) =>
  * 输入为空时按关系密度与收听热度给出入口。
  */
 function runSearch(raw) {
+  if (!searchReady) {
+    renderSearchMessage(
+      searchFailed ? '搜索数据加载失败，请刷新页面重试' : '正在加载全部乐队索引…'
+    );
+    return;
+  }
   const q = compactSearch(raw);
   const qKana = katakanaToHiragana(q);
   const pool = (index?.bands ?? []).filter(
@@ -4072,7 +4095,7 @@ function moveCursor(delta) {
   options[cursor]?.scrollIntoView({ block: 'nearest' });
 }
 
-document.getElementById('search-open').addEventListener('click', openSearch);
+searchOpenButton.addEventListener('click', openSearch);
 searchInput.addEventListener('input', () => runSearch(searchInput.value));
 
 searchEl.addEventListener('click', (ev) => {
@@ -4135,6 +4158,8 @@ new ResizeObserver(() => {
   try {
     index = await loadIndex();
     indexById = new Map(index.bands.map((band) => [band.id, band]));
+    searchReady = true;
+    if (!searchEl.hidden) runSearch(searchInput.value);
     sceneEl.textContent = index.scene;
     const legend = document.getElementById('legend');
     for (const [type, meta] of Object.entries(REL)) {
@@ -4149,6 +4174,10 @@ new ResizeObserver(() => {
     render(band);
   } catch (err) {
     console.error(err);
+    if (!searchReady) {
+      searchFailed = true;
+      if (!searchEl.hidden) renderSearchMessage('搜索数据加载失败，请刷新页面重试');
+    }
     statusEl.textContent = '数据加载失败：请先运行 node tools/build-data.mjs';
   }
 })();

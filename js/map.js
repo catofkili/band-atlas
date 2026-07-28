@@ -52,7 +52,7 @@ const HIT_PAD_TOUCH = 22;
 const RUBBER_DAMP = 0.35;
 const RUBBER_MAX = 150;
 const FIT_PADDING = 120;
-const GRAPH_VERSION = 'c7970409e3';
+const GRAPH_VERSION = '361f7b767d';
 
 const hash = (text) => {
   let value = 2166136261;

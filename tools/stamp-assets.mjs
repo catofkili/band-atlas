@@ -13,7 +13,7 @@ const jsFiles = (await readdir(path.join(root, 'js')))
   .filter((file) => file.endsWith('.js'))
   .sort()
   .map((file) => `js/${file}`);
-const files = ['style.css', ...jsFiles, 'data/graph.json'];
+const files = ['style.css', ...jsFiles, 'data/index.json', 'data/graph.json'];
 const sources = await Promise.all(files.map((file) => readFile(path.join(root, file), 'utf8')));
 const normalized = sources.map((source) =>
   source
