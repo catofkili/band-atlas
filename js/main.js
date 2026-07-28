@@ -1,7 +1,7 @@
-import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=ae26424110';
-import { layoutNeighbors } from './layout.js?v=ae26424110';
-import { createNetworkMap } from './map.js?v=ae26424110';
-import { chooseRandomBand } from './random.js?v=ae26424110';
+import { loadIndex, loadBand, isLoaded, prefetchNeighbors, REL } from './data.js?v=fc240e768f';
+import { layoutNeighbors } from './layout.js?v=fc240e768f';
+import { createNetworkMap } from './map.js?v=fc240e768f';
+import { chooseRandomBand } from './random.js?v=fc240e768f';
 import {
   buildFocusCard,
   buildPeekCard,
@@ -9,7 +9,7 @@ import {
   buildEdgeLayer,
   buildEdgeLine,
   CANVAS_HALF,
-} from './render.js?v=ae26424110';
+} from './render.js?v=fc240e768f';
 
 const stage = document.getElementById('stage');
 const statusEl = document.getElementById('status');
@@ -45,6 +45,7 @@ const mapError = document.getElementById('map-error');
 const mapOpenButton = document.getElementById('map-open');
 const popularToggle = document.getElementById('popular-toggle');
 let mapReturnFocus = null;
+let mapTransitionToken = 0;
 const networkMap = createNetworkMap({
   canvas: mapCanvas,
   popularOnly,
@@ -56,26 +57,64 @@ const networkMap = createNetworkMap({
 });
 
 function hideNetworkMap({ restoreFocus = true } = {}) {
+  if (mapEl.hidden) return;
+  const token = ++mapTransitionToken;
   stageTouches.clear();
   mapGestureActive = false;
   networkMap.cancelPointers();
-  mapEl.hidden = true;
-  if (restoreFocus) mapReturnFocus?.focus();
+  mapEl.classList.remove('is-entering', 'is-loading');
+  mapEl.classList.add('is-leaving');
+  mapEl.setAttribute('aria-busy', 'false');
+  document.body.classList.remove('map-active');
+  const finish = () => {
+    if (token !== mapTransitionToken) return;
+    mapEl.hidden = true;
+    mapEl.classList.remove('is-leaving');
+    if (restoreFocus) mapReturnFocus?.focus();
+  };
+  if (reduceMotion.matches) finish();
+  else setTimeout(finish, 520);
 }
 
 async function showNetworkMap({ trigger = mapOpenButton, preservePointers = false } = {}) {
   if (!current) return;
+  const token = ++mapTransitionToken;
   mapReturnFocus = trigger;
+  document.body.classList.add('map-transition-enabled');
+  document.body.classList.remove('map-active');
+  mapEl.classList.remove('is-leaving');
+  mapEl.classList.add('is-entering', 'is-loading');
+  mapEl.setAttribute('aria-busy', 'true');
   mapEl.hidden = false;
   mapError.hidden = true;
-  mapStats.textContent = '载入地图…';
+  mapStats.textContent = '';
+  const loaderFloor = reduceMotion.matches
+    ? Promise.resolve()
+    : new Promise((resolve) => setTimeout(resolve, 620));
   if (!preservePointers) networkMap.cancelPointers();
+  if (reduceMotion.matches) {
+    mapEl.classList.remove('is-entering');
+    document.body.classList.add('map-active');
+  } else {
+    nextFrame(() => {
+      if (token !== mapTransitionToken) return;
+      mapEl.classList.remove('is-entering');
+      document.body.classList.add('map-active');
+    });
+  }
   try {
     await networkMap.setPopularOnly(popularOnly);
     await networkMap.open(current.id);
+    await loaderFloor;
+    if (token !== mapTransitionToken) return;
+    mapEl.classList.remove('is-loading');
+    mapEl.setAttribute('aria-busy', 'false');
     if (!preservePointers) mapCanvas.focus();
   } catch (error) {
+    if (token !== mapTransitionToken) return;
     console.error(error);
+    mapEl.classList.remove('is-loading');
+    mapEl.setAttribute('aria-busy', 'false');
     mapStats.textContent = '地图不可用';
     mapError.hidden = false;
   }

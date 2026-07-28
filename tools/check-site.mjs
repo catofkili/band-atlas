@@ -232,8 +232,12 @@ if (!standalone.includes('function chooseRandomBand') || !standalone.includes('R
 if (!standalone.includes('简介资料：') || !standalone.includes('introSources')) {
   throw new Error('单文件版缺少人工简介的来源链接');
 }
-if (!standalone.includes('map-popular-toggle') || !standalone.includes('POPULAR_LISTEN_FLOOR')) {
-  throw new Error('单文件版缺少地图热度筛选');
+if (
+  !standalone.includes('map-popular-toggle') ||
+  !standalone.includes('MAP_POPULAR_LISTEN_FLOOR') ||
+  !standalone.includes('prepareViewportStages')
+) {
+  throw new Error('单文件版缺少地图热度筛选或动态阶段视图');
 }
 if (
   !/id="popular-toggle"[\s\S]{0,180}aria-pressed="true"/.test(indexHtml) ||

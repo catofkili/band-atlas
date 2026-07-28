@@ -17,10 +17,10 @@ const STAGES = [
   { scale: 0.42, count: 160 },
   { scale: 0.21, count: Infinity },
 ];
-const OVERSCAN = 2;
-const MAX_SNAPSHOT_PIXELS = 4_000_000;
-const POPULAR_LISTEN_FLOOR = 1000;
-const GRAPH_VERSION = 'ae26424110';
+const MAX_CANVAS_PIXELS = 16_000_000;
+const MAX_PIXEL_RATIO = 2;
+const MAP_POPULAR_LISTEN_FLOOR = 1000;
+const GRAPH_VERSION = 'fc240e768f';
 
 const hash = (text) => {
   let value = 2166136261;
@@ -36,14 +36,6 @@ function roundedRect(ctx, x, y, width, height, radius) {
   ctx.roundRect(x, y, width, height, Math.min(radius, width / 2, height / 2));
 }
 
-function makeBuffer(width, height) {
-  if (typeof OffscreenCanvas !== 'undefined') return new OffscreenCanvas(width, height);
-  const buffer = document.createElement('canvas');
-  buffer.width = width;
-  buffer.height = height;
-  return buffer;
-}
-
 export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopularOnly = true, onPopularChange }) {
   let graph;
   let nodes;
@@ -52,18 +44,13 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
   let adjacency;
   let rankedHops = [];
   let primaryIds = [];
+  let allowedIds = [];
   let stageViews = [];
-  let snapshots = [];
   let activeStage = 0;
   let wantedStage = 0;
-  let snapshotGeneration = 0;
-  let snapshotRatio = 1;
+  let pixelRatio = 1;
   let viewportWidth = 1;
   let viewportHeight = 1;
-  let canvasCssWidth = 1;
-  let canvasCssHeight = 1;
-  let canvasLeft = 0;
-  let canvasTop = 0;
   let focusId;
   let scale = 1;
   let offsetX = 0;
@@ -71,7 +58,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
   let drag = null;
   let pinch = null;
   let popularOnly = initialPopularOnly;
-  let transformFrame = 0;
+  let renderFrame = 0;
   const pointers = new Map();
   const ctx = canvas.getContext('2d', { alpha: false });
   const surface = canvas.parentElement;
@@ -123,7 +110,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
       !popularOnly ||
       nodeId === id ||
       nodes.get(nodeId)?.regionalFeatured ||
-      (nodes.get(nodeId)?.listens ?? 0) >= POPULAR_LISTEN_FLOOR;
+      (nodes.get(nodeId)?.listens ?? 0) >= MAP_POPULAR_LISTEN_FLOOR;
     if (picker) {
       const fragment = document.createDocumentFragment();
       for (const node of [...nodes.values()]
@@ -156,6 +143,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
       const degreeDifference = (nodes.get(b)?.degree || 0) - (nodes.get(a)?.degree || 0);
       return degreeDifference || hash(a) - hash(b);
     });
+    allowedIds = [...nodes.keys()].filter(allowed);
 
     stageViews = STAGES.map((stage, index) => {
       const ids =
@@ -164,6 +152,35 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
           : index === STAGES.length - 1
             ? [...nodes.keys()].filter(allowed)
             : rankedHops.filter(([nodeId]) => allowed(nodeId)).slice(0, stage.count).map(([nodeId]) => nodeId);
+      const visible = new Set(ids);
+      return {
+        visible,
+        points: [...positions.values()]
+          .filter((point) => visible.has(point.node.id))
+          .sort((a, b) => (a.node.id === focusId ? 1 : 0) - (b.node.id === focusId ? 1 : 0)),
+        links: links.filter(({ a, b }) => visible.has(a.node.id) && visible.has(b.node.id)),
+      };
+    });
+  }
+
+  function prepareViewportStages(screenX = viewportWidth / 2, screenY = viewportHeight / 2) {
+    const centerX = (screenX - viewportWidth / 2 - offsetX) / scale;
+    const centerY = (screenY - viewportHeight / 2 - offsetY) / scale;
+    const nearestIds = allowedIds
+      .map((id) => {
+        const point = positions.get(id);
+        const dx = point.x - centerX;
+        const dy = point.y - centerY;
+        return { id, distance: dx * dx + dy * dy };
+      })
+      .sort((a, b) => a.distance - b.distance || hash(a.id) - hash(b.id))
+      .map(({ id }) => id);
+
+    stageViews = STAGES.map((stage, index) => {
+      const ids =
+        index === STAGES.length - 1
+          ? allowedIds
+          : nearestIds.slice(0, stage.count);
       const visible = new Set(ids);
       return {
         visible,
@@ -191,31 +208,43 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
     };
   }
 
-  function boundaryDistance(metrics, ux, uy, renderScale) {
-    const halfWidth = metrics.widthScreen / renderScale / 2;
-    const halfHeight = metrics.heightScreen / renderScale / 2;
+  function boundaryDistance(metrics, ux, uy) {
+    const halfWidth = metrics.widthScreen / 2;
+    const halfHeight = metrics.heightScreen / 2;
     const tx = Math.abs(ux) < 0.0001 ? Infinity : halfWidth / Math.abs(ux);
     const ty = Math.abs(uy) < 0.0001 ? Infinity : halfHeight / Math.abs(uy);
     return Math.min(tx, ty);
   }
 
-  function renderSnapshot(buffer, stageIndex) {
+  function render(stageIndex = activeStage) {
+    renderFrame = 0;
     const stage = STAGES[stageIndex];
     const view = stageViews[stageIndex];
-    const renderScale = stage.scale;
-    const bufferCtx = buffer.getContext('2d', { alpha: false });
-    const width = buffer.width / snapshotRatio;
-    const height = buffer.height / snapshotRatio;
-    const focus = positions.get(focusId);
-    const baseOffsetX = -focus.x * renderScale;
-    const baseOffsetY = -focus.y * renderScale;
-    const display = new Map(view.points.map((point) => [point.node.id, point]));
+    if (!view) return;
+    activeStage = stageIndex;
+    const zoomRatio = scale / stage.scale;
+    const display = new Map(
+      view.points.map((point) => [
+        point.node.id,
+        {
+          ...point,
+          screenX: viewportWidth / 2 + offsetX + point.x * scale,
+          screenY: viewportHeight / 2 + offsetY + point.y * scale,
+        },
+      ])
+    );
+    const displayMetrics = (node) => {
+      const metrics = labelMetrics(node, stage.scale);
+      return {
+        fontScreen: metrics.fontScreen * zoomRatio,
+        widthScreen: metrics.widthScreen * zoomRatio,
+        heightScreen: metrics.heightScreen * zoomRatio,
+      };
+    };
 
-    bufferCtx.setTransform(snapshotRatio, 0, 0, snapshotRatio, 0, 0);
-    bufferCtx.fillStyle = '#0d1014';
-    bufferCtx.fillRect(0, 0, width, height);
-    bufferCtx.translate(width / 2 + baseOffsetX, height / 2 + baseOffsetY);
-    bufferCtx.scale(renderScale, renderScale);
+    ctx.setTransform(pixelRatio, 0, 0, pixelRatio, 0, 0);
+    ctx.fillStyle = '#0d1014';
+    ctx.fillRect(0, 0, viewportWidth, viewportHeight);
     const linkGroups = new Map();
     for (const link of view.links) {
       const weightBucket = Math.round(clamp(link.edge.weight ?? 0.5, 0, 1) * 3);
@@ -227,167 +256,120 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
     for (const [key, group] of linkGroups) {
       const [type, bucketText] = key.split(':');
       const weightBucket = Number(bucketText);
-      bufferCtx.strokeStyle = EDGE_COLORS[type] || '#96a4b4';
-      bufferCtx.globalAlpha = type === 'scene' ? 0.42 : 0.56;
-      bufferCtx.lineWidth = (0.75 + weightBucket * 0.34) / renderScale;
-      bufferCtx.setLineDash(
+      ctx.strokeStyle = EDGE_COLORS[type] || '#96a4b4';
+      ctx.globalAlpha = type === 'scene' ? 0.42 : 0.56;
+      ctx.lineWidth = (0.75 + weightBucket * 0.34) * zoomRatio;
+      ctx.setLineDash(
         type === 'feud'
-          ? [6 / renderScale, 4 / renderScale]
+          ? [6 * zoomRatio, 4 * zoomRatio]
           : type === 'scene'
-            ? [1.5 / renderScale, 4 / renderScale]
+            ? [1.5 * zoomRatio, 4 * zoomRatio]
             : []
       );
-      bufferCtx.beginPath();
+      ctx.beginPath();
       for (const { a, b } of group) {
         const ap = display.get(a.node.id);
         const bp = display.get(b.node.id);
-        const dx = bp.x - ap.x;
-        const dy = bp.y - ap.y;
+        const dx = bp.screenX - ap.screenX;
+        const dy = bp.screenY - ap.screenY;
         const distance = Math.hypot(dx, dy);
         if (!distance) continue;
+        const margin = 40;
+        if (
+          Math.max(ap.screenX, bp.screenX) < -margin ||
+          Math.min(ap.screenX, bp.screenX) > viewportWidth + margin ||
+          Math.max(ap.screenY, bp.screenY) < -margin ||
+          Math.min(ap.screenY, bp.screenY) > viewportHeight + margin
+        ) continue;
         const ux = dx / distance;
         const uy = dy / distance;
-        const from = boundaryDistance(labelMetrics(a.node, renderScale), ux, uy, renderScale);
-        const to = boundaryDistance(labelMetrics(b.node, renderScale), ux, uy, renderScale);
+        const from = boundaryDistance(displayMetrics(a.node), ux, uy);
+        const to = boundaryDistance(displayMetrics(b.node), ux, uy);
         if (distance <= from + to) continue;
-        bufferCtx.moveTo(ap.x + ux * from, ap.y + uy * from);
-        bufferCtx.lineTo(bp.x - ux * to, bp.y - uy * to);
+        ctx.moveTo(ap.screenX + ux * from, ap.screenY + uy * from);
+        ctx.lineTo(bp.screenX - ux * to, bp.screenY - uy * to);
       }
-      bufferCtx.stroke();
+      ctx.stroke();
     }
-    bufferCtx.globalAlpha = 1;
-    bufferCtx.setLineDash([]);
+    ctx.globalAlpha = 1;
+    ctx.setLineDash([]);
 
     for (const point of view.points) {
       const at = display.get(point.node.id);
-      const metrics = labelMetrics(point.node, renderScale);
-      const widthWorld = metrics.widthScreen / renderScale;
-      const heightWorld = metrics.heightScreen / renderScale;
+      const metrics = displayMetrics(point.node);
+      if (
+        at.screenX + metrics.widthScreen / 2 < -4 ||
+        at.screenX - metrics.widthScreen / 2 > viewportWidth + 4 ||
+        at.screenY + metrics.heightScreen / 2 < -4 ||
+        at.screenY - metrics.heightScreen / 2 > viewportHeight + 4
+      ) continue;
       const selected = point.node.id === focusId;
       const color = COLORS[point.node.region] || COLORS.unknown;
       roundedRect(
-        bufferCtx,
-        at.x - widthWorld / 2,
-        at.y - heightWorld / 2,
-        widthWorld,
-        heightWorld,
-        8 / renderScale
+        ctx,
+        at.screenX - metrics.widthScreen / 2,
+        at.screenY - metrics.heightScreen / 2,
+        metrics.widthScreen,
+        metrics.heightScreen,
+        8 * zoomRatio
       );
-      bufferCtx.fillStyle = selected ? color : 'rgba(19,24,31,.94)';
-      bufferCtx.fill();
-      bufferCtx.strokeStyle = selected ? '#f3efe4' : color;
-      bufferCtx.lineWidth = (selected ? 2.2 : 1.15) / renderScale;
-      bufferCtx.stroke();
-      bufferCtx.fillStyle = selected ? '#101419' : '#ece8df';
-      bufferCtx.font =
-        `${selected ? 650 : 520} ${metrics.fontScreen / renderScale}px system-ui, sans-serif`;
-      bufferCtx.textAlign = 'center';
-      bufferCtx.textBaseline = 'middle';
-      bufferCtx.fillText(point.node.name, at.x, at.y, widthWorld - 10 / renderScale);
+      ctx.fillStyle = selected ? color : 'rgba(19,24,31,.94)';
+      ctx.fill();
+      ctx.strokeStyle = selected ? '#f3efe4' : color;
+      ctx.lineWidth = (selected ? 2.2 : 1.15) * zoomRatio;
+      ctx.stroke();
+      ctx.fillStyle = selected ? '#101419' : '#ece8df';
+      ctx.font = `${selected ? 650 : 520} ${metrics.fontScreen}px system-ui, sans-serif`;
+      ctx.textAlign = 'center';
+      ctx.textBaseline = 'middle';
+      ctx.fillText(
+        point.node.name,
+        at.screenX,
+        at.screenY,
+        metrics.widthScreen - 10 * zoomRatio
+      );
     }
+    if (stats) {
+      const shown = view.visible.size;
+      stats.textContent = `阶段 ${stageIndex + 1}/4 · 显示 ${shown} / ${nodes.size}`;
+      if (popularOnly) stats.textContent += ` · 隐藏冷门`;
+    }
+    if (picker) picker.value = focusId;
   }
 
   function sizeCanvas() {
     viewportWidth = Math.max(1, surface.clientWidth);
     viewportHeight = Math.max(1, surface.clientHeight);
-    const focus = positions.get(focusId);
-    let requiredHalfWidth = viewportWidth;
-    let requiredHalfHeight = viewportHeight;
-    stageViews.forEach((view, index) => {
-      const renderScale = STAGES[index].scale;
-      for (const point of view.points) {
-        const metrics = labelMetrics(point.node, renderScale);
-        requiredHalfWidth = Math.max(
-          requiredHalfWidth,
-          Math.abs(point.x - focus.x) * renderScale + metrics.widthScreen / 2 + 24
-        );
-        requiredHalfHeight = Math.max(
-          requiredHalfHeight,
-          Math.abs(point.y - focus.y) * renderScale + metrics.heightScreen / 2 + 80
-        );
-      }
-    });
-    canvasCssWidth = Math.ceil(Math.max(viewportWidth * OVERSCAN, requiredHalfWidth * 2));
-    canvasCssHeight = Math.ceil(Math.max(viewportHeight * OVERSCAN, requiredHalfHeight * 2));
-    canvasLeft = -(canvasCssWidth - viewportWidth) / 2;
-    canvasTop = -(canvasCssHeight - viewportHeight) / 2;
-    snapshotRatio = Math.min(
+    pixelRatio = Math.min(
       window.devicePixelRatio || 1,
-      1.25,
-      Math.sqrt(MAX_SNAPSHOT_PIXELS / (canvasCssWidth * canvasCssHeight))
+      MAX_PIXEL_RATIO,
+      Math.sqrt(MAX_CANVAS_PIXELS / (viewportWidth * viewportHeight))
     );
-    canvas.style.width = `${canvasCssWidth}px`;
-    canvas.style.height = `${canvasCssHeight}px`;
-    canvas.style.left = `${canvasLeft}px`;
-    canvas.style.top = `${canvasTop}px`;
+    canvas.style.width = `${viewportWidth}px`;
+    canvas.style.height = `${viewportHeight}px`;
+    canvas.style.left = '0';
+    canvas.style.top = '0';
     canvas.style.position = 'absolute';
-    canvas.style.transformOrigin = '0 0';
-    canvas.width = Math.round(canvasCssWidth * snapshotRatio);
-    canvas.height = Math.round(canvasCssHeight * snapshotRatio);
+    canvas.style.transform = 'none';
+    canvas.width = Math.round(viewportWidth * pixelRatio);
+    canvas.height = Math.round(viewportHeight * pixelRatio);
   }
 
-  function copySnapshot(stageIndex) {
-    const snapshot = snapshots[stageIndex];
-    if (!snapshot) return false;
-    activeStage = stageIndex;
-    ctx.setTransform(1, 0, 0, 1, 0, 0);
-    ctx.drawImage(snapshot, 0, 0);
-    if (stats) {
-      const shown = stageViews[stageIndex].visible.size;
-      stats.textContent = `阶段 ${stageIndex + 1}/4 · 显示 ${shown} / ${nodes.size}`;
-      if (popularOnly) stats.textContent += ` · 隐藏冷门`;
-    }
-    if (picker) picker.value = focusId;
-    applyTransform();
-    return true;
+  function requestRender() {
+    if (!renderFrame) renderFrame = requestAnimationFrame(() => render(activeStage));
   }
 
-  function applyTransform() {
-    transformFrame = 0;
-    if (!snapshots[activeStage]) return;
-    const stageScale = STAGES[activeStage].scale;
-    const focus = positions.get(focusId);
-    const baseOffsetX = -focus.x * stageScale;
-    const baseOffsetY = -focus.y * stageScale;
-    const ratio = scale / stageScale;
-    const tx = viewportWidth / 2 + offsetX - canvasLeft -
-      ratio * (canvasCssWidth / 2 + baseOffsetX);
-    const ty = viewportHeight / 2 + offsetY - canvasTop -
-      ratio * (canvasCssHeight / 2 + baseOffsetY);
-    canvas.style.transform = `matrix(${ratio},0,0,${ratio},${tx},${ty})`;
-  }
-
-  function requestTransform() {
-    if (!transformFrame) transformFrame = requestAnimationFrame(applyTransform);
-  }
-
-  function chooseStage() {
+  function chooseStage(screenX, screenY) {
     wantedStage = stageForScale(scale);
-    if (wantedStage !== activeStage && snapshots[wantedStage]) copySnapshot(wantedStage);
-    else requestTransform();
+    if (wantedStage < activeStage) prepareViewportStages(screenX, screenY);
+    activeStage = wantedStage;
+    requestRender();
   }
 
   async function preloadStages() {
-    const generation = ++snapshotGeneration;
-    for (const snapshot of snapshots) snapshot?.close?.();
-    snapshots = new Array(STAGES.length);
     sizeCanvas();
-    for (let index = 0; index < STAGES.length; index += 1) {
-      if (generation !== snapshotGeneration) return;
-      const buffer = makeBuffer(canvas.width, canvas.height);
-      renderSnapshot(buffer, index);
-      snapshots[index] =
-        typeof buffer.transferToImageBitmap === 'function'
-          ? buffer.transferToImageBitmap()
-          : buffer;
-      if (index === 0 || index === wantedStage) copySnapshot(index);
-      if (stats && index < STAGES.length - 1) {
-        stats.textContent = `预载地图 ${index + 1}/4`;
-      }
-      await new Promise((resolve) => requestAnimationFrame(resolve));
-    }
-    if (generation !== snapshotGeneration) return;
-    copySnapshot(stageForScale(scale));
+    activeStage = stageForScale(scale);
+    render(activeStage);
   }
 
   function screenPoint(event) {
@@ -465,7 +447,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
       offsetY += midY - (pinch?.midY ?? midY);
       pinch = { distance, midX, midY };
       if (drag) drag.moved = true;
-      chooseStage();
+      chooseStage(midX, midY);
       return;
     }
     if (drag) {
@@ -474,7 +456,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
       drag.x = point.x;
       drag.y = point.y;
       drag.moved = true;
-      requestTransform();
+      requestRender();
     }
   }
 
@@ -507,7 +489,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
       event.preventDefault();
       const point = screenPoint(event);
       zoomAt(scale * (event.deltaY > 0 ? 0.94 : 1.065), point.x, point.y);
-      chooseStage();
+      chooseStage(point.x, point.y);
     },
     { passive: false }
   );
@@ -519,12 +501,12 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
     else if (event.key === 'ArrowDown') offsetY -= move;
     else if (event.key === '+' || event.key === '=') {
       zoomAt(scale * 1.15, viewportWidth / 2, viewportHeight / 2);
-      chooseStage();
+      chooseStage(viewportWidth / 2, viewportHeight / 2);
       event.preventDefault();
       return;
     } else if (event.key === '-' || event.key === '_') {
       zoomAt(scale / 1.15, viewportWidth / 2, viewportHeight / 2);
-      chooseStage();
+      chooseStage(viewportWidth / 2, viewportHeight / 2);
       event.preventDefault();
       return;
     } else if (event.key === 'Escape') {
@@ -533,7 +515,7 @@ export function createNetworkMap({ canvas, onChoose, popularOnly: initialPopular
     } else {
       return;
     }
-    requestTransform();
+    requestRender();
     event.preventDefault();
   });
   picker?.addEventListener('change', () => {

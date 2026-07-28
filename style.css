@@ -66,15 +66,98 @@ button { font: inherit; color: inherit; }
   /* 拖画布换乐队要自己接管触摸，否则浏览器先把手势当成滚动页面 */
   touch-action: none;
 }
-.network-map { position:fixed; inset:0; z-index:30; background:var(--ground); touch-action:none; }
+.network-map {
+  position:fixed;
+  inset:0;
+  z-index:30;
+  background:var(--ground);
+  touch-action:none;
+  transform-origin:center;
+  transition:
+    opacity .42s ease,
+    transform .56s cubic-bezier(.2,.76,.2,1),
+    filter .48s ease;
+}
 .network-map[hidden] { display:none; }
+.network-map.is-entering {
+  opacity:0;
+  transform:scale(1.045);
+  filter:blur(8px);
+  pointer-events:none;
+}
+.network-map.is-leaving {
+  opacity:0;
+  transform:scale(1.035);
+  filter:blur(7px);
+  pointer-events:none;
+}
+body.map-transition-enabled > .stage,
+body.map-transition-enabled > .hud {
+  transform-origin:center;
+  transition:
+    opacity .42s ease,
+    transform .56s cubic-bezier(.2,.76,.2,1),
+    filter .48s ease;
+}
+body.map-active > .stage,
+body.map-active > .hud {
+  opacity:.34;
+  transform:scale(.965);
+  filter:blur(2.5px);
+}
 #network-canvas {
   width:100%;
   height:100%;
   display:block;
   contain:strict;
-  will-change:transform;
-  backface-visibility:hidden;
+}
+.network-map__loader {
+  position:absolute;
+  top:50%;
+  left:50%;
+  width:104px;
+  height:104px;
+  opacity:0;
+  transform:translate(-50%, -50%) scale(.8);
+  transition:opacity .2s ease, transform .3s ease;
+  pointer-events:none;
+}
+.network-map__loader::after {
+  content:"";
+  position:absolute;
+  top:50%;
+  left:50%;
+  width:9px;
+  height:9px;
+  border:2px solid var(--ground);
+  border-radius:50%;
+  background:var(--rel-member);
+  box-shadow:0 0 0 5px color-mix(in srgb, var(--rel-member) 18%, transparent), 0 0 22px var(--rel-member);
+  transform:translate(-50%, -50%);
+  animation:map-loader-core .9s ease-in-out infinite alternate;
+}
+.network-map.is-loading .network-map__loader {
+  opacity:1;
+  transform:translate(-50%, -50%) scale(1);
+}
+.network-map__loader i {
+  position:absolute;
+  inset:0;
+  border:1.5px solid color-mix(in srgb, var(--rel-member) 88%, transparent);
+  border-radius:50%;
+  opacity:0;
+  animation:map-loader-pulse 1.35s cubic-bezier(.18,.62,.3,1) infinite;
+}
+.network-map__loader i:nth-child(2) { animation-delay:.3s; }
+.network-map__loader i:nth-child(3) { animation-delay:.6s; }
+@keyframes map-loader-pulse {
+  0% { opacity:0; transform:scale(.28); }
+  20% { opacity:.78; }
+  100% { opacity:0; transform:scale(1.34); }
+}
+@keyframes map-loader-core {
+  from { opacity:.68; transform:translate(-50%, -50%) scale(.84); }
+  to { opacity:1; transform:translate(-50%, -50%) scale(1.12); }
 }
 .network-map__hud {
   position:absolute;
@@ -150,6 +233,23 @@ button { font: inherit; color: inherit; }
   background:var(--panel);
 }
 #network-canvas:focus-visible { outline:2px solid var(--rel-member); outline-offset:-4px; }
+@media (prefers-reduced-motion: reduce) {
+  .network-map,
+  body.map-transition-enabled > .stage,
+  body.map-transition-enabled > .hud,
+  .network-map__loader {
+    transition:none;
+  }
+  .network-map.is-entering,
+  .network-map.is-leaving,
+  body.map-active > .stage,
+  body.map-active > .hud {
+    transform:none;
+    filter:none;
+  }
+  .network-map__loader i,
+  .network-map__loader::after { animation:none; }
+}
 /* 但焦点卡片正文得留给它自己滚 */
 .card__body { touch-action: pan-y; }
 
